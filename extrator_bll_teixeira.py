@@ -10,7 +10,7 @@ from playwright.async_api import async_playwright
 # ─────────────────────────────────────────────────────────────────
 PROMOTOR         = 'MUNICIPIO DE TEIXEIRA DE FREITAS'
 LIMITE_PROCESSOS = 780    # reduza para testar (ex: 15)
-HEADLESS         = False   # True para rodar sem abrir janela
+HEADLESS         = True   # True para rodar sem abrir janela
 ARQUIVO_JSON     = 'dados.json'
 
 # ─────────────────────────────────────────────────────────────────
