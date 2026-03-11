@@ -1,0 +1,41 @@
+# ─────────────────────────────────────────────────────────────
+#  Extrator BLL Compras — Teixeira de Freitas
+#  Python >= 3.9 recomendado
+# ─────────────────────────────────────────────────────────────
+
+# Automação de browser (web scraping)
+playwright>=1.56.0
+
+# Geração de arquivos Excel (.xlsx)
+openpyxl>=3.1.5
+
+# ─────────────────────────────────────────────────────────────
+#  Dependências transitivas do playwright (instaladas
+#  automaticamente pelo pip, listadas aqui por transparência)
+# ─────────────────────────────────────────────────────────────
+pyee>=13.0.0,<14
+greenlet>=3.1.1,<4.0.0
+typing-extensions>=4.0.0
+
+# ─────────────────────────────────────────────────────────────
+#  Módulos da stdlib usados (não precisam de instalação):
+#    asyncio, csv, json, datetime
+# ─────────────────────────────────────────────────────────────
+
+# ─────────────────────────────────────────────────────────────
+#  INSTALAÇÃO:
+#
+#  1. Criar e ativar o ambiente virtual:
+#     python -m venv venv
+#     venv\Scripts\activate          # Windows
+#     source venv/bin/activate        # Linux/Mac
+#
+#  2. Instalar dependências:
+#     pip install -r requirements.txt
+#
+#  3. Instalar os browsers do Playwright (obrigatório, uma vez):
+#     playwright install chromium
+#
+#  4. Rodar o extrator:
+#     python extrator_bll_teixeira.py
+# ─────────────────────────────────────────────────────────────
