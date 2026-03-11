@@ -10,7 +10,7 @@ from playwright.async_api import async_playwright
 #  CONFIGURAÇÃO
 # ─────────────────────────────────────────────────────────────────
 PROMOTOR         = 'MUNICIPIO DE TEIXEIRA DE FREITAS'
-LIMITE_REGISTROS = 700    # reduza para testar (ex: 15)
+LIMITE_REGISTROS = 9999    # reduza para testar (ex: 15)
 HEADLESS         = True
 ARQUIVO_JSON     = 'dados_compra_direta.json'
 
@@ -516,3 +516,4 @@ async def main():
 
 if __name__ == "__main__":
     asyncio.run(main())
+
