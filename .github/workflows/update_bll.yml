@@ -1,0 +1,53 @@
+name: 🔄 Atualizar Dados BLL
+
+on:
+  # ── 1x por dia às 03:00 BRT (06:00 UTC) ────────────────────────────────
+  schedule:
+    - cron: '0 6 * * *'
+
+  # ── Disparo manual pelo GitHub (aba Actions → Run workflow) ─────────────
+  workflow_dispatch:
+
+jobs:
+  atualizar:
+    name: Extração BLL Compras
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+
+    steps:
+
+      - name: 📥 Checkout
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: 🐍 Configurar Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: 📦 Instalar dependências
+        run: pip install playwright==1.49.0
+
+      - name: 🌐 Instalar Chromium
+        run: playwright install chromium --with-deps
+
+      - name: 🗂️ Rodar extrator de Processos
+        run: python extrator_bll_teixeira.py
+
+      - name: 🛒 Rodar extrator de Compra Direta
+        run: python compra_direta.py
+
+      - name: 💾 Commit dos JSONs atualizados
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add dados.json dados_compra_direta.json
+          if git diff --cached --quiet; then
+            echo "✅ Nenhuma mudança nos dados — commit ignorado."
+          else
+            TIMESTAMP=$(TZ='America/Bahia' date '+%d/%m/%Y %H:%M')
+            git commit -m "🤖 Atualização automática BLL — ${TIMESTAMP}"
+            git push
+          fi
