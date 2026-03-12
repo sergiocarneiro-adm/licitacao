@@ -1592,22 +1592,31 @@ function exportModalPDF() {
             y += 9;
 
             lotes.forEach(l => {
-                if (y > 255) { doc.addPage(); y = 20; }
-
-                // Header do lote
-                doc.setFillColor(241, 245, 249);
-                doc.setDrawColor(203, 213, 225);
-                doc.roundedRect(ML, y, CW, 9, 1, 1, 'FD');
-                doc.setTextColor(...corPrimaria);
+                // Calcular altura do header do lote (título pode quebrar linha)
+                const loteLabel = `Lote ${l.numero}`;
+                const loteTitulo = l.titulo || '';
+                const tituloFull = loteTitulo ? `${loteLabel}  ${loteTitulo}` : loteLabel;
+                // Reservar espaço para o valor ref (aprox 32mm à direita)
+                const tituloW = CW - 38;
                 doc.setFontSize(8);
                 doc.setFont('helvetica', 'bold');
-                doc.text(`Lote ${l.numero}  ${l.titulo || ''}`, ML + 3, y + 6);
-                // Valor ref. à direita
-                doc.setTextColor(5, 150, 105);
-                doc.text(fmtBRL(l.valor_referencia), W - MR, y + 6, { align: 'right' });
-                y += 11;
+                const tituloLines = doc.splitTextToSize(tituloFull, tituloW);
+                const headerH = Math.max(9, tituloLines.length * 5 + 4);
 
-                // Vencedor
+                if (y + headerH > 265) { doc.addPage(); y = 20; }
+
+                // Header do lote com altura dinâmica
+                doc.setFillColor(241, 245, 249);
+                doc.setDrawColor(203, 213, 225);
+                doc.roundedRect(ML, y, CW, headerH, 1, 1, 'FD');
+                doc.setTextColor(...corPrimaria);
+                doc.text(tituloLines, ML + 3, y + 5.5);
+                // Valor ref. à direita (alinhado ao topo)
+                doc.setTextColor(5, 150, 105);
+                doc.text(fmtBRL(l.valor_referencia), W - MR, y + 5.5, { align: 'right' });
+                y += headerH + 2;
+
+                // Vencedor (sem emoji — jsPDF não suporta)
                 if (l.vencedor && l.vencedor.trim()) {
                     doc.setFillColor(236, 253, 245);
                     doc.setDrawColor(167, 243, 208);
@@ -1615,7 +1624,7 @@ function exportModalPDF() {
                     doc.setTextColor(5, 150, 105);
                     doc.setFontSize(7.5);
                     doc.setFont('helvetica', 'bold');
-                    doc.text(`🏆 Vencedor: ${l.vencedor}`, ML + 3, y + 5);
+                    doc.text(`Vencedor: ${l.vencedor}`, ML + 3, y + 5);
                     y += 9;
                 }
 
@@ -1765,11 +1774,6 @@ function exportModalPDF() {
         doc.setTextColor(148, 163, 184);
         doc.text(`BLL Explorer · Município de Teixeira de Freitas · Gerado em ${new Date().toLocaleDateString('pt-BR')}`, ML, rodapeY);
         doc.text(`Pág. ${p} de ${totalPages}`, W - MR, rodapeY, { align: 'right' });
-        // Link BLL
-        if (r.link) {
-            doc.setTextColor(...corTexto);
-            doc.textWithLink('Ver processo no BLL Compras →', W / 2, rodapeY, { url: r.link, align: 'center' });
-        }
     }
 
     doc.save(`${r.id || 'processo'}_${new Date().toISOString().slice(0,10)}.pdf`);
