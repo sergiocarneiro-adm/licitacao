@@ -1168,7 +1168,7 @@ function renderAlertas() {
 
     if (dataset === 'licit') {
         rawData.forEach(p => {
-            // Alerta prazo
+            // Alerta prazo fim de recepção
             if (p.fim_recepcao && (norm(p.situacao).includes('recepcao') || norm(p.situacao).includes('publicad'))) {
                 try {
                     const [d,m,y] = p.fim_recepcao.split(' ')[0].split('/');
@@ -1181,24 +1181,16 @@ function renderAlertas() {
                             label: diff === 0 ? 'HOJE' : `${diff}d`,
                             texto: `<b>${p.id}</b> — Fim recepção: ${p.fim_recepcao}`,
                             sub: p.objeto?.substring(0,80) + (p.objeto?.length > 80 ? '…' : ''),
-                            id: p.id
+                            id: p.id,
+                            diff // para ordenação
                         });
                     }
                 } catch {}
             }
-            // Alerta alto valor
-            const val = (p.lotes||[]).reduce((s,l) => s + parseValor(l.valor_referencia||0), 0);
-            if (val >= 5000000 && (norm(p.situacao).includes('recepcao') || norm(p.situacao).includes('publicad'))) {
-                alertas.push({
-                    tipo: 'info',
-                    icon: 'fa-star',
-                    label: fmtBRL(val),
-                    texto: `<b>${p.id}</b> — Alto valor em aberto`,
-                    sub: p.objeto?.substring(0,80) + (p.objeto?.length > 80 ? '…' : ''),
-                    id: p.id
-                });
-            }
         });
+        // Ordenar do mais próximo para o mais distante
+        alertas.sort((a, b) => a.diff - b.diff);
+
     } else {
         // Compras publicadas recentes
         rawData.filter(r => norm(r.status).includes('publicad')).forEach(r => {
@@ -1217,7 +1209,6 @@ function renderAlertas() {
 
     if (!alertas.length) { container.innerHTML = ''; return; }
 
-    const limitados = alertas.slice(0, 6);
     container.innerHTML = `
         <div class="mb-3 flex items-center gap-2">
             <h2 class="text-[11px] font-bold uppercase tracking-widest text-slate-400">
@@ -1226,7 +1217,7 @@ function renderAlertas() {
             <span class="mono text-[10px] bg-amber-100 text-amber-700 dark:bg-amber-950 dark:text-amber-400 px-1.5 py-0.5 rounded-full">${alertas.length}</span>
         </div>
         <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3">
-        ${limitados.map(a => {
+        ${alertas.map(a => {
             const bgIcon = a.tipo==='urgente' ? 'bg-rose-100 dark:bg-rose-950' : a.tipo==='proximo' ? 'bg-amber-100 dark:bg-amber-950' : 'bg-blue-100 dark:bg-blue-950';
             const txtIcon = a.tipo==='urgente' ? 'text-rose-600' : a.tipo==='proximo' ? 'text-amber-600' : 'text-blue-600';
             return `
