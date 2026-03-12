@@ -728,9 +728,8 @@ function renderStats() {
 
 // ── RECENT CARDS ──────────────────────────────────────────────────────────
 function renderRecentCards() {
-    const recentes = [...rawData]
-        .sort((a,b) => (b[dataset==='licit'?'publicacao':'data_publicacao']||'').localeCompare(a[dataset==='licit'?'publicacao':'data_publicacao']||''))
-        .slice(0,4);
+    // Últimas importadas = últimas posições do array (sem reordenar por data)
+    const recentes = rawData.slice(-4).reverse();
 
     document.getElementById('recent-container').innerHTML = recentes.map(r => {
         const id = r.id || '';
@@ -1207,7 +1206,7 @@ function renderAlertas() {
         });
     }
 
-    if (!alertas.length) { container.innerHTML = ''; return; }
+    if (dataset !== 'licit' || !alertas.length) { container.innerHTML = ''; return; }
 
     container.innerHTML = `
         <div class="mb-3 flex items-center gap-2">
