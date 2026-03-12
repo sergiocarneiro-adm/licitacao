@@ -198,7 +198,7 @@
 
         async function init() {
             try {
-                const res = await fetch('dados.json');
+                const res = await fetch('dados (1).json');
                 db = await res.json();
                 
                 // Dash Stats
@@ -333,4 +333,57 @@
                 startY: 55,
                 body: [
                     ["Proc. Administrativo", p.numero_adm, "Modalidade", p.modalidade],
-                    ["Situação", p.situacao, "Condutor", p.condu
+                    ["Situação", p.situacao, "Condutor", p.condutor || "Comissão de Licitação"]
+                ],
+                theme: 'grid', styles: { fontSize: 8 }, headStyles: { fillColor: [15, 23, 42] }
+            });
+
+            doc.setFont(undefined, 'bold').text("2. OBJETO", 20, doc.lastAutoTable.finalY + 10);
+            const objLines = doc.splitTextToSize(p.objeto, 170);
+            doc.setFont(undefined, 'normal').setFontSize(8).text(objLines, 20, doc.lastAutoTable.finalY + 15);
+
+            let nextY = doc.lastAutoTable.finalY + 20 + (objLines.length * 4);
+            
+            p.lotes.forEach(l => {
+                if (nextY > 260) { doc.addPage(); nextY = 20; }
+                doc.setFont(undefined, 'bold').setFontSize(9);
+                doc.setFillColor(241, 245, 249).rect(20, nextY, 170, 7, 'F');
+                doc.text(`LOTE ${l.numero}: ${l.descricao || 'ITENS DO PROCESSO'}`, 22, nextY + 5);
+                
+                doc.autoTable({
+                    startY: nextY + 8,
+                    head: [['Item', 'Especificação', 'Qtd', 'Unid.', 'Valor Ref.']],
+                    body: l.itens.map(i => [i.numero, i.especificacao, i.quantidade, i.unidade, `R$ ${i.valor_referencia}`]),
+                    styles: { fontSize: 7 }, headStyles: { fillColor: [51, 65, 85] },
+                    margin: { left: 20 }, tableWidth: 170
+                });
+                nextY = doc.lastAutoTable.finalY + 12;
+            });
+
+            doc.save(`SIREL_EXTRATO_${p.id}.pdf`);
+        }
+
+        function getBadge(sit) {
+            const s = sit.toUpperCase();
+            if(s.includes('HOMOLOGADO') || s.includes('ADJUDICADO')) return 'bg-emerald-50 text-emerald-700 border-emerald-100 dark:bg-emerald-900/20 dark:text-emerald-400 dark:border-emerald-800';
+            if(s.includes('RECEPÇÃO')) return 'bg-blue-50 text-blue-700 border-blue-100 dark:bg-blue-900/20 dark:text-blue-400 dark:border-blue-800';
+            if(s.includes('SUSPENSO') || s.includes('CANCELADO')) return 'bg-rose-50 text-rose-700 border-rose-100 dark:bg-rose-900/20 dark:text-rose-400 dark:border-rose-800';
+            return 'bg-slate-50 text-slate-500 border-slate-100 dark:bg-slate-800 dark:text-slate-400 dark:border-slate-700';
+        }
+
+        function formatISO(iso) {
+            if(!iso) return "---";
+            return `${iso.substring(6,8)}/${iso.substring(4,6)}/${iso.substring(0,4)} ${iso.substring(9,11)}:${iso.substring(11,13)}`;
+        }
+
+        // Filtro Global
+        document.getElementById('global-search').addEventListener('input', e => {
+            const term = e.target.value.toLowerCase();
+            const filtered = db.processos.filter(p => p.objeto.toLowerCase().includes(term) || p.id.toLowerCase().includes(term));
+            renderTable(filtered);
+        });
+
+        init();
+    </script>
+</body>
+</html>
