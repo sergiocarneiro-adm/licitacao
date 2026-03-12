@@ -5,1003 +5,360 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>BLL Explorer | Teixeira de Freitas</title>
     <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf-autotable/3.5.28/jspdf.plugin.autotable.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
     <script>
         tailwind.config = {
             darkMode: 'class',
-            theme: { extend: { colors: { primary: { 50:'#eff6ff',100:'#dbeafe',200:'#bfdbfe',300:'#93c5fd',400:'#60a5fa',500:'#3b82f6',600:'#2563eb',700:'#1d4ed8',800:'#1e40af',900:'#1e3a8a' } } } },
-            safelist: [
-                'bg-blue-100','text-blue-700','dark:bg-blue-950','dark:text-blue-400',
-                'bg-emerald-100','text-emerald-700','dark:bg-emerald-950','dark:text-emerald-400',
-                'bg-rose-100','text-rose-700','dark:bg-rose-950','dark:text-rose-400',
-                'bg-orange-100','text-orange-700','dark:bg-orange-950','dark:text-orange-400',
-                'bg-amber-100','text-amber-700','dark:bg-amber-950','dark:text-amber-400',
-                'bg-violet-100','text-violet-700','dark:bg-violet-950','dark:text-violet-400',
-                'bg-slate-100','text-slate-600','dark:bg-slate-800','dark:text-slate-400',
-                'bg-sky-100','text-sky-700','dark:bg-sky-950','dark:text-sky-400',
-                'bg-indigo-100','text-indigo-700','dark:bg-indigo-950','dark:text-indigo-400',
-                'bg-primary-50','dark:bg-primary-950',
-                'text-primary-400','text-primary-600','dark:text-primary-400',
-                'border-primary-400','dark:border-primary-600',
-                'hover:border-primary-400','dark:hover:border-primary-600',
-                'text-violet-600','text-amber-500','text-emerald-500','text-emerald-600',
-                'hover:bg-primary-50','dark:hover:bg-slate-800/40',
-                'bg-emerald-600','hover:bg-emerald-700',
-                'badge-pulse','group-open:rotate-180','mono',
-            ]
+            theme: {
+                extend: {
+                    colors: {
+                        primary: { 50:'#eff6ff',100:'#dbeafe',200:'#bfdbfe',300:'#93c5fd',400:'#60a5fa',500:'#3b82f6',600:'#2563eb',700:'#1d4ed8',800:'#1e40af',900:'#1e3a8a' }
+                    }
+                }
+            }
         }
     </script>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;700&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
     <style>
-        body { font-family: 'Inter', sans-serif; }
-        code, .mono { font-family: 'JetBrains Mono', monospace; }
-        .glass-effect { background: rgba(255,255,255,0.9); backdrop-filter: blur(12px); }
-        .dark .glass-effect { background: rgba(10,15,30,0.9); }
-        .custom-scrollbar::-webkit-scrollbar { width: 5px; height: 5px; }
+        .custom-scrollbar::-webkit-scrollbar { width: 6px; }
         .custom-scrollbar::-webkit-scrollbar-track { background: transparent; }
         .custom-scrollbar::-webkit-scrollbar-thumb { background: #cbd5e1; border-radius: 10px; }
-        .dark .custom-scrollbar::-webkit-scrollbar-thumb { background: #334155; }
-        mark { background: #fef08a; color: #854d0e; padding: 0 2px; border-radius: 2px; }
-        .dark mark { background: #854d0e; color: #fef08a; }
-        .modal-backdrop { transition: opacity 0.25s ease; }
-        .modal-content  { transition: transform 0.25s ease, opacity 0.25s ease; }
-        .modal-hidden   { opacity: 0; pointer-events: none; }
-        .modal-hidden .modal-content { transform: scale(0.96); opacity: 0; }
-        .stat-card { transition: transform 0.18s ease, box-shadow 0.18s ease; }
-        .stat-card:hover { transform: translateY(-2px); }
-        tbody tr { transition: background 0.12s; }
-        @keyframes pulse-green { 0%,100%{opacity:1} 50%{opacity:.5} }
-        .badge-pulse { animation: pulse-green 2s infinite; }
-        .tab-active { border-bottom: 2px solid #2563eb; color: #2563eb; }
-        .dark .tab-active { color: #60a5fa; border-color: #60a5fa; }
-        .ds-tab-active { background: #7c3aed; color: #fff; }
-        .dark .ds-tab-active { background: #7c3aed; }
-        .ds-tab-licit-active { background: #2563eb; color: #fff; }
-        .loading-spinner { display: inline-block; width: 20px; height: 20px; border: 3px solid rgba(0,0,0,0.1); border-radius: 50%; border-top-color: #2563eb; animation: spin 0.8s linear infinite; }
-        @keyframes spin { to { transform: rotate(360deg); } }
+        .dark .custom-scrollbar::-webkit-scrollbar-thumb { background: #475569; }
+        details summary::-webkit-details-marker { display: none; }
     </style>
 </head>
-<body class="bg-slate-50 dark:bg-slate-950 text-slate-900 dark:text-slate-100 transition-colors duration-300 overflow-x-hidden">
-<div class="min-h-screen flex flex-col">
+<body class="bg-slate-50 dark:bg-slate-950 text-slate-900 dark:text-slate-100 h-full flex flex-col font-sans transition-colors duration-300">
 
-<!-- ── HEADER ──────────────────────────────────────────────────────── -->
-<header class="sticky top-0 z-40 w-full border-b border-slate-200 dark:border-slate-800 glass-effect">
-    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-16 flex items-center justify-between gap-3">
-        <div class="flex items-center gap-3 shrink-0">
-            <div id="header-icon" class="bg-blue-600 p-2 rounded-lg shadow transition-colors">
-                <i class="fas fa-gavel text-white text-sm"></i>
+    <header class="bg-white dark:bg-slate-900 border-b border-slate-200 dark:border-slate-800 sticky top-0 z-30">
+        <div class="max-w-7xl mx-auto px-4 h-16 flex items-center justify-between">
+            <div class="flex items-center gap-3">
+                <div class="bg-blue-600 p-2 rounded-lg text-white">
+                    <i class="fas fa-file-contract text-xl"></i>
+                </div>
+                <div>
+                    <h1 class="font-bold text-lg leading-none">BLL Explorer</h1>
+                    <p class="text-xs text-slate-500 dark:text-slate-400">Teixeira de Freitas - Bahia</p>
+                </div>
             </div>
+            
+            <button onclick="document.documentElement.classList.toggle('dark')" class="p-2 rounded-full hover:bg-slate-100 dark:hover:bg-slate-800 transition-colors">
+                <i class="fas fa-moon dark:hidden"></i>
+                <i class="fas fa-sun hidden dark:block text-amber-400"></i>
+            </button>
+        </div>
+    </header>
+
+    <main class="flex-1 max-w-7xl mx-auto w-full p-4 md:p-6 space-y-6">
+        
+        <div class="grid grid-cols-2 md:grid-cols-4 gap-4">
+            <div class="bg-white dark:bg-slate-900 p-4 rounded-xl border border-slate-200 dark:border-slate-800 shadow-sm">
+                <p class="text-xs font-medium text-slate-500 uppercase tracking-wider">Processos</p>
+                <h3 id="stat-processos" class="text-2xl font-bold text-blue-600 mt-1">---</h3>
+            </div>
+            <div class="bg-white dark:bg-slate-900 p-4 rounded-xl border border-slate-200 dark:border-slate-800 shadow-sm">
+                <p class="text-xs font-medium text-slate-500 uppercase tracking-wider">Lotes</p>
+                <h3 id="stat-lotes" class="text-2xl font-bold text-emerald-600 mt-1">---</h3>
+            </div>
+            <div class="bg-white dark:bg-slate-900 p-4 rounded-xl border border-slate-200 dark:border-slate-800 shadow-sm">
+                <p class="text-xs font-medium text-slate-500 uppercase tracking-wider">Itens</p>
+                <h3 id="stat-itens" class="text-2xl font-bold text-orange-600 mt-1">---</h3>
+            </div>
+            <div class="bg-white dark:bg-slate-900 p-4 rounded-xl border border-slate-200 dark:border-slate-800 shadow-sm">
+                <p class="text-xs font-medium text-slate-500 uppercase tracking-wider">Atualização</p>
+                <h3 id="stat-data" class="text-sm font-bold text-slate-700 dark:text-slate-300 mt-2">---</h3>
+            </div>
+        </div>
+
+        <div class="bg-white dark:bg-slate-900 p-4 rounded-xl border border-slate-200 dark:border-slate-800 shadow-sm space-y-4">
+            <div class="flex flex-col md:flex-row gap-4">
+                <div class="flex-1 relative">
+                    <i class="fas fa-search absolute left-3 top-1/2 -translate-y-1/2 text-slate-400"></i>
+                    <input type="text" id="main-search" placeholder="Pesquisar por objeto, ID ou condutor..." 
+                        class="w-full pl-10 pr-4 py-2 bg-slate-50 dark:bg-slate-800 border-none rounded-lg focus:ring-2 focus:ring-blue-500 transition-all outline-none">
+                </div>
+                <div class="flex gap-2">
+                    <select id="filter-situacao" class="bg-slate-50 dark:bg-slate-800 border-none rounded-lg px-4 py-2 text-sm focus:ring-2 focus:ring-blue-500 outline-none">
+                        <option value="all">Todas as Situações</option>
+                    </select>
+                </div>
+            </div>
+        </div>
+
+        <div id="loading" class="text-center py-20">
+            <i class="fas fa-circle-notch fa-spin text-3xl text-blue-600"></i>
+            <p class="mt-2 text-slate-500">Carregando dados...</p>
+        </div>
+
+        <div id="list-container" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 hidden">
+            </div>
+
+    </main>
+
+    <div id="backdrop" class="fixed inset-0 bg-slate-950/40 backdrop-blur-sm z-40 hidden opacity-0 transition-opacity duration-300" onclick="closeDetails()"></div>
+    
+    <aside id="side-panel" class="fixed top-0 right-0 h-full w-full max-w-2xl bg-white dark:bg-slate-900 shadow-2xl z-50 transform translate-x-full transition-transform duration-300 ease-in-out flex flex-col">
+        <div class="p-6 border-b border-slate-200 dark:border-slate-800 flex items-center justify-between bg-slate-50 dark:bg-slate-900/50">
             <div>
-                <h1 class="text-base font-bold leading-tight">BLL <span id="header-title" class="text-blue-600">Licitações</span></h1>
-                <p class="text-[10px] text-slate-400 leading-none">Teixeira de Freitas · Processos Licitatórios &amp; Compras Diretas</p>
+                <h2 id="p-id" class="text-xl font-bold">---</h2>
+                <p id="p-mod" class="text-xs text-slate-500 font-medium uppercase tracking-widest mt-1">---</p>
+            </div>
+            <div class="flex gap-2">
+                <button onclick="gerarPDFAtual()" class="p-2.5 bg-emerald-600 hover:bg-emerald-700 text-white rounded-lg transition-colors shadow-lg shadow-emerald-600/20" title="Exportar PDF">
+                    <i class="fas fa-file-pdf"></i>
+                </button>
+                <button onclick="closeDetails()" class="p-2.5 bg-slate-200 dark:bg-slate-800 hover:bg-rose-500 hover:text-white rounded-lg transition-all">
+                    <i class="fas fa-times"></i>
+                </button>
             </div>
         </div>
 
-        <!-- Dataset switcher -->
-        <div class="flex items-center bg-slate-100 dark:bg-slate-800 rounded-xl p-1 gap-1">
-            <button id="ds-btn-licit" onclick="switchDataset('licit')"
-                class="ds-tab-licit-active flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-xs font-bold transition-all text-white">
-                <i class="fas fa-gavel text-xs"></i>
-                <span class="hidden sm:inline">Licitações</span>
-                <span id="ds-count-licit" class="mono text-[10px] opacity-75"></span>
-            </button>
-            <button id="ds-btn-compras" onclick="switchDataset('compras')"
-                class="flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-xs font-bold transition-all text-slate-500 dark:text-slate-400 hover:text-slate-700 dark:hover:text-white">
-                <i class="fas fa-shopping-cart text-xs"></i>
-                <span class="hidden sm:inline">Compras Diretas</span>
-                <span id="ds-count-compras" class="mono text-[10px] opacity-75"></span>
-            </button>
-        </div>
+        <div class="flex-1 overflow-y-auto custom-scrollbar p-6 space-y-8">
+            <div class="grid grid-cols-2 gap-4 text-sm">
+                <div class="p-3 bg-slate-50 dark:bg-slate-800/50 rounded-lg">
+                    <span class="block text-xs text-slate-500 mb-1 italic">Situação atual</span>
+                    <span id="p-sit" class="font-bold">---</span>
+                </div>
+                <div class="p-3 bg-slate-50 dark:bg-slate-800/50 rounded-lg">
+                    <span class="block text-xs text-slate-500 mb-1 italic">Condutor do Processo</span>
+                    <span id="p-cond" class="font-bold truncate block">---</span>
+                </div>
+            </div>
 
-        <div class="flex items-center gap-2">
-            <span id="header-meta" class="text-[10px] text-slate-400 hidden md:block mono"></span>
-            <button id="theme-toggle" class="p-2 rounded-full hover:bg-slate-100 dark:hover:bg-slate-800 transition-colors" title="Alternar tema">
-                <i class="fas fa-moon dark:hidden text-slate-500"></i>
-                <i class="fas fa-sun hidden dark:block text-slate-400"></i>
-            </button>
-        </div>
-    </div>
-</header>
+            <section>
+                <h3 class="text-sm font-bold text-slate-400 uppercase tracking-widest mb-3 flex items-center gap-2">
+                    <i class="fas fa-align-left text-blue-500"></i> Objeto
+                </h3>
+                <p id="p-obj" class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm bg-white dark:bg-slate-800 border border-slate-100 dark:border-slate-700 p-4 rounded-xl shadow-sm">---</p>
+            </section>
 
-<main class="flex-1 max-w-7xl w-full mx-auto px-4 sm:px-6 lg:px-8 py-8">
-
-    <!-- ── LOADING STATE ──────────────────────────────────────────── -->
-    <div id="loading-state" class="text-center py-12">
-        <div class="inline-block loading-spinner"></div>
-        <p class="text-slate-500 mt-4">Carregando dados...</p>
-    </div>
-
-    <!-- ── MAIN CONTENT (hidden until data loads) ──────────────────── -->
-    <div id="main-content" style="display: none;">
-        <!-- ── STAT CARDS ──────────────────────────────────────────────── -->
-        <div id="stats-container" class="grid grid-cols-2 lg:grid-cols-4 gap-4 mb-8"></div>
-
-        <!-- ── CARDS RECENTES ──────────────────────────────────────────── -->
-        <div class="mb-3 flex items-center gap-2">
-            <h2 class="text-[11px] font-bold uppercase tracking-widest text-slate-400">
-                <i class="fas fa-clock-rotate-left mr-1"></i> <span id="recent-label">Últimas Licitações</span>
-            </h2>
-        </div>
-        <div id="recent-container" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4 mb-8"></div>
-
-        <!-- ── FILTROS ──────────────────────────────────────────────────── -->
-        <div class="bg-white dark:bg-slate-900 rounded-xl border border-slate-200 dark:border-slate-800 p-4 mb-6 shadow-sm">
-            <div class="flex flex-col gap-3">
-                <div class="flex flex-col sm:flex-row gap-2">
-                    <div class="relative flex-1">
-                        <i class="fas fa-search absolute left-3 top-1/2 -translate-y-1/2 text-slate-400 text-sm"></i>
-                        <input type="text" id="search-input"
-                            placeholder="Buscar por objeto, edital, condutor, fornecedor..."
-                            class="w-full pl-10 pr-4 py-2.5 bg-slate-50 dark:bg-slate-950 border border-slate-200 dark:border-slate-800 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-blue-500 outline-none transition-all text-sm">
+            <section>
+                <div class="flex items-center justify-between mb-4">
+                    <h3 class="text-sm font-bold text-slate-400 uppercase tracking-widest flex items-center gap-2">
+                        <i class="fas fa-layer-group text-emerald-500"></i> Lotes e Itens Detalhados
+                    </h3>
+                    <span id="p-count-lotes" class="text-xs bg-slate-100 dark:bg-slate-800 px-2 py-1 rounded font-bold">0 Lotes</span>
+                </div>
+                <div id="lotes-container" class="space-y-3">
                     </div>
-                    <button id="search-btn"
-                        class="bg-blue-600 hover:bg-blue-700 text-white px-6 py-2.5 rounded-lg font-semibold transition-colors flex items-center justify-center gap-2 text-sm">
-                        <i class="fas fa-search"></i> Pesquisar
-                    </button>
-                    <button id="clear-btn"
-                        class="text-slate-400 hover:text-slate-600 dark:hover:text-slate-200 px-3 py-2.5 rounded-lg border border-slate-200 dark:border-slate-800 hover:bg-slate-50 dark:hover:bg-slate-800 transition-colors text-sm" title="Limpar filtros">
-                        <i class="fas fa-times"></i>
-                    </button>
-                </div>
-
-                <div id="filter-row" class="flex flex-wrap gap-3"></div>
-
-                <div class="flex gap-1 border-b border-slate-100 dark:border-slate-800">
-                    <button data-view="registros" class="view-tab px-4 py-2 text-xs font-semibold text-slate-500 hover:text-blue-600 dark:hover:text-blue-400 transition-colors tab-active">
-                        <i class="fas fa-folder-open mr-1"></i> <span id="tab-label-reg">Processos</span>
-                    </button>
-                    <button data-view="itens" class="view-tab px-4 py-2 text-xs font-semibold text-slate-500 hover:text-blue-600 dark:hover:text-blue-400 transition-colors">
-                        <i class="fas fa-list mr-1"></i> <span id="tab-label-itens">Lotes / Itens</span>
-                    </button>
-                </div>
-            </div>
+            </section>
         </div>
+    </aside>
 
-        <!-- ── TABELA ───────────────────────────────────────────────────── -->
-        <div class="bg-white dark:bg-slate-900 rounded-xl border border-slate-200 dark:border-slate-800 shadow-sm overflow-hidden">
-            <div class="overflow-x-auto custom-scrollbar">
-                <table class="w-full text-left border-collapse text-sm">
-                    <thead id="table-head">
-                        <tr class="bg-slate-50 dark:bg-slate-950 border-b border-slate-200 dark:border-slate-800"></tr>
-                    </thead>
-                    <tbody id="table-body" class="divide-y divide-slate-100 dark:divide-slate-800"></tbody>
-                </table>
-            </div>
-            <div id="pagination-container" class="px-6 py-4 bg-slate-50 dark:bg-slate-950 border-t border-slate-200 dark:border-slate-800 flex flex-col sm:flex-row items-center justify-between gap-3">
-                <p id="pagination-info" class="text-xs text-slate-500"></p>
-                <div id="pagination-buttons" class="flex items-center gap-1 flex-wrap justify-center"></div>
-            </div>
-        </div>
-    </div>
+    <script>
+        let fullData = null;
+        let activeProcess = null;
 
-</main>
-
-<footer class="py-5 border-t border-slate-200 dark:border-slate-800 text-center text-xs text-slate-400">
-    BLL Explorer · Município de Teixeira de Freitas &copy; 2026
-</footer>
-</div>
-
-<!-- ── MODAL LICITAÇÃO ─────────────────────────────────────────────────── -->
-<div id="modal-licit" class="fixed inset-0 z-50 flex items-center justify-center p-4 modal-hidden">
-    <div class="absolute inset-0 bg-slate-950/70 backdrop-blur-sm modal-backdrop" onclick="closeModal()"></div>
-    <div class="relative bg-white dark:bg-slate-900 w-full max-w-5xl max-h-[92vh] rounded-2xl shadow-2xl overflow-hidden flex flex-col modal-content">
-        <div class="px-6 py-4 border-b border-slate-200 dark:border-slate-800 flex items-center justify-between bg-slate-50 dark:bg-slate-950 shrink-0">
-            <div class="flex items-center gap-3 min-w-0">
-                <span id="ml-badge" class="shrink-0 px-2.5 py-0.5 rounded-full text-[10px] font-bold uppercase tracking-wider"></span>
-                <h3 id="ml-title" class="font-bold text-base text-blue-600 dark:text-blue-400 truncate mono"></h3>
-            </div>
-            <button onclick="closeModal()" class="ml-3 shrink-0 text-slate-400 hover:text-slate-700 dark:hover:text-white transition-colors"><i class="fas fa-times text-lg"></i></button>
-        </div>
-        <div class="flex-1 overflow-y-auto p-6 custom-scrollbar">
-            <div class="grid grid-cols-1 lg:grid-cols-3 gap-8">
-                <div class="lg:col-span-2 space-y-6">
-                    <section>
-                        <h4 class="text-[10px] font-bold text-slate-400 uppercase tracking-widest mb-2">Objeto</h4>
-                        <p id="ml-objeto" class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm"></p>
-                    </section>
-                    <section>
-                        <div class="flex items-center justify-between mb-3">
-                            <h4 class="text-[10px] font-bold text-slate-400 uppercase tracking-widest">Lotes e Itens</h4>
-                            <span id="ml-lotes-count" class="mono text-[10px] bg-slate-100 dark:bg-slate-800 text-slate-500 px-2 py-0.5 rounded-full"></span>
-                        </div>
-                        <div id="ml-lotes-container" class="space-y-4"></div>
-                    </section>
-                </div>
-                <div class="space-y-4">
-                    <div class="bg-blue-50 dark:bg-blue-950/30 p-4 rounded-xl border border-blue-200 dark:border-blue-900">
-                        <h4 class="text-[10px] font-bold text-blue-600 dark:text-blue-400 uppercase tracking-widest mb-3">Datas</h4>
-                        <div class="space-y-2">
-                            <div><span class="text-[10px] text-slate-400 block">Publicação</span><span id="ml-publicacao" class="text-xs font-bold mono"></span></div>
-                            <div><span class="text-[10px] text-slate-400 block">Fim Recepção</span><span id="ml-fim-recepcao" class="text-xs font-bold mono"></span></div>
-                            <div><span class="text-[10px] text-slate-400 block">Início Disputa</span><span id="ml-inicio-disputa" class="text-xs font-bold mono"></span></div>
-                        </div>
-                    </div>
-                    <div class="bg-slate-50 dark:bg-slate-900 p-4 rounded-xl border border-slate-200 dark:border-slate-800 space-y-2.5">
-                        <h4 class="text-[10px] font-bold text-slate-400 uppercase tracking-widest mb-3">Informações</h4>
-                        <div class="flex justify-between text-xs gap-2"><span class="text-slate-400 shrink-0">Nº Edital</span><span id="ml-id" class="font-bold mono text-right text-blue-600 dark:text-blue-400"></span></div>
-                        <div class="flex justify-between text-xs gap-2"><span class="text-slate-400 shrink-0">Nº Adm.</span><span id="ml-adm" class="font-semibold mono text-right text-slate-500"></span></div>
-                        <div class="flex justify-between text-xs gap-2"><span class="text-slate-400 shrink-0">Modalidade</span><span id="ml-modalidade" class="font-semibold text-right"></span></div>
-                        <div class="flex justify-between text-xs gap-2"><span class="text-slate-400 shrink-0">Ano</span><span id="ml-ano" class="font-semibold text-right text-slate-600 dark:text-slate-400"></span></div>
-                        <div class="flex justify-between text-xs gap-2"><span class="text-slate-400 shrink-0">Condutor</span><span id="ml-condutor" class="font-semibold text-right"></span></div>
-                        <div class="flex justify-between text-xs gap-2"><span class="text-slate-400 shrink-0">Autoridade</span><span id="ml-autoridade" class="font-semibold text-right"></span></div>
-                    </div>
-                    <a id="ml-link" href="#" target="_blank"
-                        class="flex items-center justify-center gap-2 w-full bg-slate-900 dark:bg-white text-white dark:text-slate-900 py-3 rounded-xl font-bold text-sm hover:opacity-80 transition-opacity">
-                        <i class="fas fa-external-link-alt"></i> Ver no BLL
-                    </a>
-                </div>
-            </div>
-        </div>
-        <div class="px-6 py-3 border-t border-slate-200 dark:border-slate-800 flex items-center justify-between bg-slate-50 dark:bg-slate-950 shrink-0">
-            <button id="modal-prev" onclick="prevItem()" class="flex items-center gap-2 text-xs font-bold text-slate-400 hover:text-blue-600 dark:hover:text-blue-400 transition-colors disabled:opacity-20"><i class="fas fa-arrow-left"></i> Anterior</button>
-            <span id="modal-counter" class="text-[10px] font-medium text-slate-400 mono"></span>
-            <button id="modal-next" onclick="nextItem()" class="flex items-center gap-2 text-xs font-bold text-slate-400 hover:text-blue-600 dark:hover:text-blue-400 transition-colors disabled:opacity-20">Próximo <i class="fas fa-arrow-right"></i></button>
-        </div>
-    </div>
-</div>
-
-<!-- ── MODAL COMPRA DIRETA ─────────────────────────────────────────────── -->
-<div id="modal-compra" class="fixed inset-0 z-50 flex items-center justify-center p-4 modal-hidden">
-    <div class="absolute inset-0 bg-slate-950/70 backdrop-blur-sm modal-backdrop" onclick="closeModal()"></div>
-    <div class="relative bg-white dark:bg-slate-900 w-full max-w-5xl max-h-[92vh] rounded-2xl shadow-2xl overflow-hidden flex flex-col modal-content">
-        <div class="px-6 py-4 border-b border-slate-200 dark:border-slate-800 flex items-center justify-between bg-slate-50 dark:bg-slate-950 shrink-0">
-            <div class="flex items-center gap-3 min-w-0">
-                <span id="mc-badge" class="shrink-0 px-2.5 py-0.5 rounded-full text-[10px] font-bold uppercase tracking-wider"></span>
-                <h3 id="mc-title" class="font-bold text-base text-violet-600 dark:text-violet-400 truncate mono"></h3>
-            </div>
-            <button onclick="closeModal()" class="ml-3 shrink-0 text-slate-400 hover:text-slate-700 dark:hover:text-white transition-colors"><i class="fas fa-times text-lg"></i></button>
-        </div>
-        <div class="flex-1 overflow-y-auto p-6 custom-scrollbar">
-            <div class="grid grid-cols-1 lg:grid-cols-3 gap-8">
-                <div class="lg:col-span-2 space-y-6">
-                    <section>
-                        <h4 class="text-[10px] font-bold text-slate-400 uppercase tracking-widest mb-2">Objeto</h4>
-                        <p id="mc-objeto" class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm"></p>
-                    </section>
-                    <section>
-                        <h4 class="text-[10px] font-bold text-slate-400 uppercase tracking-widest mb-2">Justificativa</h4>
-                        <p id="mc-justificativa" class="text-slate-600 dark:text-slate-400 leading-relaxed text-xs italic"></p>
-                    </section>
-                    <section>
-                        <div class="flex items-center justify-between mb-3">
-                            <h4 class="text-[10px] font-bold text-slate-400 uppercase tracking-widest">Itens</h4>
-                            <span id="mc-itens-count" class="mono text-[10px] bg-slate-100 dark:bg-slate-800 text-slate-500 px-2 py-0.5 rounded-full"></span>
-                        </div>
-                        <div id="mc-itens-container" class="space-y-3"></div>
-                    </section>
-                </div>
-                <div class="space-y-4">
-                    <div class="bg-emerald-50 dark:bg-emerald-950/30 p-4 rounded-xl border border-emerald-200 dark:border-emerald-900">
-                        <h4 class="text-[10px] font-bold text-emerald-600 dark:text-emerald-400 uppercase tracking-widest mb-3">Fornecedor / Valor</h4>
-                        <div class="space-y-3">
-                            <div><span class="text-[10px] text-slate-400 block mb-0.5">Fornecedor</span><span id="mc-fornecedor" class="text-sm font-bold break-words text-slate-800 dark:text-slate-200"></span></div>
-                            <div><span class="text-[10px] text-slate-400 block mb-0.5">Valor Total</span><span id="mc-valor" class="text-xl font-black text-emerald-600 dark:text-emerald-400"></span></div>
-                        </div>
-                    </div>
-                    <div class="bg-slate-50 dark:bg-slate-900 p-4 rounded-xl border border-slate-200 dark:border-slate-800 space-y-2.5">
-                        <h4 class="text-[10px] font-bold text-slate-400 uppercase tracking-widest mb-3">Informações</h4>
-                        <div class="flex justify-between text-xs gap-2"><span class="text-slate-400 shrink-0">Nº Edital</span><span id="mc-id" class="font-bold mono text-right text-violet-600 dark:text-violet-400"></span></div>
-                        <div class="flex justify-between text-xs gap-2"><span class="text-slate-400 shrink-0">Nº Adm.</span><span id="mc-adm" class="font-semibold mono text-right text-slate-500"></span></div>
-                        <div class="flex justify-between text-xs gap-2"><span class="text-slate-400 shrink-0">Modalidade</span><span id="mc-modalidade" class="font-semibold text-right"></span></div>
-                        <div class="flex justify-between text-xs gap-2"><span class="text-slate-400 shrink-0">Artigo</span><span id="mc-artigo" class="font-semibold mono text-right"></span></div>
-                        <div class="flex justify-between text-xs gap-2"><span class="text-slate-400 shrink-0">Inciso</span><span id="mc-inciso" class="font-semibold mono text-right"></span></div>
-                        <div class="flex justify-between text-xs gap-2"><span class="text-slate-400 shrink-0">Legislação</span><span id="mc-legislacao" class="font-semibold text-right text-slate-600 dark:text-slate-400"></span></div>
-                        <div class="flex justify-between text-xs gap-2"><span class="text-slate-400 shrink-0">Coordenador</span><span id="mc-coordenador" class="font-semibold text-right"></span></div>
-                        <div class="flex justify-between text-xs gap-2"><span class="text-slate-400 shrink-0">Autoridade</span><span id="mc-autoridade" class="font-semibold text-right"></span></div>
-                        <div class="flex justify-between text-xs gap-2"><span class="text-slate-400 shrink-0">Publicação</span><span id="mc-publicacao" class="font-semibold text-right mono text-[10px]"></span></div>
-                        <div class="flex justify-between text-xs gap-2"><span class="text-slate-400 shrink-0">Conclusão</span><span id="mc-conclusao" class="font-semibold text-right mono text-[10px]"></span></div>
-                    </div>
-                    <a id="mc-link" href="#" target="_blank"
-                        class="flex items-center justify-center gap-2 w-full bg-slate-900 dark:bg-white text-white dark:text-slate-900 py-3 rounded-xl font-bold text-sm hover:opacity-80 transition-opacity">
-                        <i class="fas fa-external-link-alt"></i> Ver no BLL
-                    </a>
-                </div>
-            </div>
-        </div>
-        <div class="px-6 py-3 border-t border-slate-200 dark:border-slate-800 flex items-center justify-between bg-slate-50 dark:bg-slate-950 shrink-0">
-            <button id="mc-modal-prev" onclick="prevItem()" class="flex items-center gap-2 text-xs font-bold text-slate-400 hover:text-violet-600 dark:hover:text-violet-400 transition-colors disabled:opacity-20"><i class="fas fa-arrow-left"></i> Anterior</button>
-            <span id="mc-modal-counter" class="text-[10px] font-medium text-slate-400 mono"></span>
-            <button id="mc-modal-next" onclick="nextItem()" class="flex items-center gap-2 text-xs font-bold text-slate-400 hover:text-violet-600 dark:hover:text-violet-400 transition-colors disabled:opacity-20">Próximo <i class="fas fa-arrow-right"></i></button>
-        </div>
-    </div>
-</div>
-
-<script>
-const PER_PAGE = 20;
-let ALL_DATA = { processos: [], compras: [], meta_licit: {}, meta_compras: {} };
-let processos = [];
-let compras = [];
-
-// ── STATE ─────────────────────────────────────────────────────────────────
-let dataset      = 'licit';
-let rawData      = [];
-let flatSub      = [];
-let filteredData = [];
-let search       = '';
-let viewMode     = 'registros';
-let page         = 1;
-let currentModalIndex = -1;
-
-let f1='all', f2='all', f3='all', f4='all';
-
-// ── UTILS ─────────────────────────────────────────────────────────────────
-const norm = t => t ? t.toString().toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g,'') : '';
-const hl = (text, term) => {
-    if (!term || !text) return text || '';
-    const r = new RegExp(`(${term.replace(/[.*+?^${}()|[\]\\]/g,'\\$&')})`, 'gi');
-    return text.toString().replace(r, '<mark>$1</mark>');
-};
-const parseValor = val => {
-    if (!val || val === '') return NaN;
-    const s = val.toString().trim();
-    if (s.includes(',') && s.includes('.')) return parseFloat(s.replace(/\./g,'').replace(',','.'));
-    if (s.includes(',')) return parseFloat(s.replace(',','.'));
-    return parseFloat(s);
-};
-const fmtBRL = val => {
-    if (val === null || val === undefined || val === '') return '–';
-    const n = typeof val === 'number' ? val : parseValor(val);
-    if (isNaN(n) || n === 0) return '–';
-    return 'R$ ' + n.toLocaleString('pt-BR', {minimumFractionDigits:2, maximumFractionDigits:2});
-};
-
-const badgeClassCompra = status => {
-    const s = norm(status || '');
-    if (s.includes('conclu') || s.includes('homolog')) return 'bg-emerald-100 text-emerald-700 dark:bg-emerald-950 dark:text-emerald-400';
-    if (s.includes('publicad') || s.includes('aberto') || s.includes('andamento')) return 'bg-blue-100 text-blue-700 dark:bg-blue-950 dark:text-blue-400';
-    if (s.includes('cancel') || s.includes('fracas') || s.includes('desert') || s.includes('revog') || s.includes('anulad')) return 'bg-rose-100 text-rose-700 dark:bg-rose-950 dark:text-rose-400';
-    if (s.includes('suspen')) return 'bg-orange-100 text-orange-700 dark:bg-orange-950 dark:text-orange-400';
-    return 'bg-slate-100 text-slate-600 dark:bg-slate-800 dark:text-slate-400';
-};
-
-const badgeClassLicit = situacao => {
-    const s = norm(situacao || '');
-    if (s.includes('homologad') || s.includes('adjudicad')) return 'bg-emerald-100 text-emerald-700 dark:bg-emerald-950 dark:text-emerald-400';
-    if (s.includes('recepcao') || s.includes('publicad')) return 'bg-blue-100 text-blue-700 dark:bg-blue-950 dark:text-blue-400';
-    if (s.includes('analise') || s.includes('habilitacao') || s.includes('finaliz')) return 'bg-amber-100 text-amber-700 dark:bg-amber-950 dark:text-amber-400';
-    if (s.includes('anulad') || s.includes('revogad') || s.includes('fracassad')) return 'bg-rose-100 text-rose-700 dark:bg-rose-950 dark:text-rose-400';
-    if (s.includes('deserto') || s.includes('suspenso')) return 'bg-orange-100 text-orange-700 dark:bg-orange-950 dark:text-orange-400';
-    return 'bg-slate-100 text-slate-600 dark:bg-slate-800 dark:text-slate-400';
-};
-
-const badgeClass = s => dataset === 'licit' ? badgeClassLicit(s) : badgeClassCompra(s);
-
-const totalRegistroCompra = reg => {
-    const itens = reg.itens || [];
-    if (!itens.length) return null;
-    let soma = 0, temValor = false;
-    itens.forEach(it => {
-        const v = parseValor(it.valor || '');
-        const q = parseValor(it.quantidade || '1');
-        const qtd = (!isNaN(q) && q > 0) ? q : 1;
-        if (!isNaN(v) && v > 0) { soma += v * qtd; temValor = true; }
-    });
-    return temValor ? soma : null;
-};
-
-const fornecedorPrincipal = reg => {
-    const it = (reg.itens||[]).find(i => i.fornecedor && i.fornecedor.trim());
-    return it ? it.fornecedor.trim() : '–';
-};
-
-const statusField = r => dataset === 'licit' ? r.situacao : r.status;
-
-// ── DATA LOADING ──────────────────────────────────────────────────────────
-async function loadData() {
-    try {
-        // Tentar carregar via fetch (funciona em servidor)
-        const [resLicit, resCompra] = await Promise.all([
-            fetch('dados.json').then(r => {
-                if (!r.ok) throw new Error('dados.json não encontrado');
-                return r.json();
-            }),
-            fetch('dados_compra_direta.json').then(r => {
-                if (!r.ok) throw new Error('dados_compra_direta.json não encontrado');
-                return r.json();
-            })
-        ]);
-        
-        processos = resLicit.processos || [];
-        compras = resCompra.registros || [];
-        
-        processarDados();
-    } catch (err) {
-        console.error('Erro ao carregar dados via fetch:', err);
-        showError('Erro ao carregar arquivos JSON. Verifique se dados.json e dados_compra_direta.json estão no mesmo diretório.');
-    }
-}
-
-function processarDados() {
-    // Extrair ano para processos se não existir
-    processos.forEach(p => {
-        if (!p.ano_referencia && p.publicacao) {
-            const match = p.publicacao.match(/\d{4}/);
-            if (match) p.ano_referencia = match[0];
+        // --- Inicialização ---
+        async function loadData() {
+            try {
+                const response = await fetch('dados (1).json');
+                fullData = await response.json();
+                initApp();
+            } catch (err) {
+                console.error("Erro ao carregar JSON:", err);
+                document.getElementById('loading').innerHTML = `<p class="text-rose-500">Erro ao carregar dados. Verifique o arquivo dados (1).json</p>`;
+            }
         }
-    });
 
-    // Extrair ano para compras se não existir
-    compras.forEach(c => {
-        if (!c.ano_referencia && c.data_publicacao) {
-            const match = c.data_publicacao.match(/\d{4}/);
-            if (match) c.ano_referencia = match[0];
-        }
-    });
+        function initApp() {
+            document.getElementById('loading').classList.add('hidden');
+            document.getElementById('list-container').classList.remove('hidden');
 
-    ALL_DATA = {
-        processos: processos,
-        compras: compras,
-        meta_licit: { total_processos: processos.length, total_lotes: 0 },
-        meta_compras: { total_registros: compras.length, total_itens: 0 }
-    };
+            // Atualizar Dashboard
+            document.getElementById('stat-processos').innerText = fullData.metadata.total_processos;
+            document.getElementById('stat-lotes').innerText = fullData.metadata.total_lotes;
+            document.getElementById('stat-itens').innerText = fullData.metadata.total_itens;
+            document.getElementById('stat-data').innerText = formatarDataISO(fullData.metadata.atualizado_em);
 
-    // Mostrar conteúdo principal
-    document.getElementById('loading-state').style.display = 'none';
-    document.getElementById('main-content').style.display = 'block';
-
-    // Update counters
-    document.getElementById('ds-count-licit').textContent = processos.length.toLocaleString('pt-BR');
-    document.getElementById('ds-count-compras').textContent = compras.length.toLocaleString('pt-BR');
-
-    switchDataset('licit');
-}
-
-function showError(msg) {
-    document.getElementById('loading-state').innerHTML = `
-        <div class="text-center py-12">
-            <i class="fas fa-exclamation-circle text-rose-600 text-4xl mb-4 block"></i>
-            <p class="text-rose-600 font-bold text-lg">${msg}</p>
-            <p class="text-slate-500 text-sm mt-2">Certifique-se de que os arquivos JSON estão no mesmo diretório que este HTML.</p>
-        </div>`;
-}
-
-// ── TEMA ──────────────────────────────────────────────────────────────────
-function initTheme() {
-    if (localStorage.theme === 'dark' || (!('theme' in localStorage) && window.matchMedia('(prefers-color-scheme: dark)').matches))
-        document.documentElement.classList.add('dark');
-}
-document.getElementById('theme-toggle').addEventListener('click', () => {
-    document.documentElement.classList.toggle('dark');
-    localStorage.theme = document.documentElement.classList.contains('dark') ? 'dark' : 'light';
-});
-
-// ── DATASET SWITCH ────────────────────────────────────────────────────────
-function switchDataset(ds) {
-    dataset = ds;
-    rawData = ds === 'licit' ? processos : compras;
-    viewMode = 'registros';
-    search = ''; f1='all'; f2='all'; f3='all'; f4='all';
-    page = 1;
-
-    const isLicit = ds === 'licit';
-
-    document.getElementById('header-icon').className = `${isLicit ? 'bg-blue-600' : 'bg-violet-600'} p-2 rounded-lg shadow transition-colors`;
-    document.getElementById('header-icon').innerHTML  = `<i class="fas ${isLicit ? 'fa-gavel' : 'fa-shopping-cart'} text-white text-sm"></i>`;
-    document.getElementById('header-title').className = `${isLicit ? 'text-blue-600' : 'text-violet-600'}`;
-    document.getElementById('header-title').textContent = isLicit ? 'Licitações' : 'Compra Direta';
-
-    const bl = document.getElementById('ds-btn-licit');
-    const bc = document.getElementById('ds-btn-compras');
-    bl.className = isLicit
-        ? 'ds-tab-licit-active flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-xs font-bold transition-all text-white'
-        : 'flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-xs font-bold transition-all text-slate-500 dark:text-slate-400 hover:text-slate-700 dark:hover:text-white';
-    bc.className = !isLicit
-        ? 'ds-tab-active flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-xs font-bold transition-all text-white'
-        : 'flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-xs font-bold transition-all text-slate-500 dark:text-slate-400 hover:text-slate-700 dark:hover:text-white';
-
-    document.getElementById('tab-label-reg').textContent   = isLicit ? 'Processos' : 'Compras';
-    document.getElementById('tab-label-itens').textContent = isLicit ? 'Lotes / Itens' : 'Itens';
-    document.getElementById('recent-label').textContent    = isLicit ? 'Últimas Licitações' : 'Últimas Compras Diretas';
-    document.getElementById('search-input').value = '';
-
-    const inp = document.getElementById('search-input');
-    inp.className = inp.className.replace(/focus:ring-\w+-\d+/g,'').replace(/focus:border-\w+-\d+/g,'') +
-        ` focus:ring-${isLicit?'blue':'violet'}-500 focus:border-${isLicit?'blue':'violet'}-500`;
-    document.getElementById('search-btn').className = document.getElementById('search-btn').className
-        .replace(/bg-\w+-600/,'bg-'+(isLicit?'blue':'violet')+'-600')
-        .replace(/hover:bg-\w+-700/,'hover:bg-'+(isLicit?'blue':'violet')+'-700');
-
-    const meta = isLicit ? ALL_DATA.meta_licit : ALL_DATA.meta_compras;
-    document.getElementById('header-meta').textContent =
-        isLicit
-        ? `${meta.total_processos||rawData.length} processos`
-        : `${meta.total_registros||rawData.length} registros`;
-
-    document.querySelectorAll('.view-tab').forEach((b,i) => b.classList.toggle('tab-active', i===0));
-
-    buildFlatSub();
-    populateFilters();
-    renderStats();
-    renderRecentCards();
-    updateFiltered();
-    render();
-}
-
-// ── FLAT SUB ───────────────────────────────────────────────────────────────
-function buildFlatSub() {
-    flatSub = [];
-    if (dataset === 'licit') {
-        rawData.forEach(p => {
-            (p.lotes||[]).forEach(l => {
-                (l.itens||[]).forEach(it => {
-                    flatSub.push({...it, _proc: p, _lote: l});
-                });
+            // Popular Filtros
+            const situacoes = [...new Set(fullData.processos.map(p => p.situacao))];
+            const select = document.getElementById('filter-situacao');
+            situacoes.forEach(s => {
+                const opt = document.createElement('option');
+                opt.value = s;
+                opt.innerText = s;
+                select.appendChild(opt);
             });
-        });
-    } else {
-        rawData.forEach(reg => {
-            (reg.itens||[]).forEach(it => { flatSub.push({...it, _reg: reg}); });
-        });
-    }
-}
 
-// ── FILTERS ───────────────────────────────────────────────────────────────
-function populateFilters() {
-    const row = document.getElementById('filter-row');
-    row.innerHTML = '';
-
-    if (dataset === 'licit') {
-        row.innerHTML = buildSelect('f1-sel','Modalidade',rawData.map(r=>r.modalidade)) +
-            buildSelect('f2-sel','Situação',rawData.map(r=>r.situacao)) +
-            buildSelect('f3-sel','Ano',rawData.map(r=>r.ano_referencia));
-        document.getElementById('f1-sel').addEventListener('change', e=>{ f1=e.target.value; page=1; updateFiltered(); render(); });
-        document.getElementById('f2-sel').addEventListener('change', e=>{ f2=e.target.value; page=1; updateFiltered(); render(); });
-        document.getElementById('f3-sel').addEventListener('change', e=>{ f3=e.target.value; page=1; updateFiltered(); render(); });
-    } else {
-        row.innerHTML = buildSelect('f1-sel','Modalidade',rawData.map(r=>r.modalidade)) +
-            buildSelect('f2-sel','Situação',rawData.map(r=>r.status)) +
-            buildSelect('f3-sel','Ano',rawData.map(r=>r.ano_referencia)) +
-            buildSelect('f4-sel','Artigo',rawData.map(r=>r.artigo));
-        document.getElementById('f1-sel').addEventListener('change', e=>{ f1=e.target.value; page=1; updateFiltered(); render(); });
-        document.getElementById('f2-sel').addEventListener('change', e=>{ f2=e.target.value; page=1; updateFiltered(); render(); });
-        document.getElementById('f3-sel').addEventListener('change', e=>{ f3=e.target.value; page=1; updateFiltered(); render(); });
-        document.getElementById('f4-sel').addEventListener('change', e=>{ f4=e.target.value; page=1; updateFiltered(); render(); });
-    }
-}
-
-function buildSelect(id, label, values) {
-    const opts = [...new Set(values.filter(Boolean))].sort()
-        .map(v=>`<option value="${v}">${v}</option>`).join('');
-    return `<div class="flex flex-col gap-1 flex-1 min-w-[140px]">
-        <label class="text-[10px] uppercase font-bold text-slate-400 ml-1">${label}</label>
-        <select id="${id}" class="bg-slate-50 dark:bg-slate-950 border border-slate-200 dark:border-slate-800 rounded-lg px-3 py-2 outline-none focus:ring-2 focus:ring-blue-500 text-sm">
-            <option value="all">Todos</option>${opts}
-        </select></div>`;
-}
-
-// ── STATS ─────────────────────────────────────────────────────────────────
-function renderStats() {
-    let stats;
-    if (dataset === 'licit') {
-        const homologados = rawData.filter(r => norm(r.situacao).includes('homologad') || norm(r.situacao).includes('adjudicad')).length;
-        const ativos = rawData.filter(r => !norm(r.situacao).includes('homologad') && !norm(r.situacao).includes('adjudicad') && !norm(r.situacao).includes('anulad') && !norm(r.situacao).includes('revogad') && !norm(r.situacao).includes('fracass') && !norm(r.situacao).includes('deserto')).length;
-        const totalLotes = rawData.reduce((s,r) => s+(r.total_lotes||0), 0);
-        stats = [
-            { icon:'fa-gavel',        label:'Processos',     val: rawData.length,  color:'text-blue-600' },
-            { icon:'fa-check-circle', label:'Homologados',   val: homologados,     color:'text-emerald-500' },
-            { icon:'fa-spinner',      label:'Em Andamento',  val: ativos,          color:'text-amber-500' },
-            { icon:'fa-layer-group',  label:'Total de Lotes',val: totalLotes,      color:'text-primary-600' },
-        ];
-    } else {
-        const concluidos = rawData.filter(r => norm(r.status).includes('conclu')).length;
-        const emAnd = rawData.filter(r => !norm(r.status).includes('conclu')).length;
-        const totalItens = flatSub.length;
-        stats = [
-            { icon:'fa-shopping-cart', label:'Compras',      val: rawData.length,  color:'text-violet-600' },
-            { icon:'fa-check-double',  label:'Concluídas',    val: concluidos,      color:'text-emerald-500' },
-            { icon:'fa-clock',         label:'Em Andamento',  val: emAnd,           color:'text-amber-500' },
-            { icon:'fa-list-ol',       label:'Total Itens',   val: totalItens,      color:'text-primary-600' },
-        ];
-    }
-
-    document.getElementById('stats-container').innerHTML = stats.map(s => `
-        <div class="stat-card bg-white dark:bg-slate-900 rounded-xl border border-slate-200 dark:border-slate-800 p-5 shadow-sm flex items-center gap-4">
-            <div class="w-10 h-10 rounded-xl bg-slate-50 dark:bg-slate-800 flex items-center justify-center shrink-0">
-                <i class="fas ${s.icon} ${s.color} text-lg"></i>
-            </div>
-            <div class="min-w-0">
-                <p class="text-2xl font-black ${s.color}">${s.val.toLocaleString('pt-BR')}</p>
-                <p class="text-[11px] text-slate-400 font-medium truncate">${s.label}</p>
-            </div>
-        </div>`).join('');
-}
-
-// ── RECENT CARDS ──────────────────────────────────────────────────────────
-function renderRecentCards() {
-    const recentes = [...rawData]
-        .sort((a,b) => (b[dataset==='licit'?'publicacao':'data_publicacao']||'').localeCompare(a[dataset==='licit'?'publicacao':'data_publicacao']||''))
-        .slice(0,4);
-
-    document.getElementById('recent-container').innerHTML = recentes.map(r => {
-        const id = r.id || '';
-        const st = statusField(r);
-        const val = dataset==='licit' ? '' : fmtBRL(totalRegistroCompra(r));
-        const sub = dataset==='licit' ? r.modalidade||'–' : r.modalidade||'–';
-        return `<div onclick='openModalById("${id.replace(/'/g,"\\'")}") ' class="cursor-pointer bg-white dark:bg-slate-900 rounded-xl border border-slate-200 dark:border-slate-800 p-4 shadow-sm hover:border-${dataset==='licit'?'blue':'violet'}-400 dark:hover:border-${dataset==='licit'?'blue':'violet'}-600 hover:shadow-md transition-all">
-            <div class="flex items-start justify-between gap-2 mb-2">
-                <span class="mono text-xs font-black text-${dataset==='licit'?'blue':'violet'}-600 dark:text-${dataset==='licit'?'blue':'violet'}-400 shrink-0">${id}</span>
-                <span class="px-2 py-0.5 rounded-full text-[9px] font-bold shrink-0 ${badgeClass(st)}">${st||'–'}</span>
-            </div>
-            <p class="text-xs text-slate-600 dark:text-slate-300 line-clamp-2 mb-3">${r.objeto||id||'–'}</p>
-            <div class="flex items-center justify-between">
-                <span class="text-[10px] text-slate-400">${sub}</span>
-                <span class="text-xs font-bold text-emerald-600">${val}</span>
-            </div>
-        </div>`;
-    }).join('');
-}
-
-// ── FILTER UPDATE ─────────────────────────────────────────────────────────
-function updateFiltered() {
-    const q = norm(search);
-    if (viewMode === 'registros') {
-        filteredData = rawData.filter(r => {
-            if (dataset === 'licit') {
-                if (f1!=='all' && r.modalidade !== f1) return false;
-                if (f2!=='all' && r.situacao   !== f2) return false;
-                if (f3!=='all' && r.ano_referencia !== f3) return false;
-            } else {
-                if (f1!=='all' && r.modalidade    !== f1) return false;
-                if (f2!=='all' && r.status        !== f2) return false;
-                if (f3!=='all' && r.ano_referencia !== f3) return false;
-                if (f4!=='all' && r.artigo        !== f4) return false;
-            }
-            if (q) {
-                const blob = norm([
-                    r.id, r.objeto, r.numero_adm, r.condutor||r.coordenador, r.autoridade,
-                    r.modalidade, statusField(r), r.justificativa||'',
-                    ...(r.itens||[]).map(i=>(i.descricao||'')+(i.fornecedor||''))
-                ].join(' '));
-                return blob.includes(q);
-            }
-            return true;
-        });
-    } else {
-        filteredData = flatSub.filter(it => {
-            const r = it._proc || it._reg;
-            if (dataset === 'licit') {
-                if (f1!=='all' && r.modalidade !== f1) return false;
-                if (f2!=='all' && r.situacao   !== f2) return false;
-                if (f3!=='all' && r.ano_referencia !== f3) return false;
-            } else {
-                if (f1!=='all' && r.modalidade    !== f1) return false;
-                if (f2!=='all' && r.status        !== f2) return false;
-                if (f3!=='all' && r.ano_referencia !== f3) return false;
-                if (f4!=='all' && r.artigo        !== f4) return false;
-            }
-            if (q) {
-                const blob = norm([(it.especificacao||it.descricao||''), (it.fornecedor||''), r.id, r.objeto].join(' '));
-                return blob.includes(q);
-            }
-            return true;
-        });
-    }
-}
-
-// ── RENDER TABLE ──────────────────────────────────────────────────────────
-function render() {
-    const total = filteredData.length;
-    const pages = Math.ceil(total / PER_PAGE) || 1;
-    if (page > pages) page = pages;
-    const start = (page-1)*PER_PAGE;
-    const slice = filteredData.slice(start, start+PER_PAGE);
-
-    const head = document.getElementById('table-head');
-    const body = document.getElementById('table-body');
-
-    if (dataset === 'licit') {
-        if (viewMode === 'registros') {
-            head.innerHTML = `<tr class="bg-slate-50 dark:bg-slate-950 border-b border-slate-200 dark:border-slate-800">
-                ${['Nº Edital','Modalidade','Objeto','Condutor','Lotes','Itens','Situação'].map(h=>
-                    `<th class="px-4 py-3 text-[11px] font-bold text-slate-500 uppercase tracking-wider whitespace-nowrap">${h}</th>`
-                ).join('')}
-            </tr>`;
-            body.innerHTML = !slice.length
-                ? `<tr><td colspan="7" class="px-6 py-12 text-center text-slate-400 text-sm">Nenhum resultado encontrado.</td></tr>`
-                : slice.map((r,idx) => `
-                    <tr onclick="openModal(${start+idx})" class="cursor-pointer hover:bg-primary-50 dark:hover:bg-slate-800/40 transition-colors">
-                        <td class="px-4 py-3 mono text-xs font-black text-blue-600 dark:text-blue-400 whitespace-nowrap">${hl(r.id,search)||'–'}</td>
-                        <td class="px-4 py-3 text-xs text-slate-500 whitespace-nowrap">${hl(r.modalidade,search)||'–'}</td>
-                        <td class="px-4 py-3 text-xs text-slate-700 dark:text-slate-300 max-w-xs"><div class="line-clamp-2">${hl(r.objeto,search)||'–'}</div></td>
-                        <td class="px-4 py-3 text-xs text-slate-600 dark:text-slate-400 max-w-[180px]"><div class="truncate">${hl(r.condutor,search)||'–'}</div></td>
-                        <td class="px-4 py-3 text-center"><span class="mono text-xs font-bold text-slate-500">${r.total_lotes||0}</span></td>
-                        <td class="px-4 py-3 text-center"><span class="mono text-xs font-bold text-slate-500">${r.total_itens||0}</span></td>
-                        <td class="px-4 py-3 whitespace-nowrap"><span class="px-2 py-0.5 rounded-full text-[10px] font-bold ${badgeClassLicit(r.situacao)}">${r.situacao||'–'}</span></td>
-                    </tr>`).join('');
-        } else {
-            head.innerHTML = `<tr class="bg-slate-50 dark:bg-slate-950 border-b border-slate-200 dark:border-slate-800">
-                ${['Processo','Lote','Especificação','Unidade','Qtd.','Valor Ref.','Situação'].map(h=>
-                    `<th class="px-4 py-3 text-[11px] font-bold text-slate-500 uppercase tracking-wider whitespace-nowrap">${h}</th>`
-                ).join('')}
-            </tr>`;
-            body.innerHTML = !slice.length
-                ? `<tr><td colspan="7" class="px-6 py-12 text-center text-slate-400 text-sm">Nenhum resultado encontrado.</td></tr>`
-                : slice.map(it => {
-                    const r = it._proc;
-                    return `<tr onclick='openModalById("${r.id.replace(/'/g,"\\'")}") ' class="cursor-pointer hover:bg-primary-50 dark:hover:bg-slate-800/40 transition-colors">
-                        <td class="px-4 py-3 mono text-xs font-black text-blue-600 dark:text-blue-400 whitespace-nowrap">${hl(r.id,search)||'–'}</td>
-                        <td class="px-4 py-3 mono text-xs text-slate-400 whitespace-nowrap">${it._lote?.numero||'–'}</td>
-                        <td class="px-4 py-3 text-xs text-slate-700 dark:text-slate-300 max-w-xs"><div class="line-clamp-2">${hl(it.especificacao,search)||'–'}</div></td>
-                        <td class="px-4 py-3 mono text-xs text-slate-500 whitespace-nowrap">${it.unidade||'–'}</td>
-                        <td class="px-4 py-3 mono text-xs font-bold text-center">${it.quantidade||'–'}</td>
-                        <td class="px-4 py-3 mono text-xs font-bold text-emerald-600 whitespace-nowrap">${fmtBRL(it.valor_referencia)}</td>
-                        <td class="px-4 py-3 whitespace-nowrap"><span class="px-2 py-0.5 rounded-full text-[10px] font-bold ${badgeClassLicit(r.situacao)}">${r.situacao||'–'}</span></td>
-                    </tr>`;
-                }).join('');
+            renderList(fullData.processos);
         }
-    } else {
-        if (viewMode === 'registros') {
-            head.innerHTML = `<tr class="bg-slate-50 dark:bg-slate-950 border-b border-slate-200 dark:border-slate-800">
-                ${['ID','Modalidade','Objeto','Fornecedor','Valor Total','Situação'].map(h=>
-                    `<th class="px-4 py-3 text-[11px] font-bold text-slate-500 uppercase tracking-wider whitespace-nowrap">${h}</th>`
-                ).join('')}
-            </tr>`;
-            body.innerHTML = !slice.length
-                ? `<tr><td colspan="6" class="px-6 py-12 text-center text-slate-400 text-sm">Nenhum resultado encontrado.</td></tr>`
-                : slice.map((r,idx) => `
-                    <tr onclick="openModal(${start+idx})" class="cursor-pointer hover:bg-primary-50 dark:hover:bg-slate-800/40 transition-colors">
-                        <td class="px-4 py-3 mono text-xs font-black text-violet-600 dark:text-violet-400 whitespace-nowrap">${hl(r.id,search)||'–'}</td>
-                        <td class="px-4 py-3 text-xs text-slate-500 whitespace-nowrap">${hl(r.modalidade,search)||'–'}</td>
-                        <td class="px-4 py-3 text-xs text-slate-700 dark:text-slate-300 max-w-xs"><div class="line-clamp-2">${hl(r.objeto,search)||'–'}</div></td>
-                        <td class="px-4 py-3 text-xs text-slate-600 dark:text-slate-400 max-w-[180px]"><div class="truncate">${hl(fornecedorPrincipal(r),search)||'–'}</div></td>
-                        <td class="px-4 py-3 mono text-xs font-bold text-emerald-600 whitespace-nowrap">${fmtBRL(totalRegistroCompra(r))}</td>
-                        <td class="px-4 py-3 whitespace-nowrap"><span class="px-2 py-0.5 rounded-full text-[10px] font-bold ${badgeClassCompra(r.status)}">${r.status||'–'}</span></td>
-                    </tr>`).join('');
-        } else {
-            head.innerHTML = `<tr class="bg-slate-50 dark:bg-slate-950 border-b border-slate-200 dark:border-slate-800">
-                ${['ID','Nº','Descrição','Un.','Qtd.','Fornecedor','Subtotal','Situação'].map(h=>
-                    `<th class="px-4 py-3 text-[11px] font-bold text-slate-500 uppercase tracking-wider whitespace-nowrap">${h}</th>`
-                ).join('')}
-            </tr>`;
-            body.innerHTML = !slice.length
-                ? `<tr><td colspan="8" class="px-6 py-12 text-center text-slate-400 text-sm">Nenhum resultado encontrado.</td></tr>`
-                : slice.map(it => {
-                    const r = it._reg;
-                    const v = parseValor(it.valor||''); const q = parseValor(it.quantidade||'1');
-                    const sub = (!isNaN(v)&&!isNaN(q)&&q>0)?v*q:v;
-                    return `<tr onclick='openModalById("${r.id.replace(/'/g,"\\'")}") ' class="cursor-pointer hover:bg-primary-50 dark:hover:bg-slate-800/40 transition-colors">
-                        <td class="px-4 py-3 mono text-xs font-black text-violet-600 dark:text-violet-400 whitespace-nowrap">${hl(r.id,search)||'–'}</td>
-                        <td class="px-4 py-3 mono text-xs text-slate-400 text-center">${it.numero||'–'}</td>
-                        <td class="px-4 py-3 text-xs text-slate-700 dark:text-slate-300 max-w-xs"><div class="line-clamp-2">${hl(it.descricao,search)||'–'}</div></td>
-                        <td class="px-4 py-3 mono text-xs text-slate-500 whitespace-nowrap">${it.unidade||'–'}</td>
-                        <td class="px-4 py-3 mono text-xs font-bold text-center">${it.quantidade||'–'}</td>
-                        <td class="px-4 py-3 text-xs text-slate-600 dark:text-slate-400 max-w-[180px]"><div class="truncate">${hl(it.fornecedor,search)||'–'}</div></td>
-                        <td class="px-4 py-3 mono text-xs whitespace-nowrap">
-                            <div class="font-bold text-emerald-600">${fmtBRL(sub)}</div>
-                            <div class="text-[10px] text-slate-400">${fmtBRL(it.valor)} un.</div>
-                        </td>
-                        <td class="px-4 py-3 whitespace-nowrap"><span class="px-2 py-0.5 rounded-full text-[10px] font-bold ${badgeClassCompra(r.status)}">${r.status||'–'}</span></td>
-                    </tr>`;
-                }).join('');
-        }
-    }
 
-    renderPagination(total, pages);
-}
-
-// ── PAGINATION ────────────────────────────────────────────────────────────
-function renderPagination(total, pages) {
-    const info = document.getElementById('pagination-info');
-    const btns = document.getElementById('pagination-buttons');
-    const start = (page-1)*PER_PAGE + 1;
-    const end   = Math.min(page*PER_PAGE, total);
-    info.textContent = total > 0 ? `${start}–${end} de ${total.toLocaleString('pt-BR')} resultado(s)` : '';
-    if (pages <= 1) { btns.innerHTML = ''; return; }
-
-    const btnCls = active => active
-        ? `px-3 py-1.5 rounded-lg text-xs font-bold bg-${dataset==='licit'?'blue':'violet'}-600 text-white`
-        : 'px-3 py-1.5 rounded-lg text-xs font-semibold text-slate-500 hover:bg-slate-100 dark:hover:bg-slate-800 transition-colors';
-
-    let html = `<button onclick="goPage(${page-1})" ${page===1?'disabled':''} class="px-2 py-1.5 rounded-lg text-xs text-slate-400 hover:bg-slate-100 dark:hover:bg-slate-800 disabled:opacity-30 transition-colors"><i class="fas fa-chevron-left"></i></button>`;
-    const range = [];
-    if (pages <= 7) { for(let i=1;i<=pages;i++) range.push(i); }
-    else {
-        range.push(1);
-        if (page > 3) range.push('…');
-        for(let i=Math.max(2,page-1); i<=Math.min(pages-1,page+1); i++) range.push(i);
-        if (page < pages-2) range.push('…');
-        range.push(pages);
-    }
-    range.forEach(p => {
-        if (p === '…') html += `<span class="px-2 py-1.5 text-slate-300">…</span>`;
-        else html += `<button onclick="goPage(${p})" class="${btnCls(p===page)}">${p}</button>`;
-    });
-    html += `<button onclick="goPage(${page+1})" ${page===pages?'disabled':''} class="px-2 py-1.5 rounded-lg text-xs text-slate-400 hover:bg-slate-100 dark:hover:bg-slate-800 disabled:opacity-30 transition-colors"><i class="fas fa-chevron-right"></i></button>`;
-    btns.innerHTML = html;
-}
-function goPage(p) { page = p; render(); window.scrollTo({top:0,behavior:'smooth'}); }
-
-// ── MODAL ─────────────────────────────────────────────────────────────────
-function openModalById(id) {
-    const idx = filteredData.findIndex(r => (r.id || r._proc?.id || r._reg?.id) === id);
-    if (idx >= 0) { openModal(idx); return; }
-    const wasView = viewMode;
-    viewMode = 'registros'; updateFiltered();
-    const ni = filteredData.findIndex(r => r.id === id);
-    if (ni >= 0) { page = Math.ceil((ni+1)/PER_PAGE); render(); openModal(ni); }
-    else { viewMode = wasView; updateFiltered(); render(); }
-}
-
-function openModal(idx) {
-    currentModalIndex = idx;
-    const rec = filteredData[idx];
-    if (dataset === 'licit') {
-        const r = rec._proc || rec;
-        openModalLicit(r);
-    } else {
-        const r = rec._reg || rec;
-        openModalCompra(r, idx);
-    }
-}
-
-function openModalLicit(r) {
-    document.getElementById('ml-badge').className = `shrink-0 px-2.5 py-0.5 rounded-full text-[10px] font-bold uppercase tracking-wider ${badgeClassLicit(r.situacao)}`;
-    document.getElementById('ml-badge').textContent = r.situacao || '–';
-    document.getElementById('ml-title').textContent = r.id || '–';
-    document.getElementById('ml-objeto').innerHTML  = hl(r.objeto||'–', search);
-    document.getElementById('ml-id').textContent    = r.id||'–';
-    document.getElementById('ml-adm').textContent   = r.numero_adm||'–';
-    document.getElementById('ml-modalidade').textContent   = r.modalidade||'–';
-    document.getElementById('ml-ano').textContent = r.ano_referencia||'–';
-    document.getElementById('ml-condutor').textContent  = r.condutor||'–';
-    document.getElementById('ml-autoridade').textContent = r.autoridade||'–';
-    document.getElementById('ml-publicacao').textContent    = r.publicacao||'–';
-    document.getElementById('ml-fim-recepcao').textContent  = r.fim_recepcao||'–';
-    document.getElementById('ml-inicio-disputa').textContent = r.inicio_disputa||'–';
-    document.getElementById('ml-link').href = r.link||'#';
-
-    const lotes = r.lotes || [];
-    document.getElementById('ml-lotes-count').textContent = `${lotes.length} lote(s)`;
-    document.getElementById('ml-lotes-container').innerHTML = lotes.length === 0
-        ? '<p class="text-[11px] text-slate-400 italic">Sem lotes cadastrados.</p>'
-        : lotes.map(l => `
-            <div class="border border-slate-200 dark:border-slate-700 rounded-xl overflow-hidden">
-                <div class="bg-slate-50 dark:bg-slate-800 px-4 py-2 flex items-center justify-between gap-3">
-                    <div class="flex items-center gap-2">
-                        <span class="mono text-xs font-black text-blue-600 dark:text-blue-400">Lote ${l.numero}</span>
-                        <span class="text-xs text-slate-600 dark:text-slate-300 font-medium">${l.titulo||''}</span>
+        // --- Renderização ---
+        function renderList(list) {
+            const container = document.getElementById('list-container');
+            container.innerHTML = list.map(p => `
+                <div onclick="openDetails('${p.id}')" class="group bg-white dark:bg-slate-900 p-5 rounded-2xl border border-slate-200 dark:border-slate-800 hover:border-blue-500 dark:hover:border-blue-500 transition-all cursor-pointer shadow-sm hover:shadow-xl hover:shadow-blue-500/10">
+                    <div class="flex justify-between items-start mb-3">
+                        <span class="text-xs font-bold text-blue-600 dark:text-blue-400 bg-blue-50 dark:bg-blue-900/30 px-2 py-1 rounded">${p.id}</span>
+                        <span class="text-[10px] text-slate-400 font-mono">${p.numero_adm}</span>
                     </div>
-                    <span class="mono text-xs font-bold text-emerald-600 whitespace-nowrap">${fmtBRL(l.valor_referencia)}</span>
+                    <h4 class="font-bold text-slate-800 dark:text-slate-200 line-clamp-2 mb-3 group-hover:text-blue-600 transition-colors">${p.objeto}</h4>
+                    <div class="flex items-center justify-between mt-auto pt-4 border-t border-slate-50 dark:border-slate-800">
+                        <span class="text-[11px] px-2 py-0.5 rounded-full ${getBadgeClass(p.situacao)}">${p.situacao}</span>
+                        <span class="text-[10px] text-slate-400"><i class="far fa-calendar-alt mr-1"></i>${p.publicacao.split(' ')[0]}</span>
+                    </div>
                 </div>
-                ${l.itens && l.itens.length ? `<div class="overflow-x-auto"><table class="w-full text-[11px]">
-                    <thead><tr class="bg-slate-100 dark:bg-slate-800/50 text-slate-500">
-                        <th class="px-3 py-1.5 text-left">#</th>
-                        <th class="px-3 py-1.5 text-left">Especificação</th>
-                        <th class="px-3 py-1.5 text-left">Un.</th>
-                        <th class="px-3 py-1.5 text-right">Qtd.</th>
-                        <th class="px-3 py-1.5 text-right">Valor Ref.</th>
-                    </tr></thead>
-                    <tbody class="divide-y divide-slate-100 dark:divide-slate-800">
-                    ${l.itens.map(it=>`<tr class="hover:bg-slate-50 dark:hover:bg-slate-800/40">
-                        <td class="px-3 py-1.5 mono text-slate-400 text-center">${it.numero}</td>
-                        <td class="px-3 py-1.5 text-slate-700 dark:text-slate-300">${it.especificacao||'–'}</td>
-                        <td class="px-3 py-1.5 mono text-slate-500 whitespace-nowrap">${it.unidade||'–'}</td>
-                        <td class="px-3 py-1.5 mono text-right font-bold">${it.quantidade||'–'}</td>
-                        <td class="px-3 py-1.5 mono text-right font-bold text-emerald-600 whitespace-nowrap">${fmtBRL(it.valor_referencia)}</td>
-                    </tr>`).join('')}
-                    </tbody></table></div>` : ''}
-            </div>`).join('');
+            `).join('');
+        }
 
-    const total = filteredData.length;
-    document.getElementById('modal-counter').textContent = `${currentModalIndex+1} de ${total}`;
-    document.getElementById('modal-prev').disabled = currentModalIndex <= 0;
-    document.getElementById('modal-next').disabled = currentModalIndex >= total-1;
+        // --- Detalhamento (Off-canvas) ---
+        function openDetails(id) {
+            activeProcess = fullData.processos.find(p => p.id === id);
+            
+            document.getElementById('p-id').innerText = activeProcess.id;
+            document.getElementById('p-mod').innerText = activeProcess.modalidade;
+            document.getElementById('p-sit').innerText = activeProcess.situacao;
+            document.getElementById('p-cond').innerText = activeProcess.condutor || 'Não informado';
+            document.getElementById('p-obj').innerText = activeProcess.objeto;
+            document.getElementById('p-count-lotes').innerText = `${activeProcess.lotes?.length || 0} Lotes`;
 
-    document.getElementById('modal-licit').classList.remove('modal-hidden');
-    document.body.style.overflow = 'hidden';
-}
+            renderLotes(activeProcess.lotes || []);
 
-function openModalCompra(r, idx) {
-    document.getElementById('mc-badge').className = `shrink-0 px-2.5 py-0.5 rounded-full text-[10px] font-bold uppercase tracking-wider ${badgeClassCompra(r.status)}`;
-    document.getElementById('mc-badge').textContent = r.status||'–';
-    document.getElementById('mc-title').textContent = r.id||'–';
-    document.getElementById('mc-objeto').innerHTML  = hl(r.objeto||'–', search);
-    document.getElementById('mc-justificativa').innerHTML = hl(r.justificativa||'–', search);
-    document.getElementById('mc-id').textContent    = r.id||'–';
-    document.getElementById('mc-adm').textContent   = r.numero_adm||'–';
-    document.getElementById('mc-modalidade').textContent = r.modalidade||'–';
-    document.getElementById('mc-artigo').textContent  = r.artigo||'–';
-    document.getElementById('mc-inciso').textContent  = r.inciso||'–';
-    document.getElementById('mc-legislacao').textContent = r.legislacao||'–';
-    document.getElementById('mc-coordenador').textContent = r.coordenador||'–';
-    document.getElementById('mc-autoridade').textContent  = r.autoridade||'–';
-    document.getElementById('mc-publicacao').textContent  = r.data_publicacao||'–';
-    document.getElementById('mc-conclusao').textContent   = r.data_conclusao||'–';
-    document.getElementById('mc-link').href = r.link||'#';
-    document.getElementById('mc-fornecedor').textContent = fornecedorPrincipal(r);
-    const vt = totalRegistroCompra(r);
-    document.getElementById('mc-valor').textContent = vt !== null ? fmtBRL(vt) : '–';
+            // Animação
+            const backdrop = document.getElementById('backdrop');
+            const panel = document.getElementById('side-panel');
+            backdrop.classList.remove('hidden');
+            setTimeout(() => {
+                backdrop.classList.remove('opacity-0');
+                panel.classList.remove('translate-x-full');
+            }, 10);
+        }
 
-    const itens = r.itens||[];
-    document.getElementById('mc-itens-count').textContent = `${itens.length} item(ns)`;
-    document.getElementById('mc-itens-container').innerHTML = itens.length === 0
-        ? '<p class="text-[11px] text-slate-400 italic">Sem itens cadastrados.</p>'
-        : `<div class="overflow-x-auto rounded-lg border border-slate-200 dark:border-slate-700">
-            <table class="w-full text-[11px]">
-                <thead><tr class="bg-slate-100 dark:bg-slate-800 text-slate-500">
-                    <th class="px-3 py-2 text-left font-semibold">#</th>
-                    <th class="px-3 py-2 text-left font-semibold">Descrição</th>
-                    <th class="px-3 py-2 text-left font-semibold">Un.</th>
-                    <th class="px-3 py-2 text-right font-semibold">Qtd.</th>
-                    <th class="px-3 py-2 text-left font-semibold">Fornecedor</th>
-                    <th class="px-3 py-2 text-left font-semibold">Marca/Modelo</th>
-                    <th class="px-3 py-2 text-right font-semibold">Val. Unit.</th>
-                    <th class="px-3 py-2 text-right font-semibold">Subtotal</th>
-                </tr></thead>
-                <tbody class="divide-y divide-slate-100 dark:divide-slate-800">
-                ${itens.map(it => {
-                    const v = parseValor(it.valor||''); const q = parseValor(it.quantidade||'1');
-                    const subtotal = (!isNaN(v)&&!isNaN(q)&&q>0)?v*q:v;
-                    return `<tr class="hover:bg-slate-50 dark:hover:bg-slate-800/40">
-                        <td class="px-3 py-2 mono text-slate-400 text-center">${it.numero||'–'}</td>
-                        <td class="px-3 py-2 text-slate-700 dark:text-slate-300 max-w-xs">${hl(it.descricao,search)||'–'}</td>
-                        <td class="px-3 py-2 mono text-slate-500 whitespace-nowrap">${it.unidade||'–'}</td>
-                        <td class="px-3 py-2 mono text-right font-bold">${it.quantidade||'–'}</td>
-                        <td class="px-3 py-2 text-slate-600 dark:text-slate-400 max-w-[160px] truncate">${hl(it.fornecedor,search)||'–'}</td>
-                        <td class="px-3 py-2 text-slate-500 whitespace-nowrap">${[it.marca,it.modelo].filter(x=>x&&x!=='NÃO SE APLICA'&&x!=='NAO SE APLICA').join(' / ')||'–'}</td>
-                        <td class="px-3 py-2 mono text-right text-slate-500 whitespace-nowrap">${fmtBRL(it.valor)}</td>
-                        <td class="px-3 py-2 mono text-right font-bold text-emerald-600 whitespace-nowrap">${fmtBRL(subtotal)}</td>
-                    </tr>`;
-                }).join('')}
-                </tbody>
-            </table></div>`;
+        function closeDetails() {
+            const backdrop = document.getElementById('backdrop');
+            const panel = document.getElementById('side-panel');
+            backdrop.classList.add('opacity-0');
+            panel.classList.add('translate-x-full');
+            setTimeout(() => backdrop.classList.add('hidden'), 300);
+        }
 
-    const total = filteredData.length;
-    document.getElementById('mc-modal-counter').textContent = `${currentModalIndex+1} de ${total}`;
-    document.getElementById('mc-modal-prev').disabled = currentModalIndex <= 0;
-    document.getElementById('mc-modal-next').disabled = currentModalIndex >= total-1;
+        function renderLotes(lotes) {
+            const container = document.getElementById('lotes-container');
+            container.innerHTML = lotes.map(l => `
+                <details class="group border border-slate-200 dark:border-slate-800 rounded-xl overflow-hidden bg-white dark:bg-slate-900 transition-all">
+                    <summary class="flex items-center justify-between p-4 cursor-pointer hover:bg-slate-50 dark:hover:bg-slate-800/50 list-none">
+                        <div class="flex gap-4 items-center">
+                            <span class="flex-shrink-0 w-8 h-8 flex items-center justify-center rounded-full bg-slate-100 dark:bg-slate-800 text-xs font-bold">L${l.numero}</span>
+                            <span class="text-sm font-semibold truncate max-w-[300px]">${l.descricao || 'Sem descrição'}</span>
+                        </div>
+                        <i class="fas fa-chevron-down text-xs text-slate-400 group-open:rotate-180 transition-transform"></i>
+                    </summary>
+                    <div class="px-4 pb-4 border-t border-slate-100 dark:border-slate-800 bg-slate-50/50 dark:bg-slate-950/30">
+                        <div class="overflow-x-auto mt-4 rounded-lg border border-slate-200 dark:border-slate-800">
+                            <table class="w-full text-[11px] text-left">
+                                <thead class="bg-slate-100 dark:bg-slate-800 text-slate-500 uppercase">
+                                    <tr>
+                                        <th class="p-2 w-10">Item</th>
+                                        <th class="p-2">Especificação</th>
+                                        <th class="p-2 text-right">Qtd/Unid</th>
+                                        <th class="p-2 text-right">Valor Ref.</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    ${l.itens.map(it => `
+                                        <tr class="border-t border-slate-100 dark:border-slate-800">
+                                            <td class="p-2 font-bold">${it.numero}</td>
+                                            <td class="p-2 text-slate-600 dark:text-slate-400">${it.especificacao}</td>
+                                            <td class="p-2 text-right whitespace-nowrap">${it.quantidade} ${it.unidade}</td>
+                                            <td class="p-2 text-right font-semibold">R$ ${it.valor_referencia}</td>
+                                        </tr>
+                                    `).join('')}
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </details>
+            `).join('');
+        }
 
-    document.getElementById('modal-compra').classList.remove('modal-hidden');
-    document.body.style.overflow = 'hidden';
-}
+        // --- Exportação PDF ---
+        function gerarPDFAtual() {
+            if (!activeProcess) return;
+            const { jsPDF } = window.jspdf;
+            const doc = new jsPDF();
+            const p = activeProcess;
 
-function closeModal() {
-    document.getElementById('modal-licit').classList.add('modal-hidden');
-    document.getElementById('modal-compra').classList.add('modal-hidden');
-    document.body.style.overflow = '';
-}
+            // Header
+            doc.setFontSize(10);
+            doc.text("MUNICIPIO DE TEIXEIRA DE FREITAS", 105, 15, { align: "center" });
+            doc.setFontSize(14).setFont(undefined, 'bold');
+            doc.text(`RELATÓRIO TÉCNICO: ${p.id}`, 20, 30);
+            
+            // Info Table
+            doc.autoTable({
+                startY: 35,
+                body: [
+                    ["Modalidade", p.modalidade, "Status", p.situacao],
+                    ["Proc. Adm", p.numero_adm, "Condutor", p.condutor || "---"]
+                ],
+                theme: 'plain', styles: { fontSize: 8, cellPadding: 1 }
+            });
 
-function nextItem() { if (currentModalIndex < filteredData.length-1) openModal(currentModalIndex+1); }
-function prevItem() { if (currentModalIndex > 0) openModal(currentModalIndex-1); }
+            // Objeto
+            doc.setFontSize(9).setFont(undefined, 'bold').text("OBJETO:", 20, doc.lastAutoTable.finalY + 10);
+            doc.setFont(undefined, 'normal');
+            const splitObj = doc.splitTextToSize(p.objeto, 170);
+            doc.text(splitObj, 20, doc.lastAutoTable.finalY + 15);
 
-// ── EVENTOS ───────────────────────────────────────────────────────────────
-function executeSearch() {
-    search = document.getElementById('search-input').value.trim();
-    page = 1; updateFiltered(); render();
-}
-function clearFilters() {
-    document.getElementById('search-input').value = '';
-    ['f1-sel','f2-sel','f3-sel','f4-sel'].forEach(id => { const el=document.getElementById(id); if(el) el.value='all'; });
-    search=''; f1='all'; f2='all'; f3='all'; f4='all';
-    page=1; updateFiltered(); render();
-}
-document.getElementById('search-btn').addEventListener('click', executeSearch);
-document.getElementById('clear-btn').addEventListener('click', clearFilters);
-document.getElementById('search-input').addEventListener('keypress', e => { if(e.key==='Enter') executeSearch(); });
+            // Lotes
+            let y = doc.lastAutoTable.finalY + 20 + (splitObj.length * 4);
+            p.lotes.forEach(l => {
+                if (y > 260) { doc.addPage(); y = 20; }
+                
+                doc.setFontSize(10).setFont(undefined, 'bold');
+                doc.setFillColor(245, 245, 245).rect(20, y, 170, 7, 'F');
+                doc.text(`LOTE ${l.numero} - ${l.descricao || ''}`, 22, y + 5);
 
-document.querySelectorAll('.view-tab').forEach(btn => {
-    btn.addEventListener('click', () => {
-        document.querySelectorAll('.view-tab').forEach(b => b.classList.remove('tab-active'));
-        btn.classList.add('tab-active');
-        viewMode = btn.dataset.view;
-        page = 1; updateFiltered(); render();
-    });
-});
+                doc.autoTable({
+                    startY: y + 8,
+                    head: [['Item', 'Especificação', 'Qtd', 'Unid', 'Valor Ref.']],
+                    body: l.itens.map(i => [i.numero, i.especificacao, i.quantidade, i.unidade, `R$ ${i.valor_referencia}`]),
+                    styles: { fontSize: 7 }, headStyles: { fillColor: [37, 99, 235] },
+                    margin: { left: 20 }, tableWidth: 170
+                });
+                y = doc.lastAutoTable.finalY + 10;
+            });
 
-window.addEventListener('keydown', e => {
-    const licit = document.getElementById('modal-licit');
-    const compra = document.getElementById('modal-compra');
-    const licitOpen = !licit.classList.contains('modal-hidden');
-    const compraOpen = !compra.classList.contains('modal-hidden');
-    if (!licitOpen && !compraOpen) return;
-    if (e.key === 'Escape')     closeModal();
-    if (e.key === 'ArrowRight') nextItem();
-    if (e.key === 'ArrowLeft')  prevItem();
-});
+            doc.save(`${p.id}_detalhes.pdf`);
+        }
 
-// ── INIT ──────────────────────────────────────────────────────────────────
-initTheme();
-loadData();
-</script>
+        // --- Helpers ---
+        function formatarDataISO(iso) {
+            if(!iso) return "---";
+            const ano = iso.substring(0,4);
+            const mes = iso.substring(4,6);
+            const dia = iso.substring(6,8);
+            return `${dia}/${mes}/${ano}`;
+        }
+
+        function getBadgeClass(sit) {
+            const s = sit.toUpperCase();
+            if(s.includes('RECEPÇÃO')) return 'bg-blue-100 text-blue-700 dark:bg-blue-900/40 dark:text-blue-300';
+            if(s.includes('HOMOLOGADO') || s.includes('ADJUDICADO')) return 'bg-emerald-100 text-emerald-700 dark:bg-emerald-900/40 dark:text-emerald-300';
+            if(s.includes('SUSPENSO') || s.includes('CANCELADO')) return 'bg-rose-100 text-rose-700 dark:bg-rose-900/40 dark:text-rose-300';
+            return 'bg-slate-100 text-slate-600 dark:bg-slate-800 dark:text-slate-400';
+        }
+
+        // Filtro
+        document.getElementById('main-search').addEventListener('input', (e) => {
+            const term = e.target.value.toLowerCase();
+            const sit = document.getElementById('filter-situacao').value;
+            const filtered = fullData.processos.filter(p => {
+                const matchSearch = p.objeto.toLowerCase().includes(term) || p.id.toLowerCase().includes(term);
+                const matchSit = sit === 'all' || p.situacao === sit;
+                return matchSearch && matchSit;
+            });
+            renderList(filtered);
+        });
+
+        document.getElementById('filter-situacao').addEventListener('change', () => {
+            document.getElementById('main-search').dispatchEvent(new Event('input'));
+        });
+
+        loadData();
+    </script>
 </body>
 </html>
