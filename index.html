@@ -313,6 +313,9 @@
         </div>
         <div class="px-6 py-3 border-t border-slate-200 dark:border-slate-800 flex items-center justify-between bg-slate-50 dark:bg-slate-950 shrink-0">
             <button id="modal-prev" onclick="prevItem()" class="flex items-center gap-2 text-xs font-bold text-slate-400 hover:text-blue-600 dark:hover:text-blue-400 transition-colors disabled:opacity-20"><i class="fas fa-arrow-left"></i> Anterior</button>
+            <button onclick="exportModalPDF()" class="flex items-center gap-1.5 px-4 py-1.5 rounded-lg text-xs font-bold bg-rose-600 hover:bg-rose-700 text-white transition-all shadow-sm">
+                <i class="fas fa-file-pdf"></i> Imprimir PDF
+            </button>
             <span id="modal-counter" class="text-[10px] font-medium text-slate-400 mono"></span>
             <button id="modal-next" onclick="nextItem()" class="flex items-center gap-2 text-xs font-bold text-slate-400 hover:text-blue-600 dark:hover:text-blue-400 transition-colors disabled:opacity-20">Próximo <i class="fas fa-arrow-right"></i></button>
         </div>
@@ -379,6 +382,9 @@
         </div>
         <div class="px-6 py-3 border-t border-slate-200 dark:border-slate-800 flex items-center justify-between bg-slate-50 dark:bg-slate-950 shrink-0">
             <button id="mc-modal-prev" onclick="prevItem()" class="flex items-center gap-2 text-xs font-bold text-slate-400 hover:text-violet-600 dark:hover:text-violet-400 transition-colors disabled:opacity-20"><i class="fas fa-arrow-left"></i> Anterior</button>
+            <button onclick="exportModalPDF()" class="flex items-center gap-1.5 px-4 py-1.5 rounded-lg text-xs font-bold bg-rose-600 hover:bg-rose-700 text-white transition-all shadow-sm">
+                <i class="fas fa-file-pdf"></i> Imprimir PDF
+            </button>
             <span id="mc-modal-counter" class="text-[10px] font-medium text-slate-400 mono"></span>
             <button id="mc-modal-next" onclick="nextItem()" class="flex items-center gap-2 text-xs font-bold text-slate-400 hover:text-violet-600 dark:hover:text-violet-400 transition-colors disabled:opacity-20">Próximo <i class="fas fa-arrow-right"></i></button>
         </div>
@@ -1444,6 +1450,329 @@ function renderDashboard() {
                 </div>
             </div>`).join('');
     }
+}
+
+// ── EXPORTAR PDF DO MODAL ─────────────────────────────────────────────────
+function exportModalPDF() {
+    if (currentModalIndex < 0 || currentModalIndex >= filteredData.length) return;
+    const rec = filteredData[currentModalIndex];
+    const { jsPDF } = window.jspdf;
+    const doc = new jsPDF({ orientation: 'portrait', unit: 'mm', format: 'a4' });
+
+    const isLicit = dataset === 'licit';
+    const r = isLicit ? (rec._proc || rec) : (rec._reg || rec);
+    const corPrimaria = isLicit ? [37, 99, 235] : [124, 58, 237];
+    const corClara   = isLicit ? [239, 246, 255] : [245, 243, 255];
+    const corTexto   = isLicit ? [29, 78, 216]   : [109, 40, 217];
+    const W = 210; // largura A4
+    const ML = 15; // margem esquerda
+    const MR = 15; // margem direita
+    const CW = W - ML - MR; // largura útil
+
+    let y = 0;
+
+    // ── CABEÇALHO ──
+    doc.setFillColor(...corPrimaria);
+    doc.rect(0, 0, W, 28, 'F');
+
+    // Faixa decorativa
+    doc.setFillColor(...corPrimaria.map(c => Math.min(255, c + 30)));
+    doc.rect(0, 22, W, 6, 'F');
+
+    doc.setTextColor(255, 255, 255);
+    doc.setFontSize(9);
+    doc.setFont('helvetica', 'normal');
+    doc.text('MUNICÍPIO DE TEIXEIRA DE FREITAS — BLL EXPLORER', ML, 9);
+
+    doc.setFontSize(15);
+    doc.setFont('helvetica', 'bold');
+    doc.text(isLicit ? 'PROCESSO LICITATÓRIO' : 'COMPRA DIRETA', ML, 19);
+
+    // ID no canto direito
+    doc.setFontSize(10);
+    doc.setFont('helvetica', 'bold');
+    doc.text(r.id || '', W - MR, 19, { align: 'right' });
+
+    y = 36;
+
+    // ── BADGE SITUAÇÃO ──
+    const situacao = isLicit ? (r.situacao || '') : (r.status || '');
+    doc.setFillColor(...corClara);
+    doc.roundedRect(ML, y - 5, 60, 8, 2, 2, 'F');
+    doc.setTextColor(...corTexto);
+    doc.setFontSize(8);
+    doc.setFont('helvetica', 'bold');
+    doc.text(situacao.toUpperCase(), ML + 3, y);
+    y += 8;
+
+    // ── OBJETO ──
+    doc.setDrawColor(226, 232, 240);
+    doc.setFillColor(248, 250, 252);
+    doc.roundedRect(ML, y, CW, 6, 1, 1, 'FD');
+    doc.setTextColor(100, 116, 139);
+    doc.setFontSize(7);
+    doc.setFont('helvetica', 'bold');
+    doc.text('OBJETO', ML + 3, y + 4);
+    y += 9;
+
+    doc.setTextColor(30, 41, 59);
+    doc.setFontSize(9);
+    doc.setFont('helvetica', 'normal');
+    const objetoLines = doc.splitTextToSize(r.objeto || '–', CW);
+    doc.text(objetoLines, ML, y);
+    y += objetoLines.length * 5 + 6;
+
+    // ── GRID DE INFORMAÇÕES ──
+    const col1X = ML;
+    const col2X = ML + CW / 2 + 2;
+    const colW  = CW / 2 - 2;
+
+    const drawInfoBox = (label, value, x, yPos, w, h = 14, bgColor = [248,250,252]) => {
+        doc.setFillColor(...bgColor);
+        doc.setDrawColor(226, 232, 240);
+        doc.roundedRect(x, yPos, w, h, 1.5, 1.5, 'FD');
+        doc.setTextColor(100, 116, 139);
+        doc.setFontSize(6.5);
+        doc.setFont('helvetica', 'bold');
+        doc.text(label.toUpperCase(), x + 3, yPos + 4.5);
+        doc.setTextColor(15, 23, 42);
+        doc.setFontSize(8);
+        doc.setFont('helvetica', 'bold');
+        const lines = doc.splitTextToSize(String(value || '–'), w - 6);
+        doc.text(lines[0], x + 3, yPos + 10);
+    };
+
+    if (isLicit) {
+        // Linha 1
+        drawInfoBox('Nº Edital', r.id, col1X, y, colW);
+        drawInfoBox('Nº Administrativo', r.numero_adm, col2X, y, colW);
+        y += 17;
+        // Linha 2
+        drawInfoBox('Modalidade', r.modalidade, col1X, y, colW);
+        drawInfoBox('Tipo de Contrato', r.tipo_contrato, col2X, y, colW);
+        y += 17;
+        // Linha 3
+        drawInfoBox('Condutor', r.condutor, col1X, y, colW);
+        drawInfoBox('Autoridade', r.autoridade, col2X, y, colW);
+        y += 17;
+
+        // Datas
+        doc.setFillColor(...corClara);
+        doc.setDrawColor(...corPrimaria);
+        doc.roundedRect(ML, y, CW, 6, 1, 1, 'FD');
+        doc.setTextColor(...corTexto);
+        doc.setFontSize(7);
+        doc.setFont('helvetica', 'bold');
+        doc.text('DATAS', ML + 3, y + 4);
+        y += 9;
+
+        const dW = (CW - 6) / 4;
+        const datas = [
+            ['Publicação', r.publicacao],
+            ['Início Recepção', r.inicio_recepcao],
+            ['Fim Recepção', r.fim_recepcao],
+            ['Início Disputa', r.inicio_disputa],
+        ];
+        datas.forEach(([lbl, val], i) => {
+            drawInfoBox(lbl, val, ML + i * (dW + 2), y, dW, 14, [255,255,255]);
+        });
+        y += 17;
+
+        // Lotes e Itens
+        const lotes = r.lotes || [];
+        if (lotes.length) {
+            // Título seção
+            doc.setFillColor(...corClara);
+            doc.setDrawColor(...corPrimaria);
+            doc.roundedRect(ML, y, CW, 6, 1, 1, 'FD');
+            doc.setTextColor(...corTexto);
+            doc.setFontSize(7);
+            doc.setFont('helvetica', 'bold');
+            doc.text(`LOTES E ITENS  (${lotes.length} lote(s) · ${r.total_itens || 0} itens)`, ML + 3, y + 4);
+            y += 9;
+
+            lotes.forEach(l => {
+                if (y > 255) { doc.addPage(); y = 20; }
+
+                // Header do lote
+                doc.setFillColor(241, 245, 249);
+                doc.setDrawColor(203, 213, 225);
+                doc.roundedRect(ML, y, CW, 9, 1, 1, 'FD');
+                doc.setTextColor(...corPrimaria);
+                doc.setFontSize(8);
+                doc.setFont('helvetica', 'bold');
+                doc.text(`Lote ${l.numero}  ${l.titulo || ''}`, ML + 3, y + 6);
+                // Valor ref. à direita
+                doc.setTextColor(5, 150, 105);
+                doc.text(fmtBRL(l.valor_referencia), W - MR, y + 6, { align: 'right' });
+                y += 11;
+
+                // Vencedor
+                if (l.vencedor && l.vencedor.trim()) {
+                    doc.setFillColor(236, 253, 245);
+                    doc.setDrawColor(167, 243, 208);
+                    doc.roundedRect(ML, y, CW, 7, 1, 1, 'FD');
+                    doc.setTextColor(5, 150, 105);
+                    doc.setFontSize(7.5);
+                    doc.setFont('helvetica', 'bold');
+                    doc.text(`🏆 Vencedor: ${l.vencedor}`, ML + 3, y + 5);
+                    y += 9;
+                }
+
+                // Melhor oferta
+                const mo = parseValor(l.melhor_oferta || '0');
+                if (!isNaN(mo) && mo > 0) {
+                    doc.setFontSize(7);
+                    doc.setTextColor(100, 116, 139);
+                    doc.text(`Melhor oferta: ${fmtBRL(mo)}`, ML + 3, y);
+                    y += 5;
+                }
+
+                // Tabela de itens
+                if (l.itens && l.itens.length) {
+                    doc.autoTable({
+                        startY: y,
+                        head: [['#', 'Especificação', 'Un.', 'Qtd.', 'Valor Ref.']],
+                        body: l.itens.map(it => [
+                            it.numero || '',
+                            it.especificacao || '',
+                            it.unidade || '',
+                            it.quantidade || '',
+                            fmtBRL(it.valor_referencia)
+                        ]),
+                        styles: { fontSize: 7, cellPadding: 2 },
+                        headStyles: { fillColor: corPrimaria, textColor: 255, fontSize: 7, fontStyle: 'bold' },
+                        alternateRowStyles: { fillColor: [248, 250, 252] },
+                        columnStyles: { 1: { cellWidth: 'auto' }, 4: { halign: 'right', textColor: [5,150,105], fontStyle: 'bold' } },
+                        margin: { left: ML, right: MR },
+                        theme: 'grid',
+                    });
+                    y = doc.lastAutoTable.finalY + 6;
+                }
+            });
+        }
+    } else {
+        // COMPRA DIRETA
+        // Linha 1
+        drawInfoBox('Nº Edital', r.id, col1X, y, colW);
+        drawInfoBox('Nº Administrativo', r.numero_adm, col2X, y, colW);
+        y += 17;
+        // Linha 2
+        drawInfoBox('Modalidade', r.modalidade, col1X, y, colW);
+        drawInfoBox('Legislação', r.legislacao, col2X, y, colW);
+        y += 17;
+        // Linha 3
+        drawInfoBox('Artigo / Inciso', `${r.artigo || '–'} ${r.inciso || ''}`, col1X, y, colW);
+        drawInfoBox('Ano Ref.', r.ano_referencia, col2X, y, colW);
+        y += 17;
+        // Linha 4
+        drawInfoBox('Coordenador', r.coordenador, col1X, y, colW);
+        drawInfoBox('Autoridade', r.autoridade, col2X, y, colW);
+        y += 17;
+
+        // Datas
+        const dW2 = (CW - 2) / 2;
+        drawInfoBox('Data Publicação', r.data_publicacao, col1X, y, dW2, 14, [255,255,255]);
+        drawInfoBox('Data Conclusão', r.data_conclusao, col2X, y, dW2, 14, [255,255,255]);
+        y += 17;
+
+        // Justificativa
+        if (r.justificativa) {
+            doc.setFillColor(255, 251, 235);
+            doc.setDrawColor(253, 230, 138);
+            doc.roundedRect(ML, y, CW, 6, 1, 1, 'FD');
+            doc.setTextColor(146, 64, 14);
+            doc.setFontSize(7);
+            doc.setFont('helvetica', 'bold');
+            doc.text('JUSTIFICATIVA', ML + 3, y + 4);
+            y += 9;
+            doc.setTextColor(30, 41, 59);
+            doc.setFontSize(8);
+            doc.setFont('helvetica', 'normal');
+            const jLines = doc.splitTextToSize(r.justificativa, CW);
+            doc.text(jLines, ML, y);
+            y += jLines.length * 5 + 6;
+        }
+
+        // Itens
+        const itens = r.itens || [];
+        if (itens.length) {
+            if (y > 240) { doc.addPage(); y = 20; }
+            doc.setFillColor(...corClara);
+            doc.setDrawColor(...corPrimaria);
+            doc.roundedRect(ML, y, CW, 6, 1, 1, 'FD');
+            doc.setTextColor(...corTexto);
+            doc.setFontSize(7);
+            doc.setFont('helvetica', 'bold');
+            doc.text(`ITENS (${itens.length})`, ML + 3, y + 4);
+            y += 9;
+
+            // Valor total destaque
+            const vt = totalRegistroCompra(r);
+            if (vt !== null) {
+                doc.setFillColor(236, 253, 245);
+                doc.setDrawColor(167, 243, 208);
+                doc.roundedRect(ML, y, CW, 8, 1, 1, 'FD');
+                doc.setTextColor(5, 150, 105);
+                doc.setFontSize(9);
+                doc.setFont('helvetica', 'bold');
+                doc.text(`Valor Total Contratado: ${fmtBRL(vt)}`, ML + 3, y + 5.5);
+                doc.text(fornecedorPrincipal(r), W - MR, y + 5.5, { align: 'right' });
+                y += 11;
+            }
+
+            doc.autoTable({
+                startY: y,
+                head: [['#', 'Descrição', 'Un.', 'Qtd.', 'Fornecedor', 'Val. Unit.', 'Subtotal']],
+                body: itens.map(it => {
+                    const v = parseValor(it.valor || '0');
+                    const q = parseValor(it.quantidade || '1');
+                    const sub = (!isNaN(v) && !isNaN(q) && q > 0) ? v * q : v;
+                    return [
+                        it.numero || '',
+                        it.descricao || '',
+                        it.unidade || '',
+                        it.quantidade || '',
+                        (it.fornecedor || '').substring(0, 30),
+                        fmtBRL(v),
+                        fmtBRL(sub)
+                    ];
+                }),
+                styles: { fontSize: 7, cellPadding: 2, overflow: 'linebreak' },
+                headStyles: { fillColor: corPrimaria, textColor: 255, fontSize: 7, fontStyle: 'bold' },
+                alternateRowStyles: { fillColor: [248, 250, 252] },
+                columnStyles: {
+                    1: { cellWidth: 'auto' },
+                    5: { halign: 'right' },
+                    6: { halign: 'right', textColor: [5,150,105], fontStyle: 'bold' }
+                },
+                margin: { left: ML, right: MR },
+                theme: 'grid',
+            });
+            y = doc.lastAutoTable.finalY + 6;
+        }
+    }
+
+    // ── RODAPÉ ── (em todas as páginas)
+    const totalPages = doc.internal.getNumberOfPages();
+    for (let p = 1; p <= totalPages; p++) {
+        doc.setPage(p);
+        const rodapeY = 292;
+        doc.setDrawColor(226, 232, 240);
+        doc.line(ML, rodapeY - 4, W - MR, rodapeY - 4);
+        doc.setFontSize(7);
+        doc.setFont('helvetica', 'normal');
+        doc.setTextColor(148, 163, 184);
+        doc.text(`BLL Explorer · Município de Teixeira de Freitas · Gerado em ${new Date().toLocaleDateString('pt-BR')}`, ML, rodapeY);
+        doc.text(`Pág. ${p} de ${totalPages}`, W - MR, rodapeY, { align: 'right' });
+        // Link BLL
+        if (r.link) {
+            doc.setTextColor(...corTexto);
+            doc.textWithLink('Ver processo no BLL Compras →', W / 2, rodapeY, { url: r.link, align: 'center' });
+        }
+    }
+
+    doc.save(`${r.id || 'processo'}_${new Date().toISOString().slice(0,10)}.pdf`);
 }
 
 // ── EXPORTAR CSV ───────────────────────────────────────────────────────────
