@@ -30,6 +30,9 @@
             ]
         }
     </script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf-autotable/3.8.2/jspdf.plugin.autotable.min.js"></script>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <style>
@@ -59,6 +62,22 @@
         .ds-tab-licit-active { background: #2563eb; color: #fff; }
         .loading-spinner { display: inline-block; width: 20px; height: 20px; border: 3px solid rgba(0,0,0,0.1); border-radius: 50%; border-top-color: #2563eb; animation: spin 0.8s linear infinite; }
         @keyframes spin { to { transform: rotate(360deg); } }
+        /* ── DASHBOARD ── */
+        #dashboard-section { display: none; }
+        #dashboard-section.visible { display: block; }
+        .chart-card { background: white; border-radius: 12px; border: 1px solid #e2e8f0; padding: 16px; box-shadow: 0 1px 3px rgba(0,0,0,.06); }
+        .dark .chart-card { background: #0f172a; border-color: #1e293b; }
+        /* ── ALERTAS ── */
+        .alert-urgente { border-left: 3px solid #ef4444; }
+        .alert-proximo { border-left: 3px solid #f59e0b; }
+        .alert-info    { border-left: 3px solid #3b82f6; }
+        /* ── HIGHLIGHT ── */
+        mark { background: #fef08a; color: #854d0e; padding: 1px 3px; border-radius: 3px; font-weight: 600; box-shadow: 0 0 0 1px #fcd34d; }
+        .dark mark { background: #78350f; color: #fde68a; box-shadow: 0 0 0 1px #92400e; }
+        mark.current { background: #fb923c; color: #fff; box-shadow: 0 0 0 1px #ea580c; }
+        /* ── EXPORT BTN ── */
+        .export-btn { transition: all .15s; }
+        .export-btn:hover { transform: translateY(-1px); }
     </style>
 </head>
 <body class="bg-slate-50 dark:bg-slate-950 text-slate-900 dark:text-slate-100 transition-colors duration-300 overflow-x-hidden">
@@ -95,6 +114,18 @@
 
         <div class="flex items-center gap-2">
             <span id="header-meta" class="text-[10px] text-slate-400 hidden md:block mono"></span>
+            <button id="dashboard-btn" onclick="toggleDashboard()"
+                class="flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-xs font-bold border border-slate-200 dark:border-slate-700 text-slate-500 dark:text-slate-400 hover:border-blue-400 hover:text-blue-600 dark:hover:text-blue-400 transition-all"
+                title="Dashboard Analítico">
+                <i class="fas fa-chart-pie text-xs"></i>
+                <span class="hidden sm:inline">Dashboard</span>
+            </button>
+            <button id="export-pdf-btn" onclick="exportPDF()"
+                class="export-btn flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-xs font-bold bg-rose-600 hover:bg-rose-700 text-white transition-all"
+                title="Exportar PDF">
+                <i class="fas fa-file-pdf text-xs"></i>
+                <span class="hidden sm:inline">PDF</span>
+            </button>
             <button id="theme-toggle" class="p-2 rounded-full hover:bg-slate-100 dark:hover:bg-slate-800 transition-colors" title="Alternar tema">
                 <i class="fas fa-moon dark:hidden text-slate-500"></i>
                 <i class="fas fa-sun hidden dark:block text-slate-400"></i>
@@ -114,7 +145,46 @@
     <!-- ── MAIN CONTENT (hidden until data loads) ──────────────────── -->
     <div id="main-content" style="display: none;">
         <!-- ── STAT CARDS ──────────────────────────────────────────────── -->
-        <div id="stats-container" class="grid grid-cols-2 lg:grid-cols-4 gap-4 mb-8"></div>
+        <div id="stats-container" class="grid grid-cols-2 lg:grid-cols-4 gap-4 mb-6"></div>
+
+        <!-- ── ALERTAS ────────────────────────────────────────────────── -->
+        <div id="alertas-container" class="mb-6"></div>
+
+        <!-- ── DASHBOARD ANALÍTICO ────────────────────────────────────── -->
+        <div id="dashboard-section" class="mb-8">
+            <div class="flex items-center justify-between mb-4">
+                <h2 class="text-[11px] font-bold uppercase tracking-widest text-slate-400">
+                    <i class="fas fa-chart-pie mr-1"></i> Dashboard Analítico
+                </h2>
+                <button onclick="toggleDashboard()" class="text-xs text-slate-400 hover:text-slate-600 dark:hover:text-slate-200 transition-colors">
+                    <i class="fas fa-times"></i> Fechar
+                </button>
+            </div>
+            <div class="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-4 mb-4">
+                <div class="chart-card">
+                    <h3 class="text-[10px] font-bold uppercase tracking-wider text-slate-400 mb-3">Distribuição por Situação</h3>
+                    <div style="height:200px"><canvas id="chart-situacao"></canvas></div>
+                </div>
+                <div class="chart-card">
+                    <h3 class="text-[10px] font-bold uppercase tracking-wider text-slate-400 mb-3">Distribuição por Modalidade</h3>
+                    <div style="height:200px"><canvas id="chart-modalidade"></canvas></div>
+                </div>
+                <div class="chart-card md:col-span-2 xl:col-span-1">
+                    <h3 class="text-[10px] font-bold uppercase tracking-wider text-slate-400 mb-3">Valor por Modalidade (R$)</h3>
+                    <div style="height:200px"><canvas id="chart-valor-mod"></canvas></div>
+                </div>
+            </div>
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+                <div class="chart-card">
+                    <h3 class="text-[10px] font-bold uppercase tracking-wider text-slate-400 mb-3">Evolução Mensal — Valor Publicado (R$)</h3>
+                    <div style="height:180px"><canvas id="chart-mensal"></canvas></div>
+                </div>
+                <div class="chart-card">
+                    <h3 class="text-[10px] font-bold uppercase tracking-wider text-slate-400 mb-3" id="ranking-title">Top 5 Fornecedores / Valor Contratado</h3>
+                    <div id="ranking-container" class="space-y-2"></div>
+                </div>
+            </div>
+        </div>
 
         <!-- ── CARDS RECENTES ──────────────────────────────────────────── -->
         <div class="mb-3 flex items-center gap-2">
@@ -159,6 +229,13 @@
 
         <!-- ── TABELA ───────────────────────────────────────────────────── -->
         <div class="bg-white dark:bg-slate-900 rounded-xl border border-slate-200 dark:border-slate-800 shadow-sm overflow-hidden">
+            <!-- toolbar -->
+            <div class="px-4 py-2.5 border-b border-slate-100 dark:border-slate-800 flex items-center justify-between gap-3 bg-slate-50 dark:bg-slate-950">
+                <div id="results-count" class="text-xs text-slate-500"></div>
+                <button onclick="exportCSV()" class="export-btn flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-xs font-bold border border-slate-200 dark:border-slate-700 text-slate-500 dark:text-slate-400 hover:border-emerald-500 hover:text-emerald-600 dark:hover:text-emerald-400 transition-all">
+                    <i class="fas fa-file-csv text-xs"></i> Exportar CSV
+                </button>
+            </div>
             <div class="overflow-x-auto custom-scrollbar">
                 <table class="w-full text-left border-collapse text-sm">
                     <thead id="table-head">
@@ -330,8 +407,17 @@ let f1='all', f2='all', f3='all', f4='all';
 const norm = t => t ? t.toString().toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g,'') : '';
 const hl = (text, term) => {
     if (!term || !text) return text || '';
-    const r = new RegExp(`(${term.replace(/[.*+?^${}()|[\]\\]/g,'\\$&')})`, 'gi');
-    return text.toString().replace(r, '<mark>$1</mark>');
+    const txt = text.toString();
+    // Suporta múltiplos termos separados por espaço
+    const terms = term.trim().split(/\s+/).filter(Boolean);
+    let result = txt;
+    terms.forEach(t => {
+        const escaped = t.replace(/[.*+?^${}()|[\]\\]/g,'\\$&');
+        // Normaliza para encontrar com/sem acento
+        const rx = new RegExp(`(${escaped})`, 'gi');
+        result = result.replace(rx, '<mark>$1</mark>');
+    });
+    return result;
 };
 const parseValor = val => {
     if (!val || val === '') return NaN;
@@ -526,9 +612,11 @@ function switchDataset(ds) {
     buildFlatSub();
     populateFilters();
     renderStats();
+    renderAlertas();
     renderRecentCards();
     updateFiltered();
     render();
+    if (dashboardVisible) renderDashboard();
 }
 
 // ── FLAT SUB ───────────────────────────────────────────────────────────────
@@ -706,6 +794,18 @@ function render() {
     if (page > pages) page = pages;
     const start = (page-1)*PER_PAGE;
     const slice = filteredData.slice(start, start+PER_PAGE);
+
+    // Atualizar contador de resultados
+    const rc = document.getElementById('results-count');
+    if (rc) {
+        if (search && total > 0) {
+            rc.innerHTML = `<i class="fas fa-search text-blue-500 mr-1"></i><b class="text-slate-700 dark:text-slate-200">${total.toLocaleString('pt-BR')}</b> <span class="text-slate-400">resultado(s) para</span> <mark>${search}</mark>`;
+        } else if (total > 0) {
+            rc.textContent = `${total.toLocaleString('pt-BR')} registro(s)`;
+        } else {
+            rc.innerHTML = `<span class="text-rose-500">Nenhum resultado encontrado</span>`;
+        }
+    }
 
     const head = document.getElementById('table-head');
     const body = document.getElementById('table-body');
@@ -1047,6 +1147,426 @@ window.addEventListener('keydown', e => {
     if (e.key === 'ArrowRight') nextItem();
     if (e.key === 'ArrowLeft')  prevItem();
 });
+
+// ── ALERTAS ───────────────────────────────────────────────────────────────
+function renderAlertas() {
+    const container = document.getElementById('alertas-container');
+    if (!container) return;
+    const hoje = new Date(2026, 2, 12); // 12/03/2026
+    const alertas = [];
+
+    if (dataset === 'licit') {
+        rawData.forEach(p => {
+            // Alerta prazo
+            if (p.fim_recepcao && (norm(p.situacao).includes('recepcao') || norm(p.situacao).includes('publicad'))) {
+                try {
+                    const [d,m,y] = p.fim_recepcao.split(' ')[0].split('/');
+                    const dt = new Date(+y, +m-1, +d);
+                    const diff = Math.round((dt - hoje) / 86400000);
+                    if (diff >= 0 && diff <= 5) {
+                        alertas.push({
+                            tipo: diff === 0 ? 'urgente' : diff <= 2 ? 'urgente' : 'proximo',
+                            icon: diff === 0 ? 'fa-fire' : 'fa-clock',
+                            label: diff === 0 ? 'HOJE' : `${diff}d`,
+                            texto: `<b>${p.id}</b> — Fim recepção: ${p.fim_recepcao}`,
+                            sub: p.objeto?.substring(0,80) + (p.objeto?.length > 80 ? '…' : ''),
+                            id: p.id
+                        });
+                    }
+                } catch {}
+            }
+            // Alerta alto valor
+            const val = (p.lotes||[]).reduce((s,l) => s + parseValor(l.valor_referencia||0), 0);
+            if (val >= 5000000 && (norm(p.situacao).includes('recepcao') || norm(p.situacao).includes('publicad'))) {
+                alertas.push({
+                    tipo: 'info',
+                    icon: 'fa-star',
+                    label: fmtBRL(val),
+                    texto: `<b>${p.id}</b> — Alto valor em aberto`,
+                    sub: p.objeto?.substring(0,80) + (p.objeto?.length > 80 ? '…' : ''),
+                    id: p.id
+                });
+            }
+        });
+    } else {
+        // Compras publicadas recentes
+        rawData.filter(r => norm(r.status).includes('publicad')).forEach(r => {
+            const val = totalRegistroCompra(r);
+            alertas.push({
+                tipo: 'info',
+                icon: 'fa-shopping-cart',
+                label: 'PUBLICADA',
+                texto: `<b>${r.id}</b> — ${r.modalidade}`,
+                sub: r.objeto?.substring(0,80) + (r.objeto?.length > 80 ? '…' : ''),
+                id: r.id,
+                valor: val ? fmtBRL(val) : null
+            });
+        });
+    }
+
+    if (!alertas.length) { container.innerHTML = ''; return; }
+
+    const limitados = alertas.slice(0, 6);
+    container.innerHTML = `
+        <div class="mb-3 flex items-center gap-2">
+            <h2 class="text-[11px] font-bold uppercase tracking-widest text-slate-400">
+                <i class="fas fa-bell mr-1 text-amber-500"></i> Alertas & Destaques
+            </h2>
+            <span class="mono text-[10px] bg-amber-100 text-amber-700 dark:bg-amber-950 dark:text-amber-400 px-1.5 py-0.5 rounded-full">${alertas.length}</span>
+        </div>
+        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3">
+        ${limitados.map(a => `
+            <div onclick='openModalById("${a.id.replace(/'/g,"\\'")}") ' 
+                 class="cursor-pointer alert-${a.tipo} bg-white dark:bg-slate-900 rounded-xl p-3 shadow-sm border border-slate-200 dark:border-slate-800 hover:shadow-md transition-all">
+                <div class="flex items-start gap-2">
+                    <div class="shrink-0 mt-0.5 w-7 h-7 rounded-lg flex items-center justify-center ${a.tipo==='urgente'?'bg-rose-100 dark:bg-rose-950':'a.tipo==="proximo"?bg-amber-100 dark:bg-amber-950':' bg-blue-100 dark:bg-blue-950'}">
+                        <i class="fas ${a.icon} text-[11px] ${a.tipo==='urgente'?'text-rose-600':'a.tipo==="proximo"?text-amber-600':' text-blue-600'}"></i>
+                    </div>
+                    <div class="flex-1 min-w-0">
+                        <div class="flex items-center gap-2 mb-0.5">
+                            <span class="text-[10px] font-black px-1.5 py-0.5 rounded ${a.tipo==='urgente'?'bg-rose-100 text-rose-700 dark:bg-rose-950 dark:text-rose-400':a.tipo==='proximo'?'bg-amber-100 text-amber-700 dark:bg-amber-950 dark:text-amber-400':'bg-blue-100 text-blue-700 dark:bg-blue-950 dark:text-blue-400'}">${a.label}</span>
+                            ${a.valor?`<span class="mono text-[10px] font-bold text-emerald-600">${a.valor}</span>`:''}
+                        </div>
+                        <p class="text-[11px] font-medium text-slate-700 dark:text-slate-300">${a.texto}</p>
+                        <p class="text-[10px] text-slate-400 mt-0.5 line-clamp-1">${a.sub||''}</p>
+                    </div>
+                </div>
+            </div>`).join('')}
+        </div>`;
+}
+
+// ── DASHBOARD ─────────────────────────────────────────────────────────────
+let chartInstances = {};
+let dashboardVisible = false;
+
+function toggleDashboard() {
+    dashboardVisible = !dashboardVisible;
+    const sec = document.getElementById('dashboard-section');
+    const btn = document.getElementById('dashboard-btn');
+    if (dashboardVisible) {
+        sec.classList.add('visible');
+        btn.classList.add('border-blue-500','text-blue-600','dark:text-blue-400');
+        renderDashboard();
+    } else {
+        sec.classList.remove('visible');
+        btn.classList.remove('border-blue-500','text-blue-600','dark:text-blue-400');
+    }
+}
+
+function destroyCharts() {
+    Object.values(chartInstances).forEach(c => { try { c.destroy(); } catch {} });
+    chartInstances = {};
+}
+
+function isDark() { return document.documentElement.classList.contains('dark'); }
+
+function chartColors(n) {
+    const palette = ['#3b82f6','#10b981','#f59e0b','#8b5cf6','#ef4444','#06b6d4','#f97316','#84cc16','#ec4899','#6366f1'];
+    return Array.from({length:n}, (_,i) => palette[i % palette.length]);
+}
+
+function renderDashboard() {
+    if (!dashboardVisible) return;
+    destroyCharts();
+    const dark = isDark();
+    const gridColor = dark ? 'rgba(255,255,255,0.06)' : 'rgba(0,0,0,0.06)';
+    const textColor = dark ? '#94a3b8' : '#64748b';
+
+    const chartDefaults = {
+        plugins: { legend: { labels: { color: textColor, font: { size: 11 }, boxWidth: 12 } } }
+    };
+
+    if (dataset === 'licit') {
+        // 1. Situação (donut)
+        const sits = {};
+        rawData.forEach(r => { sits[r.situacao] = (sits[r.situacao]||0) + 1; });
+        const sitLabels = Object.keys(sits).sort((a,b) => sits[b]-sits[a]);
+        chartInstances.situacao = new Chart(document.getElementById('chart-situacao'), {
+            type: 'doughnut',
+            data: { labels: sitLabels, datasets: [{ data: sitLabels.map(k=>sits[k]), backgroundColor: chartColors(sitLabels.length), borderWidth: 2, borderColor: dark?'#0f172a':'#fff' }] },
+            options: { ...chartDefaults, cutout:'65%', plugins: { ...chartDefaults.plugins, tooltip: { callbacks: { label: ctx => ` ${ctx.label}: ${ctx.raw}` } } } }
+        });
+
+        // 2. Modalidade (donut)
+        const mods = {};
+        rawData.forEach(r => { mods[r.modalidade] = (mods[r.modalidade]||0) + 1; });
+        const modLabels = Object.keys(mods).sort((a,b) => mods[b]-mods[a]);
+        chartInstances.modalidade = new Chart(document.getElementById('chart-modalidade'), {
+            type: 'doughnut',
+            data: { labels: modLabels, datasets: [{ data: modLabels.map(k=>mods[k]), backgroundColor: chartColors(modLabels.length), borderWidth: 2, borderColor: dark?'#0f172a':'#fff' }] },
+            options: { ...chartDefaults, cutout:'65%' }
+        });
+
+        // 3. Valor por modalidade (bar horizontal)
+        const modVals = {};
+        rawData.forEach(r => {
+            (r.lotes||[]).forEach(l => {
+                const v = parseValor(l.valor_referencia||0);
+                if (!isNaN(v)) modVals[r.modalidade] = (modVals[r.modalidade]||0) + v;
+            });
+        });
+        const mvLabels = Object.keys(modVals).sort((a,b) => modVals[b]-modVals[a]);
+        chartInstances.valorMod = new Chart(document.getElementById('chart-valor-mod'), {
+            type: 'bar',
+            data: { labels: mvLabels, datasets: [{ data: mvLabels.map(k=>modVals[k]), backgroundColor: chartColors(mvLabels.length), borderRadius: 6 }] },
+            options: { ...chartDefaults, indexAxis:'y', plugins: { ...chartDefaults.plugins, legend: { display: false }, tooltip: { callbacks: { label: ctx => ' ' + fmtBRL(ctx.raw) } } }, scales: { x: { grid:{color:gridColor}, ticks:{color:textColor, callback:v => 'R$' + (v>=1e6 ? (v/1e6).toFixed(1)+'M' : (v/1e3).toFixed(0)+'K') } }, y:{ticks:{color:textColor}, grid:{display:false}} } }
+        });
+
+        // 4. Evolução mensal
+        const meses = {};
+        rawData.forEach(r => {
+            try {
+                const [dd,mm,yy] = (r.publicacao||'').split(' ')[0].split('/');
+                const key = `${yy}-${mm}`;
+                (r.lotes||[]).forEach(l => {
+                    const v = parseValor(l.valor_referencia||0);
+                    if (!isNaN(v)) meses[key] = (meses[key]||0) + v;
+                });
+            } catch {}
+        });
+        const mKeys = Object.keys(meses).sort().slice(-8);
+        const mVals = mKeys.map(k=>meses[k]);
+        const mLabels = mKeys.map(k => { const [y,m] = k.split('-'); return ['Jan','Fev','Mar','Abr','Mai','Jun','Jul','Ago','Set','Out','Nov','Dez'][+m-1]+'/'+y.slice(2); });
+        chartInstances.mensal = new Chart(document.getElementById('chart-mensal'), {
+            type: 'bar',
+            data: { labels: mLabels, datasets: [{ label:'Valor Ref.', data: mVals, backgroundColor:'#3b82f620', borderColor:'#3b82f6', borderWidth:2, borderRadius:4 }] },
+            options: { ...chartDefaults, plugins: { ...chartDefaults.plugins, legend:{display:false}, tooltip:{callbacks:{label:ctx=>' '+fmtBRL(ctx.raw)}} }, scales: { x:{ticks:{color:textColor}, grid:{display:false}}, y:{grid:{color:gridColor}, ticks:{color:textColor, callback:v=>'R$'+(v>=1e6?(v/1e6).toFixed(1)+'M':(v/1e3).toFixed(0)+'K')}} } }
+        });
+
+        // 5. Ranking condutores
+        document.getElementById('ranking-title').textContent = 'Top Condutores por Nº de Processos';
+        const conds = {};
+        rawData.forEach(r => { if(r.condutor) conds[r.condutor] = (conds[r.condutor]||0) + 1; });
+        const topC = Object.entries(conds).sort((a,b)=>b[1]-a[1]).slice(0,5);
+        const maxC = topC[0]?.[1] || 1;
+        document.getElementById('ranking-container').innerHTML = topC.map(([nome,qtd],i) => `
+            <div class="flex items-center gap-2">
+                <span class="mono text-[10px] font-black w-4 text-slate-300">${i+1}</span>
+                <div class="flex-1 min-w-0">
+                    <div class="flex justify-between text-[11px] mb-0.5">
+                        <span class="truncate font-medium text-slate-700 dark:text-slate-300">${nome}</span>
+                        <span class="mono font-bold text-blue-600 ml-2">${qtd}</span>
+                    </div>
+                    <div class="h-1.5 rounded-full bg-slate-100 dark:bg-slate-800">
+                        <div class="h-1.5 rounded-full bg-blue-500" style="width:${(qtd/maxC*100).toFixed(1)}%"></div>
+                    </div>
+                </div>
+            </div>`).join('');
+
+    } else {
+        // COMPRAS DIRETAS
+        // 1. Status
+        const sts = {};
+        rawData.forEach(r => { sts[r.status] = (sts[r.status]||0) + 1; });
+        const stLabels = Object.keys(sts).sort((a,b) => sts[b]-sts[a]);
+        chartInstances.situacao = new Chart(document.getElementById('chart-situacao'), {
+            type: 'doughnut',
+            data: { labels: stLabels, datasets: [{ data: stLabels.map(k=>sts[k]), backgroundColor: chartColors(stLabels.length), borderWidth: 2, borderColor: dark?'#0f172a':'#fff' }] },
+            options: { ...chartDefaults, cutout:'65%' }
+        });
+
+        // 2. Modalidade
+        const mods2 = {};
+        rawData.forEach(r => { mods2[r.modalidade] = (mods2[r.modalidade]||0) + 1; });
+        const ml2 = Object.keys(mods2).sort((a,b) => mods2[b]-mods2[a]);
+        chartInstances.modalidade = new Chart(document.getElementById('chart-modalidade'), {
+            type: 'doughnut',
+            data: { labels: ml2, datasets: [{ data: ml2.map(k=>mods2[k]), backgroundColor: chartColors(ml2.length), borderWidth: 2, borderColor: dark?'#0f172a':'#fff' }] },
+            options: { ...chartDefaults, cutout:'65%' }
+        });
+
+        // 3. Valor por modalidade
+        const modV2 = {};
+        rawData.forEach(r => {
+            const v = totalRegistroCompra(r);
+            if (v) modV2[r.modalidade] = (modV2[r.modalidade]||0) + v;
+        });
+        const mv2L = Object.keys(modV2).sort((a,b)=>modV2[b]-modV2[a]);
+        chartInstances.valorMod = new Chart(document.getElementById('chart-valor-mod'), {
+            type: 'bar',
+            data: { labels: mv2L, datasets: [{ data: mv2L.map(k=>modV2[k]), backgroundColor: chartColors(mv2L.length), borderRadius:6 }] },
+            options: { ...chartDefaults, indexAxis:'y', plugins:{ ...chartDefaults.plugins, legend:{display:false}, tooltip:{callbacks:{label:ctx=>' '+fmtBRL(ctx.raw)}} }, scales:{ x:{grid:{color:gridColor}, ticks:{color:textColor, callback:v=>'R$'+(v>=1e6?(v/1e6).toFixed(1)+'M':(v/1e3).toFixed(0)+'K')}}, y:{ticks:{color:textColor}, grid:{display:false}} } }
+        });
+
+        // 4. Evolução mensal
+        const meses2 = {};
+        rawData.forEach(r => {
+            try {
+                const [dd,mm,yy] = (r.data_publicacao||'').split(' ')[0].split('/');
+                const key = `${yy}-${mm}`;
+                const v = totalRegistroCompra(r);
+                if (v) meses2[key] = (meses2[key]||0) + v;
+            } catch {}
+        });
+        const mk2 = Object.keys(meses2).sort().slice(-8);
+        const mv2 = mk2.map(k=>meses2[k]);
+        const mlab2 = mk2.map(k => { const [y,m] = k.split('-'); return ['Jan','Fev','Mar','Abr','Mai','Jun','Jul','Ago','Set','Out','Nov','Dez'][+m-1]+'/'+y.slice(2); });
+        chartInstances.mensal = new Chart(document.getElementById('chart-mensal'), {
+            type: 'bar',
+            data: { labels: mlab2, datasets: [{ label:'Valor', data: mv2, backgroundColor:'#8b5cf620', borderColor:'#8b5cf6', borderWidth:2, borderRadius:4 }] },
+            options: { ...chartDefaults, plugins:{ ...chartDefaults.plugins, legend:{display:false}, tooltip:{callbacks:{label:ctx=>' '+fmtBRL(ctx.raw)}} }, scales:{ x:{ticks:{color:textColor}, grid:{display:false}}, y:{grid:{color:gridColor}, ticks:{color:textColor, callback:v=>'R$'+(v>=1e6?(v/1e6).toFixed(1)+'M':(v/1e3).toFixed(0)+'K')}} } }
+        });
+
+        // 5. Top fornecedores
+        document.getElementById('ranking-title').textContent = 'Top 5 Fornecedores por Valor Contratado';
+        const fornV = {};
+        rawData.forEach(r => {
+            (r.itens||[]).forEach(it => {
+                const fn = (it.fornecedor||'').trim();
+                if (!fn || fn==='–') return;
+                const v = parseValor(it.valor||0);
+                const q = parseValor(it.quantidade||1);
+                if (!isNaN(v)) fornV[fn] = (fornV[fn]||0) + v * (isNaN(q)||q<=0?1:q);
+            });
+        });
+        const topF = Object.entries(fornV).sort((a,b)=>b[1]-a[1]).slice(0,5);
+        const maxF = topF[0]?.[1] || 1;
+        document.getElementById('ranking-container').innerHTML = topF.map(([nome,val],i) => `
+            <div class="flex items-center gap-2">
+                <span class="mono text-[10px] font-black w-4 text-slate-300">${i+1}</span>
+                <div class="flex-1 min-w-0">
+                    <div class="flex justify-between text-[11px] mb-0.5">
+                        <span class="truncate font-medium text-slate-700 dark:text-slate-300">${nome.length>35?nome.substring(0,35)+'…':nome}</span>
+                        <span class="mono font-bold text-violet-600 ml-2 whitespace-nowrap">${fmtBRL(val)}</span>
+                    </div>
+                    <div class="h-1.5 rounded-full bg-slate-100 dark:bg-slate-800">
+                        <div class="h-1.5 rounded-full bg-violet-500" style="width:${(val/maxF*100).toFixed(1)}%"></div>
+                    </div>
+                </div>
+            </div>`).join('');
+    }
+}
+
+// ── EXPORTAR CSV ───────────────────────────────────────────────────────────
+function exportCSV() {
+    const rows = [];
+    const q = s => `"${(s||'').toString().replace(/"/g,'""')}"`;
+
+    if (dataset === 'licit') {
+        if (viewMode === 'registros') {
+            rows.push(['Nº Edital','Modalidade','Situação','Tipo Contrato','Objeto','Condutor','Autoridade','Lotes','Itens','Publicação','Fim Recepção','Início Disputa','Valor Ref. (R$)'].join(';'));
+            filteredData.forEach(r => {
+                const val = (r.lotes||[]).reduce((s,l)=>s+parseValor(l.valor_referencia||0),0);
+                rows.push([r.id,r.modalidade,r.situacao,r.tipo_contrato,r.objeto,r.condutor,r.autoridade,r.total_lotes,r.total_itens,r.publicacao,r.fim_recepcao,r.inicio_disputa,val>0?val.toFixed(2):''].map(q).join(';'));
+            });
+        } else {
+            rows.push(['Processo','Lote','Especificação','Unidade','Quantidade','Valor Ref. (R$)','Situação'].join(';'));
+            filteredData.forEach(it => {
+                const r = it._proc;
+                rows.push([r.id, it._lote?.numero, it.especificacao, it.unidade, it.quantidade, it.valor_referencia, r.situacao].map(q).join(';'));
+            });
+        }
+    } else {
+        if (viewMode === 'registros') {
+            rows.push(['ID','Modalidade','Status','Artigo','Inciso','Objeto','Coordenador','Autoridade','Fornecedor','Valor Total (R$)','Publicação','Conclusão'].join(';'));
+            filteredData.forEach(r => {
+                const val = totalRegistroCompra(r);
+                rows.push([r.id,r.modalidade,r.status,r.artigo,r.inciso,r.objeto,r.coordenador,r.autoridade,fornecedorPrincipal(r),val!==null?val.toFixed(2):'',r.data_publicacao,r.data_conclusao].map(q).join(';'));
+            });
+        } else {
+            rows.push(['ID Compra','Nº','Descrição','Unidade','Quantidade','Fornecedor','Valor Unit. (R$)','Subtotal (R$)','Status'].join(';'));
+            filteredData.forEach(it => {
+                const r = it._reg;
+                const v = parseValor(it.valor||0);
+                const qv = parseValor(it.quantidade||1);
+                const sub = (!isNaN(v)&&!isNaN(qv)&&qv>0)?v*qv:v;
+                rows.push([r.id, it.numero, it.descricao, it.unidade, it.quantidade, it.fornecedor, isNaN(v)?'':v.toFixed(2), isNaN(sub)?'':sub.toFixed(2), r.status].map(q).join(';'));
+            });
+        }
+    }
+
+    const bom = '\uFEFF'; // BOM para Excel reconhecer UTF-8
+    const blob = new Blob([bom + rows.join('\n')], { type: 'text/csv;charset=utf-8;' });
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement('a'); a.href = url;
+    a.download = `bll_${dataset}_${viewMode}_${new Date().toISOString().slice(0,10)}.csv`;
+    a.click(); URL.revokeObjectURL(url);
+}
+
+// ── EXPORTAR PDF ───────────────────────────────────────────────────────────
+function exportPDF() {
+    const { jsPDF } = window.jspdf;
+    const doc = new jsPDF({ orientation: 'landscape', unit: 'mm', format: 'a4' });
+
+    const isLicit = dataset === 'licit';
+    const cor = isLicit ? [37,99,235] : [124,58,237];
+    const titulo = isLicit ? 'Relatório de Licitações' : 'Relatório de Compras Diretas';
+    const sub = `Município de Teixeira de Freitas • ${filteredData.length} registro(s) • Gerado em ${new Date().toLocaleDateString('pt-BR')}`;
+
+    // Header
+    doc.setFillColor(...cor);
+    doc.rect(0, 0, 297, 18, 'F');
+    doc.setTextColor(255,255,255);
+    doc.setFontSize(13); doc.setFont('helvetica','bold');
+    doc.text(titulo, 10, 12);
+    doc.setFontSize(8); doc.setFont('helvetica','normal');
+    doc.text(sub, 10, 17);
+
+    // Filtros ativos
+    const filtros = [];
+    if (search) filtros.push(`Busca: "${search}"`);
+    if (f1!=='all') filtros.push(`Modalidade: ${f1}`);
+    if (f2!=='all') filtros.push(`Situação: ${f2}`);
+    if (f3!=='all') filtros.push(`Ano: ${f3}`);
+    if (f4!=='all') filtros.push(`Artigo: ${f4}`);
+    if (filtros.length) {
+        doc.setTextColor(100,100,100); doc.setFontSize(7);
+        doc.text('Filtros ativos: ' + filtros.join(' | '), 10, 23);
+    }
+
+    // Tabela
+    let head, body;
+    if (isLicit) {
+        if (viewMode === 'registros') {
+            head = [['Nº Edital','Modalidade','Objeto','Condutor','Lotes','Valor Ref.','Situação']];
+            body = filteredData.map(r => {
+                const val = (r.lotes||[]).reduce((s,l)=>s+parseValor(l.valor_referencia||0),0);
+                return [r.id||'', r.modalidade||'', (r.objeto||'').substring(0,70), r.condutor||'', r.total_lotes||0, val>0?fmtBRL(val):'–', r.situacao||''];
+            });
+        } else {
+            head = [['Processo','Lote','Especificação','Un.','Qtd.','Valor Ref.','Situação']];
+            body = filteredData.map(it => {
+                const r = it._proc;
+                return [r.id||'', it._lote?.numero||'', (it.especificacao||'').substring(0,60), it.unidade||'', it.quantidade||'', fmtBRL(it.valor_referencia), r.situacao||''];
+            });
+        }
+    } else {
+        if (viewMode === 'registros') {
+            head = [['ID','Modalidade','Objeto','Fornecedor','Valor Total','Status']];
+            body = filteredData.map(r => {
+                const val = totalRegistroCompra(r);
+                return [r.id||'', r.modalidade||'', (r.objeto||'').substring(0,70), fornecedorPrincipal(r).substring(0,35), val!==null?fmtBRL(val):'–', r.status||''];
+            });
+        } else {
+            head = [['ID','Descrição','Un.','Qtd.','Fornecedor','Val. Unit.','Subtotal','Status']];
+            body = filteredData.map(it => {
+                const r = it._reg;
+                const v = parseValor(it.valor||0); const qv = parseValor(it.quantidade||1);
+                const sub = (!isNaN(v)&&!isNaN(qv)&&qv>0)?v*qv:v;
+                return [r.id||'', (it.descricao||'').substring(0,55), it.unidade||'', it.quantidade||'', (it.fornecedor||'').substring(0,30), fmtBRL(v), fmtBRL(sub), r.status||''];
+            });
+        }
+    }
+
+    doc.autoTable({
+        head, body,
+        startY: filtros.length ? 27 : 22,
+        styles: { fontSize: 7, cellPadding: 2.5, overflow: 'linebreak' },
+        headStyles: { fillColor: cor, textColor: 255, fontStyle: 'bold', fontSize: 7.5 },
+        alternateRowStyles: { fillColor: [248,250,252] },
+        columnStyles: viewMode==='registros' && isLicit ? { 2:{cellWidth:75}, 3:{cellWidth:40} } : {},
+        margin: { left: 10, right: 10 },
+        didDrawPage: (data) => {
+            // Rodapé
+            const pg = doc.internal.getCurrentPageInfo().pageNumber;
+            const total = doc.internal.getNumberOfPages();
+            doc.setFontSize(7); doc.setTextColor(150,150,150);
+            doc.text(`BLL Explorer · Teixeira de Freitas · Pág. ${pg} de ${total}`, 148, 207, {align:'center'});
+        }
+    });
+
+    doc.save(`bll_${dataset}_${viewMode}_${new Date().toISOString().slice(0,10)}.pdf`);
+}
 
 // ── INIT ──────────────────────────────────────────────────────────────────
 initTheme();
