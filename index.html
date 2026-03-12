@@ -3,362 +3,334 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>BLL Explorer | Teixeira de Freitas</title>
+    <title>SIREL Web | Gestão de Licitações</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf-autotable/3.5.28/jspdf.plugin.autotable.min.js"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
 
     <script>
         tailwind.config = {
             darkMode: 'class',
             theme: {
                 extend: {
+                    fontFamily: { sans: ['Inter', 'sans-serif'] },
                     colors: {
-                        primary: { 50:'#eff6ff',100:'#dbeafe',200:'#bfdbfe',300:'#93c5fd',400:'#60a5fa',500:'#3b82f6',600:'#2563eb',700:'#1d4ed8',800:'#1e40af',900:'#1e3a8a' }
+                        brand: { 50:'#f8fafc', 500:'#0f172a', 600:'#020617' },
+                        accent: { 500:'#3b82f6', 600:'#2563eb' }
                     }
                 }
             }
         }
     </script>
-
     <style>
-        .custom-scrollbar::-webkit-scrollbar { width: 6px; }
-        .custom-scrollbar::-webkit-scrollbar-track { background: transparent; }
-        .custom-scrollbar::-webkit-scrollbar-thumb { background: #cbd5e1; border-radius: 10px; }
-        .dark .custom-scrollbar::-webkit-scrollbar-thumb { background: #475569; }
-        details summary::-webkit-details-marker { display: none; }
+        .custom-scrollbar::-webkit-scrollbar { width: 4px; }
+        .custom-scrollbar::-webkit-scrollbar-thumb { background: #e2e8f0; border-radius: 10px; }
+        .dark .custom-scrollbar::-webkit-scrollbar-thumb { background: #334155; }
+        .glass { backdrop-filter: blur(8px); background: rgba(255, 255, 255, 0.8); }
+        .dark .glass { background: rgba(15, 23, 42, 0.8); }
     </style>
 </head>
-<body class="bg-slate-50 dark:bg-slate-950 text-slate-900 dark:text-slate-100 h-full flex flex-col font-sans transition-colors duration-300">
+<body class="bg-[#f1f5f9] dark:bg-[#020617] text-slate-900 dark:text-slate-100 h-full font-sans antialiased transition-colors duration-300">
 
-    <header class="bg-white dark:bg-slate-900 border-b border-slate-200 dark:border-slate-800 sticky top-0 z-30">
-        <div class="max-w-7xl mx-auto px-4 h-16 flex items-center justify-between">
-            <div class="flex items-center gap-3">
-                <div class="bg-blue-600 p-2 rounded-lg text-white">
-                    <i class="fas fa-file-contract text-xl"></i>
-                </div>
-                <div>
-                    <h1 class="font-bold text-lg leading-none">BLL Explorer</h1>
-                    <p class="text-xs text-slate-500 dark:text-slate-400">Teixeira de Freitas - Bahia</p>
-                </div>
+    <nav class="fixed left-0 top-0 h-full w-20 bg-brand-500 dark:bg-slate-900 flex flex-col items-center py-6 z-50 shadow-xl">
+        <div class="w-12 h-12 bg-accent-500 rounded-xl flex items-center justify-center text-white mb-10 shadow-lg shadow-accent-500/20">
+            <i class="fas fa-gavel text-xl"></i>
+        </div>
+        <div class="flex flex-col gap-8">
+            <button class="text-white/50 hover:text-white transition-colors"><i class="fas fa-th-large text-lg"></i></button>
+            <button class="text-white hover:text-white transition-colors border-r-2 border-accent-500 pr-4 -mr-4"><i class="fas fa-file-invoice text-lg"></i></button>
+            <button class="text-white/50 hover:text-white transition-colors"><i class="fas fa-chart-pie text-lg"></i></button>
+        </div>
+        <button onclick="document.documentElement.classList.toggle('dark')" class="mt-auto text-white/50 hover:text-amber-400">
+            <i class="fas fa-moon text-lg dark:hidden"></i>
+            <i class="fas fa-sun text-lg hidden dark:block"></i>
+        </button>
+    </nav>
+
+    <main class="pl-20 flex flex-col h-full">
+        
+        <header class="h-20 bg-white/70 dark:bg-slate-900/70 glass border-b border-slate-200 dark:border-slate-800 sticky top-0 z-40 px-8 flex items-center justify-between">
+            <div>
+                <h1 class="text-xl font-bold tracking-tight">Painel de Licitações</h1>
+                <p class="text-xs text-slate-500 font-medium uppercase tracking-widest">Teixeira de Freitas / BA</p>
             </div>
             
-            <button onclick="document.documentElement.classList.toggle('dark')" class="p-2 rounded-full hover:bg-slate-100 dark:hover:bg-slate-800 transition-colors">
-                <i class="fas fa-moon dark:hidden"></i>
-                <i class="fas fa-sun hidden dark:block text-amber-400"></i>
-            </button>
-        </div>
-    </header>
-
-    <main class="flex-1 max-w-7xl mx-auto w-full p-4 md:p-6 space-y-6">
-        
-        <div class="grid grid-cols-2 md:grid-cols-4 gap-4">
-            <div class="bg-white dark:bg-slate-900 p-4 rounded-xl border border-slate-200 dark:border-slate-800 shadow-sm">
-                <p class="text-xs font-medium text-slate-500 uppercase tracking-wider">Processos</p>
-                <h3 id="stat-processos" class="text-2xl font-bold text-blue-600 mt-1">---</h3>
-            </div>
-            <div class="bg-white dark:bg-slate-900 p-4 rounded-xl border border-slate-200 dark:border-slate-800 shadow-sm">
-                <p class="text-xs font-medium text-slate-500 uppercase tracking-wider">Lotes</p>
-                <h3 id="stat-lotes" class="text-2xl font-bold text-emerald-600 mt-1">---</h3>
-            </div>
-            <div class="bg-white dark:bg-slate-900 p-4 rounded-xl border border-slate-200 dark:border-slate-800 shadow-sm">
-                <p class="text-xs font-medium text-slate-500 uppercase tracking-wider">Itens</p>
-                <h3 id="stat-itens" class="text-2xl font-bold text-orange-600 mt-1">---</h3>
-            </div>
-            <div class="bg-white dark:bg-slate-900 p-4 rounded-xl border border-slate-200 dark:border-slate-800 shadow-sm">
-                <p class="text-xs font-medium text-slate-500 uppercase tracking-wider">Atualização</p>
-                <h3 id="stat-data" class="text-sm font-bold text-slate-700 dark:text-slate-300 mt-2">---</h3>
-            </div>
-        </div>
-
-        <div class="bg-white dark:bg-slate-900 p-4 rounded-xl border border-slate-200 dark:border-slate-800 shadow-sm space-y-4">
-            <div class="flex flex-col md:flex-row gap-4">
-                <div class="flex-1 relative">
-                    <i class="fas fa-search absolute left-3 top-1/2 -translate-y-1/2 text-slate-400"></i>
-                    <input type="text" id="main-search" placeholder="Pesquisar por objeto, ID ou condutor..." 
-                        class="w-full pl-10 pr-4 py-2 bg-slate-50 dark:bg-slate-800 border-none rounded-lg focus:ring-2 focus:ring-blue-500 transition-all outline-none">
+            <div class="flex items-center gap-4">
+                <div class="relative group">
+                    <i class="fas fa-search absolute left-3 top-1/2 -translate-y-1/2 text-slate-400 group-focus-within:text-accent-500 transition-colors"></i>
+                    <input type="text" id="global-search" placeholder="Buscar processo..." 
+                        class="pl-10 pr-4 py-2 bg-slate-100 dark:bg-slate-800 border-none rounded-full text-sm w-64 focus:ring-2 focus:ring-accent-500 transition-all outline-none">
                 </div>
-                <div class="flex gap-2">
-                    <select id="filter-situacao" class="bg-slate-50 dark:bg-slate-800 border-none rounded-lg px-4 py-2 text-sm focus:ring-2 focus:ring-blue-500 outline-none">
-                        <option value="all">Todas as Situações</option>
-                    </select>
+                <div class="h-10 w-10 rounded-full bg-slate-200 dark:bg-slate-700 flex items-center justify-center overflow-hidden border-2 border-white dark:border-slate-800 shadow-sm">
+                    <i class="fas fa-user text-slate-500"></i>
                 </div>
             </div>
-        </div>
+        </header>
 
-        <div id="loading" class="text-center py-20">
-            <i class="fas fa-circle-notch fa-spin text-3xl text-blue-600"></i>
-            <p class="mt-2 text-slate-500">Carregando dados...</p>
-        </div>
-
-        <div id="list-container" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 hidden">
+        <div class="p-8 space-y-8 max-w-[1600px] mx-auto w-full">
+            
+            <div class="grid grid-cols-1 md:grid-cols-4 gap-6">
+                <div class="bg-white dark:bg-slate-900 p-6 rounded-3xl shadow-sm border border-slate-200/60 dark:border-slate-800/60 group hover:shadow-md transition-all">
+                    <div class="flex items-center gap-4">
+                        <div class="w-12 h-12 rounded-2xl bg-blue-50 dark:bg-blue-900/20 text-blue-600 flex items-center justify-center"><i class="fas fa-copy text-lg"></i></div>
+                        <div>
+                            <p class="text-xs font-bold text-slate-400 uppercase">Processos</p>
+                            <h3 id="stat-proc" class="text-2xl font-bold">---</h3>
+                        </div>
+                    </div>
+                </div>
+                <div class="bg-white dark:bg-slate-900 p-6 rounded-3xl shadow-sm border border-slate-200/60 dark:border-slate-800/60">
+                    <div class="flex items-center gap-4">
+                        <div class="w-12 h-12 rounded-2xl bg-emerald-50 dark:bg-emerald-900/20 text-emerald-600 flex items-center justify-center"><i class="fas fa-boxes-stacked text-lg"></i></div>
+                        <div>
+                            <p class="text-xs font-bold text-slate-400 uppercase">Lotes</p>
+                            <h3 id="stat-lote" class="text-2xl font-bold">---</h3>
+                        </div>
+                    </div>
+                </div>
+                <div class="bg-white dark:bg-slate-900 p-6 rounded-3xl shadow-sm border border-slate-200/60 dark:border-slate-800/60">
+                    <div class="flex items-center gap-4">
+                        <div class="w-12 h-12 rounded-2xl bg-violet-50 dark:bg-violet-900/20 text-violet-600 flex items-center justify-center"><i class="fas fa-list-ul text-lg"></i></div>
+                        <div>
+                            <p class="text-xs font-bold text-slate-400 uppercase">Itens Totais</p>
+                            <h3 id="stat-item" class="text-2xl font-bold">---</h3>
+                        </div>
+                    </div>
+                </div>
+                <div class="bg-white dark:bg-slate-900 p-6 rounded-3xl shadow-sm border border-slate-200/60 dark:border-slate-800/60">
+                    <div class="flex items-center gap-4 text-slate-400">
+                        <i class="fas fa-sync-alt animate-spin-slow"></i>
+                        <p class="text-[10px] font-medium leading-tight">Última extração:<br><span id="stat-upd" class="text-slate-600 dark:text-slate-300">---</span></p>
+                    </div>
+                </div>
             </div>
 
+            <div class="bg-white dark:bg-slate-900 rounded-3xl shadow-sm border border-slate-200/60 dark:border-slate-800/60 overflow-hidden">
+                <div class="p-6 border-b border-slate-100 dark:border-slate-800 flex items-center justify-between">
+                    <h2 class="font-bold text-lg">Listagem Ativa</h2>
+                    <div class="flex gap-2">
+                        <button class="p-2 text-slate-400 hover:text-accent-500"><i class="fas fa-filter"></i></button>
+                        <button class="p-2 text-slate-400 hover:text-accent-500"><i class="fas fa-download"></i></button>
+                    </div>
+                </div>
+                
+                <div class="overflow-x-auto">
+                    <table class="w-full text-left border-collapse">
+                        <thead>
+                            <tr class="text-[11px] font-bold text-slate-400 uppercase tracking-widest border-b border-slate-50 dark:border-slate-800">
+                                <th class="px-6 py-4">ID / Processo</th>
+                                <th class="px-6 py-4">Objeto da Licitação</th>
+                                <th class="px-6 py-4">Modalidade</th>
+                                <th class="px-6 py-4 text-center">Status</th>
+                                <th class="px-6 py-4"></th>
+                            </tr>
+                        </thead>
+                        <tbody id="main-table-body" class="divide-y divide-slate-50 dark:divide-slate-800/50">
+                            </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
     </main>
 
-    <div id="backdrop" class="fixed inset-0 bg-slate-950/40 backdrop-blur-sm z-40 hidden opacity-0 transition-opacity duration-300" onclick="closeDetails()"></div>
+    <div id="modal-backdrop" class="fixed inset-0 bg-slate-950/60 backdrop-blur-sm z-[60] hidden opacity-0 transition-opacity duration-300" onclick="hideModal()"></div>
     
-    <aside id="side-panel" class="fixed top-0 right-0 h-full w-full max-w-2xl bg-white dark:bg-slate-900 shadow-2xl z-50 transform translate-x-full transition-transform duration-300 ease-in-out flex flex-col">
-        <div class="p-6 border-b border-slate-200 dark:border-slate-800 flex items-center justify-between bg-slate-50 dark:bg-slate-900/50">
-            <div>
-                <h2 id="p-id" class="text-xl font-bold">---</h2>
-                <p id="p-mod" class="text-xs text-slate-500 font-medium uppercase tracking-widest mt-1">---</p>
+    <aside id="detail-panel" class="fixed top-0 right-0 h-full w-full max-w-3xl bg-white dark:bg-slate-900 shadow-2xl z-[70] transform translate-x-full transition-transform duration-500 ease-[cubic-bezier(0.16,1,0.3,1)] flex flex-col">
+        <div class="p-8 border-b border-slate-100 dark:border-slate-800 flex items-center justify-between">
+            <div class="flex items-center gap-4">
+                <div class="w-12 h-12 rounded-2xl bg-slate-100 dark:bg-slate-800 flex items-center justify-center text-slate-500">
+                    <i class="fas fa-file-invoice-dollar text-xl"></i>
+                </div>
+                <div>
+                    <h3 id="m-id" class="text-2xl font-bold tracking-tight">---</h3>
+                    <div class="flex gap-2 mt-1">
+                        <span id="m-bad" class="text-[10px] font-bold px-2 py-0.5 rounded-md">---</span>
+                        <span id="m-adm" class="text-[10px] text-slate-400 font-mono">---</span>
+                    </div>
+                </div>
             </div>
-            <div class="flex gap-2">
-                <button onclick="gerarPDFAtual()" class="p-2.5 bg-emerald-600 hover:bg-emerald-700 text-white rounded-lg transition-colors shadow-lg shadow-emerald-600/20" title="Exportar PDF">
-                    <i class="fas fa-file-pdf"></i>
+            <div class="flex gap-3">
+                <button onclick="exportToPDF()" class="flex items-center gap-2 px-5 py-2.5 bg-accent-600 hover:bg-accent-700 text-white rounded-xl text-xs font-bold shadow-lg shadow-accent-600/20 transition-all">
+                    <i class="fas fa-file-pdf"></i> Exportar Dossier
                 </button>
-                <button onclick="closeDetails()" class="p-2.5 bg-slate-200 dark:bg-slate-800 hover:bg-rose-500 hover:text-white rounded-lg transition-all">
+                <button onclick="hideModal()" class="w-10 h-10 flex items-center justify-center bg-slate-100 dark:bg-slate-800 rounded-xl hover:bg-rose-500 hover:text-white transition-all">
                     <i class="fas fa-times"></i>
                 </button>
             </div>
         </div>
 
-        <div class="flex-1 overflow-y-auto custom-scrollbar p-6 space-y-8">
-            <div class="grid grid-cols-2 gap-4 text-sm">
-                <div class="p-3 bg-slate-50 dark:bg-slate-800/50 rounded-lg">
-                    <span class="block text-xs text-slate-500 mb-1 italic">Situação atual</span>
-                    <span id="p-sit" class="font-bold">---</span>
+        <div class="flex-1 overflow-y-auto custom-scrollbar p-8">
+            <div class="grid grid-cols-1 gap-8">
+                <div class="space-y-4">
+                    <h4 class="text-[11px] font-black text-slate-300 dark:text-slate-600 uppercase tracking-[0.2em]">Detalhes da Contratação</h4>
+                    <div class="p-6 bg-slate-50 dark:bg-slate-800/40 border border-slate-100 dark:border-slate-800 rounded-3xl">
+                        <p id="m-obj" class="text-sm leading-relaxed text-slate-600 dark:text-slate-300 italic">---</p>
+                        <div class="grid grid-cols-2 gap-6 mt-6 pt-6 border-t border-slate-200/50 dark:border-slate-700/50">
+                            <div>
+                                <span class="block text-[10px] text-slate-400 font-bold uppercase">Modalidade</span>
+                                <span id="m-mod" class="text-sm font-semibold">---</span>
+                            </div>
+                            <div>
+                                <span class="block text-[10px] text-slate-400 font-bold uppercase">Condutor</span>
+                                <span id="m-con" class="text-sm font-semibold">---</span>
+                            </div>
+                        </div>
+                    </div>
                 </div>
-                <div class="p-3 bg-slate-50 dark:bg-slate-800/50 rounded-lg">
-                    <span class="block text-xs text-slate-500 mb-1 italic">Condutor do Processo</span>
-                    <span id="p-cond" class="font-bold truncate block">---</span>
+
+                <div class="space-y-4">
+                    <div class="flex items-center justify-between">
+                        <h4 class="text-[11px] font-black text-slate-300 dark:text-slate-600 uppercase tracking-[0.2em]">Especificação Técnica / Lotes</h4>
+                        <span id="m-count" class="text-[10px] font-bold bg-slate-100 dark:bg-slate-800 px-2 py-1 rounded text-slate-500">0 Lotes</span>
+                    </div>
+                    <div id="m-lotes-list" class="space-y-3">
+                        </div>
                 </div>
             </div>
-
-            <section>
-                <h3 class="text-sm font-bold text-slate-400 uppercase tracking-widest mb-3 flex items-center gap-2">
-                    <i class="fas fa-align-left text-blue-500"></i> Objeto
-                </h3>
-                <p id="p-obj" class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm bg-white dark:bg-slate-800 border border-slate-100 dark:border-slate-700 p-4 rounded-xl shadow-sm">---</p>
-            </section>
-
-            <section>
-                <div class="flex items-center justify-between mb-4">
-                    <h3 class="text-sm font-bold text-slate-400 uppercase tracking-widest flex items-center gap-2">
-                        <i class="fas fa-layer-group text-emerald-500"></i> Lotes e Itens Detalhados
-                    </h3>
-                    <span id="p-count-lotes" class="text-xs bg-slate-100 dark:bg-slate-800 px-2 py-1 rounded font-bold">0 Lotes</span>
-                </div>
-                <div id="lotes-container" class="space-y-3">
-                    </div>
-            </section>
         </div>
     </aside>
 
     <script>
-        let fullData = null;
-        let activeProcess = null;
+        let db = null;
+        let selectedProcess = null;
 
-        // --- Inicialização ---
-        async function loadData() {
+        async function init() {
             try {
-                const response = await fetch('dados.json');
-                fullData = await response.json();
-                initApp();
-            } catch (err) {
-                console.error("Erro ao carregar JSON:", err);
-                document.getElementById('loading').innerHTML = `<p class="text-rose-500">Erro ao carregar dados. Verifique o arquivo dados (1).json</p>`;
-            }
+                const res = await fetch('dados.json');
+                db = await res.json();
+                
+                // Dash Stats
+                document.getElementById('stat-proc').innerText = db.metadata.total_processos;
+                document.getElementById('stat-lote').innerText = db.metadata.total_lotes;
+                document.getElementById('stat-item').innerText = db.metadata.total_itens;
+                document.getElementById('stat-upd').innerText = formatISO(db.metadata.atualizado_em);
+                
+                renderTable(db.processos);
+            } catch (e) { console.error("Falha ao carregar DB", e); }
         }
 
-        function initApp() {
-            document.getElementById('loading').classList.add('hidden');
-            document.getElementById('list-container').classList.remove('hidden');
-
-            // Atualizar Dashboard
-            document.getElementById('stat-processos').innerText = fullData.metadata.total_processos;
-            document.getElementById('stat-lotes').innerText = fullData.metadata.total_lotes;
-            document.getElementById('stat-itens').innerText = fullData.metadata.total_itens;
-            document.getElementById('stat-data').innerText = formatarDataISO(fullData.metadata.atualizado_em);
-
-            // Popular Filtros
-            const situacoes = [...new Set(fullData.processos.map(p => p.situacao))];
-            const select = document.getElementById('filter-situacao');
-            situacoes.forEach(s => {
-                const opt = document.createElement('option');
-                opt.value = s;
-                opt.innerText = s;
-                select.appendChild(opt);
-            });
-
-            renderList(fullData.processos);
-        }
-
-        // --- Renderização ---
-        function renderList(list) {
-            const container = document.getElementById('list-container');
-            container.innerHTML = list.map(p => `
-                <div onclick="openDetails('${p.id}')" class="group bg-white dark:bg-slate-900 p-5 rounded-2xl border border-slate-200 dark:border-slate-800 hover:border-blue-500 dark:hover:border-blue-500 transition-all cursor-pointer shadow-sm hover:shadow-xl hover:shadow-blue-500/10">
-                    <div class="flex justify-between items-start mb-3">
-                        <span class="text-xs font-bold text-blue-600 dark:text-blue-400 bg-blue-50 dark:bg-blue-900/30 px-2 py-1 rounded">${p.id}</span>
-                        <span class="text-[10px] text-slate-400 font-mono">${p.numero_adm}</span>
-                    </div>
-                    <h4 class="font-bold text-slate-800 dark:text-slate-200 line-clamp-2 mb-3 group-hover:text-blue-600 transition-colors">${p.objeto}</h4>
-                    <div class="flex items-center justify-between mt-auto pt-4 border-t border-slate-50 dark:border-slate-800">
-                        <span class="text-[11px] px-2 py-0.5 rounded-full ${getBadgeClass(p.situacao)}">${p.situacao}</span>
-                        <span class="text-[10px] text-slate-400"><i class="far fa-calendar-alt mr-1"></i>${p.publicacao.split(' ')[0]}</span>
-                    </div>
-                </div>
+        function renderTable(data) {
+            const body = document.getElementById('main-table-body');
+            body.innerHTML = data.map(p => `
+                <tr onclick="showModal('${p.id}')" class="group hover:bg-slate-50 dark:hover:bg-slate-800/40 cursor-pointer transition-colors">
+                    <td class="px-6 py-5">
+                        <div class="flex flex-col">
+                            <span class="text-sm font-bold text-accent-600 dark:text-accent-400">${p.id}</span>
+                            <span class="text-[10px] font-mono text-slate-400 uppercase">${p.numero_adm}</span>
+                        </div>
+                    </td>
+                    <td class="px-6 py-5">
+                        <p class="text-sm font-medium text-slate-600 dark:text-slate-300 line-clamp-1 max-w-lg">${p.objeto}</p>
+                    </td>
+                    <td class="px-6 py-5 text-xs font-semibold text-slate-500">${p.modalidade}</td>
+                    <td class="px-6 py-5 text-center">
+                        <span class="text-[10px] font-black px-2.5 py-1 rounded-full border ${getBadge(p.situacao)}">
+                            ${p.situacao}
+                        </span>
+                    </td>
+                    <td class="px-6 py-5 text-right opacity-0 group-hover:opacity-100 transition-opacity">
+                        <i class="fas fa-chevron-right text-slate-300"></i>
+                    </td>
+                </tr>
             `).join('');
         }
 
-        // --- Detalhamento (Off-canvas) ---
-        function openDetails(id) {
-            activeProcess = fullData.processos.find(p => p.id === id);
+        function showModal(id) {
+            selectedProcess = db.processos.find(p => p.id === id);
             
-            document.getElementById('p-id').innerText = activeProcess.id;
-            document.getElementById('p-mod').innerText = activeProcess.modalidade;
-            document.getElementById('p-sit').innerText = activeProcess.situacao;
-            document.getElementById('p-cond').innerText = activeProcess.condutor || 'Não informado';
-            document.getElementById('p-obj').innerText = activeProcess.objeto;
-            document.getElementById('p-count-lotes').innerText = `${activeProcess.lotes?.length || 0} Lotes`;
+            document.getElementById('m-id').innerText = selectedProcess.id;
+            document.getElementById('m-adm').innerText = `Adm: ${selectedProcess.numero_adm}`;
+            document.getElementById('m-obj').innerText = selectedProcess.objeto;
+            document.getElementById('m-mod').innerText = selectedProcess.modalidade;
+            document.getElementById('m-con').innerText = selectedProcess.condutor || "Davidson Araújo Santos";
+            document.getElementById('m-count').innerText = `${selectedProcess.lotes?.length || 0} Lotes encontrados`;
+            
+            const badge = document.getElementById('m-bad');
+            badge.innerText = selectedProcess.situacao;
+            badge.className = `text-[10px] font-bold px-2 py-0.5 rounded-md border ${getBadge(selectedProcess.situacao)}`;
 
-            renderLotes(activeProcess.lotes || []);
+            renderLotes(selectedProcess.lotes || []);
 
-            // Animação
-            const backdrop = document.getElementById('backdrop');
-            const panel = document.getElementById('side-panel');
-            backdrop.classList.remove('hidden');
+            const back = document.getElementById('modal-backdrop');
+            const panel = document.getElementById('detail-panel');
+            back.classList.remove('hidden');
             setTimeout(() => {
-                backdrop.classList.remove('opacity-0');
+                back.classList.remove('opacity-0');
                 panel.classList.remove('translate-x-full');
             }, 10);
         }
 
-        function closeDetails() {
-            const backdrop = document.getElementById('backdrop');
-            const panel = document.getElementById('side-panel');
-            backdrop.classList.add('opacity-0');
+        function hideModal() {
+            const back = document.getElementById('modal-backdrop');
+            const panel = document.getElementById('detail-panel');
+            back.classList.add('opacity-0');
             panel.classList.add('translate-x-full');
-            setTimeout(() => backdrop.classList.add('hidden'), 300);
+            setTimeout(() => back.classList.add('hidden'), 500);
         }
 
         function renderLotes(lotes) {
-            const container = document.getElementById('lotes-container');
+            const container = document.getElementById('m-lotes-list');
             container.innerHTML = lotes.map(l => `
-                <details class="group border border-slate-200 dark:border-slate-800 rounded-xl overflow-hidden bg-white dark:bg-slate-900 transition-all">
-                    <summary class="flex items-center justify-between p-4 cursor-pointer hover:bg-slate-50 dark:hover:bg-slate-800/50 list-none">
-                        <div class="flex gap-4 items-center">
-                            <span class="flex-shrink-0 w-8 h-8 flex items-center justify-center rounded-full bg-slate-100 dark:bg-slate-800 text-xs font-bold">L${l.numero}</span>
-                            <span class="text-sm font-semibold truncate max-w-[300px]">${l.descricao || 'Sem descrição'}</span>
+                <details class="group bg-white dark:bg-slate-900 border border-slate-100 dark:border-slate-800 rounded-2xl transition-all shadow-sm">
+                    <summary class="flex items-center justify-between p-5 cursor-pointer list-none">
+                        <div class="flex items-center gap-4">
+                            <span class="w-8 h-8 rounded-lg bg-slate-900 text-white text-[10px] font-bold flex items-center justify-center">L${l.numero}</span>
+                            <span class="text-sm font-bold text-slate-700 dark:text-slate-200 truncate max-w-[400px]">${l.descricao || 'Processo Principal'}</span>
                         </div>
-                        <i class="fas fa-chevron-down text-xs text-slate-400 group-open:rotate-180 transition-transform"></i>
+                        <i class="fas fa-plus text-slate-300 group-open:rotate-45 transition-transform"></i>
                     </summary>
-                    <div class="px-4 pb-4 border-t border-slate-100 dark:border-slate-800 bg-slate-50/50 dark:bg-slate-950/30">
-                        <div class="overflow-x-auto mt-4 rounded-lg border border-slate-200 dark:border-slate-800">
-                            <table class="w-full text-[11px] text-left">
-                                <thead class="bg-slate-100 dark:bg-slate-800 text-slate-500 uppercase">
+                    <div class="px-5 pb-5 pt-2 border-t border-slate-50 dark:border-slate-800">
+                        <table class="w-full text-left text-[11px]">
+                            <thead>
+                                <tr class="text-slate-400 font-bold uppercase border-b border-slate-50 dark:border-slate-800">
+                                    <th class="py-2">Item</th>
+                                    <th class="py-2">Especificação</th>
+                                    <th class="py-2 text-right">Qtd</th>
+                                    <th class="py-2 text-right">Valor Ref.</th>
+                                </tr>
+                            </thead>
+                            <tbody class="divide-y divide-slate-50 dark:divide-slate-800/50">
+                                ${l.itens.map(it => `
                                     <tr>
-                                        <th class="p-2 w-10">Item</th>
-                                        <th class="p-2">Especificação</th>
-                                        <th class="p-2 text-right">Qtd/Unid</th>
-                                        <th class="p-2 text-right">Valor Ref.</th>
+                                        <td class="py-3 font-bold text-accent-600">${it.numero}</td>
+                                        <td class="py-3 text-slate-500 pr-4">${it.especificacao}</td>
+                                        <td class="py-3 text-right font-medium">${it.quantidade} ${it.unidade}</td>
+                                        <td class="py-3 text-right font-bold text-slate-800 dark:text-slate-100">R$ ${it.valor_referencia}</td>
                                     </tr>
-                                </thead>
-                                <tbody>
-                                    ${l.itens.map(it => `
-                                        <tr class="border-t border-slate-100 dark:border-slate-800">
-                                            <td class="p-2 font-bold">${it.numero}</td>
-                                            <td class="p-2 text-slate-600 dark:text-slate-400">${it.especificacao}</td>
-                                            <td class="p-2 text-right whitespace-nowrap">${it.quantidade} ${it.unidade}</td>
-                                            <td class="p-2 text-right font-semibold">R$ ${it.valor_referencia}</td>
-                                        </tr>
-                                    `).join('')}
-                                </tbody>
-                            </table>
-                        </div>
+                                `).join('')}
+                            </tbody>
+                        </table>
                     </div>
                 </details>
             `).join('');
         }
 
-        // --- Exportação PDF ---
-        function gerarPDFAtual() {
-            if (!activeProcess) return;
+        function exportToPDF() {
+            if(!selectedProcess) return;
             const { jsPDF } = window.jspdf;
             const doc = new jsPDF();
-            const p = activeProcess;
+            const p = selectedProcess;
 
-            // Header
-            doc.setFontSize(10);
-            doc.text("MUNICIPIO DE TEIXEIRA DE FREITAS", 105, 15, { align: "center" });
-            doc.setFontSize(14).setFont(undefined, 'bold');
-            doc.text(`RELATÓRIO TÉCNICO: ${p.id}`, 20, 30);
+            // Layout Profissional de PDF
+            doc.setFillColor(15, 23, 42); // Navy Dark
+            doc.rect(0, 0, 210, 40, 'F');
             
-            // Info Table
+            doc.setTextColor(255, 255, 255);
+            doc.setFontSize(10).setFont(undefined, 'bold');
+            doc.text("ESTADO DA BAHIA - PREFEITURA DE TEIXEIRA DE FREITAS", 20, 15);
+            doc.setFontSize(16);
+            doc.text(`EXTRATO DE LICITAÇÃO: ${p.id}`, 20, 25);
+            doc.setFontSize(8).setFont(undefined, 'normal');
+            doc.text(`Emitido em: ${new Date().toLocaleString()}`, 20, 32);
+
+            doc.setTextColor(30, 41, 59);
+            doc.setFontSize(10).setFont(undefined, 'bold');
+            doc.text("1. INFORMAÇÕES GERAIS", 20, 50);
+            
             doc.autoTable({
-                startY: 35,
+                startY: 55,
                 body: [
-                    ["Modalidade", p.modalidade, "Status", p.situacao],
-                    ["Proc. Adm", p.numero_adm, "Condutor", p.condutor || "---"]
-                ],
-                theme: 'plain', styles: { fontSize: 8, cellPadding: 1 }
-            });
-
-            // Objeto
-            doc.setFontSize(9).setFont(undefined, 'bold').text("OBJETO:", 20, doc.lastAutoTable.finalY + 10);
-            doc.setFont(undefined, 'normal');
-            const splitObj = doc.splitTextToSize(p.objeto, 170);
-            doc.text(splitObj, 20, doc.lastAutoTable.finalY + 15);
-
-            // Lotes
-            let y = doc.lastAutoTable.finalY + 20 + (splitObj.length * 4);
-            p.lotes.forEach(l => {
-                if (y > 260) { doc.addPage(); y = 20; }
-                
-                doc.setFontSize(10).setFont(undefined, 'bold');
-                doc.setFillColor(245, 245, 245).rect(20, y, 170, 7, 'F');
-                doc.text(`LOTE ${l.numero} - ${l.descricao || ''}`, 22, y + 5);
-
-                doc.autoTable({
-                    startY: y + 8,
-                    head: [['Item', 'Especificação', 'Qtd', 'Unid', 'Valor Ref.']],
-                    body: l.itens.map(i => [i.numero, i.especificacao, i.quantidade, i.unidade, `R$ ${i.valor_referencia}`]),
-                    styles: { fontSize: 7 }, headStyles: { fillColor: [37, 99, 235] },
-                    margin: { left: 20 }, tableWidth: 170
-                });
-                y = doc.lastAutoTable.finalY + 10;
-            });
-
-            doc.save(`${p.id}_detalhes.pdf`);
-        }
-
-        // --- Helpers ---
-        function formatarDataISO(iso) {
-            if(!iso) return "---";
-            const ano = iso.substring(0,4);
-            const mes = iso.substring(4,6);
-            const dia = iso.substring(6,8);
-            return `${dia}/${mes}/${ano}`;
-        }
-
-        function getBadgeClass(sit) {
-            const s = sit.toUpperCase();
-            if(s.includes('RECEPÇÃO')) return 'bg-blue-100 text-blue-700 dark:bg-blue-900/40 dark:text-blue-300';
-            if(s.includes('HOMOLOGADO') || s.includes('ADJUDICADO')) return 'bg-emerald-100 text-emerald-700 dark:bg-emerald-900/40 dark:text-emerald-300';
-            if(s.includes('SUSPENSO') || s.includes('CANCELADO')) return 'bg-rose-100 text-rose-700 dark:bg-rose-900/40 dark:text-rose-300';
-            return 'bg-slate-100 text-slate-600 dark:bg-slate-800 dark:text-slate-400';
-        }
-
-        // Filtro
-        document.getElementById('main-search').addEventListener('input', (e) => {
-            const term = e.target.value.toLowerCase();
-            const sit = document.getElementById('filter-situacao').value;
-            const filtered = fullData.processos.filter(p => {
-                const matchSearch = p.objeto.toLowerCase().includes(term) || p.id.toLowerCase().includes(term);
-                const matchSit = sit === 'all' || p.situacao === sit;
-                return matchSearch && matchSit;
-            });
-            renderList(filtered);
-        });
-
-        document.getElementById('filter-situacao').addEventListener('change', () => {
-            document.getElementById('main-search').dispatchEvent(new Event('input'));
-        });
-
-        loadData();
-    </script>
-</body>
-</html>
+                    ["Proc. Administrativo", p.numero_adm, "Modalidade", p.modalidade],
+                    ["Situação", p.situacao, "Condutor", p.condu
