@@ -492,10 +492,15 @@ async function loadData() {
         
         processos = resLicit.processos || [];
         compras = resCompra.registros || [];
-        ALL_DATA._meta_licit_raw = resLicit.metadata || {};
-        ALL_DATA._meta_compras_raw = resCompra.metadata || {};
-        
+        // guardar metadata antes de processarDados reescrever ALL_DATA
+        const metaLicitRaw = resLicit.metadata || {};
+        const metaComprasRaw = resCompra.metadata || {};
+
         processarDados();
+
+        // restaurar metadata após processarDados
+        ALL_DATA._meta_licit_raw = metaLicitRaw;
+        ALL_DATA._meta_compras_raw = metaComprasRaw;
     } catch (err) {
         console.error('Erro ao carregar dados via fetch:', err);
         showError('Erro ao carregar arquivos JSON. Verifique se dados.json e dados_compra_direta.json estão no mesmo diretório.');
@@ -1215,12 +1220,15 @@ function renderAlertas() {
             <span class="mono text-[10px] bg-amber-100 text-amber-700 dark:bg-amber-950 dark:text-amber-400 px-1.5 py-0.5 rounded-full">${alertas.length}</span>
         </div>
         <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3">
-        ${limitados.map(a => `
-            <div onclick='openModalById("${a.id.replace(/'/g,"\\'")}") ' 
+        ${limitados.map(a => {
+            const bgIcon = a.tipo==='urgente' ? 'bg-rose-100 dark:bg-rose-950' : a.tipo==='proximo' ? 'bg-amber-100 dark:bg-amber-950' : 'bg-blue-100 dark:bg-blue-950';
+            const txtIcon = a.tipo==='urgente' ? 'text-rose-600' : a.tipo==='proximo' ? 'text-amber-600' : 'text-blue-600';
+            return `
+            <div onclick='openModalById("${a.id.replace(/'/g,"\\'")}") '
                  class="cursor-pointer alert-${a.tipo} bg-white dark:bg-slate-900 rounded-xl p-3 shadow-sm border border-slate-200 dark:border-slate-800 hover:shadow-md transition-all">
                 <div class="flex items-start gap-2">
-                    <div class="shrink-0 mt-0.5 w-7 h-7 rounded-lg flex items-center justify-center ${a.tipo==='urgente'?'bg-rose-100 dark:bg-rose-950':'a.tipo==="proximo"?bg-amber-100 dark:bg-amber-950':' bg-blue-100 dark:bg-blue-950'}">
-                        <i class="fas ${a.icon} text-[11px] ${a.tipo==='urgente'?'text-rose-600':'a.tipo==="proximo"?text-amber-600':' text-blue-600'}"></i>
+                    <div class="shrink-0 mt-0.5 w-7 h-7 rounded-lg flex items-center justify-center ${bgIcon}">
+                        <i class="fas ${a.icon} text-[11px] ${txtIcon}"></i>
                     </div>
                     <div class="flex-1 min-w-0">
                         <div class="flex items-center gap-2 mb-0.5">
@@ -1231,7 +1239,8 @@ function renderAlertas() {
                         <p class="text-[10px] text-slate-400 mt-0.5 line-clamp-1">${a.sub||''}</p>
                     </div>
                 </div>
-            </div>`).join('')}
+            </div>`;
+        }).join('')}
         </div>`;
 }
 
