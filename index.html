@@ -212,6 +212,7 @@
                         <h4 class="text-[10px] font-bold text-blue-600 dark:text-blue-400 uppercase tracking-widest mb-3">Datas</h4>
                         <div class="space-y-2">
                             <div><span class="text-[10px] text-slate-400 block">Publicação</span><span id="ml-publicacao" class="text-xs font-bold mono"></span></div>
+                            <div><span class="text-[10px] text-slate-400 block">Início Recepção</span><span id="ml-inicio-recepcao" class="text-xs font-bold mono"></span></div>
                             <div><span class="text-[10px] text-slate-400 block">Fim Recepção</span><span id="ml-fim-recepcao" class="text-xs font-bold mono"></span></div>
                             <div><span class="text-[10px] text-slate-400 block">Início Disputa</span><span id="ml-inicio-disputa" class="text-xs font-bold mono"></span></div>
                         </div>
@@ -221,6 +222,7 @@
                         <div class="flex justify-between text-xs gap-2"><span class="text-slate-400 shrink-0">Nº Edital</span><span id="ml-id" class="font-bold mono text-right text-blue-600 dark:text-blue-400"></span></div>
                         <div class="flex justify-between text-xs gap-2"><span class="text-slate-400 shrink-0">Nº Adm.</span><span id="ml-adm" class="font-semibold mono text-right text-slate-500"></span></div>
                         <div class="flex justify-between text-xs gap-2"><span class="text-slate-400 shrink-0">Modalidade</span><span id="ml-modalidade" class="font-semibold text-right"></span></div>
+                        <div class="flex justify-between text-xs gap-2"><span class="text-slate-400 shrink-0">Tipo Contrato</span><span id="ml-tipo-contrato" class="font-semibold text-right text-slate-600 dark:text-slate-400"></span></div>
                         <div class="flex justify-between text-xs gap-2"><span class="text-slate-400 shrink-0">Ano</span><span id="ml-ano" class="font-semibold text-right text-slate-600 dark:text-slate-400"></span></div>
                         <div class="flex justify-between text-xs gap-2"><span class="text-slate-400 shrink-0">Condutor</span><span id="ml-condutor" class="font-semibold text-right"></span></div>
                         <div class="flex justify-between text-xs gap-2"><span class="text-slate-400 shrink-0">Autoridade</span><span id="ml-autoridade" class="font-semibold text-right"></span></div>
@@ -371,6 +373,7 @@ const totalRegistroCompra = reg => {
     if (!itens.length) return null;
     let soma = 0, temValor = false;
     itens.forEach(it => {
+        // valor no JSON = valor unitário; subtotal = valor * quantidade
         const v = parseValor(it.valor || '');
         const q = parseValor(it.quantidade || '1');
         const qtd = (!isNaN(q) && q > 0) ? q : 1;
@@ -403,6 +406,8 @@ async function loadData() {
         
         processos = resLicit.processos || [];
         compras = resCompra.registros || [];
+        ALL_DATA._meta_licit_raw = resLicit.metadata || {};
+        ALL_DATA._meta_compras_raw = resCompra.metadata || {};
         
         processarDados();
     } catch (err) {
@@ -431,8 +436,15 @@ function processarDados() {
     ALL_DATA = {
         processos: processos,
         compras: compras,
-        meta_licit: { total_processos: processos.length, total_lotes: 0 },
-        meta_compras: { total_registros: compras.length, total_itens: 0 }
+        meta_licit: {
+            total_processos: processos.length,
+            total_lotes: processos.reduce((s,p) => s+(p.total_lotes||0), 0),
+            total_itens: processos.reduce((s,p) => s+(p.total_itens||0), 0)
+        },
+        meta_compras: {
+            total_registros: compras.length,
+            total_itens: compras.reduce((s,c) => s+(c.total_itens||0), 0)
+        }
     };
 
     // Mostrar conteúdo principal
@@ -502,10 +514,12 @@ function switchDataset(ds) {
         .replace(/hover:bg-\w+-700/,'hover:bg-'+(isLicit?'blue':'violet')+'-700');
 
     const meta = isLicit ? ALL_DATA.meta_licit : ALL_DATA.meta_compras;
+    const metaRaw = isLicit ? (ALL_DATA._meta_licit_raw||{}) : (ALL_DATA._meta_compras_raw||{});
+    const atu = metaRaw.atualizado_em ? ' · ' + metaRaw.atualizado_em.replace(/(\d{4})(\d{2})(\d{2})_(\d{2})(\d{2})(\d{2})/,'$3/$2/$1 $4:$5') : '';
     document.getElementById('header-meta').textContent =
         isLicit
-        ? `${meta.total_processos||rawData.length} processos`
-        : `${meta.total_registros||rawData.length} registros`;
+        ? `${meta.total_processos||rawData.length} processos · ${meta.total_lotes||0} lotes · ${meta.total_itens||0} itens${atu}`
+        : `${meta.total_registros||rawData.length} registros · ${meta.total_itens||0} itens${atu}`;
 
     document.querySelectorAll('.view-tab').forEach((b,i) => b.classList.toggle('tab-active', i===0));
 
@@ -574,23 +588,30 @@ function renderStats() {
     let stats;
     if (dataset === 'licit') {
         const homologados = rawData.filter(r => norm(r.situacao).includes('homologad') || norm(r.situacao).includes('adjudicad')).length;
-        const ativos = rawData.filter(r => !norm(r.situacao).includes('homologad') && !norm(r.situacao).includes('adjudicad') && !norm(r.situacao).includes('anulad') && !norm(r.situacao).includes('revogad') && !norm(r.situacao).includes('fracass') && !norm(r.situacao).includes('deserto')).length;
-        const totalLotes = rawData.reduce((s,r) => s+(r.total_lotes||0), 0);
+        const ativos = rawData.filter(r => norm(r.situacao).includes('recepcao') || norm(r.situacao).includes('publicad') || norm(r.situacao).includes('analise') || norm(r.situacao).includes('habilitacao') || norm(r.situacao).includes('finaliz')).length;
+        const totalLotes = ALL_DATA.meta_licit?.total_lotes || rawData.reduce((s,r) => s+(r.total_lotes||0), 0);
+        const totalItens = ALL_DATA.meta_licit?.total_itens || rawData.reduce((s,r) => s+(r.total_itens||0), 0);
         stats = [
-            { icon:'fa-gavel',        label:'Processos',     val: rawData.length,  color:'text-blue-600' },
-            { icon:'fa-check-circle', label:'Homologados',   val: homologados,     color:'text-emerald-500' },
-            { icon:'fa-spinner',      label:'Em Andamento',  val: ativos,          color:'text-amber-500' },
-            { icon:'fa-layer-group',  label:'Total de Lotes',val: totalLotes,      color:'text-primary-600' },
+            { icon:'fa-gavel',        label:'Processos',     val: rawData.length,  color:'text-blue-600',    fmt: 'n' },
+            { icon:'fa-check-circle', label:'Homologados',   val: homologados,     color:'text-emerald-500', fmt: 'n' },
+            { icon:'fa-spinner',      label:'Em Andamento',  val: ativos,          color:'text-amber-500',   fmt: 'n' },
+            { icon:'fa-layer-group',  label:'Total de Lotes',val: totalLotes,      color:'text-primary-600', fmt: 'n' },
         ];
     } else {
         const concluidos = rawData.filter(r => norm(r.status).includes('conclu')).length;
-        const emAnd = rawData.filter(r => !norm(r.status).includes('conclu')).length;
-        const totalItens = flatSub.length;
+        const emAnd = rawData.filter(r => !norm(r.status).includes('conclu') && !norm(r.status).includes('cancel')).length;
+        const totalItensCD = ALL_DATA.meta_compras?.total_itens || flatSub.length;
+        // Calcular valor total contratado
+        let valorTotal = 0;
+        rawData.forEach(r => {
+            const v = totalRegistroCompra(r);
+            if (v) valorTotal += v;
+        });
         stats = [
-            { icon:'fa-shopping-cart', label:'Compras',      val: rawData.length,  color:'text-violet-600' },
-            { icon:'fa-check-double',  label:'Concluídas',    val: concluidos,      color:'text-emerald-500' },
-            { icon:'fa-clock',         label:'Em Andamento',  val: emAnd,           color:'text-amber-500' },
-            { icon:'fa-list-ol',       label:'Total Itens',   val: totalItens,      color:'text-primary-600' },
+            { icon:'fa-shopping-cart', label:'Compras Diretas', val: rawData.length, color:'text-violet-600',   fmt: 'n' },
+            { icon:'fa-check-double',  label:'Concluídas',       val: concluidos,     color:'text-emerald-500', fmt: 'n' },
+            { icon:'fa-clock',         label:'Em Andamento',     val: emAnd,          color:'text-amber-500',   fmt: 'n' },
+            { icon:'fa-dollar-sign',   label:'Valor Total',      val: valorTotal,     color:'text-primary-600', fmt: 'brl' },
         ];
     }
 
@@ -600,7 +621,7 @@ function renderStats() {
                 <i class="fas ${s.icon} ${s.color} text-lg"></i>
             </div>
             <div class="min-w-0">
-                <p class="text-2xl font-black ${s.color}">${s.val.toLocaleString('pt-BR')}</p>
+                <p class="text-2xl font-black ${s.color} ${s.fmt==='brl' ? 'text-lg' : ''}">${s.fmt==='brl' ? fmtBRL(s.val) : s.val.toLocaleString('pt-BR')}</p>
                 <p class="text-[11px] text-slate-400 font-medium truncate">${s.label}</p>
             </div>
         </div>`).join('');
@@ -692,22 +713,27 @@ function render() {
     if (dataset === 'licit') {
         if (viewMode === 'registros') {
             head.innerHTML = `<tr class="bg-slate-50 dark:bg-slate-950 border-b border-slate-200 dark:border-slate-800">
-                ${['Nº Edital','Modalidade','Objeto','Condutor','Lotes','Itens','Situação'].map(h=>
+                ${['Nº Edital','Modalidade','Objeto','Condutor','Lotes','Valor Ref.','Situação'].map(h=>
                     `<th class="px-4 py-3 text-[11px] font-bold text-slate-500 uppercase tracking-wider whitespace-nowrap">${h}</th>`
                 ).join('')}
             </tr>`;
             body.innerHTML = !slice.length
                 ? `<tr><td colspan="7" class="px-6 py-12 text-center text-slate-400 text-sm">Nenhum resultado encontrado.</td></tr>`
-                : slice.map((r,idx) => `
-                    <tr onclick="openModal(${start+idx})" class="cursor-pointer hover:bg-primary-50 dark:hover:bg-slate-800/40 transition-colors">
+                : slice.map((r,idx) => {
+                    // Calcular valor total de referência somando lotes
+                    const valRef = (r.lotes||[]).reduce((s,l) => {
+                        const v = parseValor(l.valor_referencia||'');
+                        return isNaN(v) ? s : s + v;
+                    }, 0);
+                    return `<tr onclick="openModal(${start+idx})" class="cursor-pointer hover:bg-primary-50 dark:hover:bg-slate-800/40 transition-colors">
                         <td class="px-4 py-3 mono text-xs font-black text-blue-600 dark:text-blue-400 whitespace-nowrap">${hl(r.id,search)||'–'}</td>
                         <td class="px-4 py-3 text-xs text-slate-500 whitespace-nowrap">${hl(r.modalidade,search)||'–'}</td>
                         <td class="px-4 py-3 text-xs text-slate-700 dark:text-slate-300 max-w-xs"><div class="line-clamp-2">${hl(r.objeto,search)||'–'}</div></td>
                         <td class="px-4 py-3 text-xs text-slate-600 dark:text-slate-400 max-w-[180px]"><div class="truncate">${hl(r.condutor,search)||'–'}</div></td>
                         <td class="px-4 py-3 text-center"><span class="mono text-xs font-bold text-slate-500">${r.total_lotes||0}</span></td>
-                        <td class="px-4 py-3 text-center"><span class="mono text-xs font-bold text-slate-500">${r.total_itens||0}</span></td>
+                        <td class="px-4 py-3 mono text-xs font-bold text-emerald-600 whitespace-nowrap">${valRef > 0 ? fmtBRL(valRef) : '–'}</td>
                         <td class="px-4 py-3 whitespace-nowrap"><span class="px-2 py-0.5 rounded-full text-[10px] font-bold ${badgeClassLicit(r.situacao)}">${r.situacao||'–'}</span></td>
-                    </tr>`).join('');
+                    </tr>`;}).join('');
         } else {
             head.innerHTML = `<tr class="bg-slate-50 dark:bg-slate-950 border-b border-slate-200 dark:border-slate-800">
                 ${['Processo','Lote','Especificação','Unidade','Qtd.','Valor Ref.','Situação'].map(h=>
@@ -842,27 +868,50 @@ function openModalLicit(r) {
     document.getElementById('ml-id').textContent    = r.id||'–';
     document.getElementById('ml-adm').textContent   = r.numero_adm||'–';
     document.getElementById('ml-modalidade').textContent   = r.modalidade||'–';
+    document.getElementById('ml-tipo-contrato').textContent = r.tipo_contrato||'–';
     document.getElementById('ml-ano').textContent = r.ano_referencia||'–';
     document.getElementById('ml-condutor').textContent  = r.condutor||'–';
     document.getElementById('ml-autoridade').textContent = r.autoridade||'–';
     document.getElementById('ml-publicacao').textContent    = r.publicacao||'–';
+    document.getElementById('ml-inicio-recepcao').textContent = r.inicio_recepcao||'–';
     document.getElementById('ml-fim-recepcao').textContent  = r.fim_recepcao||'–';
     document.getElementById('ml-inicio-disputa').textContent = r.inicio_disputa||'–';
     document.getElementById('ml-link').href = r.link||'#';
 
     const lotes = r.lotes || [];
-    document.getElementById('ml-lotes-count').textContent = `${lotes.length} lote(s)`;
+    document.getElementById('ml-lotes-count').textContent = `${lotes.length} lote(s) · ${r.total_itens||0} itens`;
     document.getElementById('ml-lotes-container').innerHTML = lotes.length === 0
         ? '<p class="text-[11px] text-slate-400 italic">Sem lotes cadastrados.</p>'
-        : lotes.map(l => `
+        : lotes.map(l => {
+            const temVencedor = l.vencedor && l.vencedor.trim();
+            const temMelhorOferta = l.melhor_oferta && parseValor(l.melhor_oferta) > 0;
+            return `
             <div class="border border-slate-200 dark:border-slate-700 rounded-xl overflow-hidden">
-                <div class="bg-slate-50 dark:bg-slate-800 px-4 py-2 flex items-center justify-between gap-3">
-                    <div class="flex items-center gap-2">
-                        <span class="mono text-xs font-black text-blue-600 dark:text-blue-400">Lote ${l.numero}</span>
-                        <span class="text-xs text-slate-600 dark:text-slate-300 font-medium">${l.titulo||''}</span>
+                <div class="bg-slate-50 dark:bg-slate-800 px-4 py-2.5 flex items-start justify-between gap-3">
+                    <div class="flex-1 min-w-0">
+                        <div class="flex items-center gap-2 flex-wrap">
+                            <span class="mono text-xs font-black text-blue-600 dark:text-blue-400">Lote ${l.numero}</span>
+                            <span class="text-xs text-slate-600 dark:text-slate-300 font-medium">${l.titulo||''}</span>
+                            ${l.fase ? `<span class="px-1.5 py-0.5 rounded text-[9px] font-bold bg-slate-200 dark:bg-slate-700 text-slate-500">${l.fase}</span>` : ''}
+                            ${l.exclusivo_me === 'SIM' ? `<span class="px-1.5 py-0.5 rounded text-[9px] font-bold bg-amber-100 text-amber-700 dark:bg-amber-950 dark:text-amber-400">Exclusivo ME/EPP</span>` : ''}
+                        </div>
+                        <div class="flex flex-wrap gap-x-4 gap-y-0.5 mt-1">
+                            ${l.tipo ? `<span class="text-[10px] text-slate-400">Tipo: <b class="text-slate-600 dark:text-slate-300">${l.tipo}</b></span>` : ''}
+                            ${l.local_entrega && l.local_entrega !== 'CONFORME EDITAL' ? `<span class="text-[10px] text-slate-400">Entrega: <b class="text-slate-600 dark:text-slate-300">${l.local_entrega}</b></span>` : ''}
+                            ${l.garantia && l.garantia !== 'CONFORME EDITAL' ? `<span class="text-[10px] text-slate-400">Garantia: <b class="text-slate-600 dark:text-slate-300">${l.garantia}</b></span>` : ''}
+                        </div>
                     </div>
-                    <span class="mono text-xs font-bold text-emerald-600 whitespace-nowrap">${fmtBRL(l.valor_referencia)}</span>
+                    <div class="text-right shrink-0">
+                        <div class="mono text-xs font-bold text-emerald-600 whitespace-nowrap">${fmtBRL(l.valor_referencia)}</div>
+                        <div class="text-[9px] text-slate-400">Ref.</div>
+                        ${temMelhorOferta ? `<div class="mono text-xs font-bold text-blue-600 whitespace-nowrap mt-0.5">${fmtBRL(l.melhor_oferta)}</div><div class="text-[9px] text-slate-400">Melhor oferta</div>` : ''}
+                    </div>
                 </div>
+                ${temVencedor ? `<div class="px-4 py-1.5 bg-emerald-50 dark:bg-emerald-950/30 border-t border-emerald-100 dark:border-emerald-900 flex items-center gap-2">
+                    <i class="fas fa-trophy text-emerald-500 text-[10px]"></i>
+                    <span class="text-[10px] text-slate-400">Vencedor:</span>
+                    <span class="text-[10px] font-bold text-emerald-700 dark:text-emerald-400">${l.vencedor}</span>
+                </div>` : ''}
                 ${l.itens && l.itens.length ? `<div class="overflow-x-auto"><table class="w-full text-[11px]">
                     <thead><tr class="bg-slate-100 dark:bg-slate-800/50 text-slate-500">
                         <th class="px-3 py-1.5 text-left">#</th>
@@ -874,13 +923,13 @@ function openModalLicit(r) {
                     <tbody class="divide-y divide-slate-100 dark:divide-slate-800">
                     ${l.itens.map(it=>`<tr class="hover:bg-slate-50 dark:hover:bg-slate-800/40">
                         <td class="px-3 py-1.5 mono text-slate-400 text-center">${it.numero}</td>
-                        <td class="px-3 py-1.5 text-slate-700 dark:text-slate-300">${it.especificacao||'–'}</td>
+                        <td class="px-3 py-2 text-slate-700 dark:text-slate-300 max-w-xs">${hl(it.especificacao,search)||'–'}</td>
                         <td class="px-3 py-1.5 mono text-slate-500 whitespace-nowrap">${it.unidade||'–'}</td>
                         <td class="px-3 py-1.5 mono text-right font-bold">${it.quantidade||'–'}</td>
                         <td class="px-3 py-1.5 mono text-right font-bold text-emerald-600 whitespace-nowrap">${fmtBRL(it.valor_referencia)}</td>
                     </tr>`).join('')}
                     </tbody></table></div>` : ''}
-            </div>`).join('');
+            </div>`}).join('');
 
     const total = filteredData.length;
     document.getElementById('modal-counter').textContent = `${currentModalIndex+1} de ${total}`;
