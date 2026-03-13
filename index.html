@@ -530,6 +530,15 @@ function processarDados() {
         }
     });
 
+    // Ordenar por data de publicação — mais recente primeiro
+    const parsePub = str => {
+        if (!str) return 0;
+        try { const [d,m,y] = str.split(' ')[0].split('/'); return new Date(+y,+m-1,+d).getTime(); }
+        catch { return 0; }
+    };
+    processos.sort((a, b) => parsePub(b.publicacao) - parsePub(a.publicacao));
+    compras.sort((a, b) => parsePub(b.data_publicacao) - parsePub(a.data_publicacao));
+
     ALL_DATA = {
         processos: processos,
         compras: compras,
