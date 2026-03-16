@@ -2025,7 +2025,7 @@ function aiToggle() {
   aiOpen = !aiOpen;
   document.getElementById('ai-panel').classList.toggle('open', aiOpen);
   if (aiOpen) {
-    // Esconder sugestões após primeira mensagem
+    aiWarmUp(); // Acorda o servidor ao abrir o chat
     if (aiHistory.length === 0) {
       document.getElementById('ai-suggestions').style.display = 'flex';
     }
@@ -2105,13 +2105,65 @@ function aiBuildContext(data, query) {
   const processos = data.licit.processos || [];
   const compras   = data.compra.registros || [];
 
-  const topL = [...processos].sort((a,b) => score(b)-score(a)).slice(0, 40);
-  const topC = [...compras].sort((a,b) => score(b)-score(a)).slice(0, 40);
+  const compactL = p => ({
+    id: p.id,
+    obj: (p.objeto||'').substring(0,100),
+    mod: p.modalidade,
+    sit: p.situacao,
+    pub: p.publicacao,
+    fim: p.fim_recepcao,
+    dis: p.inicio_disputa,
+    val: (p.lotes||[]).reduce((s,l)=>s+(parseFloat(String(l.valor_referencia||'0').replace(/\./g,'').replace(',','.'))||0),0).toFixed(2),
+    itens: (p.lotes||[]).flatMap(l=>(l.itens||[]).map(i=>(i.especificacao||'').substring(0,50))).slice(0,4)
+  });
 
-  return `### LICITAÇÕES (${processos.length} total, ${topL.length} mais relevantes):\n`
-       + JSON.stringify(topL, null, 1)
-       + `\n\n### COMPRAS DIRETAS (${compras.length} total, ${topC.length} mais relevantes):\n`
-       + JSON.stringify(topC, null, 1);
+  const compactC = c => ({
+    id: c.id,
+    obj: (c.objeto||'').substring(0,100),
+    mod: c.modalidade,
+    st: c.status,
+    pub: c.data_publicacao,
+    forn: ((c.itens||[]).map(i=>i.fornecedor).filter(Boolean)[0]||'').substring(0,40),
+    val: (c.itens||[]).reduce((s,i)=>{
+      const v=parseFloat(String(i.valor||'0').replace(/\./g,'').replace(',','.'))||0;
+      const q=parseFloat(String(i.quantidade||'1').replace(/\./g,'').replace(',','.'))||1;
+      return s+v*q;
+    },0).toFixed(2),
+    desc: (c.itens||[]).map(i=>(i.descricao||'').substring(0,50)).slice(0,4)
+  });
+
+  const topL = [...processos].sort((a,b)=>score(b)-score(a)).slice(0,20).map(compactL);
+  const topC = [...compras].sort((a,b)=>score(b)-score(a)).slice(0,20).map(compactC);
+
+  return 'LICITACOES('+processos.length+'):'+JSON.stringify(topL)
+       + '|COMPRAS('+compras.length+'):'+JSON.stringify(topC);
+}
+
+async function aiCallBackend(payload, retries = 3, delayMs = 3000) {
+  for (let i = 0; i < retries; i++) {
+    try {
+      const res = await fetch(AI_BACKEND, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(payload)
+      });
+      if (res.ok) return await res.json();
+      // Se 404/502/503 (servidor hibernando), aguarda e tenta de novo
+      if ((res.status === 404 || res.status === 502 || res.status === 503) && i < retries - 1) {
+        aiSetStatus(`⏳ Servidor iniciando… tentativa ${i + 2}/${retries}`);
+        await new Promise(r => setTimeout(r, delayMs));
+        continue;
+      }
+      throw new Error(`Backend retornou ${res.status}`);
+    } catch (e) {
+      if (i < retries - 1) {
+        aiSetStatus(`⏳ Aguardando servidor… tentativa ${i + 2}/${retries}`);
+        await new Promise(r => setTimeout(r, delayMs));
+      } else {
+        throw e;
+      }
+    }
+  }
 }
 
 async function aiSend() {
@@ -2137,17 +2189,11 @@ async function aiSend() {
     const ctx  = aiBuildContext(data, text);
     const systemWithData = AI_SYSTEM + '\n\nDADOS DISPONÍVEIS:\n' + ctx;
 
-    const res = await fetch(AI_BACKEND, {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({ messages: aiHistory, systemPrompt: systemWithData })
-    });
-
-    if (!res.ok) throw new Error(`Backend retornou ${res.status}`);
-    const json = await res.json();
+    const json = await aiCallBackend({ messages: aiHistory, systemPrompt: systemWithData });
     const reply = json.reply || 'Sem resposta.';
 
     aiHideTyping();
+    aiSetStatus('');
     aiAddMsg('bot', reply);
     aiHistory.push({ role: 'assistant', content: reply });
 
@@ -2156,11 +2202,20 @@ async function aiSend() {
 
   } catch (e) {
     aiHideTyping();
+    aiSetStatus('');
     aiAddMsg('error', '⚠️ Erro ao consultar o assistente: ' + e.message);
   } finally {
     document.getElementById('ai-send').disabled = false;
     aiLoading = false;
   }
+}
+
+// Warm-up: acorda o servidor quando o chat é aberto pela primeira vez
+let aiWarmedUp = false;
+function aiWarmUp() {
+  if (aiWarmedUp) return;
+  aiWarmedUp = true;
+  fetch(AI_BACKEND.replace('/chat', '/')).catch(() => {});
 }
 </script>
 </body>
