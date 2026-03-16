@@ -1,9 +1,9 @@
 {
   "metadata": {
     "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-    "total_registros": 604,
-    "total_itens": 2256,
-    "atualizado_em": "20260311_095601"
+    "total_registros": 605,
+    "total_itens": 2257,
+    "atualizado_em": "20260316_204416"
   },
   "registros": [
     {
@@ -35851,6 +35851,38 @@
           "marca": "NÃO SE APLICA",
           "modelo": "NÃO SE APLICA",
           "valor": "1520970,0600"
+        }
+      ]
+    },
+    {
+      "id": "3IL-032-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "215/2026",
+      "modalidade": "INEXIGIBILIDADE",
+      "status": "CONCLUÍDA",
+      "coordenador": "ISLA LIMA SILVA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "ano_referencia": "2026",
+      "data_publicacao": "16/03/2026 15:52:22",
+      "data_conclusao": "16/03/2026 15:52:34",
+      "artigo": "Art. 74º",
+      "inciso": "IV",
+      "justificativa": "Arts. 74, IV, 78, I, e 79 da Lei Federal nº 14.133/2021, Decreto Municipal nº 85, de 2024, em seus arts. 2º, I, e 5º, VII e demais legislações e regulamentações específicas.",
+      "legislacao": "Lei nº 14.133",
+      "objeto": "Empresa MENDESDIAS SERVICOS MÉDICOS LTDA, para prestação de serviços médicos especializados (PSIQUIATRIA) conforme o edital de credenciamento CD-002/2025, para atender às necessidades do Centro Especializado em Reabilitação (CER IV).",
+      "observacao": "sob responsabilidade da Secretaria Municipal de Saúde.",
+      "link": "https://bllcompras.com/DirectBuy/DirectBuyView?param1=%5Bgkz%5D%2F3bPgnHv7KkTo2uPG4Q3HoqAKHaG98_jE63J1zS5GmBFlJAKHY6NPBNa4nmDuqF51xfRL89HqQW%2F0sI5nk3n3AYSP9%2FMPDiImaeC1CeVT6w%3D",
+      "total_itens": 1,
+      "itens": [
+        {
+          "numero": "1",
+          "descricao": "206810302 PSIQUIATRA - ATENDIMENTO SEMANAL, PARA REALIZAR PROCEDIMENTOS AMBULATORIAIS, ACOMPANHAMENTO DOS USUARIOS EM REABILITACAO, PREENCHIMENTO DE LAUDOS, EVENTOS EDUCACIONAIS, RELATORIOS, RECEITAS, PRESCRICOES, EVOLUCAO EM PRONTUARIO, FORMULARIOS E BENEFICIOS SOCIAIS - CER IV:PSIQUIATRA - ATENDIMENTO SEMANAL, PARA REALIZAR PROCEDIMENTOS AMBULATORIAIS, ACOMPANHAMENTO DOS USUARIOS EM REABILITACAO, PREENCHIMENTO DE LAUDOS, EVENTOS EDUCACIONAIS, RELATORIOS, RECEITAS, PRESCRICOES, EVOLUCAO EM PRONTUARIO, FORMULARIOS E BENEFICIOS SOCIAIS - CER IV",
+          "quantidade": "576,0000",
+          "unidade": "SER",
+          "fornecedor": "MENDESDIAS SERVICOS MÉDICOS LTDA",
+          "marca": "NAO SE APLICA",
+          "modelo": "NAO SE APLICA",
+          "valor": "105,0000"
         }
       ]
     }
