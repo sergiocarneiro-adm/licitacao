@@ -2007,8 +2007,7 @@ loadData();
 <script>
 // ── CHAT IA ────────────────────────────────────────────────────────────────
 const AI_BACKEND    = 'https://licitacoes-backend.onrender.com/chat';
-const AI_URL_LICIT  = 'https://raw.githubusercontent.com/sergiocarneiro-adm/licitacao/refs/heads/main/dados.json';
-const AI_URL_COMPRA = 'https://raw.githubusercontent.com/sergiocarneiro-adm/licitacao/refs/heads/main/dados_compra_direta.json';
+// JSONs agora carregados no backend — portal só envia a pergunta
 
 const AI_SYSTEM = `Você é um assistente especializado em licitações e compras públicas do município de Teixeira de Freitas - BA.
 Você tem acesso completo aos dados de licitações (processos, lotes, itens) e compras diretas do município.
@@ -2018,7 +2017,6 @@ Se não encontrar dados relevantes, informe claramente. Seja conciso mas complet
 
 let aiOpen = false;
 let aiHistory = [];
-let aiCachedData = null;
 let aiLoading = false;
 
 function aiToggle() {
@@ -2076,68 +2074,9 @@ function aiSetStatus(txt) {
   document.getElementById('ai-status').textContent = txt;
 }
 
-async function aiLoadData() {
-  if (aiCachedData) return aiCachedData;
-  aiSetStatus('Carregando dados do GitHub…');
-  try {
-    const [r1, r2] = await Promise.all([fetch(AI_URL_LICIT), fetch(AI_URL_COMPRA)]);
-    if (!r1.ok || !r2.ok) throw new Error('Falha ao buscar JSONs');
-    const [licit, compra] = await Promise.all([r1.json(), r2.json()]);
-    aiCachedData = { licit, compra };
-    const nL = (licit.processos || []).length;
-    const nC = (compra.registros || []).length;
-    aiSetStatus(`✓ ${nL} licitações · ${nC} compras diretas carregadas`);
-    setTimeout(() => aiSetStatus(''), 3000);
-    return aiCachedData;
-  } catch (e) {
-    aiSetStatus('');
-    throw e;
-  }
-}
+// aiLoadData removida — backend carrega os dados
 
-function aiBuildContext(data, query) {
-  const terms = query.toLowerCase().split(/\s+/).filter(t => t.length > 2);
-  const score = item => {
-    const s = JSON.stringify(item).toLowerCase();
-    return terms.reduce((acc, t) => acc + (s.includes(t) ? 1 : 0), 0);
-  };
-
-  const processos = data.licit.processos || [];
-  const compras   = data.compra.registros || [];
-
-  const compactL = p => ({
-    id: p.id,
-    obj: (p.objeto||'').substring(0,100),
-    mod: p.modalidade,
-    sit: p.situacao,
-    pub: p.publicacao,
-    fim: p.fim_recepcao,
-    dis: p.inicio_disputa,
-    val: (p.lotes||[]).reduce((s,l)=>s+(parseFloat(String(l.valor_referencia||'0').replace(/\./g,'').replace(',','.'))||0),0).toFixed(2),
-    itens: (p.lotes||[]).flatMap(l=>(l.itens||[]).map(i=>(i.especificacao||'').substring(0,50))).slice(0,4)
-  });
-
-  const compactC = c => ({
-    id: c.id,
-    obj: (c.objeto||'').substring(0,100),
-    mod: c.modalidade,
-    st: c.status,
-    pub: c.data_publicacao,
-    forn: ((c.itens||[]).map(i=>i.fornecedor).filter(Boolean)[0]||'').substring(0,40),
-    val: (c.itens||[]).reduce((s,i)=>{
-      const v=parseFloat(String(i.valor||'0').replace(/\./g,'').replace(',','.'))||0;
-      const q=parseFloat(String(i.quantidade||'1').replace(/\./g,'').replace(',','.'))||1;
-      return s+v*q;
-    },0).toFixed(2),
-    desc: (c.itens||[]).map(i=>(i.descricao||'').substring(0,50)).slice(0,4)
-  });
-
-  const topL = [...processos].sort((a,b)=>score(b)-score(a)).slice(0,20).map(compactL);
-  const topC = [...compras].sort((a,b)=>score(b)-score(a)).slice(0,20).map(compactC);
-
-  return 'LICITACOES('+processos.length+'):'+JSON.stringify(topL)
-       + '|COMPRAS('+compras.length+'):'+JSON.stringify(topC);
-}
+// aiBuildContext removida — backend monta o contexto
 
 async function aiCallBackend(payload, retries = 3, delayMs = 3000) {
   for (let i = 0; i < retries; i++) {
@@ -2185,15 +2124,10 @@ async function aiSend() {
   aiShowTyping();
 
   try {
-    const data = await aiLoadData();
-    const ctx  = aiBuildContext(data, text);
-    const systemWithData = AI_SYSTEM + '\n\nDADOS DISPONÍVEIS:\n' + ctx;
-
-    const json = await aiCallBackend({ messages: aiHistory, systemPrompt: systemWithData });
+    const json = await aiCallBackend({ messages: aiHistory, query: text });
     const reply = json.reply || 'Sem resposta.';
 
     aiHideTyping();
-    aiSetStatus('');
     aiAddMsg('bot', reply);
     aiHistory.push({ role: 'assistant', content: reply });
 
@@ -2202,7 +2136,6 @@ async function aiSend() {
 
   } catch (e) {
     aiHideTyping();
-    aiSetStatus('');
     aiAddMsg('error', '⚠️ Erro ao consultar o assistente: ' + e.message);
   } finally {
     document.getElementById('ai-send').disabled = false;
@@ -2210,13 +2143,6 @@ async function aiSend() {
   }
 }
 
-// Warm-up: acorda o servidor quando o chat é aberto pela primeira vez
-let aiWarmedUp = false;
-function aiWarmUp() {
-  if (aiWarmedUp) return;
-  aiWarmedUp = true;
-  fetch(AI_BACKEND.replace('/chat', '/')).catch(() => {});
-}
 </script>
 </body>
 </html>
