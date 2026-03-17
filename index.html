@@ -2059,30 +2059,6 @@ function aiSetStatus(txt) {
   document.getElementById('ai-status').textContent = txt;
 }
 
-async function aiCallBackend(payload, retries = 3, delayMs = 4000) {
-  for (let i = 0; i < retries; i++) {
-    try {
-      const res = await fetch(AI_BACKEND, {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify(payload)
-      });
-      if (res.ok) return await res.json();
-      if ([404, 502, 503].includes(res.status) && i < retries - 1) {
-        aiSetStatus(`⏳ Servidor iniciando… tentativa ${i+2}/${retries}`);
-        await new Promise(r => setTimeout(r, delayMs));
-        continue;
-      }
-      throw new Error('Backend retornou ' + res.status);
-    } catch (e) {
-      if (i < retries - 1) {
-        aiSetStatus(`⏳ Aguardando servidor… tentativa ${i+2}/${retries}`);
-        await new Promise(r => setTimeout(r, delayMs));
-      } else throw e;
-    }
-  }
-}
-
 async function aiSend() {
   if (aiLoading) return;
   const input = document.getElementById('ai-input');
@@ -2098,16 +2074,74 @@ async function aiSend() {
   aiAddMsg('user', text);
   aiHistory.push({ role: 'user', content: text });
   aiShowTyping();
-  aiSetStatus('Pesquisando nos dados do município…');
+  aiSetStatus('Pesquisando…');
 
   try {
-    const json = await aiCallBackend({ messages: aiHistory, query: text });
-    const reply = json.reply || 'Sem resposta.';
+    const resp = await fetch(AI_BACKEND, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ messages: aiHistory, query: text })
+    });
+
+    // Verificar tipo de resposta
+    const contentType = resp.headers.get('content-type') || '';
+    const isSSE = contentType.includes('text/event-stream');
+
+    if (!resp.ok && !isSSE) {
+      let errMsg = 'Backend retornou ' + resp.status;
+      try { const e = await resp.json(); errMsg = e?.error?.message || errMsg; } catch(_) {}
+      throw new Error(errMsg);
+    }
+
+    // Criar bolha de resposta
     aiHideTyping();
     aiSetStatus('');
-    aiAddMsg('bot', reply);
-    aiHistory.push({ role: 'assistant', content: reply });
-    if (aiHistory.length > 20) aiHistory = aiHistory.slice(-20);
+    const botDiv = document.createElement('div');
+    botDiv.className = 'ai-msg bot';
+    botDiv.textContent = '';
+    document.getElementById('ai-messages').appendChild(botDiv);
+
+    if (isSSE) {
+      // Ler stream SSE
+      const reader = resp.body.getReader();
+      const decoder = new TextDecoder();
+      let fullReply = '';
+      let buffer = '';
+
+      while (true) {
+        const { done, value } = await reader.read();
+        if (done) break;
+        buffer += decoder.decode(value, { stream: true });
+        const lines = buffer.split('\n');
+        buffer = lines.pop();
+        for (const line of lines) {
+          if (!line.startsWith('data: ')) continue;
+          try {
+            const parsed = JSON.parse(line.slice(6));
+            if (parsed.delta) {
+              fullReply += parsed.delta;
+              botDiv.textContent = fullReply;
+              document.getElementById('ai-messages').scrollTop = 999999;
+            }
+          } catch(_) {}
+        }
+      }
+      if (fullReply) {
+        aiHistory.push({ role: 'assistant', content: fullReply });
+        if (aiHistory.length > 20) aiHistory = aiHistory.slice(-20);
+      } else if (!botDiv.textContent) {
+        botDiv.className = 'ai-msg error';
+        botDiv.textContent = '⚠️ Resposta vazia do servidor.';
+      }
+    } else {
+      // Fallback JSON simples
+      const json = await resp.json();
+      const reply = json.reply || 'Sem resposta.';
+      botDiv.textContent = reply;
+      aiHistory.push({ role: 'assistant', content: reply });
+      if (aiHistory.length > 20) aiHistory = aiHistory.slice(-20);
+    }
+
   } catch (e) {
     aiHideTyping();
     aiSetStatus('');
