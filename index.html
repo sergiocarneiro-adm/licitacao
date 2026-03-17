@@ -94,7 +94,35 @@
         #ai-messages::-webkit-scrollbar { width:4px; }
         #ai-messages::-webkit-scrollbar-thumb { background:#cbd5e1; border-radius:4px; }
         .dark #ai-messages::-webkit-scrollbar-thumb { background:#334155; }
-        .ai-msg { max-width:88%; padding:9px 13px; border-radius:14px; font-size:13px; line-height:1.6; word-break:break-word; white-space:pre-wrap; }
+        .ai-msg { max-width:92%; padding:10px 14px; border-radius:14px; font-size:13px; line-height:1.65; word-break:break-word; }
+        .ai-msg.user { white-space:pre-wrap; }
+        .ai-msg.bot p { margin:0 0 6px 0; }
+        .ai-msg.bot p:last-child { margin-bottom:0; }
+        .ai-msg.bot ul,.ai-msg.bot ol { margin:4px 0 6px 0; padding-left:18px; }
+        .ai-msg.bot li { margin-bottom:3px; }
+        .ai-msg.bot strong { font-weight:700; }
+        .ai-msg.bot h3 { font-size:13px; font-weight:700; margin:8px 0 3px; border-bottom:1px solid #e2e8f0; padding-bottom:2px; }
+        .dark .ai-msg.bot h3 { border-color:#334155; }
+        .ai-msg.bot hr { border:none; border-top:1px solid #e2e8f0; margin:6px 0; }
+        .dark .ai-msg.bot hr { border-color:#334155; }
+        .ai-msg.bot code { background:#f1f5f9; padding:1px 4px; border-radius:3px; font-size:12px; }
+        .dark .ai-msg.bot code { background:#1e293b; }
+        .ai-msg.bot .tag-id { display:inline-block; background:#dbeafe; color:#1d4ed8; padding:0 5px; border-radius:4px; font-weight:700; font-size:11px; font-family:'JetBrains Mono',monospace; }
+        .dark .ai-msg.bot .tag-id { background:#1e3a5f; color:#93c5fd; }
+        .ai-msg.bot .tag-val { color:#059669; font-weight:600; }
+        .dark .ai-msg.bot .tag-val { color:#34d399; }
+        .ai-msg.user { white-space:pre-wrap; }
+        .ai-msg.bot p { margin:0 0 6px; }
+        .ai-msg.bot p:last-child { margin-bottom:0; }
+        .ai-msg.bot strong { font-weight:700; }
+        .ai-msg.bot em { font-style:italic; }
+        .ai-msg.bot ul, .ai-msg.bot ol { margin:4px 0 6px 16px; padding:0; }
+        .ai-msg.bot li { margin-bottom:3px; }
+        .ai-msg.bot hr { border:none; border-top:1px solid #cbd5e1; margin:8px 0; }
+        .dark .ai-msg.bot hr { border-color:#334155; }
+        .ai-msg.bot h1,.ai-msg.bot h2,.ai-msg.bot h3 { font-weight:700; margin:6px 0 4px; font-size:14px; }
+        .ai-msg.bot code { background:#e2e8f0; padding:1px 5px; border-radius:4px; font-family:'JetBrains Mono',monospace; font-size:11px; }
+        .dark .ai-msg.bot code { background:#334155; }
         .ai-msg.user { background:#2563eb; color:white; align-self:flex-end; border-bottom-right-radius:4px; }
         .ai-msg.bot { background:#f1f5f9; color:#1e293b; align-self:flex-start; border-bottom-left-radius:4px; }
         .dark .ai-msg.bot { background:#1e293b; color:#e2e8f0; }
@@ -2059,6 +2087,89 @@ function aiSetStatus(txt) {
   document.getElementById('ai-status').textContent = txt;
 }
 
+
+// Converte markdown simples para HTML seguro
+function aiMarkdown(text) {
+  if (!text) return '';
+
+  // Escapa HTML base
+  let h = text
+    .replace(/&/g,'&amp;')
+    .replace(/</g,'&lt;')
+    .replace(/>/g,'&gt;');
+
+  // Processa linha a linha para melhor controle
+  const lines = h.split('\n');
+  const out = [];
+  let inList = false;
+  let listType = 'ul';
+
+  function closeList() {
+    if (inList) { out.push(`</${listType}>`); inList = false; }
+  }
+
+  for (let i = 0; i < lines.length; i++) {
+    let line = lines[i];
+
+    // Títulos
+    if (/^### (.+)$/.test(line)) { closeList(); out.push(`<h3>${line.replace(/^### /,'')}</h3>`); continue; }
+    if (/^## (.+)$/.test(line))  { closeList(); out.push(`<h3>${line.replace(/^## /,'')}</h3>`); continue; }
+    if (/^# (.+)$/.test(line))   { closeList(); out.push(`<h3>${line.replace(/^# /,'')}</h3>`); continue; }
+
+    // Separador
+    if (/^---+$/.test(line)) { closeList(); out.push('<hr>'); continue; }
+
+    // Lista não-ordenada
+    if (/^[-*] (.+)$/.test(line)) {
+      if (!inList || listType !== 'ul') { closeList(); out.push('<ul>'); inList = true; listType = 'ul'; }
+      out.push('<li>' + inlineFormat(line.replace(/^[-*] /,'')) + '</li>');
+      continue;
+    }
+
+    // Lista ordenada
+    if (/^\d+[.)\s] (.+)$/.test(line)) {
+      if (!inList || listType !== 'ol') { closeList(); out.push('<ol>'); inList = true; listType = 'ol'; }
+      out.push('<li>' + inlineFormat(line.replace(/^\d+[.)\s] /,'')) + '</li>');
+      continue;
+    }
+
+    // Indentação (sub-item)
+    if (/^\s{2,}[-*] (.+)$/.test(line)) {
+      out.push('<li style="margin-left:12px">' + inlineFormat(line.replace(/^\s+[-*] /,'')) + '</li>');
+      continue;
+    }
+
+    // Linha vazia
+    if (!line.trim()) { closeList(); out.push('<br>'); continue; }
+
+    // Parágrafo normal
+    closeList();
+    out.push('<p>' + inlineFormat(line) + '</p>');
+  }
+
+  closeList();
+
+  // Remover <br> duplicados e no início/fim
+  return out.join('').replace(/(<br>){3,}/g,'<br><br>').replace(/^(<br>)+|(<br>)+$/g,'');
+}
+
+function inlineFormat(text) {
+  return text
+    // Negrito+itálico
+    .replace(/\*\*\*(.+?)\*\*\*/g,'<strong><em>$1</em></strong>')
+    // Negrito
+    .replace(/\*\*(.+?)\*\*/g,'<strong>$1</strong>')
+    // Itálico
+    .replace(/\*(.+?)\*/g,'<em>$1</em>')
+    // Código inline
+    .replace(/`(.+?)`/g,'<code style="background:#f1f5f9;padding:1px 4px;border-radius:3px;font-size:12px">$1</code>')
+    // IDs de processo (PE-XXX-XXXX, DLE-XXX-XXXX, etc.)
+    .replace(/\b([A-Z]{2,4}-\d{2,4}-\d{4})\b/g,'<span class="tag-id">$1</span>')
+    // Valores em R$
+    .replace(/(R\$\s?[\d.,]+)/g,'<span class="tag-val">$1</span>');
+}
+
+
 async function aiSend() {
   if (aiLoading) return;
   const input = document.getElementById('ai-input');
@@ -2098,7 +2209,7 @@ async function aiSend() {
     aiSetStatus('');
     const botDiv = document.createElement('div');
     botDiv.className = 'ai-msg bot';
-    botDiv.textContent = '';
+    botDiv.innerHTML = '';
     document.getElementById('ai-messages').appendChild(botDiv);
 
     if (isSSE) {
@@ -2120,7 +2231,7 @@ async function aiSend() {
             const parsed = JSON.parse(line.slice(6));
             if (parsed.delta) {
               fullReply += parsed.delta;
-              botDiv.textContent = fullReply;
+              botDiv.innerHTML = aiMarkdown(fullReply);
               document.getElementById('ai-messages').scrollTop = 999999;
             }
           } catch(_) {}
@@ -2131,13 +2242,13 @@ async function aiSend() {
         if (aiHistory.length > 20) aiHistory = aiHistory.slice(-20);
       } else if (!botDiv.textContent) {
         botDiv.className = 'ai-msg error';
-        botDiv.textContent = '⚠️ Resposta vazia do servidor.';
+        botDiv.innerHTML = '⚠️ Resposta vazia do servidor.';
       }
     } else {
       // Fallback JSON simples
       const json = await resp.json();
       const reply = json.reply || 'Sem resposta.';
-      botDiv.textContent = reply;
+      botDiv.innerHTML = aiMarkdown(reply);
       aiHistory.push({ role: 'assistant', content: reply });
       if (aiHistory.length > 20) aiHistory = aiHistory.slice(-20);
     }
