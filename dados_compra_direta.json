@@ -1,9 +1,9 @@
 {
   "metadata": {
     "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-    "total_registros": 605,
-    "total_itens": 2257,
-    "atualizado_em": "20260316_204416"
+    "total_registros": 606,
+    "total_itens": 2258,
+    "atualizado_em": "20260318_064734"
   },
   "registros": [
     {
@@ -35883,6 +35883,38 @@
           "marca": "NAO SE APLICA",
           "modelo": "NAO SE APLICA",
           "valor": "105,0000"
+        }
+      ]
+    },
+    {
+      "id": "2IL-038-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "238/2026",
+      "modalidade": "INEXIGIBILIDADE",
+      "status": "CONCLUÍDA",
+      "coordenador": "ISLA LIMA SILVA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "ano_referencia": "2026",
+      "data_publicacao": "17/03/2026 08:19:09",
+      "data_conclusao": "17/03/2026 08:19:15",
+      "artigo": "Art. 74º",
+      "inciso": "IV",
+      "justificativa": "Art. 74, IV, da Lei Federal nº 14.133/2021, Decreto Municipal nº 85.2024 e demais legislações e regulamentos específicos.",
+      "legislacao": "Lei nº 14.133",
+      "objeto": "Contratação de SERVIÇOS DE DESPACHANTE para veículos leves, médios e motocicletas, afim de atender as demandas da Secretaria Municipal de Administração e demais Secretarias.",
+      "observacao": "",
+      "link": "https://bllcompras.com/DirectBuy/DirectBuyView?param1=%5Bgkz%5DfFwtJfGJ62_OtWWncadglph538fXh8Gd39Nb4YOxxSHnZG1e7A48Dy20eaaV7HSSBPSbPvXM7IyQxH9tLjWNO9hRnB33Tl7gu2lDQ4rl_u0%3D",
+      "total_itens": 1,
+      "itens": [
+        {
+          "numero": "1",
+          "descricao": "36902 SERVIÇO DE DESPACHANTE PARA VEÍCULOS LEVES, MÉDIOS E MOTOCICLETAS: os serviços deverão incluir emplacamento dos veículos, vistoria, emissão de CRLV e todas as taxas administrativas do DETRAN, e demais serviços.",
+          "quantidade": "200,0000",
+          "unidade": "SERV",
+          "fornecedor": "EMPLACADORA DE VEICULOS ESTER LTDA",
+          "marca": "NÃO SE APLICA",
+          "modelo": "NÃO SE APLICA",
+          "valor": "653,0700"
         }
       ]
     }
