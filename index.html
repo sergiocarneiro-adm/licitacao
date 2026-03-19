@@ -1449,54 +1449,135 @@ function exportModalPDF() {
 
                 if (y + headerH > 265) { doc.addPage(); y = 20; }
 
-                // Header do lote com altura dinâmica
-                doc.setFillColor(241, 245, 249);
-                doc.setDrawColor(203, 213, 225);
-                doc.roundedRect(ML, y, CW, headerH, 1, 1, 'FD');
-                doc.setTextColor(...corPrimaria);
-                doc.text(tituloLines, ML + 3, y + 5.5);
-                // Valor ref. à direita (alinhado ao topo)
-                doc.setTextColor(5, 150, 105);
-                doc.text(fmtBRL(l.valor_referencia), W - MR, y + 5.5, { align: 'right' });
-                y += headerH + 2;
+                // ── HEADER DO LOTE — fundo azul sólido ──────────────────
+                const valRef = parseValor(l.valor_referencia || '0');
+                const mo     = parseValor(l.melhor_oferta   || '0');
+                const temVenc = !!(l.vencedor && l.vencedor.trim());
+                const temMO   = !isNaN(mo) && mo > 0;
 
-                // Vencedor (sem emoji — jsPDF não suporta)
-                if (l.vencedor && l.vencedor.trim()) {
+                doc.setFillColor(...corPrimaria);
+                doc.roundedRect(ML, y, CW, headerH, 1.5, 1.5, 'F');
+                // Título (branco)
+                doc.setTextColor(255, 255, 255);
+                doc.setFontSize(8);
+                doc.setFont('helvetica', 'bold');
+                doc.text(tituloLines, ML + 3, y + 5.5);
+                // Valor ref. total (canto direito, amarelo claro)
+                if (!isNaN(valRef) && valRef > 0) {
+                    doc.setTextColor(255, 255, 200);
+                    doc.setFontSize(6);
+                    doc.setFont('helvetica', 'normal');
+                    doc.text('Valor ref. total', W - MR, y + 4.5, { align: 'right' });
+                    doc.setTextColor(255, 255, 255);
+                    doc.setFontSize(8.5);
+                    doc.setFont('helvetica', 'bold');
+                    doc.text(fmtBRL(valRef), W - MR, y + headerH - 1.5, { align: 'right' });
+                }
+                y += headerH + 1;
+
+                // ── FAIXA VERDE — vencedor + melhor oferta + desconto ────────
+                if (temVenc || temMO) {
+                    const faixaH = (temVenc && temMO) ? 14 : 9;
                     doc.setFillColor(236, 253, 245);
                     doc.setDrawColor(167, 243, 208);
-                    doc.roundedRect(ML, y, CW, 7, 1, 1, 'FD');
-                    doc.setTextColor(5, 150, 105);
-                    doc.setFontSize(7.5);
-                    doc.setFont('helvetica', 'bold');
-                    doc.text(`Vencedor: ${l.vencedor}`, ML + 3, y + 5);
-                    y += 9;
+                    doc.roundedRect(ML, y, CW, faixaH, 1, 1, 'FD');
+
+                    // Linha 1: Vencedor | Melhor oferta total
+                    if (temVenc) {
+                        doc.setFontSize(6.5);
+                        doc.setFont('helvetica', 'bold');
+                        doc.setTextColor(100, 116, 139);
+                        doc.text('Vencedor:', ML + 3, y + 5.5);
+                        doc.setTextColor(5, 150, 105);
+                        const maxVW = temMO ? CW - 65 : CW - 12;
+                        doc.text(doc.splitTextToSize(l.vencedor, maxVW)[0], ML + 22, y + 5.5);
+                    }
+                    if (temMO) {
+                        doc.setFontSize(6);
+                        doc.setFont('helvetica', 'normal');
+                        doc.setTextColor(100, 116, 139);
+                        doc.text('Melhor oferta total:', W - MR - 47, y + 5.5);
+                        doc.setTextColor(5, 150, 105);
+                        doc.setFontSize(7.5);
+                        doc.setFont('helvetica', 'bold');
+                        doc.text(fmtBRL(mo), W - MR, y + 5.5, { align: 'right' });
+                    }
+
+                    // Linha 2: Desconto% | Melhor oferta unitária
+                    if (temVenc && temMO && faixaH > 9) {
+                        const percDesc = (valRef > 0 && mo > 0) ? ((valRef - mo) / valRef * 100) : 0;
+                        if (percDesc > 0) {
+                            doc.setFontSize(6);
+                            doc.setFont('helvetica', 'bold');
+                            doc.setTextColor(37, 99, 235);
+                            doc.text(`Desconto: ${percDesc.toFixed(1)}%`, ML + 3, y + 11.5);
+                        }
+                        // Calcular MO unitária pelo total de qtds do lote
+                        const qtdLote = (l.itens || []).reduce((s, it) => {
+                            const q = parseValor(it.quantidade || '1');
+                            return s + (!isNaN(q) && q > 0 ? q : 1);
+                        }, 0);
+                        const moUnit = (qtdLote > 0) ? mo / qtdLote : 0;
+                        if (moUnit > 0) {
+                            doc.setFontSize(6);
+                            doc.setFont('helvetica', 'normal');
+                            doc.setTextColor(100, 116, 139);
+                            doc.text('Unit. melhor oferta:', W - MR - 47, y + 11.5);
+                            doc.setTextColor(37, 99, 235);
+                            doc.setFont('helvetica', 'bold');
+                            doc.text(fmtBRL(moUnit), W - MR, y + 11.5, { align: 'right' });
+                        }
+                    }
+                    y += faixaH + 2;
                 }
 
-                // Melhor oferta
-                const mo = parseValor(l.melhor_oferta || '0');
-                if (!isNaN(mo) && mo > 0) {
-                    doc.setFontSize(7);
-                    doc.setTextColor(100, 116, 139);
-                    doc.text(`Melhor oferta: ${fmtBRL(mo)}`, ML + 3, y);
-                    y += 5;
-                }
-
-                // Tabela de itens
+                // ── TABELA DE ITENS com MO Unit. e Desc.% ───────────────────
                 if (l.itens && l.itens.length) {
-                    doc.autoTable({
-                        startY: y,
-                        head: [['#', 'Especificação', 'Un.', 'Qtd.', 'Valor Ref.']],
-                        body: l.itens.map(it => [
+                    const head = temMO
+                        ? [['#', 'Especificação', 'Un.', 'Qtd.', 'Val. Ref. Unit.', 'MO Unit.', 'Desc.%']]
+                        : [['#', 'Especificação', 'Un.', 'Qtd.', 'Val. Ref. Unit.']];
+
+                    const body = l.itens.map(it => {
+                        const vRef = parseValor(it.valor_referencia || '0');
+                        const qIt  = parseValor(it.quantidade || '1');
+                        const row  = [
                             it.numero || '',
                             it.especificacao || '',
                             it.unidade || '',
                             it.quantidade || '',
-                            fmtBRL(it.valor_referencia)
-                        ]),
-                        styles: { fontSize: 7, cellPadding: 2 },
-                        headStyles: { fillColor: corPrimaria, textColor: 255, fontSize: 7, fontStyle: 'bold' },
+                            fmtBRL(vRef)
+                        ];
+                        if (temMO) {
+                            let moUnit = 0;
+                            if (l.itens.length === 1 && !isNaN(qIt) && qIt > 0) {
+                                // Lote com 1 item: cálculo exato
+                                moUnit = mo / qIt;
+                            } else if (!isNaN(vRef) && vRef > 0 && !isNaN(valRef) && valRef > 0) {
+                                // Lote com N itens: proporcional ao peso do item no valor total
+                                const pesoItem = (vRef * (!isNaN(qIt) && qIt > 0 ? qIt : 1)) / valRef;
+                                moUnit = (mo * pesoItem) / (!isNaN(qIt) && qIt > 0 ? qIt : 1);
+                            }
+                            const desc = (!isNaN(vRef) && vRef > 0 && moUnit > 0)
+                                ? ((vRef - moUnit) / vRef * 100).toFixed(1) + '%'
+                                : '–';
+                            row.push(moUnit > 0 ? fmtBRL(moUnit) : '–');
+                            row.push(desc);
+                        }
+                        return row;
+                    });
+
+                    const colStyles = temMO
+                        ? { 1: { cellWidth: 'auto' }, 4: { halign: 'right' }, 5: { halign: 'right', textColor: [5,150,105], fontStyle: 'bold' }, 6: { halign: 'right', textColor: [37,99,235], fontStyle: 'bold' } }
+                        : { 1: { cellWidth: 'auto' }, 4: { halign: 'right', textColor: [5,150,105], fontStyle: 'bold' } };
+
+                    doc.autoTable({
+                        startY: y,
+                        head,
+                        body,
+                        styles: { fontSize: 6.5, cellPadding: 2, overflow: 'linebreak' },
+                        headStyles: { fillColor: corPrimaria, textColor: 255, fontSize: 6.5, fontStyle: 'bold' },
                         alternateRowStyles: { fillColor: [248, 250, 252] },
-                        columnStyles: { 1: { cellWidth: 'auto' }, 4: { halign: 'right', textColor: [5,150,105], fontStyle: 'bold' } },
+                        columnStyles: colStyles,
                         margin: { left: ML, right: MR },
                         theme: 'grid',
                     });
