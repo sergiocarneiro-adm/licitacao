@@ -1449,20 +1449,24 @@ function exportModalPDF() {
 
                 if (y + headerH > 265) { doc.addPage(); y = 20; }
 
-                // ── HEADER DO LOTE — fundo azul sólido ──────────────────
-                const valRef = parseValor(l.valor_referencia || '0');
-                const mo     = parseValor(l.melhor_oferta   || '0');
+                // ── HEADER DO LOTE ───────────────────────────────────────
+                const valRef  = parseValor(l.valor_referencia || '0');
+                const mo      = parseValor(l.melhor_oferta   || '0');
                 const temVenc = !!(l.vencedor && l.vencedor.trim());
                 const temMO   = !isNaN(mo) && mo > 0;
+                const umItem  = l.itens && l.itens.length === 1;
 
-                doc.setFillColor(...corPrimaria);
+                // Sem vencedor → vermelho; com vencedor → cor primária (azul/roxo)
+                const corHeader = temVenc ? corPrimaria : [220, 38, 38];
+
+                doc.setFillColor(...corHeader);
                 doc.roundedRect(ML, y, CW, headerH, 1.5, 1.5, 'F');
-                // Título (branco)
                 doc.setTextColor(255, 255, 255);
                 doc.setFontSize(8);
                 doc.setFont('helvetica', 'bold');
                 doc.text(tituloLines, ML + 3, y + 5.5);
-                // Valor ref. total (canto direito, amarelo claro)
+
+                // Valor ref. total (canto direito)
                 if (!isNaN(valRef) && valRef > 0) {
                     doc.setTextColor(255, 255, 200);
                     doc.setFontSize(6);
@@ -1477,6 +1481,8 @@ function exportModalPDF() {
 
                 // ── FAIXA VERDE — vencedor + melhor oferta + desconto ────────
                 if (temVenc || temMO) {
+                    // Lote 1 item: 2 linhas (vencedor + MO unit / desc)
+                    // Lote N itens: 2 linhas (vencedor + MO total / desc%) — sem unit por item
                     const faixaH = (temVenc && temMO) ? 14 : 9;
                     doc.setFillColor(236, 253, 245);
                     doc.setDrawColor(167, 243, 208);
@@ -1503,7 +1509,7 @@ function exportModalPDF() {
                         doc.text(fmtBRL(mo), W - MR, y + 5.5, { align: 'right' });
                     }
 
-                    // Linha 2: Desconto% | Melhor oferta unitária
+                    // Linha 2: Desconto% (sempre) | MO unit (só para lote de 1 item)
                     if (temVenc && temMO && faixaH > 9) {
                         const percDesc = (valRef > 0 && mo > 0) ? ((valRef - mo) / valRef * 100) : 0;
                         if (percDesc > 0) {
@@ -1512,28 +1518,31 @@ function exportModalPDF() {
                             doc.setTextColor(37, 99, 235);
                             doc.text(`Desconto: ${percDesc.toFixed(1)}%`, ML + 3, y + 11.5);
                         }
-                        // Calcular MO unitária pelo total de qtds do lote
-                        const qtdLote = (l.itens || []).reduce((s, it) => {
-                            const q = parseValor(it.quantidade || '1');
-                            return s + (!isNaN(q) && q > 0 ? q : 1);
-                        }, 0);
-                        const moUnit = (qtdLote > 0) ? mo / qtdLote : 0;
-                        if (moUnit > 0) {
-                            doc.setFontSize(6);
-                            doc.setFont('helvetica', 'normal');
-                            doc.setTextColor(100, 116, 139);
-                            doc.text('Unit. melhor oferta:', W - MR - 47, y + 11.5);
-                            doc.setTextColor(37, 99, 235);
-                            doc.setFont('helvetica', 'bold');
-                            doc.text(fmtBRL(moUnit), W - MR, y + 11.5, { align: 'right' });
+                        // MO unitária: só exibe quando lote tem 1 item (cálculo exato)
+                        if (umItem) {
+                            const qIt = parseValor(l.itens[0].quantidade || '1');
+                            const moUnit = (!isNaN(qIt) && qIt > 0) ? mo / qIt : 0;
+                            if (moUnit > 0) {
+                                doc.setFontSize(6);
+                                doc.setFont('helvetica', 'normal');
+                                doc.setTextColor(100, 116, 139);
+                                doc.text('Unit. melhor oferta:', W - MR - 47, y + 11.5);
+                                doc.setTextColor(37, 99, 235);
+                                doc.setFont('helvetica', 'bold');
+                                doc.text(fmtBRL(moUnit), W - MR, y + 11.5, { align: 'right' });
+                            }
                         }
                     }
                     y += faixaH + 2;
                 }
 
-                // ── TABELA DE ITENS com MO Unit. e Desc.% ───────────────────
+                // ── TABELA DE ITENS ──────────────────────────────────────────
                 if (l.itens && l.itens.length) {
-                    const head = temMO
+                    // Lote 1 item + MO → mostra colunas MO Unit. e Desc.%
+                    // Lote N itens → tabela simples (MO já exibida na faixa acima)
+                    const mostrarMOUnit = temMO && umItem;
+
+                    const head = mostrarMOUnit
                         ? [['#', 'Especificação', 'Un.', 'Qtd.', 'Val. Ref. Unit.', 'MO Unit.', 'Desc.%']]
                         : [['#', 'Especificação', 'Un.', 'Qtd.', 'Val. Ref. Unit.']];
 
@@ -1547,17 +1556,10 @@ function exportModalPDF() {
                             it.quantidade || '',
                             fmtBRL(vRef)
                         ];
-                        if (temMO) {
-                            let moUnit = 0;
-                            if (l.itens.length === 1 && !isNaN(qIt) && qIt > 0) {
-                                // Lote com 1 item: cálculo exato
-                                moUnit = mo / qIt;
-                            } else if (!isNaN(vRef) && vRef > 0 && !isNaN(valRef) && valRef > 0) {
-                                // Lote com N itens: proporcional ao peso do item no valor total
-                                const pesoItem = (vRef * (!isNaN(qIt) && qIt > 0 ? qIt : 1)) / valRef;
-                                moUnit = (mo * pesoItem) / (!isNaN(qIt) && qIt > 0 ? qIt : 1);
-                            }
-                            const desc = (!isNaN(vRef) && vRef > 0 && moUnit > 0)
+                        if (mostrarMOUnit) {
+                            // Lote 1 item: MO / qtd = valor unitário exato
+                            const moUnit = (!isNaN(qIt) && qIt > 0) ? mo / qIt : 0;
+                            const desc   = (!isNaN(vRef) && vRef > 0 && moUnit > 0)
                                 ? ((vRef - moUnit) / vRef * 100).toFixed(1) + '%'
                                 : '–';
                             row.push(moUnit > 0 ? fmtBRL(moUnit) : '–');
@@ -1566,7 +1568,7 @@ function exportModalPDF() {
                         return row;
                     });
 
-                    const colStyles = temMO
+                    const colStyles = mostrarMOUnit
                         ? { 1: { cellWidth: 'auto' }, 4: { halign: 'right' }, 5: { halign: 'right', textColor: [5,150,105], fontStyle: 'bold' }, 6: { halign: 'right', textColor: [37,99,235], fontStyle: 'bold' } }
                         : { 1: { cellWidth: 'auto' }, 4: { halign: 'right', textColor: [5,150,105], fontStyle: 'bold' } };
 
