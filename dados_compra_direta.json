@@ -1,9 +1,9 @@
 {
   "metadata": {
     "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-    "total_registros": 614,
-    "total_itens": 2281,
-    "atualizado_em": "20260320_174130"
+    "total_registros": 618,
+    "total_itens": 2287,
+    "atualizado_em": "20260320_210327"
   },
   "registros": [
     {
@@ -36321,6 +36321,154 @@
           "marca": "NAO SE APLICA",
           "modelo": "NAO SE APLICA",
           "valor": "46,8700"
+        }
+      ]
+    },
+    {
+      "id": "3IL-036-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "235/2026",
+      "modalidade": "INEXIGIBILIDADE",
+      "status": "CONCLUÍDA",
+      "coordenador": "ISLA LIMA SILVA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "ano_referencia": "2026",
+      "data_publicacao": "20/03/2026 17:13:26",
+      "data_conclusao": "20/03/2026 17:13:34",
+      "artigo": "Art. 74º",
+      "inciso": "IV",
+      "justificativa": "Arts. 74, IV, e 79, I da Lei Federal nº 14.133/2021, Decreto Municipal nº 85, de 2024, em seus arts. 2º, I, e 5º, VII e demais legislações e regulamentações específicas.",
+      "legislacao": "Lei nº 14.133",
+      "objeto": "Empresa OLIVEIRA E DAMENHAUER LTDA, para prestação de serviços médicos\nespecializados (GASTROENTEREOLOGIA) conforme o edital de credenciamento CD-003/2025, para atender às necessidades do Complexo Regulador",
+      "observacao": "sob responsabilidade da Secretaria Municipal de Saúde.",
+      "link": "https://bllcompras.com/DirectBuy/DirectBuyView?param1=%5Bgkz%5DG0XlRRuxScax_LguP7KDoDjxqVgJ8ew4ZfWZkVJWghiIbmPK6JiBo7gU%2F4MRXuAoM1vWG%2FQbV8PSygya%2F5V%2FeVx5c5Ui%2FlHDb9Xtz%2Fh6OsQ%3D",
+      "total_itens": 2,
+      "itens": [
+        {
+          "numero": "1",
+          "descricao": "939997983 ESOFAGOGASTRODUODENOSCOPIA - REGULAÇÃORECURSOS SUS:ESOFAGOGASTRODUODENOSCOPIA - REGULAÇÃORECURSOS SUS",
+          "quantidade": "420,0000",
+          "unidade": "SER",
+          "fornecedor": "OLIVEIRA E DAMENHAUER LTDA",
+          "marca": "NAO SE APLICA",
+          "modelo": "NAO SE APLICA",
+          "valor": "48,1600"
+        },
+        {
+          "numero": "2",
+          "descricao": "914997983 ESOFAGOGASTRODUODENOSCOPIA - REGULAÇÃOCONTRA PARTIDA:ESOFAGOGASTRODUODENOSCOPIA - REGULAÇÃOCONTRA PARTIDA",
+          "quantidade": "420,0000",
+          "unidade": "SER",
+          "fornecedor": "OLIVEIRA E DAMENHAUER LTDA",
+          "marca": "NAO SE APLICA",
+          "modelo": "NAO SE APLICA",
+          "valor": "231,8400"
+        }
+      ]
+    },
+    {
+      "id": "2IL-054-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "258/2026",
+      "modalidade": "INEXIGIBILIDADE",
+      "status": "CONCLUÍDA",
+      "coordenador": "ISLA LIMA SILVA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "ano_referencia": "2026",
+      "data_publicacao": "20/03/2026 15:44:14",
+      "data_conclusao": "20/03/2026 15:44:31",
+      "artigo": "Art. 74º",
+      "inciso": "IV",
+      "justificativa": "Art. 74°, inc. IV",
+      "legislacao": "Lei nº 14.133",
+      "objeto": "CONTRATAÇÃO DA EMPRESA AUTOPLAN - PECAS E SERVICOS AUTOMOTIVOS LTDA PARA A PRESTAÇÃO DE SERVIÇOS DE MANUTENÇÃO CORRETIVA E PREVENTIVA DE VEÍCULOS DA FROTA MUNICIPAL, COM FORNECIMENTO DE PEÇAS.",
+      "observacao": "",
+      "link": "https://bllcompras.com/DirectBuy/DirectBuyView?param1=%5Bgkz%5DE02iiXKW03gayGIKsWEThMNEmwU8QiXrufIx1LGyA5bfNK0PKUMmvIvayGP9yUANr5GvyG3fXtC50ffXpBpxejoSqURPKgGhK1e4748Op2U%3D",
+      "total_itens": 2,
+      "itens": [
+        {
+          "numero": "1",
+          "descricao": "100200404 SERVIÇO DE MANUTENÇÃO PREVENTIVA E CORRETIVA DA FROTA MUNICIPAL, COM FORNECIMENTO DE PEÇA:manutenção preventiva e corretiva da frota municipal, incluindo veículos leves, pesados, médios e maquinários diversos na parte de mecânica, elétrica, suspensão arqueamento, entre outros serviços, incluindo também o fornecimento de peças, acessórios, equipamentos, pneus, serviço de vidraçaria, capotaria, tapeçaria, borracharia, funilaria e pintura, retífica de motores, socorro mecânico, dentre outros.",
+          "quantidade": "1,0000",
+          "unidade": "SERV",
+          "fornecedor": "AUTOPLAN - PECAS E SERVICOS AUTOMOTIVOS LTDA",
+          "marca": "NÃO SE APLICA",
+          "modelo": "NÃO SE APLICA",
+          "valor": "600000,0000"
+        },
+        {
+          "numero": "2",
+          "descricao": "100200405 SERVIÇOS DE GUINCHO:para atender veículos leves, médios, pesados e maquinários.",
+          "quantidade": "7500,0000",
+          "unidade": "KM",
+          "fornecedor": "AUTOPLAN - PECAS E SERVICOS AUTOMOTIVOS LTDA",
+          "marca": "NÃO SE APLICA",
+          "modelo": "NÃO SE APLICA",
+          "valor": "5,0000"
+        }
+      ]
+    },
+    {
+      "id": "2IL-053-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "261/2026",
+      "modalidade": "INEXIGIBILIDADE",
+      "status": "PUBLICADA",
+      "coordenador": "ISLA LIMA SILVA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "ano_referencia": "2026",
+      "data_publicacao": "20/03/2026 15:43:01",
+      "data_conclusao": "",
+      "artigo": "Art. 74º",
+      "inciso": "IV",
+      "justificativa": "Art. 74°, inc. IV",
+      "legislacao": "Lei nº 14.133",
+      "objeto": "CONTRATAÇÃO DA EMPRESA RICOM PNEUS LTDA PARA A PRESTAÇÃO DE SERVIÇOS DE MANUTENÇÃO CORRETIVA E PREVENTIVA DE VEÍCULOS DA FROTA MUNICIPAL, COM FORNECIMENTO DE PEÇAS.",
+      "observacao": "",
+      "link": "https://bllcompras.com/DirectBuy/DirectBuyView?param1=%5Bgkz%5DWtdg_vuWERaALSSEsQdCrJkUUA7sUpe5D4bke9KYREJo_ASUHhAmBJyeMQYvGPaL7muiq6GYHPkH8q4ILCbrxjsyQQr4Nru%2FBm3r0IvZ6dQ%3D",
+      "total_itens": 1,
+      "itens": [
+        {
+          "numero": "1",
+          "descricao": "37064 SERVIÇO DE MANUTENÇÃO PREVENTIVA E CORRETIVA DA FROTA MUNICIPAL, COM FORNECIMENTO DE PEÇA:manutenção preventiva e corretiva da frota municipal, incluindo veículos leves, pesados, médios e maquinários diversos na parte de mecânica, elétrica, suspensão arqueamento, entre outros serviços, incluindo também o fornecimento de peças, acessórios, equipamentos, pneus, serviço de vidraçaria, capotaria, tapeçaria, borracharia, funilaria e pintura, retífica de motores, socorro mecânico, dentre outros.",
+          "quantidade": "1,0000",
+          "unidade": "SERV",
+          "fornecedor": "RICOM PNEUS LTDA",
+          "marca": "NÃO SE APLICA",
+          "modelo": "NÃO SE APLICA",
+          "valor": "200000,0000"
+        }
+      ]
+    },
+    {
+      "id": "2IL-051-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "264/2026",
+      "modalidade": "INEXIGIBILIDADE",
+      "status": "CONCLUÍDA",
+      "coordenador": "ISLA LIMA SILVA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "ano_referencia": "2026",
+      "data_publicacao": "20/03/2026 15:38:25",
+      "data_conclusao": "20/03/2026 15:38:35",
+      "artigo": "Art. 74º",
+      "inciso": "IV",
+      "justificativa": "Art. 74°, inc. IV",
+      "legislacao": "Lei nº 14.133",
+      "objeto": "CONTRATAÇÃO DA EMPRESA AGILIZA (VANIA LOPES DE JESUS) PARA A PRESTAÇÃO DE SERVIÇOS DE MANUTENÇÃO CORRETIVA E PREVENTIVA DE VEÍCULOS DA FROTA MUNICIPAL, COM FORNECIMENTO DE PEÇAS.",
+      "observacao": "",
+      "link": "https://bllcompras.com/DirectBuy/DirectBuyView?param1=%5Bgkz%5DsueR8eXuONS_ci_EXHSSOn70kyHi0789hapLSFKCLVIRqFDhVVwQ%2FtGwomm8WuXBnWgUS1Z4ckio0pWYRBAqBqLOQVQljWsLvzbfjfxU5Z8%3D",
+      "total_itens": 1,
+      "itens": [
+        {
+          "numero": "1",
+          "descricao": "37067 SERVIÇO DE MANUTENÇÃO PREVENTIVA E CORRETIVA DA FROTA MUNICIPAL, COM FORNECIMENTO DE PEÇA:manutenção preventiva e corretiva da frota municipal, incluindo veículos leves, pesados, médios e maquinários diversos na parte de mecânica, elétrica, suspensão arqueamento, entre outros serviços, incluindo também o fornecimento de peças, acessórios, equipamentos, pneus, serviço de vidraçaria, capotaria, tapeçaria, borracharia, funilaria e pintura, retífica de motores, socorro mecânico, dentre outros.",
+          "quantidade": "1,0000",
+          "unidade": "SERV",
+          "fornecedor": "50.493.627 VANIA LOPES DE JESUS",
+          "marca": "NÃO SE APLICA",
+          "modelo": "NÃO SE APLICA",
+          "valor": "40000,0000"
         }
       ]
     }
