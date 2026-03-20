@@ -1541,10 +1541,12 @@ function exportModalPDF() {
                     // Lote 1 item + MO → mostra colunas MO Unit. e Desc.%
                     // Lote N itens → tabela simples (MO já exibida na faixa acima)
                     const mostrarMOUnit = temMO && umItem;
+                    // Label do lote para exibir no header da tabela
+                    const loteLabel = `Lote ${l.numero || ''}${l.titulo ? ' – ' + l.titulo : ''}`;
 
                     const head = mostrarMOUnit
-                        ? [['#', 'Especificação', 'Un.', 'Qtd.', 'Val. Ref. Unit.', 'MO Unit.', 'Desc.%']]
-                        : [['#', 'Especificação', 'Un.', 'Qtd.', 'Val. Ref. Unit.']];
+                        ? [['#', `Especificação  ${loteLabel}`, 'Un.', 'Qtd.', 'Val. Ref. Unit.', 'MO Unit.', 'Desc.%']]
+                        : [['#', `Especificação  ${loteLabel}`, 'Un.', 'Qtd.', 'Val. Ref. Unit.']];
 
                     const body = l.itens.map(it => {
                         const vRef = parseValor(it.valor_referencia || '0');
@@ -1572,12 +1574,15 @@ function exportModalPDF() {
                         ? { 1: { cellWidth: 'auto' }, 4: { halign: 'right' }, 5: { halign: 'right', textColor: [5,150,105], fontStyle: 'bold' }, 6: { halign: 'right', textColor: [37,99,235], fontStyle: 'bold' } }
                         : { 1: { cellWidth: 'auto' }, 4: { halign: 'right', textColor: [5,150,105], fontStyle: 'bold' } };
 
+                    // Header da tabela: vermelho se sem vencedor, cor primária se com vencedor
+                    const corHeaderTabela = temVenc ? corPrimaria : [220, 38, 38];
+
                     doc.autoTable({
                         startY: y,
                         head,
                         body,
                         styles: { fontSize: 6.5, cellPadding: 2, overflow: 'linebreak' },
-                        headStyles: { fillColor: corPrimaria, textColor: 255, fontSize: 6.5, fontStyle: 'bold' },
+                        headStyles: { fillColor: corHeaderTabela, textColor: 255, fontSize: 6.5, fontStyle: 'bold' },
                         alternateRowStyles: { fillColor: [248, 250, 252] },
                         columnStyles: colStyles,
                         margin: { left: ML, right: MR },
