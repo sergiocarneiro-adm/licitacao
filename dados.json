@@ -4,7 +4,7 @@
     "total_processos": 743,
     "total_lotes": 8609,
     "total_itens": 14267,
-    "atualizado_em": "20260320_210250"
+    "atualizado_em": "20260323_203831"
   },
   "processos": [
     {
@@ -7713,127 +7713,6 @@
       ]
     },
     {
-      "id": "CE-025-2025",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "1693/2025",
-      "modalidade": "CONCORRÊNCIA ELETRÔNICA",
-      "situacao": "RECEPÇÃO DE PROPOSTAS",
-      "condutor": "DAVIDSON ARAUJO SANTOS",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO PARCELADA",
-      "publicacao": "30/12/2025 16:49",
-      "inicio_recepcao": "23/01/2026 08:00",
-      "fim_recepcao": "13/03/2026 08:15",
-      "inicio_disputa": "13/03/2026 08:30",
-      "objeto": "Contratação de empresa especializada em execução de obras de drenagem e pavimentação dos bairros Bonadiman, Eixo Sul, Portal Sul, Nova Canaã, Jardim Liberdade, Estância Biquíni, Loteamento dos Pioneiros, Ouro Verde, Tancredo Neves e Alto do Tancredo, bem como, o distrito de Santo Antônio, do município de Teixeira de Freitas – BA.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5Doy6DGwCslsDnD2XEjvDCi0Cj9X%2F663QBn88AIMM51oV%2Ft9AwHmjzm9gH8zewjiV23JpNA8psSblZP1K1s6hb%2Fml7Gnjb%2FbQfFKhhxYj9Nfs%3D",
-      "total_lotes": 1,
-      "total_itens": 12,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "EXECUÇÃO DE OBRAS DE DRENAGEM E PAVIMENTAÇÃO DOS BAIRROS BONADIMAN, EIXO SUL, PORTAL SUL, NOVA CANAÃ, JARDIM LIBERDADE, ESTÂNCIA BIQUÍNI, LOTEAMENTO DOS PIONEIROS, OURO VERDE, TANCREDO NEVES E ALTO DO TANCREDO, BEM COMO, O DISTRITO DE SANTO ANTÔNIO",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "1.000,00",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "66.345.867,30",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 12,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "ADMINISTRAÇÃO LOCAL DE OBRA",
-              "unidade": "UNID.",
-              "quantidade": "1,00",
-              "valor_referencia": "742.223,88"
-            },
-            {
-              "numero": "2",
-              "especificacao": "SERVIÇOS PRELIMINARES",
-              "unidade": "UNID.",
-              "quantidade": "1,00",
-              "valor_referencia": "139.119,50"
-            },
-            {
-              "numero": "3",
-              "especificacao": "ALTO DO TANCREDO",
-              "unidade": "UNID.",
-              "quantidade": "1,00",
-              "valor_referencia": "2.807.567,57"
-            },
-            {
-              "numero": "4",
-              "especificacao": "BONADIMAN",
-              "unidade": "UNID.",
-              "quantidade": "1,00",
-              "valor_referencia": "15.437.703,67"
-            },
-            {
-              "numero": "5",
-              "especificacao": "EIXO SUL",
-              "unidade": "UNID.",
-              "quantidade": "1,00",
-              "valor_referencia": "6.434.067,78"
-            },
-            {
-              "numero": "6",
-              "especificacao": "ESTÂNCIA BIQUÍNI",
-              "unidade": "UNID.",
-              "quantidade": "1,00",
-              "valor_referencia": "17.610.482,56"
-            },
-            {
-              "numero": "7",
-              "especificacao": "JARDIM LIBERDADE",
-              "unidade": "UNID.",
-              "quantidade": "1,00",
-              "valor_referencia": "8.056.652,97"
-            },
-            {
-              "numero": "8",
-              "especificacao": "LOTEAMENTO DOS PIONEIROS/OURO VERDE",
-              "unidade": "UNID.",
-              "quantidade": "1,00",
-              "valor_referencia": "7.439.215,87"
-            },
-            {
-              "numero": "9",
-              "especificacao": "NOVA CANAÃ",
-              "unidade": "UNID.",
-              "quantidade": "1,00",
-              "valor_referencia": "421.938,45"
-            },
-            {
-              "numero": "10",
-              "especificacao": "PORTAL SUL",
-              "unidade": "UNID.",
-              "quantidade": "1,00",
-              "valor_referencia": "4.725.465,38"
-            },
-            {
-              "numero": "11",
-              "especificacao": "SANTO ANTÔNIO",
-              "unidade": "UNID.",
-              "quantidade": "1,00",
-              "valor_referencia": "2.201.571,24"
-            },
-            {
-              "numero": "12",
-              "especificacao": "TANCREDO NEVES",
-              "unidade": "UNID.",
-              "quantidade": "1,00",
-              "valor_referencia": "329.858,43"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "CE-024-2025",
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "1682/2025",
@@ -12504,50 +12383,6 @@
               "unidade": "SERVIÇO",
               "quantidade": "1,00",
               "valor_referencia": "3.750,04"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "CE-023-2025",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "1615/2025",
-      "modalidade": "CONCORRÊNCIA ELETRÔNICA",
-      "situacao": "HABILITAÇÃO",
-      "condutor": "DAVIDSON ARAUJO SANTOS",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO PARCELADA",
-      "publicacao": "26/11/2025 20:38",
-      "inicio_recepcao": "27/11/2025 08:00",
-      "fim_recepcao": "05/01/2026 08:15",
-      "inicio_disputa": "05/01/2026 08:30",
-      "objeto": "Contratação de empresa especializada em serviços de engenharia para o fornecimento de bancas em estruturas metálicas (bancas de frutas e verduras), no município de Teixeira de Freitas – BA.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5D5hDrnwZDQyOwJYDucu0C_sm58lDHO0APEj3Ejyiuhqng4kcXFkJVjoKTMRzW62cz1nonjaD_K1J%2FIEX7ajdIK2W3v6K0NeutsLfktg7Q6Ww%3D",
-      "total_lotes": 1,
-      "total_itens": 1,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "SERVIÇOS DE ENGENHARIA PARA O FORNECIMENTO DE BANCAS EM ESTRUTURAS METÁLICAS (BANCAS DE FRUTAS E VERDURAS)",
-          "fase": "HABILITAÇÃO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "1.000,00",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "1.200.887,10",
-          "vencedor": "CONSTRUÇÕES E SANEAMENTO CARANDAÍ LTDA",
-          "melhor_oferta": "1.200.887,10",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "ESTRUTURA METÁLICA",
-              "unidade": "UNID.",
-              "quantidade": "1,00",
-              "valor_referencia": "1.200.887,10"
             }
           ]
         }
@@ -243062,526 +242897,6 @@
       ]
     },
     {
-      "id": "PE-022-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "1505/2025",
-      "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "RECEPÇÃO DE PROPOSTAS",
-      "condutor": "SERGIO CARNEIRO CAVALCANTI DE AZEVEDO",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "REGISTRO DE PREÇO",
-      "publicacao": "09/03/2026 17:07",
-      "inicio_recepcao": "11/03/2026 08:00",
-      "fim_recepcao": "23/03/2026 08:45",
-      "inicio_disputa": "23/03/2026 09:00",
-      "objeto": "Contratação de empresa especializada no fornecimento de SERVIDORES DE REDE DE INFORMÁTICA (material permanente) , a fim de atender as demandas da Secretaria Municipal de Administração e demais Secretarias.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DBGFsANeX13WWwU9rZk7WtigOND6rCZEOCmxRXEEpdQtOgsdkMyLolf9JDxeUsG2TbKBZdAO_qRezy%2FE1LsbvnEjBUwwNKz89He39U9VaV9E%3D",
-      "total_lotes": 16,
-      "total_itens": 16,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "SERVIDOR DE ALTA PERFORMANCE. FONTE DE ALIMENTAÇÃO HOT- PLUG. RACK 1U:1. CHASSI OU GABINETE: ° Tipo rack, compatível para instalação em rack de 19\"; contendo trilhos para fixação e moldura frontal. ° Fator de forma do servidor: Rack 1U ° Ventiladores redu",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "SERVIDOR DE ALTA PERFORMANCE. FONTE DE ALIMENTAÇÃO HOT- PLUG. RACK 1U:1. CHASSI OU GABINETE: ° Tipo rack, compatível para instalação em rack de 19\"; contendo trilhos para fixação e moldura frontal. ° Fator de forma do servidor: Rack 1U ° Ventiladores redundantes e hot swap ° 3 (duas) ou mais entradas USB 3.0 ou superior. ° Possuir pelo menos 1 porta VGA ° Possuir no mínimo 8 baias 2.5\" SFF para adição de discos, expansível conforme opções do fabricante. (Ou que suporte discos 3.5 LFF) 2. PLACA MÃE: ° Placa-mãe da mesma marca do FABRICANTE do equipamento, desenvolvida especificamente para o modelo ofertado. Não serão aceitas placas de livre comercialização no mercado. Comprovar junto a proposta de preços; ° BIOS desenvolvido pelo mesmo FABRICANTE do equipamento ou ter direitos de copyright sobre o mesmo, comprovado através de declaração fornecido pelo FABRICANTE do equipamento, não sendo aceitas soluções em regime de OEM ou customizadas. Apresentar comprovação do fabricante especifica para este processo licitatório juntamente com a proposta demonstrando que o produto está em linha de fabricação; ° O fabricante deve ser registrado na \"Membership List\" do Unified Extensible Firmware Interface Fórum, acessível pelo website www.uefi.org/members, estando na categoria \"Promoters\", de forma a atestar que os seus equipamentos estão em conformidade com a especificação UEFI 2.x ou superior. ° Suporte para dois processadores, no mínimo. ° No mínimo 32 slots de memória, DDR5 ° Suporta módulos refrigerados por líquido que possibilitam pontos de design térmico (TDPs) mais altos. ° Oferece suporte a até 3 GPUs1 de largura única (SW) para acelerar cargas de trabalho que fazem uso intenso de gráficos. ° Sistema de ventilação padrão com 7 ventoinhas hot-swap ° Taxas de transferência de dados avançadas e velocidades de rede mais altas do barramento de expansão serial PCIe Gen5, com até 2 x16 PCIe Gen5 e dois slots OCP. ° Expansões PCIe: 2 x16 Gen5, até dois slots OCP 3.0; ° Suporte para UEFI Secure Boot e Secure Start. Root of trust de silício imutável. Cadeia de suprimentos confiável opcional, modos de segurança iLO, TPM, detecção de intrusão de chassi e kits de travamento de moldura. anunciado em listas de fim de vida (End of Sale, End of Life). ° Anexar documentação técnica detalhada oficial do fabricante, contemplando os requisitos solicitados; ° Fornecimento por empresa autorizada oficialmente pelo fabricante a comerciali",
-              "unidade": "UND",
-              "quantidade": "5,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "2",
-          "titulo": "SERVIDOR STORAGE DE 40TB:Fan System: 1x 120mm Painel de LCD: Sim Processador: CPU incorporada de quatro núcleos (Quad-Core) a 2,3 GHz - 3,8 GHz Turbo; Arquitetura CPU: x64 64-bit; Frequência CPU: Quatro núcleos 2.3GHz (burst up 3.8 GHz). Memória: Memória",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "SERVIDOR STORAGE DE 40TB:Fan System: 1x 120mm Painel de LCD: Sim Processador: CPU incorporada de quatro núcleos (Quad-Core) a 2,3 GHz - 3,8 GHz Turbo; Arquitetura CPU: x64 64-bit; Frequência CPU: Quatro núcleos 2.3GHz (burst up 3.8 GHz). Memória: Memória ECC de classe de servidor DDR5-4800 (Máx. 64GB); Slots Quad M.2 para SSDs NVMe – Desempenho duplicado com PCIe 4.0; Memória no mínimo de 16GB ECC DDR5-4800 SO-DIMM; Módulo de memória pré-instalado: 16GB (1x 16GB); Memória 2 Slots mínimo; Memória expansível 64GB ou superior; Memória flash: 8GB eMMC. Armazenamento: Inclui 10 unidades de 4TB de armazenamento cada. Drive com mínimo de 10 Bays; M.2 unidades Slots: 4; Tipo de unidade compatível: 3.5\" SATA HDD - 2.5\" SATA HDD - 2.5\" SATA SSD - M.2 2280 NVMe; Baias mínimo de unidade de expansão: 22; Suporta discos hot-swap: Sim. Conectividade: 2x 5 Gigabit Ethernet (5G/2.5G/1G/100M) 2x 10 Gigabit Ethernet (10G/2.5G/1G/100M) 2 portas USB4 a 40 Gbps 3x USB 3.2 Gen 2 Tipo A a 10 Gbps Suporta Wake on LAN e Wake on WAN (5 GbE) Slots PCIe de expansão: PCIe 4.0, x4 link, (for optional 10 GbE card) Fonte de alimentação: Unidade de Alimentação / Adaptador: 250w x1; Tensão de alimentação de entrada: 100V to 240V AC. Certificação: FCC, CE, VCCI, BSMI, C-TICK, KCC, BIS, CCC, UKCA Compatibilidade: Servidor NAS Asustor AS6810T - 40TB - AMD Ryzen V3C14 - 16GB DDR5 - 2x 10GBe - 2x 2,5 GbE - Inclui 10 HDs NAS de 4TB",
-              "unidade": "UND",
-              "quantidade": "5,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "3",
-          "titulo": "PLACA BACKPLANE COM 4 BAIAS PARA HD OU SSD DE 2.5 POLEGADAS - BACKPLANE BOARD 00FJ755:Compatibilidade: Compatível com servidor Lenovo/IBM x3550 M5. EC: N34447B. SKU/PN/Número de Peça: 00FJ755. Características Adicionais: Suporte para discos rígidos ou SSD",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "PLACA BACKPLANE COM 4 BAIAS PARA HD OU SSD DE 2.5 POLEGADAS - BACKPLANE BOARD 00FJ755:Compatibilidade: Compatível com servidor Lenovo/IBM x3550 M5. EC: N34447B. SKU/PN/Número de Peça: 00FJ755. Características Adicionais: Suporte para discos rígidos ou SSDs de 2.5 polegadas, ideal para expansão de armazenamento em servidores de alta performance.",
-              "unidade": "UND",
-              "quantidade": "2,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "4",
-          "titulo": "CABO SATA SAS SFF-8643 PARA SFF-8643:Descrição: Cabo de conexão interna, tipo SFF-8643 para SFF-8643, com 4 vias. Compatibilidade: Compatível com a Backplane Board 00FJ755. Características Adicionais: Projetado para conectar adaptadores de barramento host",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "CABO SATA SAS SFF-8643 PARA SFF-8643:Descrição: Cabo de conexão interna, tipo SFF-8643 para SFF-8643, com 4 vias. Compatibilidade: Compatível com a Backplane Board 00FJ755. Características Adicionais: Projetado para conectar adaptadores de barramento host ou controladores RAID com SFF-8643 a dispositivos de armazenamento com SFF-8643. Cabo SAS mini-SAS HD SFF-8643 para 8643",
-              "unidade": "UND",
-              "quantidade": "32,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "5",
-          "titulo": "GAVETA/BANDEJA/CADDY PARA HD OU SSD SAS/SATA 2.5\":Descrição: Gaveta ou bandeja para instalação de HD ou SSD de 2.5 polegadas. Compatibilidade: Compatível com servidor Lenovo/IBM x3550 M5. PN/Modelo/Número de Peça: 00E7600. EC: L33552. Características Adic",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "GAVETA/BANDEJA/CADDY PARA HD OU SSD SAS/SATA 2.5\":Descrição: Gaveta ou bandeja para instalação de HD ou SSD de 2.5 polegadas. Compatibilidade: Compatível com servidor Lenovo/IBM x3550 M5. PN/Modelo/Número de Peça: 00E7600. EC: L33552. Características Adicionais: Suporte para discos rígidos ou SSDs de 2.5 polegadas, facilitando a substituição e manutenção de unidades de armazenamento.",
-              "unidade": "UND",
-              "quantidade": "12,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "6",
-          "titulo": "SSD 960GB PARA SERVIDORES:Compatibilidade - R710 R720 R730 R740 T710 T720 T730 - Lenovo x3550 M5 - 8869AC1 - Qualquer equipamento com interface SATA 3 - 6Gbps. Especificações Técnicas: - Capacidade: 960 GB - Modelo: D3-S4510 Uso: Servidores - Fator de for",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "SSD 960GB PARA SERVIDORES:Compatibilidade - R710 R720 R730 R740 T710 T720 T730 - Lenovo x3550 M5 - 8869AC1 - Qualquer equipamento com interface SATA 3 - 6Gbps. Especificações Técnicas: - Capacidade: 960 GB - Modelo: D3-S4510 Uso: Servidores - Fator de forma: 2.5\" 7mm - Interface: SATA 3.0 6Gb/S - Leitura sequencial: (até) 560 MB / s - Gravação sequencial: (até) 510 MB / s - Nand Flash Memory Type: 64-Layer TLC 3D NAND - Mtbf: 2 milhões de horas - Power Consumption: 3.0 Watt - SSD Endurance: 5.8 PBW - 4kb Random Read: 96000 Iops - 4kb Random Write: 51000 Iops Referência: Marca: DELL Fabricante: INTEL",
-              "unidade": "UND",
-              "quantidade": "25,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "7",
-          "titulo": "SSD 1.92 TB INTEL D3-S4510 SERIES:Descrição: Série: Intel SSD D3 Series Capacidade: 1.92 TB Tipo de litografia: 64-Layer TLC 3D NAND Condições para uso: Para servidores - Server/Enterprise Especificações de desempenho: Leitura sequencial (até): 560 MB/s G",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "SSD 1.92 TB INTEL D3-S4510 SERIES:Descrição: Série: Intel SSD D3 Series Capacidade: 1.92 TB Tipo de litografia: 64-Layer TLC 3D NAND Condições para uso: Para servidores - Server/Enterprise Especificações de desempenho: Leitura sequencial (até): 560 MB/s Gravação sequencial (até): 510 MB/s Energia - ativa: 3.2W Energia - ociosa: 1.1W Confiabilidade Vibração - operacional: 2.17 GRMS Vibração - não-operacional: 3.13 GRMS Choque (operacional e não operacional): 1000 G/0.5 msec Faixa de temperatura operacional: 0C to 70C Temperatura de operação (Máxima): 70 C Temperatura de operação (Mínima): 0 C Classificação de resistência (gravações no período de vida): 6.5 PBW Tempo médio entre falhas (MTBF): 2 million hours Taxa de erro de bits incorrigíveis (UBER): 1 sector per 10^17 bits read Especificações de encapsulamento Fator de forma: 2.5 7mm Interface: SATA 3.0 6Gb/S",
-              "unidade": "UND",
-              "quantidade": "32,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "8",
-          "titulo": "PROCESSADOR INTEL XEON® E5-2667 V4:Especificações Técnicas: Geração: Intel Xeon processor E5-2600 v4 product family (Broadwell-EP) Número de núcleos físicos: 8 (oito) Número de threads: 16 (dezesseis) Frequência base: 3,20 GHz Frequência Max Turbo: Até 3,",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "PROCESSADOR INTEL XEON® E5-2667 V4:Especificações Técnicas: Geração: Intel Xeon processor E5-2600 v4 product family (Broadwell-EP) Número de núcleos físicos: 8 (oito) Número de threads: 16 (dezesseis) Frequência base: 3,20 GHz Frequência Max Turbo: Até 3,60 GHz Cache L3: 25 MB Litografia: 14 nm Socket compatível: LGA 2011-v3 Suporte à memória: DDR4 até 2400 MHz, com suporte à memória ECC TDP (Potência térmica): 135 Watts Tecnologias suportadas: Intel® Hyper-Threading Intel® Turbo Boost Technology 2.0 Intel® Virtualization Technology (VT-x e VT-d) Intel® AES New Instructions (Intel® AES-NI) Intel® Trusted Execution Technology (Intel® TXT) Referência: Marca: Intel Xeon® E5-2667 v4",
-              "unidade": "PAR",
-              "quantidade": "4,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "9",
-          "titulo": "MEMORIA SERVIDOR 32GB DDR4 2400 ECC RDIMM 2RX4:Especificação Tipo de Memoria: DDR4 Memory Pinagem e Modelo: 288Pin Long-DIMM 32GB 2Rx4 2G x 72-Bit PC4-2400 Frequencia: DDR4-2400 Função: ECC Registrada (RDIMM) Capacidade: 32GB Voltagem: 1.2V CL: 17",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "MEMORIA SERVIDOR 32GB DDR4 2400 ECC RDIMM 2RX4:Especificação Tipo de Memoria: DDR4 Memory Pinagem e Modelo: 288Pin Long-DIMM 32GB 2Rx4 2G x 72-Bit PC4-2400 Frequencia: DDR4-2400 Função: ECC Registrada (RDIMM) Capacidade: 32GB Voltagem: 1.2V CL: 17",
-              "unidade": "UND",
-              "quantidade": "12,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "10",
-          "titulo": "FONTE PARA LENOVO SYSTEM X3550 M5 550W BIVOLT:Especificações do Produto: * Produto: Fonte De Alimentação; * Potência: 550W; * Tensão: Bivolt Automático; * Peso do Produto: 0,76Kg; * Diâmetro do Ventilador: 4cm; * Dimensões do Produto: 23x8x3,7cm; * Tipo d",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "FONTE PARA LENOVO SYSTEM X3550 M5 550W BIVOLT:Especificações do Produto: * Produto: Fonte De Alimentação; * Potência: 550W; * Tensão: Bivolt Automático; * Peso do Produto: 0,76Kg; * Diâmetro do Ventilador: 4cm; * Dimensões do Produto: 23x8x3,7cm; * Tipo de Modulação: Modular; * Quantidade Conector SATA: 0; * Quantidade Conector PCI-E: 0; * Quantidade Conector Placa-Mãe: 1; * Quantidade de Pinos Placa-Mãe: 24; * Tipo da Fonte de Alimentação: ATX; * Tipo de Refrigeração: Refrigeração Padrão, Por Ar. * Produto genuíno, com certificação de origem e garantia oficial do fabricante ou distribuidor autorizado. Informações Adicionais: * Condição: Novo; * Garantia: 12 Meses; * Itens Inclusos: 1 Fonte para Servidor Referência: IBM FSD042",
-              "unidade": "UND",
-              "quantidade": "4,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "11",
-          "titulo": "COOLER FAN SERVIDOR LENOVO SYSTEM X3550 M5:Descrição: Lenovo x3550 M5 System Fan IBM HOT SWAP FAN FOR LENOVO SYSTEM X3550 M5 00KC909 / 00FK455 /0KC909 / 0FK455/00KC800",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "COOLER FAN SERVIDOR LENOVO SYSTEM X3550 M5:Descrição: Lenovo x3550 M5 System Fan IBM HOT SWAP FAN FOR LENOVO SYSTEM X3550 M5 00KC909 / 00FK455 /0KC909 / 0FK455/00KC800",
-              "unidade": "UND",
-              "quantidade": "2,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "12",
-          "titulo": "DISSIPADOR PARA PROCESSSADOR SERVIDOR LENOVO X3550 M5:Aplicação: X3550 M5 Material: Alumínio PN: 00KC908 00KC911 00KC912",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "DISSIPADOR PARA PROCESSSADOR SERVIDOR LENOVO X3550 M5:Aplicação: X3550 M5 Material: Alumínio PN: 00KC908 00KC911 00KC912",
-              "unidade": "UND",
-              "quantidade": "2,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "13",
-          "titulo": "CONTROLADORA SERVERAID M1115 SAS/SATA- SERVIDOR LENOVO SYSTEM X3550 M5:Especificações técnicas: ° PCI de perfil baixo, meio comprimento - fator de forma MD2 ° Oito portas SAS/SATA internas de 6 Gbps ° Dois conectores Mini-SAS internos (SFF-8087) ° Taxa de",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "CONTROLADORA SERVERAID M1115 SAS/SATA- SERVIDOR LENOVO SYSTEM X3550 M5:Especificações técnicas: ° PCI de perfil baixo, meio comprimento - fator de forma MD2 ° Oito portas SAS/SATA internas de 6 Gbps ° Dois conectores Mini-SAS internos (SFF-8087) ° Taxa de transferência de até 6 Gbps por porta ° Processador IBM PowerPC® de 533 MHz com controlador LSI SAS2008 RAID on Chip (ROC) de 6 Gbps ° Interface de host PCI Express 2.0 x8 ° Suporte para níveis de RAID 0, 1 e 10 padrão; suporte para RAID 5 e 50 com atualização opcional ° Zero Cache do Controlador, sem backup de bateria/flash ° Suporte para unidades de disco rígido (HDDs) e unidades de estado sólido (SSDs) SAS e SATA ° Suporte para unidades de troca simples e hot swap ° Suporte para HDDs e SSDs SAS e SATA intercalados. Não é recomendável misturar diferentes tipos de unidades no mesmo conjunto (grupo de unidades). ° Conexão com até 32 unidades internas, dependendo do modelo do servidor (até 16 unidades físicas, incluindo hot spares, podem ser usadas em configurações RAID. As unidades acima do limite de 16 são usadas como HDDs independentes em um ambiente não RAID). ° Suporte opcional para unidades com criptografia automática (SEDs) com o MegaRAID SafeStore. ° Suporte para até 16 unidades virtuais, até 16 grupos de unidades, até 16 unidades virtuais por grupo de unidades e até 16 unidades físicas por grupo de unidades. ° Suporte para unidades virtuais de até 64 TB. ° Tamanho de faixa configurável de até 64 KB. ° Compatível com a configuração de Formato de Dados de Disco (DDF) em disco (COD). ° Suporte a S.M.A.R.T. ° Software de gerenciamento MegaRAID Storage Manager. Referência: Controladora ServeRAID M1115 SAS/SATA – p/n: TIPS0856",
-              "unidade": "UND",
-              "quantidade": "2,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "14",
-          "titulo": "HD RED - STORAGE NAS - SATA - 4TB:Destinado às demandas de armazenamento de dados de sistemas de NAS (Network Attached Storage), que tenha desempenho elevado, confiabilidade e operação contínua (24x7), com suporte a cargas de trabalho intensas. CARACTERÍS",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "HD RED - STORAGE NAS - SATA - 4TB:Destinado às demandas de armazenamento de dados de sistemas de NAS (Network Attached Storage), que tenha desempenho elevado, confiabilidade e operação contínua (24x7), com suporte a cargas de trabalho intensas. CARACTERÍSTICAS TÉCNICAS: ° Tipo: Disco Rígido Interno (HDD) ° Capacidade: 4TB ° Interface: SATA III (6 Gb/s) ° Velocidade de Rotação: 5400 RPM ou superior ° Cache: 256 MB ° Formato: 3,5 polegadas ° Suporte a operação contínua (24x7) ° Projetado para sistemas NAS com até 8 baias ° Tecnologia de gravação: CMR ° Tecnologia NASware 3.0 para maior compatibilidade e desempenho em ambientes multiusuário ° Carga de trabalho suportada: 180 TB/ano ° MTBF (Tempo médio entre falhas): 1 milhão de horas ° Tolerância a vibração: aprimorada com sensores de vibração rotacional (RV) GARANTIA: ° Garantia de 3 (cinco) anos, conforme política do fabricante. REFERÊNCIAS: ° Western Digital WD40EFPX ou WD4005FFBX ° HD Seagate IronWolf 4TB - Modelo: ST4000VN006",
-              "unidade": "UND",
-              "quantidade": "49,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "15",
-          "titulo": "HD PURPLE PARA NVR CÂMERAS, 4TB, 5400 RPM:Especificações: ° Capacidade: 4TB ° Fator de forma: 3.5 polegadas ° Formato avançado ° Cumpre as normas RoHS Recursos do produto: ° Câmera suportadas: Até 64 ° Número máximo de compartimentos para unidades suporta",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "HD PURPLE PARA NVR CÂMERAS, 4TB, 5400 RPM:Especificações: ° Capacidade: 4TB ° Fator de forma: 3.5 polegadas ° Formato avançado ° Cumpre as normas RoHS Recursos do produto: ° Câmera suportadas: Até 64 ° Número máximo de compartimentos para unidades suportado: 8+ ° Componentes resistentes a manchas Desempenho: ° Cache: 64 MB ° Classe de desempenho: Classe de 5400 RPM ° Taxa de transferência da interface (máx.): ° Buffer para host: 6 Gb/s ° Host para/desde drive (mantido): 150 MB/s Confiabilidade/Integridade dos dados: ° Ciclos de carga e descarga: 300.000 ° Carga de trabalho nominal anualizada: 180 TB/ano ° Erros de leitura irrecuperáveis por bits lidos: <1 em 10 Gerenciamento de energia: ° Leitura/Gravação: 5,1 ° Ocioso: 4,5 ° Standby e dormindo: 0,4 Conteúdo da Embalagem: - HD PURPLE 4TB",
-              "unidade": "UND",
-              "quantidade": "200,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "16",
-          "titulo": "NOBREAK 15KVA:Topologia: Online monofásico Forma de onda: Senoidal pura Transformador: ISOLADOR Níveis de proteção: 1. Queda de rede (Blackout); 2. Ruído de rede elétrica; 3. Sobretensão de rede elétrica; 4. Subtensão de rede elétrica; 5. Surtos de tensão",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "NOBREAK 15KVA:Topologia: Online monofásico Forma de onda: Senoidal pura Transformador: ISOLADOR Níveis de proteção: 1. Queda de rede (Blackout); 2. Ruído de rede elétrica; 3. Sobretensão de rede elétrica; 4. Subtensão de rede elétrica; 5. Surtos de tensão na rede; 6. Correção linear de variação da rede elétrica; 7. Variação de frequência da rede elétrica; 8. Distorção harmônica da rede elétrica; 9. Afundamento de tensão (SAG). Expansão de autonomia: Possibilidade de expandir o tempo de autonomia utilizando os módulos de bateria externos, que podem facilmente ser conectados ao nobreak (UPS) Display LCD: Permite realizar leituras e configurações do sistema de forma prática e intuitiva, facilitando o diagnóstico de falhas e tomada de decisão efetiva. Sistema Hot Swap de baterias: Permite realizar a substituição das baterias sem a necessidade de desligar a carga crítica, eliminando a necessidade de paradas",
-              "unidade": "UND",
-              "quantidade": "4,00",
-              "valor_referencia": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "PE-031-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "1673/2025",
-      "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "RECEPÇÃO DE PROPOSTAS",
-      "condutor": "SERGIO CARNEIRO CAVALCANTI DE AZEVEDO",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "REGISTRO DE PREÇO",
-      "publicacao": "09/03/2026 17:02",
-      "inicio_recepcao": "11/03/2026 08:00",
-      "fim_recepcao": "23/03/2026 08:15",
-      "inicio_disputa": "23/03/2026 08:30",
-      "objeto": "Contratação de empresa especializada em fornecimento de TUBOS EM POLIETILENO DE ALTA DENSIDADE (PEAD) (material de consumo), a fim de atender as demandas da Secretaria Municipal de Infraestrutura e Serviços Urbanos.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DLnkzZm228B7aQuf91WS9_FrfqUoIR3eYLUIa%2FTOGo6rpvd7vpkeDOsziZqn%2FS5uY29tJi99NsjjrOR7WlFwYE3Y3kfpEXHYvqyY7KL0C%2Fb4%3D",
-      "total_lotes": 4,
-      "total_itens": 4,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "9900515230 TUBO PEAD 400 MM:tubo extrudado, parede dupla em pead (polietileno de alta densidade), com união ponta e bolsa, liso internamente e corrugado externamente, em barras de 6m de comprimento, cor preta, pigmentada com negro de fumo, com diâmetro no",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900515230 TUBO PEAD 400 MM:tubo extrudado, parede dupla em pead (polietileno de alta densidade), com união ponta e bolsa, liso internamente e corrugado externamente, em barras de 6m de comprimento, cor preta, pigmentada com negro de fumo, com diâmetro nominal DN/DI 400 mm (baseado no diâmetro interno), classe de rigidez sn4, conforme norma DNIT 094/2014",
-              "unidade": "UND",
-              "quantidade": "350,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "2",
-          "titulo": "9900515231 TUBO PEAD 800 MM:tubo extrudado, parede dupla em pead (polietileno de alta densidade), com união ponta e bolsa, liso internamente e corrugado externamente, em barras de 6m de comprimento, cor preta, pigmentada com negro de fumo, com diâmetro no",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900515231 TUBO PEAD 800 MM:tubo extrudado, parede dupla em pead (polietileno de alta densidade), com união ponta e bolsa, liso internamente e corrugado externamente, em barras de 6m de comprimento, cor preta, pigmentada com negro de fumo, com diâmetro nominal DN/DI 800 mm (baseado no diâmetro interno), classe de rigidez sn4, conforme norma DNIT 094/2014",
-              "unidade": "UND",
-              "quantidade": "200,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "3",
-          "titulo": "9900515232 TUBO PEAD 1500 MM:tubo extrudado, parede dupla em pead (polietileno de alta densidade), com união ponta e bolsa, liso internamente e corrugado externamente, em barras de 6m de comprimento, cor preta, pigmentada com negro de fumo, com diâmetro n",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900515232 TUBO PEAD 1500 MM:tubo extrudado, parede dupla em pead (polietileno de alta densidade), com união ponta e bolsa, liso internamente e corrugado externamente, em barras de 6m de comprimento, cor preta, pigmentada com negro de fumo, com diâmetro nominal DN/DI 1500 mm (baseado no diâmetro interno), classe de rigidez sn2, conforme norma DNIT 094/2014",
-              "unidade": "UND",
-              "quantidade": "60,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "4",
-          "titulo": "36839 TUBO PEAD 300 MM:: tubo extrudado, parede dupla em pead (polietileno de alta densidade), com união ponta e  bolsa, liso internamente e corrugado externamente, em  barras de 6m de comprimento, cor preta, pigmentada com  negro de fumo, com diâmetro no",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "36839 TUBO PEAD 300 MM:: tubo extrudado, parede dupla em pead (polietileno de alta densidade), com união ponta e bolsa, liso internamente e corrugado externamente, em barras de 6m de comprimento, cor preta, pigmentada com negro de fumo, com diâmetro nominal dn/di 300 mm (baseado no diâmetro interno), classe de rigidez sn4, conforme norma dnit 094/2014.",
-              "unidade": "UND",
-              "quantidade": "200,00",
-              "valor_referencia": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "4-DLE-023-2026",
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "131-2026",
@@ -249960,50 +249275,6 @@
               "unidade": "UNIDADE",
               "quantidade": "1,00",
               "valor_referencia": "993,82"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "PE-048-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "229/2026",
-      "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "PUBLICADO",
-      "condutor": "JONATAS DA SILVA SOUSA",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO PARCELADA",
-      "publicacao": "19/03/2026 17:45",
-      "inicio_recepcao": "23/03/2026 08:30",
-      "fim_recepcao": "06/04/2026 08:15",
-      "inicio_disputa": "06/04/2026 08:30",
-      "objeto": "Contratação de empresa especializada em prestação de serviços de IMPRESSÃO GRÁFICA DE AVALIAÇÕES, a fim de atender as demandas da Secretaria Municipal de Educação.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DmNRn2jnjphCCsMiIT%2FKrgqBgKdDMv6ec1FeLPeyhyu1mpOgEqTRjNQ8BMPuiH%2FEmK4axQCHZjymbOZBAws6pCFebCP6mLv7E%2F821EsJDQ5I%3D",
-      "total_lotes": 1,
-      "total_itens": 1,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "IMPRESSÃO GRÁFICA",
-          "fase": "PUBLICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "103200003 Serviço de impressão de folhas destinadas àaplicação das avaliações do Compromisso Nacional CriançaAlfabetizada (CNCA) na rede municipal deensino:compreendendo a impressão por folha, em papeltamanho A4 (210mm x 297mm), em papel offset branco alcalinode alta qualidade, gramatura de 75g/m², alta alvura e opacidadeadequada para evitar transparência de impressão entre frente everso, impressão offset ou digital em alta resolução (mínimo2400 dpi), tiragem em 1/1 cor, conforme artes finais fornecidaspela Secretaria Municipal de Educação, com registro fiel detextos, figuras, quadros e campos de resposta conforme matrizavaliativa oficial do CNCA. Inclui ainda serviços correlatos decorte em guilhotina com tolerância máxima de ± 1mm,acondicionamento das folhas em maços padronizados (porexemplo, 250, 500 ou 1.000 folhas) embalados em papel kraft oufilme plástico resistente, com etiqueta de identificação contendo,identificação do ciclo/etapa da avaliação, série/ano, disciplina,número do lote e quantidade de folhas, bem como a logística deentrega fracionada nas unidades escolares e/ou no depósitocentral da Secretaria, conforme cronograma oficial do CNCA,respeitando a urgência do calendário nacional e a necessidadede pronta disponibilidade do material nas escolas.",
-              "unidade": "UN",
-              "quantidade": "1.300.000,00",
-              "valor_referencia": ""
             }
           ]
         }
@@ -261084,6 +260355,735 @@
               "unidade": "SER",
               "quantidade": "1,00",
               "valor_referencia": "87.500,00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-048-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "229/2026",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "RECEPÇÃO DE PROPOSTAS",
+      "condutor": "JONATAS DA SILVA SOUSA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO PARCELADA",
+      "publicacao": "19/03/2026 17:45",
+      "inicio_recepcao": "23/03/2026 08:30",
+      "fim_recepcao": "06/04/2026 08:15",
+      "inicio_disputa": "06/04/2026 08:30",
+      "objeto": "Contratação de empresa especializada em prestação de serviços de IMPRESSÃO GRÁFICA DE AVALIAÇÕES, a fim de atender as demandas da Secretaria Municipal de Educação.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5D4e7AUZ3QFI3nNwwwb9CU7cZLLpcgOxfx2FOPVUGDBn6Pp2uDoGtgqwQzDsY_YdfAYHKS10nXYs8roS%2FGOP6Lj6qWr_YUADwNJBa4uuKk7pQ%3D",
+      "total_lotes": 1,
+      "total_itens": 1,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "IMPRESSÃO GRÁFICA",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "103200003 Serviço de impressão de folhas destinadas àaplicação das avaliações do Compromisso Nacional CriançaAlfabetizada (CNCA) na rede municipal deensino:compreendendo a impressão por folha, em papeltamanho A4 (210mm x 297mm), em papel offset branco alcalinode alta qualidade, gramatura de 75g/m², alta alvura e opacidadeadequada para evitar transparência de impressão entre frente everso, impressão offset ou digital em alta resolução (mínimo2400 dpi), tiragem em 1/1 cor, conforme artes finais fornecidaspela Secretaria Municipal de Educação, com registro fiel detextos, figuras, quadros e campos de resposta conforme matrizavaliativa oficial do CNCA. Inclui ainda serviços correlatos decorte em guilhotina com tolerância máxima de ± 1mm,acondicionamento das folhas em maços padronizados (porexemplo, 250, 500 ou 1.000 folhas) embalados em papel kraft oufilme plástico resistente, com etiqueta de identificação contendo,identificação do ciclo/etapa da avaliação, série/ano, disciplina,número do lote e quantidade de folhas, bem como a logística deentrega fracionada nas unidades escolares e/ou no depósitocentral da Secretaria, conforme cronograma oficial do CNCA,respeitando a urgência do calendário nacional e a necessidadede pronta disponibilidade do material nas escolas.",
+              "unidade": "UN",
+              "quantidade": "1.300.000,00",
+              "valor_referencia": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-022-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "1505/2025",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "HABILITAÇÃO",
+      "condutor": "SERGIO CARNEIRO CAVALCANTI DE AZEVEDO",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "REGISTRO DE PREÇO",
+      "publicacao": "09/03/2026 17:07",
+      "inicio_recepcao": "11/03/2026 08:00",
+      "fim_recepcao": "23/03/2026 08:45",
+      "inicio_disputa": "23/03/2026 09:00",
+      "objeto": "Contratação de empresa especializada no fornecimento de SERVIDORES DE REDE DE INFORMÁTICA (material permanente) , a fim de atender as demandas da Secretaria Municipal de Administração e demais Secretarias.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DfffVbpHfZ8N3M9DCbWQpAYRVxLXb43AS7QX9bwodtVa1eTIhV01IFWHZb8aX%2FthwUEzMRtgqWQ3Xv7Wssa9LTuRu8NnaIOo2ghZtZKHaJaw%3D",
+      "total_lotes": 16,
+      "total_itens": 16,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "SERVIDOR DE ALTA PERFORMANCE. FONTE DE ALIMENTAÇÃO HOT- PLUG. RACK 1U:1. CHASSI OU GABINETE: ° Tipo rack, compatível para instalação em rack de 19\"; contendo trilhos para fixação e moldura frontal. ° Fator de forma do servidor: Rack 1U ° Ventiladores redu",
+          "fase": "INTERPOSIÇÃO DE RECURSOS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "203.988,70",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "SERVIDOR DE ALTA PERFORMANCE. FONTE DE ALIMENTAÇÃO HOT- PLUG. RACK 1U:1. CHASSI OU GABINETE: ° Tipo rack, compatível para instalação em rack de 19\"; contendo trilhos para fixação e moldura frontal. ° Fator de forma do servidor: Rack 1U ° Ventiladores redundantes e hot swap ° 3 (duas) ou mais entradas USB 3.0 ou superior. ° Possuir pelo menos 1 porta VGA ° Possuir no mínimo 8 baias 2.5\" SFF para adição de discos, expansível conforme opções do fabricante. (Ou que suporte discos 3.5 LFF) 2. PLACA MÃE: ° Placa-mãe da mesma marca do FABRICANTE do equipamento, desenvolvida especificamente para o modelo ofertado. Não serão aceitas placas de livre comercialização no mercado. Comprovar junto a proposta de preços; ° BIOS desenvolvido pelo mesmo FABRICANTE do equipamento ou ter direitos de copyright sobre o mesmo, comprovado através de declaração fornecido pelo FABRICANTE do equipamento, não sendo aceitas soluções em regime de OEM ou customizadas. Apresentar comprovação do fabricante especifica para este processo licitatório juntamente com a proposta demonstrando que o produto está em linha de fabricação; ° O fabricante deve ser registrado na \"Membership List\" do Unified Extensible Firmware Interface Fórum, acessível pelo website www.uefi.org/members, estando na categoria \"Promoters\", de forma a atestar que os seus equipamentos estão em conformidade com a especificação UEFI 2.x ou superior. ° Suporte para dois processadores, no mínimo. ° No mínimo 32 slots de memória, DDR5 ° Suporta módulos refrigerados por líquido que possibilitam pontos de design térmico (TDPs) mais altos. ° Oferece suporte a até 3 GPUs1 de largura única (SW) para acelerar cargas de trabalho que fazem uso intenso de gráficos. ° Sistema de ventilação padrão com 7 ventoinhas hot-swap ° Taxas de transferência de dados avançadas e velocidades de rede mais altas do barramento de expansão serial PCIe Gen5, com até 2 x16 PCIe Gen5 e dois slots OCP. ° Expansões PCIe: 2 x16 Gen5, até dois slots OCP 3.0; ° Suporte para UEFI Secure Boot e Secure Start. Root of trust de silício imutável. Cadeia de suprimentos confiável opcional, modos de segurança iLO, TPM, detecção de intrusão de chassi e kits de travamento de moldura. anunciado em listas de fim de vida (End of Sale, End of Life). ° Anexar documentação técnica detalhada oficial do fabricante, contemplando os requisitos solicitados; ° Fornecimento por empresa autorizada oficialmente pelo fabricante a comerciali",
+              "unidade": "UND",
+              "quantidade": "5,00",
+              "valor_referencia": "40.797,74"
+            }
+          ]
+        },
+        {
+          "numero": "2",
+          "titulo": "SERVIDOR STORAGE DE 40TB:Fan System: 1x 120mm Painel de LCD: Sim Processador: CPU incorporada de quatro núcleos (Quad-Core) a 2,3 GHz - 3,8 GHz Turbo; Arquitetura CPU: x64 64-bit; Frequência CPU: Quatro núcleos 2.3GHz (burst up 3.8 GHz). Memória: Memória",
+          "fase": "HABILITAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "109.583,20",
+          "vencedor": "ELLOELLA DISTRIBUIDORA LTDA",
+          "melhor_oferta": "371.777,60",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "SERVIDOR STORAGE DE 40TB:Fan System: 1x 120mm Painel de LCD: Sim Processador: CPU incorporada de quatro núcleos (Quad-Core) a 2,3 GHz - 3,8 GHz Turbo; Arquitetura CPU: x64 64-bit; Frequência CPU: Quatro núcleos 2.3GHz (burst up 3.8 GHz). Memória: Memória ECC de classe de servidor DDR5-4800 (Máx. 64GB); Slots Quad M.2 para SSDs NVMe – Desempenho duplicado com PCIe 4.0; Memória no mínimo de 16GB ECC DDR5-4800 SO-DIMM; Módulo de memória pré-instalado: 16GB (1x 16GB); Memória 2 Slots mínimo; Memória expansível 64GB ou superior; Memória flash: 8GB eMMC. Armazenamento: Inclui 10 unidades de 4TB de armazenamento cada. Drive com mínimo de 10 Bays; M.2 unidades Slots: 4; Tipo de unidade compatível: 3.5\" SATA HDD - 2.5\" SATA HDD - 2.5\" SATA SSD - M.2 2280 NVMe; Baias mínimo de unidade de expansão: 22; Suporta discos hot-swap: Sim. Conectividade: 2x 5 Gigabit Ethernet (5G/2.5G/1G/100M) 2x 10 Gigabit Ethernet (10G/2.5G/1G/100M) 2 portas USB4 a 40 Gbps 3x USB 3.2 Gen 2 Tipo A a 10 Gbps Suporta Wake on LAN e Wake on WAN (5 GbE) Slots PCIe de expansão: PCIe 4.0, x4 link, (for optional 10 GbE card) Fonte de alimentação: Unidade de Alimentação / Adaptador: 250w x1; Tensão de alimentação de entrada: 100V to 240V AC. Certificação: FCC, CE, VCCI, BSMI, C-TICK, KCC, BIS, CCC, UKCA Compatibilidade: Servidor NAS Asustor AS6810T - 40TB - AMD Ryzen V3C14 - 16GB DDR5 - 2x 10GBe - 2x 2,5 GbE - Inclui 10 HDs NAS de 4TB",
+              "unidade": "UND",
+              "quantidade": "5,00",
+              "valor_referencia": "21.916,64"
+            }
+          ]
+        },
+        {
+          "numero": "3",
+          "titulo": "PLACA BACKPLANE COM 4 BAIAS PARA HD OU SSD DE 2.5 POLEGADAS - BACKPLANE BOARD 00FJ755:Compatibilidade: Compatível com servidor Lenovo/IBM x3550 M5. EC: N34447B. SKU/PN/Número de Peça: 00FJ755. Características Adicionais: Suporte para discos rígidos ou SSD",
+          "fase": "HABILITAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "4.798,00",
+          "vencedor": "ELLOELLA DISTRIBUIDORA LTDA",
+          "melhor_oferta": "2.243,20",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "PLACA BACKPLANE COM 4 BAIAS PARA HD OU SSD DE 2.5 POLEGADAS - BACKPLANE BOARD 00FJ755:Compatibilidade: Compatível com servidor Lenovo/IBM x3550 M5. EC: N34447B. SKU/PN/Número de Peça: 00FJ755. Características Adicionais: Suporte para discos rígidos ou SSDs de 2.5 polegadas, ideal para expansão de armazenamento em servidores de alta performance.",
+              "unidade": "UND",
+              "quantidade": "2,00",
+              "valor_referencia": "2.399,00"
+            }
+          ]
+        },
+        {
+          "numero": "4",
+          "titulo": "CABO SATA SAS SFF-8643 PARA SFF-8643:Descrição: Cabo de conexão interna, tipo SFF-8643 para SFF-8643, com 4 vias. Compatibilidade: Compatível com a Backplane Board 00FJ755. Características Adicionais: Projetado para conectar adaptadores de barramento host",
+          "fase": "INTERPOSIÇÃO DE RECURSOS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "4.968,32",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "CABO SATA SAS SFF-8643 PARA SFF-8643:Descrição: Cabo de conexão interna, tipo SFF-8643 para SFF-8643, com 4 vias. Compatibilidade: Compatível com a Backplane Board 00FJ755. Características Adicionais: Projetado para conectar adaptadores de barramento host ou controladores RAID com SFF-8643 a dispositivos de armazenamento com SFF-8643. Cabo SAS mini-SAS HD SFF-8643 para 8643",
+              "unidade": "UND",
+              "quantidade": "32,00",
+              "valor_referencia": "155,26"
+            }
+          ]
+        },
+        {
+          "numero": "5",
+          "titulo": "GAVETA/BANDEJA/CADDY PARA HD OU SSD SAS/SATA 2.5\":Descrição: Gaveta ou bandeja para instalação de HD ou SSD de 2.5 polegadas. Compatibilidade: Compatível com servidor Lenovo/IBM x3550 M5. PN/Modelo/Número de Peça: 00E7600. EC: L33552. Características Adic",
+          "fase": "INTERPOSIÇÃO DE RECURSOS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "889,20",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "GAVETA/BANDEJA/CADDY PARA HD OU SSD SAS/SATA 2.5\":Descrição: Gaveta ou bandeja para instalação de HD ou SSD de 2.5 polegadas. Compatibilidade: Compatível com servidor Lenovo/IBM x3550 M5. PN/Modelo/Número de Peça: 00E7600. EC: L33552. Características Adicionais: Suporte para discos rígidos ou SSDs de 2.5 polegadas, facilitando a substituição e manutenção de unidades de armazenamento.",
+              "unidade": "UND",
+              "quantidade": "12,00",
+              "valor_referencia": "74,10"
+            }
+          ]
+        },
+        {
+          "numero": "6",
+          "titulo": "SSD 960GB PARA SERVIDORES:Compatibilidade - R710 R720 R730 R740 T710 T720 T730 - Lenovo x3550 M5 - 8869AC1 - Qualquer equipamento com interface SATA 3 - 6Gbps. Especificações Técnicas: - Capacidade: 960 GB - Modelo: D3-S4510 Uso: Servidores - Fator de for",
+          "fase": "HABILITAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "34.849,50",
+          "vencedor": "ZC MATINS COMERCIO DE ALIMENTOS E TRANSPORTES EIRELI",
+          "melhor_oferta": "21.250,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "SSD 960GB PARA SERVIDORES:Compatibilidade - R710 R720 R730 R740 T710 T720 T730 - Lenovo x3550 M5 - 8869AC1 - Qualquer equipamento com interface SATA 3 - 6Gbps. Especificações Técnicas: - Capacidade: 960 GB - Modelo: D3-S4510 Uso: Servidores - Fator de forma: 2.5\" 7mm - Interface: SATA 3.0 6Gb/S - Leitura sequencial: (até) 560 MB / s - Gravação sequencial: (até) 510 MB / s - Nand Flash Memory Type: 64-Layer TLC 3D NAND - Mtbf: 2 milhões de horas - Power Consumption: 3.0 Watt - SSD Endurance: 5.8 PBW - 4kb Random Read: 96000 Iops - 4kb Random Write: 51000 Iops Referência: Marca: DELL Fabricante: INTEL",
+              "unidade": "UND",
+              "quantidade": "25,00",
+              "valor_referencia": "1.393,98"
+            }
+          ]
+        },
+        {
+          "numero": "7",
+          "titulo": "SSD 1.92 TB INTEL D3-S4510 SERIES:Descrição: Série: Intel SSD D3 Series Capacidade: 1.92 TB Tipo de litografia: 64-Layer TLC 3D NAND Condições para uso: Para servidores - Server/Enterprise Especificações de desempenho: Leitura sequencial (até): 560 MB/s G",
+          "fase": "HABILITAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "84.391,36",
+          "vencedor": "ZC MATINS COMERCIO DE ALIMENTOS E TRANSPORTES EIRELI",
+          "melhor_oferta": "52.800,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "SSD 1.92 TB INTEL D3-S4510 SERIES:Descrição: Série: Intel SSD D3 Series Capacidade: 1.92 TB Tipo de litografia: 64-Layer TLC 3D NAND Condições para uso: Para servidores - Server/Enterprise Especificações de desempenho: Leitura sequencial (até): 560 MB/s Gravação sequencial (até): 510 MB/s Energia - ativa: 3.2W Energia - ociosa: 1.1W Confiabilidade Vibração - operacional: 2.17 GRMS Vibração - não-operacional: 3.13 GRMS Choque (operacional e não operacional): 1000 G/0.5 msec Faixa de temperatura operacional: 0C to 70C Temperatura de operação (Máxima): 70 C Temperatura de operação (Mínima): 0 C Classificação de resistência (gravações no período de vida): 6.5 PBW Tempo médio entre falhas (MTBF): 2 million hours Taxa de erro de bits incorrigíveis (UBER): 1 sector per 10^17 bits read Especificações de encapsulamento Fator de forma: 2.5 7mm Interface: SATA 3.0 6Gb/S",
+              "unidade": "UND",
+              "quantidade": "32,00",
+              "valor_referencia": "2.637,23"
+            }
+          ]
+        },
+        {
+          "numero": "8",
+          "titulo": "PROCESSADOR INTEL XEON® E5-2667 V4:Especificações Técnicas: Geração: Intel Xeon processor E5-2600 v4 product family (Broadwell-EP) Número de núcleos físicos: 8 (oito) Número de threads: 16 (dezesseis) Frequência base: 3,20 GHz Frequência Max Turbo: Até 3,",
+          "fase": "HABILITAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "3.679,96",
+          "vencedor": "ELLOELLA DISTRIBUIDORA LTDA",
+          "melhor_oferta": "3.400,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "PROCESSADOR INTEL XEON® E5-2667 V4:Especificações Técnicas: Geração: Intel Xeon processor E5-2600 v4 product family (Broadwell-EP) Número de núcleos físicos: 8 (oito) Número de threads: 16 (dezesseis) Frequência base: 3,20 GHz Frequência Max Turbo: Até 3,60 GHz Cache L3: 25 MB Litografia: 14 nm Socket compatível: LGA 2011-v3 Suporte à memória: DDR4 até 2400 MHz, com suporte à memória ECC TDP (Potência térmica): 135 Watts Tecnologias suportadas: Intel® Hyper-Threading Intel® Turbo Boost Technology 2.0 Intel® Virtualization Technology (VT-x e VT-d) Intel® AES New Instructions (Intel® AES-NI) Intel® Trusted Execution Technology (Intel® TXT) Referência: Marca: Intel Xeon® E5-2667 v4",
+              "unidade": "PAR",
+              "quantidade": "4,00",
+              "valor_referencia": "919,99"
+            }
+          ]
+        },
+        {
+          "numero": "9",
+          "titulo": "MEMORIA SERVIDOR 32GB DDR4 2400 ECC RDIMM 2RX4:Especificação Tipo de Memoria: DDR4 Memory Pinagem e Modelo: 288Pin Long-DIMM 32GB 2Rx4 2G x 72-Bit PC4-2400 Frequencia: DDR4-2400 Função: ECC Registrada (RDIMM) Capacidade: 32GB Voltagem: 1.2V CL: 17",
+          "fase": "HABILITAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "9.525,36",
+          "vencedor": "ZC MATINS COMERCIO DE ALIMENTOS E TRANSPORTES EIRELI",
+          "melhor_oferta": "7.800,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "MEMORIA SERVIDOR 32GB DDR4 2400 ECC RDIMM 2RX4:Especificação Tipo de Memoria: DDR4 Memory Pinagem e Modelo: 288Pin Long-DIMM 32GB 2Rx4 2G x 72-Bit PC4-2400 Frequencia: DDR4-2400 Função: ECC Registrada (RDIMM) Capacidade: 32GB Voltagem: 1.2V CL: 17",
+              "unidade": "UND",
+              "quantidade": "12,00",
+              "valor_referencia": "793,78"
+            }
+          ]
+        },
+        {
+          "numero": "10",
+          "titulo": "FONTE PARA LENOVO SYSTEM X3550 M5 550W BIVOLT:Especificações do Produto: * Produto: Fonte De Alimentação; * Potência: 550W; * Tensão: Bivolt Automático; * Peso do Produto: 0,76Kg; * Diâmetro do Ventilador: 4cm; * Dimensões do Produto: 23x8x3,7cm; * Tipo d",
+          "fase": "HABILITAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "6.144,64",
+          "vencedor": "ZC MATINS COMERCIO DE ALIMENTOS E TRANSPORTES EIRELI",
+          "melhor_oferta": "3.600,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "FONTE PARA LENOVO SYSTEM X3550 M5 550W BIVOLT:Especificações do Produto: * Produto: Fonte De Alimentação; * Potência: 550W; * Tensão: Bivolt Automático; * Peso do Produto: 0,76Kg; * Diâmetro do Ventilador: 4cm; * Dimensões do Produto: 23x8x3,7cm; * Tipo de Modulação: Modular; * Quantidade Conector SATA: 0; * Quantidade Conector PCI-E: 0; * Quantidade Conector Placa-Mãe: 1; * Quantidade de Pinos Placa-Mãe: 24; * Tipo da Fonte de Alimentação: ATX; * Tipo de Refrigeração: Refrigeração Padrão, Por Ar. * Produto genuíno, com certificação de origem e garantia oficial do fabricante ou distribuidor autorizado. Informações Adicionais: * Condição: Novo; * Garantia: 12 Meses; * Itens Inclusos: 1 Fonte para Servidor Referência: IBM FSD042",
+              "unidade": "UND",
+              "quantidade": "4,00",
+              "valor_referencia": "1.536,16"
+            }
+          ]
+        },
+        {
+          "numero": "11",
+          "titulo": "COOLER FAN SERVIDOR LENOVO SYSTEM X3550 M5:Descrição: Lenovo x3550 M5 System Fan IBM HOT SWAP FAN FOR LENOVO SYSTEM X3550 M5 00KC909 / 00FK455 /0KC909 / 0FK455/00KC800",
+          "fase": "INTERPOSIÇÃO DE RECURSOS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "554,20",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "COOLER FAN SERVIDOR LENOVO SYSTEM X3550 M5:Descrição: Lenovo x3550 M5 System Fan IBM HOT SWAP FAN FOR LENOVO SYSTEM X3550 M5 00KC909 / 00FK455 /0KC909 / 0FK455/00KC800",
+              "unidade": "UND",
+              "quantidade": "2,00",
+              "valor_referencia": "277,10"
+            }
+          ]
+        },
+        {
+          "numero": "12",
+          "titulo": "DISSIPADOR PARA PROCESSSADOR SERVIDOR LENOVO X3550 M5:Aplicação: X3550 M5 Material: Alumínio PN: 00KC908 00KC911 00KC912",
+          "fase": "HABILITAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "970,00",
+          "vencedor": "ZC MATINS COMERCIO DE ALIMENTOS E TRANSPORTES EIRELI",
+          "melhor_oferta": "700,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "DISSIPADOR PARA PROCESSSADOR SERVIDOR LENOVO X3550 M5:Aplicação: X3550 M5 Material: Alumínio PN: 00KC908 00KC911 00KC912",
+              "unidade": "UND",
+              "quantidade": "2,00",
+              "valor_referencia": "485,00"
+            }
+          ]
+        },
+        {
+          "numero": "13",
+          "titulo": "CONTROLADORA SERVERAID M1115 SAS/SATA- SERVIDOR LENOVO SYSTEM X3550 M5:Especificações técnicas: ° PCI de perfil baixo, meio comprimento - fator de forma MD2 ° Oito portas SAS/SATA internas de 6 Gbps ° Dois conectores Mini-SAS internos (SFF-8087) ° Taxa de",
+          "fase": "INTERPOSIÇÃO DE RECURSOS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "2.069,98",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "CONTROLADORA SERVERAID M1115 SAS/SATA- SERVIDOR LENOVO SYSTEM X3550 M5:Especificações técnicas: ° PCI de perfil baixo, meio comprimento - fator de forma MD2 ° Oito portas SAS/SATA internas de 6 Gbps ° Dois conectores Mini-SAS internos (SFF-8087) ° Taxa de transferência de até 6 Gbps por porta ° Processador IBM PowerPC® de 533 MHz com controlador LSI SAS2008 RAID on Chip (ROC) de 6 Gbps ° Interface de host PCI Express 2.0 x8 ° Suporte para níveis de RAID 0, 1 e 10 padrão; suporte para RAID 5 e 50 com atualização opcional ° Zero Cache do Controlador, sem backup de bateria/flash ° Suporte para unidades de disco rígido (HDDs) e unidades de estado sólido (SSDs) SAS e SATA ° Suporte para unidades de troca simples e hot swap ° Suporte para HDDs e SSDs SAS e SATA intercalados. Não é recomendável misturar diferentes tipos de unidades no mesmo conjunto (grupo de unidades). ° Conexão com até 32 unidades internas, dependendo do modelo do servidor (até 16 unidades físicas, incluindo hot spares, podem ser usadas em configurações RAID. As unidades acima do limite de 16 são usadas como HDDs independentes em um ambiente não RAID). ° Suporte opcional para unidades com criptografia automática (SEDs) com o MegaRAID SafeStore. ° Suporte para até 16 unidades virtuais, até 16 grupos de unidades, até 16 unidades virtuais por grupo de unidades e até 16 unidades físicas por grupo de unidades. ° Suporte para unidades virtuais de até 64 TB. ° Tamanho de faixa configurável de até 64 KB. ° Compatível com a configuração de Formato de Dados de Disco (DDF) em disco (COD). ° Suporte a S.M.A.R.T. ° Software de gerenciamento MegaRAID Storage Manager. Referência: Controladora ServeRAID M1115 SAS/SATA – p/n: TIPS0856",
+              "unidade": "UND",
+              "quantidade": "2,00",
+              "valor_referencia": "1.034,99"
+            }
+          ]
+        },
+        {
+          "numero": "14",
+          "titulo": "HD RED - STORAGE NAS - SATA - 4TB:Destinado às demandas de armazenamento de dados de sistemas de NAS (Network Attached Storage), que tenha desempenho elevado, confiabilidade e operação contínua (24x7), com suporte a cargas de trabalho intensas. CARACTERÍS",
+          "fase": "HABILITAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "47.019,42",
+          "vencedor": "ZC MATINS COMERCIO DE ALIMENTOS E TRANSPORTES EIRELI",
+          "melhor_oferta": "31.850,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "HD RED - STORAGE NAS - SATA - 4TB:Destinado às demandas de armazenamento de dados de sistemas de NAS (Network Attached Storage), que tenha desempenho elevado, confiabilidade e operação contínua (24x7), com suporte a cargas de trabalho intensas. CARACTERÍSTICAS TÉCNICAS: ° Tipo: Disco Rígido Interno (HDD) ° Capacidade: 4TB ° Interface: SATA III (6 Gb/s) ° Velocidade de Rotação: 5400 RPM ou superior ° Cache: 256 MB ° Formato: 3,5 polegadas ° Suporte a operação contínua (24x7) ° Projetado para sistemas NAS com até 8 baias ° Tecnologia de gravação: CMR ° Tecnologia NASware 3.0 para maior compatibilidade e desempenho em ambientes multiusuário ° Carga de trabalho suportada: 180 TB/ano ° MTBF (Tempo médio entre falhas): 1 milhão de horas ° Tolerância a vibração: aprimorada com sensores de vibração rotacional (RV) GARANTIA: ° Garantia de 3 (cinco) anos, conforme política do fabricante. REFERÊNCIAS: ° Western Digital WD40EFPX ou WD4005FFBX ° HD Seagate IronWolf 4TB - Modelo: ST4000VN006",
+              "unidade": "UND",
+              "quantidade": "49,00",
+              "valor_referencia": "959,58"
+            }
+          ]
+        },
+        {
+          "numero": "15",
+          "titulo": "HD PURPLE PARA NVR CÂMERAS, 4TB, 5400 RPM:Especificações: ° Capacidade: 4TB ° Fator de forma: 3.5 polegadas ° Formato avançado ° Cumpre as normas RoHS Recursos do produto: ° Câmera suportadas: Até 64 ° Número máximo de compartimentos para unidades suporta",
+          "fase": "HABILITAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "160.694,00",
+          "vencedor": "ZC MATINS COMERCIO DE ALIMENTOS E TRANSPORTES EIRELI",
+          "melhor_oferta": "124.000,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "HD PURPLE PARA NVR CÂMERAS, 4TB, 5400 RPM:Especificações: ° Capacidade: 4TB ° Fator de forma: 3.5 polegadas ° Formato avançado ° Cumpre as normas RoHS Recursos do produto: ° Câmera suportadas: Até 64 ° Número máximo de compartimentos para unidades suportado: 8+ ° Componentes resistentes a manchas Desempenho: ° Cache: 64 MB ° Classe de desempenho: Classe de 5400 RPM ° Taxa de transferência da interface (máx.): ° Buffer para host: 6 Gb/s ° Host para/desde drive (mantido): 150 MB/s Confiabilidade/Integridade dos dados: ° Ciclos de carga e descarga: 300.000 ° Carga de trabalho nominal anualizada: 180 TB/ano ° Erros de leitura irrecuperáveis por bits lidos: <1 em 10 Gerenciamento de energia: ° Leitura/Gravação: 5,1 ° Ocioso: 4,5 ° Standby e dormindo: 0,4 Conteúdo da Embalagem: - HD PURPLE 4TB",
+              "unidade": "UND",
+              "quantidade": "200,00",
+              "valor_referencia": "803,47"
+            }
+          ]
+        },
+        {
+          "numero": "16",
+          "titulo": "NOBREAK 15KVA:Topologia: Online monofásico Forma de onda: Senoidal pura Transformador: ISOLADOR Níveis de proteção: 1. Queda de rede (Blackout); 2. Ruído de rede elétrica; 3. Sobretensão de rede elétrica; 4. Subtensão de rede elétrica; 5. Surtos de tensão",
+          "fase": "HABILITAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "70.027,52",
+          "vencedor": "VLP NOBREAKS E ESTABILIZADORES LTDA",
+          "melhor_oferta": "70.000,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "NOBREAK 15KVA:Topologia: Online monofásico Forma de onda: Senoidal pura Transformador: ISOLADOR Níveis de proteção: 1. Queda de rede (Blackout); 2. Ruído de rede elétrica; 3. Sobretensão de rede elétrica; 4. Subtensão de rede elétrica; 5. Surtos de tensão na rede; 6. Correção linear de variação da rede elétrica; 7. Variação de frequência da rede elétrica; 8. Distorção harmônica da rede elétrica; 9. Afundamento de tensão (SAG). Expansão de autonomia: Possibilidade de expandir o tempo de autonomia utilizando os módulos de bateria externos, que podem facilmente ser conectados ao nobreak (UPS) Display LCD: Permite realizar leituras e configurações do sistema de forma prática e intuitiva, facilitando o diagnóstico de falhas e tomada de decisão efetiva. Sistema Hot Swap de baterias: Permite realizar a substituição das baterias sem a necessidade de desligar a carga crítica, eliminando a necessidade de paradas",
+              "unidade": "UND",
+              "quantidade": "4,00",
+              "valor_referencia": "17.506,88"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-031-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "1673/2025",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "HABILITAÇÃO",
+      "condutor": "SERGIO CARNEIRO CAVALCANTI DE AZEVEDO",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "REGISTRO DE PREÇO",
+      "publicacao": "09/03/2026 17:02",
+      "inicio_recepcao": "11/03/2026 08:00",
+      "fim_recepcao": "23/03/2026 08:15",
+      "inicio_disputa": "23/03/2026 08:30",
+      "objeto": "Contratação de empresa especializada em fornecimento de TUBOS EM POLIETILENO DE ALTA DENSIDADE (PEAD) (material de consumo), a fim de atender as demandas da Secretaria Municipal de Infraestrutura e Serviços Urbanos.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DNnw7KpJUZGBgA6qquwhLOMjHI398j9N8GTva610ly5YSj43uIAe5_n5U_ZDOsiy1evUece6NELSjXHgjmD2VueLDobRu%2F2_6Mwz7h%2FQQvf4%3D",
+      "total_lotes": 4,
+      "total_itens": 4,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "9900515230 TUBO PEAD 400 MM:tubo extrudado, parede dupla em pead (polietileno de alta densidade), com união ponta e bolsa, liso internamente e corrugado externamente, em barras de 6m de comprimento, cor preta, pigmentada com negro de fumo, com diâmetro no",
+          "fase": "HABILITAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "385.983,50",
+          "vencedor": "DIPAR FERRAGENS EIRELI",
+          "melhor_oferta": "385.983,50",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515230 TUBO PEAD 400 MM:tubo extrudado, parede dupla em pead (polietileno de alta densidade), com união ponta e bolsa, liso internamente e corrugado externamente, em barras de 6m de comprimento, cor preta, pigmentada com negro de fumo, com diâmetro nominal DN/DI 400 mm (baseado no diâmetro interno), classe de rigidez sn4, conforme norma DNIT 094/2014",
+              "unidade": "UND",
+              "quantidade": "350,00",
+              "valor_referencia": "1.102,81"
+            }
+          ]
+        },
+        {
+          "numero": "2",
+          "titulo": "9900515231 TUBO PEAD 800 MM:tubo extrudado, parede dupla em pead (polietileno de alta densidade), com união ponta e bolsa, liso internamente e corrugado externamente, em barras de 6m de comprimento, cor preta, pigmentada com negro de fumo, com diâmetro no",
+          "fase": "HABILITAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "858.340,00",
+          "vencedor": "DIPAR FERRAGENS EIRELI",
+          "melhor_oferta": "858.340,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515231 TUBO PEAD 800 MM:tubo extrudado, parede dupla em pead (polietileno de alta densidade), com união ponta e bolsa, liso internamente e corrugado externamente, em barras de 6m de comprimento, cor preta, pigmentada com negro de fumo, com diâmetro nominal DN/DI 800 mm (baseado no diâmetro interno), classe de rigidez sn4, conforme norma DNIT 094/2014",
+              "unidade": "UND",
+              "quantidade": "200,00",
+              "valor_referencia": "4.291,70"
+            }
+          ]
+        },
+        {
+          "numero": "3",
+          "titulo": "9900515232 TUBO PEAD 1500 MM:tubo extrudado, parede dupla em pead (polietileno de alta densidade), com união ponta e bolsa, liso internamente e corrugado externamente, em barras de 6m de comprimento, cor preta, pigmentada com negro de fumo, com diâmetro n",
+          "fase": "HABILITAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "905.640,00",
+          "vencedor": "DIPAR FERRAGENS EIRELI",
+          "melhor_oferta": "920.459,91",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515232 TUBO PEAD 1500 MM:tubo extrudado, parede dupla em pead (polietileno de alta densidade), com união ponta e bolsa, liso internamente e corrugado externamente, em barras de 6m de comprimento, cor preta, pigmentada com negro de fumo, com diâmetro nominal DN/DI 1500 mm (baseado no diâmetro interno), classe de rigidez sn2, conforme norma DNIT 094/2014",
+              "unidade": "UND",
+              "quantidade": "60,00",
+              "valor_referencia": "15.094,00"
+            }
+          ]
+        },
+        {
+          "numero": "4",
+          "titulo": "36839 TUBO PEAD 300 MM:: tubo extrudado, parede dupla em pead (polietileno de alta densidade), com união ponta e  bolsa, liso internamente e corrugado externamente, em  barras de 6m de comprimento, cor preta, pigmentada com  negro de fumo, com diâmetro no",
+          "fase": "HABILITAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "134.612,00",
+          "vencedor": "PRISMA COMERCIO DE MATERIAIS DE CONSTRUÇÃO E OBRAS DE ENGENHARIA CIVIL EIRELI",
+          "melhor_oferta": "105.000.000,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "36839 TUBO PEAD 300 MM:: tubo extrudado, parede dupla em pead (polietileno de alta densidade), com união ponta e bolsa, liso internamente e corrugado externamente, em barras de 6m de comprimento, cor preta, pigmentada com negro de fumo, com diâmetro nominal dn/di 300 mm (baseado no diâmetro interno), classe de rigidez sn4, conforme norma dnit 094/2014.",
+              "unidade": "UND",
+              "quantidade": "200,00",
+              "valor_referencia": "673,06"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CE-025-2025",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "1693/2025",
+      "modalidade": "CONCORRÊNCIA ELETRÔNICA",
+      "situacao": "HABILITAÇÃO",
+      "condutor": "DAVIDSON ARAUJO SANTOS",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO PARCELADA",
+      "publicacao": "30/12/2025 16:49",
+      "inicio_recepcao": "23/01/2026 08:00",
+      "fim_recepcao": "23/03/2026 08:15",
+      "inicio_disputa": "23/03/2026 08:30",
+      "objeto": "Contratação de empresa especializada em execução de obras de drenagem e pavimentação dos bairros Bonadiman, Eixo Sul, Portal Sul, Nova Canaã, Jardim Liberdade, Estância Biquíni, Loteamento dos Pioneiros, Ouro Verde, Tancredo Neves e Alto do Tancredo, bem como, o distrito de Santo Antônio, do município de Teixeira de Freitas – BA.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5D0XHBhrCJyUbP0iX1jMEqY9jZf6ohydxOPJzk4tjgCfbzsh3gEYZOqk4rDa94WsDv4rAEJjtYyDWfCQHkVj_AjJMCGHhKVOFh1wDdJhkZEh4%3D",
+      "total_lotes": 1,
+      "total_itens": 12,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "EXECUÇÃO DE OBRAS DE DRENAGEM E PAVIMENTAÇÃO DOS BAIRROS BONADIMAN, EIXO SUL, PORTAL SUL, NOVA CANAÃ, JARDIM LIBERDADE, ESTÂNCIA BIQUÍNI, LOTEAMENTO DOS PIONEIROS, OURO VERDE, TANCREDO NEVES E ALTO DO TANCREDO, BEM COMO, O DISTRITO DE SANTO ANTÔNIO",
+          "fase": "HABILITAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "1.000,00",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "66.345.867,30",
+          "vencedor": "CBS CONSTRUTORA BAHIANA DE SANEAMENTO LTDA.",
+          "melhor_oferta": "58.800.000,00",
+          "total_itens": 12,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "ADMINISTRAÇÃO LOCAL DE OBRA",
+              "unidade": "UNID.",
+              "quantidade": "1,00",
+              "valor_referencia": "742.223,88"
+            },
+            {
+              "numero": "2",
+              "especificacao": "SERVIÇOS PRELIMINARES",
+              "unidade": "UNID.",
+              "quantidade": "1,00",
+              "valor_referencia": "139.119,50"
+            },
+            {
+              "numero": "3",
+              "especificacao": "ALTO DO TANCREDO",
+              "unidade": "UNID.",
+              "quantidade": "1,00",
+              "valor_referencia": "2.807.567,57"
+            },
+            {
+              "numero": "4",
+              "especificacao": "BONADIMAN",
+              "unidade": "UNID.",
+              "quantidade": "1,00",
+              "valor_referencia": "15.437.703,67"
+            },
+            {
+              "numero": "5",
+              "especificacao": "EIXO SUL",
+              "unidade": "UNID.",
+              "quantidade": "1,00",
+              "valor_referencia": "6.434.067,78"
+            },
+            {
+              "numero": "6",
+              "especificacao": "ESTÂNCIA BIQUÍNI",
+              "unidade": "UNID.",
+              "quantidade": "1,00",
+              "valor_referencia": "17.610.482,56"
+            },
+            {
+              "numero": "7",
+              "especificacao": "JARDIM LIBERDADE",
+              "unidade": "UNID.",
+              "quantidade": "1,00",
+              "valor_referencia": "8.056.652,97"
+            },
+            {
+              "numero": "8",
+              "especificacao": "LOTEAMENTO DOS PIONEIROS/OURO VERDE",
+              "unidade": "UNID.",
+              "quantidade": "1,00",
+              "valor_referencia": "7.439.215,87"
+            },
+            {
+              "numero": "9",
+              "especificacao": "NOVA CANAÃ",
+              "unidade": "UNID.",
+              "quantidade": "1,00",
+              "valor_referencia": "421.938,45"
+            },
+            {
+              "numero": "10",
+              "especificacao": "PORTAL SUL",
+              "unidade": "UNID.",
+              "quantidade": "1,00",
+              "valor_referencia": "4.725.465,38"
+            },
+            {
+              "numero": "11",
+              "especificacao": "SANTO ANTÔNIO",
+              "unidade": "UNID.",
+              "quantidade": "1,00",
+              "valor_referencia": "2.201.571,24"
+            },
+            {
+              "numero": "12",
+              "especificacao": "TANCREDO NEVES",
+              "unidade": "UNID.",
+              "quantidade": "1,00",
+              "valor_referencia": "329.858,43"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CE-023-2025",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "1615/2025",
+      "modalidade": "CONCORRÊNCIA ELETRÔNICA",
+      "situacao": "FRACASSADO",
+      "condutor": "DAVIDSON ARAUJO SANTOS",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO PARCELADA",
+      "publicacao": "26/11/2025 20:38",
+      "inicio_recepcao": "27/11/2025 08:00",
+      "fim_recepcao": "05/01/2026 08:15",
+      "inicio_disputa": "05/01/2026 08:30",
+      "objeto": "Contratação de empresa especializada em serviços de engenharia para o fornecimento de bancas em estruturas metálicas (bancas de frutas e verduras), no município de Teixeira de Freitas – BA.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DwzgkTyWO4EARw4oZy5LnbefyZtQFuEE68xu%2FhbVwSufVNKl5t_jLoxFjvDk%2FW7atDngWpbt8fYHaeKtyvO%2F9iNM%2F_9F6i2C_hHxTR76JqgY%3D",
+      "total_lotes": 1,
+      "total_itens": 1,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "SERVIÇOS DE ENGENHARIA PARA O FORNECIMENTO DE BANCAS EM ESTRUTURAS METÁLICAS (BANCAS DE FRUTAS E VERDURAS)",
+          "fase": "FRACASSADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "1.000,00",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "1.200.887,10",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "ESTRUTURA METÁLICA",
+              "unidade": "UNID.",
+              "quantidade": "1,00",
+              "valor_referencia": "1.200.887,10"
             }
           ]
         }
