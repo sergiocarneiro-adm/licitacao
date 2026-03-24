@@ -73,165 +73,6 @@
         .export-btn { transition: all .15s; }
         .export-btn:hover { transform: translateY(-1px); }
 
-        /* ── SKELETON LOADING ── */
-        @keyframes shimmer {
-            0% { background-position: -400px 0; }
-            100% { background-position: 400px 0; }
-        }
-        .skeleton {
-            background: linear-gradient(90deg, #e2e8f0 25%, #f1f5f9 50%, #e2e8f0 75%);
-            background-size: 800px 100%;
-            animation: shimmer 1.8s infinite ease-in-out;
-            border-radius: 8px;
-        }
-        .dark .skeleton {
-            background: linear-gradient(90deg, #1e293b 25%, #334155 50%, #1e293b 75%);
-            background-size: 800px 100%;
-        }
-        .skeleton-card {
-            background: white;
-            border: 1px solid #e2e8f0;
-            border-radius: 12px;
-            padding: 20px;
-            display: flex;
-            align-items: center;
-            gap: 16px;
-        }
-        .dark .skeleton-card {
-            background: #0f172a;
-            border-color: #1e293b;
-        }
-        .skeleton-circle { width: 40px; height: 40px; border-radius: 12px; flex-shrink: 0; }
-        .skeleton-line { height: 12px; border-radius: 4px; }
-        .skeleton-line-lg { height: 20px; border-radius: 6px; }
-        .skeleton-recent {
-            background: white;
-            border: 1px solid #e2e8f0;
-            border-radius: 12px;
-            padding: 16px;
-        }
-        .dark .skeleton-recent {
-            background: #0f172a;
-            border-color: #1e293b;
-        }
-        .skeleton-table-row {
-            display: flex;
-            gap: 12px;
-            padding: 12px 16px;
-            border-bottom: 1px solid #f1f5f9;
-        }
-        .dark .skeleton-table-row { border-color: #1e293b; }
-
-        /* ── ENTRY ANIMATIONS ── */
-        @keyframes fadeInUp {
-            from { opacity: 0; transform: translateY(16px); }
-            to   { opacity: 1; transform: translateY(0); }
-        }
-        @keyframes fadeInScale {
-            from { opacity: 0; transform: scale(0.95); }
-            to   { opacity: 1; transform: scale(1); }
-        }
-        .anim-fade-up {
-            opacity: 0;
-            animation: fadeInUp 0.45s ease-out forwards;
-        }
-        .anim-fade-scale {
-            opacity: 0;
-            animation: fadeInScale 0.35s ease-out forwards;
-        }
-        .anim-stagger-1 { animation-delay: 0.05s; }
-        .anim-stagger-2 { animation-delay: 0.10s; }
-        .anim-stagger-3 { animation-delay: 0.15s; }
-        .anim-stagger-4 { animation-delay: 0.20s; }
-        .anim-stagger-5 { animation-delay: 0.25s; }
-        .anim-stagger-6 { animation-delay: 0.30s; }
-        .anim-stagger-7 { animation-delay: 0.35s; }
-        .anim-stagger-8 { animation-delay: 0.40s; }
-        tbody tr.anim-fade-up { animation-duration: 0.3s; }
-
-        /* ── FILTER CHIPS ── */
-        .filter-chip {
-            display: inline-flex;
-            align-items: center;
-            gap: 6px;
-            padding: 4px 10px 4px 12px;
-            border-radius: 20px;
-            font-size: 11px;
-            font-weight: 600;
-            background: #eff6ff;
-            color: #1d4ed8;
-            border: 1px solid #bfdbfe;
-            cursor: default;
-            transition: all 0.15s;
-            animation: fadeInScale 0.25s ease-out forwards;
-        }
-        .dark .filter-chip {
-            background: #1e3a5f;
-            color: #93c5fd;
-            border-color: #1e40af;
-        }
-        .filter-chip.ds-compras {
-            background: #f5f3ff;
-            color: #6d28d9;
-            border-color: #c4b5fd;
-        }
-        .dark .filter-chip.ds-compras {
-            background: #2e1065;
-            color: #c4b5fd;
-            border-color: #6d28d9;
-        }
-        .filter-chip .chip-remove {
-            display: inline-flex;
-            align-items: center;
-            justify-content: center;
-            width: 16px;
-            height: 16px;
-            border-radius: 50%;
-            background: rgba(0,0,0,0.08);
-            color: inherit;
-            font-size: 10px;
-            cursor: pointer;
-            transition: background 0.15s;
-            border: none;
-            padding: 0;
-            line-height: 1;
-        }
-        .filter-chip .chip-remove:hover {
-            background: rgba(220,38,38,0.15);
-            color: #dc2626;
-        }
-        .dark .filter-chip .chip-remove:hover {
-            background: rgba(248,113,113,0.2);
-            color: #f87171;
-        }
-        #chips-container {
-            display: flex;
-            flex-wrap: wrap;
-            gap: 6px;
-            min-height: 0;
-            transition: all 0.2s;
-        }
-        #chips-container:empty { display: none; }
-        .chips-wrapper {
-            display: flex;
-            align-items: center;
-            gap: 8px;
-            flex-wrap: wrap;
-        }
-        .chips-clear-all {
-            font-size: 10px;
-            font-weight: 600;
-            color: #94a3b8;
-            cursor: pointer;
-            border: none;
-            background: none;
-            padding: 2px 6px;
-            border-radius: 4px;
-            transition: all 0.15s;
-        }
-        .chips-clear-all:hover { color: #ef4444; background: #fee2e2; }
-        .dark .chips-clear-all:hover { color: #f87171; background: #450a0a; }
-
         /* ── CHAT IA ── */
         #ai-fab { position:fixed; bottom:28px; right:28px; z-index:9998; width:52px; height:52px; border-radius:50%; background:linear-gradient(135deg,#2563eb,#7c3aed); border:none; cursor:pointer; box-shadow:0 4px 20px rgba(37,99,235,.45); display:flex; align-items:center; justify-content:center; transition:transform .2s,box-shadow .2s; }
         #ai-fab:hover { transform:scale(1.08); box-shadow:0 6px 28px rgba(37,99,235,.6); }
@@ -358,44 +199,10 @@
 
 <main class="flex-1 max-w-7xl w-full mx-auto px-4 sm:px-6 lg:px-8 py-8">
 
-    <!-- ── LOADING STATE (Skeleton) ──────────────────────────────── -->
-    <div id="loading-state">
-        <!-- Skeleton stat cards -->
-        <div class="grid grid-cols-2 lg:grid-cols-4 gap-4 mb-6">
-            <div class="skeleton-card"><div class="skeleton skeleton-circle"></div><div class="flex-1 space-y-2"><div class="skeleton skeleton-line-lg w-2/3"></div><div class="skeleton skeleton-line w-1/2"></div></div></div>
-            <div class="skeleton-card"><div class="skeleton skeleton-circle"></div><div class="flex-1 space-y-2"><div class="skeleton skeleton-line-lg w-3/4"></div><div class="skeleton skeleton-line w-1/3"></div></div></div>
-            <div class="skeleton-card"><div class="skeleton skeleton-circle"></div><div class="flex-1 space-y-2"><div class="skeleton skeleton-line-lg w-1/2"></div><div class="skeleton skeleton-line w-2/5"></div></div></div>
-            <div class="skeleton-card"><div class="skeleton skeleton-circle"></div><div class="flex-1 space-y-2"><div class="skeleton skeleton-line-lg w-3/5"></div><div class="skeleton skeleton-line w-1/2"></div></div></div>
-        </div>
-        <!-- Skeleton section label -->
-        <div class="mb-3"><div class="skeleton skeleton-line w-40" style="height:10px"></div></div>
-        <!-- Skeleton recent cards -->
-        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4 mb-8">
-            <div class="skeleton-recent space-y-3"><div class="flex justify-between"><div class="skeleton skeleton-line w-20"></div><div class="skeleton skeleton-line w-16" style="border-radius:20px"></div></div><div class="skeleton skeleton-line w-full"></div><div class="skeleton skeleton-line w-3/4"></div><div class="flex justify-between mt-2"><div class="skeleton skeleton-line w-16"></div><div class="skeleton skeleton-line w-20"></div></div></div>
-            <div class="skeleton-recent space-y-3"><div class="flex justify-between"><div class="skeleton skeleton-line w-20"></div><div class="skeleton skeleton-line w-16" style="border-radius:20px"></div></div><div class="skeleton skeleton-line w-full"></div><div class="skeleton skeleton-line w-2/3"></div><div class="flex justify-between mt-2"><div class="skeleton skeleton-line w-16"></div><div class="skeleton skeleton-line w-20"></div></div></div>
-            <div class="skeleton-recent space-y-3 hidden sm:block"><div class="flex justify-between"><div class="skeleton skeleton-line w-20"></div><div class="skeleton skeleton-line w-16" style="border-radius:20px"></div></div><div class="skeleton skeleton-line w-full"></div><div class="skeleton skeleton-line w-4/5"></div><div class="flex justify-between mt-2"><div class="skeleton skeleton-line w-16"></div><div class="skeleton skeleton-line w-20"></div></div></div>
-            <div class="skeleton-recent space-y-3 hidden lg:block"><div class="flex justify-between"><div class="skeleton skeleton-line w-20"></div><div class="skeleton skeleton-line w-16" style="border-radius:20px"></div></div><div class="skeleton skeleton-line w-full"></div><div class="skeleton skeleton-line w-1/2"></div><div class="flex justify-between mt-2"><div class="skeleton skeleton-line w-16"></div><div class="skeleton skeleton-line w-20"></div></div></div>
-        </div>
-        <!-- Skeleton filter bar -->
-        <div class="bg-white dark:bg-slate-900 rounded-xl border border-slate-200 dark:border-slate-800 p-4 mb-6 shadow-sm">
-            <div class="skeleton skeleton-line w-full" style="height:40px;border-radius:8px"></div>
-            <div class="flex gap-3 mt-3">
-                <div class="skeleton skeleton-line flex-1" style="height:36px;border-radius:8px"></div>
-                <div class="skeleton skeleton-line flex-1" style="height:36px;border-radius:8px"></div>
-                <div class="skeleton skeleton-line flex-1" style="height:36px;border-radius:8px"></div>
-            </div>
-        </div>
-        <!-- Skeleton table -->
-        <div class="bg-white dark:bg-slate-900 rounded-xl border border-slate-200 dark:border-slate-800 shadow-sm overflow-hidden">
-            <div class="px-4 py-3 bg-slate-50 dark:bg-slate-950 border-b border-slate-100 dark:border-slate-800">
-                <div class="skeleton skeleton-line w-32"></div>
-            </div>
-            <div class="skeleton-table-row"><div class="skeleton skeleton-line w-20"></div><div class="skeleton skeleton-line w-24"></div><div class="skeleton skeleton-line flex-1"></div><div class="skeleton skeleton-line w-28"></div><div class="skeleton skeleton-line w-16"></div></div>
-            <div class="skeleton-table-row"><div class="skeleton skeleton-line w-20"></div><div class="skeleton skeleton-line w-24"></div><div class="skeleton skeleton-line flex-1"></div><div class="skeleton skeleton-line w-28"></div><div class="skeleton skeleton-line w-16"></div></div>
-            <div class="skeleton-table-row"><div class="skeleton skeleton-line w-20"></div><div class="skeleton skeleton-line w-24"></div><div class="skeleton skeleton-line flex-1"></div><div class="skeleton skeleton-line w-28"></div><div class="skeleton skeleton-line w-16"></div></div>
-            <div class="skeleton-table-row"><div class="skeleton skeleton-line w-20"></div><div class="skeleton skeleton-line w-24"></div><div class="skeleton skeleton-line flex-1"></div><div class="skeleton skeleton-line w-28"></div><div class="skeleton skeleton-line w-16"></div></div>
-            <div class="skeleton-table-row"><div class="skeleton skeleton-line w-20"></div><div class="skeleton skeleton-line w-24"></div><div class="skeleton skeleton-line flex-1"></div><div class="skeleton skeleton-line w-28"></div><div class="skeleton skeleton-line w-16"></div></div>
-        </div>
+    <!-- ── LOADING STATE ──────────────────────────────────────────── -->
+    <div id="loading-state" class="text-center py-12">
+        <div class="inline-block loading-spinner"></div>
+        <p class="text-slate-500 mt-4">Carregando dados...</p>
     </div>
 
     <!-- ── MAIN CONTENT (hidden until data loads) ──────────────────── -->
@@ -437,14 +244,6 @@
                 </div>
 
                 <div id="filter-row" class="flex flex-wrap gap-3"></div>
-
-                <!-- Filter Chips -->
-                <div id="chips-wrapper" class="chips-wrapper" style="display:none">
-                    <div id="chips-container"></div>
-                    <button class="chips-clear-all" onclick="clearFilters()" title="Limpar todos os filtros">
-                        <i class="fas fa-times-circle mr-1"></i>Limpar tudo
-                    </button>
-                </div>
 
                 <div class="flex gap-1 border-b border-slate-100 dark:border-slate-800">
                     <button data-view="registros" class="view-tab px-4 py-2 text-xs font-semibold text-slate-500 hover:text-blue-600 dark:hover:text-blue-400 transition-colors tab-active">
@@ -953,8 +752,8 @@ function renderStats() {
         ];
     }
 
-    document.getElementById('stats-container').innerHTML = stats.map((s,i) => `
-        <div class="stat-card anim-fade-up anim-stagger-${i+1} bg-white dark:bg-slate-900 rounded-xl border border-slate-200 dark:border-slate-800 p-5 shadow-sm flex items-center gap-4">
+    document.getElementById('stats-container').innerHTML = stats.map(s => `
+        <div class="stat-card bg-white dark:bg-slate-900 rounded-xl border border-slate-200 dark:border-slate-800 p-5 shadow-sm flex items-center gap-4">
             <div class="w-10 h-10 rounded-xl bg-slate-50 dark:bg-slate-800 flex items-center justify-center shrink-0">
                 <i class="fas ${s.icon} ${s.color} text-lg"></i>
             </div>
@@ -987,7 +786,7 @@ function renderRecentCards() {
         const sub = dataset==='licit' ? r.modalidade||'–' : r.modalidade||'–';
         const pubData = dataset==='licit' ? r.publicacao : r.data_publicacao;
         const pubStr = pubData ? pubData.split(' ')[0] : '';
-        return `<div onclick='openModalById("${id.replace(/'/g,"\\'")}") ' class="anim-fade-up anim-stagger-${idx+1} cursor-pointer bg-white dark:bg-slate-900 rounded-xl border border-slate-200 dark:border-slate-800 p-4 shadow-sm hover:border-${dataset==='licit'?'blue':'violet'}-400 dark:hover:border-${dataset==='licit'?'blue':'violet'}-600 hover:shadow-md transition-all">
+        return `<div onclick='openModalById("${id.replace(/'/g,"\\'")}") ' class="cursor-pointer bg-white dark:bg-slate-900 rounded-xl border border-slate-200 dark:border-slate-800 p-4 shadow-sm hover:border-${dataset==='licit'?'blue':'violet'}-400 dark:hover:border-${dataset==='licit'?'blue':'violet'}-600 hover:shadow-md transition-all">
             <div class="flex items-start justify-between gap-2 mb-2">
                 <span class="mono text-xs font-black text-${dataset==='licit'?'blue':'violet'}-600 dark:text-${dataset==='licit'?'blue':'violet'}-400 shrink-0">${id}</span>
                 <span class="px-2 py-0.5 rounded-full text-[9px] font-bold shrink-0 ${badgeClass(st)}">${st||'–'}</span>
@@ -1087,7 +886,7 @@ function render() {
                         const v = parseValor(l.valor_referencia||'');
                         return isNaN(v) ? s : s + v;
                     }, 0);
-                    return `<tr onclick="openModal(${start+idx})" class="anim-fade-up anim-stagger-${Math.min(idx+1,8)} cursor-pointer hover:bg-primary-50 dark:hover:bg-slate-800/40 transition-colors">
+                    return `<tr onclick="openModal(${start+idx})" class="cursor-pointer hover:bg-primary-50 dark:hover:bg-slate-800/40 transition-colors">
                         <td class="px-4 py-3 mono text-xs font-black text-blue-600 dark:text-blue-400 whitespace-nowrap">${hl(r.id,search)||'–'}</td>
                         <td class="px-4 py-3 text-xs text-slate-500 whitespace-nowrap">${hl(r.modalidade,search)||'–'}</td>
                         <td class="px-4 py-3 text-xs text-slate-700 dark:text-slate-300 max-w-xs"><div class="line-clamp-2">${hl(r.objeto,search)||'–'}</div></td>
@@ -1104,9 +903,9 @@ function render() {
             </tr>`;
             body.innerHTML = !slice.length
                 ? `<tr><td colspan="7" class="px-6 py-12 text-center text-slate-400 text-sm">Nenhum resultado encontrado.</td></tr>`
-                : slice.map((it,idx) => {
+                : slice.map(it => {
                     const r = it._proc;
-                    return `<tr onclick='openModalById("${r.id.replace(/'/g,"\\'")}") ' class="anim-fade-up anim-stagger-${Math.min(idx+1,8)} cursor-pointer hover:bg-primary-50 dark:hover:bg-slate-800/40 transition-colors">
+                    return `<tr onclick='openModalById("${r.id.replace(/'/g,"\\'")}") ' class="cursor-pointer hover:bg-primary-50 dark:hover:bg-slate-800/40 transition-colors">
                         <td class="px-4 py-3 mono text-xs font-black text-blue-600 dark:text-blue-400 whitespace-nowrap">${hl(r.id,search)||'–'}</td>
                         <td class="px-4 py-3 mono text-xs text-slate-400 whitespace-nowrap">${it._lote?.numero||'–'}</td>
                         <td class="px-4 py-3 text-xs text-slate-700 dark:text-slate-300 max-w-xs"><div class="line-clamp-2">${hl(it.especificacao,search)||'–'}</div></td>
@@ -1127,7 +926,7 @@ function render() {
             body.innerHTML = !slice.length
                 ? `<tr><td colspan="6" class="px-6 py-12 text-center text-slate-400 text-sm">Nenhum resultado encontrado.</td></tr>`
                 : slice.map((r,idx) => `
-                    <tr onclick="openModal(${start+idx})" class="anim-fade-up anim-stagger-${Math.min(idx+1,8)} cursor-pointer hover:bg-primary-50 dark:hover:bg-slate-800/40 transition-colors">
+                    <tr onclick="openModal(${start+idx})" class="cursor-pointer hover:bg-primary-50 dark:hover:bg-slate-800/40 transition-colors">
                         <td class="px-4 py-3 mono text-xs font-black text-violet-600 dark:text-violet-400 whitespace-nowrap">${hl(r.id,search)||'–'}</td>
                         <td class="px-4 py-3 text-xs text-slate-500 whitespace-nowrap">${hl(r.modalidade,search)||'–'}</td>
                         <td class="px-4 py-3 text-xs text-slate-700 dark:text-slate-300 max-w-xs"><div class="line-clamp-2">${hl(r.objeto,search)||'–'}</div></td>
@@ -1143,11 +942,11 @@ function render() {
             </tr>`;
             body.innerHTML = !slice.length
                 ? `<tr><td colspan="8" class="px-6 py-12 text-center text-slate-400 text-sm">Nenhum resultado encontrado.</td></tr>`
-                : slice.map((it,idx) => {
+                : slice.map(it => {
                     const r = it._reg;
                     const v = parseValor(it.valor||''); const q = parseValor(it.quantidade||'1');
                     const sub = (!isNaN(v)&&!isNaN(q)&&q>0)?v*q:v;
-                    return `<tr onclick='openModalById("${r.id.replace(/'/g,"\\'")}") ' class="anim-fade-up anim-stagger-${Math.min(idx+1,8)} cursor-pointer hover:bg-primary-50 dark:hover:bg-slate-800/40 transition-colors">
+                    return `<tr onclick='openModalById("${r.id.replace(/'/g,"\\'")}") ' class="cursor-pointer hover:bg-primary-50 dark:hover:bg-slate-800/40 transition-colors">
                         <td class="px-4 py-3 mono text-xs font-black text-violet-600 dark:text-violet-400 whitespace-nowrap">${hl(r.id,search)||'–'}</td>
                         <td class="px-4 py-3 mono text-xs text-slate-400 text-center">${it.numero||'–'}</td>
                         <td class="px-4 py-3 text-xs text-slate-700 dark:text-slate-300 max-w-xs"><div class="line-clamp-2">${hl(it.descricao,search)||'–'}</div></td>
@@ -1165,7 +964,6 @@ function render() {
     }
 
     renderPagination(total, pages);
-    renderChips();
 }
 
 // ── PAGINATION ────────────────────────────────────────────────────────────
@@ -1375,63 +1173,6 @@ function closeModal() {
 
 function nextItem() { if (currentModalIndex < filteredData.length-1) openModal(currentModalIndex+1); }
 function prevItem() { if (currentModalIndex > 0) openModal(currentModalIndex-1); }
-
-// ── FILTER CHIPS ──────────────────────────────────────────────────────────
-function renderChips() {
-    const container = document.getElementById('chips-container');
-    const wrapper = document.getElementById('chips-wrapper');
-    if (!container || !wrapper) return;
-
-    const chips = [];
-    const isCompras = dataset === 'compras';
-    const chipClass = isCompras ? 'filter-chip ds-compras' : 'filter-chip';
-
-    if (search) {
-        chips.push(`<span class="${chipClass}">
-            <i class="fas fa-search" style="font-size:9px"></i> "${search}"
-            <button class="chip-remove" onclick="removeChip('search')" title="Remover">✕</button>
-        </span>`);
-    }
-
-    const filterLabels = dataset === 'licit'
-        ? [{ key:'f1', val:f1, label:'Modalidade' }, { key:'f2', val:f2, label:'Situação' }, { key:'f3', val:f3, label:'Ano' }]
-        : [{ key:'f1', val:f1, label:'Modalidade' }, { key:'f2', val:f2, label:'Situação' }, { key:'f3', val:f3, label:'Ano' }, { key:'f4', val:f4, label:'Artigo' }];
-
-    filterLabels.forEach(f => {
-        if (f.val !== 'all') {
-            chips.push(`<span class="${chipClass}">
-                <span style="font-size:9px;opacity:0.7">${f.label}:</span> ${f.val}
-                <button class="chip-remove" onclick="removeChip('${f.key}')" title="Remover">✕</button>
-            </span>`);
-        }
-    });
-
-    if (chips.length > 0) {
-        container.innerHTML = chips.join('');
-        wrapper.style.display = 'flex';
-    } else {
-        container.innerHTML = '';
-        wrapper.style.display = 'none';
-    }
-}
-
-function removeChip(key) {
-    if (key === 'search') {
-        search = '';
-        document.getElementById('search-input').value = '';
-    } else {
-        const selMap = { f1:'f1-sel', f2:'f2-sel', f3:'f3-sel', f4:'f4-sel' };
-        if (key === 'f1') f1 = 'all';
-        if (key === 'f2') f2 = 'all';
-        if (key === 'f3') f3 = 'all';
-        if (key === 'f4') f4 = 'all';
-        const el = document.getElementById(selMap[key]);
-        if (el) el.value = 'all';
-    }
-    page = 1;
-    updateFiltered();
-    render();
-}
 
 // ── EVENTOS ───────────────────────────────────────────────────────────────
 function executeSearch() {
