@@ -1,10 +1,10 @@
 {
   "metadata": {
     "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-    "total_processos": 744,
-    "total_lotes": 8610,
-    "total_itens": 14268,
-    "atualizado_em": "20260325_064622"
+    "total_processos": 745,
+    "total_lotes": 8611,
+    "total_itens": 14270,
+    "atualizado_em": "20260326_065852"
   },
   "processos": [
     {
@@ -253963,127 +253963,6 @@
       ]
     },
     {
-      "id": "CE-025-2025",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "1693/2025",
-      "modalidade": "CONCORRÊNCIA ELETRÔNICA",
-      "situacao": "HABILITAÇÃO",
-      "condutor": "DAVIDSON ARAUJO SANTOS",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO PARCELADA",
-      "publicacao": "30/12/2025 16:49",
-      "inicio_recepcao": "23/01/2026 08:00",
-      "fim_recepcao": "23/03/2026 08:15",
-      "inicio_disputa": "23/03/2026 08:30",
-      "objeto": "Contratação de empresa especializada em execução de obras de drenagem e pavimentação dos bairros Bonadiman, Eixo Sul, Portal Sul, Nova Canaã, Jardim Liberdade, Estância Biquíni, Loteamento dos Pioneiros, Ouro Verde, Tancredo Neves e Alto do Tancredo, bem como, o distrito de Santo Antônio, do município de Teixeira de Freitas – BA.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5D0XHBhrCJyUbP0iX1jMEqY9jZf6ohydxOPJzk4tjgCfbzsh3gEYZOqk4rDa94WsDv4rAEJjtYyDWfCQHkVj_AjJMCGHhKVOFh1wDdJhkZEh4%3D",
-      "total_lotes": 1,
-      "total_itens": 12,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "EXECUÇÃO DE OBRAS DE DRENAGEM E PAVIMENTAÇÃO DOS BAIRROS BONADIMAN, EIXO SUL, PORTAL SUL, NOVA CANAÃ, JARDIM LIBERDADE, ESTÂNCIA BIQUÍNI, LOTEAMENTO DOS PIONEIROS, OURO VERDE, TANCREDO NEVES E ALTO DO TANCREDO, BEM COMO, O DISTRITO DE SANTO ANTÔNIO",
-          "fase": "HABILITAÇÃO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "1.000,00",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "66.345.867,30",
-          "vencedor": "CBS CONSTRUTORA BAHIANA DE SANEAMENTO LTDA.",
-          "melhor_oferta": "58.800.000,00",
-          "total_itens": 12,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "ADMINISTRAÇÃO LOCAL DE OBRA",
-              "unidade": "UNID.",
-              "quantidade": "1,00",
-              "valor_referencia": "742.223,88"
-            },
-            {
-              "numero": "2",
-              "especificacao": "SERVIÇOS PRELIMINARES",
-              "unidade": "UNID.",
-              "quantidade": "1,00",
-              "valor_referencia": "139.119,50"
-            },
-            {
-              "numero": "3",
-              "especificacao": "ALTO DO TANCREDO",
-              "unidade": "UNID.",
-              "quantidade": "1,00",
-              "valor_referencia": "2.807.567,57"
-            },
-            {
-              "numero": "4",
-              "especificacao": "BONADIMAN",
-              "unidade": "UNID.",
-              "quantidade": "1,00",
-              "valor_referencia": "15.437.703,67"
-            },
-            {
-              "numero": "5",
-              "especificacao": "EIXO SUL",
-              "unidade": "UNID.",
-              "quantidade": "1,00",
-              "valor_referencia": "6.434.067,78"
-            },
-            {
-              "numero": "6",
-              "especificacao": "ESTÂNCIA BIQUÍNI",
-              "unidade": "UNID.",
-              "quantidade": "1,00",
-              "valor_referencia": "17.610.482,56"
-            },
-            {
-              "numero": "7",
-              "especificacao": "JARDIM LIBERDADE",
-              "unidade": "UNID.",
-              "quantidade": "1,00",
-              "valor_referencia": "8.056.652,97"
-            },
-            {
-              "numero": "8",
-              "especificacao": "LOTEAMENTO DOS PIONEIROS/OURO VERDE",
-              "unidade": "UNID.",
-              "quantidade": "1,00",
-              "valor_referencia": "7.439.215,87"
-            },
-            {
-              "numero": "9",
-              "especificacao": "NOVA CANAÃ",
-              "unidade": "UNID.",
-              "quantidade": "1,00",
-              "valor_referencia": "421.938,45"
-            },
-            {
-              "numero": "10",
-              "especificacao": "PORTAL SUL",
-              "unidade": "UNID.",
-              "quantidade": "1,00",
-              "valor_referencia": "4.725.465,38"
-            },
-            {
-              "numero": "11",
-              "especificacao": "SANTO ANTÔNIO",
-              "unidade": "UNID.",
-              "quantidade": "1,00",
-              "valor_referencia": "2.201.571,24"
-            },
-            {
-              "numero": "12",
-              "especificacao": "TANCREDO NEVES",
-              "unidade": "UNID.",
-              "quantidade": "1,00",
-              "valor_referencia": "329.858,43"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "CE-023-2025",
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "1615/2025",
@@ -254119,50 +253998,6 @@
             {
               "numero": "1",
               "especificacao": "ESTRUTURA METÁLICA",
-              "unidade": "UNID.",
-              "quantidade": "1,00",
-              "valor_referencia": "1.200.887,10"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "PE-053-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "309/2026",
-      "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "PUBLICADO",
-      "condutor": "DAVIDSON ARAUJO SANTOS",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO PARCELADA",
-      "publicacao": "24/03/2026 21:21",
-      "inicio_recepcao": "25/03/2026 08:00",
-      "fim_recepcao": "10/04/2026 08:15",
-      "inicio_disputa": "10/04/2026 08:30",
-      "objeto": "Contratação de empresa especializada em serviços de engenharia para o fornecimento de bancas em estruturas metálicas (bancas de frutas e verduras), no município de Teixeira de Freitas – BA.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DkVjTbELT8SNkL9ctBYPiYeVwtWo_2ZEAqVtCMYKzT5JffatWZP7JLFpfCN9Yfm3PDndFQr%2FBKTI14ZrAhCM9kVWcKLNzjuRMGGqLcRyPAlc%3D",
-      "total_lotes": 1,
-      "total_itens": 1,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "SERVIÇOS DE ENGENHARIA PARA O FORNECIMENTO DE BANCAS EM ESTRUTURAS METÁLICAS (BANCAS DE FRUTAS E VERDURAS)",
-          "fase": "PUBLICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "1.000,00",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "1.200.887,10",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "BANCA EM ESTRUTURA METÁLICA",
               "unidade": "UNID.",
               "quantidade": "1,00",
               "valor_referencia": "1.200.887,10"
@@ -261128,6 +260963,222 @@
               "unidade": "SERVIÇO",
               "quantidade": "1,00",
               "valor_referencia": "253.631,27"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2-DLE-033-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "273/2026",
+      "modalidade": "DISPENSA ELETRÔNICA",
+      "situacao": "RECEPÇÃO DE PROPOSTAS",
+      "condutor": "ISAQUE SILVA DOS SANTOS",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO",
+      "publicacao": "25/03/2026 15:42",
+      "inicio_recepcao": "25/03/2026 15:51",
+      "fim_recepcao": "31/03/2026 08:15",
+      "inicio_disputa": "31/03/2026 08:30",
+      "objeto": "Contratação de empresa especializada em fornecimento de [KIT LANCHE PRONTO E MARMITEX (materiais de consumo)], a fim de atender às necessidades da Secretaria Municipal de Esporte e Lazer.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DjSDGMn93ZZ5ytVq1Y8IplPAukQFCHFmqMxUWNeYozimhrH42qdKmhLK3o02VDkEuMas2OiKajTriNBvdUaz1qsnqH3XagI55Xu0HO1HzG3s%3D",
+      "total_lotes": 1,
+      "total_itens": 2,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "LOTE ÚNICO",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "13.986,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 2,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "100800018 LANCHE COMPLETO c/ SUCO NATURAL300ml:(sanduíche: pão fatiado, com maionese, 1 (uma) fatia dequeijo muçarela, 1 (uma) fatia de apresuntado, embalado emplástico filme; suco natural 300ml (trezentos mililitros); 1guardanapo de papel embalado individualmente.",
+              "unidade": "UN",
+              "quantidade": "600,00",
+              "valor_referencia": "11,46"
+            },
+            {
+              "numero": "2",
+              "especificacao": "100800019 MARMITEX COM REFRIGERANTE EM LATA:Arroz,farofa de feijão, macarrão, carne (podendo ser: carne cozida oufrango) e salada; no mínimo 500g; garfo descartável resistente eguardanapo de papel embalados individualmente; Refrigerantelata 350ml.",
+              "unidade": "UN",
+              "quantidade": "300,00",
+              "valor_referencia": "23,70"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-053-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "309/2026",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "RECEPÇÃO DE PROPOSTAS",
+      "condutor": "DAVIDSON ARAUJO SANTOS",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO PARCELADA",
+      "publicacao": "24/03/2026 21:21",
+      "inicio_recepcao": "25/03/2026 08:00",
+      "fim_recepcao": "10/04/2026 08:15",
+      "inicio_disputa": "10/04/2026 08:30",
+      "objeto": "Contratação de empresa especializada em serviços de engenharia para o fornecimento de bancas em estruturas metálicas (bancas de frutas e verduras), no município de Teixeira de Freitas – BA.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5Ds3LZVglNgyIehnBSh_2M_w2Z6ZvpXtoSNv%2FxUF9EDnskRKuea_jSeMNf1ynv6A1rqjX3O_lbS2Juv6RSdAfRDAewpaLpoFUSZOjo9x24GSA%3D",
+      "total_lotes": 1,
+      "total_itens": 1,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "SERVIÇOS DE ENGENHARIA PARA O FORNECIMENTO DE BANCAS EM ESTRUTURAS METÁLICAS (BANCAS DE FRUTAS E VERDURAS)",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "1.000,00",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "1.200.887,10",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "BANCA EM ESTRUTURA METÁLICA",
+              "unidade": "UNID.",
+              "quantidade": "1,00",
+              "valor_referencia": "1.200.887,10"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CE-025-2025",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "1693/2025",
+      "modalidade": "CONCORRÊNCIA ELETRÔNICA",
+      "situacao": "REVOGADO",
+      "condutor": "DAVIDSON ARAUJO SANTOS",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO PARCELADA",
+      "publicacao": "30/12/2025 16:49",
+      "inicio_recepcao": "23/01/2026 08:00",
+      "fim_recepcao": "23/03/2026 08:15",
+      "inicio_disputa": "23/03/2026 08:30",
+      "objeto": "Contratação de empresa especializada em execução de obras de drenagem e pavimentação dos bairros Bonadiman, Eixo Sul, Portal Sul, Nova Canaã, Jardim Liberdade, Estância Biquíni, Loteamento dos Pioneiros, Ouro Verde, Tancredo Neves e Alto do Tancredo, bem como, o distrito de Santo Antônio, do município de Teixeira de Freitas – BA.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DC4TtXaen84%2F4d823%2Fjtz9Ftt6pk%2F1Lu3_DGfuV9agPYQh1QQIIaTNlqTeKpPIG7FpAEGLVfZ7HvsS3Nd4M8lrxNvh3Adq5Cak1T%2F3U1czRM%3D",
+      "total_lotes": 1,
+      "total_itens": 12,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "EXECUÇÃO DE OBRAS DE DRENAGEM E PAVIMENTAÇÃO DOS BAIRROS BONADIMAN, EIXO SUL, PORTAL SUL, NOVA CANAÃ, JARDIM LIBERDADE, ESTÂNCIA BIQUÍNI, LOTEAMENTO DOS PIONEIROS, OURO VERDE, TANCREDO NEVES E ALTO DO TANCREDO, BEM COMO, O DISTRITO DE SANTO ANTÔNIO",
+          "fase": "REVOGADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "1.000,00",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "66.345.867,30",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 12,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "ADMINISTRAÇÃO LOCAL DE OBRA",
+              "unidade": "UNID.",
+              "quantidade": "1,00",
+              "valor_referencia": "742.223,88"
+            },
+            {
+              "numero": "2",
+              "especificacao": "SERVIÇOS PRELIMINARES",
+              "unidade": "UNID.",
+              "quantidade": "1,00",
+              "valor_referencia": "139.119,50"
+            },
+            {
+              "numero": "3",
+              "especificacao": "ALTO DO TANCREDO",
+              "unidade": "UNID.",
+              "quantidade": "1,00",
+              "valor_referencia": "2.807.567,57"
+            },
+            {
+              "numero": "4",
+              "especificacao": "BONADIMAN",
+              "unidade": "UNID.",
+              "quantidade": "1,00",
+              "valor_referencia": "15.437.703,67"
+            },
+            {
+              "numero": "5",
+              "especificacao": "EIXO SUL",
+              "unidade": "UNID.",
+              "quantidade": "1,00",
+              "valor_referencia": "6.434.067,78"
+            },
+            {
+              "numero": "6",
+              "especificacao": "ESTÂNCIA BIQUÍNI",
+              "unidade": "UNID.",
+              "quantidade": "1,00",
+              "valor_referencia": "17.610.482,56"
+            },
+            {
+              "numero": "7",
+              "especificacao": "JARDIM LIBERDADE",
+              "unidade": "UNID.",
+              "quantidade": "1,00",
+              "valor_referencia": "8.056.652,97"
+            },
+            {
+              "numero": "8",
+              "especificacao": "LOTEAMENTO DOS PIONEIROS/OURO VERDE",
+              "unidade": "UNID.",
+              "quantidade": "1,00",
+              "valor_referencia": "7.439.215,87"
+            },
+            {
+              "numero": "9",
+              "especificacao": "NOVA CANAÃ",
+              "unidade": "UNID.",
+              "quantidade": "1,00",
+              "valor_referencia": "421.938,45"
+            },
+            {
+              "numero": "10",
+              "especificacao": "PORTAL SUL",
+              "unidade": "UNID.",
+              "quantidade": "1,00",
+              "valor_referencia": "4.725.465,38"
+            },
+            {
+              "numero": "11",
+              "especificacao": "SANTO ANTÔNIO",
+              "unidade": "UNID.",
+              "quantidade": "1,00",
+              "valor_referencia": "2.201.571,24"
+            },
+            {
+              "numero": "12",
+              "especificacao": "TANCREDO NEVES",
+              "unidade": "UNID.",
+              "quantidade": "1,00",
+              "valor_referencia": "329.858,43"
             }
           ]
         }
