@@ -4,81 +4,9 @@
     "total_processos": 745,
     "total_lotes": 8611,
     "total_itens": 14277,
-    "atualizado_em": "20260326_151114"
+    "atualizado_em": "20260327_065345"
   },
   "processos": [
-    {
-      "id": "CE-003-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "139/2026",
-      "modalidade": "CONCORRÊNCIA ELETRÔNICA",
-      "situacao": "RECEPÇÃO DE PROPOSTAS",
-      "condutor": "DAVIDSON ARAUJO SANTOS",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO PARCELADA",
-      "publicacao": "06/03/2026 18:50",
-      "inicio_recepcao": "09/03/2026 08:00",
-      "fim_recepcao": "14/04/2026 08:15",
-      "inicio_disputa": "14/04/2026 08:30",
-      "objeto": "Contratação de empresa especializada em execução de obras para urbanização da marginal da BR-101, no bairro Ipiranga, do município de Teixeira de Freitas – BA.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DqrKwCHjte8zhLG%2Fu%2Fs1i8nHGXqKAgB4I5SjShMEp0dHLGuaDisR1EzFi_p35bO0Y_6XG0T2bF_Hn8NoIXcoryVcIPrO4ZfR68CAhCN6tJrk%3D",
-      "total_lotes": 1,
-      "total_itens": 5,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "EXECUÇÃO DE OBRAS PARA URBANIZAÇÃO DA MARGINAL DA BR-101, NO BAIRRO IPIRANGA",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "1.000,00",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "6.411.081,90",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 5,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "SERVIÇOS PRELIMINARES",
-              "unidade": "SERVIÇO",
-              "quantidade": "1,00",
-              "valor_referencia": "444.419,85"
-            },
-            {
-              "numero": "2",
-              "especificacao": "PAVIMENTAÇÃO (PISOS)",
-              "unidade": "SERVIÇO",
-              "quantidade": "1,00",
-              "valor_referencia": "5.532.949,38"
-            },
-            {
-              "numero": "3",
-              "especificacao": "MICRODRENAGEM",
-              "unidade": "SERVIÇO",
-              "quantidade": "1,00",
-              "valor_referencia": "44.308,60"
-            },
-            {
-              "numero": "4",
-              "especificacao": "SERVIÇOS COMPLEMENTARES",
-              "unidade": "SERVIÇO",
-              "quantidade": "1,00",
-              "valor_referencia": "373.254,07"
-            },
-            {
-              "numero": "5",
-              "especificacao": "SERVIÇOS FINAIS",
-              "unidade": "SERVIÇO",
-              "quantidade": "1,00",
-              "valor_referencia": "16.150,00"
-            }
-          ]
-        }
-      ]
-    },
     {
       "id": "2-DLE-015-2026",
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
@@ -241951,50 +241879,6 @@
       ]
     },
     {
-      "id": "4-DLE-022-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "195/2026",
-      "modalidade": "DISPENSA ELETRÔNICA",
-      "situacao": "HABILITAÇÃO",
-      "condutor": "ISAQUE SILVA DOS SANTOS",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO PARCELADA",
-      "publicacao": "13/03/2026 18:12",
-      "inicio_recepcao": "13/03/2026 18:15",
-      "fim_recepcao": "19/03/2026 08:15",
-      "inicio_disputa": "19/03/2026 08:30",
-      "objeto": "Contratação de empresa especializada em prestação de serviços com fornecimento dos materiais necessários para a realização do controle de vetores e pragas urbanas (DEDETIZAÇÃO, DESINSETIZAÇÃO, DESRATIZAÇÃO, DESCUPINIZAÇÃO, DESALOJAMENTO DE POMBOS E MORCEGOS), a fim de atender as demandas da Secretaria Municipal de Educação.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DVpsKFGDSmRwpPhHAOb4J8xZnxtR607DAVYXqbKczFLvOH_CsiRxG0PhV80jv62U8B%2FtgxlpMcESwT9EZD5cEzJMbqeH3BqHAyST6uA9fKwM%3D",
-      "total_lotes": 1,
-      "total_itens": 1,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "DEDETIZAÇÃO",
-          "fase": "HABILITAÇÃO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME O EDITAL",
-          "garantia": "CONFORME O EDITAL",
-          "valor_referencia": "62.400,00",
-          "vencedor": "MORIA DEDETIZADORA E ENGENHARIA LTDA",
-          "melhor_oferta": "27.600,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "36969 Prestação de serviços de dedetização, desinsetização,desratização e controle integrado de vetores e pragas urbanas:a serem executados em prédios, áreas internas e externas e demais instalações que compõem a rede municipal de ensino (escolas urbanas e rurais, creches, unidades administrativas eanexos), sendo as unidades de ensino específicas a serem dedetizadas, bem como a respectiva área em metros quadrados de cada uma delas, indicadas na Ordem de Fornecimento, quando esta for emitida pela Administração Municipal. O serviçodeverá compreender o controle curativo e preventivo de insetos rasteiros e voadores (baratas, formigas, mosquitos, inclusive Aedes aegypti, aranhas, escorpiões, traças, cupins, pulgas e correlatos), roedores sinantrópicos (ratos de telhado, ratazanas e camundongos) e demais pragas urbanas que coloquem em risco saúde humana e o adequado funcionamento das atividades pedagógicas e administrativas. A contratada deverá fornecer toda a mão de obra, materiais, equipamentos, veículos, ferramentas, EPI/EPC e insumos necessários à execução dos serviços, incluindo inseticidas, raticidas, iscas, gel, armadilhas e demais produtos devidamente registrados na ANVISA e nos órgãos competentes, apresentando, sempre que solicitado, fichas de informações de segurança de produtos químicos e laudos de eficiência, em conformidade com as normas de saúde pública, vigilância sanitária, segurança do trabalho e meio ambiente. A aplicação dos produtos deverá ser realizada por profissionais treinados, sob responsabilidade técnica de profissional habilitado, com emissão de ART ou documentoequivalente, observando-se rigorosamente as instruções dos fabricantes, as normas técnicas vigentes e as boas práticas de controle de pragas, utilizando métodos como pulverização, aspersão, nebulização, pincelamento, aplicação de pó seco em frestas e ralos, colocação de iscas e armadilhas em pontos estratégicos, de forma a garantir a efetiva eliminação e o controle das pragas, minimizando riscos à comunidade escolar. Os serviços serão prestados de forma periódica e/ou sob demanda, conforme programação definida pela Secretaria Municipal de Educação, devendo cada intervenção contemplar a área indicada em ordem de serviço, com emissão de relatórios de execução contendo locais atendidos, data, horário, tipo de produto utilizado, dosagem, método de aplicação, responsáveis técnicos e eventuais recomendações de segurança ou restrição de uso dos ambientes. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "M2",
-              "quantidade": "120.000,00",
-              "valor_referencia": "0,52"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "PE-036-2026",
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "1509/2025",
@@ -252085,199 +251969,6 @@
       ]
     },
     {
-      "id": "4-DLE-023-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "131-2026",
-      "modalidade": "DISPENSA ELETRÔNICA",
-      "situacao": "ADJUDICADO",
-      "condutor": "ISAQUE SILVA DOS SANTOS",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO",
-      "publicacao": "05/03/2026 15:13",
-      "inicio_recepcao": "05/03/2026 15:40",
-      "fim_recepcao": "11/03/2026 08:15",
-      "inicio_disputa": "11/03/2026 08:30",
-      "objeto": "Contratação de empresa especializada em prestação de serviços de MANUTENÇÃO CORRETIVA DE VEÍCULOS COM\nFORNECIMENTO DE PEÇAS, a fim de atender as necessidades da Secretaria Municipal de Educação.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5D%2FrZhe3kJRxSKVZs57uz9%2Fzs9WDV1eD%2FojvtDFJJ3BdG1XrWKz7EQCCwl2tRyqBFa3e9zGLxKHktuBLKn9QgspKixSVea3iAtVr8V7xU_Nnk%3D",
-      "total_lotes": 4,
-      "total_itens": 15,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "LOTE1",
-          "fase": "ADJUDICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "14.107,98",
-          "vencedor": "AUTOPLAN - PECAS E SERVICOS AUTOMOTIVOS LTDA",
-          "melhor_oferta": "14.102,00",
-          "total_itens": 3,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9903311816 Serviço de manutenção em caminhão Volkswagen 8160 DRC 4x2 (PJU-1358):compreendendo a troca de filtros, óleos e componentes necessários.",
-              "unidade": "SER",
-              "quantidade": "1,00",
-              "valor_referencia": "364,98"
-            },
-            {
-              "numero": "2",
-              "especificacao": "36889 Serviço de manutenção em caminhão Volkswagen 8160 DRC 4x2 (OUZ-1639):compreendendo a recuperação de grade e para-choque dianteiro e os serviços de lanternagem e pintura.",
-              "unidade": "SER",
-              "quantidade": "1,00",
-              "valor_referencia": "3.743,00"
-            },
-            {
-              "numero": "3",
-              "especificacao": "9900515361 Fornecimento de peças:filtros, óleos, componentes e todos os itens necessários para execução dos serviços de manutenção dos caminhões Volkswagen 8160 DRC 4x2.",
-              "unidade": "UND",
-              "quantidade": "10.000,00",
-              "valor_referencia": "1,00"
-            }
-          ]
-        },
-        {
-          "numero": "2",
-          "titulo": "LOTE 2",
-          "fase": "ADJUDICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "6.926,32",
-          "vencedor": "AUTOPLAN - PECAS E SERVICOS AUTOMOTIVOS LTDA",
-          "melhor_oferta": "6.918,00",
-          "total_itens": 5,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9903311817 Serviço de manutenção em micro-ônibus Mercedes- Benz LO-916 (RPO-1J48):compreendendo a remoção e instalação de eixo da coluna de direção, troca de lonas de freios e parte elétrica.",
-              "unidade": "SER",
-              "quantidade": "1,00",
-              "valor_referencia": "823,33"
-            },
-            {
-              "numero": "2",
-              "especificacao": "36914 Serviço de manutenção em micro-ônibus Mercedes-Benz LO-916 (RPG-5I35):compreendendo a remoção e instalação de eixo da coluna de direção e serviço de torno.",
-              "unidade": "SER",
-              "quantidade": "1,00",
-              "valor_referencia": "360,00"
-            },
-            {
-              "numero": "3",
-              "especificacao": "36915 Serviço de manutenção em micro-ônibus Agrale Marruá AM200 (SKL0F32):compreendendo a troca de filtros, óleos e componentes necessários.",
-              "unidade": "SER",
-              "quantidade": "1,00",
-              "valor_referencia": "398,00"
-            },
-            {
-              "numero": "4",
-              "especificacao": "9903311821 Serviço de manutenção em Ônibus Mercedes Benz LO 916 ORE (RPD-5C32):compreendendo a troca de filtros, óleos e componentes necessários.",
-              "unidade": "SER",
-              "quantidade": "1,00",
-              "valor_referencia": "344,99"
-            },
-            {
-              "numero": "5",
-              "especificacao": "36890 Fornecimento de peças:filtros, óleos, componentes e todos os itens necessários para execução dos serviços de manutenção do micro-ônibus Mercedes-Benz LO-916.",
-              "unidade": "UND",
-              "quantidade": "5.000,00",
-              "valor_referencia": "1,00"
-            }
-          ]
-        },
-        {
-          "numero": "3",
-          "titulo": "LOTE 3",
-          "fase": "ADJUDICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "4.867,16",
-          "vencedor": "AUTOPLAN - PECAS E SERVICOS AUTOMOTIVOS LTDA",
-          "melhor_oferta": "4.861,00",
-          "total_itens": 4,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9903311822 Serviço de manutenção em veículo Fiat Cronos Drive 1.3 (RPR-0D77):compreendendo a troca de filtros, óleos e componentes necessários.",
-              "unidade": "SER",
-              "quantidade": "1,00",
-              "valor_referencia": "173,66"
-            },
-            {
-              "numero": "2",
-              "especificacao": "36916 Serviço de manutenção em veículo Fiat Palio Fire Way (PJL-9271):compreendendo a troca de filtros, óleos e componentes necessários.",
-              "unidade": "SER",
-              "quantidade": "1,00",
-              "valor_referencia": "273,22"
-            },
-            {
-              "numero": "3",
-              "especificacao": "36917 Serviço de manutenção em veículo camionete chevrolet S10 advantage (JRW-1455):compreendendo troca de sapatas de freio, tambor de freio, cabos e óleos e componentes necessários.",
-              "unidade": "SER",
-              "quantidade": "1,00",
-              "valor_referencia": "420,28"
-            },
-            {
-              "numero": "4",
-              "especificacao": "9900515362 Fornecimento de peças:filtros, óleos, componentes e todos os itens necessários para execução dos serviços de manutenção dos veículos.",
-              "unidade": "UND",
-              "quantidade": "4.000,00",
-              "valor_referencia": "1,00"
-            }
-          ]
-        },
-        {
-          "numero": "4",
-          "titulo": "LOTE 4",
-          "fase": "ADJUDICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "6.775,46",
-          "vencedor": "AUTOPLAN - PECAS E SERVICOS AUTOMOTIVOS LTDA",
-          "melhor_oferta": "6.754,00",
-          "total_itens": 3,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "36918 Serviço de manutenção em veículo Fiat Argo (RPR-8J49):compreendendo alinhamento dianteiro e balanceamento de todas as rodas.",
-              "unidade": "SER",
-              "quantidade": "1,00",
-              "valor_referencia": "399,33"
-            },
-            {
-              "numero": "2",
-              "especificacao": "36919 Serviço de manutenção em veículo Fiat Argo (RPR- 9A34):compreendendo alinhamento dianteiro e balanceamento de todas as rodas.",
-              "unidade": "SER",
-              "quantidade": "1,00",
-              "valor_referencia": "399,33"
-            },
-            {
-              "numero": "3",
-              "especificacao": "36920 Pneu novo, medida 205/60R15:índice de carga 91 e índice de velocidade H, construção radial, sem câmara (tubeless), destinado a veículos de passeio. Produto novo, sem uso, sem defeitos, não recauchutado ou reformado, com certificação vigente dos órgãos competentes, atendendo às normas técnicas aplicáveis. Deve apresentar desempenho adequado quanto à aderência, estabilidade, durabilidade e segurança. Data de fabricação recente, dentro do prazo de validade recomendado pelo fabricante.",
-              "unidade": "UND",
-              "quantidade": "8,00",
-              "valor_referencia": "747,10"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "PE-037-2026",
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "1060/2025",
@@ -261228,6 +260919,315 @@
               "unidade": "SERV",
               "quantidade": "64,00",
               "valor_referencia": "237,48"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4-DLE-022-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "195/2026",
+      "modalidade": "DISPENSA ELETRÔNICA",
+      "situacao": "HOMOLOGADO",
+      "condutor": "ISAQUE SILVA DOS SANTOS",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO PARCELADA",
+      "publicacao": "13/03/2026 18:12",
+      "inicio_recepcao": "13/03/2026 18:15",
+      "fim_recepcao": "19/03/2026 08:15",
+      "inicio_disputa": "19/03/2026 08:30",
+      "objeto": "Contratação de empresa especializada em prestação de serviços com fornecimento dos materiais necessários para a realização do controle de vetores e pragas urbanas (DEDETIZAÇÃO, DESINSETIZAÇÃO, DESRATIZAÇÃO, DESCUPINIZAÇÃO, DESALOJAMENTO DE POMBOS E MORCEGOS), a fim de atender as demandas da Secretaria Municipal de Educação.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DBlnL4pH2dRDSF_FKhHsAIkL3rZ1H8KKQwWUVbxXoX0E6m8u3LUapCOXVeCxbiyGorQE66uPaP%2FSHcKaiXMrJn6tUeaf83dVTcEkUo7H4%2FD4%3D",
+      "total_lotes": 1,
+      "total_itens": 1,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "DEDETIZAÇÃO",
+          "fase": "HOMOLOGADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME O EDITAL",
+          "garantia": "CONFORME O EDITAL",
+          "valor_referencia": "62.400,00",
+          "vencedor": "MORIA DEDETIZADORA E ENGENHARIA LTDA",
+          "melhor_oferta": "27.600,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "36969 Prestação de serviços de dedetização, desinsetização,desratização e controle integrado de vetores e pragas urbanas:a serem executados em prédios, áreas internas e externas e demais instalações que compõem a rede municipal de ensino (escolas urbanas e rurais, creches, unidades administrativas eanexos), sendo as unidades de ensino específicas a serem dedetizadas, bem como a respectiva área em metros quadrados de cada uma delas, indicadas na Ordem de Fornecimento, quando esta for emitida pela Administração Municipal. O serviçodeverá compreender o controle curativo e preventivo de insetos rasteiros e voadores (baratas, formigas, mosquitos, inclusive Aedes aegypti, aranhas, escorpiões, traças, cupins, pulgas e correlatos), roedores sinantrópicos (ratos de telhado, ratazanas e camundongos) e demais pragas urbanas que coloquem em risco saúde humana e o adequado funcionamento das atividades pedagógicas e administrativas. A contratada deverá fornecer toda a mão de obra, materiais, equipamentos, veículos, ferramentas, EPI/EPC e insumos necessários à execução dos serviços, incluindo inseticidas, raticidas, iscas, gel, armadilhas e demais produtos devidamente registrados na ANVISA e nos órgãos competentes, apresentando, sempre que solicitado, fichas de informações de segurança de produtos químicos e laudos de eficiência, em conformidade com as normas de saúde pública, vigilância sanitária, segurança do trabalho e meio ambiente. A aplicação dos produtos deverá ser realizada por profissionais treinados, sob responsabilidade técnica de profissional habilitado, com emissão de ART ou documentoequivalente, observando-se rigorosamente as instruções dos fabricantes, as normas técnicas vigentes e as boas práticas de controle de pragas, utilizando métodos como pulverização, aspersão, nebulização, pincelamento, aplicação de pó seco em frestas e ralos, colocação de iscas e armadilhas em pontos estratégicos, de forma a garantir a efetiva eliminação e o controle das pragas, minimizando riscos à comunidade escolar. Os serviços serão prestados de forma periódica e/ou sob demanda, conforme programação definida pela Secretaria Municipal de Educação, devendo cada intervenção contemplar a área indicada em ordem de serviço, com emissão de relatórios de execução contendo locais atendidos, data, horário, tipo de produto utilizado, dosagem, método de aplicação, responsáveis técnicos e eventuais recomendações de segurança ou restrição de uso dos ambientes. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "M2",
+              "quantidade": "120.000,00",
+              "valor_referencia": "0,52"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CE-003-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "139/2026",
+      "modalidade": "CONCORRÊNCIA ELETRÔNICA",
+      "situacao": "PUBLICADO",
+      "condutor": "DAVIDSON ARAUJO SANTOS",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO PARCELADA",
+      "publicacao": "06/03/2026 18:50",
+      "inicio_recepcao": "27/03/2026 08:00",
+      "fim_recepcao": "06/05/2026 08:15",
+      "inicio_disputa": "06/05/2026 08:30",
+      "objeto": "Contratação de empresa especializada em execução de obras para urbanização da marginal da BR-101, no bairro Ipiranga, do município de Teixeira de Freitas – BA.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DHdnWQ72UB2E8YJEiyH5Mvmu8d8NBJLKLWvUvDnjvHufJryKdNHr7hNc%2FNxCnOPbo71L_rOgmjQf3tD%2FMXCPN7IlXM4RtzKO6IWtK3q2zwzY%3D",
+      "total_lotes": 1,
+      "total_itens": 5,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "EXECUÇÃO DE OBRAS PARA URBANIZAÇÃO DA MARGINAL DA BR-101, NO BAIRRO IPIRANGA",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "1.000,00",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "6.411.081,90",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 5,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "SERVIÇOS PRELIMINARES",
+              "unidade": "SERVIÇO",
+              "quantidade": "1,00",
+              "valor_referencia": "444.419,85"
+            },
+            {
+              "numero": "2",
+              "especificacao": "PAVIMENTAÇÃO (PISOS)",
+              "unidade": "SERVIÇO",
+              "quantidade": "1,00",
+              "valor_referencia": "5.532.949,38"
+            },
+            {
+              "numero": "3",
+              "especificacao": "MICRODRENAGEM",
+              "unidade": "SERVIÇO",
+              "quantidade": "1,00",
+              "valor_referencia": "44.308,60"
+            },
+            {
+              "numero": "4",
+              "especificacao": "SERVIÇOS COMPLEMENTARES",
+              "unidade": "SERVIÇO",
+              "quantidade": "1,00",
+              "valor_referencia": "373.254,07"
+            },
+            {
+              "numero": "5",
+              "especificacao": "SERVIÇOS FINAIS",
+              "unidade": "SERVIÇO",
+              "quantidade": "1,00",
+              "valor_referencia": "16.150,00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4-DLE-023-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "131-2026",
+      "modalidade": "DISPENSA ELETRÔNICA",
+      "situacao": "HOMOLOGADO",
+      "condutor": "ISAQUE SILVA DOS SANTOS",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO",
+      "publicacao": "05/03/2026 15:13",
+      "inicio_recepcao": "05/03/2026 15:40",
+      "fim_recepcao": "11/03/2026 08:15",
+      "inicio_disputa": "11/03/2026 08:30",
+      "objeto": "Contratação de empresa especializada em prestação de serviços de MANUTENÇÃO CORRETIVA DE VEÍCULOS COM\nFORNECIMENTO DE PEÇAS, a fim de atender as necessidades da Secretaria Municipal de Educação.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DRG27pRtnV8w7SiIvK6mVdgSxHA5BZGq6KvIxBMhNDI%2FzJ2af0rJT4TBpkRU4AEV0L28UXu5NqGxQ9%2Fuh3m%2F9mIZHfRz4ORMCKKehhrlatT0%3D",
+      "total_lotes": 4,
+      "total_itens": 15,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "LOTE1",
+          "fase": "HOMOLOGADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "14.107,98",
+          "vencedor": "AUTOPLAN - PECAS E SERVICOS AUTOMOTIVOS LTDA",
+          "melhor_oferta": "14.102,00",
+          "total_itens": 3,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9903311816 Serviço de manutenção em caminhão Volkswagen 8160 DRC 4x2 (PJU-1358):compreendendo a troca de filtros, óleos e componentes necessários.",
+              "unidade": "SER",
+              "quantidade": "1,00",
+              "valor_referencia": "364,98"
+            },
+            {
+              "numero": "2",
+              "especificacao": "36889 Serviço de manutenção em caminhão Volkswagen 8160 DRC 4x2 (OUZ-1639):compreendendo a recuperação de grade e para-choque dianteiro e os serviços de lanternagem e pintura.",
+              "unidade": "SER",
+              "quantidade": "1,00",
+              "valor_referencia": "3.743,00"
+            },
+            {
+              "numero": "3",
+              "especificacao": "9900515361 Fornecimento de peças:filtros, óleos, componentes e todos os itens necessários para execução dos serviços de manutenção dos caminhões Volkswagen 8160 DRC 4x2.",
+              "unidade": "UND",
+              "quantidade": "10.000,00",
+              "valor_referencia": "1,00"
+            }
+          ]
+        },
+        {
+          "numero": "2",
+          "titulo": "LOTE 2",
+          "fase": "HOMOLOGADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "6.926,32",
+          "vencedor": "AUTOPLAN - PECAS E SERVICOS AUTOMOTIVOS LTDA",
+          "melhor_oferta": "6.918,00",
+          "total_itens": 5,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9903311817 Serviço de manutenção em micro-ônibus Mercedes- Benz LO-916 (RPO-1J48):compreendendo a remoção e instalação de eixo da coluna de direção, troca de lonas de freios e parte elétrica.",
+              "unidade": "SER",
+              "quantidade": "1,00",
+              "valor_referencia": "823,33"
+            },
+            {
+              "numero": "2",
+              "especificacao": "36914 Serviço de manutenção em micro-ônibus Mercedes-Benz LO-916 (RPG-5I35):compreendendo a remoção e instalação de eixo da coluna de direção e serviço de torno.",
+              "unidade": "SER",
+              "quantidade": "1,00",
+              "valor_referencia": "360,00"
+            },
+            {
+              "numero": "3",
+              "especificacao": "36915 Serviço de manutenção em micro-ônibus Agrale Marruá AM200 (SKL0F32):compreendendo a troca de filtros, óleos e componentes necessários.",
+              "unidade": "SER",
+              "quantidade": "1,00",
+              "valor_referencia": "398,00"
+            },
+            {
+              "numero": "4",
+              "especificacao": "9903311821 Serviço de manutenção em Ônibus Mercedes Benz LO 916 ORE (RPD-5C32):compreendendo a troca de filtros, óleos e componentes necessários.",
+              "unidade": "SER",
+              "quantidade": "1,00",
+              "valor_referencia": "344,99"
+            },
+            {
+              "numero": "5",
+              "especificacao": "36890 Fornecimento de peças:filtros, óleos, componentes e todos os itens necessários para execução dos serviços de manutenção do micro-ônibus Mercedes-Benz LO-916.",
+              "unidade": "UND",
+              "quantidade": "5.000,00",
+              "valor_referencia": "1,00"
+            }
+          ]
+        },
+        {
+          "numero": "3",
+          "titulo": "LOTE 3",
+          "fase": "HOMOLOGADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "4.867,16",
+          "vencedor": "AUTOPLAN - PECAS E SERVICOS AUTOMOTIVOS LTDA",
+          "melhor_oferta": "4.861,00",
+          "total_itens": 4,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9903311822 Serviço de manutenção em veículo Fiat Cronos Drive 1.3 (RPR-0D77):compreendendo a troca de filtros, óleos e componentes necessários.",
+              "unidade": "SER",
+              "quantidade": "1,00",
+              "valor_referencia": "173,66"
+            },
+            {
+              "numero": "2",
+              "especificacao": "36916 Serviço de manutenção em veículo Fiat Palio Fire Way (PJL-9271):compreendendo a troca de filtros, óleos e componentes necessários.",
+              "unidade": "SER",
+              "quantidade": "1,00",
+              "valor_referencia": "273,22"
+            },
+            {
+              "numero": "3",
+              "especificacao": "36917 Serviço de manutenção em veículo camionete chevrolet S10 advantage (JRW-1455):compreendendo troca de sapatas de freio, tambor de freio, cabos e óleos e componentes necessários.",
+              "unidade": "SER",
+              "quantidade": "1,00",
+              "valor_referencia": "420,28"
+            },
+            {
+              "numero": "4",
+              "especificacao": "9900515362 Fornecimento de peças:filtros, óleos, componentes e todos os itens necessários para execução dos serviços de manutenção dos veículos.",
+              "unidade": "UND",
+              "quantidade": "4.000,00",
+              "valor_referencia": "1,00"
+            }
+          ]
+        },
+        {
+          "numero": "4",
+          "titulo": "LOTE 4",
+          "fase": "HOMOLOGADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "6.775,46",
+          "vencedor": "AUTOPLAN - PECAS E SERVICOS AUTOMOTIVOS LTDA",
+          "melhor_oferta": "6.754,00",
+          "total_itens": 3,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "36918 Serviço de manutenção em veículo Fiat Argo (RPR-8J49):compreendendo alinhamento dianteiro e balanceamento de todas as rodas.",
+              "unidade": "SER",
+              "quantidade": "1,00",
+              "valor_referencia": "399,33"
+            },
+            {
+              "numero": "2",
+              "especificacao": "36919 Serviço de manutenção em veículo Fiat Argo (RPR- 9A34):compreendendo alinhamento dianteiro e balanceamento de todas as rodas.",
+              "unidade": "SER",
+              "quantidade": "1,00",
+              "valor_referencia": "399,33"
+            },
+            {
+              "numero": "3",
+              "especificacao": "36920 Pneu novo, medida 205/60R15:índice de carga 91 e índice de velocidade H, construção radial, sem câmara (tubeless), destinado a veículos de passeio. Produto novo, sem uso, sem defeitos, não recauchutado ou reformado, com certificação vigente dos órgãos competentes, atendendo às normas técnicas aplicáveis. Deve apresentar desempenho adequado quanto à aderência, estabilidade, durabilidade e segurança. Data de fabricação recente, dentro do prazo de validade recomendado pelo fabricante.",
+              "unidade": "UND",
+              "quantidade": "8,00",
+              "valor_referencia": "747,10"
             }
           ]
         }
