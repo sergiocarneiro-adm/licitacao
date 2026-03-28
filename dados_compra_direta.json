@@ -1,9 +1,9 @@
 {
   "metadata": {
     "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-    "total_registros": 619,
-    "total_itens": 2288,
-    "atualizado_em": "20260325_065418"
+    "total_registros": 620,
+    "total_itens": 2289,
+    "atualizado_em": "20260328_064258"
   },
   "registros": [
     {
@@ -36501,6 +36501,38 @@
           "marca": "NÃO SE APLICA",
           "modelo": "NÃO SE APLICA",
           "valor": "1750,0000"
+        }
+      ]
+    },
+    {
+      "id": "2IL-063-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "313/2026",
+      "modalidade": "INEXIGIBILIDADE",
+      "status": "CONCLUÍDA",
+      "coordenador": "ISLA LIMA SILVA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "ano_referencia": "2026",
+      "data_publicacao": "27/03/2026 15:33:19",
+      "data_conclusao": "27/03/2026 15:33:25",
+      "artigo": "Art. 74º",
+      "inciso": "III, c",
+      "justificativa": "Art. 74 inciso III, alínea “c” § 3º da Lei Federal nº 14.133, de 2021 e art. 5º, §§1º e 2º do Decreto Municipal nº 303, de 2025.",
+      "legislacao": "Lei nº 14.133",
+      "objeto": "Empresa especializada para prestação de SERVIÇOS DE ASSESSORIA E CONSULTORIA ADMINISTRATIVA, TÉCNICA E FINANCEIRA, com foco na captação de recursos, para atender as demandas da Secretaria de Finanças.",
+      "observacao": "",
+      "link": "https://bllcompras.com/DirectBuy/DirectBuyView?param1=%5Bgkz%5DWI39wkHvLEAZ5E_Ici2jCFs9rrq38g8dtyRwnz%2F8C1wp%2Fm8iD2LgvCmPjZ2RtBpnUITjAeeKGM_WSkgVzxKA2gCjXahv7HHuluhRLvJl0vQ%3D",
+      "total_itens": 1,
+      "itens": [
+        {
+          "numero": "1",
+          "descricao": "37126 Contratação de empresa especializada para prestação de serviços de assessoria e consultoria administrativa, técnica e financeira, com foco na captação de recursos: Contratação de empresa especializada para prestação de serviços de assessoria e consultoria administrativa, técnica e financeira, com foco na captação de recursos",
+          "quantidade": "12,0000",
+          "unidade": "SERV",
+          "fornecedor": "MP MONTEIRO ASSESSORIA E CONSULTORIA LTDA",
+          "marca": "NÃO SE APLICA",
+          "modelo": "NÃO SE APLICA",
+          "valor": "15000,0000"
         }
       ]
     }

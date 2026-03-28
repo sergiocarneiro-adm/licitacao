@@ -4,7 +4,7 @@
     "total_processos": 745,
     "total_lotes": 8611,
     "total_itens": 14277,
-    "atualizado_em": "20260327_065345"
+    "atualizado_em": "20260328_064203"
   },
   "processos": [
     {
@@ -1063,113 +1063,6 @@
               "unidade": "SER",
               "quantidade": "1,00",
               "valor_referencia": "1.355,88"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "PE-018-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "1372/2025",
-      "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "HABILITAÇÃO",
-      "condutor": "JONATAS DA SILVA SOUSA",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO",
-      "publicacao": "12/02/2026 22:07",
-      "inicio_recepcao": "16/02/2026 08:00",
-      "fim_recepcao": "26/02/2026 08:15",
-      "inicio_disputa": "26/02/2026 08:30",
-      "objeto": "Contratação de empresa especializada em fornecimento de MOBILIÁRIOS PLANEJADOS (material permanente), cujas especificações técnicas, a fim de atender as demandas da Secretaria Municipal de Saúde.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DSjt9KQ78wCqtA5b760ayN3QSFXe%2FlQs5YpVk4N2oOa9TOxGffbked9xBRsYdrUYpu4OwdeO2ayuMbR1BQwJUd_y16vW_jLcdWNRx3Z8kcvc%3D",
-      "total_lotes": 1,
-      "total_itens": 10,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "MOBILIÁRIOS PLANEJADOS",
-          "fase": "EM ADJUDICAÇÃO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "52.866,00",
-          "vencedor": "CADEIRA E CIA INDUSTRIA E COMÉRCIO DE MÓVEIS LTDA.",
-          "melhor_oferta": "52.866,00",
-          "total_itens": 10,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900830398 BALCÃO DE ATENDIMENTO EM MDF COM 6 GUICHÊS E 5 DIVISÕES:SÃO 6 METROS DE BALCÃO COM BAIA DE 80X1.20 DE ALTURA E 60 DE PROFUNDIDADE.",
-              "unidade": "UND",
-              "quantidade": "1,00",
-              "valor_referencia": "3.665,00"
-            },
-            {
-              "numero": "2",
-              "especificacao": "9900830399 ARMÁRIO DE ARQUIVO:EM MDF DA RECEPÇÃO COM 5,90 M DE COMPRIMENTO X 75 ALTURA X 50 PROFUNDIDADE COM PORTAS E GAVETAS.",
-              "unidade": "UND",
-              "quantidade": "1,00",
-              "valor_referencia": "7.875,00"
-            },
-            {
-              "numero": "3",
-              "especificacao": "9900830403 MESA DE TRIAGEMEM MDF:COM 1,60 DE LARGURA X 75 DE ALTURA E 80 DE PROFUNDIDADE.",
-              "unidade": "UND",
-              "quantidade": "2,00",
-              "valor_referencia": "945,00"
-            },
-            {
-              "numero": "4",
-              "especificacao": "9900830400 POLTRONAS DE COLETA DE SANGUE:EM MDF COM ASSENTO E ENCOSTO DE CORINO na cor BEGE, COM ESPUMA, GAVETEIRO LATERAL E PRATELEIRAS. Poltrona80 cm x60 de profundidade. Gaveteiro 80x70.",
-              "unidade": "UND",
-              "quantidade": "11,00",
-              "valor_referencia": "2.310,00"
-            },
-            {
-              "numero": "5",
-              "especificacao": "9900830401 RIPADO EM MDF:COR AMADEIRADO 2,55comprimentos x 2,80 alturas.",
-              "unidade": "UND",
-              "quantidade": "1,00",
-              "valor_referencia": "2.856,00"
-            },
-            {
-              "numero": "6",
-              "especificacao": "36338 MESA MDF BRANCO:DE 1,48X45X75 DE ALTURA PARA SETOR DE VIGILANCIA.",
-              "unidade": "UND",
-              "quantidade": "1,00",
-              "valor_referencia": "552,00"
-            },
-            {
-              "numero": "7",
-              "especificacao": "36339 BANCADA LONGA EM MDF:com gaveteiro de rodinhas. Bancada de 3 m x70x90 de altura. SETOR DE RECEBIMENTO DE AMOSTRAS.",
-              "unidade": "UND",
-              "quantidade": "1,00",
-              "valor_referencia": "1.744,00"
-            },
-            {
-              "numero": "8",
-              "especificacao": "36340 ARMÁRIO AÉREO COLMEIA EM MDF:1,50 X90 DE ALTURA SETOR DE RECEBIMENTO AMOSTRAS.",
-              "unidade": "UND",
-              "quantidade": "1,00",
-              "valor_referencia": "874,00"
-            },
-            {
-              "numero": "9",
-              "especificacao": "9900830402 ARMÁRIOS DE VESTIÁRIOS MASCULINO EM MDF COM CHAVE:ARMÁRIO COM 16 BOX DE 30 X50. 1,20 X 220 DE ALTURA.",
-              "unidade": "UND",
-              "quantidade": "1,00",
-              "valor_referencia": "4.000,00"
-            },
-            {
-              "numero": "10",
-              "especificacao": "36341 ARMÁRIOS DE VESTIÁRIOS FEMININO EM MDF COM CHAVE:ARMÁRIO COM 16 BOX DE 30 X50. 1,20 X 220 DE ALTURA.",
-              "unidade": "UND",
-              "quantidade": "1,00",
-              "valor_referencia": "4.000,00"
             }
           ]
         }
@@ -237666,50 +237559,6 @@
       ]
     },
     {
-      "id": "PE-045-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "113/2026",
-      "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "RECEPÇÃO DE PROPOSTAS",
-      "condutor": "JONATAS DA SILVA SOUSA",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO PARCELADA",
-      "publicacao": "13/03/2026 14:03",
-      "inicio_recepcao": "17/03/2026 08:00",
-      "fim_recepcao": "27/03/2026 09:45",
-      "inicio_disputa": "27/03/2026 10:00",
-      "objeto": "Contratação de empresa especializada em prestação de serviço de licenciamento de uso mensal de uma plataforma web especializada para a gestão completa, integrada e automatizada de processos seletivos e concursos públicos, a fim de atender as demandas da Secretaria Municipal de Administração e demais Secretarias.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DDFWb_OA0jR4Xuy8Hkkp7YuPocVu40x9YOeaYWT_Vupv%2FI4k0gXTQt2haSeEfLZwNPb9mb%2FYfVFt5biEx0ERR9yi4TgIYVDUJT_FVemLiIbc%3D",
-      "total_lotes": 1,
-      "total_itens": 1,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "CONCURSO PÚBLICO",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9903311811 Licença de uso mensal de software web paragestão de processos seletivos e concursos públicos, para 36meses:Módulos:1) Página web que o público geral terá acesso, por onde poderãorealizar inscrições, fazer downloads de publicações e arquivos,alterar dados cadastrais, enviar recursos ou manifestação, bemcomo Upload de arquivos.2) Acesso da Área Administrativa: neste módulo deve possuirfuncionalidades como cadastro/configuração de Candidatos, doContratante, Formas de Pagamento (Remessa E Retorno (ABCBrasil, Banco do Brasil, Banestes, Bradesco, Caixa EconômicaFederal e Cobrança, Itaú, Santander, Sicoob, Sicredi, entreoutros); Usuários do Sistema, Processos Seletivos, Anexos(publicações), Vagas comuns e Vagas Especiais (Etnia, PND,Indígena, etc); Cidades de Prova, Inscrições, Pedidos de Isenção(Pedidos de Isenção (opções customizáveis e integraçãoSISTAC/CadÚnico), devolução de Taxa de Inscrição, Importaçãode arquivo de retornobancário, Recursos, Locais de Prova, Etapas, Horários deProva/Salas, Provas Quadro de Cargos/Vagas (Modalidades deconcorrência customizáveis), Distribuição de candidatos,Eliminação de candidatos e Notas, Importação de arquivo deretorno de leitora de gabaritos, gabarito digitalizado, Resultadoparcial, Resultado final, Relatórios gerenciais; Processamento deResultados (com Regras dinâmicas de Eliminação eDesempate); Envio de E-mails e SMS em Massa.3) Acesso do módulo/portal Candidato: Inscrições, 2a via deBoleto, Atualização Cadastral, Alteração de Senha, Envio deTítulos, Envio de Recursos, Consulta Individual de notas,resultados, espelhos de avaliação.4) Acesso dos profissionais da banca: Configuração de Banca ePermissões de Acesso, Análise de Recursos, Avaliação eValidação de Títulos, Correção de Prova, Discursiva/Redação,Avaliação Preto/Pardo. O sistema deve possuir abas ou módulosintegrados para todas as etapas, desde a publicação de editais,recebimento de inscrições, pagamento mediante boleto ou pix,distribuição de candidatos em salas, correção de provas,recursos, até apublicação do resultado final. O softwaretotalmente customizável para à Contratante permitindo inserçãode cores, logomarca e informações, com funcionalidades geraispara realização de processos seletivos e concursos.Deve possuir estrutura necessária para disponibilização dosistema, tais como servidores, conectividade, cuidados comsegurança da informação, backups diários.(VIDE ANEXO DO TERMO)",
-              "unidade": "SER",
-              "quantidade": "36,00",
-              "valor_referencia": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "PE-030-2026",
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "108/2026",
@@ -240252,98 +240101,6 @@
               "especificacao": "\"82582500009 TABLET:Android 14 ou superior; processador octa- core 2.0 GHz ou superior; memória RAM de 4 GB ou superior; Armazenamento interno de 64 GB ou superior; tela de 8 polegadas ou maior, com boa visibilidade sob luz solar; câmera traseira de 8 MP ou superior, para registros em campo; conectividade Wi-Fi 5G ou superior; GPS Integrado, com boa precisão (para georreferenciamento das visitas); bateria com, no mínimo 5000 mAh (para suportar o uso em campo por 8h ou mais). O equipamento deverá ser compatível com os softwares oficiais de coleta de dados utilizados pelo PNCD. devendo suportar o aplicativo oficial de coleta de dados do PNCD (ex: e- Visita, SISFAD, ou outro sistema local); com aplicativo ou sistema de coleta de dados que permita o preenchimento digital dos formulários, armazenamento local com sincronização posterior (offline/online), exportação de relatórios ou envio para sistemas centrais (SISPNCD, e-SUS, etc.).Atualizações periódicas de segurança e backup automático (quando conectado à rede).Deve vir acompanhado de capa protetora e película (uso externo e intenso).Modelos de referência: Samsung Galaxy Tab A9 , 64GB, 5G, Wi-Fi, Tela de 11\"\", Android 14, 4GB RAM, Câmera Traseira 8MP, Bateria de 7.040mAh - Sm-X216bzaazto/ ou equivalente.\"",
               "unidade": "UN",
               "quantidade": "385,00",
-              "valor_referencia": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "PE-033-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "45/2026",
-      "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "RECEPÇÃO DE PROPOSTAS",
-      "condutor": "JONATAS DA SILVA SOUSA",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "REGISTRO DE PREÇO",
-      "publicacao": "16/03/2026 16:43",
-      "inicio_recepcao": "18/03/2026 08:30",
-      "fim_recepcao": "27/03/2026 08:15",
-      "inicio_disputa": "27/03/2026 08:30",
-      "objeto": "Contratação de empresa especializada em fornecimento de MATERIAIS PARA CONSTRUÇÃO DE CERCAS (material de consumo),  a fim de atender as demandas da Secretaria Municipal de Meio Ambiente.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DHybTv0UT3F0bKamKBYw1dUcI8MWXhWVGicVLeMemENAqLHGR_vGU3HGBz8%2FarVVfVovRlo2h%2FIMZI6E3HBDbCthgiqqtaiXD_w%2FbL3ObqZU%3D",
-      "total_lotes": 3,
-      "total_itens": 3,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "9900515304 PEÇA DE EUCALIPTO TRATADA IMUNIZADA08X10X2,20M 5 FUROS:madeira ambiental imunizada, com 05 (cinco) furos para passagem de arame liso.",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900515304 PEÇA DE EUCALIPTO TRATADA IMUNIZADA08X10X2,20M 5 FUROS:madeira ambiental imunizada, com 05 (cinco) furos para passagem de arame liso.",
-              "unidade": "Und.",
-              "quantidade": "4.000,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "2",
-          "titulo": "9900515305 PEÇA DE EUCALIPTO TRATADA IMUNIZADA10X12X2,20M 5 FUROS:madeira ambientalmente imunizada, com 05 (cinco) furos para passagem de arame liso.",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900515305 PEÇA DE EUCALIPTO TRATADA IMUNIZADA10X12X2,20M 5 FUROS:madeira ambientalmente imunizada, com 05 (cinco) furos para passagem de arame liso.",
-              "unidade": "Und.",
-              "quantidade": "1.000,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "3",
-          "titulo": "36777 ARAME LISO OVALADO 700KGF:Arame Liso Ovalado700Kgf - Bitola 17x15 (2,4 x 3,0mm) Comprimento 1.000M",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "36777 ARAME LISO OVALADO 700KGF:Arame Liso Ovalado700Kgf - Bitola 17x15 (2,4 x 3,0mm) Comprimento 1.000M",
-              "unidade": "ROL",
-              "quantidade": "30,00",
               "valor_referencia": ""
             }
           ]
@@ -260969,78 +260726,6 @@
       ]
     },
     {
-      "id": "CE-003-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "139/2026",
-      "modalidade": "CONCORRÊNCIA ELETRÔNICA",
-      "situacao": "PUBLICADO",
-      "condutor": "DAVIDSON ARAUJO SANTOS",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO PARCELADA",
-      "publicacao": "06/03/2026 18:50",
-      "inicio_recepcao": "27/03/2026 08:00",
-      "fim_recepcao": "06/05/2026 08:15",
-      "inicio_disputa": "06/05/2026 08:30",
-      "objeto": "Contratação de empresa especializada em execução de obras para urbanização da marginal da BR-101, no bairro Ipiranga, do município de Teixeira de Freitas – BA.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DHdnWQ72UB2E8YJEiyH5Mvmu8d8NBJLKLWvUvDnjvHufJryKdNHr7hNc%2FNxCnOPbo71L_rOgmjQf3tD%2FMXCPN7IlXM4RtzKO6IWtK3q2zwzY%3D",
-      "total_lotes": 1,
-      "total_itens": 5,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "EXECUÇÃO DE OBRAS PARA URBANIZAÇÃO DA MARGINAL DA BR-101, NO BAIRRO IPIRANGA",
-          "fase": "PUBLICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "1.000,00",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "6.411.081,90",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 5,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "SERVIÇOS PRELIMINARES",
-              "unidade": "SERVIÇO",
-              "quantidade": "1,00",
-              "valor_referencia": "444.419,85"
-            },
-            {
-              "numero": "2",
-              "especificacao": "PAVIMENTAÇÃO (PISOS)",
-              "unidade": "SERVIÇO",
-              "quantidade": "1,00",
-              "valor_referencia": "5.532.949,38"
-            },
-            {
-              "numero": "3",
-              "especificacao": "MICRODRENAGEM",
-              "unidade": "SERVIÇO",
-              "quantidade": "1,00",
-              "valor_referencia": "44.308,60"
-            },
-            {
-              "numero": "4",
-              "especificacao": "SERVIÇOS COMPLEMENTARES",
-              "unidade": "SERVIÇO",
-              "quantidade": "1,00",
-              "valor_referencia": "373.254,07"
-            },
-            {
-              "numero": "5",
-              "especificacao": "SERVIÇOS FINAIS",
-              "unidade": "SERVIÇO",
-              "quantidade": "1,00",
-              "valor_referencia": "16.150,00"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "4-DLE-023-2026",
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "131-2026",
@@ -261228,6 +260913,321 @@
               "unidade": "UND",
               "quantidade": "8,00",
               "valor_referencia": "747,10"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-033-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "45/2026",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "HABILITAÇÃO",
+      "condutor": "JONATAS DA SILVA SOUSA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "REGISTRO DE PREÇO",
+      "publicacao": "16/03/2026 16:43",
+      "inicio_recepcao": "18/03/2026 08:30",
+      "fim_recepcao": "27/03/2026 08:15",
+      "inicio_disputa": "27/03/2026 08:30",
+      "objeto": "Contratação de empresa especializada em fornecimento de MATERIAIS PARA CONSTRUÇÃO DE CERCAS (material de consumo),  a fim de atender as demandas da Secretaria Municipal de Meio Ambiente.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DI3hDRNw75VbOIaluGgNgSEItNHWmq6Q4HPZHROhZgLr9CLrF4c4dyamSq2LNvaIEu7SeqDDdGp6sUI0ajpnHzSib6PWWCUYi5r0Hp3Lwxyw%3D",
+      "total_lotes": 3,
+      "total_itens": 3,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "9900515304 PEÇA DE EUCALIPTO TRATADA IMUNIZADA08X10X2,20M 5 FUROS:madeira ambiental imunizada, com 05 (cinco) furos para passagem de arame liso.",
+          "fase": "HABILITAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "104.280,00",
+          "vencedor": "EDSON MATERIAL DE CONSTRUÇÃO LTDA",
+          "melhor_oferta": "102.960,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515304 PEÇA DE EUCALIPTO TRATADA IMUNIZADA08X10X2,20M 5 FUROS:madeira ambiental imunizada, com 05 (cinco) furos para passagem de arame liso.",
+              "unidade": "Und.",
+              "quantidade": "4.000,00",
+              "valor_referencia": "26,07"
+            }
+          ]
+        },
+        {
+          "numero": "2",
+          "titulo": "9900515305 PEÇA DE EUCALIPTO TRATADA IMUNIZADA10X12X2,20M 5 FUROS:madeira ambientalmente imunizada, com 05 (cinco) furos para passagem de arame liso.",
+          "fase": "HABILITAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "29.430,00",
+          "vencedor": "DIPAR FERRAGENS EIRELI",
+          "melhor_oferta": "29.430,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515305 PEÇA DE EUCALIPTO TRATADA IMUNIZADA10X12X2,20M 5 FUROS:madeira ambientalmente imunizada, com 05 (cinco) furos para passagem de arame liso.",
+              "unidade": "Und.",
+              "quantidade": "1.000,00",
+              "valor_referencia": "29,43"
+            }
+          ]
+        },
+        {
+          "numero": "3",
+          "titulo": "36777 ARAME LISO OVALADO 700KGF:Arame Liso Ovalado700Kgf - Bitola 17x15 (2,4 x 3,0mm) Comprimento 1.000M",
+          "fase": "HABILITAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "22.081,80",
+          "vencedor": "EDSON MATERIAL DE CONSTRUÇÃO LTDA",
+          "melhor_oferta": "21.499,80",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "36777 ARAME LISO OVALADO 700KGF:Arame Liso Ovalado700Kgf - Bitola 17x15 (2,4 x 3,0mm) Comprimento 1.000M",
+              "unidade": "ROL",
+              "quantidade": "30,00",
+              "valor_referencia": "736,06"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-045-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "113/2026",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "HABILITAÇÃO",
+      "condutor": "JONATAS DA SILVA SOUSA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO PARCELADA",
+      "publicacao": "13/03/2026 14:03",
+      "inicio_recepcao": "17/03/2026 08:00",
+      "fim_recepcao": "27/03/2026 09:45",
+      "inicio_disputa": "27/03/2026 10:00",
+      "objeto": "Contratação de empresa especializada em prestação de serviço de licenciamento de uso mensal de uma plataforma web especializada para a gestão completa, integrada e automatizada de processos seletivos e concursos públicos, a fim de atender as demandas da Secretaria Municipal de Administração e demais Secretarias.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DUXjVEbWU9ISyZRG2TmuJJo6n_vNHGGxz0lqjQIIClYuu_VktK8G%2FZKOlAZBeUzYXXn%2FcwDRH2gcw0wdVPmsOuTMaSwNoLhfzO9xFAvYhDuE%3D",
+      "total_lotes": 1,
+      "total_itens": 1,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "CONCURSO PÚBLICO",
+          "fase": "HABILITAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "187.527,96",
+          "vencedor": "PASSAPORTE PDH",
+          "melhor_oferta": "60.900,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9903311811 Licença de uso mensal de software web paragestão de processos seletivos e concursos públicos, para 36meses:Módulos:1) Página web que o público geral terá acesso, por onde poderãorealizar inscrições, fazer downloads de publicações e arquivos,alterar dados cadastrais, enviar recursos ou manifestação, bemcomo Upload de arquivos.2) Acesso da Área Administrativa: neste módulo deve possuirfuncionalidades como cadastro/configuração de Candidatos, doContratante, Formas de Pagamento (Remessa E Retorno (ABCBrasil, Banco do Brasil, Banestes, Bradesco, Caixa EconômicaFederal e Cobrança, Itaú, Santander, Sicoob, Sicredi, entreoutros); Usuários do Sistema, Processos Seletivos, Anexos(publicações), Vagas comuns e Vagas Especiais (Etnia, PND,Indígena, etc); Cidades de Prova, Inscrições, Pedidos de Isenção(Pedidos de Isenção (opções customizáveis e integraçãoSISTAC/CadÚnico), devolução de Taxa de Inscrição, Importaçãode arquivo de retornobancário, Recursos, Locais de Prova, Etapas, Horários deProva/Salas, Provas Quadro de Cargos/Vagas (Modalidades deconcorrência customizáveis), Distribuição de candidatos,Eliminação de candidatos e Notas, Importação de arquivo deretorno de leitora de gabaritos, gabarito digitalizado, Resultadoparcial, Resultado final, Relatórios gerenciais; Processamento deResultados (com Regras dinâmicas de Eliminação eDesempate); Envio de E-mails e SMS em Massa.3) Acesso do módulo/portal Candidato: Inscrições, 2a via deBoleto, Atualização Cadastral, Alteração de Senha, Envio deTítulos, Envio de Recursos, Consulta Individual de notas,resultados, espelhos de avaliação.4) Acesso dos profissionais da banca: Configuração de Banca ePermissões de Acesso, Análise de Recursos, Avaliação eValidação de Títulos, Correção de Prova, Discursiva/Redação,Avaliação Preto/Pardo. O sistema deve possuir abas ou módulosintegrados para todas as etapas, desde a publicação de editais,recebimento de inscrições, pagamento mediante boleto ou pix,distribuição de candidatos em salas, correção de provas,recursos, até apublicação do resultado final. O softwaretotalmente customizável para à Contratante permitindo inserçãode cores, logomarca e informações, com funcionalidades geraispara realização de processos seletivos e concursos.Deve possuir estrutura necessária para disponibilização dosistema, tais como servidores, conectividade, cuidados comsegurança da informação, backups diários.(VIDE ANEXO DO TERMO)",
+              "unidade": "SER",
+              "quantidade": "36,00",
+              "valor_referencia": "5.209,11"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CE-003-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "139/2026",
+      "modalidade": "CONCORRÊNCIA ELETRÔNICA",
+      "situacao": "RECEPÇÃO DE PROPOSTAS",
+      "condutor": "DAVIDSON ARAUJO SANTOS",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO PARCELADA",
+      "publicacao": "06/03/2026 18:50",
+      "inicio_recepcao": "27/03/2026 08:00",
+      "fim_recepcao": "06/05/2026 08:15",
+      "inicio_disputa": "06/05/2026 08:30",
+      "objeto": "Contratação de empresa especializada em execução de obras para urbanização da marginal da BR-101, no bairro Ipiranga, do município de Teixeira de Freitas – BA.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5Dfv7Hq0UgjfWlc1qTVwSBcwLS1meBEB02x%2FqwjWesTYfdu_VL8Ukyr81aK5BZLA05B85UApwwpVacSLndDRBRggbwpLbLAoWuxH_9KH1Zfuk%3D",
+      "total_lotes": 1,
+      "total_itens": 5,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "EXECUÇÃO DE OBRAS PARA URBANIZAÇÃO DA MARGINAL DA BR-101, NO BAIRRO IPIRANGA",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "1.000,00",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "6.411.081,90",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 5,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "SERVIÇOS PRELIMINARES",
+              "unidade": "SERVIÇO",
+              "quantidade": "1,00",
+              "valor_referencia": "444.419,85"
+            },
+            {
+              "numero": "2",
+              "especificacao": "PAVIMENTAÇÃO (PISOS)",
+              "unidade": "SERVIÇO",
+              "quantidade": "1,00",
+              "valor_referencia": "5.532.949,38"
+            },
+            {
+              "numero": "3",
+              "especificacao": "MICRODRENAGEM",
+              "unidade": "SERVIÇO",
+              "quantidade": "1,00",
+              "valor_referencia": "44.308,60"
+            },
+            {
+              "numero": "4",
+              "especificacao": "SERVIÇOS COMPLEMENTARES",
+              "unidade": "SERVIÇO",
+              "quantidade": "1,00",
+              "valor_referencia": "373.254,07"
+            },
+            {
+              "numero": "5",
+              "especificacao": "SERVIÇOS FINAIS",
+              "unidade": "SERVIÇO",
+              "quantidade": "1,00",
+              "valor_referencia": "16.150,00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-018-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "1372/2025",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "ADJUDICADO",
+      "condutor": "JONATAS DA SILVA SOUSA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO",
+      "publicacao": "12/02/2026 22:07",
+      "inicio_recepcao": "16/02/2026 08:00",
+      "fim_recepcao": "26/02/2026 08:15",
+      "inicio_disputa": "26/02/2026 08:30",
+      "objeto": "Contratação de empresa especializada em fornecimento de MOBILIÁRIOS PLANEJADOS (material permanente), cujas especificações técnicas, a fim de atender as demandas da Secretaria Municipal de Saúde.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DNHLm9qkmbkJ2H8qAS8ZDB3d9pX9weang9NAeuwq99zSBJfDXSZjIHKWEm4q_kNlD7XP7WqSEMpmAxQvsUbBlGjR6sEbU2IyDyVEX%2F5%2FThE4%3D",
+      "total_lotes": 1,
+      "total_itens": 10,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "MOBILIÁRIOS PLANEJADOS",
+          "fase": "ADJUDICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "52.866,00",
+          "vencedor": "CADEIRA E CIA INDUSTRIA E COMÉRCIO DE MÓVEIS LTDA.",
+          "melhor_oferta": "48.835,00",
+          "total_itens": 10,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900830398 BALCÃO DE ATENDIMENTO EM MDF COM 6 GUICHÊS E 5 DIVISÕES:SÃO 6 METROS DE BALCÃO COM BAIA DE 80X1.20 DE ALTURA E 60 DE PROFUNDIDADE.",
+              "unidade": "UND",
+              "quantidade": "1,00",
+              "valor_referencia": "3.665,00"
+            },
+            {
+              "numero": "2",
+              "especificacao": "9900830399 ARMÁRIO DE ARQUIVO:EM MDF DA RECEPÇÃO COM 5,90 M DE COMPRIMENTO X 75 ALTURA X 50 PROFUNDIDADE COM PORTAS E GAVETAS.",
+              "unidade": "UND",
+              "quantidade": "1,00",
+              "valor_referencia": "7.875,00"
+            },
+            {
+              "numero": "3",
+              "especificacao": "9900830403 MESA DE TRIAGEMEM MDF:COM 1,60 DE LARGURA X 75 DE ALTURA E 80 DE PROFUNDIDADE.",
+              "unidade": "UND",
+              "quantidade": "2,00",
+              "valor_referencia": "945,00"
+            },
+            {
+              "numero": "4",
+              "especificacao": "9900830400 POLTRONAS DE COLETA DE SANGUE:EM MDF COM ASSENTO E ENCOSTO DE CORINO na cor BEGE, COM ESPUMA, GAVETEIRO LATERAL E PRATELEIRAS. Poltrona80 cm x60 de profundidade. Gaveteiro 80x70.",
+              "unidade": "UND",
+              "quantidade": "11,00",
+              "valor_referencia": "2.310,00"
+            },
+            {
+              "numero": "5",
+              "especificacao": "9900830401 RIPADO EM MDF:COR AMADEIRADO 2,55comprimentos x 2,80 alturas.",
+              "unidade": "UND",
+              "quantidade": "1,00",
+              "valor_referencia": "2.856,00"
+            },
+            {
+              "numero": "6",
+              "especificacao": "36338 MESA MDF BRANCO:DE 1,48X45X75 DE ALTURA PARA SETOR DE VIGILANCIA.",
+              "unidade": "UND",
+              "quantidade": "1,00",
+              "valor_referencia": "552,00"
+            },
+            {
+              "numero": "7",
+              "especificacao": "36339 BANCADA LONGA EM MDF:com gaveteiro de rodinhas. Bancada de 3 m x70x90 de altura. SETOR DE RECEBIMENTO DE AMOSTRAS.",
+              "unidade": "UND",
+              "quantidade": "1,00",
+              "valor_referencia": "1.744,00"
+            },
+            {
+              "numero": "8",
+              "especificacao": "36340 ARMÁRIO AÉREO COLMEIA EM MDF:1,50 X90 DE ALTURA SETOR DE RECEBIMENTO AMOSTRAS.",
+              "unidade": "UND",
+              "quantidade": "1,00",
+              "valor_referencia": "874,00"
+            },
+            {
+              "numero": "9",
+              "especificacao": "9900830402 ARMÁRIOS DE VESTIÁRIOS MASCULINO EM MDF COM CHAVE:ARMÁRIO COM 16 BOX DE 30 X50. 1,20 X 220 DE ALTURA.",
+              "unidade": "UND",
+              "quantidade": "1,00",
+              "valor_referencia": "4.000,00"
+            },
+            {
+              "numero": "10",
+              "especificacao": "36341 ARMÁRIOS DE VESTIÁRIOS FEMININO EM MDF COM CHAVE:ARMÁRIO COM 16 BOX DE 30 X50. 1,20 X 220 DE ALTURA.",
+              "unidade": "UND",
+              "quantidade": "1,00",
+              "valor_referencia": "4.000,00"
             }
           ]
         }
