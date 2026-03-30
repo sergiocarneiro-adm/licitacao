@@ -4,7 +4,7 @@
     "total_processos": 745,
     "total_lotes": 8611,
     "total_itens": 14221,
-    "atualizado_em": "20260328_020557"
+    "atualizado_em": "20260330_145025"
   },
   "processos": [
     {
@@ -34047,8 +34047,8 @@
           ]
         },
         {
-          "numero": "46",
-          "titulo": "9900514763 MARMITA DE ISOPOR Nº 8:Capacidadede 850ml, com tampa, Cor branca. Embalagem com 100 unidades. COTA DE 25% RESERVADA PARA ME/EPP.",
+          "numero": "47",
+          "titulo": "9900514778 SACO PLÁSTICO 15KG:paraacondicionamento de alimentos, em polietileno virgem, transparente, de alta densidade, capacidade de 15kg, dimensões de 50x70 cm, com no mínimo 3,0 micras. contendo a identificação do produto como marca do fabricante e d",
           "fase": "HOMOLOGADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
@@ -34056,17 +34056,17 @@
           "exclusivo_me": "SIM",
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
-          "valor_referencia": "22.265,00",
-          "vencedor": "LEGI DISTRIBUIDORA LTDA",
-          "melhor_oferta": "21.450,00",
+          "valor_referencia": "73.718,57",
+          "vencedor": "SUPORTE PRODUTOS HOSPITALARES LTDA",
+          "melhor_oferta": "64.342,98",
           "total_itens": 1,
           "itens": [
             {
               "numero": "1",
-              "especificacao": "9900514763 MARMITA DE ISOPOR Nº 8:Capacidadede 850ml, com tampa, Cor branca. Embalagem com 100 unidades. COTA DE 25% RESERVADA PARA ME/EPP.",
-              "unidade": "PCT",
-              "quantidade": "500,00",
-              "valor_referencia": "44,53"
+              "especificacao": "9900514778 SACO PLÁSTICO 15KG:paraacondicionamento de alimentos, em polietileno virgem, transparente, de alta densidade, capacidade de 15kg, dimensões de 50x70 cm, com no mínimo 3,0 micras. contendo a identificação do produto como marca do fabricante e dimensões. embalagem: Bobina c/ 500unidades. COTA DE 25% RESERVADA PARA ME/EPP.",
+              "unidade": "ROLO",
+              "quantidade": "887,00",
+              "valor_referencia": "83,11"
             }
           ]
         }
@@ -34557,50 +34557,26 @@
           ]
         },
         {
-          "numero": "17",
-          "titulo": "9909910101 BRAÇO CURVO PARA LUMINÁRIAILUMINAÇÃO PÚBLICA 3MT:Espessura do tubo de 48mm; Função: Suportar a luminária; Material: É fabricado a partir de tubo de aço Galvanizado a fogo e sapata para fixação ao poste. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HOMOLOGADO",
+          "numero": "18",
+          "titulo": "5907100099 CABO COBRE FLEXÍVEL 16MM ISOLAÇÃO DUPLA 1KV:ISOLAÇÃO DUPLA 1KV. EXCLUSIVO PARA ME/EPP.",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
           "exclusivo_me": "SIM",
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
-          "valor_referencia": "5.018,76",
-          "vencedor": "LEDLUZ INDUSTRIA E COMERCIO LTDA",
-          "melhor_oferta": "3.348,00",
+          "valor_referencia": "11.556,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
           "total_itens": 1,
           "itens": [
             {
               "numero": "1",
-              "especificacao": "9909910101 BRAÇO CURVO PARA LUMINÁRIAILUMINAÇÃO PÚBLICA 3MT:Espessura do tubo de 48mm; Função: Suportar a luminária; Material: É fabricado a partir de tubo de aço Galvanizado a fogo e sapata para fixação ao poste. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "UND",
-              "quantidade": "36,00",
-              "valor_referencia": "139,41"
-            }
-          ]
-        },
-        {
-          "numero": "17",
-          "titulo": "9909910101 BRAÇO CURVO PARA LUMINÁRIAILUMINAÇÃO PÚBLICA 3MT:Espessura do tubo de 48mm; Função: Suportar a luminária; Material: É fabricado a partir de tubo de aço Galvanizado a fogo e sapata para fixação ao poste. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HOMOLOGADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "5.018,76",
-          "vencedor": "LEDLUZ INDUSTRIA E COMERCIO LTDA",
-          "melhor_oferta": "3.348,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9909910101 BRAÇO CURVO PARA LUMINÁRIAILUMINAÇÃO PÚBLICA 3MT:Espessura do tubo de 48mm; Função: Suportar a luminária; Material: É fabricado a partir de tubo de aço Galvanizado a fogo e sapata para fixação ao poste. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "UND",
-              "quantidade": "36,00",
-              "valor_referencia": "139,41"
+              "especificacao": "5907100099 CABO COBRE FLEXÍVEL 16MM ISOLAÇÃO DUPLA 1KV:ISOLAÇÃO DUPLA 1KV. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "M",
+              "quantidade": "1.080,00",
+              "valor_referencia": "10,70"
             }
           ]
         },
@@ -34625,54 +34601,6 @@
               "unidade": "M",
               "quantidade": "4.752,00",
               "valor_referencia": "10,53"
-            }
-          ]
-        },
-        {
-          "numero": "20",
-          "titulo": "9909910110 CABO DE ALUMÍNIO QUADRUPLEX25MM:cabos isolados; Temperatura Máxima: 130º; certificação INMETRO. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HOMOLOGADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "17.536,00",
-          "vencedor": "EDSON MATERIAL DE CONSTRUÇÃO LTDA",
-          "melhor_oferta": "17.200,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9909910110 CABO DE ALUMÍNIO QUADRUPLEX25MM:cabos isolados; Temperatura Máxima: 130º; certificação INMETRO. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "M",
-              "quantidade": "1.600,00",
-              "valor_referencia": "10,96"
-            }
-          ]
-        },
-        {
-          "numero": "20",
-          "titulo": "9909910110 CABO DE ALUMÍNIO QUADRUPLEX25MM:cabos isolados; Temperatura Máxima: 130º; certificação INMETRO. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HOMOLOGADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "17.536,00",
-          "vencedor": "EDSON MATERIAL DE CONSTRUÇÃO LTDA",
-          "melhor_oferta": "17.200,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9909910110 CABO DE ALUMÍNIO QUADRUPLEX25MM:cabos isolados; Temperatura Máxima: 130º; certificação INMETRO. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "M",
-              "quantidade": "1.600,00",
-              "valor_referencia": "10,96"
             }
           ]
         },
@@ -34773,8 +34701,8 @@
           ]
         },
         {
-          "numero": "23",
-          "titulo": "31770 CABO PP 2 X 1,50MM:cor: Preto; Condutor: Fios de Cobre flexível Eletrolítico, Encordoamento Classe 5; Isolação: isolação extrudada de borracha etilenopropileno, Composto Termoplástico Polivinilico (PVC) e Cobertura de PV. EXCLUSIVO PARA ME/EPP.",
+          "numero": "24",
+          "titulo": "31771 CABO PP 2 X 2,50MM:COR: PRETO; CONDUTOR: FIOS DE COBRE FLEXÍVEL ELETROLÍTICO, ENCORDOAMENTO CLASSE 5; ISOLAÇÃO: ISOLAÇÃO EXTRUDADA DE BORRACHA ETILENOPROPILENO, COMPOSTO TERMOPLÁSTICO POLIVINILICO (PVC) E COBERTURA DE PV. EXCLUSIVO PARA ME/EPP.",
           "fase": "HOMOLOGADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
@@ -34782,65 +34710,89 @@
           "exclusivo_me": "SIM",
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
-          "valor_referencia": "962,40",
+          "valor_referencia": "4.860,00",
           "vencedor": "LEDLUZ INDUSTRIA E COMERCIO LTDA",
-          "melhor_oferta": "564,00",
+          "melhor_oferta": "4.584,00",
           "total_itens": 1,
           "itens": [
             {
               "numero": "1",
-              "especificacao": "31770 CABO PP 2 X 1,50MM:cor: Preto; Condutor: Fios de Cobre flexível Eletrolítico, Encordoamento Classe 5; Isolação: isolação extrudada de borracha etilenopropileno, Composto Termoplástico Polivinilico (PVC) e Cobertura de PV. EXCLUSIVO PARA ME/EPP.",
+              "especificacao": "31771 CABO PP 2 X 2,50MM:COR: PRETO; CONDUTOR: FIOS DE COBRE FLEXÍVEL ELETROLÍTICO, ENCORDOAMENTO CLASSE 5; ISOLAÇÃO: ISOLAÇÃO EXTRUDADA DE BORRACHA ETILENOPROPILENO, COMPOSTO TERMOPLÁSTICO POLIVINILICO (PVC) E COBERTURA DE PV. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "M",
+              "quantidade": "1.200,00",
+              "valor_referencia": "4,05"
+            }
+          ]
+        },
+        {
+          "numero": "25",
+          "titulo": "5907100067 CABO PP 2 X 6,00MM:COR: PRETO;CONDUTOR: FIOS DE COBRE FLEXÍVELELETROLÍTICO, ENCORDOAMENTO CLASSE 5;ISOLAÇÃO: ISOLAÇÃO EXTRUDADA DE BORRACHAETILENOPROPILENO, COMPOSTOTERMOPLÁSTICO POLIVINILICO (PVC) ECOBERTURA DE PV. EXCLUSIVO PARA ME/EPP",
+          "fase": "FRACASSADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "2.811,60",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "5907100067 CABO PP 2 X 6,00MM:COR: PRETO;CONDUTOR: FIOS DE COBRE FLEXÍVELELETROLÍTICO, ENCORDOAMENTO CLASSE 5;ISOLAÇÃO: ISOLAÇÃO EXTRUDADA DE BORRACHAETILENOPROPILENO, COMPOSTOTERMOPLÁSTICO POLIVINILICO (PVC) ECOBERTURA DE PV. EXCLUSIVO PARA ME/EPP",
+              "unidade": "M",
+              "quantidade": "360,00",
+              "valor_referencia": "7,81"
+            }
+          ]
+        },
+        {
+          "numero": "26",
+          "titulo": "31772 CABO PP 4 X 2,5MM:cor: Preto; Condutor: Fios de Cobre flexível Eletrolítico, Encordoamento Classe 5; Isolação: isolação extrudada de borracha etilenopropileno, Composto Termoplástico Polivinilico (PVC) e Cobertura de PV. EXCLUSIVO PARA ME/EPP.",
+          "fase": "HOMOLOGADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "1.189,20",
+          "vencedor": "LEDLUZ INDUSTRIA E COMERCIO LTDA",
+          "melhor_oferta": "1.138,80",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "31772 CABO PP 4 X 2,5MM:cor: Preto; Condutor: Fios de Cobre flexível Eletrolítico, Encordoamento Classe 5; Isolação: isolação extrudada de borracha etilenopropileno, Composto Termoplástico Polivinilico (PVC) e Cobertura de PV. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "M",
+              "quantidade": "120,00",
+              "valor_referencia": "9,91"
+            }
+          ]
+        },
+        {
+          "numero": "27",
+          "titulo": "5907100070 CABO PP 4 X 6,00MM:COR: PRETO; CONDUTOR: FIOS DE COBRE FLEXÍVEL ELETROLÍTICO, ENCORDOAMENTO CLASSE 5; ISOLAÇÃO: ISOLAÇÃO EXTRUDADA E BORRACHA ETILENOPROPILENO, COMPOSTO TERMOPLÁSTICO POLIVINILICO (PVC) E COBERTURA DE PV. EXCLUSIVO PARA ME/EPP.",
+          "fase": "FRACASSADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "2.306,40",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "5907100070 CABO PP 4 X 6,00MM:COR: PRETO; CONDUTOR: FIOS DE COBRE FLEXÍVEL ELETROLÍTICO, ENCORDOAMENTO CLASSE 5; ISOLAÇÃO: ISOLAÇÃO EXTRUDADA E BORRACHA ETILENOPROPILENO, COMPOSTO TERMOPLÁSTICO POLIVINILICO (PVC) E COBERTURA DE PV. EXCLUSIVO PARA ME/EPP.",
               "unidade": "M",
               "quantidade": "240,00",
-              "valor_referencia": "4,01"
-            }
-          ]
-        },
-        {
-          "numero": "25",
-          "titulo": "5907100067 CABO PP 2 X 6,00MM:COR: PRETO;CONDUTOR: FIOS DE COBRE FLEXÍVELELETROLÍTICO, ENCORDOAMENTO CLASSE 5;ISOLAÇÃO: ISOLAÇÃO EXTRUDADA DE BORRACHAETILENOPROPILENO, COMPOSTOTERMOPLÁSTICO POLIVINILICO (PVC) ECOBERTURA DE PV. EXCLUSIVO PARA ME/EPP",
-          "fase": "FRACASSADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "2.811,60",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "5907100067 CABO PP 2 X 6,00MM:COR: PRETO;CONDUTOR: FIOS DE COBRE FLEXÍVELELETROLÍTICO, ENCORDOAMENTO CLASSE 5;ISOLAÇÃO: ISOLAÇÃO EXTRUDADA DE BORRACHAETILENOPROPILENO, COMPOSTOTERMOPLÁSTICO POLIVINILICO (PVC) ECOBERTURA DE PV. EXCLUSIVO PARA ME/EPP",
-              "unidade": "M",
-              "quantidade": "360,00",
-              "valor_referencia": "7,81"
-            }
-          ]
-        },
-        {
-          "numero": "25",
-          "titulo": "5907100067 CABO PP 2 X 6,00MM:COR: PRETO;CONDUTOR: FIOS DE COBRE FLEXÍVELELETROLÍTICO, ENCORDOAMENTO CLASSE 5;ISOLAÇÃO: ISOLAÇÃO EXTRUDADA DE BORRACHAETILENOPROPILENO, COMPOSTOTERMOPLÁSTICO POLIVINILICO (PVC) ECOBERTURA DE PV. EXCLUSIVO PARA ME/EPP",
-          "fase": "FRACASSADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "2.811,60",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "5907100067 CABO PP 2 X 6,00MM:COR: PRETO;CONDUTOR: FIOS DE COBRE FLEXÍVELELETROLÍTICO, ENCORDOAMENTO CLASSE 5;ISOLAÇÃO: ISOLAÇÃO EXTRUDADA DE BORRACHAETILENOPROPILENO, COMPOSTOTERMOPLÁSTICO POLIVINILICO (PVC) ECOBERTURA DE PV. EXCLUSIVO PARA ME/EPP",
-              "unidade": "M",
-              "quantidade": "360,00",
-              "valor_referencia": "7,81"
+              "valor_referencia": "9,61"
             }
           ]
         },
@@ -34869,6 +34821,30 @@
           ]
         },
         {
+          "numero": "29",
+          "titulo": "5907100073 CAIXA DE PASSAGEM DE EMBUTIRPVC 10X10CM:Material: Plástico; Tipo de Material: PVC; Modelo de Embutir; Cor: Branco; Dimensão: 10x10 cm. EXCLUSIVO PARA ME/EPP.",
+          "fase": "HOMOLOGADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "405,30",
+          "vencedor": "M.N.S. MOREIRA COMERCIO DE ILUMINACAO",
+          "melhor_oferta": "294,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "5907100073 CAIXA DE PASSAGEM DE EMBUTIRPVC 10X10CM:Material: Plástico; Tipo de Material: PVC; Modelo de Embutir; Cor: Branco; Dimensão: 10x10 cm. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "30,00",
+              "valor_referencia": "13,51"
+            }
+          ]
+        },
+        {
           "numero": "30",
           "titulo": "5907100074 CAIXA DE PASSAGEM DE SOBREPORPVC 15X15CM:Material: Plástico; Tipo de Material: PVC; Modelo de sobrepor; Cor: Branco; Dimensão: 15x15 cm. EXCLUSIVO PARA ME/EPP.",
           "fase": "FRACASSADO",
@@ -34889,6 +34865,30 @@
               "unidade": "UND",
               "quantidade": "20,00",
               "valor_referencia": "13,66"
+            }
+          ]
+        },
+        {
+          "numero": "31",
+          "titulo": "31776 CAIXA DE PASSAGEM DE EMBUTIR PVC20X20CM:Material: Plástico; Tipo de Material: PVC; Modelo de Embutir; Cor: Branco; Dimensão: 20x20 cm. EXCLUSIVO PARA ME/EPP.",
+          "fase": "HOMOLOGADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "671,10",
+          "vencedor": "ELETROMUNDI COMÉRCIO E DISTRIBUIDORA DE MATERIAIS ELÉTRICOS LTDA-EPP",
+          "melhor_oferta": "564,60",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "31776 CAIXA DE PASSAGEM DE EMBUTIR PVC20X20CM:Material: Plástico; Tipo de Material: PVC; Modelo de Embutir; Cor: Branco; Dimensão: 20x20 cm. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "30,00",
+              "valor_referencia": "22,37"
             }
           ]
         },
@@ -85133,8 +85133,8 @@
           ]
         },
         {
-          "numero": "1",
-          "titulo": "9900511730 BACURINHAS 30CM X 8 POLEGADAS:DE ALUMÍNIO, COM DUAS PELES LEITOSA. EXCLUSIVO PARA ME/EPP.",
+          "numero": "2",
+          "titulo": "7701011736 BUMBO 30CM X 22 POLEGADAS:CONFECCIONADO EM CHAPA ESCOVADA, 10 AFINAÇÕES E PELES LEITOSAS. EXCLUSIVO PARA ME/EPP.",
           "fase": "HOMOLOGADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
@@ -85142,23 +85142,23 @@
           "exclusivo_me": "SIM",
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
-          "valor_referencia": "4.128,40",
-          "vencedor": "MVB MUSIC LTDA",
-          "melhor_oferta": "2.530,00",
+          "valor_referencia": "10.912,20",
+          "vencedor": "R&A ELETROELETRONICO LTDA",
+          "melhor_oferta": "7.889,96",
           "total_itens": 1,
           "itens": [
             {
               "numero": "1",
-              "especificacao": "9900511730 BACURINHAS 30CM X 8 POLEGADAS:DE ALUMÍNIO, COM DUAS PELES LEITOSA. EXCLUSIVO PARA ME/EPP.",
+              "especificacao": "7701011736 BUMBO 30CM X 22 POLEGADAS:CONFECCIONADO EM CHAPA ESCOVADA, 10 AFINAÇÕES E PELES LEITOSAS. EXCLUSIVO PARA ME/EPP.",
               "unidade": "Und.",
-              "quantidade": "20,00",
-              "valor_referencia": "206,42"
+              "quantidade": "26,00",
+              "valor_referencia": "419,70"
             }
           ]
         },
         {
-          "numero": "1",
-          "titulo": "9900511730 BACURINHAS 30CM X 8 POLEGADAS:DE ALUMÍNIO, COM DUAS PELES LEITOSA. EXCLUSIVO PARA ME/EPP.",
+          "numero": "3",
+          "titulo": "33655 CAIXA REPIQUE 14 X 5:CAIXA TAROL EM ALUMÍNIO 14POL X 6CM C/PELE P3 E PELE RESPOSTA P0 / 6 AFINADORES. MEDIDA: 14X6CM. PELE BATEDEIRA LEITOSA P3 DE 250 MICRONS. PELE RESPOSTA LEITOSA P0 DE 75 MICRONS. CORPO DE ALUMÍNIO. EXCLUSIVO PARA ME/EPP.",
           "fase": "HOMOLOGADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
@@ -85166,65 +85166,17 @@
           "exclusivo_me": "SIM",
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
-          "valor_referencia": "4.128,40",
-          "vencedor": "MVB MUSIC LTDA",
-          "melhor_oferta": "2.530,00",
+          "valor_referencia": "7.992,30",
+          "vencedor": "ALESSANDRA B. TONIETTI INSTRUMENTOS MUSICAIS",
+          "melhor_oferta": "4.620,00",
           "total_itens": 1,
           "itens": [
             {
               "numero": "1",
-              "especificacao": "9900511730 BACURINHAS 30CM X 8 POLEGADAS:DE ALUMÍNIO, COM DUAS PELES LEITOSA. EXCLUSIVO PARA ME/EPP.",
+              "especificacao": "33655 CAIXA REPIQUE 14 X 5:CAIXA TAROL EM ALUMÍNIO 14POL X 6CM C/PELE P3 E PELE RESPOSTA P0 / 6 AFINADORES. MEDIDA: 14X6CM. PELE BATEDEIRA LEITOSA P3 DE 250 MICRONS. PELE RESPOSTA LEITOSA P0 DE 75 MICRONS. CORPO DE ALUMÍNIO. EXCLUSIVO PARA ME/EPP.",
               "unidade": "Und.",
-              "quantidade": "20,00",
-              "valor_referencia": "206,42"
-            }
-          ]
-        },
-        {
-          "numero": "4",
-          "titulo": "7701011741 CORNETA LONGA EM SI BEMOL:WCMBB, MATÉRIA PRIMA: METAL, AFINAÇÃO EM SIB, ACABAMENTO NIQUELADO, CAMPANA 124MM, CALIBRE 11,70MM. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HOMOLOGADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "16.241,05",
-          "vencedor": "MVB MUSIC LTDA",
-          "melhor_oferta": "11.545,45",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "7701011741 CORNETA LONGA EM SI BEMOL:WCMBB, MATÉRIA PRIMA: METAL, AFINAÇÃO EM SIB, ACABAMENTO NIQUELADO, CAMPANA 124MM, CALIBRE 11,70MM. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "Und.",
-              "quantidade": "35,00",
-              "valor_referencia": "464,03"
-            }
-          ]
-        },
-        {
-          "numero": "4",
-          "titulo": "7701011741 CORNETA LONGA EM SI BEMOL:WCMBB, MATÉRIA PRIMA: METAL, AFINAÇÃO EM SIB, ACABAMENTO NIQUELADO, CAMPANA 124MM, CALIBRE 11,70MM. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HOMOLOGADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "16.241,05",
-          "vencedor": "MVB MUSIC LTDA",
-          "melhor_oferta": "11.545,45",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "7701011741 CORNETA LONGA EM SI BEMOL:WCMBB, MATÉRIA PRIMA: METAL, AFINAÇÃO EM SIB, ACABAMENTO NIQUELADO, CAMPANA 124MM, CALIBRE 11,70MM. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "Und.",
-              "quantidade": "35,00",
-              "valor_referencia": "464,03"
+              "quantidade": "30,00",
+              "valor_referencia": "266,41"
             }
           ]
         },
@@ -85397,8 +85349,8 @@
           ]
         },
         {
-          "numero": "10",
-          "titulo": "33650 BAQUETAS PARA SURDO:BAQUETA PARA SURDO MARCIAL. TAMBÉM UTILIZADO PARA PERCUTIR SURDÕES E ALFAIAS. MT 17 BAQUETA MASTER P/ SURDO (305MM) ESPECIFICAÇÕES TÉCNICAS: COMPRIMENTO: 280MM OU 11 13/16. DIÂMETRO: 25MM OU 0,984. EXCLUSIVO PARA ME/EPP.",
+          "numero": "11",
+          "titulo": "33663 PRATOS DE 8 SPLASH LIGA B10:FABRICADA EM BRONZE B10, COM MARTELAMENTO SEMI- AUTOMÁTICO E COM SEU ACABAMENTO OXIDADO. SÃO PRATOS COM ÓTIMA ABERTURA, BRILHO E VOLUME. LIGA: BRONZE B10. PRATO COM ÓTIMA ABERTURA. ACABAMENTO FOSCO. ESPESSURA MÉDIA. TIMBR",
           "fase": "HOMOLOGADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
@@ -85406,17 +85358,17 @@
           "exclusivo_me": "SIM",
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
-          "valor_referencia": "181,40",
+          "valor_referencia": "2.788,20",
           "vencedor": "ALESSANDRA B. TONIETTI INSTRUMENTOS MUSICAIS",
-          "melhor_oferta": "83,00",
+          "melhor_oferta": "1.668,00",
           "total_itens": 1,
           "itens": [
             {
               "numero": "1",
-              "especificacao": "33650 BAQUETAS PARA SURDO:BAQUETA PARA SURDO MARCIAL. TAMBÉM UTILIZADO PARA PERCUTIR SURDÕES E ALFAIAS. MT 17 BAQUETA MASTER P/ SURDO (305MM) ESPECIFICAÇÕES TÉCNICAS: COMPRIMENTO: 280MM OU 11 13/16. DIÂMETRO: 25MM OU 0,984. EXCLUSIVO PARA ME/EPP.",
+              "especificacao": "33663 PRATOS DE 8 SPLASH LIGA B10:FABRICADA EM BRONZE B10, COM MARTELAMENTO SEMI- AUTOMÁTICO E COM SEU ACABAMENTO OXIDADO. SÃO PRATOS COM ÓTIMA ABERTURA, BRILHO E VOLUME. LIGA: BRONZE B10. PRATO COM ÓTIMA ABERTURA. ACABAMENTO FOSCO. ESPESSURA MÉDIA. TIMBRE EXPLOSIVO. PRATO COM BRILHO. VOLUME E DEFINIÇÃO. SUSTAIN MÉDIO NOS ATAQUES. PERFEITO CRASH ENCORPADO. ÓTIMO VOLUME E EXPLOSIVO, PROJEÇÃO E CORPO SONORO. EXCLUSIVO PARA ME/EPP.",
               "unidade": "Und.",
               "quantidade": "20,00",
-              "valor_referencia": "9,07"
+              "valor_referencia": "139,41"
             }
           ]
         },
@@ -85441,6 +85393,54 @@
               "unidade": "Und.",
               "quantidade": "40,00",
               "valor_referencia": "12,53"
+            }
+          ]
+        },
+        {
+          "numero": "13",
+          "titulo": "33664 PELE BATEDEIRA PARA BUMBO 22 POLEGADAS:LEITOSA. EXCLUSIVO PARA ME/EPP",
+          "fase": "HOMOLOGADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "886,00",
+          "vencedor": "R&A ELETROELETRONICO LTDA",
+          "melhor_oferta": "279,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "33664 PELE BATEDEIRA PARA BUMBO 22 POLEGADAS:LEITOSA. EXCLUSIVO PARA ME/EPP",
+              "unidade": "Und.",
+              "quantidade": "20,00",
+              "valor_referencia": "44,30"
+            }
+          ]
+        },
+        {
+          "numero": "14",
+          "titulo": "7702000011 PELE DE CAIXA BATEDEIRA LEITOSA14 POLEGADAS:EXCLUSIVO PARA ME/EPP.",
+          "fase": "HOMOLOGADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "364,00",
+          "vencedor": "MVB MUSIC LTDA",
+          "melhor_oferta": "253,40",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "7702000011 PELE DE CAIXA BATEDEIRA LEITOSA14 POLEGADAS:EXCLUSIVO PARA ME/EPP.",
+              "unidade": "Und.",
+              "quantidade": "20,00",
+              "valor_referencia": "18,20"
             }
           ]
         },
@@ -102089,30 +102089,6 @@
           ]
         },
         {
-          "numero": "13",
-          "titulo": "LOTE 13 - 34516 NITROPRUSSIATO DE SODIO 25MG/ML",
-          "fase": "HABILITAÇÃO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,00",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME AVISO",
-          "garantia": "CONFORME AVISO",
-          "valor_referencia": "2.079,00",
-          "vencedor": "CALIXTO MEDICAMENTOS LTDA",
-          "melhor_oferta": "1.900,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "34516 NITROPRUSSIATO DE SODIO25MG/ML:AMPOLA 2ML. EXCLUSIVO ME E EPP.",
-              "unidade": "AMP",
-              "quantidade": "100,00",
-              "valor_referencia": "20,79"
-            }
-          ]
-        },
-        {
           "numero": "14",
           "titulo": "LOTE 14 - 9901100151 OCITOCINA 5UI/ML",
           "fase": "HABILITAÇÃO",
@@ -102161,26 +102137,26 @@
           ]
         },
         {
-          "numero": "17",
-          "titulo": "LOTE 17 - 34518 SALBUTAMOL 100MCG/DOSE",
-          "fase": "FRACASSADO",
+          "numero": "16",
+          "titulo": "LOTE 16 - 34517 PROMETAZINA 25MG/ML",
+          "fase": "HABILITAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,00",
           "exclusivo_me": "SIM",
           "local_entrega": "CONFORME AVISO",
           "garantia": "CONFORME AVISO",
-          "valor_referencia": "1.747,50",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
+          "valor_referencia": "2.763,20",
+          "vencedor": "ZUCK PAPEIS LTDA",
+          "melhor_oferta": "2.755,35",
           "total_itens": 1,
           "itens": [
             {
               "numero": "1",
-              "especificacao": "34518 SALBUTAMOL 100MCG/DOSE:200 DOSES. EXCLUSIVO ME E EPP.",
-              "unidade": "FR",
-              "quantidade": "150,00",
-              "valor_referencia": "11,65"
+              "especificacao": "34517 PROMETAZINA 25MG/ML:AMPOLA 2ML. EXCLUSIVO ME EPP.",
+              "unidade": "AMP",
+              "quantidade": "785,00",
+              "valor_referencia": "3,52"
             }
           ]
         },
@@ -102205,6 +102181,30 @@
               "unidade": "FR",
               "quantidade": "150,00",
               "valor_referencia": "11,65"
+            }
+          ]
+        },
+        {
+          "numero": "18",
+          "titulo": "LOTE 18 - 34519 SIMETICONA 40MG",
+          "fase": "HABILITAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME AVISO",
+          "garantia": "CONFORME AVISO",
+          "valor_referencia": "314,64",
+          "vencedor": "CALIXTO MEDICAMENTOS LTDA",
+          "melhor_oferta": "182,16",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "34519 SIMETICONA 40MG:COMP. EXCLUSIVO ME E EPP.",
+              "unidade": "COM",
+              "quantidade": "1.656,00",
+              "valor_referencia": "0,19"
             }
           ]
         },
@@ -102233,26 +102233,26 @@
           ]
         },
         {
-          "numero": "19",
-          "titulo": "LOTE 19 - 34520 SUXAMETONIO 100MG INJ",
-          "fase": "HABILITAÇÃO",
+          "numero": "20",
+          "titulo": "LOTE 20 - 34521 VASOPRESSINA 20U/ML",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,00",
           "exclusivo_me": "SIM",
           "local_entrega": "CONFORME AVISO",
           "garantia": "CONFORME AVISO",
-          "valor_referencia": "592,80",
-          "vencedor": "MEDKAR FARMA LTDA",
-          "melhor_oferta": "592,80",
+          "valor_referencia": "3.804,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
           "total_itens": 1,
           "itens": [
             {
               "numero": "1",
-              "especificacao": "34520 SUXAMETONIO 100MG INJ:FRASCO-AMPOLA10ML. EXCLUSIVO ME E EPP.",
-              "unidade": "FR",
-              "quantidade": "30,00",
-              "valor_referencia": "19,76"
+              "especificacao": "34521 VASOPRESSINA 20U/ML:AMPOLA 1ML.EXCLUSIVO ME E EPP.",
+              "unidade": "AMP",
+              "quantidade": "150,00",
+              "valor_referencia": "25,36"
             }
           ]
         }
@@ -109884,30 +109884,6 @@
           ]
         },
         {
-          "numero": "11",
-          "titulo": "9900511826 COLETOR DE EXAME TIPO UNIVERSALESTÉRIL:por técnica de radiação ionizante capacidade de 80ml, fabricado em polipropileno transparente, graduado, sem pá, tampa de polietileno de alta densidade, com fechamento em rosca, na cor vermelha e embalado",
-          "fase": "HOMOLOGADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "22.500,00",
-          "vencedor": "SHL - SAUDE HOSPITALAR E LABORATORIAL",
-          "melhor_oferta": "8.280,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900511826 COLETOR DE EXAME TIPO UNIVERSALESTÉRIL:por técnica de radiação ionizante capacidade de 80ml, fabricado em polipropileno transparente, graduado, sem pá, tampa de polietileno de alta densidade, com fechamento em rosca, na cor vermelha e embalados individualmente. EXCLUSIVO PARA ME E EPP.",
-              "unidade": "UND",
-              "quantidade": "18.000,00",
-              "valor_referencia": "1,25"
-            }
-          ]
-        },
-        {
           "numero": "12",
           "titulo": "9900511827 COLETOR DE EXAME TIPO UNIVERSALNÃO ESTÉRIL:capacidade de 80ml, fabricado em polipropileno transparente, graduado, com pá, tampa de polietileno de alta densidade, com fechamento em rosca, cor branca, e embalados individualmente.EXCLUSIVO PARA",
           "fase": "HOMOLOGADO",
@@ -109928,6 +109904,30 @@
               "unidade": "UND",
               "quantidade": "20.000,00",
               "valor_referencia": "1,25"
+            }
+          ]
+        },
+        {
+          "numero": "13",
+          "titulo": "9900511828 COLETOR DE URINA ESECREÇÃO:sistema aberto 2000ml, tipo saco, pacote com 100 unidades, fabricado em material de polietileno transparente, atóxico, resistente, graduado a cada 100ml com capacidade de 2000ml, não estéril.EXCLUSIVO PARA ME E EPP.",
+          "fase": "FRACASSADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "8.723,88",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900511828 COLETOR DE URINA ESECREÇÃO:sistema aberto 2000ml, tipo saco, pacote com 100 unidades, fabricado em material de polietileno transparente, atóxico, resistente, graduado a cada 100ml com capacidade de 2000ml, não estéril.EXCLUSIVO PARA ME E EPP.",
+              "unidade": "PCT",
+              "quantidade": "132,00",
+              "valor_referencia": "66,09"
             }
           ]
         },
@@ -109980,8 +109980,32 @@
           ]
         },
         {
-          "numero": "15",
-          "titulo": "9900511830 COLETOR DE URINA SISTEMAFECHADO NEONATAL:com bureta com capacidade de 150ml com filtro bacteriológico, bolsa coletora de 400ml com clamp, conector luer lock e válvula antirefluxo, prolongamento em tubo de pvc com 60cm de comprimento, entre a b",
+          "numero": "16",
+          "titulo": "9900511831 COLETOR DE URINA INFANTILMASCULINO:tipo saco, pacote com 10 unidades, composto por saco com comprimento de 17 cm e largura de 10cm, com um furo pré-cortado e com película protetora não aderente e destacável.Confeccionadas em polietileno de ba",
+          "fase": "HOMOLOGADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "10.139,08",
+          "vencedor": "A.C.L ASSISTENCIA E COMERCIO DE PRODUTSOS PARA LABORATÓRIOS LTDA -EPP",
+          "melhor_oferta": "5.680,08",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900511831 COLETOR DE URINA INFANTILMASCULINO:tipo saco, pacote com 10 unidades, composto por saco com comprimento de 17 cm e largura de 10cm, com um furo pré-cortado e com película protetora não aderente e destacável.Confeccionadas em polietileno de baixa densidade, transparente, atóxico e maleável com capacidade para 100ml, com selagem de alta resistência nas bordas assegurando a integridade do saco para que não provoquem lesão ao paciente ou vazamento.EXCLUSIVO PARA ME E EPP.",
+              "unidade": "PCT",
+              "quantidade": "1.372,00",
+              "valor_referencia": "7,39"
+            }
+          ]
+        },
+        {
+          "numero": "17",
+          "titulo": "9900511832 COLETOR DE URINA SISTEMA ABERTO1200ml:descartável, atóxico, apirogênico, com forma cilíndrica, constituído de polietileno de alta densidade, tendo 200mm de altura e 9cm de diâmetro, com escala de volume com marcações em traços horizontais a ca",
           "fase": "DESERTO",
           "tipo": "GLOBAL",
           "quantidade": "1",
@@ -109989,65 +110013,17 @@
           "exclusivo_me": "SIM",
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
-          "valor_referencia": "15.151,25",
+          "valor_referencia": "4.960,00",
           "vencedor": "",
           "melhor_oferta": "0,00",
           "total_itens": 1,
           "itens": [
             {
               "numero": "1",
-              "especificacao": "9900511830 COLETOR DE URINA SISTEMAFECHADO NEONATAL:com bureta com capacidade de 150ml com filtro bacteriológico, bolsa coletora de 400ml com clamp, conector luer lock e válvula antirefluxo, prolongamento em tubo de pvc com 60cm de comprimento, entre a bureta e o ponto de coleta, estéril. EXCLUSIVO PARA ME E EPP.",
+              "especificacao": "9900511832 COLETOR DE URINA SISTEMA ABERTO1200ml:descartável, atóxico, apirogênico, com forma cilíndrica, constituído de polietileno de alta densidade, tendo 200mm de altura e 9cm de diâmetro, com escala de volume com marcações em traços horizontais a cada 8mm para 5ml de volume e a cada 16mm para 100ml de volume. O tubo extensor deve ter com os dois conectores terminais 1200mm de extensão.EXCLUSIVO PARA ME E EPP.",
               "unidade": "UND",
-              "quantidade": "575,00",
-              "valor_referencia": "26,35"
-            }
-          ]
-        },
-        {
-          "numero": "16",
-          "titulo": "9900511831 COLETOR DE URINA INFANTILMASCULINO:tipo saco, pacote com 10 unidades, composto por saco com comprimento de 17 cm e largura de 10cm, com um furo pré-cortado e com película protetora não aderente e destacável.Confeccionadas em polietileno de ba",
-          "fase": "HOMOLOGADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "10.139,08",
-          "vencedor": "A.C.L ASSISTENCIA E COMERCIO DE PRODUTSOS PARA LABORATÓRIOS LTDA -EPP",
-          "melhor_oferta": "5.680,08",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900511831 COLETOR DE URINA INFANTILMASCULINO:tipo saco, pacote com 10 unidades, composto por saco com comprimento de 17 cm e largura de 10cm, com um furo pré-cortado e com película protetora não aderente e destacável.Confeccionadas em polietileno de baixa densidade, transparente, atóxico e maleável com capacidade para 100ml, com selagem de alta resistência nas bordas assegurando a integridade do saco para que não provoquem lesão ao paciente ou vazamento.EXCLUSIVO PARA ME E EPP.",
-              "unidade": "PCT",
-              "quantidade": "1.372,00",
-              "valor_referencia": "7,39"
-            }
-          ]
-        },
-        {
-          "numero": "16",
-          "titulo": "9900511831 COLETOR DE URINA INFANTILMASCULINO:tipo saco, pacote com 10 unidades, composto por saco com comprimento de 17 cm e largura de 10cm, com um furo pré-cortado e com película protetora não aderente e destacável.Confeccionadas em polietileno de ba",
-          "fase": "HOMOLOGADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "10.139,08",
-          "vencedor": "A.C.L ASSISTENCIA E COMERCIO DE PRODUTSOS PARA LABORATÓRIOS LTDA -EPP",
-          "melhor_oferta": "5.680,08",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900511831 COLETOR DE URINA INFANTILMASCULINO:tipo saco, pacote com 10 unidades, composto por saco com comprimento de 17 cm e largura de 10cm, com um furo pré-cortado e com película protetora não aderente e destacável.Confeccionadas em polietileno de baixa densidade, transparente, atóxico e maleável com capacidade para 100ml, com selagem de alta resistência nas bordas assegurando a integridade do saco para que não provoquem lesão ao paciente ou vazamento.EXCLUSIVO PARA ME E EPP.",
-              "unidade": "PCT",
-              "quantidade": "1.372,00",
-              "valor_referencia": "7,39"
+              "quantidade": "800,00",
+              "valor_referencia": "6,20"
             }
           ]
         },
@@ -110072,6 +110048,30 @@
               "unidade": "UND",
               "quantidade": "5.622,00",
               "valor_referencia": "7,01"
+            }
+          ]
+        },
+        {
+          "numero": "19",
+          "titulo": "9900511834 COLETOR DE VIAS AÉREAS:frasco de70ml, uso único, descartável, proibido reprocessar. EXCLUSIVO PARA ME E EPP.",
+          "fase": "HOMOLOGADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "6.519,00",
+          "vencedor": "A.C.L ASSISTENCIA E COMERCIO DE PRODUTSOS PARA LABORATÓRIOS LTDA -EPP",
+          "melhor_oferta": "6.519,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900511834 COLETOR DE VIAS AÉREAS:frasco de70ml, uso único, descartável, proibido reprocessar. EXCLUSIVO PARA ME E EPP.",
+              "unidade": "UND",
+              "quantidade": "636,00",
+              "valor_referencia": "10,25"
             }
           ]
         },
@@ -135318,30 +135318,6 @@
           ]
         },
         {
-          "numero": "30",
-          "titulo": "LOTE 30",
-          "fase": "FRACASSADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,00",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "78.000,00",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "30",
-              "especificacao": "33476 CEFALEXINA:cápsula/comprimido, 500 mg. COTA EXCLUSIVA PARA ME E EPP.",
-              "unidade": "UND",
-              "quantidade": "130.000,00",
-              "valor_referencia": "0,60"
-            }
-          ]
-        },
-        {
           "numero": "31",
           "titulo": "LOTE 31",
           "fase": "HOMOLOGADO",
@@ -135386,6 +135362,30 @@
               "unidade": "UND",
               "quantidade": "1.200,00",
               "valor_referencia": "17,11"
+            }
+          ]
+        },
+        {
+          "numero": "33",
+          "titulo": "LOTE 33",
+          "fase": "FRACASSADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "34.287,30",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "33",
+              "especificacao": "33487 CEFTAZIDIMA sódica:pó para sol.inj 1Gr IV+ diluente. COTA EXCLUSIVA PARA ME E EPP.",
+              "unidade": "UND",
+              "quantidade": "2.241,00",
+              "valor_referencia": "15,30"
             }
           ]
         },
@@ -135726,8 +135726,8 @@
           ]
         },
         {
-          "numero": "47",
-          "titulo": "LOTE 47",
+          "numero": "48",
+          "titulo": "LOTE 48",
           "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
@@ -135735,17 +135735,17 @@
           "exclusivo_me": "SIM",
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
-          "valor_referencia": "58,40",
+          "valor_referencia": "9.420,00",
           "vencedor": "",
           "melhor_oferta": "0,00",
           "total_itens": 1,
           "itens": [
             {
-              "numero": "47",
-              "especificacao": "33491 DILTIAZEM, CLORIDRATO 30MG:comprimido. COTA EXCLUSIVA PARA ME E EPP.",
+              "numero": "48",
+              "especificacao": "33492 DIMENIDRINATO 3 MG/ML + PIRIDOXINA 5 MG/ML + GLICOSE 100 MG/ML + FRUTOSE 100 MG/ML:Ampola 10 ML. COTA EXCLUSIVA PARA ME E EPP.",
               "unidade": "UND",
-              "quantidade": "365,00",
-              "valor_referencia": "0,16"
+              "quantidade": "2.000,00",
+              "valor_referencia": "4,71"
             }
           ]
         },
@@ -135822,26 +135822,26 @@
           ]
         },
         {
-          "numero": "51",
-          "titulo": "LOTE 51",
-          "fase": "DESERTO",
+          "numero": "52",
+          "titulo": "LOTE 52",
+          "fase": "HOMOLOGADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,00",
           "exclusivo_me": "SIM",
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
-          "valor_referencia": "2.580,00",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
+          "valor_referencia": "6.863,22",
+          "vencedor": "ZUCK PAPEIS LTDA",
+          "melhor_oferta": "6.863,22",
           "total_itens": 1,
           "itens": [
             {
-              "numero": "51",
-              "especificacao": "33470 Esporos de bacillus clausii:em suspensão pro biótica aquosa 5 ML, FLACONETE. COTA EXCLUSIVA PARA ME E EPP.",
+              "numero": "52",
+              "especificacao": "9901100062 FENITOINA sódica:solução injetável 50mg/ML. AMPOLA 5ML. COTA EXCLUSIVA PARA ME E EPP.",
               "unidade": "UND",
-              "quantidade": "600,00",
-              "valor_referencia": "4,30"
+              "quantidade": "3.771,00",
+              "valor_referencia": "1,82"
             }
           ]
         },
@@ -135870,26 +135870,26 @@
           ]
         },
         {
-          "numero": "53",
-          "titulo": "LOTE 53",
-          "fase": "FRACASSADO",
+          "numero": "54",
+          "titulo": "LOTE 54",
+          "fase": "HOMOLOGADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,00",
           "exclusivo_me": "SIM",
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
-          "valor_referencia": "4.927,03",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
+          "valor_referencia": "8.520,00",
+          "vencedor": "ZUCK PAPEIS LTDA",
+          "melhor_oferta": "8.460,00",
           "total_itens": 1,
           "itens": [
             {
-              "numero": "53",
-              "especificacao": "33466 FENOBARBITAL sódico:solução injetável 200mg. AMPOLA 2ML. COTA EXCLUSIVA PARA ME E EPP.",
+              "numero": "54",
+              "especificacao": "9901100096 GENTAMICINA, SULFATO 80 MG:SOL INJ AMPOLA 2ML. COTA EXCLUSIVA PARA ME E EPP.",
               "unidade": "UND",
-              "quantidade": "1.741,00",
-              "valor_referencia": "2,83"
+              "quantidade": "6.000,00",
+              "valor_referencia": "1,42"
             }
           ]
         },
@@ -135942,26 +135942,26 @@
           ]
         },
         {
-          "numero": "56",
-          "titulo": "LOTE 56",
-          "fase": "FRACASSADO",
+          "numero": "57",
+          "titulo": "LOTE 57",
+          "fase": "HOMOLOGADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,00",
           "exclusivo_me": "SIM",
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
-          "valor_referencia": "690,00",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
+          "valor_referencia": "37.749,52",
+          "vencedor": "TERRA SUL COMERCIO DE MEDICAMENTOS LTDA.",
+          "melhor_oferta": "34.472,84",
           "total_itens": 1,
           "itens": [
             {
-              "numero": "56",
-              "especificacao": "9901100080 IVABRADINA, 5mg:comprimido. COTA EXCLUSIVA PARA ME E EPP.",
+              "numero": "57",
+              "especificacao": "33501 LEVOFLOXACINO:sol. Inj. 5mg/ML. Fr. Com100 ML. COTA EXCLUSIVA PARA ME E EPP.",
               "unidade": "UND",
-              "quantidade": "300,00",
-              "valor_referencia": "2,30"
+              "quantidade": "2.708,00",
+              "valor_referencia": "13,94"
             }
           ]
         },
@@ -154000,30 +154000,6 @@
           ]
         },
         {
-          "numero": "59",
-          "titulo": "LOTE 59",
-          "fase": "DESERTO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "975,15",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "32257 Copo dosador:para aleitamento materno atóxico graduado de 10 em 10 ml ,com tampa, resistente ao autoclave ,com a capacidade de 60ml para alimentação de recém-nascido, livre de bisfenol. COTA EXCLUSIVA PARA ME e EPP.",
-              "unidade": "UND",
-              "quantidade": "165,00",
-              "valor_referencia": "5,91"
-            }
-          ]
-        },
-        {
           "numero": "60",
           "titulo": "LOTE 60",
           "fase": "HOMOLOGADO",
@@ -154048,8 +154024,8 @@
           ]
         },
         {
-          "numero": "62",
-          "titulo": "LOTE 62",
+          "numero": "61",
+          "titulo": "LOTE 61",
           "fase": "HOMOLOGADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
@@ -154057,17 +154033,17 @@
           "exclusivo_me": "SIM",
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
-          "valor_referencia": "760,00",
+          "valor_referencia": "2.025,31",
           "vencedor": "AUTOMX SOLUÇÕES EIRELI-ME",
-          "melhor_oferta": "760,00",
+          "melhor_oferta": "2.025,31",
           "total_itens": 1,
           "itens": [
             {
               "numero": "1",
-              "especificacao": "32264 UNIDADES DE CAIXA TÉRMICA - 5 LITROS:CAIXA TÉRMICA COM TERMÔMETRO DIGITAL; PARA TRANSPORTE DE MATERIAIS BIOLÓGICOS, VACINAS, MEDICAMENTOS, AMOSTRA PARA ANÁLISES CLÍNICAS, HEMOCOMPONENTES, ALIMENTOS, MATERIAIS E PRODUTOS SENSÍVEIS ÀS VARIAÇÕES DE TEMPERATURA; FAIXA DE UTILIZAÇÃO-20ºC+10ºC/F, PRECISÃO ± 1ºC/F; RESOLUÇÃO 0,1ºC ESCALA; BATERIA CONVENCIONAL AA OU AAA; ALÇA EM PP (POLIPROPILENO); PAREDE INTERNA EM PS (POLIESTIRENO); ENTRE PAREDES DE PU (POLIURETANO); ACABAMENTO DOBRADIÇAS NA TAMPA; ALARME DE ALTA E BAIXA TEMPERATURA COTA EXCLUSIVA PARA ME e EPP.",
+              "especificacao": "32263 CAIXAS ISOTÉRMICAS CAIXA TÉRMICA PARA TRANSPORTE DE LEITE HUMANO:COM CAPACIDADE DE 15 LITROS, POLIURETANO (INTERNO) POLIETILENO (EXTERNO), MANTENDOA REFRIGERACAO POR TERMOMETRO DIGITAL P/TEMPERATURA INTERNA C/F SELECIONAVEL. RESIST.A - 40 A 90 GRAUS CELCIUS, PORTATIL, C/ TAMPA VASCULANTE, DIVISORIAS INTERCAMBIAVEIS, P/ ISOLAR O GELO RECICLAVEL. COTA EXCLUSIVA PARA ME e EPP.",
               "unidade": "UND",
-              "quantidade": "5,00",
-              "valor_referencia": "152,00"
+              "quantidade": "7,00",
+              "valor_referencia": "289,33"
             }
           ]
         },
@@ -154092,6 +154068,30 @@
               "unidade": "UND",
               "quantidade": "5,00",
               "valor_referencia": "152,00"
+            }
+          ]
+        },
+        {
+          "numero": "63",
+          "titulo": "LOTE 63",
+          "fase": "HOMOLOGADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "1.275,48",
+          "vencedor": "DELTA SHOP - DISTRIBUIDORA DE PRODUTOS HOSPITALARES LTDA",
+          "melhor_oferta": "555,93",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "32265 TERMOHIGROMETRO:TERMOHIGROMETRO INSTRUMENTO PARA MEDIÇÃO DE TEMPERATURA INTERNA E EXTERNA, TEMPERATURAS MÁXIMA E MÍNIMA, UMIDADE INTERNA. COM BOTÃO SELETOR DA UNIDADE ºC/ºF, BOTAO INT/ EXT. EM PLÁSTICO ABS, DIGITAL, COM RABICHO, ESCALA DO TERMÔMETRO, 0 A +50 GRAU CELSIUS, FAIXA DE UMIDADE 15 A 95% UR, PRECISÃO DO TERMÔMETRO +/-1 GRAU CELSIUS PRECISÃO DO HIGROMETRO 5% UR, RESOLUÇAO DO TERMOMETRO 0,1 GRAU CELSIUS, RESOLUCAO DO HIGROMETRO 1%UR, APROXIMADAMENTE 35X27MM, PILHA 1,5 VOLTS - TAMANHO AAA. DEVE POSSUIR GARANTIA DE NO MINIMO 6 MESES. ACOMPANHA MANUAL DE OPERACAO E CERTIFICADO DE CALIBRACAO REALIZADA POR EMPRESA CREDENCIADA AO INMETRO (RBC) POR UNIDADE DE TERMOHIGROMETRO. COTA EXCLUSIVA PARA ME e EPP.",
+              "unidade": "UND",
+              "quantidade": "9,00",
+              "valor_referencia": "141,72"
             }
           ]
         },
@@ -155468,54 +155468,6 @@
           ]
         },
         {
-          "numero": "6",
-          "titulo": "LOTE 6",
-          "fase": "FRACASSADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "8.225,00",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900800136 ARQUIVO ARMÁRIO MISTO:ArmárioArquivo Misto 1 porta e 2 gavetas p/ pasta suspensa Tampo e corpo MDP 15 mm Fundo MDF 3 mm Medidas: L 0,45 x P 0,51 x A 1,36 m2 fechaduras 2 chaves2 Gavetas para pasta suspensa 1 porta1 prateleira interna Corrediça metalica Pés niveladoresCores disponiveis tampo: branco",
-              "unidade": "UND",
-              "quantidade": "25,00",
-              "valor_referencia": "329,00"
-            }
-          ]
-        },
-        {
-          "numero": "6",
-          "titulo": "LOTE 6",
-          "fase": "FRACASSADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "8.225,00",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900800136 ARQUIVO ARMÁRIO MISTO:ArmárioArquivo Misto 1 porta e 2 gavetas p/ pasta suspensa Tampo e corpo MDP 15 mm Fundo MDF 3 mm Medidas: L 0,45 x P 0,51 x A 1,36 m2 fechaduras 2 chaves2 Gavetas para pasta suspensa 1 porta1 prateleira interna Corrediça metalica Pés niveladoresCores disponiveis tampo: branco",
-              "unidade": "UND",
-              "quantidade": "25,00",
-              "valor_referencia": "329,00"
-            }
-          ]
-        },
-        {
           "numero": "7",
           "titulo": "LOTE 7",
           "fase": "FRACASSADO",
@@ -155536,6 +155488,54 @@
               "unidade": "UND",
               "quantidade": "32,00",
               "valor_referencia": "363,33"
+            }
+          ]
+        },
+        {
+          "numero": "8",
+          "titulo": "LOTE 8",
+          "fase": "HOMOLOGADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "23.209,80",
+          "vencedor": "ARTFLEX MOVEIS ESCOLARES LTDA",
+          "melhor_oferta": "18.999,60",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "32112 ARMÁRIO BAIXO 2 PORTAS:com chave, corcinza; dimensões: altura 75, profundidade 42, largura 80 cm, confeccionado em material da estrutura mdf",
+              "unidade": "UND",
+              "quantidade": "60,00",
+              "valor_referencia": "386,83"
+            }
+          ]
+        },
+        {
+          "numero": "9",
+          "titulo": "LOTE 9",
+          "fase": "HOMOLOGADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "20.159,23",
+          "vencedor": "PROSPERITY COMERCIO E SERVIÇOS LTDA",
+          "melhor_oferta": "18.850,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "32110 ARMÁRIO ROUPEIRO DE AÇO 20:Locker CorCinza Com Nf, Roupeiro 20 portas pequenas com pitão para cadeado ou fechadura. Produto de alta qualidade e resistência. Ideal para vestiários, clubes, supermercados, escolas, academias, hospitais, e muito mais! Atende as NRs 18 e 24 do Ministério do Trabalho.",
+              "unidade": "UND",
+              "quantidade": "13,00",
+              "valor_referencia": "1.550,71"
             }
           ]
         },
@@ -235682,8 +235682,8 @@
       "tipo_contrato": "REGISTRO DE PREÇO",
       "publicacao": "12/03/2026 20:03",
       "inicio_recepcao": "16/03/2026 08:00",
-      "fim_recepcao": "30/03/2026 13:45",
-      "inicio_disputa": "30/03/2026 14:00",
+      "fim_recepcao": "31/03/2026 13:45",
+      "inicio_disputa": "31/03/2026 14:00",
       "objeto": "Contratação de empresa especializada na prestação de serviço de contratação de empresa especializada na organização e execução de eventos, com atuação integrada e responsabilidade única por todas as etapas necessárias à sua realização, a fim de atender as demandas da Secretaria Municipal de Administração e demais Secretarias.",
       "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DaFKD6jM5PAQZdxNwoOrgaUDaKsl5YeZM64ihos7M2SMtHWiik4Sk2I3mJghTBr1Jlr8jMwDeHWUeK66n6fRxI%2FVmbiyiosyhcGTxsA7juLw%3D",
       "total_lotes": 1,
@@ -239827,7 +239827,7 @@
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "96/2026",
       "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "RECEPÇÃO DE PROPOSTAS",
+      "situacao": "HABILITAÇÃO",
       "condutor": "JONATAS DA SILVA SOUSA",
       "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
       "tipo_contrato": "AQUISIÇÃO",
@@ -239843,16 +239843,16 @@
         {
           "numero": "1",
           "titulo": "TABLET",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "fase": "HABILITAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,00",
           "exclusivo_me": "NÃO",
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
+          "valor_referencia": "523.041,75",
+          "vencedor": "INFOTRON LTDA",
+          "melhor_oferta": "400.000,00",
           "total_itens": 1,
           "itens": [
             {
@@ -239860,7 +239860,7 @@
               "especificacao": "\"82582500009 TABLET:Android 14 ou superior; processador octa- core 2.0 GHz ou superior; memória RAM de 4 GB ou superior; Armazenamento interno de 64 GB ou superior; tela de 8 polegadas ou maior, com boa visibilidade sob luz solar; câmera traseira de 8 MP ou superior, para registros em campo; conectividade Wi-Fi 5G ou superior; GPS Integrado, com boa precisão (para georreferenciamento das visitas); bateria com, no mínimo 5000 mAh (para suportar o uso em campo por 8h ou mais). O equipamento deverá ser compatível com os softwares oficiais de coleta de dados utilizados pelo PNCD. devendo suportar o aplicativo oficial de coleta de dados do PNCD (ex: e- Visita, SISFAD, ou outro sistema local); com aplicativo ou sistema de coleta de dados que permita o preenchimento digital dos formulários, armazenamento local com sincronização posterior (offline/online), exportação de relatórios ou envio para sistemas centrais (SISPNCD, e-SUS, etc.).Atualizações periódicas de segurança e backup automático (quando conectado à rede).Deve vir acompanhado de capa protetora e película (uso externo e intenso).Modelos de referência: Samsung Galaxy Tab A9 , 64GB, 5G, Wi-Fi, Tela de 11\"\", Android 14, 4GB RAM, Câmera Traseira 8MP, Bateria de 7.040mAh - Sm-X216bzaazto/ ou equivalente.\"",
               "unidade": "UN",
               "quantidade": "385,00",
-              "valor_referencia": ""
+              "valor_referencia": "1.358,55"
             }
           ]
         }
@@ -239963,7 +239963,7 @@
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "91/2026",
       "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "RECEPÇÃO DE PROPOSTAS",
+      "situacao": "HABILITAÇÃO",
       "condutor": "SERGIO CARNEIRO CAVALCANTI DE AZEVEDO",
       "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
       "tipo_contrato": "AQUISIÇÃO",
@@ -239979,16 +239979,16 @@
         {
           "numero": "1",
           "titulo": "LOTE I",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "fase": "HABILITAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
           "exclusivo_me": "NÃO",
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
+          "valor_referencia": "55.304,98",
+          "vencedor": "CLEBER SANTANA SANTOS",
+          "melhor_oferta": "45.000,00",
           "total_itens": 5,
           "itens": [
             {
@@ -239996,51 +239996,51 @@
               "especificacao": "9900515307 FILAMENTO PLA DE ALTO DESEMPENHO PARAIMPRESSÃO 3D:diâmetro nominal 1,75mm com tolerância máxima ±0,02 mm, densidade homogênea e controle dimensional rigoroso; faixa de impressão recomendada entre 190°C e 215 °C; fornecido em rolos padronizados de 1 kg (cores variadas: branco, preto, cinza, azul metálico, vermelho, verde, marrom). Material com baixa tendência a empenamento (warping), boa aderência entre camadas, acabamento superficial uniforme e compatibilidade com impressoras FDM/FFF de bancada e industriais leves;o lote entregue deverá ser acompanhado de certificado de conformidade e relatório de controle dimensional.",
               "unidade": "ROL",
               "quantidade": "200,00",
-              "valor_referencia": ""
+              "valor_referencia": "115,46"
             },
             {
               "numero": "2",
               "especificacao": "36792 FILAMENTO REFORÇADO COM FIBRA DE CARBONOPARA IMPRESSORA 3D:diâmetro 1,75mm com tolerância ±0,02 mm, temperatura de extrusão entre 180 °C e 240 °C, fornecido em rolos padronizados de 1 kg , cor preta; composto por matriz termoplástica com partículas/filamentos de fibra de carbono que aumentam rigidez, resistência mecânica e estabilidade dimensional, indicado para peças estruturais e prototipagem avançada em projetos de robótica educacional. Recomendável o uso de bicos endurecidos ou revestidos para evitar desgaste prematuro.",
               "unidade": "ROL",
               "quantidade": "20,00",
-              "valor_referencia": ""
+              "valor_referencia": "187,30"
             },
             {
               "numero": "3",
               "especificacao": "9900515308 FILAMENTO FLEXÍVEL (TPU/ TPE) PARAIMPRESSORA 3D::diâmetro 1,75 mm ±0,02 mm; shore aproximado 95A (ou conforme necessidade didática), faixa de impressão entre 220 °C e 240 °C, fornecido em rolos padronizados de 1 kg, excelente retomada elástica, resistência à abrasão e fadiga, apropriado para componentes com movimento (juntas, pneus, capas protetoras). Requer compatibilidade de extrusora (direta ou bowden com guia adequada) e regulagem específica de retracción.",
               "unidade": "ROL",
               "quantidade": "20,00",
-              "valor_referencia": ""
+              "valor_referencia": "167,22"
             },
             {
               "numero": "4",
               "especificacao": "36793 CONJUNTO DE BICOS (NOZZLES) SOBRESSALENTES PARA IMPRESSORAS 3D::incluindo bicosde latão, aço endurecido e bicos revestidos (diâmetros 0,2 mm; 0,4 mm; 0,6 mm), destinados a filamentos comuns e compostos abrasivos (fibra de carbono). Cada kit deverá conter peças de reposição para manutenção preventiva periódica e substituição em caso de desgaste, com garantia de compatibilidade com os modelos adquiridos.",
               "unidade": "KIT",
               "quantidade": "10,00",
-              "valor_referencia": ""
+              "valor_referencia": "270,80"
             },
             {
               "numero": "5",
               "especificacao": "36794 IMPRESSORA 3D DE ÚLTIMA GERAÇÃO(TECNOLOGIA FDM/FFF):modelo fechado para uso educacional e prototipagem: equipamento com estrutura cúbica metálica reforçada, painéis de proteção e sistema de isolamento térmico, volume útil de impressão mínimo de 300 × 300 × 300 mm, cama aquecida até 120 °C, hotend totalmente metálico capaz de operar até 300 °C (compatível com PLA, PETG, ABS, ASA, TPU, Nylon e compostos de fibra de carbono). Possui aceleração de 2000 mm/s² e velocidade de impressão de até 250 mm/s, com cada eixo X/Y/Z acionado por motor de passo de alta precisão. Inclui eixo de transmissão de aço para sincronização das correias do eixo Y e motor 42-48 de alto torque, garantindo movimentos ágeis e precisos. Conta com extrusora direta totalmente metálica com engrenagens duplas e relação de 1:3,5, adaptada a filamentos flexíveis, fornecendo força de extrusão potente e uniforme de até 80 N. Dispõe de nivelamento automático da mesa, recuperação de impressão após queda de energia, sensores de fim de filamento, iluminação interna, interface touchscreen colorida, conectividade via USB, cartão SD, Wi-Fi e controle remoto via rede local. O fornecimento deve incluir manual técnico, certificado de calibração, garantia mínima de 12 meses, instalação, calibração inicial, testes de impressão e treinamento operacional para equipe pedagógica, além de um kit inicial de insumos e ferramentas.",
               "unidade": "Und.",
               "quantidade": "2,00",
-              "valor_referencia": ""
+              "valor_referencia": "11.207,29"
             }
           ]
         },
         {
           "numero": "2",
           "titulo": "LOTE 2",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "fase": "HABILITAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
           "exclusivo_me": "NÃO",
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
+          "valor_referencia": "14.190,72",
+          "vencedor": "CLEBER SANTANA SANTOS",
+          "melhor_oferta": "14.190,00",
           "total_itens": 2,
           "itens": [
             {
@@ -240048,14 +240048,14 @@
               "especificacao": "36795 Serviço de manutenção preventiva (pacote anual)::Execução de serviços de manutenção preventiva em impressoras 3D de última geração pertencentes ao Município, abrangendo plano de visitas técnicas periódicas, com periodicidade mínima trimestral ou mensal, conforme a intensidade de uso, contemplando procedimentos de limpeza, lubrificação, inspeção, verificação e ajustes dos componentes mecânicos e eletrônicos, bem como a substituição programada de nozzles conforme o uso, a cada 3 a 6 meses, com o objetivo de prevenir falhas, prolongar a vida útil dos equipamentos e assegurar a continuidade das atividades.",
               "unidade": "SER",
               "quantidade": "24,00",
-              "valor_referencia": ""
+              "valor_referencia": "295,64"
             },
             {
               "numero": "2",
               "especificacao": "9903311761 SERVIÇO DE MANUTENÇÃO CORRETIVA(PACOTE ANUAL)::Execução de serviços de manutenção corretiva em impressoras 3D de última geração pertencentes ao Município, abrangendo suporte técnico remoto e atendimento corretivo em caso de falhas ou defeitos, com prazo máximo de resposta técnica de até 48 (quarenta e oito) horas úteis, incluindo diagnóstico, correção dos problemas identificados e reposição de peças sujeitas a desgaste, conforme as condições de garantia contratual.",
               "unidade": "SER",
               "quantidade": "24,00",
-              "valor_referencia": ""
+              "valor_referencia": "295,64"
             }
           ]
         }
@@ -240066,7 +240066,7 @@
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "1232/2025",
       "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "RECEPÇÃO DE PROPOSTAS",
+      "situacao": "HABILITAÇÃO",
       "condutor": "SERGIO CARNEIRO CAVALCANTI DE AZEVEDO",
       "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
       "tipo_contrato": "REGISTRO DE PREÇO",
@@ -240082,16 +240082,16 @@
         {
           "numero": "1",
           "titulo": "LOTE 1",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "fase": "HABILITAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
           "exclusivo_me": "SIM",
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
+          "valor_referencia": "18.340,10",
+          "vencedor": "PRONTUS COMERCIAL LTDA",
+          "melhor_oferta": "17.145,00",
           "total_itens": 15,
           "itens": [
             {
@@ -240099,121 +240099,121 @@
               "especificacao": "8401500001 Avental comum impermeável:proteção contra respingos de líquidos, ingredientes e substâncias químicas, material de Nylon emborrachado. EXCLUSIVO PARA ME/EPP.",
               "unidade": "Und.",
               "quantidade": "100,00",
-              "valor_referencia": ""
+              "valor_referencia": "51,89"
             },
             {
               "numero": "2",
               "especificacao": "8401500002 Calça Brim Branca Uniforme Profissional GG:confeccionada em tecido brim pesado, 100% algodão. Possui elástico na cintura e cadarço para um melhor ajuste no corpo. Possui 3 bolsos, sendo 2 laterais e 1 traseiro. Cor branca, tamanho GG 50/52 - cintura 120 cm - comprimento 110 cm.EXCLUSIVO PARA ME/EPP.",
               "unidade": "Und.",
               "quantidade": "25,00",
-              "valor_referencia": ""
+              "valor_referencia": "70,72"
             },
             {
               "numero": "3",
               "especificacao": "8401500003 Calça Brim Branca Uniforme Profissional P:confeccionada em tecido brim pesado, 100% algodão. Possui elástico na cintura e cadarço para um melhor ajuste no corpo. Possui 3 bolsos, sendo 2 laterais e 1 traseiro. Cor branca, tamanho P 38/40 - cintura 100 cm - comprimento 106 cm",
               "unidade": "Und.",
               "quantidade": "25,00",
-              "valor_referencia": ""
+              "valor_referencia": "70,72"
             },
             {
               "numero": "4",
               "especificacao": "8401500004 Calça Brim Branca Uniforme Profissional M:confeccionada em tecido brim pesado,100% algodão. Possui elástico na cintura e cadarço para um melhor ajuste no corpo. Possui 3 bolsos, sendo 2 laterais e 1 traseiro. Cor branca Do tamanho M 42/44 - cintura 106 cm - comprimento 107 cm.EXCLUSIVO PARA ME/EPP.",
               "unidade": "Und.",
               "quantidade": "25,00",
-              "valor_referencia": ""
+              "valor_referencia": "70,72"
             },
             {
               "numero": "5",
               "especificacao": "8401500005 Calça Brim Branca Uniforme Profissional G:confeccionada em tecido brim pesado,100% algodão. Possui elástico na cintura e cadarço para um melhor ajuste no corpo. Possui 3 bolsos, sendo 2 laterais e 1 traseiro. Cor branca, tamanho G 46/48 - cintura 112 cm - comprimento 108 cm.EXCLUSIVO PARA ME/EPP.",
               "unidade": "Und.",
               "quantidade": "25,00",
-              "valor_referencia": ""
+              "valor_referencia": "70,72"
             },
             {
               "numero": "6",
               "especificacao": "8401500006 Calçado Branco Padaria ou cozinha:fabricado em EVA, unissex, no estilo galochas, cono curto, sem salto, material de cabedal sintético, material da sola de borracha, forma de bico arredondada, a prova d?água, sem zíper e sem cordões, com sola antiderrapante. Número 38, cor banca. EXCLUSIVO PARA ME/EPP.",
               "unidade": "PAR",
               "quantidade": "6,00",
-              "valor_referencia": ""
+              "valor_referencia": "73,64"
             },
             {
               "numero": "7",
               "especificacao": "36222 Calçado Branco Padaria ou cozinha:fabricado em EVA, unissex, no estilo galochas, cano curto, sem salto, material de cabedal sintético, material da sola de borracha, forma de bico arredondada, a prova d?água, sem zíper e sem cordões, com sola antiderrapante. Número 39, cor banca. EXCLUSIVO PARA ME/EPP.",
               "unidade": "PAR",
               "quantidade": "10,00",
-              "valor_referencia": ""
+              "valor_referencia": "73,64"
             },
             {
               "numero": "8",
               "especificacao": "8401500007 Calçado Branco Padaria ou cozinha:fabricado em EVA, unissex, no estilo galochas, cano curto, sem salto, material de cabedal sintético, material da sola de borracha, forma de bico arredondada, a prova d?água, sem zíper e sem cordões, com sola antiderrapante. Número 40, cor banca. EXCLUSIVO PARA ME/EPP.",
               "unidade": "PAR",
               "quantidade": "10,00",
-              "valor_referencia": ""
+              "valor_referencia": "72,20"
             },
             {
               "numero": "9",
               "especificacao": "8401500008 Calçado Branco Padaria ou cozinha:fabricado em EVA, unissex, no estilo galochas, cano curto, sem salto, material de cabedal sintético, material da sola de borracha, forma de bico arredondada, a prova d?água, sem zíper e sem cordões, com sola antiderrapante. Número 41, cor banca. EXCLUSIVO PARA ME/EPP.",
               "unidade": "PAR",
               "quantidade": "8,00",
-              "valor_referencia": ""
+              "valor_referencia": "72,20"
             },
             {
               "numero": "10",
               "especificacao": "8401500009 Calçado Branco Padaria ou cozinha:fabricado em EVA, unissex, no estilo galochas, cano curto, sem salto, material de cabedal sintético, material da sola de borracha, forma de bico arredondada, a prova d?água, sem zíper e sem cordões, com sola antiderrapante. Número 36, cor banca. EXCLUSIVO PARA ME/EPP.",
               "unidade": "PAR",
               "quantidade": "5,00",
-              "valor_referencia": ""
+              "valor_referencia": "73,64"
             },
             {
               "numero": "11",
               "especificacao": "8401500010 Jaleco para padeiro G:modelo unissex, tecido Oxford cor branca, com gola, sem alça traseira, manga curta, fechamento frontal em botões, com 3 bolsos frontais (1 superior esquerdo e 2 inferiores) aplicados com costura dupla e reforço no início e final das costuras, sendo que no bolsa superior esquerdo (lado de quem veste), com a logo da Prefeitura Municipal de Teixeira de Freitas e Programa Bolsa Família em serigrafia. Tamanho G. EXCLUSIVO PARA ME/EPP.",
               "unidade": "Und.",
               "quantidade": "8,00",
-              "valor_referencia": ""
+              "valor_referencia": "73,80"
             },
             {
               "numero": "12",
               "especificacao": "8401500011 Jaleco para padeiro P:modelo unissex, tecido Oxford cor branca, com gola, sem alça traseira, manga curta, fechamento frontal em botões, com 3 bolsos frontais (1 superior esquerdo e 2 inferiores) aplicados com costura dupla e reforço no início e final das costuras, sendo que no bolsa superior esquerdo (lado de quem veste), com a logo da Prefeitura Municipal de Teixeira de Freitas e Programa Bolsa Família em serigrafia. Tamanho P. EXCLUSIVO PARA ME/EPP.",
               "unidade": "Und.",
               "quantidade": "15,00",
-              "valor_referencia": ""
+              "valor_referencia": "73,80"
             },
             {
               "numero": "13",
               "especificacao": "8401500012 Jaleco para padeiro M:modelo unissex, tecido Oxford cor branca, com gola, sem alça traseira, manga curta, fechamento frontal em botões, com 3 bolsos frontais (1 superior esquerdo e 2 inferiores) aplicados com costura dupla e reforço no início e final das costuras, sendo que no bolsa superior esquerdo (lado de quem veste), com a logo da Prefeitura Municipal de Teixeira de Freitas e Programa Bolsa Família em serigrafia. Tamanho M. EXCLUSIVO PARA ME/EPP.",
               "unidade": "Und.",
               "quantidade": "8,00",
-              "valor_referencia": ""
+              "valor_referencia": "73,77"
             },
             {
               "numero": "14",
               "especificacao": "36225 Touca descartável:sanfonada elástica em TNT, caixa com 100 unidades Dimensões (AxLxP) 17,26,11cm. EXCLUSIVO PARA ME/EPP.",
               "unidade": "CX",
               "quantidade": "10,00",
-              "valor_referencia": ""
+              "valor_referencia": "11,24"
             },
             {
               "numero": "15",
               "especificacao": "36226 Touca Tule Oxford:circunferência: 64 cm - (regulável); comprimento tiras: 30 cm; altura: 15 cm; material: oxford (100% poliester); unissex, cor branca. EXCLUSIVO PARA ME/EPP.",
               "unidade": "Und.",
               "quantidade": "30,00",
-              "valor_referencia": ""
+              "valor_referencia": "27,77"
             }
           ]
         },
         {
           "numero": "2",
           "titulo": "LOTE 2",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "fase": "HABILITAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
           "exclusivo_me": "SIM",
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
+          "valor_referencia": "1.551,98",
+          "vencedor": "58.291.882 ROZANGELA DA SILVA GUEDES",
+          "melhor_oferta": "1.551,84",
           "total_itens": 3,
           "itens": [
             {
@@ -240221,37 +240221,37 @@
               "especificacao": "7303000002 Faca de cozinha de 8 polegadas:32,6cmx4cmx1,5cm, em aço inoxidável. EXCLUSIVO PARA ME/EPP.",
               "unidade": "Und.",
               "quantidade": "10,00",
-              "valor_referencia": ""
+              "valor_referencia": "20,98"
             },
             {
               "numero": "2",
               "especificacao": "7303000003 Faca para Carne 14 polegadas:com lâmina em aço inox e cabo em polipropileno branco. EXCLUSIVO PARA ME/EPP.",
               "unidade": "Und.",
               "quantidade": "10,00",
-              "valor_referencia": ""
+              "valor_referencia": "112,69"
             },
             {
               "numero": "3",
               "especificacao": "7302000007 KIT HIGIENIZAÇÃO (dispenser/porta papel e toalha):kit com dispenser para papel toalha interfolha e uma saboneteira de 800 ml com reservatório. EXCLUSIVO PARA ME/EPP.",
               "unidade": "KIT",
               "quantidade": "4,00",
-              "valor_referencia": ""
+              "valor_referencia": "53,82"
             }
           ]
         },
         {
           "numero": "3",
           "titulo": "LOTE 3",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "fase": "HABILITAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
           "exclusivo_me": "SIM",
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
+          "valor_referencia": "10.224,67",
+          "vencedor": "58.291.882 ROZANGELA DA SILVA GUEDES",
+          "melhor_oferta": "10.224,44",
           "total_itens": 10,
           "itens": [
             {
@@ -240259,70 +240259,70 @@
               "especificacao": "8406500010 Luva de segurança confeccionada em borracha nitrílica P:antiderrapante na palma, interior flocado. Proteção das mãos do usuário contra agentes abrasivos, escoriantes, cortantes e perfurantes e contra agentes químicos tais como Classe A - Tipo 2: Agressivos básicos; Classe B - Detergentes, Sabões, Amoníacos e similares e Classe C - Tipo 1: Hidrocarbonetos Alifáticos, Tipo 2: Hidrocarbonetos aromáticos, Tipo 3: Álcoois, Tipo 4: Éteres. Comprimento de aproximadamente 33 cm e espessura de cerca de 0,40mm, tamanhos P. (CA: 26.098). EXCLUSIVO PARA ME/EPP.",
               "unidade": "PAR",
               "quantidade": "60,00",
-              "valor_referencia": ""
+              "valor_referencia": "9,11"
             },
             {
               "numero": "2",
               "especificacao": "36223 Luva de segurança confeccionada em borracha nitrílica M:antiderrapante na palma, interior flocado. Proteção das mãos do usuário contra agentes abrasivos, escoriantes, cortantes e perfurantes e contra agentes químicos tais como Classe A - Tipo 2: Agressivos básicos; Classe B - Detergentes, Sabões, Amoníacos e similares e Classe C - Tipo 1: Hidrocarbonetos Alifáticos, Tipo 2: Hidrocarbonetos aromáticos, Tipo 3: Álcoois, Tipo 4: Éteres. Comprimento de aproximadamente 33 cm e espessura de cerca de 0,40mm, tamanho M. (CA: 26.098).EXCLUSIVO PARA ME/EPP.",
               "unidade": "PAR",
               "quantidade": "100,00",
-              "valor_referencia": ""
+              "valor_referencia": "9,71"
             },
             {
               "numero": "3",
               "especificacao": "8406500011 Luva de segurança confeccionada em borracha nitrílica G:antiderrapante na palma, interior flocado. Proteção das mãos do usuário contra agentes abrasivos, escoriantes, cortantes e perfurantes e contra agentes químicos tais como Classe A - Tipo 2: Agressivos básicos; Classe B - Detergentes, Sabões, Amoníacos e similares e Classe C - Tipo 1: Hidrocarbonetos Alifáticos, Tipo 2: Hidrocarbonetos aromáticos, Tipo 3: Álcoois, Tipo 4: Éteres. Comprimento de aproximadamente 33 cm e espessura de cerca de 0,40mm, tamanho G. (CA: 26.098). EXCLUSIVO PARA ME/EPP.",
               "unidade": "PAR",
               "quantidade": "100,00",
-              "valor_referencia": ""
+              "valor_referencia": "9,71"
             },
             {
               "numero": "4",
               "especificacao": "8406500012 Luva de segurança confeccionada em borracha nitrílica GG:antiderrapante na palma, interior flocado. Proteção das mãos do usuário contra agentes abrasivos, escoriantes, cortantes e perfurantes e contra agentes químicos tais como Classe A - Tipo 2: Agressivos básicos; Classe B - Detergentes, Sabões, Amoníacos e similares e Classe C - Tipo 1: Hidrocarbonetos Alifáticos, Tipo 2: Hidrocarbonetos aromáticos, Tipo 3: Álcoois, Tipo 4: Éteres. Comprimento de aproximadamente 33 cm e espessura de cerca de 0,40mm.Diversos tamanhos GG. (CA: 26.098). EXCLUSIVO PARA ME/EPP.",
               "unidade": "PAR",
               "quantidade": "60,00",
-              "valor_referencia": ""
+              "valor_referencia": "9,82"
             },
             {
               "numero": "5",
               "especificacao": "8406500013 Luva de segurança confeccionada em borracha nitrílica XG:antiderrapante na palma, interior flocado. Proteção das mãos do usuário contra agentes abrasivos, escoriantes, cortantes e perfurantes e contra agentes químicos tais como Classe A - Tipo 2: Agressivos básicos; Classe B - Detergentes, Sabões, Amoníacos e similares e Classe C - Tipo 1: Hidrocarbonetos Alifáticos, Tipo 2: Hidrocarbonetos aromáticos, Tipo 3: Álcoois, Tipo 4: Éteres. Comprimento de aproximadamente 33 cm e espessura de cerca de 0,40mm.Diversos tamanhos XG. (CA: 26.098). EXCLUSIVO PARA ME/EPP.",
               "unidade": "PAR",
               "quantidade": "50,00",
-              "valor_referencia": ""
+              "valor_referencia": "9,91"
             },
             {
               "numero": "6",
               "especificacao": "8406500014 LUVA DESCARTÁVEL TPE SOFTTRANSPARENTE:tamanho: Pequena (P), Material: Elastômero Termoplástico (TPE) Cor: Transparente, caixa com 100 unidades. EXCLUSIVO PARA ME/EPP.",
               "unidade": "CX",
               "quantidade": "3,00",
-              "valor_referencia": ""
+              "valor_referencia": "14,79"
             },
             {
               "numero": "7",
               "especificacao": "8406500015 LUVA DESCARTÁVEL TPE SOFTTRANSPARENTE 8 CM:tamanho: Média (M), Material: Elastômero Termoplástico (TPE) Cor: Transparente, caixa com 100 unidades. EXCLUSIVO PARA ME/EPP.",
               "unidade": "CX",
               "quantidade": "6,00",
-              "valor_referencia": ""
+              "valor_referencia": "15,20"
             },
             {
               "numero": "8",
               "especificacao": "8406500016 LUVA DESCARTÁVEL TPE SOFTTRANSPARENTE 9 CM:tamanho: Grande (G), Material: Elastômero Termoplástico (TPE) Cor: Transparente, caixa com 100 unidades. EXCLUSIVO PARA ME/EPP.",
               "unidade": "CX",
               "quantidade": "4,00",
-              "valor_referencia": ""
+              "valor_referencia": "15,30"
             },
             {
               "numero": "9",
               "especificacao": "8406500017 Luva Térmica Felpuda para Forno Panificação, cano longo para uso Profissional:luva térmica felpuda para forno de panificação, tipo mão de gato, reforçada, cano longo, mínimo 40cm, que suporte altas temperaturas até 500ºC, material Algodão/Poliéster, nas cores azul ou cru. Par. EXCLUSIVO PARA ME/EPP.",
               "unidade": "PAR",
               "quantidade": "50,00",
-              "valor_referencia": ""
+              "valor_referencia": "126,14"
             },
             {
               "numero": "10",
               "especificacao": "9900515331 Protetor auditivo:do tipo concha, constituído por duas conchas em plástico, apresentando almofadas de espuma em suas laterais e em seu interior, possuindo uma haste emplástico rígido, ou outro material, que mantém as conchas firmemente seladas contra a região das orelhas do usuário e que sustenta as conchas. Deverá possuir NRRsf mínimo de 21 dB. (CA: 14.235, 15.247). EXCLUSIVO PARA ME/EPP.",
               "unidade": "Und.",
               "quantidade": "10,00",
-              "valor_referencia": ""
+              "valor_referencia": "14,76"
             }
           ]
         }
@@ -240752,7 +240752,7 @@
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "1230/2025",
       "modalidade": "CONCORRÊNCIA ELETRÔNICA",
-      "situacao": "ADJUDICADO",
+      "situacao": "HOMOLOGADO",
       "condutor": "DAVIDSON ARAUJO SANTOS",
       "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
       "tipo_contrato": "AQUISIÇÃO PARCELADA",
@@ -240768,7 +240768,7 @@
         {
           "numero": "1",
           "titulo": "EXECUÇÃO DE OBRAS DE CONSTRUÇÃO DE UM ESPAÇO PARA O ABRIGO DE ANIMAIS",
-          "fase": "ADJUDICADO",
+          "fase": "HOMOLOGADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "100,00",
@@ -250519,32 +250519,32 @@
           ]
         },
         {
-          "numero": "198",
-          "titulo": "9900100157 SULFATO FERROSO:25MG/ML SOL ORAL GOTAS. EXCLUSIVO PARA ME/EPP.",
+          "numero": "199",
+          "titulo": "36632 SULFATO FERROSO:40MG.",
           "fase": "HABILITAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
+          "exclusivo_me": "NÃO",
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
-          "valor_referencia": "19.129,50",
-          "vencedor": "MS HOSPITALAR EIRELI",
-          "melhor_oferta": "16.497,00",
+          "valor_referencia": "42.354,00",
+          "vencedor": "DIMEVA DISTRIBUIDORA E IMPORTADORA LTDA",
+          "melhor_oferta": "33.883,20",
           "total_itens": 1,
           "itens": [
             {
               "numero": "1",
-              "especificacao": "9900100157 SULFATO FERROSO:25MG/ML SOL ORAL GOTAS. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "FR",
-              "quantidade": "17.550,00",
-              "valor_referencia": "1,09"
+              "especificacao": "36632 SULFATO FERROSO:40MG.",
+              "unidade": "CO",
+              "quantidade": "847.080,00",
+              "valor_referencia": "0,05"
             }
           ]
         },
         {
-          "numero": "198",
-          "titulo": "9900100157 SULFATO FERROSO:25MG/ML SOL ORAL GOTAS. EXCLUSIVO PARA ME/EPP.",
+          "numero": "200",
+          "titulo": "9900100158 TANSULOSINA:0,4MG. EXCLUSIVO PARA ME/EPP.",
           "fase": "HABILITAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
@@ -250552,17 +250552,17 @@
           "exclusivo_me": "SIM",
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
-          "valor_referencia": "19.129,50",
-          "vencedor": "MS HOSPITALAR EIRELI",
-          "melhor_oferta": "16.497,00",
+          "valor_referencia": "10.570,40",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
           "total_itens": 1,
           "itens": [
             {
               "numero": "1",
-              "especificacao": "9900100157 SULFATO FERROSO:25MG/ML SOL ORAL GOTAS. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "FR",
-              "quantidade": "17.550,00",
-              "valor_referencia": "1,09"
+              "especificacao": "9900100158 TANSULOSINA:0,4MG. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "CO",
+              "quantidade": "14.480,00",
+              "valor_referencia": "0,73"
             }
           ]
         },
@@ -251759,8 +251759,8 @@
       "tipo_contrato": "AQUISIÇÃO",
       "publicacao": "02/03/2026 20:08",
       "inicio_recepcao": "24/03/2026 10:00",
-      "fim_recepcao": "30/03/2026 08:15",
-      "inicio_disputa": "30/03/2026 08:30",
+      "fim_recepcao": "01/04/2026 08:15",
+      "inicio_disputa": "01/04/2026 08:30",
       "objeto": "Contratação de empresa especializada na prestação de serviço de FORNECIMENTO E INSTALAÇÃO DE ESTRUTURA\nMETÁLICA, a fim de atender as necessidades da Secretaria Municipal de Infraestrutura e Serviços Urbanos.",
       "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DpyKsB240xKMKSX5sDCV74TEkumBT%2F3dJcPboKq2xYrxMyT8Szk29CiCNJ%2Feu1wYfpme5PoxVPv79uJ6%2FFsI%2Fy7GEKSRe3QvYKaZEkwxu95E%3D",
       "total_lotes": 1,
@@ -251821,8 +251821,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "16.917.978,48",
-          "vencedor": "G R S SILVA CONSTRUCOES EIRELI",
-          "melhor_oferta": "12.688.483,86",
+          "vencedor": "EJOS CONSTRUCOES E INSTALACOES LTDA",
+          "melhor_oferta": "14.500.000,00",
           "total_itens": 8,
           "itens": [
             {
@@ -252266,7 +252266,7 @@
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "855/2025",
       "modalidade": "CONCORRÊNCIA ELETRÔNICA",
-      "situacao": "ADJUDICADO",
+      "situacao": "HOMOLOGADO",
       "condutor": "DAVIDSON ARAUJO SANTOS",
       "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
       "tipo_contrato": "AQUISIÇÃO PARCELADA",
@@ -252282,7 +252282,7 @@
         {
           "numero": "1",
           "titulo": "EXECUÇÃO DE OBRAS DE CONSTRUÇÃO DE UM EDIFÍCIO PARA IMPLANTAÇÃO DA CASA DE CAPOEIRA, NO BAIRRO ULISSES GUIMARÃES",
-          "fase": "ADJUDICADO",
+          "fase": "HOMOLOGADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "1.000,00",
@@ -252443,7 +252443,7 @@
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "1249/2025",
       "modalidade": "CONCORRÊNCIA ELETRÔNICA",
-      "situacao": "ADJUDICADO",
+      "situacao": "HOMOLOGADO",
       "condutor": "DAVIDSON ARAUJO SANTOS",
       "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
       "tipo_contrato": "AQUISIÇÃO PARCELADA",
@@ -252459,7 +252459,7 @@
         {
           "numero": "1",
           "titulo": "EXECUÇÃO DE OBRAS PARA CONSTRUÇÃO DE UM COMPLEXO ESPORTIVO COMUNITÁRIO, NO BAIRRO SECTOR BAHIA SUL",
-          "fase": "ADJUDICADO",
+          "fase": "HOMOLOGADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "1.000,00",
