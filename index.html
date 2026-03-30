@@ -1880,612 +1880,239 @@ loadData();
 </div>
 
 <script>
-// ══════════════════════════════════════════════════════════════════════════════
-// AGENTE IA — busca local nos dados já carregados (zero backend para pesquisa)
-// Usa Anthropic API apenas para redigir a resposta com os dados pré-filtrados
-// ══════════════════════════════════════════════════════════════════════════════
-
-// ── Configuração ──────────────────────────────────────────────────────────────
-const AI_CONFIG = {
-  // URL do backend Express (usado APENAS para chamar o LLM, não para buscar dados)
-  // Se não tiver backend, o agente responde direto sem LLM (modo offline)
-  backendUrl: 'https://licitacoes-backend.onrender.com/chat',
-  // Máximo de itens enviados ao LLM por query (economiza tokens)
-  maxLicit: 15,
-  maxCompras: 15,
-  maxCharsObjeto: 120,
-  maxItensMatch: 3,
-  // Máximo de turnos de histórico no contexto (economiza tokens a cada rodada)
-  maxHistory: 6,
-};
+// ── CHAT IA ─────────────────────────────────────────────────────────────────
+const AI_BACKEND = 'https://licitacoes-backend.onrender.com/chat';
 
 let aiOpen = false;
 let aiHistory = [];
 let aiLoading = false;
 
-// ── Utilidades de normalização ────────────────────────────────────────────────
-function aiNorm(str) {
-  return String(str||'').toLowerCase().normalize('NFD')
-    .replace(/[\u0300-\u036f]/g,'').replace(/[^a-z0-9\s]/g,' ').replace(/\s+/g,' ').trim();
-}
-function aiNormId(str) {
-  return String(str||'').toLowerCase().normalize('NFD')
-    .replace(/[\u0300-\u036f]/g,'').replace(/[^a-z0-9\-]/g,'').replace(/-+/g,'-').trim();
-}
-function aiTokenize(str) {
-  const n = aiNorm(str);
-  const words = n.split(' ').filter(w => w.length >= 2);
-  const tokens = new Set(words);
-  for (let i = 0; i < words.length - 1; i++) tokens.add(words[i]+' '+words[i+1]);
-  return [...tokens];
-}
-
-// ── Cálculo de valores ────────────────────────────────────────────────────────
-function aiValLicit(p) {
-  // Prioridade: melhor_oferta → valor_referencia do lote
-  return (p.lotes||[]).reduce((s,l) => {
-    const mo = parseFloat(String(l.melhor_oferta||'0').replace(/\./g,'').replace(',','.'))||0;
-    const vr = parseFloat(String(l.valor_referencia||'0').replace(/\./g,'').replace(',','.'))||0;
-    return s + (mo > 0 ? mo : vr);
-  }, 0);
-}
-function aiValCompra(c) {
-  return (c.itens||[]).reduce((s,i) => {
-    const v = parseFloat(String(i.valor||'0').replace(/\./g,'').replace(',','.'))||0;
-    const q = parseFloat(String(i.quantidade||'1').replace(/\./g,'').replace(',','.'))||1;
-    return s + v*q;
-  }, 0);
-}
-function aiFmtBRL(v) {
-  return Number(v).toLocaleString('pt-BR',{style:'currency',currency:'BRL'});
-}
-function aiFmtData(d) {
-  if (!d) return '–';
-  const m = d.match(/(\d{2})\/(\d{2})\/(\d{4})/);
-  return m ? `${m[1]}/${m[2]}/${m[3]}` : d.substring(0,10);
-}
-function aiParseData(d) {
-  if (!d) return 0;
-  const m = d.match(/(\d{2})\/(\d{2})\/(\d{4})/);
-  return m ? new Date(`${m[3]}-${m[2]}-${m[1]}`).getTime() : 0;
-}
-
-// ── Texto indexável de cada registro ─────────────────────────────────────────
-function aiTextLicit(p) {
-  return [p.id, p.objeto, p.modalidade, p.situacao, p.condutor, p.autoridade, p.tipo_contrato,
-    ...(p.lotes||[]).flatMap(l => [l.titulo, l.descricao,
-      ...(l.itens||[]).map(i => i.especificacao)])
-  ].filter(Boolean).join(' ');
-}
-function aiTextCompra(c) {
-  return [c.id, c.objeto, c.modalidade, c.status, c.coordenador, c.autoridade, c.artigo,
-    ...(c.itens||[]).flatMap(i => [i.descricao, i.fornecedor])
-  ].filter(Boolean).join(' ');
-}
-
-// ── Índice invertido (construído uma vez após dados carregarem) ───────────────
-let AI_INDEX = null;
-
-function aiBuildIndex() {
-  if (AI_INDEX) return;
-  if (!processos || !processos.length) return;
-  const licitIdx = {}, compraIdx = {};
-  processos.forEach((p,i) => {
-    new Set(aiTokenize(aiTextLicit(p))).forEach(t => { (licitIdx[t]=licitIdx[t]||[]).push(i); });
-  });
-  (compras||[]).forEach((c,i) => {
-    new Set(aiTokenize(aiTextCompra(c))).forEach(t => { (compraIdx[t]=compraIdx[t]||[]).push(i); });
-  });
-  AI_INDEX = { licitIdx, compraIdx };
-  console.log(`[Agente] Índice: ${Object.keys(licitIdx).length} tokens licit | ${Object.keys(compraIdx).length} tokens compras`);
-}
-
-// ── Busca por score no índice ─────────────────────────────────────────────────
-function aiSearchIndex(query, limit=20) {
-  aiBuildIndex();
-  if (!AI_INDEX) return { licit:[], compra:[] };
-  const { licitIdx, compraIdx } = AI_INDEX;
-  const terms = aiTokenize(query);
-  const qId   = aiNormId(query);
-  const scoreL={}, scoreC={};
-
-  // Match de ID (peso alto)
-  processos.forEach((p,i) => {
-    const pid = aiNormId(p.id||'');
-    if (pid===qId||pid.includes(qId)||qId.includes(pid)) scoreL[i]=(scoreL[i]||0)+1000;
-  });
-  (compras||[]).forEach((c,i) => {
-    const cid = aiNormId(c.id||'');
-    if (cid===qId||cid.includes(qId)||qId.includes(cid)) scoreC[i]=(scoreC[i]||0)+1000;
-  });
-
-  // Score por tokens
-  terms.forEach(term => {
-    const w = term.includes(' ') ? 15 : 8;
-    if (licitIdx[term]) licitIdx[term].forEach(i => { scoreL[i]=(scoreL[i]||0)+w; });
-    if (compraIdx[term]) compraIdx[term].forEach(i => { scoreC[i]=(scoreC[i]||0)+w; });
-    // Prefixo parcial (ex: "cadei" bate "cadeiras")
-    if (!term.includes(' ') && term.length>=4) {
-      Object.keys(licitIdx).forEach(k => {
-        if (k!==term&&!k.includes(' ')&&(k.startsWith(term)||term.startsWith(k)))
-          licitIdx[k].forEach(i => { scoreL[i]=(scoreL[i]||0)+3; });
-      });
-      Object.keys(compraIdx).forEach(k => {
-        if (k!==term&&!k.includes(' ')&&(k.startsWith(term)||term.startsWith(k)))
-          compraIdx[k].forEach(i => { scoreC[i]=(scoreC[i]||0)+3; });
-      });
-    }
-  });
-
-  const topL = Object.entries(scoreL).sort((a,b)=>b[1]-a[1]).slice(0,limit).map(([i])=>processos[+i]);
-  const topC = Object.entries(scoreC).sort((a,b)=>b[1]-a[1]).slice(0,limit).map(([i])=>(compras||[])[+i]);
-  return { licit: topL.filter(Boolean), compra: topC.filter(Boolean) };
-}
-
-// ── Detecção de intenção ──────────────────────────────────────────────────────
-const AI_STATUS_MAP = {
-  'homologado':'HOMOLOGADO','homologados':'HOMOLOGADO','homologada':'HOMOLOGADO',
-  'fracassado':'FRACASSADO','fracassados':'FRACASSADO',
-  'suspenso':'SUSPENSO','suspensos':'SUSPENSO',
-  'cancelado':'CANCELADO','cancelados':'CANCELADO',
-  'revogado':'REVOGADO','concluido':'CONCLUÍDA','concluida':'CONCLUÍDA',
-  'publicado':'PUBLICADO','publicados':'PUBLICADO','publicada':'PUBLICADA',
-  'deserto':'DESERTO','adjudicado':'ADJUDICADO',
-  'habilitacao':'HABILITAÇÃO','habilitação':'HABILITAÇÃO',
-  'em andamento':'EM ANDAMENTO',
-};
-function aiDetectStatus(q) {
-  const n = aiNorm(q);
-  for (const [k,v] of Object.entries(AI_STATUS_MAP)) { if (n.includes(aiNorm(k))) return v; }
-  return null;
-}
-function aiDetectIntent(query) {
-  const q = aiNorm(query);
-  if (/[a-z]{2,4}[-\s]?\d{2,4}[-\s]?\d{4}/.test(q)) return 'id';
-  if (/\d{2}\/\d{2}(\/\d{4})?/.test(query)) return 'data';
-  if (/\b(sessao hoje|disputa hoje|abertura hoje|recepcao hoje)\b/.test(q)) return 'sessao';
-  if (/\bhoje\b/.test(q) && !aiDetectStatus(q)) return 'sessao';
-  if (/\bamanha\b/.test(q)) return 'amanha';
-  if (/\b(maior|menor|mais caro|ranking|top|maior valor|menor valor)\b/.test(q)) return 'ranking';
-  if (/\b(ultimos?|recentes?|mais recentes?|novos?|ultimo publicado)\b/.test(q)) return 'recentes';
-  if (aiDetectStatus(query)) return 'status';
-  return 'item';
-}
-
-// ── Handlers de busca local (sem LLM, sem rede) ───────────────────────────────
-
-function aiHandleId(query) {
-  const qId = aiNormId(query);
-  const exactL = processos.filter(p => {
-    const pid = aiNormId(p.id||'');
-    return pid===qId||qId.includes(pid)||pid.includes(qId);
-  });
-  const exactC = (compras||[]).filter(c => {
-    const cid = aiNormId(c.id||'');
-    return cid===qId||qId.includes(cid)||cid.includes(qId);
-  });
-  return { licitacoes: exactL, compras_diretas: exactC };
-}
-
-function aiHandleStatus(query) {
-  const statusAlvo = aiDetectStatus(query);
-  if (!statusAlvo) return null;
-  const q = aiNorm(query);
-  const anoM = query.match(/\b(20\d{2})\b/);
-  const ano = anoM?.[1];
-  const statusN = aiNorm(statusAlvo);
-  let filtL = processos.filter(p => aiNorm(p.situacao||'').includes(statusN));
-  let filtC = (compras||[]).filter(c => aiNorm(c.status||'').includes(statusN));
-  if (ano) {
-    filtL = filtL.filter(p => (p.publicacao||'').includes(ano));
-    filtC = filtC.filter(c => (c.data_publicacao||'').includes(ano));
-  }
-  // Termos extras (ex: "homologados de limpeza")
-  const stop = new Set(['homologado','fracassado','suspenso','cancelado','licitacao','compra','processo','lista','todos','recente','publicado','concluido']);
-  const extras = aiTokenize(query).filter(t => !t.includes(' ') && t.length>=4 && !stop.has(aiNorm(t)) && !/^20\d{2}$/.test(t) && !Object.keys(AI_STATUS_MAP).some(k=>aiNorm(k)===aiNorm(t)));
-  if (extras.length) {
-    filtL = filtL.filter(p => extras.some(t => aiNorm(aiTextLicit(p)).includes(t)));
-    filtC = filtC.filter(c => extras.some(t => aiNorm(aiTextCompra(c)).includes(t)));
-  }
-  filtL.sort((a,b)=>aiParseData(b.publicacao)-aiParseData(a.publicacao));
-  filtC.sort((a,b)=>aiParseData(b.data_publicacao)-aiParseData(a.data_publicacao));
-  return {
-    statusAlvo, ano, totalL: filtL.length, totalC: filtC.length,
-    licitacoes: filtL.slice(0,AI_CONFIG.maxLicit),
-    compras_diretas: filtC.slice(0,AI_CONFIG.maxCompras)
-  };
-}
-
-function aiHandleItem(query) {
-  const { licit: candL, compra: candC } = aiSearchIndex(query, 300);
-  const terms = aiTokenize(query).filter(t => t.length>=3);
-  function contem(txt) {
-    const t = aiNorm(txt);
-    return terms.some(term => t.includes(term));
-  }
-  const matchedL = candL.filter(p => contem(aiTextLicit(p)));
-  const matchedC = candC.filter(c => contem(aiTextCompra(c)));
-  const anoM = query.match(/\b(20\d{2})\b/);
-  const filtL = anoM ? matchedL.filter(p=>(p.publicacao||'').includes(anoM[1])) : matchedL;
-  const filtC = anoM ? matchedC.filter(c=>(c.data_publicacao||'').includes(anoM[1])) : matchedC;
-  filtL.sort((a,b)=>aiParseData(b.publicacao)-aiParseData(a.publicacao));
-  filtC.sort((a,b)=>aiParseData(b.data_publicacao)-aiParseData(a.data_publicacao));
-  return {
-    totalL: filtL.length, totalC: filtC.length,
-    licitacoes: filtL.slice(0,AI_CONFIG.maxLicit).map(p=>({
-      ...p,
-      _itens_match:(p.lotes||[]).flatMap(l=>(l.itens||[]).map(i=>({...i,_lote:l.titulo}))).filter(i=>contem(i.especificacao||'')).slice(0,AI_CONFIG.maxItensMatch)
-    })),
-    compras_diretas: filtC.slice(0,AI_CONFIG.maxCompras).map(c=>({
-      ...c,
-      _itens_match:(c.itens||[]).filter(i=>contem(i.descricao||'')).slice(0,AI_CONFIG.maxItensMatch)
-    }))
-  };
-}
-
-function aiHandleSessao(quando='hoje') {
-  const alvo = new Date();
-  if (quando==='amanha') alvo.setDate(alvo.getDate()+1);
-  const dd=String(alvo.getDate()).padStart(2,'0');
-  const mm=String(alvo.getMonth()+1).padStart(2,'0');
-  const yyyy=alvo.getFullYear();
-  const dataStr=`${dd}/${mm}/${yyyy}`;
-  return processos.filter(p=>
-    (p.inicio_disputa||'').startsWith(dataStr)||(p.fim_recepcao||'').startsWith(dataStr)
-  ).sort((a,b)=>(a.inicio_disputa||a.fim_recepcao||'').localeCompare(b.inicio_disputa||b.fim_recepcao||''));
-}
-
-function aiHandleRecentes(query) {
-  const qtdM = query.match(/\b(\d+)\b/);
-  const qtd = qtdM ? Math.min(+qtdM[1],20) : 10;
-  const q = aiNorm(query);
-  const soC = /\b(compra|compras|dispensa)\b/.test(q);
-  const soL = /\b(licitac|pregao|edital)\b/.test(q);
-  const topL = soC?[]: [...processos].sort((a,b)=>aiParseData(b.publicacao)-aiParseData(a.publicacao)).slice(0,qtd);
-  const topC = soL?[]: [...(compras||[])].sort((a,b)=>aiParseData(b.data_publicacao)-aiParseData(a.data_publicacao)).slice(0,qtd);
-  return { qtd, licitacoes: topL, compras_diretas: topC };
-}
-
-function aiHandleRanking() {
-  const rankL = [...processos].map(p=>({p, v:aiValLicit(p)})).sort((a,b)=>b.v-a.v).slice(0,10).map(r=>r.p);
-  const rankC = [...(compras||[])].map(c=>({c, v:aiValCompra(c)})).sort((a,b)=>b.v-a.v).slice(0,10).map(r=>r.c);
-  return { licitacoes: rankL, compras_diretas: rankC };
-}
-
-function aiHandleData(query) {
-  const m = query.match(/(\d{2})\/(\d{2})(?:\/(\d{4}))?/);
-  if (!m) return null;
-  const dd=m[1], mm=m[2], yyyy=m[3]||new Date().getFullYear();
-  const dataStr=`${dd}/${mm}/${yyyy}`;
-  const q=aiNorm(query);
-  const tipoD=/\b(disputa|sessao|abertura)\b/.test(q);
-  const tipoF=/\b(fim|recepcao)\b/.test(q);
-  const tipoP=/\b(publicac)\b/.test(q);
-  const filtL = processos.filter(p=>{
-    if(tipoD) return (p.inicio_disputa||'').includes(dataStr.substring(0,5));
-    if(tipoF) return (p.fim_recepcao||'').includes(dataStr.substring(0,5));
-    if(tipoP) return (p.publicacao||'').includes(dataStr);
-    return (p.inicio_disputa||'').includes(dataStr.substring(0,5))||(p.fim_recepcao||'').includes(dataStr.substring(0,5))||(p.publicacao||'').includes(dataStr);
-  }).sort((a,b)=>(a.inicio_disputa||a.fim_recepcao||'').localeCompare(b.inicio_disputa||b.fim_recepcao||''));
-  const filtC = (compras||[]).filter(c=>(c.data_publicacao||'').includes(dataStr)||(c.data_conclusao||'').includes(dataStr));
-  return { dataStr, licitacoes: filtL.slice(0,20), compras_diretas: filtC.slice(0,10) };
-}
-
-// ── Monta o relatório textual compacto (o que o LLM recebe) ──────────────────
-function aiMontarRelatorio(dados, intent, query) {
-  const L = [];
-
-  const fmtL = p => {
-    const v = aiValLicit(p);
-    L.push(`- **${p.id}** | ${(p.objeto||'').substring(0,AI_CONFIG.maxCharsObjeto)} | ${p.modalidade||'–'} | ${p.situacao||'–'} | Pub: ${aiFmtData(p.publicacao)} | ${v>0?aiFmtBRL(v):'Sem valor'}`);
-    if (p._itens_match?.length) {
-      p._itens_match.forEach(i => L.push(`  📦 Lote "${i._lote||''}": ${(i.especificacao||'').substring(0,80)} × ${i.quantidade||''} ${i.unidade||''}`));
-    }
-  };
-  const fmtC = c => {
-    const v = aiValCompra(c);
-    const forn = (c.itens||[]).map(i=>i.fornecedor).filter(Boolean)[0]||'–';
-    L.push(`- **${c.id}** | ${(c.objeto||'').substring(0,AI_CONFIG.maxCharsObjeto)} | ${c.modalidade||'–'} | ${c.status||'–'} | ${v>0?aiFmtBRL(v):'Sem valor'} | Forn: ${forn}`);
-    if (c._itens_match?.length) {
-      c._itens_match.forEach(i => L.push(`  📦 ${(i.descricao||'').substring(0,80)} × ${i.quantidade||''} ${i.unidade||''} | ${i.fornecedor||'–'}`));
-    }
-  };
-
-  if (intent==='id') {
-    const pl=dados.licitacoes||[], pc=dados.compras_diretas||[];
-    if (!pl.length&&!pc.length) return `RESULTADO: Nenhum processo encontrado para "${query}".`;
-    pl.forEach(p => {
-      const v=aiValLicit(p);
-      L.push(`=== LICITAÇÃO: ${p.id} ===`);
-      L.push(`Objeto: ${p.objeto||'–'}`);
-      L.push(`Modalidade: ${p.modalidade||'–'} | Situação: ${p.situacao||'–'}`);
-      L.push(`Condutor: ${p.condutor||'–'} | Autoridade: ${p.autoridade||'–'}`);
-      L.push(`Publicação: ${aiFmtData(p.publicacao)} | Fim Recepção: ${aiFmtData(p.fim_recepcao)} | Disputa: ${aiFmtData(p.inicio_disputa)}`);
-      L.push(`Valor Total: ${v>0?aiFmtBRL(v):'Não informado'}`);
-      if (p.lotes?.length) {
-        L.push(`Lotes (${p.lotes.length}):`);
-        p.lotes.forEach(l => {
-          const mo=l.melhor_oferta?` | Melhor Oferta: R$ ${l.melhor_oferta}`:'';
-          L.push(`  Lote ${l.numero||'?'}: ${l.titulo||l.descricao||'–'} | Ref: ${l.valor_referencia||'–'}${mo} | Vencedor: ${l.vencedor||'–'}`);
-          (l.itens||[]).slice(0,8).forEach(i => L.push(`    - ${(i.especificacao||'–').substring(0,100)} | ${i.unidade||''} × ${i.quantidade||''}`));
-        });
-      }
-    });
-    pc.forEach(c => {
-      const v=aiValCompra(c);
-      L.push(`=== COMPRA DIRETA: ${c.id} ===`);
-      L.push(`Objeto: ${c.objeto||'–'}`);
-      L.push(`Status: ${c.status||'–'} | Modalidade: ${c.modalidade||'–'}`);
-      L.push(`Publicação: ${aiFmtData(c.data_publicacao)} | Conclusão: ${aiFmtData(c.data_conclusao)}`);
-      L.push(`Valor Total: ${v>0?aiFmtBRL(v):'Não informado'}`);
-      (c.itens||[]).slice(0,10).forEach(i => L.push(`  - ${(i.descricao||'–').substring(0,100)} | Forn: ${i.fornecedor||'–'} | ${i.unidade||''} × ${i.quantidade||''} | R$ ${i.valor||'–'}`));
-    });
-    return L.join('\n');
-  }
-
-  if (intent==='sessao'||intent==='amanha') {
-    const lista=dados.lista||[];
-    const quando=intent==='amanha'?'amanhã':'hoje';
-    if (!lista.length) return `RESULTADO: Nenhum processo com sessão agendada para ${quando}.`;
-    L.push(`SESSÕES DE ${quando.toUpperCase()} (${lista.length} processo(s)):`);
-    lista.forEach(p => {
-      const hor=(p.inicio_disputa||p.fim_recepcao||'').substring(11,16);
-      L.push(`- **${p.id}** ${hor?`às ${hor}`:''} | ${p.situacao||'–'} | ${(p.objeto||'').substring(0,90)} | ${p.modalidade||'–'} | ${aiValLicit(p)>0?aiFmtBRL(aiValLicit(p)):'Sem valor'}`);
-    });
-    return L.join('\n');
-  }
-
-  if (intent==='data') {
-    const pl=dados.licitacoes||[], pc=dados.compras_diretas||[];
-    if (!pl.length&&!pc.length) return `RESULTADO: Nenhum processo encontrado para a data ${dados.dataStr||''}.`;
-    L.push(`PROCESSOS EM ${dados.dataStr} — ${pl.length} licitações e ${pc.length} compras:`);
-    pl.forEach(fmtL); pc.forEach(fmtC);
-    return L.join('\n');
-  }
-
-  if (intent==='status') {
-    const pl=dados.licitacoes||[], pc=dados.compras_diretas||[];
-    const tL=dados.totalL||pl.length, tC=dados.totalC||pc.length;
-    if (!pl.length&&!pc.length) return `RESULTADO: Nenhum processo com status "${dados.statusAlvo}" encontrado.`;
-    L.push(`STATUS: ${dados.statusAlvo}${dados.ano?' ('+dados.ano+')':''} — ${tL} licitações e ${tC} compras diretas`);
-    if (tL>AI_CONFIG.maxLicit||tC>AI_CONFIG.maxCompras) L.push(`(Exibindo ${pl.length} e ${pc.length} — refine com ano ou palavra-chave)`);
-    if (pl.length) { L.push(`\nLICITAÇÕES:`); pl.forEach(fmtL); }
-    if (pc.length) { L.push(`\nCOMPRAS DIRETAS:`); pc.forEach(fmtC); }
-    return L.join('\n');
-  }
-
-  if (intent==='recentes') {
-    const pl=dados.licitacoes||[], pc=dados.compras_diretas||[];
-    L.push(`ÚLTIMOS ${dados.qtd||10} PROCESSOS PUBLICADOS:`);
-    if (pl.length) { L.push(`\nLICITAÇÕES:`); pl.forEach(fmtL); }
-    if (pc.length) { L.push(`\nCOMPRAS DIRETAS:`); pc.forEach(fmtC); }
-    return L.join('\n');
-  }
-
-  if (intent==='ranking') {
-    const pl=dados.licitacoes||[], pc=dados.compras_diretas||[];
-    L.push(`RANKING POR VALOR:`);
-    if (pl.length) {
-      L.push(`\nTOP LICITAÇÕES:`);
-      pl.forEach((p,i)=>L.push(`${i+1}. **${p.id}** | ${aiFmtBRL(aiValLicit(p))} | ${p.situacao||'–'} | ${(p.objeto||'').substring(0,80)}`));
-    }
-    if (pc.length) {
-      L.push(`\nTOP COMPRAS DIRETAS:`);
-      pc.forEach((c,i)=>L.push(`${i+1}. **${c.id}** | ${aiFmtBRL(aiValCompra(c))} | ${c.status||'–'} | ${(c.objeto||'').substring(0,80)}`));
-    }
-    return L.join('\n');
-  }
-
-  // Intent: item (busca geral)
-  const pl=dados.licitacoes||[], pc=dados.compras_diretas||[];
-  if (!pl.length&&!pc.length) return `RESULTADO: Nenhum processo encontrado para "${query}". O termo não existe nos dados.`;
-  L.push(`BUSCA: "${query}" — ${dados.totalL||pl.length} licitações e ${dados.totalC||pc.length} compras`);
-  if (pl.length) { L.push(`\nLICITAÇÕES:`); pl.forEach(fmtL); }
-  if (pc.length) { L.push(`\nCOMPRAS DIRETAS:`); pc.forEach(fmtC); }
-  return L.join('\n');
-}
-
-// ── Resposta direta (sem LLM, para casos simples e modo offline) ───────────────
-function aiRespostaDireta(relatorio, intent) {
-  // Converte o relatório em HTML legível sem LLM
-  return aiMarkdown(relatorio
-    .replace(/^=== (.+) ===/gm,'### $1')
-    .replace(/^RESULTADO: /,'')
-  );
-}
-
-// ── Chama o backend LLM com o relatório pré-filtrado ─────────────────────────
-async function aiCallLLM(relatorio, botDiv) {
-  const systemPrompt = `Você é assistente de licitações de Teixeira de Freitas - BA.
-REGRAS: Use SOMENTE as informações do RELATÓRIO abaixo. Nunca invente dados.
-Formate com **negrito** para IDs e valores. Listas para múltiplos resultados. Seja direto.
-
-RELATÓRIO (dados verificados do sistema):
-${relatorio}`;
-
-  const msgs = aiHistory.slice(-AI_CONFIG.maxHistory);
-  const resp = await fetch(AI_CONFIG.backendUrl, {
-    method:'POST',
-    headers:{'Content-Type':'application/json'},
-    body: JSON.stringify({ messages: msgs, query: msgs[msgs.length-1]?.content||'' }),
-    signal: AbortSignal.timeout(25000)
-  });
-
-  if (!resp.ok) throw new Error('Backend ' + resp.status);
-  const ct = resp.headers.get('content-type')||'';
-
-  if (ct.includes('text/event-stream')) {
-    const reader = resp.body.getReader();
-    const dec = new TextDecoder();
-    let full='', buf='';
-    while (true) {
-      const {done,value} = await reader.read();
-      if (done) break;
-      buf += dec.decode(value,{stream:true});
-      const lines = buf.split('\n'); buf=lines.pop();
-      for (const line of lines) {
-        if (!line.startsWith('data: ')) continue;
-        try {
-          const d = JSON.parse(line.slice(6));
-          if (d.delta) { full+=d.delta; botDiv.innerHTML=aiMarkdown(full); document.getElementById('ai-messages').scrollTop=999999; }
-        } catch(_){}
-      }
-    }
-    return full;
-  } else {
-    const j = await resp.json();
-    const reply = j.reply||'';
-    botDiv.innerHTML = aiMarkdown(reply);
-    return reply;
-  }
-}
-
-// ── Controladores da UI ───────────────────────────────────────────────────────
 function aiToggle() {
   aiOpen = !aiOpen;
   document.getElementById('ai-panel').classList.toggle('open', aiOpen);
   if (aiOpen) {
-    aiBuildIndex(); // garante índice pronto
-    if (aiHistory.length===0) document.getElementById('ai-suggestions').style.display='flex';
-    setTimeout(()=>document.getElementById('ai-input').focus(),250);
+    if (aiHistory.length === 0) document.getElementById('ai-suggestions').style.display = 'flex';
+    setTimeout(() => document.getElementById('ai-input').focus(), 250);
   }
 }
+
 function aiSuggest(text) {
   document.getElementById('ai-input').value = text;
   document.getElementById('ai-suggestions').style.display = 'none';
   aiSend();
 }
-function aiKeyDown(e) { if (e.key==='Enter'&&!e.shiftKey){e.preventDefault();aiSend();} }
-function aiAutoResize(el) { el.style.height='auto'; el.style.height=Math.min(el.scrollHeight,90)+'px'; }
-function aiSetStatus(txt) { document.getElementById('ai-status').textContent=txt; }
-function aiShowTyping() {
-  const d=document.createElement('div'); d.className='ai-typing'; d.id='ai-typing-indicator';
-  d.innerHTML='<span></span><span></span><span></span>';
-  const m=document.getElementById('ai-messages'); m.appendChild(d); m.scrollTop=m.scrollHeight;
-}
-function aiHideTyping() { document.getElementById('ai-typing-indicator')?.remove(); }
-function aiAddMsg(role,text) {
-  const d=document.createElement('div'); d.className='ai-msg '+role;
-  if (role==='user') d.textContent=text; else d.innerHTML=text;
-  const m=document.getElementById('ai-messages'); m.appendChild(d); m.scrollTop=m.scrollHeight;
-  return d;
+
+function aiKeyDown(e) {
+  if (e.key === 'Enter' && !e.shiftKey) { e.preventDefault(); aiSend(); }
 }
 
-// Markdown simples → HTML
+function aiAutoResize(el) {
+  el.style.height = 'auto';
+  el.style.height = Math.min(el.scrollHeight, 90) + 'px';
+}
+
+function aiAddMsg(role, text) {
+  const div = document.createElement('div');
+  div.className = 'ai-msg ' + role;
+  div.textContent = text;
+  const msgs = document.getElementById('ai-messages');
+  msgs.appendChild(div);
+  msgs.scrollTop = msgs.scrollHeight;
+}
+
+function aiShowTyping() {
+  const div = document.createElement('div');
+  div.className = 'ai-typing';
+  div.id = 'ai-typing-indicator';
+  div.innerHTML = '<span></span><span></span><span></span>';
+  const msgs = document.getElementById('ai-messages');
+  msgs.appendChild(div);
+  msgs.scrollTop = msgs.scrollHeight;
+}
+
+function aiHideTyping() {
+  document.getElementById('ai-typing-indicator')?.remove();
+}
+
+function aiSetStatus(txt) {
+  document.getElementById('ai-status').textContent = txt;
+}
+
+
+// Converte markdown simples para HTML seguro
 function aiMarkdown(text) {
   if (!text) return '';
-  let h = text.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
-  const lines=h.split('\n'), out=[];
-  let inList=false, listType='ul';
-  function closeList(){if(inList){out.push(`</${listType}>`);inList=false;}}
-  function inlineFmt(s){
-    return s
-      .replace(/\*\*\*(.+?)\*\*\*/g,'<strong><em>$1</em></strong>')
-      .replace(/\*\*(.+?)\*\*/g,'<strong>$1</strong>')
-      .replace(/\*(.+?)\*/g,'<em>$1</em>')
-      .replace(/`(.+?)`/g,'<code style="background:#f1f5f9;padding:1px 4px;border-radius:3px;font-size:12px">$1</code>')
-      .replace(/\b([A-Z]{2,4}-\d{2,4}-\d{4})\b/g,'<span class="tag-id">$1</span>')
-      .replace(/(R\$\s?[\d.,]+)/g,'<span class="tag-val">$1</span>');
+
+  // Escapa HTML base
+  let h = text
+    .replace(/&/g,'&amp;')
+    .replace(/</g,'&lt;')
+    .replace(/>/g,'&gt;');
+
+  // Processa linha a linha para melhor controle
+  const lines = h.split('\n');
+  const out = [];
+  let inList = false;
+  let listType = 'ul';
+
+  function closeList() {
+    if (inList) { out.push(`</${listType}>`); inList = false; }
   }
-  for (const line of lines) {
-    if (/^#{1,3} (.+)$/.test(line)){closeList();out.push(`<h3>${inlineFmt(line.replace(/^#{1,3} /,''))}</h3>`);continue;}
-    if (/^---+$/.test(line)){closeList();out.push('<hr>');continue;}
-    if (/^[-*📦] (.+)$/.test(line)){
-      if(!inList||listType!=='ul'){closeList();out.push('<ul>');inList=true;listType='ul';}
-      out.push('<li>'+inlineFmt(line.replace(/^[-*📦] /,''))+'</li>');continue;
+
+  for (let i = 0; i < lines.length; i++) {
+    let line = lines[i];
+
+    // Títulos
+    if (/^### (.+)$/.test(line)) { closeList(); out.push(`<h3>${line.replace(/^### /,'')}</h3>`); continue; }
+    if (/^## (.+)$/.test(line))  { closeList(); out.push(`<h3>${line.replace(/^## /,'')}</h3>`); continue; }
+    if (/^# (.+)$/.test(line))   { closeList(); out.push(`<h3>${line.replace(/^# /,'')}</h3>`); continue; }
+
+    // Separador
+    if (/^---+$/.test(line)) { closeList(); out.push('<hr>'); continue; }
+
+    // Lista não-ordenada
+    if (/^[-*] (.+)$/.test(line)) {
+      if (!inList || listType !== 'ul') { closeList(); out.push('<ul>'); inList = true; listType = 'ul'; }
+      out.push('<li>' + inlineFormat(line.replace(/^[-*] /,'')) + '</li>');
+      continue;
     }
-    if (/^\d+[.)]\s(.+)$/.test(line)){
-      if(!inList||listType!=='ol'){closeList();out.push('<ol>');inList=true;listType='ol';}
-      out.push('<li>'+inlineFmt(line.replace(/^\d+[.)]\s/,''))+'</li>');continue;
+
+    // Lista ordenada
+    if (/^\d+[.)\s] (.+)$/.test(line)) {
+      if (!inList || listType !== 'ol') { closeList(); out.push('<ol>'); inList = true; listType = 'ol'; }
+      out.push('<li>' + inlineFormat(line.replace(/^\d+[.)\s] /,'')) + '</li>');
+      continue;
     }
-    if (/^\s{2,}/.test(line)&&line.trim()){
-      out.push('<li style="margin-left:14px;list-style:none;color:#64748b">'+inlineFmt(line.trim())+'</li>');continue;
+
+    // Indentação (sub-item)
+    if (/^\s{2,}[-*] (.+)$/.test(line)) {
+      out.push('<li style="margin-left:12px">' + inlineFormat(line.replace(/^\s+[-*] /,'')) + '</li>');
+      continue;
     }
-    if (!line.trim()){closeList();out.push('<br>');continue;}
-    closeList();out.push('<p>'+inlineFmt(line)+'</p>');
+
+    // Linha vazia
+    if (!line.trim()) { closeList(); out.push('<br>'); continue; }
+
+    // Parágrafo normal
+    closeList();
+    out.push('<p>' + inlineFormat(line) + '</p>');
   }
+
   closeList();
+
+  // Remover <br> duplicados e no início/fim
   return out.join('').replace(/(<br>){3,}/g,'<br><br>').replace(/^(<br>)+|(<br>)+$/g,'');
 }
 
-// ── Função principal de envio ─────────────────────────────────────────────────
+function inlineFormat(text) {
+  return text
+    // Negrito+itálico
+    .replace(/\*\*\*(.+?)\*\*\*/g,'<strong><em>$1</em></strong>')
+    // Negrito
+    .replace(/\*\*(.+?)\*\*/g,'<strong>$1</strong>')
+    // Itálico
+    .replace(/\*(.+?)\*/g,'<em>$1</em>')
+    // Código inline
+    .replace(/`(.+?)`/g,'<code style="background:#f1f5f9;padding:1px 4px;border-radius:3px;font-size:12px">$1</code>')
+    // IDs de processo (PE-XXX-XXXX, DLE-XXX-XXXX, etc.)
+    .replace(/\b([A-Z]{2,4}-\d{2,4}-\d{4})\b/g,'<span class="tag-id">$1</span>')
+    // Valores em R$
+    .replace(/(R\$\s?[\d.,]+)/g,'<span class="tag-val">$1</span>');
+}
+
+
 async function aiSend() {
   if (aiLoading) return;
   const input = document.getElementById('ai-input');
   const text = input.value.trim();
   if (!text) return;
 
-  document.getElementById('ai-suggestions').style.display='none';
-  input.value=''; input.style.height='auto';
-  document.getElementById('ai-send').disabled=true;
-  aiLoading=true;
+  document.getElementById('ai-suggestions').style.display = 'none';
+  input.value = '';
+  input.style.height = 'auto';
+  document.getElementById('ai-send').disabled = true;
+  aiLoading = true;
 
-  aiAddMsg('user',text);
-  aiHistory.push({role:'user',content:text});
+  aiAddMsg('user', text);
+  aiHistory.push({ role: 'user', content: text });
   aiShowTyping();
-  aiSetStatus('🔍 Pesquisando nos dados…');
+  aiSetStatus('Pesquisando…');
 
   try {
-    // 1. Detectar intenção
-    const intent = aiDetectIntent(text);
-    console.log(`[Agente] intent=${intent} | query="${text}"`);
+    const resp = await fetch(AI_BACKEND, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ messages: aiHistory, query: text })
+    });
 
-    // 2. Buscar dados localmente (zero tokens, zero rede)
-    let dadosBrutos = {};
-    if (intent==='id')      dadosBrutos = aiHandleId(text);
-    else if (intent==='status') { const r=aiHandleStatus(text); if(r)dadosBrutos=r; }
-    else if (intent==='item')   dadosBrutos = aiHandleItem(text);
-    else if (intent==='sessao') dadosBrutos = { lista: aiHandleSessao('hoje') };
-    else if (intent==='amanha') dadosBrutos = { lista: aiHandleSessao('amanha') };
-    else if (intent==='recentes') dadosBrutos = aiHandleRecentes(text);
-    else if (intent==='ranking')  dadosBrutos = aiHandleRanking();
-    else if (intent==='data') { const r=aiHandleData(text); if(r)dadosBrutos=r; }
+    // Verificar tipo de resposta
+    const contentType = resp.headers.get('content-type') || '';
+    const isSSE = contentType.includes('text/event-stream');
 
-    // 3. Montar relatório textual compacto
-    const relatorio = aiMontarRelatorio(dadosBrutos, intent, text);
-    const tokens = Math.ceil(relatorio.length/4);
-    aiSetStatus(`✅ ${tokens} tokens · enviando ao LLM…`);
-    console.log(`[Agente] Relatório: ${relatorio.length} chars (~${tokens} tokens estimados)`);
-
-    aiHideTyping();
-    const botDiv = aiAddMsg('bot','');
-
-    // 4. Chamar LLM apenas para redigir (com os dados já filtrados)
-    let fullReply = '';
-    try {
-      fullReply = await aiCallLLM(relatorio, botDiv);
-    } catch(e) {
-      // Backend offline → usa resposta direta (sem LLM)
-      console.warn('[Agente] Backend indisponível, usando resposta direta:', e.message);
-      fullReply = aiRespostaDireta(relatorio, intent);
-      botDiv.innerHTML = fullReply;
-      aiSetStatus('⚡ Modo offline (sem LLM)');
+    if (!resp.ok && !isSSE) {
+      let errMsg = 'Backend retornou ' + resp.status;
+      try { const e = await resp.json(); errMsg = e?.error?.message || errMsg; } catch(_) {}
+      throw new Error(errMsg);
     }
 
-    if (fullReply) {
-      aiHistory.push({role:'assistant',content:fullReply});
-      if (aiHistory.length > AI_CONFIG.maxHistory*2) aiHistory = aiHistory.slice(-AI_CONFIG.maxHistory*2);
-    } else if (!botDiv.innerHTML.trim()) {
-      botDiv.className='ai-msg error';
-      botDiv.innerHTML='⚠️ Resposta vazia.';
-    }
-    aiSetStatus('');
-
-  } catch(e) {
+    // Criar bolha de resposta
     aiHideTyping();
     aiSetStatus('');
-    aiAddMsg('error','⚠️ Erro: '+e.message);
-    console.error('[Agente]',e);
+    const botDiv = document.createElement('div');
+    botDiv.className = 'ai-msg bot';
+    botDiv.innerHTML = '';
+    document.getElementById('ai-messages').appendChild(botDiv);
+
+    if (isSSE) {
+      // Ler stream SSE
+      const reader = resp.body.getReader();
+      const decoder = new TextDecoder();
+      let fullReply = '';
+      let buffer = '';
+
+      while (true) {
+        const { done, value } = await reader.read();
+        if (done) break;
+        buffer += decoder.decode(value, { stream: true });
+        const lines = buffer.split('\n');
+        buffer = lines.pop();
+        for (const line of lines) {
+          if (!line.startsWith('data: ')) continue;
+          try {
+            const parsed = JSON.parse(line.slice(6));
+            if (parsed.delta) {
+              fullReply += parsed.delta;
+              botDiv.innerHTML = aiMarkdown(fullReply);
+              document.getElementById('ai-messages').scrollTop = 999999;
+            }
+          } catch(_) {}
+        }
+      }
+      if (fullReply) {
+        aiHistory.push({ role: 'assistant', content: fullReply });
+        if (aiHistory.length > 20) aiHistory = aiHistory.slice(-20);
+      } else if (!botDiv.textContent) {
+        botDiv.className = 'ai-msg error';
+        botDiv.innerHTML = '⚠️ Resposta vazia do servidor.';
+      }
+    } else {
+      // Fallback JSON simples
+      const json = await resp.json();
+      const reply = json.reply || 'Sem resposta.';
+      botDiv.innerHTML = aiMarkdown(reply);
+      aiHistory.push({ role: 'assistant', content: reply });
+      if (aiHistory.length > 20) aiHistory = aiHistory.slice(-20);
+    }
+
+  } catch (e) {
+    aiHideTyping();
+    aiSetStatus('');
+    aiAddMsg('error', '⚠️ Erro: ' + e.message);
   } finally {
-    document.getElementById('ai-send').disabled=false;
-    aiLoading=false;
+    document.getElementById('ai-send').disabled = false;
+    aiLoading = false;
   }
 }
-
-// Constrói índice assim que dados estiverem prontos
-document.addEventListener('DOMContentLoaded', ()=>{
-  setTimeout(()=>{ if(processos?.length) aiBuildIndex(); }, 2000);
-});
 </script>
 </body>
 </html>
