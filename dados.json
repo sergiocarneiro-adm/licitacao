@@ -4,7 +4,7 @@
     "total_processos": 748,
     "total_lotes": 8615,
     "total_itens": 14232,
-    "atualizado_em": "20260331_065845"
+    "atualizado_em": "20260331_171547"
   },
   "processos": [
     {
@@ -1828,50 +1828,6 @@
               "unidade": "UN",
               "quantidade": "60.000,00",
               "valor_referencia": "0,55"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "2-DLE-007-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "26/2026",
-      "modalidade": "DISPENSA ELETRÔNICA",
-      "situacao": "HABILITAÇÃO",
-      "condutor": "ISAQUE SILVA DOS SANTOS",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO PARCELADA",
-      "publicacao": "03/02/2026 17:16",
-      "inicio_recepcao": "03/02/2026 17:20",
-      "fim_recepcao": "09/02/2026 08:15",
-      "inicio_disputa": "09/02/2026 08:30",
-      "objeto": "Contratação de empresas para aquisição de ESCOVAS DE DENTES, a fim de atender as demandas da Secretaria Municipal de Administração e demais Secretarias.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DFtQZqCeegvWPhXd5tKnJXjJE7%2FlS3l_EEeWMFF__xsSMy4UvdJkVecd3spLOar2AZwDwxzOSj3MFCvqbDa0W48hZST9sW2SgNpDgf1ye2tc%3D",
-      "total_lotes": 1,
-      "total_itens": 1,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "ESCOVA DENTAL ADULTO",
-          "fase": "HABILITAÇÃO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "",
-          "garantia": "",
-          "valor_referencia": "1.306,50",
-          "vencedor": "KARLA KAROLINE FONTES MENESES",
-          "melhor_oferta": "695,50",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900515258 ESCOVA DENTAL ADULTO:Com cerdas macias, com protetor de cerdas, com comprimento aproximado de 17 cm, cores diversas. Embalagem individual.",
-              "unidade": "UND",
-              "quantidade": "650,00",
-              "valor_referencia": "2,01"
             }
           ]
         }
@@ -236595,99 +236551,6 @@
       ]
     },
     {
-      "id": "PE-046-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "210/2026",
-      "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "RECEPÇÃO DE PROPOSTAS",
-      "condutor": "SERGIO CARNEIRO CAVALCANTI DE AZEVEDO",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "REGISTRO DE PREÇO",
-      "publicacao": "17/03/2026 16:37",
-      "inicio_recepcao": "19/03/2026 00:00",
-      "fim_recepcao": "31/03/2026 13:45",
-      "inicio_disputa": "31/03/2026 14:00",
-      "objeto": "Contratação de empresa especializada em fornecimento de KIT LANCHE PRONTO (material de consumo),  a fim de atender as demandas da Secretaria Municipal de Administração e demais Secretarias.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5D2pKVdLKQzrii_7bzMqDasO0BrDaxtK%2FDZEakn4UK99l4h%2FoLedtOCPkgjmhnor1hi_8guSAl7rcg6shhZV0eEDIxH7sPMf0NhRpLDvg1uPQ%3D",
-      "total_lotes": 1,
-      "total_itens": 8,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "LOTE 1",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,00",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 8,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "100800011 KIT LANCHE TIPO A:COMPOSTO POR: 01 COPO DE CAFÉ COM LEITE (200ML);01 COPO DE MINGAU DE TAPIOCA (200ML);01 PORÇÃO DE CUSCUZ NORDESTINO 250G (CALABRESA E CARNE DE SOL);01 SANDUÍCHE DE QUEIJO (PÃO DE FORMA E QUEIJO LANCHE);02 GUARDANAPOS DE PAPEL",
-              "unidade": "Und.",
-              "quantidade": "4.000,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "2",
-              "especificacao": "37032 KIT LANCHE TIPO B:COMPOSTO POR: 01 COPO DE CAFÉ COM LEITE (200ML); 01 COPO DE SUCO DE FRUTAS (200ML);01 FATIA DE BOLO DE MILHO (100G);01 PATISSARIA 120G (ESFIRRA);02 GUARDANAPOS DE PAPEL",
-              "unidade": "Und.",
-              "quantidade": "4.000,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "3",
-              "especificacao": "100800012 KIT LANCHE TIPO C:COMPOSTO POR: 01 COPO DE CAFÉ COM LEITE (200ML);01 COPO DE MINGAU DE MILHO (200ML);01 PORÇÃO DE BANANA DA TERRA COZIDA COM CARNE DO SOL E CALABRESA (250G);01 FATIA DE BOLO DE TAPIOCA (100G);02 GUARDANAPOS DE PAPEL",
-              "unidade": "Und.",
-              "quantidade": "4.000,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "4",
-              "especificacao": "100800013 KIT LANCHE TIPO D:COMPOSTO POR: 01 COPO DE CAFÉ COM LEITE (200ML);01 COPO DE SUCO DE FRUTAS (200ML);01 PORÇÃO DE CUSCUZ NORDESTINO 250G (CALABRESA E CARNE DO SOL);PATISSARIA (BAURU);02 GUARDANAPOS DE PAPEL",
-              "unidade": "Und.",
-              "quantidade": "4.000,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "5",
-              "especificacao": "100800014 KIT LANCHE TIPO E:COMPOSTO POR: 01 COPO DE SUCO DE FRUTAS (200ML);01 MAÇÃ;01 BANANA;01 SANDUÍCHE DE QUEIJO (PÃO DE FORMA E QUEIJO);02 GUARDANAPOS DE PAPEL",
-              "unidade": "Und.",
-              "quantidade": "4.000,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "6",
-              "especificacao": "100800015 KIT LANCHE TIPO F:COMPOSTO POR:01 COPO DE ACHOCOLATADO (200ML);01 COPO DE SUCO DE FRUTAS (200ML);1 FATIA DE BOLO DE CHOCOLATE;01 MAÇÃ;02 GUARDANAPOS DE PAPEL",
-              "unidade": "Und.",
-              "quantidade": "4.000,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "7",
-              "especificacao": "100800016 LANCHE COMPLETO c/ SUCO NATURAL300ml:sanduíche: pão fatiado, com maionese, 1 (uma) fatia de queijo muçarela, 1 (uma) fatia de apresuntado, embalado em plástico filme; suco natural 300ml (trezentos mililitros); 1 guardanapo de papel embalado individualmente.",
-              "unidade": "Und.",
-              "quantidade": "4.000,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "8",
-              "especificacao": "100800017 MARMITEX COM REFRIGERANTE EM LATA:Arroz,farofa de feijão, macarrão, carne (podendo ser: carne cozida ou frango) e salada; no mínimo 500g; garfo descartável resistente e guardanapo de papel embalados individualmente; Refrigerante lata 350ml.",
-              "unidade": "Und.",
-              "quantidade": "4.000,00",
-              "valor_referencia": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "PE-044-2026",
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "110/2026",
@@ -238556,410 +238419,6 @@
       ]
     },
     {
-      "id": "PE-039-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "112/2026",
-      "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "RECEPÇÃO DE PROPOSTAS",
-      "condutor": "JONATAS DA SILVA SOUSA",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO PARCELADA",
-      "publicacao": "16/03/2026 16:54",
-      "inicio_recepcao": "18/03/2026 08:30",
-      "fim_recepcao": "31/03/2026 08:15",
-      "inicio_disputa": "31/03/2026 08:30",
-      "objeto": "Contratação de empresa especializada em fornecimento de MATERIAIS ESPORTIVOS (material de consumo),  a fim de atender as demandas da Secretaria Municipal de Administração e demais secretarias.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DEp3yJwEQM5gnGwhoa4qHA5Xfbrs7iCxRKcrZqOwKTsvQOKJwP0dwIDRQVDaRrOtKBg9NsQMKnb_UTqLLlEplbw0%2FKkHQpIf9WB34vm9aFYQ%3D",
-      "total_lotes": 16,
-      "total_itens": 16,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "9907000131 Bola de handebol profissional tamanho H2:confeccionada em material sintético de alta resistência, em PVC, poliuretano ou similar, com superfície texturizada e aderente, com número de gomos mínimo de 30, miolo removível, câmara interna em látex",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9907000131 Bola de handebol profissional tamanho H2:confeccionada em material sintético de alta resistência, em PVC, poliuretano ou similar, com superfície texturizada e aderente, com número de gomos mínimo de 30, miolo removível, câmara interna em látex ou borracha butílica com laminação, tamanho H2 (handebol adulto feminino), circunferência aproximada entre 54 cm e 56 cm e peso aproximado entre 325 g e 375 g, devendo apresentar boa empunhadura, maciez ao toque e resistência à abrasão. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "UND",
-              "quantidade": "45,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "2",
-          "titulo": "36848 Bola de handebol profissional tamanho H3:confeccionada em material sintético de alta resistência, em PVC, poliuretano ou similar, com superfície texturizada e aderente, com número de gomos mínimo de 30, miolo removível, câmara interna em látex ou bo",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "36848 Bola de handebol profissional tamanho H3:confeccionada em material sintético de alta resistência, em PVC, poliuretano ou similar, com superfície texturizada e aderente, com número de gomos mínimo de 30, miolo removível, câmara interna em látex ou borracha butílica com laminação, tamanho h3 (handebol adulto masculino), circunferência aproximada entre 58 cm e 60 cm e peso aproximado entre 425 g e 475 g, devendo apresentar boa empunhadura, maciez ao toque e resistência à abrasão.EXCLUSIVO PARA ME/EPP.",
-              "unidade": "UND",
-              "quantidade": "45,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "3",
-          "titulo": "36849 Bola de futebol de campo oficial:para prática de esporte de alto rendimento, categoria adulto. Confeccionada com laminado pu, termotec, com 14 gomos, com câmara 6d, forro termofixo, dupla colagem, camada interna de neogel, miolo cápsula sis com peso",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "36849 Bola de futebol de campo oficial:para prática de esporte de alto rendimento, categoria adulto. Confeccionada com laminado pu, termotec, com 14 gomos, com câmara 6d, forro termofixo, dupla colagem, camada interna de neogel, miolo cápsula sis com peso entre 410 e 445g e circunferência entre 68 e 70cm. Bola aprovada pela federação bahiana de futebol ou confederação brasileira de futebol ou FIFA. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "UND",
-              "quantidade": "150,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "4",
-          "titulo": "36850 Kit de cartões de arbitragem:composto por cartões amarelo e vermelho, em PVC flexível ou polipropileno, com medidas oficiais aproximadas de 8 cm x 9,5 cm, cores vivas que garantam alta visibilidade durante a partida, cantos levemente arredondados pa",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "36850 Kit de cartões de arbitragem:composto por cartões amarelo e vermelho, em PVC flexível ou polipropileno, com medidas oficiais aproximadas de 8 cm x 9,5 cm, cores vivas que garantam alta visibilidade durante a partida, cantos levemente arredondados para maior segurança no manuseio, superfície lisa que permita fácil higienização, acompanhado de estojo/case simples em material plástico ou similar para acondicionamento e organização dos cartões e lápis de anotação de arbitragem, adequado para uso por árbitros em competições esportivas diversas. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "KIT",
-              "quantidade": "35,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "5",
-          "titulo": "9907000132 Apito profissional para árbitro:modelo esportivo, confeccionado em plástico ABS de alta resistência ou material equivalente, sem bolinha interna (tipo pealess), com design ergonômico, som potente e agudo, com nível sonoro elevado (aproximadamen",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9907000132 Apito profissional para árbitro:modelo esportivo, confeccionado em plástico ABS de alta resistência ou material equivalente, sem bolinha interna (tipo pealess), com design ergonômico, som potente e agudo, com nível sonoro elevado (aproximadamente 120 dB ou equivalente), audível em ambientes abertos e fechados com alto nível de ruído, acompanhado de cordão para uso no pescoço, devendo apresentar alta durabilidade, facilidade de higienização e bom acabamento, próprio para uso intensivo em jogos e treinamentos. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "UND",
-              "quantidade": "35,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "6",
-          "titulo": "9907000133 Kit com 10 bambolês:confeccionados em material plástico rígido ou semirrígido de alta resistência, com diâmetro aproximado entre 60 cm e 80 cm cada unidade, estrutura em  tubo plástico com emenda reforçada, superfície lisa sem rebarbas, cores v",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9907000133 Kit com 10 bambolês:confeccionados em material plástico rígido ou semirrígido de alta resistência, com diâmetro aproximado entre 60 cm e 80 cm cada unidade, estrutura em tubo plástico com emenda reforçada, superfície lisa sem rebarbas, cores variadas e vivas que facilitem o uso em atividades recreativas e educativas, adequado para uso em aulas de educação física, recreação e treinamentos de coordenação motora, devendo apresentar boa resistência a impactos,deformações e uso contínuo em ambiente escolar ou esportivo. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "KIT",
-              "quantidade": "35,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "7",
-          "titulo": "9907000134 Corda de pular:confeccionada em material resistente como PVC, nylon ou similar, com comprimento aproximado entre 2,5 m e 3,0 m, cabo em plástico ou material emborrachado de fácil empunhadura, com acabamento liso e sem rebarbas, adequadas para u",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9907000134 Corda de pular:confeccionada em material resistente como PVC, nylon ou similar, com comprimento aproximado entre 2,5 m e 3,0 m, cabo em plástico ou material emborrachado de fácil empunhadura, com acabamento liso e sem rebarbas, adequadas para uso em aulas de educação física, treinamentos aeróbicos e atividades recreativas, suportando uso intenso em ambientes internos e externos, devendo apresentar boa flexibilidade, resistência à tração e durabilidade, cores variadas. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "UND",
-              "quantidade": "350,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "8",
-          "titulo": "36851 Medalha de premiação em bronze (terceiro lugar):confeccionada em liga metálica tipo zamac ou similar, metalizada na cor bronze, formato preferencialmente redondo, com diâmetro aproximado entre 60 mm e 75 mm, espessura em torno de 2,5 mm a 2,7 mm, co",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "36851 Medalha de premiação em bronze (terceiro lugar):confeccionada em liga metálica tipo zamac ou similar, metalizada na cor bronze, formato preferencialmente redondo, com diâmetro aproximado entre 60 mm e 75 mm, espessura em torno de 2,5 mm a 2,7 mm, com área central lisa para aplicação de adesivo, gravação ou personalização (brasão, logomarca do município ou orgão e nome do evento), borda com acabamento trabalhado (coroa de louros ou similar), com suporte para fita de aproximadamente 2,5 cm de largura, acompanhada de fita em tecido resistente, na cor a ser definida pelo contratante, adequada para premiações esportivas diversas. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "UND",
-              "quantidade": "300,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "9",
-          "titulo": "9907000135 Medalha de premiação prata (segundo lugar):confeccionada em liga metálica tipo zamac ou similar, metalizada na cor prata, formato preferencialmente redondo, com diâmetro aproximado entre 60 mm e 75 mm, espessura em torno de 2,5 mm a 2,7 mm, com",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9907000135 Medalha de premiação prata (segundo lugar):confeccionada em liga metálica tipo zamac ou similar, metalizada na cor prata, formato preferencialmente redondo, com diâmetro aproximado entre 60 mm e 75 mm, espessura em torno de 2,5 mm a 2,7 mm, com área central lisa para aplicação de adesivo, gravação ou personalização (brasão, logomarca do município ou orgão e nome do evento), borda com acabamento trabalhado (coroa de louros ou similar), com suporte para fita de aproximadamente 2,5 cm de largura, acompanhada de fita em tecido resistente, na cor a ser definida pelo contratante, adequada para premiações esportivas diversas. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "UND",
-              "quantidade": "300,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "10",
-          "titulo": "9907000136 Medalha de premiação dourada (primeiro lugar):confeccionada em liga metálica tipo zamac ou similar, metalizada na cor dourada, formato preferencialmente redondo, com diâmetro aproximado entre 60 mm e 75 mm, espessura em torno de 2,5 mm a 2,7 mm",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9907000136 Medalha de premiação dourada (primeiro lugar):confeccionada em liga metálica tipo zamac ou similar, metalizada na cor dourada, formato preferencialmente redondo, com diâmetro aproximado entre 60 mm e 75 mm, espessura em torno de 2,5 mm a 2,7 mm, com área central lisa para aplicação de adesivo, gravação ou personalização (brasão, logomarca do município ou orgão e nome do evento), borda com acabamento trabalhado (coroa de louros ou similar), com suporte para fita de aproximadamente 2,5 cm de largura, acompanhada de fita em tecido resistente, na cor a ser definida pelo contratante, adequada para premiações esportivas diversas. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "UND",
-              "quantidade": "300,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "11",
-          "titulo": "36852 Troféu de premiação com altura aproximada de 75 cm:confeccionado em material resistente como polímero de alto impacto, resina, metal ou combinação destes, com base firme e estável, com área destinada à aplicação de plaqueta de identificação em metal",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "36852 Troféu de premiação com altura aproximada de 75 cm:confeccionado em material resistente como polímero de alto impacto, resina, metal ou combinação destes, com base firme e estável, com área destinada à aplicação de plaqueta de identificação em metal ou similar (com gravação do evento, categoria e colocação), estrutura com colunas, taça ou estatueta representativa da modalidade ou temática esportiva, acabamento metalizado em cores como dourado, prata ou bronze conforme colocação, com bom padrão estético e de durabilidade, bordas e cantos sem arestas cortantes, adequado para premiações em campeonatos e eventos esportivos. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "UND",
-              "quantidade": "40,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "12",
-          "titulo": "36853 Plataforma de exercícios tipo step:confeccionada com estrutura em material plástico de alta resistência ou similar, superfície superior antiderrapante, com dimens&#305;es aproximadas de 60 cm a 80 cm de comprimento por 25 cm a 35 cm de largura, altu",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "36853 Plataforma de exercícios tipo step:confeccionada com estrutura em material plástico de alta resistência ou similar, superfície superior antiderrapante, com dimens&#305;es aproximadas de 60 cm a 80 cm de comprimento por 25 cm a 35 cm de largura, altura fixa ou regulável em níveis (por exemplo 10 cm, 15 cm e 20 cm), base com pés antiderrapantes que garantam estabilidade durante o uso, suportando carga mínima de 120 kg, destinada a exercícios aeróbicos, de coordenação e fortalecimento muscular, devendo apresentar acabamento resistente e fácil higienização. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "UND",
-              "quantidade": "200,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "13",
-          "titulo": "9907000137 Cama elástica tipo mini jump:com estrutura em aço ou aço galvanizado de alta resistência, com diâmetro aproximado entre 90 cm e 100 cm, dotada de 6 pés fixos com sapatas de borracha antiderrapante, lona de salto em material super resistente, co",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9907000137 Cama elástica tipo mini jump:com estrutura em aço ou aço galvanizado de alta resistência, com diâmetro aproximado entre 90 cm e 100 cm, dotada de 6 pés fixos com sapatas de borracha antiderrapante, lona de salto em material super resistente, como polipropileno com proteção UV, com costuras reforçadas e capa de proteção sobre molas, contendo no mínimo 32 molas zincadas ou sistema equivalente de el·sticos, capacidade de carga mínima entre 100 kg e 130 kg, acabamento com pintura epóxi ou similar, adequada para uso em academias, clubes, escolas e atividades de condicionamento físico, garantindo segurança, estabilidade e durabilidade no uso contínuo. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "UND",
-              "quantidade": "200,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "14",
-          "titulo": "9907000138 Jogo completo de xadrez:composto por um tabuleiro rígido ou dobrável em material como MDF, plástico resistente ou similar, com demarcação de 64 casas alternadas em duas cores contrastantes, obedecendo às medidas proporcionais oficiais, acompanh",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9907000138 Jogo completo de xadrez:composto por um tabuleiro rígido ou dobrável em material como MDF, plástico resistente ou similar, com demarcação de 64 casas alternadas em duas cores contrastantes, obedecendo às medidas proporcionais oficiais, acompanhado de 32 peças (16 claras e 16 escuras) confeccionadas em plástico ou material equivalente de boa resistência, com base estável e design que permita fácil identificação de cada tipo de peça (rei, dama, torres, bispos, cavalos e peões), adequado para uso em ambiente escolar, recreativo e competitivo, com acabamento que permita fácil higienização e boa durabilidade. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "UND",
-              "quantidade": "40,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "15",
-          "titulo": "9907000139 Bola de basquete:tamanho 6, confeccionada em borracha, termovulcanizada com cobertura impermeável, contendo 8 gomos, pesando de 510-567g, circunferência de 72-74cm. EXCLUSIVO PARA ME/EPP.",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9907000139 Bola de basquete:tamanho 6, confeccionada em borracha, termovulcanizada com cobertura impermeável, contendo 8 gomos, pesando de 510-567g, circunferência de 72-74cm. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "UND",
-              "quantidade": "15,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "16",
-          "titulo": "9907000140 Bola de basquete:tamanho 7, confeccionada em borracha, termovulcanizada com cobertura impermeável, contendo 8 gomos, pesando de 567-650g, circunferência de 75-78cm. EXCLUSIVO PARA ME/EPP.",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9907000140 Bola de basquete:tamanho 7, confeccionada em borracha, termovulcanizada com cobertura impermeável, contendo 8 gomos, pesando de 567-650g, circunferência de 75-78cm. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "UND",
-              "quantidade": "15,00",
-              "valor_referencia": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "PE-035-2026",
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "96/2026",
@@ -240204,382 +239663,6 @@
       ]
     },
     {
-      "id": "PE-040-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "202/2026",
-      "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "RECEPÇÃO DE PROPOSTAS",
-      "condutor": "SERGIO CARNEIRO CAVALCANTI DE AZEVEDO",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO",
-      "publicacao": "17/03/2026 16:31",
-      "inicio_recepcao": "19/03/2026 08:30",
-      "fim_recepcao": "31/03/2026 09:15",
-      "inicio_disputa": "31/03/2026 09:30",
-      "objeto": "Contratação de empresa especializada em fornecimento de VEÍCULOS TIPO PICAPE CABINE DUPLA (bens permanentes), a fim de atender as demandas da Secretaria Municipal de Educação.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DrBdqzEOiz_GsMNNs1aLAcITOhuWwUtX9tuB8M3cXjzHj7DnfmPSRj4U6h0Y5n2c_BxPSF26dpA_lHmLiOSIQ2ssAB7uY3l5gXv9uGsXC7cw%3D",
-      "total_lotes": 1,
-      "total_itens": 1,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "PICAPE CABINE DUPLA",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "Contratação de empresa especializada em fornecimento de VEÍCULOS TIPO PICAPE CABINE DUPLA (bens permanentes), a fim de atender as demandas da Secretaria Municipal de Educação.",
-              "unidade": "UN",
-              "quantidade": "4,00",
-              "valor_referencia": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "PE-041-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "1583/2025",
-      "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "RECEPÇÃO DE PROPOSTAS",
-      "condutor": "JONATAS DA SILVA SOUSA",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "REGISTRO DE PREÇO",
-      "publicacao": "17/03/2026 16:19",
-      "inicio_recepcao": "19/03/2026 08:30",
-      "fim_recepcao": "31/03/2026 09:45",
-      "inicio_disputa": "31/03/2026 10:00",
-      "objeto": "Contratação de empresa especializada no fornecimento de TENDAS, TOLDOS, BARRACAS E GRADIS (material permanente),  a fim de atender as demandas da Secretaria Municipal de Administração e demais Secretarias.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5D3z1P5eY6ODdWBUz4XaRmkUOItAuzfZN9x0UU4O4lZFZy4FV_os7tH1FW1x8ai0Mjm_pWfYgW8%2FohnPFMTrh34mpVcICOiqs7Stc%2FzCDtKDo%3D",
-      "total_lotes": 13,
-      "total_itens": 13,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "9900515124 BARRACA COM LATERAL DE LONA  3 x 3M:Altura livre mínima: 2,0 m;Estrutura em aço carbono com acabamento galvanizado ou com tratamento anticorrosivo equivalente;Tubos com diâmetros compatíveis para sustentação da carga, mínimo 1\";Espessura mí",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900515124 BARRACA COM LATERAL DE LONA 3 x 3M:Altura livre mínima: 2,0 m;Estrutura em aço carbono com acabamento galvanizado ou com tratamento anticorrosivo equivalente;Tubos com diâmetros compatíveis para sustentação da carga, mínimo 1\";Espessura mínima da parede dos tubos: 1,50 mm;Conexões tipo engate macho e fêmea, com trava de segurança; Fixação por bases metálicas ou equivalente;Lona lateral em PVC com gramatura mínima de 400 g/m², com tratamento anti-UV;Cor: a definir. EXCLUSIVO PARA ME/EPP",
-              "unidade": "Und.",
-              "quantidade": "10,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "2",
-          "titulo": "36540 GRADIL DE ISOLAMENTO 2,00 x 1,20 m:Dimensões:2,00 x 1,20 m;Tubos metálicos com diâmetro mínimo de 1\"; Espessura mínima da parede: 1,50 mm;Acabamento com galvanização ou pintura anticorrosiva equivalente;Lâminas internas em aço;Sistema de encaix",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "36540 GRADIL DE ISOLAMENTO 2,00 x 1,20 m:Dimensões:2,00 x 1,20 m;Tubos metálicos com diâmetro mínimo de 1\"; Espessura mínima da parede: 1,50 mm;Acabamento com galvanização ou pintura anticorrosiva equivalente;Lâminas internas em aço;Sistema de encaixe permitindo angulação. EXCLUSIVO PARA ME/EPP",
-              "unidade": "Und.",
-              "quantidade": "220,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "3",
-          "titulo": "9900515125 TENDA PIRAMIDAL 3 x 3 M:Estrutura em aço com tratamento anticorrosivo: galvanização ou equivalente;Tubulação com diâmetro mínimo de 1 ¼\"; Espessura mínima da parede: 1,50 mm;Lona PVC com gramatura mínima de 450 g/m², com proteção UV;Conexões",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900515125 TENDA PIRAMIDAL 3 x 3 M:Estrutura em aço com tratamento anticorrosivo: galvanização ou equivalente;Tubulação com diâmetro mínimo de 1 ¼\"; Espessura mínima da parede: 1,50 mm;Lona PVC com gramatura mínima de 450 g/m², com proteção UV;Conexões metálicas ou de material equivalente de alta resistência;Sistema de montagem por encaixe e parafusos; Cor da lona: branca. EXCLUSIVO PARA ME/EPP",
-              "unidade": "Und.",
-              "quantidade": "15,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "4",
-          "titulo": "9900515126 TENDA PIRAMIDAL 4 x 4 M:Estrutura metálica com tratamento anticorrosivo;Diâmetro mínimo dos tubos: 1 ¼\"; Espessura mínima: 1,50 mm;Lona PVC com mínimo 450 g/m², com proteção UV; Sistema de montagem por encaixe/parafusos;Cor branca. EXCLUSIVO",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900515126 TENDA PIRAMIDAL 4 x 4 M:Estrutura metálica com tratamento anticorrosivo;Diâmetro mínimo dos tubos: 1 ¼\"; Espessura mínima: 1,50 mm;Lona PVC com mínimo 450 g/m², com proteção UV; Sistema de montagem por encaixe/parafusos;Cor branca. EXCLUSIVO PARA ME/EPP",
-              "unidade": "Und.",
-              "quantidade": "13,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "5",
-          "titulo": "9900515127 TENDA PIRAMIDAL 10 x 10 M:Estrutura reforçada em aço ou equivalente, com proteção contra corrosão; Tubos com diâmetro mínimo de 2\";Espessura mínima: 2,00 mm; Lona PVC profissional com mínimo 500 g/m², com proteção UV; Conexões metálicas; Siste",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900515127 TENDA PIRAMIDAL 10 x 10 M:Estrutura reforçada em aço ou equivalente, com proteção contra corrosão; Tubos com diâmetro mínimo de 2\";Espessura mínima: 2,00 mm; Lona PVC profissional com mínimo 500 g/m², com proteção UV; Conexões metálicas; Sistema de montagem reforçado;Cor branca.",
-              "unidade": "Und.",
-              "quantidade": "15,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "6",
-          "titulo": "9900515128 TENDA PIRAMIDAL 6 x 6 M:Estrutura metálica, com tratamento contra corrosão;Diâmetro mínimo: 1 ½\"; Espessura mínima: 1,75 mm;Lona PVC com mínimo 500 g/m², com proteção UV; Sistema de montagem por encaixe/parafusos;Cor branca. EXCLUSIVO PARA M",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900515128 TENDA PIRAMIDAL 6 x 6 M:Estrutura metálica, com tratamento contra corrosão;Diâmetro mínimo: 1 ½\"; Espessura mínima: 1,75 mm;Lona PVC com mínimo 500 g/m², com proteção UV; Sistema de montagem por encaixe/parafusos;Cor branca. EXCLUSIVO PARA ME/EPP",
-              "unidade": "Und.",
-              "quantidade": "15,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "7",
-          "titulo": "9900515129 BARRACA INDIVIDUAL GALVANIZADA:medindoaproximadamente altura 2,10m x 1,40m de largura x 1,00m de profundidade;Com balcão esteira (expositor) de 0,30 cm; Cobertura avançada em lona.",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900515129 BARRACA INDIVIDUAL GALVANIZADA:medindoaproximadamente altura 2,10m x 1,40m de largura x 1,00m de profundidade;Com balcão esteira (expositor) de 0,30 cm; Cobertura avançada em lona.",
-              "unidade": "Und.",
-              "quantidade": "75,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "8",
-          "titulo": "36541 TOLDO 6,26 M x 2,50 M:Estrutura metálica confeccionada em aço (galvanizado ou com tratamento equivalente);Tubos em aço com diâmetros compatíveis para sustentação da carga;Cobertura confeccionada em lona PVC, com tratamento anti-UV, gramatura compa",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "36541 TOLDO 6,26 M x 2,50 M:Estrutura metálica confeccionada em aço (galvanizado ou com tratamento equivalente);Tubos em aço com diâmetros compatíveis para sustentação da carga;Cobertura confeccionada em lona PVC, com tratamento anti-UV, gramatura compatível e acabamento adequado para proteção contra intempéries;Conexões metálicas ou material equivalente de alta resistência, fixadas por encaixe e/ou parafusos;Cor: a definir. EXCLUSIVO PARA ME/EPP",
-              "unidade": "Und.",
-              "quantidade": "2,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "9",
-          "titulo": "9900515130 TOLDO 3 x 3 M:Estrutura em aço reforçado, com chapas de 1,4 mm de espessura, com partes soldadas em sistema MIG e conexões metálicas fixadas por encaixe e parafusos;Tubos em aço com diâmetro compatível para sustentação da carga (não especifica",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900515130 TOLDO 3 x 3 M:Estrutura em aço reforçado, com chapas de 1,4 mm de espessura, com partes soldadas em sistema MIG e conexões metálicas fixadas por encaixe e parafusos;Tubos em aço com diâmetro compatível para sustentação da carga (não especificado), reforçados para uso externo.Espessura mínima da parede:1,4 mm;Cobertura confeccionada em PVC sintético, com união por solda eletrônica, garantindo maior resistência a rupturas. Possui película blackout, tratamento anti-mofo e anti-chamas;Conexões metálicas, unidas por encaixe e parafusos, com alta resistência;Montagem por encaixe, parafusos e soldas estruturais;Ancoragem realizada com cordas de nylon 1/4\", amarras especiais e estacas metálicas;Pés de sustentação em ferro tubular, com altura de 3 m, ancorada por cordas e estacas;Cor da lona: a definir. EXCLUSIVO PARA ME/EPP",
-              "unidade": "Und.",
-              "quantidade": "8,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "10",
-          "titulo": "9900515131 TOLDO 4 x 4 M:Estrutura confeccionada em ferro tubular em aço reforçado, com chapas de 1,4 mm de espessura, possuindo partes soldadas em sistema MIG. As demais partes são unidas por encaixe e fixadas com parafusos e conexões metálicas de alta r",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900515131 TOLDO 4 x 4 M:Estrutura confeccionada em ferro tubular em aço reforçado, com chapas de 1,4 mm de espessura, possuindo partes soldadas em sistema MIG. As demais partes são unidas por encaixe e fixadas com parafusos e conexões metálicas de alta resistência;Tubos em aço;Espessura mínima da parede: 1,4 mm;Cobertura confeccionada em PVC sintético, unida pelo processo de solda eletrônica, proporcionando alta resistência a rasgos e rupturas. A lona possui película blackout, tratamento anti-mofo e anti-chamas;Conexões metálicas de alta resistência, fixadas por encaixe e parafusos;Montagem por encaixe e parafusos, com seções soldadas estruturalmente. A ancoragem é feita com cordas de nylon 1/4\", amarras especiais e estacas metálicas, garantindo estabilidade; EXCLUSIVO PARA ME/EPP",
-              "unidade": "Und.",
-              "quantidade": "6,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "11",
-          "titulo": "9900515132 TENDA SANFONADA 3 X 4,5M::estrutura em aço galvanizado, pintura eletrostática e sistema articulado de montagem; laterais com reforço em metal; alturas reguláveis; lona à prova d´água e feita com material de nylon. EXCLUSIVO PARA ME/EPP",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900515132 TENDA SANFONADA 3 X 4,5M::estrutura em aço galvanizado, pintura eletrostática e sistema articulado de montagem; laterais com reforço em metal; alturas reguláveis; lona à prova d´água e feita com material de nylon. EXCLUSIVO PARA ME/EPP",
-              "unidade": "Und.",
-              "quantidade": "3,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "12",
-          "titulo": "36779 TENDA PIRAMIDAL 10 x 10 M::Estrutura reforçada em aço ou equivalente, com proteção contra corrosão; Tubos com diâmetro mínimo de 2\"Espessura mínima: 2,00 mm;Lona PVC profissional com mínimo 500 g/m², com proteção UV; Conexões metálicas;Sistema de",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "36779 TENDA PIRAMIDAL 10 x 10 M::Estrutura reforçada em aço ou equivalente, com proteção contra corrosão; Tubos com diâmetro mínimo de 2\"Espessura mínima: 2,00 mm;Lona PVC profissional com mínimo 500 g/m², com proteção UV; Conexões metálicas;Sistema de montagem reforçado;Cor branca. COTA 25% PARA ME/EPP",
-              "unidade": "Und.",
-              "quantidade": "4,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "13",
-          "titulo": "36780 BARRACA INDIVIDUAL GALVANIZADA::medindoaproximadamente altura 2,10m x 1,40m de largura x 1,00m de profundidade;Com balcão esteira (expositor) de 0,30 cm;Cobertura avançada em lona. COTA 25% PARA ME/EPP",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "36780 BARRACA INDIVIDUAL GALVANIZADA::medindoaproximadamente altura 2,10m x 1,40m de largura x 1,00m de profundidade;Com balcão esteira (expositor) de 0,30 cm;Cobertura avançada em lona. COTA 25% PARA ME/EPP",
-              "unidade": "Und.",
-              "quantidade": "25,00",
-              "valor_referencia": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "3-DLE-024-2026",
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "200/2026",
@@ -240618,57 +239701,6 @@
               "unidade": "M2",
               "quantidade": "125.000,00",
               "valor_referencia": "0,52"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "PE-036-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "1509/2025",
-      "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "HABILITAÇÃO",
-      "condutor": "JONATAS DA SILVA SOUSA",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO",
-      "publicacao": "03/03/2026 18:25",
-      "inicio_recepcao": "05/03/2026 08:30",
-      "fim_recepcao": "19/03/2026 08:15",
-      "inicio_disputa": "19/03/2026 08:30",
-      "objeto": "Contratação de empresa especializada em prestação de serviço de GESTÃO DE SISTEMA ELETRÔNICO DE\nCONTROLE DE PONTO COM RECONHECIMENTO FACIAL INTEGRADO A TABLETS E FORNECIMETO DOS EQUIPAMENTOS NECESSÁRIOS, a fim de atender as demandas da Secretaria Municipal de Administração e demais Secretarias.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5D4fN3ofps882sDhcCGV5aR5HqtS_jDMHMmDq2Fxym1R4Ogp928XYCF41%2F_dDkYlEsbSc5g9n6YmYk3y5WfuqDIHjDzuBs%2FZZ2miZIMjURens%3D",
-      "total_lotes": 1,
-      "total_itens": 2,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "LOTE ÚNICO",
-          "fase": "INTERPOSIÇÃO DE RECURSOS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "504.300,00",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 2,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "36514 SERVIÇOS DE SISTEMA ELETRÔNICO DE CONTROLE DE PONTO COM RECONHECIMENTO FACIALINTEGRADO:Prestação de serviço de sistema de gestão de ponto que inclua licença de uso de Software. O sistema deve estar em conformidade com a portaria 671/2021 Ministério do Trabalho e Emprego e Decreto nº 10.854/21. O sistema deve possuir capacidade de gerenciamento para 6.000 funcionários simultaneamente, que se comunique com dispositivos de registro eletrônico de ponto para controle da jornada de trabalho.O serviço deverá abranger a instalação dos equipamentos nos locais indicados, implantação e integração do software com os módulos do sistema de Recursos Humanos, além de treinamento para o uso do software e demais serviços inerentes ao objeto.Os equipamentos devem incluir leitor biométrico facial, manutenção preventiva e corretiva, atualizações, garantia de funcionamento, suporte técnico, deslocamento, peças de reposição e hora técnica inclusa, além de contemplar a cessão de uso mensal dos softwares para gestão do ponto eletrônico, comunicação instantânea com os equipamentos, monitoramento de conectividade, central de chamados e chat, aplicativo para registro via tablet, portal do servidor, integração com a folha de pagamento e atualizações contínuas, assim como layout de exportação de dados de faltas, horas extras, horas noturnas, banco de horas, entre outras informações que se fizerem necessárias, do sistema de ponto eletrônico para o sistema de folha de pagamento da Prefeitura; disponibilização de backups e banco de dados do sistema com todas as informações lançadas no sistema, sempre que solicitado pela contratante.",
-              "unidade": "MES",
-              "quantidade": "12,00",
-              "valor_referencia": "3.625,00"
-            },
-            {
-              "numero": "2",
-              "especificacao": "5707611145 TABLET:armazenamento interno de 64 GB, com possibilidade de expansão até 1 TB via micros; memória RAM mínima de 4 GB; processador octa-core de alto desempenho; tela de 8.7\" FHD (1920x1200), com taxa de atualização de até 120 Hz, cores nítidas e brilho ajustável; bateria mínima de 5100 mAh, com autonomia de até 14h de uso contínuo; câmeras frontal e traseira, ambas com no mínimo 8 megapixels; conectividade Wi-Fi 802.11ac/ax, Bluetooth 5.0 ou superior e suporte a geolocalização integrada; sistema operacional Android 13 ou superior, com atualizações de segurança garantidas por no mínimo 2 (dois) anos.Deverá ser acompanhado de todos os componentes e acessórios indispensáveis ao seu funcionamento, compreendendo: película de vidro, capa protetora robusta, suporte para fixação em parede e fonte de carregamento original.Garantia mínima de 36 (trinta e seis) meses para o tablet e seus acessórios.",
-              "unidade": "Und.",
-              "quantidade": "320,00",
-              "valor_referencia": "1.440,00"
             }
           ]
         }
@@ -251655,57 +250687,6 @@
       ]
     },
     {
-      "id": "2-DLE-033-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "273/2026",
-      "modalidade": "DISPENSA ELETRÔNICA",
-      "situacao": "RECEPÇÃO DE PROPOSTAS",
-      "condutor": "ISAQUE SILVA DOS SANTOS",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO",
-      "publicacao": "25/03/2026 15:42",
-      "inicio_recepcao": "25/03/2026 15:51",
-      "fim_recepcao": "31/03/2026 08:15",
-      "inicio_disputa": "31/03/2026 08:30",
-      "objeto": "Contratação de empresa especializada em fornecimento de [KIT LANCHE PRONTO E MARMITEX (materiais de consumo)], a fim de atender às necessidades da Secretaria Municipal de Esporte e Lazer.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DjSDGMn93ZZ5ytVq1Y8IplPAukQFCHFmqMxUWNeYozimhrH42qdKmhLK3o02VDkEuMas2OiKajTriNBvdUaz1qsnqH3XagI55Xu0HO1HzG3s%3D",
-      "total_lotes": 1,
-      "total_itens": 2,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "LOTE ÚNICO",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "13.986,00",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 2,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "100800018 LANCHE COMPLETO c/ SUCO NATURAL300ml:(sanduíche: pão fatiado, com maionese, 1 (uma) fatia dequeijo muçarela, 1 (uma) fatia de apresuntado, embalado emplástico filme; suco natural 300ml (trezentos mililitros); 1guardanapo de papel embalado individualmente.",
-              "unidade": "UN",
-              "quantidade": "600,00",
-              "valor_referencia": "11,46"
-            },
-            {
-              "numero": "2",
-              "especificacao": "100800019 MARMITEX COM REFRIGERANTE EM LATA:Arroz,farofa de feijão, macarrão, carne (podendo ser: carne cozida oufrango) e salada; no mínimo 500g; garfo descartável resistente eguardanapo de papel embalados individualmente; Refrigerantelata 350ml.",
-              "unidade": "UN",
-              "quantidade": "300,00",
-              "valor_referencia": "23,70"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "PE-053-2026",
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "309/2026",
@@ -260119,71 +259100,6 @@
       ]
     },
     {
-      "id": "CE-006-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "218/2026",
-      "modalidade": "CONCORRÊNCIA ELETRÔNICA",
-      "situacao": "PUBLICADO",
-      "condutor": "DAVIDSON ARAUJO SANTOS",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO PARCELADA",
-      "publicacao": "30/03/2026 16:23",
-      "inicio_recepcao": "31/03/2026 08:00",
-      "fim_recepcao": "08/05/2026 08:15",
-      "inicio_disputa": "08/05/2026 08:30",
-      "objeto": "Contratação de empresa especializada em execução de obras de microdrenagem e pavimentação da rua Mauá, localizada no Centro, do município de Teixeira de Freitas – BA.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DaXVUYjWre0bg55q0lGpeURHzgXsx03CxMnOsFS1tlKcvhEhxOH4Bkz7Y6UIgGfmfSaXCS9GqmMlQqZht3Gyr5ATCaWRv_3zuy7yLiYKz%2F0Q%3D",
-      "total_lotes": 1,
-      "total_itens": 4,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "EXECUÇÃO DE OBRAS DE MICRODRENAGEM E PAVIMENTAÇÃO DA RUA MAUÁ, LOCALIZADA NO CENTRO",
-          "fase": "PUBLICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "1.000,00",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "1.886.275,46",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 4,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "ADMINISTRAÇÃO LOCAL DE OBRA",
-              "unidade": "SERVIÇO",
-              "quantidade": "1,00",
-              "valor_referencia": "264.288,55"
-            },
-            {
-              "numero": "2",
-              "especificacao": "SERVIÇOS PRELIMINARES",
-              "unidade": "SERVIÇO",
-              "quantidade": "1,00",
-              "valor_referencia": "34.011,34"
-            },
-            {
-              "numero": "3",
-              "especificacao": "PAVIMENTAÇÃO",
-              "unidade": "SERVIÇO",
-              "quantidade": "1,00",
-              "valor_referencia": "667.474,53"
-            },
-            {
-              "numero": "4",
-              "especificacao": "MICRODRENAGEM",
-              "unidade": "SERVIÇO",
-              "quantidade": "1,00",
-              "valor_referencia": "920.501,04"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "PE-042-2026",
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "130/2026",
@@ -261041,6 +259957,1090 @@
               "unidade": "UND",
               "quantidade": "10,00",
               "valor_referencia": "1.226,67"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CE-006-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "218/2026",
+      "modalidade": "CONCORRÊNCIA ELETRÔNICA",
+      "situacao": "RECEPÇÃO DE PROPOSTAS",
+      "condutor": "DAVIDSON ARAUJO SANTOS",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO PARCELADA",
+      "publicacao": "30/03/2026 16:23",
+      "inicio_recepcao": "31/03/2026 08:00",
+      "fim_recepcao": "08/05/2026 08:15",
+      "inicio_disputa": "08/05/2026 08:30",
+      "objeto": "Contratação de empresa especializada em execução de obras de microdrenagem e pavimentação da rua Mauá, localizada no Centro, do município de Teixeira de Freitas – BA.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DjStDjIvizgNmMXGC2nvbU8J9bMEkf_1iPx%2F_kc4b6pBFH5vR6kwiyu9Pt5ViVOUIAjBfSDFVsuxFpi3c75DXPU6OKZB4FT94xac91JFyqHc%3D",
+      "total_lotes": 1,
+      "total_itens": 4,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "EXECUÇÃO DE OBRAS DE MICRODRENAGEM E PAVIMENTAÇÃO DA RUA MAUÁ, LOCALIZADA NO CENTRO",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "1.000,00",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "1.886.275,46",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 4,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "ADMINISTRAÇÃO LOCAL DE OBRA",
+              "unidade": "SERVIÇO",
+              "quantidade": "1,00",
+              "valor_referencia": "264.288,55"
+            },
+            {
+              "numero": "2",
+              "especificacao": "SERVIÇOS PRELIMINARES",
+              "unidade": "SERVIÇO",
+              "quantidade": "1,00",
+              "valor_referencia": "34.011,34"
+            },
+            {
+              "numero": "3",
+              "especificacao": "PAVIMENTAÇÃO",
+              "unidade": "SERVIÇO",
+              "quantidade": "1,00",
+              "valor_referencia": "667.474,53"
+            },
+            {
+              "numero": "4",
+              "especificacao": "MICRODRENAGEM",
+              "unidade": "SERVIÇO",
+              "quantidade": "1,00",
+              "valor_referencia": "920.501,04"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2-DLE-033-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "273/2026",
+      "modalidade": "DISPENSA ELETRÔNICA",
+      "situacao": "DISPUTA",
+      "condutor": "ISAQUE SILVA DOS SANTOS",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO",
+      "publicacao": "25/03/2026 15:42",
+      "inicio_recepcao": "25/03/2026 15:51",
+      "fim_recepcao": "31/03/2026 08:15",
+      "inicio_disputa": "31/03/2026 08:30",
+      "objeto": "Contratação de empresa especializada em fornecimento de [KIT LANCHE PRONTO E MARMITEX (materiais de consumo)], a fim de atender às necessidades da Secretaria Municipal de Esporte e Lazer.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DYgL0wYsDECNuA0C_HkDIU1NkanDkGu6UrbgC7gJo4ds2KvKEK_GKEMh_lX7uqCE7EMWLPJ20IzGrJqw3%2FLp6PNPtoNX%2FHVADrrhDfzCSMwo%3D",
+      "total_lotes": 1,
+      "total_itens": 2,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "LOTE ÚNICO",
+          "fase": "DISPUTA",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "13.986,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 2,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "100800018 LANCHE COMPLETO c/ SUCO NATURAL300ml:(sanduíche: pão fatiado, com maionese, 1 (uma) fatia dequeijo muçarela, 1 (uma) fatia de apresuntado, embalado emplástico filme; suco natural 300ml (trezentos mililitros); 1guardanapo de papel embalado individualmente.",
+              "unidade": "UN",
+              "quantidade": "600,00",
+              "valor_referencia": "11,46"
+            },
+            {
+              "numero": "2",
+              "especificacao": "100800019 MARMITEX COM REFRIGERANTE EM LATA:Arroz,farofa de feijão, macarrão, carne (podendo ser: carne cozida oufrango) e salada; no mínimo 500g; garfo descartável resistente eguardanapo de papel embalados individualmente; Refrigerantelata 350ml.",
+              "unidade": "UN",
+              "quantidade": "300,00",
+              "valor_referencia": "23,70"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-046-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "210/2026",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "DISPUTA",
+      "condutor": "SERGIO CARNEIRO CAVALCANTI DE AZEVEDO",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "REGISTRO DE PREÇO",
+      "publicacao": "17/03/2026 16:37",
+      "inicio_recepcao": "19/03/2026 00:00",
+      "fim_recepcao": "31/03/2026 13:45",
+      "inicio_disputa": "31/03/2026 14:00",
+      "objeto": "Contratação de empresa especializada em fornecimento de KIT LANCHE PRONTO (material de consumo),  a fim de atender as demandas da Secretaria Municipal de Administração e demais Secretarias.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DOjgX2ntdO3T6PaBipw2NetGDl4oU0f0IZDupte9YQixruO3rnfCsVjzdM1tJpSnjcu13_kWo3xNGtfNR0Li%2F7y5NLwkuSxE5IUfGYk_aFhQ%3D",
+      "total_lotes": 1,
+      "total_itens": 8,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "LOTE 1",
+          "fase": "TEMPO RANDÔMICO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 8,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "100800011 KIT LANCHE TIPO A:COMPOSTO POR: 01 COPO DE CAFÉ COM LEITE (200ML);01 COPO DE MINGAU DE TAPIOCA (200ML);01 PORÇÃO DE CUSCUZ NORDESTINO 250G (CALABRESA E CARNE DE SOL);01 SANDUÍCHE DE QUEIJO (PÃO DE FORMA E QUEIJO LANCHE);02 GUARDANAPOS DE PAPEL",
+              "unidade": "Und.",
+              "quantidade": "4.000,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "2",
+              "especificacao": "37032 KIT LANCHE TIPO B:COMPOSTO POR: 01 COPO DE CAFÉ COM LEITE (200ML); 01 COPO DE SUCO DE FRUTAS (200ML);01 FATIA DE BOLO DE MILHO (100G);01 PATISSARIA 120G (ESFIRRA);02 GUARDANAPOS DE PAPEL",
+              "unidade": "Und.",
+              "quantidade": "4.000,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "3",
+              "especificacao": "100800012 KIT LANCHE TIPO C:COMPOSTO POR: 01 COPO DE CAFÉ COM LEITE (200ML);01 COPO DE MINGAU DE MILHO (200ML);01 PORÇÃO DE BANANA DA TERRA COZIDA COM CARNE DO SOL E CALABRESA (250G);01 FATIA DE BOLO DE TAPIOCA (100G);02 GUARDANAPOS DE PAPEL",
+              "unidade": "Und.",
+              "quantidade": "4.000,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "4",
+              "especificacao": "100800013 KIT LANCHE TIPO D:COMPOSTO POR: 01 COPO DE CAFÉ COM LEITE (200ML);01 COPO DE SUCO DE FRUTAS (200ML);01 PORÇÃO DE CUSCUZ NORDESTINO 250G (CALABRESA E CARNE DO SOL);PATISSARIA (BAURU);02 GUARDANAPOS DE PAPEL",
+              "unidade": "Und.",
+              "quantidade": "4.000,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "5",
+              "especificacao": "100800014 KIT LANCHE TIPO E:COMPOSTO POR: 01 COPO DE SUCO DE FRUTAS (200ML);01 MAÇÃ;01 BANANA;01 SANDUÍCHE DE QUEIJO (PÃO DE FORMA E QUEIJO);02 GUARDANAPOS DE PAPEL",
+              "unidade": "Und.",
+              "quantidade": "4.000,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "6",
+              "especificacao": "100800015 KIT LANCHE TIPO F:COMPOSTO POR:01 COPO DE ACHOCOLATADO (200ML);01 COPO DE SUCO DE FRUTAS (200ML);1 FATIA DE BOLO DE CHOCOLATE;01 MAÇÃ;02 GUARDANAPOS DE PAPEL",
+              "unidade": "Und.",
+              "quantidade": "4.000,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "7",
+              "especificacao": "100800016 LANCHE COMPLETO c/ SUCO NATURAL300ml:sanduíche: pão fatiado, com maionese, 1 (uma) fatia de queijo muçarela, 1 (uma) fatia de apresuntado, embalado em plástico filme; suco natural 300ml (trezentos mililitros); 1 guardanapo de papel embalado individualmente.",
+              "unidade": "Und.",
+              "quantidade": "4.000,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "8",
+              "especificacao": "100800017 MARMITEX COM REFRIGERANTE EM LATA:Arroz,farofa de feijão, macarrão, carne (podendo ser: carne cozida ou frango) e salada; no mínimo 500g; garfo descartável resistente e guardanapo de papel embalados individualmente; Refrigerante lata 350ml.",
+              "unidade": "Und.",
+              "quantidade": "4.000,00",
+              "valor_referencia": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-040-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "202/2026",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "HABILITAÇÃO",
+      "condutor": "SERGIO CARNEIRO CAVALCANTI DE AZEVEDO",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO",
+      "publicacao": "17/03/2026 16:31",
+      "inicio_recepcao": "19/03/2026 08:30",
+      "fim_recepcao": "31/03/2026 09:15",
+      "inicio_disputa": "31/03/2026 09:30",
+      "objeto": "Contratação de empresa especializada em fornecimento de VEÍCULOS TIPO PICAPE CABINE DUPLA (bens permanentes), a fim de atender as demandas da Secretaria Municipal de Educação.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DwvA8ETCiysw9gKA7hSzrjkg8OcrQEo6RJwVGxiwRd6tyiTVOOxJ3PQwrfLBFMrkv3MBVDa1AteMRGrcvtMhxS7MA1U6TEPaLkUNDz%2FGB4Ls%3D",
+      "total_lotes": 1,
+      "total_itens": 1,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "PICAPE CABINE DUPLA",
+          "fase": "HABILITAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "504.704,28",
+          "vencedor": "HLM COMERCIO LTDA",
+          "melhor_oferta": "564.500,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "Contratação de empresa especializada em fornecimento de VEÍCULOS TIPO PICAPE CABINE DUPLA (bens permanentes), a fim de atender as demandas da Secretaria Municipal de Educação.",
+              "unidade": "UN",
+              "quantidade": "4,00",
+              "valor_referencia": "126.176,07"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-041-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "1583/2025",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "HABILITAÇÃO",
+      "condutor": "JONATAS DA SILVA SOUSA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "REGISTRO DE PREÇO",
+      "publicacao": "17/03/2026 16:19",
+      "inicio_recepcao": "19/03/2026 08:30",
+      "fim_recepcao": "31/03/2026 09:45",
+      "inicio_disputa": "31/03/2026 10:00",
+      "objeto": "Contratação de empresa especializada no fornecimento de TENDAS, TOLDOS, BARRACAS E GRADIS (material permanente),  a fim de atender as demandas da Secretaria Municipal de Administração e demais Secretarias.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DeDYtJkYbiLPqj9a9q%2F%2FcTlA3ggYoWalzGA122YLLxtGZqhqY9MrR_iSNqiLyl1%2FENgNPRVd0TsTp0Xs1vz%2FGoq4KIx9TmMbMQJOjpKr002o%3D",
+      "total_lotes": 13,
+      "total_itens": 13,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "9900515124 BARRACA COM LATERAL DE LONA  3 x 3M:Altura livre mínima: 2,0 m;Estrutura em aço carbono com acabamento galvanizado ou com tratamento anticorrosivo equivalente;Tubos com diâmetros compatíveis para sustentação da carga, mínimo 1\";Espessura mí",
+          "fase": "HABILITAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "18.658,80",
+          "vencedor": "AM MOREIRA GONÇALVES E CIA LTDA",
+          "melhor_oferta": "14.979,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515124 BARRACA COM LATERAL DE LONA 3 x 3M:Altura livre mínima: 2,0 m;Estrutura em aço carbono com acabamento galvanizado ou com tratamento anticorrosivo equivalente;Tubos com diâmetros compatíveis para sustentação da carga, mínimo 1\";Espessura mínima da parede dos tubos: 1,50 mm;Conexões tipo engate macho e fêmea, com trava de segurança; Fixação por bases metálicas ou equivalente;Lona lateral em PVC com gramatura mínima de 400 g/m², com tratamento anti-UV;Cor: a definir. EXCLUSIVO PARA ME/EPP",
+              "unidade": "Und.",
+              "quantidade": "10,00",
+              "valor_referencia": "1.865,88"
+            }
+          ]
+        },
+        {
+          "numero": "2",
+          "titulo": "36540 GRADIL DE ISOLAMENTO 2,00 x 1,20 m:Dimensões:2,00 x 1,20 m;Tubos metálicos com diâmetro mínimo de 1\"; Espessura mínima da parede: 1,50 mm;Acabamento com galvanização ou pintura anticorrosiva equivalente;Lâminas internas em aço;Sistema de encaix",
+          "fase": "HABILITAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "78.364,00",
+          "vencedor": "ALUBAN EVENTOS LTDA",
+          "melhor_oferta": "25.000,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "36540 GRADIL DE ISOLAMENTO 2,00 x 1,20 m:Dimensões:2,00 x 1,20 m;Tubos metálicos com diâmetro mínimo de 1\"; Espessura mínima da parede: 1,50 mm;Acabamento com galvanização ou pintura anticorrosiva equivalente;Lâminas internas em aço;Sistema de encaixe permitindo angulação. EXCLUSIVO PARA ME/EPP",
+              "unidade": "Und.",
+              "quantidade": "220,00",
+              "valor_referencia": "356,20"
+            }
+          ]
+        },
+        {
+          "numero": "3",
+          "titulo": "9900515125 TENDA PIRAMIDAL 3 x 3 M:Estrutura em aço com tratamento anticorrosivo: galvanização ou equivalente;Tubulação com diâmetro mínimo de 1 ¼\"; Espessura mínima da parede: 1,50 mm;Lona PVC com gramatura mínima de 450 g/m², com proteção UV;Conexões",
+          "fase": "HABILITAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "28.377,00",
+          "vencedor": "DESDOBRA INDUSTRIA COMERCIO E SERVIÇOS LTDA",
+          "melhor_oferta": "16.000,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515125 TENDA PIRAMIDAL 3 x 3 M:Estrutura em aço com tratamento anticorrosivo: galvanização ou equivalente;Tubulação com diâmetro mínimo de 1 ¼\"; Espessura mínima da parede: 1,50 mm;Lona PVC com gramatura mínima de 450 g/m², com proteção UV;Conexões metálicas ou de material equivalente de alta resistência;Sistema de montagem por encaixe e parafusos; Cor da lona: branca. EXCLUSIVO PARA ME/EPP",
+              "unidade": "Und.",
+              "quantidade": "15,00",
+              "valor_referencia": "1.891,80"
+            }
+          ]
+        },
+        {
+          "numero": "4",
+          "titulo": "9900515126 TENDA PIRAMIDAL 4 x 4 M:Estrutura metálica com tratamento anticorrosivo;Diâmetro mínimo dos tubos: 1 ¼\"; Espessura mínima: 1,50 mm;Lona PVC com mínimo 450 g/m², com proteção UV; Sistema de montagem por encaixe/parafusos;Cor branca. EXCLUSIVO",
+          "fase": "HABILITAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "31.684,25",
+          "vencedor": "DESDOBRA INDUSTRIA COMERCIO E SERVIÇOS LTDA",
+          "melhor_oferta": "25.000,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515126 TENDA PIRAMIDAL 4 x 4 M:Estrutura metálica com tratamento anticorrosivo;Diâmetro mínimo dos tubos: 1 ¼\"; Espessura mínima: 1,50 mm;Lona PVC com mínimo 450 g/m², com proteção UV; Sistema de montagem por encaixe/parafusos;Cor branca. EXCLUSIVO PARA ME/EPP",
+              "unidade": "Und.",
+              "quantidade": "13,00",
+              "valor_referencia": "2.437,25"
+            }
+          ]
+        },
+        {
+          "numero": "5",
+          "titulo": "9900515127 TENDA PIRAMIDAL 10 x 10 M:Estrutura reforçada em aço ou equivalente, com proteção contra corrosão; Tubos com diâmetro mínimo de 2\";Espessura mínima: 2,00 mm; Lona PVC profissional com mínimo 500 g/m², com proteção UV; Conexões metálicas; Siste",
+          "fase": "HABILITAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "141.618,75",
+          "vencedor": "CLIFAIS VENDAS LOCACOES E EVENTOS LTDA",
+          "melhor_oferta": "135.000,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515127 TENDA PIRAMIDAL 10 x 10 M:Estrutura reforçada em aço ou equivalente, com proteção contra corrosão; Tubos com diâmetro mínimo de 2\";Espessura mínima: 2,00 mm; Lona PVC profissional com mínimo 500 g/m², com proteção UV; Conexões metálicas; Sistema de montagem reforçado;Cor branca.",
+              "unidade": "Und.",
+              "quantidade": "15,00",
+              "valor_referencia": "9.441,25"
+            }
+          ]
+        },
+        {
+          "numero": "5",
+          "titulo": "9900515127 TENDA PIRAMIDAL 10 x 10 M:Estrutura reforçada em aço ou equivalente, com proteção contra corrosão; Tubos com diâmetro mínimo de 2\";Espessura mínima: 2,00 mm; Lona PVC profissional com mínimo 500 g/m², com proteção UV; Conexões metálicas; Siste",
+          "fase": "HABILITAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "141.618,75",
+          "vencedor": "CLIFAIS VENDAS LOCACOES E EVENTOS LTDA",
+          "melhor_oferta": "135.000,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515127 TENDA PIRAMIDAL 10 x 10 M:Estrutura reforçada em aço ou equivalente, com proteção contra corrosão; Tubos com diâmetro mínimo de 2\";Espessura mínima: 2,00 mm; Lona PVC profissional com mínimo 500 g/m², com proteção UV; Conexões metálicas; Sistema de montagem reforçado;Cor branca.",
+              "unidade": "Und.",
+              "quantidade": "15,00",
+              "valor_referencia": "9.441,25"
+            }
+          ]
+        },
+        {
+          "numero": "6",
+          "titulo": "9900515128 TENDA PIRAMIDAL 6 x 6 M:Estrutura metálica, com tratamento contra corrosão;Diâmetro mínimo: 1 ½\"; Espessura mínima: 1,75 mm;Lona PVC com mínimo 500 g/m², com proteção UV; Sistema de montagem por encaixe/parafusos;Cor branca. EXCLUSIVO PARA M",
+          "fase": "HABILITAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "44.100,00",
+          "vencedor": "CLIFAIS VENDAS LOCACOES E EVENTOS LTDA",
+          "melhor_oferta": "55.000,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515128 TENDA PIRAMIDAL 6 x 6 M:Estrutura metálica, com tratamento contra corrosão;Diâmetro mínimo: 1 ½\"; Espessura mínima: 1,75 mm;Lona PVC com mínimo 500 g/m², com proteção UV; Sistema de montagem por encaixe/parafusos;Cor branca. EXCLUSIVO PARA ME/EPP",
+              "unidade": "Und.",
+              "quantidade": "15,00",
+              "valor_referencia": "2.940,00"
+            }
+          ]
+        },
+        {
+          "numero": "8",
+          "titulo": "36541 TOLDO 6,26 M x 2,50 M:Estrutura metálica confeccionada em aço (galvanizado ou com tratamento equivalente);Tubos em aço com diâmetros compatíveis para sustentação da carga;Cobertura confeccionada em lona PVC, com tratamento anti-UV, gramatura compa",
+          "fase": "HABILITAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "2.500,00",
+          "vencedor": "GENIAL TENDAS LTDA",
+          "melhor_oferta": "5.000,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "36541 TOLDO 6,26 M x 2,50 M:Estrutura metálica confeccionada em aço (galvanizado ou com tratamento equivalente);Tubos em aço com diâmetros compatíveis para sustentação da carga;Cobertura confeccionada em lona PVC, com tratamento anti-UV, gramatura compatível e acabamento adequado para proteção contra intempéries;Conexões metálicas ou material equivalente de alta resistência, fixadas por encaixe e/ou parafusos;Cor: a definir. EXCLUSIVO PARA ME/EPP",
+              "unidade": "Und.",
+              "quantidade": "2,00",
+              "valor_referencia": "1.250,00"
+            }
+          ]
+        },
+        {
+          "numero": "9",
+          "titulo": "9900515130 TOLDO 3 x 3 M:Estrutura em aço reforçado, com chapas de 1,4 mm de espessura, com partes soldadas em sistema MIG e conexões metálicas fixadas por encaixe e parafusos;Tubos em aço com diâmetro compatível para sustentação da carga (não especifica",
+          "fase": "HABILITAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "16.663,20",
+          "vencedor": "AM MOREIRA GONÇALVES E CIA LTDA",
+          "melhor_oferta": "14.950,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515130 TOLDO 3 x 3 M:Estrutura em aço reforçado, com chapas de 1,4 mm de espessura, com partes soldadas em sistema MIG e conexões metálicas fixadas por encaixe e parafusos;Tubos em aço com diâmetro compatível para sustentação da carga (não especificado), reforçados para uso externo.Espessura mínima da parede:1,4 mm;Cobertura confeccionada em PVC sintético, com união por solda eletrônica, garantindo maior resistência a rupturas. Possui película blackout, tratamento anti-mofo e anti-chamas;Conexões metálicas, unidas por encaixe e parafusos, com alta resistência;Montagem por encaixe, parafusos e soldas estruturais;Ancoragem realizada com cordas de nylon 1/4\", amarras especiais e estacas metálicas;Pés de sustentação em ferro tubular, com altura de 3 m, ancorada por cordas e estacas;Cor da lona: a definir. EXCLUSIVO PARA ME/EPP",
+              "unidade": "Und.",
+              "quantidade": "8,00",
+              "valor_referencia": "2.082,90"
+            }
+          ]
+        },
+        {
+          "numero": "10",
+          "titulo": "9900515131 TOLDO 4 x 4 M:Estrutura confeccionada em ferro tubular em aço reforçado, com chapas de 1,4 mm de espessura, possuindo partes soldadas em sistema MIG. As demais partes são unidas por encaixe e fixadas com parafusos e conexões metálicas de alta r",
+          "fase": "HABILITAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "16.986,78",
+          "vencedor": "ALUBAN EVENTOS LTDA",
+          "melhor_oferta": "12.000,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515131 TOLDO 4 x 4 M:Estrutura confeccionada em ferro tubular em aço reforçado, com chapas de 1,4 mm de espessura, possuindo partes soldadas em sistema MIG. As demais partes são unidas por encaixe e fixadas com parafusos e conexões metálicas de alta resistência;Tubos em aço;Espessura mínima da parede: 1,4 mm;Cobertura confeccionada em PVC sintético, unida pelo processo de solda eletrônica, proporcionando alta resistência a rasgos e rupturas. A lona possui película blackout, tratamento anti-mofo e anti-chamas;Conexões metálicas de alta resistência, fixadas por encaixe e parafusos;Montagem por encaixe e parafusos, com seções soldadas estruturalmente. A ancoragem é feita com cordas de nylon 1/4\", amarras especiais e estacas metálicas, garantindo estabilidade; EXCLUSIVO PARA ME/EPP",
+              "unidade": "Und.",
+              "quantidade": "6,00",
+              "valor_referencia": "2.831,13"
+            }
+          ]
+        },
+        {
+          "numero": "11",
+          "titulo": "9900515132 TENDA SANFONADA 3 X 4,5M::estrutura em aço galvanizado, pintura eletrostática e sistema articulado de montagem; laterais com reforço em metal; alturas reguláveis; lona à prova d´água e feita com material de nylon. EXCLUSIVO PARA ME/EPP",
+          "fase": "HABILITAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "5.301,75",
+          "vencedor": "ENGEFER.MDS LTDA",
+          "melhor_oferta": "3.950,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515132 TENDA SANFONADA 3 X 4,5M::estrutura em aço galvanizado, pintura eletrostática e sistema articulado de montagem; laterais com reforço em metal; alturas reguláveis; lona à prova d´água e feita com material de nylon. EXCLUSIVO PARA ME/EPP",
+              "unidade": "Und.",
+              "quantidade": "3,00",
+              "valor_referencia": "1.767,25"
+            }
+          ]
+        },
+        {
+          "numero": "12",
+          "titulo": "36779 TENDA PIRAMIDAL 10 x 10 M::Estrutura reforçada em aço ou equivalente, com proteção contra corrosão; Tubos com diâmetro mínimo de 2\"Espessura mínima: 2,00 mm;Lona PVC profissional com mínimo 500 g/m², com proteção UV; Conexões metálicas;Sistema de",
+          "fase": "HABILITAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "37.765,00",
+          "vencedor": "ALUBAN EVENTOS LTDA",
+          "melhor_oferta": "32.000,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "36779 TENDA PIRAMIDAL 10 x 10 M::Estrutura reforçada em aço ou equivalente, com proteção contra corrosão; Tubos com diâmetro mínimo de 2\"Espessura mínima: 2,00 mm;Lona PVC profissional com mínimo 500 g/m², com proteção UV; Conexões metálicas;Sistema de montagem reforçado;Cor branca. COTA 25% PARA ME/EPP",
+              "unidade": "Und.",
+              "quantidade": "4,00",
+              "valor_referencia": "9.441,25"
+            }
+          ]
+        },
+        {
+          "numero": "13",
+          "titulo": "36780 BARRACA INDIVIDUAL GALVANIZADA::medindoaproximadamente altura 2,10m x 1,40m de largura x 1,00m de profundidade;Com balcão esteira (expositor) de 0,30 cm;Cobertura avançada em lona. COTA 25% PARA ME/EPP",
+          "fase": "HABILITAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "26.050,00",
+          "vencedor": "R&R IMPORTACOES E SERVICOS",
+          "melhor_oferta": "32.450,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "36780 BARRACA INDIVIDUAL GALVANIZADA::medindoaproximadamente altura 2,10m x 1,40m de largura x 1,00m de profundidade;Com balcão esteira (expositor) de 0,30 cm;Cobertura avançada em lona. COTA 25% PARA ME/EPP",
+              "unidade": "Und.",
+              "quantidade": "25,00",
+              "valor_referencia": "1.042,00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-039-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "112/2026",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "HABILITAÇÃO",
+      "condutor": "JONATAS DA SILVA SOUSA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO PARCELADA",
+      "publicacao": "16/03/2026 16:54",
+      "inicio_recepcao": "18/03/2026 08:30",
+      "fim_recepcao": "31/03/2026 08:15",
+      "inicio_disputa": "31/03/2026 08:30",
+      "objeto": "Contratação de empresa especializada em fornecimento de MATERIAIS ESPORTIVOS (material de consumo),  a fim de atender as demandas da Secretaria Municipal de Administração e demais secretarias.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DI_2CnCjsqkZ1WvJenmiiTkTlM3bhzlMRSTmicqlJFq52jWcnAGAO5erXdZ1R87SQ21J2OWgCkW2x4eqi9vhKo566pOnKDFW9az1VUeteHBk%3D",
+      "total_lotes": 16,
+      "total_itens": 16,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "9907000131 Bola de handebol profissional tamanho H2:confeccionada em material sintético de alta resistência, em PVC, poliuretano ou similar, com superfície texturizada e aderente, com número de gomos mínimo de 30, miolo removível, câmara interna em látex",
+          "fase": "HABILITAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "10.102,95",
+          "vencedor": "58.751.062 PALMIRA RODRIGUES DA SILVA",
+          "melhor_oferta": "2.445,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9907000131 Bola de handebol profissional tamanho H2:confeccionada em material sintético de alta resistência, em PVC, poliuretano ou similar, com superfície texturizada e aderente, com número de gomos mínimo de 30, miolo removível, câmara interna em látex ou borracha butílica com laminação, tamanho H2 (handebol adulto feminino), circunferência aproximada entre 54 cm e 56 cm e peso aproximado entre 325 g e 375 g, devendo apresentar boa empunhadura, maciez ao toque e resistência à abrasão. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "45,00",
+              "valor_referencia": "224,51"
+            }
+          ]
+        },
+        {
+          "numero": "2",
+          "titulo": "36848 Bola de handebol profissional tamanho H3:confeccionada em material sintético de alta resistência, em PVC, poliuretano ou similar, com superfície texturizada e aderente, com número de gomos mínimo de 30, miolo removível, câmara interna em látex ou bo",
+          "fase": "HABILITAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "12.712,50",
+          "vencedor": "D.E.A CALCADOS LTDA",
+          "melhor_oferta": "2.240,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "36848 Bola de handebol profissional tamanho H3:confeccionada em material sintético de alta resistência, em PVC, poliuretano ou similar, com superfície texturizada e aderente, com número de gomos mínimo de 30, miolo removível, câmara interna em látex ou borracha butílica com laminação, tamanho h3 (handebol adulto masculino), circunferência aproximada entre 58 cm e 60 cm e peso aproximado entre 425 g e 475 g, devendo apresentar boa empunhadura, maciez ao toque e resistência à abrasão.EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "45,00",
+              "valor_referencia": "282,50"
+            }
+          ]
+        },
+        {
+          "numero": "3",
+          "titulo": "36849 Bola de futebol de campo oficial:para prática de esporte de alto rendimento, categoria adulto. Confeccionada com laminado pu, termotec, com 14 gomos, com câmara 6d, forro termofixo, dupla colagem, camada interna de neogel, miolo cápsula sis com peso",
+          "fase": "HABILITAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "40.273,50",
+          "vencedor": "D.E.A CALCADOS LTDA",
+          "melhor_oferta": "11.820,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "36849 Bola de futebol de campo oficial:para prática de esporte de alto rendimento, categoria adulto. Confeccionada com laminado pu, termotec, com 14 gomos, com câmara 6d, forro termofixo, dupla colagem, camada interna de neogel, miolo cápsula sis com peso entre 410 e 445g e circunferência entre 68 e 70cm. Bola aprovada pela federação bahiana de futebol ou confederação brasileira de futebol ou FIFA. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "150,00",
+              "valor_referencia": "268,49"
+            }
+          ]
+        },
+        {
+          "numero": "4",
+          "titulo": "36850 Kit de cartões de arbitragem:composto por cartões amarelo e vermelho, em PVC flexível ou polipropileno, com medidas oficiais aproximadas de 8 cm x 9,5 cm, cores vivas que garantam alta visibilidade durante a partida, cantos levemente arredondados pa",
+          "fase": "HABILITAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "537,95",
+          "vencedor": "MAIS ESPORTE COMERCIO DE ARTIGOS ESPORTIVOS LTDA",
+          "melhor_oferta": "420,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "36850 Kit de cartões de arbitragem:composto por cartões amarelo e vermelho, em PVC flexível ou polipropileno, com medidas oficiais aproximadas de 8 cm x 9,5 cm, cores vivas que garantam alta visibilidade durante a partida, cantos levemente arredondados para maior segurança no manuseio, superfície lisa que permita fácil higienização, acompanhado de estojo/case simples em material plástico ou similar para acondicionamento e organização dos cartões e lápis de anotação de arbitragem, adequado para uso por árbitros em competições esportivas diversas. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "KIT",
+              "quantidade": "35,00",
+              "valor_referencia": "15,37"
+            }
+          ]
+        },
+        {
+          "numero": "5",
+          "titulo": "9907000132 Apito profissional para árbitro:modelo esportivo, confeccionado em plástico ABS de alta resistência ou material equivalente, sem bolinha interna (tipo pealess), com design ergonômico, som potente e agudo, com nível sonoro elevado (aproximadamen",
+          "fase": "HABILITAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "1.283,45",
+          "vencedor": "MAIS ESPORTE COMERCIO DE ARTIGOS ESPORTIVOS LTDA",
+          "melhor_oferta": "300,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9907000132 Apito profissional para árbitro:modelo esportivo, confeccionado em plástico ABS de alta resistência ou material equivalente, sem bolinha interna (tipo pealess), com design ergonômico, som potente e agudo, com nível sonoro elevado (aproximadamente 120 dB ou equivalente), audível em ambientes abertos e fechados com alto nível de ruído, acompanhado de cordão para uso no pescoço, devendo apresentar alta durabilidade, facilidade de higienização e bom acabamento, próprio para uso intensivo em jogos e treinamentos. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "35,00",
+              "valor_referencia": "36,67"
+            }
+          ]
+        },
+        {
+          "numero": "6",
+          "titulo": "9907000133 Kit com 10 bambolês:confeccionados em material plástico rígido ou semirrígido de alta resistência, com diâmetro aproximado entre 60 cm e 80 cm cada unidade, estrutura em  tubo plástico com emenda reforçada, superfície lisa sem rebarbas, cores v",
+          "fase": "HABILITAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "1.831,20",
+          "vencedor": "D.E.A CALCADOS LTDA",
+          "melhor_oferta": "1.831,20",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9907000133 Kit com 10 bambolês:confeccionados em material plástico rígido ou semirrígido de alta resistência, com diâmetro aproximado entre 60 cm e 80 cm cada unidade, estrutura em tubo plástico com emenda reforçada, superfície lisa sem rebarbas, cores variadas e vivas que facilitem o uso em atividades recreativas e educativas, adequado para uso em aulas de educação física, recreação e treinamentos de coordenação motora, devendo apresentar boa resistência a impactos,deformações e uso contínuo em ambiente escolar ou esportivo. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "KIT",
+              "quantidade": "35,00",
+              "valor_referencia": "52,32"
+            }
+          ]
+        },
+        {
+          "numero": "7",
+          "titulo": "9907000134 Corda de pular:confeccionada em material resistente como PVC, nylon ou similar, com comprimento aproximado entre 2,5 m e 3,0 m, cabo em plástico ou material emborrachado de fácil empunhadura, com acabamento liso e sem rebarbas, adequadas para u",
+          "fase": "HABILITAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "4.865,00",
+          "vencedor": "VILAVI MODA FEMININA LTDA",
+          "melhor_oferta": "3.353,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9907000134 Corda de pular:confeccionada em material resistente como PVC, nylon ou similar, com comprimento aproximado entre 2,5 m e 3,0 m, cabo em plástico ou material emborrachado de fácil empunhadura, com acabamento liso e sem rebarbas, adequadas para uso em aulas de educação física, treinamentos aeróbicos e atividades recreativas, suportando uso intenso em ambientes internos e externos, devendo apresentar boa flexibilidade, resistência à tração e durabilidade, cores variadas. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "350,00",
+              "valor_referencia": "13,90"
+            }
+          ]
+        },
+        {
+          "numero": "8",
+          "titulo": "36851 Medalha de premiação em bronze (terceiro lugar):confeccionada em liga metálica tipo zamac ou similar, metalizada na cor bronze, formato preferencialmente redondo, com diâmetro aproximado entre 60 mm e 75 mm, espessura em torno de 2,5 mm a 2,7 mm, co",
+          "fase": "HABILITAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "3.039,00",
+          "vencedor": "DSP BRINDES PERSONALIZADOS LTDA",
+          "melhor_oferta": "1.348,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "36851 Medalha de premiação em bronze (terceiro lugar):confeccionada em liga metálica tipo zamac ou similar, metalizada na cor bronze, formato preferencialmente redondo, com diâmetro aproximado entre 60 mm e 75 mm, espessura em torno de 2,5 mm a 2,7 mm, com área central lisa para aplicação de adesivo, gravação ou personalização (brasão, logomarca do município ou orgão e nome do evento), borda com acabamento trabalhado (coroa de louros ou similar), com suporte para fita de aproximadamente 2,5 cm de largura, acompanhada de fita em tecido resistente, na cor a ser definida pelo contratante, adequada para premiações esportivas diversas. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "300,00",
+              "valor_referencia": "10,13"
+            }
+          ]
+        },
+        {
+          "numero": "9",
+          "titulo": "9907000135 Medalha de premiação prata (segundo lugar):confeccionada em liga metálica tipo zamac ou similar, metalizada na cor prata, formato preferencialmente redondo, com diâmetro aproximado entre 60 mm e 75 mm, espessura em torno de 2,5 mm a 2,7 mm, com",
+          "fase": "HABILITAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "4.038,00",
+          "vencedor": "WPPT CONFECÇÕES LTDA",
+          "melhor_oferta": "1.344,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9907000135 Medalha de premiação prata (segundo lugar):confeccionada em liga metálica tipo zamac ou similar, metalizada na cor prata, formato preferencialmente redondo, com diâmetro aproximado entre 60 mm e 75 mm, espessura em torno de 2,5 mm a 2,7 mm, com área central lisa para aplicação de adesivo, gravação ou personalização (brasão, logomarca do município ou orgão e nome do evento), borda com acabamento trabalhado (coroa de louros ou similar), com suporte para fita de aproximadamente 2,5 cm de largura, acompanhada de fita em tecido resistente, na cor a ser definida pelo contratante, adequada para premiações esportivas diversas. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "300,00",
+              "valor_referencia": "13,46"
+            }
+          ]
+        },
+        {
+          "numero": "10",
+          "titulo": "9907000136 Medalha de premiação dourada (primeiro lugar):confeccionada em liga metálica tipo zamac ou similar, metalizada na cor dourada, formato preferencialmente redondo, com diâmetro aproximado entre 60 mm e 75 mm, espessura em torno de 2,5 mm a 2,7 mm",
+          "fase": "HABILITAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "4.389,00",
+          "vencedor": "WPPT CONFECÇÕES LTDA",
+          "melhor_oferta": "1.344,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9907000136 Medalha de premiação dourada (primeiro lugar):confeccionada em liga metálica tipo zamac ou similar, metalizada na cor dourada, formato preferencialmente redondo, com diâmetro aproximado entre 60 mm e 75 mm, espessura em torno de 2,5 mm a 2,7 mm, com área central lisa para aplicação de adesivo, gravação ou personalização (brasão, logomarca do município ou orgão e nome do evento), borda com acabamento trabalhado (coroa de louros ou similar), com suporte para fita de aproximadamente 2,5 cm de largura, acompanhada de fita em tecido resistente, na cor a ser definida pelo contratante, adequada para premiações esportivas diversas. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "300,00",
+              "valor_referencia": "14,63"
+            }
+          ]
+        },
+        {
+          "numero": "11",
+          "titulo": "36852 Troféu de premiação com altura aproximada de 75 cm:confeccionado em material resistente como polímero de alto impacto, resina, metal ou combinação destes, com base firme e estável, com área destinada à aplicação de plaqueta de identificação em metal",
+          "fase": "HABILITAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "4.000,00",
+          "vencedor": "WPPT CONFECÇÕES LTDA",
+          "melhor_oferta": "4.000,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "36852 Troféu de premiação com altura aproximada de 75 cm:confeccionado em material resistente como polímero de alto impacto, resina, metal ou combinação destes, com base firme e estável, com área destinada à aplicação de plaqueta de identificação em metal ou similar (com gravação do evento, categoria e colocação), estrutura com colunas, taça ou estatueta representativa da modalidade ou temática esportiva, acabamento metalizado em cores como dourado, prata ou bronze conforme colocação, com bom padrão estético e de durabilidade, bordas e cantos sem arestas cortantes, adequado para premiações em campeonatos e eventos esportivos. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "40,00",
+              "valor_referencia": "100,00"
+            }
+          ]
+        },
+        {
+          "numero": "12",
+          "titulo": "36853 Plataforma de exercícios tipo step:confeccionada com estrutura em material plástico de alta resistência ou similar, superfície superior antiderrapante, com dimens&#305;es aproximadas de 60 cm a 80 cm de comprimento por 25 cm a 35 cm de largura, altu",
+          "fase": "HABILITAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "31.504,00",
+          "vencedor": "MAIS ESPORTE COMERCIO DE ARTIGOS ESPORTIVOS LTDA",
+          "melhor_oferta": "30.000,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "36853 Plataforma de exercícios tipo step:confeccionada com estrutura em material plástico de alta resistência ou similar, superfície superior antiderrapante, com dimens&#305;es aproximadas de 60 cm a 80 cm de comprimento por 25 cm a 35 cm de largura, altura fixa ou regulável em níveis (por exemplo 10 cm, 15 cm e 20 cm), base com pés antiderrapantes que garantam estabilidade durante o uso, suportando carga mínima de 120 kg, destinada a exercícios aeróbicos, de coordenação e fortalecimento muscular, devendo apresentar acabamento resistente e fácil higienização. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "200,00",
+              "valor_referencia": "157,52"
+            }
+          ]
+        },
+        {
+          "numero": "13",
+          "titulo": "9907000137 Cama elástica tipo mini jump:com estrutura em aço ou aço galvanizado de alta resistência, com diâmetro aproximado entre 90 cm e 100 cm, dotada de 6 pés fixos com sapatas de borracha antiderrapante, lona de salto em material super resistente, co",
+          "fase": "HABILITAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "47.414,00",
+          "vencedor": "TRINCA ESPORTES LTDA",
+          "melhor_oferta": "72.500,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9907000137 Cama elástica tipo mini jump:com estrutura em aço ou aço galvanizado de alta resistência, com diâmetro aproximado entre 90 cm e 100 cm, dotada de 6 pés fixos com sapatas de borracha antiderrapante, lona de salto em material super resistente, como polipropileno com proteção UV, com costuras reforçadas e capa de proteção sobre molas, contendo no mínimo 32 molas zincadas ou sistema equivalente de el·sticos, capacidade de carga mínima entre 100 kg e 130 kg, acabamento com pintura epóxi ou similar, adequada para uso em academias, clubes, escolas e atividades de condicionamento físico, garantindo segurança, estabilidade e durabilidade no uso contínuo. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "200,00",
+              "valor_referencia": "237,07"
+            }
+          ]
+        },
+        {
+          "numero": "14",
+          "titulo": "9907000138 Jogo completo de xadrez:composto por um tabuleiro rígido ou dobrável em material como MDF, plástico resistente ou similar, com demarcação de 64 casas alternadas em duas cores contrastantes, obedecendo às medidas proporcionais oficiais, acompanh",
+          "fase": "HABILITAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "2.333,60",
+          "vencedor": "GLEIEDSON SANTOS DE SOUSA",
+          "melhor_oferta": "1.200,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9907000138 Jogo completo de xadrez:composto por um tabuleiro rígido ou dobrável em material como MDF, plástico resistente ou similar, com demarcação de 64 casas alternadas em duas cores contrastantes, obedecendo às medidas proporcionais oficiais, acompanhado de 32 peças (16 claras e 16 escuras) confeccionadas em plástico ou material equivalente de boa resistência, com base estável e design que permita fácil identificação de cada tipo de peça (rei, dama, torres, bispos, cavalos e peões), adequado para uso em ambiente escolar, recreativo e competitivo, com acabamento que permita fácil higienização e boa durabilidade. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "40,00",
+              "valor_referencia": "58,34"
+            }
+          ]
+        },
+        {
+          "numero": "15",
+          "titulo": "9907000139 Bola de basquete:tamanho 6, confeccionada em borracha, termovulcanizada com cobertura impermeável, contendo 8 gomos, pesando de 510-567g, circunferência de 72-74cm. EXCLUSIVO PARA ME/EPP.",
+          "fase": "HABILITAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "2.974,05",
+          "vencedor": "D.E.A CALCADOS LTDA",
+          "melhor_oferta": "468,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9907000139 Bola de basquete:tamanho 6, confeccionada em borracha, termovulcanizada com cobertura impermeável, contendo 8 gomos, pesando de 510-567g, circunferência de 72-74cm. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "15,00",
+              "valor_referencia": "198,27"
+            }
+          ]
+        },
+        {
+          "numero": "16",
+          "titulo": "9907000140 Bola de basquete:tamanho 7, confeccionada em borracha, termovulcanizada com cobertura impermeável, contendo 8 gomos, pesando de 567-650g, circunferência de 75-78cm. EXCLUSIVO PARA ME/EPP.",
+          "fase": "HABILITAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "3.405,00",
+          "vencedor": "D.E.A CALCADOS LTDA",
+          "melhor_oferta": "468,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9907000140 Bola de basquete:tamanho 7, confeccionada em borracha, termovulcanizada com cobertura impermeável, contendo 8 gomos, pesando de 567-650g, circunferência de 75-78cm. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "15,00",
+              "valor_referencia": "227,00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-036-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "1509/2025",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "FRACASSADO",
+      "condutor": "JONATAS DA SILVA SOUSA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO",
+      "publicacao": "03/03/2026 18:25",
+      "inicio_recepcao": "05/03/2026 08:30",
+      "fim_recepcao": "19/03/2026 08:15",
+      "inicio_disputa": "19/03/2026 08:30",
+      "objeto": "Contratação de empresa especializada em prestação de serviço de GESTÃO DE SISTEMA ELETRÔNICO DE\nCONTROLE DE PONTO COM RECONHECIMENTO FACIAL INTEGRADO A TABLETS E FORNECIMETO DOS EQUIPAMENTOS NECESSÁRIOS, a fim de atender as demandas da Secretaria Municipal de Administração e demais Secretarias.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5D3j_sRSv0gwWN7LeJu_ADdHEcVouGFPmsaW8fYgddARqmhBJgzWwm_tY1ZL65wtwJcNQof6C23hGlH8F_mtW7RjGhsHcpXkFMENwfoORgiws%3D",
+      "total_lotes": 1,
+      "total_itens": 2,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "LOTE ÚNICO",
+          "fase": "FRACASSADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "504.300,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 2,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "36514 SERVIÇOS DE SISTEMA ELETRÔNICO DE CONTROLE DE PONTO COM RECONHECIMENTO FACIALINTEGRADO:Prestação de serviço de sistema de gestão de ponto que inclua licença de uso de Software. O sistema deve estar em conformidade com a portaria 671/2021 Ministério do Trabalho e Emprego e Decreto nº 10.854/21. O sistema deve possuir capacidade de gerenciamento para 6.000 funcionários simultaneamente, que se comunique com dispositivos de registro eletrônico de ponto para controle da jornada de trabalho.O serviço deverá abranger a instalação dos equipamentos nos locais indicados, implantação e integração do software com os módulos do sistema de Recursos Humanos, além de treinamento para o uso do software e demais serviços inerentes ao objeto.Os equipamentos devem incluir leitor biométrico facial, manutenção preventiva e corretiva, atualizações, garantia de funcionamento, suporte técnico, deslocamento, peças de reposição e hora técnica inclusa, além de contemplar a cessão de uso mensal dos softwares para gestão do ponto eletrônico, comunicação instantânea com os equipamentos, monitoramento de conectividade, central de chamados e chat, aplicativo para registro via tablet, portal do servidor, integração com a folha de pagamento e atualizações contínuas, assim como layout de exportação de dados de faltas, horas extras, horas noturnas, banco de horas, entre outras informações que se fizerem necessárias, do sistema de ponto eletrônico para o sistema de folha de pagamento da Prefeitura; disponibilização de backups e banco de dados do sistema com todas as informações lançadas no sistema, sempre que solicitado pela contratante.",
+              "unidade": "MES",
+              "quantidade": "12,00",
+              "valor_referencia": "3.625,00"
+            },
+            {
+              "numero": "2",
+              "especificacao": "5707611145 TABLET:armazenamento interno de 64 GB, com possibilidade de expansão até 1 TB via micros; memória RAM mínima de 4 GB; processador octa-core de alto desempenho; tela de 8.7\" FHD (1920x1200), com taxa de atualização de até 120 Hz, cores nítidas e brilho ajustável; bateria mínima de 5100 mAh, com autonomia de até 14h de uso contínuo; câmeras frontal e traseira, ambas com no mínimo 8 megapixels; conectividade Wi-Fi 802.11ac/ax, Bluetooth 5.0 ou superior e suporte a geolocalização integrada; sistema operacional Android 13 ou superior, com atualizações de segurança garantidas por no mínimo 2 (dois) anos.Deverá ser acompanhado de todos os componentes e acessórios indispensáveis ao seu funcionamento, compreendendo: película de vidro, capa protetora robusta, suporte para fixação em parede e fonte de carregamento original.Garantia mínima de 36 (trinta e seis) meses para o tablet e seus acessórios.",
+              "unidade": "Und.",
+              "quantidade": "320,00",
+              "valor_referencia": "1.440,00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2-DLE-007-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "26/2026",
+      "modalidade": "DISPENSA ELETRÔNICA",
+      "situacao": "ADJUDICADO",
+      "condutor": "ISAQUE SILVA DOS SANTOS",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO PARCELADA",
+      "publicacao": "03/02/2026 17:16",
+      "inicio_recepcao": "03/02/2026 17:20",
+      "fim_recepcao": "09/02/2026 08:15",
+      "inicio_disputa": "09/02/2026 08:30",
+      "objeto": "Contratação de empresas para aquisição de ESCOVAS DE DENTES, a fim de atender as demandas da Secretaria Municipal de Administração e demais Secretarias.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DKhuKDRitixtXLJ_GoDFBGGmP332dB5OU35AkMZEwVxg6LKAhB91sn1x7UKjpWfCm0wPyn%2FpK_JyEycLWPOErccC%2F9ZqC8aUs8r6LxSeOhYU%3D",
+      "total_lotes": 1,
+      "total_itens": 1,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "ESCOVA DENTAL ADULTO",
+          "fase": "ADJUDICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "",
+          "garantia": "",
+          "valor_referencia": "1.306,50",
+          "vencedor": "KARLA KAROLINE FONTES MENESES",
+          "melhor_oferta": "695,50",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515258 ESCOVA DENTAL ADULTO:Com cerdas macias, com protetor de cerdas, com comprimento aproximado de 17 cm, cores diversas. Embalagem individual.",
+              "unidade": "UND",
+              "quantidade": "650,00",
+              "valor_referencia": "2,01"
             }
           ]
         }
