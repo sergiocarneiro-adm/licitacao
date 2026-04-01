@@ -118,8 +118,151 @@ def carregar_json_existente():
         return {}, []
 
 # ─────────────────────────────────────────────────────────────────
-#  SCROLL INFINITO
+#  BUSCA ROBUSTA COM VALIDAÇÃO DO PROMOTOR
 # ─────────────────────────────────────────────────────────────────
+async def executar_busca_com_validacao(page, promotor, max_tentativas=4):
+    """
+    Executa a busca pelo promotor e valida que os resultados
+    pertencem exclusivamente ao promotor correto antes de prosseguir.
+
+    Validações aplicadas:
+      1. Campo Organization na listagem deve conter o promotor
+      2. Coluna promotor na tabela de resultados deve bater (quando visível)
+      3. Amostra de páginas de processo individuais confirma o Organization
+
+    Aborta com SystemExit se não conseguir resultados válidos após max_tentativas.
+    """
+    norm = lambda s: s.upper().strip()
+    promotor_norm = norm(promotor)
+
+    for tentativa in range(1, max_tentativas + 1):
+        print(f"\n🌐 Acessando BLL Compras... (tentativa {tentativa}/{max_tentativas})")
+
+        try:
+            await page.goto(
+                'https://bllcompras.com/Process/ProcessSearchPublic?param1=0#',
+                wait_until='networkidle', timeout=35000
+            )
+        except Exception as e:
+            print(f"   ⚠️  Falha ao carregar página: {e}")
+            await page.wait_for_timeout(3000 * tentativa)
+            continue
+
+        # ── Camada 1: garante que o campo Organization está preenchido ──
+        try:
+            await page.wait_for_selector('input[name="Organization"]', timeout=10000)
+        except Exception:
+            print("   ⚠️  Campo Organization não encontrado — página não carregou corretamente.")
+            await page.wait_for_timeout(3000 * tentativa)
+            continue
+
+        # Limpa e preenche o campo com o promotor
+        await page.fill('input[name="Organization"]', '')
+        await page.wait_for_timeout(300)
+        await page.fill('input[name="Organization"]', promotor)
+        await page.wait_for_timeout(400)
+
+        # Confirma que o valor foi realmente inserido
+        valor_campo = await page.input_value('input[name="Organization"]')
+        if norm(valor_campo) != promotor_norm:
+            print(f"   ⚠️  Campo não preenchido corretamente: {valor_campo!r}")
+            await page.wait_for_timeout(2000)
+            continue
+
+        # Seleciona "Todos" na situação e clica em buscar
+        try:
+            await page.select_option('select[name="fkStatus"]', value='')
+        except Exception:
+            pass
+        await page.wait_for_timeout(300)
+        await page.click('button#btnAuctionSearch')
+
+        try:
+            await page.wait_for_load_state('networkidle', timeout=25000)
+        except Exception:
+            pass
+        await page.wait_for_timeout(3000)
+
+        # ── Camada 2: verifica se a tabela tem resultados ──────────────
+        n_rows = await page.locator('#tableProcessDataBody tr').count()
+        if n_rows == 0:
+            print(f"   ⚠️  Tabela vazia após busca — nenhum resultado retornado.")
+            await page.wait_for_timeout(2000 * tentativa)
+            continue
+
+        print(f"   ✓ {n_rows} linha(s) visíveis na tabela.")
+
+        # ── Camada 3: amostra dos dados — confirma promotor na tabela ──
+        # Lê as primeiras linhas e procura uma coluna que contenha o promotor
+        amostra_colunas = await page.evaluate("""
+            () => {
+                const linhas = Array.from(
+                    document.querySelectorAll('#tableProcessDataBody tr')
+                ).slice(0, 10);
+                return linhas.map(tr =>
+                    Array.from(tr.querySelectorAll('td')).map(td => td.innerText.trim())
+                ).filter(cols => cols.length > 0);
+            }
+        """)
+
+        if not amostra_colunas:
+            print("   ⚠️  Não foi possível ler colunas da tabela.")
+            await page.wait_for_timeout(2000 * tentativa)
+            continue
+
+        # Verifica se alguma coluna contém o promotor em pelo menos 70% das linhas
+        n_cols = max(len(r) for r in amostra_colunas)
+        col_promotor = -1
+        for ci in range(n_cols):
+            valores = [row[ci] for row in amostra_colunas if ci < len(row)]
+            hits = sum(1 for v in valores if promotor_norm in norm(v))
+            if hits >= len(valores) * 0.7:
+                col_promotor = ci
+                break
+
+        if col_promotor == -1:
+            # Tenta verificação mais branda: promotor aparece em QUALQUER célula?
+            qualquer_hit = any(
+                promotor_norm in norm(cel)
+                for row in amostra_colunas
+                for cel in row
+            )
+            if not qualquer_hit:
+                # Mostra o que veio para diagnóstico
+                print(f"   ❌ VALIDAÇÃO FALHOU — resultados não pertencem ao promotor!")
+                print(f"      Promotor esperado: {promotor!r}")
+                print(f"      Amostra da tabela (primeiras 3 linhas):")
+                for row in amostra_colunas[:3]:
+                    print(f"        {row}")
+                print(f"   🔁 Repetindo busca...")
+                await page.wait_for_timeout(3000 * tentativa)
+                continue
+            else:
+                print(f"   ✓ Promotor encontrado na tabela (verificação branda).")
+        else:
+            print(f"   ✓ Promotor confirmado na coluna td[{col_promotor}] da tabela.")
+
+        # ── Camada 4: confirma o valor atual do campo Organization ──────
+        # (garante que não houve race condition entre preenchimento e busca)
+        try:
+            org_apos = await page.input_value('input[name="Organization"]')
+            if norm(org_apos) != promotor_norm:
+                print(f"   ⚠️  Campo Organization mudou após busca: {org_apos!r} — revalidando...")
+                await page.wait_for_timeout(2000)
+                continue
+        except Exception:
+            pass  # campo pode não estar mais visível — ok
+
+        print(f"   ✅ Busca validada — {n_rows} resultado(s) para {promotor!r}")
+        return True   # ← busca bem-sucedida e validada
+
+    # Esgotou todas as tentativas
+    print(f"\n💥 ERRO CRÍTICO: Não foi possível obter resultados válidos para o promotor")
+    print(f"   '{promotor}' após {max_tentativas} tentativas.")
+    print(f"   O script foi interrompido para evitar contaminação do JSON.")
+    raise SystemExit(1)
+
+
 async def scroll_para_carregar_todos(page):
     print("📜 Carregando todos os registros via scroll...")
     anterior = sem_mudanca = 0
@@ -212,13 +355,46 @@ async def coletar_links_e_situacoes(page, limite):
             'link':              link_completo,
             'id':                num_edital,
             'situacao_listagem': situacao,
+            '_colunas_raw':      cols,   # guardado só para validação — removido antes de retornar
         })
 
+    # ── Validação final: filtra registros cujo promotor diverge ────
+    # Detecta coluna do promotor na tabela (quando presente)
+    norm = lambda s: s.upper().strip()
+    promotor_norm = norm(PROMOTOR)
+    col_promotor_tab = -1
+    for ci in range(n_cols):
+        valores = [row[ci] for row in amostra if ci < len(row) and row[ci]]
+        if not valores: continue
+        hits = sum(1 for v in valores if promotor_norm in norm(v))
+        if hits >= len(valores) * 0.7:
+            col_promotor_tab = ci
+            break
+
+    registros_validados = []
+    rejeitados = 0
+    for r in registros:
+        cols = r['_colunas_raw']
+        # Se encontramos a coluna do promotor, confere linha a linha
+        if col_promotor_tab >= 0 and col_promotor_tab < len(cols):
+            val_promotor = norm(cols[col_promotor_tab])
+            if promotor_norm not in val_promotor:
+                rejeitados += 1
+                continue
+        registros_validados.append(r)
+
+    if rejeitados:
+        print(f"   ⚠️  {rejeitados} registro(s) rejeitados por promotor divergente!")
+
+    # Remove campo auxiliar antes de retornar
+    for r in registros_validados:
+        r.pop('_colunas_raw', None)
+
     print("   Amostra final (3 primeiros):")
-    for r in registros[:3]:
+    for r in registros_validados[:3]:
         print(f"     id={r['id']!r:25s}  sit={r['situacao_listagem']!r}")
 
-    return registros
+    return registros_validados
 
 # ─────────────────────────────────────────────────────────────────
 #  LÓGICA DE ATUALIZAÇÃO INCREMENTAL
@@ -359,6 +535,16 @@ async def extrair_processo(context, url):
                 info[chave] = val.strip()
             except:
                 info[chave] = ''
+
+        # ── Validação do promotor por processo ───────────────────────
+        org_extraido = info.get('Organization', '').upper().strip()
+        promotor_esp = PROMOTOR.upper().strip()
+        if org_extraido and promotor_esp not in org_extraido and org_extraido not in promotor_esp:
+            print(f"\n      ❌ PROCESSO REJEITADO — promotor diverge!")
+            print(f"         Esperado : {PROMOTOR!r}")
+            print(f"         Extraído : {info.get('Organization','')!r}")
+            print(f"         URL      : {url}")
+            return {}, []   # retorna vazio — será ignorado pelo chamador
         btn = page.locator('button', has_text='Lotes')
         await btn.wait_for(state='visible', timeout=5000)
         await btn.click()
@@ -457,19 +643,8 @@ async def main():
         context = await browser.new_context()
         page    = await context.new_page()
 
-        # 1. Busca
-        print("\n🌐 Acessando BLL Compras...")
-        await page.goto(
-            'https://bllcompras.com/Process/ProcessSearchPublic?param1=0#',
-            wait_until='networkidle', timeout=30000
-        )
-        await page.select_option('select[name="fkStatus"]', value='')
-        await page.wait_for_timeout(400)
-        await page.fill('input[name="Organization"]', PROMOTOR)
-        await page.wait_for_timeout(400)
-        await page.click('button#btnAuctionSearch')
-        await page.wait_for_load_state('networkidle', timeout=20000)
-        await page.wait_for_timeout(3000)
+        # 1. Busca com validação do promotor (até 4 tentativas, aborta se falhar)
+        await executar_busca_com_validacao(page, PROMOTOR)
 
         # 2. Scroll
         await scroll_para_carregar_todos(page)
@@ -493,6 +668,9 @@ async def main():
             print(f"   [{i+1:>3}/{total}] {reg['motivo'][:45]:45s} ", end='')
             try:
                 info, lotes = await extrair_processo(context, reg['link'])
+                if not info.get('Number'):
+                    print(f"❌ Processo rejeitado (promotor divergente ou página vazia)")
+                    continue
                 proc_json   = montar_processo_json(info, lotes, reg['link'])
                 novos_extraidos.append(proc_json)
                 ti = sum(len(l.get('itens', [])) for l in lotes)
