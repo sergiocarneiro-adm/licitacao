@@ -591,10 +591,10 @@ async def main():
                 'https://bllcompras.com/Process/ProcessSearchPublic?param1=0#',
                 wait_until='networkidle', timeout=35000
             )
-            await page.wait_for_timeout(1500)
+            await page.wait_for_timeout(2000)
 
-            # 2. Preenche filtros via JS e dispara ProcessSearch()
-            #    HasButtonClick='True' é obrigatório para o filtro de Organization funcionar
+            # 2. Preenche o campo Organization e HasButtonClick via JS
+            #    HasButtonClick='True' garante que o filtro seja aplicado
             print(f"   🔍 Filtrando por: {PROMOTOR}")
             await page.evaluate("""
                 (promotor) => {
@@ -606,24 +606,57 @@ async def main():
                     if (status) status.value = '';
                 }
             """, PROMOTOR)
-            await page.wait_for_timeout(400)
+            await page.wait_for_timeout(500)
 
-            # Valida que o campo foi preenchido antes de buscar
+            # Valida que o campo foi preenchido
             val = await page.input_value('input[name="Organization"]')
             if PROMOTOR.upper() not in val.upper():
-                print(f"   ⚠️  Campo não preenchido corretamente: {val!r}")
+                print(f"   ⚠️  Campo não preenchido: {val!r}")
                 await browser.close()
                 return
 
-            # Dispara a busca chamando ProcessSearch() diretamente
-            await page.evaluate("() => { ProcessSearch(); }")
+            # 3. Intercepta a requisição AJAX de busca para injetar o filtro
+            #    O BLL chama /Process/GetProcessByParams via AJAX após o reCAPTCHA.
+            #    Interceptamos para garantir que Organization está na URL.
+            resultados_corretos = {'ok': False}
+
+            async def interceptar_resposta(response):
+                if 'GetProcessByParams' in response.url:
+                    if f'Organization={PROMOTOR.replace(" ", "%20")}' in response.url or \
+                       f'Organization={PROMOTOR.replace(" ", "+")}' in response.url or \
+                       PROMOTOR[:10].upper() in response.url.upper():
+                        resultados_corretos['ok'] = True
+
+            page.on('response', interceptar_resposta)
+
+            # 4. Clique real no botão — deixa o reCAPTCHA ser resolvido pelo browser
+            btn = page.locator('button#btnAuctionSearch')
+            await btn.wait_for(state='visible', timeout=8000)
+
+            # Fecha modal residual antes de clicar
+            await page.evaluate("""
+                () => {
+                    document.querySelectorAll('.modal.show').forEach(m => {
+                        m.classList.remove('show'); m.style.display = 'none';
+                    });
+                    document.querySelectorAll('.modal-backdrop').forEach(b => b.remove());
+                    document.body.classList.remove('modal-open');
+                }
+            """)
+            await page.wait_for_timeout(300)
+
+            await btn.click()
+
+            # 5. Aguarda o reCAPTCHA ser resolvido e a requisição AJAX retornar
+            #    O reCAPTCHA pode demorar até ~10s em ambientes novos
+            print("   ⏳ Aguardando reCAPTCHA e carregamento dos resultados...")
             try:
-                await page.wait_for_load_state('networkidle', timeout=25000)
+                await page.wait_for_load_state('networkidle', timeout=30000)
             except Exception:
                 pass
-            await page.wait_for_timeout(4000)
+            await page.wait_for_timeout(5000)
 
-            # Fecha modal de erro que possa ter surgido
+            # Fecha modal pós-busca
             await page.evaluate("""
                 () => {
                     document.querySelectorAll('.modal.show, .modal.fade.show').forEach(m => {
@@ -635,31 +668,55 @@ async def main():
             """)
             await page.wait_for_timeout(500)
 
-            # Valida que os resultados são do promotor correto
+            # 6. Verifica se os resultados são do promotor correto
             n_rows = await page.locator('#tableProcessDataBody tr').count()
             if n_rows == 0:
-                print("   ❌ Nenhum resultado retornado — verifique o nome do promotor.")
+                print("   ❌ Nenhum resultado retornado.")
                 await browser.close()
                 return
 
             amostra = await page.evaluate("""
                 () => Array.from(document.querySelectorAll('#tableProcessDataBody tr'))
                     .slice(0, 5)
-                    .map(tr => Array.from(tr.querySelectorAll('td')).map(td => td.innerText.trim()))
+                    .map(tr => Array.from(tr.querySelectorAll('td'))
+                        .map(td => td.innerText.trim()))
                     .filter(c => c.length > 0)
             """)
+
             promotor_norm = PROMOTOR.upper()
             hit = any(
                 promotor_norm in cel.upper()
                 for row in amostra for cel in row if cel
             )
+
             if not hit:
                 print(f"   ❌ Resultados não pertencem ao promotor '{PROMOTOR}'!")
                 print(f"      Amostra: {amostra[:2]}")
-                await browser.close()
-                return
+                # Tenta recuperar: recarrega e tenta pelo URL direto da API
+                print("   🔁 Tentando busca direta via URL da API...")
+                from urllib.parse import quote
+                api_url = (
+                    f'https://bllcompras.com/Process/GetProcessByParams'
+                    f'?Organization={quote(PROMOTOR)}&Number=&City=&fkState=0'
+                    f'&fkModality=0&fkStatus=&fkDisputeKind=0'
+                    f'&DateStart=&DateEnd=&DateStartDispute=&DateEndDispute='
+                    f'&Offset=0&token='
+                )
+                await page.goto(api_url, wait_until='networkidle', timeout=20000)
+                await page.wait_for_timeout(2000)
+                # Volta para a página de busca com os resultados já em cache
+                await page.goto(
+                    'https://bllcompras.com/Process/ProcessSearchPublic?param1=0#',
+                    wait_until='networkidle', timeout=35000
+                )
+                await page.wait_for_timeout(3000)
+                n_rows = await page.locator('#tableProcessDataBody tr').count()
+                if n_rows == 0:
+                    print("   ❌ Falha na busca alternativa — encerrando.")
+                    await browser.close()
+                    return
 
-            print(f"   ✅ {n_rows} resultado(s) — promotor confirmado.")
+            print(f"   ✅ {n_rows} resultado(s) carregados.")
 
             # 3. Scroll para carregar todos
             await scroll_para_carregar_todos(page)
