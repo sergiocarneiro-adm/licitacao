@@ -2,6 +2,9 @@ import asyncio
 import json
 import os
 import re
+import shutil
+import subprocess
+import sys
 from datetime import datetime
 from playwright.async_api import async_playwright
 
@@ -10,8 +13,100 @@ from playwright.async_api import async_playwright
 # ─────────────────────────────────────────────────────────────────
 PROMOTOR         = 'MUNICIPIO DE TEIXEIRA DE FREITAS'
 LIMITE_PROCESSOS = 9999    # reduza para testar (ex: 15)
-HEADLESS         = True   # True para rodar sem abrir janela
 ARQUIVO_JSON     = 'dados.json'
+
+# Modo de execução do browser — detectado automaticamente:
+#   - Windows          → headless=False  (abre janela normalmente)
+#   - Linux com DISPLAY → headless=False  (display real ou Xvfb já ativo)
+#   - Linux sem DISPLAY → inicia Xvfb internamente e usa headless=False
+# Para forçar um modo específico use as flags:
+#   python extrator_bll_teixeira.py --headless     (força headless puro)
+#   python extrator_bll_teixeira.py --no-headless  (força janela visível)
+_CI        = os.getenv('CI', '').lower() == 'true'
+_HEADLESS_ARG = '--headless' in sys.argv
+_NO_HEADLESS_ARG = '--no-headless' in sys.argv
+_LINUX     = sys.platform.startswith('linux')
+_TEM_DISPLAY = bool(os.environ.get('DISPLAY', ''))
+
+# ─────────────────────────────────────────────────────────────────
+#  XVFB — display virtual para Linux sem tela física
+# ─────────────────────────────────────────────────────────────────
+_xvfb_proc = None   # processo Xvfb iniciado por este script
+
+def iniciar_xvfb(display=':99', resolucao='1920x1080x24'):
+    """
+    Inicia um servidor Xvfb (display virtual) se ainda não houver DISPLAY.
+    Retorna True se bem-sucedido ou se já havia DISPLAY disponível.
+    Exige: sudo apt-get install -y xvfb  (já incluso no GitHub Actions)
+    """
+    global _xvfb_proc
+
+    if not _LINUX:
+        return True   # Windows/Mac não precisam de Xvfb
+
+    if _TEM_DISPLAY:
+        print(f"   🖥️  DISPLAY já disponível: {os.environ['DISPLAY']}")
+        return True
+
+    if not shutil.which('Xvfb'):
+        print("   ⚠️  Xvfb não encontrado — instale com: sudo apt-get install -y xvfb")
+        return False
+
+    try:
+        # Mata qualquer Xvfb residual no mesmo display
+        subprocess.run(['pkill', '-f', f'Xvfb {display}'],
+                       capture_output=True, timeout=5)
+
+        _xvfb_proc = subprocess.Popen(
+            ['Xvfb', display, '-screen', '0', resolucao, '-ac', '+extension', 'GLX'],
+            stdout=subprocess.DEVNULL,
+            stderr=subprocess.DEVNULL,
+        )
+        import time; time.sleep(1.5)   # aguarda o servidor inicializar
+
+        if _xvfb_proc.poll() is not None:
+            print(f"   ❌ Xvfb falhou ao iniciar (código {_xvfb_proc.returncode})")
+            return False
+
+        os.environ['DISPLAY'] = display
+        print(f"   🖥️  Xvfb iniciado em DISPLAY={display}  ({resolucao})")
+        return True
+
+    except Exception as e:
+        print(f"   ❌ Erro ao iniciar Xvfb: {e}")
+        return False
+
+
+def encerrar_xvfb():
+    """Encerra o Xvfb iniciado por este script (se houver)."""
+    global _xvfb_proc
+    if _xvfb_proc and _xvfb_proc.poll() is None:
+        _xvfb_proc.terminate()
+        try:
+            _xvfb_proc.wait(timeout=5)
+        except subprocess.TimeoutExpired:
+            _xvfb_proc.kill()
+        print("   🖥️  Xvfb encerrado.")
+        _xvfb_proc = None
+
+
+def determinar_modo_headless():
+    """
+    Decide se o browser vai rodar em modo headless ou com display.
+    Retorna (headless: bool, descricao: str).
+    """
+    if _HEADLESS_ARG:
+        return True, 'headless forçado por --headless'
+    if _NO_HEADLESS_ARG:
+        return False, 'janela visível forçada por --no-headless'
+    if _CI:
+        # No CI usa Xvfb + headless=False
+        return False, 'CI detectado → headless=False com Xvfb'
+    if _LINUX and not _TEM_DISPLAY:
+        # Linux sem tela → tenta Xvfb
+        return False, 'Linux sem DISPLAY → headless=False com Xvfb'
+    # Windows ou Linux com display real
+    return False, 'headless=False (janela visível)'
 
 # ─────────────────────────────────────────────────────────────────
 #  SANITIZAÇÃO
@@ -359,6 +454,12 @@ async def extrair_processo(context, url):
                 info[chave] = val.strip()
             except:
                 info[chave] = ''
+
+        # Valida promotor — rejeita processo de outro município
+        org = info.get('Organization', '').upper().strip()
+        if org and PROMOTOR.upper() not in org and org not in PROMOTOR.upper():
+            print(f"\n      ❌ Promotor divergente: {info.get('Organization','')!r}")
+            return {}, []
         btn = page.locator('button', has_text='Lotes')
         await btn.wait_for(state='visible', timeout=5000)
         await btn.click()
@@ -449,72 +550,165 @@ def salvar_json(processos_final, ts):
 async def main():
     ts = datetime.now().strftime("%Y%m%d_%H%M%S")
 
-    # 0. Carrega JSON existente
-    indice_existente, todos_existentes = carregar_json_existente()
+    # ── Determina modo e inicia Xvfb se necessário ────────────────
+    headless, descricao = determinar_modo_headless()
+    print(f"\n🖥️  Modo browser: {descricao}")
 
-    async with async_playwright() as p:
-        browser = await p.chromium.launch(headless=HEADLESS)
-        context = await browser.new_context()
-        page    = await context.new_page()
+    if not headless and _LINUX and not _TEM_DISPLAY and not _HEADLESS_ARG:
+        xvfb_ok = iniciar_xvfb()
+        if not xvfb_ok:
+            print("   ⚠️  Xvfb não disponível — tentando headless puro.")
+            headless = True
 
-        # 1. Busca
-        print("\n🌐 Acessando BLL Compras...")
-        await page.goto(
-            'https://bllcompras.com/Process/ProcessSearchPublic?param1=0#',
-            wait_until='networkidle', timeout=30000
-        )
-        await page.select_option('select[name="fkStatus"]', value='')
-        await page.wait_for_timeout(400)
-        await page.fill('input[name="Organization"]', PROMOTOR)
-        await page.wait_for_timeout(400)
-        await page.click('button#btnAuctionSearch')
-        await page.wait_for_load_state('networkidle', timeout=20000)
-        await page.wait_for_timeout(3000)
+    try:
+        # 0. Carrega JSON existente
+        indice_existente, todos_existentes = carregar_json_existente()
 
-        # 2. Scroll
-        await scroll_para_carregar_todos(page)
+        async with async_playwright() as p:
+            # Argumentos extras para parecer browser real ao BLL
+            args = [
+                '--no-sandbox',
+                '--disable-setuid-sandbox',
+                '--disable-blink-features=AutomationControlled',
+            ]
+            browser = await p.chromium.launch(
+                headless=headless,
+                args=args,
+            )
+            context = await browser.new_context(
+                viewport={'width': 1920, 'height': 1080},
+                user_agent=(
+                    'Mozilla/5.0 (Windows NT 10.0; Win64; x64) '
+                    'AppleWebKit/537.36 (KHTML, like Gecko) '
+                    'Chrome/122.0.0.0 Safari/537.36'
+                ),
+            )
+            page = await context.new_page()
 
-        # 3. Coleta links e situações
-        registros_bll = await coletar_links_e_situacoes(page, LIMITE_PROCESSOS)
+            # 1. Acessa a página de busca
+            print("\n🌐 Acessando BLL Compras...")
+            await page.goto(
+                'https://bllcompras.com/Process/ProcessSearchPublic?param1=0#',
+                wait_until='networkidle', timeout=35000
+            )
+            await page.wait_for_timeout(1500)
 
-        # 4. Decide o que processar
-        a_processar, a_manter = decidir_o_que_processar(registros_bll, indice_existente, todos_existentes)
+            # 2. Preenche filtros via JS e dispara ProcessSearch()
+            #    HasButtonClick='True' é obrigatório para o filtro de Organization funcionar
+            print(f"   🔍 Filtrando por: {PROMOTOR}")
+            await page.evaluate("""
+                (promotor) => {
+                    const org = document.querySelector('input[name="Organization"]');
+                    if (org) org.value = promotor;
+                    const hbc = document.querySelector('#HasButtonClick');
+                    if (hbc) hbc.value = 'True';
+                    const status = document.querySelector('select[name="fkStatus"]');
+                    if (status) status.value = '';
+                }
+            """, PROMOTOR)
+            await page.wait_for_timeout(400)
 
-        if not a_processar:
-            print("\n✅ Nenhuma alteração detectada. O dados.json já está atualizado!")
-            await browser.close()
-            return
+            # Valida que o campo foi preenchido antes de buscar
+            val = await page.input_value('input[name="Organization"]')
+            if PROMOTOR.upper() not in val.upper():
+                print(f"   ⚠️  Campo não preenchido corretamente: {val!r}")
+                await browser.close()
+                return
 
-        # 5. Extrai apenas o necessário
-        total = len(a_processar)
-        print(f"\n🔍 Extraindo {total} processo(s)...\n")
-        novos_extraidos = []
-        for i, reg in enumerate(a_processar):
-            print(f"   [{i+1:>3}/{total}] {reg['motivo'][:45]:45s} ", end='')
+            # Dispara a busca chamando ProcessSearch() diretamente
+            await page.evaluate("() => { ProcessSearch(); }")
             try:
-                info, lotes = await extrair_processo(context, reg['link'])
-                proc_json   = montar_processo_json(info, lotes, reg['link'])
-                novos_extraidos.append(proc_json)
-                ti = sum(len(l.get('itens', [])) for l in lotes)
-                print(f"✅ {info.get('Number','?'):20s} | {len(lotes)} lote(s) | {ti} item(ns)")
-            except Exception as e:
-                print(f"❌ Erro: {e}")
-            await asyncio.sleep(0.4)
+                await page.wait_for_load_state('networkidle', timeout=25000)
+            except Exception:
+                pass
+            await page.wait_for_timeout(4000)
 
-        await browser.close()
+            # Fecha modal de erro que possa ter surgido
+            await page.evaluate("""
+                () => {
+                    document.querySelectorAll('.modal.show, .modal.fade.show').forEach(m => {
+                        m.classList.remove('show'); m.style.display = 'none';
+                    });
+                    document.querySelectorAll('.modal-backdrop').forEach(b => b.remove());
+                    document.body.classList.remove('modal-open');
+                }
+            """)
+            await page.wait_for_timeout(500)
 
-    # 6. Monta lista final: todos os existentes + os recém extraídos
-    # a_manter já contém TODOS os processos do JSON original
-    # Apenas adicionamos os novos/atualizados ao final
-    processos_final = list(a_manter) + novos_extraidos
+            # Valida que os resultados são do promotor correto
+            n_rows = await page.locator('#tableProcessDataBody tr').count()
+            if n_rows == 0:
+                print("   ❌ Nenhum resultado retornado — verifique o nome do promotor.")
+                await browser.close()
+                return
 
-    # 7. Salva
-    print(f"\n{'─'*55}")
-    salvar_json(processos_final, ts)
-    print(f"\n🎉 Atualização concluída!")
-    print(f"   🆕 Novos/atualizados: {len(novos_extraidos)}")
-    print(f"   ✅ Mantidos:          {len(a_manter)}")
-    print(f"   📦 Total no arquivo:  {len(processos_final)}")
+            amostra = await page.evaluate("""
+                () => Array.from(document.querySelectorAll('#tableProcessDataBody tr'))
+                    .slice(0, 5)
+                    .map(tr => Array.from(tr.querySelectorAll('td')).map(td => td.innerText.trim()))
+                    .filter(c => c.length > 0)
+            """)
+            promotor_norm = PROMOTOR.upper()
+            hit = any(
+                promotor_norm in cel.upper()
+                for row in amostra for cel in row if cel
+            )
+            if not hit:
+                print(f"   ❌ Resultados não pertencem ao promotor '{PROMOTOR}'!")
+                print(f"      Amostra: {amostra[:2]}")
+                await browser.close()
+                return
+
+            print(f"   ✅ {n_rows} resultado(s) — promotor confirmado.")
+
+            # 3. Scroll para carregar todos
+            await scroll_para_carregar_todos(page)
+
+            # 4. Coleta links e situações
+            registros_bll = await coletar_links_e_situacoes(page, LIMITE_PROCESSOS)
+
+            # 5. Decide o que processar
+            a_processar, a_manter = decidir_o_que_processar(
+                registros_bll, indice_existente, todos_existentes
+            )
+
+            if not a_processar:
+                print("\n✅ Nenhuma alteração detectada. O dados.json já está atualizado!")
+                await browser.close()
+                return
+
+            # 6. Extrai apenas o necessário
+            total = len(a_processar)
+            print(f"\n🔍 Extraindo {total} processo(s)...\n")
+            novos_extraidos = []
+            for i, reg in enumerate(a_processar):
+                print(f"   [{i+1:>3}/{total}] {reg['motivo'][:45]:45s} ", end='')
+                try:
+                    info, lotes = await extrair_processo(context, reg['link'])
+                    if not info.get('Number'):
+                        print(f"❌ Processo rejeitado (promotor divergente ou página vazia)")
+                        continue
+                    proc_json = montar_processo_json(info, lotes, reg['link'])
+                    novos_extraidos.append(proc_json)
+                    ti = sum(len(l.get('itens', [])) for l in lotes)
+                    print(f"✅ {info.get('Number','?'):20s} | {len(lotes)} lote(s) | {ti} item(ns)")
+                except Exception as e:
+                    print(f"❌ Erro: {e}")
+                await asyncio.sleep(0.4)
+
+            await browser.close()
+
+        # 7. Monta lista final e salva
+        processos_final = list(a_manter) + novos_extraidos
+        print(f"\n{'─'*55}")
+        salvar_json(processos_final, ts)
+        print(f"\n🎉 Atualização concluída!")
+        print(f"   🆕 Novos/atualizados: {len(novos_extraidos)}")
+        print(f"   ✅ Mantidos:          {len(a_manter)}")
+        print(f"   📦 Total no arquivo:  {len(processos_final)}")
+
+    finally:
+        encerrar_xvfb()
 
 
 if __name__ == "__main__":
