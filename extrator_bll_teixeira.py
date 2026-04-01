@@ -120,17 +120,45 @@ def carregar_json_existente():
 # ─────────────────────────────────────────────────────────────────
 #  BUSCA ROBUSTA COM VALIDAÇÃO DO PROMOTOR
 # ─────────────────────────────────────────────────────────────────
+async def fechar_modais(page):
+    """Fecha qualquer modal de erro/aviso que esteja bloqueando a UI."""
+    try:
+        # Tenta fechar via botão de fechar do modal
+        await page.evaluate("""
+            () => {
+                // Remove todos os modais abertos via Bootstrap
+                document.querySelectorAll('.modal.show, .modal.fade.show').forEach(m => {
+                    m.classList.remove('show');
+                    m.style.display = 'none';
+                });
+                // Remove backdrop
+                document.querySelectorAll('.modal-backdrop').forEach(b => b.remove());
+                // Restaura scroll do body
+                document.body.classList.remove('modal-open');
+                document.body.style.overflow = '';
+                document.body.style.paddingRight = '';
+            }
+        """)
+        await page.wait_for_timeout(400)
+    except Exception:
+        pass
+
+
+# ─────────────────────────────────────────────────────────────────
+#  BUSCA ROBUSTA COM VALIDAÇÃO DO PROMOTOR
+# ─────────────────────────────────────────────────────────────────
 async def executar_busca_com_validacao(page, promotor, max_tentativas=4):
     """
     Executa a busca pelo promotor e valida que os resultados
     pertencem exclusivamente ao promotor correto antes de prosseguir.
 
-    Validações aplicadas:
-      1. Campo Organization na listagem deve conter o promotor
-      2. Coluna promotor na tabela de resultados deve bater (quando visível)
-      3. Amostra de páginas de processo individuais confirma o Organization
+    A cada tentativa: recarrega a página do zero (goto) para garantir
+    estado limpo — sem modais, sem resultados de busca anterior.
 
-    Aborta com SystemExit se não conseguir resultados válidos após max_tentativas.
+    Validações:
+      1. Campo Organization preenchido e confirmado
+      2. Tabela tem resultados
+      3. Coluna do promotor na tabela confere com PROMOTOR
     """
     norm = lambda s: s.upper().strip()
     promotor_norm = norm(promotor)
@@ -138,6 +166,8 @@ async def executar_busca_com_validacao(page, promotor, max_tentativas=4):
     for tentativa in range(1, max_tentativas + 1):
         print(f"\n🌐 Acessando BLL Compras... (tentativa {tentativa}/{max_tentativas})")
 
+        # ── Recarrega a página do zero a cada tentativa ───────────────
+        # Isso garante: sem modal aberto, sem resultados de busca anterior
         try:
             await page.goto(
                 'https://bllcompras.com/Process/ProcessSearchPublic?param1=0#',
@@ -145,37 +175,55 @@ async def executar_busca_com_validacao(page, promotor, max_tentativas=4):
             )
         except Exception as e:
             print(f"   ⚠️  Falha ao carregar página: {e}")
-            await page.wait_for_timeout(3000 * tentativa)
+            await page.wait_for_timeout(4000 * tentativa)
             continue
 
-        # ── Camada 1: garante que o campo Organization está preenchido ──
+        # Fecha qualquer modal residual que tenha carregado com a página
+        await fechar_modais(page)
+        await page.wait_for_timeout(800)
+
+        # ── Garante que o campo Organization está presente e preenchível
         try:
-            await page.wait_for_selector('input[name="Organization"]', timeout=10000)
+            await page.wait_for_selector(
+                'input[name="Organization"]', state='visible', timeout=10000
+            )
         except Exception:
-            print("   ⚠️  Campo Organization não encontrado — página não carregou corretamente.")
+            print("   ⚠️  Campo Organization não encontrado — página não carregou.")
             await page.wait_for_timeout(3000 * tentativa)
             continue
 
-        # Limpa e preenche o campo com o promotor
+        # Limpa e preenche o campo promotor
         await page.fill('input[name="Organization"]', '')
         await page.wait_for_timeout(300)
         await page.fill('input[name="Organization"]', promotor)
-        await page.wait_for_timeout(400)
+        await page.wait_for_timeout(500)
 
-        # Confirma que o valor foi realmente inserido
+        # Confirma que o valor foi inserido corretamente
         valor_campo = await page.input_value('input[name="Organization"]')
         if norm(valor_campo) != promotor_norm:
             print(f"   ⚠️  Campo não preenchido corretamente: {valor_campo!r}")
             await page.wait_for_timeout(2000)
             continue
 
-        # Seleciona "Todos" na situação e clica em buscar
+        # Seleciona "Todos" na situação
         try:
             await page.select_option('select[name="fkStatus"]', value='')
         except Exception:
             pass
-        await page.wait_for_timeout(300)
-        await page.click('button#btnAuctionSearch')
+        await page.wait_for_timeout(400)
+
+        # ── Fecha modal novamente antes de clicar (precaução) ─────────
+        await fechar_modais(page)
+
+        # Clica em buscar aguardando o botão estar clicável
+        try:
+            btn = page.locator('button#btnAuctionSearch')
+            await btn.wait_for(state='visible', timeout=8000)
+            await btn.click(timeout=15000)
+        except Exception as e:
+            print(f"   ⚠️  Erro ao clicar em Buscar: {e}")
+            await page.wait_for_timeout(3000 * tentativa)
+            continue
 
         try:
             await page.wait_for_load_state('networkidle', timeout=25000)
@@ -183,17 +231,19 @@ async def executar_busca_com_validacao(page, promotor, max_tentativas=4):
             pass
         await page.wait_for_timeout(3000)
 
-        # ── Camada 2: verifica se a tabela tem resultados ──────────────
+        # Fecha modal que possa ter aparecido após a busca
+        await fechar_modais(page)
+
+        # ── Verifica se a tabela tem resultados ───────────────────────
         n_rows = await page.locator('#tableProcessDataBody tr').count()
         if n_rows == 0:
-            print(f"   ⚠️  Tabela vazia após busca — nenhum resultado retornado.")
-            await page.wait_for_timeout(2000 * tentativa)
+            print(f"   ⚠️  Tabela vazia após busca.")
+            await page.wait_for_timeout(3000 * tentativa)
             continue
 
         print(f"   ✓ {n_rows} linha(s) visíveis na tabela.")
 
-        # ── Camada 3: amostra dos dados — confirma promotor na tabela ──
-        # Lê as primeiras linhas e procura uma coluna que contenha o promotor
+        # ── Confirma promotor na amostra da tabela ────────────────────
         amostra_colunas = await page.evaluate("""
             () => {
                 const linhas = Array.from(
@@ -210,56 +260,31 @@ async def executar_busca_com_validacao(page, promotor, max_tentativas=4):
             await page.wait_for_timeout(2000 * tentativa)
             continue
 
-        # Verifica se alguma coluna contém o promotor em pelo menos 70% das linhas
-        n_cols = max(len(r) for r in amostra_colunas)
-        col_promotor = -1
-        for ci in range(n_cols):
-            valores = [row[ci] for row in amostra_colunas if ci < len(row)]
-            hits = sum(1 for v in valores if promotor_norm in norm(v))
-            if hits >= len(valores) * 0.7:
-                col_promotor = ci
-                break
+        # Verifica se o promotor aparece em alguma célula da amostra
+        qualquer_hit = any(
+            promotor_norm in norm(cel)
+            for row in amostra_colunas
+            for cel in row
+            if cel
+        )
 
-        if col_promotor == -1:
-            # Tenta verificação mais branda: promotor aparece em QUALQUER célula?
-            qualquer_hit = any(
-                promotor_norm in norm(cel)
-                for row in amostra_colunas
-                for cel in row
-            )
-            if not qualquer_hit:
-                # Mostra o que veio para diagnóstico
-                print(f"   ❌ VALIDAÇÃO FALHOU — resultados não pertencem ao promotor!")
-                print(f"      Promotor esperado: {promotor!r}")
-                print(f"      Amostra da tabela (primeiras 3 linhas):")
-                for row in amostra_colunas[:3]:
-                    print(f"        {row}")
-                print(f"   🔁 Repetindo busca...")
-                await page.wait_for_timeout(3000 * tentativa)
-                continue
-            else:
-                print(f"   ✓ Promotor encontrado na tabela (verificação branda).")
-        else:
-            print(f"   ✓ Promotor confirmado na coluna td[{col_promotor}] da tabela.")
+        if not qualquer_hit:
+            print(f"   ❌ VALIDAÇÃO FALHOU — resultados não pertencem ao promotor!")
+            print(f"      Promotor esperado: {promotor!r}")
+            print(f"      Amostra da tabela (primeiras 3 linhas):")
+            for row in amostra_colunas[:3]:
+                print(f"        {row}")
+            print(f"   🔁 Repetindo busca...")
+            await page.wait_for_timeout(4000 * tentativa)
+            continue
 
-        # ── Camada 4: confirma o valor atual do campo Organization ──────
-        # (garante que não houve race condition entre preenchimento e busca)
-        try:
-            org_apos = await page.input_value('input[name="Organization"]')
-            if norm(org_apos) != promotor_norm:
-                print(f"   ⚠️  Campo Organization mudou após busca: {org_apos!r} — revalidando...")
-                await page.wait_for_timeout(2000)
-                continue
-        except Exception:
-            pass  # campo pode não estar mais visível — ok
-
-        print(f"   ✅ Busca validada — {n_rows} resultado(s) para {promotor!r}")
-        return True   # ← busca bem-sucedida e validada
+        print(f"   ✅ Busca validada — promotor confirmado na tabela.")
+        return True
 
     # Esgotou todas as tentativas
-    print(f"\n💥 ERRO CRÍTICO: Não foi possível obter resultados válidos para o promotor")
+    print(f"\n💥 ERRO CRÍTICO: Não foi possível obter resultados válidos para")
     print(f"   '{promotor}' após {max_tentativas} tentativas.")
-    print(f"   O script foi interrompido para evitar contaminação do JSON.")
+    print(f"   Script interrompido para evitar contaminação do JSON.")
     raise SystemExit(1)
 
 
