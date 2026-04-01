@@ -4,7 +4,8 @@
 # ─────────────────────────────────────────────────────────────
 
 # Automação de browser (web scraping)
-playwright>=1.56.0
+# Versão fixada para garantir compatibilidade com o Chromium instalado
+playwright==1.49.0
 
 # Geração de arquivos Excel (.xlsx)
 openpyxl>=3.1.5
@@ -18,8 +19,9 @@ greenlet>=3.1.1,<4.0.0
 typing-extensions>=4.0.0
 
 # ─────────────────────────────────────────────────────────────
-#  Módulos da stdlib usados (não precisam de instalação):
-#    asyncio, csv, json, datetime
+#  Módulos usados no projeto — todos da stdlib, sem instalação:
+#    asyncio, json, os, re, shutil, subprocess, sys, datetime,
+#    collections, urllib.parse
 # ─────────────────────────────────────────────────────────────
 
 # ─────────────────────────────────────────────────────────────
@@ -38,4 +40,7 @@ typing-extensions>=4.0.0
 #
 #  4. Rodar o extrator:
 #     python extrator_bll_teixeira.py
+#
+#  Xvfb (apenas Linux/GitHub Actions — não instale no Windows):
+#     sudo apt-get install -y xvfb
 # ─────────────────────────────────────────────────────────────
