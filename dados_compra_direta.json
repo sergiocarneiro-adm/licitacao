@@ -1,9 +1,9 @@
 {
   "metadata": {
     "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-    "total_registros": 621,
-    "total_itens": 2290,
-    "atualizado_em": "20260331_065939"
+    "total_registros": 622,
+    "total_itens": 2294,
+    "atualizado_em": "20260401_211453"
   },
   "registros": [
     {
@@ -36565,6 +36565,68 @@
           "marca": "NAO SE APLICA",
           "modelo": "NAO SE APLICA",
           "valor": "10200,0000"
+        }
+      ]
+    },
+    {
+      "id": "2IL-046-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "272/2026",
+      "modalidade": "INEXIGIBILIDADE",
+      "status": "CONCLUÍDA",
+      "coordenador": "ISLA LIMA SILVA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "ano_referencia": "2026",
+      "data_publicacao": "01/04/2026 17:23:50",
+      "data_conclusao": "01/04/2026 17:23:53",
+      "artigo": "Art. 74º",
+      "inciso": "IV",
+      "justificativa": "Art. 74, IV, da Lei Federal nº 14.133/2021, Decreto Municipal nº 85.2024 e demais legislações e regulamentos específicos.",
+      "legislacao": "Lei nº 14.133",
+      "objeto": "Empresa especializada na PRESTAÇÃO DE SERVIÇOS DE ARBITRAGEM DE FUTBOL E FUTSAL MASCULINO E FEMININO, MAQUEIROS, GANDULAS E MARCADOR, a fim de atender as demandas da Secretaria Municipal de Esporte e Lazer.",
+      "observacao": "",
+      "link": "https://bllcompras.com/DirectBuy/DirectBuyView?param1=%5Bgkz%5DF4dtOWb1g0tonyJnAM5%2FYxws5PQ5X5TyaQOuz12AsPUKHFxUxpW0Z2QQmGGqPNGPM8MPI6DBwWC_EvRZIN6Rbt1Yut3zL6o0B9kWqPAcsHI%3D",
+      "total_itens": 4,
+      "itens": [
+        {
+          "numero": "1",
+          "descricao": "100200406 Contratação de Arbitragem de Futebol e futsal Masculino e Feminino: com duração total de 30 minutos mais acréscimos, sendo dois tempos de 15 minutos por período,realizado em perímetro urbano, podendo haver disputa de pênaltis. O serviço será prestado por 02 Arbitro Central e 01 Anotador. Torneio do Trabalhador Edição 2026.",
+          "quantidade": "145,0000",
+          "unidade": "SERV",
+          "fornecedor": "ASSOCIACAO DOS ARBITROS DE TEIXEIRA DE FREITAS",
+          "marca": "NÃO SE APLICA",
+          "modelo": "NÃO SE APLICA",
+          "valor": "218,9900"
+        },
+        {
+          "numero": "2",
+          "descricao": "00200407 Contratação de Maqueiro: em jogo de futebol de campo com duração de dois tempos de 15 minutos por período, realizado em perímetro urbano com acréscimos, podendo haver disputa de pênaltis. O serviço será realizado por dois maqueiros em cada jogo. Torneio do Trabalhador Edição 2026.",
+          "quantidade": "102,0000",
+          "unidade": "SERV",
+          "fornecedor": "ASSOCIACAO DOS ARBITROS DE TEIXEIRA DE FREITAS",
+          "marca": "NÃO SE APLICA",
+          "modelo": "NÃO SE APLICA",
+          "valor": "59,5200"
+        },
+        {
+          "numero": "3",
+          "descricao": "100200408 Contratação de Gandula: em jogo de futebol de campo com duração de dois tempos de 15 minutos por período, realizado em perímetro urbano com acréscimos, podendo haver disputa de pênaltis. O serviço será realizado por 04 gandulas em cada jogo. Torneio do Trabalhador Edição 2026",
+          "quantidade": "102,0000",
+          "unidade": "SERV",
+          "fornecedor": "ASSOCIACAO DOS ARBITROS DE TEIXEIRA DE FREITAS",
+          "marca": "NÃO SE APLICA",
+          "modelo": "NÃO SE APLICA",
+          "valor": "60,9800"
+        },
+        {
+          "numero": "4",
+          "descricao": "100200409 Contratação de Marcador: de Campo de futebol, O campo de jogo deve ser marcado por linhas de cor branca e bem visíveis, com 10 cm de largura, as quais devem acompanhar o nível do campo com marcações da linha que divide o campo, círculo central, linha lateral, linha de fundo, grande área, pequena área, tiro penal e mais lua. No Torneio do Trabalhador Edição 2026",
+          "quantidade": "25,0000",
+          "unidade": "SERV",
+          "fornecedor": "ASSOCIACAO DOS ARBITROS DE TEIXEIRA DE FREITAS",
+          "marca": "NÃO SE APLICA",
+          "modelo": "NÃO SE APLICA",
+          "valor": "154,5000"
         }
       ]
     }
