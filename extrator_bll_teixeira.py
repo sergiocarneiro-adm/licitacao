@@ -192,16 +192,63 @@ async def executar_busca_com_validacao(page, promotor, max_tentativas=4):
             await page.wait_for_timeout(3000 * tentativa)
             continue
 
-        # Limpa e preenche o campo promotor
-        await page.fill('input[name="Organization"]', '')
-        await page.wait_for_timeout(300)
-        await page.fill('input[name="Organization"]', promotor)
-        await page.wait_for_timeout(500)
+        # ── Preenche o campo Organization via autocomplete ───────────
+        # O BLL usa autocomplete — fill() não dispara a seleção.
+        # É preciso: limpar → digitar → aguardar sugestão → selecionar.
+        try:
+            campo = page.locator('input[name="Organization"]')
+            await campo.click()
+            await page.wait_for_timeout(300)
 
-        # Confirma que o valor foi inserido corretamente
+            # Seleciona tudo e apaga
+            await campo.press('Control+a')
+            await campo.press('Delete')
+            await page.wait_for_timeout(300)
+
+            # Digita os primeiros caracteres para acionar o autocomplete
+            await campo.type(promotor[:10], delay=80)
+            await page.wait_for_timeout(1500)
+
+            # Procura a sugestão correta no dropdown do autocomplete
+            selecionou = await page.evaluate("""
+                (promotorNorm) => {
+                    // Tenta dropdown ul.ui-autocomplete
+                    const items = Array.from(document.querySelectorAll(
+                        'ul.ui-autocomplete li, .autocomplete-dropdown li, ' +
+                        '[class*="autocomplete"] li, [class*="dropdown"] li'
+                    ));
+                    for (const item of items) {
+                        const txt = (item.innerText || item.textContent || '').toUpperCase().trim();
+                        if (txt.includes(promotorNorm)) {
+                            item.click();
+                            return txt;
+                        }
+                    }
+                    return null;
+                }
+            """, promotor_norm)
+
+            if selecionou:
+                print(f"   ✓ Autocomplete: selecionado '{selecionou[:60]}'")
+                await page.wait_for_timeout(500)
+            else:
+                # Autocomplete não apareceu ou não tem sugestão — digita o resto e continua
+                await campo.press('Control+a')
+                await campo.press('Delete')
+                await page.wait_for_timeout(200)
+                await campo.type(promotor, delay=30)
+                await page.wait_for_timeout(400)
+                print(f"   ℹ️  Autocomplete sem sugestão — digitando nome completo.")
+
+        except Exception as e:
+            print(f"   ⚠️  Erro ao preencher campo: {e}")
+            await page.wait_for_timeout(2000)
+            continue
+
+        # Confirma que o valor foi inserido
         valor_campo = await page.input_value('input[name="Organization"]')
-        if norm(valor_campo) != promotor_norm:
-            print(f"   ⚠️  Campo não preenchido corretamente: {valor_campo!r}")
+        if promotor_norm not in norm(valor_campo):
+            print(f"   ⚠️  Campo com valor inesperado: {valor_campo!r}")
             await page.wait_for_timeout(2000)
             continue
 
@@ -229,10 +276,11 @@ async def executar_busca_com_validacao(page, promotor, max_tentativas=4):
             await page.wait_for_load_state('networkidle', timeout=25000)
         except Exception:
             pass
-        await page.wait_for_timeout(3000)
+        await page.wait_for_timeout(4000)   # espera extra para tabela atualizar
 
         # Fecha modal que possa ter aparecido após a busca
         await fechar_modais(page)
+        await page.wait_for_timeout(500)
 
         # ── Verifica se a tabela tem resultados ───────────────────────
         n_rows = await page.locator('#tableProcessDataBody tr').count()
