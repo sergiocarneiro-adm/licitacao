@@ -192,63 +192,38 @@ async def executar_busca_com_validacao(page, promotor, max_tentativas=4):
             await page.wait_for_timeout(3000 * tentativa)
             continue
 
-        # ── Preenche o campo Organization via autocomplete ───────────
-        # O BLL usa autocomplete — fill() não dispara a seleção.
-        # É preciso: limpar → digitar → aguardar sugestão → selecionar.
+        # ── Preenche o campo Organization e seta HasButtonClick ──────
+        # O BLL exige HasButtonClick='True' para aplicar o filtro.
+        # Sem isso, a função ExecSearch() zera organization e retorna tudo.
         try:
-            campo = page.locator('input[name="Organization"]')
-            await campo.click()
-            await page.wait_for_timeout(300)
-
-            # Seleciona tudo e apaga
-            await campo.press('Control+a')
-            await campo.press('Delete')
-            await page.wait_for_timeout(300)
-
-            # Digita os primeiros caracteres para acionar o autocomplete
-            await campo.type(promotor[:10], delay=80)
-            await page.wait_for_timeout(1500)
-
-            # Procura a sugestão correta no dropdown do autocomplete
-            selecionou = await page.evaluate("""
-                (promotorNorm) => {
-                    // Tenta dropdown ul.ui-autocomplete
-                    const items = Array.from(document.querySelectorAll(
-                        'ul.ui-autocomplete li, .autocomplete-dropdown li, ' +
-                        '[class*="autocomplete"] li, [class*="dropdown"] li'
-                    ));
-                    for (const item of items) {
-                        const txt = (item.innerText || item.textContent || '').toUpperCase().trim();
-                        if (txt.includes(promotorNorm)) {
-                            item.click();
-                            return txt;
-                        }
-                    }
-                    return null;
+            # Seta o valor do campo Organization diretamente via JS
+            await page.evaluate("""
+                (promotor) => {
+                    const el = document.querySelector('input[name="Organization"]');
+                    if (el) el.value = promotor;
+                    // HasButtonClick precisa ser 'True' para o filtro funcionar
+                    const hbc = document.querySelector('#HasButtonClick');
+                    if (hbc) hbc.value = 'True';
                 }
-            """, promotor_norm)
+            """, promotor)
+            await page.wait_for_timeout(300)
 
-            if selecionou:
-                print(f"   ✓ Autocomplete: selecionado '{selecionou[:60]}'")
-                await page.wait_for_timeout(500)
-            else:
-                # Autocomplete não apareceu ou não tem sugestão — digita o resto e continua
-                await campo.press('Control+a')
-                await campo.press('Delete')
-                await page.wait_for_timeout(200)
-                await campo.type(promotor, delay=30)
-                await page.wait_for_timeout(400)
-                print(f"   ℹ️  Autocomplete sem sugestão — digitando nome completo.")
+            # Confirma que os valores foram inseridos
+            valor_org = await page.input_value('input[name="Organization"]')
+            valor_hbc = await page.input_value('#HasButtonClick')
+            if promotor_norm not in norm(valor_org):
+                print(f"   ⚠️  Campo Organization não preenchido: {valor_org!r}")
+                await page.wait_for_timeout(2000)
+                continue
+            if valor_hbc != 'True':
+                print(f"   ⚠️  HasButtonClick não setado corretamente: {valor_hbc!r}")
+                await page.wait_for_timeout(2000)
+                continue
+
+            print(f"   ✓ Organization='{valor_org}'  HasButtonClick='{valor_hbc}'")
 
         except Exception as e:
-            print(f"   ⚠️  Erro ao preencher campo: {e}")
-            await page.wait_for_timeout(2000)
-            continue
-
-        # Confirma que o valor foi inserido
-        valor_campo = await page.input_value('input[name="Organization"]')
-        if promotor_norm not in norm(valor_campo):
-            print(f"   ⚠️  Campo com valor inesperado: {valor_campo!r}")
+            print(f"   ⚠️  Erro ao preencher campos: {e}")
             await page.wait_for_timeout(2000)
             continue
 
@@ -257,18 +232,19 @@ async def executar_busca_com_validacao(page, promotor, max_tentativas=4):
             await page.select_option('select[name="fkStatus"]', value='')
         except Exception:
             pass
-        await page.wait_for_timeout(400)
+        await page.wait_for_timeout(300)
 
-        # ── Fecha modal novamente antes de clicar (precaução) ─────────
+        # ── Fecha modal antes de buscar ───────────────────────────────
         await fechar_modais(page)
+        await page.wait_for_timeout(300)
 
-        # Clica em buscar aguardando o botão estar clicável
+        # Dispara a busca via JS chamando ProcessSearch() diretamente.
+        # Isso replica exatamente o onclick do botão, sem depender de clique DOM.
+        # ProcessSearch() seta HasButtonClick='True' e chama ExecSearch().
         try:
-            btn = page.locator('button#btnAuctionSearch')
-            await btn.wait_for(state='visible', timeout=8000)
-            await btn.click(timeout=15000)
+            await page.evaluate("() => { ProcessSearch(); }")
         except Exception as e:
-            print(f"   ⚠️  Erro ao clicar em Buscar: {e}")
+            print(f"   ⚠️  Erro ao chamar ProcessSearch(): {e}")
             await page.wait_for_timeout(3000 * tentativa)
             continue
 
@@ -276,7 +252,7 @@ async def executar_busca_com_validacao(page, promotor, max_tentativas=4):
             await page.wait_for_load_state('networkidle', timeout=25000)
         except Exception:
             pass
-        await page.wait_for_timeout(4000)   # espera extra para tabela atualizar
+        await page.wait_for_timeout(4000)
 
         # Fecha modal que possa ter aparecido após a busca
         await fechar_modais(page)
