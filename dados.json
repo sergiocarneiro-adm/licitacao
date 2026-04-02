@@ -1,10 +1,10 @@
 {
   "metadata": {
     "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-    "total_processos": 749,
-    "total_lotes": 8616,
-    "total_itens": 14245,
-    "atualizado_em": "20260401_212613"
+    "total_processos": 753,
+    "total_lotes": 8621,
+    "total_itens": 14269,
+    "atualizado_em": "20260402_065717"
   },
   "processos": [
     {
@@ -261169,6 +261169,339 @@
               "unidade": "UND",
               "quantidade": "230,00",
               "valor_referencia": "31,60"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CE-005-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "216/2026",
+      "modalidade": "CONCORRÊNCIA ELETRÔNICA",
+      "situacao": "RECEPÇÃO DE PROPOSTAS",
+      "condutor": "DAVIDSON ARAUJO SANTOS",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO PARCELADA",
+      "publicacao": "31/03/2026 16:00",
+      "inicio_recepcao": "01/04/2026 08:00",
+      "fim_recepcao": "12/05/2026 08:15",
+      "inicio_disputa": "12/05/2026 08:30",
+      "objeto": "Contratação de empresa especializada em execução de obras para ampliação de refeitório na Escola Municipal Rachel de Queiroz, localizada no bairro Centro, do município de Teixeira de Freitas – BA.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DWyJkQr1%2Fp%2F0QKA_8s_tVPvqY2VK6ep4rcpr_m5fKQPHD2X4dWuCnIrFv4wrC3z805_LtAWjQuklcD6CSiUBALkq5ZjMgmBNK_yoQcGAtDxg%3D",
+      "total_lotes": 1,
+      "total_itens": 13,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "EXECUÇÃO DE OBRAS PARA AMPLIAÇÃO DE REFEITÓRIO NA ESCOLA MUNICIPAL RACHEL DE QUEIROZ",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "100,00",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "235.249,19",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 13,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "SERVIÇOS PRELIMINARES",
+              "unidade": "SERVIÇO",
+              "quantidade": "1,00",
+              "valor_referencia": "44.778,15"
+            },
+            {
+              "numero": "2",
+              "especificacao": "DEMOLIÇÕES E RETIRADAS",
+              "unidade": "SERVIÇO",
+              "quantidade": "1,00",
+              "valor_referencia": "11.483,38"
+            },
+            {
+              "numero": "3",
+              "especificacao": "MOVIMENTO DE TERRA",
+              "unidade": "SERVIÇO",
+              "quantidade": "1,00",
+              "valor_referencia": "7.822,81"
+            },
+            {
+              "numero": "4",
+              "especificacao": "FUNDAÇÕES",
+              "unidade": "SERVIÇO",
+              "quantidade": "1,00",
+              "valor_referencia": "13.593,14"
+            },
+            {
+              "numero": "5",
+              "especificacao": "SUPERESTRUTURA",
+              "unidade": "SERVIÇO",
+              "quantidade": "1,00",
+              "valor_referencia": "21.043,91"
+            },
+            {
+              "numero": "6",
+              "especificacao": "COBERTURA",
+              "unidade": "SERVIÇO",
+              "quantidade": "1,00",
+              "valor_referencia": "86.685,50"
+            },
+            {
+              "numero": "7",
+              "especificacao": "PAREDES E PAINÉIS",
+              "unidade": "SERVIÇO",
+              "quantidade": "1,00",
+              "valor_referencia": "1.304,48"
+            },
+            {
+              "numero": "8",
+              "especificacao": "REVESTIMENTOS",
+              "unidade": "SERVIÇO",
+              "quantidade": "1,00",
+              "valor_referencia": "32.945,92"
+            },
+            {
+              "numero": "9",
+              "especificacao": "PINTURAS",
+              "unidade": "SERVIÇO",
+              "quantidade": "1,00",
+              "valor_referencia": "2.334,41"
+            },
+            {
+              "numero": "10",
+              "especificacao": "INSTALAÇÕES ELÉTRICAS",
+              "unidade": "SERVIÇO",
+              "quantidade": "1,00",
+              "valor_referencia": "5.472,41"
+            },
+            {
+              "numero": "11",
+              "especificacao": "ÁGUAS PLUVIAIS",
+              "unidade": "SERVIÇO",
+              "quantidade": "1,00",
+              "valor_referencia": "4.530,78"
+            },
+            {
+              "numero": "12",
+              "especificacao": "INSTALAÇÕES DE PREVENÇÃO DE COMBATE A INCÊNDIO E SPDA",
+              "unidade": "SERVIÇO",
+              "quantidade": "1,00",
+              "valor_referencia": "2.961,05"
+            },
+            {
+              "numero": "13",
+              "especificacao": "SERVIÇOS COMPLEMENTARES",
+              "unidade": "SERVIÇO",
+              "quantidade": "1,00",
+              "valor_referencia": "293,25"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-055-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "1366/2025",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "RECEPÇÃO DE PROPOSTAS",
+      "condutor": "JONATAS DA SILVA SOUSA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO PARCELADA",
+      "publicacao": "30/03/2026 18:49",
+      "inicio_recepcao": "01/04/2026 08:30",
+      "fim_recepcao": "16/04/2026 08:15",
+      "inicio_disputa": "16/04/2026 08:30",
+      "objeto": "Contratação de empresa especializada em prestação de serviço de MANUTENÇÃO PREVENTIVA, MANUTENÇÃO CORRETIVA E FORNECIMENTO DE PEÇAS E COMPONENTES ORIGINAIS OU COMPATÍVEIS DE QUALIDADE COMPROVADA DE GERADORES E CÂMARAS FRIAS, a fim de atender as demandas da Secretaria Municipal de Administração e demais Secretarias.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5D8hs5ROLFScOmGj9KVxOYwSYomGQyxs53f_zXRh15jZVaYGdKZnGamE59kKCz4XK%2FhfaBooFo8b7ypbxAGiKHkZtaaFRw5sldBxW01JzMy4g%3D",
+      "total_lotes": 2,
+      "total_itens": 6,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "CAMARAS FRIAS",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 3,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9902900079 MANUTENÇÃO PREVENTIVA EM GERADORES DOMUNICÍPIO:Execução de serviços de manutenção preventiva em geradores de energia elétrica pertencentes ao Município, abrangendo inspeção, limpeza, lubrificação, ajustes e testes de funcionamento, de acordo com as especificações do fabricante e as normas técnicas aplicáveis. O serviço inclui a identificação de componentes desgastados ou com desempenho inferior ao especificado, garantindo a operação confiável e contínua dos equipamentos. Devem ser verificados sistemas elétricos, mecânicos e de combustível, filtros, cabos, conexões e demais elementos críticos, assegurando a eficiência, durabilidade e segurança do gerador. O serviço deverá ser realizado por equipe técnica capacitada, utilizando ferramentas, equipamentos e procedimentos adequados, com emissão de relatório detalhado de todas as ações realizadas.",
+              "unidade": "SERV",
+              "quantidade": "8,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "2",
+              "especificacao": "36333 MANUTENÇÃO CORRETIVA EM GERADORES DOMUNICÍPIO:Execução de serviços de manutenção corretiva em geradores de energia elétrica do Município, abrangendo diagnóstico de falhas, reparos e normas técnicas aplicáveis. Devem ser verificados e reparados sistemas elétricos, mecânicos e de combustível, filtros, cabos, conexões e demais elementos críticos, assegurando eficiência, segurança e confiabilidade do gerador. A execução deverá ser realizada por equipe técnica qualificada, utilizando ferramentas, equipamentos e procedimentos adequados, com emissão de relatório detalhado contendo as falhas identificadas, os serviços realizados",
+              "unidade": "SERV",
+              "quantidade": "16,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "3",
+              "especificacao": "36336 FORNECIMENTO DE PEÇAS E COMPONENTES ORIGINAIS OU COMPATÍVEIS DE QUALIDADE COMPROVADA DEGERADORES:Fornecimento de peças e componentes necessários para manutenção preventiva e corretiva de geradores do Município. Todos os itens fornecidos deverão ser originais ou compatíveis de qualidade comprovada, garantindo a operação eficiente, segura e contínua dos equipamentos.",
+              "unidade": "Und.",
+              "quantidade": "1,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "2",
+          "titulo": "CAMARAS FRIAS",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 3,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "36334 MANUTENÇÃO PREVENTIVA EM CÂMARAS FRIAS DOMUNICÍPIO:Execução de serviços de manutenção preventiva em câmaras frias do Município, abrangendo inspeção, limpeza, ajustes, lubrificação, calibração e testes de funcionamento, de acordo com as especificações do fabricante, normas técnicas aplicáveis e procedimentos necessários para garantir operação adequada e eficiente. O serviço inclui a identificação de peças e componentes desgastados ou com desempenho abaixo do recomendado. Devem ser verificadas todas as partes críticas da câmara fria, incluindo sistemas de refrigeração, compressores, evaporadores, condensadores, válvulas, sensores, cabos e conexões. A manutenção deverá ser realizada por equipe técnica capacitada, utilizando ferramentas e procedimentos apropriados, e acompanhada de relatório detalhado contendo todas as ações realizadas",
+              "unidade": "SERV",
+              "quantidade": "8,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "2",
+              "especificacao": "36335 MANUTENÇÃO CORRETIVA EM CÂMARAS FRIAS DOMUNICÍPIO:Execução de serviços de manutenção corretiva em câmaras frias do Município, abrangendo diagnóstico, reparo e restauração do pleno funcionamento dos equipamentos, de acordo com as especificações do fabricante e normas técnicas aplicáveis. Devem ser verificados e reparados todos os sistemas críticos, incluindo refrigeração, compressores, evaporadores, condensadores, válvulas, sensores, cabos e conexões. A manutenção corretiva deverá ser realizada por equipe técnica capacitada, utilizando ferramentas e procedimentos adequados, e acompanhada de relatório detalhado contendo todas as ações executadas.",
+              "unidade": "SERV",
+              "quantidade": "16,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "3",
+              "especificacao": "9902900080FORNECIMENTO DE PEÇAS E COMPONENTES ORIGINAIS OU COMPATÍVEIS DE QUALIDADE COMPROVADA DE CÂMARASFRIAS:Fornecimento de peças e componentes necessários para manutenção preventiva e corretiva de câmaras frias do Município. Todos os itens fornecidos deverão ser originais ou compatíveis de qualidade comprovada, garantindo a operação eficiente, segura e contínua dos equipamentos",
+              "unidade": "Und.",
+              "quantidade": "1,00",
+              "valor_referencia": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-057-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "326/2026",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "RECEPÇÃO DE PROPOSTAS",
+      "condutor": "SERGIO CARNEIRO CAVALCANTI DE AZEVEDO",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "REGISTRO DE PREÇO",
+      "publicacao": "30/03/2026 18:46",
+      "inicio_recepcao": "01/04/2026 08:30",
+      "fim_recepcao": "14/04/2026 08:15",
+      "inicio_disputa": "14/04/2026 08:30",
+      "objeto": "Contratação de empresa especializada em fornecimento de MATERIAL ASFÁLTICO DO TIPO CONCRETO BETUMINOSO USINADO A QUENTE (CBUQ), preparado com agregados pétreos e cimento asfáltico de petróleo – CAP 50/70, para aplicação a frio (material de consumo), a fim de atender as demandas da Secretaria Municipal de Infraestrutura e Serviços Urbanos.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DejvOU735IdatuDmhD2JrkYu6OEp%2FcOR_NcwALPkwlsiSUXYh6Z_qEZToooF89DCIdWaJjv5K4tZZMuyKtkt6YRelS1VBxKU4WTzupICxMZQ%3D",
+      "total_lotes": 1,
+      "total_itens": 1,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "MATERIAL ASFÁLTICO",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515197 ASFALTO PRONTO:Massa asfáltica usinada aquente. Temperatura aproximada de 119° C, preparada comagregados pétreos, CAP 50/70, teor de Betume emaproximadamente 6%, modicado por polímeros e processos demistura, não emulsionado, que passa 100% na peneira 3/8\", paraaplicação a frio em manutenção de pavimentos (tapa-buracos),que pode ser estocada por até 24 meses, capaz de ser aplicadamesmo em buracos com água, em períodos de chuva, sem aperda de sua coesão e aderência ao pavimento antigo,dispensando pintura de ligação. Embalagem: Saco de Rafia 25kg",
+              "unidade": "UN",
+              "quantidade": "10.000,00",
+              "valor_referencia": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CE-006-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "218/2026",
+      "modalidade": "CONCORRÊNCIA ELETRÔNICA",
+      "situacao": "RECEPÇÃO DE PROPOSTAS",
+      "condutor": "DAVIDSON ARAUJO SANTOS",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO PARCELADA",
+      "publicacao": "30/03/2026 16:23",
+      "inicio_recepcao": "31/03/2026 08:00",
+      "fim_recepcao": "08/05/2026 08:15",
+      "inicio_disputa": "08/05/2026 08:30",
+      "objeto": "Contratação de empresa especializada em execução de obras de microdrenagem e pavimentação da rua Mauá, localizada no Centro, do município de Teixeira de Freitas – BA.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DfVkjWum7qz2fqNP3Kx4r_LgpVyL1pmNKxnyUkXJPPAEXqzgS2Xbou6858GwZzrfOAXOFbC3dw5Zb14ABzY3T_FrqOU2rlNQtG9eKtnEoJNg%3D",
+      "total_lotes": 1,
+      "total_itens": 4,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "EXECUÇÃO DE OBRAS DE MICRODRENAGEM E PAVIMENTAÇÃO DA RUA MAUÁ, LOCALIZADA NO CENTRO",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "1.000,00",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "1.886.275,46",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 4,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "ADMINISTRAÇÃO LOCAL DE OBRA",
+              "unidade": "SERVIÇO",
+              "quantidade": "1,00",
+              "valor_referencia": "264.288,55"
+            },
+            {
+              "numero": "2",
+              "especificacao": "SERVIÇOS PRELIMINARES",
+              "unidade": "SERVIÇO",
+              "quantidade": "1,00",
+              "valor_referencia": "34.011,34"
+            },
+            {
+              "numero": "3",
+              "especificacao": "PAVIMENTAÇÃO",
+              "unidade": "SERVIÇO",
+              "quantidade": "1,00",
+              "valor_referencia": "667.474,53"
+            },
+            {
+              "numero": "4",
+              "especificacao": "MICRODRENAGEM",
+              "unidade": "SERVIÇO",
+              "quantidade": "1,00",
+              "valor_referencia": "920.501,04"
             }
           ]
         }
