@@ -1,10 +1,10 @@
 {
   "metadata": {
     "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-    "total_processos": 753,
-    "total_lotes": 8621,
-    "total_itens": 14269,
-    "atualizado_em": "20260402_065717"
+    "total_processos": 749,
+    "total_lotes": 8616,
+    "total_itens": 14245,
+    "atualizado_em": "20260402_122027"
   },
   "processos": [
     {
@@ -1944,650 +1944,6 @@
               "unidade": "UND",
               "quantidade": "75,00",
               "valor_referencia": "15,21"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "PE-014-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "1688/2025",
-      "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "HABILITAÇÃO",
-      "condutor": "JONATAS DA SILVA SOUSA",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO",
-      "publicacao": "02/02/2026 15:39",
-      "inicio_recepcao": "04/02/2026 08:00",
-      "fim_recepcao": "16/02/2026 08:15",
-      "inicio_disputa": "16/02/2026 08:30",
-      "objeto": "Contratação de empresa especializada em fornecimento de MATERIAIS PARA QUADRAS ESPORTIVAS (material de consumo e permanente), a fim de atender as demandas da Secretaria Municipal de Educação.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5Dvm855qPQLOQO7fXjULV%2Fk_4V6Rx2EXpn0LcTd0wUx8gGmMsargBVgpkBwUQ%2F4n0Bqj6tTSn%2FjfRT8HOPDx4q3kjkXePBd3JeCKZT38S%2FlnM%3D",
-      "total_lotes": 26,
-      "total_itens": 26,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "9900830436 Par de traves oficiais para futsal:fabricadas em tubo de aço galvanizado ou aço carbono com diâmetro mínimo de 3\" (75 mm) e espessura mínima de 2 mm, pintura eletrostática, medidas internas oficiais 3,00 m x 2,00 m (tolerância ± 0,01 m), profun",
-          "fase": "FRACASSADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "38.394,00",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900830436 Par de traves oficiais para futsal:fabricadas em tubo de aço galvanizado ou aço carbono com diâmetro mínimo de 3\" (75 mm) e espessura mínima de 2 mm, pintura eletrostática, medidas internas oficiais 3,00 m x 2,00 m (tolerância ± 0,01 m), profundidade superior >80 m e inferior <1,00 m, reforços estruturais e sistema de fixação seguro. Inclui ferragens de aço inox e proteção anticorrosiva. Garantia mínima de 12 meses.EXCLUSIVO PARA ME/EPP.",
-              "unidade": "PAR",
-              "quantidade": "18,00",
-              "valor_referencia": "2.133,00"
-            }
-          ]
-        },
-        {
-          "numero": "2",
-          "titulo": "36681 Tabela de basquete em acrílico:10 mm de 1.10 x 0.80 c/ aro flexível e rede: tabela confeccionada em acrílico 10mm de 1,10 x 0,80, de alta resistência uv, envolvida por requadro metálico com isolamento anti-choque com pintura em esmalte sintético aut",
-          "fase": "EM ADJUDICAÇÃO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "72.967,50",
-          "vencedor": "TRINCA ESPORTES LTDA",
-          "melhor_oferta": "72.967,50",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "36681 Tabela de basquete em acrílico:10 mm de 1.10 x 0.80 c/ aro flexível e rede: tabela confeccionada em acrílico 10mm de 1,10 x 0,80, de alta resistência uv, envolvida por requadro metálico com isolamento anti-choque com pintura em esmalte sintético automotivo. Aro flexível diâmetro oficial em aço carbono com molas de amortecimento, acabamento em pintura automotiva. Rede 100% polipropileno 4mm. Fixação da tabela na estrutura é feita através de 4 parafusos soldados na distância de 25x25. 4 parafusos para fixação do aro. Garantia: 6 meses.",
-              "unidade": "CJ",
-              "quantidade": "27,00",
-              "valor_referencia": "2.702,50"
-            }
-          ]
-        },
-        {
-          "numero": "3",
-          "titulo": "36682 Rede para trave de futsal:fabricada em nylon ou polietileno de alta densidade (PEAD), fio mínimo 4 mm, malha 10 x 10 cm, tratamento UV, borda reforçada com cordão de 8 mm, dimensões compatíveis com traves oficiais (3,00 m x 2,00 m).Garantia 6 meses",
-          "fase": "FRACASSADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "3.859,56",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "36682 Rede para trave de futsal:fabricada em nylon ou polietileno de alta densidade (PEAD), fio mínimo 4 mm, malha 10 x 10 cm, tratamento UV, borda reforçada com cordão de 8 mm, dimensões compatíveis com traves oficiais (3,00 m x 2,00 m).Garantia 6 meses. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "PAR",
-              "quantidade": "18,00",
-              "valor_referencia": "214,42"
-            }
-          ]
-        },
-        {
-          "numero": "4",
-          "titulo": "36683 Rede para aro de basquete:fabricada em nylon ou polipropileno trançado de alta resistência, espessura mínima 5 mm, 12 laçadas, comprimento 45 cm (± 2 cm), com tratamento UV e acabamento reforçado. Garantia 6 meses. EXCLUSIVO PARA ME/EPP.",
-          "fase": "EM ADJUDICAÇÃO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "1.055,34",
-          "vencedor": "TRINCA ESPORTES LTDA",
-          "melhor_oferta": "849,96",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "36683 Rede para aro de basquete:fabricada em nylon ou polipropileno trançado de alta resistência, espessura mínima 5 mm, 12 laçadas, comprimento 45 cm (± 2 cm), com tratamento UV e acabamento reforçado. Garantia 6 meses. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "PAR",
-              "quantidade": "18,00",
-              "valor_referencia": "58,63"
-            }
-          ]
-        },
-        {
-          "numero": "5",
-          "titulo": "9900515241 Poste de voleibol móvel:em aço tubular reforçado ou alumínio de alta resistência, altura ajustável de 2,00 m a 2,43 m, sistema de regulagem por parafuso ou trava mecânica, base de fixação robusta. Garantia 12 meses. EXCLUSIVO PARA/EPP.",
-          "fase": "FRACASSADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "21.231,00",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900515241 Poste de voleibol móvel:em aço tubular reforçado ou alumínio de alta resistência, altura ajustável de 2,00 m a 2,43 m, sistema de regulagem por parafuso ou trava mecânica, base de fixação robusta. Garantia 12 meses. EXCLUSIVO PARA/EPP.",
-              "unidade": "PAR",
-              "quantidade": "18,00",
-              "valor_referencia": "1.179,50"
-            }
-          ]
-        },
-        {
-          "numero": "6",
-          "titulo": "9900515242 Rede oficial para voleibol:medidas 9,50 m x 1,00 m, malha 10 cm, fio 2 mm, material nylon ou polietileno com tratamento UV, borda reforçada, conforme padrões FIVB. Garantia 12 meses. EXCLUSIVO PARA ME/EPP.",
-          "fase": "EM ADJUDICAÇÃO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "5.166,54",
-          "vencedor": "TRINCA ESPORTES LTDA",
-          "melhor_oferta": "2.449,98",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900515242 Rede oficial para voleibol:medidas 9,50 m x 1,00 m, malha 10 cm, fio 2 mm, material nylon ou polietileno com tratamento UV, borda reforçada, conforme padrões FIVB. Garantia 12 meses. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "UND",
-              "quantidade": "18,00",
-              "valor_referencia": "287,03"
-            }
-          ]
-        },
-        {
-          "numero": "7",
-          "titulo": "9900515243 Antena oficial para voleibol em fibra de vidro maciço:com 1,80 m de comprimento e 10 mm de diâmetro, com demarcações intercaladas nas cores vermelha e branca.EXCLUSIVO PARA ME/EPP.",
-          "fase": "EM ADJUDICAÇÃO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "1.798,20",
-          "vencedor": "MAIS ESPORTE COMERCIO DE ARTIGOS ESPORTIVOS LTDA",
-          "melhor_oferta": "1.456,74",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900515243 Antena oficial para voleibol em fibra de vidro maciço:com 1,80 m de comprimento e 10 mm de diâmetro, com demarcações intercaladas nas cores vermelha e branca.EXCLUSIVO PARA ME/EPP.",
-              "unidade": "PAR",
-              "quantidade": "18,00",
-              "valor_referencia": "99,90"
-            }
-          ]
-        },
-        {
-          "numero": "8",
-          "titulo": "9900515244 Tinta de 18L:para demarcação de quadra, formulação epóxi ou poliuretano bi-componente, específica para piso esportivo, alta aderência e resistência à abrasão, cobertura &#8805; 10 m²/litro, rendimento para futsal, basquete e voleibol. Fornecime",
-          "fase": "FRACASSADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "4.973,58",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900515244 Tinta de 18L:para demarcação de quadra, formulação epóxi ou poliuretano bi-componente, específica para piso esportivo, alta aderência e resistência à abrasão, cobertura &#8805; 10 m²/litro, rendimento para futsal, basquete e voleibol. Fornecimento com acessórios de aplicação (pincéis, rolos).EXCLUSIVO PARA ME/EPP.",
-              "unidade": "LAT",
-              "quantidade": "18,00",
-              "valor_referencia": "276,31"
-            }
-          ]
-        },
-        {
-          "numero": "9",
-          "titulo": "36684 Placar manual portátil:estrutura em PVC, polietileno rígido ou metal leve, dígitos de 20 cm em sistema flip, contagem 0-99, estrutura dobrável com dimensões máximas 60 x 40 cm.Garantia 12 meses. EXCLUSIVO PARA ME/EPP.",
-          "fase": "FRACASSADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "2.376,00",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "36684 Placar manual portátil:estrutura em PVC, polietileno rígido ou metal leve, dígitos de 20 cm em sistema flip, contagem 0-99, estrutura dobrável com dimensões máximas 60 x 40 cm.Garantia 12 meses. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "UND",
-              "quantidade": "18,00",
-              "valor_referencia": "132,00"
-            }
-          ]
-        },
-        {
-          "numero": "10",
-          "titulo": "36685 Bola de Futsal Oficial:circunferência entre 62-64 cm, peso 400-440 g, superfície em PU/PVC de alta resistência, câmara butílica, costura reforçada, 8 gomos, padrão oficial CBF ou equivalente. Garantia 6 meses. EXCLUSIVO PARA ME/EPP.",
-          "fase": "EM ADJUDICAÇÃO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "5.086,75",
-          "vencedor": "TRINCA ESPORTES LTDA",
-          "melhor_oferta": "2.062,50",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "36685 Bola de Futsal Oficial:circunferência entre 62-64 cm, peso 400-440 g, superfície em PU/PVC de alta resistência, câmara butílica, costura reforçada, 8 gomos, padrão oficial CBF ou equivalente. Garantia 6 meses. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "UND",
-              "quantidade": "25,00",
-              "valor_referencia": "203,47"
-            }
-          ]
-        },
-        {
-          "numero": "11",
-          "titulo": "36686 Bola de Basquete Oficial tamanho 7:circunferência conforme norma FIBA (74,9 ±1,5 cm), peso entre 567-650 g, superfície em borracha sintética ou microfibra, câmara de butil, construção vulcanizada. Garantia 6 meses. EXCLUSIVO PARA ME/EPP.",
-          "fase": "EM ADJUDICAÇÃO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "5.316,75",
-          "vencedor": "TRINCA ESPORTES LTDA",
-          "melhor_oferta": "3.650,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "36686 Bola de Basquete Oficial tamanho 7:circunferência conforme norma FIBA (74,9 ±1,5 cm), peso entre 567-650 g, superfície em borracha sintética ou microfibra, câmara de butil, construção vulcanizada. Garantia 6 meses. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "UND",
-              "quantidade": "25,00",
-              "valor_referencia": "212,67"
-            }
-          ]
-        },
-        {
-          "numero": "12",
-          "titulo": "36687 Bola de Basquete Oficial tamanho 6:circunferência conforme norma FIBA (72,4 ±1,5 cm), peso entre 510-567 g, superfície em borracha sintética ou microfibra, câmara de butil. Garantia 6 meses. EXCLUSIVO PARA ME/EPP.",
-          "fase": "EM ADJUDICAÇÃO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "4.826,50",
-          "vencedor": "TRINCA ESPORTES LTDA",
-          "melhor_oferta": "4.650,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "36687 Bola de Basquete Oficial tamanho 6:circunferência conforme norma FIBA (72,4 ±1,5 cm), peso entre 510-567 g, superfície em borracha sintética ou microfibra, câmara de butil. Garantia 6 meses. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "UND",
-              "quantidade": "25,00",
-              "valor_referencia": "193,06"
-            }
-          ]
-        },
-        {
-          "numero": "13",
-          "titulo": "36688 Bola de Voleibol Oficial:circunferência 65-67 cm, peso 260-280 g, 18 gomos, superfície em PU macia, costura reforçada ou termo-fusão, padrão FIVB, câmara de ar com bico de metal. Garantia 6 meses. EXCLUSIVO PARA ME/EPP.",
-          "fase": "EM ADJUDICAÇÃO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "3.941,50",
-          "vencedor": "BROKS COMÉRCIO E IMPORTAÇÃO LTDA",
-          "melhor_oferta": "2.149,75",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "36688 Bola de Voleibol Oficial:circunferência 65-67 cm, peso 260-280 g, 18 gomos, superfície em PU macia, costura reforçada ou termo-fusão, padrão FIVB, câmara de ar com bico de metal. Garantia 6 meses. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "UND",
-              "quantidade": "25,00",
-              "valor_referencia": "157,66"
-            }
-          ]
-        },
-        {
-          "numero": "14",
-          "titulo": "9900515245 Carrinho de transporte de bolas:( material: alumínio), capacidade: 4,70 kg, altura: 87 cm, largura: 53 cm, comprimento: 53 cm, tipo: dobrável e retrátil , características adicionais: bolsa em nylon, 04 rodas em pu com rotação em 360°, aplicaç",
-          "fase": "FRACASSADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "9.238,50",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900515245 Carrinho de transporte de bolas:( material: alumínio), capacidade: 4,70 kg, altura: 87 cm, largura: 53 cm, comprimento: 53 cm, tipo: dobrável e retrátil , características adicionais: bolsa em nylon, 04 rodas em pu com rotação em 360°, aplicação: transporte de bolas. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "UND",
-              "quantidade": "18,00",
-              "valor_referencia": "513,25"
-            }
-          ]
-        },
-        {
-          "numero": "15",
-          "titulo": "9900515247 Chave inglesa em aço cromo-vanádio:tamanho 12\" e 10\", jogo com 2 unidades, acabamento cromado, resistência à corrosão. EXCLUSIVO PARA ME/EPP.",
-          "fase": "FRACASSADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "133,58",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900515247 Chave inglesa em aço cromo-vanádio:tamanho 12\" e 10\", jogo com 2 unidades, acabamento cromado, resistência à corrosão. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "JOG",
-              "quantidade": "2,00",
-              "valor_referencia": "66,79"
-            }
-          ]
-        },
-        {
-          "numero": "16",
-          "titulo": "9900515248 Parafusos de aço inox M6:6mmx20mm, embalagem com 100 unidades, resistência à corrosão. EXCLUSIVO PARA ME/EPP.",
-          "fase": "FRACASSADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "34,91",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900515248 Parafusos de aço inox M6:6mmx20mm, embalagem com 100 unidades, resistência à corrosão. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "CX",
-              "quantidade": "1,00",
-              "valor_referencia": "34,91"
-            }
-          ]
-        },
-        {
-          "numero": "17",
-          "titulo": "36788 Parafusos de aço inox M8:8mmx20mm, embalagem com 100 unidades, resistência à corrosão. EXCLUSIVO PARA ME/EPP.",
-          "fase": "FRACASSADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "38,82",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "36788 Parafusos de aço inox M8:8mmx20mm, embalagem com 100 unidades, resistência à corrosão. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "CX",
-              "quantidade": "1,00",
-              "valor_referencia": "38,82"
-            }
-          ]
-        },
-        {
-          "numero": "18",
-          "titulo": "36789 Parafusos de aço inox M10:10mmx20mm, embalagem com 100 unidades, resistência à corrosão. EXCLUSIVO PARA ME/EPP.",
-          "fase": "FRACASSADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "77,09",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "36789 Parafusos de aço inox M10:10mmx20mm, embalagem com 100 unidades, resistência à corrosão. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "CX",
-              "quantidade": "1,00",
-              "valor_referencia": "77,09"
-            }
-          ]
-        },
-        {
-          "numero": "19",
-          "titulo": "9900515249 Buchas de nylon para amortecimento de impacto:tamanho 6mm, embalagem com 50 unidades. EXCLUSIVO PARA ME/EPP.",
-          "fase": "FRACASSADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "6,18",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900515249 Buchas de nylon para amortecimento de impacto:tamanho 6mm, embalagem com 50 unidades. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "PCT",
-              "quantidade": "1,00",
-              "valor_referencia": "6,18"
-            }
-          ]
-        },
-        {
-          "numero": "20",
-          "titulo": "9900515306 Buchas de nylon para amortecimento de impacto:tamanho 8mm, embalagem com 50 unidades. EXCLUSIVO PARA ME/EPP.",
-          "fase": "FRACASSADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "18,30",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900515306 Buchas de nylon para amortecimento de impacto:tamanho 8mm, embalagem com 50 unidades. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "PCT",
-              "quantidade": "1,00",
-              "valor_referencia": "18,30"
-            }
-          ]
-        },
-        {
-          "numero": "21",
-          "titulo": "36790 Buchas de nylon para amortecimento de impacto:tamanho 10mm, embalagem com 50 unidades. EXCLUSIVO PARA ME/EPP.",
-          "fase": "FRACASSADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "19,93",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "36790 Buchas de nylon para amortecimento de impacto:tamanho 10mm, embalagem com 50 unidades. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "PCT",
-              "quantidade": "1,00",
-              "valor_referencia": "19,93"
-            }
-          ]
-        },
-        {
-          "numero": "22",
-          "titulo": "36689 Bomba de ar manual para encher bolas:construção em alumínio ou aço, capacidade para futsal, basquete e voleibol, com bicos e agulhas removíveis para diferentes válvulas. Agulha rosqueável. EXCLUSIVO PARA ME/EPP.",
-          "fase": "FRACASSADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "254,65",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "36689 Bomba de ar manual para encher bolas:construção em alumínio ou aço, capacidade para futsal, basquete e voleibol, com bicos e agulhas removíveis para diferentes válvulas. Agulha rosqueável. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "UND",
-              "quantidade": "11,00",
-              "valor_referencia": "23,15"
-            }
-          ]
-        },
-        {
-          "numero": "23",
-          "titulo": "36690 Agulhas rosqueáveis para bomba de ar:embalagem com 3 unidades. EXCLUSIVO PARA ME/EPP.",
-          "fase": "EM ADJUDICAÇÃO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "79,31",
-          "vencedor": "MAIS ESPORTE COMERCIO DE ARTIGOS ESPORTIVOS LTDA",
-          "melhor_oferta": "66,99",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "36690 Agulhas rosqueáveis para bomba de ar:embalagem com 3 unidades. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "KIT",
-              "quantidade": "7,00",
-              "valor_referencia": "11,33"
-            }
-          ]
-        },
-        {
-          "numero": "24",
-          "titulo": "36691 Fita métrica de aço com trava:comprimento 5 metros, graduação em centímetros, resistente à oxidação. EXCLUSIVO PARA ME/EPP.",
-          "fase": "EM ADJUDICAÇÃO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "45,18",
-          "vencedor": "MAIS ESPORTE COMERCIO DE ARTIGOS ESPORTIVOS LTDA",
-          "melhor_oferta": "45,06",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "36691 Fita métrica de aço com trava:comprimento 5 metros, graduação em centímetros, resistente à oxidação. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "UND",
-              "quantidade": "3,00",
-              "valor_referencia": "15,06"
-            }
-          ]
-        },
-        {
-          "numero": "25",
-          "titulo": "9900515250 Maleta rígida para armazenamento de ferramentas e acessórios:material polietileno de alta densidade ou alumínio, dimensões 45 x 32 x 15cm, alças reforçadas. EXCLUSIVO PARA ME/EPP.",
-          "fase": "FRACASSADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "376,30",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900515250 Maleta rígida para armazenamento de ferramentas e acessórios:material polietileno de alta densidade ou alumínio, dimensões 45 x 32 x 15cm, alças reforçadas. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "UND",
-              "quantidade": "2,00",
-              "valor_referencia": "188,15"
-            }
-          ]
-        },
-        {
-          "numero": "26",
-          "titulo": "36843 Tabela de basquete em acrilico:10 mm de 1.10 x 0.80 c/ aro flexível e rede: tabela confeccionada em  acrílico 10mm de 1,10 x 0,80, de alta resistência uv, envolvida por requadro metálico com isolamento  anti-choque com pintura em esmalte sintético a",
-          "fase": "FRACASSADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "24.322,50",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "36843 Tabela de basquete em acrilico:10 mm de 1.10 x 0.80 c/ aro flexível e rede: tabela confeccionada em acrílico 10mm de 1,10 x 0,80, de alta resistência uv, envolvida por requadro metálico com isolamento anti-choque com pintura em esmalte sintético automotivo. Aro flexível diâmetro oficial em aço carbono com molas de amortecimento, acabamento em pintura automotiva. Rede 100% polipropileno 4mm. Fixação da tabela na estrutura é feita através de 4 parafusos soldados na distância de 25x25. 4 parafusospara fixação do aro. Garantia: 6 meses COTA DE 25% RESERVADA PARA ME/EPP.",
-              "unidade": "CJ",
-              "quantidade": "9,00",
-              "valor_referencia": "2.702,50"
             }
           ]
         }
@@ -7319,64 +6675,6 @@
               "unidade": "SER",
               "quantidade": "1,00",
               "valor_referencia": "3.000,00"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "CE-026-2025",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "1694/2025",
-      "modalidade": "CONCORRÊNCIA ELETRÔNICA",
-      "situacao": "HABILITAÇÃO",
-      "condutor": "DAVIDSON ARAUJO SANTOS",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO PARCELADA",
-      "publicacao": "30/12/2025 16:50",
-      "inicio_recepcao": "02/01/2026 08:00",
-      "fim_recepcao": "05/02/2026 14:15",
-      "inicio_disputa": "05/02/2026 14:30",
-      "objeto": "Contratação de empresa especializada em execução de obras de pavimentação de diversas ruas nos bairros Liberdade I e II, do município de Teixeira de Freitas – BA.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DF6HtNhHV_au4a5ZlqbWx0kYVJAR5GvYKcctzJ4EPBh3EeOPK3es8VxYM9zvb0_bV5JydJ%2FbgDTH11UZO0eNw6Tu0ytf5ZcAzuMWB6mwGm24%3D",
-      "total_lotes": 1,
-      "total_itens": 3,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "EXECUÇÃO DE OBRAS DE PAVIMENTAÇÃO DE DIVERSAS RUAS NOS BAIRROS LIBERDADE I E II",
-          "fase": "INTERPOSIÇÃO DE RECURSOS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "1.000,00",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "10.000.003,65",
-          "vencedor": "BULOKE CONSTRUCAO E SERVICOS LTDA",
-          "melhor_oferta": "9.399.619,65",
-          "total_itens": 3,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "ADMINISTRAÇÃO LOCAL",
-              "unidade": "UNID.",
-              "quantidade": "1,00",
-              "valor_referencia": "101.492,68"
-            },
-            {
-              "numero": "2",
-              "especificacao": "SERVIÇOS PRELIMINARES",
-              "unidade": "UNID.",
-              "quantidade": "1,00",
-              "valor_referencia": "980.010,97"
-            },
-            {
-              "numero": "3",
-              "especificacao": "PAVIMENTAÇÃO",
-              "unidade": "UNID.",
-              "quantidade": "1,00",
-              "valor_referencia": "8.918.500,00"
             }
           ]
         }
@@ -234876,50 +234174,6 @@
       ]
     },
     {
-      "id": "2-DLE-026-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "94/2026",
-      "modalidade": "DISPENSA ELETRÔNICA",
-      "situacao": "HABILITAÇÃO",
-      "condutor": "ISLA LIMA SILVA",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO PARCELADA",
-      "publicacao": "06/03/2026 12:28",
-      "inicio_recepcao": "06/03/2026 12:35",
-      "fim_recepcao": "12/03/2026 08:15",
-      "inicio_disputa": "12/03/2026 08:30",
-      "objeto": "Contratação de empresas para aquisição de LICENÇAS DE SOFTWARE DIGITAL ADOBE CRIATIVE CLOUD (TODOS OS APPS), Gabinete do Prefeito.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DgXZUBkbUgvfd5dCoFnZpwIz_0h5ItkOmgMLJuWmNf%2FjDrvm24OXE_TgWvPSwTU1ZHYqc7li_a3znC3%2FqrLXEq6TZQTtLvRQmhEfCqCGe57U%3D",
-      "total_lotes": 1,
-      "total_itens": 1,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "ADOBE CRIATIVE CLOUD",
-          "fase": "HABILITAÇÃO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "12.485,90",
-          "vencedor": "NTI BRASIL SOLUÇÕES DIGITAIS LTDA",
-          "melhor_oferta": "12.322,04",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900515327 ADOBE CRIATIVE CLOUD:plano de assinaturaque inclui mais de 20 aplicativos de criação. Estão incluídos osseguintes aplicativos:Acrobat Pro, Photoshop, Illustrator, InDesign, Premiere Pro AfterEffects, Lightroom, XD, Animate, Lightroom Classic,Dreamweaver, Audition, InCopy, Character Animator, Capture,Fresco, Bridge, Adobe Express, Adobe Firefly, PhotoshopExpress, Media Encoder, Aero, Scan, Fill",
-              "unidade": "UN",
-              "quantidade": "2,00",
-              "valor_referencia": "6.242,95"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "3-DLE-016-2026",
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "134/2026",
@@ -257692,57 +256946,6 @@
       ]
     },
     {
-      "id": "2-DLE-033-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "273/2026",
-      "modalidade": "DISPENSA ELETRÔNICA",
-      "situacao": "JULGAMENTO",
-      "condutor": "ISAQUE SILVA DOS SANTOS",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO",
-      "publicacao": "25/03/2026 15:42",
-      "inicio_recepcao": "25/03/2026 15:51",
-      "fim_recepcao": "31/03/2026 08:15",
-      "inicio_disputa": "31/03/2026 08:30",
-      "objeto": "Contratação de empresa especializada em fornecimento de [KIT LANCHE PRONTO E MARMITEX (materiais de consumo)], a fim de atender às necessidades da Secretaria Municipal de Esporte e Lazer.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DYgL0wYsDECNuA0C_HkDIU1NkanDkGu6UrbgC7gJo4ds2KvKEK_GKEMh_lX7uqCE7EMWLPJ20IzGrJqw3%2FLp6PNPtoNX%2FHVADrrhDfzCSMwo%3D",
-      "total_lotes": 1,
-      "total_itens": 2,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "LOTE ÚNICO",
-          "fase": "EM ADJUDICAÇÃO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "13.986,00",
-          "vencedor": "RESTAURANTE DA ZENE LTDA",
-          "melhor_oferta": "10.950,00",
-          "total_itens": 2,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "100800018 LANCHE COMPLETO c/ SUCO NATURAL300ml:(sanduíche: pão fatiado, com maionese, 1 (uma) fatia dequeijo muçarela, 1 (uma) fatia de apresuntado, embalado emplástico filme; suco natural 300ml (trezentos mililitros); 1guardanapo de papel embalado individualmente.",
-              "unidade": "UN",
-              "quantidade": "600,00",
-              "valor_referencia": "11,46"
-            },
-            {
-              "numero": "2",
-              "especificacao": "100800019 MARMITEX COM REFRIGERANTE EM LATA:Arroz,farofa de feijão, macarrão, carne (podendo ser: carne cozida oufrango) e salada; no mínimo 500g; garfo descartável resistente eguardanapo de papel embalados individualmente; Refrigerantelata 350ml.",
-              "unidade": "UN",
-              "quantidade": "300,00",
-              "valor_referencia": "23,70"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "PE-046-2026",
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "210/2026",
@@ -259257,50 +258460,6 @@
               "unidade": "UND",
               "quantidade": "1,00",
               "valor_referencia": "806,47"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "2-DLE-017-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "93/2026",
-      "modalidade": "DISPENSA ELETRÔNICA",
-      "situacao": "DISPUTA",
-      "condutor": "ISLA LIMA SILVA",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO",
-      "publicacao": "02/03/2026 20:08",
-      "inicio_recepcao": "24/03/2026 10:00",
-      "fim_recepcao": "01/04/2026 08:15",
-      "inicio_disputa": "01/04/2026 08:30",
-      "objeto": "Contratação de empresa especializada na prestação de serviço de FORNECIMENTO E INSTALAÇÃO DE ESTRUTURA\nMETÁLICA, a fim de atender as necessidades da Secretaria Municipal de Infraestrutura e Serviços Urbanos.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5D6eo5HWvpZC%2FZu4utgjMVbumTVJEf1Jm2yGRXICD1U2NxfpqzBc%2FmwE75X5xYAKGl4o2OkmaKuVrogfiTwH77fbRfK1Ko4Yv7UPSyVmuOoow%3D",
-      "total_lotes": 1,
-      "total_itens": 1,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "FORNECIMENTO E INSTALAÇÃO DE ESTRUTURA  METÁLICA",
-          "fase": "DISPUTA",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "",
-          "valor_referencia": "14.533,33",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "FORNECIMENTO E INSTALAÇÃO DE ESTRUTURAMETÁLICA, COMPOSTA POR DUAS CHAPASGALVANIZADAS, DESTINADA À INTEGRAÇÃO AOMONUMENTO EM ALVENARIA PARA A COMPOSIÇÃODO MONUMENTO EM HOMENAGEM À BÍBLIA:Serviço defornecimento e instalação de duas chapas galvanizadas,cada uma com dimensões de 1,70 m x 2,00 m,confeccionadas com leve curvatura para representar, deforma plástica, uma folha apoiada sobre a estrutura dealvenaria existente, compondo simbolicamente uma Bíbliaaberta.As chapas deverão receber pintura automotiva na cordourada, com aplicação prévia de plotagem adesiva dosversículos bíblicos diretamente sobre a superfície metálicacrua. Concluída a pintura, a plotagem deverá ser removida,revelando os versículos no tom natural do metal, emcontraste com o acabamento em dourado, conferindodestaque visual e valorização estética ao monumento.Para a correta instalação e fixação das chapas, deverá serexecutada estrutura metálica de sustentação, fabricada emtubos de aço, discretamente posicionada entre as chapas ea alvenaria existente, de forma a permanecer oculta,garantindo estabilidade, segurança, alinhamento adequado eacabamento visual limpo. EXCLUSIVO PARA ME/EPP",
-              "unidade": "SER",
-              "quantidade": "1,00",
-              "valor_referencia": "14.533,33"
             }
           ]
         }
@@ -261175,333 +260334,841 @@
       ]
     },
     {
-      "id": "CE-005-2026",
+      "id": "2-DLE-033-2026",
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "216/2026",
-      "modalidade": "CONCORRÊNCIA ELETRÔNICA",
-      "situacao": "RECEPÇÃO DE PROPOSTAS",
-      "condutor": "DAVIDSON ARAUJO SANTOS",
+      "numero_adm": "273/2026",
+      "modalidade": "DISPENSA ELETRÔNICA",
+      "situacao": "ADJUDICADO",
+      "condutor": "ISAQUE SILVA DOS SANTOS",
       "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO PARCELADA",
-      "publicacao": "31/03/2026 16:00",
-      "inicio_recepcao": "01/04/2026 08:00",
-      "fim_recepcao": "12/05/2026 08:15",
-      "inicio_disputa": "12/05/2026 08:30",
-      "objeto": "Contratação de empresa especializada em execução de obras para ampliação de refeitório na Escola Municipal Rachel de Queiroz, localizada no bairro Centro, do município de Teixeira de Freitas – BA.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DWyJkQr1%2Fp%2F0QKA_8s_tVPvqY2VK6ep4rcpr_m5fKQPHD2X4dWuCnIrFv4wrC3z805_LtAWjQuklcD6CSiUBALkq5ZjMgmBNK_yoQcGAtDxg%3D",
+      "tipo_contrato": "AQUISIÇÃO",
+      "publicacao": "25/03/2026 15:42",
+      "inicio_recepcao": "25/03/2026 15:51",
+      "fim_recepcao": "31/03/2026 08:15",
+      "inicio_disputa": "31/03/2026 08:30",
+      "objeto": "Contratação de empresa especializada em fornecimento de [KIT LANCHE PRONTO E MARMITEX (materiais de consumo)], a fim de atender às necessidades da Secretaria Municipal de Esporte e Lazer.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DXjbCEqbNWbc2T_FVCfZ8OTMSAkRtzB9V9a1CIR4azwFl194Kw7x6zglY1FWh8ChC5AVBCwcFAioM8oVRXIRAI6t1pCIHOYNYipow5vLq5_8%3D",
       "total_lotes": 1,
-      "total_itens": 13,
+      "total_itens": 2,
       "lotes": [
         {
           "numero": "1",
-          "titulo": "EXECUÇÃO DE OBRAS PARA AMPLIAÇÃO DE REFEITÓRIO NA ESCOLA MUNICIPAL RACHEL DE QUEIROZ",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "titulo": "LOTE ÚNICO",
+          "fase": "ADJUDICADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
-          "intervalo_minimo": "100,00",
-          "exclusivo_me": "NÃO",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
-          "valor_referencia": "235.249,19",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 13,
+          "valor_referencia": "13.986,00",
+          "vencedor": "RESTAURANTE DA ZENE LTDA",
+          "melhor_oferta": "10.950,00",
+          "total_itens": 2,
           "itens": [
             {
               "numero": "1",
-              "especificacao": "SERVIÇOS PRELIMINARES",
-              "unidade": "SERVIÇO",
-              "quantidade": "1,00",
-              "valor_referencia": "44.778,15"
+              "especificacao": "100800018 LANCHE COMPLETO c/ SUCO NATURAL300ml:(sanduíche: pão fatiado, com maionese, 1 (uma) fatia dequeijo muçarela, 1 (uma) fatia de apresuntado, embalado emplástico filme; suco natural 300ml (trezentos mililitros); 1guardanapo de papel embalado individualmente.",
+              "unidade": "UN",
+              "quantidade": "600,00",
+              "valor_referencia": "11,46"
             },
             {
               "numero": "2",
-              "especificacao": "DEMOLIÇÕES E RETIRADAS",
-              "unidade": "SERVIÇO",
-              "quantidade": "1,00",
-              "valor_referencia": "11.483,38"
-            },
-            {
-              "numero": "3",
-              "especificacao": "MOVIMENTO DE TERRA",
-              "unidade": "SERVIÇO",
-              "quantidade": "1,00",
-              "valor_referencia": "7.822,81"
-            },
-            {
-              "numero": "4",
-              "especificacao": "FUNDAÇÕES",
-              "unidade": "SERVIÇO",
-              "quantidade": "1,00",
-              "valor_referencia": "13.593,14"
-            },
-            {
-              "numero": "5",
-              "especificacao": "SUPERESTRUTURA",
-              "unidade": "SERVIÇO",
-              "quantidade": "1,00",
-              "valor_referencia": "21.043,91"
-            },
-            {
-              "numero": "6",
-              "especificacao": "COBERTURA",
-              "unidade": "SERVIÇO",
-              "quantidade": "1,00",
-              "valor_referencia": "86.685,50"
-            },
-            {
-              "numero": "7",
-              "especificacao": "PAREDES E PAINÉIS",
-              "unidade": "SERVIÇO",
-              "quantidade": "1,00",
-              "valor_referencia": "1.304,48"
-            },
-            {
-              "numero": "8",
-              "especificacao": "REVESTIMENTOS",
-              "unidade": "SERVIÇO",
-              "quantidade": "1,00",
-              "valor_referencia": "32.945,92"
-            },
-            {
-              "numero": "9",
-              "especificacao": "PINTURAS",
-              "unidade": "SERVIÇO",
-              "quantidade": "1,00",
-              "valor_referencia": "2.334,41"
-            },
-            {
-              "numero": "10",
-              "especificacao": "INSTALAÇÕES ELÉTRICAS",
-              "unidade": "SERVIÇO",
-              "quantidade": "1,00",
-              "valor_referencia": "5.472,41"
-            },
-            {
-              "numero": "11",
-              "especificacao": "ÁGUAS PLUVIAIS",
-              "unidade": "SERVIÇO",
-              "quantidade": "1,00",
-              "valor_referencia": "4.530,78"
-            },
-            {
-              "numero": "12",
-              "especificacao": "INSTALAÇÕES DE PREVENÇÃO DE COMBATE A INCÊNDIO E SPDA",
-              "unidade": "SERVIÇO",
-              "quantidade": "1,00",
-              "valor_referencia": "2.961,05"
-            },
-            {
-              "numero": "13",
-              "especificacao": "SERVIÇOS COMPLEMENTARES",
-              "unidade": "SERVIÇO",
-              "quantidade": "1,00",
-              "valor_referencia": "293,25"
+              "especificacao": "100800019 MARMITEX COM REFRIGERANTE EM LATA:Arroz,farofa de feijão, macarrão, carne (podendo ser: carne cozida oufrango) e salada; no mínimo 500g; garfo descartável resistente eguardanapo de papel embalados individualmente; Refrigerantelata 350ml.",
+              "unidade": "UN",
+              "quantidade": "300,00",
+              "valor_referencia": "23,70"
             }
           ]
         }
       ]
     },
     {
-      "id": "PE-055-2026",
+      "id": "2-DLE-026-2026",
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "1366/2025",
-      "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "RECEPÇÃO DE PROPOSTAS",
-      "condutor": "JONATAS DA SILVA SOUSA",
+      "numero_adm": "94/2026",
+      "modalidade": "DISPENSA ELETRÔNICA",
+      "situacao": "ADJUDICADO",
+      "condutor": "ISLA LIMA SILVA",
       "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
       "tipo_contrato": "AQUISIÇÃO PARCELADA",
-      "publicacao": "30/03/2026 18:49",
-      "inicio_recepcao": "01/04/2026 08:30",
-      "fim_recepcao": "16/04/2026 08:15",
-      "inicio_disputa": "16/04/2026 08:30",
-      "objeto": "Contratação de empresa especializada em prestação de serviço de MANUTENÇÃO PREVENTIVA, MANUTENÇÃO CORRETIVA E FORNECIMENTO DE PEÇAS E COMPONENTES ORIGINAIS OU COMPATÍVEIS DE QUALIDADE COMPROVADA DE GERADORES E CÂMARAS FRIAS, a fim de atender as demandas da Secretaria Municipal de Administração e demais Secretarias.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5D8hs5ROLFScOmGj9KVxOYwSYomGQyxs53f_zXRh15jZVaYGdKZnGamE59kKCz4XK%2FhfaBooFo8b7ypbxAGiKHkZtaaFRw5sldBxW01JzMy4g%3D",
-      "total_lotes": 2,
-      "total_itens": 6,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "CAMARAS FRIAS",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 3,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9902900079 MANUTENÇÃO PREVENTIVA EM GERADORES DOMUNICÍPIO:Execução de serviços de manutenção preventiva em geradores de energia elétrica pertencentes ao Município, abrangendo inspeção, limpeza, lubrificação, ajustes e testes de funcionamento, de acordo com as especificações do fabricante e as normas técnicas aplicáveis. O serviço inclui a identificação de componentes desgastados ou com desempenho inferior ao especificado, garantindo a operação confiável e contínua dos equipamentos. Devem ser verificados sistemas elétricos, mecânicos e de combustível, filtros, cabos, conexões e demais elementos críticos, assegurando a eficiência, durabilidade e segurança do gerador. O serviço deverá ser realizado por equipe técnica capacitada, utilizando ferramentas, equipamentos e procedimentos adequados, com emissão de relatório detalhado de todas as ações realizadas.",
-              "unidade": "SERV",
-              "quantidade": "8,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "2",
-              "especificacao": "36333 MANUTENÇÃO CORRETIVA EM GERADORES DOMUNICÍPIO:Execução de serviços de manutenção corretiva em geradores de energia elétrica do Município, abrangendo diagnóstico de falhas, reparos e normas técnicas aplicáveis. Devem ser verificados e reparados sistemas elétricos, mecânicos e de combustível, filtros, cabos, conexões e demais elementos críticos, assegurando eficiência, segurança e confiabilidade do gerador. A execução deverá ser realizada por equipe técnica qualificada, utilizando ferramentas, equipamentos e procedimentos adequados, com emissão de relatório detalhado contendo as falhas identificadas, os serviços realizados",
-              "unidade": "SERV",
-              "quantidade": "16,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "3",
-              "especificacao": "36336 FORNECIMENTO DE PEÇAS E COMPONENTES ORIGINAIS OU COMPATÍVEIS DE QUALIDADE COMPROVADA DEGERADORES:Fornecimento de peças e componentes necessários para manutenção preventiva e corretiva de geradores do Município. Todos os itens fornecidos deverão ser originais ou compatíveis de qualidade comprovada, garantindo a operação eficiente, segura e contínua dos equipamentos.",
-              "unidade": "Und.",
-              "quantidade": "1,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "2",
-          "titulo": "CAMARAS FRIAS",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 3,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "36334 MANUTENÇÃO PREVENTIVA EM CÂMARAS FRIAS DOMUNICÍPIO:Execução de serviços de manutenção preventiva em câmaras frias do Município, abrangendo inspeção, limpeza, ajustes, lubrificação, calibração e testes de funcionamento, de acordo com as especificações do fabricante, normas técnicas aplicáveis e procedimentos necessários para garantir operação adequada e eficiente. O serviço inclui a identificação de peças e componentes desgastados ou com desempenho abaixo do recomendado. Devem ser verificadas todas as partes críticas da câmara fria, incluindo sistemas de refrigeração, compressores, evaporadores, condensadores, válvulas, sensores, cabos e conexões. A manutenção deverá ser realizada por equipe técnica capacitada, utilizando ferramentas e procedimentos apropriados, e acompanhada de relatório detalhado contendo todas as ações realizadas",
-              "unidade": "SERV",
-              "quantidade": "8,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "2",
-              "especificacao": "36335 MANUTENÇÃO CORRETIVA EM CÂMARAS FRIAS DOMUNICÍPIO:Execução de serviços de manutenção corretiva em câmaras frias do Município, abrangendo diagnóstico, reparo e restauração do pleno funcionamento dos equipamentos, de acordo com as especificações do fabricante e normas técnicas aplicáveis. Devem ser verificados e reparados todos os sistemas críticos, incluindo refrigeração, compressores, evaporadores, condensadores, válvulas, sensores, cabos e conexões. A manutenção corretiva deverá ser realizada por equipe técnica capacitada, utilizando ferramentas e procedimentos adequados, e acompanhada de relatório detalhado contendo todas as ações executadas.",
-              "unidade": "SERV",
-              "quantidade": "16,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "3",
-              "especificacao": "9902900080FORNECIMENTO DE PEÇAS E COMPONENTES ORIGINAIS OU COMPATÍVEIS DE QUALIDADE COMPROVADA DE CÂMARASFRIAS:Fornecimento de peças e componentes necessários para manutenção preventiva e corretiva de câmaras frias do Município. Todos os itens fornecidos deverão ser originais ou compatíveis de qualidade comprovada, garantindo a operação eficiente, segura e contínua dos equipamentos",
-              "unidade": "Und.",
-              "quantidade": "1,00",
-              "valor_referencia": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "PE-057-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "326/2026",
-      "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "RECEPÇÃO DE PROPOSTAS",
-      "condutor": "SERGIO CARNEIRO CAVALCANTI DE AZEVEDO",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "REGISTRO DE PREÇO",
-      "publicacao": "30/03/2026 18:46",
-      "inicio_recepcao": "01/04/2026 08:30",
-      "fim_recepcao": "14/04/2026 08:15",
-      "inicio_disputa": "14/04/2026 08:30",
-      "objeto": "Contratação de empresa especializada em fornecimento de MATERIAL ASFÁLTICO DO TIPO CONCRETO BETUMINOSO USINADO A QUENTE (CBUQ), preparado com agregados pétreos e cimento asfáltico de petróleo – CAP 50/70, para aplicação a frio (material de consumo), a fim de atender as demandas da Secretaria Municipal de Infraestrutura e Serviços Urbanos.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DejvOU735IdatuDmhD2JrkYu6OEp%2FcOR_NcwALPkwlsiSUXYh6Z_qEZToooF89DCIdWaJjv5K4tZZMuyKtkt6YRelS1VBxKU4WTzupICxMZQ%3D",
+      "publicacao": "06/03/2026 12:28",
+      "inicio_recepcao": "06/03/2026 12:35",
+      "fim_recepcao": "12/03/2026 08:15",
+      "inicio_disputa": "12/03/2026 08:30",
+      "objeto": "Contratação de empresas para aquisição de LICENÇAS DE SOFTWARE DIGITAL ADOBE CRIATIVE CLOUD (TODOS OS APPS), Gabinete do Prefeito.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DLJAWk3FwZ7Ib6i7gpL8xGPkcZK7Xxb7Op4zg8B9AAy5LxRpaAtB4KFa7LoaAmfAQzH4GTt0veuc3gUiUMQMpDYQ9zqF7KWSPIxfaos7mfPY%3D",
       "total_lotes": 1,
       "total_itens": 1,
       "lotes": [
         {
           "numero": "1",
-          "titulo": "MATERIAL ASFÁLTICO",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "titulo": "ADOBE CRIATIVE CLOUD",
+          "fase": "ADJUDICADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
-          "intervalo_minimo": "0,00",
+          "intervalo_minimo": "0,01",
           "exclusivo_me": "NÃO",
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
+          "valor_referencia": "12.485,90",
+          "vencedor": "NTI BRASIL SOLUÇÕES DIGITAIS LTDA",
+          "melhor_oferta": "12.322,04",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515327 ADOBE CRIATIVE CLOUD:plano de assinaturaque inclui mais de 20 aplicativos de criação. Estão incluídos osseguintes aplicativos:Acrobat Pro, Photoshop, Illustrator, InDesign, Premiere Pro AfterEffects, Lightroom, XD, Animate, Lightroom Classic,Dreamweaver, Audition, InCopy, Character Animator, Capture,Fresco, Bridge, Adobe Express, Adobe Firefly, PhotoshopExpress, Media Encoder, Aero, Scan, Fill",
+              "unidade": "UN",
+              "quantidade": "2,00",
+              "valor_referencia": "6.242,95"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2-DLE-017-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "93/2026",
+      "modalidade": "DISPENSA ELETRÔNICA",
+      "situacao": "HABILITAÇÃO",
+      "condutor": "ISLA LIMA SILVA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO",
+      "publicacao": "02/03/2026 20:08",
+      "inicio_recepcao": "24/03/2026 10:00",
+      "fim_recepcao": "01/04/2026 08:15",
+      "inicio_disputa": "01/04/2026 08:30",
+      "objeto": "Contratação de empresa especializada na prestação de serviço de FORNECIMENTO E INSTALAÇÃO DE ESTRUTURA\nMETÁLICA, a fim de atender as necessidades da Secretaria Municipal de Infraestrutura e Serviços Urbanos.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DX8veQikLhk07kphXG7iD8t9mmbinIXhgQZmBUspf4BA35WYCun%2FcuF8h27NZyOb2b5oQzNhqpx3%2FfZypBaeGEAHap8Qm1YPSJE_Dcl00asQ%3D",
+      "total_lotes": 1,
+      "total_itens": 1,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "FORNECIMENTO E INSTALAÇÃO DE ESTRUTURA  METÁLICA",
+          "fase": "HABILITAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "",
+          "valor_referencia": "14.533,33",
+          "vencedor": "CIDPS CONSTRUÇÃO CIVIL, ELÉTRICA, HIDRAÚLICA E CONSULTORIA LIMITADA",
+          "melhor_oferta": "11.481,33",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "FORNECIMENTO E INSTALAÇÃO DE ESTRUTURAMETÁLICA, COMPOSTA POR DUAS CHAPASGALVANIZADAS, DESTINADA À INTEGRAÇÃO AOMONUMENTO EM ALVENARIA PARA A COMPOSIÇÃODO MONUMENTO EM HOMENAGEM À BÍBLIA:Serviço defornecimento e instalação de duas chapas galvanizadas,cada uma com dimensões de 1,70 m x 2,00 m,confeccionadas com leve curvatura para representar, deforma plástica, uma folha apoiada sobre a estrutura dealvenaria existente, compondo simbolicamente uma Bíbliaaberta.As chapas deverão receber pintura automotiva na cordourada, com aplicação prévia de plotagem adesiva dosversículos bíblicos diretamente sobre a superfície metálicacrua. Concluída a pintura, a plotagem deverá ser removida,revelando os versículos no tom natural do metal, emcontraste com o acabamento em dourado, conferindodestaque visual e valorização estética ao monumento.Para a correta instalação e fixação das chapas, deverá serexecutada estrutura metálica de sustentação, fabricada emtubos de aço, discretamente posicionada entre as chapas ea alvenaria existente, de forma a permanecer oculta,garantindo estabilidade, segurança, alinhamento adequado eacabamento visual limpo. EXCLUSIVO PARA ME/EPP",
+              "unidade": "SER",
+              "quantidade": "1,00",
+              "valor_referencia": "14.533,33"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-014-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "1688/2025",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "ADJUDICADO",
+      "condutor": "JONATAS DA SILVA SOUSA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO",
+      "publicacao": "02/02/2026 15:39",
+      "inicio_recepcao": "04/02/2026 08:00",
+      "fim_recepcao": "16/02/2026 08:15",
+      "inicio_disputa": "16/02/2026 08:30",
+      "objeto": "Contratação de empresa especializada em fornecimento de MATERIAIS PARA QUADRAS ESPORTIVAS (material de consumo e permanente), a fim de atender as demandas da Secretaria Municipal de Educação.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5D6GUlwL11pWJse3Rk1gb32_ldJMkMSTnC7otXKZ7A9iW2DxfosYUzQRqNPvLlDpJJ1Nu8U%2FkIfvKihONxm0T3NWlsSrjxKAPfOGSgQpO0zUQ%3D",
+      "total_lotes": 26,
+      "total_itens": 26,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "9900830436 Par de traves oficiais para futsal:fabricadas em tubo de aço galvanizado ou aço carbono com diâmetro mínimo de 3\" (75 mm) e espessura mínima de 2 mm, pintura eletrostática, medidas internas oficiais 3,00 m x 2,00 m (tolerância ± 0,01 m), profun",
+          "fase": "FRACASSADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "38.394,00",
           "vencedor": "",
           "melhor_oferta": "0,00",
           "total_itens": 1,
           "itens": [
             {
               "numero": "1",
-              "especificacao": "9900515197 ASFALTO PRONTO:Massa asfáltica usinada aquente. Temperatura aproximada de 119° C, preparada comagregados pétreos, CAP 50/70, teor de Betume emaproximadamente 6%, modicado por polímeros e processos demistura, não emulsionado, que passa 100% na peneira 3/8\", paraaplicação a frio em manutenção de pavimentos (tapa-buracos),que pode ser estocada por até 24 meses, capaz de ser aplicadamesmo em buracos com água, em períodos de chuva, sem aperda de sua coesão e aderência ao pavimento antigo,dispensando pintura de ligação. Embalagem: Saco de Rafia 25kg",
-              "unidade": "UN",
-              "quantidade": "10.000,00",
-              "valor_referencia": ""
+              "especificacao": "9900830436 Par de traves oficiais para futsal:fabricadas em tubo de aço galvanizado ou aço carbono com diâmetro mínimo de 3\" (75 mm) e espessura mínima de 2 mm, pintura eletrostática, medidas internas oficiais 3,00 m x 2,00 m (tolerância ± 0,01 m), profundidade superior >80 m e inferior <1,00 m, reforços estruturais e sistema de fixação seguro. Inclui ferragens de aço inox e proteção anticorrosiva. Garantia mínima de 12 meses.EXCLUSIVO PARA ME/EPP.",
+              "unidade": "PAR",
+              "quantidade": "18,00",
+              "valor_referencia": "2.133,00"
+            }
+          ]
+        },
+        {
+          "numero": "2",
+          "titulo": "36681 Tabela de basquete em acrílico:10 mm de 1.10 x 0.80 c/ aro flexível e rede: tabela confeccionada em acrílico 10mm de 1,10 x 0,80, de alta resistência uv, envolvida por requadro metálico com isolamento anti-choque com pintura em esmalte sintético aut",
+          "fase": "ADJUDICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "72.967,50",
+          "vencedor": "TRINCA ESPORTES LTDA",
+          "melhor_oferta": "72.967,50",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "36681 Tabela de basquete em acrílico:10 mm de 1.10 x 0.80 c/ aro flexível e rede: tabela confeccionada em acrílico 10mm de 1,10 x 0,80, de alta resistência uv, envolvida por requadro metálico com isolamento anti-choque com pintura em esmalte sintético automotivo. Aro flexível diâmetro oficial em aço carbono com molas de amortecimento, acabamento em pintura automotiva. Rede 100% polipropileno 4mm. Fixação da tabela na estrutura é feita através de 4 parafusos soldados na distância de 25x25. 4 parafusos para fixação do aro. Garantia: 6 meses.",
+              "unidade": "CJ",
+              "quantidade": "27,00",
+              "valor_referencia": "2.702,50"
+            }
+          ]
+        },
+        {
+          "numero": "3",
+          "titulo": "36682 Rede para trave de futsal:fabricada em nylon ou polietileno de alta densidade (PEAD), fio mínimo 4 mm, malha 10 x 10 cm, tratamento UV, borda reforçada com cordão de 8 mm, dimensões compatíveis com traves oficiais (3,00 m x 2,00 m).Garantia 6 meses",
+          "fase": "FRACASSADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "3.859,56",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "36682 Rede para trave de futsal:fabricada em nylon ou polietileno de alta densidade (PEAD), fio mínimo 4 mm, malha 10 x 10 cm, tratamento UV, borda reforçada com cordão de 8 mm, dimensões compatíveis com traves oficiais (3,00 m x 2,00 m).Garantia 6 meses. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "PAR",
+              "quantidade": "18,00",
+              "valor_referencia": "214,42"
+            }
+          ]
+        },
+        {
+          "numero": "4",
+          "titulo": "36683 Rede para aro de basquete:fabricada em nylon ou polipropileno trançado de alta resistência, espessura mínima 5 mm, 12 laçadas, comprimento 45 cm (± 2 cm), com tratamento UV e acabamento reforçado. Garantia 6 meses. EXCLUSIVO PARA ME/EPP.",
+          "fase": "ADJUDICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "1.055,34",
+          "vencedor": "TRINCA ESPORTES LTDA",
+          "melhor_oferta": "849,96",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "36683 Rede para aro de basquete:fabricada em nylon ou polipropileno trançado de alta resistência, espessura mínima 5 mm, 12 laçadas, comprimento 45 cm (± 2 cm), com tratamento UV e acabamento reforçado. Garantia 6 meses. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "PAR",
+              "quantidade": "18,00",
+              "valor_referencia": "58,63"
+            }
+          ]
+        },
+        {
+          "numero": "5",
+          "titulo": "9900515241 Poste de voleibol móvel:em aço tubular reforçado ou alumínio de alta resistência, altura ajustável de 2,00 m a 2,43 m, sistema de regulagem por parafuso ou trava mecânica, base de fixação robusta. Garantia 12 meses. EXCLUSIVO PARA/EPP.",
+          "fase": "FRACASSADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "21.231,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515241 Poste de voleibol móvel:em aço tubular reforçado ou alumínio de alta resistência, altura ajustável de 2,00 m a 2,43 m, sistema de regulagem por parafuso ou trava mecânica, base de fixação robusta. Garantia 12 meses. EXCLUSIVO PARA/EPP.",
+              "unidade": "PAR",
+              "quantidade": "18,00",
+              "valor_referencia": "1.179,50"
+            }
+          ]
+        },
+        {
+          "numero": "6",
+          "titulo": "9900515242 Rede oficial para voleibol:medidas 9,50 m x 1,00 m, malha 10 cm, fio 2 mm, material nylon ou polietileno com tratamento UV, borda reforçada, conforme padrões FIVB. Garantia 12 meses. EXCLUSIVO PARA ME/EPP.",
+          "fase": "ADJUDICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "5.166,54",
+          "vencedor": "TRINCA ESPORTES LTDA",
+          "melhor_oferta": "2.449,98",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515242 Rede oficial para voleibol:medidas 9,50 m x 1,00 m, malha 10 cm, fio 2 mm, material nylon ou polietileno com tratamento UV, borda reforçada, conforme padrões FIVB. Garantia 12 meses. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "18,00",
+              "valor_referencia": "287,03"
+            }
+          ]
+        },
+        {
+          "numero": "7",
+          "titulo": "9900515243 Antena oficial para voleibol em fibra de vidro maciço:com 1,80 m de comprimento e 10 mm de diâmetro, com demarcações intercaladas nas cores vermelha e branca.EXCLUSIVO PARA ME/EPP.",
+          "fase": "ADJUDICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "1.798,20",
+          "vencedor": "MAIS ESPORTE COMERCIO DE ARTIGOS ESPORTIVOS LTDA",
+          "melhor_oferta": "1.456,74",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515243 Antena oficial para voleibol em fibra de vidro maciço:com 1,80 m de comprimento e 10 mm de diâmetro, com demarcações intercaladas nas cores vermelha e branca.EXCLUSIVO PARA ME/EPP.",
+              "unidade": "PAR",
+              "quantidade": "18,00",
+              "valor_referencia": "99,90"
+            }
+          ]
+        },
+        {
+          "numero": "8",
+          "titulo": "9900515244 Tinta de 18L:para demarcação de quadra, formulação epóxi ou poliuretano bi-componente, específica para piso esportivo, alta aderência e resistência à abrasão, cobertura &#8805; 10 m²/litro, rendimento para futsal, basquete e voleibol. Fornecime",
+          "fase": "FRACASSADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "4.973,58",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515244 Tinta de 18L:para demarcação de quadra, formulação epóxi ou poliuretano bi-componente, específica para piso esportivo, alta aderência e resistência à abrasão, cobertura &#8805; 10 m²/litro, rendimento para futsal, basquete e voleibol. Fornecimento com acessórios de aplicação (pincéis, rolos).EXCLUSIVO PARA ME/EPP.",
+              "unidade": "LAT",
+              "quantidade": "18,00",
+              "valor_referencia": "276,31"
+            }
+          ]
+        },
+        {
+          "numero": "9",
+          "titulo": "36684 Placar manual portátil:estrutura em PVC, polietileno rígido ou metal leve, dígitos de 20 cm em sistema flip, contagem 0-99, estrutura dobrável com dimensões máximas 60 x 40 cm.Garantia 12 meses. EXCLUSIVO PARA ME/EPP.",
+          "fase": "FRACASSADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "2.376,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "36684 Placar manual portátil:estrutura em PVC, polietileno rígido ou metal leve, dígitos de 20 cm em sistema flip, contagem 0-99, estrutura dobrável com dimensões máximas 60 x 40 cm.Garantia 12 meses. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "18,00",
+              "valor_referencia": "132,00"
+            }
+          ]
+        },
+        {
+          "numero": "10",
+          "titulo": "36685 Bola de Futsal Oficial:circunferência entre 62-64 cm, peso 400-440 g, superfície em PU/PVC de alta resistência, câmara butílica, costura reforçada, 8 gomos, padrão oficial CBF ou equivalente. Garantia 6 meses. EXCLUSIVO PARA ME/EPP.",
+          "fase": "ADJUDICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "5.086,75",
+          "vencedor": "TRINCA ESPORTES LTDA",
+          "melhor_oferta": "2.062,50",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "36685 Bola de Futsal Oficial:circunferência entre 62-64 cm, peso 400-440 g, superfície em PU/PVC de alta resistência, câmara butílica, costura reforçada, 8 gomos, padrão oficial CBF ou equivalente. Garantia 6 meses. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "25,00",
+              "valor_referencia": "203,47"
+            }
+          ]
+        },
+        {
+          "numero": "11",
+          "titulo": "36686 Bola de Basquete Oficial tamanho 7:circunferência conforme norma FIBA (74,9 ±1,5 cm), peso entre 567-650 g, superfície em borracha sintética ou microfibra, câmara de butil, construção vulcanizada. Garantia 6 meses. EXCLUSIVO PARA ME/EPP.",
+          "fase": "ADJUDICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "5.316,75",
+          "vencedor": "TRINCA ESPORTES LTDA",
+          "melhor_oferta": "3.650,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "36686 Bola de Basquete Oficial tamanho 7:circunferência conforme norma FIBA (74,9 ±1,5 cm), peso entre 567-650 g, superfície em borracha sintética ou microfibra, câmara de butil, construção vulcanizada. Garantia 6 meses. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "25,00",
+              "valor_referencia": "212,67"
+            }
+          ]
+        },
+        {
+          "numero": "12",
+          "titulo": "36687 Bola de Basquete Oficial tamanho 6:circunferência conforme norma FIBA (72,4 ±1,5 cm), peso entre 510-567 g, superfície em borracha sintética ou microfibra, câmara de butil. Garantia 6 meses. EXCLUSIVO PARA ME/EPP.",
+          "fase": "ADJUDICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "4.826,50",
+          "vencedor": "TRINCA ESPORTES LTDA",
+          "melhor_oferta": "4.650,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "36687 Bola de Basquete Oficial tamanho 6:circunferência conforme norma FIBA (72,4 ±1,5 cm), peso entre 510-567 g, superfície em borracha sintética ou microfibra, câmara de butil. Garantia 6 meses. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "25,00",
+              "valor_referencia": "193,06"
+            }
+          ]
+        },
+        {
+          "numero": "13",
+          "titulo": "36688 Bola de Voleibol Oficial:circunferência 65-67 cm, peso 260-280 g, 18 gomos, superfície em PU macia, costura reforçada ou termo-fusão, padrão FIVB, câmara de ar com bico de metal. Garantia 6 meses. EXCLUSIVO PARA ME/EPP.",
+          "fase": "ADJUDICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "3.941,50",
+          "vencedor": "BROKS COMÉRCIO E IMPORTAÇÃO LTDA",
+          "melhor_oferta": "2.149,75",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "36688 Bola de Voleibol Oficial:circunferência 65-67 cm, peso 260-280 g, 18 gomos, superfície em PU macia, costura reforçada ou termo-fusão, padrão FIVB, câmara de ar com bico de metal. Garantia 6 meses. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "25,00",
+              "valor_referencia": "157,66"
+            }
+          ]
+        },
+        {
+          "numero": "14",
+          "titulo": "9900515245 Carrinho de transporte de bolas:( material: alumínio), capacidade: 4,70 kg, altura: 87 cm, largura: 53 cm, comprimento: 53 cm, tipo: dobrável e retrátil , características adicionais: bolsa em nylon, 04 rodas em pu com rotação em 360°, aplicaç",
+          "fase": "FRACASSADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "9.238,50",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515245 Carrinho de transporte de bolas:( material: alumínio), capacidade: 4,70 kg, altura: 87 cm, largura: 53 cm, comprimento: 53 cm, tipo: dobrável e retrátil , características adicionais: bolsa em nylon, 04 rodas em pu com rotação em 360°, aplicação: transporte de bolas. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "18,00",
+              "valor_referencia": "513,25"
+            }
+          ]
+        },
+        {
+          "numero": "15",
+          "titulo": "9900515247 Chave inglesa em aço cromo-vanádio:tamanho 12\" e 10\", jogo com 2 unidades, acabamento cromado, resistência à corrosão. EXCLUSIVO PARA ME/EPP.",
+          "fase": "FRACASSADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "133,58",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515247 Chave inglesa em aço cromo-vanádio:tamanho 12\" e 10\", jogo com 2 unidades, acabamento cromado, resistência à corrosão. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "JOG",
+              "quantidade": "2,00",
+              "valor_referencia": "66,79"
+            }
+          ]
+        },
+        {
+          "numero": "16",
+          "titulo": "9900515248 Parafusos de aço inox M6:6mmx20mm, embalagem com 100 unidades, resistência à corrosão. EXCLUSIVO PARA ME/EPP.",
+          "fase": "FRACASSADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "34,91",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515248 Parafusos de aço inox M6:6mmx20mm, embalagem com 100 unidades, resistência à corrosão. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "CX",
+              "quantidade": "1,00",
+              "valor_referencia": "34,91"
+            }
+          ]
+        },
+        {
+          "numero": "17",
+          "titulo": "36788 Parafusos de aço inox M8:8mmx20mm, embalagem com 100 unidades, resistência à corrosão. EXCLUSIVO PARA ME/EPP.",
+          "fase": "FRACASSADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "38,82",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "36788 Parafusos de aço inox M8:8mmx20mm, embalagem com 100 unidades, resistência à corrosão. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "CX",
+              "quantidade": "1,00",
+              "valor_referencia": "38,82"
+            }
+          ]
+        },
+        {
+          "numero": "17",
+          "titulo": "36788 Parafusos de aço inox M8:8mmx20mm, embalagem com 100 unidades, resistência à corrosão. EXCLUSIVO PARA ME/EPP.",
+          "fase": "FRACASSADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "38,82",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "36788 Parafusos de aço inox M8:8mmx20mm, embalagem com 100 unidades, resistência à corrosão. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "CX",
+              "quantidade": "1,00",
+              "valor_referencia": "38,82"
+            }
+          ]
+        },
+        {
+          "numero": "18",
+          "titulo": "36789 Parafusos de aço inox M10:10mmx20mm, embalagem com 100 unidades, resistência à corrosão. EXCLUSIVO PARA ME/EPP.",
+          "fase": "FRACASSADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "77,09",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "36789 Parafusos de aço inox M10:10mmx20mm, embalagem com 100 unidades, resistência à corrosão. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "CX",
+              "quantidade": "1,00",
+              "valor_referencia": "77,09"
+            }
+          ]
+        },
+        {
+          "numero": "20",
+          "titulo": "9900515306 Buchas de nylon para amortecimento de impacto:tamanho 8mm, embalagem com 50 unidades. EXCLUSIVO PARA ME/EPP.",
+          "fase": "FRACASSADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "18,30",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515306 Buchas de nylon para amortecimento de impacto:tamanho 8mm, embalagem com 50 unidades. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "PCT",
+              "quantidade": "1,00",
+              "valor_referencia": "18,30"
+            }
+          ]
+        },
+        {
+          "numero": "21",
+          "titulo": "36790 Buchas de nylon para amortecimento de impacto:tamanho 10mm, embalagem com 50 unidades. EXCLUSIVO PARA ME/EPP.",
+          "fase": "FRACASSADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "19,93",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "36790 Buchas de nylon para amortecimento de impacto:tamanho 10mm, embalagem com 50 unidades. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "PCT",
+              "quantidade": "1,00",
+              "valor_referencia": "19,93"
+            }
+          ]
+        },
+        {
+          "numero": "22",
+          "titulo": "36689 Bomba de ar manual para encher bolas:construção em alumínio ou aço, capacidade para futsal, basquete e voleibol, com bicos e agulhas removíveis para diferentes válvulas. Agulha rosqueável. EXCLUSIVO PARA ME/EPP.",
+          "fase": "FRACASSADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "254,65",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "36689 Bomba de ar manual para encher bolas:construção em alumínio ou aço, capacidade para futsal, basquete e voleibol, com bicos e agulhas removíveis para diferentes válvulas. Agulha rosqueável. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "11,00",
+              "valor_referencia": "23,15"
+            }
+          ]
+        },
+        {
+          "numero": "23",
+          "titulo": "36690 Agulhas rosqueáveis para bomba de ar:embalagem com 3 unidades. EXCLUSIVO PARA ME/EPP.",
+          "fase": "ADJUDICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "79,31",
+          "vencedor": "MAIS ESPORTE COMERCIO DE ARTIGOS ESPORTIVOS LTDA",
+          "melhor_oferta": "66,99",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "36690 Agulhas rosqueáveis para bomba de ar:embalagem com 3 unidades. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "KIT",
+              "quantidade": "7,00",
+              "valor_referencia": "11,33"
+            }
+          ]
+        },
+        {
+          "numero": "24",
+          "titulo": "36691 Fita métrica de aço com trava:comprimento 5 metros, graduação em centímetros, resistente à oxidação. EXCLUSIVO PARA ME/EPP.",
+          "fase": "ADJUDICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "45,18",
+          "vencedor": "MAIS ESPORTE COMERCIO DE ARTIGOS ESPORTIVOS LTDA",
+          "melhor_oferta": "45,06",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "36691 Fita métrica de aço com trava:comprimento 5 metros, graduação em centímetros, resistente à oxidação. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "3,00",
+              "valor_referencia": "15,06"
+            }
+          ]
+        },
+        {
+          "numero": "25",
+          "titulo": "9900515250 Maleta rígida para armazenamento de ferramentas e acessórios:material polietileno de alta densidade ou alumínio, dimensões 45 x 32 x 15cm, alças reforçadas. EXCLUSIVO PARA ME/EPP.",
+          "fase": "FRACASSADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "376,30",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515250 Maleta rígida para armazenamento de ferramentas e acessórios:material polietileno de alta densidade ou alumínio, dimensões 45 x 32 x 15cm, alças reforçadas. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "2,00",
+              "valor_referencia": "188,15"
+            }
+          ]
+        },
+        {
+          "numero": "26",
+          "titulo": "36843 Tabela de basquete em acrilico:10 mm de 1.10 x 0.80 c/ aro flexível e rede: tabela confeccionada em  acrílico 10mm de 1,10 x 0,80, de alta resistência uv, envolvida por requadro metálico com isolamento  anti-choque com pintura em esmalte sintético a",
+          "fase": "FRACASSADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "24.322,50",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "36843 Tabela de basquete em acrilico:10 mm de 1.10 x 0.80 c/ aro flexível e rede: tabela confeccionada em acrílico 10mm de 1,10 x 0,80, de alta resistência uv, envolvida por requadro metálico com isolamento anti-choque com pintura em esmalte sintético automotivo. Aro flexível diâmetro oficial em aço carbono com molas de amortecimento, acabamento em pintura automotiva. Rede 100% polipropileno 4mm. Fixação da tabela na estrutura é feita através de 4 parafusos soldados na distância de 25x25. 4 parafusospara fixação do aro. Garantia: 6 meses COTA DE 25% RESERVADA PARA ME/EPP.",
+              "unidade": "CJ",
+              "quantidade": "9,00",
+              "valor_referencia": "2.702,50"
             }
           ]
         }
       ]
     },
     {
-      "id": "CE-006-2026",
+      "id": "CE-026-2025",
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "218/2026",
+      "numero_adm": "1694/2025",
       "modalidade": "CONCORRÊNCIA ELETRÔNICA",
-      "situacao": "RECEPÇÃO DE PROPOSTAS",
+      "situacao": "ADJUDICADO",
       "condutor": "DAVIDSON ARAUJO SANTOS",
       "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
       "tipo_contrato": "AQUISIÇÃO PARCELADA",
-      "publicacao": "30/03/2026 16:23",
-      "inicio_recepcao": "31/03/2026 08:00",
-      "fim_recepcao": "08/05/2026 08:15",
-      "inicio_disputa": "08/05/2026 08:30",
-      "objeto": "Contratação de empresa especializada em execução de obras de microdrenagem e pavimentação da rua Mauá, localizada no Centro, do município de Teixeira de Freitas – BA.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DfVkjWum7qz2fqNP3Kx4r_LgpVyL1pmNKxnyUkXJPPAEXqzgS2Xbou6858GwZzrfOAXOFbC3dw5Zb14ABzY3T_FrqOU2rlNQtG9eKtnEoJNg%3D",
+      "publicacao": "30/12/2025 16:50",
+      "inicio_recepcao": "02/01/2026 08:00",
+      "fim_recepcao": "05/02/2026 14:15",
+      "inicio_disputa": "05/02/2026 14:30",
+      "objeto": "Contratação de empresa especializada em execução de obras de pavimentação de diversas ruas nos bairros Liberdade I e II, do município de Teixeira de Freitas – BA.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5Dv7ywXNcp_wOC36llm7H86RTFREyR_upGqK2kNL%2FuUgfoZ6u81xY1KGwco_v_dHzwKZmtUSxgQEpZOHFpScfQ42NQcxkCbCs6NV%2FKl2vad8g%3D",
       "total_lotes": 1,
-      "total_itens": 4,
+      "total_itens": 3,
       "lotes": [
         {
           "numero": "1",
-          "titulo": "EXECUÇÃO DE OBRAS DE MICRODRENAGEM E PAVIMENTAÇÃO DA RUA MAUÁ, LOCALIZADA NO CENTRO",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "titulo": "EXECUÇÃO DE OBRAS DE PAVIMENTAÇÃO DE DIVERSAS RUAS NOS BAIRROS LIBERDADE I E II",
+          "fase": "ADJUDICADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "1.000,00",
           "exclusivo_me": "NÃO",
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
-          "valor_referencia": "1.886.275,46",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 4,
+          "valor_referencia": "10.000.003,65",
+          "vencedor": "BULOKE CONSTRUCAO E SERVICOS LTDA",
+          "melhor_oferta": "9.399.619,65",
+          "total_itens": 3,
           "itens": [
             {
               "numero": "1",
-              "especificacao": "ADMINISTRAÇÃO LOCAL DE OBRA",
-              "unidade": "SERVIÇO",
+              "especificacao": "ADMINISTRAÇÃO LOCAL",
+              "unidade": "UNID.",
               "quantidade": "1,00",
-              "valor_referencia": "264.288,55"
+              "valor_referencia": "101.492,68"
             },
             {
               "numero": "2",
               "especificacao": "SERVIÇOS PRELIMINARES",
-              "unidade": "SERVIÇO",
+              "unidade": "UNID.",
               "quantidade": "1,00",
-              "valor_referencia": "34.011,34"
+              "valor_referencia": "980.010,97"
             },
             {
               "numero": "3",
               "especificacao": "PAVIMENTAÇÃO",
-              "unidade": "SERVIÇO",
+              "unidade": "UNID.",
               "quantidade": "1,00",
-              "valor_referencia": "667.474,53"
-            },
-            {
-              "numero": "4",
-              "especificacao": "MICRODRENAGEM",
-              "unidade": "SERVIÇO",
-              "quantidade": "1,00",
-              "valor_referencia": "920.501,04"
+              "valor_referencia": "8.918.500,00"
             }
           ]
         }
