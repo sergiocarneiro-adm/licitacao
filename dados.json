@@ -1,10 +1,10 @@
 {
   "metadata": {
     "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-    "total_processos": 749,
-    "total_lotes": 8616,
-    "total_itens": 14245,
-    "atualizado_em": "20260402_174928"
+    "total_processos": 751,
+    "total_lotes": 8618,
+    "total_itens": 14364,
+    "atualizado_em": "20260403_155411"
   },
   "processos": [
     {
@@ -15100,7 +15100,7 @@
         {
           "numero": "1",
           "titulo": "EXECUÇÃO DE OBRAS DE CONSTRUÇÃO DE UMA PRÉ-ESCOLA",
-          "fase": "JULGAMENTO DE RECURSOS",
+          "fase": "HABILITAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "1.000,00",
@@ -238252,7 +238252,7 @@
         {
           "numero": "5",
           "titulo": "9900100040 ÁCIDO FÓLICO:0,2MG/ML GOTAS. FRASCO30ML. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -238300,7 +238300,7 @@
         {
           "numero": "7",
           "titulo": "9901100307 ÁCIDO:FÓLICO 5MG. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -238420,7 +238420,7 @@
         {
           "numero": "12",
           "titulo": "35791 ALPRAZOLAM:2MG EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -238444,7 +238444,7 @@
         {
           "numero": "13",
           "titulo": "34814 AMIODARONA:200MG. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -238492,7 +238492,7 @@
         {
           "numero": "15",
           "titulo": "9900100042 AMITRIPTILINA:75MG. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -238540,7 +238540,7 @@
         {
           "numero": "17",
           "titulo": "9900515203 AMOXICILINA + CLAVULONATO:de potássio 50 +12,5 mg/ml pó para suspensão oral. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -238612,7 +238612,7 @@
         {
           "numero": "20",
           "titulo": "9900100046 ANLODIPINO BESILATO + CLORIDRATO DE BENAZEPRIL:5MG/10MG. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -238636,7 +238636,7 @@
         {
           "numero": "21",
           "titulo": "9900100047 ANLODIPINO BESILATO + CLORIDRATO DE BENAZEPRIL:5MG/20MG. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -238780,7 +238780,7 @@
         {
           "numero": "27",
           "titulo": "34777 AZITROMICINA:comprimido revestido ou cápsula 500mg.",
-          "fase": "HABILITAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -238788,8 +238788,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "225.171,00",
-          "vencedor": "UNI HOSPITALAR LTDA",
-          "melhor_oferta": "514.140,45",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
           "total_itens": 1,
           "itens": [
             {
@@ -238804,7 +238804,7 @@
         {
           "numero": "28",
           "titulo": "3606 BECLOMETASONA, DIPROPIONATO DE,250MCG/INALAÇÃO-DOSE, AEROSSOL, DOSIMETRADO COM BOCAL PARA 200 EROGA:BECLOMETASONA, DIPROPIONATO DE, 250MCG/INALAÇÃO-DOSE, AEROSSOL, DOSIMETRADO COM BOCAL PARA 200 EROGAÇÕES (INALAÇÃO-DOSE) + ESPAÇADOR, FRASCO. EXCLUSI",
-          "fase": "HABILITAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -238828,7 +238828,7 @@
         {
           "numero": "29",
           "titulo": "9900515204 BECLOMETASONA:AEROSOL 50MCG. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -238900,7 +238900,7 @@
         {
           "numero": "32",
           "titulo": "9900100055 BIPERIDENO:2MG. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -238996,7 +238996,7 @@
         {
           "numero": "36",
           "titulo": "9900100057 BUDESONIDA:50MCG AEROSOL NASAL. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -239020,7 +239020,7 @@
         {
           "numero": "37",
           "titulo": "9900100058 BUPROPIONA:150MG EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -239212,7 +239212,7 @@
         {
           "numero": "45",
           "titulo": "9900100064 CARBONATO DE LÍTIO:300MG. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -239236,7 +239236,7 @@
         {
           "numero": "46",
           "titulo": "9900100065 CARVEDILOL:12,5MG COMP. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -239260,7 +239260,7 @@
         {
           "numero": "47",
           "titulo": "9900100066 CARVEDILOL:25MG. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -239284,7 +239284,7 @@
         {
           "numero": "48",
           "titulo": "9900100067 CARVEDILOL:3,125MG. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -239308,7 +239308,7 @@
         {
           "numero": "49",
           "titulo": "9900100068 CARVEDILOL:6,25MG. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -239548,7 +239548,7 @@
         {
           "numero": "59",
           "titulo": "9900100074 CLONAZEPAM:2MG. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -239620,7 +239620,7 @@
         {
           "numero": "62",
           "titulo": "9900100077 CLONIDINA:0,200MG. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -239668,7 +239668,7 @@
         {
           "numero": "64",
           "titulo": "9900100079 CLORIDRATO DE PIOGLITAZONA:15MG. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -239740,7 +239740,7 @@
         {
           "numero": "67",
           "titulo": "9900100080 CODEINA + PARACETAMOL:comprimido 30 mg +500 mg. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -239764,7 +239764,7 @@
         {
           "numero": "68",
           "titulo": "9900100081 CODEÍNA:30MG COMP. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -239788,7 +239788,7 @@
         {
           "numero": "69",
           "titulo": "9900100082 COMPLEXO B:POLIVITAMÍNICO. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -239836,7 +239836,7 @@
         {
           "numero": "71",
           "titulo": "34840 DEXAMETASONA:0,5MG/5ML ELIXIR. FRASCO COM120ML + COPO DOSADOR. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -239860,7 +239860,7 @@
         {
           "numero": "72",
           "titulo": "34841 DEXAMETASONA:1MG/ML SOL. OFTÁLMICA. Frasco com 5ml. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -239932,7 +239932,7 @@
         {
           "numero": "75",
           "titulo": "9900100085 DEXCLORFERINAMINA:MALEATO 2MG. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -240004,7 +240004,7 @@
         {
           "numero": "78",
           "titulo": "9900100088 DIAZEPAM:solução injetável 5 mg/mL amp 2mL. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -240052,7 +240052,7 @@
         {
           "numero": "80",
           "titulo": "9900100090 DIGOXINA:0,25MG. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -240076,7 +240076,7 @@
         {
           "numero": "81",
           "titulo": "9900100091 DINITRATO DE ISOSSORBIDA:10MG COMP. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -240100,7 +240100,7 @@
         {
           "numero": "82",
           "titulo": "9900100092 DINITRATO DE ISOSSORBIDA:5MG COMP. SUBLINGUAL.",
-          "fase": "HABILITAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -240172,7 +240172,7 @@
         {
           "numero": "85",
           "titulo": "9900100093 DIPIRONA:500MG/ML GOTAS FRASCO 10ML. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -240196,7 +240196,7 @@
         {
           "numero": "86",
           "titulo": "9900100094 DOXAZOSINA:2MG. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -240220,7 +240220,7 @@
         {
           "numero": "87",
           "titulo": "9900100095 DOXAZOSINA:4MG. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -240268,7 +240268,7 @@
         {
           "numero": "89",
           "titulo": "36637 ENALAPRIL:20MG.",
-          "fase": "HABILITAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -240292,7 +240292,7 @@
         {
           "numero": "90",
           "titulo": "9900100097 ENALAPRIL:5MG. EXCLUSIVO PARA ME/EPP",
-          "fase": "HABILITAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -240316,7 +240316,7 @@
         {
           "numero": "91",
           "titulo": "9900100098 EPINEFRINA:1 MG / ML (ADRENALINA) - AMPOLA 1ML. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -240340,7 +240340,7 @@
         {
           "numero": "92",
           "titulo": "9900100099 ESCOPOLAMINA:20MG/ML AMPOLA 1ML. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -240436,7 +240436,7 @@
         {
           "numero": "96",
           "titulo": "9900100101 ESPIRONOLACTONA:25MG. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -240460,7 +240460,7 @@
         {
           "numero": "97",
           "titulo": "9900515200 ETINIL+LEVONORGESTREL:(0,03MG + 0,15MG) CART C/21 DRG. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -240508,7 +240508,7 @@
         {
           "numero": "99",
           "titulo": "9901100215 FENOBARBITAL:100MG. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -240532,7 +240532,7 @@
         {
           "numero": "100",
           "titulo": "9900100103 FENOBARBITAL:40 MG/ML GOTAS. Frasco com20ml. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -240556,7 +240556,7 @@
         {
           "numero": "101",
           "titulo": "9900100105 FINASTERIDA:5MG. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -240628,7 +240628,7 @@
         {
           "numero": "104",
           "titulo": "9900100108 FOLINATO DE CÁLCIO:15MG. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -240652,7 +240652,7 @@
         {
           "numero": "105",
           "titulo": "9900100109 FUROSEMIDA:40MG COMP. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -240724,7 +240724,7 @@
         {
           "numero": "108",
           "titulo": "34853 GLICLAZIDA:30MG COMP. LIB.PROLONGADA.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -240732,8 +240732,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "107.213,70",
-          "vencedor": "MEDH DISTRIBUIDORA DE MEDICAMENTOS LTDA",
-          "melhor_oferta": "155.947,20",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
           "total_itens": 1,
           "itens": [
             {
@@ -240820,7 +240820,7 @@
         {
           "numero": "112",
           "titulo": "35793 HALOPERIDOL:1MG. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -240844,7 +240844,7 @@
         {
           "numero": "113",
           "titulo": "9900100111 HALOPERIDOL:2MG/ML GOTAS FRASCO 20ML. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -241084,7 +241084,7 @@
         {
           "numero": "123",
           "titulo": "9900100116 ISOSSORBIDA:10MG. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -241108,7 +241108,7 @@
         {
           "numero": "124",
           "titulo": "35797 ITRACONAZOL:100MG. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -241116,8 +241116,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "40.209,52",
-          "vencedor": "GALLI E LIOTTO  COMERCIO DE PRODUTOS HOSPITALARES LTDA",
-          "melhor_oferta": "50.507,08",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
           "total_itens": 1,
           "itens": [
             {
@@ -241132,7 +241132,7 @@
         {
           "numero": "125",
           "titulo": "35798 IVERMECTINA:6MG. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -241276,7 +241276,7 @@
         {
           "numero": "131",
           "titulo": "35801 LEVOTIROXINA SODICA:25MCG. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -241300,7 +241300,7 @@
         {
           "numero": "132",
           "titulo": "35802 LEVOTIROXINA SODICA:50MCG. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -241308,8 +241308,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "15.217,20",
-          "vencedor": "VERTICE MEDICAMENTOS LTDA",
-          "melhor_oferta": "18.035,20",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
           "total_itens": 1,
           "itens": [
             {
@@ -241324,7 +241324,7 @@
         {
           "numero": "133",
           "titulo": "9900100120 LORATADINA:10MG. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -241348,7 +241348,7 @@
         {
           "numero": "134",
           "titulo": "36639 LORATADINA:1mg/ml, xarope 100mL+ copo dosador. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -241444,7 +241444,7 @@
         {
           "numero": "138",
           "titulo": "34802 METILDOPA:250MG.",
-          "fase": "HABILITAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -241452,8 +241452,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "104.529,60",
-          "vencedor": "VERTICE MEDICAMENTOS LTDA",
-          "melhor_oferta": "241.724,70",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
           "total_itens": 1,
           "itens": [
             {
@@ -241564,7 +241564,7 @@
         {
           "numero": "143",
           "titulo": "9900100123 METOPROLOL:100MG. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -241588,7 +241588,7 @@
         {
           "numero": "144",
           "titulo": "9900100124 METOPROLOL:25MG. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -241684,7 +241684,7 @@
         {
           "numero": "148",
           "titulo": "9900100127 METRONIDAZOL:250MG. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -241732,7 +241732,7 @@
         {
           "numero": "150",
           "titulo": "34796 MICONAZOL:NITRATO 2% CREME VAGINAL.",
-          "fase": "HABILITAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -241740,8 +241740,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "107.264,34",
-          "vencedor": "COMERCIAL CIRURGICA RIOCLARENSE LTDA.",
-          "melhor_oferta": "362.872,98",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
           "total_itens": 1,
           "itens": [
             {
@@ -241756,7 +241756,7 @@
         {
           "numero": "151",
           "titulo": "34867 MORFINA:10MG COMP. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -241780,7 +241780,7 @@
         {
           "numero": "152",
           "titulo": "34868 MORFINA:30MG COMP. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -241828,7 +241828,7 @@
         {
           "numero": "154",
           "titulo": "9900100129 NEBIVOLOL:5MG. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -241876,7 +241876,7 @@
         {
           "numero": "156",
           "titulo": "9900100131 NIFEDIPINA:capsulas ou comprimido 10mg. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -241900,7 +241900,7 @@
         {
           "numero": "157",
           "titulo": "9900100132 NISTATINA:100.000UI/ML FRASCO 50ML SUSPENSAO ORAL. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -241924,7 +241924,7 @@
         {
           "numero": "158",
           "titulo": "9900100133 NITROFURANTOINA:100MG. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -241948,7 +241948,7 @@
         {
           "numero": "159",
           "titulo": "9900100134 NORETISTERONA:0,35MG CART C/35 DRG.EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -241972,7 +241972,7 @@
         {
           "numero": "160",
           "titulo": "9900515207 NORETISTERONA+ESTRADIOL:50+5MG SOL INJ.",
-          "fase": "HABILITAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -241980,8 +241980,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "106.461,96",
-          "vencedor": "VERTICE MEDICAMENTOS LTDA",
-          "melhor_oferta": "328.080,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
           "total_itens": 1,
           "itens": [
             {
@@ -241996,7 +241996,7 @@
         {
           "numero": "161",
           "titulo": "9900100135 NORTRIPTILINA:10MG. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -242092,7 +242092,7 @@
         {
           "numero": "165",
           "titulo": "9900515208 OMEPRAZOL:40MG INJ FRASCO-AMPOLA 10ML. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -242116,7 +242116,7 @@
         {
           "numero": "166",
           "titulo": "9900100139 ONDANSENTRONA:solucao injetavel 2mg/ml ampola 4 Ml. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -242140,7 +242140,7 @@
         {
           "numero": "167",
           "titulo": "9900100140 ONDANSETRONA:2MG/ML. Ampola de 2Ml. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -242164,7 +242164,7 @@
         {
           "numero": "168",
           "titulo": "9900100141 ONDANSETRONA:8MG. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -242172,8 +242172,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "2.600,00",
-          "vencedor": "VERTICE MEDICAMENTOS LTDA",
-          "melhor_oferta": "6.000,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
           "total_itens": 1,
           "itens": [
             {
@@ -242188,7 +242188,7 @@
         {
           "numero": "169",
           "titulo": "9900100142 OXIBUTININA:1MG/ML SOLUÇÃO ORAL 120ml. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -242236,7 +242236,7 @@
         {
           "numero": "171",
           "titulo": "9900100145 PARACETAMOL:solução oral, gotas 200mg/ml: FRASCO COM 15ML. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -242260,7 +242260,7 @@
         {
           "numero": "172",
           "titulo": "9900100149 PERMAGANATO DE POTÁSSIO:100MG. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -242308,7 +242308,7 @@
         {
           "numero": "174",
           "titulo": "36640 PREDNISOLONA:SOLUÇÃO ORAL 1,34MG/ML.",
-          "fase": "HABILITAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -242332,7 +242332,7 @@
         {
           "numero": "175",
           "titulo": "35806 PREDNISONA:20mg comprimido. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -242404,7 +242404,7 @@
         {
           "numero": "178",
           "titulo": "9900100147 PROMETAZlNA:25MG/ML AMPOLA 2ML. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -242428,7 +242428,7 @@
         {
           "numero": "179",
           "titulo": "9900100148 PROPAFENONA cloridrato:comprimido 150mg. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -242452,7 +242452,7 @@
         {
           "numero": "180",
           "titulo": "319 PROPAFENONA, cloridrato de, comprimido 300mg:. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -242476,7 +242476,7 @@
         {
           "numero": "181",
           "titulo": "9900100154 PROPRANOLOL:40MG. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -242500,7 +242500,7 @@
         {
           "numero": "182",
           "titulo": "9900100155 RANITIDINA:25MG/ML  - AMPOLA 2ML. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -242524,7 +242524,7 @@
         {
           "numero": "183",
           "titulo": "34785 RISPERIDONA:1MG. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -242548,7 +242548,7 @@
         {
           "numero": "184",
           "titulo": "34784 RISPERIDONA:1MG/ML. SOLUÇÃO ORAL FRASCO COM 30ML. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -242692,7 +242692,7 @@
         {
           "numero": "190",
           "titulo": "9900100152 SERTRALINA:50MG. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -242700,8 +242700,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "34.488,00",
-          "vencedor": "VERTICE MEDICAMENTOS LTDA",
-          "melhor_oferta": "39.862,38",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
           "total_itens": 1,
           "itens": [
             {
@@ -242716,7 +242716,7 @@
         {
           "numero": "191",
           "titulo": "9900100159 SIMETICONA:125MG. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -242740,7 +242740,7 @@
         {
           "numero": "192",
           "titulo": "9901100208 SIMETICONA:solução oral 75mg/mL fr. com 10mL. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -242764,7 +242764,7 @@
         {
           "numero": "193",
           "titulo": "34880 SINVASTATINA:20MG. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -242836,7 +242836,7 @@
         {
           "numero": "196",
           "titulo": "9900100156 SULFADIAZINA:500MG. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -242860,7 +242860,7 @@
         {
           "numero": "197",
           "titulo": "36642 SULFAMETOXAZOL+TRIMETOPRIMA:SUSPENSÃO ORAL 40MG+8MG/ML FR COM 50ML. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -242932,7 +242932,7 @@
         {
           "numero": "200",
           "titulo": "9900100158 TANSULOSINA:0,4MG. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -242980,7 +242980,7 @@
         {
           "numero": "202",
           "titulo": "35786 TIAMINA:300MG. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -243124,7 +243124,7 @@
         {
           "numero": "208",
           "titulo": "9900100166 VALPROATO DE SÓDIO:250MG/5ML. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -243220,7 +243220,7 @@
         {
           "numero": "212",
           "titulo": "36905 AMOXICILINA:50MG/ML:SUSP ORAL. Frasco com 60ML+ copo dosador. COTA DE 25% RESERVADA PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -243228,8 +243228,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "35.000,00",
-          "vencedor": "MS HOSPITALAR EIRELI",
-          "melhor_oferta": "41.200,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
           "total_itens": 1,
           "itens": [
             {
@@ -243268,7 +243268,7 @@
         {
           "numero": "214",
           "titulo": "9909911306 AZITROMICINA 500mg.:comprimido revestido ou cápsula 500mg. COTA DE 25% RESERVADA PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -243412,7 +243412,7 @@
         {
           "numero": "220",
           "titulo": "9909911309 CLOMIPRAMINA: 25MG.:CLOMIPRAMINA: 25MG. COTA DE 25% RESERVADA PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -243484,7 +243484,7 @@
         {
           "numero": "223",
           "titulo": "9909911312 ENALAPRIL:20MG.:ENALAPRIL:20MG. COTA DE25% RESERVADA PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -243492,8 +243492,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "26.344,50",
-          "vencedor": "MS HOSPITALAR EIRELI",
-          "melhor_oferta": "31.613,40",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
           "total_itens": 1,
           "itens": [
             {
@@ -243508,7 +243508,7 @@
         {
           "numero": "224",
           "titulo": "9909911313 ESCOPOLAMINA: butilbrometo 10 MG + DIPIRONA 250 MG Comprimido.:ESCOPOLAMINA:butilbrometo 10 MG + DIPIRONA 250 MG Comprimido. COTA DE 25% RESERVADA PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -243580,7 +243580,7 @@
         {
           "numero": "227",
           "titulo": "9909911315 GLICLAZIDA:60MG COMP. LIB.PROLONGADA:GLICLAZIDA:60MG COMP. LIB.PROLONGADA. COTA DE 25% RESERVADA PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -243676,7 +243676,7 @@
         {
           "numero": "231",
           "titulo": "9909911316 LOSARTANA: POTÁSSICA 50MG.:LOSARTANA: POTÁSSICA 50MG. COTA DE 25% RESERVADA PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -243748,7 +243748,7 @@
         {
           "numero": "234",
           "titulo": "9909911319 METILDOPA:250MG:METILDOPA:250MG COTA DE 25% RESERVADA PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -243796,7 +243796,7 @@
         {
           "numero": "236",
           "titulo": "9909911321 MICONAZOL: NITRATO 2%  CREME VAGINAL.:MICONAZOL: NITRATO 2%  CREME VAGINAL. COTA DE 25% RESERVADA PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -243804,8 +243804,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "35.754,78",
-          "vencedor": "MS HOSPITALAR EIRELI",
-          "melhor_oferta": "177.506,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
           "total_itens": 1,
           "itens": [
             {
@@ -243820,7 +243820,7 @@
         {
           "numero": "237",
           "titulo": "9909911322 NEOMICINA:sulfato de + bacitracina (5mg+250UI)/g pomada, tubo com 10 gramas.:NEOMICINA:sulfato de+ bacitracina (5mg +250UI)/g pomada, tubo com 10 gramas. COTA DE 25% RESERVADA PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -243828,8 +243828,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "20.432,88",
-          "vencedor": "MS HOSPITALAR EIRELI",
-          "melhor_oferta": "20.616,96",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
           "total_itens": 1,
           "itens": [
             {
@@ -243844,7 +243844,7 @@
         {
           "numero": "238",
           "titulo": "9909911323 NORETISTERONA+ESTRADIOL: 50+5MG SOL INJ.:NORETISTERONA+ESTRADIOL: 50+5MG SOL INJ. COTA DE 25% RESERVADA PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -243868,7 +243868,7 @@
         {
           "numero": "239",
           "titulo": "9909911324 OMEPRAZOL:20MG CÁPSULA.:OMEPRAZOL:20MG CÁPSULA. COTA DE 25% RESERVADA PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -243876,8 +243876,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "26.250,00",
-          "vencedor": "VERTICE MEDICAMENTOS LTDA",
-          "melhor_oferta": "30.000,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
           "total_itens": 1,
           "itens": [
             {
@@ -243892,7 +243892,7 @@
         {
           "numero": "240",
           "titulo": "9909911325 PREDNISOLONA:SOLUÇÃO ORAL1,34MG/ML:PREDNISOLONA:SOLUÇÃO ORAL 1,34MG/ML. COTA DE 25% RESERVADA PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -243940,7 +243940,7 @@
         {
           "numero": "242",
           "titulo": "9909911327 VALPROATO DE SÓDIO: 500MG.:VALPROATO DE SÓDIO: 500MG. COTA DE 25% RESERVADA PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -254082,7 +254082,7 @@
         {
           "numero": "1",
           "titulo": "LOTE 1",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,00",
@@ -254090,8 +254090,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "517.920,00",
-          "vencedor": "EVOLUT CONSTRUTORA LTDA",
-          "melhor_oferta": "477.000,00",
+          "vencedor": "COUTO RESTAURANTE LTDA",
+          "melhor_oferta": "514.600,00",
           "total_itens": 8,
           "itens": [
             {
@@ -254348,7 +254348,7 @@
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "44.100,00",
           "vencedor": "ENGEFER.MDS LTDA",
-          "melhor_oferta": "71.890,00",
+          "melhor_oferta": "44.100,00",
           "total_itens": 1,
           "itens": [
             {
@@ -254387,7 +254387,7 @@
         {
           "numero": "8",
           "titulo": "36541 TOLDO 6,26 M x 2,50 M:Estrutura metálica confeccionada em aço (galvanizado ou com tratamento equivalente);Tubos em aço com diâmetros compatíveis para sustentação da carga;Cobertura confeccionada em lona PVC, com tratamento anti-UV, gramatura compa",
-          "fase": "HABILITAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -254395,8 +254395,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "2.500,00",
-          "vencedor": "DIPAR FERRAGENS EIRELI",
-          "melhor_oferta": "40.000,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
           "total_itens": 1,
           "itens": [
             {
@@ -254847,8 +254847,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "47.414,00",
-          "vencedor": "58.751.062 PALMIRA RODRIGUES DA SILVA",
-          "melhor_oferta": "149.000,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
           "total_itens": 1,
           "itens": [
             {
@@ -255322,7 +255322,7 @@
         {
           "numero": "3",
           "titulo": "9900515342 Placa BMS (Battery Management System) 3S:40 Amperes, 12,6 volts, com circuito de detecção de tensão de alta precisão, proteção contra descarga excessiva, sobrecorrente, sobrecarga e controle de temperatura, garantindo segurança e confiabilidade",
-          "fase": "HABILITAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -255330,8 +255330,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "208,30",
-          "vencedor": "INFORCOLOR INFORMATICA LTDA",
-          "melhor_oferta": "875,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
           "total_itens": 1,
           "itens": [
             {
@@ -255370,7 +255370,7 @@
         {
           "numero": "5",
           "titulo": "9900515344 Placa de proteção BMS 13S:48 volts, 35 Amperes, com função de equilíbrio ativo para baterias de íon de lítio, compatível com células ternárias de 3,7 volts, protegida contra sobrecarga, sobrecorrente e aquecimento, corrente de descarga contínua",
-          "fase": "HABILITAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -255378,8 +255378,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "553,40",
-          "vencedor": "INFORCOLOR INFORMATICA LTDA",
-          "melhor_oferta": "8.300,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
           "total_itens": 1,
           "itens": [
             {
@@ -255418,7 +255418,7 @@
         {
           "numero": "7",
           "titulo": "36854 Carregador portátil power bank:capacidade nominal mínima de 20.000 mAh, com entrada USB Tipo-C ou Micro USB (5V/2A), saída em duas portas USB padrão A ou C (mínimo 5V/2.1A), proteção contra sobrecarga, sobretensão, sobrecorrente e curto-circuito, co",
-          "fase": "HABILITAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -255426,8 +255426,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "287,20",
-          "vencedor": "INFORCOLOR INFORMATICA LTDA",
-          "melhor_oferta": "200,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
           "total_itens": 1,
           "itens": [
             {
@@ -255442,7 +255442,7 @@
         {
           "numero": "8",
           "titulo": "9900515346 Roteador Wi-Fi dual band AC 1200 Mbps:modelo W5-1200GS ou equivalente, com quatro antenas externas, suporte para até 64 dispositivos simultâneos (32 em 2,4 GHz e 32 em 5 GHz), cobertura expandida via tecnologia inMesh, compatível com planos de",
-          "fase": "HABILITAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -255450,8 +255450,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "266,19",
-          "vencedor": "INFORCOLOR INFORMATICA LTDA",
-          "melhor_oferta": "300,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
           "total_itens": 1,
           "itens": [
             {
@@ -255466,7 +255466,7 @@
         {
           "numero": "9",
           "titulo": "9900515347 Carregador inteligente para 12 baterias:com fonte inclusa, tensão de entrada de 12 volts e saída de 1,5 volts, compatível com baterias do tipo 26650. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -255474,8 +255474,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "237,57",
-          "vencedor": "INFORCOLOR INFORMATICA LTDA",
-          "melhor_oferta": "900,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
           "total_itens": 1,
           "itens": [
             {
@@ -255514,7 +255514,7 @@
         {
           "numero": "11",
           "titulo": "36856 Testador de células de lítio:150 watts, até 20 amperes, com monitoramento por 4 fios, corrente contínua, entrada USB, função de carga eletrônica e monitoramento via aplicativo desktop. Possui proteção contra sobrecorrente, sobretemperatura e sobreca",
-          "fase": "HABILITAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -255522,8 +255522,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "806,47",
-          "vencedor": "INFORCOLOR INFORMATICA LTDA",
-          "melhor_oferta": "370,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
           "total_itens": 1,
           "itens": [
             {
@@ -255558,7 +255558,7 @@
         {
           "numero": "1",
           "titulo": "5101000006 ALICATE UNIVERSAL::Material: Cromo Vanádio. Multifuncional 9 Pol. fazer funções de fixação (descasque de fios e super fixação), chave (apertar ou desapertar), corte (arames, fios), crimpagem (fios de fixação, flexão, descascar, friso) e decapag",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -255566,8 +255566,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "203,01",
-          "vencedor": "BRAXPARK MÁQUINAS E EQUIPAMENTOS LTDA",
-          "melhor_oferta": "9.000,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
           "total_itens": 1,
           "itens": [
             {
@@ -255606,7 +255606,7 @@
         {
           "numero": "3",
           "titulo": "5304000202 BROCAS VIDEA SDS PLUS 10mm X 300mm:paramartelete rompedor. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -255614,8 +255614,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "80,60",
-          "vencedor": "DIPAR FERRAGENS EIRELI",
-          "melhor_oferta": "80.000,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
           "total_itens": 1,
           "itens": [
             {
@@ -255630,7 +255630,7 @@
         {
           "numero": "4",
           "titulo": "5304000203 BUCHA PLÁSTICA DE FIXAÇÃO 10MM COMANEL:Embalagem com 100 unidades. Buchas de fixação 10 mm com anel. Indicada para fixações em concreto e alvenaria.Diâmetro da bucha: 6 mm Material da bucha: Plástico. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -255638,8 +255638,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "429,00",
-          "vencedor": "JPC COMÉRCIO DE PEÇAS E PRESTAÇÃO DE SERVIÇOS LTDA",
-          "melhor_oferta": "1.250,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
           "total_itens": 1,
           "itens": [
             {
@@ -255654,7 +255654,7 @@
         {
           "numero": "5",
           "titulo": "5304000204 BUCHA PLÁSTICA DE FIXAÇÃO 6MM COMANEL:Embalagem com 100 unidades. Buchas de fixação 6 mm com anel. Indicada para fixações em concreto e alvenaria.Diâmetro da bucha: 6 mm Material da bucha: Plástico. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -255662,8 +255662,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "144,10",
-          "vencedor": "JPC COMÉRCIO DE PEÇAS E PRESTAÇÃO DE SERVIÇOS LTDA",
-          "melhor_oferta": "500,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
           "total_itens": 1,
           "itens": [
             {
@@ -255678,7 +255678,7 @@
         {
           "numero": "6",
           "titulo": "5304000205 BUCHA PLÁSTICA DE FIXAÇÃO 8MM COMANEL:Embalagem com 100 unidades. Buchas de fixação 8 mm com anel. Indicada para fixações em concreto e alvenaria.Diâmetro da bucha: 6 mm Material da bucha: Plástico. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -255686,8 +255686,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "382,25",
-          "vencedor": "JPC COMÉRCIO DE PEÇAS E PRESTAÇÃO DE SERVIÇOS LTDA",
-          "melhor_oferta": "1.250,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
           "total_itens": 1,
           "itens": [
             {
@@ -255702,7 +255702,7 @@
         {
           "numero": "7",
           "titulo": "5304000206 CABO FLEXÍVEL PP BITOLA 2,5MM; 4 VIASCOLORIDAS:Condutor de fios: Fios de Cobre eletrolítico, têmpera mole, classe 5 de encordoamento (extraflexivel) atendendo a norma ABNT NM 280. Tensão de isolação: 300/500V. Temperatura máxima: 70 graus. Co",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -255710,8 +255710,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "3.800,00",
-          "vencedor": "AZUQ IMPORTACAO DE MULTIMARCAS LTDA",
-          "melhor_oferta": "5.160,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
           "total_itens": 1,
           "itens": [
             {
@@ -255822,7 +255822,7 @@
         {
           "numero": "12",
           "titulo": "4103000008 CAPACITOR DE PARTIDA DUPLO P/ AR CONDICIONADO:50 + 5 NF - 48000 BTUS TENSÃO: 380/440v ac. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -255830,8 +255830,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "260,64",
-          "vencedor": "JPC COMÉRCIO DE PEÇAS E PRESTAÇÃO DE SERVIÇOS LTDA",
-          "melhor_oferta": "41,23",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
           "total_itens": 1,
           "itens": [
             {
@@ -255879,7 +255879,7 @@
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "1.712,20",
           "vencedor": "IMPACTO ADMINISTRAÇÃO E EFICIÊNCIA LTDA",
-          "melhor_oferta": "1.843,26",
+          "melhor_oferta": "1.712,20",
           "total_itens": 1,
           "itens": [
             {
@@ -256014,7 +256014,7 @@
         {
           "numero": "20",
           "titulo": "5304000210 JOGO DE CHAVES ALLEN:de 1,5 a 10mm 9 Peças. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -256022,8 +256022,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "126,10",
-          "vencedor": "DIPAR FERRAGENS EIRELI",
-          "melhor_oferta": "40.000,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
           "total_itens": 1,
           "itens": [
             {
@@ -256038,7 +256038,7 @@
         {
           "numero": "21",
           "titulo": "5304000211 JOGO DE SOQUETE E BITS COM CHAVE CATRACA:1/4 e 3/8 Pol. com 40 Peças. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -256046,8 +256046,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "159,02",
-          "vencedor": "DIPAR FERRAGENS EIRELI",
-          "melhor_oferta": "40.000,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
           "total_itens": 1,
           "itens": [
             {
@@ -256062,7 +256062,7 @@
         {
           "numero": "22",
           "titulo": "5304000212 JOGO SOQUETE CANHÃO:12pçs; Material de Aço carbono. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -256070,8 +256070,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "606,72",
-          "vencedor": "DIPAR FERRAGENS EIRELI",
-          "melhor_oferta": "40.000,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
           "total_itens": 1,
           "itens": [
             {
@@ -256086,7 +256086,7 @@
         {
           "numero": "23",
           "titulo": "5304000213 KIT 4 CHAVES AJUSTÁVEL:Inglesa 6, 8, 10 E 12 Polegadas. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -256094,8 +256094,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "1.420,08",
-          "vencedor": "DIPAR FERRAGENS EIRELI",
-          "melhor_oferta": "160.000,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
           "total_itens": 1,
           "itens": [
             {
@@ -256158,7 +256158,7 @@
         {
           "numero": "26",
           "titulo": "4103000010 KIT MÁQUINA PARA LIMPEZA E HIGIENIZAÇÃO DE AR CONDICIONADO SPLIT BASIC / COLETOR DE RESÍDUOS / PULVERIZADOR MANUAL:Com no minimo: 01 -Bolsa Coletora Limpeza ar Condicionado Split até 30miI Btus; 01 - Máquina Limpeza manual de no mínimo 5 litro",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -256166,8 +256166,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "724,58",
-          "vencedor": "DIPAR FERRAGENS EIRELI",
-          "melhor_oferta": "40.000,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
           "total_itens": 1,
           "itens": [
             {
@@ -256182,7 +256182,7 @@
         {
           "numero": "27",
           "titulo": "5304000234 KIT PARA SOLDA REFRIGERAÇÃO:01 -MaçaricoPortátil Acendimento Automático 2500F,Refil Carga de 400g. - Com giro de 360 para facilitar o uso.Com regulagem de pressão.- Equipado com defletor no bico, para melhor distribuição na chama.- Auto Ign",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -256190,8 +256190,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "351,38",
-          "vencedor": "DIPAR FERRAGENS EIRELI",
-          "melhor_oferta": "988,88",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
           "total_itens": 1,
           "itens": [
             {
@@ -256206,7 +256206,7 @@
         {
           "numero": "28",
           "titulo": "5304000235 MANGUEIRA DE JARDIM FLEXÍVEL:15 Metros Com Engates. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -256214,8 +256214,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "152,02",
-          "vencedor": "DIPAR FERRAGENS EIRELI",
-          "melhor_oferta": "40.000,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
           "total_itens": 1,
           "itens": [
             {
@@ -256230,7 +256230,7 @@
         {
           "numero": "29",
           "titulo": "5304000215 MARTELETE PERFURADORROMPEDOR:Combinado de Impacto SDS Plus 3.6J 850W com Maleta Tensão 220V. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -256238,8 +256238,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "690,62",
-          "vencedor": "DIPAR FERRAGENS EIRELI",
-          "melhor_oferta": "2.899,99",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
           "total_itens": 1,
           "itens": [
             {
@@ -256254,7 +256254,7 @@
         {
           "numero": "30",
           "titulo": "5304000216 NÍVEL MAGNÉTICO:Material: Alumínio, com nível horizontal e vertical, Dimensões aproximadas do item C x L x A: 30 x 1.5 x 6 centímetros. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -256262,8 +256262,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "268,25",
-          "vencedor": "DIPAR FERRAGENS EIRELI",
-          "melhor_oferta": "100.000,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
           "total_itens": 1,
           "itens": [
             {
@@ -256278,7 +256278,7 @@
         {
           "numero": "31",
           "titulo": "5304000217 PARAFUSADEIRA FURADEIRA DE IMPACTO:3/8Pol. 20V com 2 Baterias 1.5AH Lí-íon Carregador e Maleta com Acessórios. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -256286,8 +256286,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "960,10",
-          "vencedor": "HOME E MAQUINAS LTDA",
-          "melhor_oferta": "3.036,30",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
           "total_itens": 1,
           "itens": [
             {
@@ -256302,7 +256302,7 @@
         {
           "numero": "32",
           "titulo": "5304000218 PARAFUSO AUTO TARRAXANTE4,8x50,0mm:Aço Carbono - Cementado e Temperado. Aplicação: Utilizados Com Bucha De Nylon Para Fixação De Acessórios Objetos Em Paredes De Alvenaria e Concreto, Etc. Também Utilizado Em Móveis Tubulares e Equipamentos Fa",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -256310,8 +256310,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "348,60",
-          "vencedor": "JPC COMÉRCIO DE PEÇAS E PRESTAÇÃO DE SERVIÇOS LTDA",
-          "melhor_oferta": "900,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
           "total_itens": 1,
           "itens": [
             {
@@ -256326,7 +256326,7 @@
         {
           "numero": "33",
           "titulo": "5304000219 PARAFUSO CHIPBOARD CABEÇA PHILLIPS 6.0x 70mm:Pacote com 200 Unidades. Características: Fabricado em aço carbono cementado e temperado Acabamento bicromatizado: Chipboard. Especificações Técnicas: Tamanho:6.0 x 70mm. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -256334,8 +256334,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "319,80",
-          "vencedor": "JPC COMÉRCIO DE PEÇAS E PRESTAÇÃO DE SERVIÇOS LTDA",
-          "melhor_oferta": "900,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
           "total_itens": 1,
           "itens": [
             {
@@ -256350,7 +256350,7 @@
         {
           "numero": "34",
           "titulo": "5304000220 PARAFUSO SEXTAVADO ROSCA SOBERBA 3/8FoI. x 90mm:Pacote com 100 Unidades; Especificações Técnicas: Parafuso Sextavado Rosca Soberba 3/8 Pol. x 90mm com 100 unid: Corpo em aço carbono com acabamento galvanizado. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -256358,8 +256358,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "868,56",
-          "vencedor": "JPC COMÉRCIO DE PEÇAS E PRESTAÇÃO DE SERVIÇOS LTDA",
-          "melhor_oferta": "2.700,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
           "total_itens": 1,
           "itens": [
             {
@@ -256422,7 +256422,7 @@
         {
           "numero": "37",
           "titulo": "5304000221 SERRA COPO CONCRETO VIDEA:65mm ComSuporte Sds Plus 400mm. Serra copo com pontas de metal duro para furação de concreto e alvenaria* 01 haste comprimento 200mm e encaixe SDS PLUS 01 serra copo de 68mm01 broca de concreto 1/4 para adaptação na",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -256430,8 +256430,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "713,82",
-          "vencedor": "DIPAR FERRAGENS EIRELI",
-          "melhor_oferta": "120.000,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
           "total_itens": 1,
           "itens": [
             {
@@ -256494,7 +256494,7 @@
         {
           "numero": "40",
           "titulo": "5304000222 TERMINAL FORQUILHA PARA CABO2,5mm:Pacote com 100 peças. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -256502,8 +256502,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "1.709,40",
-          "vencedor": "DIPAR FERRAGENS EIRELI",
-          "melhor_oferta": "1.400.000,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
           "total_itens": 1,
           "itens": [
             {
@@ -256518,7 +256518,7 @@
         {
           "numero": "41",
           "titulo": "5304000223 TERMINAL FORQUILHA PARA CABO4,0mm:Pacote com 100 peças. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -256526,8 +256526,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "6.444,00",
-          "vencedor": "DIPAR FERRAGENS EIRELI",
-          "melhor_oferta": "3.000.000,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
           "total_itens": 1,
           "itens": [
             {
@@ -256542,7 +256542,7 @@
         {
           "numero": "42",
           "titulo": "5304000224 TERMÔMETRO DIGITAL INFRAVERMELHO:de3-1/2 Pol. Dígitos em Ied. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -256550,8 +256550,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "406,66",
-          "vencedor": "AIQ FERRAMENTAS E INSTRUMENTOS LTDA EPP",
-          "melhor_oferta": "456,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
           "total_itens": 1,
           "itens": [
             {
@@ -256566,7 +256566,7 @@
         {
           "numero": "43",
           "titulo": "5304000225 TRENA DE 5M:Trena com caixa plástica emborrachada, com fita de 5 metros de comprimento e 19 mm (3/4 poleqada) de largura com imã na ponta. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -256574,8 +256574,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "47,00",
-          "vencedor": "DIPAR FERRAGENS EIRELI",
-          "melhor_oferta": "40.000,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
           "total_itens": 1,
           "itens": [
             {
@@ -256590,7 +256590,7 @@
         {
           "numero": "44",
           "titulo": "4103000015 TUBO DE COBRE 1/2 PARA ARCONDICIONADO:Medida 1/2 - O tubo de cobre é um componente essencial para a instalação de sistemas de refrigeração no geral, sua função é promover as trocas de calor entre o sistema e o ambiente. Ele também é mais resis",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -256598,8 +256598,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "23.987,00",
-          "vencedor": "ATRIUM INDUSTRIA E COMERCIO DE FERRAGENS LTDA",
-          "melhor_oferta": "43.350,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
           "total_itens": 1,
           "itens": [
             {
@@ -256614,7 +256614,7 @@
         {
           "numero": "45",
           "titulo": "4103000016 TUBO DE COBRE 3/8 PARA ARCONDICIONADO:Medida 3/8 - O tubo de cobre é um componente essencial para a instalação de sistemas de refrigeração no geral, sua função é promover as trocas de calor entre o sistema e o ambiente. Ele também é mais resis",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -256622,8 +256622,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "18.402,50",
-          "vencedor": "ATRIUM INDUSTRIA E COMERCIO DE FERRAGENS LTDA",
-          "melhor_oferta": "32.198,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
           "total_itens": 1,
           "itens": [
             {
@@ -256638,7 +256638,7 @@
         {
           "numero": "46",
           "titulo": "4103000017 TUBO DE COBRE 5/8 PARA ARCONDICIONADO:Medida 5/8 - O tubo de cobre é um componente essencial para a instalação de sistemas de refrigeração no geral, sua função é promover as trocas de calor entre o sistema e o ambiente. Ele também é mais resis",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -256646,8 +256646,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "29.736,00",
-          "vencedor": "ATRIUM INDUSTRIA E COMERCIO DE FERRAGENS LTDA",
-          "melhor_oferta": "52.000,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
           "total_itens": 1,
           "itens": [
             {
@@ -256686,7 +256686,7 @@
         {
           "numero": "48",
           "titulo": "4103000019 VARETAS SOLDA FOSCOPER 2mm:Temperaturade Fusão: Sólido: 710 C; Líquido:710 C. Utilizadas em larga escala nas indústrias de refrigeração, ar-condicionado, elétrica, e tubulações de cobre para instalações hidráulicas, vedações de cobre, flanges",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -256694,8 +256694,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "276,80",
-          "vencedor": "JPC COMÉRCIO DE PEÇAS E PRESTAÇÃO DE SERVIÇOS LTDA",
-          "melhor_oferta": "800,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
           "total_itens": 1,
           "itens": [
             {
@@ -256710,7 +256710,7 @@
         {
           "numero": "49",
           "titulo": "4103000020 GÁS REFRIGERANTE TIPO R-410-1:em cilindrodescartável ou retornável, próprio para uso em sistemas de ar condicionado de conforto, isento de impurezas, com grau de pureza mínimo de 99,5%, devendo atender às normas técnicas aplicáveis e às recome",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -256718,8 +256718,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "18.036,60",
-          "vencedor": "ATRIUM INDUSTRIA E COMERCIO DE FERRAGENS LTDA",
-          "melhor_oferta": "7.580,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
           "total_itens": 1,
           "itens": [
             {
@@ -256734,7 +256734,7 @@
         {
           "numero": "50",
           "titulo": "4103000021 GÁS REFRIGERANTE TIPO R-22:em cilindrodescartável ou retornável, adequado para uso em equipamentos de climatização, ainda compatíveis com esse fluido, com grau de pureza mínimo de 99,5%, isento de umidade e contaminantes, atendendo às normas t",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -256742,8 +256742,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "18.153,60",
-          "vencedor": "AZUQ IMPORTACAO DE MULTIMARCAS LTDA",
-          "melhor_oferta": "23.600,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
           "total_itens": 1,
           "itens": [
             {
@@ -256758,7 +256758,7 @@
         {
           "numero": "51",
           "titulo": "4103000022 GÁS REFRIGERANTE TIPO R-32:em cilindrodescartável ou retornável, próprio para sistemas de climatização de alta eficiência, com grau de pureza mínimo de 99,5%, atendendo às normas técnicas e as recomendações de segurança para manuseio de fluido",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -256766,8 +256766,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "18.169,60",
-          "vencedor": "ATRIUM INDUSTRIA E COMERCIO DE FERRAGENS LTDA",
-          "melhor_oferta": "6.795,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
           "total_itens": 1,
           "itens": [
             {
@@ -256782,7 +256782,7 @@
         {
           "numero": "52",
           "titulo": "4103000023 BOLSA COLETORA PARA LIMPEZA DEAPARELHOS DE AR CONDICIONADO:tipo split, confeccionada em material resistente, impermeável e de fácil higienização, com dimensões adequadas para aparelhos entre 7.000 e 30.000 BTU/h, dotada de sistema de fixação e",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -256790,8 +256790,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "470,34",
-          "vencedor": "AZUQ IMPORTACAO DE MULTIMARCAS LTDA",
-          "melhor_oferta": "738,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
           "total_itens": 1,
           "itens": [
             {
@@ -256806,7 +256806,7 @@
         {
           "numero": "53",
           "titulo": "4103000024 LAVADORA DE ALTA PRESSÃOELÉTRICA:potência mínima de 1.400 W, pressão de trabalho aproximada de 1.300 PSI, vazão média de 300 L/h, equipada com mangueira, gatilho e acessórios padrão para lavagem, destinada à limpeza de unidades condensadoras,",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -256814,8 +256814,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "535,70",
-          "vencedor": "IMPACTO ADMINISTRAÇÃO E EFICIÊNCIA LTDA",
-          "melhor_oferta": "633,30",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
           "total_itens": 1,
           "itens": [
             {
@@ -256830,7 +256830,7 @@
         {
           "numero": "54",
           "titulo": "7901700101 ESPUMA DE SPRAY PARA LIMPEZA DE EVAPORADORAS DE AR CONDICIONADO:em embalagemaerossol, própria para higienização de serpentinas, bandejas e carenagens internas, com ação desengraxante e desincrustante, não agressiva a metais e plásticos, devend",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -256838,8 +256838,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "2.455,20",
-          "vencedor": "DIPAR FERRAGENS EIRELI",
-          "melhor_oferta": "1.800.000,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
           "total_itens": 1,
           "itens": [
             {
@@ -256854,7 +256854,7 @@
         {
           "numero": "55",
           "titulo": "7901700100 PRODUTO BATERICIDA:em forma líquida concentrada para limpeza e higienização de sistemas de ar condicionado, fornecido em galão de 5 litros, com ação fungicida e bactericida, destinado à desinfecção de bandejas, serpentinas, carenagens e dutos,",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -256862,8 +256862,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "1.320,30",
-          "vencedor": "AZUQ IMPORTACAO DE MULTIMARCAS LTDA",
-          "melhor_oferta": "2.040,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
           "total_itens": 1,
           "itens": [
             {
@@ -256878,7 +256878,7 @@
         {
           "numero": "56",
           "titulo": "7901700099 PRODUTO ELIMINADOR DE ODORES PARASISTEMAS DE CLIMATIZAÇÃO:em solução líquida, com ação desodorizante e auxiliar na higienização de evaporadoras, adequado para aplicação em ambientes internos, visando reduzir odores desagradáveis decorrentes de",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -256886,8 +256886,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "633,00",
-          "vencedor": "DIPAR FERRAGENS EIRELI",
-          "melhor_oferta": "1.200.000,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
           "total_itens": 1,
           "itens": [
             {
@@ -256902,7 +256902,7 @@
         {
           "numero": "57",
           "titulo": "4103000027 PRODUTO VEDANTE PARA MICROVAZAMENTOS EM SISTEMAS DE REFRIGERAÇÃODE AR CONDICIONADO:em dose única, para aplicação em linha frigorígena, compatível com gases refrigerantes utilizados na rede (R-22, R-410A, R-32, quando aplicável), destinado à ve",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -256910,8 +256910,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "2.142,60",
-          "vencedor": "AZUQ IMPORTACAO DE MULTIMARCAS LTDA",
-          "melhor_oferta": "5.760,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
           "total_itens": 1,
           "itens": [
             {
@@ -256926,7 +256926,7 @@
         {
           "numero": "58",
           "titulo": "5304000226 CORTADOR DE TUBOS:para cobre e alumínio, com capacidade mínima de corte entre 1/8\" e 1.1/4\", de uso profissional, dotado de lâmina em aço temperado e sistema de ajuste por rosca, destinado ao corte preciso de tubulações de cobre e alumínio util",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -256934,8 +256934,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "190,71",
-          "vencedor": "BRAXPARK MÁQUINAS E EQUIPAMENTOS LTDA",
-          "melhor_oferta": "3.089,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
           "total_itens": 1,
           "itens": [
             {
@@ -256950,7 +256950,7 @@
         {
           "numero": "59",
           "titulo": "5304000227 CURVADOR DOBRADOR MECÂNICO PARATUBOS:de cobre, alumínio e PVC, compatível com diâmetros de 1/4\", 3/8\", 1/2\" e 5/8\", com sistema de alavanca ou similar que possibilite a realização de curvas com raio adequado sem deformação da parede do tubo, d",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -256958,8 +256958,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "2.612,79",
-          "vencedor": "BRAXPARK MÁQUINAS E EQUIPAMENTOS LTDA",
-          "melhor_oferta": "3.312,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
           "total_itens": 1,
           "itens": [
             {
@@ -256974,7 +256974,7 @@
         {
           "numero": "60",
           "titulo": "5304000228 DOBRADOR DE TUBOS:tipo mola em silicone ou material similar, apropriado para curvar tubos de cobre, alumínio e PVC nos diâmetros de 1/4\", 3/8\", 1/2\" e 5/8\", comprimento aproximado de 4 m, destinado a permitir curvas suaves sem amassar a tubulaç",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -256982,8 +256982,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "657,00",
-          "vencedor": "BRAXPARK MÁQUINAS E EQUIPAMENTOS LTDA",
-          "melhor_oferta": "4.679,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
           "total_itens": 1,
           "itens": [
             {
@@ -256998,7 +256998,7 @@
         {
           "numero": "61",
           "titulo": "5304000229 CONJUNTO ALARGADOR DE TUBOS:de cobre ealumínio para uso com furadeira, contendo no mínimo 6 peças com diferentes diâmetros, destinado á ampliação das extremidades de tubulações para união por expansão, permitindo conexões adequadas em linhas f",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -257006,8 +257006,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "267,00",
-          "vencedor": "BRAXPARK MÁQUINAS E EQUIPAMENTOS LTDA",
-          "melhor_oferta": "4.950,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
           "total_itens": 1,
           "itens": [
             {
@@ -257022,7 +257022,7 @@
         {
           "numero": "62",
           "titulo": "5304000230 JOGO DE SERRAS-COPO:para perfuração em concreto, laje e alvenaria, contendo no mínimo três diâmetros (30 mm, 40 mm e 50 mm), com haste adaptadora, destinado à abertura de passagens para tubulações, drenos e cabos de sistemas de climatização, de",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -257030,8 +257030,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "321,93",
-          "vencedor": "DIPAR FERRAGENS EIRELI",
-          "melhor_oferta": "60.000,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
           "total_itens": 1,
           "itens": [
             {
@@ -257046,7 +257046,7 @@
         {
           "numero": "63",
           "titulo": "5304000231 ALICATE DE CORTE DIAGONA:tamanhoaproximado de 6\", confeccionado em aço cromo-vanádio ou similar, com cabo isolado e ergonômico, destinado ao corte de fios e cabos utilizados em instalações elétricas e de controle de sistemas de climatização, d",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -257054,8 +257054,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "83,67",
-          "vencedor": "DIPAR FERRAGENS EIRELI",
-          "melhor_oferta": "60.000,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
           "total_itens": 1,
           "itens": [
             {
@@ -257070,7 +257070,7 @@
         {
           "numero": "64",
           "titulo": "5304000232 ALICATE TIPO BICO MEIA-CANALONGO:tamanho aproximado de 6\", em aço cromo-vanádio ou similar, com cabo isolado, destinado a trabalhos de pega, dobra e manuseio de fios, cabos e pequenos componentes em locais de difícil acesso em instalações de a",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -257078,8 +257078,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "87,06",
-          "vencedor": "DIPAR FERRAGENS EIRELI",
-          "melhor_oferta": "60.000,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
           "total_itens": 1,
           "itens": [
             {
@@ -257094,7 +257094,7 @@
         {
           "numero": "65",
           "titulo": "4103000028 CANALETA OU CALHA PLÁSTICA:para passageme proteção de tubulações e cabos de sistemas de ar condicionado, em PVC rígido ou similar, com tampa removível, na cor branca ou clara, resistente à ação de raios UV e ao amarelamento, com dimensões adeq",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -257102,8 +257102,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "11.232,00",
-          "vencedor": "DIPAR FERRAGENS EIRELI",
-          "melhor_oferta": "6.000.000,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
           "total_itens": 1,
           "itens": [
             {
@@ -257118,7 +257118,7 @@
         {
           "numero": "66",
           "titulo": "4103000029 MANGUEIRA FLEXÍVEL:para dreno, 16 mm dediâmetro interno, 19 mm de diâmetro externo, espessura parede 1,5-2 mm, mínimo de 50 metros por rolo, para dreno de aparelhos de ar condicionado, fabricada em material plástico resistente, com diâmetro co",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -257126,8 +257126,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "1.010,40",
-          "vencedor": "DIPAR FERRAGENS EIRELI",
-          "melhor_oferta": "120.000,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
           "total_itens": 1,
           "itens": [
             {
@@ -257142,7 +257142,7 @@
         {
           "numero": "67",
           "titulo": "4103000030 ABRAÇADEIRAS PLÁSTICAS:tipo abraçadeira de nylon, em diferentes comprimentos, com boa resistência mecânica, destinadas à fixação e organização de cabos elétricos, mangueiras de dreno e pequenos conjuntos de tubulações em instalações de climatiz",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -257150,8 +257150,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "7.380,00",
-          "vencedor": "57.562.366 ELLEONORA YONE NARITA NAGASAVA",
-          "melhor_oferta": "30.000,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
           "total_itens": 1,
           "itens": [
             {
@@ -257286,7 +257286,7 @@
         {
           "numero": "73",
           "titulo": "4103000036 CAPACITOR DUPLO(ventilador +compressor):para aparelhos de ar condicionado split de 18.000 BTU/h, capacitância 40 + 2,5; (±5% ou 6%), tensão nominal  bivolt 127/220V AC (450V), formato cilíndrico ou oval com bornes de conexão, caixa metálica se",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -257294,8 +257294,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "5.135,90",
-          "vencedor": "JPC COMÉRCIO DE PEÇAS E PRESTAÇÃO DE SERVIÇOS LTDA",
-          "melhor_oferta": "13.800,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
           "total_itens": 1,
           "itens": [
             {
@@ -258897,30 +258897,6 @@
           ]
         },
         {
-          "numero": "16",
-          "titulo": "7101000054 MESA PARAESCRITÓRIO COM 3GAVETAS:Mesa para escritório",
-          "fase": "HOMOLOGADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "60.022,20",
-          "vencedor": "MOBILI MÓVEIS INDUSTRIA COMÉRCIO E SERVIÇOS LTDA",
-          "melhor_oferta": "42.000,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "7101000054 MESA PARAESCRITÓRIO COM 3GAVETAS:Mesa para escritório",
-              "unidade": "UND",
-              "quantidade": "140,00",
-              "valor_referencia": "428,73"
-            }
-          ]
-        },
-        {
           "numero": "17",
           "titulo": "7101000056 MOCHO ÀGÁS:Profissional com regulagem de altura de encosto e acento acionado à gás. Garantia no mínimo de 1 ano. EXCLUSIVO PARA ME/EPP.",
           "fase": "HOMOLOGADO",
@@ -258988,6 +258964,30 @@
               "especificacao": "36482 CADEIRA TIPO LONGARINA COM BASE FIXA DE5 LUGARES:Base fixa em formato de \"Y\" em aço cromado com quatro sapatas reguláveis; Encosto com estrutura em aço perfurado; Assento com estrutura em aço perfurado; Braço em aço cromado com formato anatômico. Largura total da longarina: aproximadamente 299cm; Altura do encosto com relação ao chão: aproximadamente 79cm.Profundidade da longarina: aproximadamente 66cm Altura do encosto: aproximadamente 50cm; Largura do assento: aproximadamente 52cm; Profundidade assento: aproximadamente 48cm. Encosto: Material sintético (detalhe cromado nas costas); Assento: Material sintético; Braço: Cromado com capa na cor do revestimento. Base: Cromada.",
               "unidade": "UND",
               "quantidade": "53,00",
+              "valor_referencia": "1.501,67"
+            }
+          ]
+        },
+        {
+          "numero": "20",
+          "titulo": "36504 CADEIRA TIPO LONGARINA COM BASE FIXA DE5 LUGARES:Base fixa em formato de \"Y\" em aço cromado com quatro sapatas reguláveis; Encosto com estrutura em aço perfurado; Assento com estrutura em aço perfurado; Braço em aço cromado com formato anatômico. L",
+          "fase": "HOMOLOGADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "25.528,39",
+          "vencedor": "ELLOELLA DISTRIBUIDORA LTDA",
+          "melhor_oferta": "22.950,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "36504 CADEIRA TIPO LONGARINA COM BASE FIXA DE5 LUGARES:Base fixa em formato de \"Y\" em aço cromado com quatro sapatas reguláveis; Encosto com estrutura em aço perfurado; Assento com estrutura em aço perfurado; Braço em aço cromado com formato anatômico. Largura total da longarina: aproximadamente 299cm; Altura do encosto com relação ao chão: aproximadamente 79cm.Profundidade da longarina: aproximadamente 66cm Altura do encosto: aproximadamente 50cm; Largura do assento: aproximadamente 52cm; Profundidade assento: aproximadamente 48cm. Encosto: Material sintético (detalhe cromado nas costas); Assento: Material sintético; Braço: Cromado com capa na cor do revestimento. Base: Cromada. COTA DE 25% RESERVADA PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "17,00",
               "valor_referencia": "1.501,67"
             }
           ]
@@ -261169,6 +261169,913 @@
               "unidade": "UND",
               "quantidade": "54,00",
               "valor_referencia": "728,50"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-059-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "324/2026",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "PUBLICADO",
+      "condutor": "JONATAS DA SILVA SOUSA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "REGISTRO DE PREÇO",
+      "publicacao": "02/04/2026 18:59",
+      "inicio_recepcao": "07/04/2026 08:00",
+      "fim_recepcao": "20/04/2026 08:15",
+      "inicio_disputa": "20/04/2026 08:30",
+      "objeto": "Futura e eventual contratação de empresa especializada em\nprestação de serviços de ORGANIZAÇÃO E EXECUÇÃO DE EVENTOS, COM ATUAÇÃO\nINTEGRADA E RESPONSABILIDADE ÚNICA POR TODAS AS ETAPAS NECESSÁRIAS À SUA\nREALIZAÇÃO, a fim de atender as demandas da Secretaria Municipal de Administração e\ndemais Secretarias",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5D4b4LlLPHOO9HtxGzCQtrh_rCBw%2F4g_djudQVrWeiJGGjufouv6QnJh5WYbB05l4TML5kHqflu65DWM7ZMYkNLix35DnkJJbHVZbAul3NqGI%3D",
+      "total_lotes": 1,
+      "total_itens": 118,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "EVENTOS",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "12.628.527,42",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 118,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "Tenda grande chapéu de bruxa ou piramidal, tamanho 3,00m x 3,00m:com calhas em lona branca, compreendendo os serviços de instalação e remoção completa das tendas. Travamento das tendas de cintas catracas de 30mm ou cabo de aço 1/2\" em ponta de ferro, quando for solicitado substituir as pontas de ferro por lastros de concreto com capacidade de sustentação. Despesas com logística, transporte, mão de obra, instalação, remoção, ferramentas são de responsabilidade exclusiva da contratada.",
+              "unidade": "DI",
+              "quantidade": "400,00",
+              "valor_referencia": "206,39"
+            },
+            {
+              "numero": "2",
+              "especificacao": "Tenda grande chapéu de bruxa ou piramidal, tamanho 4,00m x 4,00m:com calhas em lona branca, compreendendo os serviços de instalação e remoção completa das tendas. Travamento das tendas de cintas catracas de 30mm ou cabo de aço 1/2\" em ponta de ferro, quando for solicitado substituir as pontas de ferro por lastros de concreto com capacidade de sustentação. Despesas com logística, transporte, mão de obra, instalação, remoção, ferramentas são de responsabilidade exclusiva da contratada.",
+              "unidade": "DI",
+              "quantidade": "150,00",
+              "valor_referencia": "292,42"
+            },
+            {
+              "numero": "3",
+              "especificacao": "Tenda grande chapéu de bruxa ou piramidal, tamanho 5,00m x 5,00m:com calhas em lona branca, compreendendo os serviços de instalação e remoção completa das tendas. Travamento das tendas de cintas catracas de 30mm ou cabo de aço 1/2\" em ponta de ferro, quando for solicitado substituir as pontas de ferro por lastros de concreto com capacidade de sustentação. Despesas com logística, transporte, mão de obra, instalação, remoção, ferramentas são de responsabilidade exclusiva da contratada.",
+              "unidade": "DI",
+              "quantidade": "120,00",
+              "valor_referencia": "302,96"
+            },
+            {
+              "numero": "4",
+              "especificacao": "Tenda grande chapéu de bruxa ou piramidal, tamanho 6,00m x 6,00m:com calhas em lona branca, compreendendo os serviços de instalação e remoção completa das tendas. Travamento das tendas de cintas catracas de 30mm ou cabo de aço 1/2\" em ponta de ferro, quando for solicitado substituir as pontas de ferro por lastros de concreto com capacidade de sustentação. Despesas com logística, transporte, mão de obra, instalação, remoção, ferramentas são de responsabilidade exclusiva da contratada.",
+              "unidade": "DI",
+              "quantidade": "120,00",
+              "valor_referencia": "423,50"
+            },
+            {
+              "numero": "5",
+              "especificacao": "Tenda grande chapéu de bruxa ou piramidal, tamanho 10,00m x 10,00m:com calhas em lona branca, compreendendo os serviços de instalação e remoção completa das tendas. Travamento das tendas de cintas catracas de 30mm ou cabo de aço 1/2\" em ponta de ferro, quando for solicitado substituir as pontas de ferro por lastros de concreto com capacidade de sustentação. Despesas com logística, transporte, mão de obra, instalação, remoção, ferramentas são de responsabilidade exclusiva da contratada.",
+              "unidade": "DI",
+              "quantidade": "20,00",
+              "valor_referencia": "901,70"
+            },
+            {
+              "numero": "6",
+              "especificacao": "Galpão montado em estrutura de alumínio q30 ou q50:, duas águas, com cobertura em lona branca / preta anti chama estruturas modulares, com pé direito de 4m a 6m na lateral em relação ao solo, autoportante, de alta resistência, com travessas, colunas e vigas de alumínio ou perfil metálico galvanizado, com sistema integrado de encaixe para as lonas nas arestas da estrutura proporcionando uma vedação completa. Conjunto de cabos de aços dispostos em \"X\" nas laterais e tetos e entre os arcos da estrutura a cada 30m, no mínimo ao longo da contraventamento, sapatas em chapa de aço carbono fixadas junto ao solo através de estacas ou parabolts e, podendo ser ainda tencionado por cabos de aço 5/16\" (cálculo de arrasto de 2.000kg) e/ou outros caso haja necessidade mediante avaliação técnica, as lonas são do tipo KP 1000, antimofo, impermeável, antichama, blackout e na cor branca, sendo aplicada no teto e quando nas laterais são de fácil manuseio, pois possibilitam abertura e/ou fechamento. O conjunto de todo o material deve ser resistente a ventos de até 133km/h. Elementos metálicos e lonas em perfeito estado, sem qualquer tipo de vazamento. A Administração poderá pedir substituição caso não estejam nos padrões de qualidade acima citados. Aterramento das estruturas conforme as normas técnicas da ABNT. Despesas com logística, transporte, mão de obra, instalação, remoção, ferramentas ,são de responsabilidade exclusiva da contratada.",
+              "unidade": "MD",
+              "quantidade": "3.000,00",
+              "valor_referencia": "61,33"
+            },
+            {
+              "numero": "7",
+              "especificacao": "Estrutura em q30:Estrutura em alumínio padrão 30 cm, para montagem de estruturas diversas. Compreendendo despesas de transporte, montagem e desmontagem, bem como material e pessoal necessário à execução dos serviços.",
+              "unidade": "M2/",
+              "quantidade": "2.000,00",
+              "valor_referencia": "64,70"
+            },
+            {
+              "numero": "8",
+              "especificacao": "Palco com cobertura estrutura 6,00m x 4,00 m:Palco medindo 6,00m de largura por 4,00m de profundidade e 4,00m de pé direito entre o piso e o teto, em estrutura tubular de alumínio modelo P30 (não serão admitidas estruturas de ferro na cobertura). Piso medindo 6,00m de largura por 4,00m de profundidade, com altura do piso regulável entre 0,40m até 1,00m, em estrutura de alumínio, travamento diagonal, revestidos de chapas de compensado naval de 20mm. Deve estar em perfeitas condições para uso, sem buracos ou desníveis, e suportar o peso total de 4.320kg. Cobertura em lona tipo anti chama, igual ou equivalência superior, estrutura tubular em duralumínio modelo P30, capacidade de sustentação de 3.500kg (conforme normas da ABNT). Esta deve estar em perfeitas condições sem furos, rasgos ou qualquer avaria. Escada de acesso medindo 1,5m de largura com corrimão nas duas laterais. Fechamentos: saia. Fechamento em tecido ou madeirite ao redor de todo palco. Este deve estar em perfeitas condições sem furos, rasgos ou qualquer avaria. Fundo de palco e laterais em lona tipo KP-100 ou tela sombrite. Despesas com logística, transporte, mão de obra, instalação, remoção, ferramentas são de responsabilidade exclusiva da contratada.",
+              "unidade": "DI",
+              "quantidade": "20,00",
+              "valor_referencia": "2.877,50"
+            },
+            {
+              "numero": "9",
+              "especificacao": "Palco com cobertura estrutura 8,00m x 6,00 m:Palco medindo 8,00m de largura por 6,00m de profundidade e 4,00m de pé direito entre o piso e o teto, em estrutura tubular de alumínio modelo P30 (não serão admitidas estruturas de ferro na cobertura). Piso medindo 6,00m de largura por 4,00m de profundidade, com altura do piso regulável entre 0,40m até 1,00m, em estrutura de alumínio, travamento diagonal, revestidos de chapas de compensado naval de 20mm. Deve estar em perfeitas condições para uso, sem buracos ou desníveis, e suportar o peso total de 4.320kg. Cobertura em lona tipo anti chama, igual ou equivalência superior, estrutura tubular em duralumínio modelo P30, capacidade de sustentação de 3.500kg (conforme normas da ABNT). Esta deve estar em perfeitas condições sem furos, rasgos ou qualquer avaria. Escada de acesso medindo 1,5m de largura com corrimão nas duas laterais. Fechamentos: saia. Fechamento em tecido ou madeirite ao redor de todo palco. Este deve estar em perfeitas condições sem furos, rasgos ou qualquer avaria. Fundo de palco e laterais em lona tipo KP-100 ou tela sombrite. Despesas com logística, transporte, mão de obra, instalação, remoção, ferramentas são de responsabilidade exclusiva da contratada.",
+              "unidade": "DI",
+              "quantidade": "30,00",
+              "valor_referencia": "3.571,42"
+            },
+            {
+              "numero": "10",
+              "especificacao": "Palco com cobertura estrutura 10,00m x 8,00m:Palco medindo 10,00m de largura por 8,00m de profundidade e 4,00m de pé direito entre o piso e o teto, em estrutura tubular de alumínio modelo P30 (não serão admitidas estruturas de ferro na cobertura). Piso medindo 10,00m de largura por 8,00m de profundidade, com altura do piso regulável entre 0,40m até 1,00m, em estrutura de alumínio, travamento diagonal, revestidos de chapas de compensado naval de 20mm. Deve estar em perfeitas condições para uso, sem buracos ou desníveis, e suportar o peso total de 4.320kg. Cobertura em lona tipo anti chama, igual ou equivalência superior, estrutura tubular em duralumínio modelo P30, capacidade de sustentação de 3.500kg (conforme normas da ABNT). Esta deve estar em perfeitas condições sem furos, rasgos ou qualquer avaria. Escada de acesso medindo 1,5m de largura com corrimão nas duas laterais. Fechamentos: saia. Fechamento em tecido ou madeirite ao redor de todo palco. Este deve estar em perfeitas condições sem furos, rasgos ou qualquer avaria. Fundo de palco e laterais em lona tipo KP-100 ou tela sombrite. Despesas com logística, transporte, mão de obra, instalação, remoção, ferramentas são de responsabilidade exclusiva da contratada.",
+              "unidade": "DI",
+              "quantidade": "30,00",
+              "valor_referencia": "3.752,37"
+            },
+            {
+              "numero": "11",
+              "especificacao": "Palco com cobertura estrutura 12,00m x 10,00 m:Palco medindo 12,00m de largura por 10,00m de profundidade e 5,00m de pé direito entre o piso e o teto, em estrutura tubular de alumínio modelo P30 (não serão admitidas estruturas de ferro na cobertura). Piso medindo 6,00m de largura por 4,00m de profundidade, com altura do piso regulável entre 0,40m até 1,00m, em estrutura de alumínio, travamento diagonal, revestidos de chapas de compensado naval de 20mm. Deve estar em perfeitas condições para uso, sem buracos ou desníveis, e suportar o peso total de 4.320kg. Cobertura em lona tipo anti chama, igual ou equivalência superior, estrutura tubular em duralumínio modelo P30, capacidade de sustentação de 3.500kg (conforme normas da ABNT). Esta deve estar em perfeitas condições sem furos, rasgos ou qualquer avaria. Escada de acesso medindo 1,5m de largura com corrimão nas duas laterais. Fechamentos: saia. Fechamento em tecido ou madeirite ao redor de todo palco. Este deve estar em perfeitas condições sem furos, rasgos ou qualquer avaria. Fundo de palco e laterais em lona tipo KP-100 ou tela sombrite. Despesas com logística, transporte, mão de obra, instalação, remoção, ferramentas são de responsabilidade exclusiva da contratada.",
+              "unidade": "DI",
+              "quantidade": "15,00",
+              "valor_referencia": "6.795,00"
+            },
+            {
+              "numero": "12",
+              "especificacao": "Palco com cobertura estrutura 14,00m x 10,00 m:Palco medindo 14,00m de largura por 10,00m de profundidade e 6,00m de pé direito entre o piso e o teto, em estrutura tubular de alumínio modelo P30 (não serão admitidas estruturas de ferro na cobertura). Piso medindo 6,00m de largura por 4,00m de profundidade, com altura do piso regulável entre 0,40m até 1,00m, em estrutura de alumínio, travamento diagonal, revestidos de chapas de compensado naval de 20mm. Deve estar em perfeitas condições para uso, sem buracos ou desníveis, e suportar o peso total de 4.320kg. Cobertura em lona tipo anti chama, igual ou equivalência superior, estrutura tubular em duralumínio modelo P30, capacidade de sustentação de 3.500kg (conforme normas da ABNT). Esta deve estar em perfeitas condições sem furos, rasgos ou qualquer avaria. Escada de acesso medindo 1,5m de largura com corrimão nas duas laterais. Fechamentos: saia. Fechamento em tecido ou madeirite ao redor de todo palco. Este deve estar em perfeitas condições sem furos, rasgos ou qualquer avaria. Fundo de palco e laterais em lona tipo KP-100 ou tela sombrite. Despesas com logística, transporte, mão de obra, instalação, remoção, ferramentas são de responsabilidade exclusiva da contratada.",
+              "unidade": "DI",
+              "quantidade": "20,00",
+              "valor_referencia": "10.000,00"
+            },
+            {
+              "numero": "13",
+              "especificacao": "Palco com cobertura estrutura 16,00m x 14,00 m:Palco medindo 16,00m de largura por 14,00m de profundidade , pé direito entre o piso e o teto entre 4 e 6 mt, em estrutura tubular de alumínio modelo P30 (não serão admitidas estruturas de ferro na cobertura). Piso medindo 6,00m de largura por 4,00m de profundidade, com altura do piso regulável entre 0,40m até 1,00m, em estrutura de alumínio, travamento diagonal, revestidos de chapas de compensado naval de 20mm. Deve estar em perfeitas condições para uso, sem buracos ou desníveis, e suportar o peso total de 4.320kg. Cobertura em lona tipo anti chama, igual ou equivalência superior, estrutura tubular em duralumínio modelo P30, capacidade de sustentação de 3.500kg (conforme normas da ABNT). Esta deve estar em perfeitas condições sem furos, rasgos ou qualquer avaria. Escada de acesso medindo 1,5m de largura com corrimão nas duas laterais. Fechamentos: saia. Fechamento em tecido ou madeirite ao redor de todo palco. Este deve estar em perfeitas condições sem furos, rasgos ou qualquer avaria. Fundo de palco e laterais em lona tipo KP-100 ou tela sombrite. Despesas com logística, transporte, mão de obra, instalação, remoção, ferramentas são de responsabilidade exclusiva da contratada.",
+              "unidade": "DI",
+              "quantidade": "10,00",
+              "valor_referencia": "12.250,00"
+            },
+            {
+              "numero": "14",
+              "especificacao": "Locação de arquibancada metálica modular de 6 a 8 degraus:profundidade de piso 70cm, assento em chapa, guarda-corpo de segurança e escadas de acesso",
+              "unidade": "MD",
+              "quantidade": "200,00",
+              "valor_referencia": "482,32"
+            },
+            {
+              "numero": "15",
+              "especificacao": "Locação de arquibancada metálica modular de 12 degraus:profundidade de piso mínimo de 60cm a 80cm e assento de 30-40cm, assento em chapa, guarda-corpo de segurança e escadas de acesso",
+              "unidade": "MD",
+              "quantidade": "200,00",
+              "valor_referencia": "709,50"
+            },
+            {
+              "numero": "16",
+              "especificacao": "Praticáveis Pantográficos:estrutura em alumínio modelo rosco, igual ou de equivalência superior, plataforma em compensado naval 20mm; medindo 2,00m de comprimento por 1,00m de largura, cada módulo, regulagem pantográfica de altura e encaixe padronizado e reguláveis, para formar pisos uniformes e de acordo com as necessidades do evento. Alturas: 0,20m, 0,40m, 0,60m, 0,80m e 1,00m. Acabamento em carpete nas cores preto e cinza chumbo (de acordo com a solicitação), sem emendas ou rasuras que possam comprometer a segurança e a aparência. Despesas com logística, transporte, mão de obra, instalação, remoção, ferramentas, alimentação, e hospedagem são de responsabilidade exclusiva da contratada.",
+              "unidade": "DI",
+              "quantidade": "100,00",
+              "valor_referencia": "206,45"
+            },
+            {
+              "numero": "17",
+              "especificacao": "Praticáveis Telescópicas:estrutura em alumínio resistente, plataforma em compensado naval 20mm; medindo 2,00m de comprimento por 1,00m de largura, cada módulo, regulagem telescópica de altura e encaixe padronizado e reguláveis, para formar pisos uniformes e de acordo com as necessidades do evento. Alturas: 0,20m, 0,40m, 0,60m, até 1,80m. Acabamento em carpete nas cores preto e cinza chumbo (de acordo com a solicitação), sem emendas ou rasuras que possam comprometer a segurança e a aparência; saia lateral em tecido preto, e escada de acesso na altura solicitada. Despesas com logística, transporte, mão de obra, instalação, remoção, ferramentas, alimentação, e hospedagem são de responsabilidade exclusiva da contratada.",
+              "unidade": "DI",
+              "quantidade": "100,00",
+              "valor_referencia": "264,93"
+            },
+            {
+              "numero": "18",
+              "especificacao": "Camarim:estrutura octanorm com teto fechado em octanorm, iluminação, com piso tipo tablado, 01 porta de acesso, fechamento em placas TS, 01 ar-condicionado de 12.000 btus para cada. Com cobertura em toldo. Compreendendo serviços de instalação e remoção completa. Despesas com logística, transporte, mão de obra, instalação, remoção, ferramentas, são de responsabilidade exclusiva da contratada.",
+              "unidade": "M2/",
+              "quantidade": "1.200,00",
+              "valor_referencia": "378,67"
+            },
+            {
+              "numero": "19",
+              "especificacao": "Stand:estrutura octanorm com Formato U, com piso tipo tablado, fechamento em placas TS. Sem cobertura. Compreendendo serviços de instalação e remoção completa. Despesas com logística, transporte, mão de obra, instalação, remoção, ferramentas, são de responsabilidade exclusiva da contratada.",
+              "unidade": "M2/",
+              "quantidade": "400,00",
+              "valor_referencia": "143,31"
+            },
+            {
+              "numero": "20",
+              "especificacao": "Gradil de proteção:com 1,10m de altura por 2,10m de largura, confeccionada em aço galvanizado com pés de proteção em \"V\", com encaixe tipo \"macho e fêmea\" em todas as peças. Compreendendo os serviços de instalação e remoção de todas as peças. Despesas com logística, transporte, mão de obra, instalação, remoção, ferramentas, alimentação, e hospedagem são de responsabilidade exclusiva da contratada.",
+              "unidade": "M2/",
+              "quantidade": "2.500,00",
+              "valor_referencia": "50,00"
+            },
+            {
+              "numero": "21",
+              "especificacao": "Fechamento em placas metálicas galvanizadas:peça com travamento traseiro, medindo 2,00m a 3,00m de comprimento por 2,20m de altura, em perfeito estado de conservação, travadas com pontaletes de madeira na parte traseira, quando solicitado. Compreendendo os serviços de instalação e remoção de todas as peças. Despesas com logística, transporte, mão de obra, instalação, remoção, ferramentas, alimentação, e hospedagem são de responsabilidade exclusiva da contratada.",
+              "unidade": "DI",
+              "quantidade": "2.000,00",
+              "valor_referencia": "49,64"
+            },
+            {
+              "numero": "22",
+              "especificacao": "Piso tipo tablado em madeirite:, sendo sua estrutura em módulos medindo aproximadamente 1,00m x 1.00m ou 1,00 x 2,00m com 0,50m de altura com forração, compreendendo os serviços de instalação e remoção completas. Despesas com logística, transporte, mão de obra, instalação, remoção, ferramentas são de responsabilidade exclusiva da contratada.",
+              "unidade": "M2/",
+              "quantidade": "1.500,00",
+              "valor_referencia": "42,48"
+            },
+            {
+              "numero": "23",
+              "especificacao": "Piso tipo tablado em compensado naval:sendo sua estrutura em módulos medindo aproximadamente 1,00m x 1.00m ou 1,00 x 2,00m com 1,00m de altura com forração, compreendendo os serviços de instalação e remoção completas. Despesas com logística, transporte, mão de obra, instalação, remoção, ferramentas são de responsabilidade exclusiva da contratada.",
+              "unidade": "M2/",
+              "quantidade": "2.000,00",
+              "valor_referencia": "54,22"
+            },
+            {
+              "numero": "24",
+              "especificacao": "Piso easyfloor:piso modular em polipropileno modelo plus . dimensões de 90x22,5x3,5 cm, peso 1,9kg. Carga suportada 12 toneladas por m",
+              "unidade": "M2/",
+              "quantidade": "1.500,00",
+              "valor_referencia": "37,83"
+            },
+            {
+              "numero": "25",
+              "especificacao": "Módulo elevado para policia militar e corpo de bombeiros:estrutura tubular de 2,00 x 4,00 metros, entre 30cm e 1,5m de altura, com lona anti chama com guarda corpo.",
+              "unidade": "DI",
+              "quantidade": "50,00",
+              "valor_referencia": "575,33"
+            },
+            {
+              "numero": "26",
+              "especificacao": "Gerador de energia 100 kva silenciado:com regulador automático de tensão e frequência, painel eletrônico completo, quadro de comando, disjuntor geral tripolar nas tensões 220/380 V, com no mínimo 100m de cabo, estacionário e a diesel. Operador disponível durante todo tempo de utilização. Despesas com logística, transporte, mão de obra, instalação, remoção, ferramentas são de responsabilidade exclusiva da contratada.",
+              "unidade": "DI",
+              "quantidade": "20,00",
+              "valor_referencia": "3.896,31"
+            },
+            {
+              "numero": "27",
+              "especificacao": "Gerador de energia 140 kva silenciado:com regulador automático de tensão e frequência, painel eletrônico completo, quadro de comando, disjuntor geral tripolar nas tensões 220/380 V, com no mínimo 100m de cabo, estacionário e a diesel. Operador disponível durante todo tempo de utilização. Despesas com logística, transporte, mão de obra, instalação, remoção, ferramentas, são de responsabilidade exclusiva da contratada.",
+              "unidade": "DI",
+              "quantidade": "40,00",
+              "valor_referencia": "3.548,77"
+            },
+            {
+              "numero": "28",
+              "especificacao": "Gerador de energia 180 kva silenciado:com regulador automático de tensão e frequência, painel eletrônico completo, quadro de comando, disjuntor geral tripolar nas tensões 220/380 V, com no mínimo 100m de cabo, estacionário e a diesel. Operador disponível durante todo tempo de utilização. Despesas com logística, transporte, mão de obra, instalação, remoção, ferramentas são de responsabilidade exclusiva da contratada.",
+              "unidade": "DI",
+              "quantidade": "60,00",
+              "valor_referencia": "4.322,39"
+            },
+            {
+              "numero": "29",
+              "especificacao": "Gerador de energia 260 kva silenciado:com regulador automático de tensão e frequência, painel eletrônico completo, quadro de comando, disjuntor geral tripolar nas tensões 220/380 V, com no mínimo 100m de cabo, estacionário e a diesel. Operador disponível durante todo tempo de utilização. Despesas com logística, transporte, mão de obra, instalação, remoção, ferramentas são de responsabilidade exclusiva da contratada.",
+              "unidade": "DI",
+              "quantidade": "30,00",
+              "valor_referencia": "5.908,95"
+            },
+            {
+              "numero": "30",
+              "especificacao": "Gerador de energia 400 kvas silenciado:com regulador automático de tensão e frequência, painel eletrônico completo, quadro de comando, disjuntor geral tripolar nas tensões 220/380 V, com no mínimo 100m de cabo, estacionário e a diesel. Operador disponível durante todo tempo de utilização. Despesas com logística, transporte, mão de obra, instalação, remoção, ferramentas são de responsabilidade exclusiva da contratada.",
+              "unidade": "DI",
+              "quantidade": "5,00",
+              "valor_referencia": "7.581,25"
+            },
+            {
+              "numero": "31",
+              "especificacao": "Locação de climatizadores evaporativos móvel com vazão de ar de 12.000 m³/h a 60.000 m³/h:reservatório com capacidade mínima de 100 litros para ambientes internos ou externos com operador para o mesmo. Incluso mao de obra, transporte, ferramentas, montagem e desmontagem",
+              "unidade": "DI",
+              "quantidade": "100,00",
+              "valor_referencia": "1.079,34"
+            },
+            {
+              "numero": "32",
+              "especificacao": "Passa cabos 1,00m x 4 vias:protetor de cabos super- resistentes, com 1,00m linear cada, que suporta até 15 toneladas, material totalmente isolante e antiderrapante, atendendo a todas as normas de segurança. Despesas com logística, transporte, mão de obra, instalação, remoção, ferramentas, alimentação, e hospedagem são de responsabilidade exclusiva da contratada.",
+              "unidade": "DI",
+              "quantidade": "200,00",
+              "valor_referencia": "28,65"
+            },
+            {
+              "numero": "33",
+              "especificacao": "Serviço de eletricista com experiência em montagem de infraestruturas elétricas:painéis elétricos, instalação elétrica desejável curso de alta e baixa tensão e de NR-10, ferramentas próprias, idade acima de 18 anos. Todas as despesas com transporte, alimentação e estadia são de responsabilidade da contratada. Incluso material necessário para atender eventos de grande porte, como transformadores, cabos, disjuntores, ramais, fios, quadro de distribuição, chave reversora, entre outros. Período de trabalho: 08 horas por dia. Despesas com logística, transporte, mão de obra, instalação, remoção, ferramentas, alimentação, e hospedagem são de responsabilidade exclusiva da contratada.",
+              "unidade": "DI",
+              "quantidade": "20,00",
+              "valor_referencia": "3.525,25"
+            },
+            {
+              "numero": "34",
+              "especificacao": "Banheiro Químico:individual, portátil, inclusos montagem, manutenção diária e desmontagem, estrutura em polietileno ou material similar, com teto translúcido, dimensões mínimas com 1,10m de largura, 1,10m de profundidade, e 2,10m de altura. Com caixa de dejetos, porta papel higiênico, fechamento com identificação de ocupado, para uso do público geral (inclusos papel higiênico, sacos de lixo e limpeza junto às sucções). Despesas com logística, transporte, mão de obra, instalação, remoção, ferramentas, alimentação, e hospedagem são de responsabilidade exclusiva da contratada.",
+              "unidade": "DI",
+              "quantidade": "1.000,00",
+              "valor_referencia": "320,78"
+            },
+            {
+              "numero": "35",
+              "especificacao": "Banheiro químico para portadores de deficiência física - pcd:Conforme a Lei n° 13.825/19 referente as pessoas com mobilidade reduzida que corresponde ao número mínimo de banheiros químicos acessíveis .Especificação: individuais portáteis com teto translúcido composto com caixa de dejeto com assento, mictório, porta papel higiênico (devidamente abastecidos) e fechamento de identificação OCUPADO/ DESOCUPADO e indicação de masculinos, femininos e pessoas com deficiência ou mobilidade reduzida, para público e bandas (camarins), com medidas mínimas de altura: 2,15 m largura : 1,78 m comprimento : 2,18 m, com ponto de ventilação natural, com corrimão interno nas laterais e sobre o vaso, com rampa de acesso para cadeirantes. Os banheiros deverão ser limpos e higienizados diariamente, sendo duas vezes ao dia, uma na parte da manhã e outra na parte da tarde, com a retirada dos fluentes em tanques e veículos próprios e apropriados. (incluso todas as despesas de transporte). A locadora deve ser responsável pela destinação final dos efluentes/ resíduos em local adequado e autorizado pelos órgãos competentes e cumprindo as leis de preservação ambiental; - LOCAÇÃO DA DIÁRIA DE 24(VINTE E QUATRO) HORAS",
+              "unidade": "DI",
+              "quantidade": "40,00",
+              "valor_referencia": "609,80"
+            },
+            {
+              "numero": "36",
+              "especificacao": "Locação de banheiro container:contendo 10 box para uso, com espelho e lavatório",
+              "unidade": "DI",
+              "quantidade": "10,00",
+              "valor_referencia": "3.072,28"
+            },
+            {
+              "numero": "37",
+              "especificacao": "Locação de banheiro super luxo:contendo 4 box para uso, com espelho e lavatório",
+              "unidade": "DI",
+              "quantidade": "10,00",
+              "valor_referencia": "6.971,57"
+            },
+            {
+              "numero": "38",
+              "especificacao": "Segurança:serviços de segurança desarmada para apoio e suporte a evento com homens e mulheres, devidamente uniformizados, em turno de até 08 horas com ronda no local do evento. Despesas com logística, transporte, mão de obra, instalação, remoção, ferramentas, alimentação, e hospedagem são de responsabilidade exclusiva da contratada.",
+              "unidade": "DI",
+              "quantidade": "300,00",
+              "valor_referencia": "403,05"
+            },
+            {
+              "numero": "39",
+              "especificacao": "PRODUTOR DE EVENTOS:Profissional responsável por toda produção do evento, indicado para orientar e acompanhar a montagem e desmontagem das estruturas, organizarem eventos de modo geral, recepcionar e orientar a produção dos artistas com informações pertinentes aos eventos.",
+              "unidade": "DI",
+              "quantidade": "20,00",
+              "valor_referencia": "3.024,69"
+            },
+            {
+              "numero": "40",
+              "especificacao": "PRODUTOR AUXILIAR:Profissional subordinado ao produtor de eventos, auxiliador nas atividades durante os eventos, entre elas a organização e preparação dos locais dos eventos, verifica o funcionamento dos equipamentos e recursos a serem utilizados nos eventos, verificação dos serviços de programação visual, dentre outros.",
+              "unidade": "DI",
+              "quantidade": "10,00",
+              "valor_referencia": "1.737,39"
+            },
+            {
+              "numero": "41",
+              "especificacao": "EQUIPE DE CARREGADORES:Pessoal para auxiliar as bandas na organização de equipamentos no palco e trio, auxiliara produção nas montagens das estruturas",
+              "unidade": "DI",
+              "quantidade": "200,00",
+              "valor_referencia": "200,00"
+            },
+            {
+              "numero": "42",
+              "especificacao": "Cordeiro:Profissionais responsáveis pela condução do trio elétrico no circuito com a total segurança mantendo o folião numa distância considerável em que haja acidentem durante o percurso.",
+              "unidade": "DI",
+              "quantidade": "400,00",
+              "valor_referencia": "214,97"
+            },
+            {
+              "numero": "43",
+              "especificacao": "Brigadistas:contratação de serviços terceirizados para prevenção e combate a incêndios, primeiros socorros e abandono de área",
+              "unidade": "DI",
+              "quantidade": "200,00",
+              "valor_referencia": "412,07"
+            },
+            {
+              "numero": "44",
+              "especificacao": "Radiocomunicadores Motorola ou similar:Faixa de frequência: VHF 136-174 MHz Modos de operação: Analógico e Digital (DMR - MOTOTRBO) Potência de transmissão: até 5 W Capacidade de canais: até 16 canais programáveis Espaçamento de canais: 12,5 / 20 / 25 kHz Bateria: Íons de lítio (Li-Ion) recarregável Autonomia aproximada: até 14,5 h (analógico) e até 18,5 h (digital) - ciclo 5/5/90 Proteção: IP54 (poeira e respingos) Padrão de resistência: MIL-STD 810 Compatibilidade: uso com repetidor e sistemas MOTOTRBO Dimensões aproximadas: 127,7 × 61,5 × 44 mm Peso com bateria: aproximadamente 340-350 g",
+              "unidade": "DI",
+              "quantidade": "100,00",
+              "valor_referencia": "62,50"
+            },
+            {
+              "numero": "45",
+              "especificacao": "Projetos de Pânico e Incêndios de grande porte:para acima de 10.000 pessoas de público, com todos os equipamentos de segurança necessários (extintores e placas de identificação) protocolado e aprovado junto ao Corpo de Bombeiros do Estado do Espírito Santo e acompanhamento de vistoria. Despesas com logística, transporte, mão de obra, instalação, remoção, ferramentas, alimentação, e hospedagem são de responsabilidade exclusiva da contratada.",
+              "unidade": "SER",
+              "quantidade": "30,00",
+              "valor_referencia": "5.132,83"
+            },
+            {
+              "numero": "46",
+              "especificacao": "Locação de equipamentos de segurança:fornecimento e instalação temporária de extintores de incêndio, placas e suporte em áreas técnicas, operacionais e de circulação de público em evento. Devem ser disponibilizadas unidades do tipo Pó Químico Seco (PQS) - classe ABC, com carga de no mínimo 6 kg, e do tipo Gás Carbônico (CO2) para áreas com equipamentos eletrônicos, ambos com selo do INMETRO e dentro da validade exigida pelas normas de segurança. Despesas com logística, transporte, mão de obra, instalação, remoção, ferramentas, alimentação, e hospedagem são de responsabilidade exclusiva da contratada.",
+              "unidade": "DI",
+              "quantidade": "200,00",
+              "valor_referencia": "68,64"
+            },
+            {
+              "numero": "47",
+              "especificacao": "Locação De Cadeiras Plásticas Sem Braços:Serviço de locação de cadeiras plásticas monobloco, sem braços, resistentes, empilháveis e de fácil manuseio, adequadas para uso em ambientes internos e externos. As cadeiras deverão estar em bom estado de conservação, limpas, sem rachaduras ou falhas estruturais, e atender às normas de segurança vigentes. Despesas com logística, transporte, mão de obra, instalação, remoção, ferramentas, alimentação, e hospedagem são de responsabilidade exclusiva da contratada.",
+              "unidade": "DI",
+              "quantidade": "2.500,00",
+              "valor_referencia": "3,09"
+            },
+            {
+              "numero": "48",
+              "especificacao": "Locação De Mesas Plásticas:Serviço de locação de mesas plásticas brancas, com dimensões aproximadas de 80cm x 80cm, fabricadas em material resistente, lavável e adequado para uso em áreas de alimentação, apoio técnico, credenciamento, entre outras finalidades. As mesas devem estar em ótimo estado de conservação, limpas, sem trincas, manchas ou deformações. Despesas com logística, transporte, mão de obra, instalação, remoção, ferramentas, alimentação, e hospedagem são de responsabilidade exclusiva da contratada.",
+              "unidade": "DI",
+              "quantidade": "500,00",
+              "valor_referencia": "10,38"
+            },
+            {
+              "numero": "49",
+              "especificacao": "Veículo Utilitário de Luxo:do tipo Van, com motorista portando celular. Despesas com logística, transporte, alimentação, e hospedagem são de responsabilidade exclusiva da contratada.",
+              "unidade": "KM",
+              "quantidade": "500,00",
+              "valor_referencia": "10,50"
+            },
+            {
+              "numero": "50",
+              "especificacao": "37095 Veículo Utilitário de Luxo:do tipo Carro (suv ou similar),com motorista portando celular. Despesas com logística,transporte, alimentação, e hospedagem são de responsabilidadeexclusiva da contratada",
+              "unidade": "KM",
+              "quantidade": "500,00",
+              "valor_referencia": "11,00"
+            },
+            {
+              "numero": "51",
+              "especificacao": "Mestre de Cerimônias/ Apresentador E Locutor De Eventos:Profissional para realização de apresentações ao vivo em shows e eventos, com locução profissional, adaptada ao tipo de evento e ao perfil do público. Anunciar atrações e participantes, seguindo o roteiro do evento e adaptando-se ao contexto e perfil da audiência; Mediar discursos e homenagens, introduzindo palestrantes, artistas, convidados especiais e outras personalidades; transmitir informações institucionais e promocionais quando necessário, reforçando mensagens estratégicas do evento e assegurando uma comunicação eficiente e profissional. Despesas com logística, transporte, alimentação, e hospedagem são de responsabilidade exclusiva da contratada.",
+              "unidade": "DI",
+              "quantidade": "20,00",
+              "valor_referencia": "1.922,50"
+            },
+            {
+              "numero": "52",
+              "especificacao": "Decoração de PEQUENO PORTE:02 (dois) arranjos de mesa/chão (artificiais de alta qualidade ou naturais), com cores e estilo a definir (clássico, moderno, rústico);02 (duas) plantas ornamentais altas (ex: Palmeira Rafis, Ficus) com vasos decorativos; 01 (um) painel de fundo (painel de tecidos, muro inglês ou painel de madeira) com medidas mínimas de 3x2 metros; 02 (dois) refletores LED par (RGB) para iluminação de destaque da ambientação;01 (um) tapete para ambientação de entrada, cor a definir (ex: vermelho, preto, bege).",
+              "unidade": "DI",
+              "quantidade": "30,00",
+              "valor_referencia": "2.096,74"
+            },
+            {
+              "numero": "53",
+              "especificacao": "Decoração de MÉDIO PORTE:01 Conjunto de sofá (2 ou 3 lugares) e poltronas confortáveis; mesas de apoio/centro; Tapetes para aconchego; 01 penteadeira com espelho ou corpo inteiro ou espelho camarim (com luzes embutidas); 06 a 08 cadeiras confortáveis (tipo escritório ou decorativas); 01 arara para roupas (cabideiros); 01 bancada ou aparador para lanche. 03 Arranjos naturais ou artificiais, ou 02 plantas decorativas",
+              "unidade": "DI",
+              "quantidade": "20,00",
+              "valor_referencia": "5.754,63"
+            },
+            {
+              "numero": "54",
+              "especificacao": "Decoração de GRANDE PORTE:04 Conjuntos de sofá (2 ou 3 lugares) e poltronas confortáveis; 12 mesas de apoio/centro; Tapetes para aconchego; 06 a 08 puffs ,04 bancadas ou aparadores para lanche. 08 Arranjos naturais ou artificiais, 10 a 15 plantas decorativas, 08 lustres diversos, balões decorativos conforme necessidade, 06 a 08 vasos decorativos.",
+              "unidade": "DI",
+              "quantidade": "20,00",
+              "valor_referencia": "10.378,20"
+            },
+            {
+              "numero": "55",
+              "especificacao": "Locação De Brinquedo Balão Bolha Hiper Inflável Pula Pula:com no mínimo 2 motores sopradores, com monitor, medindo no mínimo 6m x 5m (CxL), e duração de 8h. Instalação de acordo com legislação vigente para evitar acidentes. Despesas com logística, transporte, mão de obra, instalação, remoção, ferramentas, alimentação, e hospedagem são de responsabilidade exclusiva da contratada",
+              "unidade": "DI",
+              "quantidade": "20,00",
+              "valor_referencia": "930,50"
+            },
+            {
+              "numero": "56",
+              "especificacao": "Locação De Brinquedo Castelo Pula Pula com Escorregador:com monitor, medindo no mínimo 5m x 3,5m x 2,5m (CxLx A), com rede de proteção nas laterais, confeccionado em KP1000, com motor para manter funcionando durante o período contratado, para crianças a partir dos 3 anos e duração de 8h. Instalação de acordo com legislação vigente para evitar acidentes. Despesas com logística, transporte, mão de obra, instalação, remoção, ferramentas, alimentação, e hospedagem são de responsabilidade exclusiva da contratada",
+              "unidade": "DI",
+              "quantidade": "10,00",
+              "valor_referencia": "832,50"
+            },
+            {
+              "numero": "57",
+              "especificacao": "Locação De Brinquedo cama elástica:com monitor, medindo no mínimo 4m de diâmetro, com rede de proteção, protetor de molas, hastes da rede com proteção de espumas, escada de acesso e duração de 8h. Instalação de acordo com legislação vigente para evitar acidentes. Despesas com logística, transporte, mão de obra, instalação, remoção, ferramentas, alimentação, e hospedagem são de responsabilidade exclusiva da contratada.",
+              "unidade": "DI",
+              "quantidade": "20,00",
+              "valor_referencia": "750,08"
+            },
+            {
+              "numero": "58",
+              "especificacao": "Locação De Brinquedo Inflável Piscina de Bolinhas:com monitor, medindo no mínimo 3,5m x 5m x 2,5m (CxLx A), com no mínimo 2000 bolinhas coloridas, confeccionado em KP1000, com rede de proteção nas laterais, com motor para manter funcionando durante o período contratado, para crianças a partir dos 3 anos e duração de 8h. Instalação de acordo com legislação vigente para evitar acidentes. Despesas com logística, transporte, mão de obra, instalação, remoção, ferramentas, alimentação, e hospedagem são de responsabilidade exclusiva da contratada.",
+              "unidade": "DI",
+              "quantidade": "10,00",
+              "valor_referencia": "619,50"
+            },
+            {
+              "numero": "59",
+              "especificacao": "Locação De Máquina De Algodão Doce:com operador, em aço inoxidável, capacidade de produzir no mínimo 180 unidades por hora (incluso açúcar, corantes, palitos e todos os outros materiais necessários)",
+              "unidade": "DI",
+              "quantidade": "12,00",
+              "valor_referencia": "818,93"
+            },
+            {
+              "numero": "60",
+              "especificacao": "Serviço de Transmissão de eventos esportivos, culturais, institucionais e similares:transmissão online para redes sociais, em tempo real FULLHD ou 4K, com link de internet dedicado incluso, com narração e comentários.",
+              "unidade": "HR",
+              "quantidade": "50,00",
+              "valor_referencia": "5.000,00"
+            },
+            {
+              "numero": "61",
+              "especificacao": "Sistema de sonorização para megaeventos:Conjunto completo, de 1ª linha, para eventos de mega porte, em espaço aberto, com estimativa de público entre 25.000 e 35.000 pessoas, que atendam rider técnico de artistas e bandas de reconhecimento nacional.",
+              "unidade": "DI",
+              "quantidade": "20,00",
+              "valor_referencia": "20.445,90"
+            },
+            {
+              "numero": "62",
+              "especificacao": "Sistema de sonorização para eventos de grande porte:Conjunto completo, de 1ª linha, para espaço aberto, com estimativa de público entre 15.000 e 24.999 pessoas, que atendam rider técnico de artistas e bandas de reconhecimento nacional.",
+              "unidade": "DI",
+              "quantidade": "20,00",
+              "valor_referencia": "18.386,25"
+            },
+            {
+              "numero": "63",
+              "especificacao": "Sistema de sonorização para eventos de médio porte:Conjunto completo, de 1ª linha, para espaço aberto, com estimativa de público entre 5.000 e 14.999 pessoas, que atendam rider técnico de artistas e bandas de reconhecimento regional.",
+              "unidade": "DI",
+              "quantidade": "40,00",
+              "valor_referencia": "14.610,00"
+            },
+            {
+              "numero": "64",
+              "especificacao": "Sistema de sonorização para eventos de pequeno porte:Conjunto completo, de 1ª linha, para espaço aberto, com estimativa de público entre 1.000 e 4.999 pessoas, que atendam rider técnico de artistas e bandas locais.",
+              "unidade": "DI",
+              "quantidade": "40,00",
+              "valor_referencia": "9.763,33"
+            },
+            {
+              "numero": "65",
+              "especificacao": "Sistema de sonorização para mini eventos:Conjunto completo, de 1ª linha, para espaço aberto, com estimativa de público até 999 pessoas.",
+              "unidade": "DI",
+              "quantidade": "30,00",
+              "valor_referencia": "4.049,50"
+            },
+            {
+              "numero": "66",
+              "especificacao": "Sistema de iluminação para megaeventos:Conjunto completo, de 1ª linha, para espaço aberto, com estimativa de público entre 25.000 e 35.000 pessoas, que atendam rider técnico de artistas e bandas de reconhecimento nacional, em palcos ou trios elétricos",
+              "unidade": "DI",
+              "quantidade": "20,00",
+              "valor_referencia": "21.000,00"
+            },
+            {
+              "numero": "67",
+              "especificacao": "Sistema de iluminação para eventos de grande porte:Conjunto completo, de 1ª linha, para espaço aberto, com estimativa de público entre 15.000 e 24.999 pessoas, que atendam rider técnico de artistas e bandas de reconhecimento nacional, a ser instalada em palcos ou trios elétricos.",
+              "unidade": "DI",
+              "quantidade": "30,00",
+              "valor_referencia": "5.375,00"
+            },
+            {
+              "numero": "68",
+              "especificacao": "Sistema de iluminação para eventos de médio porte:Conjunto completo, de 1ª linha, para espaço aberto, com estimativa de público entre 5.000 e 14.999 pessoas, que atendam rider técnico de artistas e bandas de reconhecimento regional, a ser instalada em palcos ou trios elétricos",
+              "unidade": "DI",
+              "quantidade": "40,00",
+              "valor_referencia": "4.100,00"
+            },
+            {
+              "numero": "69",
+              "especificacao": "Sistema de iluminação para eventos de pequeno porte:Conjunto completo, de 1ª linha, para espaço aberto, com estimativa de público entre 1.000 e 4.999 pessoas, que atendam rider técnico de artistas e bandas locais, a ser instalada em palcos ou trios elétricos",
+              "unidade": "DI",
+              "quantidade": "30,00",
+              "valor_referencia": "2.733,33"
+            },
+            {
+              "numero": "70",
+              "especificacao": "Sistema de iluminação para mini eventos:Conjunto completo, de 1ª linha, para eventos de mini porte, em espaço aberto, com estimativa de público até 999 pessoas, a ser instalada em palcos.",
+              "unidade": "DI",
+              "quantidade": "30,00",
+              "valor_referencia": "2.477,45"
+            },
+            {
+              "numero": "71",
+              "especificacao": "Painel resolução P5:adequado para o uso como recurso cenográfico ou suporte para iluminação em show e grandes eventos em locais abertos. Modelo \"painel\" em \"Led outdoor\" de alto brilho, Estrutura para suporte e fixação dos painéis, bem como os demais equipamentos necessários para o perfeito funcionamento dos serviços. Incluso despesas com transporte carga, descarga, montagem, desmontagem, mão-de- obra.",
+              "unidade": "M2/",
+              "quantidade": "1.500,00",
+              "valor_referencia": "399,70"
+            },
+            {
+              "numero": "72",
+              "especificacao": "Painel de led:vazado para uso em trio elétrico",
+              "unidade": "M2/",
+              "quantidade": "400,00",
+              "valor_referencia": "450,40"
+            },
+            {
+              "numero": "73",
+              "especificacao": "Gride de iluminação para atender palco:em boxtruss de alumínio medindo 07x05 mts, com 01 linha aérea e pé direito de 04 mts",
+              "unidade": "DI",
+              "quantidade": "20,00",
+              "valor_referencia": "3.961,67"
+            },
+            {
+              "numero": "74",
+              "especificacao": "Gride de iluminação para atender palco:em boxtruss de alumínio medindo 09x07 mts, com 01 linha aérea e pé direito de 04 mts",
+              "unidade": "DI",
+              "quantidade": "20,00",
+              "valor_referencia": "5.528,50"
+            },
+            {
+              "numero": "75",
+              "especificacao": "Gride de iluminação para atender palco:em boxtruss de alumínio medindo 11x09 mts, com 02 linhas aéreas e pé direito de 05 mts",
+              "unidade": "DI",
+              "quantidade": "20,00",
+              "valor_referencia": "7.000,00"
+            },
+            {
+              "numero": "76",
+              "especificacao": "Gride de iluminação para atender palco:em boxtruss de alumínio medindo 12x09 mts, com 03 linhas aéreas e pé direito de 05 mts",
+              "unidade": "DI",
+              "quantidade": "20,00",
+              "valor_referencia": "5.309,53"
+            },
+            {
+              "numero": "77",
+              "especificacao": "Gride de iluminação para atender palco:em boxtruss de alumínio medindo 14x12 mts, com 03 linhas aéreas e pé direito de 05 mts",
+              "unidade": "DI",
+              "quantidade": "20,00",
+              "valor_referencia": "5.393,74"
+            },
+            {
+              "numero": "78",
+              "especificacao": "Mini trio elétrico:locação de mini trio eletrico com sonorização de 16 graves, 24 medio graves, com amplificação e periféricos compatíveis, monitores com 08 vias de monitores, mesa digital ou analógica de no mínimo 24 canais, iluminação cênica básica, microfonaço, pedestais, cabos de áudio, geração de energia compatível, com combustível para o caminhão e geradores de energia. observação: motorista uniformizado, manutenção mecânica preventiva e corretiva, pneus, combustível por conta da contratada.",
+              "unidade": "HR",
+              "quantidade": "100,00",
+              "valor_referencia": "184,70"
+            },
+            {
+              "numero": "79",
+              "especificacao": "TRIO ELÉTRICO CARRETA:150 mil watts de potência no som, composto de 01 mesa digital, com 52 canais e 24 auxiliares, 02 processador digital de 04 vias,06 equalizador 366 31 band, amplificadores de palco: 01 aparelho de baixo hartke system 7000 completo, 01 aparelho de teclado kba 300, 02 aparelho de guitarra jazz chorus120, 02 aparelho de guitarra JCM900, 01 corpo de bateria, monitores de palco: 01sb 850 parabateria,02spot222,06spot440,12 fones psm 700, 02 power play de 06 canais cada. Frente/fundo trio: 52 alto falantes de grave, 28 alto falantes de 12,24 driver de titanium, laterais do trio:40 alto falantes de grave, 32alto falantes de médio Grave,24 drive de titanium. Potências: 60 potências V8 , 28 potências 702. Microfones: 03 mic. beta sm 58 PGX 24,01 mic. beta sm 58 lx4 s/ fio, 01 mic. Beta sm 58 lx s/fio, 32mic.sm58, 24 micbetasm 57,05mic.sm 81 06 mic.betasm 58,02 mic.d112, 01 kit mic/bateriaq-3.directbox: 20direct box ativo,10 direct box passive. 40 garras, 40 pedestais modelo girafa. Estrutura do trio: 01 cavalo mecânico, carroceria com 23 mts de comprimentos 3,20 de largura, 3 eixos, 02 grupo gerador 180 kva, composta ainda de camarim com geladeira, ar condicionado, micro-ondas, circuito interno de TV, 02 banheiros, saídas de emergência. OBSERVAÇÃO: MOTORISTA UNIFORMIZADO, MANUTENÇÃO MECÂNICA PREVENTIVA E CORRETIVA.",
+              "unidade": "DI",
+              "quantidade": "30,00",
+              "valor_referencia": "34.070,27"
+            },
+            {
+              "numero": "80",
+              "especificacao": "TRIO ELÉTRICO TRUCK:TRIO ELÉTRICO - TRUCK - 80 mil watts de potência no som, composto de 01 mesa digital, com 48 canais e 24 auxiliares, 02 processador digital de 04 vias,02 equalizador 366 31 band, amplificadores de palco: 01 aparelho de baixo hartke system 7000 completo, 01 aparelho de teclado kba 300, 02 aparelho de guitarra jazz chorus 120, 02aparelho de guitarra JCM900, 01 corpo de bateria, monitores de palco: 01sb 850 para bateria, 02 spot 222, 06 spot 440,12 fones psm 700, 02 power play de 06 canais cada. Frente/fundo trio: 24 alto falantes de grave, 32 alto falantes de 12, 24 driver de titanium, laterais do trio: 32 alto falantes de grave,32 alto falantes de médio grave, 24 driver de titanium. Potências: 40 potências diversas, microfones: 03 mic.betasm 58PG X 24, 01mic. Betas m58lx4s/ fio, 01mic. Betasm 58lxs/fio, 32mic.sm58, 24 mic.betasm 57,05 mic.sm 8106 mic. betasm 58, 02 mic. d112, 01 kit mic/bateria q-3.direct box: 20 direct box ativo, 10 direct box passive.40 garras, 40 pedestais modelo girafa. Estrutura do trio: 01 caminhão truck, carroceria com 12 mts de comprimentos 3, 50 de largura, 3 eixos, 02 grupo gerador 180 kva, composta ainda de camarim com geladeira, ar condicionado, micro-ondas, circuito interno de TV, 02 banheiros, saídas de emergência. OBSERVAÇÃO: MOTORISTA UNIFORMIZADO, MANUTENÇÃO MECÂNICA PREVENTIVA E CORRETIVA.",
+              "unidade": "DI",
+              "quantidade": "4,00",
+              "valor_referencia": "22.343,80"
+            },
+            {
+              "numero": "81",
+              "especificacao": "Fornecimento de Almoço/Jantar Institucional:Fornecimento de alimentos e bebidas não alcoólicas para almoço e jantar institucional e jogos de jantar (prato, conjunto de talheres e taça). O serviço deverá ser do tipo \"buffet\", por pessoa. Cardápio sugerido almoço/jantar: - 02 (dois) tipos de saladas; - Arroz; - 02 (dois) tipos de legumes; - 01 (um) tipo de carne vermelha; - 01 (um) tipo de carne de ave ou peixe; - 01 (um) tipo de massa; - 01 (uma) opção vegetariana; Cardápio sugerido sobremesas: - Frutas laminadas e - 02 (duas) opções de doces (tortas, pudins, pavês, mousses e compotas); Cardápio sugerido bebidas: - Água mineral (com e sem gás); - 02 (dois) tipos de sucos naturais de frutas; - 03 (três) tipos de refrigerantes (normal, light e zero).",
+              "unidade": "SER",
+              "quantidade": "1.200,00",
+              "valor_referencia": "69,39"
+            },
+            {
+              "numero": "82",
+              "especificacao": "Fornecimento de Coffe Break:Fornecimento de alimentos e bebidas não alcoólicas para eventos institucionais, por pessoa. Cardápio sugerido: - Chocolate quente; - Cappuccino; - Café (com e sem açúcar); - Chá; - 02 (dois) tipos de sucos naturais de frutas; - 03 (três) tipos de refrigerante (02 normais, 01 light e/ou zero); - 10 (dez) tipos de salgados; - Bolos; - Tortas salgadas - Pães; - Broas; - Sanduiches; - Canapés; - Doces.",
+              "unidade": "SER",
+              "quantidade": "9.200,00",
+              "valor_referencia": "36,86"
+            },
+            {
+              "numero": "83",
+              "especificacao": "Fornecimento de Almoço/Jantar:Contratação de restaurante tipo self-service ou churrascaria para fornecimento de alimentação individualizada à servidores ou comitivas, por pessoa.",
+              "unidade": "SER",
+              "quantidade": "3.000,00",
+              "valor_referencia": "51,43"
+            },
+            {
+              "numero": "84",
+              "especificacao": "Locação de tablados redondos:para 08 (oito) lugares, em madeira aglomerada.",
+              "unidade": "UND",
+              "quantidade": "400,00",
+              "valor_referencia": "14,24"
+            },
+            {
+              "numero": "85",
+              "especificacao": "Locação de toalhas redondas:em tecido jacquard, nas cores diversas, para cobertura total das mesas até o chão.",
+              "unidade": "UND",
+              "quantidade": "400,00",
+              "valor_referencia": "21,72"
+            },
+            {
+              "numero": "86",
+              "especificacao": "Garçom:serviços de garçom para apoio e suporte a evento com homens e mulheres, devidamente uniformizados, em turno de até 08 horas. Despesas com logística, transporte, mão de obra, instalação, remoção, ferramentas, alimentação, e hospedagem são de responsabilidade exclusiva da contratada",
+              "unidade": "DI",
+              "quantidade": "60,00",
+              "valor_referencia": "234,87"
+            },
+            {
+              "numero": "87",
+              "especificacao": "Lanche:fornecimento de lanche individual, contendo suco de caixinha 200ml, barra de cereal 25g, pão francês com queijo e presunto, fruta.",
+              "unidade": "KIT",
+              "quantidade": "3.000,00",
+              "valor_referencia": "13,12"
+            },
+            {
+              "numero": "88",
+              "especificacao": "Shows Musicais com cachê até R$ 3.000,00 (três mil reais):contratação de bandas ou artistas musicais para apresentação ao vivo em local público. Despesas com transporte, translado, hospedagem e alimentação é de exclusividade da contratada.",
+              "unidade": "SER",
+              "quantidade": "40,00",
+              "valor_referencia": "3.026,00"
+            },
+            {
+              "numero": "89",
+              "especificacao": "Shows Musicais com cachê até R$ 5.000,00 (cinco mil reais):contratação de bandas ou artistas musicais para apresentação ao vivo em local público. Despesas com transporte, translado, hospedagem e alimentação é de exclusividade da contratada.",
+              "unidade": "SER",
+              "quantidade": "30,00",
+              "valor_referencia": "5.221,00"
+            },
+            {
+              "numero": "90",
+              "especificacao": "Shows Musicais com cachê até R$ 8.000,00 (oito mil reais):contratação de bandas ou artistas musicais para apresentação ao vivo em local público. Despesas com transporte, translado, hospedagem e alimentação é de exclusividade da contratada.",
+              "unidade": "SER",
+              "quantidade": "20,00",
+              "valor_referencia": "8.003,57"
+            },
+            {
+              "numero": "91",
+              "especificacao": "Shows Musicais com cachê até R$ 10.000,00 (dez mil reais):contratação de bandas ou artistas musicais para apresentação ao vivo em local público. Despesas com transporte, translado, hospedagem e alimentação é de exclusividade da contratada.",
+              "unidade": "SER",
+              "quantidade": "20,00",
+              "valor_referencia": "10.000,00"
+            },
+            {
+              "numero": "92",
+              "especificacao": "Shows Musicais com cachê até R$ 15.000,00 (quinze mil reais):contratação de bandas ou artistas musicais para apresentação ao vivo em local público. Despesas com transporte, translado, hospedagem e alimentação é de exclusividade da contratada.",
+              "unidade": "SER",
+              "quantidade": "15,00",
+              "valor_referencia": "15.049,00"
+            },
+            {
+              "numero": "93",
+              "especificacao": "Palestrantes:Contratação de profissionais até R$ 6.000,00 (seis mil reais), com notória especialização para palestras técnicas, motivacionais, capacitações, oficinas e treinamentos. Despesas com transporte, translado, hospedagem e alimentação é de exclusividade da contratada.",
+              "unidade": "SER",
+              "quantidade": "9,00",
+              "valor_referencia": "3.026,67"
+            },
+            {
+              "numero": "94",
+              "especificacao": "Palestrantes:Contratação de profissionais até R$ 6.000,00 (seis mil reais), com notória especialização para palestras técnicas, motivacionais, capacitações, oficinas e treinamentos. Despesas com transporte, translado, hospedagem e alimentação é de exclusividade da contratada.",
+              "unidade": "SER",
+              "quantidade": "9,00",
+              "valor_referencia": "6.005,88"
+            },
+            {
+              "numero": "95",
+              "especificacao": "Capacitação:Contratação de instituições ou profissionais até R$ 4.000,00 (quatro mil reais), com notória especialização para ministrar cursos de capacitação técnica, oficinas e treinamentos, com emissão de certificado por instituição reconhecida na área de atuação. Despesas com transporte, translado, hospedagem e alimentação é de exclusividade da contratada.",
+              "unidade": "SER",
+              "quantidade": "16,00",
+              "valor_referencia": "4.016,11"
+            },
+            {
+              "numero": "96",
+              "especificacao": "Capacitação:Contratação de instituições ou profissionais até R$ 8.000,00 (oito mil reais), com notória especialização para ministrar cursos de capacitação técnica, oficinas e treinamentos, com emissão de certificado por instituição reconhecida na área de atuação. Despesas com transporte, translado.",
+              "unidade": "SER",
+              "quantidade": "16,00",
+              "valor_referencia": "8.020,00"
+            },
+            {
+              "numero": "97",
+              "especificacao": "Hospedagem:Contratação de serviço de hospedagens em hotéis e pousadas bem localizados, com aspecto apresentável, sediados no município , com quarto single contendo dormitório, banheiro, ar-condicionado e internet.",
+              "unidade": "DI",
+              "quantidade": "375,00",
+              "valor_referencia": "203,82"
+            },
+            {
+              "numero": "98",
+              "especificacao": "Hospedagem:Contratação de serviço de hospedagens em hotéis e pousadas bem localizados, com aspecto apresentável, sediados no município , com quarto duplo contendo dormitório, banheiro, ar-condicionado e internet.",
+              "unidade": "DI",
+              "quantidade": "220,00",
+              "valor_referencia": "300,00"
+            },
+            {
+              "numero": "99",
+              "especificacao": "Hospedagem:Contratação de serviço de hospedagens em hotéis e pousadas bem localizados, com aspecto apresentável, sediados no município , com quarto triplo contendo dormitório, banheiro, ar-condicionado e internet.",
+              "unidade": "DI",
+              "quantidade": "150,00",
+              "valor_referencia": "400,00"
+            },
+            {
+              "numero": "100",
+              "especificacao": "Pulseiras de identificação:Especificações: Confeccionadas em papel sintético de alta resistência, impermeável e resistente à tração e ao uso prolongado, nas cores diversas, com fechamento por lacre adesivo com picote de segurança, que inviabiliza o reaproveitamento após a abertura. Produto ideal para controle de acesso em eventos, com excelente aderência, conforto no uso e durabilidade mesmo em ambientes úmidos",
+              "unidade": "UND",
+              "quantidade": "1.600,00",
+              "valor_referencia": "1,75"
+            },
+            {
+              "numero": "101",
+              "especificacao": "KIT 6 TUBOS DE FOGOS DE ARTIFÍCIOS COM 3 POLEGADAS:CORES E EFEITOS DIVERSOS",
+              "unidade": "UND",
+              "quantidade": "8,00",
+              "valor_referencia": "355,00"
+            },
+            {
+              "numero": "102",
+              "especificacao": "KIT 12 TUBOS DE FOGOS DE ARTIFÍOS COM 3 POLEGADAS:CORES E EFEITOS DIVERSOS",
+              "unidade": "UND",
+              "quantidade": "8,00",
+              "valor_referencia": "725,00"
+            },
+            {
+              "numero": "103",
+              "especificacao": "KIT 25 TUBOS DE FOGOS DE ARTIFÍCIOS COM 2,5 POLEGADAS 3G:CORES E EFEITOS DIVERSOS",
+              "unidade": "UND",
+              "quantidade": "8,00",
+              "valor_referencia": "1.150,00"
+            },
+            {
+              "numero": "104",
+              "especificacao": "GIRANDOLA 468 CORES MISTA COM 36 TUBOS DE 1,5 POLEGADAS:CORES E EFEITOS DIVERSOS",
+              "unidade": "CX",
+              "quantidade": "30,00",
+              "valor_referencia": "253,47"
+            },
+            {
+              "numero": "105",
+              "especificacao": "GIRANDOLA 468 CORES MISTA COM 36 TUBOS:DE 1,5 POLEGADAS, CORES E EFEITOS DIVERSOS",
+              "unidade": "CX",
+              "quantidade": "30,00",
+              "valor_referencia": "276,66"
+            },
+            {
+              "numero": "106",
+              "especificacao": "GIRANDOLA 1080 TIROS MISTA COM 72 TUBOS DE 1,5 POLEGADAS:EFEITOS SONOROS DE TIROS SECOS",
+              "unidade": "CX",
+              "quantidade": "10,00",
+              "valor_referencia": "585,75"
+            },
+            {
+              "numero": "107",
+              "especificacao": "GIRANDOLA 1800 CORES COM 72 TUBOS DE 1,5 POLEGADAS:CORES E EFEITOS DIVERSOS",
+              "unidade": "CX",
+              "quantidade": "10,00",
+              "valor_referencia": "853,33"
+            },
+            {
+              "numero": "108",
+              "especificacao": "GIRANDOLA 3600 MISTA CORES COM 72 TUBOS DE 1,5 POLEGADAS:CORES E EFEITOS DIVERSOS",
+              "unidade": "CX",
+              "quantidade": "10,00",
+              "valor_referencia": "2.296,67"
+            },
+            {
+              "numero": "109",
+              "especificacao": "FOGUETE 12X1 TIROS COM 6 TUBOS DE 1,5 POLEGADAS:EFEITOS SONOROS DE TIROS SECOS",
+              "unidade": "CX",
+              "quantidade": "2.000,00",
+              "valor_referencia": "33,75"
+            },
+            {
+              "numero": "110",
+              "especificacao": "FOGUETE EXPLOSÃO DE CORES COM 6 TUBOS DE 1,5 POLEGADAS:CORES E EFEITOS DIVERSOS",
+              "unidade": "CX",
+              "quantidade": "200,00",
+              "valor_referencia": "53,33"
+            },
+            {
+              "numero": "111",
+              "especificacao": "MORTEIRO 4 POLEGADAS:CORES E EFEITOS DIVERSOS",
+              "unidade": "UND",
+              "quantidade": "30,00",
+              "valor_referencia": "121,67"
+            },
+            {
+              "numero": "112",
+              "especificacao": "MORTEIRO 5 POLEGADAS:CORES E EFEITOS DIVERSOS",
+              "unidade": "UND",
+              "quantidade": "20,00",
+              "valor_referencia": "234,67"
+            },
+            {
+              "numero": "113",
+              "especificacao": "MORTEIRO 6 POLEGADAS:CORES E EFEITOS DIVERSOS",
+              "unidade": "UND",
+              "quantidade": "20,00",
+              "valor_referencia": "353,33"
+            },
+            {
+              "numero": "114",
+              "especificacao": "TORTA 25 TUBOS DE FOGOS DE ARTIFÍCIOS 2 POLEGADAS:BOLADÃO MIX",
+              "unidade": "UND",
+              "quantidade": "10,00",
+              "valor_referencia": "356,67"
+            },
+            {
+              "numero": "115",
+              "especificacao": "TORTA CONTRATACK:COM 50 TUBOS DE FOGOS DE ARTIFÍCIOS DE 2 POLEGADAS",
+              "unidade": "UND",
+              "quantidade": "10,00",
+              "valor_referencia": "677,50"
+            },
+            {
+              "numero": "116",
+              "especificacao": "TORTA DE FOGOS DE ARTIFÍCIOS:PREMIUM",
+              "unidade": "UND",
+              "quantidade": "10,00",
+              "valor_referencia": "3.301,25"
+            },
+            {
+              "numero": "117",
+              "especificacao": "TORTA DE FOGOS DE ARTIFÍCIOS:PARIS 49 TUBOS 1,5\"",
+              "unidade": "UND",
+              "quantidade": "10,00",
+              "valor_referencia": "613,33"
+            },
+            {
+              "numero": "118",
+              "especificacao": "TORTA DE FOGOS DE ARTIFÍCIOS:MADRID 100 TUBOS 1,5\"",
+              "unidade": "UND",
+              "quantidade": "10,00",
+              "valor_referencia": "1.226,67"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2-DLE-031-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "240/2026",
+      "modalidade": "DISPENSA ELETRÔNICA",
+      "situacao": "RECEPÇÃO DE PROPOSTAS",
+      "condutor": "ISAQUE SILVA DOS SANTOS",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO",
+      "publicacao": "02/04/2026 17:54",
+      "inicio_recepcao": "02/04/2026 18:05",
+      "fim_recepcao": "09/04/2026 08:15",
+      "inicio_disputa": "09/04/2026 08:30",
+      "objeto": "Contratação de empresa especializada em fornecimento de [TELAS MOSQUITEIRAS PARA JANELAS E BASCULANTES]\n(material de consumo), a fim de atender às necessidades da Secretaria Municipal de Administração.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DYZJko9LLqbdcQRFps3qAfIJRZqDwKDkZ4YA_PFSMOARV%2FB8%2F25f85o93mp_OEv%2F%2FoLieuvjgc_o3ZIuRc8jFwk4NetoZ8pKdw3_KwvWIXD4%3D",
+      "total_lotes": 1,
+      "total_itens": 1,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "TELA MOSQUISTEIRA",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "8.019,60",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515461 Tela mosquiteira em fibra de vidro revestida emPVC:cor cinza, fornecida em rolo com largura nominal de 1,20m e comprimento de 50 m, totalizando aproximadamente 60m² por rolo, com malha fina tipo 18 x 16 fios por polegada ouequivalente. Adequada para proteção contra insetos, vetorese pragas urbanas, permitindo ampla circulação de ar epassagem de luz natural, sem comprometer a luminosidadedo ambiente.Produto antialérgico, inodoro, lavável com águae detergente neutro, de fácil corte e instalação, que não desfianas bordas, não resseca, não rasga com facilidade, resistentea raios UV, intempéries, umidade e fungos, com característicade nãopropagação de chamas e alta durabilidade em usocontínuo. Destinada à instalação em janelas, portas,basculantes e demais aberturas de cozinhas, despensas eáreas de preparo e armazenamento de alimentos dasunidades escolares da rede municipal, para confecção demódulos fixos ou removíveis pelas equipes internas demarcenaria e serralheria da Secretaria Municipal deEducação, em conformidade com as exigências sanitáriaspara barreiras físicas e com especificações técnicasUsualmente adotadas em contratações públicas. EXCLUSIVOPARA ME/EPP.",
+              "unidade": "ROL",
+              "quantidade": "30,00",
+              "valor_referencia": "267,32"
             }
           ]
         }
