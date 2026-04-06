@@ -1792,10 +1792,10 @@ function exportPDF() {
     let head, body;
     if (isLicit) {
         if (viewMode === 'registros') {
-            head = [['Nº Edital','Modalidade','Objeto','Condutor','Lotes','Valor Ref.','Situação']];
+            head = [['Nº Edital','Modalidade','Objeto','Lotes','Valor Ref.','Situação']];
             body = filteredData.map(r => {
                 const val = (r.lotes||[]).reduce((s,l)=>s+parseValor(l.valor_referencia||0),0);
-                return [r.id||'', r.modalidade||'', (r.objeto||'').substring(0,70), r.condutor||'', r.total_lotes||0, val>0?fmtBRL(val):'–', r.situacao||''];
+                return [r.id||'', r.modalidade||'', r.objeto||'', r.total_lotes||0, val>0?fmtBRL(val):'–', r.situacao||''];
             });
         } else {
             head = [['Processo','Lote','Especificação','Un.','Qtd.','Valor Ref.','Situação']];
@@ -1828,7 +1828,7 @@ function exportPDF() {
         styles: { fontSize: 7, cellPadding: 2.5, overflow: 'linebreak' },
         headStyles: { fillColor: cor, textColor: 255, fontStyle: 'bold', fontSize: 7.5 },
         alternateRowStyles: { fillColor: [248,250,252] },
-        columnStyles: viewMode==='registros' && isLicit ? { 2:{cellWidth:75}, 3:{cellWidth:40} } : {},
+        columnStyles: viewMode==='registros' && isLicit ? { 2:{cellWidth:120} } : {},
         margin: { left: 10, right: 10 },
         didDrawPage: (data) => {
             // Rodapé
