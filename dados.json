@@ -4,77 +4,9 @@
     "total_processos": 751,
     "total_lotes": 8618,
     "total_itens": 14364,
-    "atualizado_em": "20260403_155411"
+    "atualizado_em": "20260406_181243"
   },
   "processos": [
-    {
-      "id": "2-DLE-015-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "109-2026",
-      "modalidade": "DISPENSA ELETRÔNICA",
-      "situacao": "HABILITAÇÃO",
-      "condutor": "ISAQUE SILVA DOS SANTOS",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO",
-      "publicacao": "02/03/2026 16:13",
-      "inicio_recepcao": "02/03/2026 16:15",
-      "fim_recepcao": "06/03/2026 08:15",
-      "inicio_disputa": "06/03/2026 08:30",
-      "objeto": "Contratação de empresa especializada em fornecimento de KIT DE REGULADORES DE CILINDRO PARA BOTIJÃO DE GÁS, a\nfim de atender as necessidades da Secretaria Municipal de Administração.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DJ_Vxw8cb4rLpK7yXG4C2%2FYa%2FbAyZBspI_SCYY7sqvNX_dr0m2rlFi36Z_0Xp3mIkfw4SSOlmXLYm7prVsaKCUpsW4WXlXzBegHB6kdGw%2Fos%3D",
-      "total_lotes": 2,
-      "total_itens": 2,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "9900515338 REGULADOR DE CILINDRO DE GÁS BOTIJA13KG:kit para instalação do botijão de gás 13kg contendo registro constando a gravação do código do INMETRO e prazo de validade não inferior a 5 (cinco) anos; mangueira em material plástico pvc transparente,",
-          "fase": "EM ADJUDICAÇÃO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "17.003,70",
-          "vencedor": "GJ SOLUÇÕES EM LICITAÇÕES E ASSESSORIA LTDA",
-          "melhor_oferta": "15.592,50",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900515338 REGULADOR DE CILINDRO DE GÁS BOTIJA13KG:kit para instalação do botijão de gás 13kg contendo registro constando a gravação do código do INMETRO e prazo de validade não inferior a 5 (cinco) anos; mangueira em material plástico pvc transparente, trançada, tarja amarela, exibindo a inscrição NBR 8613, nome do fabricante, com comprimento 1,25m e prazo de validade não inferior a 5 (cinco) anos; 2 (duas) abraçadeiras para botijão de gás 13kg. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "UND",
-              "quantidade": "315,00",
-              "valor_referencia": "53,98"
-            }
-          ]
-        },
-        {
-          "numero": "2",
-          "titulo": "9900515339 REGULADOR DE CILINDRO DE GÁS BOTIJA45KG:kit para instalação do botijão de gás GLP P45, contendo: 1(um) registro regulador de gás 12kg/h, com prazo de validade não inferior a 5 (cinco) anos; 02 (duas) mangueiras pig-tail de 1,00m de comprimento",
-          "fase": "FRACASSADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "44.116,80",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900515339 REGULADOR DE CILINDRO DE GÁS BOTIJA45KG:kit para instalação do botijão de gás GLP P45, contendo: 1(um) registro regulador de gás 12kg/h, com prazo de validade não inferior a 5 (cinco) anos; 02 (duas) mangueiras pig-tail de 1,00m de comprimento, 2(duas) válvulas de retenção, 2 (dois) registros esféricos, 2 (dois) suporte de fixação, 1 (um) coletor de ferro, 2 (dois) cotovelos, 2 (dois) niple, 1 (um) conector metálico em formato tê, 1(uma) bucha de redução, 1 (um) manômetro.Características adicionais: suportar até 2 (dois) botijões p45 de 45kg cada. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "UND",
-              "quantidade": "210,00",
-              "valor_referencia": "210,08"
-            }
-          ]
-        }
-      ]
-    },
     {
       "id": "4-DLE-019-2026",
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
@@ -14376,141 +14308,6 @@
               "unidade": "PAR",
               "quantidade": "30,00",
               "valor_referencia": "582,95"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "CE-018-2025",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "1327/2025",
-      "modalidade": "CONCORRÊNCIA ELETRÔNICA",
-      "situacao": "HABILITAÇÃO",
-      "condutor": "DAVIDSON ARAUJO SANTOS",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO PARCELADA",
-      "publicacao": "31/10/2025 18:50",
-      "inicio_recepcao": "03/11/2025 08:00",
-      "fim_recepcao": "09/12/2025 08:15",
-      "inicio_disputa": "09/12/2025 08:30",
-      "objeto": "Contratação de empresa especializada em execução de obras de construção de uma mini quadra na Escola Municipal Amigos da Natureza, localizada no bairro Liberdade II, do município de Teixeira de Freitas – BA.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DbRNoHa7PGJh0EBlV1h0fcw8u0sFWj92LDMOBSGfIX2bwrWZPjhY5%2FzZk5jXRDmreae4bixjXpYN5UioZsVCSFZGyd6gf3U4xiCty6u5NcqU%3D",
-      "total_lotes": 1,
-      "total_itens": 14,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "EXECUÇÃO DE OBRAS DE CONSTRUÇÃO DE UMA MINI QUADRA NA ESCOLA MUNICIPAL AMIGOS DA NATUREZA",
-          "fase": "EM ADJUDICAÇÃO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "100,00",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "326.212,12",
-          "vencedor": "BULOKE CONSTRUCAO E SERVICOS LTDA",
-          "melhor_oferta": "325.539,33",
-          "total_itens": 14,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "SERVIÇOS PRELIMINARES",
-              "unidade": "SERVIÇO",
-              "quantidade": "1,00",
-              "valor_referencia": "33.495,37"
-            },
-            {
-              "numero": "2",
-              "especificacao": "MOVIMENTO DE TERRA",
-              "unidade": "SERVIÇO",
-              "quantidade": "1,00",
-              "valor_referencia": "3.042,48"
-            },
-            {
-              "numero": "3",
-              "especificacao": "INFRAESTRUTURA",
-              "unidade": "SERVIÇO",
-              "quantidade": "1,00",
-              "valor_referencia": "8.191,22"
-            },
-            {
-              "numero": "4",
-              "especificacao": "SUPERESTRUTURA - ESTRUTURA METÁLICA",
-              "unidade": "SERVIÇO",
-              "quantidade": "1,00",
-              "valor_referencia": "61.433,58"
-            },
-            {
-              "numero": "5",
-              "especificacao": "ALVENARIA -VEDAÇÃO",
-              "unidade": "SERVIÇO",
-              "quantidade": "1,00",
-              "valor_referencia": "32.933,50"
-            },
-            {
-              "numero": "6",
-              "especificacao": "ESQUADRIAS/ EQUIPAMENTOS",
-              "unidade": "SERVIÇO",
-              "quantidade": "1,00",
-              "valor_referencia": "13.830,11"
-            },
-            {
-              "numero": "7",
-              "especificacao": "SISTEMAS DE COBERTURA",
-              "unidade": "SERVIÇO",
-              "quantidade": "1,00",
-              "valor_referencia": "29.076,26"
-            },
-            {
-              "numero": "8",
-              "especificacao": "IMPERMEABILIZAÇÃO",
-              "unidade": "SERVIÇO",
-              "quantidade": "1,00",
-              "valor_referencia": "3.097,04"
-            },
-            {
-              "numero": "9",
-              "especificacao": "PAVIMENTAÇÃO (PISOS)",
-              "unidade": "SERVIÇO",
-              "quantidade": "1,00",
-              "valor_referencia": "60.516,77"
-            },
-            {
-              "numero": "10",
-              "especificacao": "PINTURAS",
-              "unidade": "SERVIÇO",
-              "quantidade": "1,00",
-              "valor_referencia": "35.420,45"
-            },
-            {
-              "numero": "11",
-              "especificacao": "DRENAGEM DE AGUAS PLUVIAIS",
-              "unidade": "SERVIÇO",
-              "quantidade": "1,00",
-              "valor_referencia": "14.847,35"
-            },
-            {
-              "numero": "12",
-              "especificacao": "INSTALAÇÕES ELÉTRICAS",
-              "unidade": "SERVIÇO",
-              "quantidade": "1,00",
-              "valor_referencia": "8.692,76"
-            },
-            {
-              "numero": "13",
-              "especificacao": "SISTEMA DE PROTEÇÃO CONTRA DESCARGAS ATMOSFÉRICAS (SPDA)",
-              "unidade": "SERVIÇO",
-              "quantidade": "1,00",
-              "valor_referencia": "20.926,04"
-            },
-            {
-              "numero": "14",
-              "especificacao": "SERVIÇOS FINAIS",
-              "unidade": "UN",
-              "quantidade": "1,00",
-              "valor_referencia": "709,19"
             }
           ]
         }
@@ -231462,326 +231259,6 @@
       ]
     },
     {
-      "id": "4-DLE-003-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "1431/2025",
-      "modalidade": "DISPENSA ELETRÔNICA",
-      "situacao": "HOMOLOGADO",
-      "condutor": "ISAQUE SILVA DOS SANTOS",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO PARCELADA",
-      "publicacao": "16/01/2026 19:13",
-      "inicio_recepcao": "16/01/2026 19:30",
-      "fim_recepcao": "22/01/2026 08:15",
-      "inicio_disputa": "22/01/2026 08:30",
-      "objeto": "Contratação de empresas especializada em fornecimento de EQUIPAMENTOS, FERRAMENTAS, INSUMOS\nDIVERSOS E EPIS (materiais de consumo e permanentes), Secretaria Municipal de Educação",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DNPbty8fM9Cemq793hDpVz9O6p5bzskCq%2FT5At_vpgT4mWyQlHvH3hV8S5t79o5LtDLN05YquButAYjDqoiLkm25jmhqPyjf27on36TGC3rI%3D",
-      "total_lotes": 2,
-      "total_itens": 38,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "LOTE 1",
-          "fase": "HOMOLOGADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "7.969,99",
-          "vencedor": "CLEBER SANTANA SANTOS",
-          "melhor_oferta": "7.800,00",
-          "total_itens": 21,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900514997 Alicate universal com comprimento total de 200 mm:Confeccionado em aço de alto carbono temperado, dureza HRC 46–56, punho emborrachado em borracha termoplástica ergonômica, capacidade de corte de fios de até 2 mm em aço, resistente, anticorrosivo e indicado para uso geral em manutenção e oficina.",
-              "unidade": "UND",
-              "quantidade": "2,00",
-              "valor_referencia": "36,87"
-            },
-            {
-              "numero": "2",
-              "especificacao": "9900514998 Alicate de pressão com comprimento total de 224 mm:Abertura máxima da boca de 28 mm, mordente tipo Grip, confeccionado em aço cromo-vanádio de alta resistência, acabamento niquelado e cromado anticorrosivo, com trava de pressão regulável e cabo ergonômico.",
-              "unidade": "UND",
-              "quantidade": "2,00",
-              "valor_referencia": "55,97"
-            },
-            {
-              "numero": "3",
-              "especificacao": "9900514999 Alicate de corte diagonal com comprimento aproximado de 180 mm:Corpo em aço cromo-vanádio temperado, mordentes de alta precisão com acabamento niquelado e anticorrosivo, cabo ergonômico com revestimento emborrachado antiderrapante.",
-              "unidade": "UND",
-              "quantidade": "2,00",
-              "valor_referencia": "41,27"
-            },
-            {
-              "numero": "4",
-              "especificacao": "9900515000 Alicate de bico meia-cana, tamanho 6:Corpo em aço carbono temperado, arestas de corte afiadas, cabo emborrachado ergonômico, indicado para trabalhos de precisão.",
-              "unidade": "UND",
-              "quantidade": "2,00",
-              "valor_referencia": "46,75"
-            },
-            {
-              "numero": "5",
-              "especificacao": "9900515001 Arco de serra com serra, comprimento total de 400 mm:Arco tubular em aço pintado, lâmina de aço temperado de 300 mm com 24 dentes por polegada, cabo em polipropileno anatômico.",
-              "unidade": "UND",
-              "quantidade": "1,00",
-              "valor_referencia": "37,40"
-            },
-            {
-              "numero": "6",
-              "especificacao": "5707611099 Carrinho de ferramentas em aço:Capacidade de carga de 200 kg, dimensões de 600x400x890 mm, com 5 gavetas, rodízios de 4”, puxador ergonômico e fechadura com chave.",
-              "unidade": "UND",
-              "quantidade": "4,00",
-              "valor_referencia": "1.374,70"
-            },
-            {
-              "numero": "7",
-              "especificacao": "9900515049 Caixa plástica tipo baú, capacidade de 20 litros:Confeccionada em polipropileno resistente, com alça integrada e tampa com trava de segurança, dimensões aproximadas de 400x300x250 mm.",
-              "unidade": "UND",
-              "quantidade": "6,00",
-              "valor_referencia": "47,39"
-            },
-            {
-              "numero": "8",
-              "especificacao": "9900515005 Esquadro combinado de 300 mm:Confeccionado em alumínio anodizado com escala gravada a laser em baixo relevo, possui nível em acrílico, riscador e graduação em centímetros e polegadas, proporcionando medições em ângulos de 45º e 90º.",
-              "unidade": "UND",
-              "quantidade": "2,00",
-              "valor_referencia": "123,00"
-            },
-            {
-              "numero": "9",
-              "especificacao": "9900515006 Escova manual de aço, corpo e cabo em madeira, base reforçada:Com 4 fileiras de cerdas em aço carbono polido, indicada para remoção de ferrugem, tintas e limpeza de superfícies metálicas.",
-              "unidade": "UND",
-              "quantidade": "2,00",
-              "valor_referencia": "7,31"
-            },
-            {
-              "numero": "10",
-              "especificacao": "9900515009 Engate rápido macho e fêmea para mangueira de 1/4:Fabricado em latão cromado, resistência até 55 psi, dimensões de 35,56 mm de diâmetro e 50 mm de comprimento, peso aproximado de 200 g.",
-              "unidade": "CJ",
-              "quantidade": "4,00",
-              "valor_referencia": "36,54"
-            },
-            {
-              "numero": "11",
-              "especificacao": "9900515013 Grampo tipo sargento de aperto rápido:Tamanho de 18 polegadas (50x300 mm), confeccionado em aço especial com acabamento cromado, cabo emborrachado ergonômico, resistente e de fácil manuseio.",
-              "unidade": "UND",
-              "quantidade": "6,00",
-              "valor_referencia": "51,58"
-            },
-            {
-              "numero": "12",
-              "especificacao": "9900515015 Jogo de chaves Allen com 30 peças em aço cromo-vanádio:Contendo 15 peças em milímetros (0,7 a 10 mm) e 15 peças em polegadas (0,028” a 3/8”), acondicionadas em estojo plástico",
-              "unidade": "JOG",
-              "quantidade": "1,00",
-              "valor_referencia": "112,60"
-            },
-            {
-              "numero": "13",
-              "especificacao": "9900515016 Kit com 3 alicates de pressão mordente tipo U C ,:Fabricados em aço especial de alta resistência, corpo dobrado com rebites reforçados, mordentes temperados e acabamento niquelado ou cromado. O kit contém: 1 alicate de 10”, 1 alicate de 8” e 1 alicate de 6”, ideal para fixação de chapas, tubos, perfis e cantos sem danificar a superfície.",
-              "unidade": "UND",
-              "quantidade": "2,00",
-              "valor_referencia": "108,45"
-            },
-            {
-              "numero": "14",
-              "especificacao": "9900515017 Luvas de segurança para solda:Confeccionadas em couro, modelo de cano longo com reforço na palma, costura reforçada entre os dedos, totalmente forradas até o punho para maior conforto e proteção.",
-              "unidade": "PAR",
-              "quantidade": "2,00",
-              "valor_referencia": "31,15"
-            },
-            {
-              "numero": "15",
-              "especificacao": "9900515018 Martelo tipo unha de 27 mm:Martelo tipo unha de 27 mm, cabeça forjada em aço com acabamento polido, cabo em fibra de alta resistência com empunhadura emborrachada, anatômico e ergonômico.",
-              "unidade": "UND",
-              "quantidade": "2,00",
-              "valor_referencia": "29,55"
-            },
-            {
-              "numero": "16",
-              "especificacao": "9900515024 Nível de bolha em alumínio:Comprimento de 300 mm, com 3 bolhas de alta precisão (horizontal, vertical e 45º), corpo reforçado em alumínio denso, resistente a impactos e corrosão.",
-              "unidade": "UND",
-              "quantidade": "2,00",
-              "valor_referencia": "41,05"
-            },
-            {
-              "numero": "17",
-              "especificacao": "9900515025 Óculos de proteção de sobreposição:Confeccionados em policarbonato incolor de alta resistência, com tratamento antirrisco e antiembaçante, proteção UV, armação plástica flexível e anatômica, compatíveis com uso sobre óculos corretivos.",
-              "unidade": "UND",
-              "quantidade": "40,00",
-              "valor_referencia": "4,81"
-            },
-            {
-              "numero": "18",
-              "especificacao": "9900515027 Pincel trincha de 4 polegadas (101,6 mm):Cabo em madeira envernizada de 150 mm, cerdas mistas sintéticas e naturais, resistentes a solventes, indicado para pintura de superfícies amplas.",
-              "unidade": "UND",
-              "quantidade": "4,00",
-              "valor_referencia": "16,84"
-            },
-            {
-              "numero": "19",
-              "especificacao": "9900515028 Pincel trincha de 2 polegadas (50,8 mm):Cabo em madeira envernizada de 150 mm, cerdas mistas sintéticas e naturais, resistentes a solventes, indicado para pintura de precisão em áreas menores.",
-              "unidade": "UND",
-              "quantidade": "4,00",
-              "valor_referencia": "15,22"
-            },
-            {
-              "numero": "20",
-              "especificacao": "9900515029 Pistola de pintura pneumática:Corpo em alumínio forjado de alta resistência, bico de 1,4 mm, caneca em PVC de 600 ml, regulagem de leque, consumo entre 3,5 e 6 pcm, pressão de trabalho entre 30 e 80 psi, peças internas em aço inox.",
-              "unidade": "UND",
-              "quantidade": "1,00",
-              "valor_referencia": "189,35"
-            },
-            {
-              "numero": "21",
-              "especificacao": "36420 Trena métrica de 5 metros:Fita em fibra de vidro resistente, largura de 12,5 mm, corpo em plástico reforçado, resistente e ergonômico, sistema de trava e retrocesso automático.",
-              "unidade": "UND",
-              "quantidade": "2,00",
-              "valor_referencia": "14,24"
-            }
-          ]
-        },
-        {
-          "numero": "2",
-          "titulo": "LOTE 2",
-          "fase": "HOMOLOGADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "9.032,79",
-          "vencedor": "CLEBER SANTANA SANTOS",
-          "melhor_oferta": "8.800,00",
-          "total_itens": 17,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "36421 Compressor de ar monofásico:Potência de 2 CV, pressão máxima de 140 psi, reservatório de 150 litros, tensão 220V, fluxo de ar 10 l/min, dimensões aproximadas de 1.110 mm de altura por 510 mm de largura.",
-              "unidade": "UND",
-              "quantidade": "1,00",
-              "valor_referencia": "3.615,35"
-            },
-            {
-              "numero": "2",
-              "especificacao": "9900515004 Cilindro para argônio com capacidade de 7 litros:Fabricado em aço carbono, capacidade de 1 m³, pressão de serviço de 150 bar, altura aproximada de 70 cm, diâmetro de 15 cm, recarregável.",
-              "unidade": "UND",
-              "quantidade": "1,00",
-              "valor_referencia": "1.057,87"
-            },
-            {
-              "numero": "3",
-              "especificacao": "36422 Esmerilhadeira angular:Tensão 220V, potência mínima de 850 Watts, velocidade de rotação11.000 rpm, diâmetro do disco 115 mm, empunhadura lateral removível, engrenagens em aço temperado, corpo em nylon reforçado com fibra, peso aproximado 2 kg.",
-              "unidade": "UND",
-              "quantidade": "1,00",
-              "valor_referencia": "467,81"
-            },
-            {
-              "numero": "4",
-              "especificacao": "9900515008 Estanho em fio para solda elétrica:Estanho em fio para solda elétrica, diâmetro de 1 mm, carretel de 500 g, composição 63% estanho e 37% chumbo, acabamento uniforme e de alta condutividade.",
-              "unidade": "ROLO",
-              "quantidade": "5,00",
-              "valor_referencia": "119,45"
-            },
-            {
-              "numero": "5",
-              "especificacao": "9900515033 Furadeira de impacto elétrica:Potência mínima de 560 Watts, mandril de 1/2”, velocidade variável até 3.100 rpm, capacidade de perfuração em madeira até 20 mm, concreto até 10 mm e aço até 10 mm, estrutura reforçada e ergonômica.",
-              "unidade": "UND",
-              "quantidade": "1,00",
-              "valor_referencia": "288,79"
-            },
-            {
-              "numero": "6",
-              "especificacao": "9900515011 Ferro de solda elétrico:Potência mínima de 50 Watts, tensão 220V, temperatura máxima 510°C, comprimento de 225 mm, ponta de longa durabilidade tratada em ferro e alumínio, dupla isolação, empunhadura anatômica que dissipa calor.",
-              "unidade": "UND",
-              "quantidade": "2,00",
-              "valor_referencia": "43,76"
-            },
-            {
-              "numero": "7",
-              "especificacao": "9900515050 Furadeira e parafusadeira portátil, bateria de lítio recarregável 36V:36V (2 baterias inclusas), torque de 15 N·m, potência mínima de 340 W, velocidade variável e reversível até 1.550 rpm, mandril de 10 mm em aço inox, com maleta e kit de acessórios (bits, soquetes, eixo extensor, carregador bivolt).",
-              "unidade": "UND",
-              "quantidade": "1,00",
-              "valor_referencia": "283,26"
-            },
-            {
-              "numero": "8",
-              "especificacao": "5707611101 Jogo de microrretífica 115 Watts:Tensão 220V, rotação máxima de 30.000 rpm, com maleta plástica contendo 174 acessórios diversos (brocas, discos de corte, escovas, lixas, pinças, rebolos, hastes, chave e pasta de polimento), ideal para corte, lixamento, polimento e gravação.",
-              "unidade": "JOG",
-              "quantidade": "1,00",
-              "valor_referencia": "384,21"
-            },
-            {
-              "numero": "9",
-              "especificacao": "36423 Moto esmeril de 6 polegadas:Potência mínima de 550 Watts, bivolt, equipada com protetor de visibilidade com lente de aumento, suporte de afiação, interruptor liga/desliga, chave seletora de tensão, amortecedores antivibração, tensão de 110/220V ? 60 Hz, rotação de 2.800 rpm, com 2 rebolos de 150 mm (grãos 36 e 60), estrutura robusta para uso contínuo em oficinas e laboratórios.",
-              "unidade": "UND",
-              "quantidade": "1,00",
-              "valor_referencia": "367,41"
-            },
-            {
-              "numero": "10",
-              "especificacao": "9900515020 Multímetro digital portátil:Display iluminado, funções de voltagem AC/DC, corrente, resistência, teste de cabos, USB e telefonia, com função Data Hold, corpo ergonômico em plástico ABS e componentes eletrônicos de alta precisão. telefonia, com função Data Hold, corpo ergonômico em plástico ABS e componentes eletrônicos de alta precisão.",
-              "unidade": "UND",
-              "quantidade": "2,00",
-              "valor_referencia": "66,97"
-            },
-            {
-              "numero": "11",
-              "especificacao": "9900515021 Mangueira de ar/água:Diâmetro interno de 1/4” (6 mm), comprimento de 15 metros, fabricada em PVC flexível, resistente à pressão e temperatura de até 60°C.",
-              "unidade": "UND",
-              "quantidade": "1,00",
-              "valor_referencia": "72,80"
-            },
-            {
-              "numero": "12",
-              "especificacao": "9900515022 Mangueira espiral de ar comprimido de 10 metros:Diâmetro interno de 1/4”, fabricada em PVC flexível, resistente a até 150 psi, com conexões macho/fêmea e bico soprador.",
-              "unidade": "UND",
-              "quantidade": "2,00",
-              "valor_referencia": "88,35"
-            },
-            {
-              "numero": "13",
-              "especificacao": "5707611102 Morsa de bancada nº 8:Fabricada em ferro nodular, mordentes integrados ao corpo, bigorna reforçada, fuso e manípulo em aço forjado com tratamento zincado eletrolítico, largura do mordente de 200 mm e abertura máxima de 203 mm, estrutura robusta e durável.",
-              "unidade": "UND",
-              "quantidade": "1,00",
-              "valor_referencia": "569,78"
-            },
-            {
-              "numero": "14",
-              "especificacao": "9900515030 Pasta para solda em estanho, embalagem de 110 g:Composição à base de cloreto de zinco e cloreto de amônia (aprox. 17%), cor âmbar, utilizada para facilitar o processo de soldagem.",
-              "unidade": "UND",
-              "quantidade": "2,00",
-              "valor_referencia": "14,70"
-            },
-            {
-              "numero": "15",
-              "especificacao": "9900515026 Paquímetro digital de 150 mm (6 ):Quadrimensional, confeccionado em aço inox temperado, resolução de 0,01 mm/0.0005”, display com dígitos grandes de 11 mm, faces lapidadas, tecla liga/desliga e zeragem em qualquer ponto, com conversão milímetro/polegada.",
-              "unidade": "UND",
-              "quantidade": "2,00",
-              "valor_referencia": "252,68"
-            },
-            {
-              "numero": "16",
-              "especificacao": "9900515051 Soprador térmico elétrico, potência mínima de 1.500 Watts, tensão 220V:Fluxo de ar regulável entre 250 e 550 L/min, temperaturas de 300°C e 500°C, acompanha maleta plástica, cabos, acessórios (bicos diversos, espátula e raspador).",
-              "unidade": "UND",
-              "quantidade": "2,00",
-              "valor_referencia": "175,64"
-            },
-            {
-              "numero": "17",
-              "especificacao": "9900515032 Suporte para ferro de solda:Confeccionado em base metálica resistente, tubo isolador em latão galvanizado, mola em aço inox, acompanha esponja vegetal para limpeza, compatível com ferros de até 100 mm de comprimento.",
-              "unidade": "UND",
-              "quantidade": "2,00",
-              "valor_referencia": "22,03"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "PE-005-2025",
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "1465/2024",
@@ -233875,50 +233352,6 @@
               "unidade": "UNIDADE",
               "quantidade": "1,00",
               "valor_referencia": "993,82"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "3-DLE-024-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "200/2026",
-      "modalidade": "DISPENSA ELETRÔNICA",
-      "situacao": "HABILITAÇÃO",
-      "condutor": "ISLA LIMA SILVA",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO PARCELADA",
-      "publicacao": "13/03/2026 18:20",
-      "inicio_recepcao": "13/03/2026 18:23",
-      "fim_recepcao": "19/03/2026 08:15",
-      "inicio_disputa": "19/03/2026 08:30",
-      "objeto": "Contratação de empresa especializada em prestação de serviços com fornecimento dos materiais necessários para a realização do controle de vetores e pragas urbanas (DEDETIZAÇÃO, DESINSETIZAÇÃO, DESRATIZAÇÃO, DESCUPINIZAÇÃO, DESALOJAMENTO DE POMBOS E MORCEGOS),  a fim de atender as demandas da Secretaria Municipal de Saúde.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DUFZpi_45vBZXa9s_qjzH60EwxDKCTI6v_EOlEmNaIsVP8ix0Zbz_MSigvgAHtnEk1hnn9HtTAyN02W31gjui81k2klsZIb1EqiMl8mh%2FeZM%3D",
-      "total_lotes": 1,
-      "total_itens": 1,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "DEDETIZAÇÃO",
-          "fase": "HABILITAÇÃO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "65.000,00",
-          "vencedor": "4K DEDETIZAÇÔES LTDA",
-          "melhor_oferta": "43.750,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900515421 Prestação de serviços continuados de dedetização,desinsetização, desratização e controle integrado de vetores epragas urbanas:a serem executados em prédios, áreas internase externas e demais instalações urbanas e rurais vinculadas àSecretaria Municipal de Saúde: Os serviços deverãocompreender ações preventivas e curativas destinadas aocontrole de insetos rasteiros e voadores, tais como baratas,formigas, mosquitos, inclusive Aedes aegypti, aranhas,escorpiões, traças, cupins, pulgas e correlatos, bem como deroedores sinantrópicos, incluindo ratos de telhado, ratazanas ecamundongos, além de outras pragas urbanas que possamrepresentar risco à saúde humana e ao adequado funcionamentodas atividades institucionais. As atividades serão realizadas inloco, nas unidades de saúde e setores administrativosespecificados, compreendendo, entre outros, a sede daSecretaria Municipal de Saúde, o setor de regulação, a vigilânciasanitária, a vigilância epidemiológica, as unidades de atençãobásica, a farmácia municipal, o laboratório municipal, asunidades administrativas de saúde e seus respectivos anexos. Adefinição das unidades a serem atendidas, bem como ametragem quadrada correspondente a cada uma delas, seráformalizada por meio da Ordem de Fornecimento emitida pelaAdministração Municipal, a qual servirá como referência para aexecução, o controle e a fiscalização dos serviços. EXCLUSIVOPARA ME/EPP.",
-              "unidade": "M2",
-              "quantidade": "125.000,00",
-              "valor_referencia": "0,52"
             }
           ]
         }
@@ -237522,50 +236955,6 @@
               "unidade": "m2.",
               "quantidade": "700,00",
               "valor_referencia": "60,50"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "PE-048-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "229/2026",
-      "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "RECEPÇÃO DE PROPOSTAS",
-      "condutor": "JONATAS DA SILVA SOUSA",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO PARCELADA",
-      "publicacao": "19/03/2026 17:45",
-      "inicio_recepcao": "23/03/2026 08:30",
-      "fim_recepcao": "06/04/2026 08:15",
-      "inicio_disputa": "06/04/2026 08:30",
-      "objeto": "Contratação de empresa especializada em prestação de serviços de IMPRESSÃO GRÁFICA DE AVALIAÇÕES, a fim de atender as demandas da Secretaria Municipal de Educação.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5D4e7AUZ3QFI3nNwwwb9CU7cZLLpcgOxfx2FOPVUGDBn6Pp2uDoGtgqwQzDsY_YdfAYHKS10nXYs8roS%2FGOP6Lj6qWr_YUADwNJBa4uuKk7pQ%3D",
-      "total_lotes": 1,
-      "total_itens": 1,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "IMPRESSÃO GRÁFICA",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "103200003 Serviço de impressão de folhas destinadas àaplicação das avaliações do Compromisso Nacional CriançaAlfabetizada (CNCA) na rede municipal deensino:compreendendo a impressão por folha, em papeltamanho A4 (210mm x 297mm), em papel offset branco alcalinode alta qualidade, gramatura de 75g/m², alta alvura e opacidadeadequada para evitar transparência de impressão entre frente everso, impressão offset ou digital em alta resolução (mínimo2400 dpi), tiragem em 1/1 cor, conforme artes finais fornecidaspela Secretaria Municipal de Educação, com registro fiel detextos, figuras, quadros e campos de resposta conforme matrizavaliativa oficial do CNCA. Inclui ainda serviços correlatos decorte em guilhotina com tolerância máxima de ± 1mm,acondicionamento das folhas em maços padronizados (porexemplo, 250, 500 ou 1.000 folhas) embalados em papel kraft oufilme plástico resistente, com etiqueta de identificação contendo,identificação do ciclo/etapa da avaliação, série/ano, disciplina,número do lote e quantidade de folhas, bem como a logística deentrega fracionada nas unidades escolares e/ou no depósitocentral da Secretaria, conforme cronograma oficial do CNCA,respeitando a urgência do calendário nacional e a necessidadede pronta disponibilidade do material nas escolas.",
-              "unidade": "UN",
-              "quantidade": "1.300.000,00",
-              "valor_referencia": ""
             }
           ]
         }
@@ -244086,50 +243475,6 @@
               "unidade": "SER",
               "quantidade": "1,00",
               "valor_referencia": "87.500,00"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "PE-024-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "1566/2025",
-      "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "RECEPÇÃO DE PROPOSTAS",
-      "condutor": "SERGIO CARNEIRO CAVALCANTI DE AZEVEDO",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "REGISTRO DE PREÇO",
-      "publicacao": "02/03/2026 20:29",
-      "inicio_recepcao": "24/03/2026 18:00",
-      "fim_recepcao": "06/04/2026 08:15",
-      "inicio_disputa": "06/04/2026 08:30",
-      "objeto": "Contratação de empresa especializada na prestação de serviço de CAPINA, ROÇAGEM E LIMPEZA DE ÁREAS PÚBLICAS,  a fim de atender as demandas da Secretaria Municipal de Administração e demais Secretarias.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5Djb4oHJGTn_BJIkEu8IEanls2berA0YwpBHgRWw9YN6gGz4FHN0Ce7zyGW8VFIn2TMpkb5pCTVwZqvKy%2FN8zKJYaiEV23Oe_zKv1jDFrAzBY%3D",
-      "total_lotes": 1,
-      "total_itens": 1,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "9903311729 Serviço de Capina, Roçagem e Limpeza de Áreas Públicas do Município de Teixeira de Freitas- bahia",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "Conforme Edital",
-          "garantia": "Conforme Edital",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9903311729 Serviço de Capina, Roçagem e Limpeza de ÁreasPúblicas do Município de Teixeira de Freitas- bahia:Prestação deserviços contínuos de capina manual e mecanizada, roçagem elimpeza em áreas públicas, praças, canteiros, jardins, unidadesescolares, creches municipais, totalizando aproximadamente220.000 m². Inclui a remoção de plantas daninhas, vegetaçãoinvasora, gramíneas altas e detritos vegetais, bem como oacondicionamento e destinação adequada dos resíduos gerados,de acordo com as normas ambientais vigentes. O serviço deverácontemplar o fornecimento de toda mão de obra especializada,equipamentos (roçadeiras costais, aparadores de grama,enxadas, rastelos, entre outros) e EPIs (luvas, óculos deproteção, protetores auriculares, botas, etc.), garantindo aexecução com segurança, eficiência e qualidade. A execuçãoserá programada e periódica, conforme cronograma definido pelaSecretaria Municipal demandante, de forma a manter as áreaspermanentemente limpas, seguras e visualmente adequadas aouso",
-              "unidade": "m2",
-              "quantidade": "220.000,00",
-              "valor_referencia": ""
             }
           ]
         }
@@ -257450,64 +256795,6 @@
       ]
     },
     {
-      "id": "CE-026-2025",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "1694/2025",
-      "modalidade": "CONCORRÊNCIA ELETRÔNICA",
-      "situacao": "ADJUDICADO",
-      "condutor": "DAVIDSON ARAUJO SANTOS",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO PARCELADA",
-      "publicacao": "30/12/2025 16:50",
-      "inicio_recepcao": "02/01/2026 08:00",
-      "fim_recepcao": "05/02/2026 14:15",
-      "inicio_disputa": "05/02/2026 14:30",
-      "objeto": "Contratação de empresa especializada em execução de obras de pavimentação de diversas ruas nos bairros Liberdade I e II, do município de Teixeira de Freitas – BA.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5Dv7ywXNcp_wOC36llm7H86RTFREyR_upGqK2kNL%2FuUgfoZ6u81xY1KGwco_v_dHzwKZmtUSxgQEpZOHFpScfQ42NQcxkCbCs6NV%2FKl2vad8g%3D",
-      "total_lotes": 1,
-      "total_itens": 3,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "EXECUÇÃO DE OBRAS DE PAVIMENTAÇÃO DE DIVERSAS RUAS NOS BAIRROS LIBERDADE I E II",
-          "fase": "ADJUDICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "1.000,00",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "10.000.003,65",
-          "vencedor": "BULOKE CONSTRUCAO E SERVICOS LTDA",
-          "melhor_oferta": "9.399.619,65",
-          "total_itens": 3,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "ADMINISTRAÇÃO LOCAL",
-              "unidade": "UNID.",
-              "quantidade": "1,00",
-              "valor_referencia": "101.492,68"
-            },
-            {
-              "numero": "2",
-              "especificacao": "SERVIÇOS PRELIMINARES",
-              "unidade": "UNID.",
-              "quantidade": "1,00",
-              "valor_referencia": "980.010,97"
-            },
-            {
-              "numero": "3",
-              "especificacao": "PAVIMENTAÇÃO",
-              "unidade": "UNID.",
-              "quantidade": "1,00",
-              "valor_referencia": "8.918.500,00"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "2-DLE-033-2026",
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "273/2026",
@@ -257597,50 +256884,6 @@
               "unidade": "UN",
               "quantidade": "2,00",
               "valor_referencia": "6.242,95"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "PE-026-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "20/2026",
-      "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "ADJUDICADO",
-      "condutor": "SERGIO CARNEIRO CAVALCANTI DE AZEVEDO",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO PARCELADA",
-      "publicacao": "02/03/2026 20:25",
-      "inicio_recepcao": "04/03/2026 08:00",
-      "fim_recepcao": "16/03/2026 09:45",
-      "inicio_disputa": "16/03/2026 10:00",
-      "objeto": "Contratação de empresa especializada no fornecimento de APARELHOS CELULARES (SMARTPHONES) (material permanente), a fim de atender as demandas da Secretaria Municipal de Administração e Demais Secretarias.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5D77Krwf%2FvBktOFafj_aUpoiXGGHh_wF00kJG2E7tKnOpyW169FfOtdOqa4IKMvAkgl56_2wN1SOtedZpz_z1pIRzuFbnNHWbSbri0iN%2FRRTk%3D",
-      "total_lotes": 1,
-      "total_itens": 1,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "82582500008 CELULAR (smartphone):requisitos mínimos",
-          "fase": "ADJUDICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "Conforme Edital",
-          "garantia": "Conforme Edital",
-          "valor_referencia": "39.830,00",
-          "vencedor": "CH3 ELETRO E ELETRONICOS LTDA",
-          "melhor_oferta": "28.674,75",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "82582500008 CELULAR (smartphone):requisitos mínimos: Versão do IOS mínima: 11 ou superior ou Versão do Android recomendada: 10 ou superior; Memória RAM: 8GB ou superior; Processador: Quad-Core 1Ghz (desejável 1.2Ghz) ou superior; Memória armazenamento: 128GB ou superior; GPS Físico; Tela de no minimo 6,5 polegadas; Bateria de no mínimo 5.000 mAh; Câmera Frontal 8 MP; Câmera Traseira 16.0 MP; Conectividade: Wi-fi 802.11 a/b/g/n 2.4/5Ghz ou superior; Chip para operadora. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "UN",
-              "quantidade": "25,00",
-              "valor_referencia": "1.593,20"
             }
           ]
         }
@@ -262076,6 +261319,763 @@
               "unidade": "ROL",
               "quantidade": "30,00",
               "valor_referencia": "267,32"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-048-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "229/2026",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "HABILITAÇÃO",
+      "condutor": "JONATAS DA SILVA SOUSA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO PARCELADA",
+      "publicacao": "19/03/2026 17:45",
+      "inicio_recepcao": "23/03/2026 08:30",
+      "fim_recepcao": "06/04/2026 08:15",
+      "inicio_disputa": "06/04/2026 08:30",
+      "objeto": "Contratação de empresa especializada em prestação de serviços de IMPRESSÃO GRÁFICA DE AVALIAÇÕES, a fim de atender as demandas da Secretaria Municipal de Educação.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5Dcfi4cSZ1kxxbk1gGskLQFvcaGVWVhXHKPGd49Jvh42TGs_hGukjT8VC9o7Y059hBdVD5DI3Ik%2FLnPVo3WNft52nccZNYzBV9R3SZDTM3WjU%3D",
+      "total_lotes": 1,
+      "total_itens": 1,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "IMPRESSÃO GRÁFICA",
+          "fase": "HABILITAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "195.000,00",
+          "vencedor": "GERALDO BRAGA MIRANDA LTDA",
+          "melhor_oferta": "91.000,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "103200003 Serviço de impressão de folhas destinadas àaplicação das avaliações do Compromisso Nacional CriançaAlfabetizada (CNCA) na rede municipal deensino:compreendendo a impressão por folha, em papeltamanho A4 (210mm x 297mm), em papel offset branco alcalinode alta qualidade, gramatura de 75g/m², alta alvura e opacidadeadequada para evitar transparência de impressão entre frente everso, impressão offset ou digital em alta resolução (mínimo2400 dpi), tiragem em 1/1 cor, conforme artes finais fornecidaspela Secretaria Municipal de Educação, com registro fiel detextos, figuras, quadros e campos de resposta conforme matrizavaliativa oficial do CNCA. Inclui ainda serviços correlatos decorte em guilhotina com tolerância máxima de ± 1mm,acondicionamento das folhas em maços padronizados (porexemplo, 250, 500 ou 1.000 folhas) embalados em papel kraft oufilme plástico resistente, com etiqueta de identificação contendo,identificação do ciclo/etapa da avaliação, série/ano, disciplina,número do lote e quantidade de folhas, bem como a logística deentrega fracionada nas unidades escolares e/ou no depósitocentral da Secretaria, conforme cronograma oficial do CNCA,respeitando a urgência do calendário nacional e a necessidadede pronta disponibilidade do material nas escolas.",
+              "unidade": "UN",
+              "quantidade": "1.300.000,00",
+              "valor_referencia": "0,15"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3-DLE-024-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "200/2026",
+      "modalidade": "DISPENSA ELETRÔNICA",
+      "situacao": "ADJUDICADO",
+      "condutor": "ISLA LIMA SILVA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO PARCELADA",
+      "publicacao": "13/03/2026 18:20",
+      "inicio_recepcao": "13/03/2026 18:23",
+      "fim_recepcao": "19/03/2026 08:15",
+      "inicio_disputa": "19/03/2026 08:30",
+      "objeto": "Contratação de empresa especializada em prestação de serviços com fornecimento dos materiais necessários para a realização do controle de vetores e pragas urbanas (DEDETIZAÇÃO, DESINSETIZAÇÃO, DESRATIZAÇÃO, DESCUPINIZAÇÃO, DESALOJAMENTO DE POMBOS E MORCEGOS),  a fim de atender as demandas da Secretaria Municipal de Saúde.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DB3zCr6Nbo%2Fu4Yi1IpK7IPW3g0zoRhxjH9kVYCBBka2Qsy0j2RaXEmGbo%2FHXIQRoKUlbJK7AfG4sBc%2FL97voPvw8BMvkswn0Ig8BSGRCouUQ%3D",
+      "total_lotes": 1,
+      "total_itens": 1,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "DEDETIZAÇÃO",
+          "fase": "ADJUDICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "65.000,00",
+          "vencedor": "4K DEDETIZAÇÔES LTDA",
+          "melhor_oferta": "43.750,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515421 Prestação de serviços continuados de dedetização,desinsetização, desratização e controle integrado de vetores epragas urbanas:a serem executados em prédios, áreas internase externas e demais instalações urbanas e rurais vinculadas àSecretaria Municipal de Saúde: Os serviços deverãocompreender ações preventivas e curativas destinadas aocontrole de insetos rasteiros e voadores, tais como baratas,formigas, mosquitos, inclusive Aedes aegypti, aranhas,escorpiões, traças, cupins, pulgas e correlatos, bem como deroedores sinantrópicos, incluindo ratos de telhado, ratazanas ecamundongos, além de outras pragas urbanas que possamrepresentar risco à saúde humana e ao adequado funcionamentodas atividades institucionais. As atividades serão realizadas inloco, nas unidades de saúde e setores administrativosespecificados, compreendendo, entre outros, a sede daSecretaria Municipal de Saúde, o setor de regulação, a vigilânciasanitária, a vigilância epidemiológica, as unidades de atençãobásica, a farmácia municipal, o laboratório municipal, asunidades administrativas de saúde e seus respectivos anexos. Adefinição das unidades a serem atendidas, bem como ametragem quadrada correspondente a cada uma delas, seráformalizada por meio da Ordem de Fornecimento emitida pelaAdministração Municipal, a qual servirá como referência para aexecução, o controle e a fiscalização dos serviços. EXCLUSIVOPARA ME/EPP.",
+              "unidade": "M2",
+              "quantidade": "125.000,00",
+              "valor_referencia": "0,52"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-024-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "1566/2025",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "HABILITAÇÃO",
+      "condutor": "SERGIO CARNEIRO CAVALCANTI DE AZEVEDO",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "REGISTRO DE PREÇO",
+      "publicacao": "02/03/2026 20:29",
+      "inicio_recepcao": "24/03/2026 18:00",
+      "fim_recepcao": "06/04/2026 08:15",
+      "inicio_disputa": "06/04/2026 08:30",
+      "objeto": "Contratação de empresa especializada na prestação de serviço de CAPINA, ROÇAGEM E LIMPEZA DE ÁREAS PÚBLICAS,  a fim de atender as demandas da Secretaria Municipal de Administração e demais Secretarias.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DtCfOJswSoh57IIaOR_sNPDHZmUdGwx8fxZ8ETvDib%2FNUakQVwWGR6U5U12aajkhxn5OmwM1UDnl1OrD2il3qbs7VEmiYT6K7Sa6vaNyF%2F7w%3D",
+      "total_lotes": 1,
+      "total_itens": 1,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "9903311729 Serviço de Capina, Roçagem e Limpeza de Áreas Públicas do Município de Teixeira de Freitas- bahia",
+          "fase": "HABILITAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "Conforme Edital",
+          "garantia": "Conforme Edital",
+          "valor_referencia": "116.600,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9903311729 Serviço de Capina, Roçagem e Limpeza de ÁreasPúblicas do Município de Teixeira de Freitas- bahia:Prestação deserviços contínuos de capina manual e mecanizada, roçagem elimpeza em áreas públicas, praças, canteiros, jardins, unidadesescolares, creches municipais, totalizando aproximadamente220.000 m². Inclui a remoção de plantas daninhas, vegetaçãoinvasora, gramíneas altas e detritos vegetais, bem como oacondicionamento e destinação adequada dos resíduos gerados,de acordo com as normas ambientais vigentes. O serviço deverácontemplar o fornecimento de toda mão de obra especializada,equipamentos (roçadeiras costais, aparadores de grama,enxadas, rastelos, entre outros) e EPIs (luvas, óculos deproteção, protetores auriculares, botas, etc.), garantindo aexecução com segurança, eficiência e qualidade. A execuçãoserá programada e periódica, conforme cronograma definido pelaSecretaria Municipal demandante, de forma a manter as áreaspermanentemente limpas, seguras e visualmente adequadas aouso",
+              "unidade": "m2",
+              "quantidade": "220.000,00",
+              "valor_referencia": "0,53"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-026-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "20/2026",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "HOMOLOGADO",
+      "condutor": "SERGIO CARNEIRO CAVALCANTI DE AZEVEDO",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO PARCELADA",
+      "publicacao": "02/03/2026 20:25",
+      "inicio_recepcao": "04/03/2026 08:00",
+      "fim_recepcao": "16/03/2026 09:45",
+      "inicio_disputa": "16/03/2026 10:00",
+      "objeto": "Contratação de empresa especializada no fornecimento de APARELHOS CELULARES (SMARTPHONES) (material permanente), a fim de atender as demandas da Secretaria Municipal de Administração e Demais Secretarias.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DMFtruVIuvPoNoJiP39vId1fMJ0TLBPNRRiyIaCI6fltKdO45fcwg_nsIrKojxPDg8JemM7tYFaPicGsg8LoFDuJgPO6CnRUCA7eg_ZX0oiE%3D",
+      "total_lotes": 1,
+      "total_itens": 1,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "82582500008 CELULAR (smartphone):requisitos mínimos",
+          "fase": "HOMOLOGADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "Conforme Edital",
+          "garantia": "Conforme Edital",
+          "valor_referencia": "39.830,00",
+          "vencedor": "CH3 ELETRO E ELETRONICOS LTDA",
+          "melhor_oferta": "28.674,75",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "82582500008 CELULAR (smartphone):requisitos mínimos: Versão do IOS mínima: 11 ou superior ou Versão do Android recomendada: 10 ou superior; Memória RAM: 8GB ou superior; Processador: Quad-Core 1Ghz (desejável 1.2Ghz) ou superior; Memória armazenamento: 128GB ou superior; GPS Físico; Tela de no minimo 6,5 polegadas; Bateria de no mínimo 5.000 mAh; Câmera Frontal 8 MP; Câmera Traseira 16.0 MP; Conectividade: Wi-fi 802.11 a/b/g/n 2.4/5Ghz ou superior; Chip para operadora. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UN",
+              "quantidade": "25,00",
+              "valor_referencia": "1.593,20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2-DLE-015-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "109-2026",
+      "modalidade": "DISPENSA ELETRÔNICA",
+      "situacao": "ADJUDICADO",
+      "condutor": "ISAQUE SILVA DOS SANTOS",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO",
+      "publicacao": "02/03/2026 16:13",
+      "inicio_recepcao": "02/03/2026 16:15",
+      "fim_recepcao": "06/03/2026 08:15",
+      "inicio_disputa": "06/03/2026 08:30",
+      "objeto": "Contratação de empresa especializada em fornecimento de KIT DE REGULADORES DE CILINDRO PARA BOTIJÃO DE GÁS, a\nfim de atender as necessidades da Secretaria Municipal de Administração.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DjzUY2mpY1C4_Y7L4cRWh28yIFqBTxRuImfLVem5ighBU1dBALzH7zApwqrobfUgBv%2Fu1kDFxFrHuufo2SCZwFyud1txVyWcvLL65o3EKh9I%3D",
+      "total_lotes": 2,
+      "total_itens": 2,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "9900515338 REGULADOR DE CILINDRO DE GÁS BOTIJA13KG:kit para instalação do botijão de gás 13kg contendo registro constando a gravação do código do INMETRO e prazo de validade não inferior a 5 (cinco) anos; mangueira em material plástico pvc transparente,",
+          "fase": "ADJUDICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "17.003,70",
+          "vencedor": "GJ SOLUÇÕES EM LICITAÇÕES E ASSESSORIA LTDA",
+          "melhor_oferta": "15.592,50",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515338 REGULADOR DE CILINDRO DE GÁS BOTIJA13KG:kit para instalação do botijão de gás 13kg contendo registro constando a gravação do código do INMETRO e prazo de validade não inferior a 5 (cinco) anos; mangueira em material plástico pvc transparente, trançada, tarja amarela, exibindo a inscrição NBR 8613, nome do fabricante, com comprimento 1,25m e prazo de validade não inferior a 5 (cinco) anos; 2 (duas) abraçadeiras para botijão de gás 13kg. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "315,00",
+              "valor_referencia": "53,98"
+            }
+          ]
+        },
+        {
+          "numero": "2",
+          "titulo": "9900515339 REGULADOR DE CILINDRO DE GÁS BOTIJA45KG:kit para instalação do botijão de gás GLP P45, contendo: 1(um) registro regulador de gás 12kg/h, com prazo de validade não inferior a 5 (cinco) anos; 02 (duas) mangueiras pig-tail de 1,00m de comprimento",
+          "fase": "FRACASSADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "44.116,80",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515339 REGULADOR DE CILINDRO DE GÁS BOTIJA45KG:kit para instalação do botijão de gás GLP P45, contendo: 1(um) registro regulador de gás 12kg/h, com prazo de validade não inferior a 5 (cinco) anos; 02 (duas) mangueiras pig-tail de 1,00m de comprimento, 2(duas) válvulas de retenção, 2 (dois) registros esféricos, 2 (dois) suporte de fixação, 1 (um) coletor de ferro, 2 (dois) cotovelos, 2 (dois) niple, 1 (um) conector metálico em formato tê, 1(uma) bucha de redução, 1 (um) manômetro.Características adicionais: suportar até 2 (dois) botijões p45 de 45kg cada. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "210,00",
+              "valor_referencia": "210,08"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4-DLE-003-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "1431/2025",
+      "modalidade": "DISPENSA ELETRÔNICA",
+      "situacao": "ADJUDICADO",
+      "condutor": "ISAQUE SILVA DOS SANTOS",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO PARCELADA",
+      "publicacao": "16/01/2026 19:13",
+      "inicio_recepcao": "16/01/2026 19:30",
+      "fim_recepcao": "22/01/2026 08:15",
+      "inicio_disputa": "22/01/2026 08:30",
+      "objeto": "Contratação de empresas especializada em fornecimento de EQUIPAMENTOS, FERRAMENTAS, INSUMOS\nDIVERSOS E EPIS (materiais de consumo e permanentes), Secretaria Municipal de Educação",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DFAKxDJHAHowT4s1bagw_ptRyLwvZuVLv96wHbRRgtwLmtWjztUGYEWLtgm6XujgY8Gfi%2F%2FGESCNQMs1W0tOUbJGWH8auLJDSBED5MtG2FNU%3D",
+      "total_lotes": 2,
+      "total_itens": 38,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "LOTE 1",
+          "fase": "ADJUDICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "7.969,99",
+          "vencedor": "CLEBER SANTANA SANTOS",
+          "melhor_oferta": "7.800,00",
+          "total_itens": 21,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900514997 Alicate universal com comprimento total de 200 mm:Confeccionado em aço de alto carbono temperado, dureza HRC 46–56, punho emborrachado em borracha termoplástica ergonômica, capacidade de corte de fios de até 2 mm em aço, resistente, anticorrosivo e indicado para uso geral em manutenção e oficina.",
+              "unidade": "UND",
+              "quantidade": "2,00",
+              "valor_referencia": "36,87"
+            },
+            {
+              "numero": "2",
+              "especificacao": "9900514998 Alicate de pressão com comprimento total de 224 mm:Abertura máxima da boca de 28 mm, mordente tipo Grip, confeccionado em aço cromo-vanádio de alta resistência, acabamento niquelado e cromado anticorrosivo, com trava de pressão regulável e cabo ergonômico.",
+              "unidade": "UND",
+              "quantidade": "2,00",
+              "valor_referencia": "55,97"
+            },
+            {
+              "numero": "3",
+              "especificacao": "9900514999 Alicate de corte diagonal com comprimento aproximado de 180 mm:Corpo em aço cromo-vanádio temperado, mordentes de alta precisão com acabamento niquelado e anticorrosivo, cabo ergonômico com revestimento emborrachado antiderrapante.",
+              "unidade": "UND",
+              "quantidade": "2,00",
+              "valor_referencia": "41,27"
+            },
+            {
+              "numero": "4",
+              "especificacao": "9900515000 Alicate de bico meia-cana, tamanho 6:Corpo em aço carbono temperado, arestas de corte afiadas, cabo emborrachado ergonômico, indicado para trabalhos de precisão.",
+              "unidade": "UND",
+              "quantidade": "2,00",
+              "valor_referencia": "46,75"
+            },
+            {
+              "numero": "5",
+              "especificacao": "9900515001 Arco de serra com serra, comprimento total de 400 mm:Arco tubular em aço pintado, lâmina de aço temperado de 300 mm com 24 dentes por polegada, cabo em polipropileno anatômico.",
+              "unidade": "UND",
+              "quantidade": "1,00",
+              "valor_referencia": "37,40"
+            },
+            {
+              "numero": "6",
+              "especificacao": "5707611099 Carrinho de ferramentas em aço:Capacidade de carga de 200 kg, dimensões de 600x400x890 mm, com 5 gavetas, rodízios de 4”, puxador ergonômico e fechadura com chave.",
+              "unidade": "UND",
+              "quantidade": "4,00",
+              "valor_referencia": "1.374,70"
+            },
+            {
+              "numero": "7",
+              "especificacao": "9900515049 Caixa plástica tipo baú, capacidade de 20 litros:Confeccionada em polipropileno resistente, com alça integrada e tampa com trava de segurança, dimensões aproximadas de 400x300x250 mm.",
+              "unidade": "UND",
+              "quantidade": "6,00",
+              "valor_referencia": "47,39"
+            },
+            {
+              "numero": "8",
+              "especificacao": "9900515005 Esquadro combinado de 300 mm:Confeccionado em alumínio anodizado com escala gravada a laser em baixo relevo, possui nível em acrílico, riscador e graduação em centímetros e polegadas, proporcionando medições em ângulos de 45º e 90º.",
+              "unidade": "UND",
+              "quantidade": "2,00",
+              "valor_referencia": "123,00"
+            },
+            {
+              "numero": "9",
+              "especificacao": "9900515006 Escova manual de aço, corpo e cabo em madeira, base reforçada:Com 4 fileiras de cerdas em aço carbono polido, indicada para remoção de ferrugem, tintas e limpeza de superfícies metálicas.",
+              "unidade": "UND",
+              "quantidade": "2,00",
+              "valor_referencia": "7,31"
+            },
+            {
+              "numero": "10",
+              "especificacao": "9900515009 Engate rápido macho e fêmea para mangueira de 1/4:Fabricado em latão cromado, resistência até 55 psi, dimensões de 35,56 mm de diâmetro e 50 mm de comprimento, peso aproximado de 200 g.",
+              "unidade": "CJ",
+              "quantidade": "4,00",
+              "valor_referencia": "36,54"
+            },
+            {
+              "numero": "11",
+              "especificacao": "9900515013 Grampo tipo sargento de aperto rápido:Tamanho de 18 polegadas (50x300 mm), confeccionado em aço especial com acabamento cromado, cabo emborrachado ergonômico, resistente e de fácil manuseio.",
+              "unidade": "UND",
+              "quantidade": "6,00",
+              "valor_referencia": "51,58"
+            },
+            {
+              "numero": "12",
+              "especificacao": "9900515015 Jogo de chaves Allen com 30 peças em aço cromo-vanádio:Contendo 15 peças em milímetros (0,7 a 10 mm) e 15 peças em polegadas (0,028” a 3/8”), acondicionadas em estojo plástico",
+              "unidade": "JOG",
+              "quantidade": "1,00",
+              "valor_referencia": "112,60"
+            },
+            {
+              "numero": "13",
+              "especificacao": "9900515016 Kit com 3 alicates de pressão mordente tipo U C ,:Fabricados em aço especial de alta resistência, corpo dobrado com rebites reforçados, mordentes temperados e acabamento niquelado ou cromado. O kit contém: 1 alicate de 10”, 1 alicate de 8” e 1 alicate de 6”, ideal para fixação de chapas, tubos, perfis e cantos sem danificar a superfície.",
+              "unidade": "UND",
+              "quantidade": "2,00",
+              "valor_referencia": "108,45"
+            },
+            {
+              "numero": "14",
+              "especificacao": "9900515017 Luvas de segurança para solda:Confeccionadas em couro, modelo de cano longo com reforço na palma, costura reforçada entre os dedos, totalmente forradas até o punho para maior conforto e proteção.",
+              "unidade": "PAR",
+              "quantidade": "2,00",
+              "valor_referencia": "31,15"
+            },
+            {
+              "numero": "15",
+              "especificacao": "9900515018 Martelo tipo unha de 27 mm:Martelo tipo unha de 27 mm, cabeça forjada em aço com acabamento polido, cabo em fibra de alta resistência com empunhadura emborrachada, anatômico e ergonômico.",
+              "unidade": "UND",
+              "quantidade": "2,00",
+              "valor_referencia": "29,55"
+            },
+            {
+              "numero": "16",
+              "especificacao": "9900515024 Nível de bolha em alumínio:Comprimento de 300 mm, com 3 bolhas de alta precisão (horizontal, vertical e 45º), corpo reforçado em alumínio denso, resistente a impactos e corrosão.",
+              "unidade": "UND",
+              "quantidade": "2,00",
+              "valor_referencia": "41,05"
+            },
+            {
+              "numero": "17",
+              "especificacao": "9900515025 Óculos de proteção de sobreposição:Confeccionados em policarbonato incolor de alta resistência, com tratamento antirrisco e antiembaçante, proteção UV, armação plástica flexível e anatômica, compatíveis com uso sobre óculos corretivos.",
+              "unidade": "UND",
+              "quantidade": "40,00",
+              "valor_referencia": "4,81"
+            },
+            {
+              "numero": "18",
+              "especificacao": "9900515027 Pincel trincha de 4 polegadas (101,6 mm):Cabo em madeira envernizada de 150 mm, cerdas mistas sintéticas e naturais, resistentes a solventes, indicado para pintura de superfícies amplas.",
+              "unidade": "UND",
+              "quantidade": "4,00",
+              "valor_referencia": "16,84"
+            },
+            {
+              "numero": "19",
+              "especificacao": "9900515028 Pincel trincha de 2 polegadas (50,8 mm):Cabo em madeira envernizada de 150 mm, cerdas mistas sintéticas e naturais, resistentes a solventes, indicado para pintura de precisão em áreas menores.",
+              "unidade": "UND",
+              "quantidade": "4,00",
+              "valor_referencia": "15,22"
+            },
+            {
+              "numero": "20",
+              "especificacao": "9900515029 Pistola de pintura pneumática:Corpo em alumínio forjado de alta resistência, bico de 1,4 mm, caneca em PVC de 600 ml, regulagem de leque, consumo entre 3,5 e 6 pcm, pressão de trabalho entre 30 e 80 psi, peças internas em aço inox.",
+              "unidade": "UND",
+              "quantidade": "1,00",
+              "valor_referencia": "189,35"
+            },
+            {
+              "numero": "21",
+              "especificacao": "36420 Trena métrica de 5 metros:Fita em fibra de vidro resistente, largura de 12,5 mm, corpo em plástico reforçado, resistente e ergonômico, sistema de trava e retrocesso automático.",
+              "unidade": "UND",
+              "quantidade": "2,00",
+              "valor_referencia": "14,24"
+            }
+          ]
+        },
+        {
+          "numero": "2",
+          "titulo": "LOTE 2",
+          "fase": "ADJUDICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "9.032,79",
+          "vencedor": "CLEBER SANTANA SANTOS",
+          "melhor_oferta": "8.800,00",
+          "total_itens": 17,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "36421 Compressor de ar monofásico:Potência de 2 CV, pressão máxima de 140 psi, reservatório de 150 litros, tensão 220V, fluxo de ar 10 l/min, dimensões aproximadas de 1.110 mm de altura por 510 mm de largura.",
+              "unidade": "UND",
+              "quantidade": "1,00",
+              "valor_referencia": "3.615,35"
+            },
+            {
+              "numero": "2",
+              "especificacao": "9900515004 Cilindro para argônio com capacidade de 7 litros:Fabricado em aço carbono, capacidade de 1 m³, pressão de serviço de 150 bar, altura aproximada de 70 cm, diâmetro de 15 cm, recarregável.",
+              "unidade": "UND",
+              "quantidade": "1,00",
+              "valor_referencia": "1.057,87"
+            },
+            {
+              "numero": "3",
+              "especificacao": "36422 Esmerilhadeira angular:Tensão 220V, potência mínima de 850 Watts, velocidade de rotação11.000 rpm, diâmetro do disco 115 mm, empunhadura lateral removível, engrenagens em aço temperado, corpo em nylon reforçado com fibra, peso aproximado 2 kg.",
+              "unidade": "UND",
+              "quantidade": "1,00",
+              "valor_referencia": "467,81"
+            },
+            {
+              "numero": "4",
+              "especificacao": "9900515008 Estanho em fio para solda elétrica:Estanho em fio para solda elétrica, diâmetro de 1 mm, carretel de 500 g, composição 63% estanho e 37% chumbo, acabamento uniforme e de alta condutividade.",
+              "unidade": "ROLO",
+              "quantidade": "5,00",
+              "valor_referencia": "119,45"
+            },
+            {
+              "numero": "5",
+              "especificacao": "9900515033 Furadeira de impacto elétrica:Potência mínima de 560 Watts, mandril de 1/2”, velocidade variável até 3.100 rpm, capacidade de perfuração em madeira até 20 mm, concreto até 10 mm e aço até 10 mm, estrutura reforçada e ergonômica.",
+              "unidade": "UND",
+              "quantidade": "1,00",
+              "valor_referencia": "288,79"
+            },
+            {
+              "numero": "6",
+              "especificacao": "9900515011 Ferro de solda elétrico:Potência mínima de 50 Watts, tensão 220V, temperatura máxima 510°C, comprimento de 225 mm, ponta de longa durabilidade tratada em ferro e alumínio, dupla isolação, empunhadura anatômica que dissipa calor.",
+              "unidade": "UND",
+              "quantidade": "2,00",
+              "valor_referencia": "43,76"
+            },
+            {
+              "numero": "7",
+              "especificacao": "9900515050 Furadeira e parafusadeira portátil, bateria de lítio recarregável 36V:36V (2 baterias inclusas), torque de 15 N·m, potência mínima de 340 W, velocidade variável e reversível até 1.550 rpm, mandril de 10 mm em aço inox, com maleta e kit de acessórios (bits, soquetes, eixo extensor, carregador bivolt).",
+              "unidade": "UND",
+              "quantidade": "1,00",
+              "valor_referencia": "283,26"
+            },
+            {
+              "numero": "8",
+              "especificacao": "5707611101 Jogo de microrretífica 115 Watts:Tensão 220V, rotação máxima de 30.000 rpm, com maleta plástica contendo 174 acessórios diversos (brocas, discos de corte, escovas, lixas, pinças, rebolos, hastes, chave e pasta de polimento), ideal para corte, lixamento, polimento e gravação.",
+              "unidade": "JOG",
+              "quantidade": "1,00",
+              "valor_referencia": "384,21"
+            },
+            {
+              "numero": "9",
+              "especificacao": "36423 Moto esmeril de 6 polegadas:Potência mínima de 550 Watts, bivolt, equipada com protetor de visibilidade com lente de aumento, suporte de afiação, interruptor liga/desliga, chave seletora de tensão, amortecedores antivibração, tensão de 110/220V ? 60 Hz, rotação de 2.800 rpm, com 2 rebolos de 150 mm (grãos 36 e 60), estrutura robusta para uso contínuo em oficinas e laboratórios.",
+              "unidade": "UND",
+              "quantidade": "1,00",
+              "valor_referencia": "367,41"
+            },
+            {
+              "numero": "10",
+              "especificacao": "9900515020 Multímetro digital portátil:Display iluminado, funções de voltagem AC/DC, corrente, resistência, teste de cabos, USB e telefonia, com função Data Hold, corpo ergonômico em plástico ABS e componentes eletrônicos de alta precisão. telefonia, com função Data Hold, corpo ergonômico em plástico ABS e componentes eletrônicos de alta precisão.",
+              "unidade": "UND",
+              "quantidade": "2,00",
+              "valor_referencia": "66,97"
+            },
+            {
+              "numero": "11",
+              "especificacao": "9900515021 Mangueira de ar/água:Diâmetro interno de 1/4” (6 mm), comprimento de 15 metros, fabricada em PVC flexível, resistente à pressão e temperatura de até 60°C.",
+              "unidade": "UND",
+              "quantidade": "1,00",
+              "valor_referencia": "72,80"
+            },
+            {
+              "numero": "12",
+              "especificacao": "9900515022 Mangueira espiral de ar comprimido de 10 metros:Diâmetro interno de 1/4”, fabricada em PVC flexível, resistente a até 150 psi, com conexões macho/fêmea e bico soprador.",
+              "unidade": "UND",
+              "quantidade": "2,00",
+              "valor_referencia": "88,35"
+            },
+            {
+              "numero": "13",
+              "especificacao": "5707611102 Morsa de bancada nº 8:Fabricada em ferro nodular, mordentes integrados ao corpo, bigorna reforçada, fuso e manípulo em aço forjado com tratamento zincado eletrolítico, largura do mordente de 200 mm e abertura máxima de 203 mm, estrutura robusta e durável.",
+              "unidade": "UND",
+              "quantidade": "1,00",
+              "valor_referencia": "569,78"
+            },
+            {
+              "numero": "14",
+              "especificacao": "9900515030 Pasta para solda em estanho, embalagem de 110 g:Composição à base de cloreto de zinco e cloreto de amônia (aprox. 17%), cor âmbar, utilizada para facilitar o processo de soldagem.",
+              "unidade": "UND",
+              "quantidade": "2,00",
+              "valor_referencia": "14,70"
+            },
+            {
+              "numero": "15",
+              "especificacao": "9900515026 Paquímetro digital de 150 mm (6 ):Quadrimensional, confeccionado em aço inox temperado, resolução de 0,01 mm/0.0005”, display com dígitos grandes de 11 mm, faces lapidadas, tecla liga/desliga e zeragem em qualquer ponto, com conversão milímetro/polegada.",
+              "unidade": "UND",
+              "quantidade": "2,00",
+              "valor_referencia": "252,68"
+            },
+            {
+              "numero": "16",
+              "especificacao": "9900515051 Soprador térmico elétrico, potência mínima de 1.500 Watts, tensão 220V:Fluxo de ar regulável entre 250 e 550 L/min, temperaturas de 300°C e 500°C, acompanha maleta plástica, cabos, acessórios (bicos diversos, espátula e raspador).",
+              "unidade": "UND",
+              "quantidade": "2,00",
+              "valor_referencia": "175,64"
+            },
+            {
+              "numero": "17",
+              "especificacao": "9900515032 Suporte para ferro de solda:Confeccionado em base metálica resistente, tubo isolador em latão galvanizado, mola em aço inox, acompanha esponja vegetal para limpeza, compatível com ferros de até 100 mm de comprimento.",
+              "unidade": "UND",
+              "quantidade": "2,00",
+              "valor_referencia": "22,03"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CE-026-2025",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "1694/2025",
+      "modalidade": "CONCORRÊNCIA ELETRÔNICA",
+      "situacao": "HOMOLOGADO",
+      "condutor": "DAVIDSON ARAUJO SANTOS",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO PARCELADA",
+      "publicacao": "30/12/2025 16:50",
+      "inicio_recepcao": "02/01/2026 08:00",
+      "fim_recepcao": "05/02/2026 14:15",
+      "inicio_disputa": "05/02/2026 14:30",
+      "objeto": "Contratação de empresa especializada em execução de obras de pavimentação de diversas ruas nos bairros Liberdade I e II, do município de Teixeira de Freitas – BA.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DARcfw9hamMpVljCcwhsGMdOs230tlmD3LFMIJY8YWtYXNKQDI3j9SaNuVlRvw5FsmUbipTz96%2FrVAsdvSAydSTQsWkb8axewaWXxc3ohf0U%3D",
+      "total_lotes": 1,
+      "total_itens": 3,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "EXECUÇÃO DE OBRAS DE PAVIMENTAÇÃO DE DIVERSAS RUAS NOS BAIRROS LIBERDADE I E II",
+          "fase": "HOMOLOGADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "1.000,00",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "10.000.003,65",
+          "vencedor": "BULOKE CONSTRUCAO E SERVICOS LTDA",
+          "melhor_oferta": "9.399.619,65",
+          "total_itens": 3,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "ADMINISTRAÇÃO LOCAL",
+              "unidade": "UNID.",
+              "quantidade": "1,00",
+              "valor_referencia": "101.492,68"
+            },
+            {
+              "numero": "2",
+              "especificacao": "SERVIÇOS PRELIMINARES",
+              "unidade": "UNID.",
+              "quantidade": "1,00",
+              "valor_referencia": "980.010,97"
+            },
+            {
+              "numero": "3",
+              "especificacao": "PAVIMENTAÇÃO",
+              "unidade": "UNID.",
+              "quantidade": "1,00",
+              "valor_referencia": "8.918.500,00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CE-018-2025",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "1327/2025",
+      "modalidade": "CONCORRÊNCIA ELETRÔNICA",
+      "situacao": "ADJUDICADO",
+      "condutor": "DAVIDSON ARAUJO SANTOS",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO PARCELADA",
+      "publicacao": "31/10/2025 18:50",
+      "inicio_recepcao": "03/11/2025 08:00",
+      "fim_recepcao": "09/12/2025 08:15",
+      "inicio_disputa": "09/12/2025 08:30",
+      "objeto": "Contratação de empresa especializada em execução de obras de construção de uma mini quadra na Escola Municipal Amigos da Natureza, localizada no bairro Liberdade II, do município de Teixeira de Freitas – BA.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5D_bRIQqAgdBMxw2S8tZRBxYjusy%2FsQnr3mzRFWGc7joNqTaR2iVVv8TevNNCRNeGvUEyTDOC66YSzw%2F2S5MpNkmwW_zi1GJAEyFka3dgaiOM%3D",
+      "total_lotes": 1,
+      "total_itens": 14,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "EXECUÇÃO DE OBRAS DE CONSTRUÇÃO DE UMA MINI QUADRA NA ESCOLA MUNICIPAL AMIGOS DA NATUREZA",
+          "fase": "ADJUDICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "100,00",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "326.212,12",
+          "vencedor": "BULOKE CONSTRUCAO E SERVICOS LTDA",
+          "melhor_oferta": "325.539,33",
+          "total_itens": 14,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "SERVIÇOS PRELIMINARES",
+              "unidade": "SERVIÇO",
+              "quantidade": "1,00",
+              "valor_referencia": "33.495,37"
+            },
+            {
+              "numero": "2",
+              "especificacao": "MOVIMENTO DE TERRA",
+              "unidade": "SERVIÇO",
+              "quantidade": "1,00",
+              "valor_referencia": "3.042,48"
+            },
+            {
+              "numero": "3",
+              "especificacao": "INFRAESTRUTURA",
+              "unidade": "SERVIÇO",
+              "quantidade": "1,00",
+              "valor_referencia": "8.191,22"
+            },
+            {
+              "numero": "4",
+              "especificacao": "SUPERESTRUTURA - ESTRUTURA METÁLICA",
+              "unidade": "SERVIÇO",
+              "quantidade": "1,00",
+              "valor_referencia": "61.433,58"
+            },
+            {
+              "numero": "5",
+              "especificacao": "ALVENARIA -VEDAÇÃO",
+              "unidade": "SERVIÇO",
+              "quantidade": "1,00",
+              "valor_referencia": "32.933,50"
+            },
+            {
+              "numero": "6",
+              "especificacao": "ESQUADRIAS/ EQUIPAMENTOS",
+              "unidade": "SERVIÇO",
+              "quantidade": "1,00",
+              "valor_referencia": "13.830,11"
+            },
+            {
+              "numero": "7",
+              "especificacao": "SISTEMAS DE COBERTURA",
+              "unidade": "SERVIÇO",
+              "quantidade": "1,00",
+              "valor_referencia": "29.076,26"
+            },
+            {
+              "numero": "8",
+              "especificacao": "IMPERMEABILIZAÇÃO",
+              "unidade": "SERVIÇO",
+              "quantidade": "1,00",
+              "valor_referencia": "3.097,04"
+            },
+            {
+              "numero": "9",
+              "especificacao": "PAVIMENTAÇÃO (PISOS)",
+              "unidade": "SERVIÇO",
+              "quantidade": "1,00",
+              "valor_referencia": "60.516,77"
+            },
+            {
+              "numero": "10",
+              "especificacao": "PINTURAS",
+              "unidade": "SERVIÇO",
+              "quantidade": "1,00",
+              "valor_referencia": "35.420,45"
+            },
+            {
+              "numero": "11",
+              "especificacao": "DRENAGEM DE AGUAS PLUVIAIS",
+              "unidade": "SERVIÇO",
+              "quantidade": "1,00",
+              "valor_referencia": "14.847,35"
+            },
+            {
+              "numero": "12",
+              "especificacao": "INSTALAÇÕES ELÉTRICAS",
+              "unidade": "SERVIÇO",
+              "quantidade": "1,00",
+              "valor_referencia": "8.692,76"
+            },
+            {
+              "numero": "13",
+              "especificacao": "SISTEMA DE PROTEÇÃO CONTRA DESCARGAS ATMOSFÉRICAS (SPDA)",
+              "unidade": "SERVIÇO",
+              "quantidade": "1,00",
+              "valor_referencia": "20.926,04"
+            },
+            {
+              "numero": "14",
+              "especificacao": "SERVIÇOS FINAIS",
+              "unidade": "UN",
+              "quantidade": "1,00",
+              "valor_referencia": "709,19"
             }
           ]
         }
