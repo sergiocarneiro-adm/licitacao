@@ -8,7 +8,35 @@
     <script>
         tailwind.config = {
             darkMode: 'class',
-            theme: { extend: { colors: { primary: { 50:'#eff6ff',100:'#dbeafe',200:'#bfdbfe',300:'#93c5fd',400:'#60a5fa',500:'#3b82f6',600:'#2563eb',700:'#1d4ed8',800:'#1e40af',900:'#1e3a8a' } } } },
+            theme: { 
+                extend: { 
+                    colors: { 
+                        primary: { 50:'#eff6ff',100:'#dbeafe',200:'#bfdbfe',300:'#93c5fd',400:'#60a5fa',500:'#3b82f6',600:'#2563eb',700:'#1d4ed8',800:'#1e40af',900:'#1e3a8a' },
+                        violet: { 50:'#f5f3ff',100:'#ede9fe',200:'#ddd6fe',300:'#c4b5fd',400:'#a78bfa',500:'#8b5cf6',600:'#7c3aed',700:'#6d28d9',800:'#5b21b6',900:'#4c1d95' }
+                    },
+                    animation: {
+                        'fade-in': 'fadeIn 0.3s ease-out',
+                        'slide-up': 'slideUp 0.4s cubic-bezier(0.16, 1, 0.3, 1)',
+                        'slide-in-right': 'slideInRight 0.3s ease-out',
+                        'bounce-soft': 'bounceSoft 2s infinite',
+                        'pulse-slow': 'pulseSlow 3s infinite',
+                        'count-up': 'countUp 0.5s ease-out',
+                        'shimmer': 'shimmer 2s infinite',
+                        'float': 'float 3s ease-in-out infinite',
+                        'scale-in': 'scaleIn 0.2s ease-out'
+                    },
+                    keyframes: {
+                        fadeIn: { '0%': { opacity: '0' }, '100%': { opacity: '1' } },
+                        slideUp: { '0%': { transform: 'translateY(20px)', opacity: '0' }, '100%': { transform: 'translateY(0)', opacity: '1' } },
+                        slideInRight: { '0%': { transform: 'translateX(100%)' }, '100%': { transform: 'translateX(0)' } },
+                        bounceSoft: { '0%, 100%': { transform: 'translateY(-5%)' }, '50%': { transform: 'translateY(0)' } },
+                        pulseSlow: { '0%, 100%': { opacity: '1' }, '50%': { opacity: '0.7' } },
+                        shimmer: { '0%': { backgroundPosition: '-1000px 0' }, '100%': { backgroundPosition: '1000px 0' } },
+                        float: { '0%, 100%': { transform: 'translateY(0)' }, '50%': { transform: 'translateY(-10px)' } },
+                        scaleIn: { '0%': { transform: 'scale(0.95)', opacity: '0' }, '100%': { transform: 'scale(1)', opacity: '1' } }
+                    }
+                } 
+            },
             safelist: [
                 'bg-blue-100','text-blue-700','dark:bg-blue-950','dark:text-blue-400',
                 'bg-emerald-100','text-emerald-700','dark:bg-emerald-950','dark:text-emerald-400',
@@ -37,146 +65,340 @@
     <style>
         body { font-family: 'Inter', sans-serif; }
         code, .mono { font-family: 'JetBrains Mono', monospace; }
-        .glass-effect { background: rgba(255,255,255,0.9); backdrop-filter: blur(12px); }
-        .dark .glass-effect { background: rgba(10,15,30,0.9); }
+        .glass-effect { background: rgba(255,255,255,0.85); backdrop-filter: blur(12px); border-bottom: 1px solid rgba(255,255,255,0.3); }
+        .dark .glass-effect { background: rgba(10,15,30,0.85); border-bottom: 1px solid rgba(255,255,255,0.05); }
         .custom-scrollbar::-webkit-scrollbar { width: 5px; height: 5px; }
         .custom-scrollbar::-webkit-scrollbar-track { background: transparent; }
         .custom-scrollbar::-webkit-scrollbar-thumb { background: #cbd5e1; border-radius: 10px; }
         .dark .custom-scrollbar::-webkit-scrollbar-thumb { background: #334155; }
-        mark { background: #fef08a; color: #854d0e; padding: 0 2px; border-radius: 2px; }
-        .dark mark { background: #854d0e; color: #fef08a; }
-        .modal-backdrop { transition: opacity 0.25s ease; }
-        .modal-content  { transition: transform 0.25s ease, opacity 0.25s ease; }
-        .modal-hidden   { opacity: 0; pointer-events: none; }
-        .modal-hidden .modal-content { transform: scale(0.96); opacity: 0; }
-        .stat-card { transition: transform 0.18s ease, box-shadow 0.18s ease; }
-        .stat-card:hover { transform: translateY(-2px); }
-        tbody tr { transition: background 0.12s; }
-        @keyframes pulse-green { 0%,100%{opacity:1} 50%{opacity:.5} }
-        .badge-pulse { animation: pulse-green 2s infinite; }
-        .tab-active { border-bottom: 2px solid #2563eb; color: #2563eb; }
-        .dark .tab-active { color: #60a5fa; border-color: #60a5fa; }
-        .ds-tab-active { background: #7c3aed; color: #fff; }
-        .dark .ds-tab-active { background: #7c3aed; }
-        .ds-tab-licit-active { background: #2563eb; color: #fff; }
-        .loading-spinner { display: inline-block; width: 20px; height: 20px; border: 3px solid rgba(0,0,0,0.1); border-radius: 50%; border-top-color: #2563eb; animation: spin 0.8s linear infinite; }
-        @keyframes spin { to { transform: rotate(360deg); } }
-        /* ── ALERTAS ── */
+        mark { background: #fef08a; color: #854d0e; padding: 0 2px; border-radius: 2px; font-weight: 600; box-shadow: 0 0 0 1px #fcd34d; }
+        .dark mark { background: #854d0e; color: #fef08a; box-shadow: 0 0 0 1px #92400e; }
+        mark.current { background: #fb923c; color: #fff; box-shadow: 0 0 0 1px #ea580c; }
+        .export-btn { transition: all .15s; }
+        .export-btn:hover { transform: translateY(-1px); }
         .alert-urgente { border-left: 3px solid #ef4444; }
         .alert-proximo { border-left: 3px solid #f59e0b; }
         .alert-info    { border-left: 3px solid #3b82f6; }
-        /* ── HIGHLIGHT ── */
-        mark { background: #fef08a; color: #854d0e; padding: 1px 3px; border-radius: 3px; font-weight: 600; box-shadow: 0 0 0 1px #fcd34d; }
-        .dark mark { background: #78350f; color: #fde68a; box-shadow: 0 0 0 1px #92400e; }
-        mark.current { background: #fb923c; color: #fff; box-shadow: 0 0 0 1px #ea580c; }
-        /* ── EXPORT BTN ── */
-        .export-btn { transition: all .15s; }
-        .export-btn:hover { transform: translateY(-1px); }
-
-        /* ── CHAT IA ── */
-        #ai-fab { position:fixed; bottom:28px; right:28px; z-index:9998; width:52px; height:52px; border-radius:50%; background:linear-gradient(135deg,#2563eb,#7c3aed); border:none; cursor:pointer; box-shadow:0 4px 20px rgba(37,99,235,.45); display:flex; align-items:center; justify-content:center; transition:transform .2s,box-shadow .2s; }
-        #ai-fab:hover { transform:scale(1.08); box-shadow:0 6px 28px rgba(37,99,235,.6); }
-        #ai-panel { position:fixed; bottom:92px; right:28px; z-index:9997; width:380px; max-height:580px; border-radius:18px; background:white; box-shadow:0 12px 48px rgba(0,0,0,.18); display:flex; flex-direction:column; overflow:hidden; border:1px solid #e2e8f0; transform:scale(0.92) translateY(16px); opacity:0; pointer-events:none; transition:transform .25s cubic-bezier(.34,1.56,.64,1), opacity .2s ease; }
-        .dark #ai-panel { background:#0f172a; border-color:#1e293b; }
+        
+        /* Novas animações e efeitos */
+        .hover-lift { transition: transform 0.2s cubic-bezier(0.34, 1.56, 0.64, 1), box-shadow 0.2s ease; }
+        .hover-lift:hover { transform: translateY(-4px); box-shadow: 0 12px 40px -12px rgba(0,0,0,0.15); }
+        .dark .hover-lift:hover { box-shadow: 0 12px 40px -12px rgba(0,0,0,0.5); }
+        
+        .card-gradient { background: linear-gradient(135deg, rgba(255,255,255,0.1) 0%, rgba(255,255,255,0) 100%); }
+        .dark .card-gradient { background: linear-gradient(135deg, rgba(255,255,255,0.05) 0%, rgba(255,255,255,0) 100%); }
+        
+        .shimmer-bg { background: linear-gradient(90deg, #f0f0f0 25%, #e0e0e0 50%, #f0f0f0 75%); background-size: 1000px 100%; }
+        .dark .shimmer-bg { background: linear-gradient(90deg, #1e293b 25%, #334155 50%, #1e293b 75%); background-size: 1000px 100%; }
+        
+        .tab-active { border-bottom: 2px solid #2563eb; color: #2563eb; position: relative; }
+        .dark .tab-active { color: #60a5fa; border-color: #60a5fa; }
+        .tab-active::after { content: ''; position: absolute; bottom: -2px; left: 50%; transform: translateX(-50%); width: 20px; height: 2px; background: currentColor; border-radius: 2px; }
+        
+        .ds-tab-active { background: #7c3aed; color: #fff; box-shadow: 0 4px 12px -2px rgba(124,58,237,0.4); }
+        .ds-tab-licit-active { background: #2563eb; color: #fff; box-shadow: 0 4px 12px -2px rgba(37,99,235,0.4); }
+        
+        .loading-spinner { display: inline-block; width: 20px; height: 20px; border: 3px solid rgba(0,0,0,0.1); border-radius: 50%; border-top-color: #2563eb; animation: spin 0.8s linear infinite; }
+        @keyframes spin { to { transform: rotate(360deg); } }
+        
+        /* Toast notifications */
+        .toast-container { position: fixed; top: 20px; right: 20px; z-index: 9999; display: flex; flex-direction: column; gap: 8px; }
+        .toast { background: white; border-radius: 12px; padding: 16px 20px; box-shadow: 0 10px 40px -10px rgba(0,0,0,0.2); display: flex; align-items: center; gap: 12px; min-width: 300px; max-width: 400px; animation: slideInRight 0.3s ease; border-left: 4px solid; }
+        .dark .toast { background: #1e293b; }
+        .toast-success { border-left-color: #10b981; }
+        .toast-error { border-left-color: #ef4444; }
+        .toast-info { border-left-color: #3b82f6; }
+        .toast-warning { border-left-color: #f59e0b; }
+        
+        /* Modal melhorado */
+        .modal-backdrop { transition: opacity 0.3s ease; backdrop-filter: blur(8px); }
+        .modal-content { transition: transform 0.3s cubic-bezier(0.34, 1.56, 0.64, 1), opacity 0.3s ease; }
+        .modal-hidden { opacity: 0; pointer-events: none; }
+        .modal-hidden .modal-content { transform: scale(0.95) translateY(10px); opacity: 0; }
+        
+        /* Stats cards com efeito de vidro */
+        .stat-card { 
+            background: rgba(255,255,255,0.7); 
+            backdrop-filter: blur(10px); 
+            border: 1px solid rgba(255,255,255,0.5);
+            transition: all 0.3s cubic-bezier(0.34, 1.56, 0.64, 1);
+            position: relative; overflow: hidden;
+        }
+        .dark .stat-card { 
+            background: rgba(30,41,59,0.7); 
+            border: 1px solid rgba(255,255,255,0.05);
+        }
+        .stat-card::before {
+            content: ''; position: absolute; top: 0; left: 0; right: 0; height: 3px;
+            background: linear-gradient(90deg, var(--accent-color, #3b82f6), transparent);
+            opacity: 0; transition: opacity 0.3s;
+        }
+        .stat-card:hover::before { opacity: 1; }
+        .stat-card:hover { transform: translateY(-4px); box-shadow: 0 20px 40px -12px rgba(0,0,0,0.15); }
+        
+        /* Tabela com hover suave */
+        tbody tr { transition: all 0.15s ease; position: relative; }
+        tbody tr:hover { background: rgba(59,130,246,0.05); transform: scale(1.002); z-index: 1; }
+        tbody tr::after {
+            content: ''; position: absolute; left: 0; right: 0; bottom: 0; height: 1px;
+            background: linear-gradient(90deg, transparent, rgba(59,130,246,0.2), transparent);
+            opacity: 0; transition: opacity 0.3s;
+        }
+        tbody tr:hover::after { opacity: 1; }
+        
+        /* Checkbox customizado */
+        .custom-checkbox { appearance: none; width: 18px; height: 18px; border: 2px solid #cbd5e1; border-radius: 5px; cursor: pointer; transition: all 0.2s; position: relative; }
+        .custom-checkbox:checked { background: #3b82f6; border-color: #3b82f6; }
+        .custom-checkbox:checked::after { content: '✓'; position: absolute; color: white; font-size: 12px; top: 50%; left: 50%; transform: translate(-50%, -50%); font-weight: bold; }
+        .dark .custom-checkbox { border-color: #475569; }
+        
+        /* Quick actions no hover da linha */
+        .row-actions { opacity: 0; transition: opacity 0.2s; }
+        tr:hover .row-actions { opacity: 1; }
+        
+        /* Compare mode */
+        .compare-bar { 
+            position: fixed; bottom: 0; left: 0; right: 0; 
+            background: rgba(255,255,255,0.95); backdrop-filter: blur(10px);
+            border-top: 1px solid rgba(0,0,0,0.1);
+            padding: 16px 24px; z-index: 100;
+            transform: translateY(100%); transition: transform 0.3s cubic-bezier(0.34, 1.56, 0.64, 1);
+            box-shadow: 0 -10px 40px -10px rgba(0,0,0,0.1);
+        }
+        .dark .compare-bar { background: rgba(15,23,42,0.95); border-top-color: rgba(255,255,255,0.05); }
+        .compare-bar.active { transform: translateY(0); }
+        
+        /* Filtros avançados slide-in */
+        .filters-panel {
+            position: fixed; top: 0; right: 0; bottom: 0; width: 380px;
+            background: rgba(255,255,255,0.98); backdrop-filter: blur(20px);
+            z-index: 9999; transform: translateX(100%);
+            transition: transform 0.4s cubic-bezier(0.16, 1, 0.3, 1);
+            box-shadow: -10px 0 40px -10px rgba(0,0,0,0.2);
+            overflow-y: auto;
+        }
+        .dark .filters-panel { background: rgba(15,23,42,0.98); }
+        .filters-panel.open { transform: translateX(0); }
+        .filters-overlay { position: fixed; inset: 0; background: rgba(0,0,0,0.3); opacity: 0; pointer-events: none; transition: opacity 0.3s; z-index: 9998; }
+        .filters-overlay.open { opacity: 1; pointer-events: all; }
+        
+        /* Skeleton loading */
+        .skeleton { background: linear-gradient(90deg, #f1f5f9 25%, #e2e8f0 50%, #f1f5f9 75%); background-size: 200% 100%; animation: shimmer 1.5s infinite; border-radius: 4px; }
+        .dark .skeleton { background: linear-gradient(90deg, #334155 25%, #475569 50%, #334155 75%); background-size: 200% 100%; }
+        
+        /* Tooltip */
+        .tooltip { position: relative; }
+        .tooltip::after {
+            content: attr(data-tooltip); position: absolute; bottom: 100%; left: 50%;
+            transform: translateX(-50%) translateY(-4px); background: #1e293b; color: white;
+            padding: 6px 12px; border-radius: 6px; font-size: 11px; white-space: nowrap;
+            opacity: 0; pointer-events: none; transition: all 0.2s; z-index: 100;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+        }
+        .dark .tooltip::after { background: #0f172a; border: 1px solid #334155; }
+        .tooltip:hover::after { opacity: 1; transform: translateX(-50%) translateY(-8px); }
+        
+        /* Progress bar animada */
+        .progress-bar { height: 4px; background: #e2e8f0; border-radius: 2px; overflow: hidden; }
+        .dark .progress-bar { background: #334155; }
+        .progress-fill { height: 100%; background: linear-gradient(90deg, #3b82f6, #8b5cf6); border-radius: 2px; transition: width 0.5s ease; position: relative; overflow: hidden; }
+        .progress-fill::after {
+            content: ''; position: absolute; top: 0; left: 0; right: 0; bottom: 0;
+            background: linear-gradient(90deg, transparent, rgba(255,255,255,0.4), transparent);
+            animation: shimmer 2s infinite;
+        }
+        
+        /* CHAT IA mantido e aprimorado */
+        #ai-fab { position:fixed; bottom:28px; right:28px; z-index:9998; width:56px; height:56px; border-radius:50%; background:linear-gradient(135deg,#2563eb,#7c3aed); border:none; cursor:pointer; box-shadow:0 4px 20px rgba(37,99,235,.45), 0 0 0 4px rgba(37,99,235,0.1); display:flex; align-items:center; justify-content:center; transition:all .3s cubic-bezier(0.34, 1.56, 0.64, 1); }
+        #ai-fab:hover { transform:scale(1.1) rotate(5deg); box-shadow:0 8px 30px rgba(37,99,235,.6), 0 0 0 8px rgba(37,99,235,0.15); }
+        #ai-fab:active { transform:scale(0.95); }
+        #ai-panel { position:fixed; bottom:100px; right:28px; z-index:9997; width:400px; max-height:600px; border-radius:20px; background:rgba(255,255,255,0.98); backdrop-filter:blur(20px); box-shadow:0 25px 50px -12px rgba(0,0,0,.25); display:flex; flex-direction:column; overflow:hidden; border:1px solid rgba(255,255,255,0.5); transform:scale(0.9) translateY(20px); opacity:0; pointer-events:none; transition:all .3s cubic-bezier(0.34, 1.56, 0.64, 1); }
+        .dark #ai-panel { background:rgba(15,23,42,0.98); border-color:rgba(255,255,255,0.1); }
         #ai-panel.open { transform:scale(1) translateY(0); opacity:1; pointer-events:all; }
-        #ai-panel-header { background:linear-gradient(135deg,#2563eb,#7c3aed); padding:14px 16px; display:flex; align-items:center; justify-content:space-between; flex-shrink:0; }
+        #ai-panel-header { background:linear-gradient(135deg,#2563eb,#7c3aed); padding:16px 20px; display:flex; align-items:center; justify-content:space-between; flex-shrink:0; }
         #ai-panel-header h3 { color:white; font-size:14px; font-weight:600; margin:0; display:flex; align-items:center; gap:8px; }
-        #ai-panel-header .ai-badge { background:rgba(255,255,255,.2); color:white; font-size:10px; padding:2px 7px; border-radius:20px; font-weight:500; }
-        #ai-close { background:rgba(255,255,255,.15); border:none; color:white; width:28px; height:28px; border-radius:50%; cursor:pointer; font-size:14px; display:flex; align-items:center; justify-content:center; transition:background .15s; }
-        #ai-close:hover { background:rgba(255,255,255,.3); }
-        #ai-messages { flex:1; overflow-y:auto; padding:14px; display:flex; flex-direction:column; gap:10px; min-height:0; }
-        #ai-messages::-webkit-scrollbar { width:4px; }
-        #ai-messages::-webkit-scrollbar-thumb { background:#cbd5e1; border-radius:4px; }
-        .dark #ai-messages::-webkit-scrollbar-thumb { background:#334155; }
-        .ai-msg { max-width:92%; padding:10px 14px; border-radius:14px; font-size:13px; line-height:1.65; word-break:break-word; }
-        .ai-msg.user { white-space:pre-wrap; }
-        .ai-msg.bot p { margin:0 0 6px 0; }
-        .ai-msg.bot p:last-child { margin-bottom:0; }
-        .ai-msg.bot ul,.ai-msg.bot ol { margin:4px 0 6px 0; padding-left:18px; }
-        .ai-msg.bot li { margin-bottom:3px; }
-        .ai-msg.bot strong { font-weight:700; }
-        .ai-msg.bot h3 { font-size:13px; font-weight:700; margin:8px 0 3px; border-bottom:1px solid #e2e8f0; padding-bottom:2px; }
-        .dark .ai-msg.bot h3 { border-color:#334155; }
-        .ai-msg.bot hr { border:none; border-top:1px solid #e2e8f0; margin:6px 0; }
-        .dark .ai-msg.bot hr { border-color:#334155; }
-        .ai-msg.bot code { background:#f1f5f9; padding:1px 4px; border-radius:3px; font-size:12px; }
-        .dark .ai-msg.bot code { background:#1e293b; }
-        .ai-msg.bot .tag-id { display:inline-block; background:#dbeafe; color:#1d4ed8; padding:0 5px; border-radius:4px; font-weight:700; font-size:11px; font-family:'JetBrains Mono',monospace; }
-        .dark .ai-msg.bot .tag-id { background:#1e3a5f; color:#93c5fd; }
-        .ai-msg.bot .tag-val { color:#059669; font-weight:600; }
-        .dark .ai-msg.bot .tag-val { color:#34d399; }
-        .ai-msg.user { white-space:pre-wrap; }
-        .ai-msg.bot p { margin:0 0 6px; }
-        .ai-msg.bot p:last-child { margin-bottom:0; }
-        .ai-msg.bot strong { font-weight:700; }
-        .ai-msg.bot em { font-style:italic; }
-        .ai-msg.bot ul, .ai-msg.bot ol { margin:4px 0 6px 16px; padding:0; }
-        .ai-msg.bot li { margin-bottom:3px; }
-        .ai-msg.bot hr { border:none; border-top:1px solid #cbd5e1; margin:8px 0; }
-        .dark .ai-msg.bot hr { border-color:#334155; }
-        .ai-msg.bot h1,.ai-msg.bot h2,.ai-msg.bot h3 { font-weight:700; margin:6px 0 4px; font-size:14px; }
-        .ai-msg.bot code { background:#e2e8f0; padding:1px 5px; border-radius:4px; font-family:'JetBrains Mono',monospace; font-size:11px; }
-        .dark .ai-msg.bot code { background:#334155; }
-        .ai-msg.user { background:#2563eb; color:white; align-self:flex-end; border-bottom-right-radius:4px; }
-        .ai-msg.bot { background:#f1f5f9; color:#1e293b; align-self:flex-start; border-bottom-left-radius:4px; }
-        .dark .ai-msg.bot { background:#1e293b; color:#e2e8f0; }
-        .ai-msg.error { background:#fee2e2; color:#991b1b; align-self:flex-start; border-bottom-left-radius:4px; }
-        .dark .ai-msg.error { background:#450a0a; color:#fca5a5; }
-        .ai-typing { display:flex; gap:4px; align-items:center; padding:10px 13px; background:#f1f5f9; border-radius:14px; border-bottom-left-radius:4px; align-self:flex-start; }
+        #ai-panel-header .ai-badge { background:rgba(255,255,255,.25); color:white; font-size:10px; padding:3px 10px; border-radius:20px; font-weight:500; backdrop-filter:blur(10px); }
+        #ai-close { background:rgba(255,255,255,.2); border:none; color:white; width:32px; height:32px; border-radius:50%; cursor:pointer; font-size:14px; display:flex; align-items:center; justify-content:center; transition:all .2s; backdrop-filter:blur(10px); }
+        #ai-close:hover { background:rgba(255,255,255,.35); transform:rotate(90deg); }
+        #ai-messages { flex:1; overflow-y:auto; padding:16px; display:flex; flex-direction:column; gap:12px; min-height:0; scroll-behavior:smooth; }
+        #ai-messages::-webkit-scrollbar { width:6px; }
+        #ai-messages::-webkit-scrollbar-thumb { background:#cbd5e1; border-radius:6px; }
+        .dark #ai-messages::-webkit-scrollbar-thumb { background:#475569; }
+        .ai-msg { max-width:85%; padding:12px 16px; border-radius:16px; font-size:13px; line-height:1.6; word-break:break-word; animation:fadeIn 0.3s ease; box-shadow:0 2px 8px rgba(0,0,0,0.05); }
+        .ai-msg.user { background:linear-gradient(135deg, #2563eb, #1d4ed8); color:white; align-self:flex-end; border-bottom-right-radius:4px; }
+        .ai-msg.bot { background:#f8fafc; color:#1e293b; align-self:flex-start; border-bottom-left-radius:4px; border:1px solid #e2e8f0; }
+        .dark .ai-msg.bot { background:#1e293b; color:#e2e8f0; border-color:#334155; }
+        .ai-msg.error { background:#fef2f2; color:#991b1b; align-self:flex-start; border-bottom-left-radius:4px; border:1px solid #fecaca; }
+        .dark .ai-msg.error { background:#450a0a; color:#fca5a5; border-color:#7f1d1d; }
+        .ai-typing { display:flex; gap:4px; align-items:center; padding:12px 16px; background:#f1f5f9; border-radius:16px; border-bottom-left-radius:4px; align-self:flex-start; }
         .dark .ai-typing { background:#1e293b; }
-        .ai-typing span { width:7px; height:7px; border-radius:50%; background:#94a3b8; animation:aiDot 1.2s infinite; }
+        .ai-typing span { width:8px; height:8px; border-radius:50%; background:#94a3b8; animation:aiDot 1.4s infinite; }
         .ai-typing span:nth-child(2) { animation-delay:.2s; }
         .ai-typing span:nth-child(3) { animation-delay:.4s; }
-        @keyframes aiDot { 0%,80%,100%{transform:scale(.7);opacity:.5} 40%{transform:scale(1);opacity:1} }
-        #ai-suggestions { padding:0 12px 10px; display:flex; flex-wrap:wrap; gap:5px; flex-shrink:0; }
-        #ai-suggestions button { background:#eff6ff; border:1px solid #bfdbfe; color:#1d4ed8; border-radius:20px; padding:4px 11px; font-size:11px; cursor:pointer; transition:background .15s; white-space:nowrap; }
+        @keyframes aiDot { 0%,80%,100%{transform:scale(.6);opacity:.4} 40%{transform:scale(1);opacity:1} }
+        #ai-suggestions { padding:0 16px 12px; display:flex; flex-wrap:wrap; gap:6px; flex-shrink:0; }
+        #ai-suggestions button { background:#eff6ff; border:1px solid #bfdbfe; color:#1d4ed8; border-radius:20px; padding:6px 14px; font-size:12px; cursor:pointer; transition:all .2s; white-space:nowrap; font-weight:500; }
         .dark #ai-suggestions button { background:#1e3a5f; border-color:#1e40af; color:#93c5fd; }
-        #ai-suggestions button:hover { background:#dbeafe; }
-        #ai-input-area { padding:10px 12px; border-top:1px solid #e2e8f0; display:flex; gap:8px; align-items:flex-end; flex-shrink:0; }
-        .dark #ai-input-area { border-color:#1e293b; }
-        #ai-input { flex:1; border:1px solid #e2e8f0; border-radius:10px; padding:8px 12px; font-size:13px; resize:none; outline:none; font-family:inherit; line-height:1.4; max-height:90px; background:white; color:#1e293b; transition:border .15s; }
-        .dark #ai-input { background:#1e293b; border-color:#334155; color:#e2e8f0; }
-        #ai-input:focus { border-color:#2563eb; }
-        #ai-send { background:#2563eb; border:none; color:white; width:34px; height:34px; border-radius:9px; cursor:pointer; display:flex; align-items:center; justify-content:center; flex-shrink:0; transition:background .15s; }
-        #ai-send:hover { background:#1d4ed8; }
-        #ai-send:disabled { background:#94a3b8; cursor:not-allowed; }
-        #ai-status { padding:4px 14px 2px; font-size:10px; color:#94a3b8; flex-shrink:0; min-height:16px; }
+        #ai-suggestions button:hover { background:#dbeafe; transform:translateY(-1px); }
+        #ai-input-area { padding:12px 16px; border-top:1px solid #e2e8f0; display:flex; gap:10px; align-items:flex-end; flex-shrink:0; background:rgba(255,255,255,0.5); }
+        .dark #ai-input-area { border-color:#334155; background:rgba(30,41,59,0.5); }
+        #ai-input { flex:1; border:1px solid #e2e8f0; border-radius:12px; padding:10px 14px; font-size:13px; resize:none; outline:none; font-family:inherit; line-height:1.5; max-height:100px; background:white; color:#1e293b; transition:all .2s; }
+        .dark #ai-input { background:#0f172a; border-color:#334155; color:#e2e8f0; }
+        #ai-input:focus { border-color:#2563eb; box-shadow:0 0 0 3px rgba(37,99,235,0.1); }
+        #ai-send { background:linear-gradient(135deg, #2563eb, #1d4ed8); border:none; color:white; width:40px; height:40px; border-radius:10px; cursor:pointer; display:flex; align-items:center; justify-content:center; flex-shrink:0; transition:all .2s; box-shadow:0 4px 12px rgba(37,99,235,0.3); }
+        #ai-send:hover { transform:translateY(-2px); box-shadow:0 6px 16px rgba(37,99,235,0.4); }
+        #ai-send:active { transform:translateY(0); }
+        #ai-send:disabled { background:#94a3b8; cursor:not-allowed; transform:none; box-shadow:none; }
+        #ai-status { padding:4px 16px 2px; font-size:11px; color:#94a3b8; flex-shrink:0; min-height:18px; font-weight:500; }
+        
+        /* Empty state */
+        .empty-state { text-align: center; padding: 60px 20px; }
+        .empty-state-icon { font-size: 64px; color: #cbd5e1; margin-bottom: 16px; animation: float 3s ease-in-out infinite; }
+        .dark .empty-state-icon { color: #475569; }
+        
+        /* Keyboard shortcuts help */
+        .kbd { background: #f1f5f9; border: 1px solid #cbd5e1; border-radius: 4px; padding: 2px 6px; font-size: 11px; font-family: 'JetBrains Mono', monospace; color: #475569; }
+        .dark .kbd { background: #334155; border-color: #475569; color: #94a3b8; }
+        
+        /* Selection mode */
+        .selection-mode tr { cursor: pointer; }
+        .selection-mode tr.selected { background: rgba(59,130,246,0.1) !important; }
+        .selection-mode tr.selected::before {
+            content: ''; position: absolute; left: 0; top: 0; bottom: 0; width: 3px;
+            background: #3b82f6;
+        }
+        
+        /* Sticky header shadow on scroll */
+        .sticky-shadow { box-shadow: 0 4px 20px -4px rgba(0,0,0,0.1); }
     </style>
 </head>
 <body class="bg-slate-50 dark:bg-slate-950 text-slate-900 dark:text-slate-100 transition-colors duration-300 overflow-x-hidden">
+    <!-- Toast Container -->
+    <div id="toast-container" class="toast-container"></div>
+    
+    <!-- Filters Panel Overlay -->
+    <div id="filters-overlay" class="filters-overlay" onclick="toggleFiltersPanel()"></div>
+    
+    <!-- Filters Panel -->
+    <div id="filters-panel" class="filters-panel">
+        <div class="p-6 border-b border-slate-200 dark:border-slate-800 flex items-center justify-between bg-slate-50/50 dark:bg-slate-900/50">
+            <h3 class="font-bold text-lg flex items-center gap-2">
+                <i class="fas fa-sliders-h text-blue-600"></i>
+                Filtros Avançados
+            </h3>
+            <button onclick="toggleFiltersPanel()" class="w-8 h-8 rounded-full hover:bg-slate-200 dark:hover:bg-slate-800 flex items-center justify-center transition-colors">
+                <i class="fas fa-times"></i>
+            </button>
+        </div>
+        <div class="p-6 space-y-6">
+            <!-- Filtros de data -->
+            <div>
+                <label class="text-xs font-bold text-slate-400 uppercase tracking-wider mb-3 block">Período de Publicação</label>
+                <div class="space-y-3">
+                    <div>
+                        <span class="text-xs text-slate-500 dark:text-slate-400 mb-1 block">Data Inicial</span>
+                        <input type="date" id="filter-date-start" class="w-full bg-slate-50 dark:bg-slate-950 border border-slate-200 dark:border-slate-800 rounded-lg px-3 py-2 text-sm focus:ring-2 focus:ring-blue-500 outline-none">
+                    </div>
+                    <div>
+                        <span class="text-xs text-slate-500 dark:text-slate-400 mb-1 block">Data Final</span>
+                        <input type="date" id="filter-date-end" class="w-full bg-slate-50 dark:bg-slate-950 border border-slate-200 dark:border-slate-800 rounded-lg px-3 py-2 text-sm focus:ring-2 focus:ring-blue-500 outline-none">
+                    </div>
+                </div>
+            </div>
+            
+            <!-- Filtro de valor -->
+            <div>
+                <label class="text-xs font-bold text-slate-400 uppercase tracking-wider mb-3 block">Faixa de Valor (R$)</label>
+                <div class="grid grid-cols-2 gap-3">
+                    <div>
+                        <span class="text-xs text-slate-500 dark:text-slate-400 mb-1 block">Mínimo</span>
+                        <input type="number" id="filter-valor-min" placeholder="0,00" class="w-full bg-slate-50 dark:bg-slate-950 border border-slate-200 dark:border-slate-800 rounded-lg px-3 py-2 text-sm focus:ring-2 focus:ring-blue-500 outline-none">
+                    </div>
+                    <div>
+                        <span class="text-xs text-slate-500 dark:text-slate-400 mb-1 block">Máximo</span>
+                        <input type="number" id="filter-valor-max" placeholder="999.999,00" class="w-full bg-slate-50 dark:bg-slate-950 border border-slate-200 dark:border-slate-800 rounded-lg px-3 py-2 text-sm focus:ring-2 focus:ring-blue-500 outline-none">
+                    </div>
+                </div>
+            </div>
+            
+            <!-- Filtro de busca em campos específicos -->
+            <div>
+                <label class="text-xs font-bold text-slate-400 uppercase tracking-wider mb-3 block">Buscar em Campos Específicos</label>
+                <div class="space-y-2">
+                    <label class="flex items-center gap-2 cursor-pointer">
+                        <input type="checkbox" class="custom-checkbox" checked onchange="updateSearchFields('objeto', this.checked)">
+                        <span class="text-sm">Objeto</span>
+                    </label>
+                    <label class="flex items-center gap-2 cursor-pointer">
+                        <input type="checkbox" class="custom-checkbox" checked onchange="updateSearchFields('edital', this.checked)">
+                        <span class="text-sm">Nº Edital</span>
+                    </label>
+                    <label class="flex items-center gap-2 cursor-pointer">
+                        <input type="checkbox" class="custom-checkbox" checked onchange="updateSearchFields('condutor', this.checked)">
+                        <span class="text-sm">Condutor/Coordenador</span>
+                    </label>
+                    <label class="flex items-center gap-2 cursor-pointer">
+                        <input type="checkbox" class="custom-checkbox" onchange="updateSearchFields('fornecedor', this.checked)">
+                        <span class="text-sm">Fornecedor</span>
+                    </label>
+                </div>
+            </div>
+        </div>
+        <div class="p-6 border-t border-slate-200 dark:border-slate-800 bg-slate-50/50 dark:bg-slate-900/50">
+            <div class="flex gap-3">
+                <button onclick="applyAdvancedFilters()" class="flex-1 bg-blue-600 hover:bg-blue-700 text-white py-2.5 rounded-lg font-semibold text-sm transition-all shadow-lg shadow-blue-500/30">
+                    Aplicar Filtros
+                </button>
+                <button onclick="resetAdvancedFilters()" class="px-4 py-2.5 border border-slate-200 dark:border-slate-700 rounded-lg text-sm font-medium text-slate-600 dark:text-slate-400 hover:bg-slate-100 dark:hover:bg-slate-800 transition-colors">
+                    Limpar
+                </button>
+            </div>
+        </div>
+    </div>
+
 <div class="min-h-screen flex flex-col">
 
 <!-- ── HEADER ──────────────────────────────────────────────────────── -->
-<header class="sticky top-0 z-40 w-full border-b border-slate-200 dark:border-slate-800 glass-effect">
+<header id="main-header" class="sticky top-0 z-40 w-full border-b border-slate-200 dark:border-slate-800 glass-effect transition-shadow duration-300">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-16 flex items-center justify-between gap-3">
-        <div class="flex items-center gap-3 shrink-0">
-            <div id="header-icon" class="bg-blue-600 p-2 rounded-lg shadow transition-colors">
+        <div class="flex items-center gap-3 shrink-0 group cursor-pointer" onclick="window.scrollTo({top:0,behavior:'smooth'})">
+            <div id="header-icon" class="bg-gradient-to-br from-blue-600 to-blue-700 p-2.5 rounded-xl shadow-lg shadow-blue-500/30 transition-all group-hover:shadow-blue-500/50 group-hover:scale-105">
                 <i class="fas fa-gavel text-white text-sm"></i>
             </div>
             <div>
-                <h1 class="text-base font-bold leading-tight">BLL <span id="header-title" class="text-blue-600">Licitações</span></h1>
+                <h1 class="text-base font-bold leading-tight">BLL <span id="header-title" class="text-blue-600 bg-gradient-to-r from-blue-600 to-blue-400 bg-clip-text text-transparent">Licitações</span></h1>
                 <p class="text-[10px] text-slate-400 leading-none">Teixeira de Freitas · Processos Licitatórios &amp; Compras Diretas</p>
             </div>
         </div>
 
         <!-- Dataset switcher -->
-        <div class="flex items-center bg-slate-100 dark:bg-slate-800 rounded-xl p-1 gap-1">
+        <div class="flex items-center bg-slate-100/80 dark:bg-slate-800/80 backdrop-blur-sm rounded-2xl p-1.5 gap-1 border border-slate-200/50 dark:border-slate-700/50">
             <button id="ds-btn-licit" onclick="switchDataset('licit')"
-                class="ds-tab-licit-active flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-xs font-bold transition-all text-white">
+                class="ds-tab-licit-active flex items-center gap-2 px-4 py-2 rounded-xl text-xs font-bold transition-all text-white">
                 <i class="fas fa-gavel text-xs"></i>
                 <span class="hidden sm:inline">Licitações</span>
-                <span id="ds-count-licit" class="mono text-[10px] opacity-75"></span>
+                <span id="ds-count-licit" class="mono text-[10px] opacity-75 bg-white/20 px-1.5 rounded-full"></span>
             </button>
             <button id="ds-btn-compras" onclick="switchDataset('compras')"
-                class="flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-xs font-bold transition-all text-slate-500 dark:text-slate-400 hover:text-slate-700 dark:hover:text-white">
+                class="flex items-center gap-2 px-4 py-2 rounded-xl text-xs font-bold transition-all text-slate-500 dark:text-slate-400 hover:text-slate-700 dark:hover:text-white">
                 <i class="fas fa-shopping-cart text-xs"></i>
                 <span class="hidden sm:inline">Compras Diretas</span>
-                <span id="ds-count-compras" class="mono text-[10px] opacity-75"></span>
+                <span id="ds-count-compras" class="mono text-[10px] opacity-75 bg-slate-500/10 px-1.5 rounded-full"></span>
             </button>
         </div>
 
         <div class="flex items-center gap-2">
-            <span id="header-meta" class="text-[10px] text-slate-400 hidden md:block mono"></span>
+            <span id="header-meta" class="text-[10px] text-slate-400 hidden md:block mono bg-slate-100 dark:bg-slate-800 px-2 py-1 rounded-full"></span>
+            
+            <button onclick="toggleCompareMode()" id="compare-toggle-btn" class="tooltip hidden sm:flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-xs font-bold border border-slate-200 dark:border-slate-700 text-slate-500 dark:text-slate-400 hover:border-amber-400 hover:text-amber-600 dark:hover:text-amber-400 transition-all" data-tooltip="Comparar processos">
+                <i class="fas fa-balance-scale text-xs"></i>
+                <span class="hidden lg:inline">Comparar</span>
+            </button>
+            
+            <button onclick="toggleFiltersPanel()" class="tooltip flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-xs font-bold border border-slate-200 dark:border-slate-700 text-slate-500 dark:text-slate-400 hover:border-blue-400 hover:text-blue-600 dark:hover:text-blue-400 transition-all" data-tooltip="Filtros avançados">
+                <i class="fas fa-sliders-h text-xs"></i>
+            </button>
+            
             <a href="https://sergiocarneiro-adm.github.io/pncp/" target="_blank" rel="noopener noreferrer"
                 class="flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-xs font-bold border border-slate-200 dark:border-slate-700 text-slate-500 dark:text-slate-400 hover:border-emerald-400 hover:text-emerald-600 dark:hover:text-emerald-400 transition-all"
                 title="PNCP Explorer | Por Sergio Carneiro">
@@ -184,12 +406,12 @@
                 <span class="hidden sm:inline">PNCP</span>
             </a>
             <button id="export-pdf-btn" onclick="exportPDF()"
-                class="export-btn flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-xs font-bold bg-rose-600 hover:bg-rose-700 text-white transition-all"
-                title="Exportar PDF">
+                class="export-btn tooltip flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-xs font-bold bg-gradient-to-r from-rose-600 to-rose-700 hover:from-rose-700 hover:to-rose-800 text-white transition-all shadow-lg shadow-rose-500/30"
+                title="Exportar PDF" data-tooltip="Exportar PDF">
                 <i class="fas fa-file-pdf text-xs"></i>
                 <span class="hidden sm:inline">PDF</span>
             </button>
-            <button id="theme-toggle" class="p-2 rounded-full hover:bg-slate-100 dark:hover:bg-slate-800 transition-colors" title="Alternar tema">
+            <button id="theme-toggle" class="p-2.5 rounded-xl hover:bg-slate-100 dark:hover:bg-slate-800 transition-all" title="Alternar tema">
                 <i class="fas fa-moon dark:hidden text-slate-500"></i>
                 <i class="fas fa-sun hidden dark:block text-slate-400"></i>
             </button>
@@ -200,131 +422,272 @@
 <main class="flex-1 max-w-7xl w-full mx-auto px-4 sm:px-6 lg:px-8 py-8">
 
     <!-- ── LOADING STATE ──────────────────────────────────────────── -->
-    <div id="loading-state" class="text-center py-12">
-        <div class="inline-block loading-spinner"></div>
-        <p class="text-slate-500 mt-4">Carregando dados...</p>
+    <div id="loading-state" class="text-center py-20">
+        <div class="inline-flex flex-col items-center gap-6">
+            <div class="relative">
+                <div class="w-16 h-16 border-4 border-blue-200 dark:border-blue-900/50 border-t-blue-600 rounded-full animate-spin"></div>
+                <div class="absolute inset-0 flex items-center justify-center">
+                    <i class="fas fa-gavel text-blue-600 text-lg animate-pulse"></i>
+                </div>
+            </div>
+            <div class="space-y-2">
+                <p class="text-slate-600 dark:text-slate-300 font-medium">Carregando dados...</p>
+                <div class="w-48 h-1 bg-slate-200 dark:bg-slate-800 rounded-full overflow-hidden">
+                    <div class="h-full bg-blue-600 rounded-full animate-[shimmer_1.5s_infinite] w-1/2"></div>
+                </div>
+            </div>
+        </div>
     </div>
 
     <!-- ── MAIN CONTENT (hidden until data loads) ──────────────────── -->
-    <div id="main-content" style="display: none;">
+    <div id="main-content" style="display: none;" class="animate-fade-in">
+        
+        <!-- Progress Bar (hidden by default, shown during operations) -->
+        <div id="progress-container" class="mb-6 hidden">
+            <div class="flex justify-between text-xs text-slate-500 mb-2">
+                <span id="progress-label">Processando...</span>
+                <span id="progress-percent">0%</span>
+            </div>
+            <div class="progress-bar">
+                <div id="progress-fill" class="progress-fill" style="width: 0%"></div>
+            </div>
+        </div>
+    
         <!-- ── STAT CARDS ──────────────────────────────────────────────── -->
         <div id="stats-container" class="grid grid-cols-2 lg:grid-cols-4 gap-4 mb-6"></div>
 
         <!-- ── ALERTAS ────────────────────────────────────────────────── -->
-        <div id="alertas-container" class="mb-6"></div>
-
-
+        <div id="alertas-container" class="mb-6 animate-slide-up" style="animation-delay: 0.1s"></div>
 
         <!-- ── CARDS RECENTES ──────────────────────────────────────────── -->
-        <div class="mb-3 flex items-center gap-2">
-            <h2 class="text-[11px] font-bold uppercase tracking-widest text-slate-400">
-                <i class="fas fa-clock-rotate-left mr-1"></i> <span id="recent-label">Últimas Licitações</span>
+        <div class="mb-3 flex items-center justify-between">
+            <h2 class="text-[11px] font-bold uppercase tracking-widest text-slate-400 flex items-center gap-2">
+                <i class="fas fa-clock-rotate-left mr-1"></i> 
+                <span id="recent-label">Últimas Licitações</span>
+                <span class="w-1.5 h-1.5 rounded-full bg-emerald-500 animate-pulse"></span>
             </h2>
+            <div class="flex items-center gap-2">
+                <button onclick="refreshData()" class="text-xs text-slate-400 hover:text-blue-600 transition-colors flex items-center gap-1" title="Atualizar dados">
+                    <i class="fas fa-sync-alt"></i>
+                    <span class="hidden sm:inline">Atualizar</span>
+                </button>
+            </div>
         </div>
         <div id="recent-container" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4 mb-8"></div>
 
         <!-- ── FILTROS ──────────────────────────────────────────────────── -->
-        <div class="bg-white dark:bg-slate-900 rounded-xl border border-slate-200 dark:border-slate-800 p-4 mb-6 shadow-sm">
+        <div class="bg-white/80 dark:bg-slate-900/80 backdrop-blur-xl rounded-2xl border border-slate-200 dark:border-slate-800 p-4 mb-6 shadow-lg shadow-slate-200/50 dark:shadow-none transition-all hover:shadow-xl hover:shadow-slate-200/50 dark:hover:border-slate-700">
             <div class="flex flex-col gap-3">
                 <div class="flex flex-col sm:flex-row gap-2">
-                    <div class="relative flex-1">
-                        <i class="fas fa-search absolute left-3 top-1/2 -translate-y-1/2 text-slate-400 text-sm"></i>
+                    <div class="relative flex-1 group">
+                        <i class="fas fa-search absolute left-4 top-1/2 -translate-y-1/2 text-slate-400 text-sm group-focus-within:text-blue-500 transition-colors"></i>
                         <input type="text" id="search-input"
                             placeholder="Buscar por objeto, edital, condutor, fornecedor..."
-                            class="w-full pl-10 pr-4 py-2.5 bg-slate-50 dark:bg-slate-950 border border-slate-200 dark:border-slate-800 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-blue-500 outline-none transition-all text-sm">
+                            class="w-full pl-11 pr-4 py-3 bg-slate-50 dark:bg-slate-950 border border-slate-200 dark:border-slate-800 rounded-xl focus:ring-2 focus:ring-blue-500/50 focus:border-blue-500 outline-none transition-all text-sm">
+                        <kbd class="absolute right-3 top-1/2 -translate-y-1/2 hidden md:block opacity-50">Ctrl K</kbd>
                     </div>
                     <button id="search-btn"
-                        class="bg-blue-600 hover:bg-blue-700 text-white px-6 py-2.5 rounded-lg font-semibold transition-colors flex items-center justify-center gap-2 text-sm">
+                        class="bg-gradient-to-r from-blue-600 to-blue-700 hover:from-blue-700 hover:to-blue-800 text-white px-8 py-3 rounded-xl font-semibold transition-all shadow-lg shadow-blue-500/30 hover:shadow-blue-500/50 flex items-center justify-center gap-2 text-sm active:scale-95">
                         <i class="fas fa-search"></i> Pesquisar
                     </button>
                     <button id="clear-btn"
-                        class="text-slate-400 hover:text-slate-600 dark:hover:text-slate-200 px-3 py-2.5 rounded-lg border border-slate-200 dark:border-slate-800 hover:bg-slate-50 dark:hover:bg-slate-800 transition-colors text-sm" title="Limpar filtros">
+                        class="text-slate-400 hover:text-rose-600 dark:hover:text-rose-400 px-4 py-3 rounded-xl border border-slate-200 dark:border-slate-800 hover:border-rose-200 dark:hover:border-rose-900 hover:bg-rose-50 dark:hover:bg-rose-950/30 transition-all text-sm tooltip" title="Limpar filtros" data-tooltip="Limpar (Esc)">
                         <i class="fas fa-times"></i>
                     </button>
                 </div>
 
                 <div id="filter-row" class="flex flex-wrap gap-3"></div>
+                
+                <!-- Active filters display -->
+                <div id="active-filters" class="hidden flex flex-wrap gap-2 items-center">
+                    <span class="text-xs text-slate-400">Filtros ativos:</span>
+                </div>
 
-                <div class="flex gap-1 border-b border-slate-100 dark:border-slate-800">
-                    <button data-view="registros" class="view-tab px-4 py-2 text-xs font-semibold text-slate-500 hover:text-blue-600 dark:hover:text-blue-400 transition-colors tab-active">
-                        <i class="fas fa-folder-open mr-1"></i> <span id="tab-label-reg">Processos</span>
+                <div class="flex gap-1 border-b border-slate-100 dark:border-slate-800 pt-2">
+                    <button data-view="registros" class="view-tab px-4 py-2.5 text-xs font-semibold text-slate-500 hover:text-blue-600 dark:hover:text-blue-400 transition-colors tab-active flex items-center gap-2">
+                        <i class="fas fa-folder-open"></i> 
+                        <span id="tab-label-reg">Processos</span>
+                        <span id="count-reg" class="bg-slate-200 dark:bg-slate-800 text-slate-600 dark:text-slate-300 px-2 py-0.5 rounded-full text-[10px] mono">0</span>
                     </button>
-                    <button data-view="itens" class="view-tab px-4 py-2 text-xs font-semibold text-slate-500 hover:text-blue-600 dark:hover:text-blue-400 transition-colors">
-                        <i class="fas fa-list mr-1"></i> <span id="tab-label-itens">Lotes / Itens</span>
+                    <button data-view="itens" class="view-tab px-4 py-2.5 text-xs font-semibold text-slate-500 hover:text-blue-600 dark:hover:text-blue-400 transition-colors flex items-center gap-2">
+                        <i class="fas fa-list"></i> 
+                        <span id="tab-label-itens">Lotes / Itens</span>
+                        <span id="count-itens" class="bg-slate-200 dark:bg-slate-800 text-slate-600 dark:text-slate-300 px-2 py-0.5 rounded-full text-[10px] mono">0</span>
+                    </button>
+                    
+                    <div class="flex-1"></div>
+                    
+                    <button onclick="toggleColumnSelector()" class="text-xs text-slate-400 hover:text-blue-600 flex items-center gap-1.5 px-3 py-2">
+                        <i class="fas fa-columns"></i>
+                        <span class="hidden sm:inline">Colunas</span>
                     </button>
                 </div>
+            </div>
+            
+            <!-- Column selector dropdown -->
+            <div id="column-selector" class="hidden mt-3 p-3 bg-slate-50 dark:bg-slate-950 rounded-xl border border-slate-200 dark:border-slate-800 animate-scale-in">
+                <div class="text-xs font-bold text-slate-400 uppercase mb-2">Colunas visíveis</div>
+                <div id="column-options" class="flex flex-wrap gap-3"></div>
             </div>
         </div>
 
         <!-- ── TABELA ───────────────────────────────────────────────────── -->
-        <div class="bg-white dark:bg-slate-900 rounded-xl border border-slate-200 dark:border-slate-800 shadow-sm overflow-hidden">
+        <div class="bg-white dark:bg-slate-900 rounded-2xl border border-slate-200 dark:border-slate-800 shadow-lg shadow-slate-200/50 dark:shadow-none overflow-hidden transition-all hover:shadow-xl hover:shadow-slate-200/50 dark:hover:border-slate-700">
             <!-- toolbar -->
-            <div class="px-4 py-2.5 border-b border-slate-100 dark:border-slate-800 flex items-center justify-between gap-3 bg-slate-50 dark:bg-slate-950">
-                <div id="results-count" class="text-xs text-slate-500"></div>
-                <button onclick="exportCSV()" class="export-btn flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-xs font-bold border border-slate-200 dark:border-slate-700 text-slate-500 dark:text-slate-400 hover:border-emerald-500 hover:text-emerald-600 dark:hover:text-emerald-400 transition-all">
-                    <i class="fas fa-file-csv text-xs"></i> Exportar CSV
-                </button>
+            <div class="px-4 py-3 border-b border-slate-100 dark:border-slate-800 flex items-center justify-between gap-3 bg-slate-50/50 dark:bg-slate-950/50 backdrop-blur-sm">
+                <div class="flex items-center gap-3">
+                    <div id="results-count" class="text-xs text-slate-500 font-medium"></div>
+                    
+                    <!-- Selection actions -->
+                    <div id="selection-actions" class="hidden flex items-center gap-2 animate-fade-in">
+                        <span class="text-xs text-slate-400"><span id="selected-count">0</span> selecionado(s)</span>
+                        <button onclick="compareSelected()" class="text-xs bg-blue-100 dark:bg-blue-900/30 text-blue-700 dark:text-blue-300 px-3 py-1.5 rounded-lg hover:bg-blue-200 dark:hover:bg-blue-900/50 transition-colors font-medium">
+                            <i class="fas fa-balance-scale mr-1"></i> Comparar
+                        </button>
+                        <button onclick="clearSelection()" class="text-xs text-slate-400 hover:text-rose-600 transition-colors">
+                            Limpar
+                        </button>
+                    </div>
+                </div>
+                
+                <div class="flex items-center gap-2">
+                    <button onclick="exportCSV()" class="export-btn flex items-center gap-2 px-4 py-2 rounded-xl text-xs font-bold border border-slate-200 dark:border-slate-700 text-slate-600 dark:text-slate-400 hover:border-emerald-500 hover:text-emerald-600 dark:hover:text-emerald-400 hover:bg-emerald-50 dark:hover:bg-emerald-950/30 transition-all">
+                        <i class="fas fa-file-csv text-emerald-500"></i> 
+                        <span class="hidden sm:inline">Exportar CSV</span>
+                    </button>
+                    
+                    <div class="h-4 w-px bg-slate-200 dark:bg-slate-700"></div>
+                    
+                    <button onclick="toggleViewMode()" class="text-xs text-slate-400 hover:text-blue-600 transition-colors flex items-center gap-1.5 p-2" title="Alternar visualização">
+                        <i id="view-mode-icon" class="fas fa-th-list"></i>
+                    </button>
+                </div>
             </div>
+            
             <div class="overflow-x-auto custom-scrollbar">
-                <table class="w-full text-left border-collapse text-sm">
+                <table class="w-full text-left border-collapse text-sm" id="main-table">
                     <thead id="table-head">
                         <tr class="bg-slate-50 dark:bg-slate-950 border-b border-slate-200 dark:border-slate-800"></tr>
                     </thead>
                     <tbody id="table-body" class="divide-y divide-slate-100 dark:divide-slate-800"></tbody>
                 </table>
+                
+                <!-- Card view (alternative to table) -->
+                <div id="card-view" class="hidden grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 p-4"></div>
             </div>
+            
+            <!-- Empty state -->
+            <div id="empty-state" class="hidden empty-state">
+                <div class="empty-state-icon">
+                    <i class="fas fa-inbox"></i>
+                </div>
+                <h3 class="text-lg font-semibold text-slate-700 dark:text-slate-300 mb-2">Nenhum resultado encontrado</h3>
+                <p class="text-sm text-slate-500 max-w-md mx-auto mb-4">Tente ajustar os filtros ou termos de busca para encontrar o que procura.</p>
+                <button onclick="clearFilters()" class="px-6 py-2 bg-blue-600 text-white rounded-lg text-sm font-medium hover:bg-blue-700 transition-colors">
+                    Limpar Filtros
+                </button>
+            </div>
+            
             <div id="pagination-container" class="px-6 py-4 bg-slate-50 dark:bg-slate-950 border-t border-slate-200 dark:border-slate-800 flex flex-col sm:flex-row items-center justify-between gap-3">
                 <p id="pagination-info" class="text-xs text-slate-500"></p>
                 <div id="pagination-buttons" class="flex items-center gap-1 flex-wrap justify-center"></div>
             </div>
         </div>
+        
+        <!-- Keyboard shortcuts help -->
+        <div class="mt-8 flex items-center justify-center gap-4 text-xs text-slate-400">
+            <span class="flex items-center gap-1"><kbd>Ctrl</kbd> + <kbd>K</kbd> Buscar</span>
+            <span class="flex items-center gap-1"><kbd>Esc</kbd> Limpar</span>
+            <span class="flex items-center gap-1"><kbd>→</kbd> Próximo</span>
+            <span class="flex items-center gap-1"><kbd>←</kbd> Anterior</span>
+            <span class="flex items-center gap-1"><kbd>?</kbd> Ajuda</span>
+        </div>
     </div>
 
 </main>
 
-<footer class="py-5 border-t border-slate-200 dark:border-slate-800 text-center text-xs text-slate-400">
-    Sérgio BLL Explorer · Município de Teixeira de Freitas &copy; 2026
+<footer class="py-8 border-t border-slate-200 dark:border-slate-800 text-center">
+    <div class="flex flex-col items-center gap-3">
+        <div class="flex items-center gap-4 text-slate-400">
+            <a href="#" class="hover:text-blue-600 transition-colors"><i class="fab fa-github"></i></a>
+            <a href="#" class="hover:text-blue-600 transition-colors"><i class="fab fa-twitter"></i></a>
+            <a href="#" class="hover:text-blue-600 transition-colors"><i class="fas fa-envelope"></i></a>
+        </div>
+        <p class="text-xs text-slate-500">
+            Sérgio BLL Explorer · Município de Teixeira de Freitas &copy; 2026
+        </p>
+        <p class="text-[10px] text-slate-400 max-w-md">
+            Sistema de consulta pública a processos licitatórios. Dados extraídos do Portal Nacional de Contratações Públicas (PNCP).
+        </p>
+    </div>
 </footer>
 </div>
 
 <!-- ── MODAL LICITAÇÃO ─────────────────────────────────────────────────── -->
 <div id="modal-licit" class="fixed inset-0 z-50 flex items-center justify-center p-4 modal-hidden">
-    <div class="absolute inset-0 bg-slate-950/70 backdrop-blur-sm modal-backdrop" onclick="closeModal()"></div>
-    <div class="relative bg-white dark:bg-slate-900 w-full max-w-5xl max-h-[92vh] rounded-2xl shadow-2xl overflow-hidden flex flex-col modal-content">
-        <div class="px-6 py-4 border-b border-slate-200 dark:border-slate-800 flex items-center justify-between bg-slate-50 dark:bg-slate-950 shrink-0">
+    <div class="absolute inset-0 bg-slate-950/60 backdrop-blur-sm modal-backdrop" onclick="closeModal()"></div>
+    <div class="relative bg-white dark:bg-slate-900 w-full max-w-5xl max-h-[92vh] rounded-2xl shadow-2xl overflow-hidden flex flex-col modal-content border border-slate-200 dark:border-slate-800">
+        <div class="px-6 py-4 border-b border-slate-200 dark:border-slate-800 flex items-center justify-between bg-gradient-to-r from-slate-50 to-white dark:from-slate-950 dark:to-slate-900 shrink-0">
             <div class="flex items-center gap-3 min-w-0">
-                <span id="ml-badge" class="shrink-0 px-2.5 py-0.5 rounded-full text-[10px] font-bold uppercase tracking-wider"></span>
+                <span id="ml-badge" class="shrink-0 px-3 py-1 rounded-full text-[10px] font-bold uppercase tracking-wider shadow-sm"></span>
                 <h3 id="ml-title" class="font-bold text-base text-blue-600 dark:text-blue-400 truncate mono"></h3>
             </div>
-            <button onclick="closeModal()" class="ml-3 shrink-0 text-slate-400 hover:text-slate-700 dark:hover:text-white transition-colors"><i class="fas fa-times text-lg"></i></button>
+            <div class="flex items-center gap-2">
+                <button onclick="toggleFavorite(currentModalIndex)" class="p-2 text-slate-400 hover:text-amber-500 transition-colors" title="Favoritar">
+                    <i id="ml-fav-icon" class="far fa-star"></i>
+                </button>
+                <button onclick="closeModal()" class="p-2 text-slate-400 hover:text-rose-600 transition-colors rounded-lg hover:bg-rose-50 dark:hover:bg-rose-950/30">
+                    <i class="fas fa-times text-lg"></i>
+                </button>
+            </div>
         </div>
         <div class="flex-1 overflow-y-auto p-6 custom-scrollbar">
             <div class="grid grid-cols-1 lg:grid-cols-3 gap-8">
                 <div class="lg:col-span-2 space-y-6">
-                    <section>
-                        <h4 class="text-[10px] font-bold text-slate-400 uppercase tracking-widest mb-2">Objeto</h4>
+                    <section class="bg-slate-50/50 dark:bg-slate-800/30 rounded-xl p-4 border border-slate-100 dark:border-slate-800">
+                        <h4 class="text-[11px] font-bold text-slate-400 uppercase tracking-widest mb-2 flex items-center gap-2">
+                            <i class="fas fa-align-left"></i> Objeto
+                        </h4>
                         <p id="ml-objeto" class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm"></p>
                     </section>
                     <section>
                         <div class="flex items-center justify-between mb-3">
-                            <h4 class="text-[10px] font-bold text-slate-400 uppercase tracking-widest">Lotes e Itens</h4>
-                            <span id="ml-lotes-count" class="mono text-[10px] bg-slate-100 dark:bg-slate-800 text-slate-500 px-2 py-0.5 rounded-full"></span>
+                            <h4 class="text-[11px] font-bold text-slate-400 uppercase tracking-widest flex items-center gap-2">
+                                <i class="fas fa-boxes"></i> Lotes e Itens
+                            </h4>
+                            <span id="ml-lotes-count" class="mono text-[10px] bg-slate-100 dark:bg-slate-800 text-slate-500 px-3 py-1 rounded-full border border-slate-200 dark:border-slate-700"></span>
                         </div>
                         <div id="ml-lotes-container" class="space-y-4"></div>
                     </section>
                 </div>
                 <div class="space-y-4">
-                    <div class="bg-blue-50 dark:bg-blue-950/30 p-4 rounded-xl border border-blue-200 dark:border-blue-900">
-                        <h4 class="text-[10px] font-bold text-blue-600 dark:text-blue-400 uppercase tracking-widest mb-3">Datas</h4>
-                        <div class="space-y-2">
-                            <div><span class="text-[10px] text-slate-400 block">Publicação</span><span id="ml-publicacao" class="text-xs font-bold mono"></span></div>
-                            <div><span class="text-[10px] text-slate-400 block">Início Recepção</span><span id="ml-inicio-recepcao" class="text-xs font-bold mono"></span></div>
-                            <div><span class="text-[10px] text-slate-400 block">Fim Recepção</span><span id="ml-fim-recepcao" class="text-xs font-bold mono"></span></div>
-                            <div><span class="text-[10px] text-slate-400 block">Início Disputa</span><span id="ml-inicio-disputa" class="text-xs font-bold mono"></span></div>
+                    <div class="bg-gradient-to-br from-blue-50 to-indigo-50 dark:from-blue-950/30 dark:to-indigo-950/30 p-5 rounded-2xl border border-blue-200 dark:border-blue-900/50 shadow-sm">
+                        <h4 class="text-[11px] font-bold text-blue-600 dark:text-blue-400 uppercase tracking-widest mb-4 flex items-center gap-2">
+                            <i class="fas fa-calendar-alt"></i> Datas
+                        </h4>
+                        <div class="space-y-3">
+                            <div class="flex justify-between items-center pb-2 border-b border-blue-200/50 dark:border-blue-800/50">
+                                <span class="text-[10px] text-slate-500 block">Publicação</span>
+                                <span id="ml-publicacao" class="text-xs font-bold mono text-slate-700 dark:text-slate-200"></span>
+                            </div>
+                            <div class="flex justify-between items-center pb-2 border-b border-blue-200/50 dark:border-blue-800/50">
+                                <span class="text-[10px] text-slate-500 block">Início Recepção</span>
+                                <span id="ml-inicio-recepcao" class="text-xs font-bold mono text-slate-700 dark:text-slate-200"></span>
+                            </div>
+                            <div class="flex justify-between items-center pb-2 border-b border-blue-200/50 dark:border-blue-800/50">
+                                <span class="text-[10px] text-slate-500 block">Fim Recepção</span>
+                                <span id="ml-fim-recepcao" class="text-xs font-bold mono text-slate-700 dark:text-slate-200"></span>
+                            </div>
+                            <div class="flex justify-between items-center">
+                                <span class="text-[10px] text-slate-500 block">Início Disputa</span>
+                                <span id="ml-inicio-disputa" class="text-xs font-bold mono text-slate-700 dark:text-slate-200"></span>
+                            </div>
                         </div>
                     </div>
-                    <div class="bg-slate-50 dark:bg-slate-900 p-4 rounded-xl border border-slate-200 dark:border-slate-800 space-y-2.5">
-                        <h4 class="text-[10px] font-bold text-slate-400 uppercase tracking-widest mb-3">Informações</h4>
+                    <div class="bg-slate-50 dark:bg-slate-800/50 p-5 rounded-2xl border border-slate-200 dark:border-slate-800 space-y-3 shadow-sm">
+                        <h4 class="text-[11px] font-bold text-slate-400 uppercase tracking-widest mb-3 flex items-center gap-2">
+                            <i class="fas fa-info-circle"></i> Informações
+                        </h4>
                         <div class="flex justify-between text-xs gap-2"><span class="text-slate-400 shrink-0">Nº Edital</span><span id="ml-id" class="font-bold mono text-right text-blue-600 dark:text-blue-400"></span></div>
                         <div class="flex justify-between text-xs gap-2"><span class="text-slate-400 shrink-0">Nº Adm.</span><span id="ml-adm" class="font-semibold mono text-right text-slate-500"></span></div>
                         <div class="flex justify-between text-xs gap-2"><span class="text-slate-400 shrink-0">Modalidade</span><span id="ml-modalidade" class="font-semibold text-right"></span></div>
@@ -334,63 +697,95 @@
                         <div class="flex justify-between text-xs gap-2"><span class="text-slate-400 shrink-0">Autoridade</span><span id="ml-autoridade" class="font-semibold text-right"></span></div>
                     </div>
                     <a id="ml-link" href="#" target="_blank"
-                        class="flex items-center justify-center gap-2 w-full bg-slate-900 dark:bg-white text-white dark:text-slate-900 py-3 rounded-xl font-bold text-sm hover:opacity-80 transition-opacity">
+                        class="flex items-center justify-center gap-2 w-full bg-slate-900 dark:bg-white text-white dark:text-slate-900 py-3.5 rounded-xl font-bold text-sm hover:opacity-90 transition-all shadow-lg shadow-slate-900/20 dark:shadow-white/20 active:scale-95">
                         <i class="fas fa-external-link-alt"></i> Ver no BLL
                     </a>
                 </div>
             </div>
         </div>
         <div class="px-6 py-3 border-t border-slate-200 dark:border-slate-800 flex items-center justify-between bg-slate-50 dark:bg-slate-950 shrink-0">
-            <button id="modal-prev" onclick="prevItem()" class="flex items-center gap-2 text-xs font-bold text-slate-400 hover:text-blue-600 dark:hover:text-blue-400 transition-colors disabled:opacity-20"><i class="fas fa-arrow-left"></i> Anterior</button>
-            <button onclick="exportModalPDF()" class="flex items-center gap-1.5 px-4 py-1.5 rounded-lg text-xs font-bold bg-rose-600 hover:bg-rose-700 text-white transition-all shadow-sm">
-                <i class="fas fa-file-pdf"></i> Imprimir PDF
+            <button id="modal-prev" onclick="prevItem()" class="flex items-center gap-2 text-xs font-bold text-slate-400 hover:text-blue-600 dark:hover:text-blue-400 transition-colors disabled:opacity-20 px-3 py-2 rounded-lg hover:bg-slate-100 dark:hover:bg-slate-800">
+                <i class="fas fa-arrow-left"></i> Anterior
             </button>
-            <span id="modal-counter" class="text-[10px] font-medium text-slate-400 mono"></span>
-            <button id="modal-next" onclick="nextItem()" class="flex items-center gap-2 text-xs font-bold text-slate-400 hover:text-blue-600 dark:hover:text-blue-400 transition-colors disabled:opacity-20">Próximo <i class="fas fa-arrow-right"></i></button>
+            <div class="flex items-center gap-3">
+                <button onclick="copyProcessInfo()" class="text-xs text-slate-400 hover:text-blue-600 flex items-center gap-1.5 px-3 py-2 rounded-lg hover:bg-slate-100 dark:hover:bg-slate-800 transition-colors" title="Copiar informações">
+                    <i class="fas fa-copy"></i> Copiar
+                </button>
+                <button onclick="exportModalPDF()" class="flex items-center gap-1.5 px-5 py-2 rounded-xl text-xs font-bold bg-gradient-to-r from-rose-600 to-rose-700 hover:from-rose-700 hover:to-rose-800 text-white transition-all shadow-lg shadow-rose-500/30">
+                    <i class="fas fa-file-pdf"></i> Imprimir PDF
+                </button>
+            </div>
+            <span id="modal-counter" class="text-[10px] font-medium text-slate-400 mono bg-slate-200 dark:bg-slate-800 px-2 py-1 rounded"></span>
+            <button id="modal-next" onclick="nextItem()" class="flex items-center gap-2 text-xs font-bold text-slate-400 hover:text-blue-600 dark:hover:text-blue-400 transition-colors disabled:opacity-20 px-3 py-2 rounded-lg hover:bg-slate-100 dark:hover:bg-slate-800">
+                Próximo <i class="fas fa-arrow-right"></i>
+            </button>
         </div>
     </div>
 </div>
 
 <!-- ── MODAL COMPRA DIRETA ─────────────────────────────────────────────── -->
 <div id="modal-compra" class="fixed inset-0 z-50 flex items-center justify-center p-4 modal-hidden">
-    <div class="absolute inset-0 bg-slate-950/70 backdrop-blur-sm modal-backdrop" onclick="closeModal()"></div>
-    <div class="relative bg-white dark:bg-slate-900 w-full max-w-5xl max-h-[92vh] rounded-2xl shadow-2xl overflow-hidden flex flex-col modal-content">
-        <div class="px-6 py-4 border-b border-slate-200 dark:border-slate-800 flex items-center justify-between bg-slate-50 dark:bg-slate-950 shrink-0">
+    <div class="absolute inset-0 bg-slate-950/60 backdrop-blur-sm modal-backdrop" onclick="closeModal()"></div>
+    <div class="relative bg-white dark:bg-slate-900 w-full max-w-5xl max-h-[92vh] rounded-2xl shadow-2xl overflow-hidden flex flex-col modal-content border border-slate-200 dark:border-slate-800">
+        <div class="px-6 py-4 border-b border-slate-200 dark:border-slate-800 flex items-center justify-between bg-gradient-to-r from-slate-50 to-white dark:from-slate-950 dark:to-slate-900 shrink-0">
             <div class="flex items-center gap-3 min-w-0">
-                <span id="mc-badge" class="shrink-0 px-2.5 py-0.5 rounded-full text-[10px] font-bold uppercase tracking-wider"></span>
+                <span id="mc-badge" class="shrink-0 px-3 py-1 rounded-full text-[10px] font-bold uppercase tracking-wider shadow-sm"></span>
                 <h3 id="mc-title" class="font-bold text-base text-violet-600 dark:text-violet-400 truncate mono"></h3>
             </div>
-            <button onclick="closeModal()" class="ml-3 shrink-0 text-slate-400 hover:text-slate-700 dark:hover:text-white transition-colors"><i class="fas fa-times text-lg"></i></button>
+            <div class="flex items-center gap-2">
+                <button onclick="toggleFavorite(currentModalIndex)" class="p-2 text-slate-400 hover:text-amber-500 transition-colors" title="Favoritar">
+                    <i id="mc-fav-icon" class="far fa-star"></i>
+                </button>
+                <button onclick="closeModal()" class="p-2 text-slate-400 hover:text-rose-600 transition-colors rounded-lg hover:bg-rose-50 dark:hover:bg-rose-950/30">
+                    <i class="fas fa-times text-lg"></i>
+                </button>
+            </div>
         </div>
         <div class="flex-1 overflow-y-auto p-6 custom-scrollbar">
             <div class="grid grid-cols-1 lg:grid-cols-3 gap-8">
                 <div class="lg:col-span-2 space-y-6">
-                    <section>
-                        <h4 class="text-[10px] font-bold text-slate-400 uppercase tracking-widest mb-2">Objeto</h4>
+                    <section class="bg-slate-50/50 dark:bg-slate-800/30 rounded-xl p-4 border border-slate-100 dark:border-slate-800">
+                        <h4 class="text-[11px] font-bold text-slate-400 uppercase tracking-widest mb-2 flex items-center gap-2">
+                            <i class="fas fa-align-left"></i> Objeto
+                        </h4>
                         <p id="mc-objeto" class="text-slate-700 dark:text-slate-300 leading-relaxed text-sm"></p>
                     </section>
-                    <section>
-                        <h4 class="text-[10px] font-bold text-slate-400 uppercase tracking-widest mb-2">Justificativa</h4>
+                    <section class="bg-amber-50/50 dark:bg-amber-950/20 rounded-xl p-4 border border-amber-200 dark:border-amber-900/50">
+                        <h4 class="text-[11px] font-bold text-amber-600 dark:text-amber-400 uppercase tracking-widest mb-2 flex items-center gap-2">
+                            <i class="fas fa-gavel"></i> Justificativa
+                        </h4>
                         <p id="mc-justificativa" class="text-slate-600 dark:text-slate-400 leading-relaxed text-xs italic"></p>
                     </section>
                     <section>
                         <div class="flex items-center justify-between mb-3">
-                            <h4 class="text-[10px] font-bold text-slate-400 uppercase tracking-widest">Itens</h4>
-                            <span id="mc-itens-count" class="mono text-[10px] bg-slate-100 dark:bg-slate-800 text-slate-500 px-2 py-0.5 rounded-full"></span>
+                            <h4 class="text-[11px] font-bold text-slate-400 uppercase tracking-widest flex items-center gap-2">
+                                <i class="fas fa-boxes"></i> Itens
+                            </h4>
+                            <span id="mc-itens-count" class="mono text-[10px] bg-slate-100 dark:bg-slate-800 text-slate-500 px-3 py-1 rounded-full border border-slate-200 dark:border-slate-700"></span>
                         </div>
                         <div id="mc-itens-container" class="space-y-3"></div>
                     </section>
                 </div>
                 <div class="space-y-4">
-                    <div class="bg-emerald-50 dark:bg-emerald-950/30 p-4 rounded-xl border border-emerald-200 dark:border-emerald-900">
-                        <h4 class="text-[10px] font-bold text-emerald-600 dark:text-emerald-400 uppercase tracking-widest mb-3">Fornecedor / Valor</h4>
+                    <div class="bg-gradient-to-br from-emerald-50 to-teal-50 dark:from-emerald-950/30 dark:to-teal-950/30 p-5 rounded-2xl border border-emerald-200 dark:border-emerald-900/50 shadow-sm">
+                        <h4 class="text-[11px] font-bold text-emerald-600 dark:text-emerald-400 uppercase tracking-widest mb-4 flex items-center gap-2">
+                            <i class="fas fa-handshake"></i> Fornecedor / Valor
+                        </h4>
                         <div class="space-y-3">
-                            <div><span class="text-[10px] text-slate-400 block mb-0.5">Fornecedor</span><span id="mc-fornecedor" class="text-sm font-bold break-words text-slate-800 dark:text-slate-200"></span></div>
-                            <div><span class="text-[10px] text-slate-400 block mb-0.5">Valor Total</span><span id="mc-valor" class="text-xl font-black text-emerald-600 dark:text-emerald-400"></span></div>
+                            <div>
+                                <span class="text-[10px] text-slate-400 block mb-1">Fornecedor</span>
+                                <span id="mc-fornecedor" class="text-sm font-bold break-words text-slate-800 dark:text-slate-200 block"></span>
+                            </div>
+                            <div class="pt-2 border-t border-emerald-200/50 dark:border-emerald-800/50">
+                                <span class="text-[10px] text-slate-400 block mb-1">Valor Total</span>
+                                <span id="mc-valor" class="text-2xl font-black text-emerald-600 dark:text-emerald-400 tracking-tight"></span>
+                            </div>
                         </div>
                     </div>
-                    <div class="bg-slate-50 dark:bg-slate-900 p-4 rounded-xl border border-slate-200 dark:border-slate-800 space-y-2.5">
-                        <h4 class="text-[10px] font-bold text-slate-400 uppercase tracking-widest mb-3">Informações</h4>
+                    <div class="bg-slate-50 dark:bg-slate-800/50 p-5 rounded-2xl border border-slate-200 dark:border-slate-800 space-y-2.5 shadow-sm">
+                        <h4 class="text-[11px] font-bold text-slate-400 uppercase tracking-widest mb-3 flex items-center gap-2">
+                            <i class="fas fa-info-circle"></i> Informações
+                        </h4>
                         <div class="flex justify-between text-xs gap-2"><span class="text-slate-400 shrink-0">Nº Edital</span><span id="mc-id" class="font-bold mono text-right text-violet-600 dark:text-violet-400"></span></div>
                         <div class="flex justify-between text-xs gap-2"><span class="text-slate-400 shrink-0">Nº Adm.</span><span id="mc-adm" class="font-semibold mono text-right text-slate-500"></span></div>
                         <div class="flex justify-between text-xs gap-2"><span class="text-slate-400 shrink-0">Modalidade</span><span id="mc-modalidade" class="font-semibold text-right"></span></div>
@@ -403,19 +798,81 @@
                         <div class="flex justify-between text-xs gap-2"><span class="text-slate-400 shrink-0">Conclusão</span><span id="mc-conclusao" class="font-semibold text-right mono text-[10px]"></span></div>
                     </div>
                     <a id="mc-link" href="#" target="_blank"
-                        class="flex items-center justify-center gap-2 w-full bg-slate-900 dark:bg-white text-white dark:text-slate-900 py-3 rounded-xl font-bold text-sm hover:opacity-80 transition-opacity">
+                        class="flex items-center justify-center gap-2 w-full bg-slate-900 dark:bg-white text-white dark:text-slate-900 py-3.5 rounded-xl font-bold text-sm hover:opacity-90 transition-all shadow-lg shadow-slate-900/20 dark:shadow-white/20 active:scale-95">
                         <i class="fas fa-external-link-alt"></i> Ver no BLL
                     </a>
                 </div>
             </div>
         </div>
         <div class="px-6 py-3 border-t border-slate-200 dark:border-slate-800 flex items-center justify-between bg-slate-50 dark:bg-slate-950 shrink-0">
-            <button id="mc-modal-prev" onclick="prevItem()" class="flex items-center gap-2 text-xs font-bold text-slate-400 hover:text-violet-600 dark:hover:text-violet-400 transition-colors disabled:opacity-20"><i class="fas fa-arrow-left"></i> Anterior</button>
-            <button onclick="exportModalPDF()" class="flex items-center gap-1.5 px-4 py-1.5 rounded-lg text-xs font-bold bg-rose-600 hover:bg-rose-700 text-white transition-all shadow-sm">
-                <i class="fas fa-file-pdf"></i> Imprimir PDF
+            <button id="mc-modal-prev" onclick="prevItem()" class="flex items-center gap-2 text-xs font-bold text-slate-400 hover:text-violet-600 dark:hover:text-violet-400 transition-colors disabled:opacity-20 px-3 py-2 rounded-lg hover:bg-slate-100 dark:hover:bg-slate-800">
+                <i class="fas fa-arrow-left"></i> Anterior
             </button>
-            <span id="mc-modal-counter" class="text-[10px] font-medium text-slate-400 mono"></span>
-            <button id="mc-modal-next" onclick="nextItem()" class="flex items-center gap-2 text-xs font-bold text-slate-400 hover:text-violet-600 dark:hover:text-violet-400 transition-colors disabled:opacity-20">Próximo <i class="fas fa-arrow-right"></i></button>
+            <div class="flex items-center gap-3">
+                <button onclick="copyProcessInfo()" class="text-xs text-slate-400 hover:text-violet-600 flex items-center gap-1.5 px-3 py-2 rounded-lg hover:bg-slate-100 dark:hover:bg-slate-800 transition-colors">
+                    <i class="fas fa-copy"></i> Copiar
+                </button>
+                <button onclick="exportModalPDF()" class="flex items-center gap-1.5 px-5 py-2 rounded-xl text-xs font-bold bg-gradient-to-r from-rose-600 to-rose-700 hover:from-rose-700 hover:to-rose-800 text-white transition-all shadow-lg shadow-rose-500/30">
+                    <i class="fas fa-file-pdf"></i> Imprimir PDF
+                </button>
+            </div>
+            <span id="mc-modal-counter" class="text-[10px] font-medium text-slate-400 mono bg-slate-200 dark:bg-slate-800 px-2 py-1 rounded"></span>
+            <button id="mc-modal-next" onclick="nextItem()" class="flex items-center gap-2 text-xs font-bold text-slate-400 hover:text-violet-600 dark:hover:text-violet-400 transition-colors disabled:opacity-20 px-3 py-2 rounded-lg hover:bg-slate-100 dark:hover:bg-slate-800">
+                Próximo <i class="fas fa-arrow-right"></i>
+            </button>
+        </div>
+    </div>
+</div>
+
+<!-- ── COMPARE BAR ──────────────────────────────────────────────── -->
+<div id="compare-bar" class="compare-bar">
+    <div class="max-w-7xl mx-auto flex items-center justify-between">
+        <div class="flex items-center gap-4">
+            <div class="w-10 h-10 rounded-full bg-blue-100 dark:bg-blue-900/30 flex items-center justify-center text-blue-600">
+                <i class="fas fa-balance-scale"></i>
+            </div>
+            <div>
+                <h4 class="text-sm font-bold text-slate-800 dark:text-slate-200">Modo Comparação</h4>
+                <p class="text-xs text-slate-500">Selecione 2 itens para comparar</p>
+            </div>
+        </div>
+        <div id="compare-selections" class="flex items-center gap-2 flex-1 mx-8">
+            <div class="compare-slot empty flex-1 h-12 border-2 border-dashed border-slate-300 dark:border-slate-700 rounded-lg flex items-center justify-center text-xs text-slate-400">
+                <i class="fas fa-plus mr-2"></i> Selecione o 1º item
+            </div>
+            <span class="text-slate-400">vs</span>
+            <div class="compare-slot empty flex-1 h-12 border-2 border-dashed border-slate-300 dark:border-slate-700 rounded-lg flex items-center justify-center text-xs text-slate-400">
+                <i class="fas fa-plus mr-2"></i> Selecione o 2º item
+            </div>
+        </div>
+        <div class="flex items-center gap-2">
+            <button onclick="executeCompare()" id="btn-compare-execute" class="px-6 py-2 bg-blue-600 text-white rounded-lg text-sm font-bold opacity-50 cursor-not-allowed" disabled>
+                Comparar
+            </button>
+            <button onclick="toggleCompareMode()" class="p-2 text-slate-400 hover:text-rose-600">
+                <i class="fas fa-times"></i>
+            </button>
+        </div>
+    </div>
+</div>
+
+<!-- ── MODAL COMPARE ─────────────────────────────────────────────── -->
+<div id="modal-compare" class="fixed inset-0 z-50 flex items-center justify-center p-4 modal-hidden">
+    <div class="absolute inset-0 bg-slate-950/70 backdrop-blur-sm modal-backdrop" onclick="closeCompareModal()"></div>
+    <div class="relative bg-white dark:bg-slate-900 w-full max-w-6xl max-h-[90vh] rounded-2xl shadow-2xl overflow-hidden flex flex-col modal-content">
+        <div class="px-6 py-4 border-b border-slate-200 dark:border-slate-800 flex items-center justify-between bg-slate-50 dark:bg-slate-950">
+            <h3 class="font-bold text-lg flex items-center gap-2">
+                <i class="fas fa-balance-scale text-blue-600"></i>
+                Comparação de Processos
+            </h3>
+            <button onclick="closeCompareModal()" class="text-slate-400 hover:text-rose-600 transition-colors">
+                <i class="fas fa-times text-xl"></i>
+            </button>
+        </div>
+        <div class="flex-1 overflow-auto p-6 custom-scrollbar">
+            <div id="compare-content" class="grid grid-cols-2 gap-6">
+                <!-- Conteúdo gerado dinamicamente -->
+            </div>
         </div>
     </div>
 </div>
@@ -435,20 +892,24 @@ let search       = '';
 let viewMode     = 'registros';
 let page         = 1;
 let currentModalIndex = -1;
+let compareMode  = false;
+let selectedForCompare = [];
+let favorites    = JSON.parse(localStorage.getItem('bll_favorites') || '[]');
+let hiddenColumns = JSON.parse(localStorage.getItem('bll_hidden_columns') || '[]');
+let searchFields = { objeto: true, edital: true, condutor: true, fornecedor: false };
 
 let f1='all', f2='all', f3='all', f4='all';
+let fDateStart='', fDateEnd='', fValorMin='', fValorMax='';
 
 // ── UTILS ─────────────────────────────────────────────────────────────────
 const norm = t => t ? t.toString().toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g,'') : '';
 const hl = (text, term) => {
     if (!term || !text) return text || '';
     const txt = text.toString();
-    // Suporta múltiplos termos separados por espaço
     const terms = term.trim().split(/\s+/).filter(Boolean);
     let result = txt;
     terms.forEach(t => {
         const escaped = t.replace(/[.*+?^${}()|[\]\\]/g,'\\$&');
-        // Normaliza para encontrar com/sem acento
         const rx = new RegExp(`(${escaped})`, 'gi');
         result = result.replace(rx, '<mark>$1</mark>');
     });
@@ -494,7 +955,6 @@ const totalRegistroCompra = reg => {
     if (!itens.length) return null;
     let soma = 0, temValor = false;
     itens.forEach(it => {
-        // valor no JSON = valor unitário; subtotal = valor * quantidade
         const v = parseValor(it.valor || '');
         const q = parseValor(it.quantidade || '1');
         const qtd = (!isNaN(q) && q > 0) ? q : 1;
@@ -510,10 +970,37 @@ const fornecedorPrincipal = reg => {
 
 const statusField = r => dataset === 'licit' ? r.situacao : r.status;
 
+// ── TOAST NOTIFICATIONS ──────────────────────────────────────────────────
+function showToast(message, type = 'info', duration = 3000) {
+    const container = document.getElementById('toast-container');
+    const toast = document.createElement('div');
+    const icons = {
+        success: 'fa-check-circle text-emerald-500',
+        error: 'fa-exclamation-circle text-rose-500',
+        warning: 'fa-exclamation-triangle text-amber-500',
+        info: 'fa-info-circle text-blue-500'
+    };
+    toast.className = `toast toast-${type}`;
+    toast.innerHTML = `
+        <i class="fas ${icons[type]} text-xl"></i>
+        <div class="flex-1">
+            <p class="text-sm font-medium text-slate-700 dark:text-slate-200">${message}</p>
+        </div>
+        <button onclick="this.parentElement.remove()" class="text-slate-400 hover:text-slate-600">
+            <i class="fas fa-times"></i>
+        </button>
+    `;
+    container.appendChild(toast);
+    setTimeout(() => {
+        toast.style.opacity = '0';
+        toast.style.transform = 'translateX(100%)';
+        setTimeout(() => toast.remove(), 300);
+    }, duration);
+}
+
 // ── DATA LOADING ──────────────────────────────────────────────────────────
 async function loadData() {
     try {
-        // Tentar carregar via fetch (funciona em servidor)
         const [resLicit, resCompra] = await Promise.all([
             fetch('dados.json').then(r => {
                 if (!r.ok) throw new Error('dados.json não encontrado');
@@ -527,23 +1014,22 @@ async function loadData() {
         
         processos = resLicit.processos || [];
         compras = resCompra.registros || [];
-        // guardar metadata antes de processarDados reescrever ALL_DATA
         const metaLicitRaw = resLicit.metadata || {};
         const metaComprasRaw = resCompra.metadata || {};
 
         processarDados();
-
-        // restaurar metadata após processarDados
         ALL_DATA._meta_licit_raw = metaLicitRaw;
         ALL_DATA._meta_compras_raw = metaComprasRaw;
+        
+        showToast('Dados carregados com sucesso!', 'success');
     } catch (err) {
-        console.error('Erro ao carregar dados via fetch:', err);
+        console.error('Erro ao carregar dados:', err);
         showError('Erro ao carregar arquivos JSON. Verifique se dados.json e dados_compra_direta.json estão no mesmo diretório.');
+        showToast('Erro ao carregar dados', 'error');
     }
 }
 
 function processarDados() {
-    // Extrair ano para processos se não existir
     processos.forEach(p => {
         if (!p.ano_referencia && p.publicacao) {
             const match = p.publicacao.match(/\d{4}/);
@@ -551,7 +1037,6 @@ function processarDados() {
         }
     });
 
-    // Extrair ano para compras se não existir
     compras.forEach(c => {
         if (!c.ano_referencia && c.data_publicacao) {
             const match = c.data_publicacao.match(/\d{4}/);
@@ -559,7 +1044,6 @@ function processarDados() {
         }
     });
 
-    // Ordenar por data de publicação — mais recente primeiro
     const parsePub = str => {
         if (!str) return 0;
         try { const [d,m,y] = str.split(' ')[0].split('/'); return new Date(+y,+m-1,+d).getTime(); }
@@ -582,23 +1066,30 @@ function processarDados() {
         }
     };
 
-    // Mostrar conteúdo principal
     document.getElementById('loading-state').style.display = 'none';
     document.getElementById('main-content').style.display = 'block';
-
-    // Update counters
     document.getElementById('ds-count-licit').textContent = processos.length.toLocaleString('pt-BR');
     document.getElementById('ds-count-compras').textContent = compras.length.toLocaleString('pt-BR');
 
     switchDataset('licit');
 }
 
+function refreshData() {
+    showToast('Atualizando dados...', 'info');
+    loadData();
+}
+
 function showError(msg) {
     document.getElementById('loading-state').innerHTML = `
         <div class="text-center py-12">
-            <i class="fas fa-exclamation-circle text-rose-600 text-4xl mb-4 block"></i>
-            <p class="text-rose-600 font-bold text-lg">${msg}</p>
-            <p class="text-slate-500 text-sm mt-2">Certifique-se de que os arquivos JSON estão no mesmo diretório que este HTML.</p>
+            <div class="w-20 h-20 mx-auto mb-4 rounded-full bg-rose-100 dark:bg-rose-950 flex items-center justify-center">
+                <i class="fas fa-exclamation-circle text-rose-600 text-3xl"></i>
+            </div>
+            <p class="text-rose-600 font-bold text-lg mb-2">${msg}</p>
+            <p class="text-slate-500 text-sm">Certifique-se de que os arquivos JSON estão no mesmo diretório que este HTML.</p>
+            <button onclick="location.reload()" class="mt-4 px-6 py-2 bg-blue-600 text-white rounded-lg text-sm font-medium hover:bg-blue-700 transition-colors">
+                <i class="fas fa-redo mr-2"></i> Tentar novamente
+            </button>
         </div>`;
 }
 
@@ -622,19 +1113,19 @@ function switchDataset(ds) {
 
     const isLicit = ds === 'licit';
 
-    document.getElementById('header-icon').className = `${isLicit ? 'bg-blue-600' : 'bg-violet-600'} p-2 rounded-lg shadow transition-colors`;
+    document.getElementById('header-icon').className = `bg-gradient-to-br ${isLicit ? 'from-blue-600 to-blue-700' : 'from-violet-600 to-violet-700'} p-2.5 rounded-xl shadow-lg ${isLicit ? 'shadow-blue-500/30' : 'shadow-violet-500/30'} transition-all group-hover:shadow-${isLicit ? 'blue' : 'violet'}-500/50 group-hover:scale-105`;
     document.getElementById('header-icon').innerHTML  = `<i class="fas ${isLicit ? 'fa-gavel' : 'fa-shopping-cart'} text-white text-sm"></i>`;
-    document.getElementById('header-title').className = `${isLicit ? 'text-blue-600' : 'text-violet-600'}`;
+    document.getElementById('header-title').className = `${isLicit ? 'text-blue-600 bg-gradient-to-r from-blue-600 to-blue-400 bg-clip-text text-transparent' : 'text-violet-600 bg-gradient-to-r from-violet-600 to-violet-400 bg-clip-text text-transparent'}`;
     document.getElementById('header-title').textContent = isLicit ? 'Licitações' : 'Compra Direta';
 
     const bl = document.getElementById('ds-btn-licit');
     const bc = document.getElementById('ds-btn-compras');
     bl.className = isLicit
-        ? 'ds-tab-licit-active flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-xs font-bold transition-all text-white'
-        : 'flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-xs font-bold transition-all text-slate-500 dark:text-slate-400 hover:text-slate-700 dark:hover:text-white';
+        ? 'ds-tab-licit-active flex items-center gap-2 px-4 py-2 rounded-xl text-xs font-bold transition-all text-white'
+        : 'flex items-center gap-2 px-4 py-2 rounded-xl text-xs font-bold transition-all text-slate-500 dark:text-slate-400 hover:text-slate-700 dark:hover:text-white';
     bc.className = !isLicit
-        ? 'ds-tab-active flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-xs font-bold transition-all text-white'
-        : 'flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-xs font-bold transition-all text-slate-500 dark:text-slate-400 hover:text-slate-700 dark:hover:text-white';
+        ? 'ds-tab-active flex items-center gap-2 px-4 py-2 rounded-xl text-xs font-bold transition-all text-white'
+        : 'flex items-center gap-2 px-4 py-2 rounded-xl text-xs font-bold transition-all text-slate-500 dark:text-slate-400 hover:text-slate-700 dark:hover:text-white';
 
     document.getElementById('tab-label-reg').textContent   = isLicit ? 'Processos' : 'Compras';
     document.getElementById('tab-label-itens').textContent = isLicit ? 'Lotes / Itens' : 'Itens';
@@ -645,8 +1136,11 @@ function switchDataset(ds) {
     inp.className = inp.className.replace(/focus:ring-\w+-\d+/g,'').replace(/focus:border-\w+-\d+/g,'') +
         ` focus:ring-${isLicit?'blue':'violet'}-500 focus:border-${isLicit?'blue':'violet'}-500`;
     document.getElementById('search-btn').className = document.getElementById('search-btn').className
-        .replace(/bg-\w+-600/,'bg-'+(isLicit?'blue':'violet')+'-600')
-        .replace(/hover:bg-\w+-700/,'hover:bg-'+(isLicit?'blue':'violet')+'-700');
+        .replace(/from-\w+-600/,'from-'+(isLicit?'blue':'violet')+'-600')
+        .replace(/to-\w+-700/,'to-'+(isLicit?'blue':'violet')+'-700')
+        .replace(/hover:from-\w+-700/,'hover:from-'+(isLicit?'blue':'violet')+'-700')
+        .replace(/hover:to-\w+-800/,'hover:to-'+(isLicit?'blue':'violet')+'-800')
+        .replace(/shadow-\w+-500\/30/,'shadow-'+(isLicit?'blue':'violet')+'-500/30');
 
     const meta = isLicit ? ALL_DATA.meta_licit : ALL_DATA.meta_compras;
     const metaRaw = isLicit ? (ALL_DATA._meta_licit_raw||{}) : (ALL_DATA._meta_compras_raw||{});
@@ -665,7 +1159,7 @@ function switchDataset(ds) {
     renderRecentCards();
     updateFiltered();
     render();
-
+    initColumnSelector();
 }
 
 // ── FLAT SUB ───────────────────────────────────────────────────────────────
@@ -715,9 +1209,43 @@ function buildSelect(id, label, values) {
         .map(v=>`<option value="${v}">${v}</option>`).join('');
     return `<div class="flex flex-col gap-1 flex-1 min-w-[140px]">
         <label class="text-[10px] uppercase font-bold text-slate-400 ml-1">${label}</label>
-        <select id="${id}" class="bg-slate-50 dark:bg-slate-950 border border-slate-200 dark:border-slate-800 rounded-lg px-3 py-2 outline-none focus:ring-2 focus:ring-blue-500 text-sm">
+        <select id="${id}" class="bg-slate-50 dark:bg-slate-950 border border-slate-200 dark:border-slate-800 rounded-lg px-3 py-2 outline-none focus:ring-2 focus:ring-blue-500 text-sm transition-all hover:border-slate-300 dark:hover:border-slate-700">
             <option value="all">Todos</option>${opts}
         </select></div>`;
+}
+
+// ── ADVANCED FILTERS PANEL ────────────────────────────────────────────────
+function toggleFiltersPanel() {
+    document.getElementById('filters-panel').classList.toggle('open');
+    document.getElementById('filters-overlay').classList.toggle('open');
+}
+
+function updateSearchFields(field, checked) {
+    searchFields[field] = checked;
+}
+
+function applyAdvancedFilters() {
+    fDateStart = document.getElementById('filter-date-start').value;
+    fDateEnd = document.getElementById('filter-date-end').value;
+    fValorMin = document.getElementById('filter-valor-min').value;
+    fValorMax = document.getElementById('filter-valor-max').value;
+    page = 1;
+    updateFiltered();
+    render();
+    toggleFiltersPanel();
+    showToast('Filtros avançados aplicados', 'success');
+}
+
+function resetAdvancedFilters() {
+    document.getElementById('filter-date-start').value = '';
+    document.getElementById('filter-date-end').value = '';
+    document.getElementById('filter-valor-min').value = '';
+    document.getElementById('filter-valor-max').value = '';
+    fDateStart = fDateEnd = fValorMin = fValorMax = '';
+    page = 1;
+    updateFiltered();
+    render();
+    showToast('Filtros avançados resetados', 'info');
 }
 
 // ── STATS ─────────────────────────────────────────────────────────────────
@@ -729,44 +1257,73 @@ function renderStats() {
         const totalLotes = ALL_DATA.meta_licit?.total_lotes || rawData.reduce((s,r) => s+(r.total_lotes||0), 0);
         const totalItens = ALL_DATA.meta_licit?.total_itens || rawData.reduce((s,r) => s+(r.total_itens||0), 0);
         stats = [
-            { icon:'fa-gavel',        label:'Processos',     val: rawData.length,  color:'text-blue-600',    fmt: 'n' },
-            { icon:'fa-check-circle', label:'Homologados',   val: homologados,     color:'text-emerald-500', fmt: 'n' },
-            { icon:'fa-spinner',      label:'Em Andamento',  val: ativos,          color:'text-amber-500',   fmt: 'n' },
-            { icon:'fa-layer-group',  label:'Total de Lotes',val: totalLotes,      color:'text-primary-600', fmt: 'n' },
+            { icon:'fa-gavel',        label:'Processos',     val: rawData.length,  color:'blue',    fmt: 'n' },
+            { icon:'fa-check-circle', label:'Homologados',   val: homologados,     color:'emerald', fmt: 'n' },
+            { icon:'fa-spinner',      label:'Em Andamento',  val: ativos,          color:'amber',   fmt: 'n' },
+            { icon:'fa-layer-group',  label:'Total de Lotes',val: totalLotes,      color:'indigo',  fmt: 'n' },
         ];
     } else {
         const concluidos = rawData.filter(r => norm(r.status).includes('conclu')).length;
         const emAnd = rawData.filter(r => !norm(r.status).includes('conclu') && !norm(r.status).includes('cancel')).length;
         const totalItensCD = ALL_DATA.meta_compras?.total_itens || flatSub.length;
-        // Calcular valor total contratado
         let valorTotal = 0;
         rawData.forEach(r => {
             const v = totalRegistroCompra(r);
             if (v) valorTotal += v;
         });
         stats = [
-            { icon:'fa-shopping-cart', label:'Compras Diretas', val: rawData.length, color:'text-violet-600',   fmt: 'n' },
-            { icon:'fa-check-double',  label:'Concluídas',       val: concluidos,     color:'text-emerald-500', fmt: 'n' },
-            { icon:'fa-clock',         label:'Em Andamento',     val: emAnd,          color:'text-amber-500',   fmt: 'n' },
-            { icon:'fa-dollar-sign',   label:'Valor Total',      val: valorTotal,     color:'text-primary-600', fmt: 'brl' },
+            { icon:'fa-shopping-cart', label:'Compras Diretas', val: rawData.length, color:'violet',  fmt: 'n' },
+            { icon:'fa-check-double',  label:'Concluídas',       val: concluidos,     color:'emerald', fmt: 'n' },
+            { icon:'fa-clock',         label:'Em Andamento',     val: emAnd,          color:'amber',   fmt: 'n' },
+            { icon:'fa-dollar-sign',   label:'Valor Total',      val: valorTotal,     color:'emerald', fmt: 'brl' },
         ];
     }
 
-    document.getElementById('stats-container').innerHTML = stats.map(s => `
-        <div class="stat-card bg-white dark:bg-slate-900 rounded-xl border border-slate-200 dark:border-slate-800 p-5 shadow-sm flex items-center gap-4">
-            <div class="w-10 h-10 rounded-xl bg-slate-50 dark:bg-slate-800 flex items-center justify-center shrink-0">
-                <i class="fas ${s.icon} ${s.color} text-lg"></i>
+    document.getElementById('stats-container').innerHTML = stats.map((s, i) => `
+        <div class="stat-card rounded-2xl border border-slate-200 dark:border-slate-800 p-5 shadow-sm flex items-center gap-4 animate-slide-up" style="animation-delay: ${i * 0.05}s; --accent-color: var(--color-${s.color}-500, #3b82f6)">
+            <div class="w-12 h-12 rounded-xl bg-${s.color}-50 dark:bg-${s.color}-950/50 flex items-center justify-center shrink-0">
+                <i class="fas ${s.icon} text-${s.color}-500 text-xl"></i>
             </div>
             <div class="min-w-0">
-                <p class="text-2xl font-black ${s.color} ${s.fmt==='brl' ? 'text-lg' : ''}">${s.fmt==='brl' ? fmtBRL(s.val) : s.val.toLocaleString('pt-BR')}</p>
+                <p class="text-2xl font-black text-slate-800 dark:text-slate-100 ${s.fmt==='brl' ? 'text-lg' : ''} counter" data-target="${s.val}" data-fmt="${s.fmt}">${s.fmt==='brl' ? 'R$ 0,00' : '0'}</p>
                 <p class="text-[11px] text-slate-400 font-medium truncate">${s.label}</p>
             </div>
         </div>`).join('');
+    
+    animateCounters();
+}
+
+function animateCounters() {
+    const counters = document.querySelectorAll('.counter');
+    counters.forEach(counter => {
+        const target = parseFloat(counter.getAttribute('data-target'));
+        const fmt = counter.getAttribute('data-fmt');
+        const duration = 1000;
+        const start = performance.now();
+        
+        function update(currentTime) {
+            const elapsed = currentTime - start;
+            const progress = Math.min(elapsed / duration, 1);
+            const easeOut = 1 - Math.pow(1 - progress, 3);
+            const current = target * easeOut;
+            
+            if (fmt === 'brl') {
+                counter.textContent = fmtBRL(current);
+            } else {
+                counter.textContent = Math.round(current).toLocaleString('pt-BR');
+            }
+            
+            if (progress < 1) {
+                requestAnimationFrame(update);
+            }
+        }
+        
+        requestAnimationFrame(update);
+    });
 }
 
 // ── RECENT CARDS ──────────────────────────────────────────────────────────
 function renderRecentCards() {
-    // Últimas 4 por data de publicação mais recente
     const parseData = str => {
         if (!str) return 0;
         try {
@@ -779,24 +1336,33 @@ function renderRecentCards() {
         .sort((a, b) => parseData(b[campoData]) - parseData(a[campoData]))
         .slice(0, 4);
 
-    document.getElementById('recent-container').innerHTML = recentes.map(r => {
+    document.getElementById('recent-container').innerHTML = recentes.map((r, i) => {
         const id = r.id || '';
         const st = statusField(r);
         const val = dataset==='licit' ? '' : fmtBRL(totalRegistroCompra(r));
         const sub = dataset==='licit' ? r.modalidade||'–' : r.modalidade||'–';
         const pubData = dataset==='licit' ? r.publicacao : r.data_publicacao;
         const pubStr = pubData ? pubData.split(' ')[0] : '';
-        return `<div onclick='openModalById("${id.replace(/'/g,"\\'")}") ' class="cursor-pointer bg-white dark:bg-slate-900 rounded-xl border border-slate-200 dark:border-slate-800 p-4 shadow-sm hover:border-${dataset==='licit'?'blue':'violet'}-400 dark:hover:border-${dataset==='licit'?'blue':'violet'}-600 hover:shadow-md transition-all">
-            <div class="flex items-start justify-between gap-2 mb-2">
+        const isFav = favorites.includes(id);
+        return `<div onclick='openModalById("${id.replace(/'/g,"\\'")}")' 
+            class="hover-lift cursor-pointer bg-white dark:bg-slate-900 rounded-2xl border border-slate-200 dark:border-slate-800 p-5 shadow-sm hover:border-${dataset==='licit'?'blue':'violet'}-400 dark:hover:border-${dataset==='licit'?'blue':'violet'}-600 transition-all animate-slide-up group relative overflow-hidden"
+            style="animation-delay: ${i * 0.1}s">
+            <div class="absolute top-0 left-0 right-0 h-1 bg-gradient-to-r ${dataset==='licit'?'from-blue-500 to-blue-600':'from-violet-500 to-violet-600'} transform scale-x-0 group-hover:scale-x-100 transition-transform origin-left"></div>
+            <div class="flex items-start justify-between gap-2 mb-3">
                 <span class="mono text-xs font-black text-${dataset==='licit'?'blue':'violet'}-600 dark:text-${dataset==='licit'?'blue':'violet'}-400 shrink-0">${id}</span>
-                <span class="px-2 py-0.5 rounded-full text-[9px] font-bold shrink-0 ${badgeClass(st)}">${st||'–'}</span>
+                <div class="flex items-center gap-1">
+                    ${isFav ? '<i class="fas fa-star text-amber-400 text-xs"></i>' : ''}
+                    <span class="px-2.5 py-1 rounded-full text-[10px] font-bold shrink-0 ${badgeClass(st)}">${st||'–'}</span>
+                </div>
             </div>
-            <p class="text-xs text-slate-600 dark:text-slate-300 line-clamp-2 mb-3">${r.objeto||id||'–'}</p>
-            <div class="flex items-center justify-between">
-                <span class="text-[10px] text-slate-400">${sub}</span>
-                <span class="text-[10px] text-slate-400 mono">${pubStr}</span>
+            <p class="text-sm text-slate-600 dark:text-slate-300 line-clamp-2 mb-4 leading-relaxed">${r.objeto||id||'–'}</p>
+            <div class="flex items-center justify-between pt-3 border-t border-slate-100 dark:border-slate-800">
+                <span class="text-[11px] text-slate-400 font-medium bg-slate-50 dark:bg-slate-800 px-2 py-1 rounded">${sub}</span>
+                <span class="text-[11px] text-slate-400 mono flex items-center gap-1">
+                    <i class="far fa-calendar-alt"></i> ${pubStr}
+                </span>
             </div>
-            ${val ? `<div class="mt-1 text-right text-xs font-bold text-emerald-600">${val}</div>` : ''}
+            ${val ? `<div class="mt-3 text-right text-sm font-bold text-emerald-600 bg-emerald-50 dark:bg-emerald-950/30 px-3 py-1.5 rounded-lg inline-block float-right">${val}</div>` : ''}
         </div>`;
     }).join('');
 }
@@ -804,6 +1370,12 @@ function renderRecentCards() {
 // ── FILTER UPDATE ─────────────────────────────────────────────────────────
 function updateFiltered() {
     const q = norm(search);
+    const parseDateStr = str => {
+        if (!str) return null;
+        try { const [d,m,y] = str.split(' ')[0].split('/'); return new Date(+y,+m-1,+d); }
+        catch { return null; }
+    };
+    
     if (viewMode === 'registros') {
         filteredData = rawData.filter(r => {
             if (dataset === 'licit') {
@@ -816,11 +1388,35 @@ function updateFiltered() {
                 if (f3!=='all' && r.ano_referencia !== f3) return false;
                 if (f4!=='all' && r.artigo        !== f4) return false;
             }
+            
+            // Filtros avançados de data
+            if (fDateStart || fDateEnd) {
+                const dataField = dataset === 'licit' ? r.publicacao : r.data_publicacao;
+                const data = parseDateStr(dataField);
+                if (data) {
+                    if (fDateStart && data < new Date(fDateStart)) return false;
+                    if (fDateEnd && data > new Date(fDateEnd)) return false;
+                }
+            }
+            
+            // Filtros avançados de valor
+            if (fValorMin || fValorMax) {
+                let valor;
+                if (dataset === 'licit') {
+                    valor = (r.lotes||[]).reduce((s,l) => s+parseValor(l.valor_referencia||0), 0);
+                } else {
+                    valor = totalRegistroCompra(r) || 0;
+                }
+                if (fValorMin && valor < parseFloat(fValorMin)) return false;
+                if (fValorMax && valor > parseFloat(fValorMax)) return false;
+            }
+            
             if (q) {
                 const blob = norm([
-                    r.id, r.objeto, r.numero_adm, r.condutor||r.coordenador, r.autoridade,
-                    r.modalidade, statusField(r), r.justificativa||'',
-                    ...(r.itens||[]).map(i=>(i.descricao||'')+(i.fornecedor||''))
+                    searchFields.objeto ? r.objeto : '',
+                    searchFields.edital ? r.id : '',
+                    searchFields.condutor ? (r.condutor||r.coordenador) : '',
+                    searchFields.fornecedor ? (r.itens||[]).map(i=>(i.descricao||'')+(i.fornecedor||'')).join(' ') : ''
                 ].join(' '));
                 return blob.includes(q);
             }
@@ -846,6 +1442,83 @@ function updateFiltered() {
             return true;
         });
     }
+    
+    updateCounts();
+    updateActiveFilters();
+}
+
+function updateCounts() {
+    document.getElementById('count-reg').textContent = rawData.length.toLocaleString('pt-BR');
+    document.getElementById('count-itens').textContent = flatSub.length.toLocaleString('pt-BR');
+}
+
+function updateActiveFilters() {
+    const container = document.getElementById('active-filters');
+    const filters = [];
+    
+    if (f1 !== 'all') filters.push({type: 'modalidade', val: f1});
+    if (f2 !== 'all') filters.push({type: 'situacao', val: f2});
+    if (f3 !== 'all') filters.push({type: 'ano', val: f3});
+    if (f4 !== 'all') filters.push({type: 'artigo', val: f4});
+    if (search) filters.push({type: 'busca', val: search});
+    
+    if (filters.length === 0) {
+        container.classList.add('hidden');
+        return;
+    }
+    
+    container.classList.remove('hidden');
+    container.innerHTML = '<span class="text-xs text-slate-400">Filtros ativos:</span>' + 
+        filters.map(f => `
+            <span class="inline-flex items-center gap-1 px-2 py-1 bg-blue-50 dark:bg-blue-900/30 text-blue-700 dark:text-blue-300 text-xs rounded-lg border border-blue-200 dark:border-blue-800">
+                ${f.val}
+                <button onclick="removeFilter('${f.type}')" class="hover:text-rose-600"><i class="fas fa-times"></i></button>
+            </span>
+        `).join('');
+}
+
+function removeFilter(type) {
+    if (type === 'modalidade') f1 = 'all';
+    if (type === 'situacao') f2 = 'all';
+    if (type === 'ano') f3 = 'all';
+    if (type === 'artigo') f4 = 'all';
+    if (type === 'busca') {
+        search = '';
+        document.getElementById('search-input').value = '';
+    }
+    populateFilters();
+    page = 1;
+    updateFiltered();
+    render();
+}
+
+// ── COLUMN SELECTOR ──────────────────────────────────────────────────────
+function initColumnSelector() {
+    const columns = dataset === 'licit' 
+        ? ['Nº Edital', 'Modalidade', 'Objeto', 'Condutor', 'Lotes', 'Valor Ref.', 'Situação']
+        : ['ID', 'Modalidade', 'Objeto', 'Fornecedor', 'Valor Total', 'Situação'];
+    
+    document.getElementById('column-options').innerHTML = columns.map((col, idx) => `
+        <label class="flex items-center gap-2 cursor-pointer text-sm text-slate-600 dark:text-slate-300">
+            <input type="checkbox" class="custom-checkbox" ${!hiddenColumns.includes(idx) ? 'checked' : ''} 
+                onchange="toggleColumn(${idx}, this.checked)">
+            ${col}
+        </label>
+    `).join('');
+}
+
+function toggleColumnSelector() {
+    document.getElementById('column-selector').classList.toggle('hidden');
+}
+
+function toggleColumn(idx, show) {
+    if (show) {
+        hiddenColumns = hiddenColumns.filter(c => c !== idx);
+    } else {
+        hiddenColumns.push(idx);
+    }
+    localStorage.setItem('bll_hidden_columns', JSON.stringify(hiddenColumns));
+    render();
 }
 
 // ── RENDER TABLE ──────────────────────────────────────────────────────────
@@ -856,7 +1529,6 @@ function render() {
     const start = (page-1)*PER_PAGE;
     const slice = filteredData.slice(start, start+PER_PAGE);
 
-    // Atualizar contador de resultados
     const rc = document.getElementById('results-count');
     if (rc) {
         if (search && total > 0) {
@@ -868,85 +1540,113 @@ function render() {
         }
     }
 
+    document.getElementById('empty-state').classList.toggle('hidden', total > 0);
+    document.getElementById('main-table').style.display = total === 0 ? 'none' : 'table';
+    document.getElementById('card-view').classList.add('hidden');
+
     const head = document.getElementById('table-head');
     const body = document.getElementById('table-body');
 
     if (dataset === 'licit') {
         if (viewMode === 'registros') {
+            const headers = ['Nº Edital','Modalidade','Objeto','Condutor','Lotes','Valor Ref.','Situação'];
+            const visibleHeaders = headers.filter((_, idx) => !hiddenColumns.includes(idx));
             head.innerHTML = `<tr class="bg-slate-50 dark:bg-slate-950 border-b border-slate-200 dark:border-slate-800">
-                ${['Nº Edital','Modalidade','Objeto','Condutor','Lotes','Valor Ref.','Situação'].map(h=>
-                    `<th class="px-4 py-3 text-[11px] font-bold text-slate-500 uppercase tracking-wider whitespace-nowrap">${h}</th>`
-                ).join('')}
+                ${compareMode ? '<th class="w-10 px-4 py-3"><input type="checkbox" class="custom-checkbox" onchange="toggleSelectAll(this)"></th>' : ''}
+                ${visibleHeaders.map(h=>`<th class="px-4 py-3 text-[11px] font-bold text-slate-500 uppercase tracking-wider whitespace-nowrap">${h}</th>`).join('')}
             </tr>`;
             body.innerHTML = !slice.length
-                ? `<tr><td colspan="7" class="px-6 py-12 text-center text-slate-400 text-sm">Nenhum resultado encontrado.</td></tr>`
+                ? ''
                 : slice.map((r,idx) => {
-                    // Calcular valor total de referência somando lotes
                     const valRef = (r.lotes||[]).reduce((s,l) => {
                         const v = parseValor(l.valor_referencia||'');
                         return isNaN(v) ? s : s + v;
                     }, 0);
-                    return `<tr onclick="openModal(${start+idx})" class="cursor-pointer hover:bg-primary-50 dark:hover:bg-slate-800/40 transition-colors">
-                        <td class="px-4 py-3 mono text-xs font-black text-blue-600 dark:text-blue-400 whitespace-nowrap">${hl(r.id,search)||'–'}</td>
-                        <td class="px-4 py-3 text-xs text-slate-500 whitespace-nowrap">${hl(r.modalidade,search)||'–'}</td>
-                        <td class="px-4 py-3 text-xs text-slate-700 dark:text-slate-300 max-w-xs"><div class="line-clamp-2">${hl(r.objeto,search)||'–'}</div></td>
-                        <td class="px-4 py-3 text-xs text-slate-600 dark:text-slate-400 max-w-[180px]"><div class="truncate">${hl(r.condutor,search)||'–'}</div></td>
-                        <td class="px-4 py-3 text-center"><span class="mono text-xs font-bold text-slate-500">${r.total_lotes||0}</span></td>
-                        <td class="px-4 py-3 mono text-xs font-bold text-emerald-600 whitespace-nowrap">${valRef > 0 ? fmtBRL(valRef) : '–'}</td>
-                        <td class="px-4 py-3 whitespace-nowrap"><span class="px-2 py-0.5 rounded-full text-[10px] font-bold ${badgeClassLicit(r.situacao)}">${r.situacao||'–'}</span></td>
+                    const isSelected = selectedForCompare.includes(r.id);
+                    const cells = [
+                        `<td class="px-4 py-3 mono text-xs font-black text-blue-600 dark:text-blue-400 whitespace-nowrap">${hl(r.id,search)||'–'}</td>`,
+                        `<td class="px-4 py-3 text-xs text-slate-500 whitespace-nowrap">${hl(r.modalidade,search)||'–'}</td>`,
+                        `<td class="px-4 py-3 text-xs text-slate-700 dark:text-slate-300 max-w-xs"><div class="line-clamp-2">${hl(r.objeto,search)||'–'}</div></td>`,
+                        `<td class="px-4 py-3 text-xs text-slate-600 dark:text-slate-400 max-w-[180px]"><div class="truncate">${hl(r.condutor,search)||'–'}</div></td>`,
+                        `<td class="px-4 py-3 text-center"><span class="mono text-xs font-bold text-slate-500 bg-slate-100 dark:bg-slate-800 px-2 py-1 rounded">${r.total_lotes||0}</span></td>`,
+                        `<td class="px-4 py-3 mono text-xs font-bold text-emerald-600 whitespace-nowrap">${valRef > 0 ? fmtBRL(valRef) : '–'}</td>`,
+                        `<td class="px-4 py-3 whitespace-nowrap"><span class="px-2.5 py-1 rounded-full text-[10px] font-bold ${badgeClassLicit(r.situacao)}">${r.situacao||'–'}</span></td>`
+                    ].filter((_, idx) => !hiddenColumns.includes(idx));
+                    
+                    return `<tr onclick="${compareMode ? `toggleSelection('${r.id}', this)` : `openModal(${start+idx})`}" 
+                        class="${compareMode ? 'selection-mode' : 'cursor-pointer'} hover:bg-primary-50 dark:hover:bg-slate-800/40 transition-colors ${isSelected ? 'selected' : ''}">
+                        ${compareMode ? `<td class="px-4 py-3"><input type="checkbox" class="custom-checkbox" ${isSelected ? 'checked' : ''} onclick="event.stopPropagation()"></td>` : ''}
+                        ${cells.join('')}
                     </tr>`;}).join('');
         } else {
             head.innerHTML = `<tr class="bg-slate-50 dark:bg-slate-950 border-b border-slate-200 dark:border-slate-800">
-                ${['Processo','Lote','Especificação','Unidade','Qtd.','Valor Ref.','Situação'].map(h=>
-                    `<th class="px-4 py-3 text-[11px] font-bold text-slate-500 uppercase tracking-wider whitespace-nowrap">${h}</th>`
-                ).join('')}
+                <th class="px-4 py-3 text-[11px] font-bold text-slate-500 uppercase tracking-wider">Processo</th>
+                <th class="px-4 py-3 text-[11px] font-bold text-slate-500 uppercase tracking-wider">Lote</th>
+                <th class="px-4 py-3 text-[11px] font-bold text-slate-500 uppercase tracking-wider">Especificação</th>
+                <th class="px-4 py-3 text-[11px] font-bold text-slate-500 uppercase tracking-wider">Unidade</th>
+                <th class="px-4 py-3 text-[11px] font-bold text-slate-500 uppercase tracking-wider">Qtd.</th>
+                <th class="px-4 py-3 text-[11px] font-bold text-slate-500 uppercase tracking-wider">Valor Ref.</th>
+                <th class="px-4 py-3 text-[11px] font-bold text-slate-500 uppercase tracking-wider">Situação</th>
             </tr>`;
             body.innerHTML = !slice.length
-                ? `<tr><td colspan="7" class="px-6 py-12 text-center text-slate-400 text-sm">Nenhum resultado encontrado.</td></tr>`
+                ? ''
                 : slice.map(it => {
                     const r = it._proc;
-                    return `<tr onclick='openModalById("${r.id.replace(/'/g,"\\'")}") ' class="cursor-pointer hover:bg-primary-50 dark:hover:bg-slate-800/40 transition-colors">
+                    return `<tr onclick='openModalById("${r.id.replace(/'/g,"\\'")}")' class="cursor-pointer hover:bg-primary-50 dark:hover:bg-slate-800/40 transition-colors">
                         <td class="px-4 py-3 mono text-xs font-black text-blue-600 dark:text-blue-400 whitespace-nowrap">${hl(r.id,search)||'–'}</td>
                         <td class="px-4 py-3 mono text-xs text-slate-400 whitespace-nowrap">${it._lote?.numero||'–'}</td>
                         <td class="px-4 py-3 text-xs text-slate-700 dark:text-slate-300 max-w-xs"><div class="line-clamp-2">${hl(it.especificacao,search)||'–'}</div></td>
                         <td class="px-4 py-3 mono text-xs text-slate-500 whitespace-nowrap">${it.unidade||'–'}</td>
                         <td class="px-4 py-3 mono text-xs font-bold text-center">${it.quantidade||'–'}</td>
                         <td class="px-4 py-3 mono text-xs font-bold text-emerald-600 whitespace-nowrap">${fmtBRL(it.valor_referencia)}</td>
-                        <td class="px-4 py-3 whitespace-nowrap"><span class="px-2 py-0.5 rounded-full text-[10px] font-bold ${badgeClassLicit(r.situacao)}">${r.situacao||'–'}</span></td>
+                        <td class="px-4 py-3 whitespace-nowrap"><span class="px-2 py-1 rounded-full text-[10px] font-bold ${badgeClassLicit(r.situacao)}">${r.situacao||'–'}</span></td>
                     </tr>`;
                 }).join('');
         }
     } else {
         if (viewMode === 'registros') {
+            const headers = ['ID','Modalidade','Objeto','Fornecedor','Valor Total','Situação'];
+            const visibleHeaders = headers.filter((_, idx) => !hiddenColumns.includes(idx));
             head.innerHTML = `<tr class="bg-slate-50 dark:bg-slate-950 border-b border-slate-200 dark:border-slate-800">
-                ${['ID','Modalidade','Objeto','Fornecedor','Valor Total','Situação'].map(h=>
-                    `<th class="px-4 py-3 text-[11px] font-bold text-slate-500 uppercase tracking-wider whitespace-nowrap">${h}</th>`
-                ).join('')}
+                ${compareMode ? '<th class="w-10 px-4 py-3"><input type="checkbox" class="custom-checkbox" onchange="toggleSelectAll(this)"></th>' : ''}
+                ${visibleHeaders.map(h=>`<th class="px-4 py-3 text-[11px] font-bold text-slate-500 uppercase tracking-wider whitespace-nowrap">${h}</th>`).join('')}
             </tr>`;
             body.innerHTML = !slice.length
-                ? `<tr><td colspan="6" class="px-6 py-12 text-center text-slate-400 text-sm">Nenhum resultado encontrado.</td></tr>`
-                : slice.map((r,idx) => `
-                    <tr onclick="openModal(${start+idx})" class="cursor-pointer hover:bg-primary-50 dark:hover:bg-slate-800/40 transition-colors">
-                        <td class="px-4 py-3 mono text-xs font-black text-violet-600 dark:text-violet-400 whitespace-nowrap">${hl(r.id,search)||'–'}</td>
-                        <td class="px-4 py-3 text-xs text-slate-500 whitespace-nowrap">${hl(r.modalidade,search)||'–'}</td>
-                        <td class="px-4 py-3 text-xs text-slate-700 dark:text-slate-300 max-w-xs"><div class="line-clamp-2">${hl(r.objeto,search)||'–'}</div></td>
-                        <td class="px-4 py-3 text-xs text-slate-600 dark:text-slate-400 max-w-[180px]"><div class="truncate">${hl(fornecedorPrincipal(r),search)||'–'}</div></td>
-                        <td class="px-4 py-3 mono text-xs font-bold text-emerald-600 whitespace-nowrap">${fmtBRL(totalRegistroCompra(r))}</td>
-                        <td class="px-4 py-3 whitespace-nowrap"><span class="px-2 py-0.5 rounded-full text-[10px] font-bold ${badgeClassCompra(r.status)}">${r.status||'–'}</span></td>
-                    </tr>`).join('');
+                ? ''
+                : slice.map((r,idx) => {
+                    const isSelected = selectedForCompare.includes(r.id);
+                    const cells = [
+                        `<td class="px-4 py-3 mono text-xs font-black text-violet-600 dark:text-violet-400 whitespace-nowrap">${hl(r.id,search)||'–'}</td>`,
+                        `<td class="px-4 py-3 text-xs text-slate-500 whitespace-nowrap">${hl(r.modalidade,search)||'–'}</td>`,
+                        `<td class="px-4 py-3 text-xs text-slate-700 dark:text-slate-300 max-w-xs"><div class="line-clamp-2">${hl(r.objeto,search)||'–'}</div></td>`,
+                        `<td class="px-4 py-3 text-xs text-slate-600 dark:text-slate-400 max-w-[180px]"><div class="truncate">${hl(fornecedorPrincipal(r),search)||'–'}</div></td>`,
+                        `<td class="px-4 py-3 mono text-xs font-bold text-emerald-600 whitespace-nowrap">${fmtBRL(totalRegistroCompra(r))}</td>`,
+                        `<td class="px-4 py-3 whitespace-nowrap"><span class="px-2.5 py-1 rounded-full text-[10px] font-bold ${badgeClassCompra(r.status)}">${r.status||'–'}</span></td>`
+                    ].filter((_, idx) => !hiddenColumns.includes(idx));
+                    
+                    return `<tr onclick="${compareMode ? `toggleSelection('${r.id}', this)` : `openModal(${start+idx})`}" 
+                        class="${compareMode ? 'selection-mode' : 'cursor-pointer'} hover:bg-primary-50 dark:hover:bg-slate-800/40 transition-colors ${isSelected ? 'selected' : ''}">
+                        ${compareMode ? `<td class="px-4 py-3"><input type="checkbox" class="custom-checkbox" ${isSelected ? 'checked' : ''} onclick="event.stopPropagation()"></td>` : ''}
+                        ${cells.join('')}
+                    </tr>`;}).join('');
         } else {
             head.innerHTML = `<tr class="bg-slate-50 dark:bg-slate-950 border-b border-slate-200 dark:border-slate-800">
-                ${['ID','Nº','Descrição','Un.','Qtd.','Fornecedor','Subtotal','Situação'].map(h=>
-                    `<th class="px-4 py-3 text-[11px] font-bold text-slate-500 uppercase tracking-wider whitespace-nowrap">${h}</th>`
-                ).join('')}
+                <th class="px-4 py-3 text-[11px] font-bold text-slate-500 uppercase tracking-wider">ID</th>
+                <th class="px-4 py-3 text-[11px] font-bold text-slate-500 uppercase tracking-wider">Nº</th>
+                <th class="px-4 py-3 text-[11px] font-bold text-slate-500 uppercase tracking-wider">Descrição</th>
+                <th class="px-4 py-3 text-[11px] font-bold text-slate-500 uppercase tracking-wider">Un.</th>
+                <th class="px-4 py-3 text-[11px] font-bold text-slate-500 uppercase tracking-wider">Qtd.</th>
+                <th class="px-4 py-3 text-[11px] font-bold text-slate-500 uppercase tracking-wider">Fornecedor</th>
+                <th class="px-4 py-3 text-[11px] font-bold text-slate-500 uppercase tracking-wider">Subtotal</th>
+                <th class="px-4 py-3 text-[11px] font-bold text-slate-500 uppercase tracking-wider">Situação</th>
             </tr>`;
             body.innerHTML = !slice.length
-                ? `<tr><td colspan="8" class="px-6 py-12 text-center text-slate-400 text-sm">Nenhum resultado encontrado.</td></tr>`
+                ? ''
                 : slice.map(it => {
                     const r = it._reg;
-                    const v = parseValor(it.valor||''); const q = parseValor(it.quantidade||'1');
-                    const sub = (!isNaN(v)&&!isNaN(q)&&q>0)?v*q:v;
-                    return `<tr onclick='openModalById("${r.id.replace(/'/g,"\\'")}") ' class="cursor-pointer hover:bg-primary-50 dark:hover:bg-slate-800/40 transition-colors">
+                    const v = parseValor(it.valor||0); const qv = parseValor(it.quantidade||'1');
+                    const sub = (!isNaN(v)&&!isNaN(qv)&&qv>0)?v*qv:v;
+                    return `<tr onclick='openModalById("${r.id.replace(/'/g,"\\'")}")' class="cursor-pointer hover:bg-primary-50 dark:hover:bg-slate-800/40 transition-colors">
                         <td class="px-4 py-3 mono text-xs font-black text-violet-600 dark:text-violet-400 whitespace-nowrap">${hl(r.id,search)||'–'}</td>
                         <td class="px-4 py-3 mono text-xs text-slate-400 text-center">${it.numero||'–'}</td>
                         <td class="px-4 py-3 text-xs text-slate-700 dark:text-slate-300 max-w-xs"><div class="line-clamp-2">${hl(it.descricao,search)||'–'}</div></td>
@@ -957,13 +1657,67 @@ function render() {
                             <div class="font-bold text-emerald-600">${fmtBRL(sub)}</div>
                             <div class="text-[10px] text-slate-400">${fmtBRL(it.valor)} un.</div>
                         </td>
-                        <td class="px-4 py-3 whitespace-nowrap"><span class="px-2 py-0.5 rounded-full text-[10px] font-bold ${badgeClassCompra(r.status)}">${r.status||'–'}</span></td>
+                        <td class="px-4 py-3 whitespace-nowrap"><span class="px-2 py-1 rounded-full text-[10px] font-bold ${badgeClassCompra(r.status)}">${r.status||'–'}</span></td>
                     </tr>`;
                 }).join('');
         }
     }
 
     renderPagination(total, pages);
+}
+
+// ── VIEW MODE TOGGLE ──────────────────────────────────────────────────────
+function toggleViewMode() {
+    const table = document.getElementById('main-table');
+    const cards = document.getElementById('card-view');
+    const icon = document.getElementById('view-mode-icon');
+    
+    if (cards.classList.contains('hidden')) {
+        table.style.display = 'none';
+        cards.classList.remove('hidden');
+        icon.className = 'fas fa-table';
+        renderCards();
+    } else {
+        cards.classList.add('hidden');
+        table.style.display = 'table';
+        icon.className = 'fas fa-th-list';
+    }
+}
+
+function renderCards() {
+    const total = filteredData.length;
+    const pages = Math.ceil(total / PER_PAGE) || 1;
+    if (page > pages) page = pages;
+    const start = (page-1)*PER_PAGE;
+    const slice = filteredData.slice(start, start+PER_PAGE);
+    
+    const container = document.getElementById('card-view');
+    container.innerHTML = slice.map((r, idx) => {
+        const st = statusField(r);
+        const val = dataset === 'licit' 
+            ? (r.lotes||[]).reduce((s,l) => s+parseValor(l.valor_referencia||0), 0)
+            : totalRegistroCompra(r);
+        const isFav = favorites.includes(r.id);
+        
+        return `
+        <div onclick="openModal(${start+idx})" class="hover-lift bg-white dark:bg-slate-900 rounded-xl border border-slate-200 dark:border-slate-800 p-5 cursor-pointer group">
+            <div class="flex justify-between items-start mb-3">
+                <span class="mono text-sm font-black text-${dataset==='licit'?'blue':'violet'}-600">${r.id}</span>
+                <div class="flex gap-1">
+                    ${isFav ? '<i class="fas fa-star text-amber-400 text-sm"></i>' : ''}
+                    <span class="px-2 py-1 rounded-full text-[10px] font-bold ${badgeClass(st)}">${st||'–'}</span>
+                </div>
+            </div>
+            <h4 class="text-sm font-semibold text-slate-700 dark:text-slate-300 mb-2 line-clamp-2">${r.objeto}</h4>
+            <div class="text-xs text-slate-500 mb-3 flex items-center gap-2">
+                <i class="fas fa-user-tie"></i> ${r.condutor||r.coordenador||'–'}
+            </div>
+            <div class="flex justify-between items-center pt-3 border-t border-slate-100 dark:border-slate-800">
+                <span class="text-xs text-slate-400">${r.modalidade}</span>
+                <span class="text-sm font-bold text-emerald-600">${val ? fmtBRL(val) : '–'}</span>
+            </div>
+        </div>`;
+    }).join('');
 }
 
 // ── PAGINATION ────────────────────────────────────────────────────────────
@@ -976,10 +1730,10 @@ function renderPagination(total, pages) {
     if (pages <= 1) { btns.innerHTML = ''; return; }
 
     const btnCls = active => active
-        ? `px-3 py-1.5 rounded-lg text-xs font-bold bg-${dataset==='licit'?'blue':'violet'}-600 text-white`
-        : 'px-3 py-1.5 rounded-lg text-xs font-semibold text-slate-500 hover:bg-slate-100 dark:hover:bg-slate-800 transition-colors';
+        ? `px-3.5 py-2 rounded-xl text-xs font-bold bg-${dataset==='licit'?'blue':'violet'}-600 text-white shadow-lg shadow-${dataset==='licit'?'blue':'violet'}-500/30`
+        : 'px-3.5 py-2 rounded-xl text-xs font-semibold text-slate-500 hover:bg-slate-100 dark:hover:bg-slate-800 transition-all';
 
-    let html = `<button onclick="goPage(${page-1})" ${page===1?'disabled':''} class="px-2 py-1.5 rounded-lg text-xs text-slate-400 hover:bg-slate-100 dark:hover:bg-slate-800 disabled:opacity-30 transition-colors"><i class="fas fa-chevron-left"></i></button>`;
+    let html = `<button onclick="goPage(${page-1})" ${page===1?'disabled':''} class="px-3 py-2 rounded-xl text-xs text-slate-400 hover:bg-slate-100 dark:hover:bg-slate-800 disabled:opacity-30 transition-all"><i class="fas fa-chevron-left"></i></button>`;
     const range = [];
     if (pages <= 7) { for(let i=1;i<=pages;i++) range.push(i); }
     else {
@@ -990,13 +1744,141 @@ function renderPagination(total, pages) {
         range.push(pages);
     }
     range.forEach(p => {
-        if (p === '…') html += `<span class="px-2 py-1.5 text-slate-300">…</span>`;
+        if (p === '…') html += `<span class="px-2 py-2 text-slate-300">…</span>`;
         else html += `<button onclick="goPage(${p})" class="${btnCls(p===page)}">${p}</button>`;
     });
-    html += `<button onclick="goPage(${page+1})" ${page===pages?'disabled':''} class="px-2 py-1.5 rounded-lg text-xs text-slate-400 hover:bg-slate-100 dark:hover:bg-slate-800 disabled:opacity-30 transition-colors"><i class="fas fa-chevron-right"></i></button>`;
+    html += `<button onclick="goPage(${page+1})" ${page===pages?'disabled':''} class="px-3 py-2 rounded-xl text-xs text-slate-400 hover:bg-slate-100 dark:hover:bg-slate-800 disabled:opacity-30 transition-all"><i class="fas fa-chevron-right"></i></button>`;
     btns.innerHTML = html;
 }
 function goPage(p) { page = p; render(); window.scrollTo({top:0,behavior:'smooth'}); }
+
+// ── COMPARE MODE ──────────────────────────────────────────────────────────
+function toggleCompareMode() {
+    compareMode = !compareMode;
+    selectedForCompare = [];
+    document.getElementById('compare-bar').classList.toggle('active', compareMode);
+    document.getElementById('selection-actions').classList.toggle('hidden', !compareMode);
+    document.getElementById('compare-toggle-btn').classList.toggle('bg-amber-100', compareMode);
+    document.getElementById('compare-toggle-btn').classList.toggle('text-amber-700', compareMode);
+    updateCompareBar();
+    render();
+    if (compareMode) {
+        showToast('Modo comparação ativado. Selecione 2 itens.', 'info');
+    }
+}
+
+function toggleSelection(id, row) {
+    const idx = selectedForCompare.indexOf(id);
+    if (idx > -1) {
+        selectedForCompare.splice(idx, 1);
+        row.classList.remove('selected');
+    } else {
+        if (selectedForCompare.length >= 2) {
+            showToast('Selecione no máximo 2 itens para comparar', 'warning');
+            return;
+        }
+        selectedForCompare.push(id);
+        row.classList.add('selected');
+    }
+    updateCompareBar();
+    updateSelectionCount();
+}
+
+function updateCompareBar() {
+    const container = document.getElementById('compare-selections');
+    const btn = document.getElementById('btn-compare-execute');
+    
+    container.innerHTML = [0, 1].map(i => {
+        const id = selectedForCompare[i];
+        if (!id) {
+            return `<div class="compare-slot empty flex-1 h-12 border-2 border-dashed border-slate-300 dark:border-slate-700 rounded-lg flex items-center justify-center text-xs text-slate-400">
+                <i class="fas fa-plus mr-2"></i> Selecione o ${i+1}º item
+            </div>`;
+        }
+        const item = rawData.find(r => r.id === id);
+        return `<div class="compare-slot flex-1 h-12 bg-blue-50 dark:bg-blue-900/30 border border-blue-200 dark:border-blue-800 rounded-lg flex items-center px-3 text-xs">
+            <span class="font-bold text-blue-700 dark:text-blue-300 truncate">${id}</span>
+            <button onclick="removeFromCompare('${id}')" class="ml-auto text-blue-400 hover:text-rose-600"><i class="fas fa-times"></i></button>
+        </div>`;
+    }).join('<span class="text-slate-400">vs</span>');
+    
+    if (selectedForCompare.length === 2) {
+        btn.disabled = false;
+        btn.classList.remove('opacity-50', 'cursor-not-allowed');
+    } else {
+        btn.disabled = true;
+        btn.classList.add('opacity-50', 'cursor-not-allowed');
+    }
+}
+
+function removeFromCompare(id) {
+    const idx = selectedForCompare.indexOf(id);
+    if (idx > -1) selectedForCompare.splice(idx, 1);
+    updateCompareBar();
+    render();
+}
+
+function executeCompare() {
+    if (selectedForCompare.length !== 2) return;
+    const [id1, id2] = selectedForCompare;
+    const item1 = rawData.find(r => r.id === id1);
+    const item2 = rawData.find(r => r.id === id2);
+    
+    const modal = document.getElementById('modal-compare');
+    const content = document.getElementById('compare-content');
+    
+    content.innerHTML = [item1, item2].map((item, idx) => `
+        <div class="space-y-4 ${idx === 0 ? 'border-r border-slate-200 dark:border-slate-800 pr-6' : 'pl-6'}">
+            <div class="text-center pb-4 border-b border-slate-200 dark:border-slate-800">
+                <span class="inline-block px-3 py-1 rounded-full text-xs font-bold ${badgeClass(statusField(item))} mb-2">${statusField(item)}</span>
+                <h3 class="text-xl font-bold text-${dataset==='licit'?'blue':'violet'}-600 mono">${item.id}</h3>
+            </div>
+            
+            <div class="space-y-3">
+                <div class="bg-slate-50 dark:bg-slate-800/50 p-3 rounded-lg">
+                    <span class="text-xs text-slate-400 block">Modalidade</span>
+                    <span class="text-sm font-semibold">${item.modalidade}</span>
+                </div>
+                
+                <div class="bg-slate-50 dark:bg-slate-800/50 p-3 rounded-lg">
+                    <span class="text-xs text-slate-400 block">Objeto</span>
+                    <p class="text-sm">${item.objeto}</p>
+                </div>
+                
+                <div class="bg-slate-50 dark:bg-slate-800/50 p-3 rounded-lg">
+                    <span class="text-xs text-slate-400 block">${dataset==='licit'?'Condutor':'Coordenador'}</span>
+                    <span class="text-sm font-semibold">${item.condutor||item.coordenador}</span>
+                </div>
+                
+                ${dataset==='licit' ? `
+                <div class="bg-slate-50 dark:bg-slate-800/50 p-3 rounded-lg">
+                    <span class="text-xs text-slate-400 block">Lotes/Itens</span>
+                    <span class="text-sm font-semibold">${item.total_lotes} lotes, ${item.total_itens} itens</span>
+                </div>
+                <div class="bg-emerald-50 dark:bg-emerald-950/30 p-3 rounded-lg border border-emerald-200 dark:border-emerald-900">
+                    <span class="text-xs text-emerald-600 block">Valor Total</span>
+                    <span class="text-lg font-bold text-emerald-600">${fmtBRL((item.lotes||[]).reduce((s,l)=>s+parseValor(l.valor_referencia||0),0))}</span>
+                </div>
+                ` : `
+                <div class="bg-emerald-50 dark:bg-emerald-950/30 p-3 rounded-lg border border-emerald-200 dark:border-emerald-900">
+                    <span class="text-xs text-emerald-600 block">Valor Total</span>
+                    <span class="text-lg font-bold text-emerald-600">${fmtBRL(totalRegistroCompra(item))}</span>
+                </div>
+                <div class="bg-slate-50 dark:bg-slate-800/50 p-3 rounded-lg">
+                    <span class="text-xs text-slate-400 block">Fornecedor</span>
+                    <span class="text-sm font-semibold">${fornecedorPrincipal(item)}</span>
+                </div>
+                `}
+            </div>
+        </div>
+    `).join('');
+    
+    modal.classList.remove('modal-hidden');
+}
+
+function closeCompareModal() {
+    document.getElementById('modal-compare').classList.add('modal-hidden');
+}
 
 // ── MODAL ─────────────────────────────────────────────────────────────────
 function openModalById(id) {
@@ -1022,7 +1904,7 @@ function openModal(idx) {
 }
 
 function openModalLicit(r) {
-    document.getElementById('ml-badge').className = `shrink-0 px-2.5 py-0.5 rounded-full text-[10px] font-bold uppercase tracking-wider ${badgeClassLicit(r.situacao)}`;
+    document.getElementById('ml-badge').className = `shrink-0 px-3 py-1 rounded-full text-[10px] font-bold uppercase tracking-wider shadow-sm ${badgeClassLicit(r.situacao)}`;
     document.getElementById('ml-badge').textContent = r.situacao || '–';
     document.getElementById('ml-title').textContent = r.id || '–';
     document.getElementById('ml-objeto').innerHTML  = hl(r.objeto||'–', search);
@@ -1038,25 +1920,27 @@ function openModalLicit(r) {
     document.getElementById('ml-fim-recepcao').textContent  = r.fim_recepcao||'–';
     document.getElementById('ml-inicio-disputa').textContent = r.inicio_disputa||'–';
     document.getElementById('ml-link').href = r.link||'#';
+    
+    document.getElementById('ml-fav-icon').className = favorites.includes(r.id) ? 'fas fa-star text-amber-400' : 'far fa-star';
 
     const lotes = r.lotes || [];
     document.getElementById('ml-lotes-count').textContent = `${lotes.length} lote(s) · ${r.total_itens||0} itens`;
     document.getElementById('ml-lotes-container').innerHTML = lotes.length === 0
-        ? '<p class="text-[11px] text-slate-400 italic">Sem lotes cadastrados.</p>'
+        ? '<p class="text-[11px] text-slate-400 italic p-4 bg-slate-50 dark:bg-slate-800 rounded-lg">Sem lotes cadastrados.</p>'
         : lotes.map(l => {
             const temVencedor = l.vencedor && l.vencedor.trim();
             const temMelhorOferta = l.melhor_oferta && parseValor(l.melhor_oferta) > 0;
             return `
-            <div class="border border-slate-200 dark:border-slate-700 rounded-xl overflow-hidden">
-                <div class="bg-slate-50 dark:bg-slate-800 px-4 py-2.5 flex items-start justify-between gap-3">
+            <div class="border border-slate-200 dark:border-slate-700 rounded-xl overflow-hidden hover:shadow-md transition-shadow">
+                <div class="bg-slate-50 dark:bg-slate-800 px-4 py-3 flex items-start justify-between gap-3">
                     <div class="flex-1 min-w-0">
                         <div class="flex items-center gap-2 flex-wrap">
                             <span class="mono text-xs font-black text-blue-600 dark:text-blue-400">Lote ${l.numero}</span>
                             <span class="text-xs text-slate-600 dark:text-slate-300 font-medium">${l.titulo||''}</span>
-                            ${l.fase ? `<span class="px-1.5 py-0.5 rounded text-[9px] font-bold bg-slate-200 dark:bg-slate-700 text-slate-500">${l.fase}</span>` : ''}
-                            ${l.exclusivo_me === 'SIM' ? `<span class="px-1.5 py-0.5 rounded text-[9px] font-bold bg-amber-100 text-amber-700 dark:bg-amber-950 dark:text-amber-400">Exclusivo ME/EPP</span>` : ''}
+                            ${l.fase ? `<span class="px-2 py-0.5 rounded-md text-[9px] font-bold bg-slate-200 dark:bg-slate-700 text-slate-500">${l.fase}</span>` : ''}
+                            ${l.exclusivo_me === 'SIM' ? `<span class="px-2 py-0.5 rounded-md text-[9px] font-bold bg-amber-100 text-amber-700 dark:bg-amber-950 dark:text-amber-400">Exclusivo ME/EPP</span>` : ''}
                         </div>
-                        <div class="flex flex-wrap gap-x-4 gap-y-0.5 mt-1">
+                        <div class="flex flex-wrap gap-x-4 gap-y-0.5 mt-2">
                             ${l.tipo ? `<span class="text-[10px] text-slate-400">Tipo: <b class="text-slate-600 dark:text-slate-300">${l.tipo}</b></span>` : ''}
                             ${l.local_entrega && l.local_entrega !== 'CONFORME EDITAL' ? `<span class="text-[10px] text-slate-400">Entrega: <b class="text-slate-600 dark:text-slate-300">${l.local_entrega}</b></span>` : ''}
                             ${l.garantia && l.garantia !== 'CONFORME EDITAL' ? `<span class="text-[10px] text-slate-400">Garantia: <b class="text-slate-600 dark:text-slate-300">${l.garantia}</b></span>` : ''}
@@ -1068,26 +1952,26 @@ function openModalLicit(r) {
                         ${temMelhorOferta ? `<div class="mono text-xs font-bold text-blue-600 whitespace-nowrap mt-0.5">${fmtBRL(l.melhor_oferta)}</div><div class="text-[9px] text-slate-400">Melhor oferta</div>` : ''}
                     </div>
                 </div>
-                ${temVencedor ? `<div class="px-4 py-1.5 bg-emerald-50 dark:bg-emerald-950/30 border-t border-emerald-100 dark:border-emerald-900 flex items-center gap-2">
+                ${temVencedor ? `<div class="px-4 py-2 bg-emerald-50 dark:bg-emerald-950/30 border-t border-emerald-100 dark:border-emerald-900 flex items-center gap-2">
                     <i class="fas fa-trophy text-emerald-500 text-[10px]"></i>
                     <span class="text-[10px] text-slate-400">Vencedor:</span>
                     <span class="text-[10px] font-bold text-emerald-700 dark:text-emerald-400">${l.vencedor}</span>
                 </div>` : ''}
                 ${l.itens && l.itens.length ? `<div class="overflow-x-auto"><table class="w-full text-[11px]">
                     <thead><tr class="bg-slate-100 dark:bg-slate-800/50 text-slate-500">
-                        <th class="px-3 py-1.5 text-left">#</th>
-                        <th class="px-3 py-1.5 text-left">Especificação</th>
-                        <th class="px-3 py-1.5 text-left">Un.</th>
-                        <th class="px-3 py-1.5 text-right">Qtd.</th>
-                        <th class="px-3 py-1.5 text-right">Valor Ref.</th>
+                        <th class="px-3 py-2 text-left">#</th>
+                        <th class="px-3 py-2 text-left">Especificação</th>
+                        <th class="px-3 py-2 text-left">Un.</th>
+                        <th class="px-3 py-2 text-right">Qtd.</th>
+                        <th class="px-3 py-2 text-right">Valor Ref.</th>
                     </tr></thead>
                     <tbody class="divide-y divide-slate-100 dark:divide-slate-800">
                     ${l.itens.map(it=>`<tr class="hover:bg-slate-50 dark:hover:bg-slate-800/40">
-                        <td class="px-3 py-1.5 mono text-slate-400 text-center">${it.numero}</td>
+                        <td class="px-3 py-2 mono text-slate-400 text-center">${it.numero}</td>
                         <td class="px-3 py-2 text-slate-700 dark:text-slate-300 max-w-xs">${hl(it.especificacao,search)||'–'}</td>
-                        <td class="px-3 py-1.5 mono text-slate-500 whitespace-nowrap">${it.unidade||'–'}</td>
-                        <td class="px-3 py-1.5 mono text-right font-bold">${it.quantidade||'–'}</td>
-                        <td class="px-3 py-1.5 mono text-right font-bold text-emerald-600 whitespace-nowrap">${fmtBRL(it.valor_referencia)}</td>
+                        <td class="px-3 py-2 mono text-slate-500 whitespace-nowrap">${it.unidade||'–'}</td>
+                        <td class="px-3 py-2 mono text-right font-bold">${it.quantidade||'–'}</td>
+                        <td class="px-3 py-2 mono text-right font-bold text-emerald-600 whitespace-nowrap">${fmtBRL(it.valor_referencia)}</td>
                     </tr>`).join('')}
                     </tbody></table></div>` : ''}
             </div>`}).join('');
@@ -1102,7 +1986,7 @@ function openModalLicit(r) {
 }
 
 function openModalCompra(r, idx) {
-    document.getElementById('mc-badge').className = `shrink-0 px-2.5 py-0.5 rounded-full text-[10px] font-bold uppercase tracking-wider ${badgeClassCompra(r.status)}`;
+    document.getElementById('mc-badge').className = `shrink-0 px-3 py-1 rounded-full text-[10px] font-bold uppercase tracking-wider shadow-sm ${badgeClassCompra(r.status)}`;
     document.getElementById('mc-badge').textContent = r.status||'–';
     document.getElementById('mc-title').textContent = r.id||'–';
     document.getElementById('mc-objeto').innerHTML  = hl(r.objeto||'–', search);
@@ -1119,14 +2003,17 @@ function openModalCompra(r, idx) {
     document.getElementById('mc-conclusao').textContent   = r.data_conclusao||'–';
     document.getElementById('mc-link').href = r.link||'#';
     document.getElementById('mc-fornecedor').textContent = fornecedorPrincipal(r);
+    
+    document.getElementById('mc-fav-icon').className = favorites.includes(r.id) ? 'fas fa-star text-amber-400' : 'far fa-star';
+    
     const vt = totalRegistroCompra(r);
     document.getElementById('mc-valor').textContent = vt !== null ? fmtBRL(vt) : '–';
 
     const itens = r.itens||[];
     document.getElementById('mc-itens-count').textContent = `${itens.length} item(ns)`;
     document.getElementById('mc-itens-container').innerHTML = itens.length === 0
-        ? '<p class="text-[11px] text-slate-400 italic">Sem itens cadastrados.</p>'
-        : `<div class="overflow-x-auto rounded-lg border border-slate-200 dark:border-slate-700">
+        ? '<p class="text-[11px] text-slate-400 italic p-4 bg-slate-50 dark:bg-slate-800 rounded-lg">Sem itens cadastrados.</p>'
+        : `<div class="overflow-x-auto rounded-xl border border-slate-200 dark:border-slate-700">
             <table class="w-full text-[11px]">
                 <thead><tr class="bg-slate-100 dark:bg-slate-800 text-slate-500">
                     <th class="px-3 py-2 text-left font-semibold">#</th>
@@ -1140,7 +2027,7 @@ function openModalCompra(r, idx) {
                 </tr></thead>
                 <tbody class="divide-y divide-slate-100 dark:divide-slate-800">
                 ${itens.map(it => {
-                    const v = parseValor(it.valor||''); const q = parseValor(it.quantidade||'1');
+                    const v = parseValor(it.valor||0); const q = parseValor(it.quantidade||1);
                     const subtotal = (!isNaN(v)&&!isNaN(q)&&q>0)?v*q:v;
                     return `<tr class="hover:bg-slate-50 dark:hover:bg-slate-800/40">
                         <td class="px-3 py-2 mono text-slate-400 text-center">${it.numero||'–'}</td>
@@ -1174,6 +2061,44 @@ function closeModal() {
 function nextItem() { if (currentModalIndex < filteredData.length-1) openModal(currentModalIndex+1); }
 function prevItem() { if (currentModalIndex > 0) openModal(currentModalIndex-1); }
 
+// ── FAVORITES ─────────────────────────────────────────────────────────────
+function toggleFavorite(idx) {
+    const rec = filteredData[idx];
+    const id = rec.id || (rec._proc?.id) || (rec._reg?.id);
+    const favIdx = favorites.indexOf(id);
+    
+    if (favIdx > -1) {
+        favorites.splice(favIdx, 1);
+        showToast('Removido dos favoritos', 'info');
+    } else {
+        favorites.push(id);
+        showToast('Adicionado aos favoritos!', 'success');
+    }
+    
+    localStorage.setItem('bll_favorites', JSON.stringify(favorites));
+    
+    const icon = document.getElementById(dataset==='licit'?'ml-fav-icon':'mc-fav-icon');
+    if (icon) icon.className = favIdx > -1 ? 'far fa-star' : 'fas fa-star text-amber-400';
+    
+    renderRecentCards();
+}
+
+function copyProcessInfo() {
+    const rec = filteredData[currentModalIndex];
+    const r = dataset === 'licit' ? (rec._proc || rec) : (rec._reg || rec);
+    
+    const text = `Processo: ${r.id}
+Modalidade: ${r.modalidade}
+Status: ${statusField(r)}
+Objeto: ${r.objeto}
+${dataset==='licit' ? `Condutor: ${r.condutor}` : `Coordenador: ${r.coordenador}`}
+Link: ${r.link}`;
+    
+    navigator.clipboard.writeText(text).then(() => {
+        showToast('Informações copiadas!', 'success');
+    });
+}
+
 // ── EVENTOS ───────────────────────────────────────────────────────────────
 function executeSearch() {
     search = document.getElementById('search-input').value.trim();
@@ -1183,7 +2108,13 @@ function clearFilters() {
     document.getElementById('search-input').value = '';
     ['f1-sel','f2-sel','f3-sel','f4-sel'].forEach(id => { const el=document.getElementById(id); if(el) el.value='all'; });
     search=''; f1='all'; f2='all'; f3='all'; f4='all';
+    fDateStart=fDateEnd=fValorMin=fValorMax='';
+    document.getElementById('filter-date-start').value='';
+    document.getElementById('filter-date-end').value='';
+    document.getElementById('filter-valor-min').value='';
+    document.getElementById('filter-valor-max').value='';
     page=1; updateFiltered(); render();
+    showToast('Filtros limpos', 'info');
 }
 document.getElementById('search-btn').addEventListener('click', executeSearch);
 document.getElementById('clear-btn').addEventListener('click', clearFilters);
@@ -1199,14 +2130,31 @@ document.querySelectorAll('.view-tab').forEach(btn => {
 });
 
 window.addEventListener('keydown', e => {
+    if (e.key === 'k' && e.ctrlKey) {
+        e.preventDefault();
+        document.getElementById('search-input').focus();
+    }
+    if (e.key === 'Escape') {
+        if (!document.getElementById('modal-licit').classList.contains('modal-hidden')) closeModal();
+        else if (!document.getElementById('modal-compra').classList.contains('modal-hidden')) closeModal();
+        else if (compareMode) toggleCompareMode();
+        else if (document.getElementById('filters-panel').classList.contains('open')) toggleFiltersPanel();
+        else clearFilters();
+    }
     const licit = document.getElementById('modal-licit');
     const compra = document.getElementById('modal-compra');
     const licitOpen = !licit.classList.contains('modal-hidden');
     const compraOpen = !compra.classList.contains('modal-hidden');
     if (!licitOpen && !compraOpen) return;
-    if (e.key === 'Escape')     closeModal();
     if (e.key === 'ArrowRight') nextItem();
-    if (e.key === 'ArrowLeft')  prevItem();
+    if (e.key === 'ArrowLeft') prevItem();
+});
+
+// Header shadow on scroll
+window.addEventListener('scroll', () => {
+    const header = document.getElementById('main-header');
+    if (window.scrollY > 10) header.classList.add('sticky-shadow');
+    else header.classList.remove('sticky-shadow');
 });
 
 // ── ALERTAS ───────────────────────────────────────────────────────────────
@@ -1218,7 +2166,6 @@ function renderAlertas() {
 
     if (dataset === 'licit') {
         rawData.forEach(p => {
-            // Alerta prazo fim de recepção
             if (p.fim_recepcao && (norm(p.situacao).includes('recepcao') || norm(p.situacao).includes('publicad'))) {
                 try {
                     const [d,m,y] = p.fim_recepcao.split(' ')[0].split('/');
@@ -1232,17 +2179,15 @@ function renderAlertas() {
                             texto: `<b>${p.id}</b> — Fim recepção: ${p.fim_recepcao}`,
                             sub: p.objeto?.substring(0,80) + (p.objeto?.length > 80 ? '…' : ''),
                             id: p.id,
-                            diff // para ordenação
+                            diff
                         });
                     }
                 } catch {}
             }
         });
-        // Ordenar do mais próximo para o mais distante
         alertas.sort((a, b) => a.diff - b.diff);
 
     } else {
-        // Compras publicadas recentes
         rawData.filter(r => norm(r.status).includes('publicad')).forEach(r => {
             const val = totalRegistroCompra(r);
             alertas.push({
@@ -1261,40 +2206,35 @@ function renderAlertas() {
 
     container.innerHTML = `
         <div class="mb-3 flex items-center gap-2">
-            <h2 class="text-[11px] font-bold uppercase tracking-widest text-slate-400">
-                <i class="fas fa-bell mr-1 text-amber-500"></i> Alertas & Destaques
+            <h2 class="text-[11px] font-bold uppercase tracking-widest text-slate-400 flex items-center gap-2">
+                <i class="fas fa-bell mr-1 text-amber-500 animate-bounce"></i> Alertas & Destaques
             </h2>
-            <span class="mono text-[10px] bg-amber-100 text-amber-700 dark:bg-amber-950 dark:text-amber-400 px-1.5 py-0.5 rounded-full">${alertas.length}</span>
+            <span class="mono text-[10px] bg-amber-100 text-amber-700 dark:bg-amber-950 dark:text-amber-400 px-2 py-0.5 rounded-full">${alertas.length}</span>
         </div>
         <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3">
         ${alertas.map(a => {
             const bgIcon = a.tipo==='urgente' ? 'bg-rose-100 dark:bg-rose-950' : a.tipo==='proximo' ? 'bg-amber-100 dark:bg-amber-950' : 'bg-blue-100 dark:bg-blue-950';
             const txtIcon = a.tipo==='urgente' ? 'text-rose-600' : a.tipo==='proximo' ? 'text-amber-600' : 'text-blue-600';
             return `
-            <div onclick='openModalById("${a.id.replace(/'/g,"\\'")}") '
-                 class="cursor-pointer alert-${a.tipo} bg-white dark:bg-slate-900 rounded-xl p-3 shadow-sm border border-slate-200 dark:border-slate-800 hover:shadow-md transition-all">
-                <div class="flex items-start gap-2">
-                    <div class="shrink-0 mt-0.5 w-7 h-7 rounded-lg flex items-center justify-center ${bgIcon}">
-                        <i class="fas ${a.icon} text-[11px] ${txtIcon}"></i>
+            <div onclick='openModalById("${a.id.replace(/'/g,"\\'")}")'
+                 class="cursor-pointer alert-${a.tipo} bg-white dark:bg-slate-900 rounded-xl p-4 shadow-sm border border-slate-200 dark:border-slate-800 hover:shadow-md transition-all hover:-translate-y-0.5">
+                <div class="flex items-start gap-3">
+                    <div class="shrink-0 mt-0.5 w-10 h-10 rounded-xl flex items-center justify-center ${bgIcon}">
+                        <i class="fas ${a.icon} text-sm ${txtIcon}"></i>
                     </div>
                     <div class="flex-1 min-w-0">
-                        <div class="flex items-center gap-2 mb-0.5">
-                            <span class="text-[10px] font-black px-1.5 py-0.5 rounded ${a.tipo==='urgente'?'bg-rose-100 text-rose-700 dark:bg-rose-950 dark:text-rose-400':a.tipo==='proximo'?'bg-amber-100 text-amber-700 dark:bg-amber-950 dark:text-amber-400':'bg-blue-100 text-blue-700 dark:bg-blue-950 dark:text-blue-400'}">${a.label}</span>
+                        <div class="flex items-center gap-2 mb-1">
+                            <span class="text-[10px] font-black px-2 py-0.5 rounded ${a.tipo==='urgente'?'bg-rose-100 text-rose-700 dark:bg-rose-950 dark:text-rose-400':a.tipo==='proximo'?'bg-amber-100 text-amber-700 dark:bg-amber-950 dark:text-amber-400':'bg-blue-100 text-blue-700 dark:bg-blue-950 dark:text-blue-400'}">${a.label}</span>
                             ${a.valor?`<span class="mono text-[10px] font-bold text-emerald-600">${a.valor}</span>`:''}
                         </div>
-                        <p class="text-[11px] font-medium text-slate-700 dark:text-slate-300">${a.texto}</p>
-                        <p class="text-[10px] text-slate-400 mt-0.5 line-clamp-1">${a.sub||''}</p>
+                        <p class="text-xs font-semibold text-slate-700 dark:text-slate-300 mb-1">${a.texto}</p>
+                        <p class="text-[10px] text-slate-400 line-clamp-1">${a.sub||''}</p>
                     </div>
                 </div>
             </div>`;
         }).join('')}
         </div>`;
 }
-
-
-
-
-
 
 // ── EXPORTAR PDF DO MODAL ─────────────────────────────────────────────────
 function exportModalPDF() {
@@ -1308,18 +2248,15 @@ function exportModalPDF() {
     const corPrimaria = isLicit ? [37, 99, 235] : [124, 58, 237];
     const corClara   = isLicit ? [239, 246, 255] : [245, 243, 255];
     const corTexto   = isLicit ? [29, 78, 216]   : [109, 40, 217];
-    const W = 210; // largura A4
-    const ML = 15; // margem esquerda
-    const MR = 15; // margem direita
-    const CW = W - ML - MR; // largura útil
+    const W = 210;
+    const ML = 15;
+    const MR = 15;
+    const CW = W - ML - MR;
 
     let y = 0;
 
-    // ── CABEÇALHO ──
     doc.setFillColor(...corPrimaria);
     doc.rect(0, 0, W, 28, 'F');
-
-    // Faixa decorativa
     doc.setFillColor(...corPrimaria.map(c => Math.min(255, c + 30)));
     doc.rect(0, 22, W, 6, 'F');
 
@@ -1331,15 +2268,12 @@ function exportModalPDF() {
     doc.setFontSize(15);
     doc.setFont('helvetica', 'bold');
     doc.text(isLicit ? 'PROCESSO LICITATÓRIO' : 'COMPRA DIRETA', ML, 19);
-
-    // ID no canto direito
     doc.setFontSize(10);
     doc.setFont('helvetica', 'bold');
     doc.text(r.id || '', W - MR, 19, { align: 'right' });
 
     y = 36;
 
-    // ── BADGE SITUAÇÃO ──
     const situacao = isLicit ? (r.situacao || '') : (r.status || '');
     doc.setFillColor(...corClara);
     doc.roundedRect(ML, y - 5, 60, 8, 2, 2, 'F');
@@ -1349,7 +2283,6 @@ function exportModalPDF() {
     doc.text(situacao.toUpperCase(), ML + 3, y);
     y += 8;
 
-    // ── OBJETO ──
     doc.setDrawColor(226, 232, 240);
     doc.setFillColor(248, 250, 252);
     doc.roundedRect(ML, y, CW, 6, 1, 1, 'FD');
@@ -1366,7 +2299,6 @@ function exportModalPDF() {
     doc.text(objetoLines, ML, y);
     y += objetoLines.length * 5 + 6;
 
-    // ── GRID DE INFORMAÇÕES ──
     const col1X = ML;
     const col2X = ML + CW / 2 + 2;
     const colW  = CW / 2 - 2;
@@ -1387,20 +2319,16 @@ function exportModalPDF() {
     };
 
     if (isLicit) {
-        // Linha 1
         drawInfoBox('Nº Edital', r.id, col1X, y, colW);
         drawInfoBox('Nº Administrativo', r.numero_adm, col2X, y, colW);
         y += 17;
-        // Linha 2
         drawInfoBox('Modalidade', r.modalidade, col1X, y, colW);
         drawInfoBox('Tipo de Contrato', r.tipo_contrato, col2X, y, colW);
         y += 17;
-        // Linha 3
         drawInfoBox('Condutor', r.condutor, col1X, y, colW);
         drawInfoBox('Autoridade', r.autoridade, col2X, y, colW);
         y += 17;
 
-        // Datas
         doc.setFillColor(...corClara);
         doc.setDrawColor(...corPrimaria);
         doc.roundedRect(ML, y, CW, 6, 1, 1, 'FD');
@@ -1422,10 +2350,8 @@ function exportModalPDF() {
         });
         y += 17;
 
-        // Lotes e Itens
         const lotes = r.lotes || [];
         if (lotes.length) {
-            // Título seção
             doc.setFillColor(...corClara);
             doc.setDrawColor(...corPrimaria);
             doc.roundedRect(ML, y, CW, 6, 1, 1, 'FD');
@@ -1436,11 +2362,9 @@ function exportModalPDF() {
             y += 9;
 
             lotes.forEach(l => {
-                // Calcular altura do header do lote (título pode quebrar linha)
                 const loteLabel = `Lote ${l.numero}`;
                 const loteTitulo = l.titulo || '';
                 const tituloFull = loteTitulo ? `${loteLabel}  ${loteTitulo}` : loteLabel;
-                // Reservar espaço para o valor ref (aprox 32mm à direita)
                 const tituloW = CW - 38;
                 doc.setFontSize(8);
                 doc.setFont('helvetica', 'bold');
@@ -1449,14 +2373,12 @@ function exportModalPDF() {
 
                 if (y + headerH > 265) { doc.addPage(); y = 20; }
 
-                // ── HEADER DO LOTE ───────────────────────────────────────
                 const valRef  = parseValor(l.valor_referencia || '0');
                 const mo      = parseValor(l.melhor_oferta   || '0');
                 const temVenc = !!(l.vencedor && l.vencedor.trim());
                 const temMO   = !isNaN(mo) && mo > 0;
                 const umItem  = l.itens && l.itens.length === 1;
 
-                // Sem vencedor → vermelho; com vencedor → cor primária (azul/roxo)
                 const corHeader = temVenc ? corPrimaria : [220, 38, 38];
 
                 doc.setFillColor(...corHeader);
@@ -1466,7 +2388,6 @@ function exportModalPDF() {
                 doc.setFont('helvetica', 'bold');
                 doc.text(tituloLines, ML + 3, y + 5.5);
 
-                // Valor ref. total (canto direito)
                 if (!isNaN(valRef) && valRef > 0) {
                     doc.setTextColor(255, 255, 200);
                     doc.setFontSize(6);
@@ -1479,16 +2400,12 @@ function exportModalPDF() {
                 }
                 y += headerH + 1;
 
-                // ── FAIXA VERDE — vencedor + melhor oferta + desconto ────────
                 if (temVenc || temMO) {
-                    // Lote 1 item: 2 linhas (vencedor + MO unit / desc)
-                    // Lote N itens: 2 linhas (vencedor + MO total / desc%) — sem unit por item
                     const faixaH = (temVenc && temMO) ? 14 : 9;
                     doc.setFillColor(236, 253, 245);
                     doc.setDrawColor(167, 243, 208);
                     doc.roundedRect(ML, y, CW, faixaH, 1, 1, 'FD');
 
-                    // Linha 1: Vencedor | Melhor oferta total
                     if (temVenc) {
                         doc.setFontSize(6.5);
                         doc.setFont('helvetica', 'bold');
@@ -1509,7 +2426,6 @@ function exportModalPDF() {
                         doc.text(fmtBRL(mo), W - MR, y + 5.5, { align: 'right' });
                     }
 
-                    // Linha 2: Desconto% (sempre) | MO unit (só para lote de 1 item)
                     if (temVenc && temMO && faixaH > 9) {
                         const percDesc = (valRef > 0 && mo > 0) ? ((valRef - mo) / valRef * 100) : 0;
                         if (percDesc > 0) {
@@ -1518,7 +2434,6 @@ function exportModalPDF() {
                             doc.setTextColor(37, 99, 235);
                             doc.text(`Desconto: ${percDesc.toFixed(1)}%`, ML + 3, y + 11.5);
                         }
-                        // MO unitária: só exibe quando lote tem 1 item (cálculo exato)
                         if (umItem) {
                             const qIt = parseValor(l.itens[0].quantidade || '1');
                             const moUnit = (!isNaN(qIt) && qIt > 0) ? mo / qIt : 0;
@@ -1536,12 +2451,8 @@ function exportModalPDF() {
                     y += faixaH + 2;
                 }
 
-                // ── TABELA DE ITENS ──────────────────────────────────────────
                 if (l.itens && l.itens.length) {
-                    // Lote 1 item + MO → mostra colunas MO Unit. e Desc.%
-                    // Lote N itens → tabela simples (MO já exibida na faixa acima)
                     const mostrarMOUnit = temMO && umItem;
-                    // Label do lote para exibir no header da tabela
                     const loteLabel = `Lote ${l.numero || ''}${l.titulo ? ' – ' + l.titulo : ''}`;
 
                     const head = mostrarMOUnit
@@ -1559,7 +2470,6 @@ function exportModalPDF() {
                             fmtBRL(vRef)
                         ];
                         if (mostrarMOUnit) {
-                            // Lote 1 item: MO / qtd = valor unitário exato
                             const moUnit = (!isNaN(qIt) && qIt > 0) ? mo / qIt : 0;
                             const desc   = (!isNaN(vRef) && vRef > 0 && moUnit > 0)
                                 ? ((vRef - moUnit) / vRef * 100).toFixed(1) + '%'
@@ -1574,7 +2484,6 @@ function exportModalPDF() {
                         ? { 1: { cellWidth: 'auto' }, 4: { halign: 'right' }, 5: { halign: 'right', textColor: [5,150,105], fontStyle: 'bold' }, 6: { halign: 'right', textColor: [37,99,235], fontStyle: 'bold' } }
                         : { 1: { cellWidth: 'auto' }, 4: { halign: 'right', textColor: [5,150,105], fontStyle: 'bold' } };
 
-                    // Header da tabela: vermelho se sem vencedor, cor primária se com vencedor
                     const corHeaderTabela = temVenc ? corPrimaria : [220, 38, 38];
 
                     doc.autoTable({
@@ -1593,31 +2502,24 @@ function exportModalPDF() {
             });
         }
     } else {
-        // COMPRA DIRETA
-        // Linha 1
         drawInfoBox('Nº Edital', r.id, col1X, y, colW);
         drawInfoBox('Nº Administrativo', r.numero_adm, col2X, y, colW);
         y += 17;
-        // Linha 2
         drawInfoBox('Modalidade', r.modalidade, col1X, y, colW);
         drawInfoBox('Legislação', r.legislacao, col2X, y, colW);
         y += 17;
-        // Linha 3
         drawInfoBox('Artigo / Inciso', `${r.artigo || '–'} ${r.inciso || ''}`, col1X, y, colW);
         drawInfoBox('Ano Ref.', r.ano_referencia, col2X, y, colW);
         y += 17;
-        // Linha 4
         drawInfoBox('Coordenador', r.coordenador, col1X, y, colW);
         drawInfoBox('Autoridade', r.autoridade, col2X, y, colW);
         y += 17;
 
-        // Datas
         const dW2 = (CW - 2) / 2;
         drawInfoBox('Data Publicação', r.data_publicacao, col1X, y, dW2, 14, [255,255,255]);
         drawInfoBox('Data Conclusão', r.data_conclusao, col2X, y, dW2, 14, [255,255,255]);
         y += 17;
 
-        // Justificativa
         if (r.justificativa) {
             doc.setFillColor(255, 251, 235);
             doc.setDrawColor(253, 230, 138);
@@ -1635,7 +2537,6 @@ function exportModalPDF() {
             y += jLines.length * 5 + 6;
         }
 
-        // Itens
         const itens = r.itens || [];
         if (itens.length) {
             if (y > 240) { doc.addPage(); y = 20; }
@@ -1648,7 +2549,6 @@ function exportModalPDF() {
             doc.text(`ITENS (${itens.length})`, ML + 3, y + 4);
             y += 9;
 
-            // Valor total destaque
             const vt = totalRegistroCompra(r);
             if (vt !== null) {
                 doc.setFillColor(236, 253, 245);
@@ -1694,7 +2594,6 @@ function exportModalPDF() {
         }
     }
 
-    // ── RODAPÉ ── (em todas as páginas)
     const totalPages = doc.internal.getNumberOfPages();
     for (let p = 1; p <= totalPages; p++) {
         doc.setPage(p);
@@ -1749,16 +2648,20 @@ function exportCSV() {
         }
     }
 
-    const bom = '\uFEFF'; // BOM para Excel reconhecer UTF-8
+    const bom = '\uFEFF';
     const blob = new Blob([bom + rows.join('\n')], { type: 'text/csv;charset=utf-8;' });
     const url = URL.createObjectURL(blob);
     const a = document.createElement('a'); a.href = url;
     a.download = `bll_${dataset}_${viewMode}_${new Date().toISOString().slice(0,10)}.csv`;
     a.click(); URL.revokeObjectURL(url);
+    
+    showToast('CSV exportado com sucesso!', 'success');
 }
 
 // ── EXPORTAR PDF ───────────────────────────────────────────────────────────
 function exportPDF() {
+    showToast('Gerando PDF...', 'info');
+    
     const { jsPDF } = window.jspdf;
     const doc = new jsPDF({ orientation: 'landscape', unit: 'mm', format: 'a4' });
 
@@ -1767,7 +2670,6 @@ function exportPDF() {
     const titulo = isLicit ? 'Relatório de Licitações' : 'Relatório de Compras Diretas';
     const sub = `Município de Teixeira de Freitas • ${filteredData.length} registro(s) • Gerado em ${new Date().toLocaleDateString('pt-BR')}`;
 
-    // Header
     doc.setFillColor(...cor);
     doc.rect(0, 0, 297, 18, 'F');
     doc.setTextColor(255,255,255);
@@ -1776,7 +2678,6 @@ function exportPDF() {
     doc.setFontSize(8); doc.setFont('helvetica','normal');
     doc.text(sub, 10, 17);
 
-    // Filtros ativos
     const filtros = [];
     if (search) filtros.push(`Busca: "${search}"`);
     if (f1!=='all') filtros.push(`Modalidade: ${f1}`);
@@ -1788,14 +2689,13 @@ function exportPDF() {
         doc.text('Filtros ativos: ' + filtros.join(' | '), 10, 23);
     }
 
-    // Tabela
     let head, body;
     if (isLicit) {
         if (viewMode === 'registros') {
-            head = [['Nº Edital','Modalidade','Objeto','Lotes','Valor Ref.','Situação']];
+            head = [['Nº Edital','Modalidade','Objeto','Condutor','Lotes','Valor Ref.','Situação']];
             body = filteredData.map(r => {
                 const val = (r.lotes||[]).reduce((s,l)=>s+parseValor(l.valor_referencia||0),0);
-                return [r.id||'', r.modalidade||'', r.objeto||'', r.total_lotes||0, val>0?fmtBRL(val):'–', r.situacao||''];
+                return [r.id||'', r.modalidade||'', (r.objeto||'').substring(0,70), r.condutor||'', r.total_lotes||0, val>0?fmtBRL(val):'–', r.situacao||''];
             });
         } else {
             head = [['Processo','Lote','Especificação','Un.','Qtd.','Valor Ref.','Situação']];
@@ -1828,10 +2728,9 @@ function exportPDF() {
         styles: { fontSize: 7, cellPadding: 2.5, overflow: 'linebreak' },
         headStyles: { fillColor: cor, textColor: 255, fontStyle: 'bold', fontSize: 7.5 },
         alternateRowStyles: { fillColor: [248,250,252] },
-        columnStyles: viewMode==='registros' && isLicit ? { 2:{cellWidth:120} } : {},
+        columnStyles: viewMode==='registros' && isLicit ? { 2:{cellWidth:75}, 3:{cellWidth:40} } : {},
         margin: { left: 10, right: 10 },
         didDrawPage: (data) => {
-            // Rodapé
             const pg = doc.internal.getCurrentPageInfo().pageNumber;
             const total = doc.internal.getNumberOfPages();
             doc.setFontSize(7); doc.setTextColor(150,150,150);
@@ -1840,6 +2739,31 @@ function exportPDF() {
     });
 
     doc.save(`bll_${dataset}_${viewMode}_${new Date().toISOString().slice(0,10)}.pdf`);
+    showToast('PDF exportado com sucesso!', 'success');
+}
+
+// ── SELECTION ─────────────────────────────────────────────────────────────
+function toggleSelectAll(checkbox) {
+    const checked = checkbox.checked;
+    if (checked) {
+        const visible = filteredData.slice((page-1)*PER_PAGE, page*PER_PAGE);
+        selectedForCompare = visible.slice(0, 2).map(r => r.id);
+    } else {
+        selectedForCompare = [];
+    }
+    updateCompareBar();
+    render();
+}
+
+function updateSelectionCount() {
+    const count = selectedForCompare.length;
+    document.getElementById('selected-count').textContent = count;
+}
+
+function clearSelection() {
+    selectedForCompare = [];
+    updateCompareBar();
+    render();
 }
 
 // ── INIT ──────────────────────────────────────────────────────────────────
@@ -1848,8 +2772,8 @@ loadData();
 </script>
 
 <!-- ── CHAT IA FLUTUANTE ─────────────────────────────────────────────────── -->
-<button id="ai-fab" onclick="aiToggle()" title="Assistente IA de Licitações">
-  <svg viewBox="0 0 24 24" fill="white" xmlns="http://www.w3.org/2000/svg" style="width:24px;height:24px"><path d="M12 2a2 2 0 0 1 2 2c0 .74-.4 1.38-1 1.73V7h1a7 7 0 0 1 7 7h1a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1h-1a7 7 0 0 1-7 7H9a7 7 0 0 1-7-7H1a1 1 0 0 1-1-1v-3a1 1 0 0 1 1-1h1a7 7 0 0 1 7-7h1V5.73c-.6-.35-1-.99-1-1.73a2 2 0 0 1 2-2zm0 7a5 5 0 0 0-5 5v3a5 5 0 0 0 5 5h0a5 5 0 0 0 5-5v-3a5 5 0 0 0-5-5zm-2 4a1.5 1.5 0 1 1 0 3 1.5 1.5 0 0 1 0-3zm4 0a1.5 1.5 0 1 1 0 3 1.5 1.5 0 0 1 0-3z"/></svg>
+<button id="ai-fab" onclick="aiToggle()" title="Assistente IA de Licitações" class="animate-float">
+  <svg viewBox="0 0 24 24" fill="white" xmlns="http://www.w3.org/2000/svg" style="width:26px;height:26px"><path d="M12 2a2 2 0 0 1 2 2c0 .74-.4 1.38-1 1.73V7h1a7 7 0 0 1 7 7h1a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1h-1a7 7 0 0 1-7 7H9a7 7 0 0 1-7-7H1a1 1 0 0 1-1-1v-3a1 1 0 0 1 1-1h1a7 7 0 0 1 7-7h1V5.73c-.6-.35-1-.99-1-1.73a2 2 0 0 1 2-2zm0 7a5 5 0 0 0-5 5v3a5 5 0 0 0 5 5h0a5 5 0 0 0 5-5v-3a5 5 0 0 0-5-5zm-2 4a1.5 1.5 0 1 1 0 3 1.5 1.5 0 0 1 0-3zm4 0a1.5 1.5 0 1 1 0 3 1.5 1.5 0 0 1 0-3z"/></svg>
 </button>
 
 <div id="ai-panel">
@@ -1938,18 +2862,13 @@ function aiSetStatus(txt) {
   document.getElementById('ai-status').textContent = txt;
 }
 
-
-// Converte markdown simples para HTML seguro
 function aiMarkdown(text) {
   if (!text) return '';
-
-  // Escapa HTML base
   let h = text
     .replace(/&/g,'&amp;')
     .replace(/</g,'&lt;')
     .replace(/>/g,'&gt;');
 
-  // Processa linha a linha para melhor controle
   const lines = h.split('\n');
   const out = [];
   let inList = false;
@@ -1962,64 +2881,49 @@ function aiMarkdown(text) {
   for (let i = 0; i < lines.length; i++) {
     let line = lines[i];
 
-    // Títulos
     if (/^### (.+)$/.test(line)) { closeList(); out.push(`<h3>${line.replace(/^### /,'')}</h3>`); continue; }
     if (/^## (.+)$/.test(line))  { closeList(); out.push(`<h3>${line.replace(/^## /,'')}</h3>`); continue; }
     if (/^# (.+)$/.test(line))   { closeList(); out.push(`<h3>${line.replace(/^# /,'')}</h3>`); continue; }
 
-    // Separador
     if (/^---+$/.test(line)) { closeList(); out.push('<hr>'); continue; }
 
-    // Lista não-ordenada
     if (/^[-*] (.+)$/.test(line)) {
       if (!inList || listType !== 'ul') { closeList(); out.push('<ul>'); inList = true; listType = 'ul'; }
       out.push('<li>' + inlineFormat(line.replace(/^[-*] /,'')) + '</li>');
       continue;
     }
 
-    // Lista ordenada
     if (/^\d+[.)\s] (.+)$/.test(line)) {
       if (!inList || listType !== 'ol') { closeList(); out.push('<ol>'); inList = true; listType = 'ol'; }
       out.push('<li>' + inlineFormat(line.replace(/^\d+[.)\s] /,'')) + '</li>');
       continue;
     }
 
-    // Indentação (sub-item)
     if (/^\s{2,}[-*] (.+)$/.test(line)) {
       out.push('<li style="margin-left:12px">' + inlineFormat(line.replace(/^\s+[-*] /,'')) + '</li>');
       continue;
     }
 
-    // Linha vazia
     if (!line.trim()) { closeList(); out.push('<br>'); continue; }
 
-    // Parágrafo normal
     closeList();
     out.push('<p>' + inlineFormat(line) + '</p>');
   }
 
   closeList();
 
-  // Remover <br> duplicados e no início/fim
   return out.join('').replace(/(<br>){3,}/g,'<br><br>').replace(/^(<br>)+|(<br>)+$/g,'');
 }
 
 function inlineFormat(text) {
   return text
-    // Negrito+itálico
     .replace(/\*\*\*(.+?)\*\*\*/g,'<strong><em>$1</em></strong>')
-    // Negrito
     .replace(/\*\*(.+?)\*\*/g,'<strong>$1</strong>')
-    // Itálico
     .replace(/\*(.+?)\*/g,'<em>$1</em>')
-    // Código inline
     .replace(/`(.+?)`/g,'<code style="background:#f1f5f9;padding:1px 4px;border-radius:3px;font-size:12px">$1</code>')
-    // IDs de processo (PE-XXX-XXXX, DLE-XXX-XXXX, etc.)
     .replace(/\b([A-Z]{2,4}-\d{2,4}-\d{4})\b/g,'<span class="tag-id">$1</span>')
-    // Valores em R$
     .replace(/(R\$\s?[\d.,]+)/g,'<span class="tag-val">$1</span>');
 }
-
 
 async function aiSend() {
   if (aiLoading) return;
@@ -2045,7 +2949,6 @@ async function aiSend() {
       body: JSON.stringify({ messages: aiHistory, query: text })
     });
 
-    // Verificar tipo de resposta
     const contentType = resp.headers.get('content-type') || '';
     const isSSE = contentType.includes('text/event-stream');
 
@@ -2055,7 +2958,6 @@ async function aiSend() {
       throw new Error(errMsg);
     }
 
-    // Criar bolha de resposta
     aiHideTyping();
     aiSetStatus('');
     const botDiv = document.createElement('div');
@@ -2064,7 +2966,6 @@ async function aiSend() {
     document.getElementById('ai-messages').appendChild(botDiv);
 
     if (isSSE) {
-      // Ler stream SSE
       const reader = resp.body.getReader();
       const decoder = new TextDecoder();
       let fullReply = '';
@@ -2096,7 +2997,6 @@ async function aiSend() {
         botDiv.innerHTML = '⚠️ Resposta vazia do servidor.';
       }
     } else {
-      // Fallback JSON simples
       const json = await resp.json();
       const reply = json.reply || 'Sem resposta.';
       botDiv.innerHTML = aiMarkdown(reply);
