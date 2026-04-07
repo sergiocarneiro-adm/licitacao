@@ -1,10 +1,10 @@
 {
   "metadata": {
     "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-    "total_processos": 754,
-    "total_lotes": 8623,
-    "total_itens": 14424,
-    "atualizado_em": "20260407_164933"
+    "total_processos": 755,
+    "total_lotes": 8624,
+    "total_itens": 14425,
+    "atualizado_em": "20260407_173346"
   },
   "processos": [
     {
@@ -260102,50 +260102,6 @@
       ]
     },
     {
-      "id": "3-DLE-024-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "200/2026",
-      "modalidade": "DISPENSA ELETRÔNICA",
-      "situacao": "ADJUDICADO",
-      "condutor": "ISLA LIMA SILVA",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO PARCELADA",
-      "publicacao": "13/03/2026 18:20",
-      "inicio_recepcao": "13/03/2026 18:23",
-      "fim_recepcao": "19/03/2026 08:15",
-      "inicio_disputa": "19/03/2026 08:30",
-      "objeto": "Contratação de empresa especializada em prestação de serviços com fornecimento dos materiais necessários para a realização do controle de vetores e pragas urbanas (DEDETIZAÇÃO, DESINSETIZAÇÃO, DESRATIZAÇÃO, DESCUPINIZAÇÃO, DESALOJAMENTO DE POMBOS E MORCEGOS),  a fim de atender as demandas da Secretaria Municipal de Saúde.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DB3zCr6Nbo%2Fu4Yi1IpK7IPW3g0zoRhxjH9kVYCBBka2Qsy0j2RaXEmGbo%2FHXIQRoKUlbJK7AfG4sBc%2FL97voPvw8BMvkswn0Ig8BSGRCouUQ%3D",
-      "total_lotes": 1,
-      "total_itens": 1,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "DEDETIZAÇÃO",
-          "fase": "ADJUDICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "65.000,00",
-          "vencedor": "4K DEDETIZAÇÔES LTDA",
-          "melhor_oferta": "43.750,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900515421 Prestação de serviços continuados de dedetização,desinsetização, desratização e controle integrado de vetores epragas urbanas:a serem executados em prédios, áreas internase externas e demais instalações urbanas e rurais vinculadas àSecretaria Municipal de Saúde: Os serviços deverãocompreender ações preventivas e curativas destinadas aocontrole de insetos rasteiros e voadores, tais como baratas,formigas, mosquitos, inclusive Aedes aegypti, aranhas,escorpiões, traças, cupins, pulgas e correlatos, bem como deroedores sinantrópicos, incluindo ratos de telhado, ratazanas ecamundongos, além de outras pragas urbanas que possamrepresentar risco à saúde humana e ao adequado funcionamentodas atividades institucionais. As atividades serão realizadas inloco, nas unidades de saúde e setores administrativosespecificados, compreendendo, entre outros, a sede daSecretaria Municipal de Saúde, o setor de regulação, a vigilânciasanitária, a vigilância epidemiológica, as unidades de atençãobásica, a farmácia municipal, o laboratório municipal, asunidades administrativas de saúde e seus respectivos anexos. Adefinição das unidades a serem atendidas, bem como ametragem quadrada correspondente a cada uma delas, seráformalizada por meio da Ordem de Fornecimento emitida pelaAdministração Municipal, a qual servirá como referência para aexecução, o controle e a fiscalização dos serviços. EXCLUSIVOPARA ME/EPP.",
-              "unidade": "M2",
-              "quantidade": "125.000,00",
-              "valor_referencia": "0,52"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "PE-026-2026",
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "20/2026",
@@ -262641,6 +262597,94 @@
               "unidade": "Und.",
               "quantidade": "4.000,00",
               "valor_referencia": "23,70"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2-DLE-034-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "321/2026",
+      "modalidade": "DISPENSA ELETRÔNICA",
+      "situacao": "PUBLICADO",
+      "condutor": "ISLA LIMA SILVA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO",
+      "publicacao": "07/04/2026 17:30",
+      "inicio_recepcao": "07/04/2026 17:35",
+      "fim_recepcao": "13/04/2026 08:15",
+      "inicio_disputa": "13/04/2026 08:30",
+      "objeto": "Contratação de empresa especializada em fornecimento de BANHEIROS QUÍMICOS (material permanente), cujas especificações técnicas, quantidades e demais condições encontram-se detalhadas neste instrumento, a fim de atender as demandas da Secretaria Municipal de Administração.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DobdfnTQFq1iz7m1CQrXz%2Fp9vnQtEa78KbmBc0tUc9sV43JVWKAdn4KV%2FkOyY8jFqFQRuKPHzRk6iz9FPMZa2ttib5o5e9c4b_NwEy98ThYw%3D",
+      "total_lotes": 1,
+      "total_itens": 1,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "BANHEIROS QUÍMICOS",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "25.258,02",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37179 BANHEIROS QUÍMICOS:individuais portáteis com tetotranslúcido composto com caixa de dejeto com assento, mictório,porta papel higiênico (devidamente abastecidos) e fechamentode identificação OCUPADO/ DESOCUPADO e indicação demasculinos, femininos, para público e bandas (camarins), commedidas mínimas de altura: 2,15 m largura: 1,78 m comprimento:2,18 m, com ponto de ventilação natural. EXCLUSIVO PARAME/EPP.",
+              "unidade": "UN",
+              "quantidade": "6,00",
+              "valor_referencia": "4.209,67"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3-DLE-024-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "200/2026",
+      "modalidade": "DISPENSA ELETRÔNICA",
+      "situacao": "HOMOLOGADO",
+      "condutor": "ISLA LIMA SILVA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO PARCELADA",
+      "publicacao": "13/03/2026 18:20",
+      "inicio_recepcao": "13/03/2026 18:23",
+      "fim_recepcao": "19/03/2026 08:15",
+      "inicio_disputa": "19/03/2026 08:30",
+      "objeto": "Contratação de empresa especializada em prestação de serviços com fornecimento dos materiais necessários para a realização do controle de vetores e pragas urbanas (DEDETIZAÇÃO, DESINSETIZAÇÃO, DESRATIZAÇÃO, DESCUPINIZAÇÃO, DESALOJAMENTO DE POMBOS E MORCEGOS),  a fim de atender as demandas da Secretaria Municipal de Saúde.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DyD10t5Odh4IoizAnHWJ6iG%2Fgk41D0TQRYIiyNqoVbCU1ISM5mGSzkKloB2qufb2PxECErtY4HQnT0zC0J6oDxTl2e9DaJBz5XpVXXVIT6a4%3D",
+      "total_lotes": 1,
+      "total_itens": 1,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "DEDETIZAÇÃO",
+          "fase": "HOMOLOGADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "65.000,00",
+          "vencedor": "4K DEDETIZAÇÔES LTDA",
+          "melhor_oferta": "43.750,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515421 Prestação de serviços continuados de dedetização,desinsetização, desratização e controle integrado de vetores epragas urbanas:a serem executados em prédios, áreas internase externas e demais instalações urbanas e rurais vinculadas àSecretaria Municipal de Saúde: Os serviços deverãocompreender ações preventivas e curativas destinadas aocontrole de insetos rasteiros e voadores, tais como baratas,formigas, mosquitos, inclusive Aedes aegypti, aranhas,escorpiões, traças, cupins, pulgas e correlatos, bem como deroedores sinantrópicos, incluindo ratos de telhado, ratazanas ecamundongos, além de outras pragas urbanas que possamrepresentar risco à saúde humana e ao adequado funcionamentodas atividades institucionais. As atividades serão realizadas inloco, nas unidades de saúde e setores administrativosespecificados, compreendendo, entre outros, a sede daSecretaria Municipal de Saúde, o setor de regulação, a vigilânciasanitária, a vigilância epidemiológica, as unidades de atençãobásica, a farmácia municipal, o laboratório municipal, asunidades administrativas de saúde e seus respectivos anexos. Adefinição das unidades a serem atendidas, bem como ametragem quadrada correspondente a cada uma delas, seráformalizada por meio da Ordem de Fornecimento emitida pelaAdministração Municipal, a qual servirá como referência para aexecução, o controle e a fiscalização dos serviços. EXCLUSIVOPARA ME/EPP.",
+              "unidade": "M2",
+              "quantidade": "125.000,00",
+              "valor_referencia": "0,52"
             }
           ]
         }
