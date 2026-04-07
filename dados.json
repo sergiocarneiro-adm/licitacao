@@ -1,10 +1,10 @@
 {
   "metadata": {
     "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-    "total_processos": 752,
-    "total_lotes": 8619,
-    "total_itens": 14393,
-    "atualizado_em": "20260407_124736"
+    "total_processos": 754,
+    "total_lotes": 8623,
+    "total_itens": 14424,
+    "atualizado_em": "20260407_164933"
   },
   "processos": [
     {
@@ -253140,99 +253140,6 @@
       ]
     },
     {
-      "id": "PE-046-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "210/2026",
-      "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "HABILITAÇÃO",
-      "condutor": "SERGIO CARNEIRO CAVALCANTI DE AZEVEDO",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "REGISTRO DE PREÇO",
-      "publicacao": "17/03/2026 16:37",
-      "inicio_recepcao": "19/03/2026 00:00",
-      "fim_recepcao": "31/03/2026 13:45",
-      "inicio_disputa": "31/03/2026 14:00",
-      "objeto": "Contratação de empresa especializada em fornecimento de KIT LANCHE PRONTO (material de consumo),  a fim de atender as demandas da Secretaria Municipal de Administração e demais Secretarias.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DOjgX2ntdO3T6PaBipw2NetGDl4oU0f0IZDupte9YQixruO3rnfCsVjzdM1tJpSnjcu13_kWo3xNGtfNR0Li%2F7y5NLwkuSxE5IUfGYk_aFhQ%3D",
-      "total_lotes": 1,
-      "total_itens": 8,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "LOTE 1",
-          "fase": "EM ADJUDICAÇÃO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,00",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "517.920,00",
-          "vencedor": "COUTO RESTAURANTE LTDA",
-          "melhor_oferta": "514.600,00",
-          "total_itens": 8,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "100800011 KIT LANCHE TIPO A:COMPOSTO POR: 01 COPO DE CAFÉ COM LEITE (200ML);01 COPO DE MINGAU DE TAPIOCA (200ML);01 PORÇÃO DE CUSCUZ NORDESTINO 250G (CALABRESA E CARNE DE SOL);01 SANDUÍCHE DE QUEIJO (PÃO DE FORMA E QUEIJO LANCHE);02 GUARDANAPOS DE PAPEL",
-              "unidade": "Und.",
-              "quantidade": "4.000,00",
-              "valor_referencia": "14,90"
-            },
-            {
-              "numero": "2",
-              "especificacao": "37032 KIT LANCHE TIPO B:COMPOSTO POR: 01 COPO DE CAFÉ COM LEITE (200ML); 01 COPO DE SUCO DE FRUTAS (200ML);01 FATIA DE BOLO DE MILHO (100G);01 PATISSARIA 120G (ESFIRRA);02 GUARDANAPOS DE PAPEL",
-              "unidade": "Und.",
-              "quantidade": "4.000,00",
-              "valor_referencia": "15,42"
-            },
-            {
-              "numero": "3",
-              "especificacao": "100800012 KIT LANCHE TIPO C:COMPOSTO POR: 01 COPO DE CAFÉ COM LEITE (200ML);01 COPO DE MINGAU DE MILHO (200ML);01 PORÇÃO DE BANANA DA TERRA COZIDA COM CARNE DO SOL E CALABRESA (250G);01 FATIA DE BOLO DE TAPIOCA (100G);02 GUARDANAPOS DE PAPEL",
-              "unidade": "Und.",
-              "quantidade": "4.000,00",
-              "valor_referencia": "18,52"
-            },
-            {
-              "numero": "4",
-              "especificacao": "100800013 KIT LANCHE TIPO D:COMPOSTO POR: 01 COPO DE CAFÉ COM LEITE (200ML);01 COPO DE SUCO DE FRUTAS (200ML);01 PORÇÃO DE CUSCUZ NORDESTINO 250G (CALABRESA E CARNE DO SOL);PATISSARIA (BAURU);02 GUARDANAPOS DE PAPEL",
-              "unidade": "Und.",
-              "quantidade": "4.000,00",
-              "valor_referencia": "18,52"
-            },
-            {
-              "numero": "5",
-              "especificacao": "100800014 KIT LANCHE TIPO E:COMPOSTO POR: 01 COPO DE SUCO DE FRUTAS (200ML);01 MAÇÃ;01 BANANA;01 SANDUÍCHE DE QUEIJO (PÃO DE FORMA E QUEIJO);02 GUARDANAPOS DE PAPEL",
-              "unidade": "Und.",
-              "quantidade": "4.000,00",
-              "valor_referencia": "13,83"
-            },
-            {
-              "numero": "6",
-              "especificacao": "100800015 KIT LANCHE TIPO F:COMPOSTO POR:01 COPO DE ACHOCOLATADO (200ML);01 COPO DE SUCO DE FRUTAS (200ML);1 FATIA DE BOLO DE CHOCOLATE;01 MAÇÃ;02 GUARDANAPOS DE PAPEL",
-              "unidade": "Und.",
-              "quantidade": "4.000,00",
-              "valor_referencia": "13,13"
-            },
-            {
-              "numero": "7",
-              "especificacao": "100800016 LANCHE COMPLETO c/ SUCO NATURAL300ml:sanduíche: pão fatiado, com maionese, 1 (uma) fatia de queijo muçarela, 1 (uma) fatia de apresuntado, embalado em plástico filme; suco natural 300ml (trezentos mililitros); 1 guardanapo de papel embalado individualmente.",
-              "unidade": "Und.",
-              "quantidade": "4.000,00",
-              "valor_referencia": "11,46"
-            },
-            {
-              "numero": "8",
-              "especificacao": "100800017 MARMITEX COM REFRIGERANTE EM LATA:Arroz,farofa de feijão, macarrão, carne (podendo ser: carne cozida ou frango) e salada; no mínimo 500g; garfo descartável resistente e guardanapo de papel embalados individualmente; Refrigerante lata 350ml.",
-              "unidade": "Und.",
-              "quantidade": "4.000,00",
-              "valor_referencia": "23,70"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "PE-040-2026",
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "202/2026",
@@ -262316,6 +262223,424 @@
               "unidade": "UND",
               "quantidade": "2,00",
               "valor_referencia": "22,03"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-060-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "351/2026",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "PUBLICADO",
+      "condutor": "JONATAS DA SILVA SOUSA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO",
+      "publicacao": "07/04/2026 16:38",
+      "inicio_recepcao": "09/04/2026 00:00",
+      "fim_recepcao": "21/04/2026 08:15",
+      "inicio_disputa": "21/04/2026 08:30",
+      "objeto": "Pregão Eletrônico nº 060-2026, Processo Administrativo: 351/2026, do tipo MENOR PREÇO GLOBAL. OBJETO: Contratação de empresa especializada em prestação de serviço de LICENCIAMENTO DE USO (SUBSCRIÇÃO) DE SOFTWARES DE ENGENHARIA AUTODESK, INCLUINDO SUPORTE TÉCNICO E ATUALIZAÇÕES, a fim de atender às demandas da Secretaria Municipal de Projetos Estratégicos e Gerenciamento de Convênios.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DA8WrRZmvag18tjrffwiIzj_2HhxbDrb_w0_Nz_W0nPGb86%2FH2QzsNPIN%2FaEEL4sl4Se_UPS4Em36s3s7DYi1IH4bqdtv80l%2FHgdU%2FSgW%2FtU%3D",
+      "total_lotes": 1,
+      "total_itens": 3,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "LICENÇAS DE SOFTWARE",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 3,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "202600008 LICENÇA ANUAL DE USO DO SOFTWAREAUTOCAD:destinada à criação e anotação de geometria 2D e modelos 3D, com objetos sólidos, superfície e objetos de malha; com automatização em IA, comparação de desenhos, criação de tabelas e função de publicar layouts. As licenças deverão ser oficiais do fabricante Autodesk, no modelo de usuário nomeado (named user), com direito a atualizações durante o período contratado e suporte técnico adequado, garantindo pleno funcionamento, desempenho e conformidade com as exigências técnicas aplicáveis.",
+              "unidade": "SER",
+              "quantidade": "3,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "2",
+              "especificacao": "202600009 LICENÇA ANUAL DE USO DO SOFTWAREREVIT:destinada à elaboração e compatibilização de projetos de arquitetura, estrutura e instalações, com base na metodologia de Modelagem da Informação da Construção (BIM). As licenças deverão ser oficiais do fabricante Autodesk, no modelo de usuário nomeado (named user), com atualizações incluídas durante toda a vigência contratual e suporte técnico, assegurando a adequada utilização da ferramenta, integração entre disciplinas e atendimento às necessidades técnicas da Administração.",
+              "unidade": "SER",
+              "quantidade": "6,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "3",
+              "especificacao": "202600010 LICENÇA ANUAL DE USO DO SOFTWARE CIVIL3D:destinada à elaboração de projetos de engenharia civil, terraplenagem, drenagem e sistemas viários. As licenças deverão ser oficiais do fabricante Autodesk, no modelo de usuário nomeado (named user), com direito a atualizações durante o período contratado e suporte técnico adequado, garantindo pleno funcionamento, desempenho e conformidade com as exigências técnicas aplicáveis.",
+              "unidade": "SER",
+              "quantidade": "2,00",
+              "valor_referencia": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-061-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "1232 / 2025",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "PUBLICADO",
+      "condutor": "JONATAS DA SILVA SOUSA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "REGISTRO DE PREÇO",
+      "publicacao": "07/04/2026 16:33",
+      "inicio_recepcao": "09/04/2026 08:30",
+      "fim_recepcao": "20/04/2026 09:45",
+      "inicio_disputa": "20/04/2026 10:00",
+      "objeto": "Contratação de empresa especializada no fornecimento de UTENSÍLIOS DE COZINHA, UNIFORMES, EPC’S E EPI’S NECESSÁRIOS PARA O PROJETO PADARIA COMUNITÁRIA (material de consumo), a fim de atender às demandas da Secretaria Municipal de Promoção Social e Cultura.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5D0pGUFdLtKvGU2O4A8b5UCjzaaXaE4ZwqKWXiQYhNqjPyTeIiFv%2FQH4eT7yC5EQwj%2FmGdjBOiT3r9rsj0V6t5A5bXQ4uGEZVz11BuFLDhSKg%3D",
+      "total_lotes": 3,
+      "total_itens": 28,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "LOTE 1",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 15,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "8401500001 Avental comum impermeável:proteção contra respingos de líquidos, ingredientes e substâncias químicas, material de Nylon emborrachado. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "Und.",
+              "quantidade": "100,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "2",
+              "especificacao": "8401500002 Calça Brim Branca Uniforme Profissional GG:confeccionada em tecido brim pesado, 100% algodão. Possui elástico na cintura e cadarço para um melhor ajuste no corpo. Possui 3 bolsos, sendo 2 laterais e 1 traseiro. Cor branca, tamanho GG 50/52 - cintura 120 cm - comprimento 110 cm.EXCLUSIVO PARA ME/EPP.",
+              "unidade": "Und.",
+              "quantidade": "25,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "3",
+              "especificacao": "8401500003 Calça Brim Branca Uniforme Profissional P:confeccionada em tecido brim pesado, 100% algodão. Possui elástico na cintura e cadarço para um melhor ajuste no corpo. Possui 3 bolsos, sendo 2 laterais e 1 traseiro. Cor branca, tamanho P 38/40 - cintura 100 cm - comprimento 106 cm",
+              "unidade": "Und.",
+              "quantidade": "25,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "4",
+              "especificacao": "8401500004 Calça Brim Branca Uniforme Profissional M:confeccionada em tecido brim pesado,100% algodão. Possui elástico na cintura e cadarço para um melhor ajuste no corpo. Possui 3 bolsos, sendo 2 laterais e 1 traseiro. Cor branca Do tamanho M 42/44 - cintura 106 cm - comprimento 107 cm.EXCLUSIVO PARA ME/EPP.",
+              "unidade": "Und.",
+              "quantidade": "25,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "5",
+              "especificacao": "8401500005 Calça Brim Branca Uniforme Profissional G:confeccionada em tecido brim pesado,100% algodão. Possui elástico na cintura e cadarço para um melhor ajuste no corpo. Possui 3 bolsos, sendo 2 laterais e 1 traseiro. Cor branca, tamanho G 46/48 - cintura 112 cm - comprimento 108 cm.EXCLUSIVO PARA ME/EPP.",
+              "unidade": "Und.",
+              "quantidade": "25,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "6",
+              "especificacao": "8401500006 Calçado Branco Padaria ou cozinha:fabricado em EVA, unissex, no estilo galochas, cono curto, sem salto, material de cabedal sintético, material da sola de borracha, forma de bico arredondada, a prova d?água, sem zíper e sem cordões, com sola antiderrapante. Número 38, cor banca. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "PAR",
+              "quantidade": "6,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "7",
+              "especificacao": "36222 Calçado Branco Padaria ou cozinha:fabricado em EVA, unissex, no estilo galochas, cano curto, sem salto, material de cabedal sintético, material da sola de borracha, forma de bico arredondada, a prova d?água, sem zíper e sem cordões, com sola antiderrapante. Número 39, cor banca. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "PAR",
+              "quantidade": "10,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "8",
+              "especificacao": "8401500007 Calçado Branco Padaria ou cozinha:fabricado em EVA, unissex, no estilo galochas, cano curto, sem salto, material de cabedal sintético, material da sola de borracha, forma de bico arredondada, a prova d?água, sem zíper e sem cordões, com sola antiderrapante. Número 40, cor banca. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "PAR",
+              "quantidade": "10,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "9",
+              "especificacao": "8401500008 Calçado Branco Padaria ou cozinha:fabricado em EVA, unissex, no estilo galochas, cano curto, sem salto, material de cabedal sintético, material da sola de borracha, forma de bico arredondada, a prova d?água, sem zíper e sem cordões, com sola antiderrapante. Número 41, cor banca. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "PAR",
+              "quantidade": "8,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "10",
+              "especificacao": "8401500009 Calçado Branco Padaria ou cozinha:fabricado em EVA, unissex, no estilo galochas, cano curto, sem salto, material de cabedal sintético, material da sola de borracha, forma de bico arredondada, a prova d?água, sem zíper e sem cordões, com sola antiderrapante. Número 36, cor banca. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "PAR",
+              "quantidade": "5,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "11",
+              "especificacao": "8401500010 Jaleco para padeiro G:modelo unissex, tecido Oxford cor branca, com gola, sem alça traseira, manga curta, fechamento frontal em botões, com 3 bolsos frontais (1 superior esquerdo e 2 inferiores) aplicados com costura dupla e reforço no início e final das costuras, sendo que no bolsa superior esquerdo (lado de quem veste), com a logo da Prefeitura Municipal de Teixeira de Freitas e Programa Bolsa Família em serigrafia. Tamanho G. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "Und.",
+              "quantidade": "8,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "12",
+              "especificacao": "8401500011 Jaleco para padeiro P:modelo unissex, tecido Oxford cor branca, com gola, sem alça traseira, manga curta, fechamento frontal em botões, com 3 bolsos frontais (1 superior esquerdo e 2 inferiores) aplicados com costura dupla e reforço no início e final das costuras, sendo que no bolsa superior esquerdo (lado de quem veste), com a logo da Prefeitura Municipal de Teixeira de Freitas e Programa Bolsa Família em serigrafia. Tamanho P. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "Und.",
+              "quantidade": "15,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "13",
+              "especificacao": "8401500012 Jaleco para padeiro M:modelo unissex, tecido Oxford cor branca, com gola, sem alça traseira, manga curta, fechamento frontal em botões, com 3 bolsos frontais (1 superior esquerdo e 2 inferiores) aplicados com costura dupla e reforço no início e final das costuras, sendo que no bolsa superior esquerdo (lado de quem veste), com a logo da Prefeitura Municipal de Teixeira de Freitas e Programa Bolsa Família em serigrafia. Tamanho M. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "Und.",
+              "quantidade": "8,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "14",
+              "especificacao": "36225 Touca descartável:sanfonada elástica em TNT, caixa com 100 unidades Dimensões (AxLxP) 17,26,11cm. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "CX",
+              "quantidade": "10,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "15",
+              "especificacao": "36226 Touca Tule Oxford:circunferência: 64 cm - (regulável); comprimento tiras: 30 cm; altura: 15 cm; material: oxford (100% poliester); unissex, cor branca. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "Und.",
+              "quantidade": "30,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "2",
+          "titulo": "LOTE 2",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 3,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "7303000002 Faca de cozinha de 8 polegadas:32,6cmx4cmx1,5cm, em aço inoxidável. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "Und.",
+              "quantidade": "10,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "2",
+              "especificacao": "7303000003 Faca para Carne 14 polegadas:com lâmina em aço inox e cabo em polipropileno branco. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "Und.",
+              "quantidade": "10,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "3",
+              "especificacao": "7302000007 KIT HIGIENIZAÇÃO (dispenser/porta papel e toalha):kit com dispenser para papel toalha interfolha e uma saboneteira de 800 ml com reservatório. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "KIT",
+              "quantidade": "4,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "3",
+          "titulo": "LOTE 3",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 10,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "8406500010 Luva de segurança confeccionada em borracha nitrílica P:antiderrapante na palma, interior flocado. Proteção das mãos do usuário contra agentes abrasivos, escoriantes, cortantes e perfurantes e contra agentes químicos tais como Classe A - Tipo 2: Agressivos básicos; Classe B - Detergentes, Sabões, Amoníacos e similares e Classe C - Tipo 1: Hidrocarbonetos Alifáticos, Tipo 2: Hidrocarbonetos aromáticos, Tipo 3: Álcoois, Tipo 4: Éteres. Comprimento de aproximadamente 33 cm e espessura de cerca de 0,40mm, tamanhos P. (CA: 26.098). EXCLUSIVO PARA ME/EPP.",
+              "unidade": "PAR",
+              "quantidade": "60,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "2",
+              "especificacao": "36223 Luva de segurança confeccionada em borracha nitrílica M:antiderrapante na palma, interior flocado. Proteção das mãos do usuário contra agentes abrasivos, escoriantes, cortantes e perfurantes e contra agentes químicos tais como Classe A - Tipo 2: Agressivos básicos; Classe B - Detergentes, Sabões, Amoníacos e similares e Classe C - Tipo 1: Hidrocarbonetos Alifáticos, Tipo 2: Hidrocarbonetos aromáticos, Tipo 3: Álcoois, Tipo 4: Éteres. Comprimento de aproximadamente 33 cm e espessura de cerca de 0,40mm, tamanho M. (CA: 26.098).EXCLUSIVO PARA ME/EPP.",
+              "unidade": "PAR",
+              "quantidade": "100,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "3",
+              "especificacao": "8406500011 Luva de segurança confeccionada em borracha nitrílica G:antiderrapante na palma, interior flocado. Proteção das mãos do usuário contra agentes abrasivos, escoriantes, cortantes e perfurantes e contra agentes químicos tais como Classe A - Tipo 2: Agressivos básicos; Classe B - Detergentes, Sabões, Amoníacos e similares e Classe C - Tipo 1: Hidrocarbonetos Alifáticos, Tipo 2: Hidrocarbonetos aromáticos, Tipo 3: Álcoois, Tipo 4: Éteres. Comprimento de aproximadamente 33 cm e espessura de cerca de 0,40mm, tamanho G. (CA: 26.098). EXCLUSIVO PARA ME/EPP.",
+              "unidade": "PAR",
+              "quantidade": "100,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "4",
+              "especificacao": "8406500012 Luva de segurança confeccionada em borracha nitrílica GG:antiderrapante na palma, interior flocado. Proteção das mãos do usuário contra agentes abrasivos, escoriantes, cortantes e perfurantes e contra agentes químicos tais como Classe A - Tipo 2: Agressivos básicos; Classe B - Detergentes, Sabões, Amoníacos e similares e Classe C - Tipo 1: Hidrocarbonetos Alifáticos, Tipo 2: Hidrocarbonetos aromáticos, Tipo 3: Álcoois, Tipo 4: Éteres. Comprimento de aproximadamente 33 cm e espessura de cerca de 0,40mm.Diversos tamanhos GG. (CA: 26.098). EXCLUSIVO PARA ME/EPP.",
+              "unidade": "PAR",
+              "quantidade": "60,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "5",
+              "especificacao": "8406500013 Luva de segurança confeccionada em borracha nitrílica XG:antiderrapante na palma, interior flocado. Proteção das mãos do usuário contra agentes abrasivos, escoriantes, cortantes e perfurantes e contra agentes químicos tais como Classe A - Tipo 2: Agressivos básicos; Classe B - Detergentes, Sabões, Amoníacos e similares e Classe C - Tipo 1: Hidrocarbonetos Alifáticos, Tipo 2: Hidrocarbonetos aromáticos, Tipo 3: Álcoois, Tipo 4: Éteres. Comprimento de aproximadamente 33 cm e espessura de cerca de 0,40mm.Diversos tamanhos XG. (CA: 26.098). EXCLUSIVO PARA ME/EPP.",
+              "unidade": "PAR",
+              "quantidade": "50,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "6",
+              "especificacao": "8406500014 LUVA DESCARTÁVEL TPE SOFTTRANSPARENTE:tamanho: Pequena (P), Material: Elastômero Termoplástico (TPE) Cor: Transparente, caixa com 100 unidades. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "CX",
+              "quantidade": "3,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "7",
+              "especificacao": "8406500015 LUVA DESCARTÁVEL TPE SOFTTRANSPARENTE 8 CM:tamanho: Média (M), Material: Elastômero Termoplástico (TPE) Cor: Transparente, caixa com 100 unidades. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "CX",
+              "quantidade": "6,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "8",
+              "especificacao": "8406500016 LUVA DESCARTÁVEL TPE SOFTTRANSPARENTE 9 CM:tamanho: Grande (G), Material: Elastômero Termoplástico (TPE) Cor: Transparente, caixa com 100 unidades. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "CX",
+              "quantidade": "4,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "9",
+              "especificacao": "8406500017 Luva Térmica Felpuda para Forno Panificação, cano longo para uso Profissional:luva térmica felpuda para forno de panificação, tipo mão de gato, reforçada, cano longo, mínimo 40cm, que suporte altas temperaturas até 500ºC, material Algodão/Poliéster, nas cores azul ou cru. Par. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "PAR",
+              "quantidade": "50,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "10",
+              "especificacao": "9900515331 Protetor auditivo:do tipo concha, constituído por duas conchas em plástico, apresentando almofadas de espuma em suas laterais e em seu interior, possuindo uma haste emplástico rígido, ou outro material, que mantém as conchas firmemente seladas contra a região das orelhas do usuário e que sustenta as conchas. Deverá possuir NRRsf mínimo de 21 dB. (CA: 14.235, 15.247). EXCLUSIVO PARA ME/EPP.",
+              "unidade": "Und.",
+              "quantidade": "10,00",
+              "valor_referencia": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-046-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "210/2026",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "ADJUDICADO",
+      "condutor": "SERGIO CARNEIRO CAVALCANTI DE AZEVEDO",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "REGISTRO DE PREÇO",
+      "publicacao": "17/03/2026 16:37",
+      "inicio_recepcao": "19/03/2026 00:00",
+      "fim_recepcao": "31/03/2026 13:45",
+      "inicio_disputa": "31/03/2026 14:00",
+      "objeto": "Contratação de empresa especializada em fornecimento de KIT LANCHE PRONTO (material de consumo),  a fim de atender as demandas da Secretaria Municipal de Administração e demais Secretarias.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DH4HBQaLxuiesadaIdYs1itg4LOwcxN30HBAGonDBsV5sNwnSlHY%2Fz_Wh643oBfbrYw34BAWju0JslHfEf6dkgXI4ZkOm326O3Dg_hnZB%2F%2Fk%3D",
+      "total_lotes": 1,
+      "total_itens": 8,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "LOTE 1",
+          "fase": "ADJUDICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "517.920,00",
+          "vencedor": "COUTO RESTAURANTE LTDA",
+          "melhor_oferta": "514.600,00",
+          "total_itens": 8,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "100800011 KIT LANCHE TIPO A:COMPOSTO POR: 01 COPO DE CAFÉ COM LEITE (200ML);01 COPO DE MINGAU DE TAPIOCA (200ML);01 PORÇÃO DE CUSCUZ NORDESTINO 250G (CALABRESA E CARNE DE SOL);01 SANDUÍCHE DE QUEIJO (PÃO DE FORMA E QUEIJO LANCHE);02 GUARDANAPOS DE PAPEL",
+              "unidade": "Und.",
+              "quantidade": "4.000,00",
+              "valor_referencia": "14,90"
+            },
+            {
+              "numero": "2",
+              "especificacao": "37032 KIT LANCHE TIPO B:COMPOSTO POR: 01 COPO DE CAFÉ COM LEITE (200ML); 01 COPO DE SUCO DE FRUTAS (200ML);01 FATIA DE BOLO DE MILHO (100G);01 PATISSARIA 120G (ESFIRRA);02 GUARDANAPOS DE PAPEL",
+              "unidade": "Und.",
+              "quantidade": "4.000,00",
+              "valor_referencia": "15,42"
+            },
+            {
+              "numero": "3",
+              "especificacao": "100800012 KIT LANCHE TIPO C:COMPOSTO POR: 01 COPO DE CAFÉ COM LEITE (200ML);01 COPO DE MINGAU DE MILHO (200ML);01 PORÇÃO DE BANANA DA TERRA COZIDA COM CARNE DO SOL E CALABRESA (250G);01 FATIA DE BOLO DE TAPIOCA (100G);02 GUARDANAPOS DE PAPEL",
+              "unidade": "Und.",
+              "quantidade": "4.000,00",
+              "valor_referencia": "18,52"
+            },
+            {
+              "numero": "4",
+              "especificacao": "100800013 KIT LANCHE TIPO D:COMPOSTO POR: 01 COPO DE CAFÉ COM LEITE (200ML);01 COPO DE SUCO DE FRUTAS (200ML);01 PORÇÃO DE CUSCUZ NORDESTINO 250G (CALABRESA E CARNE DO SOL);PATISSARIA (BAURU);02 GUARDANAPOS DE PAPEL",
+              "unidade": "Und.",
+              "quantidade": "4.000,00",
+              "valor_referencia": "18,52"
+            },
+            {
+              "numero": "5",
+              "especificacao": "100800014 KIT LANCHE TIPO E:COMPOSTO POR: 01 COPO DE SUCO DE FRUTAS (200ML);01 MAÇÃ;01 BANANA;01 SANDUÍCHE DE QUEIJO (PÃO DE FORMA E QUEIJO);02 GUARDANAPOS DE PAPEL",
+              "unidade": "Und.",
+              "quantidade": "4.000,00",
+              "valor_referencia": "13,83"
+            },
+            {
+              "numero": "6",
+              "especificacao": "100800015 KIT LANCHE TIPO F:COMPOSTO POR:01 COPO DE ACHOCOLATADO (200ML);01 COPO DE SUCO DE FRUTAS (200ML);1 FATIA DE BOLO DE CHOCOLATE;01 MAÇÃ;02 GUARDANAPOS DE PAPEL",
+              "unidade": "Und.",
+              "quantidade": "4.000,00",
+              "valor_referencia": "13,13"
+            },
+            {
+              "numero": "7",
+              "especificacao": "100800016 LANCHE COMPLETO c/ SUCO NATURAL300ml:sanduíche: pão fatiado, com maionese, 1 (uma) fatia de queijo muçarela, 1 (uma) fatia de apresuntado, embalado em plástico filme; suco natural 300ml (trezentos mililitros); 1 guardanapo de papel embalado individualmente.",
+              "unidade": "Und.",
+              "quantidade": "4.000,00",
+              "valor_referencia": "11,46"
+            },
+            {
+              "numero": "8",
+              "especificacao": "100800017 MARMITEX COM REFRIGERANTE EM LATA:Arroz,farofa de feijão, macarrão, carne (podendo ser: carne cozida ou frango) e salada; no mínimo 500g; garfo descartável resistente e guardanapo de papel embalados individualmente; Refrigerante lata 350ml.",
+              "unidade": "Und.",
+              "quantidade": "4.000,00",
+              "valor_referencia": "23,70"
             }
           ]
         }
