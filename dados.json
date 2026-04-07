@@ -3,8 +3,8 @@
     "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
     "total_processos": 752,
     "total_lotes": 8619,
-    "total_itens": 14376,
-    "atualizado_em": "20260407_081007"
+    "total_itens": 14393,
+    "atualizado_em": "20260407_124736"
   },
   "processos": [
     {
@@ -232637,273 +232637,6 @@
       ]
     },
     {
-      "id": "PE-038-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "1232/2025",
-      "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "HABILITAÇÃO",
-      "condutor": "SERGIO CARNEIRO CAVALCANTI DE AZEVEDO",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "REGISTRO DE PREÇO",
-      "publicacao": "16/03/2026 16:30",
-      "inicio_recepcao": "18/03/2026 08:30",
-      "fim_recepcao": "30/03/2026 09:45",
-      "inicio_disputa": "30/03/2026 10:00",
-      "objeto": "Contratação de empresa especializada no fornecimento de UTENSÍLIOS DE COZINHA, UNIFORMES, EPC’S E EPI’S NECESSÁRIOS PARA O PROJETO PADARIA COMUNITÁRIA (material de consumo),  a fim de atender as demandas da Secretaria Municipal de Promoção Social e Cultura.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5Dxgy0OjhM8axH1%2FVPHmWbkTXGHXTZJgx28fYRMMwinviVTP1FA5LFuVqKkAo11bI_dxlz6wiwnm%2Fzu00c9jsxJvJlyh3u9yGii0uUk6d119o%3D",
-      "total_lotes": 3,
-      "total_itens": 28,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "LOTE 1",
-          "fase": "HABILITAÇÃO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "18.340,10",
-          "vencedor": "58.291.882 ROZANGELA DA SILVA GUEDES",
-          "melhor_oferta": "18.340,10",
-          "total_itens": 15,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "8401500001 Avental comum impermeável:proteção contra respingos de líquidos, ingredientes e substâncias químicas, material de Nylon emborrachado. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "Und.",
-              "quantidade": "100,00",
-              "valor_referencia": "51,89"
-            },
-            {
-              "numero": "2",
-              "especificacao": "8401500002 Calça Brim Branca Uniforme Profissional GG:confeccionada em tecido brim pesado, 100% algodão. Possui elástico na cintura e cadarço para um melhor ajuste no corpo. Possui 3 bolsos, sendo 2 laterais e 1 traseiro. Cor branca, tamanho GG 50/52 - cintura 120 cm - comprimento 110 cm.EXCLUSIVO PARA ME/EPP.",
-              "unidade": "Und.",
-              "quantidade": "25,00",
-              "valor_referencia": "70,72"
-            },
-            {
-              "numero": "3",
-              "especificacao": "8401500003 Calça Brim Branca Uniforme Profissional P:confeccionada em tecido brim pesado, 100% algodão. Possui elástico na cintura e cadarço para um melhor ajuste no corpo. Possui 3 bolsos, sendo 2 laterais e 1 traseiro. Cor branca, tamanho P 38/40 - cintura 100 cm - comprimento 106 cm",
-              "unidade": "Und.",
-              "quantidade": "25,00",
-              "valor_referencia": "70,72"
-            },
-            {
-              "numero": "4",
-              "especificacao": "8401500004 Calça Brim Branca Uniforme Profissional M:confeccionada em tecido brim pesado,100% algodão. Possui elástico na cintura e cadarço para um melhor ajuste no corpo. Possui 3 bolsos, sendo 2 laterais e 1 traseiro. Cor branca Do tamanho M 42/44 - cintura 106 cm - comprimento 107 cm.EXCLUSIVO PARA ME/EPP.",
-              "unidade": "Und.",
-              "quantidade": "25,00",
-              "valor_referencia": "70,72"
-            },
-            {
-              "numero": "5",
-              "especificacao": "8401500005 Calça Brim Branca Uniforme Profissional G:confeccionada em tecido brim pesado,100% algodão. Possui elástico na cintura e cadarço para um melhor ajuste no corpo. Possui 3 bolsos, sendo 2 laterais e 1 traseiro. Cor branca, tamanho G 46/48 - cintura 112 cm - comprimento 108 cm.EXCLUSIVO PARA ME/EPP.",
-              "unidade": "Und.",
-              "quantidade": "25,00",
-              "valor_referencia": "70,72"
-            },
-            {
-              "numero": "6",
-              "especificacao": "8401500006 Calçado Branco Padaria ou cozinha:fabricado em EVA, unissex, no estilo galochas, cono curto, sem salto, material de cabedal sintético, material da sola de borracha, forma de bico arredondada, a prova d?água, sem zíper e sem cordões, com sola antiderrapante. Número 38, cor banca. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "PAR",
-              "quantidade": "6,00",
-              "valor_referencia": "73,64"
-            },
-            {
-              "numero": "7",
-              "especificacao": "36222 Calçado Branco Padaria ou cozinha:fabricado em EVA, unissex, no estilo galochas, cano curto, sem salto, material de cabedal sintético, material da sola de borracha, forma de bico arredondada, a prova d?água, sem zíper e sem cordões, com sola antiderrapante. Número 39, cor banca. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "PAR",
-              "quantidade": "10,00",
-              "valor_referencia": "73,64"
-            },
-            {
-              "numero": "8",
-              "especificacao": "8401500007 Calçado Branco Padaria ou cozinha:fabricado em EVA, unissex, no estilo galochas, cano curto, sem salto, material de cabedal sintético, material da sola de borracha, forma de bico arredondada, a prova d?água, sem zíper e sem cordões, com sola antiderrapante. Número 40, cor banca. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "PAR",
-              "quantidade": "10,00",
-              "valor_referencia": "72,20"
-            },
-            {
-              "numero": "9",
-              "especificacao": "8401500008 Calçado Branco Padaria ou cozinha:fabricado em EVA, unissex, no estilo galochas, cano curto, sem salto, material de cabedal sintético, material da sola de borracha, forma de bico arredondada, a prova d?água, sem zíper e sem cordões, com sola antiderrapante. Número 41, cor banca. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "PAR",
-              "quantidade": "8,00",
-              "valor_referencia": "72,20"
-            },
-            {
-              "numero": "10",
-              "especificacao": "8401500009 Calçado Branco Padaria ou cozinha:fabricado em EVA, unissex, no estilo galochas, cano curto, sem salto, material de cabedal sintético, material da sola de borracha, forma de bico arredondada, a prova d?água, sem zíper e sem cordões, com sola antiderrapante. Número 36, cor banca. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "PAR",
-              "quantidade": "5,00",
-              "valor_referencia": "73,64"
-            },
-            {
-              "numero": "11",
-              "especificacao": "8401500010 Jaleco para padeiro G:modelo unissex, tecido Oxford cor branca, com gola, sem alça traseira, manga curta, fechamento frontal em botões, com 3 bolsos frontais (1 superior esquerdo e 2 inferiores) aplicados com costura dupla e reforço no início e final das costuras, sendo que no bolsa superior esquerdo (lado de quem veste), com a logo da Prefeitura Municipal de Teixeira de Freitas e Programa Bolsa Família em serigrafia. Tamanho G. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "Und.",
-              "quantidade": "8,00",
-              "valor_referencia": "73,80"
-            },
-            {
-              "numero": "12",
-              "especificacao": "8401500011 Jaleco para padeiro P:modelo unissex, tecido Oxford cor branca, com gola, sem alça traseira, manga curta, fechamento frontal em botões, com 3 bolsos frontais (1 superior esquerdo e 2 inferiores) aplicados com costura dupla e reforço no início e final das costuras, sendo que no bolsa superior esquerdo (lado de quem veste), com a logo da Prefeitura Municipal de Teixeira de Freitas e Programa Bolsa Família em serigrafia. Tamanho P. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "Und.",
-              "quantidade": "15,00",
-              "valor_referencia": "73,80"
-            },
-            {
-              "numero": "13",
-              "especificacao": "8401500012 Jaleco para padeiro M:modelo unissex, tecido Oxford cor branca, com gola, sem alça traseira, manga curta, fechamento frontal em botões, com 3 bolsos frontais (1 superior esquerdo e 2 inferiores) aplicados com costura dupla e reforço no início e final das costuras, sendo que no bolsa superior esquerdo (lado de quem veste), com a logo da Prefeitura Municipal de Teixeira de Freitas e Programa Bolsa Família em serigrafia. Tamanho M. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "Und.",
-              "quantidade": "8,00",
-              "valor_referencia": "73,77"
-            },
-            {
-              "numero": "14",
-              "especificacao": "36225 Touca descartável:sanfonada elástica em TNT, caixa com 100 unidades Dimensões (AxLxP) 17,26,11cm. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "CX",
-              "quantidade": "10,00",
-              "valor_referencia": "11,24"
-            },
-            {
-              "numero": "15",
-              "especificacao": "36226 Touca Tule Oxford:circunferência: 64 cm - (regulável); comprimento tiras: 30 cm; altura: 15 cm; material: oxford (100% poliester); unissex, cor branca. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "Und.",
-              "quantidade": "30,00",
-              "valor_referencia": "27,77"
-            }
-          ]
-        },
-        {
-          "numero": "2",
-          "titulo": "LOTE 2",
-          "fase": "HABILITAÇÃO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "1.551,98",
-          "vencedor": "58.291.882 ROZANGELA DA SILVA GUEDES",
-          "melhor_oferta": "1.551,84",
-          "total_itens": 3,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "7303000002 Faca de cozinha de 8 polegadas:32,6cmx4cmx1,5cm, em aço inoxidável. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "Und.",
-              "quantidade": "10,00",
-              "valor_referencia": "20,98"
-            },
-            {
-              "numero": "2",
-              "especificacao": "7303000003 Faca para Carne 14 polegadas:com lâmina em aço inox e cabo em polipropileno branco. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "Und.",
-              "quantidade": "10,00",
-              "valor_referencia": "112,69"
-            },
-            {
-              "numero": "3",
-              "especificacao": "7302000007 KIT HIGIENIZAÇÃO (dispenser/porta papel e toalha):kit com dispenser para papel toalha interfolha e uma saboneteira de 800 ml com reservatório. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "KIT",
-              "quantidade": "4,00",
-              "valor_referencia": "53,82"
-            }
-          ]
-        },
-        {
-          "numero": "3",
-          "titulo": "LOTE 3",
-          "fase": "HABILITAÇÃO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "10.224,67",
-          "vencedor": "58.291.882 ROZANGELA DA SILVA GUEDES",
-          "melhor_oferta": "10.224,43",
-          "total_itens": 10,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "8406500010 Luva de segurança confeccionada em borracha nitrílica P:antiderrapante na palma, interior flocado. Proteção das mãos do usuário contra agentes abrasivos, escoriantes, cortantes e perfurantes e contra agentes químicos tais como Classe A - Tipo 2: Agressivos básicos; Classe B - Detergentes, Sabões, Amoníacos e similares e Classe C - Tipo 1: Hidrocarbonetos Alifáticos, Tipo 2: Hidrocarbonetos aromáticos, Tipo 3: Álcoois, Tipo 4: Éteres. Comprimento de aproximadamente 33 cm e espessura de cerca de 0,40mm, tamanhos P. (CA: 26.098). EXCLUSIVO PARA ME/EPP.",
-              "unidade": "PAR",
-              "quantidade": "60,00",
-              "valor_referencia": "9,11"
-            },
-            {
-              "numero": "2",
-              "especificacao": "36223 Luva de segurança confeccionada em borracha nitrílica M:antiderrapante na palma, interior flocado. Proteção das mãos do usuário contra agentes abrasivos, escoriantes, cortantes e perfurantes e contra agentes químicos tais como Classe A - Tipo 2: Agressivos básicos; Classe B - Detergentes, Sabões, Amoníacos e similares e Classe C - Tipo 1: Hidrocarbonetos Alifáticos, Tipo 2: Hidrocarbonetos aromáticos, Tipo 3: Álcoois, Tipo 4: Éteres. Comprimento de aproximadamente 33 cm e espessura de cerca de 0,40mm, tamanho M. (CA: 26.098).EXCLUSIVO PARA ME/EPP.",
-              "unidade": "PAR",
-              "quantidade": "100,00",
-              "valor_referencia": "9,71"
-            },
-            {
-              "numero": "3",
-              "especificacao": "8406500011 Luva de segurança confeccionada em borracha nitrílica G:antiderrapante na palma, interior flocado. Proteção das mãos do usuário contra agentes abrasivos, escoriantes, cortantes e perfurantes e contra agentes químicos tais como Classe A - Tipo 2: Agressivos básicos; Classe B - Detergentes, Sabões, Amoníacos e similares e Classe C - Tipo 1: Hidrocarbonetos Alifáticos, Tipo 2: Hidrocarbonetos aromáticos, Tipo 3: Álcoois, Tipo 4: Éteres. Comprimento de aproximadamente 33 cm e espessura de cerca de 0,40mm, tamanho G. (CA: 26.098). EXCLUSIVO PARA ME/EPP.",
-              "unidade": "PAR",
-              "quantidade": "100,00",
-              "valor_referencia": "9,71"
-            },
-            {
-              "numero": "4",
-              "especificacao": "8406500012 Luva de segurança confeccionada em borracha nitrílica GG:antiderrapante na palma, interior flocado. Proteção das mãos do usuário contra agentes abrasivos, escoriantes, cortantes e perfurantes e contra agentes químicos tais como Classe A - Tipo 2: Agressivos básicos; Classe B - Detergentes, Sabões, Amoníacos e similares e Classe C - Tipo 1: Hidrocarbonetos Alifáticos, Tipo 2: Hidrocarbonetos aromáticos, Tipo 3: Álcoois, Tipo 4: Éteres. Comprimento de aproximadamente 33 cm e espessura de cerca de 0,40mm.Diversos tamanhos GG. (CA: 26.098). EXCLUSIVO PARA ME/EPP.",
-              "unidade": "PAR",
-              "quantidade": "60,00",
-              "valor_referencia": "9,82"
-            },
-            {
-              "numero": "5",
-              "especificacao": "8406500013 Luva de segurança confeccionada em borracha nitrílica XG:antiderrapante na palma, interior flocado. Proteção das mãos do usuário contra agentes abrasivos, escoriantes, cortantes e perfurantes e contra agentes químicos tais como Classe A - Tipo 2: Agressivos básicos; Classe B - Detergentes, Sabões, Amoníacos e similares e Classe C - Tipo 1: Hidrocarbonetos Alifáticos, Tipo 2: Hidrocarbonetos aromáticos, Tipo 3: Álcoois, Tipo 4: Éteres. Comprimento de aproximadamente 33 cm e espessura de cerca de 0,40mm.Diversos tamanhos XG. (CA: 26.098). EXCLUSIVO PARA ME/EPP.",
-              "unidade": "PAR",
-              "quantidade": "50,00",
-              "valor_referencia": "9,91"
-            },
-            {
-              "numero": "6",
-              "especificacao": "8406500014 LUVA DESCARTÁVEL TPE SOFTTRANSPARENTE:tamanho: Pequena (P), Material: Elastômero Termoplástico (TPE) Cor: Transparente, caixa com 100 unidades. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "CX",
-              "quantidade": "3,00",
-              "valor_referencia": "14,79"
-            },
-            {
-              "numero": "7",
-              "especificacao": "8406500015 LUVA DESCARTÁVEL TPE SOFTTRANSPARENTE 8 CM:tamanho: Média (M), Material: Elastômero Termoplástico (TPE) Cor: Transparente, caixa com 100 unidades. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "CX",
-              "quantidade": "6,00",
-              "valor_referencia": "15,20"
-            },
-            {
-              "numero": "8",
-              "especificacao": "8406500016 LUVA DESCARTÁVEL TPE SOFTTRANSPARENTE 9 CM:tamanho: Grande (G), Material: Elastômero Termoplástico (TPE) Cor: Transparente, caixa com 100 unidades. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "CX",
-              "quantidade": "4,00",
-              "valor_referencia": "15,30"
-            },
-            {
-              "numero": "9",
-              "especificacao": "8406500017 Luva Térmica Felpuda para Forno Panificação, cano longo para uso Profissional:luva térmica felpuda para forno de panificação, tipo mão de gato, reforçada, cano longo, mínimo 40cm, que suporte altas temperaturas até 500ºC, material Algodão/Poliéster, nas cores azul ou cru. Par. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "PAR",
-              "quantidade": "50,00",
-              "valor_referencia": "126,14"
-            },
-            {
-              "numero": "10",
-              "especificacao": "9900515331 Protetor auditivo:do tipo concha, constituído por duas conchas em plástico, apresentando almofadas de espuma em suas laterais e em seu interior, possuindo uma haste emplástico rígido, ou outro material, que mantém as conchas firmemente seladas contra a região das orelhas do usuário e que sustenta as conchas. Deverá possuir NRRsf mínimo de 21 dB. (CA: 14.235, 15.247). EXCLUSIVO PARA ME/EPP.",
-              "unidade": "Und.",
-              "quantidade": "10,00",
-              "valor_referencia": "14,76"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "CE-021-2025",
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "1460/2025",
@@ -260462,50 +260195,6 @@
       ]
     },
     {
-      "id": "PE-048-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "229/2026",
-      "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "HABILITAÇÃO",
-      "condutor": "JONATAS DA SILVA SOUSA",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO PARCELADA",
-      "publicacao": "19/03/2026 17:45",
-      "inicio_recepcao": "23/03/2026 08:30",
-      "fim_recepcao": "06/04/2026 08:15",
-      "inicio_disputa": "06/04/2026 08:30",
-      "objeto": "Contratação de empresa especializada em prestação de serviços de IMPRESSÃO GRÁFICA DE AVALIAÇÕES, a fim de atender as demandas da Secretaria Municipal de Educação.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5Dcfi4cSZ1kxxbk1gGskLQFvcaGVWVhXHKPGd49Jvh42TGs_hGukjT8VC9o7Y059hBdVD5DI3Ik%2FLnPVo3WNft52nccZNYzBV9R3SZDTM3WjU%3D",
-      "total_lotes": 1,
-      "total_itens": 1,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "IMPRESSÃO GRÁFICA",
-          "fase": "HABILITAÇÃO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "195.000,00",
-          "vencedor": "GERALDO BRAGA MIRANDA LTDA",
-          "melhor_oferta": "91.000,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "103200003 Serviço de impressão de folhas destinadas àaplicação das avaliações do Compromisso Nacional CriançaAlfabetizada (CNCA) na rede municipal deensino:compreendendo a impressão por folha, em papeltamanho A4 (210mm x 297mm), em papel offset branco alcalinode alta qualidade, gramatura de 75g/m², alta alvura e opacidadeadequada para evitar transparência de impressão entre frente everso, impressão offset ou digital em alta resolução (mínimo2400 dpi), tiragem em 1/1 cor, conforme artes finais fornecidaspela Secretaria Municipal de Educação, com registro fiel detextos, figuras, quadros e campos de resposta conforme matrizavaliativa oficial do CNCA. Inclui ainda serviços correlatos decorte em guilhotina com tolerância máxima de ± 1mm,acondicionamento das folhas em maços padronizados (porexemplo, 250, 500 ou 1.000 folhas) embalados em papel kraft oufilme plástico resistente, com etiqueta de identificação contendo,identificação do ciclo/etapa da avaliação, série/ano, disciplina,número do lote e quantidade de folhas, bem como a logística deentrega fracionada nas unidades escolares e/ou no depósitocentral da Secretaria, conforme cronograma oficial do CNCA,respeitando a urgência do calendário nacional e a necessidadede pronta disponibilidade do material nas escolas.",
-              "unidade": "UN",
-              "quantidade": "1.300.000,00",
-              "valor_referencia": "0,15"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "3-DLE-024-2026",
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "200/2026",
@@ -260544,50 +260233,6 @@
               "unidade": "M2",
               "quantidade": "125.000,00",
               "valor_referencia": "0,52"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "PE-024-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "1566/2025",
-      "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "HABILITAÇÃO",
-      "condutor": "SERGIO CARNEIRO CAVALCANTI DE AZEVEDO",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "REGISTRO DE PREÇO",
-      "publicacao": "02/03/2026 20:29",
-      "inicio_recepcao": "24/03/2026 18:00",
-      "fim_recepcao": "06/04/2026 08:15",
-      "inicio_disputa": "06/04/2026 08:30",
-      "objeto": "Contratação de empresa especializada na prestação de serviço de CAPINA, ROÇAGEM E LIMPEZA DE ÁREAS PÚBLICAS,  a fim de atender as demandas da Secretaria Municipal de Administração e demais Secretarias.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DtCfOJswSoh57IIaOR_sNPDHZmUdGwx8fxZ8ETvDib%2FNUakQVwWGR6U5U12aajkhxn5OmwM1UDnl1OrD2il3qbs7VEmiYT6K7Sa6vaNyF%2F7w%3D",
-      "total_lotes": 1,
-      "total_itens": 1,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "9903311729 Serviço de Capina, Roçagem e Limpeza de Áreas Públicas do Município de Teixeira de Freitas- bahia",
-          "fase": "HABILITAÇÃO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "Conforme Edital",
-          "garantia": "Conforme Edital",
-          "valor_referencia": "116.600,00",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9903311729 Serviço de Capina, Roçagem e Limpeza de ÁreasPúblicas do Município de Teixeira de Freitas- bahia:Prestação deserviços contínuos de capina manual e mecanizada, roçagem elimpeza em áreas públicas, praças, canteiros, jardins, unidadesescolares, creches municipais, totalizando aproximadamente220.000 m². Inclui a remoção de plantas daninhas, vegetaçãoinvasora, gramíneas altas e detritos vegetais, bem como oacondicionamento e destinação adequada dos resíduos gerados,de acordo com as normas ambientais vigentes. O serviço deverácontemplar o fornecimento de toda mão de obra especializada,equipamentos (roçadeiras costais, aparadores de grama,enxadas, rastelos, entre outros) e EPIs (luvas, óculos deproteção, protetores auriculares, botas, etc.), garantindo aexecução com segurança, eficiência e qualidade. A execuçãoserá programada e periódica, conforme cronograma definido pelaSecretaria Municipal demandante, de forma a manter as áreaspermanentemente limpas, seguras e visualmente adequadas aouso",
-              "unidade": "m2",
-              "quantidade": "220.000,00",
-              "valor_referencia": "0,53"
             }
           ]
         }
@@ -260700,326 +260345,6 @@
               "unidade": "UND",
               "quantidade": "210,00",
               "valor_referencia": "210,08"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "4-DLE-003-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "1431/2025",
-      "modalidade": "DISPENSA ELETRÔNICA",
-      "situacao": "ADJUDICADO",
-      "condutor": "ISAQUE SILVA DOS SANTOS",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO PARCELADA",
-      "publicacao": "16/01/2026 19:13",
-      "inicio_recepcao": "16/01/2026 19:30",
-      "fim_recepcao": "22/01/2026 08:15",
-      "inicio_disputa": "22/01/2026 08:30",
-      "objeto": "Contratação de empresas especializada em fornecimento de EQUIPAMENTOS, FERRAMENTAS, INSUMOS\nDIVERSOS E EPIS (materiais de consumo e permanentes), Secretaria Municipal de Educação",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DFAKxDJHAHowT4s1bagw_ptRyLwvZuVLv96wHbRRgtwLmtWjztUGYEWLtgm6XujgY8Gfi%2F%2FGESCNQMs1W0tOUbJGWH8auLJDSBED5MtG2FNU%3D",
-      "total_lotes": 2,
-      "total_itens": 38,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "LOTE 1",
-          "fase": "ADJUDICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "7.969,99",
-          "vencedor": "CLEBER SANTANA SANTOS",
-          "melhor_oferta": "7.800,00",
-          "total_itens": 21,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900514997 Alicate universal com comprimento total de 200 mm:Confeccionado em aço de alto carbono temperado, dureza HRC 46–56, punho emborrachado em borracha termoplástica ergonômica, capacidade de corte de fios de até 2 mm em aço, resistente, anticorrosivo e indicado para uso geral em manutenção e oficina.",
-              "unidade": "UND",
-              "quantidade": "2,00",
-              "valor_referencia": "36,87"
-            },
-            {
-              "numero": "2",
-              "especificacao": "9900514998 Alicate de pressão com comprimento total de 224 mm:Abertura máxima da boca de 28 mm, mordente tipo Grip, confeccionado em aço cromo-vanádio de alta resistência, acabamento niquelado e cromado anticorrosivo, com trava de pressão regulável e cabo ergonômico.",
-              "unidade": "UND",
-              "quantidade": "2,00",
-              "valor_referencia": "55,97"
-            },
-            {
-              "numero": "3",
-              "especificacao": "9900514999 Alicate de corte diagonal com comprimento aproximado de 180 mm:Corpo em aço cromo-vanádio temperado, mordentes de alta precisão com acabamento niquelado e anticorrosivo, cabo ergonômico com revestimento emborrachado antiderrapante.",
-              "unidade": "UND",
-              "quantidade": "2,00",
-              "valor_referencia": "41,27"
-            },
-            {
-              "numero": "4",
-              "especificacao": "9900515000 Alicate de bico meia-cana, tamanho 6:Corpo em aço carbono temperado, arestas de corte afiadas, cabo emborrachado ergonômico, indicado para trabalhos de precisão.",
-              "unidade": "UND",
-              "quantidade": "2,00",
-              "valor_referencia": "46,75"
-            },
-            {
-              "numero": "5",
-              "especificacao": "9900515001 Arco de serra com serra, comprimento total de 400 mm:Arco tubular em aço pintado, lâmina de aço temperado de 300 mm com 24 dentes por polegada, cabo em polipropileno anatômico.",
-              "unidade": "UND",
-              "quantidade": "1,00",
-              "valor_referencia": "37,40"
-            },
-            {
-              "numero": "6",
-              "especificacao": "5707611099 Carrinho de ferramentas em aço:Capacidade de carga de 200 kg, dimensões de 600x400x890 mm, com 5 gavetas, rodízios de 4”, puxador ergonômico e fechadura com chave.",
-              "unidade": "UND",
-              "quantidade": "4,00",
-              "valor_referencia": "1.374,70"
-            },
-            {
-              "numero": "7",
-              "especificacao": "9900515049 Caixa plástica tipo baú, capacidade de 20 litros:Confeccionada em polipropileno resistente, com alça integrada e tampa com trava de segurança, dimensões aproximadas de 400x300x250 mm.",
-              "unidade": "UND",
-              "quantidade": "6,00",
-              "valor_referencia": "47,39"
-            },
-            {
-              "numero": "8",
-              "especificacao": "9900515005 Esquadro combinado de 300 mm:Confeccionado em alumínio anodizado com escala gravada a laser em baixo relevo, possui nível em acrílico, riscador e graduação em centímetros e polegadas, proporcionando medições em ângulos de 45º e 90º.",
-              "unidade": "UND",
-              "quantidade": "2,00",
-              "valor_referencia": "123,00"
-            },
-            {
-              "numero": "9",
-              "especificacao": "9900515006 Escova manual de aço, corpo e cabo em madeira, base reforçada:Com 4 fileiras de cerdas em aço carbono polido, indicada para remoção de ferrugem, tintas e limpeza de superfícies metálicas.",
-              "unidade": "UND",
-              "quantidade": "2,00",
-              "valor_referencia": "7,31"
-            },
-            {
-              "numero": "10",
-              "especificacao": "9900515009 Engate rápido macho e fêmea para mangueira de 1/4:Fabricado em latão cromado, resistência até 55 psi, dimensões de 35,56 mm de diâmetro e 50 mm de comprimento, peso aproximado de 200 g.",
-              "unidade": "CJ",
-              "quantidade": "4,00",
-              "valor_referencia": "36,54"
-            },
-            {
-              "numero": "11",
-              "especificacao": "9900515013 Grampo tipo sargento de aperto rápido:Tamanho de 18 polegadas (50x300 mm), confeccionado em aço especial com acabamento cromado, cabo emborrachado ergonômico, resistente e de fácil manuseio.",
-              "unidade": "UND",
-              "quantidade": "6,00",
-              "valor_referencia": "51,58"
-            },
-            {
-              "numero": "12",
-              "especificacao": "9900515015 Jogo de chaves Allen com 30 peças em aço cromo-vanádio:Contendo 15 peças em milímetros (0,7 a 10 mm) e 15 peças em polegadas (0,028” a 3/8”), acondicionadas em estojo plástico",
-              "unidade": "JOG",
-              "quantidade": "1,00",
-              "valor_referencia": "112,60"
-            },
-            {
-              "numero": "13",
-              "especificacao": "9900515016 Kit com 3 alicates de pressão mordente tipo U C ,:Fabricados em aço especial de alta resistência, corpo dobrado com rebites reforçados, mordentes temperados e acabamento niquelado ou cromado. O kit contém: 1 alicate de 10”, 1 alicate de 8” e 1 alicate de 6”, ideal para fixação de chapas, tubos, perfis e cantos sem danificar a superfície.",
-              "unidade": "UND",
-              "quantidade": "2,00",
-              "valor_referencia": "108,45"
-            },
-            {
-              "numero": "14",
-              "especificacao": "9900515017 Luvas de segurança para solda:Confeccionadas em couro, modelo de cano longo com reforço na palma, costura reforçada entre os dedos, totalmente forradas até o punho para maior conforto e proteção.",
-              "unidade": "PAR",
-              "quantidade": "2,00",
-              "valor_referencia": "31,15"
-            },
-            {
-              "numero": "15",
-              "especificacao": "9900515018 Martelo tipo unha de 27 mm:Martelo tipo unha de 27 mm, cabeça forjada em aço com acabamento polido, cabo em fibra de alta resistência com empunhadura emborrachada, anatômico e ergonômico.",
-              "unidade": "UND",
-              "quantidade": "2,00",
-              "valor_referencia": "29,55"
-            },
-            {
-              "numero": "16",
-              "especificacao": "9900515024 Nível de bolha em alumínio:Comprimento de 300 mm, com 3 bolhas de alta precisão (horizontal, vertical e 45º), corpo reforçado em alumínio denso, resistente a impactos e corrosão.",
-              "unidade": "UND",
-              "quantidade": "2,00",
-              "valor_referencia": "41,05"
-            },
-            {
-              "numero": "17",
-              "especificacao": "9900515025 Óculos de proteção de sobreposição:Confeccionados em policarbonato incolor de alta resistência, com tratamento antirrisco e antiembaçante, proteção UV, armação plástica flexível e anatômica, compatíveis com uso sobre óculos corretivos.",
-              "unidade": "UND",
-              "quantidade": "40,00",
-              "valor_referencia": "4,81"
-            },
-            {
-              "numero": "18",
-              "especificacao": "9900515027 Pincel trincha de 4 polegadas (101,6 mm):Cabo em madeira envernizada de 150 mm, cerdas mistas sintéticas e naturais, resistentes a solventes, indicado para pintura de superfícies amplas.",
-              "unidade": "UND",
-              "quantidade": "4,00",
-              "valor_referencia": "16,84"
-            },
-            {
-              "numero": "19",
-              "especificacao": "9900515028 Pincel trincha de 2 polegadas (50,8 mm):Cabo em madeira envernizada de 150 mm, cerdas mistas sintéticas e naturais, resistentes a solventes, indicado para pintura de precisão em áreas menores.",
-              "unidade": "UND",
-              "quantidade": "4,00",
-              "valor_referencia": "15,22"
-            },
-            {
-              "numero": "20",
-              "especificacao": "9900515029 Pistola de pintura pneumática:Corpo em alumínio forjado de alta resistência, bico de 1,4 mm, caneca em PVC de 600 ml, regulagem de leque, consumo entre 3,5 e 6 pcm, pressão de trabalho entre 30 e 80 psi, peças internas em aço inox.",
-              "unidade": "UND",
-              "quantidade": "1,00",
-              "valor_referencia": "189,35"
-            },
-            {
-              "numero": "21",
-              "especificacao": "36420 Trena métrica de 5 metros:Fita em fibra de vidro resistente, largura de 12,5 mm, corpo em plástico reforçado, resistente e ergonômico, sistema de trava e retrocesso automático.",
-              "unidade": "UND",
-              "quantidade": "2,00",
-              "valor_referencia": "14,24"
-            }
-          ]
-        },
-        {
-          "numero": "2",
-          "titulo": "LOTE 2",
-          "fase": "ADJUDICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "9.032,79",
-          "vencedor": "CLEBER SANTANA SANTOS",
-          "melhor_oferta": "8.800,00",
-          "total_itens": 17,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "36421 Compressor de ar monofásico:Potência de 2 CV, pressão máxima de 140 psi, reservatório de 150 litros, tensão 220V, fluxo de ar 10 l/min, dimensões aproximadas de 1.110 mm de altura por 510 mm de largura.",
-              "unidade": "UND",
-              "quantidade": "1,00",
-              "valor_referencia": "3.615,35"
-            },
-            {
-              "numero": "2",
-              "especificacao": "9900515004 Cilindro para argônio com capacidade de 7 litros:Fabricado em aço carbono, capacidade de 1 m³, pressão de serviço de 150 bar, altura aproximada de 70 cm, diâmetro de 15 cm, recarregável.",
-              "unidade": "UND",
-              "quantidade": "1,00",
-              "valor_referencia": "1.057,87"
-            },
-            {
-              "numero": "3",
-              "especificacao": "36422 Esmerilhadeira angular:Tensão 220V, potência mínima de 850 Watts, velocidade de rotação11.000 rpm, diâmetro do disco 115 mm, empunhadura lateral removível, engrenagens em aço temperado, corpo em nylon reforçado com fibra, peso aproximado 2 kg.",
-              "unidade": "UND",
-              "quantidade": "1,00",
-              "valor_referencia": "467,81"
-            },
-            {
-              "numero": "4",
-              "especificacao": "9900515008 Estanho em fio para solda elétrica:Estanho em fio para solda elétrica, diâmetro de 1 mm, carretel de 500 g, composição 63% estanho e 37% chumbo, acabamento uniforme e de alta condutividade.",
-              "unidade": "ROLO",
-              "quantidade": "5,00",
-              "valor_referencia": "119,45"
-            },
-            {
-              "numero": "5",
-              "especificacao": "9900515033 Furadeira de impacto elétrica:Potência mínima de 560 Watts, mandril de 1/2”, velocidade variável até 3.100 rpm, capacidade de perfuração em madeira até 20 mm, concreto até 10 mm e aço até 10 mm, estrutura reforçada e ergonômica.",
-              "unidade": "UND",
-              "quantidade": "1,00",
-              "valor_referencia": "288,79"
-            },
-            {
-              "numero": "6",
-              "especificacao": "9900515011 Ferro de solda elétrico:Potência mínima de 50 Watts, tensão 220V, temperatura máxima 510°C, comprimento de 225 mm, ponta de longa durabilidade tratada em ferro e alumínio, dupla isolação, empunhadura anatômica que dissipa calor.",
-              "unidade": "UND",
-              "quantidade": "2,00",
-              "valor_referencia": "43,76"
-            },
-            {
-              "numero": "7",
-              "especificacao": "9900515050 Furadeira e parafusadeira portátil, bateria de lítio recarregável 36V:36V (2 baterias inclusas), torque de 15 N·m, potência mínima de 340 W, velocidade variável e reversível até 1.550 rpm, mandril de 10 mm em aço inox, com maleta e kit de acessórios (bits, soquetes, eixo extensor, carregador bivolt).",
-              "unidade": "UND",
-              "quantidade": "1,00",
-              "valor_referencia": "283,26"
-            },
-            {
-              "numero": "8",
-              "especificacao": "5707611101 Jogo de microrretífica 115 Watts:Tensão 220V, rotação máxima de 30.000 rpm, com maleta plástica contendo 174 acessórios diversos (brocas, discos de corte, escovas, lixas, pinças, rebolos, hastes, chave e pasta de polimento), ideal para corte, lixamento, polimento e gravação.",
-              "unidade": "JOG",
-              "quantidade": "1,00",
-              "valor_referencia": "384,21"
-            },
-            {
-              "numero": "9",
-              "especificacao": "36423 Moto esmeril de 6 polegadas:Potência mínima de 550 Watts, bivolt, equipada com protetor de visibilidade com lente de aumento, suporte de afiação, interruptor liga/desliga, chave seletora de tensão, amortecedores antivibração, tensão de 110/220V ? 60 Hz, rotação de 2.800 rpm, com 2 rebolos de 150 mm (grãos 36 e 60), estrutura robusta para uso contínuo em oficinas e laboratórios.",
-              "unidade": "UND",
-              "quantidade": "1,00",
-              "valor_referencia": "367,41"
-            },
-            {
-              "numero": "10",
-              "especificacao": "9900515020 Multímetro digital portátil:Display iluminado, funções de voltagem AC/DC, corrente, resistência, teste de cabos, USB e telefonia, com função Data Hold, corpo ergonômico em plástico ABS e componentes eletrônicos de alta precisão. telefonia, com função Data Hold, corpo ergonômico em plástico ABS e componentes eletrônicos de alta precisão.",
-              "unidade": "UND",
-              "quantidade": "2,00",
-              "valor_referencia": "66,97"
-            },
-            {
-              "numero": "11",
-              "especificacao": "9900515021 Mangueira de ar/água:Diâmetro interno de 1/4” (6 mm), comprimento de 15 metros, fabricada em PVC flexível, resistente à pressão e temperatura de até 60°C.",
-              "unidade": "UND",
-              "quantidade": "1,00",
-              "valor_referencia": "72,80"
-            },
-            {
-              "numero": "12",
-              "especificacao": "9900515022 Mangueira espiral de ar comprimido de 10 metros:Diâmetro interno de 1/4”, fabricada em PVC flexível, resistente a até 150 psi, com conexões macho/fêmea e bico soprador.",
-              "unidade": "UND",
-              "quantidade": "2,00",
-              "valor_referencia": "88,35"
-            },
-            {
-              "numero": "13",
-              "especificacao": "5707611102 Morsa de bancada nº 8:Fabricada em ferro nodular, mordentes integrados ao corpo, bigorna reforçada, fuso e manípulo em aço forjado com tratamento zincado eletrolítico, largura do mordente de 200 mm e abertura máxima de 203 mm, estrutura robusta e durável.",
-              "unidade": "UND",
-              "quantidade": "1,00",
-              "valor_referencia": "569,78"
-            },
-            {
-              "numero": "14",
-              "especificacao": "9900515030 Pasta para solda em estanho, embalagem de 110 g:Composição à base de cloreto de zinco e cloreto de amônia (aprox. 17%), cor âmbar, utilizada para facilitar o processo de soldagem.",
-              "unidade": "UND",
-              "quantidade": "2,00",
-              "valor_referencia": "14,70"
-            },
-            {
-              "numero": "15",
-              "especificacao": "9900515026 Paquímetro digital de 150 mm (6 ):Quadrimensional, confeccionado em aço inox temperado, resolução de 0,01 mm/0.0005”, display com dígitos grandes de 11 mm, faces lapidadas, tecla liga/desliga e zeragem em qualquer ponto, com conversão milímetro/polegada.",
-              "unidade": "UND",
-              "quantidade": "2,00",
-              "valor_referencia": "252,68"
-            },
-            {
-              "numero": "16",
-              "especificacao": "9900515051 Soprador térmico elétrico, potência mínima de 1.500 Watts, tensão 220V:Fluxo de ar regulável entre 250 e 550 L/min, temperaturas de 300°C e 500°C, acompanha maleta plástica, cabos, acessórios (bicos diversos, espátula e raspador).",
-              "unidade": "UND",
-              "quantidade": "2,00",
-              "valor_referencia": "175,64"
-            },
-            {
-              "numero": "17",
-              "especificacao": "9900515032 Suporte para ferro de solda:Confeccionado em base metálica resistente, tubo isolador em latão galvanizado, mola em aço inox, acompanha esponja vegetal para limpeza, compatível com ferros de até 100 mm de comprimento.",
-              "unidade": "UND",
-              "quantidade": "2,00",
-              "valor_referencia": "22,03"
             }
           ]
         }
@@ -262197,6 +261522,800 @@
               "unidade": "UND",
               "quantidade": "10,00",
               "valor_referencia": "1.226,67"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-048-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "229/2026",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "ADJUDICADO",
+      "condutor": "JONATAS DA SILVA SOUSA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO PARCELADA",
+      "publicacao": "19/03/2026 17:45",
+      "inicio_recepcao": "23/03/2026 08:30",
+      "fim_recepcao": "06/04/2026 08:15",
+      "inicio_disputa": "06/04/2026 08:30",
+      "objeto": "Contratação de empresa especializada em prestação de serviços de IMPRESSÃO GRÁFICA DE AVALIAÇÕES, a fim de atender as demandas da Secretaria Municipal de Educação.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DbpbXXRYkwWRWkoy_FkJJhSFbUmTjImbfV7bzJe25kkr8WFOj6VF4rshHtWAWDpQoAMkFLsaCwYT6I1Rb6DWoJse0nzY_s%2FrD6DphkC2ja%2Fw%3D",
+      "total_lotes": 1,
+      "total_itens": 1,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "IMPRESSÃO GRÁFICA",
+          "fase": "ADJUDICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "195.000,00",
+          "vencedor": "GERALDO BRAGA MIRANDA LTDA",
+          "melhor_oferta": "91.000,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "103200003 Serviço de impressão de folhas destinadas àaplicação das avaliações do Compromisso Nacional CriançaAlfabetizada (CNCA) na rede municipal deensino:compreendendo a impressão por folha, em papeltamanho A4 (210mm x 297mm), em papel offset branco alcalinode alta qualidade, gramatura de 75g/m², alta alvura e opacidadeadequada para evitar transparência de impressão entre frente everso, impressão offset ou digital em alta resolução (mínimo2400 dpi), tiragem em 1/1 cor, conforme artes finais fornecidaspela Secretaria Municipal de Educação, com registro fiel detextos, figuras, quadros e campos de resposta conforme matrizavaliativa oficial do CNCA. Inclui ainda serviços correlatos decorte em guilhotina com tolerância máxima de ± 1mm,acondicionamento das folhas em maços padronizados (porexemplo, 250, 500 ou 1.000 folhas) embalados em papel kraft oufilme plástico resistente, com etiqueta de identificação contendo,identificação do ciclo/etapa da avaliação, série/ano, disciplina,número do lote e quantidade de folhas, bem como a logística deentrega fracionada nas unidades escolares e/ou no depósitocentral da Secretaria, conforme cronograma oficial do CNCA,respeitando a urgência do calendário nacional e a necessidadede pronta disponibilidade do material nas escolas.",
+              "unidade": "UN",
+              "quantidade": "1.300.000,00",
+              "valor_referencia": "0,15"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-038-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "1232/2025",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "FRACASSADO",
+      "condutor": "SERGIO CARNEIRO CAVALCANTI DE AZEVEDO",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "REGISTRO DE PREÇO",
+      "publicacao": "16/03/2026 16:30",
+      "inicio_recepcao": "18/03/2026 08:30",
+      "fim_recepcao": "30/03/2026 09:45",
+      "inicio_disputa": "30/03/2026 10:00",
+      "objeto": "Contratação de empresa especializada no fornecimento de UTENSÍLIOS DE COZINHA, UNIFORMES, EPC’S E EPI’S NECESSÁRIOS PARA O PROJETO PADARIA COMUNITÁRIA (material de consumo),  a fim de atender as demandas da Secretaria Municipal de Promoção Social e Cultura.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5D8V8qLqwzBcKnb2uLdIFOkRJBDA2nfwSOHSwkfW1GSYKv7E8MuNtTKhDShYZd%2FdYgPHlSmzjBz1lvrz8vRWUXVeuYMoiBIx4jrr8TbqBbDKw%3D",
+      "total_lotes": 3,
+      "total_itens": 45,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "LOTE 1",
+          "fase": "FRACASSADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "18.340,10",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 15,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "8401500001 Avental comum impermeável:proteção contra respingos de líquidos, ingredientes e substâncias químicas, material de Nylon emborrachado. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "Und.",
+              "quantidade": "100,00",
+              "valor_referencia": "51,89"
+            },
+            {
+              "numero": "2",
+              "especificacao": "8401500002 Calça Brim Branca Uniforme Profissional GG:confeccionada em tecido brim pesado, 100% algodão. Possui elástico na cintura e cadarço para um melhor ajuste no corpo. Possui 3 bolsos, sendo 2 laterais e 1 traseiro. Cor branca, tamanho GG 50/52 - cintura 120 cm - comprimento 110 cm.EXCLUSIVO PARA ME/EPP.",
+              "unidade": "Und.",
+              "quantidade": "25,00",
+              "valor_referencia": "70,72"
+            },
+            {
+              "numero": "3",
+              "especificacao": "8401500003 Calça Brim Branca Uniforme Profissional P:confeccionada em tecido brim pesado, 100% algodão. Possui elástico na cintura e cadarço para um melhor ajuste no corpo. Possui 3 bolsos, sendo 2 laterais e 1 traseiro. Cor branca, tamanho P 38/40 - cintura 100 cm - comprimento 106 cm",
+              "unidade": "Und.",
+              "quantidade": "25,00",
+              "valor_referencia": "70,72"
+            },
+            {
+              "numero": "4",
+              "especificacao": "8401500004 Calça Brim Branca Uniforme Profissional M:confeccionada em tecido brim pesado,100% algodão. Possui elástico na cintura e cadarço para um melhor ajuste no corpo. Possui 3 bolsos, sendo 2 laterais e 1 traseiro. Cor branca Do tamanho M 42/44 - cintura 106 cm - comprimento 107 cm.EXCLUSIVO PARA ME/EPP.",
+              "unidade": "Und.",
+              "quantidade": "25,00",
+              "valor_referencia": "70,72"
+            },
+            {
+              "numero": "5",
+              "especificacao": "8401500005 Calça Brim Branca Uniforme Profissional G:confeccionada em tecido brim pesado,100% algodão. Possui elástico na cintura e cadarço para um melhor ajuste no corpo. Possui 3 bolsos, sendo 2 laterais e 1 traseiro. Cor branca, tamanho G 46/48 - cintura 112 cm - comprimento 108 cm.EXCLUSIVO PARA ME/EPP.",
+              "unidade": "Und.",
+              "quantidade": "25,00",
+              "valor_referencia": "70,72"
+            },
+            {
+              "numero": "6",
+              "especificacao": "8401500006 Calçado Branco Padaria ou cozinha:fabricado em EVA, unissex, no estilo galochas, cono curto, sem salto, material de cabedal sintético, material da sola de borracha, forma de bico arredondada, a prova d?água, sem zíper e sem cordões, com sola antiderrapante. Número 38, cor banca. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "PAR",
+              "quantidade": "6,00",
+              "valor_referencia": "73,64"
+            },
+            {
+              "numero": "7",
+              "especificacao": "36222 Calçado Branco Padaria ou cozinha:fabricado em EVA, unissex, no estilo galochas, cano curto, sem salto, material de cabedal sintético, material da sola de borracha, forma de bico arredondada, a prova d?água, sem zíper e sem cordões, com sola antiderrapante. Número 39, cor banca. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "PAR",
+              "quantidade": "10,00",
+              "valor_referencia": "73,64"
+            },
+            {
+              "numero": "8",
+              "especificacao": "8401500007 Calçado Branco Padaria ou cozinha:fabricado em EVA, unissex, no estilo galochas, cano curto, sem salto, material de cabedal sintético, material da sola de borracha, forma de bico arredondada, a prova d?água, sem zíper e sem cordões, com sola antiderrapante. Número 40, cor banca. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "PAR",
+              "quantidade": "10,00",
+              "valor_referencia": "72,20"
+            },
+            {
+              "numero": "9",
+              "especificacao": "8401500008 Calçado Branco Padaria ou cozinha:fabricado em EVA, unissex, no estilo galochas, cano curto, sem salto, material de cabedal sintético, material da sola de borracha, forma de bico arredondada, a prova d?água, sem zíper e sem cordões, com sola antiderrapante. Número 41, cor banca. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "PAR",
+              "quantidade": "8,00",
+              "valor_referencia": "72,20"
+            },
+            {
+              "numero": "10",
+              "especificacao": "8401500009 Calçado Branco Padaria ou cozinha:fabricado em EVA, unissex, no estilo galochas, cano curto, sem salto, material de cabedal sintético, material da sola de borracha, forma de bico arredondada, a prova d?água, sem zíper e sem cordões, com sola antiderrapante. Número 36, cor banca. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "PAR",
+              "quantidade": "5,00",
+              "valor_referencia": "73,64"
+            },
+            {
+              "numero": "11",
+              "especificacao": "8401500010 Jaleco para padeiro G:modelo unissex, tecido Oxford cor branca, com gola, sem alça traseira, manga curta, fechamento frontal em botões, com 3 bolsos frontais (1 superior esquerdo e 2 inferiores) aplicados com costura dupla e reforço no início e final das costuras, sendo que no bolsa superior esquerdo (lado de quem veste), com a logo da Prefeitura Municipal de Teixeira de Freitas e Programa Bolsa Família em serigrafia. Tamanho G. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "Und.",
+              "quantidade": "8,00",
+              "valor_referencia": "73,80"
+            },
+            {
+              "numero": "12",
+              "especificacao": "8401500011 Jaleco para padeiro P:modelo unissex, tecido Oxford cor branca, com gola, sem alça traseira, manga curta, fechamento frontal em botões, com 3 bolsos frontais (1 superior esquerdo e 2 inferiores) aplicados com costura dupla e reforço no início e final das costuras, sendo que no bolsa superior esquerdo (lado de quem veste), com a logo da Prefeitura Municipal de Teixeira de Freitas e Programa Bolsa Família em serigrafia. Tamanho P. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "Und.",
+              "quantidade": "15,00",
+              "valor_referencia": "73,80"
+            },
+            {
+              "numero": "13",
+              "especificacao": "8401500012 Jaleco para padeiro M:modelo unissex, tecido Oxford cor branca, com gola, sem alça traseira, manga curta, fechamento frontal em botões, com 3 bolsos frontais (1 superior esquerdo e 2 inferiores) aplicados com costura dupla e reforço no início e final das costuras, sendo que no bolsa superior esquerdo (lado de quem veste), com a logo da Prefeitura Municipal de Teixeira de Freitas e Programa Bolsa Família em serigrafia. Tamanho M. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "Und.",
+              "quantidade": "8,00",
+              "valor_referencia": "73,77"
+            },
+            {
+              "numero": "14",
+              "especificacao": "36225 Touca descartável:sanfonada elástica em TNT, caixa com 100 unidades Dimensões (AxLxP) 17,26,11cm. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "CX",
+              "quantidade": "10,00",
+              "valor_referencia": "11,24"
+            },
+            {
+              "numero": "15",
+              "especificacao": "36226 Touca Tule Oxford:circunferência: 64 cm - (regulável); comprimento tiras: 30 cm; altura: 15 cm; material: oxford (100% poliester); unissex, cor branca. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "Und.",
+              "quantidade": "30,00",
+              "valor_referencia": "27,77"
+            }
+          ]
+        },
+        {
+          "numero": "1",
+          "titulo": "LOTE 1",
+          "fase": "FRACASSADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "18.340,10",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 15,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "8401500001 Avental comum impermeável:proteção contra respingos de líquidos, ingredientes e substâncias químicas, material de Nylon emborrachado. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "Und.",
+              "quantidade": "100,00",
+              "valor_referencia": "51,89"
+            },
+            {
+              "numero": "2",
+              "especificacao": "8401500002 Calça Brim Branca Uniforme Profissional GG:confeccionada em tecido brim pesado, 100% algodão. Possui elástico na cintura e cadarço para um melhor ajuste no corpo. Possui 3 bolsos, sendo 2 laterais e 1 traseiro. Cor branca, tamanho GG 50/52 - cintura 120 cm - comprimento 110 cm.EXCLUSIVO PARA ME/EPP.",
+              "unidade": "Und.",
+              "quantidade": "25,00",
+              "valor_referencia": "70,72"
+            },
+            {
+              "numero": "3",
+              "especificacao": "8401500003 Calça Brim Branca Uniforme Profissional P:confeccionada em tecido brim pesado, 100% algodão. Possui elástico na cintura e cadarço para um melhor ajuste no corpo. Possui 3 bolsos, sendo 2 laterais e 1 traseiro. Cor branca, tamanho P 38/40 - cintura 100 cm - comprimento 106 cm",
+              "unidade": "Und.",
+              "quantidade": "25,00",
+              "valor_referencia": "70,72"
+            },
+            {
+              "numero": "4",
+              "especificacao": "8401500004 Calça Brim Branca Uniforme Profissional M:confeccionada em tecido brim pesado,100% algodão. Possui elástico na cintura e cadarço para um melhor ajuste no corpo. Possui 3 bolsos, sendo 2 laterais e 1 traseiro. Cor branca Do tamanho M 42/44 - cintura 106 cm - comprimento 107 cm.EXCLUSIVO PARA ME/EPP.",
+              "unidade": "Und.",
+              "quantidade": "25,00",
+              "valor_referencia": "70,72"
+            },
+            {
+              "numero": "5",
+              "especificacao": "8401500005 Calça Brim Branca Uniforme Profissional G:confeccionada em tecido brim pesado,100% algodão. Possui elástico na cintura e cadarço para um melhor ajuste no corpo. Possui 3 bolsos, sendo 2 laterais e 1 traseiro. Cor branca, tamanho G 46/48 - cintura 112 cm - comprimento 108 cm.EXCLUSIVO PARA ME/EPP.",
+              "unidade": "Und.",
+              "quantidade": "25,00",
+              "valor_referencia": "70,72"
+            },
+            {
+              "numero": "6",
+              "especificacao": "8401500006 Calçado Branco Padaria ou cozinha:fabricado em EVA, unissex, no estilo galochas, cono curto, sem salto, material de cabedal sintético, material da sola de borracha, forma de bico arredondada, a prova d?água, sem zíper e sem cordões, com sola antiderrapante. Número 38, cor banca. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "PAR",
+              "quantidade": "6,00",
+              "valor_referencia": "73,64"
+            },
+            {
+              "numero": "7",
+              "especificacao": "36222 Calçado Branco Padaria ou cozinha:fabricado em EVA, unissex, no estilo galochas, cano curto, sem salto, material de cabedal sintético, material da sola de borracha, forma de bico arredondada, a prova d?água, sem zíper e sem cordões, com sola antiderrapante. Número 39, cor banca. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "PAR",
+              "quantidade": "10,00",
+              "valor_referencia": "73,64"
+            },
+            {
+              "numero": "8",
+              "especificacao": "8401500007 Calçado Branco Padaria ou cozinha:fabricado em EVA, unissex, no estilo galochas, cano curto, sem salto, material de cabedal sintético, material da sola de borracha, forma de bico arredondada, a prova d?água, sem zíper e sem cordões, com sola antiderrapante. Número 40, cor banca. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "PAR",
+              "quantidade": "10,00",
+              "valor_referencia": "72,20"
+            },
+            {
+              "numero": "9",
+              "especificacao": "8401500008 Calçado Branco Padaria ou cozinha:fabricado em EVA, unissex, no estilo galochas, cano curto, sem salto, material de cabedal sintético, material da sola de borracha, forma de bico arredondada, a prova d?água, sem zíper e sem cordões, com sola antiderrapante. Número 41, cor banca. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "PAR",
+              "quantidade": "8,00",
+              "valor_referencia": "72,20"
+            },
+            {
+              "numero": "10",
+              "especificacao": "8401500009 Calçado Branco Padaria ou cozinha:fabricado em EVA, unissex, no estilo galochas, cano curto, sem salto, material de cabedal sintético, material da sola de borracha, forma de bico arredondada, a prova d?água, sem zíper e sem cordões, com sola antiderrapante. Número 36, cor banca. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "PAR",
+              "quantidade": "5,00",
+              "valor_referencia": "73,64"
+            },
+            {
+              "numero": "11",
+              "especificacao": "8401500010 Jaleco para padeiro G:modelo unissex, tecido Oxford cor branca, com gola, sem alça traseira, manga curta, fechamento frontal em botões, com 3 bolsos frontais (1 superior esquerdo e 2 inferiores) aplicados com costura dupla e reforço no início e final das costuras, sendo que no bolsa superior esquerdo (lado de quem veste), com a logo da Prefeitura Municipal de Teixeira de Freitas e Programa Bolsa Família em serigrafia. Tamanho G. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "Und.",
+              "quantidade": "8,00",
+              "valor_referencia": "73,80"
+            },
+            {
+              "numero": "12",
+              "especificacao": "8401500011 Jaleco para padeiro P:modelo unissex, tecido Oxford cor branca, com gola, sem alça traseira, manga curta, fechamento frontal em botões, com 3 bolsos frontais (1 superior esquerdo e 2 inferiores) aplicados com costura dupla e reforço no início e final das costuras, sendo que no bolsa superior esquerdo (lado de quem veste), com a logo da Prefeitura Municipal de Teixeira de Freitas e Programa Bolsa Família em serigrafia. Tamanho P. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "Und.",
+              "quantidade": "15,00",
+              "valor_referencia": "73,80"
+            },
+            {
+              "numero": "13",
+              "especificacao": "8401500012 Jaleco para padeiro M:modelo unissex, tecido Oxford cor branca, com gola, sem alça traseira, manga curta, fechamento frontal em botões, com 3 bolsos frontais (1 superior esquerdo e 2 inferiores) aplicados com costura dupla e reforço no início e final das costuras, sendo que no bolsa superior esquerdo (lado de quem veste), com a logo da Prefeitura Municipal de Teixeira de Freitas e Programa Bolsa Família em serigrafia. Tamanho M. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "Und.",
+              "quantidade": "8,00",
+              "valor_referencia": "73,77"
+            },
+            {
+              "numero": "14",
+              "especificacao": "36225 Touca descartável:sanfonada elástica em TNT, caixa com 100 unidades Dimensões (AxLxP) 17,26,11cm. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "CX",
+              "quantidade": "10,00",
+              "valor_referencia": "11,24"
+            },
+            {
+              "numero": "15",
+              "especificacao": "36226 Touca Tule Oxford:circunferência: 64 cm - (regulável); comprimento tiras: 30 cm; altura: 15 cm; material: oxford (100% poliester); unissex, cor branca. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "Und.",
+              "quantidade": "30,00",
+              "valor_referencia": "27,77"
+            }
+          ]
+        },
+        {
+          "numero": "1",
+          "titulo": "LOTE 1",
+          "fase": "FRACASSADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "18.340,10",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 15,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "8401500001 Avental comum impermeável:proteção contra respingos de líquidos, ingredientes e substâncias químicas, material de Nylon emborrachado. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "Und.",
+              "quantidade": "100,00",
+              "valor_referencia": "51,89"
+            },
+            {
+              "numero": "2",
+              "especificacao": "8401500002 Calça Brim Branca Uniforme Profissional GG:confeccionada em tecido brim pesado, 100% algodão. Possui elástico na cintura e cadarço para um melhor ajuste no corpo. Possui 3 bolsos, sendo 2 laterais e 1 traseiro. Cor branca, tamanho GG 50/52 - cintura 120 cm - comprimento 110 cm.EXCLUSIVO PARA ME/EPP.",
+              "unidade": "Und.",
+              "quantidade": "25,00",
+              "valor_referencia": "70,72"
+            },
+            {
+              "numero": "3",
+              "especificacao": "8401500003 Calça Brim Branca Uniforme Profissional P:confeccionada em tecido brim pesado, 100% algodão. Possui elástico na cintura e cadarço para um melhor ajuste no corpo. Possui 3 bolsos, sendo 2 laterais e 1 traseiro. Cor branca, tamanho P 38/40 - cintura 100 cm - comprimento 106 cm",
+              "unidade": "Und.",
+              "quantidade": "25,00",
+              "valor_referencia": "70,72"
+            },
+            {
+              "numero": "4",
+              "especificacao": "8401500004 Calça Brim Branca Uniforme Profissional M:confeccionada em tecido brim pesado,100% algodão. Possui elástico na cintura e cadarço para um melhor ajuste no corpo. Possui 3 bolsos, sendo 2 laterais e 1 traseiro. Cor branca Do tamanho M 42/44 - cintura 106 cm - comprimento 107 cm.EXCLUSIVO PARA ME/EPP.",
+              "unidade": "Und.",
+              "quantidade": "25,00",
+              "valor_referencia": "70,72"
+            },
+            {
+              "numero": "5",
+              "especificacao": "8401500005 Calça Brim Branca Uniforme Profissional G:confeccionada em tecido brim pesado,100% algodão. Possui elástico na cintura e cadarço para um melhor ajuste no corpo. Possui 3 bolsos, sendo 2 laterais e 1 traseiro. Cor branca, tamanho G 46/48 - cintura 112 cm - comprimento 108 cm.EXCLUSIVO PARA ME/EPP.",
+              "unidade": "Und.",
+              "quantidade": "25,00",
+              "valor_referencia": "70,72"
+            },
+            {
+              "numero": "6",
+              "especificacao": "8401500006 Calçado Branco Padaria ou cozinha:fabricado em EVA, unissex, no estilo galochas, cono curto, sem salto, material de cabedal sintético, material da sola de borracha, forma de bico arredondada, a prova d?água, sem zíper e sem cordões, com sola antiderrapante. Número 38, cor banca. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "PAR",
+              "quantidade": "6,00",
+              "valor_referencia": "73,64"
+            },
+            {
+              "numero": "7",
+              "especificacao": "36222 Calçado Branco Padaria ou cozinha:fabricado em EVA, unissex, no estilo galochas, cano curto, sem salto, material de cabedal sintético, material da sola de borracha, forma de bico arredondada, a prova d?água, sem zíper e sem cordões, com sola antiderrapante. Número 39, cor banca. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "PAR",
+              "quantidade": "10,00",
+              "valor_referencia": "73,64"
+            },
+            {
+              "numero": "8",
+              "especificacao": "8401500007 Calçado Branco Padaria ou cozinha:fabricado em EVA, unissex, no estilo galochas, cano curto, sem salto, material de cabedal sintético, material da sola de borracha, forma de bico arredondada, a prova d?água, sem zíper e sem cordões, com sola antiderrapante. Número 40, cor banca. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "PAR",
+              "quantidade": "10,00",
+              "valor_referencia": "72,20"
+            },
+            {
+              "numero": "9",
+              "especificacao": "8401500008 Calçado Branco Padaria ou cozinha:fabricado em EVA, unissex, no estilo galochas, cano curto, sem salto, material de cabedal sintético, material da sola de borracha, forma de bico arredondada, a prova d?água, sem zíper e sem cordões, com sola antiderrapante. Número 41, cor banca. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "PAR",
+              "quantidade": "8,00",
+              "valor_referencia": "72,20"
+            },
+            {
+              "numero": "10",
+              "especificacao": "8401500009 Calçado Branco Padaria ou cozinha:fabricado em EVA, unissex, no estilo galochas, cano curto, sem salto, material de cabedal sintético, material da sola de borracha, forma de bico arredondada, a prova d?água, sem zíper e sem cordões, com sola antiderrapante. Número 36, cor banca. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "PAR",
+              "quantidade": "5,00",
+              "valor_referencia": "73,64"
+            },
+            {
+              "numero": "11",
+              "especificacao": "8401500010 Jaleco para padeiro G:modelo unissex, tecido Oxford cor branca, com gola, sem alça traseira, manga curta, fechamento frontal em botões, com 3 bolsos frontais (1 superior esquerdo e 2 inferiores) aplicados com costura dupla e reforço no início e final das costuras, sendo que no bolsa superior esquerdo (lado de quem veste), com a logo da Prefeitura Municipal de Teixeira de Freitas e Programa Bolsa Família em serigrafia. Tamanho G. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "Und.",
+              "quantidade": "8,00",
+              "valor_referencia": "73,80"
+            },
+            {
+              "numero": "12",
+              "especificacao": "8401500011 Jaleco para padeiro P:modelo unissex, tecido Oxford cor branca, com gola, sem alça traseira, manga curta, fechamento frontal em botões, com 3 bolsos frontais (1 superior esquerdo e 2 inferiores) aplicados com costura dupla e reforço no início e final das costuras, sendo que no bolsa superior esquerdo (lado de quem veste), com a logo da Prefeitura Municipal de Teixeira de Freitas e Programa Bolsa Família em serigrafia. Tamanho P. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "Und.",
+              "quantidade": "15,00",
+              "valor_referencia": "73,80"
+            },
+            {
+              "numero": "13",
+              "especificacao": "8401500012 Jaleco para padeiro M:modelo unissex, tecido Oxford cor branca, com gola, sem alça traseira, manga curta, fechamento frontal em botões, com 3 bolsos frontais (1 superior esquerdo e 2 inferiores) aplicados com costura dupla e reforço no início e final das costuras, sendo que no bolsa superior esquerdo (lado de quem veste), com a logo da Prefeitura Municipal de Teixeira de Freitas e Programa Bolsa Família em serigrafia. Tamanho M. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "Und.",
+              "quantidade": "8,00",
+              "valor_referencia": "73,77"
+            },
+            {
+              "numero": "14",
+              "especificacao": "36225 Touca descartável:sanfonada elástica em TNT, caixa com 100 unidades Dimensões (AxLxP) 17,26,11cm. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "CX",
+              "quantidade": "10,00",
+              "valor_referencia": "11,24"
+            },
+            {
+              "numero": "15",
+              "especificacao": "36226 Touca Tule Oxford:circunferência: 64 cm - (regulável); comprimento tiras: 30 cm; altura: 15 cm; material: oxford (100% poliester); unissex, cor branca. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "Und.",
+              "quantidade": "30,00",
+              "valor_referencia": "27,77"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-024-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "1566/2025",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "FRACASSADO",
+      "condutor": "SERGIO CARNEIRO CAVALCANTI DE AZEVEDO",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "REGISTRO DE PREÇO",
+      "publicacao": "02/03/2026 20:29",
+      "inicio_recepcao": "24/03/2026 18:00",
+      "fim_recepcao": "06/04/2026 08:15",
+      "inicio_disputa": "06/04/2026 08:30",
+      "objeto": "Contratação de empresa especializada na prestação de serviço de CAPINA, ROÇAGEM E LIMPEZA DE ÁREAS PÚBLICAS,  a fim de atender as demandas da Secretaria Municipal de Administração e demais Secretarias.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DaywetbUTKLZH8zr3EdqiEEvzNdLeT21EbUxM3CxR7ibT4s2NsT07jTO4huQCYE0n%2FEwbdgHQPCcN%2FB9okZGZ3ooDw_SpQBEJqzqhCiyjKy8%3D",
+      "total_lotes": 1,
+      "total_itens": 1,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "9903311729 Serviço de Capina, Roçagem e Limpeza de Áreas Públicas do Município de Teixeira de Freitas- bahia",
+          "fase": "FRACASSADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "Conforme Edital",
+          "garantia": "Conforme Edital",
+          "valor_referencia": "116.600,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9903311729 Serviço de Capina, Roçagem e Limpeza de ÁreasPúblicas do Município de Teixeira de Freitas- bahia:Prestação deserviços contínuos de capina manual e mecanizada, roçagem elimpeza em áreas públicas, praças, canteiros, jardins, unidadesescolares, creches municipais, totalizando aproximadamente220.000 m². Inclui a remoção de plantas daninhas, vegetaçãoinvasora, gramíneas altas e detritos vegetais, bem como oacondicionamento e destinação adequada dos resíduos gerados,de acordo com as normas ambientais vigentes. O serviço deverácontemplar o fornecimento de toda mão de obra especializada,equipamentos (roçadeiras costais, aparadores de grama,enxadas, rastelos, entre outros) e EPIs (luvas, óculos deproteção, protetores auriculares, botas, etc.), garantindo aexecução com segurança, eficiência e qualidade. A execuçãoserá programada e periódica, conforme cronograma definido pelaSecretaria Municipal demandante, de forma a manter as áreaspermanentemente limpas, seguras e visualmente adequadas aouso",
+              "unidade": "m2",
+              "quantidade": "220.000,00",
+              "valor_referencia": "0,53"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4-DLE-003-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "1431/2025",
+      "modalidade": "DISPENSA ELETRÔNICA",
+      "situacao": "HOMOLOGADO",
+      "condutor": "ISAQUE SILVA DOS SANTOS",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO PARCELADA",
+      "publicacao": "16/01/2026 19:13",
+      "inicio_recepcao": "16/01/2026 19:30",
+      "fim_recepcao": "22/01/2026 08:15",
+      "inicio_disputa": "22/01/2026 08:30",
+      "objeto": "Contratação de empresas especializada em fornecimento de EQUIPAMENTOS, FERRAMENTAS, INSUMOS\nDIVERSOS E EPIS (materiais de consumo e permanentes), Secretaria Municipal de Educação",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5Djwlq8tip6DynxiUYSnx_UEQBpRelU1uO1h%2Fk3t6X9THvC59SIt9gGUje3g593CBaRAj%2FN62KSCiBA_sC7ajeg3w7jWoxS2%2FXFLRXGYhSNVI%3D",
+      "total_lotes": 2,
+      "total_itens": 38,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "LOTE 1",
+          "fase": "HOMOLOGADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "7.969,99",
+          "vencedor": "CLEBER SANTANA SANTOS",
+          "melhor_oferta": "7.800,00",
+          "total_itens": 21,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900514997 Alicate universal com comprimento total de 200 mm:Confeccionado em aço de alto carbono temperado, dureza HRC 46–56, punho emborrachado em borracha termoplástica ergonômica, capacidade de corte de fios de até 2 mm em aço, resistente, anticorrosivo e indicado para uso geral em manutenção e oficina.",
+              "unidade": "UND",
+              "quantidade": "2,00",
+              "valor_referencia": "36,87"
+            },
+            {
+              "numero": "2",
+              "especificacao": "9900514998 Alicate de pressão com comprimento total de 224 mm:Abertura máxima da boca de 28 mm, mordente tipo Grip, confeccionado em aço cromo-vanádio de alta resistência, acabamento niquelado e cromado anticorrosivo, com trava de pressão regulável e cabo ergonômico.",
+              "unidade": "UND",
+              "quantidade": "2,00",
+              "valor_referencia": "55,97"
+            },
+            {
+              "numero": "3",
+              "especificacao": "9900514999 Alicate de corte diagonal com comprimento aproximado de 180 mm:Corpo em aço cromo-vanádio temperado, mordentes de alta precisão com acabamento niquelado e anticorrosivo, cabo ergonômico com revestimento emborrachado antiderrapante.",
+              "unidade": "UND",
+              "quantidade": "2,00",
+              "valor_referencia": "41,27"
+            },
+            {
+              "numero": "4",
+              "especificacao": "9900515000 Alicate de bico meia-cana, tamanho 6:Corpo em aço carbono temperado, arestas de corte afiadas, cabo emborrachado ergonômico, indicado para trabalhos de precisão.",
+              "unidade": "UND",
+              "quantidade": "2,00",
+              "valor_referencia": "46,75"
+            },
+            {
+              "numero": "5",
+              "especificacao": "9900515001 Arco de serra com serra, comprimento total de 400 mm:Arco tubular em aço pintado, lâmina de aço temperado de 300 mm com 24 dentes por polegada, cabo em polipropileno anatômico.",
+              "unidade": "UND",
+              "quantidade": "1,00",
+              "valor_referencia": "37,40"
+            },
+            {
+              "numero": "6",
+              "especificacao": "5707611099 Carrinho de ferramentas em aço:Capacidade de carga de 200 kg, dimensões de 600x400x890 mm, com 5 gavetas, rodízios de 4”, puxador ergonômico e fechadura com chave.",
+              "unidade": "UND",
+              "quantidade": "4,00",
+              "valor_referencia": "1.374,70"
+            },
+            {
+              "numero": "7",
+              "especificacao": "9900515049 Caixa plástica tipo baú, capacidade de 20 litros:Confeccionada em polipropileno resistente, com alça integrada e tampa com trava de segurança, dimensões aproximadas de 400x300x250 mm.",
+              "unidade": "UND",
+              "quantidade": "6,00",
+              "valor_referencia": "47,39"
+            },
+            {
+              "numero": "8",
+              "especificacao": "9900515005 Esquadro combinado de 300 mm:Confeccionado em alumínio anodizado com escala gravada a laser em baixo relevo, possui nível em acrílico, riscador e graduação em centímetros e polegadas, proporcionando medições em ângulos de 45º e 90º.",
+              "unidade": "UND",
+              "quantidade": "2,00",
+              "valor_referencia": "123,00"
+            },
+            {
+              "numero": "9",
+              "especificacao": "9900515006 Escova manual de aço, corpo e cabo em madeira, base reforçada:Com 4 fileiras de cerdas em aço carbono polido, indicada para remoção de ferrugem, tintas e limpeza de superfícies metálicas.",
+              "unidade": "UND",
+              "quantidade": "2,00",
+              "valor_referencia": "7,31"
+            },
+            {
+              "numero": "10",
+              "especificacao": "9900515009 Engate rápido macho e fêmea para mangueira de 1/4:Fabricado em latão cromado, resistência até 55 psi, dimensões de 35,56 mm de diâmetro e 50 mm de comprimento, peso aproximado de 200 g.",
+              "unidade": "CJ",
+              "quantidade": "4,00",
+              "valor_referencia": "36,54"
+            },
+            {
+              "numero": "11",
+              "especificacao": "9900515013 Grampo tipo sargento de aperto rápido:Tamanho de 18 polegadas (50x300 mm), confeccionado em aço especial com acabamento cromado, cabo emborrachado ergonômico, resistente e de fácil manuseio.",
+              "unidade": "UND",
+              "quantidade": "6,00",
+              "valor_referencia": "51,58"
+            },
+            {
+              "numero": "12",
+              "especificacao": "9900515015 Jogo de chaves Allen com 30 peças em aço cromo-vanádio:Contendo 15 peças em milímetros (0,7 a 10 mm) e 15 peças em polegadas (0,028” a 3/8”), acondicionadas em estojo plástico",
+              "unidade": "JOG",
+              "quantidade": "1,00",
+              "valor_referencia": "112,60"
+            },
+            {
+              "numero": "13",
+              "especificacao": "9900515016 Kit com 3 alicates de pressão mordente tipo U C ,:Fabricados em aço especial de alta resistência, corpo dobrado com rebites reforçados, mordentes temperados e acabamento niquelado ou cromado. O kit contém: 1 alicate de 10”, 1 alicate de 8” e 1 alicate de 6”, ideal para fixação de chapas, tubos, perfis e cantos sem danificar a superfície.",
+              "unidade": "UND",
+              "quantidade": "2,00",
+              "valor_referencia": "108,45"
+            },
+            {
+              "numero": "14",
+              "especificacao": "9900515017 Luvas de segurança para solda:Confeccionadas em couro, modelo de cano longo com reforço na palma, costura reforçada entre os dedos, totalmente forradas até o punho para maior conforto e proteção.",
+              "unidade": "PAR",
+              "quantidade": "2,00",
+              "valor_referencia": "31,15"
+            },
+            {
+              "numero": "15",
+              "especificacao": "9900515018 Martelo tipo unha de 27 mm:Martelo tipo unha de 27 mm, cabeça forjada em aço com acabamento polido, cabo em fibra de alta resistência com empunhadura emborrachada, anatômico e ergonômico.",
+              "unidade": "UND",
+              "quantidade": "2,00",
+              "valor_referencia": "29,55"
+            },
+            {
+              "numero": "16",
+              "especificacao": "9900515024 Nível de bolha em alumínio:Comprimento de 300 mm, com 3 bolhas de alta precisão (horizontal, vertical e 45º), corpo reforçado em alumínio denso, resistente a impactos e corrosão.",
+              "unidade": "UND",
+              "quantidade": "2,00",
+              "valor_referencia": "41,05"
+            },
+            {
+              "numero": "17",
+              "especificacao": "9900515025 Óculos de proteção de sobreposição:Confeccionados em policarbonato incolor de alta resistência, com tratamento antirrisco e antiembaçante, proteção UV, armação plástica flexível e anatômica, compatíveis com uso sobre óculos corretivos.",
+              "unidade": "UND",
+              "quantidade": "40,00",
+              "valor_referencia": "4,81"
+            },
+            {
+              "numero": "18",
+              "especificacao": "9900515027 Pincel trincha de 4 polegadas (101,6 mm):Cabo em madeira envernizada de 150 mm, cerdas mistas sintéticas e naturais, resistentes a solventes, indicado para pintura de superfícies amplas.",
+              "unidade": "UND",
+              "quantidade": "4,00",
+              "valor_referencia": "16,84"
+            },
+            {
+              "numero": "19",
+              "especificacao": "9900515028 Pincel trincha de 2 polegadas (50,8 mm):Cabo em madeira envernizada de 150 mm, cerdas mistas sintéticas e naturais, resistentes a solventes, indicado para pintura de precisão em áreas menores.",
+              "unidade": "UND",
+              "quantidade": "4,00",
+              "valor_referencia": "15,22"
+            },
+            {
+              "numero": "20",
+              "especificacao": "9900515029 Pistola de pintura pneumática:Corpo em alumínio forjado de alta resistência, bico de 1,4 mm, caneca em PVC de 600 ml, regulagem de leque, consumo entre 3,5 e 6 pcm, pressão de trabalho entre 30 e 80 psi, peças internas em aço inox.",
+              "unidade": "UND",
+              "quantidade": "1,00",
+              "valor_referencia": "189,35"
+            },
+            {
+              "numero": "21",
+              "especificacao": "36420 Trena métrica de 5 metros:Fita em fibra de vidro resistente, largura de 12,5 mm, corpo em plástico reforçado, resistente e ergonômico, sistema de trava e retrocesso automático.",
+              "unidade": "UND",
+              "quantidade": "2,00",
+              "valor_referencia": "14,24"
+            }
+          ]
+        },
+        {
+          "numero": "2",
+          "titulo": "LOTE 2",
+          "fase": "HOMOLOGADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "9.032,79",
+          "vencedor": "CLEBER SANTANA SANTOS",
+          "melhor_oferta": "8.800,00",
+          "total_itens": 17,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "36421 Compressor de ar monofásico:Potência de 2 CV, pressão máxima de 140 psi, reservatório de 150 litros, tensão 220V, fluxo de ar 10 l/min, dimensões aproximadas de 1.110 mm de altura por 510 mm de largura.",
+              "unidade": "UND",
+              "quantidade": "1,00",
+              "valor_referencia": "3.615,35"
+            },
+            {
+              "numero": "2",
+              "especificacao": "9900515004 Cilindro para argônio com capacidade de 7 litros:Fabricado em aço carbono, capacidade de 1 m³, pressão de serviço de 150 bar, altura aproximada de 70 cm, diâmetro de 15 cm, recarregável.",
+              "unidade": "UND",
+              "quantidade": "1,00",
+              "valor_referencia": "1.057,87"
+            },
+            {
+              "numero": "3",
+              "especificacao": "36422 Esmerilhadeira angular:Tensão 220V, potência mínima de 850 Watts, velocidade de rotação11.000 rpm, diâmetro do disco 115 mm, empunhadura lateral removível, engrenagens em aço temperado, corpo em nylon reforçado com fibra, peso aproximado 2 kg.",
+              "unidade": "UND",
+              "quantidade": "1,00",
+              "valor_referencia": "467,81"
+            },
+            {
+              "numero": "4",
+              "especificacao": "9900515008 Estanho em fio para solda elétrica:Estanho em fio para solda elétrica, diâmetro de 1 mm, carretel de 500 g, composição 63% estanho e 37% chumbo, acabamento uniforme e de alta condutividade.",
+              "unidade": "ROLO",
+              "quantidade": "5,00",
+              "valor_referencia": "119,45"
+            },
+            {
+              "numero": "5",
+              "especificacao": "9900515033 Furadeira de impacto elétrica:Potência mínima de 560 Watts, mandril de 1/2”, velocidade variável até 3.100 rpm, capacidade de perfuração em madeira até 20 mm, concreto até 10 mm e aço até 10 mm, estrutura reforçada e ergonômica.",
+              "unidade": "UND",
+              "quantidade": "1,00",
+              "valor_referencia": "288,79"
+            },
+            {
+              "numero": "6",
+              "especificacao": "9900515011 Ferro de solda elétrico:Potência mínima de 50 Watts, tensão 220V, temperatura máxima 510°C, comprimento de 225 mm, ponta de longa durabilidade tratada em ferro e alumínio, dupla isolação, empunhadura anatômica que dissipa calor.",
+              "unidade": "UND",
+              "quantidade": "2,00",
+              "valor_referencia": "43,76"
+            },
+            {
+              "numero": "7",
+              "especificacao": "9900515050 Furadeira e parafusadeira portátil, bateria de lítio recarregável 36V:36V (2 baterias inclusas), torque de 15 N·m, potência mínima de 340 W, velocidade variável e reversível até 1.550 rpm, mandril de 10 mm em aço inox, com maleta e kit de acessórios (bits, soquetes, eixo extensor, carregador bivolt).",
+              "unidade": "UND",
+              "quantidade": "1,00",
+              "valor_referencia": "283,26"
+            },
+            {
+              "numero": "8",
+              "especificacao": "5707611101 Jogo de microrretífica 115 Watts:Tensão 220V, rotação máxima de 30.000 rpm, com maleta plástica contendo 174 acessórios diversos (brocas, discos de corte, escovas, lixas, pinças, rebolos, hastes, chave e pasta de polimento), ideal para corte, lixamento, polimento e gravação.",
+              "unidade": "JOG",
+              "quantidade": "1,00",
+              "valor_referencia": "384,21"
+            },
+            {
+              "numero": "9",
+              "especificacao": "36423 Moto esmeril de 6 polegadas:Potência mínima de 550 Watts, bivolt, equipada com protetor de visibilidade com lente de aumento, suporte de afiação, interruptor liga/desliga, chave seletora de tensão, amortecedores antivibração, tensão de 110/220V ? 60 Hz, rotação de 2.800 rpm, com 2 rebolos de 150 mm (grãos 36 e 60), estrutura robusta para uso contínuo em oficinas e laboratórios.",
+              "unidade": "UND",
+              "quantidade": "1,00",
+              "valor_referencia": "367,41"
+            },
+            {
+              "numero": "10",
+              "especificacao": "9900515020 Multímetro digital portátil:Display iluminado, funções de voltagem AC/DC, corrente, resistência, teste de cabos, USB e telefonia, com função Data Hold, corpo ergonômico em plástico ABS e componentes eletrônicos de alta precisão. telefonia, com função Data Hold, corpo ergonômico em plástico ABS e componentes eletrônicos de alta precisão.",
+              "unidade": "UND",
+              "quantidade": "2,00",
+              "valor_referencia": "66,97"
+            },
+            {
+              "numero": "11",
+              "especificacao": "9900515021 Mangueira de ar/água:Diâmetro interno de 1/4” (6 mm), comprimento de 15 metros, fabricada em PVC flexível, resistente à pressão e temperatura de até 60°C.",
+              "unidade": "UND",
+              "quantidade": "1,00",
+              "valor_referencia": "72,80"
+            },
+            {
+              "numero": "12",
+              "especificacao": "9900515022 Mangueira espiral de ar comprimido de 10 metros:Diâmetro interno de 1/4”, fabricada em PVC flexível, resistente a até 150 psi, com conexões macho/fêmea e bico soprador.",
+              "unidade": "UND",
+              "quantidade": "2,00",
+              "valor_referencia": "88,35"
+            },
+            {
+              "numero": "13",
+              "especificacao": "5707611102 Morsa de bancada nº 8:Fabricada em ferro nodular, mordentes integrados ao corpo, bigorna reforçada, fuso e manípulo em aço forjado com tratamento zincado eletrolítico, largura do mordente de 200 mm e abertura máxima de 203 mm, estrutura robusta e durável.",
+              "unidade": "UND",
+              "quantidade": "1,00",
+              "valor_referencia": "569,78"
+            },
+            {
+              "numero": "14",
+              "especificacao": "9900515030 Pasta para solda em estanho, embalagem de 110 g:Composição à base de cloreto de zinco e cloreto de amônia (aprox. 17%), cor âmbar, utilizada para facilitar o processo de soldagem.",
+              "unidade": "UND",
+              "quantidade": "2,00",
+              "valor_referencia": "14,70"
+            },
+            {
+              "numero": "15",
+              "especificacao": "9900515026 Paquímetro digital de 150 mm (6 ):Quadrimensional, confeccionado em aço inox temperado, resolução de 0,01 mm/0.0005”, display com dígitos grandes de 11 mm, faces lapidadas, tecla liga/desliga e zeragem em qualquer ponto, com conversão milímetro/polegada.",
+              "unidade": "UND",
+              "quantidade": "2,00",
+              "valor_referencia": "252,68"
+            },
+            {
+              "numero": "16",
+              "especificacao": "9900515051 Soprador térmico elétrico, potência mínima de 1.500 Watts, tensão 220V:Fluxo de ar regulável entre 250 e 550 L/min, temperaturas de 300°C e 500°C, acompanha maleta plástica, cabos, acessórios (bicos diversos, espátula e raspador).",
+              "unidade": "UND",
+              "quantidade": "2,00",
+              "valor_referencia": "175,64"
+            },
+            {
+              "numero": "17",
+              "especificacao": "9900515032 Suporte para ferro de solda:Confeccionado em base metálica resistente, tubo isolador em latão galvanizado, mola em aço inox, acompanha esponja vegetal para limpeza, compatível com ferros de até 100 mm de comprimento.",
+              "unidade": "UND",
+              "quantidade": "2,00",
+              "valor_referencia": "22,03"
             }
           ]
         }
