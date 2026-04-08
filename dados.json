@@ -1,10 +1,10 @@
 {
   "metadata": {
     "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-    "total_processos": 755,
-    "total_lotes": 8624,
-    "total_itens": 14408,
-    "atualizado_em": "20260407_173733"
+    "total_processos": 757,
+    "total_lotes": 8626,
+    "total_itens": 14410,
+    "atualizado_em": "20260408_193521"
   },
   "processos": [
     {
@@ -262566,6 +262566,94 @@
               "unidade": "UND",
               "quantidade": "2,00",
               "valor_referencia": "22,03"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-054-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "232/2026",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "PUBLICADO",
+      "condutor": "SERGIO CARNEIRO CAVALCANTI DE AZEVEDO",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO PARCELADA",
+      "publicacao": "08/04/2026 17:16",
+      "inicio_recepcao": "10/04/2026 08:30",
+      "fim_recepcao": "23/04/2026 08:15",
+      "inicio_disputa": "23/04/2026 08:30",
+      "objeto": "Contratação de empresa especializada em fornecimento de PLAQUETAS PATRIMONIAIS (material de consumo), a fim de atender as demandas da Secretaria Municipal de Administração e demais secretarias.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5D01_L9h1ZUrDmFKe6JdDWTgVjwmhfcuwearXQIXm5czpRBfnS%2Ff%2FOtW7OpfHebBUnm6ZtwvzC_28K0cZOsXVK1lULbY4r3OjA1NgTIjMIK78%3D",
+      "total_lotes": 1,
+      "total_itens": 1,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "PLAQUETA PATRIMONIAL",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515365 Plaqueta de identificação patrimonial em alumínioanodizado, formato 50x20mm (5 cm x 2 cm):espessuraaproximada entre 0,15mm e 0,30mm, com acabamentoresistente à abrasão, umidade e produtos de limpeza; alumíniode alta qualidade, rígido ou semi-flexível, com cantos retos oulevemente arredondados, sem rebarbas ou arestas cortantes,garantindo segurança no manuseio; superfície tratada(anodização ou similar) para assegurar alta durabilidade damarcação, mantendo a legibilidade das informações ao longo dotempo; impressão em alto contraste, em 1 ou 2 cores, contendo,no mínimo, identificação do ente/órgão público, a expressão\"Patrimônio\", numeração sequencial individualizada para cadaplaqueta e área destinada a código de barras ou QR Code,possibilitando leitura óptica e integração com sistemainformatizado de controle patrimonial; numeração sequencialproduzida sem falhas, sem repetições e sem quebras indevidas,conforme faixa fornecida pelo setor de patrimônio; fixação pormeio de adesivo dupla face de alta aderência (tipo 3M ouequivalente), aplicado em toda a face posterior da plaqueta,adequado para superfícies lisas de metal, plástico ou madeira,garantindo forte aderência e resistência ao descolamento emambiente interno, dispensando uso de parafusos ou rebites;material apropriado para aplicação em computadores,impressoras, mobiliários, eletrodomésticos, equipamentospedagógicos e demais bens permanentes, resistindo àmanipulação cotidiana e à limpeza com panos úmidos e produtosneutros; fornecimento com layout personalizado, respeitandopadrão institucional; as plaquetas deverão ser entreguesdevidamente numeradas, organizadas em sequência lógica,acondicionadas em embalagens que evitem riscos, amassados edanos à impressão, acompanhadas de relação em meio físico e,preferencialmente, arquivo digital contendo a numeraçãoproduzida, para auxiliar no registro e lançamento no sistema decontrole patrimonial, em conformidade com práticas usualmenteadotadas em termos de referência e contratações públicas deplaquetas patrimoniais em alumínio. EXCLUSIVO PARAME/EPP.",
+              "unidade": "UN",
+              "quantidade": "15.000,00",
+              "valor_referencia": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-050-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "123/2026",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "PUBLICADO",
+      "condutor": "JONATAS DA SILVA SOUSA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO",
+      "publicacao": "08/04/2026 17:12",
+      "inicio_recepcao": "10/04/2026 08:30",
+      "fim_recepcao": "27/04/2026 08:15",
+      "inicio_disputa": "27/04/2026 08:30",
+      "objeto": "Contratação de empresa especializada em prestação de serviço de LEVANTAMENTO TOPOGRÁFICO PLANIALTIMÉTRICO PARA REALIZAÇÃO DE GEORREFERENCIAMENTO DE ROTAS ESCOLARES, a fim de atender as demandas da Secretaria Municipal de Educação.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DwAM2NmDLzZF6%2FgHHqfXML0u5cFidTzwjS2MM798gPHySUYlo69KGp0xTURZPQTJNEfuZ%2Fu49is5qRuVCw9nMiq7CCeo1KgIdc6nB49%2Flxv4%3D",
+      "total_lotes": 1,
+      "total_itens": 1,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "GEORREFERENCIAMENTO",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9903311812 Serviço de levantamento topográfico planialtimétricoe georreferenciamento completo das rotas escolares domunicípio:abrangendo visitas de campo, coleta de dados porreceptores GNSS/GPS de alta precisão, medição de distânciasreais considerando curvas, declividades e vias vicinais,identificação de pontos notáveis e condicionantes geográficos,compatibilização com a malha viária oficial e geração de basegeoespacial em formato digital (shapefile, geojson ouequivalente), com elaboração de mapeamento cartográfico digitalconsolidado, contendo todas as rotas levantadas, pontos deembarque e desembarque, localização das escolas atendidas,delimitação das zonas urbana e rural, vias de acesso, pontoscríticos (aclives, declives, travessias e estradas nãopavimentadas), representação sobre malha viária real, geraçãode plantas em escala adequada e integração dos dados aoSistema de Informações Geográficas (SIG), acompanhada derelatório técnico detalhado, memorial descritivo e plantageorreferenciada das rotas escolares.",
+              "unidade": "KM",
+              "quantidade": "4.800,00",
+              "valor_referencia": ""
             }
           ]
         }
