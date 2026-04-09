@@ -1,6 +1,192 @@
 <!DOCTYPE html>
 <html lang="pt-BR" class="h-full">
 <head>
+<!-- Playables SDK -->
+<script>// Playables SDK v1.0.0
+// Game lifecycle bridge: rAF-based game-ready detection + event communication
+(function() {
+  'use strict';
+
+  var HANDLER_NAME = 'playablesGameEventHandler';
+  var ANDROID_BRIDGE_NAME = '_MetaPlayablesBridge';
+  var RAF_FRAME_THRESHOLD = 3;
+
+  var gameReadySent = false;
+  var firstInteractionSent = false;
+  var errorSent = false;
+  var frameCount = 0;
+  var originalRAF = window.requestAnimationFrame;
+
+  // --- Transport Layer ---
+
+  function hasIOSBridge() {
+    return !!(window.webkit &&
+              window.webkit.messageHandlers &&
+              window.webkit.messageHandlers[HANDLER_NAME]);
+  }
+
+  function hasAndroidBridge() {
+    return !!(window[ANDROID_BRIDGE_NAME] &&
+              typeof window[ANDROID_BRIDGE_NAME].postEvent === 'function');
+  }
+
+  function isInIframe() {
+    return !!(window.parent && window.parent !== window);
+  }
+
+  function sendEvent(eventName, payload) {
+    var message = {
+      type: eventName,
+      payload: payload || {},
+      timestamp: Date.now()
+    };
+
+    if (hasIOSBridge()) {
+      try {
+        window.webkit.messageHandlers[HANDLER_NAME].postMessage(message);
+      } catch (e) { /* ignore */ }
+      return;
+    }
+
+    if (hasAndroidBridge()) {
+    try {
+      var p = payload || {};
+      p.__secureToken = window.__fbAndroidBridgeAuthToken || '';
+      window[ANDROID_BRIDGE_NAME].postEvent(
+        eventName,
+        JSON.stringify(p)
+      );
+    } catch (e) { /* ignore */ }
+    return;
+  }
+
+    if (isInIframe()) {
+      try {
+        window.parent.postMessage(message, '*');
+      } catch (e) { /* ignore */ }
+      return;
+    }
+  }
+
+  // --- rAF Game-Ready Detection ---
+
+  function onFrame() {
+    if (gameReadySent) return;
+
+    frameCount++;
+    if (frameCount >= RAF_FRAME_THRESHOLD) {
+      gameReadySent = true;
+      sendEvent('game_ready', {
+        frame_count: frameCount,
+        detected_at: Date.now()
+      });
+      return;
+    }
+
+    originalRAF.call(window, onFrame);
+  }
+
+  if (originalRAF) {
+    window.requestAnimationFrame = function(callback) {
+      if (!gameReadySent) {
+        return originalRAF.call(window, function(timestamp) {
+          frameCount++;
+          if (frameCount >= RAF_FRAME_THRESHOLD && !gameReadySent) {
+            gameReadySent = true;
+            sendEvent('game_ready', {
+              frame_count: frameCount,
+              detected_at: Date.now()
+            });
+          }
+          callback(timestamp);
+        });
+      }
+      return originalRAF.call(window, callback);
+    };
+  }
+
+  // --- First User Interaction Detection ---
+
+  function setupFirstInteractionDetection() {
+    var events = ['touchstart', 'mousedown', 'keydown'];
+
+    function onFirstInteraction() {
+      if (firstInteractionSent) return;
+      firstInteractionSent = true;
+      sendEvent('user_interaction_start', null);
+
+      for (var i = 0; i < events.length; i++) {
+        document.removeEventListener(events[i], onFirstInteraction, true);
+      }
+    }
+
+    for (var i = 0; i < events.length; i++) {
+      document.addEventListener(events[i], onFirstInteraction, true);
+    }
+  }
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', setupFirstInteractionDetection);
+  } else {
+    setupFirstInteractionDetection();
+  }
+
+  // --- Auto Error Capture ---
+
+  window.addEventListener('error', function(event) {
+    if (errorSent) return;
+    errorSent = true;
+    sendEvent('error', {
+      message: event.message || 'Unknown error',
+      source: event.filename || '',
+      lineno: event.lineno || 0,
+      colno: event.colno || 0,
+      auto_captured: true
+    });
+  });
+
+  window.addEventListener('unhandledrejection', function(event) {
+    if (errorSent) return;
+    errorSent = true;
+    var reason = event.reason;
+    sendEvent('error', {
+      message: (reason instanceof Error) ? reason.message : String(reason),
+      type: 'unhandled_promise_rejection',
+      auto_captured: true
+    });
+  });
+
+  // --- Public API ---
+
+  window.playablesSDK = {
+    complete: function(score) {
+      sendEvent('game_ended', {
+        score: score,
+        completed: true
+      });
+    },
+
+    error: function(message) {
+      if (errorSent) return;
+      errorSent = true;
+      sendEvent('error', {
+        message: message || 'Unknown error',
+        auto_captured: false
+      });
+    },
+
+    sendEvent: function(eventName, payload) {
+      if (!eventName || typeof eventName !== 'string') return;
+      sendEvent(eventName, payload);
+    }
+  };
+
+  // Kick off rAF detection in case no game code calls rAF immediately
+  if (originalRAF) {
+    originalRAF.call(window, onFrame);
+  }
+})();</script>
+<script>window.Intl=window.Intl||{};Intl.t=function(s){return(Intl._locale&&Intl._locale[s])||s;};</script>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>BLL Explorer | Teixeira de Freitas</title>
@@ -33,18 +219,74 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf-autotable/3.8.2/jspdf.plugin.autotable.min.js"></script>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;700&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-    <style>
+<style>
+        :root {
+            --surface: 255 255 255;
+            --surface-glass: 255 255 255 / 0.75;
+            --border-subtle: 226 232 240;
+            --text-muted: 100 116 139;
+        }
+        .dark {
+            --surface: 15 23 42;
+            --surface-glass: 15 23 42 / 0.75;
+            --border-subtle: 30 41 59;
+            --text-muted: 148 163 184;
+        }
+        body { font-family: 'Inter', sans-serif; scroll-behavior: smooth; }
+        code, .mono { font-family: 'JetBrains Mono', monospace; }
+        .glass-effect { background: rgb(var(--surface-glass)); backdrop-filter: blur(16px) saturate(150%); -webkit-backdrop-filter: blur(16px) saturate(150%); border: 1px solid rgb(255 255 255 / 0.08); }
+        .custom-scrollbar::-webkit-scrollbar { width: 6px; height: 6px; }
+        .custom-scrollbar::-webkit-scrollbar-track { background: transparent; }
+        .custom-scrollbar::-webkit-scrollbar-thumb { background: #cbd5e1; border-radius: 10px; transition: background .15s; }
+        .custom-scrollbar::-webkit-scrollbar-thumb:hover { background: #94a3b8; }
+        .dark .custom-scrollbar::-webkit-scrollbar-thumb { background: #334155; }
+        .dark .custom-scrollbar::-webkit-scrollbar-thumb:hover { background: #475569; }
+        mark { background: #fde047; color: #422006; padding: 1px 3px; border-radius: 3px; font-weight: 600; box-shadow: 0 0 0 1px #facc15; }
+        .dark mark { background: #92400e; color: #fef3c7; box-shadow: 0 0 0 1px #b45309; }
+        mark.current { background: #fb923c; color: #fff; box-shadow: 0 0 0 1px #ea580c; }
+        @media (prefers-reduced-motion: reduce) { * { animation-duration: 0.01ms !important; animation-iteration-count: 1 !important; transition-duration: 0.01ms !important; scroll-behavior: auto !important; } }
+        /* Toasts */
+        #toast-container { position: fixed; top: 80px; right: 20px; z-index: 10000; display: flex; flex-direction: column; gap: 8px; pointer-events: none; }
+        .toast { pointer-events: all; background: white; border: 1px solid #e2e8f0; border-left: 4px solid #2563eb; padding: 10px 14px; border-radius: 8px; box-shadow: 0 4px 16px rgba(0,0,0,.1); font-size: 13px; max-width: 320px; animation: slideIn .25s ease; }
+        .dark .toast { background: #0f172a; border-color: #1e293b; color: #e2e8f0; }
+        .toast.success { border-left-color: #16a34a; }
+        .toast.error { border-left-color: #dc2626; }
+        .toast.info { border-left-color: #2563eb; }
+        @keyframes slideIn { from { transform: translateX(20px); opacity: 0; } to { transform: translateX(0); opacity: 1; } }
+        /* Mobile bottom sheet */
+        @media (max-width: 640px) {
+            #ai-panel { width: 100% !important; right: 0 !important; left: 0 !important; bottom: 0 !important; max-height: 85vh; border-radius: 18px 18px 0 0; }
+            #ai-fab { bottom: 20px; right: 20px; width: 56px; height: 56px; }
+            #toast-container { top: auto; bottom: 90px; right: 12px; left: 12px; }
+        }
+        /* Copy button */
+        .ai-msg-wrapper { position: relative; display: flex; flex-direction: column; gap: 4px; }
+        .ai-msg-actions { display: flex; gap: 6px; opacity: 0; transition: opacity .15s; margin-top: 4px; }
+        .ai-msg-wrapper:hover .ai-msg-actions { opacity: 1; }
+        .ai-action-btn { background: transparent; border: 1px solid #e2e8f0; color: #64748b; font-size: 11px; padding: 2px 6px; border-radius: 6px; cursor: pointer; }
+        .dark .ai-action-btn { border-color: #334155; color: #94a3b8; }
+        .ai-action-btn:hover { background: #f1f5f9; }
+        .dark .ai-action-btn:hover { background: #1e293b; }
+        /* Command palette */
+        #cmdk-backdrop { position: fixed; inset: 0; background: rgba(0,0,0,.4); backdrop-filter: blur(4px); z-index: 9999; opacity: 0; pointer-events: none; transition: opacity .15s; }
+        #cmdk-backdrop.open { opacity: 1; pointer-events: all; }
+        #cmdk { position: fixed; top: 20%; left: 50%; transform: translateX(-50%) scale(.96); width: 90%; max-width: 560px; background: white; border-radius: 14px; box-shadow: 0 20px 60px rgba(0,0,0,.2); z-index: 10000; opacity: 0; pointer-events: none; transition: all .18s; }
+        .dark #cmdk { background: #0f172a; border: 1px solid #1e293b; }
+        #cmdk.open { opacity: 1; pointer-events: all; transform: translateX(-50%) scale(1); }
+        #cmdk input { width: 100%; padding: 14px 16px; border: none; border-bottom: 1px solid #e2e8f0; background: transparent; font-size: 15px; outline: none; }
+        .dark #cmdk input { border-color: #1e293b; color: #e2e8f0; }
+
+
         body { font-family: 'Inter', sans-serif; }
         code, .mono { font-family: 'JetBrains Mono', monospace; }
-        .glass-effect { background: rgba(255,255,255,0.9); backdrop-filter: blur(12px); }
-        .dark .glass-effect { background: rgba(10,15,30,0.9); }
-        .custom-scrollbar::-webkit-scrollbar { width: 5px; height: 5px; }
-        .custom-scrollbar::-webkit-scrollbar-track { background: transparent; }
-        .custom-scrollbar::-webkit-scrollbar-thumb { background: #cbd5e1; border-radius: 10px; }
-        .dark .custom-scrollbar::-webkit-scrollbar-thumb { background: #334155; }
-        mark { background: #fef08a; color: #854d0e; padding: 0 2px; border-radius: 2px; }
-        .dark mark { background: #854d0e; color: #fef08a; }
+        
+        .dark 
+        
+        
+        
+        .dark 
+        
+        .dark 
         .modal-backdrop { transition: opacity 0.25s ease; }
         .modal-content  { transition: transform 0.25s ease, opacity 0.25s ease; }
         .modal-hidden   { opacity: 0; pointer-events: none; }
@@ -66,8 +308,8 @@
         .alert-proximo { border-left: 3px solid #f59e0b; }
         .alert-info    { border-left: 3px solid #3b82f6; }
         /* ── HIGHLIGHT ── */
-        mark { background: #fef08a; color: #854d0e; padding: 1px 3px; border-radius: 3px; font-weight: 600; box-shadow: 0 0 0 1px #fcd34d; }
-        .dark mark { background: #78350f; color: #fde68a; box-shadow: 0 0 0 1px #92400e; }
+        
+        .dark 
         mark.current { background: #fb923c; color: #fff; box-shadow: 0 0 0 1px #ea580c; }
         /* ── EXPORT BTN ── */
         .export-btn { transition: all .15s; }
@@ -141,9 +383,17 @@
         #ai-send:hover { background:#1d4ed8; }
         #ai-send:disabled { background:#94a3b8; cursor:not-allowed; }
         #ai-status { padding:4px 14px 2px; font-size:10px; color:#94a3b8; flex-shrink:0; min-height:16px; }
-    </style>
+    
+</style>
 </head>
 <body class="bg-slate-50 dark:bg-slate-950 text-slate-900 dark:text-slate-100 transition-colors duration-300 overflow-x-hidden">
+<div id="toast-container" aria-live="polite"></div>
+<div id="cmdk-backdrop" onclick="toggleCmdk(false)"></div>
+<div id="cmdk" role="dialog" aria-modal="true">
+  <input id="cmdk-input" type="text" placeholder="Buscar processos, itens ou comandos... (↑↓ para navegar)" autocomplete="off">
+  <div id="cmdk-list" style="max-height: 320px; overflow-y: auto; padding: 8px;"></div>
+</div>
+
 <div class="min-h-screen flex flex-col">
 
 <!-- ── HEADER ──────────────────────────────────────────────────────── -->
@@ -151,7 +401,7 @@
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-16 flex items-center justify-between gap-3">
         <div class="flex items-center gap-3 shrink-0">
             <div id="header-icon" class="bg-blue-600 p-2 rounded-lg shadow transition-colors">
-                <i class="fas fa-gavel text-white text-sm"></i>
+                <svg class="text-white" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="m14.5 12.5-8 8a2.119 2.119 0 1 1-3-3l8-8"/><path d="m16 16 6-6"/><path d="m8 8 6-6"/><path d="m9 7 8 8"/><path d="m21 11-8-8"/></svg><!-- text-sm"></i>
             </div>
             <div>
                 <h1 class="text-base font-bold leading-tight">BLL <span id="header-title" class="text-blue-600">Licitações</span></h1>
@@ -1792,10 +2042,10 @@ function exportPDF() {
     let head, body;
     if (isLicit) {
         if (viewMode === 'registros') {
-            head = [['Nº Edital','Modalidade','Objeto','Lotes','Valor Ref.','Situação']];
+            head = [['Nº Edital','Modalidade','Objeto','Condutor','Lotes','Valor Ref.','Situação']];
             body = filteredData.map(r => {
                 const val = (r.lotes||[]).reduce((s,l)=>s+parseValor(l.valor_referencia||0),0);
-                return [r.id||'', r.modalidade||'', r.objeto||'', r.total_lotes||0, val>0?fmtBRL(val):'–', r.situacao||''];
+                return [r.id||'', r.modalidade||'', (r.objeto||'').substring(0,70), r.condutor||'', r.total_lotes||0, val>0?fmtBRL(val):'–', r.situacao||''];
             });
         } else {
             head = [['Processo','Lote','Especificação','Un.','Qtd.','Valor Ref.','Situação']];
@@ -1828,7 +2078,7 @@ function exportPDF() {
         styles: { fontSize: 7, cellPadding: 2.5, overflow: 'linebreak' },
         headStyles: { fillColor: cor, textColor: 255, fontStyle: 'bold', fontSize: 7.5 },
         alternateRowStyles: { fillColor: [248,250,252] },
-        columnStyles: viewMode==='registros' && isLicit ? { 2:{cellWidth:120} } : {},
+        columnStyles: viewMode==='registros' && isLicit ? { 2:{cellWidth:75}, 3:{cellWidth:40} } : {},
         margin: { left: 10, right: 10 },
         didDrawPage: (data) => {
             // Rodapé
@@ -1848,20 +2098,20 @@ loadData();
 </script>
 
 <!-- ── CHAT IA FLUTUANTE ─────────────────────────────────────────────────── -->
-<button id="ai-fab" onclick="aiToggle()" title="Assistente IA de Licitações">
+<button id="ai-fab" onclick="aiToggle()" title="Assistente IA de Licitações" aria-label="Abrir assistente de licitações" aria-expanded="false" aria-controls="ai-panel">
   <svg viewBox="0 0 24 24" fill="white" xmlns="http://www.w3.org/2000/svg" style="width:24px;height:24px"><path d="M12 2a2 2 0 0 1 2 2c0 .74-.4 1.38-1 1.73V7h1a7 7 0 0 1 7 7h1a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1h-1a7 7 0 0 1-7 7H9a7 7 0 0 1-7-7H1a1 1 0 0 1-1-1v-3a1 1 0 0 1 1-1h1a7 7 0 0 1 7-7h1V5.73c-.6-.35-1-.99-1-1.73a2 2 0 0 1 2-2zm0 7a5 5 0 0 0-5 5v3a5 5 0 0 0 5 5h0a5 5 0 0 0 5-5v-3a5 5 0 0 0-5-5zm-2 4a1.5 1.5 0 1 1 0 3 1.5 1.5 0 0 1 0-3zm4 0a1.5 1.5 0 1 1 0 3 1.5 1.5 0 0 1 0-3z"/></svg>
 </button>
 
-<div id="ai-panel">
+<div id="ai-panel" role="dialog" aria-modal="true" aria-labelledby="ai-panel-title">
   <div id="ai-panel-header">
-    <h3>
+    <h3 id="ai-panel-title">
       <svg width="16" height="16" viewBox="0 0 24 24" fill="white"><path d="M12 2a2 2 0 0 1 2 2c0 .74-.4 1.38-1 1.73V7h1a7 7 0 0 1 7 7h1a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1h-1a7 7 0 0 1-7 7H9a7 7 0 0 1-7-7H1a1 1 0 0 1-1-1v-3a1 1 0 0 1 1-1h1a7 7 0 0 1 7-7h1V5.73c-.6-.35-1-.99-1-1.73a2 2 0 0 1 2-2zm0 7a5 5 0 0 0-5 5v3a5 5 0 0 0 5 5h0a5 5 0 0 0 5-5v-3a5 5 0 0 0-5-5zm-2 4a1.5 1.5 0 1 1 0 3 1.5 1.5 0 0 1 0-3zm4 0a1.5 1.5 0 1 1 0 3 1.5 1.5 0 0 1 0-3z"/></svg>
       Assistente IA
       <span class="ai-badge">GPT-4o mini</span>
     </h3>
-    <button id="ai-close" onclick="aiToggle()">✕</button>
+    <button id="ai-close" aria-label="Fechar assistente" onclick="aiToggle()">✕</button>
   </div>
-  <div id="ai-messages">
+  <div id="ai-messages" aria-live="polite" aria-atomic="false">
     <div class="ai-msg bot">Olá! Sou o assistente de licitações de Teixeira de Freitas. Posso pesquisar processos, itens, fornecedores e valores nos dados do município. Como posso ajudar?</div>
   </div>
   <div id="ai-suggestions">
@@ -1871,9 +2121,9 @@ loadData();
     <button onclick="aiSuggest('Processos com sessão hoje')">Sessão hoje</button>
   </div>
   <div id="ai-status"></div>
-  <div id="ai-input-area">
+  <div id="ai-input-area" role="form" aria-label="Enviar mensagem">
     <textarea id="ai-input" rows="1" placeholder="Pesquise por processo, item, fornecedor…" onkeydown="aiKeyDown(event)" oninput="aiAutoResize(this)"></textarea>
-    <button id="ai-send" onclick="aiSend()">
+    <button id="ai-send" aria-label="Enviar mensagem" title="Enviar (Enter)" onclick="aiSend()">
       <svg width="16" height="16" viewBox="0 0 24 24" fill="white"><path d="M2 21l21-9L2 3v7l15 2-15 2z"/></svg>
     </button>
   </div>
@@ -2113,6 +2363,45 @@ async function aiSend() {
     aiLoading = false;
   }
 }
+
+
+// === MELHORIAS UX - BLL Explorer ===
+let aiController = null;
+let aiHistory = JSON.parse(localStorage.getItem('bll-chat') || '[]');
+
+// Toast system
+function showToast(msg, type='info') {
+  const c = document.getElementById('toast-container');
+  if(!c) return;
+  const t = document.createElement('div');
+  t.className = 'toast ' + type;
+  t.textContent = msg;
+  c.appendChild(t);
+  setTimeout(() => { t.style.opacity='0'; t.style.transform='translateX(20px)'; setTimeout(()=>t.remove(),200); }, 4000);
+}
+function saveHistory() { try { localStorage.setItem('bll-chat', JSON.stringify(aiHistory.slice(-50))); } catch(e){} }
+async function copyText(txt) { try { await navigator.clipboard.writeText(txt); showToast('Copiado!', 'success'); } catch { showToast('Não foi possível copiar', 'error'); } }
+function updateSuggestions(context) {
+  const box = document.getElementById('ai-suggestions'); if(!box) return;
+  let sug = [];
+  if(/limpeza|material/i.test(context)) sug = ['Filtrar por fornecedores','Maior valor em limpeza','Exportar lista'];
+  else if(/valor|R\$/i.test(context)) sug = ['Comparar com ano anterior','Top 5 fornecedores','Gerar PDF'];
+  else if(/processo|PE-/i.test(context)) sug = ['Ver timeline','Adicionar à watchlist','Ver itens'];
+  else sug = ['Processos de hoje','Maior valor licitado','Material de limpeza'];
+  box.innerHTML = sug.map(s => `<button onclick="aiSuggest('${s}')">${s}</button>`).join('');
+  box.style.display = 'flex';
+}
+function toggleCmdk(open){ const b=document.getElementById('cmdk-backdrop'); const k=document.getElementById('cmdk'); const inp=document.getElementById('cmdk-input'); if(open){b.classList.add('open');k.classList.add('open');setTimeout(()=>inp?.focus(),50);populateCmdk('');}else{b.classList.remove('open');k.classList.remove('open');}}
+function populateCmdk(q){ const list=document.getElementById('cmdk-list'); if(!list) return; const cmds=[{n:'Buscar processo PE-',a:()=>document.getElementById('ai-fab')?.click()},{n:'Alternar tema',a:()=>document.documentElement.classList.toggle('dark')},{n:'Exportar chat em PDF',a:()=>exportChatPDF()},{n:'Limpar histórico',a:()=>{aiHistory=[];saveHistory();document.getElementById('ai-messages').innerHTML='<div class="ai-msg bot">Histórico limpo. Como posso ajudar?</div>';showToast('Histórico limpo','success');}},{n:'Ir para topo',a:()=>window.scrollTo({top:0,behavior:'smooth'})}].filter(c=>!q||c.n.toLowerCase().includes(q.toLowerCase())); list.innerHTML=cmds.map(c=>`<button style="width:100%;text-align:left;padding:8px 12px;border:none;background:transparent;cursor:pointer;border-radius:6px" onmouseover="this.style.background='#f1f5f9'" onmouseout="this.style.background='transparent'" onclick="toggleCmdk(false);(${c.a.toString()})()">${c.n}</button>`).join('');}
+document.addEventListener('keydown', e=>{ if((e.metaKey||e.ctrlKey)&&e.key.toLowerCase()==='k'){e.preventDefault();toggleCmdk(true);} if(e.key==='Escape'){if(document.getElementById('ai-panel')?.classList.contains('open'))aiToggle();toggleCmdk(false);} });
+document.getElementById('cmdk-input')?.addEventListener('input', e=>populateCmdk(e.target.value));
+function exportChatPDF(){ try{ const {jsPDF}=window.jspdf; const doc=new jsPDF(); let y=15; doc.setFontSize(14); doc.text('BLL Explorer - Chat IA',14,y); y+=10; doc.setFontSize(10); aiHistory.forEach(m=>{ const lines=doc.splitTextToSize((m.role==='user'?'Você: ':'IA: ')+m.content,180); lines.forEach(l=>{if(y>280){doc.addPage();y=15;} doc.text(l,14,y); y+=6;}); y+=2;}); doc.save('chat-bll.pdf'); showToast('PDF gerado','success'); }catch(e){showToast('Erro ao gerar PDF','error');}}
+const _origAiAddMsg=window.aiAddMsg; window.aiAddMsg=function(type,text){ const msgs=document.getElementById('ai-messages'); const wrapper=document.createElement('div'); wrapper.className='ai-msg-wrapper'; const div=document.createElement('div'); div.className='ai-msg '+(type==='user'?'user':'bot'); div.innerHTML=type==='error'?text:(type==='user'?text.replace(/</g,'&lt;'):aiMarkdown(text)); wrapper.appendChild(div); if(type!=='user'&&type!=='error'){ const actions=document.createElement('div'); actions.className='ai-msg-actions'; actions.innerHTML=`<button class="ai-action-btn" onclick="copyText(this.parentNode.parentNode.querySelector('.ai-msg').innerText)">Copiar</button><button class="ai-action-btn" onclick="exportChatPDF()">PDF</button>`; wrapper.appendChild(actions);} msgs.appendChild(wrapper); msgs.scrollTop=msgs.scrollHeight; if(type!=='error'){updateSuggestions(text);} };
+const _origAiToggle=window.aiToggle; window.aiToggle=function(){ const panel=document.getElementById('ai-panel'); const fab=document.getElementById('ai-fab'); if(_origAiToggle)_origAiToggle(); else panel.classList.toggle('open'); const nowOpen=panel.classList.contains('open'); fab?.setAttribute('aria-expanded',nowOpen); if(nowOpen){setTimeout(()=>document.getElementById('ai-input')?.focus(),200); showToast('Assistente pronto','info');}};
+window.aiSend=async function(){ if(window.aiLoading) return; const input=document.getElementById('ai-input'); const text=input.value.trim(); if(!text) return; document.getElementById('ai-suggestions').style.display='none'; input.value=''; input.style.height='auto'; const sendBtn=document.getElementById('ai-send'); sendBtn.disabled=true; sendBtn.innerHTML='<svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2"><rect x="6" y="6" width="12" height="12" rx="1"/></svg>'; sendBtn.title='Parar'; const prevOnclick=sendBtn.onclick; sendBtn.onclick=()=>{if(aiController)aiController.abort();}; window.aiLoading=true; aiAddMsg('user',text); aiHistory.push({role:'user',content:text}); saveHistory(); aiShowTyping(); aiSetStatus('Pesquisando…'); showToast('Pesquisando licitações...','info'); try{ aiController=new AbortController(); const resp=await fetch(AI_BACKEND,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({messages:aiHistory,query:text}),signal:aiController.signal}); const contentType=resp.headers.get('content-type')||''; const isSSE=contentType.includes('text/event-stream'); if(!resp.ok&&!isSSE) throw new Error('Backend retornou '+resp.status); aiHideTyping(); aiSetStatus(''); const wrapper=document.createElement('div'); wrapper.className='ai-msg-wrapper'; const botDiv=document.createElement('div'); botDiv.className='ai-msg bot'; botDiv.innerHTML=''; wrapper.appendChild(botDiv); const actions=document.createElement('div'); actions.className='ai-msg-actions'; actions.innerHTML=`<button class="ai-action-btn" onclick="copyText(this.parentNode.parentNode.querySelector('.ai-msg').innerText)">Copiar</button>`; wrapper.appendChild(actions); document.getElementById('ai-messages').appendChild(wrapper); let fullReply=''; if(isSSE){ const reader=resp.body.getReader(); const decoder=new TextDecoder(); let buffer=''; while(true){ const {done,value}=await reader.read(); if(done)break; buffer+=decoder.decode(value,{stream:true}); const lines=buffer.split('\n'); buffer=lines.pop(); for(const line of lines){ if(!line.startsWith('data: '))continue; try{ const parsed=JSON.parse(line.slice(6)); if(parsed.delta){ fullReply+=parsed.delta; botDiv.innerHTML=aiMarkdown(fullReply); document.getElementById('ai-messages').scrollTop=999999; } }catch(_){} } } }else{ const json=await resp.json(); fullReply=json.reply||'Sem resposta.'; botDiv.innerHTML=aiMarkdown(fullReply); } if(fullReply){ aiHistory.push({role:'assistant',content:fullReply}); saveHistory(); updateSuggestions(fullReply); } }catch(e){ if(e.name==='AbortError'){ aiAddMsg('error','⚠️ Geração interrompida.'); } else { aiHideTyping(); aiSetStatus(''); aiAddMsg('error','⚠️ Erro: '+e.message); showToast('Erro na pesquisa','error'); } } finally { sendBtn.disabled=false; sendBtn.innerHTML='<svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="m22 2-7 20-4-9-9-4Z"/><path d="M22 2 11 13"/></svg>'; sendBtn.title='Enviar (Enter)'; sendBtn.onclick=window.aiSend; window.aiLoading=false; aiController=null; } };
+window.addEventListener('DOMContentLoaded',()=>{ if(aiHistory.length){ const msgs=document.getElementById('ai-messages'); msgs.innerHTML=''; aiHistory.slice(-20).forEach(m=>aiAddMsg(m.role==='user'?'user':'bot',m.content)); showToast('Histórico restaurado','info'); } const inp=document.getElementById('ai-input'); if(inp){ inp.addEventListener('keydown',e=>{ if(e.key==='Enter'&&!e.shiftKey){ e.preventDefault(); aiSend(); } }); inp.addEventListener('input',()=>{ inp.style.height='auto'; inp.style.height=Math.min(inp.scrollHeight,90)+'px'; }); } });
+
 </script>
+<footer style="text-align:center;padding:16px;font-size:11px;color:#64748b">Dados públicos extraídos do portal da transparência de Teixeira de Freitas • Atualizado em 09/04/2026</footer>
 </body>
 </html>
