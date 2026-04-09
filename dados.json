@@ -1,10 +1,10 @@
 {
   "metadata": {
     "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-    "total_processos": 757,
-    "total_lotes": 8626,
-    "total_itens": 14410,
-    "atualizado_em": "20260408_193521"
+    "total_processos": 759,
+    "total_lotes": 8635,
+    "total_itens": 14456,
+    "atualizado_em": "20260409_193508"
   },
   "processos": [
     {
@@ -261435,331 +261435,6 @@
       ]
     },
     {
-      "id": "PE-060-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "351/2026",
-      "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "PUBLICADO",
-      "condutor": "JONATAS DA SILVA SOUSA",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO",
-      "publicacao": "07/04/2026 16:38",
-      "inicio_recepcao": "09/04/2026 00:00",
-      "fim_recepcao": "21/04/2026 08:15",
-      "inicio_disputa": "21/04/2026 08:30",
-      "objeto": "Pregão Eletrônico nº 060-2026, Processo Administrativo: 351/2026, do tipo MENOR PREÇO GLOBAL. OBJETO: Contratação de empresa especializada em prestação de serviço de LICENCIAMENTO DE USO (SUBSCRIÇÃO) DE SOFTWARES DE ENGENHARIA AUTODESK, INCLUINDO SUPORTE TÉCNICO E ATUALIZAÇÕES, a fim de atender às demandas da Secretaria Municipal de Projetos Estratégicos e Gerenciamento de Convênios.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DLtYUqauEYlA2NhzrxeBUZKV3TH%2F0uOOXjJlv5pKn8bZmKlBX6vDyUt9MGnDJp2gYN2HLKFB8wDyMSttN6V%2FeXEkg1RI3mhRqcVowMvfFANs%3D",
-      "total_lotes": 1,
-      "total_itens": 3,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "LICENÇAS DE SOFTWARE",
-          "fase": "PUBLICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 3,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "202600008 LICENÇA ANUAL DE USO DO SOFTWAREAUTOCAD:destinada à criação e anotação de geometria 2D e modelos 3D, com objetos sólidos, superfície e objetos de malha; com automatização em IA, comparação de desenhos, criação de tabelas e função de publicar layouts. As licenças deverão ser oficiais do fabricante Autodesk, no modelo de usuário nomeado (named user), com direito a atualizações durante o período contratado e suporte técnico adequado, garantindo pleno funcionamento, desempenho e conformidade com as exigências técnicas aplicáveis.",
-              "unidade": "SER",
-              "quantidade": "3,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "2",
-              "especificacao": "202600009 LICENÇA ANUAL DE USO DO SOFTWAREREVIT:destinada à elaboração e compatibilização de projetos de arquitetura, estrutura e instalações, com base na metodologia de Modelagem da Informação da Construção (BIM). As licenças deverão ser oficiais do fabricante Autodesk, no modelo de usuário nomeado (named user), com atualizações incluídas durante toda a vigência contratual e suporte técnico, assegurando a adequada utilização da ferramenta, integração entre disciplinas e atendimento às necessidades técnicas da Administração.",
-              "unidade": "SER",
-              "quantidade": "6,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "3",
-              "especificacao": "202600010 LICENÇA ANUAL DE USO DO SOFTWARE CIVIL3D:destinada à elaboração de projetos de engenharia civil, terraplenagem, drenagem e sistemas viários. As licenças deverão ser oficiais do fabricante Autodesk, no modelo de usuário nomeado (named user), com direito a atualizações durante o período contratado e suporte técnico adequado, garantindo pleno funcionamento, desempenho e conformidade com as exigências técnicas aplicáveis.",
-              "unidade": "SER",
-              "quantidade": "2,00",
-              "valor_referencia": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "PE-061-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "1232 / 2025",
-      "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "PUBLICADO",
-      "condutor": "JONATAS DA SILVA SOUSA",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "REGISTRO DE PREÇO",
-      "publicacao": "07/04/2026 16:33",
-      "inicio_recepcao": "09/04/2026 08:30",
-      "fim_recepcao": "20/04/2026 09:45",
-      "inicio_disputa": "20/04/2026 10:00",
-      "objeto": "Contratação de empresa especializada no fornecimento de UTENSÍLIOS DE COZINHA, UNIFORMES, EPC’S E EPI’S NECESSÁRIOS PARA O PROJETO PADARIA COMUNITÁRIA (material de consumo), a fim de atender às demandas da Secretaria Municipal de Promoção Social e Cultura.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DH%2FStA34NxDoo15WgOot35kiMchfqpipYJ1KgTyzVwQVPPpYMd91VgOlofMGQxge_%2FnfRf_uzrnl2GB159HP9pUT4%2FYHjRed%2FF9okFc0Y%2Fqg%3D",
-      "total_lotes": 3,
-      "total_itens": 28,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "LOTE 1",
-          "fase": "PUBLICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 15,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "8401500001 Avental comum impermeável:proteção contra respingos de líquidos, ingredientes e substâncias químicas, material de Nylon emborrachado. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "Und.",
-              "quantidade": "100,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "2",
-              "especificacao": "8401500002 Calça Brim Branca Uniforme Profissional GG:confeccionada em tecido brim pesado, 100% algodão. Possui elástico na cintura e cadarço para um melhor ajuste no corpo. Possui 3 bolsos, sendo 2 laterais e 1 traseiro. Cor branca, tamanho GG 50/52 - cintura 120 cm - comprimento 110 cm.EXCLUSIVO PARA ME/EPP.",
-              "unidade": "Und.",
-              "quantidade": "25,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "3",
-              "especificacao": "8401500003 Calça Brim Branca Uniforme Profissional P:confeccionada em tecido brim pesado, 100% algodão. Possui elástico na cintura e cadarço para um melhor ajuste no corpo. Possui 3 bolsos, sendo 2 laterais e 1 traseiro. Cor branca, tamanho P 38/40 - cintura 100 cm - comprimento 106 cm",
-              "unidade": "Und.",
-              "quantidade": "25,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "4",
-              "especificacao": "8401500004 Calça Brim Branca Uniforme Profissional M:confeccionada em tecido brim pesado,100% algodão. Possui elástico na cintura e cadarço para um melhor ajuste no corpo. Possui 3 bolsos, sendo 2 laterais e 1 traseiro. Cor branca Do tamanho M 42/44 - cintura 106 cm - comprimento 107 cm.EXCLUSIVO PARA ME/EPP.",
-              "unidade": "Und.",
-              "quantidade": "25,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "5",
-              "especificacao": "8401500005 Calça Brim Branca Uniforme Profissional G:confeccionada em tecido brim pesado,100% algodão. Possui elástico na cintura e cadarço para um melhor ajuste no corpo. Possui 3 bolsos, sendo 2 laterais e 1 traseiro. Cor branca, tamanho G 46/48 - cintura 112 cm - comprimento 108 cm.EXCLUSIVO PARA ME/EPP.",
-              "unidade": "Und.",
-              "quantidade": "25,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "6",
-              "especificacao": "8401500006 Calçado Branco Padaria ou cozinha:fabricado em EVA, unissex, no estilo galochas, cono curto, sem salto, material de cabedal sintético, material da sola de borracha, forma de bico arredondada, a prova d?água, sem zíper e sem cordões, com sola antiderrapante. Número 38, cor banca. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "PAR",
-              "quantidade": "6,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "7",
-              "especificacao": "36222 Calçado Branco Padaria ou cozinha:fabricado em EVA, unissex, no estilo galochas, cano curto, sem salto, material de cabedal sintético, material da sola de borracha, forma de bico arredondada, a prova d?água, sem zíper e sem cordões, com sola antiderrapante. Número 39, cor banca. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "PAR",
-              "quantidade": "10,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "8",
-              "especificacao": "8401500007 Calçado Branco Padaria ou cozinha:fabricado em EVA, unissex, no estilo galochas, cano curto, sem salto, material de cabedal sintético, material da sola de borracha, forma de bico arredondada, a prova d?água, sem zíper e sem cordões, com sola antiderrapante. Número 40, cor banca. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "PAR",
-              "quantidade": "10,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "9",
-              "especificacao": "8401500008 Calçado Branco Padaria ou cozinha:fabricado em EVA, unissex, no estilo galochas, cano curto, sem salto, material de cabedal sintético, material da sola de borracha, forma de bico arredondada, a prova d?água, sem zíper e sem cordões, com sola antiderrapante. Número 41, cor banca. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "PAR",
-              "quantidade": "8,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "10",
-              "especificacao": "8401500009 Calçado Branco Padaria ou cozinha:fabricado em EVA, unissex, no estilo galochas, cano curto, sem salto, material de cabedal sintético, material da sola de borracha, forma de bico arredondada, a prova d?água, sem zíper e sem cordões, com sola antiderrapante. Número 36, cor banca. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "PAR",
-              "quantidade": "5,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "11",
-              "especificacao": "8401500010 Jaleco para padeiro G:modelo unissex, tecido Oxford cor branca, com gola, sem alça traseira, manga curta, fechamento frontal em botões, com 3 bolsos frontais (1 superior esquerdo e 2 inferiores) aplicados com costura dupla e reforço no início e final das costuras, sendo que no bolsa superior esquerdo (lado de quem veste), com a logo da Prefeitura Municipal de Teixeira de Freitas e Programa Bolsa Família em serigrafia. Tamanho G. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "Und.",
-              "quantidade": "8,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "12",
-              "especificacao": "8401500011 Jaleco para padeiro P:modelo unissex, tecido Oxford cor branca, com gola, sem alça traseira, manga curta, fechamento frontal em botões, com 3 bolsos frontais (1 superior esquerdo e 2 inferiores) aplicados com costura dupla e reforço no início e final das costuras, sendo que no bolsa superior esquerdo (lado de quem veste), com a logo da Prefeitura Municipal de Teixeira de Freitas e Programa Bolsa Família em serigrafia. Tamanho P. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "Und.",
-              "quantidade": "15,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "13",
-              "especificacao": "8401500012 Jaleco para padeiro M:modelo unissex, tecido Oxford cor branca, com gola, sem alça traseira, manga curta, fechamento frontal em botões, com 3 bolsos frontais (1 superior esquerdo e 2 inferiores) aplicados com costura dupla e reforço no início e final das costuras, sendo que no bolsa superior esquerdo (lado de quem veste), com a logo da Prefeitura Municipal de Teixeira de Freitas e Programa Bolsa Família em serigrafia. Tamanho M. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "Und.",
-              "quantidade": "8,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "14",
-              "especificacao": "36225 Touca descartável:sanfonada elástica em TNT, caixa com 100 unidades Dimensões (AxLxP) 17,26,11cm. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "CX",
-              "quantidade": "10,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "15",
-              "especificacao": "36226 Touca Tule Oxford:circunferência: 64 cm - (regulável); comprimento tiras: 30 cm; altura: 15 cm; material: oxford (100% poliester); unissex, cor branca. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "Und.",
-              "quantidade": "30,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "2",
-          "titulo": "LOTE 2",
-          "fase": "PUBLICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 3,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "7303000002 Faca de cozinha de 8 polegadas:32,6cmx4cmx1,5cm, em aço inoxidável. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "Und.",
-              "quantidade": "10,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "2",
-              "especificacao": "7303000003 Faca para Carne 14 polegadas:com lâmina em aço inox e cabo em polipropileno branco. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "Und.",
-              "quantidade": "10,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "3",
-              "especificacao": "7302000007 KIT HIGIENIZAÇÃO (dispenser/porta papel e toalha):kit com dispenser para papel toalha interfolha e uma saboneteira de 800 ml com reservatório. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "KIT",
-              "quantidade": "4,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "3",
-          "titulo": "LOTE 3",
-          "fase": "PUBLICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 10,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "8406500010 Luva de segurança confeccionada em borracha nitrílica P:antiderrapante na palma, interior flocado. Proteção das mãos do usuário contra agentes abrasivos, escoriantes, cortantes e perfurantes e contra agentes químicos tais como Classe A - Tipo 2: Agressivos básicos; Classe B - Detergentes, Sabões, Amoníacos e similares e Classe C - Tipo 1: Hidrocarbonetos Alifáticos, Tipo 2: Hidrocarbonetos aromáticos, Tipo 3: Álcoois, Tipo 4: Éteres. Comprimento de aproximadamente 33 cm e espessura de cerca de 0,40mm, tamanhos P. (CA: 26.098). EXCLUSIVO PARA ME/EPP.",
-              "unidade": "PAR",
-              "quantidade": "60,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "2",
-              "especificacao": "36223 Luva de segurança confeccionada em borracha nitrílica M:antiderrapante na palma, interior flocado. Proteção das mãos do usuário contra agentes abrasivos, escoriantes, cortantes e perfurantes e contra agentes químicos tais como Classe A - Tipo 2: Agressivos básicos; Classe B - Detergentes, Sabões, Amoníacos e similares e Classe C - Tipo 1: Hidrocarbonetos Alifáticos, Tipo 2: Hidrocarbonetos aromáticos, Tipo 3: Álcoois, Tipo 4: Éteres. Comprimento de aproximadamente 33 cm e espessura de cerca de 0,40mm, tamanho M. (CA: 26.098).EXCLUSIVO PARA ME/EPP.",
-              "unidade": "PAR",
-              "quantidade": "100,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "3",
-              "especificacao": "8406500011 Luva de segurança confeccionada em borracha nitrílica G:antiderrapante na palma, interior flocado. Proteção das mãos do usuário contra agentes abrasivos, escoriantes, cortantes e perfurantes e contra agentes químicos tais como Classe A - Tipo 2: Agressivos básicos; Classe B - Detergentes, Sabões, Amoníacos e similares e Classe C - Tipo 1: Hidrocarbonetos Alifáticos, Tipo 2: Hidrocarbonetos aromáticos, Tipo 3: Álcoois, Tipo 4: Éteres. Comprimento de aproximadamente 33 cm e espessura de cerca de 0,40mm, tamanho G. (CA: 26.098). EXCLUSIVO PARA ME/EPP.",
-              "unidade": "PAR",
-              "quantidade": "100,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "4",
-              "especificacao": "8406500012 Luva de segurança confeccionada em borracha nitrílica GG:antiderrapante na palma, interior flocado. Proteção das mãos do usuário contra agentes abrasivos, escoriantes, cortantes e perfurantes e contra agentes químicos tais como Classe A - Tipo 2: Agressivos básicos; Classe B - Detergentes, Sabões, Amoníacos e similares e Classe C - Tipo 1: Hidrocarbonetos Alifáticos, Tipo 2: Hidrocarbonetos aromáticos, Tipo 3: Álcoois, Tipo 4: Éteres. Comprimento de aproximadamente 33 cm e espessura de cerca de 0,40mm.Diversos tamanhos GG. (CA: 26.098). EXCLUSIVO PARA ME/EPP.",
-              "unidade": "PAR",
-              "quantidade": "60,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "5",
-              "especificacao": "8406500013 Luva de segurança confeccionada em borracha nitrílica XG:antiderrapante na palma, interior flocado. Proteção das mãos do usuário contra agentes abrasivos, escoriantes, cortantes e perfurantes e contra agentes químicos tais como Classe A - Tipo 2: Agressivos básicos; Classe B - Detergentes, Sabões, Amoníacos e similares e Classe C - Tipo 1: Hidrocarbonetos Alifáticos, Tipo 2: Hidrocarbonetos aromáticos, Tipo 3: Álcoois, Tipo 4: Éteres. Comprimento de aproximadamente 33 cm e espessura de cerca de 0,40mm.Diversos tamanhos XG. (CA: 26.098). EXCLUSIVO PARA ME/EPP.",
-              "unidade": "PAR",
-              "quantidade": "50,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "6",
-              "especificacao": "8406500014 LUVA DESCARTÁVEL TPE SOFTTRANSPARENTE:tamanho: Pequena (P), Material: Elastômero Termoplástico (TPE) Cor: Transparente, caixa com 100 unidades. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "CX",
-              "quantidade": "3,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "7",
-              "especificacao": "8406500015 LUVA DESCARTÁVEL TPE SOFTTRANSPARENTE 8 CM:tamanho: Média (M), Material: Elastômero Termoplástico (TPE) Cor: Transparente, caixa com 100 unidades. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "CX",
-              "quantidade": "6,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "8",
-              "especificacao": "8406500016 LUVA DESCARTÁVEL TPE SOFTTRANSPARENTE 9 CM:tamanho: Grande (G), Material: Elastômero Termoplástico (TPE) Cor: Transparente, caixa com 100 unidades. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "CX",
-              "quantidade": "4,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "9",
-              "especificacao": "8406500017 Luva Térmica Felpuda para Forno Panificação, cano longo para uso Profissional:luva térmica felpuda para forno de panificação, tipo mão de gato, reforçada, cano longo, mínimo 40cm, que suporte altas temperaturas até 500ºC, material Algodão/Poliéster, nas cores azul ou cru. Par. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "PAR",
-              "quantidade": "50,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "10",
-              "especificacao": "9900515331 Protetor auditivo:do tipo concha, constituído por duas conchas em plástico, apresentando almofadas de espuma em suas laterais e em seu interior, possuindo uma haste emplástico rígido, ou outro material, que mantém as conchas firmemente seladas contra a região das orelhas do usuário e que sustenta as conchas. Deverá possuir NRRsf mínimo de 21 dB. (CA: 14.235, 15.247). EXCLUSIVO PARA ME/EPP.",
-              "unidade": "Und.",
-              "quantidade": "10,00",
-              "valor_referencia": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "PE-048-2026",
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "229/2026",
@@ -262653,6 +262328,846 @@
               "especificacao": "9903311812 Serviço de levantamento topográfico planialtimétricoe georreferenciamento completo das rotas escolares domunicípio:abrangendo visitas de campo, coleta de dados porreceptores GNSS/GPS de alta precisão, medição de distânciasreais considerando curvas, declividades e vias vicinais,identificação de pontos notáveis e condicionantes geográficos,compatibilização com a malha viária oficial e geração de basegeoespacial em formato digital (shapefile, geojson ouequivalente), com elaboração de mapeamento cartográfico digitalconsolidado, contendo todas as rotas levantadas, pontos deembarque e desembarque, localização das escolas atendidas,delimitação das zonas urbana e rural, vias de acesso, pontoscríticos (aclives, declives, travessias e estradas nãopavimentadas), representação sobre malha viária real, geraçãode plantas em escala adequada e integração dos dados aoSistema de Informações Geográficas (SIG), acompanhada derelatório técnico detalhado, memorial descritivo e plantageorreferenciada das rotas escolares.",
               "unidade": "KM",
               "quantidade": "4.800,00",
+              "valor_referencia": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-064-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "269 / 2026",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "PUBLICADO",
+      "condutor": "JONATAS DA SILVA SOUSA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO PARCELADA",
+      "publicacao": "09/04/2026 16:49",
+      "inicio_recepcao": "13/04/2026 08:30",
+      "fim_recepcao": "24/04/2026 09:15",
+      "inicio_disputa": "24/04/2026 09:30",
+      "objeto": "Contratação de empresa especializada em fornecimento de DOCES (material de consumo), a fim de atender às demandas da Secretaria Municipal de Educação.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DpTTBZDwqK_eZXDQxDVcvvStAkdmis7DI8HuOrP%2FXbS532ukN69w0wwW2DN5spmBA9rDfO3EH7ntJojlR4vH2ODvx7Ft8V%2FK9h_Q9NlYz0Qs%3D",
+      "total_lotes": 8,
+      "total_itens": 8,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "37141 Bombom tipo wafer recheado com creme de castanha de caju e cobertura de chocolate:Produto alimentício do tipo bombom à base de wafer crocante, com recheio cremoso sabor castanha de caju, coberto com chocolate ao leite ou similar, apresentando textur",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37141 Bombom tipo wafer recheado com creme de castanha de caju e cobertura de chocolate:Produto alimentício do tipo bombom à base de wafer crocante, com recheio cremoso sabor castanha de caju, coberto com chocolate ao leite ou similar, apresentando textura que combina crocância do wafer com cremosidade do recheio, sabor marcante e homogêneo, próprio para consumo humano. Deverá ser elaborado com ingredientes de boa qualidade, contendo, entre outros, derivados de trigo, leite e castanha de caju, podendo conter soja, amendoim e traços de glúten, conforme rotulagem do fabricante. Embalagem primária: bombons embalados individualmente, em invólucro apropriado para alimentos, íntegro, sem rasgos, furos ou sinais de violação. Embalagem secundária: pacote com peso líquido de 1 kg, devendo constar, a identificação clara do produto, marca, peso líquido, lote, data de fabricação e validade. Produto pronto para consumo, isento de corpos estranhos, sujidades, umidade excessiva, deformações acentuadas ou sinais de deterioração. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "PCT",
+              "quantidade": "120,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "2",
+          "titulo": "37142 Bombom tipo wafer recheado com creme de chocolate meio amargo e flocos de arroz, coberto com chocolate branco:Produto alimentício do tipo bombom wafer, composto por camadas de wafer crocante, recheio cremoso sabor chocolate meio amargo com flocos de",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37142 Bombom tipo wafer recheado com creme de chocolate meio amargo e flocos de arroz, coberto com chocolate branco:Produto alimentício do tipo bombom wafer, composto por camadas de wafer crocante, recheio cremoso sabor chocolate meio amargo com flocos de arroz e cobertura de chocolate branco, conferindo contraste de sabores e texturas, adequado ao consumo individual. Deverá apresentar textura crocante do wafer e dos flocos de arroz, combinada à cremosidade do recheio, sabor característico de chocolate meio amargo e chocolate branco, isento de odores ou sabores estranhos e de sinais de rancificação. Embalagem primária: unidades embaladas individualmente, em filme apropriado para contato com alimentos, íntegro e inviolado. Embalagem secundária: pacote ou caixa com peso líquido de 1 kg, com identificação do produto (bombom wafer recheado), marca, peso líquido, lote, data de fabricação, data de validade, lista de ingredientes, informação nutricional e advertências sobre alergênicos (trigo, leite, soja, amendoim, entre outros), bem como identificação do fabricante (nome/razão social e CNPJ) e registro no órgão competente. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "PCT",
+              "quantidade": "120,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "3",
+          "titulo": "9900515543 Bombom tipo wafer recheado com creme sabor chocolate ao leite, coberto com chocolate ao leite:Produto alimentício do tipo bombom chocolate, consistindo em wafer crocante com recheio cremoso sabor chocolate ao leite e cobertura externa também de",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515543 Bombom tipo wafer recheado com creme sabor chocolate ao leite, coberto com chocolate ao leite:Produto alimentício do tipo bombom chocolate, consistindo em wafer crocante com recheio cremoso sabor chocolate ao leite e cobertura externa também de chocolate ao leite, destinado ao consumo imediato. Produto deve apresentar cor, sabor e aroma característicos de chocolate, textura firme, sem grumos, sem sinais de umidade excessiva, deformação, esbranquiçamento (\"fat bloom\") acentuado ou qualquer indício de deterioração.Embalagem: bombons embalados individualmente, acondicionados em pacote com peso líquido de 1 kg, em material apropriado para alimentos, resistente e íntegro, contendo identificação do produto, marca, peso líquido, lote, data de fabricação, validade, informações nutricionais, lista de ingredientes e advertências sobre alergênicos, além do nome/razão social e CNPJ do fabricante e número de registro no órgão competente. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "PCT",
+              "quantidade": "120,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "4",
+          "titulo": "9900515544 Bala de goma tipo jujuba sortida em tubos:Produto alimentício do tipo bala de goma (jujuba) açucarada, macia, mastigável, em sabores sortidos de frutas (como morango, uva, laranja, limão, abacaxi ou similares), acondicionada em tubos plásticos",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515544 Bala de goma tipo jujuba sortida em tubos:Produto alimentício do tipo bala de goma (jujuba) açucarada, macia, mastigável, em sabores sortidos de frutas (como morango, uva, laranja, limão, abacaxi ou similares), acondicionada em tubos plásticos individuais, própria para consumo humano. Deverá apresentar textura macia, não excessivamente pegajosa, sem cristalização exagerada de açúcar na superfície, isenta de sujidades, corpos estranhos, odor e sabor estranhos ou sinais de fermentação. Embalagem: tubo com no mínimo 8 unidades de jujubas, com peso aproximado de 30 g a 35 g cada tubo, acondicionado em caixa com 30 tubos por caixa, devendo constar na rotulagem a identificação do produto (bala de goma tipo jujuba), sabor sortido, peso, lote, data de fabricação, prazo de validade, lista de ingredientes, informação nutricional, advertências sobre alergênicos e presença/ausência de glúten, além do nome/razão social e CNPJ do fabricante. EXCLUSIVOPARA ME/EPP.",
+              "unidade": "CX",
+              "quantidade": "100,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "5",
+          "titulo": "9900515545 Bala de goma tipo jujuba sabor iogurte em tubos:Produto alimentício do tipo bala de goma (jujuba), macia, mastigável, com sabores sortidos inspirados em iogurte de frutas (como morango, uva, pêssego ou similares), apresentando textura suave e a",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515545 Bala de goma tipo jujuba sabor iogurte em tubos:Produto alimentício do tipo bala de goma (jujuba), macia, mastigável, com sabores sortidos inspirados em iogurte de frutas (como morango, uva, pêssego ou similares), apresentando textura suave e aroma característico de iogurte, acondicionada em tubos plásticos individuais. Deverá ser elaborada com ingredientes próprios para consumo humano, apresentando cores e formatos compatíveis com a categoria, sem presença de corpos estranhos, sujidades, deformações excessivas ou sinais de deterioração. Embalagem: tubo com no mínimo 8 unidades de jujubas, com peso aproximado de 30 g a 35 g cada tubo, acondicionado em caixa com 30 tubos por caixa, com rotulagem contendo denominação do produto (bala de goma sabor iogurte), sabores, peso, lote, data de fabricação, prazo de validade, lista de ingredientes, informação nutricional, advertências sobre alergênicos e identificação completa do fabricante (nome/razão social, CNPJ e endereço), e registro no órgão competente.EXCLUSIVO PARA ME/EPP.",
+              "unidade": "CX",
+              "quantidade": "100,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "6",
+          "titulo": "9900515546 Bala de café:Produto alimentício do tipo bala dura ou mastigável, sabor café, com aroma e sabor característicos de café torrado, própria para consumo humano, destinada à oferta em eventos, reuniões e ações institucionais. Deverá apresentar text",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515546 Bala de café:Produto alimentício do tipo bala dura ou mastigável, sabor café, com aroma e sabor característicos de café torrado, própria para consumo humano, destinada à oferta em eventos, reuniões e ações institucionais. Deverá apresentar textura uniforme (dura ou levemente mastigável, conforme o tipo), sem rachaduras excessivas, sem cristais de açúcar soltos em demasia, isenta de corpos estranhos, sujidades, umidade excessiva, deformações anormais ou odor e sabor estranhos.Embalagem: balas embaladas individualmente, acondicionadas em pacote com peso líquido mínimo de 500g, em material apropriado para contato com alimentos, íntegro e inviolado, com identificação do produto (bala de café), marca, peso líquido, lote, data de fabricação, prazo de validade, lista de ingredientes, informação nutricional e advertências sobre alergênicos, além dos dados do fabricante (nome/razão social, CNPJ) e registro no órgão competente. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "PCT",
+              "quantidade": "100,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "7",
+          "titulo": "37143 Bala sortida de sabores:Produto alimentício do tipo bala (dura ou mastigável), com sabores sortidos de frutas e/ou outros sabores usuais (tais como menta, tutti-frutti, caramelo, entre outros), própria para consumo humano em eventos e reuniões insti",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37143 Bala sortida de sabores:Produto alimentício do tipo bala (dura ou mastigável), com sabores sortidos de frutas e/ou outros sabores usuais (tais como menta, tutti-frutti, caramelo, entre outros), própria para consumo humano em eventos e reuniões institucionais. Deverá apresentar textura adequada ao tipo (dura ou mastigável), cor e aroma compatíveis com os sabores declarados, isenta de sujidades, corpos estranhos, deformações excessivas, umidade anormal ou sinais de deterioração.Embalagem: balas embaladas individualmente, acondicionadas em pacote com peso líquido mínimo de 500g, devendo a embalagem conter, de forma clara e legível, a identificação do produto (bala sortida), marca, peso líquido, lote, data de fabricação, validade, lista de ingredientes, informação nutricional, advertências sobre alergênicos, identificação do fabricante (nome/razão social, CNPJ e endereço) e, quando aplicável, registro no órgão competente. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "PCT",
+              "quantidade": "100,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "8",
+          "titulo": "9900515547 Bala sabor morango:Produto alimentício do tipo bala (dura ou mastigável), sabor morango, com cor, aroma e sabor característicos da fruta, própria para consumo humano. Deverá apresentar textura homogênea, sem rachaduras ou deformações exageradas",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515547 Bala sabor morango:Produto alimentício do tipo bala (dura ou mastigável), sabor morango, com cor, aroma e sabor característicos da fruta, própria para consumo humano. Deverá apresentar textura homogênea, sem rachaduras ou deformações exageradas, isenta de sujidades, corpos estranhos, umidade excessiva ou sinais de deterioração. Embalagem: balas embaladas individualmente, acondicionadas em pacote com peso líquido mínimo de 500g, devendo o rótulo conter a denominação do produto (bala sabor morango), marca, peso líquido, lote, data de fabricação, prazo de validade, lista de ingredientes, informação nutricional, advertências sobre alergênicos, identificação do fabricante (nome/razão social, CNPJ) e, quando exigido, registro no órgão competente.EXCLUSIVO PARA ME/EPP.",
+              "unidade": "PCT",
+              "quantidade": "100,00",
+              "valor_referencia": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-056-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "132/2026",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "PUBLICADO",
+      "condutor": "JONATAS DA SILVA SOUSA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "REGISTRO DE PREÇO",
+      "publicacao": "09/04/2026 15:19",
+      "inicio_recepcao": "13/04/2026 08:30",
+      "fim_recepcao": "24/04/2026 08:15",
+      "inicio_disputa": "24/04/2026 08:30",
+      "objeto": "A Contratação de empresa especializada em FORNECIMENTO DE ESQUADRIAS DE MADEIRA, DE ALUMÍNIO E ACESSÓRIOS,  a fim de atender as demandas da Secretaria Municipal de Infraestrutura e Serviços Urbanos.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5D9yv0W5hzhidN8wQp1A%2F6ThxP5jr610ojfcrpLCm8Wgzqj1AOwuAzLu9RPRwo1zV5z_3O0HcR1Cq4VGZ2czWlfHz9xanbYdHNKwiWiUzXrfk%3D",
+      "total_lotes": 1,
+      "total_itens": 38,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "ESQUADRIAS DE MADEIRA",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 38,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "5502000001 FECHADURA PARA PORTA EXTERNA PADRAO MÉDIO:FECHADURA PARA PORTA EXTERNA PADRAO MÉDIO",
+              "unidade": "UND",
+              "quantidade": "280,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "2",
+              "especificacao": "5502000002 FECHADURA PARA PORTA DE BANHEIRO PADRAO MÉDIO:FECHADURA PARA PORTA DE BANHEIRO PADRAO MÉDIO",
+              "unidade": "UND",
+              "quantidade": "120,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "3",
+              "especificacao": "5502000003 FECHADURA PARA PORTA EXTERNA CHAVE TETRA::FECHADURA PARA PORTA EXTERNA CHAVE TETRA",
+              "unidade": "UND",
+              "quantidade": "70,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "4",
+              "especificacao": "5502000004 FECHADURA EXTERNA DE SOBREPOR P/ PORTÃO CHAVE TETRA:FECHADURA EXTERNA DE SOBREPOR P/ PORTÃO CHAVE TETRA",
+              "unidade": "UND",
+              "quantidade": "90,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "5",
+              "especificacao": "5502000005 JANELA DUPLA DE MADEIRA DO TIPO ALMOFADA 1,20X1,10 M:JANELA DUPLA DE MADEIRA DO TIPO ALMOFADA 1,20X1,10 M.",
+              "unidade": "UND",
+              "quantidade": "40,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "6",
+              "especificacao": "5502000006 JANELA DUPLA DE MADEIRA DO TIPO ALMOFADA 1,60X1,10 M:JANELA DUPLA DE MADEIRA DO TIPO ALMOFADA 1,60X1,10 M.",
+              "unidade": "UND",
+              "quantidade": "20,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "7",
+              "especificacao": "5502000007 JANELA MAXIAR DE ALUMINIO 0,60X0,50 COM VIDRO:JANELA MAXIAR DE ALUMINIO 0,60X0,50 COM VIDRO",
+              "unidade": "UND",
+              "quantidade": "20,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "8",
+              "especificacao": "5502000008 JANELA SIMPLES DE MADEIRA DO TIPO ALMOFADA 0,80X1,10M:JANELA SIMPLES DE MADEIRA DO TIPO ALMOFADA 0,80X1,10M.",
+              "unidade": "UND",
+              "quantidade": "32,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "9",
+              "especificacao": "5502000009 JANELA SIMPLES DE MADEIRA DO TIPO ALMOFADA 1,00X1,10 M:JANELA SIMPLES DE MADEIRA DO TIPO ALMOFADA 1,00X1,10 M.",
+              "unidade": "UND",
+              "quantidade": "22,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "10",
+              "especificacao": "5502000010 KIT DE DOBRADIÇA PARA JANELA 2. 1/2 COM 2 UNIDADES:KIT DE DOBRADIÇA PARA JANELA 2.1/2 COM 2 UNIDADES",
+              "unidade": "UND",
+              "quantidade": "110,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "11",
+              "especificacao": "5502000011 KIT DE DOBRADIÇA PARA PORTA 2.1/2, COM 3 UNIDADES:KIT DE DOBRADIÇA PARA PORTA 2.1/2, COM 3 UNIDADES",
+              "unidade": "UND",
+              "quantidade": "180,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "12",
+              "especificacao": "5502000012 KIT DE DOBRADIÇA PARA PORTA 3.1/2, COM 3 UNIDADES:KIT DE DOBRADIÇA PARA PORTA 3.1/2, COM 3 UNIDADES",
+              "unidade": "UND",
+              "quantidade": "320,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "13",
+              "especificacao": "5502000013 PORTA DE MADEIRA MISTA DO TIPO ALMOFADA 0,60X2,10 M:PORTA DE MADEIRA MISTA DO TIPO ALMOFADA 0,60X2,10 M",
+              "unidade": "UND",
+              "quantidade": "54,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "14",
+              "especificacao": "5502000014 PORTA DE MADEIRA MISTA DO TIPO ALMOFADA 0,70X2,10 M:PORTA DE MADEIRA MISTA DO TIPO ALMOFADA 0,70X2,10 M",
+              "unidade": "UND",
+              "quantidade": "52,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "15",
+              "especificacao": "5502000015 PORTA DE MADEIRA MISTA DO TIPO ALMOFADA 0,80X2,10 M:PORTA DE MADEIRA MISTA DO TIPO ALMOFADA 0,80X2,10 M",
+              "unidade": "UND",
+              "quantidade": "145,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "16",
+              "especificacao": "5502000016 PORTA DE MADEIRA MISTA DO TIPO ALMOFADA 0,90X2,10 M:PORTA DE MADEIRA MISTA DO TIPO ALMOFADA 0,90X2,10 M",
+              "unidade": "UND",
+              "quantidade": "123,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "17",
+              "especificacao": "5502000017 PORTA DE MADEIRA MISTA DO TIPO SEMIOCA0,60X2,10 M:PORTA DE MADEIRA MISTA DO TIPO SEMI OCA0,60X2,10 M",
+              "unidade": "UND",
+              "quantidade": "85,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "18",
+              "especificacao": "5502000018 PORTA DE MADEIRA MISTA DO TIPO SEMIOCA0,70X2,10 M:PORTA DE MADEIRA MISTA DO TIPO SEMI OCA0,70X2,10 M",
+              "unidade": "UND",
+              "quantidade": "70,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "19",
+              "especificacao": "5502000019 PORTA DE MADEIRA MISTA DO TIPO SEMIOCA 0,80X2,10 M:PORTA DE MADEIRA MISTA DO TIPO SEMI OCA0,80X2,10 M",
+              "unidade": "UND",
+              "quantidade": "128,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "20",
+              "especificacao": "5502000020 PORTA DE MADEIRA MISTA DO TIPO SEMIOCA0,90X2,10 M:PORTA DE MADEIRA MISTA DO TIPO SEMI OCA0,90X2,10 M",
+              "unidade": "UND",
+              "quantidade": "74,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "21",
+              "especificacao": "5502000021 PORTA DE MADEIRA MISTA DO TIPO SEMI OCA1,00X2,10 M:PORTA VENEZIANA DE ALUMINIO 0,60X2,10 M",
+              "unidade": "UND",
+              "quantidade": "66,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "22",
+              "especificacao": "5502000022 PORTA VENEZIANA DE ALUMINIO 0,60X2,10 M:PORTA VENEZIANA DE ALUMINIO 0,60X2,10 M",
+              "unidade": "UND",
+              "quantidade": "20,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "23",
+              "especificacao": "5502000023 PORTA VENEZIANA DE ALUMINIO 0,70X2,10 M COMPLETA:PORTA VENEZIANA DE ALUMINIO 0,70X2,10 M COMPLETA",
+              "unidade": "UND",
+              "quantidade": "20,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "24",
+              "especificacao": "5502000024 PORTA VENEZIANA DE ALUMINIO 0,80X2,10 M:PORTA VENEZIANA DE ALUMINIO 0,80X2,10 M",
+              "unidade": "UND",
+              "quantidade": "40,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "25",
+              "especificacao": "5502000025 PORTA VENEZIANA DE ALUMINIO 0,90X2,10 M:PORTA VENEZIANA DE ALUMINIO 0,90X2,10 M",
+              "unidade": "UND",
+              "quantidade": "30,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "26",
+              "especificacao": "5502000026 PORTA VENEZIANA DE ALUMÍNIO 1,00X2,10 M:PORTA VENEZIANA DE ALUMÍNIO 1,00X2,10 M",
+              "unidade": "UND",
+              "quantidade": "20,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "27",
+              "especificacao": "5502000027 PORTA VENEZIANA DE ALUMÍNIO DUPLA2,00X2,10 M:PORTA VENEZIANA DE ALUMÍNIO DUPLA2,00X2,10 M",
+              "unidade": "UND",
+              "quantidade": "20,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "28",
+              "especificacao": "5502000028 TRINCO FERROLHO:REDONDO AÇO ZINCADO2",
+              "unidade": "UND",
+              "quantidade": "260,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "29",
+              "especificacao": "5502000029 TRINCO FERROLHO:REDONDO AÇO ZINCADO3",
+              "unidade": "UND",
+              "quantidade": "320,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "30",
+              "especificacao": "5502000030 TRINCO FERROLHO:REDONDO AÇO ZINCADO4",
+              "unidade": "UND",
+              "quantidade": "120,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "31",
+              "especificacao": "5502000031 TRINCO FERROLHO:CHATO P/ CADEADO AÇO ZINCADO 3",
+              "unidade": "UND",
+              "quantidade": "230,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "32",
+              "especificacao": "5502000032 PORTA CADEADO:ZINCADO COM TRAVA PARA PORTÃO E PORTA 2.1/2",
+              "unidade": "UND",
+              "quantidade": "250,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "33",
+              "especificacao": "5502000033 CADEADO:20MM",
+              "unidade": "UND",
+              "quantidade": "160,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "34",
+              "especificacao": "5502000034 CADEADO:25MM",
+              "unidade": "UND",
+              "quantidade": "180,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "35",
+              "especificacao": "5502000035 CADEADO:30MM",
+              "unidade": "UND",
+              "quantidade": "235,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "36",
+              "especificacao": "5502000036 CADEADO:40MM",
+              "unidade": "UND",
+              "quantidade": "270,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "37",
+              "especificacao": "5502000037 CADEADO:50MM",
+              "unidade": "UND",
+              "quantidade": "255,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "38",
+              "especificacao": "5502000038 CADEADO:60MM",
+              "unidade": "UND",
+              "quantidade": "226,00",
+              "valor_referencia": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-060-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "351/2026",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "RECEPÇÃO DE PROPOSTAS",
+      "condutor": "JONATAS DA SILVA SOUSA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO",
+      "publicacao": "07/04/2026 16:38",
+      "inicio_recepcao": "09/04/2026 00:00",
+      "fim_recepcao": "22/04/2026 08:15",
+      "inicio_disputa": "22/04/2026 08:30",
+      "objeto": "Pregão Eletrônico nº 060-2026, Processo Administrativo: 351/2026, do tipo MENOR PREÇO GLOBAL. OBJETO: Contratação de empresa especializada em prestação de serviço de LICENCIAMENTO DE USO (SUBSCRIÇÃO) DE SOFTWARES DE ENGENHARIA AUTODESK, INCLUINDO SUPORTE TÉCNICO E ATUALIZAÇÕES, a fim de atender às demandas da Secretaria Municipal de Projetos Estratégicos e Gerenciamento de Convênios.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DmFwSUoerC2YlPl6ODwhqSyd%2FwLh43Tml1XQX8axqEFxFHu4yiXx%2FTK7PVCKg09%2F5HEpwrjn83EY72E8pOqJDhWzNLT3i9KGoAkCcIQzCYKY%3D",
+      "total_lotes": 1,
+      "total_itens": 3,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "LICENÇAS DE SOFTWARE",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 3,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "202600008 LICENÇA ANUAL DE USO DO SOFTWAREAUTOCAD:destinada à criação e anotação de geometria 2D e modelos 3D, com objetos sólidos, superfície e objetos de malha; com automatização em IA, comparação de desenhos, criação de tabelas e função de publicar layouts. As licenças deverão ser oficiais do fabricante Autodesk, no modelo de usuário nomeado (named user), com direito a atualizações durante o período contratado e suporte técnico adequado, garantindo pleno funcionamento, desempenho e conformidade com as exigências técnicas aplicáveis.",
+              "unidade": "SER",
+              "quantidade": "3,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "2",
+              "especificacao": "202600009 LICENÇA ANUAL DE USO DO SOFTWAREREVIT:destinada à elaboração e compatibilização de projetos de arquitetura, estrutura e instalações, com base na metodologia de Modelagem da Informação da Construção (BIM). As licenças deverão ser oficiais do fabricante Autodesk, no modelo de usuário nomeado (named user), com atualizações incluídas durante toda a vigência contratual e suporte técnico, assegurando a adequada utilização da ferramenta, integração entre disciplinas e atendimento às necessidades técnicas da Administração.",
+              "unidade": "SER",
+              "quantidade": "6,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "3",
+              "especificacao": "202600010 LICENÇA ANUAL DE USO DO SOFTWARE CIVIL3D:destinada à elaboração de projetos de engenharia civil, terraplenagem, drenagem e sistemas viários. As licenças deverão ser oficiais do fabricante Autodesk, no modelo de usuário nomeado (named user), com direito a atualizações durante o período contratado e suporte técnico adequado, garantindo pleno funcionamento, desempenho e conformidade com as exigências técnicas aplicáveis.",
+              "unidade": "SER",
+              "quantidade": "2,00",
+              "valor_referencia": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-061-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "1232 / 2025",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "RECEPÇÃO DE PROPOSTAS",
+      "condutor": "JONATAS DA SILVA SOUSA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "REGISTRO DE PREÇO",
+      "publicacao": "07/04/2026 16:33",
+      "inicio_recepcao": "09/04/2026 08:30",
+      "fim_recepcao": "20/04/2026 09:45",
+      "inicio_disputa": "20/04/2026 10:00",
+      "objeto": "Contratação de empresa especializada no fornecimento de UTENSÍLIOS DE COZINHA, UNIFORMES, EPC’S E EPI’S NECESSÁRIOS PARA O PROJETO PADARIA COMUNITÁRIA (material de consumo), a fim de atender às demandas da Secretaria Municipal de Promoção Social e Cultura.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DL7%2Fpbx6_zaCQLlbeJfEH%2FiuatHi5jkP9eMUJgrGPd%2FPr_Sxeg3PF1G_4%2FPU4X0M1IsvmjOxK5gmlSGV%2FE_F7v4eCTCqj5ozm3r1Gl4t%2FVoE%3D",
+      "total_lotes": 3,
+      "total_itens": 28,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "LOTE 1",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 15,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "8401500001 Avental comum impermeável:proteção contra respingos de líquidos, ingredientes e substâncias químicas, material de Nylon emborrachado. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "Und.",
+              "quantidade": "100,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "2",
+              "especificacao": "8401500002 Calça Brim Branca Uniforme Profissional GG:confeccionada em tecido brim pesado, 100% algodão. Possui elástico na cintura e cadarço para um melhor ajuste no corpo. Possui 3 bolsos, sendo 2 laterais e 1 traseiro. Cor branca, tamanho GG 50/52 - cintura 120 cm - comprimento 110 cm.EXCLUSIVO PARA ME/EPP.",
+              "unidade": "Und.",
+              "quantidade": "25,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "3",
+              "especificacao": "8401500003 Calça Brim Branca Uniforme Profissional P:confeccionada em tecido brim pesado, 100% algodão. Possui elástico na cintura e cadarço para um melhor ajuste no corpo. Possui 3 bolsos, sendo 2 laterais e 1 traseiro. Cor branca, tamanho P 38/40 - cintura 100 cm - comprimento 106 cm",
+              "unidade": "Und.",
+              "quantidade": "25,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "4",
+              "especificacao": "8401500004 Calça Brim Branca Uniforme Profissional M:confeccionada em tecido brim pesado,100% algodão. Possui elástico na cintura e cadarço para um melhor ajuste no corpo. Possui 3 bolsos, sendo 2 laterais e 1 traseiro. Cor branca Do tamanho M 42/44 - cintura 106 cm - comprimento 107 cm.EXCLUSIVO PARA ME/EPP.",
+              "unidade": "Und.",
+              "quantidade": "25,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "5",
+              "especificacao": "8401500005 Calça Brim Branca Uniforme Profissional G:confeccionada em tecido brim pesado,100% algodão. Possui elástico na cintura e cadarço para um melhor ajuste no corpo. Possui 3 bolsos, sendo 2 laterais e 1 traseiro. Cor branca, tamanho G 46/48 - cintura 112 cm - comprimento 108 cm.EXCLUSIVO PARA ME/EPP.",
+              "unidade": "Und.",
+              "quantidade": "25,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "6",
+              "especificacao": "8401500006 Calçado Branco Padaria ou cozinha:fabricado em EVA, unissex, no estilo galochas, cono curto, sem salto, material de cabedal sintético, material da sola de borracha, forma de bico arredondada, a prova d?água, sem zíper e sem cordões, com sola antiderrapante. Número 38, cor banca. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "PAR",
+              "quantidade": "6,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "7",
+              "especificacao": "36222 Calçado Branco Padaria ou cozinha:fabricado em EVA, unissex, no estilo galochas, cano curto, sem salto, material de cabedal sintético, material da sola de borracha, forma de bico arredondada, a prova d?água, sem zíper e sem cordões, com sola antiderrapante. Número 39, cor banca. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "PAR",
+              "quantidade": "10,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "8",
+              "especificacao": "8401500007 Calçado Branco Padaria ou cozinha:fabricado em EVA, unissex, no estilo galochas, cano curto, sem salto, material de cabedal sintético, material da sola de borracha, forma de bico arredondada, a prova d?água, sem zíper e sem cordões, com sola antiderrapante. Número 40, cor banca. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "PAR",
+              "quantidade": "10,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "9",
+              "especificacao": "8401500008 Calçado Branco Padaria ou cozinha:fabricado em EVA, unissex, no estilo galochas, cano curto, sem salto, material de cabedal sintético, material da sola de borracha, forma de bico arredondada, a prova d?água, sem zíper e sem cordões, com sola antiderrapante. Número 41, cor banca. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "PAR",
+              "quantidade": "8,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "10",
+              "especificacao": "8401500009 Calçado Branco Padaria ou cozinha:fabricado em EVA, unissex, no estilo galochas, cano curto, sem salto, material de cabedal sintético, material da sola de borracha, forma de bico arredondada, a prova d?água, sem zíper e sem cordões, com sola antiderrapante. Número 36, cor banca. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "PAR",
+              "quantidade": "5,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "11",
+              "especificacao": "8401500010 Jaleco para padeiro G:modelo unissex, tecido Oxford cor branca, com gola, sem alça traseira, manga curta, fechamento frontal em botões, com 3 bolsos frontais (1 superior esquerdo e 2 inferiores) aplicados com costura dupla e reforço no início e final das costuras, sendo que no bolsa superior esquerdo (lado de quem veste), com a logo da Prefeitura Municipal de Teixeira de Freitas e Programa Bolsa Família em serigrafia. Tamanho G. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "Und.",
+              "quantidade": "8,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "12",
+              "especificacao": "8401500011 Jaleco para padeiro P:modelo unissex, tecido Oxford cor branca, com gola, sem alça traseira, manga curta, fechamento frontal em botões, com 3 bolsos frontais (1 superior esquerdo e 2 inferiores) aplicados com costura dupla e reforço no início e final das costuras, sendo que no bolsa superior esquerdo (lado de quem veste), com a logo da Prefeitura Municipal de Teixeira de Freitas e Programa Bolsa Família em serigrafia. Tamanho P. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "Und.",
+              "quantidade": "15,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "13",
+              "especificacao": "8401500012 Jaleco para padeiro M:modelo unissex, tecido Oxford cor branca, com gola, sem alça traseira, manga curta, fechamento frontal em botões, com 3 bolsos frontais (1 superior esquerdo e 2 inferiores) aplicados com costura dupla e reforço no início e final das costuras, sendo que no bolsa superior esquerdo (lado de quem veste), com a logo da Prefeitura Municipal de Teixeira de Freitas e Programa Bolsa Família em serigrafia. Tamanho M. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "Und.",
+              "quantidade": "8,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "14",
+              "especificacao": "36225 Touca descartável:sanfonada elástica em TNT, caixa com 100 unidades Dimensões (AxLxP) 17,26,11cm. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "CX",
+              "quantidade": "10,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "15",
+              "especificacao": "36226 Touca Tule Oxford:circunferência: 64 cm - (regulável); comprimento tiras: 30 cm; altura: 15 cm; material: oxford (100% poliester); unissex, cor branca. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "Und.",
+              "quantidade": "30,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "2",
+          "titulo": "LOTE 2",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 3,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "7303000002 Faca de cozinha de 8 polegadas:32,6cmx4cmx1,5cm, em aço inoxidável. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "Und.",
+              "quantidade": "10,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "2",
+              "especificacao": "7303000003 Faca para Carne 14 polegadas:com lâmina em aço inox e cabo em polipropileno branco. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "Und.",
+              "quantidade": "10,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "3",
+              "especificacao": "7302000007 KIT HIGIENIZAÇÃO (dispenser/porta papel e toalha):kit com dispenser para papel toalha interfolha e uma saboneteira de 800 ml com reservatório. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "KIT",
+              "quantidade": "4,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "3",
+          "titulo": "LOTE 3",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 10,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "8406500010 Luva de segurança confeccionada em borracha nitrílica P:antiderrapante na palma, interior flocado. Proteção das mãos do usuário contra agentes abrasivos, escoriantes, cortantes e perfurantes e contra agentes químicos tais como Classe A - Tipo 2: Agressivos básicos; Classe B - Detergentes, Sabões, Amoníacos e similares e Classe C - Tipo 1: Hidrocarbonetos Alifáticos, Tipo 2: Hidrocarbonetos aromáticos, Tipo 3: Álcoois, Tipo 4: Éteres. Comprimento de aproximadamente 33 cm e espessura de cerca de 0,40mm, tamanhos P. (CA: 26.098). EXCLUSIVO PARA ME/EPP.",
+              "unidade": "PAR",
+              "quantidade": "60,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "2",
+              "especificacao": "36223 Luva de segurança confeccionada em borracha nitrílica M:antiderrapante na palma, interior flocado. Proteção das mãos do usuário contra agentes abrasivos, escoriantes, cortantes e perfurantes e contra agentes químicos tais como Classe A - Tipo 2: Agressivos básicos; Classe B - Detergentes, Sabões, Amoníacos e similares e Classe C - Tipo 1: Hidrocarbonetos Alifáticos, Tipo 2: Hidrocarbonetos aromáticos, Tipo 3: Álcoois, Tipo 4: Éteres. Comprimento de aproximadamente 33 cm e espessura de cerca de 0,40mm, tamanho M. (CA: 26.098).EXCLUSIVO PARA ME/EPP.",
+              "unidade": "PAR",
+              "quantidade": "100,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "3",
+              "especificacao": "8406500011 Luva de segurança confeccionada em borracha nitrílica G:antiderrapante na palma, interior flocado. Proteção das mãos do usuário contra agentes abrasivos, escoriantes, cortantes e perfurantes e contra agentes químicos tais como Classe A - Tipo 2: Agressivos básicos; Classe B - Detergentes, Sabões, Amoníacos e similares e Classe C - Tipo 1: Hidrocarbonetos Alifáticos, Tipo 2: Hidrocarbonetos aromáticos, Tipo 3: Álcoois, Tipo 4: Éteres. Comprimento de aproximadamente 33 cm e espessura de cerca de 0,40mm, tamanho G. (CA: 26.098). EXCLUSIVO PARA ME/EPP.",
+              "unidade": "PAR",
+              "quantidade": "100,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "4",
+              "especificacao": "8406500012 Luva de segurança confeccionada em borracha nitrílica GG:antiderrapante na palma, interior flocado. Proteção das mãos do usuário contra agentes abrasivos, escoriantes, cortantes e perfurantes e contra agentes químicos tais como Classe A - Tipo 2: Agressivos básicos; Classe B - Detergentes, Sabões, Amoníacos e similares e Classe C - Tipo 1: Hidrocarbonetos Alifáticos, Tipo 2: Hidrocarbonetos aromáticos, Tipo 3: Álcoois, Tipo 4: Éteres. Comprimento de aproximadamente 33 cm e espessura de cerca de 0,40mm.Diversos tamanhos GG. (CA: 26.098). EXCLUSIVO PARA ME/EPP.",
+              "unidade": "PAR",
+              "quantidade": "60,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "5",
+              "especificacao": "8406500013 Luva de segurança confeccionada em borracha nitrílica XG:antiderrapante na palma, interior flocado. Proteção das mãos do usuário contra agentes abrasivos, escoriantes, cortantes e perfurantes e contra agentes químicos tais como Classe A - Tipo 2: Agressivos básicos; Classe B - Detergentes, Sabões, Amoníacos e similares e Classe C - Tipo 1: Hidrocarbonetos Alifáticos, Tipo 2: Hidrocarbonetos aromáticos, Tipo 3: Álcoois, Tipo 4: Éteres. Comprimento de aproximadamente 33 cm e espessura de cerca de 0,40mm.Diversos tamanhos XG. (CA: 26.098). EXCLUSIVO PARA ME/EPP.",
+              "unidade": "PAR",
+              "quantidade": "50,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "6",
+              "especificacao": "8406500014 LUVA DESCARTÁVEL TPE SOFTTRANSPARENTE:tamanho: Pequena (P), Material: Elastômero Termoplástico (TPE) Cor: Transparente, caixa com 100 unidades. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "CX",
+              "quantidade": "3,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "7",
+              "especificacao": "8406500015 LUVA DESCARTÁVEL TPE SOFTTRANSPARENTE 8 CM:tamanho: Média (M), Material: Elastômero Termoplástico (TPE) Cor: Transparente, caixa com 100 unidades. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "CX",
+              "quantidade": "6,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "8",
+              "especificacao": "8406500016 LUVA DESCARTÁVEL TPE SOFTTRANSPARENTE 9 CM:tamanho: Grande (G), Material: Elastômero Termoplástico (TPE) Cor: Transparente, caixa com 100 unidades. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "CX",
+              "quantidade": "4,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "9",
+              "especificacao": "8406500017 Luva Térmica Felpuda para Forno Panificação, cano longo para uso Profissional:luva térmica felpuda para forno de panificação, tipo mão de gato, reforçada, cano longo, mínimo 40cm, que suporte altas temperaturas até 500ºC, material Algodão/Poliéster, nas cores azul ou cru. Par. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "PAR",
+              "quantidade": "50,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "10",
+              "especificacao": "9900515331 Protetor auditivo:do tipo concha, constituído por duas conchas em plástico, apresentando almofadas de espuma em suas laterais e em seu interior, possuindo uma haste emplástico rígido, ou outro material, que mantém as conchas firmemente seladas contra a região das orelhas do usuário e que sustenta as conchas. Deverá possuir NRRsf mínimo de 21 dB. (CA: 14.235, 15.247). EXCLUSIVO PARA ME/EPP.",
+              "unidade": "Und.",
+              "quantidade": "10,00",
               "valor_referencia": ""
             }
           ]
