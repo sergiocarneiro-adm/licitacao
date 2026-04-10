@@ -1,192 +1,6 @@
 <!DOCTYPE html>
 <html lang="pt-BR" class="h-full">
 <head>
-<!-- Playables SDK -->
-<script>// Playables SDK v1.0.0
-// Game lifecycle bridge: rAF-based game-ready detection + event communication
-(function() {
-  'use strict';
-
-  var HANDLER_NAME = 'playablesGameEventHandler';
-  var ANDROID_BRIDGE_NAME = '_MetaPlayablesBridge';
-  var RAF_FRAME_THRESHOLD = 3;
-
-  var gameReadySent = false;
-  var firstInteractionSent = false;
-  var errorSent = false;
-  var frameCount = 0;
-  var originalRAF = window.requestAnimationFrame;
-
-  // --- Transport Layer ---
-
-  function hasIOSBridge() {
-    return !!(window.webkit &&
-              window.webkit.messageHandlers &&
-              window.webkit.messageHandlers[HANDLER_NAME]);
-  }
-
-  function hasAndroidBridge() {
-    return !!(window[ANDROID_BRIDGE_NAME] &&
-              typeof window[ANDROID_BRIDGE_NAME].postEvent === 'function');
-  }
-
-  function isInIframe() {
-    return !!(window.parent && window.parent !== window);
-  }
-
-  function sendEvent(eventName, payload) {
-    var message = {
-      type: eventName,
-      payload: payload || {},
-      timestamp: Date.now()
-    };
-
-    if (hasIOSBridge()) {
-      try {
-        window.webkit.messageHandlers[HANDLER_NAME].postMessage(message);
-      } catch (e) { /* ignore */ }
-      return;
-    }
-
-    if (hasAndroidBridge()) {
-    try {
-      var p = payload || {};
-      p.__secureToken = window.__fbAndroidBridgeAuthToken || '';
-      window[ANDROID_BRIDGE_NAME].postEvent(
-        eventName,
-        JSON.stringify(p)
-      );
-    } catch (e) { /* ignore */ }
-    return;
-  }
-
-    if (isInIframe()) {
-      try {
-        window.parent.postMessage(message, '*');
-      } catch (e) { /* ignore */ }
-      return;
-    }
-  }
-
-  // --- rAF Game-Ready Detection ---
-
-  function onFrame() {
-    if (gameReadySent) return;
-
-    frameCount++;
-    if (frameCount >= RAF_FRAME_THRESHOLD) {
-      gameReadySent = true;
-      sendEvent('game_ready', {
-        frame_count: frameCount,
-        detected_at: Date.now()
-      });
-      return;
-    }
-
-    originalRAF.call(window, onFrame);
-  }
-
-  if (originalRAF) {
-    window.requestAnimationFrame = function(callback) {
-      if (!gameReadySent) {
-        return originalRAF.call(window, function(timestamp) {
-          frameCount++;
-          if (frameCount >= RAF_FRAME_THRESHOLD && !gameReadySent) {
-            gameReadySent = true;
-            sendEvent('game_ready', {
-              frame_count: frameCount,
-              detected_at: Date.now()
-            });
-          }
-          callback(timestamp);
-        });
-      }
-      return originalRAF.call(window, callback);
-    };
-  }
-
-  // --- First User Interaction Detection ---
-
-  function setupFirstInteractionDetection() {
-    var events = ['touchstart', 'mousedown', 'keydown'];
-
-    function onFirstInteraction() {
-      if (firstInteractionSent) return;
-      firstInteractionSent = true;
-      sendEvent('user_interaction_start', null);
-
-      for (var i = 0; i < events.length; i++) {
-        document.removeEventListener(events[i], onFirstInteraction, true);
-      }
-    }
-
-    for (var i = 0; i < events.length; i++) {
-      document.addEventListener(events[i], onFirstInteraction, true);
-    }
-  }
-
-  if (document.readyState === 'loading') {
-    document.addEventListener('DOMContentLoaded', setupFirstInteractionDetection);
-  } else {
-    setupFirstInteractionDetection();
-  }
-
-  // --- Auto Error Capture ---
-
-  window.addEventListener('error', function(event) {
-    if (errorSent) return;
-    errorSent = true;
-    sendEvent('error', {
-      message: event.message || 'Unknown error',
-      source: event.filename || '',
-      lineno: event.lineno || 0,
-      colno: event.colno || 0,
-      auto_captured: true
-    });
-  });
-
-  window.addEventListener('unhandledrejection', function(event) {
-    if (errorSent) return;
-    errorSent = true;
-    var reason = event.reason;
-    sendEvent('error', {
-      message: (reason instanceof Error) ? reason.message : String(reason),
-      type: 'unhandled_promise_rejection',
-      auto_captured: true
-    });
-  });
-
-  // --- Public API ---
-
-  window.playablesSDK = {
-    complete: function(score) {
-      sendEvent('game_ended', {
-        score: score,
-        completed: true
-      });
-    },
-
-    error: function(message) {
-      if (errorSent) return;
-      errorSent = true;
-      sendEvent('error', {
-        message: message || 'Unknown error',
-        auto_captured: false
-      });
-    },
-
-    sendEvent: function(eventName, payload) {
-      if (!eventName || typeof eventName !== 'string') return;
-      sendEvent(eventName, payload);
-    }
-  };
-
-  // Kick off rAF detection in case no game code calls rAF immediately
-  if (originalRAF) {
-    originalRAF.call(window, onFrame);
-  }
-})();</script>
-<script>window.Intl=window.Intl||{};Intl.t=function(s){return(Intl._locale&&Intl._locale[s])||s;};</script>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>BLL Explorer | Teixeira de Freitas</title>
@@ -327,49 +141,9 @@
         #ai-send:hover { background:#1d4ed8; }
         #ai-send:disabled { background:#94a3b8; cursor:not-allowed; }
         #ai-status { padding:4px 14px 2px; font-size:10px; color:#94a3b8; flex-shrink:0; min-height:16px; }
-    
-        /* === MELHORIAS ULTRA-CONSERVADORAS === */
-        :root {
-            --surface-glass: 255 255 255 / 0.75;
-        }
-        .dark { --surface-glass: 15 23 42 / 0.75; }
-        body { scroll-behavior: smooth; }
-        .glass-effect { background: rgb(var(--surface-glass)); backdrop-filter: blur(16px) saturate(150%); -webkit-backdrop-filter: blur(16px) saturate(150%); border: 1px solid rgb(255 255 255 / 0.08); }
-        .custom-scrollbar::-webkit-scrollbar { width: 6px; height: 6px; }
-        .custom-scrollbar::-webkit-scrollbar-thumb:hover { background: #94a3b8; }
-        .dark .custom-scrollbar::-webkit-scrollbar-thumb:hover { background: #475569; }
-        mark { background: #fde047 !important; color: #422006 !important; padding: 1px 3px; border-radius: 3px; font-weight: 600; box-shadow: 0 0 0 1px #facc15; }
-        .dark mark { background: #92400e !important; color: #fef3c7 !important; box-shadow: 0 0 0 1px #b45309; }
-        @media (prefers-reduced-motion: reduce) { * { animation-duration: 0.01ms !important; transition-duration: 0.01ms !important; } }
-        
-        /* Toasts */
-        #toast-container { position: fixed; top: 80px; right: 20px; z-index: 10000; display: flex; flex-direction: column; gap: 8px; pointer-events: none; }
-        .toast { pointer-events: all; background: white; border: 1px solid #e2e8f0; border-left: 4px solid #2563eb; padding: 10px 14px; border-radius: 8px; box-shadow: 0 4px 16px rgba(0,0,0,.1); font-size: 13px; max-width: 320px; animation: slideIn .25s ease; }
-        .dark .toast { background: #0f172a; border-color: #1e293b; color: #e2e8f0; }
-        .toast.success { border-left-color: #16a34a; }
-        .toast.error { border-left-color: #dc2626; }
-        @keyframes slideIn { from { transform: translateX(20px); opacity: 0; } to { transform: translateX(0); opacity: 1; } }
-        
-        /* Mobile */
-        @media (max-width: 640px) {
-            #ai-panel { width: 100% !important; right: 0 !important; left: 0 !important; bottom: 0 !important; max-height: 85vh; border-radius: 18px 18px 0 0; }
-            #ai-fab { bottom: 20px; right: 20px; width: 56px; height: 56px; }
-            #toast-container { top: auto; bottom: 90px; right: 12px; left: 12px; }
-        }
-        
-        /* Botões copiar */
-        .ai-msg-wrapper { position: relative; }
-        .ai-msg-actions { display: flex; gap: 6px; opacity: 0; transition: opacity .15s; margin-top: 6px; margin-left: 4px; }
-        .ai-msg-wrapper:hover .ai-msg-actions { opacity: 1; }
-        .ai-action-btn { background: transparent; border: 1px solid #e2e8f0; color: #64748b; font-size: 11px; padding: 3px 8px; border-radius: 6px; cursor: pointer; font-family: inherit; }
-        .dark .ai-action-btn { border-color: #334155; color: #94a3b8; }
-        .ai-action-btn:hover { background: #f1f5f9; }
-        .dark .ai-action-btn:hover { background: #1e293b; }
-</style>
+    </style>
 </head>
 <body class="bg-slate-50 dark:bg-slate-950 text-slate-900 dark:text-slate-100 transition-colors duration-300 overflow-x-hidden">
-<div id="toast-container" aria-live="polite"></div>
-
 <div class="min-h-screen flex flex-col">
 
 <!-- ── HEADER ──────────────────────────────────────────────────────── -->
@@ -2018,10 +1792,10 @@ function exportPDF() {
     let head, body;
     if (isLicit) {
         if (viewMode === 'registros') {
-            head = [['Nº Edital','Modalidade','Objeto','Condutor','Lotes','Valor Ref.','Situação']];
+            head = [['Nº Edital','Modalidade','Objeto','Lotes','Valor Ref.','Situação']];
             body = filteredData.map(r => {
                 const val = (r.lotes||[]).reduce((s,l)=>s+parseValor(l.valor_referencia||0),0);
-                return [r.id||'', r.modalidade||'', (r.objeto||'').substring(0,70), r.condutor||'', r.total_lotes||0, val>0?fmtBRL(val):'–', r.situacao||''];
+                return [r.id||'', r.modalidade||'', r.objeto||'', r.total_lotes||0, val>0?fmtBRL(val):'–', r.situacao||''];
             });
         } else {
             head = [['Processo','Lote','Especificação','Un.','Qtd.','Valor Ref.','Situação']];
@@ -2054,7 +1828,7 @@ function exportPDF() {
         styles: { fontSize: 7, cellPadding: 2.5, overflow: 'linebreak' },
         headStyles: { fillColor: cor, textColor: 255, fontStyle: 'bold', fontSize: 7.5 },
         alternateRowStyles: { fillColor: [248,250,252] },
-        columnStyles: viewMode==='registros' && isLicit ? { 2:{cellWidth:75}, 3:{cellWidth:40} } : {},
+        columnStyles: viewMode==='registros' && isLicit ? { 2:{cellWidth:120} } : {},
         margin: { left: 10, right: 10 },
         didDrawPage: (data) => {
             // Rodapé
@@ -2340,99 +2114,5 @@ async function aiSend() {
   }
 }
 </script>
-
-<script>
-// === ADDONS NÃO-INVASIVOS ===
-(function() {
-  // Toast
-  window.showToast = function(msg, type='info') {
-    const c = document.getElementById('toast-container');
-    if(!c) return;
-    const t = document.createElement('div');
-    t.className = 'toast ' + type;
-    t.textContent = msg;
-    c.appendChild(t);
-    setTimeout(() => { t.style.opacity='0'; setTimeout(()=>t.remove(),200); }, 3500);
-  };
-  
-  // Copiar
-  window.copyText = async function(txt) {
-    try { await navigator.clipboard.writeText(txt); showToast('Copiado!', 'success'); }
-    catch { showToast('Não foi possível copiar', 'error'); }
-  };
-  
-  // Exportar chat
-  window.exportChatPDF = function() {
-    try {
-      const { jsPDF } = window.jspdf;
-      const doc = new jsPDF();
-      let y = 15;
-      doc.setFontSize(14); doc.text('BLL Explorer - Chat IA', 14, y); y += 10;
-      doc.setFontSize(10);
-      const msgs = document.querySelectorAll('#ai-messages .ai-msg');
-      msgs.forEach(m => {
-        const isUser = m.classList.contains('user');
-        const text = (isUser ? 'Você: ' : 'IA: ') + m.innerText;
-        const lines = doc.splitTextToSize(text, 180);
-        lines.forEach(l => { if(y > 280){ doc.addPage(); y=15; } doc.text(l,14,y); y+=6; });
-        y+=2;
-      });
-      doc.save('chat-bll.pdf');
-      showToast('PDF gerado', 'success');
-    } catch(e) { showToast('Erro ao gerar PDF', 'error'); }
-  };
-  
-  // Adiciona botões após cada mensagem do bot (sem mexer no aiSend)
-  const observer = new MutationObserver(muts => {
-    muts.forEach(m => {
-      m.addedNodes.forEach(node => {
-        if(node.nodeType===1 && node.classList && node.classList.contains('ai-msg') && node.classList.contains('bot')) {
-          if(node.parentNode.classList.contains('ai-msg-wrapper')) return;
-          const wrapper = document.createElement('div');
-          wrapper.className = 'ai-msg-wrapper';
-          node.parentNode.insertBefore(wrapper, node);
-          wrapper.appendChild(node);
-          const actions = document.createElement('div');
-          actions.className = 'ai-msg-actions';
-          actions.innerHTML = '<button class="ai-action-btn" onclick="copyText(this.closest('.ai-msg-wrapper').querySelector('.ai-msg').innerText)">Copiar</button><button class="ai-action-btn" onclick="exportChatPDF()">PDF</button>';
-          wrapper.appendChild(actions);
-        }
-      });
-    });
-  });
-  
-  const msgsContainer = document.getElementById('ai-messages');
-  if(msgsContainer) observer.observe(msgsContainer, { childList: true });
-  
-  // Atalhos
-  document.addEventListener('keydown', e => {
-    if((e.ctrlKey||e.metaKey) && e.key.toLowerCase()==='k') {
-      e.preventDefault();
-      document.getElementById('ai-fab')?.click();
-      showToast('Assistente aberto (Ctrl+K)', 'info');
-    }
-  });
-  
-  // Enter para enviar, Shift+Enter nova linha
-  const inp = document.getElementById('ai-input');
-  if(inp && !inp.dataset.enhanced) {
-    inp.dataset.enhanced = '1';
-    inp.addEventListener('keydown', e => {
-      if(e.key==='Enter' && !e.shiftKey) {
-        e.preventDefault();
-        document.getElementById('ai-send')?.click();
-      }
-    });
-    inp.placeholder = 'Pergunte sobre processos... (Enter envia)';
-  }
-  
-  // Footer
-  const footer = document.createElement('footer');
-  footer.style.cssText = 'text-align:center;padding:16px;font-size:11px;color:#64748b';
-  footer.textContent = 'Dados públicos • Teixeira de Freitas • 09/04/2026';
-  document.body.appendChild(footer);
-})();
-</script>
-
 </body>
 </html>
