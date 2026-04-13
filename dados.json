@@ -1,10 +1,10 @@
 {
   "metadata": {
     "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-    "total_processos": 763,
-    "total_lotes": 8646,
-    "total_itens": 14780,
-    "atualizado_em": "20260410_193501"
+    "total_processos": 764,
+    "total_lotes": 8647,
+    "total_itens": 14781,
+    "atualizado_em": "20260413_122422"
   },
   "processos": [
     {
@@ -261235,50 +261235,6 @@
       ]
     },
     {
-      "id": "2-DLE-034-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "321/2026",
-      "modalidade": "DISPENSA ELETRÔNICA",
-      "situacao": "RECEPÇÃO DE PROPOSTAS",
-      "condutor": "ISLA LIMA SILVA",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO",
-      "publicacao": "07/04/2026 17:30",
-      "inicio_recepcao": "07/04/2026 17:35",
-      "fim_recepcao": "13/04/2026 08:15",
-      "inicio_disputa": "13/04/2026 08:30",
-      "objeto": "Contratação de empresa especializada em fornecimento de BANHEIROS QUÍMICOS (material permanente), cujas especificações técnicas, quantidades e demais condições encontram-se detalhadas neste instrumento, a fim de atender as demandas da Secretaria Municipal de Administração.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5D_Gqa4YdfNZJhOlCHUbhteKg5ZmpV%2FqNrQnxairNZAZ6KyFWzB3IV8%2Fb2V%2FUA8UC2MXPlTdrPwTNj780U7u07XwprQs4GWBYN5Qu8Ka0fe00%3D",
-      "total_lotes": 1,
-      "total_itens": 1,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "BANHEIROS QUÍMICOS",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "25.258,02",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37179 BANHEIROS QUÍMICOS:individuais portáteis com tetotranslúcido composto com caixa de dejeto com assento, mictório,porta papel higiênico (devidamente abastecidos) e fechamentode identificação OCUPADO/ DESOCUPADO e indicação demasculinos, femininos, para público e bandas (camarins), commedidas mínimas de altura: 2,15 m largura: 1,78 m comprimento:2,18 m, com ponto de ventilação natural. EXCLUSIVO PARAME/EPP.",
-              "unidade": "UN",
-              "quantidade": "6,00",
-              "valor_referencia": "4.209,67"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "PE-038-2026",
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "1232/2025",
@@ -261948,521 +261904,6 @@
               "unidade": "UND",
               "quantidade": "2,00",
               "valor_referencia": "22,03"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "PE-064-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "269 / 2026",
-      "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "PUBLICADO",
-      "condutor": "JONATAS DA SILVA SOUSA",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO PARCELADA",
-      "publicacao": "09/04/2026 16:49",
-      "inicio_recepcao": "13/04/2026 08:30",
-      "fim_recepcao": "24/04/2026 09:15",
-      "inicio_disputa": "24/04/2026 09:30",
-      "objeto": "Contratação de empresa especializada em fornecimento de DOCES (material de consumo), a fim de atender às demandas da Secretaria Municipal de Educação.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DpTTBZDwqK_eZXDQxDVcvvStAkdmis7DI8HuOrP%2FXbS532ukN69w0wwW2DN5spmBA9rDfO3EH7ntJojlR4vH2ODvx7Ft8V%2FK9h_Q9NlYz0Qs%3D",
-      "total_lotes": 8,
-      "total_itens": 8,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "37141 Bombom tipo wafer recheado com creme de castanha de caju e cobertura de chocolate:Produto alimentício do tipo bombom à base de wafer crocante, com recheio cremoso sabor castanha de caju, coberto com chocolate ao leite ou similar, apresentando textur",
-          "fase": "PUBLICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37141 Bombom tipo wafer recheado com creme de castanha de caju e cobertura de chocolate:Produto alimentício do tipo bombom à base de wafer crocante, com recheio cremoso sabor castanha de caju, coberto com chocolate ao leite ou similar, apresentando textura que combina crocância do wafer com cremosidade do recheio, sabor marcante e homogêneo, próprio para consumo humano. Deverá ser elaborado com ingredientes de boa qualidade, contendo, entre outros, derivados de trigo, leite e castanha de caju, podendo conter soja, amendoim e traços de glúten, conforme rotulagem do fabricante. Embalagem primária: bombons embalados individualmente, em invólucro apropriado para alimentos, íntegro, sem rasgos, furos ou sinais de violação. Embalagem secundária: pacote com peso líquido de 1 kg, devendo constar, a identificação clara do produto, marca, peso líquido, lote, data de fabricação e validade. Produto pronto para consumo, isento de corpos estranhos, sujidades, umidade excessiva, deformações acentuadas ou sinais de deterioração. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "PCT",
-              "quantidade": "120,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "2",
-          "titulo": "37142 Bombom tipo wafer recheado com creme de chocolate meio amargo e flocos de arroz, coberto com chocolate branco:Produto alimentício do tipo bombom wafer, composto por camadas de wafer crocante, recheio cremoso sabor chocolate meio amargo com flocos de",
-          "fase": "PUBLICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37142 Bombom tipo wafer recheado com creme de chocolate meio amargo e flocos de arroz, coberto com chocolate branco:Produto alimentício do tipo bombom wafer, composto por camadas de wafer crocante, recheio cremoso sabor chocolate meio amargo com flocos de arroz e cobertura de chocolate branco, conferindo contraste de sabores e texturas, adequado ao consumo individual. Deverá apresentar textura crocante do wafer e dos flocos de arroz, combinada à cremosidade do recheio, sabor característico de chocolate meio amargo e chocolate branco, isento de odores ou sabores estranhos e de sinais de rancificação. Embalagem primária: unidades embaladas individualmente, em filme apropriado para contato com alimentos, íntegro e inviolado. Embalagem secundária: pacote ou caixa com peso líquido de 1 kg, com identificação do produto (bombom wafer recheado), marca, peso líquido, lote, data de fabricação, data de validade, lista de ingredientes, informação nutricional e advertências sobre alergênicos (trigo, leite, soja, amendoim, entre outros), bem como identificação do fabricante (nome/razão social e CNPJ) e registro no órgão competente. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "PCT",
-              "quantidade": "120,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "3",
-          "titulo": "9900515543 Bombom tipo wafer recheado com creme sabor chocolate ao leite, coberto com chocolate ao leite:Produto alimentício do tipo bombom chocolate, consistindo em wafer crocante com recheio cremoso sabor chocolate ao leite e cobertura externa também de",
-          "fase": "PUBLICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900515543 Bombom tipo wafer recheado com creme sabor chocolate ao leite, coberto com chocolate ao leite:Produto alimentício do tipo bombom chocolate, consistindo em wafer crocante com recheio cremoso sabor chocolate ao leite e cobertura externa também de chocolate ao leite, destinado ao consumo imediato. Produto deve apresentar cor, sabor e aroma característicos de chocolate, textura firme, sem grumos, sem sinais de umidade excessiva, deformação, esbranquiçamento (\"fat bloom\") acentuado ou qualquer indício de deterioração.Embalagem: bombons embalados individualmente, acondicionados em pacote com peso líquido de 1 kg, em material apropriado para alimentos, resistente e íntegro, contendo identificação do produto, marca, peso líquido, lote, data de fabricação, validade, informações nutricionais, lista de ingredientes e advertências sobre alergênicos, além do nome/razão social e CNPJ do fabricante e número de registro no órgão competente. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "PCT",
-              "quantidade": "120,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "4",
-          "titulo": "9900515544 Bala de goma tipo jujuba sortida em tubos:Produto alimentício do tipo bala de goma (jujuba) açucarada, macia, mastigável, em sabores sortidos de frutas (como morango, uva, laranja, limão, abacaxi ou similares), acondicionada em tubos plásticos",
-          "fase": "PUBLICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900515544 Bala de goma tipo jujuba sortida em tubos:Produto alimentício do tipo bala de goma (jujuba) açucarada, macia, mastigável, em sabores sortidos de frutas (como morango, uva, laranja, limão, abacaxi ou similares), acondicionada em tubos plásticos individuais, própria para consumo humano. Deverá apresentar textura macia, não excessivamente pegajosa, sem cristalização exagerada de açúcar na superfície, isenta de sujidades, corpos estranhos, odor e sabor estranhos ou sinais de fermentação. Embalagem: tubo com no mínimo 8 unidades de jujubas, com peso aproximado de 30 g a 35 g cada tubo, acondicionado em caixa com 30 tubos por caixa, devendo constar na rotulagem a identificação do produto (bala de goma tipo jujuba), sabor sortido, peso, lote, data de fabricação, prazo de validade, lista de ingredientes, informação nutricional, advertências sobre alergênicos e presença/ausência de glúten, além do nome/razão social e CNPJ do fabricante. EXCLUSIVOPARA ME/EPP.",
-              "unidade": "CX",
-              "quantidade": "100,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "5",
-          "titulo": "9900515545 Bala de goma tipo jujuba sabor iogurte em tubos:Produto alimentício do tipo bala de goma (jujuba), macia, mastigável, com sabores sortidos inspirados em iogurte de frutas (como morango, uva, pêssego ou similares), apresentando textura suave e a",
-          "fase": "PUBLICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900515545 Bala de goma tipo jujuba sabor iogurte em tubos:Produto alimentício do tipo bala de goma (jujuba), macia, mastigável, com sabores sortidos inspirados em iogurte de frutas (como morango, uva, pêssego ou similares), apresentando textura suave e aroma característico de iogurte, acondicionada em tubos plásticos individuais. Deverá ser elaborada com ingredientes próprios para consumo humano, apresentando cores e formatos compatíveis com a categoria, sem presença de corpos estranhos, sujidades, deformações excessivas ou sinais de deterioração. Embalagem: tubo com no mínimo 8 unidades de jujubas, com peso aproximado de 30 g a 35 g cada tubo, acondicionado em caixa com 30 tubos por caixa, com rotulagem contendo denominação do produto (bala de goma sabor iogurte), sabores, peso, lote, data de fabricação, prazo de validade, lista de ingredientes, informação nutricional, advertências sobre alergênicos e identificação completa do fabricante (nome/razão social, CNPJ e endereço), e registro no órgão competente.EXCLUSIVO PARA ME/EPP.",
-              "unidade": "CX",
-              "quantidade": "100,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "6",
-          "titulo": "9900515546 Bala de café:Produto alimentício do tipo bala dura ou mastigável, sabor café, com aroma e sabor característicos de café torrado, própria para consumo humano, destinada à oferta em eventos, reuniões e ações institucionais. Deverá apresentar text",
-          "fase": "PUBLICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900515546 Bala de café:Produto alimentício do tipo bala dura ou mastigável, sabor café, com aroma e sabor característicos de café torrado, própria para consumo humano, destinada à oferta em eventos, reuniões e ações institucionais. Deverá apresentar textura uniforme (dura ou levemente mastigável, conforme o tipo), sem rachaduras excessivas, sem cristais de açúcar soltos em demasia, isenta de corpos estranhos, sujidades, umidade excessiva, deformações anormais ou odor e sabor estranhos.Embalagem: balas embaladas individualmente, acondicionadas em pacote com peso líquido mínimo de 500g, em material apropriado para contato com alimentos, íntegro e inviolado, com identificação do produto (bala de café), marca, peso líquido, lote, data de fabricação, prazo de validade, lista de ingredientes, informação nutricional e advertências sobre alergênicos, além dos dados do fabricante (nome/razão social, CNPJ) e registro no órgão competente. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "PCT",
-              "quantidade": "100,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "7",
-          "titulo": "37143 Bala sortida de sabores:Produto alimentício do tipo bala (dura ou mastigável), com sabores sortidos de frutas e/ou outros sabores usuais (tais como menta, tutti-frutti, caramelo, entre outros), própria para consumo humano em eventos e reuniões insti",
-          "fase": "PUBLICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37143 Bala sortida de sabores:Produto alimentício do tipo bala (dura ou mastigável), com sabores sortidos de frutas e/ou outros sabores usuais (tais como menta, tutti-frutti, caramelo, entre outros), própria para consumo humano em eventos e reuniões institucionais. Deverá apresentar textura adequada ao tipo (dura ou mastigável), cor e aroma compatíveis com os sabores declarados, isenta de sujidades, corpos estranhos, deformações excessivas, umidade anormal ou sinais de deterioração.Embalagem: balas embaladas individualmente, acondicionadas em pacote com peso líquido mínimo de 500g, devendo a embalagem conter, de forma clara e legível, a identificação do produto (bala sortida), marca, peso líquido, lote, data de fabricação, validade, lista de ingredientes, informação nutricional, advertências sobre alergênicos, identificação do fabricante (nome/razão social, CNPJ e endereço) e, quando aplicável, registro no órgão competente. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "PCT",
-              "quantidade": "100,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "8",
-          "titulo": "9900515547 Bala sabor morango:Produto alimentício do tipo bala (dura ou mastigável), sabor morango, com cor, aroma e sabor característicos da fruta, própria para consumo humano. Deverá apresentar textura homogênea, sem rachaduras ou deformações exageradas",
-          "fase": "PUBLICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900515547 Bala sabor morango:Produto alimentício do tipo bala (dura ou mastigável), sabor morango, com cor, aroma e sabor característicos da fruta, própria para consumo humano. Deverá apresentar textura homogênea, sem rachaduras ou deformações exageradas, isenta de sujidades, corpos estranhos, umidade excessiva ou sinais de deterioração. Embalagem: balas embaladas individualmente, acondicionadas em pacote com peso líquido mínimo de 500g, devendo o rótulo conter a denominação do produto (bala sabor morango), marca, peso líquido, lote, data de fabricação, prazo de validade, lista de ingredientes, informação nutricional, advertências sobre alergênicos, identificação do fabricante (nome/razão social, CNPJ) e, quando exigido, registro no órgão competente.EXCLUSIVO PARA ME/EPP.",
-              "unidade": "PCT",
-              "quantidade": "100,00",
-              "valor_referencia": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "PE-056-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "132/2026",
-      "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "PUBLICADO",
-      "condutor": "JONATAS DA SILVA SOUSA",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "REGISTRO DE PREÇO",
-      "publicacao": "09/04/2026 15:19",
-      "inicio_recepcao": "13/04/2026 08:30",
-      "fim_recepcao": "24/04/2026 08:15",
-      "inicio_disputa": "24/04/2026 08:30",
-      "objeto": "A Contratação de empresa especializada em FORNECIMENTO DE ESQUADRIAS DE MADEIRA, DE ALUMÍNIO E ACESSÓRIOS,  a fim de atender as demandas da Secretaria Municipal de Infraestrutura e Serviços Urbanos.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5D9yv0W5hzhidN8wQp1A%2F6ThxP5jr610ojfcrpLCm8Wgzqj1AOwuAzLu9RPRwo1zV5z_3O0HcR1Cq4VGZ2czWlfHz9xanbYdHNKwiWiUzXrfk%3D",
-      "total_lotes": 1,
-      "total_itens": 38,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "ESQUADRIAS DE MADEIRA",
-          "fase": "PUBLICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 38,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "5502000001 FECHADURA PARA PORTA EXTERNA PADRAO MÉDIO:FECHADURA PARA PORTA EXTERNA PADRAO MÉDIO",
-              "unidade": "UND",
-              "quantidade": "280,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "2",
-              "especificacao": "5502000002 FECHADURA PARA PORTA DE BANHEIRO PADRAO MÉDIO:FECHADURA PARA PORTA DE BANHEIRO PADRAO MÉDIO",
-              "unidade": "UND",
-              "quantidade": "120,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "3",
-              "especificacao": "5502000003 FECHADURA PARA PORTA EXTERNA CHAVE TETRA::FECHADURA PARA PORTA EXTERNA CHAVE TETRA",
-              "unidade": "UND",
-              "quantidade": "70,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "4",
-              "especificacao": "5502000004 FECHADURA EXTERNA DE SOBREPOR P/ PORTÃO CHAVE TETRA:FECHADURA EXTERNA DE SOBREPOR P/ PORTÃO CHAVE TETRA",
-              "unidade": "UND",
-              "quantidade": "90,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "5",
-              "especificacao": "5502000005 JANELA DUPLA DE MADEIRA DO TIPO ALMOFADA 1,20X1,10 M:JANELA DUPLA DE MADEIRA DO TIPO ALMOFADA 1,20X1,10 M.",
-              "unidade": "UND",
-              "quantidade": "40,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "6",
-              "especificacao": "5502000006 JANELA DUPLA DE MADEIRA DO TIPO ALMOFADA 1,60X1,10 M:JANELA DUPLA DE MADEIRA DO TIPO ALMOFADA 1,60X1,10 M.",
-              "unidade": "UND",
-              "quantidade": "20,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "7",
-              "especificacao": "5502000007 JANELA MAXIAR DE ALUMINIO 0,60X0,50 COM VIDRO:JANELA MAXIAR DE ALUMINIO 0,60X0,50 COM VIDRO",
-              "unidade": "UND",
-              "quantidade": "20,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "8",
-              "especificacao": "5502000008 JANELA SIMPLES DE MADEIRA DO TIPO ALMOFADA 0,80X1,10M:JANELA SIMPLES DE MADEIRA DO TIPO ALMOFADA 0,80X1,10M.",
-              "unidade": "UND",
-              "quantidade": "32,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "9",
-              "especificacao": "5502000009 JANELA SIMPLES DE MADEIRA DO TIPO ALMOFADA 1,00X1,10 M:JANELA SIMPLES DE MADEIRA DO TIPO ALMOFADA 1,00X1,10 M.",
-              "unidade": "UND",
-              "quantidade": "22,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "10",
-              "especificacao": "5502000010 KIT DE DOBRADIÇA PARA JANELA 2. 1/2 COM 2 UNIDADES:KIT DE DOBRADIÇA PARA JANELA 2.1/2 COM 2 UNIDADES",
-              "unidade": "UND",
-              "quantidade": "110,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "11",
-              "especificacao": "5502000011 KIT DE DOBRADIÇA PARA PORTA 2.1/2, COM 3 UNIDADES:KIT DE DOBRADIÇA PARA PORTA 2.1/2, COM 3 UNIDADES",
-              "unidade": "UND",
-              "quantidade": "180,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "12",
-              "especificacao": "5502000012 KIT DE DOBRADIÇA PARA PORTA 3.1/2, COM 3 UNIDADES:KIT DE DOBRADIÇA PARA PORTA 3.1/2, COM 3 UNIDADES",
-              "unidade": "UND",
-              "quantidade": "320,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "13",
-              "especificacao": "5502000013 PORTA DE MADEIRA MISTA DO TIPO ALMOFADA 0,60X2,10 M:PORTA DE MADEIRA MISTA DO TIPO ALMOFADA 0,60X2,10 M",
-              "unidade": "UND",
-              "quantidade": "54,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "14",
-              "especificacao": "5502000014 PORTA DE MADEIRA MISTA DO TIPO ALMOFADA 0,70X2,10 M:PORTA DE MADEIRA MISTA DO TIPO ALMOFADA 0,70X2,10 M",
-              "unidade": "UND",
-              "quantidade": "52,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "15",
-              "especificacao": "5502000015 PORTA DE MADEIRA MISTA DO TIPO ALMOFADA 0,80X2,10 M:PORTA DE MADEIRA MISTA DO TIPO ALMOFADA 0,80X2,10 M",
-              "unidade": "UND",
-              "quantidade": "145,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "16",
-              "especificacao": "5502000016 PORTA DE MADEIRA MISTA DO TIPO ALMOFADA 0,90X2,10 M:PORTA DE MADEIRA MISTA DO TIPO ALMOFADA 0,90X2,10 M",
-              "unidade": "UND",
-              "quantidade": "123,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "17",
-              "especificacao": "5502000017 PORTA DE MADEIRA MISTA DO TIPO SEMIOCA0,60X2,10 M:PORTA DE MADEIRA MISTA DO TIPO SEMI OCA0,60X2,10 M",
-              "unidade": "UND",
-              "quantidade": "85,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "18",
-              "especificacao": "5502000018 PORTA DE MADEIRA MISTA DO TIPO SEMIOCA0,70X2,10 M:PORTA DE MADEIRA MISTA DO TIPO SEMI OCA0,70X2,10 M",
-              "unidade": "UND",
-              "quantidade": "70,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "19",
-              "especificacao": "5502000019 PORTA DE MADEIRA MISTA DO TIPO SEMIOCA 0,80X2,10 M:PORTA DE MADEIRA MISTA DO TIPO SEMI OCA0,80X2,10 M",
-              "unidade": "UND",
-              "quantidade": "128,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "20",
-              "especificacao": "5502000020 PORTA DE MADEIRA MISTA DO TIPO SEMIOCA0,90X2,10 M:PORTA DE MADEIRA MISTA DO TIPO SEMI OCA0,90X2,10 M",
-              "unidade": "UND",
-              "quantidade": "74,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "21",
-              "especificacao": "5502000021 PORTA DE MADEIRA MISTA DO TIPO SEMI OCA1,00X2,10 M:PORTA VENEZIANA DE ALUMINIO 0,60X2,10 M",
-              "unidade": "UND",
-              "quantidade": "66,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "22",
-              "especificacao": "5502000022 PORTA VENEZIANA DE ALUMINIO 0,60X2,10 M:PORTA VENEZIANA DE ALUMINIO 0,60X2,10 M",
-              "unidade": "UND",
-              "quantidade": "20,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "23",
-              "especificacao": "5502000023 PORTA VENEZIANA DE ALUMINIO 0,70X2,10 M COMPLETA:PORTA VENEZIANA DE ALUMINIO 0,70X2,10 M COMPLETA",
-              "unidade": "UND",
-              "quantidade": "20,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "24",
-              "especificacao": "5502000024 PORTA VENEZIANA DE ALUMINIO 0,80X2,10 M:PORTA VENEZIANA DE ALUMINIO 0,80X2,10 M",
-              "unidade": "UND",
-              "quantidade": "40,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "25",
-              "especificacao": "5502000025 PORTA VENEZIANA DE ALUMINIO 0,90X2,10 M:PORTA VENEZIANA DE ALUMINIO 0,90X2,10 M",
-              "unidade": "UND",
-              "quantidade": "30,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "26",
-              "especificacao": "5502000026 PORTA VENEZIANA DE ALUMÍNIO 1,00X2,10 M:PORTA VENEZIANA DE ALUMÍNIO 1,00X2,10 M",
-              "unidade": "UND",
-              "quantidade": "20,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "27",
-              "especificacao": "5502000027 PORTA VENEZIANA DE ALUMÍNIO DUPLA2,00X2,10 M:PORTA VENEZIANA DE ALUMÍNIO DUPLA2,00X2,10 M",
-              "unidade": "UND",
-              "quantidade": "20,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "28",
-              "especificacao": "5502000028 TRINCO FERROLHO:REDONDO AÇO ZINCADO2",
-              "unidade": "UND",
-              "quantidade": "260,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "29",
-              "especificacao": "5502000029 TRINCO FERROLHO:REDONDO AÇO ZINCADO3",
-              "unidade": "UND",
-              "quantidade": "320,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "30",
-              "especificacao": "5502000030 TRINCO FERROLHO:REDONDO AÇO ZINCADO4",
-              "unidade": "UND",
-              "quantidade": "120,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "31",
-              "especificacao": "5502000031 TRINCO FERROLHO:CHATO P/ CADEADO AÇO ZINCADO 3",
-              "unidade": "UND",
-              "quantidade": "230,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "32",
-              "especificacao": "5502000032 PORTA CADEADO:ZINCADO COM TRAVA PARA PORTÃO E PORTA 2.1/2",
-              "unidade": "UND",
-              "quantidade": "250,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "33",
-              "especificacao": "5502000033 CADEADO:20MM",
-              "unidade": "UND",
-              "quantidade": "160,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "34",
-              "especificacao": "5502000034 CADEADO:25MM",
-              "unidade": "UND",
-              "quantidade": "180,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "35",
-              "especificacao": "5502000035 CADEADO:30MM",
-              "unidade": "UND",
-              "quantidade": "235,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "36",
-              "especificacao": "5502000036 CADEADO:40MM",
-              "unidade": "UND",
-              "quantidade": "270,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "37",
-              "especificacao": "5502000037 CADEADO:50MM",
-              "unidade": "UND",
-              "quantidade": "255,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "38",
-              "especificacao": "5502000038 CADEADO:60MM",
-              "unidade": "UND",
-              "quantidade": "226,00",
-              "valor_referencia": ""
             }
           ]
         }
@@ -265704,6 +265145,609 @@
               "unidade": "UND",
               "quantidade": "315,00",
               "valor_referencia": "53,98"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-065-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "202 / 2026",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "PUBLICADO",
+      "condutor": "SERGIO CARNEIRO CAVALCANTI DE AZEVEDO",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO",
+      "publicacao": "13/04/2026 11:54",
+      "inicio_recepcao": "15/04/2026 08:30",
+      "fim_recepcao": "28/04/2026 09:15",
+      "inicio_disputa": "28/04/2026 09:30",
+      "objeto": "Contratação de empresa especializada em fornecimento de VEÍCULOS TIPO PICAPE CABINE DUPLA\n(bens permanentes), a fim de atender as demandas da Secretaria Municipal de Educação.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DednPJtzscEF65XMgHPALV_hjK91j0Ep6zpltSoPnT9Rlel%2FPIlDp7dbEF6kFxCutFvwxS2%2FDZ2VGn2U_m7%2Fd60lDrQLEruqD9AtS0LOmIxE%3D",
+      "total_lotes": 1,
+      "total_itens": 1,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "VEICULOS PICAPE CABINA DUPLA",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "73973900009 Veículo automotor zero quilômetro, tipo picapeleve/compacta:com cabine dupla, 4 portas, capacidade para 5(cinco) ocupantes incluindo o motorista. Ano defabricação/modelo 2026, combustível tipo flex (álcool/gasolina),motorização mínima de 1.3L (ou superior), potência mínima107cv. Tração 4x2, câmbio manual ou automático, com, nomínimo, 5 (cinco) marchas à frente (ou conforme tecnologiadisponível em câmbio automático), visando melhor desempenho,segurança e economia de combustível. Veículo dotado dedireção com assistência elétrica, sistema de freios com ABS eEBD (ou equivalente), airbag frontal para motorista e passageiro,cintos de segurança de 3 (três) pontos para todos os ocupantes(quando aplicável) e encostos de cabeça, atendendointegralmente às normas de segurança vigentes. Vidros elétricosnas portas dianteiras e traseiras, travas elétricas nas portas comtravamento central e acionamento por meio de comando internoe pela chave ou dispositivo equivalente. Sistema de arcondicionado frio/quente, com difusores frontais, adequado aoconforto térmico dos ocupantes, com comandos de fácil acessoao motorista. Carroceria com caçamba traseira aberta, comcapacidade de carga mínima de 600kg, dotada de protetor decaçamba (forração ou protetor em material plástico ou similar),capota marítima ou equivalente, ganchos ou pontos deamarração de carga conforme projeto do fabricante, permitindo otransporte de materiais leves, equipamentos, mobiliários depequeno porte, materiais pedagógicos e insumos administrativos.Sistema multimídia, no mínimo, conexão Bluetooth e rádio, altofalantes instalados, entrada USB ou equivalente, painel deinstrumentos com indicadores básicos (velocímetro, marcador decombustível, hodômetro, luzes de advertência) e computador debordo. Comando interno e elétricos para regulagem deretrovisores externos, desembaçador do vidro traseiro (quandoaplicável), limpador e lavador de para-brisa dianteiro comtemporizador. Equipado, no mínimo, com sensor deestacionamento traseiro e câmera de ré (admite-se um dos doisou ambos), faróis com regulagem de foco (manual ou elétrica,conforme projeto de fábrica), iluminação traseira completa, luz defreio elevada, aviso sonoro de faróis acesos e/ou portas abertas,conforme configuração de série. Bancos revestidos em courosintético de fábrica ou material similar, banco do motorista comajuste de distância e inclinação, porta-objetos distribuídos nopainel (VIDE ANEXO DO TERMO).",
+              "unidade": "UN",
+              "quantidade": "4,00",
+              "valor_referencia": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-064-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "269 / 2026",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "RECEPÇÃO DE PROPOSTAS",
+      "condutor": "JONATAS DA SILVA SOUSA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO PARCELADA",
+      "publicacao": "09/04/2026 16:49",
+      "inicio_recepcao": "13/04/2026 08:30",
+      "fim_recepcao": "24/04/2026 09:15",
+      "inicio_disputa": "24/04/2026 09:30",
+      "objeto": "Contratação de empresa especializada em fornecimento de DOCES (material de consumo), a fim de atender às demandas da Secretaria Municipal de Educação.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DNX4zxnjYYL8x_4_1SFzZWKHKYchQ27DePMxgN9y5yRXizJs3sc5hlSFUtE_O7_Q%2FzKSkCBusc3OQbN6qMdgFrw1V7axYtQTx4eE8XZmoeBQ%3D",
+      "total_lotes": 8,
+      "total_itens": 8,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "37141 Bombom tipo wafer recheado com creme de castanha de caju e cobertura de chocolate:Produto alimentício do tipo bombom à base de wafer crocante, com recheio cremoso sabor castanha de caju, coberto com chocolate ao leite ou similar, apresentando textur",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37141 Bombom tipo wafer recheado com creme de castanha de caju e cobertura de chocolate:Produto alimentício do tipo bombom à base de wafer crocante, com recheio cremoso sabor castanha de caju, coberto com chocolate ao leite ou similar, apresentando textura que combina crocância do wafer com cremosidade do recheio, sabor marcante e homogêneo, próprio para consumo humano. Deverá ser elaborado com ingredientes de boa qualidade, contendo, entre outros, derivados de trigo, leite e castanha de caju, podendo conter soja, amendoim e traços de glúten, conforme rotulagem do fabricante. Embalagem primária: bombons embalados individualmente, em invólucro apropriado para alimentos, íntegro, sem rasgos, furos ou sinais de violação. Embalagem secundária: pacote com peso líquido de 1 kg, devendo constar, a identificação clara do produto, marca, peso líquido, lote, data de fabricação e validade. Produto pronto para consumo, isento de corpos estranhos, sujidades, umidade excessiva, deformações acentuadas ou sinais de deterioração. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "PCT",
+              "quantidade": "120,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "2",
+          "titulo": "37142 Bombom tipo wafer recheado com creme de chocolate meio amargo e flocos de arroz, coberto com chocolate branco:Produto alimentício do tipo bombom wafer, composto por camadas de wafer crocante, recheio cremoso sabor chocolate meio amargo com flocos de",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37142 Bombom tipo wafer recheado com creme de chocolate meio amargo e flocos de arroz, coberto com chocolate branco:Produto alimentício do tipo bombom wafer, composto por camadas de wafer crocante, recheio cremoso sabor chocolate meio amargo com flocos de arroz e cobertura de chocolate branco, conferindo contraste de sabores e texturas, adequado ao consumo individual. Deverá apresentar textura crocante do wafer e dos flocos de arroz, combinada à cremosidade do recheio, sabor característico de chocolate meio amargo e chocolate branco, isento de odores ou sabores estranhos e de sinais de rancificação. Embalagem primária: unidades embaladas individualmente, em filme apropriado para contato com alimentos, íntegro e inviolado. Embalagem secundária: pacote ou caixa com peso líquido de 1 kg, com identificação do produto (bombom wafer recheado), marca, peso líquido, lote, data de fabricação, data de validade, lista de ingredientes, informação nutricional e advertências sobre alergênicos (trigo, leite, soja, amendoim, entre outros), bem como identificação do fabricante (nome/razão social e CNPJ) e registro no órgão competente. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "PCT",
+              "quantidade": "120,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "3",
+          "titulo": "9900515543 Bombom tipo wafer recheado com creme sabor chocolate ao leite, coberto com chocolate ao leite:Produto alimentício do tipo bombom chocolate, consistindo em wafer crocante com recheio cremoso sabor chocolate ao leite e cobertura externa também de",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515543 Bombom tipo wafer recheado com creme sabor chocolate ao leite, coberto com chocolate ao leite:Produto alimentício do tipo bombom chocolate, consistindo em wafer crocante com recheio cremoso sabor chocolate ao leite e cobertura externa também de chocolate ao leite, destinado ao consumo imediato. Produto deve apresentar cor, sabor e aroma característicos de chocolate, textura firme, sem grumos, sem sinais de umidade excessiva, deformação, esbranquiçamento (\"fat bloom\") acentuado ou qualquer indício de deterioração.Embalagem: bombons embalados individualmente, acondicionados em pacote com peso líquido de 1 kg, em material apropriado para alimentos, resistente e íntegro, contendo identificação do produto, marca, peso líquido, lote, data de fabricação, validade, informações nutricionais, lista de ingredientes e advertências sobre alergênicos, além do nome/razão social e CNPJ do fabricante e número de registro no órgão competente. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "PCT",
+              "quantidade": "120,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "4",
+          "titulo": "9900515544 Bala de goma tipo jujuba sortida em tubos:Produto alimentício do tipo bala de goma (jujuba) açucarada, macia, mastigável, em sabores sortidos de frutas (como morango, uva, laranja, limão, abacaxi ou similares), acondicionada em tubos plásticos",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515544 Bala de goma tipo jujuba sortida em tubos:Produto alimentício do tipo bala de goma (jujuba) açucarada, macia, mastigável, em sabores sortidos de frutas (como morango, uva, laranja, limão, abacaxi ou similares), acondicionada em tubos plásticos individuais, própria para consumo humano. Deverá apresentar textura macia, não excessivamente pegajosa, sem cristalização exagerada de açúcar na superfície, isenta de sujidades, corpos estranhos, odor e sabor estranhos ou sinais de fermentação. Embalagem: tubo com no mínimo 8 unidades de jujubas, com peso aproximado de 30 g a 35 g cada tubo, acondicionado em caixa com 30 tubos por caixa, devendo constar na rotulagem a identificação do produto (bala de goma tipo jujuba), sabor sortido, peso, lote, data de fabricação, prazo de validade, lista de ingredientes, informação nutricional, advertências sobre alergênicos e presença/ausência de glúten, além do nome/razão social e CNPJ do fabricante. EXCLUSIVOPARA ME/EPP.",
+              "unidade": "CX",
+              "quantidade": "100,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "5",
+          "titulo": "9900515545 Bala de goma tipo jujuba sabor iogurte em tubos:Produto alimentício do tipo bala de goma (jujuba), macia, mastigável, com sabores sortidos inspirados em iogurte de frutas (como morango, uva, pêssego ou similares), apresentando textura suave e a",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515545 Bala de goma tipo jujuba sabor iogurte em tubos:Produto alimentício do tipo bala de goma (jujuba), macia, mastigável, com sabores sortidos inspirados em iogurte de frutas (como morango, uva, pêssego ou similares), apresentando textura suave e aroma característico de iogurte, acondicionada em tubos plásticos individuais. Deverá ser elaborada com ingredientes próprios para consumo humano, apresentando cores e formatos compatíveis com a categoria, sem presença de corpos estranhos, sujidades, deformações excessivas ou sinais de deterioração. Embalagem: tubo com no mínimo 8 unidades de jujubas, com peso aproximado de 30 g a 35 g cada tubo, acondicionado em caixa com 30 tubos por caixa, com rotulagem contendo denominação do produto (bala de goma sabor iogurte), sabores, peso, lote, data de fabricação, prazo de validade, lista de ingredientes, informação nutricional, advertências sobre alergênicos e identificação completa do fabricante (nome/razão social, CNPJ e endereço), e registro no órgão competente.EXCLUSIVO PARA ME/EPP.",
+              "unidade": "CX",
+              "quantidade": "100,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "6",
+          "titulo": "9900515546 Bala de café:Produto alimentício do tipo bala dura ou mastigável, sabor café, com aroma e sabor característicos de café torrado, própria para consumo humano, destinada à oferta em eventos, reuniões e ações institucionais. Deverá apresentar text",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515546 Bala de café:Produto alimentício do tipo bala dura ou mastigável, sabor café, com aroma e sabor característicos de café torrado, própria para consumo humano, destinada à oferta em eventos, reuniões e ações institucionais. Deverá apresentar textura uniforme (dura ou levemente mastigável, conforme o tipo), sem rachaduras excessivas, sem cristais de açúcar soltos em demasia, isenta de corpos estranhos, sujidades, umidade excessiva, deformações anormais ou odor e sabor estranhos.Embalagem: balas embaladas individualmente, acondicionadas em pacote com peso líquido mínimo de 500g, em material apropriado para contato com alimentos, íntegro e inviolado, com identificação do produto (bala de café), marca, peso líquido, lote, data de fabricação, prazo de validade, lista de ingredientes, informação nutricional e advertências sobre alergênicos, além dos dados do fabricante (nome/razão social, CNPJ) e registro no órgão competente. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "PCT",
+              "quantidade": "100,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "7",
+          "titulo": "37143 Bala sortida de sabores:Produto alimentício do tipo bala (dura ou mastigável), com sabores sortidos de frutas e/ou outros sabores usuais (tais como menta, tutti-frutti, caramelo, entre outros), própria para consumo humano em eventos e reuniões insti",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37143 Bala sortida de sabores:Produto alimentício do tipo bala (dura ou mastigável), com sabores sortidos de frutas e/ou outros sabores usuais (tais como menta, tutti-frutti, caramelo, entre outros), própria para consumo humano em eventos e reuniões institucionais. Deverá apresentar textura adequada ao tipo (dura ou mastigável), cor e aroma compatíveis com os sabores declarados, isenta de sujidades, corpos estranhos, deformações excessivas, umidade anormal ou sinais de deterioração.Embalagem: balas embaladas individualmente, acondicionadas em pacote com peso líquido mínimo de 500g, devendo a embalagem conter, de forma clara e legível, a identificação do produto (bala sortida), marca, peso líquido, lote, data de fabricação, validade, lista de ingredientes, informação nutricional, advertências sobre alergênicos, identificação do fabricante (nome/razão social, CNPJ e endereço) e, quando aplicável, registro no órgão competente. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "PCT",
+              "quantidade": "100,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "8",
+          "titulo": "9900515547 Bala sabor morango:Produto alimentício do tipo bala (dura ou mastigável), sabor morango, com cor, aroma e sabor característicos da fruta, própria para consumo humano. Deverá apresentar textura homogênea, sem rachaduras ou deformações exageradas",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515547 Bala sabor morango:Produto alimentício do tipo bala (dura ou mastigável), sabor morango, com cor, aroma e sabor característicos da fruta, própria para consumo humano. Deverá apresentar textura homogênea, sem rachaduras ou deformações exageradas, isenta de sujidades, corpos estranhos, umidade excessiva ou sinais de deterioração. Embalagem: balas embaladas individualmente, acondicionadas em pacote com peso líquido mínimo de 500g, devendo o rótulo conter a denominação do produto (bala sabor morango), marca, peso líquido, lote, data de fabricação, prazo de validade, lista de ingredientes, informação nutricional, advertências sobre alergênicos, identificação do fabricante (nome/razão social, CNPJ) e, quando exigido, registro no órgão competente.EXCLUSIVO PARA ME/EPP.",
+              "unidade": "PCT",
+              "quantidade": "100,00",
+              "valor_referencia": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-056-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "132/2026",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "RECEPÇÃO DE PROPOSTAS",
+      "condutor": "JONATAS DA SILVA SOUSA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "REGISTRO DE PREÇO",
+      "publicacao": "09/04/2026 15:19",
+      "inicio_recepcao": "13/04/2026 08:30",
+      "fim_recepcao": "24/04/2026 08:15",
+      "inicio_disputa": "24/04/2026 08:30",
+      "objeto": "A Contratação de empresa especializada em FORNECIMENTO DE ESQUADRIAS DE MADEIRA, DE ALUMÍNIO E ACESSÓRIOS,  a fim de atender as demandas da Secretaria Municipal de Infraestrutura e Serviços Urbanos.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DiXJIg9NsNhcBTTYI93hVTysT4ih1y4mQ_9yQvtj69r7iu1wgxCgkZ2e6pCEBWirETRk_ZfPmFLePd180NGDSd73bZg2qgnQf7cfXH8ZQV%2FY%3D",
+      "total_lotes": 1,
+      "total_itens": 38,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "ESQUADRIAS DE MADEIRA",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 38,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "5502000001 FECHADURA PARA PORTA EXTERNA PADRAO MÉDIO:FECHADURA PARA PORTA EXTERNA PADRAO MÉDIO",
+              "unidade": "UND",
+              "quantidade": "280,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "2",
+              "especificacao": "5502000002 FECHADURA PARA PORTA DE BANHEIRO PADRAO MÉDIO:FECHADURA PARA PORTA DE BANHEIRO PADRAO MÉDIO",
+              "unidade": "UND",
+              "quantidade": "120,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "3",
+              "especificacao": "5502000003 FECHADURA PARA PORTA EXTERNA CHAVE TETRA::FECHADURA PARA PORTA EXTERNA CHAVE TETRA",
+              "unidade": "UND",
+              "quantidade": "70,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "4",
+              "especificacao": "5502000004 FECHADURA EXTERNA DE SOBREPOR P/ PORTÃO CHAVE TETRA:FECHADURA EXTERNA DE SOBREPOR P/ PORTÃO CHAVE TETRA",
+              "unidade": "UND",
+              "quantidade": "90,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "5",
+              "especificacao": "5502000005 JANELA DUPLA DE MADEIRA DO TIPO ALMOFADA 1,20X1,10 M:JANELA DUPLA DE MADEIRA DO TIPO ALMOFADA 1,20X1,10 M.",
+              "unidade": "UND",
+              "quantidade": "40,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "6",
+              "especificacao": "5502000006 JANELA DUPLA DE MADEIRA DO TIPO ALMOFADA 1,60X1,10 M:JANELA DUPLA DE MADEIRA DO TIPO ALMOFADA 1,60X1,10 M.",
+              "unidade": "UND",
+              "quantidade": "20,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "7",
+              "especificacao": "5502000007 JANELA MAXIAR DE ALUMINIO 0,60X0,50 COM VIDRO:JANELA MAXIAR DE ALUMINIO 0,60X0,50 COM VIDRO",
+              "unidade": "UND",
+              "quantidade": "20,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "8",
+              "especificacao": "5502000008 JANELA SIMPLES DE MADEIRA DO TIPO ALMOFADA 0,80X1,10M:JANELA SIMPLES DE MADEIRA DO TIPO ALMOFADA 0,80X1,10M.",
+              "unidade": "UND",
+              "quantidade": "32,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "9",
+              "especificacao": "5502000009 JANELA SIMPLES DE MADEIRA DO TIPO ALMOFADA 1,00X1,10 M:JANELA SIMPLES DE MADEIRA DO TIPO ALMOFADA 1,00X1,10 M.",
+              "unidade": "UND",
+              "quantidade": "22,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "10",
+              "especificacao": "5502000010 KIT DE DOBRADIÇA PARA JANELA 2. 1/2 COM 2 UNIDADES:KIT DE DOBRADIÇA PARA JANELA 2.1/2 COM 2 UNIDADES",
+              "unidade": "UND",
+              "quantidade": "110,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "11",
+              "especificacao": "5502000011 KIT DE DOBRADIÇA PARA PORTA 2.1/2, COM 3 UNIDADES:KIT DE DOBRADIÇA PARA PORTA 2.1/2, COM 3 UNIDADES",
+              "unidade": "UND",
+              "quantidade": "180,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "12",
+              "especificacao": "5502000012 KIT DE DOBRADIÇA PARA PORTA 3.1/2, COM 3 UNIDADES:KIT DE DOBRADIÇA PARA PORTA 3.1/2, COM 3 UNIDADES",
+              "unidade": "UND",
+              "quantidade": "320,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "13",
+              "especificacao": "5502000013 PORTA DE MADEIRA MISTA DO TIPO ALMOFADA 0,60X2,10 M:PORTA DE MADEIRA MISTA DO TIPO ALMOFADA 0,60X2,10 M",
+              "unidade": "UND",
+              "quantidade": "54,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "14",
+              "especificacao": "5502000014 PORTA DE MADEIRA MISTA DO TIPO ALMOFADA 0,70X2,10 M:PORTA DE MADEIRA MISTA DO TIPO ALMOFADA 0,70X2,10 M",
+              "unidade": "UND",
+              "quantidade": "52,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "15",
+              "especificacao": "5502000015 PORTA DE MADEIRA MISTA DO TIPO ALMOFADA 0,80X2,10 M:PORTA DE MADEIRA MISTA DO TIPO ALMOFADA 0,80X2,10 M",
+              "unidade": "UND",
+              "quantidade": "145,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "16",
+              "especificacao": "5502000016 PORTA DE MADEIRA MISTA DO TIPO ALMOFADA 0,90X2,10 M:PORTA DE MADEIRA MISTA DO TIPO ALMOFADA 0,90X2,10 M",
+              "unidade": "UND",
+              "quantidade": "123,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "17",
+              "especificacao": "5502000017 PORTA DE MADEIRA MISTA DO TIPO SEMIOCA0,60X2,10 M:PORTA DE MADEIRA MISTA DO TIPO SEMI OCA0,60X2,10 M",
+              "unidade": "UND",
+              "quantidade": "85,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "18",
+              "especificacao": "5502000018 PORTA DE MADEIRA MISTA DO TIPO SEMIOCA0,70X2,10 M:PORTA DE MADEIRA MISTA DO TIPO SEMI OCA0,70X2,10 M",
+              "unidade": "UND",
+              "quantidade": "70,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "19",
+              "especificacao": "5502000019 PORTA DE MADEIRA MISTA DO TIPO SEMIOCA 0,80X2,10 M:PORTA DE MADEIRA MISTA DO TIPO SEMI OCA0,80X2,10 M",
+              "unidade": "UND",
+              "quantidade": "128,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "20",
+              "especificacao": "5502000020 PORTA DE MADEIRA MISTA DO TIPO SEMIOCA0,90X2,10 M:PORTA DE MADEIRA MISTA DO TIPO SEMI OCA0,90X2,10 M",
+              "unidade": "UND",
+              "quantidade": "74,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "21",
+              "especificacao": "5502000021 PORTA DE MADEIRA MISTA DO TIPO SEMI OCA1,00X2,10 M:PORTA VENEZIANA DE ALUMINIO 0,60X2,10 M",
+              "unidade": "UND",
+              "quantidade": "66,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "22",
+              "especificacao": "5502000022 PORTA VENEZIANA DE ALUMINIO 0,60X2,10 M:PORTA VENEZIANA DE ALUMINIO 0,60X2,10 M",
+              "unidade": "UND",
+              "quantidade": "20,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "23",
+              "especificacao": "5502000023 PORTA VENEZIANA DE ALUMINIO 0,70X2,10 M COMPLETA:PORTA VENEZIANA DE ALUMINIO 0,70X2,10 M COMPLETA",
+              "unidade": "UND",
+              "quantidade": "20,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "24",
+              "especificacao": "5502000024 PORTA VENEZIANA DE ALUMINIO 0,80X2,10 M:PORTA VENEZIANA DE ALUMINIO 0,80X2,10 M",
+              "unidade": "UND",
+              "quantidade": "40,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "25",
+              "especificacao": "5502000025 PORTA VENEZIANA DE ALUMINIO 0,90X2,10 M:PORTA VENEZIANA DE ALUMINIO 0,90X2,10 M",
+              "unidade": "UND",
+              "quantidade": "30,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "26",
+              "especificacao": "5502000026 PORTA VENEZIANA DE ALUMÍNIO 1,00X2,10 M:PORTA VENEZIANA DE ALUMÍNIO 1,00X2,10 M",
+              "unidade": "UND",
+              "quantidade": "20,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "27",
+              "especificacao": "5502000027 PORTA VENEZIANA DE ALUMÍNIO DUPLA2,00X2,10 M:PORTA VENEZIANA DE ALUMÍNIO DUPLA2,00X2,10 M",
+              "unidade": "UND",
+              "quantidade": "20,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "28",
+              "especificacao": "5502000028 TRINCO FERROLHO:REDONDO AÇO ZINCADO2",
+              "unidade": "UND",
+              "quantidade": "260,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "29",
+              "especificacao": "5502000029 TRINCO FERROLHO:REDONDO AÇO ZINCADO3",
+              "unidade": "UND",
+              "quantidade": "320,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "30",
+              "especificacao": "5502000030 TRINCO FERROLHO:REDONDO AÇO ZINCADO4",
+              "unidade": "UND",
+              "quantidade": "120,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "31",
+              "especificacao": "5502000031 TRINCO FERROLHO:CHATO P/ CADEADO AÇO ZINCADO 3",
+              "unidade": "UND",
+              "quantidade": "230,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "32",
+              "especificacao": "5502000032 PORTA CADEADO:ZINCADO COM TRAVA PARA PORTÃO E PORTA 2.1/2",
+              "unidade": "UND",
+              "quantidade": "250,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "33",
+              "especificacao": "5502000033 CADEADO:20MM",
+              "unidade": "UND",
+              "quantidade": "160,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "34",
+              "especificacao": "5502000034 CADEADO:25MM",
+              "unidade": "UND",
+              "quantidade": "180,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "35",
+              "especificacao": "5502000035 CADEADO:30MM",
+              "unidade": "UND",
+              "quantidade": "235,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "36",
+              "especificacao": "5502000036 CADEADO:40MM",
+              "unidade": "UND",
+              "quantidade": "270,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "37",
+              "especificacao": "5502000037 CADEADO:50MM",
+              "unidade": "UND",
+              "quantidade": "255,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "38",
+              "especificacao": "5502000038 CADEADO:60MM",
+              "unidade": "UND",
+              "quantidade": "226,00",
+              "valor_referencia": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2-DLE-034-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "321/2026",
+      "modalidade": "DISPENSA ELETRÔNICA",
+      "situacao": "DISPUTA",
+      "condutor": "ISLA LIMA SILVA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO",
+      "publicacao": "07/04/2026 17:30",
+      "inicio_recepcao": "07/04/2026 17:35",
+      "fim_recepcao": "13/04/2026 08:15",
+      "inicio_disputa": "13/04/2026 08:30",
+      "objeto": "Contratação de empresa especializada em fornecimento de BANHEIROS QUÍMICOS (material permanente), cujas especificações técnicas, quantidades e demais condições encontram-se detalhadas neste instrumento, a fim de atender as demandas da Secretaria Municipal de Administração.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5Dsm5DkLxWGjhB1Yu2uNoXMJPTTS4z6wdKm%2Fy4F_iBPFKbsWvFfxcPHrHQOHPfczf3e7EY%2F_t_H6P%2Fnj9oevhewo8fbkjgh5rOCDPVk8%2FIRRo%3D",
+      "total_lotes": 1,
+      "total_itens": 1,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "BANHEIROS QUÍMICOS",
+          "fase": "DISPUTA",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "25.258,02",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37179 BANHEIROS QUÍMICOS:individuais portáteis com tetotranslúcido composto com caixa de dejeto com assento, mictório,porta papel higiênico (devidamente abastecidos) e fechamentode identificação OCUPADO/ DESOCUPADO e indicação demasculinos, femininos, para público e bandas (camarins), commedidas mínimas de altura: 2,15 m largura: 1,78 m comprimento:2,18 m, com ponto de ventilação natural. EXCLUSIVO PARAME/EPP.",
+              "unidade": "UN",
+              "quantidade": "6,00",
+              "valor_referencia": "4.209,67"
             }
           ]
         }
