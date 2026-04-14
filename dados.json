@@ -4,7 +4,7 @@
     "total_processos": 764,
     "total_lotes": 8647,
     "total_itens": 14781,
-    "atualizado_em": "20260413_122422"
+    "atualizado_em": "20260413_234420"
   },
   "processos": [
     {
@@ -221,7 +221,7 @@
         {
           "numero": "1",
           "titulo": "LOTE 1",
-          "fase": "HABILITAÇÃO",
+          "fase": "RECEPÇÃO DE CONTRARRAZÕES",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -1766,7 +1766,7 @@
         {
           "numero": "2",
           "titulo": "6104500005 CAIXA DE CABO DE REDE 100% COBRECAT5E::Características Técnicas- Categoria: CAT.5e;- Construção: U/UTP ? 4 pares trançados compostos de condutores sólidos de cobre nu, 24 AWG, isoladosem polietileno especial;- Cor padrão: Azul claro;- Cap",
-          "fase": "EM ADJUDICAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -1894,8 +1894,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "405,12",
-          "vencedor": "ISE PASSOS DOS SANTOS LOPES",
-          "melhor_oferta": "336,00",
+          "vencedor": "VOXATRON COMERCIO DE INFORMATICA LTDA",
+          "melhor_oferta": "720,00",
           "total_itens": 1,
           "itens": [
             {
@@ -2110,8 +2110,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "124.806,75",
-          "vencedor": "GS COMÉRCIO DE EQUIPAMENTOS E SERVIÇOS LTDA",
-          "melhor_oferta": "115.990,00",
+          "vencedor": "THADS SERVICOS LTDA",
+          "melhor_oferta": "124.800,00",
           "total_itens": 1,
           "itens": [
             {
@@ -2198,7 +2198,7 @@
         {
           "numero": "20",
           "titulo": "36508 PATCH CORD CAT5E 1,5 M AZUL:Informações Técnicas Modelo: FlexívelTemperatura máxima de trabalho: 80°C Categoria: 5e (CAT5e)Cor: AZULComprimento: 1,5M Homologação: AnatelTransmissão de até 1000 Mbps e limite desempenho 100 Mhz Modelo de referênci",
-          "fase": "EM ADJUDICAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -2374,8 +2374,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "27.537,50",
-          "vencedor": "ECF COMERCIO E REPRESENTAÇOES",
-          "melhor_oferta": "12.300,00",
+          "vencedor": "IRD PRODUTOS DE INFORMATICA LTDA",
+          "melhor_oferta": "15.300,00",
           "total_itens": 1,
           "itens": [
             {
@@ -2510,7 +2510,7 @@
         {
           "numero": "33",
           "titulo": "5707611130 TESTADOR DE CABOS DE REDEPROFISSIONAL:- Características:- LEDs indicadores de força do sinal para que você possa ajudar a identificar um cabo que esteja agrupadocom outros cabos.- A sonda tem um testador de pares embutido para identificar p",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -2518,8 +2518,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "6.925,50",
-          "vencedor": "INFORCOLOR INFORMATICA LTDA",
-          "melhor_oferta": "2.700,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
           "total_itens": 1,
           "itens": [
             {
@@ -3678,7 +3678,7 @@
         {
           "numero": "2",
           "titulo": "LOCAÇÃO DE VEÍCULO UTILITÁRIO ABERTOCABINE SIMPLES - SEM MOTORISTA:Locação de veículo sem motorista, tipo utilitário aberto, tipo caminhonete, movido a gasolina, bicombustível ou diesel, motor 1.4 ou superior, 02 portas, tração 4x2, airbag, luz auxiliar",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -3726,7 +3726,7 @@
         {
           "numero": "4",
           "titulo": "LOCAÇÃO DE VEÍCULO TIPO MICRO-ÔNIBUSMÍNIMO 25 LUGARES - COM MOTORISTA:tipo utilitário fechado, com sanitário e de fácil acesso lateral para a manutenção do sanitário; movido a diesel; 2 eixos; potência mínima 160 CV, 02 baterias; rodas em aço; equipado c",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -3734,8 +3734,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "111.300,00",
-          "vencedor": "RCOSTA TRANSPORTES E SERVICOS LTDA",
-          "melhor_oferta": "100.000,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
           "total_itens": 1,
           "itens": [
             {
@@ -3758,8 +3758,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "167.600,00",
-          "vencedor": "RCOSTA TRANSPORTES E SERVICOS LTDA",
-          "melhor_oferta": "120.000,00",
+          "vencedor": "IANN COMERCIAL LTDA",
+          "melhor_oferta": "1.110.000,00",
           "total_itens": 1,
           "itens": [
             {
@@ -5508,8 +5508,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "736,23",
-          "vencedor": "ECF COMERCIO E REPRESENTAÇOES",
-          "melhor_oferta": "570,00",
+          "vencedor": "ROSA CAFE IMPORTS LTDA",
+          "melhor_oferta": "625,98",
           "total_itens": 1,
           "itens": [
             {
@@ -5580,8 +5580,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "7.399,34",
-          "vencedor": "INFORCOLOR INFORMATICA LTDA",
-          "melhor_oferta": "5.000,00",
+          "vencedor": "ELIZETE APARECIDA PIMENTEL ME",
+          "melhor_oferta": "7.399,00",
           "total_itens": 1,
           "itens": [
             {
@@ -5989,7 +5989,7 @@
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "22.182,00",
           "vencedor": "ELIZETE APARECIDA PIMENTEL ME",
-          "melhor_oferta": "21.400,00",
+          "melhor_oferta": "21.399,99",
           "total_itens": 1,
           "itens": [
             {
@@ -11888,7 +11888,7 @@
         {
           "numero": "3",
           "titulo": "6503000014 BALANÇA ANTROPOMÉTRICA DIGITAL ADULTO:Balança eletrônica comleitura digital com pelo menos 05 dígitos; Proteção contra sobrecarga; Com sistema reset/zerar peso; Capacidade máxima de no mínimo 200 kg, com frações de 100g ou inferior; Função TAR",
-          "fase": "JULGAMENTO DE RECURSOS",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -12200,7 +12200,7 @@
         {
           "numero": "16",
           "titulo": "6503000023 OTOSCÓPIO:de fibraóptica 3.5v; mínimo de 5 espéculos reutilizáveis; cabo de lítio recarregável e carregador de mesa bivolt; lâmpada de xenon  halógena; lente giratória com aumento de 2 vezes; conexão para otoscopia pneumática. Garantia mínima",
-          "fase": "JULGAMENTO DE RECURSOS",
+          "fase": "HABILITAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -12208,8 +12208,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "11.176,56",
-          "vencedor": "CENTRAL HOLDING LOGISTICA LTDA",
-          "melhor_oferta": "11.137,00",
+          "vencedor": "CASA DO HOSPITAL PRODUTOS ORTOPEDICOS E HOSPITALARES LTDA",
+          "melhor_oferta": "163.400,00",
           "total_itens": 1,
           "itens": [
             {
@@ -14897,7 +14897,7 @@
         {
           "numero": "1",
           "titulo": "EXECUÇÃO DE OBRAS DE CONSTRUÇÃO DE UMA PRÉ-ESCOLA",
-          "fase": "HABILITAÇÃO",
+          "fase": "RECEPÇÃO DE CONTRARRAZÕES",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "1.000,00",
@@ -231620,7 +231620,7 @@
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "453,35",
           "vencedor": "COMERCIAL VANGUARDEIRA EIRELI",
-          "melhor_oferta": "300,27",
+          "melhor_oferta": "300,25",
           "total_itens": 1,
           "itens": [
             {
@@ -231644,7 +231644,7 @@
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "5.879,28",
           "vencedor": "COMERCIAL VANGUARDEIRA EIRELI",
-          "melhor_oferta": "5.006,59",
+          "melhor_oferta": "5.006,16",
           "total_itens": 1,
           "itens": [
             {
@@ -231740,7 +231740,7 @@
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "4.678,38",
           "vencedor": "COMERCIAL VANGUARDEIRA EIRELI",
-          "melhor_oferta": "3.509,38",
+          "melhor_oferta": "3.509,28",
           "total_itens": 1,
           "itens": [
             {
@@ -231788,7 +231788,7 @@
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "4.274,83",
           "vencedor": "COMERCIAL VANGUARDEIRA EIRELI",
-          "melhor_oferta": "778,42",
+          "melhor_oferta": "776,77",
           "total_itens": 1,
           "itens": [
             {
@@ -231812,7 +231812,7 @@
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "1.977,60",
           "vencedor": "COMERCIAL VANGUARDEIRA EIRELI",
-          "melhor_oferta": "1.632,91",
+          "melhor_oferta": "1.632,80",
           "total_itens": 1,
           "itens": [
             {
@@ -231836,7 +231836,7 @@
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "16.449,55",
           "vencedor": "COMERCIAL VANGUARDEIRA EIRELI",
-          "melhor_oferta": "14.905,02",
+          "melhor_oferta": "14.904,50",
           "total_itens": 1,
           "itens": [
             {
@@ -231860,7 +231860,7 @@
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "64.100,40",
           "vencedor": "COMERCIAL VANGUARDEIRA EIRELI",
-          "melhor_oferta": "53.871,05",
+          "melhor_oferta": "53.870,60",
           "total_itens": 1,
           "itens": [
             {
@@ -231908,7 +231908,7 @@
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "6.823,95",
           "vencedor": "COMERCIAL VANGUARDEIRA EIRELI",
-          "melhor_oferta": "4.851,06",
+          "melhor_oferta": "4.851,00",
           "total_itens": 1,
           "itens": [
             {
@@ -231932,7 +231932,7 @@
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "8.754,55",
           "vencedor": "COMERCIAL VANGUARDEIRA EIRELI",
-          "melhor_oferta": "8.608,46",
+          "melhor_oferta": "8.606,25",
           "total_itens": 1,
           "itens": [
             {
@@ -231956,7 +231956,7 @@
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "3.798,00",
           "vencedor": "COMERCIAL VANGUARDEIRA EIRELI",
-          "melhor_oferta": "2.497,92",
+          "melhor_oferta": "2.496,00",
           "total_itens": 1,
           "itens": [
             {
@@ -231979,8 +231979,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "16.482,00",
-          "vencedor": "DGA COMERCIO DE MATERIAIS ELETRICOS LTDA",
-          "melhor_oferta": "6.271,20",
+          "vencedor": "RLUX ILUMINAÇÃO LTDA",
+          "melhor_oferta": "7.065,15",
           "total_itens": 1,
           "itens": [
             {
@@ -232095,8 +232095,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "38.805,00",
-          "vencedor": "MASTERMED - PRODUTOS MEDICOS E HOSPITALARES LIMITADA",
-          "melhor_oferta": "38.370,00",
+          "vencedor": "VITABAHIA COMERCIO E IMPORTAÇÃO LTDA.",
+          "melhor_oferta": "38.805,00",
           "total_itens": 1,
           "itens": [
             {
@@ -232310,8 +232310,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "13.037,50",
-          "vencedor": "WALKIRIA PEREIRA JARDIM",
-          "melhor_oferta": "10.500,00",
+          "vencedor": "PRONTUS COMERCIAL LTDA",
+          "melhor_oferta": "10.997,50",
           "total_itens": 1,
           "itens": [
             {
@@ -232418,7 +232418,7 @@
         {
           "numero": "1",
           "titulo": "TABLET",
-          "fase": "HABILITAÇÃO",
+          "fase": "INTERPOSIÇÃO DE RECURSOS",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,00",
@@ -232462,7 +232462,7 @@
         {
           "numero": "1",
           "titulo": "9900515304 PEÇA DE EUCALIPTO TRATADA IMUNIZADA08X10X2,20M 5 FUROS:madeira ambiental imunizada, com 05 (cinco) furos para passagem de arame liso.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -232486,7 +232486,7 @@
         {
           "numero": "2",
           "titulo": "9900515305 PEÇA DE EUCALIPTO TRATADA IMUNIZADA10X12X2,20M 5 FUROS:madeira ambientalmente imunizada, com 05 (cinco) furos para passagem de arame liso.",
-          "fase": "HABILITAÇÃO",
+          "fase": "INTERPOSIÇÃO DE RECURSOS",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -232494,8 +232494,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "29.430,00",
-          "vencedor": "DIPAR FERRAGENS EIRELI",
-          "melhor_oferta": "29.430,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
           "total_itens": 1,
           "itens": [
             {
@@ -232510,7 +232510,7 @@
         {
           "numero": "3",
           "titulo": "36777 ARAME LISO OVALADO 700KGF:Arame Liso Ovalado700Kgf - Bitola 17x15 (2,4 x 3,0mm) Comprimento 1.000M",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -232606,7 +232606,7 @@
         {
           "numero": "2",
           "titulo": "LOTE 2",
-          "fase": "HABILITAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -236882,7 +236882,7 @@
         {
           "numero": "8",
           "titulo": "PROCESSADOR INTEL XEON® E5-2667 V4:Especificações Técnicas: Geração: Intel Xeon processor E5-2600 v4 product family (Broadwell-EP) Número de núcleos físicos: 8 (oito) Número de threads: 16 (dezesseis) Frequência base: 3,20 GHz Frequência Max Turbo: Até 3,",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -237074,7 +237074,7 @@
         {
           "numero": "16",
           "titulo": "NOBREAK 15KVA:Topologia: Online monofásico Forma de onda: Senoidal pura Transformador: ISOLADOR Níveis de proteção: 1. Queda de rede (Blackout); 2. Ruído de rede elétrica; 3. Sobretensão de rede elétrica; 4. Subtensão de rede elétrica; 5. Surtos de tensão",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -237190,7 +237190,7 @@
         {
           "numero": "4",
           "titulo": "36839 TUBO PEAD 300 MM:: tubo extrudado, parede dupla em pead (polietileno de alta densidade), com união ponta e  bolsa, liso internamente e corrugado externamente, em  barras de 6m de comprimento, cor preta, pigmentada com  negro de fumo, com diâmetro no",
-          "fase": "EM ADJUDICAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -237278,7 +237278,7 @@
         {
           "numero": "1",
           "titulo": "9901100288 ACEBROFILINA:10mg/ml, xarope, frasco com 120ml. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -237286,8 +237286,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "69.420,00",
-          "vencedor": "CLM FARMA COMERCIO E DISTRIBUIDORA DE MEDICAMENTOS LTDA",
-          "melhor_oferta": "69.420,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
           "total_itens": 1,
           "itens": [
             {
@@ -239710,8 +239710,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "44.608,20",
-          "vencedor": "CLM FARMA COMERCIO E DISTRIBUIDORA DE MEDICAMENTOS LTDA",
-          "melhor_oferta": "43.570,80",
+          "vencedor": "AVANCE MEDICAMENTOS LTDA",
+          "melhor_oferta": "44.608,20",
           "total_itens": 1,
           "itens": [
             {
@@ -239798,7 +239798,7 @@
         {
           "numero": "106",
           "titulo": "9900100110 FUROSEMIDA:solução injetável 10mg/ml ampola de 2ml. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -239806,8 +239806,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "5.045,60",
-          "vencedor": "CLM FARMA COMERCIO E DISTRIBUIDORA DE MEDICAMENTOS LTDA",
-          "melhor_oferta": "5.045,60",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
           "total_itens": 1,
           "itens": [
             {
@@ -239846,7 +239846,7 @@
         {
           "numero": "108",
           "titulo": "34853 GLICLAZIDA:30MG COMP. LIB.PROLONGADA.",
-          "fase": "EM ADJUDICAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -240326,7 +240326,7 @@
         {
           "numero": "128",
           "titulo": "35799 LEVODOPA:250MG + CARBIDOPA 25MG. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -240334,8 +240334,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "28.080,00",
-          "vencedor": "ZAFRA DISTRIBUIDORA DE MEDICAMENTOS E PRODUTOS HOSPITALARES LTDA",
-          "melhor_oferta": "22.932,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
           "total_itens": 1,
           "itens": [
             {
@@ -253524,8 +253524,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "12.712,50",
-          "vencedor": "D.E.A CALCADOS LTDA",
-          "melhor_oferta": "2.240,00",
+          "vencedor": "TRINCA ESPORTES LTDA",
+          "melhor_oferta": "3.414,60",
           "total_itens": 1,
           "itens": [
             {
@@ -253548,8 +253548,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "40.273,50",
-          "vencedor": "D.E.A CALCADOS LTDA",
-          "melhor_oferta": "11.820,00",
+          "vencedor": "TRINCA ESPORTES LTDA",
+          "melhor_oferta": "13.459,50",
           "total_itens": 1,
           "itens": [
             {
@@ -253596,8 +253596,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "1.283,45",
-          "vencedor": "MAIS ESPORTE COMERCIO DE ARTIGOS ESPORTIVOS LTDA",
-          "melhor_oferta": "300,00",
+          "vencedor": "D.E.A CALCADOS LTDA",
+          "melhor_oferta": "332,00",
           "total_itens": 1,
           "itens": [
             {
@@ -253668,8 +253668,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "3.039,00",
-          "vencedor": "DSP BRINDES PERSONALIZADOS LTDA",
-          "melhor_oferta": "1.348,00",
+          "vencedor": "WPPT CONFECÇÕES LTDA",
+          "melhor_oferta": "1.722,00",
           "total_itens": 1,
           "itens": [
             {
@@ -253692,8 +253692,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "4.038,00",
-          "vencedor": "WPPT CONFECÇÕES LTDA",
-          "melhor_oferta": "1.344,00",
+          "vencedor": "TRINCA ESPORTES LTDA",
+          "melhor_oferta": "2.625,00",
           "total_itens": 1,
           "itens": [
             {
@@ -253716,8 +253716,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "4.389,00",
-          "vencedor": "WPPT CONFECÇÕES LTDA",
-          "melhor_oferta": "1.344,00",
+          "vencedor": "D.E.A CALCADOS LTDA",
+          "melhor_oferta": "2.620,00",
           "total_itens": 1,
           "itens": [
             {
@@ -253780,7 +253780,7 @@
         {
           "numero": "13",
           "titulo": "9907000137 Cama elástica tipo mini jump:com estrutura em aço ou aço galvanizado de alta resistência, com diâmetro aproximado entre 90 cm e 100 cm, dotada de 6 pés fixos com sapatas de borracha antiderrapante, lona de salto em material super resistente, co",
-          "fase": "HABILITAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -253836,8 +253836,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "2.974,05",
-          "vencedor": "D.E.A CALCADOS LTDA",
-          "melhor_oferta": "468,00",
+          "vencedor": "ROSILENE TONATTO SPAZZINI - EPP",
+          "melhor_oferta": "840,00",
           "total_itens": 1,
           "itens": [
             {
@@ -253860,8 +253860,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "3.405,00",
-          "vencedor": "D.E.A CALCADOS LTDA",
-          "melhor_oferta": "468,00",
+          "vencedor": "ROSILENE TONATTO SPAZZINI - EPP",
+          "melhor_oferta": "840,00",
           "total_itens": 1,
           "itens": [
             {
@@ -254499,7 +254499,7 @@
         {
           "numero": "1",
           "titulo": "5101000006 ALICATE UNIVERSAL::Material: Cromo Vanádio. Multifuncional 9 Pol. fazer funções de fixação (descasque de fios e super fixação), chave (apertar ou desapertar), corte (arames, fios), crimpagem (fios de fixação, flexão, descascar, friso) e decapag",
-          "fase": "EM ADJUDICAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -254547,7 +254547,7 @@
         {
           "numero": "3",
           "titulo": "5304000202 BROCAS VIDEA SDS PLUS 10mm X 300mm:paramartelete rompedor. EXCLUSIVO PARA ME/EPP.",
-          "fase": "EM ADJUDICAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -254571,7 +254571,7 @@
         {
           "numero": "4",
           "titulo": "5304000203 BUCHA PLÁSTICA DE FIXAÇÃO 10MM COMANEL:Embalagem com 100 unidades. Buchas de fixação 10 mm com anel. Indicada para fixações em concreto e alvenaria.Diâmetro da bucha: 6 mm Material da bucha: Plástico. EXCLUSIVO PARA ME/EPP.",
-          "fase": "EM ADJUDICAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -254595,7 +254595,7 @@
         {
           "numero": "5",
           "titulo": "5304000204 BUCHA PLÁSTICA DE FIXAÇÃO 6MM COMANEL:Embalagem com 100 unidades. Buchas de fixação 6 mm com anel. Indicada para fixações em concreto e alvenaria.Diâmetro da bucha: 6 mm Material da bucha: Plástico. EXCLUSIVO PARA ME/EPP.",
-          "fase": "EM ADJUDICAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -254619,7 +254619,7 @@
         {
           "numero": "6",
           "titulo": "5304000205 BUCHA PLÁSTICA DE FIXAÇÃO 8MM COMANEL:Embalagem com 100 unidades. Buchas de fixação 8 mm com anel. Indicada para fixações em concreto e alvenaria.Diâmetro da bucha: 6 mm Material da bucha: Plástico. EXCLUSIVO PARA ME/EPP.",
-          "fase": "EM ADJUDICAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -254643,7 +254643,7 @@
         {
           "numero": "7",
           "titulo": "5304000206 CABO FLEXÍVEL PP BITOLA 2,5MM; 4 VIASCOLORIDAS:Condutor de fios: Fios de Cobre eletrolítico, têmpera mole, classe 5 de encordoamento (extraflexivel) atendendo a norma ABNT NM 280. Tensão de isolação: 300/500V. Temperatura máxima: 70 graus. Co",
-          "fase": "EM ADJUDICAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -254763,7 +254763,7 @@
         {
           "numero": "12",
           "titulo": "4103000008 CAPACITOR DE PARTIDA DUPLO P/ AR CONDICIONADO:50 + 5 NF - 48000 BTUS TENSÃO: 380/440v ac. EXCLUSIVO PARA ME/EPP.",
-          "fase": "EM ADJUDICAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -254819,7 +254819,7 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "1.712,20",
-          "vencedor": "IMPACTO ADMINISTRAÇÃO E EFICIÊNCIA LTDA",
+          "vencedor": "DIPAR FERRAGENS EIRELI",
           "melhor_oferta": "1.712,20",
           "total_itens": 1,
           "itens": [
@@ -254955,7 +254955,7 @@
         {
           "numero": "20",
           "titulo": "5304000210 JOGO DE CHAVES ALLEN:de 1,5 a 10mm 9 Peças. EXCLUSIVO PARA ME/EPP.",
-          "fase": "EM ADJUDICAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -254979,7 +254979,7 @@
         {
           "numero": "21",
           "titulo": "5304000211 JOGO DE SOQUETE E BITS COM CHAVE CATRACA:1/4 e 3/8 Pol. com 40 Peças. EXCLUSIVO PARA ME/EPP.",
-          "fase": "EM ADJUDICAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -255003,7 +255003,7 @@
         {
           "numero": "22",
           "titulo": "5304000212 JOGO SOQUETE CANHÃO:12pçs; Material de Aço carbono. EXCLUSIVO PARA ME/EPP.",
-          "fase": "EM ADJUDICAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -255027,7 +255027,7 @@
         {
           "numero": "23",
           "titulo": "5304000213 KIT 4 CHAVES AJUSTÁVEL:Inglesa 6, 8, 10 E 12 Polegadas. EXCLUSIVO PARA ME/EPP.",
-          "fase": "EM ADJUDICAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -255099,7 +255099,7 @@
         {
           "numero": "26",
           "titulo": "4103000010 KIT MÁQUINA PARA LIMPEZA E HIGIENIZAÇÃO DE AR CONDICIONADO SPLIT BASIC / COLETOR DE RESÍDUOS / PULVERIZADOR MANUAL:Com no minimo: 01 -Bolsa Coletora Limpeza ar Condicionado Split até 30miI Btus; 01 - Máquina Limpeza manual de no mínimo 5 litro",
-          "fase": "EM ADJUDICAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -255123,7 +255123,7 @@
         {
           "numero": "27",
           "titulo": "5304000234 KIT PARA SOLDA REFRIGERAÇÃO:01 -MaçaricoPortátil Acendimento Automático 2500F,Refil Carga de 400g. - Com giro de 360 para facilitar o uso.Com regulagem de pressão.- Equipado com defletor no bico, para melhor distribuição na chama.- Auto Ign",
-          "fase": "EM ADJUDICAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -255147,7 +255147,7 @@
         {
           "numero": "28",
           "titulo": "5304000235 MANGUEIRA DE JARDIM FLEXÍVEL:15 Metros Com Engates. EXCLUSIVO PARA ME/EPP.",
-          "fase": "EM ADJUDICAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -255171,7 +255171,7 @@
         {
           "numero": "29",
           "titulo": "5304000215 MARTELETE PERFURADORROMPEDOR:Combinado de Impacto SDS Plus 3.6J 850W com Maleta Tensão 220V. EXCLUSIVO PARA ME/EPP.",
-          "fase": "EM ADJUDICAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -255195,7 +255195,7 @@
         {
           "numero": "30",
           "titulo": "5304000216 NÍVEL MAGNÉTICO:Material: Alumínio, com nível horizontal e vertical, Dimensões aproximadas do item C x L x A: 30 x 1.5 x 6 centímetros. EXCLUSIVO PARA ME/EPP.",
-          "fase": "EM ADJUDICAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -255219,7 +255219,7 @@
         {
           "numero": "31",
           "titulo": "5304000217 PARAFUSADEIRA FURADEIRA DE IMPACTO:3/8Pol. 20V com 2 Baterias 1.5AH Lí-íon Carregador e Maleta com Acessórios. EXCLUSIVO PARA ME/EPP.",
-          "fase": "EM ADJUDICAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -255243,7 +255243,7 @@
         {
           "numero": "32",
           "titulo": "5304000218 PARAFUSO AUTO TARRAXANTE4,8x50,0mm:Aço Carbono - Cementado e Temperado. Aplicação: Utilizados Com Bucha De Nylon Para Fixação De Acessórios Objetos Em Paredes De Alvenaria e Concreto, Etc. Também Utilizado Em Móveis Tubulares e Equipamentos Fa",
-          "fase": "EM ADJUDICAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -255267,7 +255267,7 @@
         {
           "numero": "33",
           "titulo": "5304000219 PARAFUSO CHIPBOARD CABEÇA PHILLIPS 6.0x 70mm:Pacote com 200 Unidades. Características: Fabricado em aço carbono cementado e temperado Acabamento bicromatizado: Chipboard. Especificações Técnicas: Tamanho:6.0 x 70mm. EXCLUSIVO PARA ME/EPP.",
-          "fase": "EM ADJUDICAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -255291,7 +255291,7 @@
         {
           "numero": "34",
           "titulo": "5304000220 PARAFUSO SEXTAVADO ROSCA SOBERBA 3/8FoI. x 90mm:Pacote com 100 Unidades; Especificações Técnicas: Parafuso Sextavado Rosca Soberba 3/8 Pol. x 90mm com 100 unid: Corpo em aço carbono com acabamento galvanizado. EXCLUSIVO PARA ME/EPP.",
-          "fase": "EM ADJUDICAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -255363,7 +255363,7 @@
         {
           "numero": "37",
           "titulo": "5304000221 SERRA COPO CONCRETO VIDEA:65mm ComSuporte Sds Plus 400mm. Serra copo com pontas de metal duro para furação de concreto e alvenaria* 01 haste comprimento 200mm e encaixe SDS PLUS 01 serra copo de 68mm01 broca de concreto 1/4 para adaptação na",
-          "fase": "EM ADJUDICAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -255435,7 +255435,7 @@
         {
           "numero": "40",
           "titulo": "5304000222 TERMINAL FORQUILHA PARA CABO2,5mm:Pacote com 100 peças. EXCLUSIVO PARA ME/EPP.",
-          "fase": "EM ADJUDICAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -255459,7 +255459,7 @@
         {
           "numero": "41",
           "titulo": "5304000223 TERMINAL FORQUILHA PARA CABO4,0mm:Pacote com 100 peças. EXCLUSIVO PARA ME/EPP.",
-          "fase": "EM ADJUDICAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -255483,7 +255483,7 @@
         {
           "numero": "42",
           "titulo": "5304000224 TERMÔMETRO DIGITAL INFRAVERMELHO:de3-1/2 Pol. Dígitos em Ied. EXCLUSIVO PARA ME/EPP.",
-          "fase": "EM ADJUDICAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -255507,7 +255507,7 @@
         {
           "numero": "43",
           "titulo": "5304000225 TRENA DE 5M:Trena com caixa plástica emborrachada, com fita de 5 metros de comprimento e 19 mm (3/4 poleqada) de largura com imã na ponta. EXCLUSIVO PARA ME/EPP.",
-          "fase": "EM ADJUDICAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -255531,7 +255531,7 @@
         {
           "numero": "44",
           "titulo": "4103000015 TUBO DE COBRE 1/2 PARA ARCONDICIONADO:Medida 1/2 - O tubo de cobre é um componente essencial para a instalação de sistemas de refrigeração no geral, sua função é promover as trocas de calor entre o sistema e o ambiente. Ele também é mais resis",
-          "fase": "EM ADJUDICAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -255555,7 +255555,7 @@
         {
           "numero": "45",
           "titulo": "4103000016 TUBO DE COBRE 3/8 PARA ARCONDICIONADO:Medida 3/8 - O tubo de cobre é um componente essencial para a instalação de sistemas de refrigeração no geral, sua função é promover as trocas de calor entre o sistema e o ambiente. Ele também é mais resis",
-          "fase": "EM ADJUDICAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -255579,7 +255579,7 @@
         {
           "numero": "46",
           "titulo": "4103000017 TUBO DE COBRE 5/8 PARA ARCONDICIONADO:Medida 5/8 - O tubo de cobre é um componente essencial para a instalação de sistemas de refrigeração no geral, sua função é promover as trocas de calor entre o sistema e o ambiente. Ele também é mais resis",
-          "fase": "EM ADJUDICAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -255627,7 +255627,7 @@
         {
           "numero": "48",
           "titulo": "4103000019 VARETAS SOLDA FOSCOPER 2mm:Temperaturade Fusão: Sólido: 710 C; Líquido:710 C. Utilizadas em larga escala nas indústrias de refrigeração, ar-condicionado, elétrica, e tubulações de cobre para instalações hidráulicas, vedações de cobre, flanges",
-          "fase": "EM ADJUDICAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -255651,7 +255651,7 @@
         {
           "numero": "49",
           "titulo": "4103000020 GÁS REFRIGERANTE TIPO R-410-1:em cilindrodescartável ou retornável, próprio para uso em sistemas de ar condicionado de conforto, isento de impurezas, com grau de pureza mínimo de 99,5%, devendo atender às normas técnicas aplicáveis e às recome",
-          "fase": "EM ADJUDICAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -255675,7 +255675,7 @@
         {
           "numero": "50",
           "titulo": "4103000021 GÁS REFRIGERANTE TIPO R-22:em cilindrodescartável ou retornável, adequado para uso em equipamentos de climatização, ainda compatíveis com esse fluido, com grau de pureza mínimo de 99,5%, isento de umidade e contaminantes, atendendo às normas t",
-          "fase": "EM ADJUDICAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -255699,7 +255699,7 @@
         {
           "numero": "51",
           "titulo": "4103000022 GÁS REFRIGERANTE TIPO R-32:em cilindrodescartável ou retornável, próprio para sistemas de climatização de alta eficiência, com grau de pureza mínimo de 99,5%, atendendo às normas técnicas e as recomendações de segurança para manuseio de fluido",
-          "fase": "EM ADJUDICAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -255723,7 +255723,7 @@
         {
           "numero": "52",
           "titulo": "4103000023 BOLSA COLETORA PARA LIMPEZA DEAPARELHOS DE AR CONDICIONADO:tipo split, confeccionada em material resistente, impermeável e de fácil higienização, com dimensões adequadas para aparelhos entre 7.000 e 30.000 BTU/h, dotada de sistema de fixação e",
-          "fase": "EM ADJUDICAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -255747,7 +255747,7 @@
         {
           "numero": "53",
           "titulo": "4103000024 LAVADORA DE ALTA PRESSÃOELÉTRICA:potência mínima de 1.400 W, pressão de trabalho aproximada de 1.300 PSI, vazão média de 300 L/h, equipada com mangueira, gatilho e acessórios padrão para lavagem, destinada à limpeza de unidades condensadoras,",
-          "fase": "EM ADJUDICAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -255771,7 +255771,7 @@
         {
           "numero": "54",
           "titulo": "7901700101 ESPUMA DE SPRAY PARA LIMPEZA DE EVAPORADORAS DE AR CONDICIONADO:em embalagemaerossol, própria para higienização de serpentinas, bandejas e carenagens internas, com ação desengraxante e desincrustante, não agressiva a metais e plásticos, devend",
-          "fase": "EM ADJUDICAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -255795,7 +255795,7 @@
         {
           "numero": "55",
           "titulo": "7901700100 PRODUTO BATERICIDA:em forma líquida concentrada para limpeza e higienização de sistemas de ar condicionado, fornecido em galão de 5 litros, com ação fungicida e bactericida, destinado à desinfecção de bandejas, serpentinas, carenagens e dutos,",
-          "fase": "EM ADJUDICAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -255819,7 +255819,7 @@
         {
           "numero": "56",
           "titulo": "7901700099 PRODUTO ELIMINADOR DE ODORES PARASISTEMAS DE CLIMATIZAÇÃO:em solução líquida, com ação desodorizante e auxiliar na higienização de evaporadoras, adequado para aplicação em ambientes internos, visando reduzir odores desagradáveis decorrentes de",
-          "fase": "EM ADJUDICAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -255843,7 +255843,7 @@
         {
           "numero": "57",
           "titulo": "4103000027 PRODUTO VEDANTE PARA MICROVAZAMENTOS EM SISTEMAS DE REFRIGERAÇÃODE AR CONDICIONADO:em dose única, para aplicação em linha frigorígena, compatível com gases refrigerantes utilizados na rede (R-22, R-410A, R-32, quando aplicável), destinado à ve",
-          "fase": "EM ADJUDICAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -255867,7 +255867,7 @@
         {
           "numero": "58",
           "titulo": "5304000226 CORTADOR DE TUBOS:para cobre e alumínio, com capacidade mínima de corte entre 1/8\" e 1.1/4\", de uso profissional, dotado de lâmina em aço temperado e sistema de ajuste por rosca, destinado ao corte preciso de tubulações de cobre e alumínio util",
-          "fase": "EM ADJUDICAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -255891,7 +255891,7 @@
         {
           "numero": "59",
           "titulo": "5304000227 CURVADOR DOBRADOR MECÂNICO PARATUBOS:de cobre, alumínio e PVC, compatível com diâmetros de 1/4\", 3/8\", 1/2\" e 5/8\", com sistema de alavanca ou similar que possibilite a realização de curvas com raio adequado sem deformação da parede do tubo, d",
-          "fase": "EM ADJUDICAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -255915,7 +255915,7 @@
         {
           "numero": "60",
           "titulo": "5304000228 DOBRADOR DE TUBOS:tipo mola em silicone ou material similar, apropriado para curvar tubos de cobre, alumínio e PVC nos diâmetros de 1/4\", 3/8\", 1/2\" e 5/8\", comprimento aproximado de 4 m, destinado a permitir curvas suaves sem amassar a tubulaç",
-          "fase": "EM ADJUDICAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -255939,7 +255939,7 @@
         {
           "numero": "61",
           "titulo": "5304000229 CONJUNTO ALARGADOR DE TUBOS:de cobre ealumínio para uso com furadeira, contendo no mínimo 6 peças com diferentes diâmetros, destinado á ampliação das extremidades de tubulações para união por expansão, permitindo conexões adequadas em linhas f",
-          "fase": "EM ADJUDICAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -255963,7 +255963,7 @@
         {
           "numero": "62",
           "titulo": "5304000230 JOGO DE SERRAS-COPO:para perfuração em concreto, laje e alvenaria, contendo no mínimo três diâmetros (30 mm, 40 mm e 50 mm), com haste adaptadora, destinado à abertura de passagens para tubulações, drenos e cabos de sistemas de climatização, de",
-          "fase": "EM ADJUDICAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -255987,7 +255987,7 @@
         {
           "numero": "63",
           "titulo": "5304000231 ALICATE DE CORTE DIAGONA:tamanhoaproximado de 6\", confeccionado em aço cromo-vanádio ou similar, com cabo isolado e ergonômico, destinado ao corte de fios e cabos utilizados em instalações elétricas e de controle de sistemas de climatização, d",
-          "fase": "EM ADJUDICAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -256011,7 +256011,7 @@
         {
           "numero": "64",
           "titulo": "5304000232 ALICATE TIPO BICO MEIA-CANALONGO:tamanho aproximado de 6\", em aço cromo-vanádio ou similar, com cabo isolado, destinado a trabalhos de pega, dobra e manuseio de fios, cabos e pequenos componentes em locais de difícil acesso em instalações de a",
-          "fase": "EM ADJUDICAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -256035,7 +256035,7 @@
         {
           "numero": "65",
           "titulo": "4103000028 CANALETA OU CALHA PLÁSTICA:para passageme proteção de tubulações e cabos de sistemas de ar condicionado, em PVC rígido ou similar, com tampa removível, na cor branca ou clara, resistente à ação de raios UV e ao amarelamento, com dimensões adeq",
-          "fase": "EM ADJUDICAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -256059,7 +256059,7 @@
         {
           "numero": "66",
           "titulo": "4103000029 MANGUEIRA FLEXÍVEL:para dreno, 16 mm dediâmetro interno, 19 mm de diâmetro externo, espessura parede 1,5-2 mm, mínimo de 50 metros por rolo, para dreno de aparelhos de ar condicionado, fabricada em material plástico resistente, com diâmetro co",
-          "fase": "EM ADJUDICAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -256083,7 +256083,7 @@
         {
           "numero": "67",
           "titulo": "4103000030 ABRAÇADEIRAS PLÁSTICAS:tipo abraçadeira de nylon, em diferentes comprimentos, com boa resistência mecânica, destinadas à fixação e organização de cabos elétricos, mangueiras de dreno e pequenos conjuntos de tubulações em instalações de climatiz",
-          "fase": "EM ADJUDICAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -256227,7 +256227,7 @@
         {
           "numero": "73",
           "titulo": "4103000036 CAPACITOR DUPLO(ventilador +compressor):para aparelhos de ar condicionado split de 18.000 BTU/h, capacitância 40 + 2,5; (±5% ou 6%), tensão nominal  bivolt 127/220V AC (450V), formato cilíndrico ou oval com bornes de conexão, caixa metálica se",
-          "fase": "EM ADJUDICAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -262245,8 +262245,8 @@
       "tipo_contrato": "AQUISIÇÃO",
       "publicacao": "10/04/2026 15:44",
       "inicio_recepcao": "10/04/2026 16:00",
-      "fim_recepcao": "16/04/2026 14:15",
-      "inicio_disputa": "16/04/2026 14:30",
+      "fim_recepcao": "16/04/2026 08:15",
+      "inicio_disputa": "16/04/2026 08:30",
       "objeto": "Contratação de empresa especializada em fornecimento de MATERIAIS ESPORTIVOS (material de consumo), quantidades e demais condições encontram-se detalhadas neste instrumento, a fim de atender às demandas da Secretaria Municipal de Esporte e Lazer.",
       "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DFuDQDYdWibQOn9WhlTEXIaeSl32SvCV56Xhjd6Z8rgrHiGnywMVHVZ9PobQ048wd35J5P0S_SS8RTGDMaxIRM7ciJ6ZbafVcW79o1Q7Fv3c%3D",
       "total_lotes": 8,
@@ -264913,7 +264913,7 @@
       "publicacao": "24/03/2026 21:21",
       "inicio_recepcao": "25/03/2026 08:00",
       "fim_recepcao": "10/04/2026 08:15",
-      "inicio_disputa": "10/04/2026 15:14",
+      "inicio_disputa": "16/04/2026 08:10",
       "objeto": "Contratação de empresa especializada em serviços de engenharia para o fornecimento de bancas em estruturas metálicas (bancas de frutas e verduras), no município de Teixeira de Freitas – BA.",
       "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DqvoFhFdvcXK9QPx8y7w5dN3WNEETmw1Ei9DkegJeHW2JiWf4NCAAMZlYcwJOKk_CkSovHrUeeAiUHcWcc%2FzmLQZpnAjxL3N0bSVlssa3dF0%3D",
       "total_lotes": 1,
@@ -265125,26 +265125,26 @@
           ]
         },
         {
-          "numero": "1",
-          "titulo": "9900515338 REGULADOR DE CILINDRO DE GÁS BOTIJA13KG:kit para instalação do botijão de gás 13kg contendo registro constando a gravação do código do INMETRO e prazo de validade não inferior a 5 (cinco) anos; mangueira em material plástico pvc transparente,",
-          "fase": "HOMOLOGADO",
+          "numero": "2",
+          "titulo": "9900515339 REGULADOR DE CILINDRO DE GÁS BOTIJA45KG:kit para instalação do botijão de gás GLP P45, contendo: 1(um) registro regulador de gás 12kg/h, com prazo de validade não inferior a 5 (cinco) anos; 02 (duas) mangueiras pig-tail de 1,00m de comprimento",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
           "exclusivo_me": "SIM",
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
-          "valor_referencia": "17.003,70",
-          "vencedor": "GJ SOLUÇÕES EM LICITAÇÕES E ASSESSORIA LTDA",
-          "melhor_oferta": "15.592,50",
+          "valor_referencia": "44.116,80",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
           "total_itens": 1,
           "itens": [
             {
               "numero": "1",
-              "especificacao": "9900515338 REGULADOR DE CILINDRO DE GÁS BOTIJA13KG:kit para instalação do botijão de gás 13kg contendo registro constando a gravação do código do INMETRO e prazo de validade não inferior a 5 (cinco) anos; mangueira em material plástico pvc transparente, trançada, tarja amarela, exibindo a inscrição NBR 8613, nome do fabricante, com comprimento 1,25m e prazo de validade não inferior a 5 (cinco) anos; 2 (duas) abraçadeiras para botijão de gás 13kg. EXCLUSIVO PARA ME/EPP.",
+              "especificacao": "9900515339 REGULADOR DE CILINDRO DE GÁS BOTIJA45KG:kit para instalação do botijão de gás GLP P45, contendo: 1(um) registro regulador de gás 12kg/h, com prazo de validade não inferior a 5 (cinco) anos; 02 (duas) mangueiras pig-tail de 1,00m de comprimento, 2(duas) válvulas de retenção, 2 (dois) registros esféricos, 2 (dois) suporte de fixação, 1 (um) coletor de ferro, 2 (dois) cotovelos, 2 (dois) niple, 1 (um) conector metálico em formato tê, 1(uma) bucha de redução, 1 (um) manômetro.Características adicionais: suportar até 2 (dois) botijões p45 de 45kg cada. EXCLUSIVO PARA ME/EPP.",
               "unidade": "UND",
-              "quantidade": "315,00",
-              "valor_referencia": "53,98"
+              "quantidade": "210,00",
+              "valor_referencia": "210,08"
             }
           ]
         }
@@ -265714,7 +265714,7 @@
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "321/2026",
       "modalidade": "DISPENSA ELETRÔNICA",
-      "situacao": "DISPUTA",
+      "situacao": "JULGAMENTO",
       "condutor": "ISLA LIMA SILVA",
       "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
       "tipo_contrato": "AQUISIÇÃO",
@@ -265730,7 +265730,7 @@
         {
           "numero": "1",
           "titulo": "BANHEIROS QUÍMICOS",
-          "fase": "DISPUTA",
+          "fase": "JULGAMENTO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -265738,8 +265738,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "25.258,02",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
+          "vencedor": "RF PRODUÇÕES E EVENTOS LTDA",
+          "melhor_oferta": "21.600,00",
           "total_itens": 1,
           "itens": [
             {
