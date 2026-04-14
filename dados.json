@@ -4,7 +4,7 @@
     "total_processos": 764,
     "total_lotes": 8647,
     "total_itens": 14781,
-    "atualizado_em": "20260413_234420"
+    "atualizado_em": "20260414_193517"
   },
   "processos": [
     {
@@ -3628,146 +3628,6 @@
               "unidade": "Und.",
               "quantidade": "320,00",
               "valor_referencia": "1.440,00"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "PE-004-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "1514/2025",
-      "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "HABILITAÇÃO",
-      "condutor": "JONATAS DA SILVA SOUSA",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "REGISTRO DE PREÇO",
-      "publicacao": "19/01/2026 19:19",
-      "inicio_recepcao": "13/02/2026 08:00",
-      "fim_recepcao": "25/02/2026 08:45",
-      "inicio_disputa": "25/02/2026 09:00",
-      "objeto": "futura e eventual contratação de empresa especializada em prestação de serviço de LOCAÇÃO DE VEÍCULOS LEVES E PESADOS, cujas especificações técnicas, quantidades e demais condições encontram-se detalhadas neste instrumento, a fim de atender as demandas da Secretaria Municipal de Administração e demais Secretarias.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DcBAm_uZZnf6O2gGNROC2bTpRor3LlSMqVZjFkdkgsLKOHuk6EEG_LO_jgP7IdbQOWgQ6L%2F1mh_eBxU0MVWlBU%2FsJl8sggEQNGpmDG3x5bXo%3D",
-      "total_lotes": 5,
-      "total_itens": 5,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "LOCAÇÃO DE VEÍCULO TIPO VAN 09 A 12LUGARES - SEM MOTORISTA:Locação de Veículo, sem motorista, tipo utilitário fechado, tipo van, sem motorista, movido a gasolina, bicombustível ou diesel, motor 1.4 ou superior, capacidade de 09 a 12 passageiros, equipado",
-          "fase": "FRACASSADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "474.000,00",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "105100068 LOCAÇÃO DE VEÍCULO TIPO VAN 09 A 12LUGARES - SEM MOTORISTA:Locação de Veículo, sem motorista, tipo utilitário fechado, tipo van, sem motorista, movido a gasolina, bicombustível ou diesel, motor 1.4 ou superior, capacidade de 09 a 12 passageiros, equipado com ar- condicionado, direção hidráulica e/ou elétrica, vidros elétricos, trava elétrica, alarme, porta objetos, luz de freio adaptativa, airbag, sistema ativo de frenagem, sistema multimídia, potência mínima 160 CV, bateria mínima 90ah, pacote de integração com smartfone, rodas de liga leve, peso bruto máximo combinado 8.000kg, tração traseira, ano de fabricação mínima de 2021, manutenção por conta da empresa contratada, apólice ou contrato de seguro apresentado no ato do contrato de locação e com vigência para todo o período contratado e encargos tributários de IPVA, DPVAT e TRLAV também por conta da empresa contratada. (LOCAÇÃO MENSAL).",
-              "unidade": "UND",
-              "quantidade": "60,00",
-              "valor_referencia": "7.900,00"
-            }
-          ]
-        },
-        {
-          "numero": "2",
-          "titulo": "LOCAÇÃO DE VEÍCULO UTILITÁRIO ABERTOCABINE SIMPLES - SEM MOTORISTA:Locação de veículo sem motorista, tipo utilitário aberto, tipo caminhonete, movido a gasolina, bicombustível ou diesel, motor 1.4 ou superior, 02 portas, tração 4x2, airbag, luz auxiliar",
-          "fase": "EM ADJUDICAÇÃO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "1.064.500,80",
-          "vencedor": "LOCA TUDO LOCADORA LTDA",
-          "melhor_oferta": "947.900,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "105100069 LOCAÇÃO DE VEÍCULO UTILITÁRIO ABERTOCABINE SIMPLES - SEM MOTORISTA:Locação de veículo sem motorista, tipo utilitário aberto, tipo caminhonete, movido a gasolina, bicombustível ou diesel, motor 1.4 ou superior, 02 portas, tração 4x2, airbag, luz auxiliar de freio, equipado com ar- condicionado, direção hidráulica e/ou elétrica, vidros elétricos, trava elétrica nas 02 portas, alarme, capacidade de carga mínima de 700 kg, ano de fabricação mínima de 2022, manutenção por conta da empresa contratada, apólice ou contrato de seguro apresentado no ato do contrato de locação e com vigência para todo o período contratado e encargos tributários de IPVA, DPVAT e TRLAV também por conta da empresa contratada. (LOCAÇÃO MENSAL).",
-              "unidade": "UND",
-              "quantidade": "240,00",
-              "valor_referencia": "4.435,42"
-            }
-          ]
-        },
-        {
-          "numero": "3",
-          "titulo": "LOCAÇÃO DE VEÍCULO 05 PESSOAS - SEMMOTORISTA:Locação de Veículo sem motorista, veículo tipo automóvel, potência mínima 200 cv, autonomia mínima de 350km sem necessidade de reabastecimento, direção elétrica ou hidráulica, freios a disco, sensor de estacio",
-          "fase": "FRACASSADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "126.333,36",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "105100070 LOCAÇÃO DE VEÍCULO 05 PESSOAS - SEMMOTORISTA:Locação de Veículo sem motorista, veículo tipo automóvel, potência mínima 200 cv, autonomia mínima de 350km sem necessidade de reabastecimento, direção elétrica ou hidráulica, freios a disco, sensor de estacionamento, mínimo 05 airbag, capacidade mínima de carga do porta malas de 450kg, painel multimídia sensível ao toque, sistema auxiliar de permanência de faixa, ano de fabricação mínima de 2022, manutenção por conta da empresa contratada, apólice ou contrato de seguro apresentado no ato do contrato de locação e com vigência para todo o período contratado e encargos tributários de IPVA, DPVAT e TRLAV também por conta da empresa contratada. (LOCAÇÃO MENSAL).",
-              "unidade": "UND",
-              "quantidade": "24,00",
-              "valor_referencia": "5.263,89"
-            }
-          ]
-        },
-        {
-          "numero": "4",
-          "titulo": "LOCAÇÃO DE VEÍCULO TIPO MICRO-ÔNIBUSMÍNIMO 25 LUGARES - COM MOTORISTA:tipo utilitário fechado, com sanitário e de fácil acesso lateral para a manutenção do sanitário; movido a diesel; 2 eixos; potência mínima 160 CV, 02 baterias; rodas em aço; equipado c",
-          "fase": "EM ADJUDICAÇÃO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "111.300,00",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "105100071 LOCAÇÃO DE VEÍCULO TIPO MICRO-ÔNIBUSMÍNIMO 25 LUGARES - COM MOTORISTA:tipo utilitário fechado, com sanitário e de fácil acesso lateral para a manutenção do sanitário; movido a diesel; 2 eixos; potência mínima 160 CV, 02 baterias; rodas em aço; equipado com ar- condicionado, direção hidráulica e/ou elétrica, vidros elétricos, trava elétrica, alarme, ano de fabricação mínima de 2013, manutenção por conta da empresa contratada, apólice ou contrato de seguro apresentado no ato do contrato de locação e com vigência para todo o período contratado e encargos tributários de IPVA, DPVAT e TRLAV também por conta da empresa contratada. (LOCAÇÃO/DEMANDA).",
-              "unidade": "KM",
-              "quantidade": "10.000,00",
-              "valor_referencia": "11,13"
-            }
-          ]
-        },
-        {
-          "numero": "5",
-          "titulo": "LOCAÇÃO DE VEÍCULO TIPO ÔNIBUS MÍNIMO 43LUGARES - COM MOTORISTA:tipo utilitário fechado; potência máxima de 207cv; movido a diesel; bateria de 12 V/135 Ah (02 unidades); 2 eixos;   Tanque de combustível 210 litros; Reservatório Arla 32 35 litros; equipad",
-          "fase": "HABILITAÇÃO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "167.600,00",
-          "vencedor": "IANN COMERCIAL LTDA",
-          "melhor_oferta": "1.110.000,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "36521 LOCAÇÃO DE VEÍCULO TIPO ÔNIBUS MÍNIMO 43LUGARES - COM MOTORISTA:tipo utilitário fechado; potência máxima de 207cv; movido a diesel; bateria de 12 V/135 Ah (02 unidades); 2 eixos; Tanque de combustível 210 litros; Reservatório Arla 32 35 litros; equipado com ar-condicionado, direção hidráulica e/ou elétrica, vidros elétricos, trava elétrica, alarme, ano de fabricação mínima de 2010, manutenção por conta da empresa contratada, apólice ou contrato de seguro apresentado no ato do contrato de locação e com vigência para todo o período contratado e encargos tributários de IPVA, DPVAT e TRLAV também por conta da empresa contratada.(LOCAÇÃO/DEMANDA).",
-              "unidade": "KM",
-              "quantidade": "10.000,00",
-              "valor_referencia": "16,76"
             }
           ]
         }
@@ -237098,122 +236958,6 @@
       ]
     },
     {
-      "id": "PE-031-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "1673/2025",
-      "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "HABILITAÇÃO",
-      "condutor": "SERGIO CARNEIRO CAVALCANTI DE AZEVEDO",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "REGISTRO DE PREÇO",
-      "publicacao": "09/03/2026 17:02",
-      "inicio_recepcao": "11/03/2026 08:00",
-      "fim_recepcao": "23/03/2026 08:15",
-      "inicio_disputa": "23/03/2026 08:30",
-      "objeto": "Contratação de empresa especializada em fornecimento de TUBOS EM POLIETILENO DE ALTA DENSIDADE (PEAD) (material de consumo), a fim de atender as demandas da Secretaria Municipal de Infraestrutura e Serviços Urbanos.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DNnw7KpJUZGBgA6qquwhLOMjHI398j9N8GTva610ly5YSj43uIAe5_n5U_ZDOsiy1evUece6NELSjXHgjmD2VueLDobRu%2F2_6Mwz7h%2FQQvf4%3D",
-      "total_lotes": 4,
-      "total_itens": 4,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "9900515230 TUBO PEAD 400 MM:tubo extrudado, parede dupla em pead (polietileno de alta densidade), com união ponta e bolsa, liso internamente e corrugado externamente, em barras de 6m de comprimento, cor preta, pigmentada com negro de fumo, com diâmetro no",
-          "fase": "FRACASSADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "385.983,50",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900515230 TUBO PEAD 400 MM:tubo extrudado, parede dupla em pead (polietileno de alta densidade), com união ponta e bolsa, liso internamente e corrugado externamente, em barras de 6m de comprimento, cor preta, pigmentada com negro de fumo, com diâmetro nominal DN/DI 400 mm (baseado no diâmetro interno), classe de rigidez sn4, conforme norma DNIT 094/2014",
-              "unidade": "UND",
-              "quantidade": "350,00",
-              "valor_referencia": "1.102,81"
-            }
-          ]
-        },
-        {
-          "numero": "2",
-          "titulo": "9900515231 TUBO PEAD 800 MM:tubo extrudado, parede dupla em pead (polietileno de alta densidade), com união ponta e bolsa, liso internamente e corrugado externamente, em barras de 6m de comprimento, cor preta, pigmentada com negro de fumo, com diâmetro no",
-          "fase": "FRACASSADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "858.340,00",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900515231 TUBO PEAD 800 MM:tubo extrudado, parede dupla em pead (polietileno de alta densidade), com união ponta e bolsa, liso internamente e corrugado externamente, em barras de 6m de comprimento, cor preta, pigmentada com negro de fumo, com diâmetro nominal DN/DI 800 mm (baseado no diâmetro interno), classe de rigidez sn4, conforme norma DNIT 094/2014",
-              "unidade": "UND",
-              "quantidade": "200,00",
-              "valor_referencia": "4.291,70"
-            }
-          ]
-        },
-        {
-          "numero": "3",
-          "titulo": "9900515232 TUBO PEAD 1500 MM:tubo extrudado, parede dupla em pead (polietileno de alta densidade), com união ponta e bolsa, liso internamente e corrugado externamente, em barras de 6m de comprimento, cor preta, pigmentada com negro de fumo, com diâmetro n",
-          "fase": "HABILITAÇÃO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "905.640,00",
-          "vencedor": "OSCAR COMERCIO E DISTRIBUICAO DE PRODUTOS LTDA",
-          "melhor_oferta": "905.640,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900515232 TUBO PEAD 1500 MM:tubo extrudado, parede dupla em pead (polietileno de alta densidade), com união ponta e bolsa, liso internamente e corrugado externamente, em barras de 6m de comprimento, cor preta, pigmentada com negro de fumo, com diâmetro nominal DN/DI 1500 mm (baseado no diâmetro interno), classe de rigidez sn2, conforme norma DNIT 094/2014",
-              "unidade": "UND",
-              "quantidade": "60,00",
-              "valor_referencia": "15.094,00"
-            }
-          ]
-        },
-        {
-          "numero": "4",
-          "titulo": "36839 TUBO PEAD 300 MM:: tubo extrudado, parede dupla em pead (polietileno de alta densidade), com união ponta e  bolsa, liso internamente e corrugado externamente, em  barras de 6m de comprimento, cor preta, pigmentada com  negro de fumo, com diâmetro no",
-          "fase": "FRACASSADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "134.612,00",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "36839 TUBO PEAD 300 MM:: tubo extrudado, parede dupla em pead (polietileno de alta densidade), com união ponta e bolsa, liso internamente e corrugado externamente, em barras de 6m de comprimento, cor preta, pigmentada com negro de fumo, com diâmetro nominal dn/di 300 mm (baseado no diâmetro interno), classe de rigidez sn4, conforme norma dnit 094/2014.",
-              "unidade": "UND",
-              "quantidade": "200,00",
-              "valor_referencia": "673,06"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "CE-023-2025",
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "1615/2025",
@@ -254151,50 +253895,6 @@
       ]
     },
     {
-      "id": "PE-057-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "326/2026",
-      "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "RECEPÇÃO DE PROPOSTAS",
-      "condutor": "SERGIO CARNEIRO CAVALCANTI DE AZEVEDO",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "REGISTRO DE PREÇO",
-      "publicacao": "30/03/2026 18:46",
-      "inicio_recepcao": "01/04/2026 08:30",
-      "fim_recepcao": "14/04/2026 08:15",
-      "inicio_disputa": "14/04/2026 08:30",
-      "objeto": "Contratação de empresa especializada em fornecimento de MATERIAL ASFÁLTICO DO TIPO CONCRETO BETUMINOSO USINADO A QUENTE (CBUQ), preparado com agregados pétreos e cimento asfáltico de petróleo – CAP 50/70, para aplicação a frio (material de consumo), a fim de atender as demandas da Secretaria Municipal de Infraestrutura e Serviços Urbanos.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5Db1O1siBWck3kWm62dfWSIqjOh5HqntmvMqU9PwLl5WkQkqvTRdTtu10Bp26rZ9dMoOaWu2Cc87MLyub17tzZcug3NW9fD1w%2FFutUwb9oQjg%3D",
-      "total_lotes": 1,
-      "total_itens": 1,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "MATERIAL ASFÁLTICO",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,00",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900515197 ASFALTO PRONTO:Massa asfáltica usinada aquente. Temperatura aproximada de 119° C, preparada comagregados pétreos, CAP 50/70, teor de Betume emaproximadamente 6%, modicado por polímeros e processos demistura, não emulsionado, que passa 100% na peneira 3/8\", paraaplicação a frio em manutenção de pavimentos (tapa-buracos),que pode ser estocada por até 24 meses, capaz de ser aplicadamesmo em buracos com água, em períodos de chuva, sem aperda de sua coesão e aderência ao pavimento antigo,dispensando pintura de ligação. Embalagem: Saco de Rafia 25kg",
-              "unidade": "UN",
-              "quantidade": "10.000,00",
-              "valor_referencia": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "PE-043-2026",
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "119/2026",
@@ -262447,11 +262147,995 @@
       ]
     },
     {
+      "id": "PE-054-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "232/2026",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "RECEPÇÃO DE PROPOSTAS",
+      "condutor": "SERGIO CARNEIRO CAVALCANTI DE AZEVEDO",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO PARCELADA",
+      "publicacao": "08/04/2026 17:16",
+      "inicio_recepcao": "10/04/2026 08:30",
+      "fim_recepcao": "23/04/2026 08:15",
+      "inicio_disputa": "23/04/2026 08:30",
+      "objeto": "Contratação de empresa especializada em fornecimento de PLAQUETAS PATRIMONIAIS (material de consumo), a fim de atender as demandas da Secretaria Municipal de Administração e demais secretarias.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DheiP1vt4s_K7B0IQ6kxgYdNUmao7cvEwSOkat0GMvntkiCwE0a1_DuCIsTLE9x6rYqhHj4lBrQo9T74LdO7S3XM4LmOvZqdehG%2FNwphMZ24%3D",
+      "total_lotes": 1,
+      "total_itens": 1,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "PLAQUETA PATRIMONIAL",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515365 Plaqueta de identificação patrimonial em alumínioanodizado, formato 50x20mm (5 cm x 2 cm):espessuraaproximada entre 0,15mm e 0,30mm, com acabamentoresistente à abrasão, umidade e produtos de limpeza; alumíniode alta qualidade, rígido ou semi-flexível, com cantos retos oulevemente arredondados, sem rebarbas ou arestas cortantes,garantindo segurança no manuseio; superfície tratada(anodização ou similar) para assegurar alta durabilidade damarcação, mantendo a legibilidade das informações ao longo dotempo; impressão em alto contraste, em 1 ou 2 cores, contendo,no mínimo, identificação do ente/órgão público, a expressão\"Patrimônio\", numeração sequencial individualizada para cadaplaqueta e área destinada a código de barras ou QR Code,possibilitando leitura óptica e integração com sistemainformatizado de controle patrimonial; numeração sequencialproduzida sem falhas, sem repetições e sem quebras indevidas,conforme faixa fornecida pelo setor de patrimônio; fixação pormeio de adesivo dupla face de alta aderência (tipo 3M ouequivalente), aplicado em toda a face posterior da plaqueta,adequado para superfícies lisas de metal, plástico ou madeira,garantindo forte aderência e resistência ao descolamento emambiente interno, dispensando uso de parafusos ou rebites;material apropriado para aplicação em computadores,impressoras, mobiliários, eletrodomésticos, equipamentospedagógicos e demais bens permanentes, resistindo àmanipulação cotidiana e à limpeza com panos úmidos e produtosneutros; fornecimento com layout personalizado, respeitandopadrão institucional; as plaquetas deverão ser entreguesdevidamente numeradas, organizadas em sequência lógica,acondicionadas em embalagens que evitem riscos, amassados edanos à impressão, acompanhadas de relação em meio físico e,preferencialmente, arquivo digital contendo a numeraçãoproduzida, para auxiliar no registro e lançamento no sistema decontrole patrimonial, em conformidade com práticas usualmenteadotadas em termos de referência e contratações públicas deplaquetas patrimoniais em alumínio. EXCLUSIVO PARAME/EPP.",
+              "unidade": "UN",
+              "quantidade": "15.000,00",
+              "valor_referencia": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-050-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "126/2026",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "RECEPÇÃO DE PROPOSTAS",
+      "condutor": "JONATAS DA SILVA SOUSA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO",
+      "publicacao": "08/04/2026 17:12",
+      "inicio_recepcao": "10/04/2026 08:30",
+      "fim_recepcao": "27/04/2026 08:15",
+      "inicio_disputa": "27/04/2026 08:30",
+      "objeto": "Contratação de empresa especializada em prestação de serviço de LEVANTAMENTO TOPOGRÁFICO PLANIALTIMÉTRICO PARA REALIZAÇÃO DE GEORREFERENCIAMENTO DE ROTAS ESCOLARES, a fim de atender as demandas da Secretaria Municipal de Educação.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5D203jaPyfXVXmDEuoRihXV0eCeDdGbuEvsnrpDTHSwJfEy2UAWor0wIH%2FIfGFDq81jf0yYiqldgRxfh8u1KGo3aBdwUVYS8gx2FvOzAPDyCM%3D",
+      "total_lotes": 1,
+      "total_itens": 1,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "GEORREFERENCIAMENTO",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9903311812 Serviço de levantamento topográfico planialtimétricoe georreferenciamento completo das rotas escolares domunicípio:abrangendo visitas de campo, coleta de dados porreceptores GNSS/GPS de alta precisão, medição de distânciasreais considerando curvas, declividades e vias vicinais,identificação de pontos notáveis e condicionantes geográficos,compatibilização com a malha viária oficial e geração de basegeoespacial em formato digital (shapefile, geojson ouequivalente), com elaboração de mapeamento cartográfico digitalconsolidado, contendo todas as rotas levantadas, pontos deembarque e desembarque, localização das escolas atendidas,delimitação das zonas urbana e rural, vias de acesso, pontoscríticos (aclives, declives, travessias e estradas nãopavimentadas), representação sobre malha viária real, geraçãode plantas em escala adequada e integração dos dados aoSistema de Informações Geográficas (SIG), acompanhada derelatório técnico detalhado, memorial descritivo e plantageorreferenciada das rotas escolares.",
+              "unidade": "KM",
+              "quantidade": "4.800,00",
+              "valor_referencia": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2-DLE-031-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "240/2026",
+      "modalidade": "DISPENSA ELETRÔNICA",
+      "situacao": "JULGAMENTO",
+      "condutor": "ISAQUE SILVA DOS SANTOS",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO",
+      "publicacao": "02/04/2026 17:54",
+      "inicio_recepcao": "02/04/2026 18:05",
+      "fim_recepcao": "10/04/2026 08:15",
+      "inicio_disputa": "10/04/2026 08:30",
+      "objeto": "Contratação de empresa especializada em fornecimento de [TELAS MOSQUITEIRAS PARA JANELAS E BASCULANTES]\n(material de consumo), a fim de atender às necessidades da Secretaria Municipal de Administração.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5D2W57ppXq3o6zKhPsJoiuNYula3vi04HyJPsyYWFx92UxDL4g5ljEb52D0vLW%2FngMGD45GknLLPdycZqZHNRQM5z0v1a3CJ_IKSweJNGr_ME%3D",
+      "total_lotes": 1,
+      "total_itens": 1,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "TELA MOSQUISTEIRA",
+          "fase": "JULGAMENTO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "8.019,60",
+          "vencedor": "PANIFICADORA E MINIMERCADO VICTOR LTDA",
+          "melhor_oferta": "8.000,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515461 Tela mosquiteira em fibra de vidro revestida emPVC:cor cinza, fornecida em rolo com largura nominal de 1,20m e comprimento de 50 m, totalizando aproximadamente 60m² por rolo, com malha fina tipo 18 x 16 fios por polegada ouequivalente. Adequada para proteção contra insetos, vetorese pragas urbanas, permitindo ampla circulação de ar epassagem de luz natural, sem comprometer a luminosidadedo ambiente.Produto antialérgico, inodoro, lavável com águae detergente neutro, de fácil corte e instalação, que não desfianas bordas, não resseca, não rasga com facilidade, resistentea raios UV, intempéries, umidade e fungos, com característicade nãopropagação de chamas e alta durabilidade em usocontínuo. Destinada à instalação em janelas, portas,basculantes e demais aberturas de cozinhas, despensas eáreas de preparo e armazenamento de alimentos dasunidades escolares da rede municipal, para confecção demódulos fixos ou removíveis pelas equipes internas demarcenaria e serralheria da Secretaria Municipal deEducação, em conformidade com as exigências sanitáriaspara barreiras físicas e com especificações técnicasUsualmente adotadas em contratações públicas. EXCLUSIVOPARA ME/EPP.",
+              "unidade": "ROL",
+              "quantidade": "30,00",
+              "valor_referencia": "267,32"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-053-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "309/2026",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "HABILITAÇÃO",
+      "condutor": "DAVIDSON ARAUJO SANTOS",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO PARCELADA",
+      "publicacao": "24/03/2026 21:21",
+      "inicio_recepcao": "25/03/2026 08:00",
+      "fim_recepcao": "10/04/2026 08:15",
+      "inicio_disputa": "16/04/2026 08:10",
+      "objeto": "Contratação de empresa especializada em serviços de engenharia para o fornecimento de bancas em estruturas metálicas (bancas de frutas e verduras), no município de Teixeira de Freitas – BA.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DqvoFhFdvcXK9QPx8y7w5dN3WNEETmw1Ei9DkegJeHW2JiWf4NCAAMZlYcwJOKk_CkSovHrUeeAiUHcWcc%2FzmLQZpnAjxL3N0bSVlssa3dF0%3D",
+      "total_lotes": 1,
+      "total_itens": 1,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "SERVIÇOS DE ENGENHARIA PARA O FORNECIMENTO DE BANCAS EM ESTRUTURAS METÁLICAS (BANCAS DE FRUTAS E VERDURAS)",
+          "fase": "HABILITAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "1.000,00",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "1.200.887,10",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "BANCA EM ESTRUTURA METÁLICA",
+              "unidade": "UNID.",
+              "quantidade": "1,00",
+              "valor_referencia": "1.200.887,10"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-048-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "229/2026",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "HOMOLOGADO",
+      "condutor": "JONATAS DA SILVA SOUSA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO PARCELADA",
+      "publicacao": "19/03/2026 17:45",
+      "inicio_recepcao": "23/03/2026 08:30",
+      "fim_recepcao": "06/04/2026 08:15",
+      "inicio_disputa": "06/04/2026 08:30",
+      "objeto": "Contratação de empresa especializada em prestação de serviços de IMPRESSÃO GRÁFICA DE AVALIAÇÕES, a fim de atender as demandas da Secretaria Municipal de Educação.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DaQC6ahbMnQh0S3NiD8Bsn6BfpNkn3pvicDX07EILlEwTOsUX1CuAPPKQ7sDhLsRohXx%2FLO_ydPRJGXcinLazfvrc2%2FRr1LjuDQcXQyi0ic0%3D",
+      "total_lotes": 1,
+      "total_itens": 1,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "IMPRESSÃO GRÁFICA",
+          "fase": "HOMOLOGADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "195.000,00",
+          "vencedor": "GERALDO BRAGA MIRANDA LTDA",
+          "melhor_oferta": "91.000,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "103200003 Serviço de impressão de folhas destinadas àaplicação das avaliações do Compromisso Nacional CriançaAlfabetizada (CNCA) na rede municipal deensino:compreendendo a impressão por folha, em papeltamanho A4 (210mm x 297mm), em papel offset branco alcalinode alta qualidade, gramatura de 75g/m², alta alvura e opacidadeadequada para evitar transparência de impressão entre frente everso, impressão offset ou digital em alta resolução (mínimo2400 dpi), tiragem em 1/1 cor, conforme artes finais fornecidaspela Secretaria Municipal de Educação, com registro fiel detextos, figuras, quadros e campos de resposta conforme matrizavaliativa oficial do CNCA. Inclui ainda serviços correlatos decorte em guilhotina com tolerância máxima de ± 1mm,acondicionamento das folhas em maços padronizados (porexemplo, 250, 500 ou 1.000 folhas) embalados em papel kraft oufilme plástico resistente, com etiqueta de identificação contendo,identificação do ciclo/etapa da avaliação, série/ano, disciplina,número do lote e quantidade de folhas, bem como a logística deentrega fracionada nas unidades escolares e/ou no depósitocentral da Secretaria, conforme cronograma oficial do CNCA,respeitando a urgência do calendário nacional e a necessidadede pronta disponibilidade do material nas escolas.",
+              "unidade": "UN",
+              "quantidade": "1.300.000,00",
+              "valor_referencia": "0,15"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-046-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "210/2026",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "HOMOLOGADO",
+      "condutor": "SERGIO CARNEIRO CAVALCANTI DE AZEVEDO",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "REGISTRO DE PREÇO",
+      "publicacao": "17/03/2026 16:37",
+      "inicio_recepcao": "19/03/2026 00:00",
+      "fim_recepcao": "31/03/2026 13:45",
+      "inicio_disputa": "31/03/2026 14:00",
+      "objeto": "Contratação de empresa especializada em fornecimento de KIT LANCHE PRONTO (material de consumo),  a fim de atender as demandas da Secretaria Municipal de Administração e demais Secretarias.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5Dp%2FPWFwaH3xzNAPEucn7zDcvvBpgkJ1sJBj%2FSO0KtiK1tbWbC5DjbqxXcYvQcIab7Urr0KfkXXI2vQafPLH1xe9MzdGL9S7jZFH2BsFRVGoA%3D",
+      "total_lotes": 1,
+      "total_itens": 8,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "LOTE 1",
+          "fase": "HOMOLOGADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "517.920,00",
+          "vencedor": "COUTO RESTAURANTE LTDA",
+          "melhor_oferta": "514.600,00",
+          "total_itens": 8,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "100800011 KIT LANCHE TIPO A:COMPOSTO POR: 01 COPO DE CAFÉ COM LEITE (200ML);01 COPO DE MINGAU DE TAPIOCA (200ML);01 PORÇÃO DE CUSCUZ NORDESTINO 250G (CALABRESA E CARNE DE SOL);01 SANDUÍCHE DE QUEIJO (PÃO DE FORMA E QUEIJO LANCHE);02 GUARDANAPOS DE PAPEL",
+              "unidade": "Und.",
+              "quantidade": "4.000,00",
+              "valor_referencia": "14,90"
+            },
+            {
+              "numero": "2",
+              "especificacao": "37032 KIT LANCHE TIPO B:COMPOSTO POR: 01 COPO DE CAFÉ COM LEITE (200ML); 01 COPO DE SUCO DE FRUTAS (200ML);01 FATIA DE BOLO DE MILHO (100G);01 PATISSARIA 120G (ESFIRRA);02 GUARDANAPOS DE PAPEL",
+              "unidade": "Und.",
+              "quantidade": "4.000,00",
+              "valor_referencia": "15,42"
+            },
+            {
+              "numero": "3",
+              "especificacao": "100800012 KIT LANCHE TIPO C:COMPOSTO POR: 01 COPO DE CAFÉ COM LEITE (200ML);01 COPO DE MINGAU DE MILHO (200ML);01 PORÇÃO DE BANANA DA TERRA COZIDA COM CARNE DO SOL E CALABRESA (250G);01 FATIA DE BOLO DE TAPIOCA (100G);02 GUARDANAPOS DE PAPEL",
+              "unidade": "Und.",
+              "quantidade": "4.000,00",
+              "valor_referencia": "18,52"
+            },
+            {
+              "numero": "4",
+              "especificacao": "100800013 KIT LANCHE TIPO D:COMPOSTO POR: 01 COPO DE CAFÉ COM LEITE (200ML);01 COPO DE SUCO DE FRUTAS (200ML);01 PORÇÃO DE CUSCUZ NORDESTINO 250G (CALABRESA E CARNE DO SOL);PATISSARIA (BAURU);02 GUARDANAPOS DE PAPEL",
+              "unidade": "Und.",
+              "quantidade": "4.000,00",
+              "valor_referencia": "18,52"
+            },
+            {
+              "numero": "5",
+              "especificacao": "100800014 KIT LANCHE TIPO E:COMPOSTO POR: 01 COPO DE SUCO DE FRUTAS (200ML);01 MAÇÃ;01 BANANA;01 SANDUÍCHE DE QUEIJO (PÃO DE FORMA E QUEIJO);02 GUARDANAPOS DE PAPEL",
+              "unidade": "Und.",
+              "quantidade": "4.000,00",
+              "valor_referencia": "13,83"
+            },
+            {
+              "numero": "6",
+              "especificacao": "100800015 KIT LANCHE TIPO F:COMPOSTO POR:01 COPO DE ACHOCOLATADO (200ML);01 COPO DE SUCO DE FRUTAS (200ML);1 FATIA DE BOLO DE CHOCOLATE;01 MAÇÃ;02 GUARDANAPOS DE PAPEL",
+              "unidade": "Und.",
+              "quantidade": "4.000,00",
+              "valor_referencia": "13,13"
+            },
+            {
+              "numero": "7",
+              "especificacao": "100800016 LANCHE COMPLETO c/ SUCO NATURAL300ml:sanduíche: pão fatiado, com maionese, 1 (uma) fatia de queijo muçarela, 1 (uma) fatia de apresuntado, embalado em plástico filme; suco natural 300ml (trezentos mililitros); 1 guardanapo de papel embalado individualmente.",
+              "unidade": "Und.",
+              "quantidade": "4.000,00",
+              "valor_referencia": "11,46"
+            },
+            {
+              "numero": "8",
+              "especificacao": "100800017 MARMITEX COM REFRIGERANTE EM LATA:Arroz,farofa de feijão, macarrão, carne (podendo ser: carne cozida ou frango) e salada; no mínimo 500g; garfo descartável resistente e guardanapo de papel embalados individualmente; Refrigerante lata 350ml.",
+              "unidade": "Und.",
+              "quantidade": "4.000,00",
+              "valor_referencia": "23,70"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2-DLE-015-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "109-2026",
+      "modalidade": "DISPENSA ELETRÔNICA",
+      "situacao": "HOMOLOGADO",
+      "condutor": "ISAQUE SILVA DOS SANTOS",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO",
+      "publicacao": "02/03/2026 16:13",
+      "inicio_recepcao": "02/03/2026 16:15",
+      "fim_recepcao": "06/03/2026 08:15",
+      "inicio_disputa": "06/03/2026 08:30",
+      "objeto": "Contratação de empresa especializada em fornecimento de KIT DE REGULADORES DE CILINDRO PARA BOTIJÃO DE GÁS, a\nfim de atender as necessidades da Secretaria Municipal de Administração.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5D3oahFlqPJyWouesQ55aVMQwy2olzIIuls1b3vFnoo%2FKx3KiNZAc2NJrjnhloLIh3RSSulnm1hQWblsMPWoBoxOtcKM572TULFVFSlriIZjs%3D",
+      "total_lotes": 2,
+      "total_itens": 2,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "9900515338 REGULADOR DE CILINDRO DE GÁS BOTIJA13KG:kit para instalação do botijão de gás 13kg contendo registro constando a gravação do código do INMETRO e prazo de validade não inferior a 5 (cinco) anos; mangueira em material plástico pvc transparente,",
+          "fase": "HOMOLOGADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "17.003,70",
+          "vencedor": "GJ SOLUÇÕES EM LICITAÇÕES E ASSESSORIA LTDA",
+          "melhor_oferta": "15.592,50",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515338 REGULADOR DE CILINDRO DE GÁS BOTIJA13KG:kit para instalação do botijão de gás 13kg contendo registro constando a gravação do código do INMETRO e prazo de validade não inferior a 5 (cinco) anos; mangueira em material plástico pvc transparente, trançada, tarja amarela, exibindo a inscrição NBR 8613, nome do fabricante, com comprimento 1,25m e prazo de validade não inferior a 5 (cinco) anos; 2 (duas) abraçadeiras para botijão de gás 13kg. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "315,00",
+              "valor_referencia": "53,98"
+            }
+          ]
+        },
+        {
+          "numero": "2",
+          "titulo": "9900515339 REGULADOR DE CILINDRO DE GÁS BOTIJA45KG:kit para instalação do botijão de gás GLP P45, contendo: 1(um) registro regulador de gás 12kg/h, com prazo de validade não inferior a 5 (cinco) anos; 02 (duas) mangueiras pig-tail de 1,00m de comprimento",
+          "fase": "FRACASSADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "44.116,80",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515339 REGULADOR DE CILINDRO DE GÁS BOTIJA45KG:kit para instalação do botijão de gás GLP P45, contendo: 1(um) registro regulador de gás 12kg/h, com prazo de validade não inferior a 5 (cinco) anos; 02 (duas) mangueiras pig-tail de 1,00m de comprimento, 2(duas) válvulas de retenção, 2 (dois) registros esféricos, 2 (dois) suporte de fixação, 1 (um) coletor de ferro, 2 (dois) cotovelos, 2 (dois) niple, 1 (um) conector metálico em formato tê, 1(uma) bucha de redução, 1 (um) manômetro.Características adicionais: suportar até 2 (dois) botijões p45 de 45kg cada. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "210,00",
+              "valor_referencia": "210,08"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-065-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "202 / 2026",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "PUBLICADO",
+      "condutor": "SERGIO CARNEIRO CAVALCANTI DE AZEVEDO",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO",
+      "publicacao": "13/04/2026 11:54",
+      "inicio_recepcao": "15/04/2026 08:30",
+      "fim_recepcao": "28/04/2026 09:15",
+      "inicio_disputa": "28/04/2026 09:30",
+      "objeto": "Contratação de empresa especializada em fornecimento de VEÍCULOS TIPO PICAPE CABINE DUPLA\n(bens permanentes), a fim de atender as demandas da Secretaria Municipal de Educação.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DednPJtzscEF65XMgHPALV_hjK91j0Ep6zpltSoPnT9Rlel%2FPIlDp7dbEF6kFxCutFvwxS2%2FDZ2VGn2U_m7%2Fd60lDrQLEruqD9AtS0LOmIxE%3D",
+      "total_lotes": 1,
+      "total_itens": 1,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "VEICULOS PICAPE CABINA DUPLA",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "73973900009 Veículo automotor zero quilômetro, tipo picapeleve/compacta:com cabine dupla, 4 portas, capacidade para 5(cinco) ocupantes incluindo o motorista. Ano defabricação/modelo 2026, combustível tipo flex (álcool/gasolina),motorização mínima de 1.3L (ou superior), potência mínima107cv. Tração 4x2, câmbio manual ou automático, com, nomínimo, 5 (cinco) marchas à frente (ou conforme tecnologiadisponível em câmbio automático), visando melhor desempenho,segurança e economia de combustível. Veículo dotado dedireção com assistência elétrica, sistema de freios com ABS eEBD (ou equivalente), airbag frontal para motorista e passageiro,cintos de segurança de 3 (três) pontos para todos os ocupantes(quando aplicável) e encostos de cabeça, atendendointegralmente às normas de segurança vigentes. Vidros elétricosnas portas dianteiras e traseiras, travas elétricas nas portas comtravamento central e acionamento por meio de comando internoe pela chave ou dispositivo equivalente. Sistema de arcondicionado frio/quente, com difusores frontais, adequado aoconforto térmico dos ocupantes, com comandos de fácil acessoao motorista. Carroceria com caçamba traseira aberta, comcapacidade de carga mínima de 600kg, dotada de protetor decaçamba (forração ou protetor em material plástico ou similar),capota marítima ou equivalente, ganchos ou pontos deamarração de carga conforme projeto do fabricante, permitindo otransporte de materiais leves, equipamentos, mobiliários depequeno porte, materiais pedagógicos e insumos administrativos.Sistema multimídia, no mínimo, conexão Bluetooth e rádio, altofalantes instalados, entrada USB ou equivalente, painel deinstrumentos com indicadores básicos (velocímetro, marcador decombustível, hodômetro, luzes de advertência) e computador debordo. Comando interno e elétricos para regulagem deretrovisores externos, desembaçador do vidro traseiro (quandoaplicável), limpador e lavador de para-brisa dianteiro comtemporizador. Equipado, no mínimo, com sensor deestacionamento traseiro e câmera de ré (admite-se um dos doisou ambos), faróis com regulagem de foco (manual ou elétrica,conforme projeto de fábrica), iluminação traseira completa, luz defreio elevada, aviso sonoro de faróis acesos e/ou portas abertas,conforme configuração de série. Bancos revestidos em courosintético de fábrica ou material similar, banco do motorista comajuste de distância e inclinação, porta-objetos distribuídos nopainel (VIDE ANEXO DO TERMO).",
+              "unidade": "UN",
+              "quantidade": "4,00",
+              "valor_referencia": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-064-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "269 / 2026",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "RECEPÇÃO DE PROPOSTAS",
+      "condutor": "JONATAS DA SILVA SOUSA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO PARCELADA",
+      "publicacao": "09/04/2026 16:49",
+      "inicio_recepcao": "13/04/2026 08:30",
+      "fim_recepcao": "24/04/2026 09:15",
+      "inicio_disputa": "24/04/2026 09:30",
+      "objeto": "Contratação de empresa especializada em fornecimento de DOCES (material de consumo), a fim de atender às demandas da Secretaria Municipal de Educação.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DNX4zxnjYYL8x_4_1SFzZWKHKYchQ27DePMxgN9y5yRXizJs3sc5hlSFUtE_O7_Q%2FzKSkCBusc3OQbN6qMdgFrw1V7axYtQTx4eE8XZmoeBQ%3D",
+      "total_lotes": 8,
+      "total_itens": 8,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "37141 Bombom tipo wafer recheado com creme de castanha de caju e cobertura de chocolate:Produto alimentício do tipo bombom à base de wafer crocante, com recheio cremoso sabor castanha de caju, coberto com chocolate ao leite ou similar, apresentando textur",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37141 Bombom tipo wafer recheado com creme de castanha de caju e cobertura de chocolate:Produto alimentício do tipo bombom à base de wafer crocante, com recheio cremoso sabor castanha de caju, coberto com chocolate ao leite ou similar, apresentando textura que combina crocância do wafer com cremosidade do recheio, sabor marcante e homogêneo, próprio para consumo humano. Deverá ser elaborado com ingredientes de boa qualidade, contendo, entre outros, derivados de trigo, leite e castanha de caju, podendo conter soja, amendoim e traços de glúten, conforme rotulagem do fabricante. Embalagem primária: bombons embalados individualmente, em invólucro apropriado para alimentos, íntegro, sem rasgos, furos ou sinais de violação. Embalagem secundária: pacote com peso líquido de 1 kg, devendo constar, a identificação clara do produto, marca, peso líquido, lote, data de fabricação e validade. Produto pronto para consumo, isento de corpos estranhos, sujidades, umidade excessiva, deformações acentuadas ou sinais de deterioração. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "PCT",
+              "quantidade": "120,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "2",
+          "titulo": "37142 Bombom tipo wafer recheado com creme de chocolate meio amargo e flocos de arroz, coberto com chocolate branco:Produto alimentício do tipo bombom wafer, composto por camadas de wafer crocante, recheio cremoso sabor chocolate meio amargo com flocos de",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37142 Bombom tipo wafer recheado com creme de chocolate meio amargo e flocos de arroz, coberto com chocolate branco:Produto alimentício do tipo bombom wafer, composto por camadas de wafer crocante, recheio cremoso sabor chocolate meio amargo com flocos de arroz e cobertura de chocolate branco, conferindo contraste de sabores e texturas, adequado ao consumo individual. Deverá apresentar textura crocante do wafer e dos flocos de arroz, combinada à cremosidade do recheio, sabor característico de chocolate meio amargo e chocolate branco, isento de odores ou sabores estranhos e de sinais de rancificação. Embalagem primária: unidades embaladas individualmente, em filme apropriado para contato com alimentos, íntegro e inviolado. Embalagem secundária: pacote ou caixa com peso líquido de 1 kg, com identificação do produto (bombom wafer recheado), marca, peso líquido, lote, data de fabricação, data de validade, lista de ingredientes, informação nutricional e advertências sobre alergênicos (trigo, leite, soja, amendoim, entre outros), bem como identificação do fabricante (nome/razão social e CNPJ) e registro no órgão competente. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "PCT",
+              "quantidade": "120,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "3",
+          "titulo": "9900515543 Bombom tipo wafer recheado com creme sabor chocolate ao leite, coberto com chocolate ao leite:Produto alimentício do tipo bombom chocolate, consistindo em wafer crocante com recheio cremoso sabor chocolate ao leite e cobertura externa também de",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515543 Bombom tipo wafer recheado com creme sabor chocolate ao leite, coberto com chocolate ao leite:Produto alimentício do tipo bombom chocolate, consistindo em wafer crocante com recheio cremoso sabor chocolate ao leite e cobertura externa também de chocolate ao leite, destinado ao consumo imediato. Produto deve apresentar cor, sabor e aroma característicos de chocolate, textura firme, sem grumos, sem sinais de umidade excessiva, deformação, esbranquiçamento (\"fat bloom\") acentuado ou qualquer indício de deterioração.Embalagem: bombons embalados individualmente, acondicionados em pacote com peso líquido de 1 kg, em material apropriado para alimentos, resistente e íntegro, contendo identificação do produto, marca, peso líquido, lote, data de fabricação, validade, informações nutricionais, lista de ingredientes e advertências sobre alergênicos, além do nome/razão social e CNPJ do fabricante e número de registro no órgão competente. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "PCT",
+              "quantidade": "120,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "4",
+          "titulo": "9900515544 Bala de goma tipo jujuba sortida em tubos:Produto alimentício do tipo bala de goma (jujuba) açucarada, macia, mastigável, em sabores sortidos de frutas (como morango, uva, laranja, limão, abacaxi ou similares), acondicionada em tubos plásticos",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515544 Bala de goma tipo jujuba sortida em tubos:Produto alimentício do tipo bala de goma (jujuba) açucarada, macia, mastigável, em sabores sortidos de frutas (como morango, uva, laranja, limão, abacaxi ou similares), acondicionada em tubos plásticos individuais, própria para consumo humano. Deverá apresentar textura macia, não excessivamente pegajosa, sem cristalização exagerada de açúcar na superfície, isenta de sujidades, corpos estranhos, odor e sabor estranhos ou sinais de fermentação. Embalagem: tubo com no mínimo 8 unidades de jujubas, com peso aproximado de 30 g a 35 g cada tubo, acondicionado em caixa com 30 tubos por caixa, devendo constar na rotulagem a identificação do produto (bala de goma tipo jujuba), sabor sortido, peso, lote, data de fabricação, prazo de validade, lista de ingredientes, informação nutricional, advertências sobre alergênicos e presença/ausência de glúten, além do nome/razão social e CNPJ do fabricante. EXCLUSIVOPARA ME/EPP.",
+              "unidade": "CX",
+              "quantidade": "100,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "5",
+          "titulo": "9900515545 Bala de goma tipo jujuba sabor iogurte em tubos:Produto alimentício do tipo bala de goma (jujuba), macia, mastigável, com sabores sortidos inspirados em iogurte de frutas (como morango, uva, pêssego ou similares), apresentando textura suave e a",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515545 Bala de goma tipo jujuba sabor iogurte em tubos:Produto alimentício do tipo bala de goma (jujuba), macia, mastigável, com sabores sortidos inspirados em iogurte de frutas (como morango, uva, pêssego ou similares), apresentando textura suave e aroma característico de iogurte, acondicionada em tubos plásticos individuais. Deverá ser elaborada com ingredientes próprios para consumo humano, apresentando cores e formatos compatíveis com a categoria, sem presença de corpos estranhos, sujidades, deformações excessivas ou sinais de deterioração. Embalagem: tubo com no mínimo 8 unidades de jujubas, com peso aproximado de 30 g a 35 g cada tubo, acondicionado em caixa com 30 tubos por caixa, com rotulagem contendo denominação do produto (bala de goma sabor iogurte), sabores, peso, lote, data de fabricação, prazo de validade, lista de ingredientes, informação nutricional, advertências sobre alergênicos e identificação completa do fabricante (nome/razão social, CNPJ e endereço), e registro no órgão competente.EXCLUSIVO PARA ME/EPP.",
+              "unidade": "CX",
+              "quantidade": "100,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "6",
+          "titulo": "9900515546 Bala de café:Produto alimentício do tipo bala dura ou mastigável, sabor café, com aroma e sabor característicos de café torrado, própria para consumo humano, destinada à oferta em eventos, reuniões e ações institucionais. Deverá apresentar text",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515546 Bala de café:Produto alimentício do tipo bala dura ou mastigável, sabor café, com aroma e sabor característicos de café torrado, própria para consumo humano, destinada à oferta em eventos, reuniões e ações institucionais. Deverá apresentar textura uniforme (dura ou levemente mastigável, conforme o tipo), sem rachaduras excessivas, sem cristais de açúcar soltos em demasia, isenta de corpos estranhos, sujidades, umidade excessiva, deformações anormais ou odor e sabor estranhos.Embalagem: balas embaladas individualmente, acondicionadas em pacote com peso líquido mínimo de 500g, em material apropriado para contato com alimentos, íntegro e inviolado, com identificação do produto (bala de café), marca, peso líquido, lote, data de fabricação, prazo de validade, lista de ingredientes, informação nutricional e advertências sobre alergênicos, além dos dados do fabricante (nome/razão social, CNPJ) e registro no órgão competente. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "PCT",
+              "quantidade": "100,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "7",
+          "titulo": "37143 Bala sortida de sabores:Produto alimentício do tipo bala (dura ou mastigável), com sabores sortidos de frutas e/ou outros sabores usuais (tais como menta, tutti-frutti, caramelo, entre outros), própria para consumo humano em eventos e reuniões insti",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37143 Bala sortida de sabores:Produto alimentício do tipo bala (dura ou mastigável), com sabores sortidos de frutas e/ou outros sabores usuais (tais como menta, tutti-frutti, caramelo, entre outros), própria para consumo humano em eventos e reuniões institucionais. Deverá apresentar textura adequada ao tipo (dura ou mastigável), cor e aroma compatíveis com os sabores declarados, isenta de sujidades, corpos estranhos, deformações excessivas, umidade anormal ou sinais de deterioração.Embalagem: balas embaladas individualmente, acondicionadas em pacote com peso líquido mínimo de 500g, devendo a embalagem conter, de forma clara e legível, a identificação do produto (bala sortida), marca, peso líquido, lote, data de fabricação, validade, lista de ingredientes, informação nutricional, advertências sobre alergênicos, identificação do fabricante (nome/razão social, CNPJ e endereço) e, quando aplicável, registro no órgão competente. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "PCT",
+              "quantidade": "100,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "8",
+          "titulo": "9900515547 Bala sabor morango:Produto alimentício do tipo bala (dura ou mastigável), sabor morango, com cor, aroma e sabor característicos da fruta, própria para consumo humano. Deverá apresentar textura homogênea, sem rachaduras ou deformações exageradas",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515547 Bala sabor morango:Produto alimentício do tipo bala (dura ou mastigável), sabor morango, com cor, aroma e sabor característicos da fruta, própria para consumo humano. Deverá apresentar textura homogênea, sem rachaduras ou deformações exageradas, isenta de sujidades, corpos estranhos, umidade excessiva ou sinais de deterioração. Embalagem: balas embaladas individualmente, acondicionadas em pacote com peso líquido mínimo de 500g, devendo o rótulo conter a denominação do produto (bala sabor morango), marca, peso líquido, lote, data de fabricação, prazo de validade, lista de ingredientes, informação nutricional, advertências sobre alergênicos, identificação do fabricante (nome/razão social, CNPJ) e, quando exigido, registro no órgão competente.EXCLUSIVO PARA ME/EPP.",
+              "unidade": "PCT",
+              "quantidade": "100,00",
+              "valor_referencia": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-056-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "132/2026",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "RECEPÇÃO DE PROPOSTAS",
+      "condutor": "JONATAS DA SILVA SOUSA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "REGISTRO DE PREÇO",
+      "publicacao": "09/04/2026 15:19",
+      "inicio_recepcao": "13/04/2026 08:30",
+      "fim_recepcao": "24/04/2026 08:15",
+      "inicio_disputa": "24/04/2026 08:30",
+      "objeto": "A Contratação de empresa especializada em FORNECIMENTO DE ESQUADRIAS DE MADEIRA, DE ALUMÍNIO E ACESSÓRIOS,  a fim de atender as demandas da Secretaria Municipal de Infraestrutura e Serviços Urbanos.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DiXJIg9NsNhcBTTYI93hVTysT4ih1y4mQ_9yQvtj69r7iu1wgxCgkZ2e6pCEBWirETRk_ZfPmFLePd180NGDSd73bZg2qgnQf7cfXH8ZQV%2FY%3D",
+      "total_lotes": 1,
+      "total_itens": 38,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "ESQUADRIAS DE MADEIRA",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 38,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "5502000001 FECHADURA PARA PORTA EXTERNA PADRAO MÉDIO:FECHADURA PARA PORTA EXTERNA PADRAO MÉDIO",
+              "unidade": "UND",
+              "quantidade": "280,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "2",
+              "especificacao": "5502000002 FECHADURA PARA PORTA DE BANHEIRO PADRAO MÉDIO:FECHADURA PARA PORTA DE BANHEIRO PADRAO MÉDIO",
+              "unidade": "UND",
+              "quantidade": "120,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "3",
+              "especificacao": "5502000003 FECHADURA PARA PORTA EXTERNA CHAVE TETRA::FECHADURA PARA PORTA EXTERNA CHAVE TETRA",
+              "unidade": "UND",
+              "quantidade": "70,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "4",
+              "especificacao": "5502000004 FECHADURA EXTERNA DE SOBREPOR P/ PORTÃO CHAVE TETRA:FECHADURA EXTERNA DE SOBREPOR P/ PORTÃO CHAVE TETRA",
+              "unidade": "UND",
+              "quantidade": "90,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "5",
+              "especificacao": "5502000005 JANELA DUPLA DE MADEIRA DO TIPO ALMOFADA 1,20X1,10 M:JANELA DUPLA DE MADEIRA DO TIPO ALMOFADA 1,20X1,10 M.",
+              "unidade": "UND",
+              "quantidade": "40,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "6",
+              "especificacao": "5502000006 JANELA DUPLA DE MADEIRA DO TIPO ALMOFADA 1,60X1,10 M:JANELA DUPLA DE MADEIRA DO TIPO ALMOFADA 1,60X1,10 M.",
+              "unidade": "UND",
+              "quantidade": "20,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "7",
+              "especificacao": "5502000007 JANELA MAXIAR DE ALUMINIO 0,60X0,50 COM VIDRO:JANELA MAXIAR DE ALUMINIO 0,60X0,50 COM VIDRO",
+              "unidade": "UND",
+              "quantidade": "20,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "8",
+              "especificacao": "5502000008 JANELA SIMPLES DE MADEIRA DO TIPO ALMOFADA 0,80X1,10M:JANELA SIMPLES DE MADEIRA DO TIPO ALMOFADA 0,80X1,10M.",
+              "unidade": "UND",
+              "quantidade": "32,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "9",
+              "especificacao": "5502000009 JANELA SIMPLES DE MADEIRA DO TIPO ALMOFADA 1,00X1,10 M:JANELA SIMPLES DE MADEIRA DO TIPO ALMOFADA 1,00X1,10 M.",
+              "unidade": "UND",
+              "quantidade": "22,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "10",
+              "especificacao": "5502000010 KIT DE DOBRADIÇA PARA JANELA 2. 1/2 COM 2 UNIDADES:KIT DE DOBRADIÇA PARA JANELA 2.1/2 COM 2 UNIDADES",
+              "unidade": "UND",
+              "quantidade": "110,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "11",
+              "especificacao": "5502000011 KIT DE DOBRADIÇA PARA PORTA 2.1/2, COM 3 UNIDADES:KIT DE DOBRADIÇA PARA PORTA 2.1/2, COM 3 UNIDADES",
+              "unidade": "UND",
+              "quantidade": "180,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "12",
+              "especificacao": "5502000012 KIT DE DOBRADIÇA PARA PORTA 3.1/2, COM 3 UNIDADES:KIT DE DOBRADIÇA PARA PORTA 3.1/2, COM 3 UNIDADES",
+              "unidade": "UND",
+              "quantidade": "320,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "13",
+              "especificacao": "5502000013 PORTA DE MADEIRA MISTA DO TIPO ALMOFADA 0,60X2,10 M:PORTA DE MADEIRA MISTA DO TIPO ALMOFADA 0,60X2,10 M",
+              "unidade": "UND",
+              "quantidade": "54,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "14",
+              "especificacao": "5502000014 PORTA DE MADEIRA MISTA DO TIPO ALMOFADA 0,70X2,10 M:PORTA DE MADEIRA MISTA DO TIPO ALMOFADA 0,70X2,10 M",
+              "unidade": "UND",
+              "quantidade": "52,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "15",
+              "especificacao": "5502000015 PORTA DE MADEIRA MISTA DO TIPO ALMOFADA 0,80X2,10 M:PORTA DE MADEIRA MISTA DO TIPO ALMOFADA 0,80X2,10 M",
+              "unidade": "UND",
+              "quantidade": "145,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "16",
+              "especificacao": "5502000016 PORTA DE MADEIRA MISTA DO TIPO ALMOFADA 0,90X2,10 M:PORTA DE MADEIRA MISTA DO TIPO ALMOFADA 0,90X2,10 M",
+              "unidade": "UND",
+              "quantidade": "123,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "17",
+              "especificacao": "5502000017 PORTA DE MADEIRA MISTA DO TIPO SEMIOCA0,60X2,10 M:PORTA DE MADEIRA MISTA DO TIPO SEMI OCA0,60X2,10 M",
+              "unidade": "UND",
+              "quantidade": "85,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "18",
+              "especificacao": "5502000018 PORTA DE MADEIRA MISTA DO TIPO SEMIOCA0,70X2,10 M:PORTA DE MADEIRA MISTA DO TIPO SEMI OCA0,70X2,10 M",
+              "unidade": "UND",
+              "quantidade": "70,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "19",
+              "especificacao": "5502000019 PORTA DE MADEIRA MISTA DO TIPO SEMIOCA 0,80X2,10 M:PORTA DE MADEIRA MISTA DO TIPO SEMI OCA0,80X2,10 M",
+              "unidade": "UND",
+              "quantidade": "128,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "20",
+              "especificacao": "5502000020 PORTA DE MADEIRA MISTA DO TIPO SEMIOCA0,90X2,10 M:PORTA DE MADEIRA MISTA DO TIPO SEMI OCA0,90X2,10 M",
+              "unidade": "UND",
+              "quantidade": "74,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "21",
+              "especificacao": "5502000021 PORTA DE MADEIRA MISTA DO TIPO SEMI OCA1,00X2,10 M:PORTA VENEZIANA DE ALUMINIO 0,60X2,10 M",
+              "unidade": "UND",
+              "quantidade": "66,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "22",
+              "especificacao": "5502000022 PORTA VENEZIANA DE ALUMINIO 0,60X2,10 M:PORTA VENEZIANA DE ALUMINIO 0,60X2,10 M",
+              "unidade": "UND",
+              "quantidade": "20,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "23",
+              "especificacao": "5502000023 PORTA VENEZIANA DE ALUMINIO 0,70X2,10 M COMPLETA:PORTA VENEZIANA DE ALUMINIO 0,70X2,10 M COMPLETA",
+              "unidade": "UND",
+              "quantidade": "20,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "24",
+              "especificacao": "5502000024 PORTA VENEZIANA DE ALUMINIO 0,80X2,10 M:PORTA VENEZIANA DE ALUMINIO 0,80X2,10 M",
+              "unidade": "UND",
+              "quantidade": "40,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "25",
+              "especificacao": "5502000025 PORTA VENEZIANA DE ALUMINIO 0,90X2,10 M:PORTA VENEZIANA DE ALUMINIO 0,90X2,10 M",
+              "unidade": "UND",
+              "quantidade": "30,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "26",
+              "especificacao": "5502000026 PORTA VENEZIANA DE ALUMÍNIO 1,00X2,10 M:PORTA VENEZIANA DE ALUMÍNIO 1,00X2,10 M",
+              "unidade": "UND",
+              "quantidade": "20,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "27",
+              "especificacao": "5502000027 PORTA VENEZIANA DE ALUMÍNIO DUPLA2,00X2,10 M:PORTA VENEZIANA DE ALUMÍNIO DUPLA2,00X2,10 M",
+              "unidade": "UND",
+              "quantidade": "20,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "28",
+              "especificacao": "5502000028 TRINCO FERROLHO:REDONDO AÇO ZINCADO2",
+              "unidade": "UND",
+              "quantidade": "260,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "29",
+              "especificacao": "5502000029 TRINCO FERROLHO:REDONDO AÇO ZINCADO3",
+              "unidade": "UND",
+              "quantidade": "320,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "30",
+              "especificacao": "5502000030 TRINCO FERROLHO:REDONDO AÇO ZINCADO4",
+              "unidade": "UND",
+              "quantidade": "120,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "31",
+              "especificacao": "5502000031 TRINCO FERROLHO:CHATO P/ CADEADO AÇO ZINCADO 3",
+              "unidade": "UND",
+              "quantidade": "230,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "32",
+              "especificacao": "5502000032 PORTA CADEADO:ZINCADO COM TRAVA PARA PORTÃO E PORTA 2.1/2",
+              "unidade": "UND",
+              "quantidade": "250,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "33",
+              "especificacao": "5502000033 CADEADO:20MM",
+              "unidade": "UND",
+              "quantidade": "160,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "34",
+              "especificacao": "5502000034 CADEADO:25MM",
+              "unidade": "UND",
+              "quantidade": "180,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "35",
+              "especificacao": "5502000035 CADEADO:30MM",
+              "unidade": "UND",
+              "quantidade": "235,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "36",
+              "especificacao": "5502000036 CADEADO:40MM",
+              "unidade": "UND",
+              "quantidade": "270,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "37",
+              "especificacao": "5502000037 CADEADO:50MM",
+              "unidade": "UND",
+              "quantidade": "255,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "38",
+              "especificacao": "5502000038 CADEADO:60MM",
+              "unidade": "UND",
+              "quantidade": "226,00",
+              "valor_referencia": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2-DLE-034-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "321/2026",
+      "modalidade": "DISPENSA ELETRÔNICA",
+      "situacao": "JULGAMENTO",
+      "condutor": "ISLA LIMA SILVA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO",
+      "publicacao": "07/04/2026 17:30",
+      "inicio_recepcao": "07/04/2026 17:35",
+      "fim_recepcao": "13/04/2026 08:15",
+      "inicio_disputa": "13/04/2026 08:30",
+      "objeto": "Contratação de empresa especializada em fornecimento de BANHEIROS QUÍMICOS (material permanente), cujas especificações técnicas, quantidades e demais condições encontram-se detalhadas neste instrumento, a fim de atender as demandas da Secretaria Municipal de Administração.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5Dsm5DkLxWGjhB1Yu2uNoXMJPTTS4z6wdKm%2Fy4F_iBPFKbsWvFfxcPHrHQOHPfczf3e7EY%2F_t_H6P%2Fnj9oevhewo8fbkjgh5rOCDPVk8%2FIRRo%3D",
+      "total_lotes": 1,
+      "total_itens": 1,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "BANHEIROS QUÍMICOS",
+          "fase": "JULGAMENTO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "25.258,02",
+          "vencedor": "RF PRODUÇÕES E EVENTOS LTDA",
+          "melhor_oferta": "21.600,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37179 BANHEIROS QUÍMICOS:individuais portáteis com tetotranslúcido composto com caixa de dejeto com assento, mictório,porta papel higiênico (devidamente abastecidos) e fechamentode identificação OCUPADO/ DESOCUPADO e indicação demasculinos, femininos, para público e bandas (camarins), commedidas mínimas de altura: 2,15 m largura: 1,78 m comprimento:2,18 m, com ponto de ventilação natural. EXCLUSIVO PARAME/EPP.",
+              "unidade": "UN",
+              "quantidade": "6,00",
+              "valor_referencia": "4.209,67"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "PE-052-2026",
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "190/2026",
       "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "PUBLICADO",
+      "situacao": "RECEPÇÃO DE PROPOSTAS",
       "condutor": "SERGIO CARNEIRO CAVALCANTI DE AZEVEDO",
       "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
       "tipo_contrato": "REGISTRO DE PREÇO",
@@ -262460,14 +263144,14 @@
       "fim_recepcao": "27/04/2026 09:15",
       "inicio_disputa": "27/04/2026 09:30",
       "objeto": "Contratação de empresa especializada em fornecimento de MATERIAIS DE ARMARINHO (material de consumo),  a fim de atender às demandas da Secretaria Municipal de Administração e demais secretarias.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DqCnAM5B0tgvV%2F5IZyE9UfaJUr6NttyhDK_JCFAv4dJEye1wzpaBaTJ49gINiNNcAztuhellORZKSKWXsoU%2FDI0FyEe3_x39DteIVvKyUJK4%3D",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DqQjPw3RYNv0Hp7Jv4O1bmOO6f9oclBG2aJEwti_a3XUOWfR0lyCbKdlsvv2_drC06M9vjrOwRI8iGUkia8UsmzfyikHeGj241aDsuMQLqy4%3D",
       "total_lotes": 1,
       "total_itens": 195,
       "lotes": [
         {
           "numero": "1",
           "titulo": "MATERIAIS DE ARMARINHO",
-          "fase": "PUBLICADO",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -263853,7 +264537,7 @@
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "249 / 2026",
       "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "PUBLICADO",
+      "situacao": "RECEPÇÃO DE PROPOSTAS",
       "condutor": "SERGIO CARNEIRO CAVALCANTI DE AZEVEDO",
       "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
       "tipo_contrato": "AQUISIÇÃO PARCELADA",
@@ -263862,14 +264546,14 @@
       "fim_recepcao": "29/04/2026 09:45",
       "inicio_disputa": "29/04/2026 10:00",
       "objeto": "Contratação de empresa especializada em prestação de serviço de LOCAÇÃO DE SISTEMA DIGITAL DE RADIOCOMUNICAÇÃO, COM FORNECIMENTO DE EQUIPAMENTOS E SUPORTE TÉCNICO, a fim de atender às demandas da Secretaria Municipal de Saúde.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DMDGyiHlApmHtSAJwcMm5GJ9AIFxxds5DOgxKTJT%2F4%2FuhuMd5zBSbyuP4gi3TlMXILdW05lTPInkkY0caiMo6bCZerRjUw82XYlvwUDiJMJ8%3D",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DWw%2FbxzqBpHeyICUtCPdyXbCKwwJUSpnJiMUkrfc7KSSQsA8BcfBwARL6YJVtOO0yMObMS4G%2FJ8zEwsTyskLwPBeXF9HiMjODF1cadGGoLDQ%3D",
       "total_lotes": 1,
       "total_itens": 6,
       "lotes": [
         {
           "numero": "1",
           "titulo": "RADIOCOMUNICAÇÃO",
-          "fase": "PUBLICADO",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -263932,7 +264616,7 @@
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "169/2026",
       "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "PUBLICADO",
+      "situacao": "RECEPÇÃO DE PROPOSTAS",
       "condutor": "SERGIO CARNEIRO CAVALCANTI DE AZEVEDO",
       "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
       "tipo_contrato": "AQUISIÇÃO",
@@ -263941,14 +264625,14 @@
       "fim_recepcao": "29/04/2026 08:15",
       "inicio_disputa": "29/04/2026 08:30",
       "objeto": "Contratação de empresa especializada em prestação de serviços de gerenciamento de SEGUROS PARA VEÍCULOS PERTENCENTES à FROTA MUNICIPAL, a fim de atender às demandas da Secretaria Municipal de Administração e demais secretarias.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5D3EA8D1I0ouLz3r9sJnWqrHeVhLLxMjsBEjxMfHcQ_5eZvJExGPjdW6rSGzcoS_L1OeIfd4FOXgx1op%2Fj5F5FduKkc13YpWYmj1ICYCuohlY%3D",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DO51f2tApJ5cK08HawoUVY3u8wGEgFaGd%2FeCcg1aoKq0yXUSk1rNYpGYl8Azc6BVjgvoQMFDZBuEaZGFrAZXd5cym2Qt8NR%2FjAVlXZzvjiDw%3D",
       "total_lotes": 1,
       "total_itens": 115,
       "lotes": [
         {
           "numero": "1",
           "titulo": "SEGURO VEICULAR",
-          "fase": "PUBLICADO",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -264770,984 +265454,300 @@
       ]
     },
     {
-      "id": "PE-054-2026",
+      "id": "PE-057-2026",
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "232/2026",
+      "numero_adm": "326/2026",
       "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "RECEPÇÃO DE PROPOSTAS",
-      "condutor": "SERGIO CARNEIRO CAVALCANTI DE AZEVEDO",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO PARCELADA",
-      "publicacao": "08/04/2026 17:16",
-      "inicio_recepcao": "10/04/2026 08:30",
-      "fim_recepcao": "23/04/2026 08:15",
-      "inicio_disputa": "23/04/2026 08:30",
-      "objeto": "Contratação de empresa especializada em fornecimento de PLAQUETAS PATRIMONIAIS (material de consumo), a fim de atender as demandas da Secretaria Municipal de Administração e demais secretarias.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DheiP1vt4s_K7B0IQ6kxgYdNUmao7cvEwSOkat0GMvntkiCwE0a1_DuCIsTLE9x6rYqhHj4lBrQo9T74LdO7S3XM4LmOvZqdehG%2FNwphMZ24%3D",
-      "total_lotes": 1,
-      "total_itens": 1,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "PLAQUETA PATRIMONIAL",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900515365 Plaqueta de identificação patrimonial em alumínioanodizado, formato 50x20mm (5 cm x 2 cm):espessuraaproximada entre 0,15mm e 0,30mm, com acabamentoresistente à abrasão, umidade e produtos de limpeza; alumíniode alta qualidade, rígido ou semi-flexível, com cantos retos oulevemente arredondados, sem rebarbas ou arestas cortantes,garantindo segurança no manuseio; superfície tratada(anodização ou similar) para assegurar alta durabilidade damarcação, mantendo a legibilidade das informações ao longo dotempo; impressão em alto contraste, em 1 ou 2 cores, contendo,no mínimo, identificação do ente/órgão público, a expressão\"Patrimônio\", numeração sequencial individualizada para cadaplaqueta e área destinada a código de barras ou QR Code,possibilitando leitura óptica e integração com sistemainformatizado de controle patrimonial; numeração sequencialproduzida sem falhas, sem repetições e sem quebras indevidas,conforme faixa fornecida pelo setor de patrimônio; fixação pormeio de adesivo dupla face de alta aderência (tipo 3M ouequivalente), aplicado em toda a face posterior da plaqueta,adequado para superfícies lisas de metal, plástico ou madeira,garantindo forte aderência e resistência ao descolamento emambiente interno, dispensando uso de parafusos ou rebites;material apropriado para aplicação em computadores,impressoras, mobiliários, eletrodomésticos, equipamentospedagógicos e demais bens permanentes, resistindo àmanipulação cotidiana e à limpeza com panos úmidos e produtosneutros; fornecimento com layout personalizado, respeitandopadrão institucional; as plaquetas deverão ser entreguesdevidamente numeradas, organizadas em sequência lógica,acondicionadas em embalagens que evitem riscos, amassados edanos à impressão, acompanhadas de relação em meio físico e,preferencialmente, arquivo digital contendo a numeraçãoproduzida, para auxiliar no registro e lançamento no sistema decontrole patrimonial, em conformidade com práticas usualmenteadotadas em termos de referência e contratações públicas deplaquetas patrimoniais em alumínio. EXCLUSIVO PARAME/EPP.",
-              "unidade": "UN",
-              "quantidade": "15.000,00",
-              "valor_referencia": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "PE-050-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "126/2026",
-      "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "RECEPÇÃO DE PROPOSTAS",
-      "condutor": "JONATAS DA SILVA SOUSA",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO",
-      "publicacao": "08/04/2026 17:12",
-      "inicio_recepcao": "10/04/2026 08:30",
-      "fim_recepcao": "27/04/2026 08:15",
-      "inicio_disputa": "27/04/2026 08:30",
-      "objeto": "Contratação de empresa especializada em prestação de serviço de LEVANTAMENTO TOPOGRÁFICO PLANIALTIMÉTRICO PARA REALIZAÇÃO DE GEORREFERENCIAMENTO DE ROTAS ESCOLARES, a fim de atender as demandas da Secretaria Municipal de Educação.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5D203jaPyfXVXmDEuoRihXV0eCeDdGbuEvsnrpDTHSwJfEy2UAWor0wIH%2FIfGFDq81jf0yYiqldgRxfh8u1KGo3aBdwUVYS8gx2FvOzAPDyCM%3D",
-      "total_lotes": 1,
-      "total_itens": 1,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "GEORREFERENCIAMENTO",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9903311812 Serviço de levantamento topográfico planialtimétricoe georreferenciamento completo das rotas escolares domunicípio:abrangendo visitas de campo, coleta de dados porreceptores GNSS/GPS de alta precisão, medição de distânciasreais considerando curvas, declividades e vias vicinais,identificação de pontos notáveis e condicionantes geográficos,compatibilização com a malha viária oficial e geração de basegeoespacial em formato digital (shapefile, geojson ouequivalente), com elaboração de mapeamento cartográfico digitalconsolidado, contendo todas as rotas levantadas, pontos deembarque e desembarque, localização das escolas atendidas,delimitação das zonas urbana e rural, vias de acesso, pontoscríticos (aclives, declives, travessias e estradas nãopavimentadas), representação sobre malha viária real, geraçãode plantas em escala adequada e integração dos dados aoSistema de Informações Geográficas (SIG), acompanhada derelatório técnico detalhado, memorial descritivo e plantageorreferenciada das rotas escolares.",
-              "unidade": "KM",
-              "quantidade": "4.800,00",
-              "valor_referencia": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "2-DLE-031-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "240/2026",
-      "modalidade": "DISPENSA ELETRÔNICA",
       "situacao": "JULGAMENTO",
-      "condutor": "ISAQUE SILVA DOS SANTOS",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO",
-      "publicacao": "02/04/2026 17:54",
-      "inicio_recepcao": "02/04/2026 18:05",
-      "fim_recepcao": "10/04/2026 08:15",
-      "inicio_disputa": "10/04/2026 08:30",
-      "objeto": "Contratação de empresa especializada em fornecimento de [TELAS MOSQUITEIRAS PARA JANELAS E BASCULANTES]\n(material de consumo), a fim de atender às necessidades da Secretaria Municipal de Administração.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5D2W57ppXq3o6zKhPsJoiuNYula3vi04HyJPsyYWFx92UxDL4g5ljEb52D0vLW%2FngMGD45GknLLPdycZqZHNRQM5z0v1a3CJ_IKSweJNGr_ME%3D",
-      "total_lotes": 1,
-      "total_itens": 1,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "TELA MOSQUISTEIRA",
-          "fase": "JULGAMENTO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "8.019,60",
-          "vencedor": "PANIFICADORA E MINIMERCADO VICTOR LTDA",
-          "melhor_oferta": "8.000,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900515461 Tela mosquiteira em fibra de vidro revestida emPVC:cor cinza, fornecida em rolo com largura nominal de 1,20m e comprimento de 50 m, totalizando aproximadamente 60m² por rolo, com malha fina tipo 18 x 16 fios por polegada ouequivalente. Adequada para proteção contra insetos, vetorese pragas urbanas, permitindo ampla circulação de ar epassagem de luz natural, sem comprometer a luminosidadedo ambiente.Produto antialérgico, inodoro, lavável com águae detergente neutro, de fácil corte e instalação, que não desfianas bordas, não resseca, não rasga com facilidade, resistentea raios UV, intempéries, umidade e fungos, com característicade nãopropagação de chamas e alta durabilidade em usocontínuo. Destinada à instalação em janelas, portas,basculantes e demais aberturas de cozinhas, despensas eáreas de preparo e armazenamento de alimentos dasunidades escolares da rede municipal, para confecção demódulos fixos ou removíveis pelas equipes internas demarcenaria e serralheria da Secretaria Municipal deEducação, em conformidade com as exigências sanitáriaspara barreiras físicas e com especificações técnicasUsualmente adotadas em contratações públicas. EXCLUSIVOPARA ME/EPP.",
-              "unidade": "ROL",
-              "quantidade": "30,00",
-              "valor_referencia": "267,32"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "PE-053-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "309/2026",
-      "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "HABILITAÇÃO",
-      "condutor": "DAVIDSON ARAUJO SANTOS",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO PARCELADA",
-      "publicacao": "24/03/2026 21:21",
-      "inicio_recepcao": "25/03/2026 08:00",
-      "fim_recepcao": "10/04/2026 08:15",
-      "inicio_disputa": "16/04/2026 08:10",
-      "objeto": "Contratação de empresa especializada em serviços de engenharia para o fornecimento de bancas em estruturas metálicas (bancas de frutas e verduras), no município de Teixeira de Freitas – BA.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DqvoFhFdvcXK9QPx8y7w5dN3WNEETmw1Ei9DkegJeHW2JiWf4NCAAMZlYcwJOKk_CkSovHrUeeAiUHcWcc%2FzmLQZpnAjxL3N0bSVlssa3dF0%3D",
-      "total_lotes": 1,
-      "total_itens": 1,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "SERVIÇOS DE ENGENHARIA PARA O FORNECIMENTO DE BANCAS EM ESTRUTURAS METÁLICAS (BANCAS DE FRUTAS E VERDURAS)",
-          "fase": "HABILITAÇÃO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "1.000,00",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "1.200.887,10",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "BANCA EM ESTRUTURA METÁLICA",
-              "unidade": "UNID.",
-              "quantidade": "1,00",
-              "valor_referencia": "1.200.887,10"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "PE-048-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "229/2026",
-      "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "HOMOLOGADO",
-      "condutor": "JONATAS DA SILVA SOUSA",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO PARCELADA",
-      "publicacao": "19/03/2026 17:45",
-      "inicio_recepcao": "23/03/2026 08:30",
-      "fim_recepcao": "06/04/2026 08:15",
-      "inicio_disputa": "06/04/2026 08:30",
-      "objeto": "Contratação de empresa especializada em prestação de serviços de IMPRESSÃO GRÁFICA DE AVALIAÇÕES, a fim de atender as demandas da Secretaria Municipal de Educação.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DaQC6ahbMnQh0S3NiD8Bsn6BfpNkn3pvicDX07EILlEwTOsUX1CuAPPKQ7sDhLsRohXx%2FLO_ydPRJGXcinLazfvrc2%2FRr1LjuDQcXQyi0ic0%3D",
-      "total_lotes": 1,
-      "total_itens": 1,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "IMPRESSÃO GRÁFICA",
-          "fase": "HOMOLOGADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "195.000,00",
-          "vencedor": "GERALDO BRAGA MIRANDA LTDA",
-          "melhor_oferta": "91.000,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "103200003 Serviço de impressão de folhas destinadas àaplicação das avaliações do Compromisso Nacional CriançaAlfabetizada (CNCA) na rede municipal deensino:compreendendo a impressão por folha, em papeltamanho A4 (210mm x 297mm), em papel offset branco alcalinode alta qualidade, gramatura de 75g/m², alta alvura e opacidadeadequada para evitar transparência de impressão entre frente everso, impressão offset ou digital em alta resolução (mínimo2400 dpi), tiragem em 1/1 cor, conforme artes finais fornecidaspela Secretaria Municipal de Educação, com registro fiel detextos, figuras, quadros e campos de resposta conforme matrizavaliativa oficial do CNCA. Inclui ainda serviços correlatos decorte em guilhotina com tolerância máxima de ± 1mm,acondicionamento das folhas em maços padronizados (porexemplo, 250, 500 ou 1.000 folhas) embalados em papel kraft oufilme plástico resistente, com etiqueta de identificação contendo,identificação do ciclo/etapa da avaliação, série/ano, disciplina,número do lote e quantidade de folhas, bem como a logística deentrega fracionada nas unidades escolares e/ou no depósitocentral da Secretaria, conforme cronograma oficial do CNCA,respeitando a urgência do calendário nacional e a necessidadede pronta disponibilidade do material nas escolas.",
-              "unidade": "UN",
-              "quantidade": "1.300.000,00",
-              "valor_referencia": "0,15"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "PE-046-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "210/2026",
-      "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "HOMOLOGADO",
       "condutor": "SERGIO CARNEIRO CAVALCANTI DE AZEVEDO",
       "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
       "tipo_contrato": "REGISTRO DE PREÇO",
-      "publicacao": "17/03/2026 16:37",
-      "inicio_recepcao": "19/03/2026 00:00",
-      "fim_recepcao": "31/03/2026 13:45",
-      "inicio_disputa": "31/03/2026 14:00",
-      "objeto": "Contratação de empresa especializada em fornecimento de KIT LANCHE PRONTO (material de consumo),  a fim de atender as demandas da Secretaria Municipal de Administração e demais Secretarias.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5Dp%2FPWFwaH3xzNAPEucn7zDcvvBpgkJ1sJBj%2FSO0KtiK1tbWbC5DjbqxXcYvQcIab7Urr0KfkXXI2vQafPLH1xe9MzdGL9S7jZFH2BsFRVGoA%3D",
+      "publicacao": "30/03/2026 18:46",
+      "inicio_recepcao": "01/04/2026 08:30",
+      "fim_recepcao": "14/04/2026 08:15",
+      "inicio_disputa": "14/04/2026 08:30",
+      "objeto": "Contratação de empresa especializada em fornecimento de MATERIAL ASFÁLTICO DO TIPO CONCRETO BETUMINOSO USINADO A QUENTE (CBUQ), preparado com agregados pétreos e cimento asfáltico de petróleo – CAP 50/70, para aplicação a frio (material de consumo), a fim de atender as demandas da Secretaria Municipal de Infraestrutura e Serviços Urbanos.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5D2wr4UjL09UpNCaTaAkwo1IUMd2419enufYuDCWjTHgjMsk%2F3S6vB7VJHEMC8LAZY0wEHiALrrjsu3Kt_K6LUEa10BhbPK3GN5V_AX3jiO8g%3D",
       "total_lotes": 1,
-      "total_itens": 8,
+      "total_itens": 1,
       "lotes": [
         {
           "numero": "1",
-          "titulo": "LOTE 1",
-          "fase": "HOMOLOGADO",
+          "titulo": "MATERIAL ASFÁLTICO",
+          "fase": "JULGAMENTO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,00",
           "exclusivo_me": "NÃO",
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
-          "valor_referencia": "517.920,00",
-          "vencedor": "COUTO RESTAURANTE LTDA",
-          "melhor_oferta": "514.600,00",
-          "total_itens": 8,
+          "valor_referencia": "600.900,00",
+          "vencedor": "STONE ASFALTO RAPIDO LTDA",
+          "melhor_oferta": "389.800,00",
+          "total_itens": 1,
           "itens": [
             {
               "numero": "1",
-              "especificacao": "100800011 KIT LANCHE TIPO A:COMPOSTO POR: 01 COPO DE CAFÉ COM LEITE (200ML);01 COPO DE MINGAU DE TAPIOCA (200ML);01 PORÇÃO DE CUSCUZ NORDESTINO 250G (CALABRESA E CARNE DE SOL);01 SANDUÍCHE DE QUEIJO (PÃO DE FORMA E QUEIJO LANCHE);02 GUARDANAPOS DE PAPEL",
-              "unidade": "Und.",
-              "quantidade": "4.000,00",
-              "valor_referencia": "14,90"
-            },
-            {
-              "numero": "2",
-              "especificacao": "37032 KIT LANCHE TIPO B:COMPOSTO POR: 01 COPO DE CAFÉ COM LEITE (200ML); 01 COPO DE SUCO DE FRUTAS (200ML);01 FATIA DE BOLO DE MILHO (100G);01 PATISSARIA 120G (ESFIRRA);02 GUARDANAPOS DE PAPEL",
-              "unidade": "Und.",
-              "quantidade": "4.000,00",
-              "valor_referencia": "15,42"
-            },
-            {
-              "numero": "3",
-              "especificacao": "100800012 KIT LANCHE TIPO C:COMPOSTO POR: 01 COPO DE CAFÉ COM LEITE (200ML);01 COPO DE MINGAU DE MILHO (200ML);01 PORÇÃO DE BANANA DA TERRA COZIDA COM CARNE DO SOL E CALABRESA (250G);01 FATIA DE BOLO DE TAPIOCA (100G);02 GUARDANAPOS DE PAPEL",
-              "unidade": "Und.",
-              "quantidade": "4.000,00",
-              "valor_referencia": "18,52"
-            },
-            {
-              "numero": "4",
-              "especificacao": "100800013 KIT LANCHE TIPO D:COMPOSTO POR: 01 COPO DE CAFÉ COM LEITE (200ML);01 COPO DE SUCO DE FRUTAS (200ML);01 PORÇÃO DE CUSCUZ NORDESTINO 250G (CALABRESA E CARNE DO SOL);PATISSARIA (BAURU);02 GUARDANAPOS DE PAPEL",
-              "unidade": "Und.",
-              "quantidade": "4.000,00",
-              "valor_referencia": "18,52"
-            },
-            {
-              "numero": "5",
-              "especificacao": "100800014 KIT LANCHE TIPO E:COMPOSTO POR: 01 COPO DE SUCO DE FRUTAS (200ML);01 MAÇÃ;01 BANANA;01 SANDUÍCHE DE QUEIJO (PÃO DE FORMA E QUEIJO);02 GUARDANAPOS DE PAPEL",
-              "unidade": "Und.",
-              "quantidade": "4.000,00",
-              "valor_referencia": "13,83"
-            },
-            {
-              "numero": "6",
-              "especificacao": "100800015 KIT LANCHE TIPO F:COMPOSTO POR:01 COPO DE ACHOCOLATADO (200ML);01 COPO DE SUCO DE FRUTAS (200ML);1 FATIA DE BOLO DE CHOCOLATE;01 MAÇÃ;02 GUARDANAPOS DE PAPEL",
-              "unidade": "Und.",
-              "quantidade": "4.000,00",
-              "valor_referencia": "13,13"
-            },
-            {
-              "numero": "7",
-              "especificacao": "100800016 LANCHE COMPLETO c/ SUCO NATURAL300ml:sanduíche: pão fatiado, com maionese, 1 (uma) fatia de queijo muçarela, 1 (uma) fatia de apresuntado, embalado em plástico filme; suco natural 300ml (trezentos mililitros); 1 guardanapo de papel embalado individualmente.",
-              "unidade": "Und.",
-              "quantidade": "4.000,00",
-              "valor_referencia": "11,46"
-            },
-            {
-              "numero": "8",
-              "especificacao": "100800017 MARMITEX COM REFRIGERANTE EM LATA:Arroz,farofa de feijão, macarrão, carne (podendo ser: carne cozida ou frango) e salada; no mínimo 500g; garfo descartável resistente e guardanapo de papel embalados individualmente; Refrigerante lata 350ml.",
-              "unidade": "Und.",
-              "quantidade": "4.000,00",
-              "valor_referencia": "23,70"
+              "especificacao": "9900515197 ASFALTO PRONTO:Massa asfáltica usinada aquente. Temperatura aproximada de 119° C, preparada comagregados pétreos, CAP 50/70, teor de Betume emaproximadamente 6%, modicado por polímeros e processos demistura, não emulsionado, que passa 100% na peneira 3/8\", paraaplicação a frio em manutenção de pavimentos (tapa-buracos),que pode ser estocada por até 24 meses, capaz de ser aplicadamesmo em buracos com água, em períodos de chuva, sem aperda de sua coesão e aderência ao pavimento antigo,dispensando pintura de ligação. Embalagem: Saco de Rafia 25kg",
+              "unidade": "UN",
+              "quantidade": "10.000,00",
+              "valor_referencia": "60,09"
             }
           ]
         }
       ]
     },
     {
-      "id": "2-DLE-015-2026",
+      "id": "PE-031-2026",
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "109-2026",
-      "modalidade": "DISPENSA ELETRÔNICA",
-      "situacao": "HOMOLOGADO",
-      "condutor": "ISAQUE SILVA DOS SANTOS",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO",
-      "publicacao": "02/03/2026 16:13",
-      "inicio_recepcao": "02/03/2026 16:15",
-      "fim_recepcao": "06/03/2026 08:15",
-      "inicio_disputa": "06/03/2026 08:30",
-      "objeto": "Contratação de empresa especializada em fornecimento de KIT DE REGULADORES DE CILINDRO PARA BOTIJÃO DE GÁS, a\nfim de atender as necessidades da Secretaria Municipal de Administração.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5D3oahFlqPJyWouesQ55aVMQwy2olzIIuls1b3vFnoo%2FKx3KiNZAc2NJrjnhloLIh3RSSulnm1hQWblsMPWoBoxOtcKM572TULFVFSlriIZjs%3D",
-      "total_lotes": 2,
-      "total_itens": 2,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "9900515338 REGULADOR DE CILINDRO DE GÁS BOTIJA13KG:kit para instalação do botijão de gás 13kg contendo registro constando a gravação do código do INMETRO e prazo de validade não inferior a 5 (cinco) anos; mangueira em material plástico pvc transparente,",
-          "fase": "HOMOLOGADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "17.003,70",
-          "vencedor": "GJ SOLUÇÕES EM LICITAÇÕES E ASSESSORIA LTDA",
-          "melhor_oferta": "15.592,50",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900515338 REGULADOR DE CILINDRO DE GÁS BOTIJA13KG:kit para instalação do botijão de gás 13kg contendo registro constando a gravação do código do INMETRO e prazo de validade não inferior a 5 (cinco) anos; mangueira em material plástico pvc transparente, trançada, tarja amarela, exibindo a inscrição NBR 8613, nome do fabricante, com comprimento 1,25m e prazo de validade não inferior a 5 (cinco) anos; 2 (duas) abraçadeiras para botijão de gás 13kg. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "UND",
-              "quantidade": "315,00",
-              "valor_referencia": "53,98"
-            }
-          ]
-        },
-        {
-          "numero": "2",
-          "titulo": "9900515339 REGULADOR DE CILINDRO DE GÁS BOTIJA45KG:kit para instalação do botijão de gás GLP P45, contendo: 1(um) registro regulador de gás 12kg/h, com prazo de validade não inferior a 5 (cinco) anos; 02 (duas) mangueiras pig-tail de 1,00m de comprimento",
-          "fase": "FRACASSADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "44.116,80",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900515339 REGULADOR DE CILINDRO DE GÁS BOTIJA45KG:kit para instalação do botijão de gás GLP P45, contendo: 1(um) registro regulador de gás 12kg/h, com prazo de validade não inferior a 5 (cinco) anos; 02 (duas) mangueiras pig-tail de 1,00m de comprimento, 2(duas) válvulas de retenção, 2 (dois) registros esféricos, 2 (dois) suporte de fixação, 1 (um) coletor de ferro, 2 (dois) cotovelos, 2 (dois) niple, 1 (um) conector metálico em formato tê, 1(uma) bucha de redução, 1 (um) manômetro.Características adicionais: suportar até 2 (dois) botijões p45 de 45kg cada. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "UND",
-              "quantidade": "210,00",
-              "valor_referencia": "210,08"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "PE-065-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "202 / 2026",
+      "numero_adm": "1673/2025",
       "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "PUBLICADO",
+      "situacao": "FRACASSADO",
       "condutor": "SERGIO CARNEIRO CAVALCANTI DE AZEVEDO",
       "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO",
-      "publicacao": "13/04/2026 11:54",
-      "inicio_recepcao": "15/04/2026 08:30",
-      "fim_recepcao": "28/04/2026 09:15",
-      "inicio_disputa": "28/04/2026 09:30",
-      "objeto": "Contratação de empresa especializada em fornecimento de VEÍCULOS TIPO PICAPE CABINE DUPLA\n(bens permanentes), a fim de atender as demandas da Secretaria Municipal de Educação.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DednPJtzscEF65XMgHPALV_hjK91j0Ep6zpltSoPnT9Rlel%2FPIlDp7dbEF6kFxCutFvwxS2%2FDZ2VGn2U_m7%2Fd60lDrQLEruqD9AtS0LOmIxE%3D",
-      "total_lotes": 1,
-      "total_itens": 1,
+      "tipo_contrato": "REGISTRO DE PREÇO",
+      "publicacao": "09/03/2026 17:02",
+      "inicio_recepcao": "11/03/2026 08:00",
+      "fim_recepcao": "23/03/2026 08:15",
+      "inicio_disputa": "23/03/2026 08:30",
+      "objeto": "Contratação de empresa especializada em fornecimento de TUBOS EM POLIETILENO DE ALTA DENSIDADE (PEAD) (material de consumo), a fim de atender as demandas da Secretaria Municipal de Infraestrutura e Serviços Urbanos.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DRHNjo4U8hbP8CnTwtBa4mGvs4Ky3f2VQnCFiIziiTqDLw8fw5Hh17QsXwiKCvBZB8S5bNNAvT76f4_uDcZ6CscVbveTExyHjMu6UMSWzFhM%3D",
+      "total_lotes": 4,
+      "total_itens": 4,
       "lotes": [
         {
           "numero": "1",
-          "titulo": "VEICULOS PICAPE CABINA DUPLA",
-          "fase": "PUBLICADO",
+          "titulo": "9900515230 TUBO PEAD 400 MM:tubo extrudado, parede dupla em pead (polietileno de alta densidade), com união ponta e bolsa, liso internamente e corrugado externamente, em barras de 6m de comprimento, cor preta, pigmentada com negro de fumo, com diâmetro no",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
           "exclusivo_me": "NÃO",
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
+          "valor_referencia": "385.983,50",
           "vencedor": "",
           "melhor_oferta": "0,00",
           "total_itens": 1,
           "itens": [
             {
               "numero": "1",
-              "especificacao": "73973900009 Veículo automotor zero quilômetro, tipo picapeleve/compacta:com cabine dupla, 4 portas, capacidade para 5(cinco) ocupantes incluindo o motorista. Ano defabricação/modelo 2026, combustível tipo flex (álcool/gasolina),motorização mínima de 1.3L (ou superior), potência mínima107cv. Tração 4x2, câmbio manual ou automático, com, nomínimo, 5 (cinco) marchas à frente (ou conforme tecnologiadisponível em câmbio automático), visando melhor desempenho,segurança e economia de combustível. Veículo dotado dedireção com assistência elétrica, sistema de freios com ABS eEBD (ou equivalente), airbag frontal para motorista e passageiro,cintos de segurança de 3 (três) pontos para todos os ocupantes(quando aplicável) e encostos de cabeça, atendendointegralmente às normas de segurança vigentes. Vidros elétricosnas portas dianteiras e traseiras, travas elétricas nas portas comtravamento central e acionamento por meio de comando internoe pela chave ou dispositivo equivalente. Sistema de arcondicionado frio/quente, com difusores frontais, adequado aoconforto térmico dos ocupantes, com comandos de fácil acessoao motorista. Carroceria com caçamba traseira aberta, comcapacidade de carga mínima de 600kg, dotada de protetor decaçamba (forração ou protetor em material plástico ou similar),capota marítima ou equivalente, ganchos ou pontos deamarração de carga conforme projeto do fabricante, permitindo otransporte de materiais leves, equipamentos, mobiliários depequeno porte, materiais pedagógicos e insumos administrativos.Sistema multimídia, no mínimo, conexão Bluetooth e rádio, altofalantes instalados, entrada USB ou equivalente, painel deinstrumentos com indicadores básicos (velocímetro, marcador decombustível, hodômetro, luzes de advertência) e computador debordo. Comando interno e elétricos para regulagem deretrovisores externos, desembaçador do vidro traseiro (quandoaplicável), limpador e lavador de para-brisa dianteiro comtemporizador. Equipado, no mínimo, com sensor deestacionamento traseiro e câmera de ré (admite-se um dos doisou ambos), faróis com regulagem de foco (manual ou elétrica,conforme projeto de fábrica), iluminação traseira completa, luz defreio elevada, aviso sonoro de faróis acesos e/ou portas abertas,conforme configuração de série. Bancos revestidos em courosintético de fábrica ou material similar, banco do motorista comajuste de distância e inclinação, porta-objetos distribuídos nopainel (VIDE ANEXO DO TERMO).",
-              "unidade": "UN",
-              "quantidade": "4,00",
-              "valor_referencia": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "PE-064-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "269 / 2026",
-      "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "RECEPÇÃO DE PROPOSTAS",
-      "condutor": "JONATAS DA SILVA SOUSA",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO PARCELADA",
-      "publicacao": "09/04/2026 16:49",
-      "inicio_recepcao": "13/04/2026 08:30",
-      "fim_recepcao": "24/04/2026 09:15",
-      "inicio_disputa": "24/04/2026 09:30",
-      "objeto": "Contratação de empresa especializada em fornecimento de DOCES (material de consumo), a fim de atender às demandas da Secretaria Municipal de Educação.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DNX4zxnjYYL8x_4_1SFzZWKHKYchQ27DePMxgN9y5yRXizJs3sc5hlSFUtE_O7_Q%2FzKSkCBusc3OQbN6qMdgFrw1V7axYtQTx4eE8XZmoeBQ%3D",
-      "total_lotes": 8,
-      "total_itens": 8,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "37141 Bombom tipo wafer recheado com creme de castanha de caju e cobertura de chocolate:Produto alimentício do tipo bombom à base de wafer crocante, com recheio cremoso sabor castanha de caju, coberto com chocolate ao leite ou similar, apresentando textur",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37141 Bombom tipo wafer recheado com creme de castanha de caju e cobertura de chocolate:Produto alimentício do tipo bombom à base de wafer crocante, com recheio cremoso sabor castanha de caju, coberto com chocolate ao leite ou similar, apresentando textura que combina crocância do wafer com cremosidade do recheio, sabor marcante e homogêneo, próprio para consumo humano. Deverá ser elaborado com ingredientes de boa qualidade, contendo, entre outros, derivados de trigo, leite e castanha de caju, podendo conter soja, amendoim e traços de glúten, conforme rotulagem do fabricante. Embalagem primária: bombons embalados individualmente, em invólucro apropriado para alimentos, íntegro, sem rasgos, furos ou sinais de violação. Embalagem secundária: pacote com peso líquido de 1 kg, devendo constar, a identificação clara do produto, marca, peso líquido, lote, data de fabricação e validade. Produto pronto para consumo, isento de corpos estranhos, sujidades, umidade excessiva, deformações acentuadas ou sinais de deterioração. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "PCT",
-              "quantidade": "120,00",
-              "valor_referencia": ""
+              "especificacao": "9900515230 TUBO PEAD 400 MM:tubo extrudado, parede dupla em pead (polietileno de alta densidade), com união ponta e bolsa, liso internamente e corrugado externamente, em barras de 6m de comprimento, cor preta, pigmentada com negro de fumo, com diâmetro nominal DN/DI 400 mm (baseado no diâmetro interno), classe de rigidez sn4, conforme norma DNIT 094/2014",
+              "unidade": "UND",
+              "quantidade": "350,00",
+              "valor_referencia": "1.102,81"
             }
           ]
         },
         {
           "numero": "2",
-          "titulo": "37142 Bombom tipo wafer recheado com creme de chocolate meio amargo e flocos de arroz, coberto com chocolate branco:Produto alimentício do tipo bombom wafer, composto por camadas de wafer crocante, recheio cremoso sabor chocolate meio amargo com flocos de",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "titulo": "9900515231 TUBO PEAD 800 MM:tubo extrudado, parede dupla em pead (polietileno de alta densidade), com união ponta e bolsa, liso internamente e corrugado externamente, em barras de 6m de comprimento, cor preta, pigmentada com negro de fumo, com diâmetro no",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
+          "exclusivo_me": "NÃO",
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
+          "valor_referencia": "858.340,00",
           "vencedor": "",
           "melhor_oferta": "0,00",
           "total_itens": 1,
           "itens": [
             {
               "numero": "1",
-              "especificacao": "37142 Bombom tipo wafer recheado com creme de chocolate meio amargo e flocos de arroz, coberto com chocolate branco:Produto alimentício do tipo bombom wafer, composto por camadas de wafer crocante, recheio cremoso sabor chocolate meio amargo com flocos de arroz e cobertura de chocolate branco, conferindo contraste de sabores e texturas, adequado ao consumo individual. Deverá apresentar textura crocante do wafer e dos flocos de arroz, combinada à cremosidade do recheio, sabor característico de chocolate meio amargo e chocolate branco, isento de odores ou sabores estranhos e de sinais de rancificação. Embalagem primária: unidades embaladas individualmente, em filme apropriado para contato com alimentos, íntegro e inviolado. Embalagem secundária: pacote ou caixa com peso líquido de 1 kg, com identificação do produto (bombom wafer recheado), marca, peso líquido, lote, data de fabricação, data de validade, lista de ingredientes, informação nutricional e advertências sobre alergênicos (trigo, leite, soja, amendoim, entre outros), bem como identificação do fabricante (nome/razão social e CNPJ) e registro no órgão competente. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "PCT",
-              "quantidade": "120,00",
-              "valor_referencia": ""
+              "especificacao": "9900515231 TUBO PEAD 800 MM:tubo extrudado, parede dupla em pead (polietileno de alta densidade), com união ponta e bolsa, liso internamente e corrugado externamente, em barras de 6m de comprimento, cor preta, pigmentada com negro de fumo, com diâmetro nominal DN/DI 800 mm (baseado no diâmetro interno), classe de rigidez sn4, conforme norma DNIT 094/2014",
+              "unidade": "UND",
+              "quantidade": "200,00",
+              "valor_referencia": "4.291,70"
             }
           ]
         },
         {
           "numero": "3",
-          "titulo": "9900515543 Bombom tipo wafer recheado com creme sabor chocolate ao leite, coberto com chocolate ao leite:Produto alimentício do tipo bombom chocolate, consistindo em wafer crocante com recheio cremoso sabor chocolate ao leite e cobertura externa também de",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900515543 Bombom tipo wafer recheado com creme sabor chocolate ao leite, coberto com chocolate ao leite:Produto alimentício do tipo bombom chocolate, consistindo em wafer crocante com recheio cremoso sabor chocolate ao leite e cobertura externa também de chocolate ao leite, destinado ao consumo imediato. Produto deve apresentar cor, sabor e aroma característicos de chocolate, textura firme, sem grumos, sem sinais de umidade excessiva, deformação, esbranquiçamento (\"fat bloom\") acentuado ou qualquer indício de deterioração.Embalagem: bombons embalados individualmente, acondicionados em pacote com peso líquido de 1 kg, em material apropriado para alimentos, resistente e íntegro, contendo identificação do produto, marca, peso líquido, lote, data de fabricação, validade, informações nutricionais, lista de ingredientes e advertências sobre alergênicos, além do nome/razão social e CNPJ do fabricante e número de registro no órgão competente. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "PCT",
-              "quantidade": "120,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "4",
-          "titulo": "9900515544 Bala de goma tipo jujuba sortida em tubos:Produto alimentício do tipo bala de goma (jujuba) açucarada, macia, mastigável, em sabores sortidos de frutas (como morango, uva, laranja, limão, abacaxi ou similares), acondicionada em tubos plásticos",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900515544 Bala de goma tipo jujuba sortida em tubos:Produto alimentício do tipo bala de goma (jujuba) açucarada, macia, mastigável, em sabores sortidos de frutas (como morango, uva, laranja, limão, abacaxi ou similares), acondicionada em tubos plásticos individuais, própria para consumo humano. Deverá apresentar textura macia, não excessivamente pegajosa, sem cristalização exagerada de açúcar na superfície, isenta de sujidades, corpos estranhos, odor e sabor estranhos ou sinais de fermentação. Embalagem: tubo com no mínimo 8 unidades de jujubas, com peso aproximado de 30 g a 35 g cada tubo, acondicionado em caixa com 30 tubos por caixa, devendo constar na rotulagem a identificação do produto (bala de goma tipo jujuba), sabor sortido, peso, lote, data de fabricação, prazo de validade, lista de ingredientes, informação nutricional, advertências sobre alergênicos e presença/ausência de glúten, além do nome/razão social e CNPJ do fabricante. EXCLUSIVOPARA ME/EPP.",
-              "unidade": "CX",
-              "quantidade": "100,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "5",
-          "titulo": "9900515545 Bala de goma tipo jujuba sabor iogurte em tubos:Produto alimentício do tipo bala de goma (jujuba), macia, mastigável, com sabores sortidos inspirados em iogurte de frutas (como morango, uva, pêssego ou similares), apresentando textura suave e a",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900515545 Bala de goma tipo jujuba sabor iogurte em tubos:Produto alimentício do tipo bala de goma (jujuba), macia, mastigável, com sabores sortidos inspirados em iogurte de frutas (como morango, uva, pêssego ou similares), apresentando textura suave e aroma característico de iogurte, acondicionada em tubos plásticos individuais. Deverá ser elaborada com ingredientes próprios para consumo humano, apresentando cores e formatos compatíveis com a categoria, sem presença de corpos estranhos, sujidades, deformações excessivas ou sinais de deterioração. Embalagem: tubo com no mínimo 8 unidades de jujubas, com peso aproximado de 30 g a 35 g cada tubo, acondicionado em caixa com 30 tubos por caixa, com rotulagem contendo denominação do produto (bala de goma sabor iogurte), sabores, peso, lote, data de fabricação, prazo de validade, lista de ingredientes, informação nutricional, advertências sobre alergênicos e identificação completa do fabricante (nome/razão social, CNPJ e endereço), e registro no órgão competente.EXCLUSIVO PARA ME/EPP.",
-              "unidade": "CX",
-              "quantidade": "100,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "6",
-          "titulo": "9900515546 Bala de café:Produto alimentício do tipo bala dura ou mastigável, sabor café, com aroma e sabor característicos de café torrado, própria para consumo humano, destinada à oferta em eventos, reuniões e ações institucionais. Deverá apresentar text",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900515546 Bala de café:Produto alimentício do tipo bala dura ou mastigável, sabor café, com aroma e sabor característicos de café torrado, própria para consumo humano, destinada à oferta em eventos, reuniões e ações institucionais. Deverá apresentar textura uniforme (dura ou levemente mastigável, conforme o tipo), sem rachaduras excessivas, sem cristais de açúcar soltos em demasia, isenta de corpos estranhos, sujidades, umidade excessiva, deformações anormais ou odor e sabor estranhos.Embalagem: balas embaladas individualmente, acondicionadas em pacote com peso líquido mínimo de 500g, em material apropriado para contato com alimentos, íntegro e inviolado, com identificação do produto (bala de café), marca, peso líquido, lote, data de fabricação, prazo de validade, lista de ingredientes, informação nutricional e advertências sobre alergênicos, além dos dados do fabricante (nome/razão social, CNPJ) e registro no órgão competente. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "PCT",
-              "quantidade": "100,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "7",
-          "titulo": "37143 Bala sortida de sabores:Produto alimentício do tipo bala (dura ou mastigável), com sabores sortidos de frutas e/ou outros sabores usuais (tais como menta, tutti-frutti, caramelo, entre outros), própria para consumo humano em eventos e reuniões insti",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37143 Bala sortida de sabores:Produto alimentício do tipo bala (dura ou mastigável), com sabores sortidos de frutas e/ou outros sabores usuais (tais como menta, tutti-frutti, caramelo, entre outros), própria para consumo humano em eventos e reuniões institucionais. Deverá apresentar textura adequada ao tipo (dura ou mastigável), cor e aroma compatíveis com os sabores declarados, isenta de sujidades, corpos estranhos, deformações excessivas, umidade anormal ou sinais de deterioração.Embalagem: balas embaladas individualmente, acondicionadas em pacote com peso líquido mínimo de 500g, devendo a embalagem conter, de forma clara e legível, a identificação do produto (bala sortida), marca, peso líquido, lote, data de fabricação, validade, lista de ingredientes, informação nutricional, advertências sobre alergênicos, identificação do fabricante (nome/razão social, CNPJ e endereço) e, quando aplicável, registro no órgão competente. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "PCT",
-              "quantidade": "100,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "8",
-          "titulo": "9900515547 Bala sabor morango:Produto alimentício do tipo bala (dura ou mastigável), sabor morango, com cor, aroma e sabor característicos da fruta, própria para consumo humano. Deverá apresentar textura homogênea, sem rachaduras ou deformações exageradas",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900515547 Bala sabor morango:Produto alimentício do tipo bala (dura ou mastigável), sabor morango, com cor, aroma e sabor característicos da fruta, própria para consumo humano. Deverá apresentar textura homogênea, sem rachaduras ou deformações exageradas, isenta de sujidades, corpos estranhos, umidade excessiva ou sinais de deterioração. Embalagem: balas embaladas individualmente, acondicionadas em pacote com peso líquido mínimo de 500g, devendo o rótulo conter a denominação do produto (bala sabor morango), marca, peso líquido, lote, data de fabricação, prazo de validade, lista de ingredientes, informação nutricional, advertências sobre alergênicos, identificação do fabricante (nome/razão social, CNPJ) e, quando exigido, registro no órgão competente.EXCLUSIVO PARA ME/EPP.",
-              "unidade": "PCT",
-              "quantidade": "100,00",
-              "valor_referencia": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "PE-056-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "132/2026",
-      "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "RECEPÇÃO DE PROPOSTAS",
-      "condutor": "JONATAS DA SILVA SOUSA",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "REGISTRO DE PREÇO",
-      "publicacao": "09/04/2026 15:19",
-      "inicio_recepcao": "13/04/2026 08:30",
-      "fim_recepcao": "24/04/2026 08:15",
-      "inicio_disputa": "24/04/2026 08:30",
-      "objeto": "A Contratação de empresa especializada em FORNECIMENTO DE ESQUADRIAS DE MADEIRA, DE ALUMÍNIO E ACESSÓRIOS,  a fim de atender as demandas da Secretaria Municipal de Infraestrutura e Serviços Urbanos.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DiXJIg9NsNhcBTTYI93hVTysT4ih1y4mQ_9yQvtj69r7iu1wgxCgkZ2e6pCEBWirETRk_ZfPmFLePd180NGDSd73bZg2qgnQf7cfXH8ZQV%2FY%3D",
-      "total_lotes": 1,
-      "total_itens": 38,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "ESQUADRIAS DE MADEIRA",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "titulo": "9900515232 TUBO PEAD 1500 MM:tubo extrudado, parede dupla em pead (polietileno de alta densidade), com união ponta e bolsa, liso internamente e corrugado externamente, em barras de 6m de comprimento, cor preta, pigmentada com negro de fumo, com diâmetro n",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
           "exclusivo_me": "NÃO",
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
+          "valor_referencia": "905.640,00",
           "vencedor": "",
           "melhor_oferta": "0,00",
-          "total_itens": 38,
+          "total_itens": 1,
           "itens": [
             {
               "numero": "1",
-              "especificacao": "5502000001 FECHADURA PARA PORTA EXTERNA PADRAO MÉDIO:FECHADURA PARA PORTA EXTERNA PADRAO MÉDIO",
+              "especificacao": "9900515232 TUBO PEAD 1500 MM:tubo extrudado, parede dupla em pead (polietileno de alta densidade), com união ponta e bolsa, liso internamente e corrugado externamente, em barras de 6m de comprimento, cor preta, pigmentada com negro de fumo, com diâmetro nominal DN/DI 1500 mm (baseado no diâmetro interno), classe de rigidez sn2, conforme norma DNIT 094/2014",
               "unidade": "UND",
-              "quantidade": "280,00",
-              "valor_referencia": ""
-            },
+              "quantidade": "60,00",
+              "valor_referencia": "15.094,00"
+            }
+          ]
+        },
+        {
+          "numero": "4",
+          "titulo": "36839 TUBO PEAD 300 MM:: tubo extrudado, parede dupla em pead (polietileno de alta densidade), com união ponta e  bolsa, liso internamente e corrugado externamente, em  barras de 6m de comprimento, cor preta, pigmentada com  negro de fumo, com diâmetro no",
+          "fase": "FRACASSADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "134.612,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
             {
-              "numero": "2",
-              "especificacao": "5502000002 FECHADURA PARA PORTA DE BANHEIRO PADRAO MÉDIO:FECHADURA PARA PORTA DE BANHEIRO PADRAO MÉDIO",
+              "numero": "1",
+              "especificacao": "36839 TUBO PEAD 300 MM:: tubo extrudado, parede dupla em pead (polietileno de alta densidade), com união ponta e bolsa, liso internamente e corrugado externamente, em barras de 6m de comprimento, cor preta, pigmentada com negro de fumo, com diâmetro nominal dn/di 300 mm (baseado no diâmetro interno), classe de rigidez sn4, conforme norma dnit 094/2014.",
               "unidade": "UND",
-              "quantidade": "120,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "3",
-              "especificacao": "5502000003 FECHADURA PARA PORTA EXTERNA CHAVE TETRA::FECHADURA PARA PORTA EXTERNA CHAVE TETRA",
-              "unidade": "UND",
-              "quantidade": "70,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "4",
-              "especificacao": "5502000004 FECHADURA EXTERNA DE SOBREPOR P/ PORTÃO CHAVE TETRA:FECHADURA EXTERNA DE SOBREPOR P/ PORTÃO CHAVE TETRA",
-              "unidade": "UND",
-              "quantidade": "90,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "5",
-              "especificacao": "5502000005 JANELA DUPLA DE MADEIRA DO TIPO ALMOFADA 1,20X1,10 M:JANELA DUPLA DE MADEIRA DO TIPO ALMOFADA 1,20X1,10 M.",
-              "unidade": "UND",
-              "quantidade": "40,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "6",
-              "especificacao": "5502000006 JANELA DUPLA DE MADEIRA DO TIPO ALMOFADA 1,60X1,10 M:JANELA DUPLA DE MADEIRA DO TIPO ALMOFADA 1,60X1,10 M.",
-              "unidade": "UND",
-              "quantidade": "20,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "7",
-              "especificacao": "5502000007 JANELA MAXIAR DE ALUMINIO 0,60X0,50 COM VIDRO:JANELA MAXIAR DE ALUMINIO 0,60X0,50 COM VIDRO",
-              "unidade": "UND",
-              "quantidade": "20,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "8",
-              "especificacao": "5502000008 JANELA SIMPLES DE MADEIRA DO TIPO ALMOFADA 0,80X1,10M:JANELA SIMPLES DE MADEIRA DO TIPO ALMOFADA 0,80X1,10M.",
-              "unidade": "UND",
-              "quantidade": "32,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "9",
-              "especificacao": "5502000009 JANELA SIMPLES DE MADEIRA DO TIPO ALMOFADA 1,00X1,10 M:JANELA SIMPLES DE MADEIRA DO TIPO ALMOFADA 1,00X1,10 M.",
-              "unidade": "UND",
-              "quantidade": "22,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "10",
-              "especificacao": "5502000010 KIT DE DOBRADIÇA PARA JANELA 2. 1/2 COM 2 UNIDADES:KIT DE DOBRADIÇA PARA JANELA 2.1/2 COM 2 UNIDADES",
-              "unidade": "UND",
-              "quantidade": "110,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "11",
-              "especificacao": "5502000011 KIT DE DOBRADIÇA PARA PORTA 2.1/2, COM 3 UNIDADES:KIT DE DOBRADIÇA PARA PORTA 2.1/2, COM 3 UNIDADES",
-              "unidade": "UND",
-              "quantidade": "180,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "12",
-              "especificacao": "5502000012 KIT DE DOBRADIÇA PARA PORTA 3.1/2, COM 3 UNIDADES:KIT DE DOBRADIÇA PARA PORTA 3.1/2, COM 3 UNIDADES",
-              "unidade": "UND",
-              "quantidade": "320,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "13",
-              "especificacao": "5502000013 PORTA DE MADEIRA MISTA DO TIPO ALMOFADA 0,60X2,10 M:PORTA DE MADEIRA MISTA DO TIPO ALMOFADA 0,60X2,10 M",
-              "unidade": "UND",
-              "quantidade": "54,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "14",
-              "especificacao": "5502000014 PORTA DE MADEIRA MISTA DO TIPO ALMOFADA 0,70X2,10 M:PORTA DE MADEIRA MISTA DO TIPO ALMOFADA 0,70X2,10 M",
-              "unidade": "UND",
-              "quantidade": "52,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "15",
-              "especificacao": "5502000015 PORTA DE MADEIRA MISTA DO TIPO ALMOFADA 0,80X2,10 M:PORTA DE MADEIRA MISTA DO TIPO ALMOFADA 0,80X2,10 M",
-              "unidade": "UND",
-              "quantidade": "145,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "16",
-              "especificacao": "5502000016 PORTA DE MADEIRA MISTA DO TIPO ALMOFADA 0,90X2,10 M:PORTA DE MADEIRA MISTA DO TIPO ALMOFADA 0,90X2,10 M",
-              "unidade": "UND",
-              "quantidade": "123,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "17",
-              "especificacao": "5502000017 PORTA DE MADEIRA MISTA DO TIPO SEMIOCA0,60X2,10 M:PORTA DE MADEIRA MISTA DO TIPO SEMI OCA0,60X2,10 M",
-              "unidade": "UND",
-              "quantidade": "85,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "18",
-              "especificacao": "5502000018 PORTA DE MADEIRA MISTA DO TIPO SEMIOCA0,70X2,10 M:PORTA DE MADEIRA MISTA DO TIPO SEMI OCA0,70X2,10 M",
-              "unidade": "UND",
-              "quantidade": "70,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "19",
-              "especificacao": "5502000019 PORTA DE MADEIRA MISTA DO TIPO SEMIOCA 0,80X2,10 M:PORTA DE MADEIRA MISTA DO TIPO SEMI OCA0,80X2,10 M",
-              "unidade": "UND",
-              "quantidade": "128,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "20",
-              "especificacao": "5502000020 PORTA DE MADEIRA MISTA DO TIPO SEMIOCA0,90X2,10 M:PORTA DE MADEIRA MISTA DO TIPO SEMI OCA0,90X2,10 M",
-              "unidade": "UND",
-              "quantidade": "74,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "21",
-              "especificacao": "5502000021 PORTA DE MADEIRA MISTA DO TIPO SEMI OCA1,00X2,10 M:PORTA VENEZIANA DE ALUMINIO 0,60X2,10 M",
-              "unidade": "UND",
-              "quantidade": "66,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "22",
-              "especificacao": "5502000022 PORTA VENEZIANA DE ALUMINIO 0,60X2,10 M:PORTA VENEZIANA DE ALUMINIO 0,60X2,10 M",
-              "unidade": "UND",
-              "quantidade": "20,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "23",
-              "especificacao": "5502000023 PORTA VENEZIANA DE ALUMINIO 0,70X2,10 M COMPLETA:PORTA VENEZIANA DE ALUMINIO 0,70X2,10 M COMPLETA",
-              "unidade": "UND",
-              "quantidade": "20,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "24",
-              "especificacao": "5502000024 PORTA VENEZIANA DE ALUMINIO 0,80X2,10 M:PORTA VENEZIANA DE ALUMINIO 0,80X2,10 M",
-              "unidade": "UND",
-              "quantidade": "40,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "25",
-              "especificacao": "5502000025 PORTA VENEZIANA DE ALUMINIO 0,90X2,10 M:PORTA VENEZIANA DE ALUMINIO 0,90X2,10 M",
-              "unidade": "UND",
-              "quantidade": "30,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "26",
-              "especificacao": "5502000026 PORTA VENEZIANA DE ALUMÍNIO 1,00X2,10 M:PORTA VENEZIANA DE ALUMÍNIO 1,00X2,10 M",
-              "unidade": "UND",
-              "quantidade": "20,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "27",
-              "especificacao": "5502000027 PORTA VENEZIANA DE ALUMÍNIO DUPLA2,00X2,10 M:PORTA VENEZIANA DE ALUMÍNIO DUPLA2,00X2,10 M",
-              "unidade": "UND",
-              "quantidade": "20,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "28",
-              "especificacao": "5502000028 TRINCO FERROLHO:REDONDO AÇO ZINCADO2",
-              "unidade": "UND",
-              "quantidade": "260,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "29",
-              "especificacao": "5502000029 TRINCO FERROLHO:REDONDO AÇO ZINCADO3",
-              "unidade": "UND",
-              "quantidade": "320,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "30",
-              "especificacao": "5502000030 TRINCO FERROLHO:REDONDO AÇO ZINCADO4",
-              "unidade": "UND",
-              "quantidade": "120,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "31",
-              "especificacao": "5502000031 TRINCO FERROLHO:CHATO P/ CADEADO AÇO ZINCADO 3",
-              "unidade": "UND",
-              "quantidade": "230,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "32",
-              "especificacao": "5502000032 PORTA CADEADO:ZINCADO COM TRAVA PARA PORTÃO E PORTA 2.1/2",
-              "unidade": "UND",
-              "quantidade": "250,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "33",
-              "especificacao": "5502000033 CADEADO:20MM",
-              "unidade": "UND",
-              "quantidade": "160,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "34",
-              "especificacao": "5502000034 CADEADO:25MM",
-              "unidade": "UND",
-              "quantidade": "180,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "35",
-              "especificacao": "5502000035 CADEADO:30MM",
-              "unidade": "UND",
-              "quantidade": "235,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "36",
-              "especificacao": "5502000036 CADEADO:40MM",
-              "unidade": "UND",
-              "quantidade": "270,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "37",
-              "especificacao": "5502000037 CADEADO:50MM",
-              "unidade": "UND",
-              "quantidade": "255,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "38",
-              "especificacao": "5502000038 CADEADO:60MM",
-              "unidade": "UND",
-              "quantidade": "226,00",
-              "valor_referencia": ""
+              "quantidade": "200,00",
+              "valor_referencia": "673,06"
             }
           ]
         }
       ]
     },
     {
-      "id": "2-DLE-034-2026",
+      "id": "PE-004-2026",
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "321/2026",
-      "modalidade": "DISPENSA ELETRÔNICA",
-      "situacao": "JULGAMENTO",
-      "condutor": "ISLA LIMA SILVA",
+      "numero_adm": "1514/2025",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "ADJUDICADO",
+      "condutor": "JONATAS DA SILVA SOUSA",
       "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO",
-      "publicacao": "07/04/2026 17:30",
-      "inicio_recepcao": "07/04/2026 17:35",
-      "fim_recepcao": "13/04/2026 08:15",
-      "inicio_disputa": "13/04/2026 08:30",
-      "objeto": "Contratação de empresa especializada em fornecimento de BANHEIROS QUÍMICOS (material permanente), cujas especificações técnicas, quantidades e demais condições encontram-se detalhadas neste instrumento, a fim de atender as demandas da Secretaria Municipal de Administração.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5Dsm5DkLxWGjhB1Yu2uNoXMJPTTS4z6wdKm%2Fy4F_iBPFKbsWvFfxcPHrHQOHPfczf3e7EY%2F_t_H6P%2Fnj9oevhewo8fbkjgh5rOCDPVk8%2FIRRo%3D",
-      "total_lotes": 1,
-      "total_itens": 1,
+      "tipo_contrato": "REGISTRO DE PREÇO",
+      "publicacao": "19/01/2026 19:19",
+      "inicio_recepcao": "13/02/2026 08:00",
+      "fim_recepcao": "25/02/2026 08:45",
+      "inicio_disputa": "25/02/2026 09:00",
+      "objeto": "futura e eventual contratação de empresa especializada em prestação de serviço de LOCAÇÃO DE VEÍCULOS LEVES E PESADOS, cujas especificações técnicas, quantidades e demais condições encontram-se detalhadas neste instrumento, a fim de atender as demandas da Secretaria Municipal de Administração e demais Secretarias.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5Dj0XPuKh3lmGAdFjTtKTYr%2F8KIy_e%2FGQmIf4ELMRMAQXWE9TG6FcGr63XlOhbeNIpYUmZWzSYDZwYICnpmcCaekwxXcsJTMSGH5TkQ09wOEo%3D",
+      "total_lotes": 5,
+      "total_itens": 5,
       "lotes": [
         {
           "numero": "1",
-          "titulo": "BANHEIROS QUÍMICOS",
-          "fase": "JULGAMENTO",
+          "titulo": "LOCAÇÃO DE VEÍCULO TIPO VAN 09 A 12LUGARES - SEM MOTORISTA:Locação de Veículo, sem motorista, tipo utilitário fechado, tipo van, sem motorista, movido a gasolina, bicombustível ou diesel, motor 1.4 ou superior, capacidade de 09 a 12 passageiros, equipado",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
+          "exclusivo_me": "NÃO",
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
-          "valor_referencia": "25.258,02",
-          "vencedor": "RF PRODUÇÕES E EVENTOS LTDA",
-          "melhor_oferta": "21.600,00",
+          "valor_referencia": "474.000,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
           "total_itens": 1,
           "itens": [
             {
               "numero": "1",
-              "especificacao": "37179 BANHEIROS QUÍMICOS:individuais portáteis com tetotranslúcido composto com caixa de dejeto com assento, mictório,porta papel higiênico (devidamente abastecidos) e fechamentode identificação OCUPADO/ DESOCUPADO e indicação demasculinos, femininos, para público e bandas (camarins), commedidas mínimas de altura: 2,15 m largura: 1,78 m comprimento:2,18 m, com ponto de ventilação natural. EXCLUSIVO PARAME/EPP.",
-              "unidade": "UN",
-              "quantidade": "6,00",
-              "valor_referencia": "4.209,67"
+              "especificacao": "105100068 LOCAÇÃO DE VEÍCULO TIPO VAN 09 A 12LUGARES - SEM MOTORISTA:Locação de Veículo, sem motorista, tipo utilitário fechado, tipo van, sem motorista, movido a gasolina, bicombustível ou diesel, motor 1.4 ou superior, capacidade de 09 a 12 passageiros, equipado com ar- condicionado, direção hidráulica e/ou elétrica, vidros elétricos, trava elétrica, alarme, porta objetos, luz de freio adaptativa, airbag, sistema ativo de frenagem, sistema multimídia, potência mínima 160 CV, bateria mínima 90ah, pacote de integração com smartfone, rodas de liga leve, peso bruto máximo combinado 8.000kg, tração traseira, ano de fabricação mínima de 2021, manutenção por conta da empresa contratada, apólice ou contrato de seguro apresentado no ato do contrato de locação e com vigência para todo o período contratado e encargos tributários de IPVA, DPVAT e TRLAV também por conta da empresa contratada. (LOCAÇÃO MENSAL).",
+              "unidade": "UND",
+              "quantidade": "60,00",
+              "valor_referencia": "7.900,00"
+            }
+          ]
+        },
+        {
+          "numero": "2",
+          "titulo": "LOCAÇÃO DE VEÍCULO UTILITÁRIO ABERTOCABINE SIMPLES - SEM MOTORISTA:Locação de veículo sem motorista, tipo utilitário aberto, tipo caminhonete, movido a gasolina, bicombustível ou diesel, motor 1.4 ou superior, 02 portas, tração 4x2, airbag, luz auxiliar",
+          "fase": "ADJUDICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "1.064.500,80",
+          "vencedor": "LOCA TUDO LOCADORA LTDA",
+          "melhor_oferta": "947.707,20",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "105100069 LOCAÇÃO DE VEÍCULO UTILITÁRIO ABERTOCABINE SIMPLES - SEM MOTORISTA:Locação de veículo sem motorista, tipo utilitário aberto, tipo caminhonete, movido a gasolina, bicombustível ou diesel, motor 1.4 ou superior, 02 portas, tração 4x2, airbag, luz auxiliar de freio, equipado com ar- condicionado, direção hidráulica e/ou elétrica, vidros elétricos, trava elétrica nas 02 portas, alarme, capacidade de carga mínima de 700 kg, ano de fabricação mínima de 2022, manutenção por conta da empresa contratada, apólice ou contrato de seguro apresentado no ato do contrato de locação e com vigência para todo o período contratado e encargos tributários de IPVA, DPVAT e TRLAV também por conta da empresa contratada. (LOCAÇÃO MENSAL).",
+              "unidade": "UND",
+              "quantidade": "240,00",
+              "valor_referencia": "4.435,42"
+            }
+          ]
+        },
+        {
+          "numero": "3",
+          "titulo": "LOCAÇÃO DE VEÍCULO 05 PESSOAS - SEMMOTORISTA:Locação de Veículo sem motorista, veículo tipo automóvel, potência mínima 200 cv, autonomia mínima de 350km sem necessidade de reabastecimento, direção elétrica ou hidráulica, freios a disco, sensor de estacio",
+          "fase": "FRACASSADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "126.333,36",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "105100070 LOCAÇÃO DE VEÍCULO 05 PESSOAS - SEMMOTORISTA:Locação de Veículo sem motorista, veículo tipo automóvel, potência mínima 200 cv, autonomia mínima de 350km sem necessidade de reabastecimento, direção elétrica ou hidráulica, freios a disco, sensor de estacionamento, mínimo 05 airbag, capacidade mínima de carga do porta malas de 450kg, painel multimídia sensível ao toque, sistema auxiliar de permanência de faixa, ano de fabricação mínima de 2022, manutenção por conta da empresa contratada, apólice ou contrato de seguro apresentado no ato do contrato de locação e com vigência para todo o período contratado e encargos tributários de IPVA, DPVAT e TRLAV também por conta da empresa contratada. (LOCAÇÃO MENSAL).",
+              "unidade": "UND",
+              "quantidade": "24,00",
+              "valor_referencia": "5.263,89"
+            }
+          ]
+        },
+        {
+          "numero": "4",
+          "titulo": "LOCAÇÃO DE VEÍCULO TIPO MICRO-ÔNIBUSMÍNIMO 25 LUGARES - COM MOTORISTA:tipo utilitário fechado, com sanitário e de fácil acesso lateral para a manutenção do sanitário; movido a diesel; 2 eixos; potência mínima 160 CV, 02 baterias; rodas em aço; equipado c",
+          "fase": "FRACASSADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "111.300,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "105100071 LOCAÇÃO DE VEÍCULO TIPO MICRO-ÔNIBUSMÍNIMO 25 LUGARES - COM MOTORISTA:tipo utilitário fechado, com sanitário e de fácil acesso lateral para a manutenção do sanitário; movido a diesel; 2 eixos; potência mínima 160 CV, 02 baterias; rodas em aço; equipado com ar- condicionado, direção hidráulica e/ou elétrica, vidros elétricos, trava elétrica, alarme, ano de fabricação mínima de 2013, manutenção por conta da empresa contratada, apólice ou contrato de seguro apresentado no ato do contrato de locação e com vigência para todo o período contratado e encargos tributários de IPVA, DPVAT e TRLAV também por conta da empresa contratada. (LOCAÇÃO/DEMANDA).",
+              "unidade": "KM",
+              "quantidade": "10.000,00",
+              "valor_referencia": "11,13"
+            }
+          ]
+        },
+        {
+          "numero": "5",
+          "titulo": "LOCAÇÃO DE VEÍCULO TIPO ÔNIBUS MÍNIMO 43LUGARES - COM MOTORISTA:tipo utilitário fechado; potência máxima de 207cv; movido a diesel; bateria de 12 V/135 Ah (02 unidades); 2 eixos;   Tanque de combustível 210 litros; Reservatório Arla 32 35 litros; equipad",
+          "fase": "FRACASSADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "167.600,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "36521 LOCAÇÃO DE VEÍCULO TIPO ÔNIBUS MÍNIMO 43LUGARES - COM MOTORISTA:tipo utilitário fechado; potência máxima de 207cv; movido a diesel; bateria de 12 V/135 Ah (02 unidades); 2 eixos; Tanque de combustível 210 litros; Reservatório Arla 32 35 litros; equipado com ar-condicionado, direção hidráulica e/ou elétrica, vidros elétricos, trava elétrica, alarme, ano de fabricação mínima de 2010, manutenção por conta da empresa contratada, apólice ou contrato de seguro apresentado no ato do contrato de locação e com vigência para todo o período contratado e encargos tributários de IPVA, DPVAT e TRLAV também por conta da empresa contratada.(LOCAÇÃO/DEMANDA).",
+              "unidade": "KM",
+              "quantidade": "10.000,00",
+              "valor_referencia": "16,76"
             }
           ]
         }
