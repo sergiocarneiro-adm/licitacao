@@ -912,7 +912,10 @@ function render() {
                         <td class="px-4 py-3 mono text-xs text-slate-500 whitespace-nowrap">${it.unidade||'–'}</td>
                         <td class="px-4 py-3 mono text-xs font-bold text-center">${it.quantidade||'–'}</td>
                         <td class="px-4 py-3 mono text-xs font-bold text-emerald-600 whitespace-nowrap">${fmtBRL(it.valor_referencia)}</td>
-                        <td class="px-4 py-3 whitespace-nowrap"><span class="px-2 py-0.5 rounded-full text-[10px] font-bold ${badgeClassLicit(r.situacao)}">${r.situacao||'–'}</span></td>
+                        <td class="px-4 py-3 whitespace-nowrap">
+                            <span class="px-2 py-0.5 rounded-full text-[10px] font-bold ${badgeClassLicit(it._lote?.situacao || r.situacao)}">${it._lote?.situacao || r.situacao||'–'}</span>
+                            ${it._lote?.situacao && it._lote.situacao !== r.situacao ? `<span class="ml-1 px-1.5 py-0.5 rounded text-[9px] text-slate-400 border border-slate-200 dark:border-slate-700" title="Processo: ${r.situacao}">proc.</span>` : ''}
+                        </td>
                     </tr>`;
                 }).join('');
         }
