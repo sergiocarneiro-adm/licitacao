@@ -4,7 +4,7 @@
     "total_processos": 764,
     "total_lotes": 8647,
     "total_itens": 14781,
-    "atualizado_em": "20260414_193517"
+    "atualizado_em": "20260415_193523"
   },
   "processos": [
     {
@@ -262235,50 +262235,6 @@
       ]
     },
     {
-      "id": "2-DLE-031-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "240/2026",
-      "modalidade": "DISPENSA ELETRÔNICA",
-      "situacao": "JULGAMENTO",
-      "condutor": "ISAQUE SILVA DOS SANTOS",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO",
-      "publicacao": "02/04/2026 17:54",
-      "inicio_recepcao": "02/04/2026 18:05",
-      "fim_recepcao": "10/04/2026 08:15",
-      "inicio_disputa": "10/04/2026 08:30",
-      "objeto": "Contratação de empresa especializada em fornecimento de [TELAS MOSQUITEIRAS PARA JANELAS E BASCULANTES]\n(material de consumo), a fim de atender às necessidades da Secretaria Municipal de Administração.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5D2W57ppXq3o6zKhPsJoiuNYula3vi04HyJPsyYWFx92UxDL4g5ljEb52D0vLW%2FngMGD45GknLLPdycZqZHNRQM5z0v1a3CJ_IKSweJNGr_ME%3D",
-      "total_lotes": 1,
-      "total_itens": 1,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "TELA MOSQUISTEIRA",
-          "fase": "JULGAMENTO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "8.019,60",
-          "vencedor": "PANIFICADORA E MINIMERCADO VICTOR LTDA",
-          "melhor_oferta": "8.000,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900515461 Tela mosquiteira em fibra de vidro revestida emPVC:cor cinza, fornecida em rolo com largura nominal de 1,20m e comprimento de 50 m, totalizando aproximadamente 60m² por rolo, com malha fina tipo 18 x 16 fios por polegada ouequivalente. Adequada para proteção contra insetos, vetorese pragas urbanas, permitindo ampla circulação de ar epassagem de luz natural, sem comprometer a luminosidadedo ambiente.Produto antialérgico, inodoro, lavável com águae detergente neutro, de fácil corte e instalação, que não desfianas bordas, não resseca, não rasga com facilidade, resistentea raios UV, intempéries, umidade e fungos, com característicade nãopropagação de chamas e alta durabilidade em usocontínuo. Destinada à instalação em janelas, portas,basculantes e demais aberturas de cozinhas, despensas eáreas de preparo e armazenamento de alimentos dasunidades escolares da rede municipal, para confecção demódulos fixos ou removíveis pelas equipes internas demarcenaria e serralheria da Secretaria Municipal deEducação, em conformidade com as exigências sanitáriaspara barreiras físicas e com especificações técnicasUsualmente adotadas em contratações públicas. EXCLUSIVOPARA ME/EPP.",
-              "unidade": "ROL",
-              "quantidade": "30,00",
-              "valor_referencia": "267,32"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "PE-053-2026",
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "309/2026",
@@ -262522,50 +262478,6 @@
               "unidade": "UND",
               "quantidade": "210,00",
               "valor_referencia": "210,08"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "PE-065-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "202 / 2026",
-      "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "PUBLICADO",
-      "condutor": "SERGIO CARNEIRO CAVALCANTI DE AZEVEDO",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO",
-      "publicacao": "13/04/2026 11:54",
-      "inicio_recepcao": "15/04/2026 08:30",
-      "fim_recepcao": "28/04/2026 09:15",
-      "inicio_disputa": "28/04/2026 09:30",
-      "objeto": "Contratação de empresa especializada em fornecimento de VEÍCULOS TIPO PICAPE CABINE DUPLA\n(bens permanentes), a fim de atender as demandas da Secretaria Municipal de Educação.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DednPJtzscEF65XMgHPALV_hjK91j0Ep6zpltSoPnT9Rlel%2FPIlDp7dbEF6kFxCutFvwxS2%2FDZ2VGn2U_m7%2Fd60lDrQLEruqD9AtS0LOmIxE%3D",
-      "total_lotes": 1,
-      "total_itens": 1,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "VEICULOS PICAPE CABINA DUPLA",
-          "fase": "PUBLICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "73973900009 Veículo automotor zero quilômetro, tipo picapeleve/compacta:com cabine dupla, 4 portas, capacidade para 5(cinco) ocupantes incluindo o motorista. Ano defabricação/modelo 2026, combustível tipo flex (álcool/gasolina),motorização mínima de 1.3L (ou superior), potência mínima107cv. Tração 4x2, câmbio manual ou automático, com, nomínimo, 5 (cinco) marchas à frente (ou conforme tecnologiadisponível em câmbio automático), visando melhor desempenho,segurança e economia de combustível. Veículo dotado dedireção com assistência elétrica, sistema de freios com ABS eEBD (ou equivalente), airbag frontal para motorista e passageiro,cintos de segurança de 3 (três) pontos para todos os ocupantes(quando aplicável) e encostos de cabeça, atendendointegralmente às normas de segurança vigentes. Vidros elétricosnas portas dianteiras e traseiras, travas elétricas nas portas comtravamento central e acionamento por meio de comando internoe pela chave ou dispositivo equivalente. Sistema de arcondicionado frio/quente, com difusores frontais, adequado aoconforto térmico dos ocupantes, com comandos de fácil acessoao motorista. Carroceria com caçamba traseira aberta, comcapacidade de carga mínima de 600kg, dotada de protetor decaçamba (forração ou protetor em material plástico ou similar),capota marítima ou equivalente, ganchos ou pontos deamarração de carga conforme projeto do fabricante, permitindo otransporte de materiais leves, equipamentos, mobiliários depequeno porte, materiais pedagógicos e insumos administrativos.Sistema multimídia, no mínimo, conexão Bluetooth e rádio, altofalantes instalados, entrada USB ou equivalente, painel deinstrumentos com indicadores básicos (velocímetro, marcador decombustível, hodômetro, luzes de advertência) e computador debordo. Comando interno e elétricos para regulagem deretrovisores externos, desembaçador do vidro traseiro (quandoaplicável), limpador e lavador de para-brisa dianteiro comtemporizador. Equipado, no mínimo, com sensor deestacionamento traseiro e câmera de ré (admite-se um dos doisou ambos), faróis com regulagem de foco (manual ou elétrica,conforme projeto de fábrica), iluminação traseira completa, luz defreio elevada, aviso sonoro de faróis acesos e/ou portas abertas,conforme configuração de série. Bancos revestidos em courosintético de fábrica ou material similar, banco do motorista comajuste de distância e inclinação, porta-objetos distribuídos nopainel (VIDE ANEXO DO TERMO).",
-              "unidade": "UN",
-              "quantidade": "4,00",
-              "valor_referencia": ""
             }
           ]
         }
@@ -265748,6 +265660,94 @@
               "unidade": "KM",
               "quantidade": "10.000,00",
               "valor_referencia": "16,76"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-065-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "202 / 2026",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "RECEPÇÃO DE PROPOSTAS",
+      "condutor": "SERGIO CARNEIRO CAVALCANTI DE AZEVEDO",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO",
+      "publicacao": "13/04/2026 11:54",
+      "inicio_recepcao": "15/04/2026 08:30",
+      "fim_recepcao": "28/04/2026 09:15",
+      "inicio_disputa": "28/04/2026 09:30",
+      "objeto": "Contratação de empresa especializada em fornecimento de VEÍCULOS TIPO PICAPE CABINE DUPLA\n(bens permanentes), a fim de atender as demandas da Secretaria Municipal de Educação.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DKrDc4fosxYYeZyQJFBXdq7d%2FRiJgGN%2FTxhYCLdSNdqXA4rAMAtAqSWBB5hqCRqopMoRRhIeDd_6%2FKuoNcr1KfER42BaZM15oqkMjLPf18G0%3D",
+      "total_lotes": 1,
+      "total_itens": 1,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "VEICULOS PICAPE CABINA DUPLA",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "73973900009 Veículo automotor zero quilômetro, tipo picapeleve/compacta:com cabine dupla, 4 portas, capacidade para 5(cinco) ocupantes incluindo o motorista. Ano defabricação/modelo 2026, combustível tipo flex (álcool/gasolina),motorização mínima de 1.3L (ou superior), potência mínima107cv. Tração 4x2, câmbio manual ou automático, com, nomínimo, 5 (cinco) marchas à frente (ou conforme tecnologiadisponível em câmbio automático), visando melhor desempenho,segurança e economia de combustível. Veículo dotado dedireção com assistência elétrica, sistema de freios com ABS eEBD (ou equivalente), airbag frontal para motorista e passageiro,cintos de segurança de 3 (três) pontos para todos os ocupantes(quando aplicável) e encostos de cabeça, atendendointegralmente às normas de segurança vigentes. Vidros elétricosnas portas dianteiras e traseiras, travas elétricas nas portas comtravamento central e acionamento por meio de comando internoe pela chave ou dispositivo equivalente. Sistema de arcondicionado frio/quente, com difusores frontais, adequado aoconforto térmico dos ocupantes, com comandos de fácil acessoao motorista. Carroceria com caçamba traseira aberta, comcapacidade de carga mínima de 600kg, dotada de protetor decaçamba (forração ou protetor em material plástico ou similar),capota marítima ou equivalente, ganchos ou pontos deamarração de carga conforme projeto do fabricante, permitindo otransporte de materiais leves, equipamentos, mobiliários depequeno porte, materiais pedagógicos e insumos administrativos.Sistema multimídia, no mínimo, conexão Bluetooth e rádio, altofalantes instalados, entrada USB ou equivalente, painel deinstrumentos com indicadores básicos (velocímetro, marcador decombustível, hodômetro, luzes de advertência) e computador debordo. Comando interno e elétricos para regulagem deretrovisores externos, desembaçador do vidro traseiro (quandoaplicável), limpador e lavador de para-brisa dianteiro comtemporizador. Equipado, no mínimo, com sensor deestacionamento traseiro e câmera de ré (admite-se um dos doisou ambos), faróis com regulagem de foco (manual ou elétrica,conforme projeto de fábrica), iluminação traseira completa, luz defreio elevada, aviso sonoro de faróis acesos e/ou portas abertas,conforme configuração de série. Bancos revestidos em courosintético de fábrica ou material similar, banco do motorista comajuste de distância e inclinação, porta-objetos distribuídos nopainel (VIDE ANEXO DO TERMO).",
+              "unidade": "UN",
+              "quantidade": "4,00",
+              "valor_referencia": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2-DLE-031-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "240/2026",
+      "modalidade": "DISPENSA ELETRÔNICA",
+      "situacao": "FRACASSADO",
+      "condutor": "ISAQUE SILVA DOS SANTOS",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO",
+      "publicacao": "02/04/2026 17:54",
+      "inicio_recepcao": "02/04/2026 18:05",
+      "fim_recepcao": "10/04/2026 08:15",
+      "inicio_disputa": "10/04/2026 08:30",
+      "objeto": "Contratação de empresa especializada em fornecimento de [TELAS MOSQUITEIRAS PARA JANELAS E BASCULANTES]\n(material de consumo), a fim de atender às necessidades da Secretaria Municipal de Administração.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DZvfS4R8c0NsCD7AQ4AJwvQFXlkJKC7e9LUUYSFiHCbv0sn%2FQfXNmgODvoQT1J4pbLtncgFXweHZTDUNRAXZndC6GvVSEgCS471LfSGcdtcI%3D",
+      "total_lotes": 1,
+      "total_itens": 1,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "TELA MOSQUISTEIRA",
+          "fase": "FRACASSADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "8.019,60",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515461 Tela mosquiteira em fibra de vidro revestida emPVC:cor cinza, fornecida em rolo com largura nominal de 1,20m e comprimento de 50 m, totalizando aproximadamente 60m² por rolo, com malha fina tipo 18 x 16 fios por polegada ouequivalente. Adequada para proteção contra insetos, vetorese pragas urbanas, permitindo ampla circulação de ar epassagem de luz natural, sem comprometer a luminosidadedo ambiente.Produto antialérgico, inodoro, lavável com águae detergente neutro, de fácil corte e instalação, que não desfianas bordas, não resseca, não rasga com facilidade, resistentea raios UV, intempéries, umidade e fungos, com característicade nãopropagação de chamas e alta durabilidade em usocontínuo. Destinada à instalação em janelas, portas,basculantes e demais aberturas de cozinhas, despensas eáreas de preparo e armazenamento de alimentos dasunidades escolares da rede municipal, para confecção demódulos fixos ou removíveis pelas equipes internas demarcenaria e serralheria da Secretaria Municipal deEducação, em conformidade com as exigências sanitáriaspara barreiras físicas e com especificações técnicasUsualmente adotadas em contratações públicas. EXCLUSIVOPARA ME/EPP.",
+              "unidade": "ROL",
+              "quantidade": "30,00",
+              "valor_referencia": "267,32"
             }
           ]
         }
