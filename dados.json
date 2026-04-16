@@ -1,10 +1,10 @@
 {
   "metadata": {
     "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-    "total_processos": 764,
-    "total_lotes": 8647,
-    "total_itens": 14781,
-    "atualizado_em": "20260415_193523"
+    "total_processos": 766,
+    "total_lotes": 8661,
+    "total_itens": 14795,
+    "atualizado_em": "20260416_193508"
   },
   "processos": [
     {
@@ -242958,99 +242958,6 @@
       ]
     },
     {
-      "id": "CE-002-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "137/2026",
-      "modalidade": "CONCORRÊNCIA ELETRÔNICA",
-      "situacao": "HABILITAÇÃO",
-      "condutor": "DAVIDSON ARAUJO SANTOS",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO PARCELADA",
-      "publicacao": "13/02/2026 18:49",
-      "inicio_recepcao": "18/02/2026 08:00",
-      "fim_recepcao": "24/03/2026 08:15",
-      "inicio_disputa": "24/03/2026 08:30",
-      "objeto": "Contratação de empresa especializada em execução de obras de construção de um centro educacional, com piscina anexa, localizado no bairro Caminho do Mar, no município de Teixeira de Freitas – BA.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5D2g26K%2FdqImXgUD5uycNUC2t55C1mm_JrPLflbl37q7QC%2F_fwKca1rkDXDtBeIwS80PyL7iY%2FM3kcpaI7ttReFTLnfWcAJDFRIq52UmcWeRk%3D",
-      "total_lotes": 1,
-      "total_itens": 8,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "EXECUÇÃO DE OBRAS DE CONSTRUÇÃO DE UM CENTRO EDUCACIONAL, COM PISCINA ANEXA, LOCALIZADO NO BAIRRO CAMINHO DO MAR",
-          "fase": "HABILITAÇÃO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "1.000,00",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "16.917.978,48",
-          "vencedor": "EJOS CONSTRUCOES E INSTALACOES LTDA",
-          "melhor_oferta": "14.500.000,00",
-          "total_itens": 8,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "ÁREA COMUM COMPLEXO EDUCACIONAL",
-              "unidade": "SERVIÇO",
-              "quantidade": "1,00",
-              "valor_referencia": "3.628.946,66"
-            },
-            {
-              "numero": "2",
-              "especificacao": "PISCINAS (INFANTIL E SEMI-OLÍMPICA)",
-              "unidade": "SERVIÇO",
-              "quantidade": "1,00",
-              "valor_referencia": "1.311.145,07"
-            },
-            {
-              "numero": "3",
-              "especificacao": "EDIFICAÇÃO: SALÃO COBERTO",
-              "unidade": "SERVIÇO",
-              "quantidade": "1,00",
-              "valor_referencia": "457.160,11"
-            },
-            {
-              "numero": "4",
-              "especificacao": "ÁREA EXTERNA (MURO, PAISAGISMO, FITNESS, PLAYGROUND, PERGOLADO, PISTA DE SALTO)",
-              "unidade": "SERVIÇO",
-              "quantidade": "1,00",
-              "valor_referencia": "1.514.050,50"
-            },
-            {
-              "numero": "5",
-              "especificacao": "QUADRA",
-              "unidade": "SERVIÇO",
-              "quantidade": "1,00",
-              "valor_referencia": "381.109,99"
-            },
-            {
-              "numero": "6",
-              "especificacao": "CRECHE",
-              "unidade": "SERVIÇO",
-              "quantidade": "1,00",
-              "valor_referencia": "5.142.211,41"
-            },
-            {
-              "numero": "7",
-              "especificacao": "EMEI",
-              "unidade": "SERVIÇO",
-              "quantidade": "1,00",
-              "valor_referencia": "4.450.454,74"
-            },
-            {
-              "numero": "8",
-              "especificacao": "SERVIÇOS FINAIS",
-              "unidade": "SERVIÇO",
-              "quantidade": "1,00",
-              "valor_referencia": "32.900,00"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "PE-005-2026",
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "1483/2026",
@@ -253799,102 +253706,6 @@
       ]
     },
     {
-      "id": "PE-055-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "1366/2025",
-      "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "RECEPÇÃO DE PROPOSTAS",
-      "condutor": "JONATAS DA SILVA SOUSA",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO PARCELADA",
-      "publicacao": "30/03/2026 18:49",
-      "inicio_recepcao": "01/04/2026 08:30",
-      "fim_recepcao": "16/04/2026 08:15",
-      "inicio_disputa": "16/04/2026 08:30",
-      "objeto": "Contratação de empresa especializada em prestação de serviço de MANUTENÇÃO PREVENTIVA, MANUTENÇÃO CORRETIVA E FORNECIMENTO DE PEÇAS E COMPONENTES ORIGINAIS OU COMPATÍVEIS DE QUALIDADE COMPROVADA DE GERADORES E CÂMARAS FRIAS, a fim de atender as demandas da Secretaria Municipal de Administração e demais Secretarias.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DSUsPrdjOevR6uF0WxqhJrD46Orm4IIOllJP9WHgfKNzA2r4Mx8aXuabZUezzZRFBTpSfoL5%2F5V7rY_3G_LglWndza8ZVfUgRxj%2FX4eKnOpU%3D",
-      "total_lotes": 2,
-      "total_itens": 6,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "CAMARAS FRIAS",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 3,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9902900079 MANUTENÇÃO PREVENTIVA EM GERADORES DOMUNICÍPIO:Execução de serviços de manutenção preventiva em geradores de energia elétrica pertencentes ao Município, abrangendo inspeção, limpeza, lubrificação, ajustes e testes de funcionamento, de acordo com as especificações do fabricante e as normas técnicas aplicáveis. O serviço inclui a identificação de componentes desgastados ou com desempenho inferior ao especificado, garantindo a operação confiável e contínua dos equipamentos. Devem ser verificados sistemas elétricos, mecânicos e de combustível, filtros, cabos, conexões e demais elementos críticos, assegurando a eficiência, durabilidade e segurança do gerador. O serviço deverá ser realizado por equipe técnica capacitada, utilizando ferramentas, equipamentos e procedimentos adequados, com emissão de relatório detalhado de todas as ações realizadas.",
-              "unidade": "SERV",
-              "quantidade": "8,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "2",
-              "especificacao": "36333 MANUTENÇÃO CORRETIVA EM GERADORES DOMUNICÍPIO:Execução de serviços de manutenção corretiva em geradores de energia elétrica do Município, abrangendo diagnóstico de falhas, reparos e normas técnicas aplicáveis. Devem ser verificados e reparados sistemas elétricos, mecânicos e de combustível, filtros, cabos, conexões e demais elementos críticos, assegurando eficiência, segurança e confiabilidade do gerador. A execução deverá ser realizada por equipe técnica qualificada, utilizando ferramentas, equipamentos e procedimentos adequados, com emissão de relatório detalhado contendo as falhas identificadas, os serviços realizados",
-              "unidade": "SERV",
-              "quantidade": "16,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "3",
-              "especificacao": "36336 FORNECIMENTO DE PEÇAS E COMPONENTES ORIGINAIS OU COMPATÍVEIS DE QUALIDADE COMPROVADA DEGERADORES:Fornecimento de peças e componentes necessários para manutenção preventiva e corretiva de geradores do Município. Todos os itens fornecidos deverão ser originais ou compatíveis de qualidade comprovada, garantindo a operação eficiente, segura e contínua dos equipamentos.",
-              "unidade": "Und.",
-              "quantidade": "1,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "2",
-          "titulo": "CAMARAS FRIAS",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 3,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "36334 MANUTENÇÃO PREVENTIVA EM CÂMARAS FRIAS DOMUNICÍPIO:Execução de serviços de manutenção preventiva em câmaras frias do Município, abrangendo inspeção, limpeza, ajustes, lubrificação, calibração e testes de funcionamento, de acordo com as especificações do fabricante, normas técnicas aplicáveis e procedimentos necessários para garantir operação adequada e eficiente. O serviço inclui a identificação de peças e componentes desgastados ou com desempenho abaixo do recomendado. Devem ser verificadas todas as partes críticas da câmara fria, incluindo sistemas de refrigeração, compressores, evaporadores, condensadores, válvulas, sensores, cabos e conexões. A manutenção deverá ser realizada por equipe técnica capacitada, utilizando ferramentas e procedimentos apropriados, e acompanhada de relatório detalhado contendo todas as ações realizadas",
-              "unidade": "SERV",
-              "quantidade": "8,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "2",
-              "especificacao": "36335 MANUTENÇÃO CORRETIVA EM CÂMARAS FRIAS DOMUNICÍPIO:Execução de serviços de manutenção corretiva em câmaras frias do Município, abrangendo diagnóstico, reparo e restauração do pleno funcionamento dos equipamentos, de acordo com as especificações do fabricante e normas técnicas aplicáveis. Devem ser verificados e reparados todos os sistemas críticos, incluindo refrigeração, compressores, evaporadores, condensadores, válvulas, sensores, cabos e conexões. A manutenção corretiva deverá ser realizada por equipe técnica capacitada, utilizando ferramentas e procedimentos adequados, e acompanhada de relatório detalhado contendo todas as ações executadas.",
-              "unidade": "SERV",
-              "quantidade": "16,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "3",
-              "especificacao": "9902900080FORNECIMENTO DE PEÇAS E COMPONENTES ORIGINAIS OU COMPATÍVEIS DE QUALIDADE COMPROVADA DE CÂMARASFRIAS:Fornecimento de peças e componentes necessários para manutenção preventiva e corretiva de câmaras frias do Município. Todos os itens fornecidos deverão ser originais ou compatíveis de qualidade comprovada, garantindo a operação eficiente, segura e contínua dos equipamentos",
-              "unidade": "Und.",
-              "quantidade": "1,00",
-              "valor_referencia": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "PE-043-2026",
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "119/2026",
@@ -261935,218 +261746,6 @@
       ]
     },
     {
-      "id": "2-DLE-036-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "266 / 2026",
-      "modalidade": "DISPENSA ELETRÔNICA",
-      "situacao": "RECEPÇÃO DE PROPOSTAS",
-      "condutor": "ISLA LIMA SILVA",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO",
-      "publicacao": "10/04/2026 15:44",
-      "inicio_recepcao": "10/04/2026 16:00",
-      "fim_recepcao": "16/04/2026 08:15",
-      "inicio_disputa": "16/04/2026 08:30",
-      "objeto": "Contratação de empresa especializada em fornecimento de MATERIAIS ESPORTIVOS (material de consumo), quantidades e demais condições encontram-se detalhadas neste instrumento, a fim de atender às demandas da Secretaria Municipal de Esporte e Lazer.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DFuDQDYdWibQOn9WhlTEXIaeSl32SvCV56Xhjd6Z8rgrHiGnywMVHVZ9PobQ048wd35J5P0S_SS8RTGDMaxIRM7ciJ6ZbafVcW79o1Q7Fv3c%3D",
-      "total_lotes": 8,
-      "total_itens": 8,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "9900515533 BOLA DE FUTEBOL DE CAMPO (padrãocompetição   alto rendimento) | tamanho 5:peso 410 a 450 g; circunferência 68 a 70 cm; revestimento em PU (vedado PVC ou material inferior); construção termofusionada/termosoldada (ou equivalente sem costuras ex",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "3.321,80",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900515533 BOLA DE FUTEBOL DE CAMPO (padrãocompetição alto rendimento) | tamanho 5:peso 410 a 450 g; circunferência 68 a 70 cm; revestimento em PU (vedado PVC ou material inferior); construção termofusionada/termosoldada (ou equivalente sem costuras expostas); câmara butílica; baixa absorção de água, esfericidade e estabilidade de voo compatíveis com padrão competição; certificação obrigatória FIFA Quality ou FIFA Quality PRO (aceita-se IMS/International Match Standard quando comprovado por documentação do fabricante). EXCLUSIVO PARA ME/EPP.",
-              "unidade": "UND",
-              "quantidade": "10,00",
-              "valor_referencia": "332,18"
-            }
-          ]
-        },
-        {
-          "numero": "2",
-          "titulo": "9900515534 BOLA DE FUTSAL (padrão competição   alto rendimento) | tamanho oficial:circunferência 62 a 64 cm; peso 400 a 440 g; quique controlado (low bounce) 50 a 65 cm quando solta de 2 m; revestimento em PU (vedado PVC ou material inferior); construção",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "3.317,50",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900515534 BOLA DE FUTSAL (padrão competição alto rendimento) | tamanho oficial:circunferência 62 a 64 cm; peso 400 a 440 g; quique controlado (low bounce) 50 a 65 cm quando solta de 2 m; revestimento em PU (vedado PVC ou material inferior); construção termofusionada/termosoldada, 0% de absorção de água; câmara butílica (ou equivalente); miolo substituível; certificação obrigatória FIFA Quality ou FIFA Quality PRO (Futsal) ou certificação CBFS/FPFS (ou equivalente oficialmente reconhecida), comprovada por documentação; garantia mínima 12 meses; documentação obrigatória: ficha técnica/catálogo com peso, circunferência, material, construção, quique e câmara + comprovante de certificação. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "UND",
-              "quantidade": "10,00",
-              "valor_referencia": "331,75"
-            }
-          ]
-        },
-        {
-          "numero": "3",
-          "titulo": "9900515535 CONE, tipo chapéu chinês:CONE, tipo chapéu chinês, para demarcação e treinamento esportivo, material plástico flexível, com largura mínima de 19 cm e altura mínima de 4,5cm, na cor verde. EXCLUSIVO PARA ME/EPP.",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "114,50",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900515535 CONE, tipo chapéu chinês:CONE, tipo chapéu chinês, para demarcação e treinamento esportivo, material plástico flexível, com largura mínima de 19 cm e altura mínima de 4,5cm, na cor verde. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "UND",
-              "quantidade": "50,00",
-              "valor_referencia": "2,29"
-            }
-          ]
-        },
-        {
-          "numero": "4",
-          "titulo": "9900515536 MINI CONE PEQUENO:Cone de treino pequeno, altura 30cm, material: pp, material de grande durabilidade e flexível. EXCLUSIVO PARA ME/EPP.",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "235,50",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900515536 MINI CONE PEQUENO:Cone de treino pequeno, altura 30cm, material: pp, material de grande durabilidade e flexível. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "UND",
-              "quantidade": "50,00",
-              "valor_referencia": "4,71"
-            }
-          ]
-        },
-        {
-          "numero": "5",
-          "titulo": "9900515537 REDE DE FUTEBOL TIPO VÉU DECAMPO:Oficial, em nylon, fio de 6mm, par (2 unidades). EXCLUSIVO PARA ME/EPP.EXCLUSIVO PARA ME/EPP.",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "4.812,40",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900515537 REDE DE FUTEBOL TIPO VÉU DECAMPO:Oficial, em nylon, fio de 6mm, par (2 unidades). EXCLUSIVO PARA ME/EPP.EXCLUSIVO PARA ME/EPP.",
-              "unidade": "PAR",
-              "quantidade": "10,00",
-              "valor_referencia": "481,24"
-            }
-          ]
-        },
-        {
-          "numero": "6",
-          "titulo": "9900515538 REDE DE FUTSAL TIPO VÉU 12X12CM:Rede defutsal, fio de 6mm em polietileno de alta densidade e proteção anti-uv, malha 13x13 medindo 2,0 x 3,10 x 1,0 mts, par (2 unidades). EXCLUSIVO PARA ME/EPP.",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "2.004,90",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900515538 REDE DE FUTSAL TIPO VÉU 12X12CM:Rede defutsal, fio de 6mm em polietileno de alta densidade e proteção anti-uv, malha 13x13 medindo 2,0 x 3,10 x 1,0 mts, par (2 unidades). EXCLUSIVO PARA ME/EPP.",
-              "unidade": "PAR",
-              "quantidade": "10,00",
-              "valor_referencia": "200,49"
-            }
-          ]
-        },
-        {
-          "numero": "7",
-          "titulo": "9900515539 Camisa em tecido esportivo (dry fit ou similar):adequado para prática de atividades físicas.  Estampa na parte frontal: Logomarca do município de teixeira de Freitas; Logomarca oficial do evento centralizada na frente da camisa.Estampa na part",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "9.330,00",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900515539 Camisa em tecido esportivo (dry fit ou similar):adequado para prática de atividades físicas. Estampa na parte frontal: Logomarca do município de teixeira de Freitas; Logomarca oficial do evento centralizada na frente da camisa.Estampa na parte traseira: Aplicação das logomarcas dos patrocinadores do evento. Impressão em alta qualidade (transfer, sublimação ou similar), garantindo durabilidade e boa visibilidade das marcas. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "UND",
-              "quantidade": "200,00",
-              "valor_referencia": "46,65"
-            }
-          ]
-        },
-        {
-          "numero": "8",
-          "titulo": "9900515540 Colete Esportivo:Colete esportivo confeccionado em tecido leve e respirável, ideal para treinos, jogos e atividades físicas. Desenvolvido para facilitar a identificação rápida de equipes ou participantes durante práticas esportivas.Confecciona",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "1.422,40",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900515540 Colete Esportivo:Colete esportivo confeccionado em tecido leve e respirável, ideal para treinos, jogos e atividades físicas. Desenvolvido para facilitar a identificação rápida de equipes ou participantes durante práticas esportivas.Confeccionado em malha 100% poliéster ou dry fit; Tecido leve, resistente e de secagem rápida; Modelagem ampla, permitindo uso sobre camisetas ou uniformes; Laterais abertas ou com elástico, proporcionando melhor ajuste ao corpo; Alta durabilidade para uso frequente em treinos e competições; Cores variadas e vivas para fácil visualização (ex.: amarelo, verde, laranja, azul ou vermelho); Tamanho único ou tamanhos P, M, G e GG; Acabamento com costura reforçada nas bordas.EXCLUSIVO PARA ME/EPP.",
-              "unidade": "UND",
-              "quantidade": "140,00",
-              "valor_referencia": "10,16"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "PE-054-2026",
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "232/2026",
@@ -262229,50 +261828,6 @@
               "unidade": "KM",
               "quantidade": "4.800,00",
               "valor_referencia": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "PE-053-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "309/2026",
-      "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "HABILITAÇÃO",
-      "condutor": "DAVIDSON ARAUJO SANTOS",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO PARCELADA",
-      "publicacao": "24/03/2026 21:21",
-      "inicio_recepcao": "25/03/2026 08:00",
-      "fim_recepcao": "10/04/2026 08:15",
-      "inicio_disputa": "16/04/2026 08:10",
-      "objeto": "Contratação de empresa especializada em serviços de engenharia para o fornecimento de bancas em estruturas metálicas (bancas de frutas e verduras), no município de Teixeira de Freitas – BA.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DqvoFhFdvcXK9QPx8y7w5dN3WNEETmw1Ei9DkegJeHW2JiWf4NCAAMZlYcwJOKk_CkSovHrUeeAiUHcWcc%2FzmLQZpnAjxL3N0bSVlssa3dF0%3D",
-      "total_lotes": 1,
-      "total_itens": 1,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "SERVIÇOS DE ENGENHARIA PARA O FORNECIMENTO DE BANCAS EM ESTRUTURAS METÁLICAS (BANCAS DE FRUTAS E VERDURAS)",
-          "fase": "HABILITAÇÃO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "1.000,00",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "1.200.887,10",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "BANCA EM ESTRUTURA METÁLICA",
-              "unidade": "UNID.",
-              "quantidade": "1,00",
-              "valor_referencia": "1.200.887,10"
             }
           ]
         }
@@ -265748,6 +265303,827 @@
               "unidade": "ROL",
               "quantidade": "30,00",
               "valor_referencia": "267,32"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-067-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "315 / 2026",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "PUBLICADO",
+      "condutor": "JONATAS DA SILVA SOUSA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "REGISTRO DE PREÇO",
+      "publicacao": "16/04/2026 17:14",
+      "inicio_recepcao": "20/04/2026 08:30",
+      "fim_recepcao": "30/04/2026 08:15",
+      "inicio_disputa": "30/04/2026 08:30",
+      "objeto": "Contratação de empresa especializada em fornecimento de EQUIPAMENTOS DE INFORMÁTICA, ÁUDIO, VÍDEO E ACESSÓRIOS TECNOLÓGICOS,  a fim de atender as demandas da Secretaria Municipal de Educação.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5D7NojFkM_rkDQEsrxxWBCzZ6TMxkfpcDFVrpJiMsfFDK%2FUkZRwr1P1SnmGxxChho5h65hKoRq805RCsRFSEcqbnF6fYTA9wSjZbO6ssgd0Bk%3D",
+      "total_lotes": 13,
+      "total_itens": 13,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "9900515569 Cartão SD:SD 128g, classe 10 200 MBS.",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515569 Cartão SD:SD 128g, classe 10 200 MBS.",
+              "unidade": "UND",
+              "quantidade": "6,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "2",
+          "titulo": "5707611158 Softbox:minimo de 90cm de diametro. Marca e modelo de referência: Triopo K2-90cm.",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "5707611158 Softbox:minimo de 90cm de diametro. Marca e modelo de referência: Triopo K2-90cm.",
+              "unidade": "UND",
+              "quantidade": "5,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "3",
+          "titulo": "9900515570 Case mochila:para equipamentos (mochila para transportar câmera), resistente a agua.",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515570 Case mochila:para equipamentos (mochila para transportar câmera), resistente a agua.",
+              "unidade": "UND",
+              "quantidade": "3,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "3",
+          "titulo": "9900515570 Case mochila:para equipamentos (mochila para transportar câmera), resistente a agua.",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515570 Case mochila:para equipamentos (mochila para transportar câmera), resistente a agua.",
+              "unidade": "UND",
+              "quantidade": "3,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "5",
+          "titulo": "37161 MICROFONE SHOTGUN PROFISSIONAL C/CAPTAÇÃO DIRECIONAL:Padrão Polar Super; Tipo de Captura Extremo; Faixa de Frequência 20Hz - 20kHz ; Impedância de Saída 200&#937;; Recursos: Sensibilidade -32,0dB re 1 Volt /+/- 2 dB @ 1kHz; Nível de Ruído Equivalen",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37161 MICROFONE SHOTGUN PROFISSIONAL C/CAPTAÇÃO DIRECIONAL:Padrão Polar Super; Tipo de Captura Extremo; Faixa de Frequência 20Hz - 20kHz ; Impedância de Saída 200&#937;; Recursos: Sensibilidade -32,0dB re 1 Volt /+/- 2 dB @ 1kHz; Nível de Ruído Equivalente (Ponderado A) 16Dba; Energia: Requisitos de Energia P12 P24 P48; Saída XLR. Conteúdo da embalagem: Microfone Shotgun Condensador Alimentado por Bateria ou Phantom Rode NTG-2 Montagem Contra Choque Universal para Sapatas de Câmera e Varas de Boom - Pearstone DUSM-1 Rode Windshield WS6 Deluxe para os microfones NTG2 e NTG1; Vara de Boom em Alumínio da Série Avalon com Cabo XLR Espiralado Interno - K-TekKE-89CC; Pearstone Cabo de Áudio Reto de XLR-M de 3 Pinos para XLR-F Angulado de 3 Pinos 6m; Cabo de Áudio Reto Pearstone de XLR-M de 3 Pinos para XLR-F Angulado de 3 Pinos 0,45m; Bolsa de Neoprene Pearstone para; Vara de Boom Fechada de 34\" com Microfone Shotgun e Softie; Punho de Microfone Universal Pearstone",
+              "unidade": "UND",
+              "quantidade": "2,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "6",
+          "titulo": "5707611159 DRONE DJI AVATA 02. Marca: DJI. Modelo: DroneDJI Avata 2 Fly More:Combo (3 baterias) BR - DJI049; Cor: Preto; Tempo de voo: Até 23 min; Distância máx. de  transmissão: 13 km; Detecção de obstáculos: Inferior e traseira; Vel. máx.: 97,2 km/h; R",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "5707611159 DRONE DJI AVATA 02. Marca: DJI. Modelo: DroneDJI Avata 2 Fly More:Combo (3 baterias) BR - DJI049; Cor: Preto; Tempo de voo: Até 23 min; Distância máx. de transmissão: 13 km; Detecção de obstáculos: Inferior e traseira; Vel. máx.: 97,2 km/h; Resistência a vento: 38,52 km/h; Câmera: 1/1,3 CMOS 12mm FOV 155; Resolução: Foto: 12 MP; Vídeo: até 4K/60 fps; Abertura: f/2,8; Tela do óculos: DJI Goggles 3: 0,49 Micro-OLED; Resolução do óculos: DJI Goggles 3: 1080p 100 fps; Duração e tipo de bateria: DJI Goggles 3: Até 3 horas, integrada ao óculos. Conteúdo da embalagem: 1 drone DJI Avata 2, 1 controle remoto DJI Motion 3, 1 alça de pulso para DJIMotion 3, 1 óculos de pilotagem DJI Goggles 3, 1 espuma DJIGoggles 3, 1 suporte para testa DJI Goggles 3, 1 par de lentes corretivas para DJI Goggles 3, 1 cabo USB-C OTG, 3 baterias DJI Avata 2, 2 pares de hélices DJI Avata 2, 8 parafusos para hélices DJI Avata 2, 1 ferramenta de remoção das hélices,1 protetor da câmera DJI Avata 2, 1 cabo Tipo-C, 1 Bolsa, 1 hub de carregamento de baterias com função de transferência de carga. Dimensões (LxAxC): 21,2 x 6,4 x 18,5cm; Peso: 377 g.",
+              "unidade": "UND",
+              "quantidade": "3,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "7",
+          "titulo": "5707611160 Controle Remoto DJI FPV 3 (DJI Avata 2/DJI Neo) BR - DJI1044:Marca: DJI. Modelo: DJI1044: Alcance máximo: 13 km; Frequência: 2.4; Quantidade de canais: 1; Duração da bateria: 10 h; Tipo de alimentação: Bateria; Tipos de conectores: USB-C; Com v",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "5707611160 Controle Remoto DJI FPV 3 (DJI Avata 2/DJI Neo) BR - DJI1044:Marca: DJI. Modelo: DJI1044: Alcance máximo: 13 km; Frequência: 2.4; Quantidade de canais: 1; Duração da bateria: 10 h; Tipo de alimentação: Bateria; Tipos de conectores: USB-C; Com visor: Não; Especificações Técnicas: Cor: CINZA; Peso do produto: 240g; Largura do produto: 16cm; Altura do produto: 8cm; Comprimento do produto: 21cm; Conteúdo da Embalagem: 1x controle remoto DJI FPV 3; 1x par de sticks de controle do DJI FPV 3; 1x chave de fenda em forma de L; Dimensão Produto com Base (mm): (CxLxA): 165x119x62 mm; Tempo de carregamento: 2h; Tempo de Operação: Aprox. 10 horas.",
+              "unidade": "UND",
+              "quantidade": "3,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "8",
+          "titulo": "9900515571 Processador Intel Core i7-14700 ou superior:soquete LGA1700, 20 núcleos físicos (8 Performance + 12 Efficient) e 28 threads, frequência turbo de no mínimo 5.4 GHz, cache L3 mínimo de 33 MB.",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515571 Processador Intel Core i7-14700 ou superior:soquete LGA1700, 20 núcleos físicos (8 Performance + 12 Efficient) e 28 threads, frequência turbo de no mínimo 5.4 GHz, cache L3 mínimo de 33 MB.",
+              "unidade": "UND",
+              "quantidade": "3,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "9",
+          "titulo": "37162 Air Cooler:TDP mínimo de 200W, com mínimo de 4  heatpipes, fabricado em cobre (base e heatpipe), aletas deresfriamento em alumínio, Velocidade Max de rotação 1200 RPM; compatível com soquete LGA1700.",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37162 Air Cooler:TDP mínimo de 200W, com mínimo de 4 heatpipes, fabricado em cobre (base e heatpipe), aletas deresfriamento em alumínio, Velocidade Max de rotação 1200 RPM; compatível com soquete LGA1700.",
+              "unidade": "UND",
+              "quantidade": "3,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "10",
+          "titulo": "37163 Memória RAM: 32 GB DDR5:em 2 módulos de 16 GB cada (dual channel), frequência efetiva mínima de 5600 MHz. Observação: Os dois módulos deverão ser da mesma marca e modelo.",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37163 Memória RAM: 32 GB DDR5:em 2 módulos de 16 GB cada (dual channel), frequência efetiva mínima de 5600 MHz. Observação: Os dois módulos deverão ser da mesma marca e modelo.",
+              "unidade": "PAR",
+              "quantidade": "3,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "10",
+          "titulo": "37163 Memória RAM: 32 GB DDR5:em 2 módulos de 16 GB cada (dual channel), frequência efetiva mínima de 5600 MHz. Observação: Os dois módulos deverão ser da mesma marca e modelo.",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37163 Memória RAM: 32 GB DDR5:em 2 módulos de 16 GB cada (dual channel), frequência efetiva mínima de 5600 MHz. Observação: Os dois módulos deverão ser da mesma marca e modelo.",
+              "unidade": "PAR",
+              "quantidade": "3,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "11",
+          "titulo": "5707611161 SSD M.2 NVMe:com capacidade mínima de 1 TB, interface PCI-Express 4.0 x4, velocidade de leitura sequencial mínima de 3.500 MB/s e gravação sequencial mínima de 3.000 MB/s, com memória do tipo 3D NAND.",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "5707611161 SSD M.2 NVMe:com capacidade mínima de 1 TB, interface PCI-Express 4.0 x4, velocidade de leitura sequencial mínima de 3.500 MB/s e gravação sequencial mínima de 3.000 MB/s, com memória do tipo 3D NAND.",
+              "unidade": "UND",
+              "quantidade": "6,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "11",
+          "titulo": "5707611161 SSD M.2 NVMe:com capacidade mínima de 1 TB, interface PCI-Express 4.0 x4, velocidade de leitura sequencial mínima de 3.500 MB/s e gravação sequencial mínima de 3.000 MB/s, com memória do tipo 3D NAND.",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "5707611161 SSD M.2 NVMe:com capacidade mínima de 1 TB, interface PCI-Express 4.0 x4, velocidade de leitura sequencial mínima de 3.500 MB/s e gravação sequencial mínima de 3.000 MB/s, com memória do tipo 3D NAND.",
+              "unidade": "UND",
+              "quantidade": "6,00",
+              "valor_referencia": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2-DLE-041-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "240-2026",
+      "modalidade": "DISPENSA ELETRÔNICA",
+      "situacao": "RECEPÇÃO DE PROPOSTAS",
+      "condutor": "ISLA LIMA SILVA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO",
+      "publicacao": "15/04/2026 20:47",
+      "inicio_recepcao": "15/04/2026 21:00",
+      "fim_recepcao": "22/04/2026 08:15",
+      "inicio_disputa": "22/04/2026 08:30",
+      "objeto": "Contratação de empresa especializada em fornecimento de [TELAS MOSQUITEIRAS PARA JANELAS E BASCULANTES]\n(material de consumo), a fim de atender as necessidades da Secretaria Municipal de Administração, conforme condições, quantidades e exigências estabelecidas neste Aviso de Contratação Direta, Termo de Referência e seus Anexos.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DxoBbHszkMNVwEUTv3%2Fpd875FOJDX9KYmuxmLQH0vW3ldOJWZEMNNr8uyXDi8auFsnocc6EPVPu0Tt8FuTz8MYX2s%2Ffaf112Ot4kRUVk4dMU%3D",
+      "total_lotes": 1,
+      "total_itens": 1,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "TELAS MOSQUITEIRAS",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "",
+          "garantia": "",
+          "valor_referencia": "8.019,60",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515461 Tela mosquiteira em fibra de vidro revestida emPVC:cor cinza, fornecida em rolo com largura nominal de 1,20 me comprimento de 50 m, totalizando aproximadamente 60 m² porrolo, com malha fina tipo 18 x 16 fios por polegada ouequivalente. Adequada para proteção contra insetos, vetores epragas urbanas, permitindo ampla circulação de ar e passagemde luz natural, sem comprometer a luminosidade do ambiente.Produto antialérgico, inodoro, lavável com água e detergenteneutro, de fácil corte e instalação, que não desfia nas bordas,não resseca, não rasga com facilidade, resistente a raios UV,intempéries, umidade e fungos, com característica de nãopropagação de chamas e alta durabilidade em uso contínuo.Destinada à instalação em janelas, portas, basculantes e demaisaberturas de cozinhas, despensas e áreas de preparo earmazenamento de alimentos das unidades escolares da redemunicipal, para confecção de módulos fixos ou removíveis pelasequipes internas de marcenaria e serralheria da SecretariaMunicipal de Educação, em conformidade com as exigênciassanitárias para barreiras físicas e com especificações técnicasusualmente adotadas em contratações públicas. EXCLUSIVOPARA ME/EPP.",
+              "unidade": "ROL",
+              "quantidade": "30,00",
+              "valor_referencia": "267,32"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2-DLE-036-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "266 / 2026",
+      "modalidade": "DISPENSA ELETRÔNICA",
+      "situacao": "JULGAMENTO",
+      "condutor": "ISLA LIMA SILVA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO",
+      "publicacao": "10/04/2026 15:44",
+      "inicio_recepcao": "10/04/2026 16:00",
+      "fim_recepcao": "16/04/2026 08:15",
+      "inicio_disputa": "16/04/2026 08:30",
+      "objeto": "Contratação de empresa especializada em fornecimento de MATERIAIS ESPORTIVOS (material de consumo), quantidades e demais condições encontram-se detalhadas neste instrumento, a fim de atender às demandas da Secretaria Municipal de Esporte e Lazer.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5Du1jVwZY2plKmZOgUlH48pbDBepM3UVvIGDu68fpEaqZamUftt_lCJtRxVK1vyX%2FBjCjsE8UVG1jpSFdhTg8MLmIQZqL9W3hH9MmVUt9MMJ0%3D",
+      "total_lotes": 8,
+      "total_itens": 8,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "9900515533 BOLA DE FUTEBOL DE CAMPO (padrãocompetição   alto rendimento) | tamanho 5:peso 410 a 450 g; circunferência 68 a 70 cm; revestimento em PU (vedado PVC ou material inferior); construção termofusionada/termosoldada (ou equivalente sem costuras ex",
+          "fase": "JULGAMENTO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "3.321,80",
+          "vencedor": "ROSILENE TONATTO SPAZZINI - EPP",
+          "melhor_oferta": "1.999,99",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515533 BOLA DE FUTEBOL DE CAMPO (padrãocompetição alto rendimento) | tamanho 5:peso 410 a 450 g; circunferência 68 a 70 cm; revestimento em PU (vedado PVC ou material inferior); construção termofusionada/termosoldada (ou equivalente sem costuras expostas); câmara butílica; baixa absorção de água, esfericidade e estabilidade de voo compatíveis com padrão competição; certificação obrigatória FIFA Quality ou FIFA Quality PRO (aceita-se IMS/International Match Standard quando comprovado por documentação do fabricante). EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "10,00",
+              "valor_referencia": "332,18"
+            }
+          ]
+        },
+        {
+          "numero": "2",
+          "titulo": "9900515534 BOLA DE FUTSAL (padrão competição   alto rendimento) | tamanho oficial:circunferência 62 a 64 cm; peso 400 a 440 g; quique controlado (low bounce) 50 a 65 cm quando solta de 2 m; revestimento em PU (vedado PVC ou material inferior); construção",
+          "fase": "JULGAMENTO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "3.317,50",
+          "vencedor": "TRINCA ESPORTES LTDA",
+          "melhor_oferta": "2.420,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515534 BOLA DE FUTSAL (padrão competição alto rendimento) | tamanho oficial:circunferência 62 a 64 cm; peso 400 a 440 g; quique controlado (low bounce) 50 a 65 cm quando solta de 2 m; revestimento em PU (vedado PVC ou material inferior); construção termofusionada/termosoldada, 0% de absorção de água; câmara butílica (ou equivalente); miolo substituível; certificação obrigatória FIFA Quality ou FIFA Quality PRO (Futsal) ou certificação CBFS/FPFS (ou equivalente oficialmente reconhecida), comprovada por documentação; garantia mínima 12 meses; documentação obrigatória: ficha técnica/catálogo com peso, circunferência, material, construção, quique e câmara + comprovante de certificação. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "10,00",
+              "valor_referencia": "331,75"
+            }
+          ]
+        },
+        {
+          "numero": "3",
+          "titulo": "9900515535 CONE, tipo chapéu chinês:CONE, tipo chapéu chinês, para demarcação e treinamento esportivo, material plástico flexível, com largura mínima de 19 cm e altura mínima de 4,5cm, na cor verde. EXCLUSIVO PARA ME/EPP.",
+          "fase": "JULGAMENTO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "114,50",
+          "vencedor": "D.E.A CALCADOS LTDA",
+          "melhor_oferta": "98,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515535 CONE, tipo chapéu chinês:CONE, tipo chapéu chinês, para demarcação e treinamento esportivo, material plástico flexível, com largura mínima de 19 cm e altura mínima de 4,5cm, na cor verde. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "50,00",
+              "valor_referencia": "2,29"
+            }
+          ]
+        },
+        {
+          "numero": "4",
+          "titulo": "9900515536 MINI CONE PEQUENO:Cone de treino pequeno, altura 30cm, material: pp, material de grande durabilidade e flexível. EXCLUSIVO PARA ME/EPP.",
+          "fase": "JULGAMENTO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "235,50",
+          "vencedor": "D.E.A CALCADOS LTDA",
+          "melhor_oferta": "225,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515536 MINI CONE PEQUENO:Cone de treino pequeno, altura 30cm, material: pp, material de grande durabilidade e flexível. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "50,00",
+              "valor_referencia": "4,71"
+            }
+          ]
+        },
+        {
+          "numero": "5",
+          "titulo": "9900515537 REDE DE FUTEBOL TIPO VÉU DECAMPO:Oficial, em nylon, fio de 6mm, par (2 unidades). EXCLUSIVO PARA ME/EPP.EXCLUSIVO PARA ME/EPP.",
+          "fase": "JULGAMENTO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "4.812,40",
+          "vencedor": "IMPACTO SPORTS LTDA",
+          "melhor_oferta": "4.150,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515537 REDE DE FUTEBOL TIPO VÉU DECAMPO:Oficial, em nylon, fio de 6mm, par (2 unidades). EXCLUSIVO PARA ME/EPP.EXCLUSIVO PARA ME/EPP.",
+              "unidade": "PAR",
+              "quantidade": "10,00",
+              "valor_referencia": "481,24"
+            }
+          ]
+        },
+        {
+          "numero": "6",
+          "titulo": "9900515538 REDE DE FUTSAL TIPO VÉU 12X12CM:Rede defutsal, fio de 6mm em polietileno de alta densidade e proteção anti-uv, malha 13x13 medindo 2,0 x 3,10 x 1,0 mts, par (2 unidades). EXCLUSIVO PARA ME/EPP.",
+          "fase": "JULGAMENTO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "2.004,90",
+          "vencedor": "60.771.616 REBECA HELEN NASCIMENTO SANTOS",
+          "melhor_oferta": "2.000,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515538 REDE DE FUTSAL TIPO VÉU 12X12CM:Rede defutsal, fio de 6mm em polietileno de alta densidade e proteção anti-uv, malha 13x13 medindo 2,0 x 3,10 x 1,0 mts, par (2 unidades). EXCLUSIVO PARA ME/EPP.",
+              "unidade": "PAR",
+              "quantidade": "10,00",
+              "valor_referencia": "200,49"
+            }
+          ]
+        },
+        {
+          "numero": "6",
+          "titulo": "9900515538 REDE DE FUTSAL TIPO VÉU 12X12CM:Rede defutsal, fio de 6mm em polietileno de alta densidade e proteção anti-uv, malha 13x13 medindo 2,0 x 3,10 x 1,0 mts, par (2 unidades). EXCLUSIVO PARA ME/EPP.",
+          "fase": "JULGAMENTO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "2.004,90",
+          "vencedor": "60.771.616 REBECA HELEN NASCIMENTO SANTOS",
+          "melhor_oferta": "2.000,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515538 REDE DE FUTSAL TIPO VÉU 12X12CM:Rede defutsal, fio de 6mm em polietileno de alta densidade e proteção anti-uv, malha 13x13 medindo 2,0 x 3,10 x 1,0 mts, par (2 unidades). EXCLUSIVO PARA ME/EPP.",
+              "unidade": "PAR",
+              "quantidade": "10,00",
+              "valor_referencia": "200,49"
+            }
+          ]
+        },
+        {
+          "numero": "7",
+          "titulo": "9900515539 Camisa em tecido esportivo (dry fit ou similar):adequado para prática de atividades físicas.  Estampa na parte frontal: Logomarca do município de teixeira de Freitas; Logomarca oficial do evento centralizada na frente da camisa.Estampa na part",
+          "fase": "JULGAMENTO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "9.330,00",
+          "vencedor": "GLEIEDSON SANTOS DE SOUSA",
+          "melhor_oferta": "7.000,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515539 Camisa em tecido esportivo (dry fit ou similar):adequado para prática de atividades físicas. Estampa na parte frontal: Logomarca do município de teixeira de Freitas; Logomarca oficial do evento centralizada na frente da camisa.Estampa na parte traseira: Aplicação das logomarcas dos patrocinadores do evento. Impressão em alta qualidade (transfer, sublimação ou similar), garantindo durabilidade e boa visibilidade das marcas. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "200,00",
+              "valor_referencia": "46,65"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-055-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "1366/2025",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "JULGAMENTO",
+      "condutor": "JONATAS DA SILVA SOUSA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO PARCELADA",
+      "publicacao": "30/03/2026 18:49",
+      "inicio_recepcao": "01/04/2026 08:30",
+      "fim_recepcao": "16/04/2026 08:15",
+      "inicio_disputa": "16/04/2026 08:30",
+      "objeto": "Contratação de empresa especializada em prestação de serviço de MANUTENÇÃO PREVENTIVA, MANUTENÇÃO CORRETIVA E FORNECIMENTO DE PEÇAS E COMPONENTES ORIGINAIS OU COMPATÍVEIS DE QUALIDADE COMPROVADA DE GERADORES E CÂMARAS FRIAS, a fim de atender as demandas da Secretaria Municipal de Administração e demais Secretarias.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DWsoLIWZ6d1KwaESH7CEvlg5X%2FRUVJUhr89tHRrzJBfp1aV6SxI71JqzvxEgVGOy_NRMNHWAjYe124zkMFt7jX3zPcQMRzGna73zDI059W6Y%3D",
+      "total_lotes": 2,
+      "total_itens": 6,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "CAMARAS FRIAS",
+          "fase": "JULGAMENTO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "141.461,04",
+          "vencedor": "CCN SOLUCOES LTDA",
+          "melhor_oferta": "4.100.000,00",
+          "total_itens": 3,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9902900079 MANUTENÇÃO PREVENTIVA EM GERADORES DOMUNICÍPIO:Execução de serviços de manutenção preventiva em geradores de energia elétrica pertencentes ao Município, abrangendo inspeção, limpeza, lubrificação, ajustes e testes de funcionamento, de acordo com as especificações do fabricante e as normas técnicas aplicáveis. O serviço inclui a identificação de componentes desgastados ou com desempenho inferior ao especificado, garantindo a operação confiável e contínua dos equipamentos. Devem ser verificados sistemas elétricos, mecânicos e de combustível, filtros, cabos, conexões e demais elementos críticos, assegurando a eficiência, durabilidade e segurança do gerador. O serviço deverá ser realizado por equipe técnica capacitada, utilizando ferramentas, equipamentos e procedimentos adequados, com emissão de relatório detalhado de todas as ações realizadas.",
+              "unidade": "SERV",
+              "quantidade": "8,00",
+              "valor_referencia": "1.106,75"
+            },
+            {
+              "numero": "2",
+              "especificacao": "36333 MANUTENÇÃO CORRETIVA EM GERADORES DOMUNICÍPIO:Execução de serviços de manutenção corretiva em geradores de energia elétrica do Município, abrangendo diagnóstico de falhas, reparos e normas técnicas aplicáveis. Devem ser verificados e reparados sistemas elétricos, mecânicos e de combustível, filtros, cabos, conexões e demais elementos críticos, assegurando eficiência, segurança e confiabilidade do gerador. A execução deverá ser realizada por equipe técnica qualificada, utilizando ferramentas, equipamentos e procedimentos adequados, com emissão de relatório detalhado contendo as falhas identificadas, os serviços realizados",
+              "unidade": "SERV",
+              "quantidade": "16,00",
+              "valor_referencia": "2.037,94"
+            },
+            {
+              "numero": "3",
+              "especificacao": "36336 FORNECIMENTO DE PEÇAS E COMPONENTES ORIGINAIS OU COMPATÍVEIS DE QUALIDADE COMPROVADA DEGERADORES:Fornecimento de peças e componentes necessários para manutenção preventiva e corretiva de geradores do Município. Todos os itens fornecidos deverão ser originais ou compatíveis de qualidade comprovada, garantindo a operação eficiente, segura e contínua dos equipamentos.",
+              "unidade": "Und.",
+              "quantidade": "1,00",
+              "valor_referencia": "100.000,00"
+            }
+          ]
+        },
+        {
+          "numero": "2",
+          "titulo": "CAMARAS FRIAS",
+          "fase": "FRACASSADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "80.716,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 3,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "36334 MANUTENÇÃO PREVENTIVA EM CÂMARAS FRIAS DOMUNICÍPIO:Execução de serviços de manutenção preventiva em câmaras frias do Município, abrangendo inspeção, limpeza, ajustes, lubrificação, calibração e testes de funcionamento, de acordo com as especificações do fabricante, normas técnicas aplicáveis e procedimentos necessários para garantir operação adequada e eficiente. O serviço inclui a identificação de peças e componentes desgastados ou com desempenho abaixo do recomendado. Devem ser verificadas todas as partes críticas da câmara fria, incluindo sistemas de refrigeração, compressores, evaporadores, condensadores, válvulas, sensores, cabos e conexões. A manutenção deverá ser realizada por equipe técnica capacitada, utilizando ferramentas e procedimentos apropriados, e acompanhada de relatório detalhado contendo todas as ações realizadas",
+              "unidade": "SERV",
+              "quantidade": "8,00",
+              "valor_referencia": "972,50"
+            },
+            {
+              "numero": "2",
+              "especificacao": "36335 MANUTENÇÃO CORRETIVA EM CÂMARAS FRIAS DOMUNICÍPIO:Execução de serviços de manutenção corretiva em câmaras frias do Município, abrangendo diagnóstico, reparo e restauração do pleno funcionamento dos equipamentos, de acordo com as especificações do fabricante e normas técnicas aplicáveis. Devem ser verificados e reparados todos os sistemas críticos, incluindo refrigeração, compressores, evaporadores, condensadores, válvulas, sensores, cabos e conexões. A manutenção corretiva deverá ser realizada por equipe técnica capacitada, utilizando ferramentas e procedimentos adequados, e acompanhada de relatório detalhado contendo todas as ações executadas.",
+              "unidade": "SERV",
+              "quantidade": "16,00",
+              "valor_referencia": "1.433,50"
+            },
+            {
+              "numero": "3",
+              "especificacao": "9902900080FORNECIMENTO DE PEÇAS E COMPONENTES ORIGINAIS OU COMPATÍVEIS DE QUALIDADE COMPROVADA DE CÂMARASFRIAS:Fornecimento de peças e componentes necessários para manutenção preventiva e corretiva de câmaras frias do Município. Todos os itens fornecidos deverão ser originais ou compatíveis de qualidade comprovada, garantindo a operação eficiente, segura e contínua dos equipamentos",
+              "unidade": "Und.",
+              "quantidade": "1,00",
+              "valor_referencia": "50.000,00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-053-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "309/2026",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "AGUARDANDO DISPUTA",
+      "condutor": "DAVIDSON ARAUJO SANTOS",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO PARCELADA",
+      "publicacao": "24/03/2026 21:21",
+      "inicio_recepcao": "25/03/2026 08:00",
+      "fim_recepcao": "10/04/2026 08:15",
+      "inicio_disputa": "16/04/2026 08:10",
+      "objeto": "Contratação de empresa especializada em serviços de engenharia para o fornecimento de bancas em estruturas metálicas (bancas de frutas e verduras), no município de Teixeira de Freitas – BA.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DuFNv%2FDvd2QWbCOuCaxRacp3C3ietC_bZdxVludM2RndwLUjZmUgKwKq38gM911jGE0m_asiTlZYyrxLoZ98R04Bq7nGZcN19nmG8YYuBTyc%3D",
+      "total_lotes": 1,
+      "total_itens": 1,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "SERVIÇOS DE ENGENHARIA PARA O FORNECIMENTO DE BANCAS EM ESTRUTURAS METÁLICAS (BANCAS DE FRUTAS E VERDURAS)",
+          "fase": "AGUARDANDO DISPUTA",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "1.000,00",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "1.200.887,10",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "BANCA EM ESTRUTURA METÁLICA",
+              "unidade": "UNID.",
+              "quantidade": "1,00",
+              "valor_referencia": "1.200.887,10"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CE-002-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "137/2026",
+      "modalidade": "CONCORRÊNCIA ELETRÔNICA",
+      "situacao": "REVOGADO",
+      "condutor": "DAVIDSON ARAUJO SANTOS",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO PARCELADA",
+      "publicacao": "13/02/2026 18:49",
+      "inicio_recepcao": "18/02/2026 08:00",
+      "fim_recepcao": "24/03/2026 08:15",
+      "inicio_disputa": "24/03/2026 08:30",
+      "objeto": "Contratação de empresa especializada em execução de obras de construção de um centro educacional, com piscina anexa, localizado no bairro Caminho do Mar, no município de Teixeira de Freitas – BA.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5D8G7FFfc15JYxsHeDMrRQSLG2jdTttCrL_HvOFUYPi07oBN_0Ewcb76Akm1_n4OWZhhLzQOiGbD1BbGiFdCUEiHCv7Ornmp%2FN8yN9KQL5tec%3D",
+      "total_lotes": 1,
+      "total_itens": 8,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "EXECUÇÃO DE OBRAS DE CONSTRUÇÃO DE UM CENTRO EDUCACIONAL, COM PISCINA ANEXA, LOCALIZADO NO BAIRRO CAMINHO DO MAR",
+          "fase": "REVOGADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "1.000,00",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "16.917.978,48",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 8,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "ÁREA COMUM COMPLEXO EDUCACIONAL",
+              "unidade": "SERVIÇO",
+              "quantidade": "1,00",
+              "valor_referencia": "3.628.946,66"
+            },
+            {
+              "numero": "2",
+              "especificacao": "PISCINAS (INFANTIL E SEMI-OLÍMPICA)",
+              "unidade": "SERVIÇO",
+              "quantidade": "1,00",
+              "valor_referencia": "1.311.145,07"
+            },
+            {
+              "numero": "3",
+              "especificacao": "EDIFICAÇÃO: SALÃO COBERTO",
+              "unidade": "SERVIÇO",
+              "quantidade": "1,00",
+              "valor_referencia": "457.160,11"
+            },
+            {
+              "numero": "4",
+              "especificacao": "ÁREA EXTERNA (MURO, PAISAGISMO, FITNESS, PLAYGROUND, PERGOLADO, PISTA DE SALTO)",
+              "unidade": "SERVIÇO",
+              "quantidade": "1,00",
+              "valor_referencia": "1.514.050,50"
+            },
+            {
+              "numero": "5",
+              "especificacao": "QUADRA",
+              "unidade": "SERVIÇO",
+              "quantidade": "1,00",
+              "valor_referencia": "381.109,99"
+            },
+            {
+              "numero": "6",
+              "especificacao": "CRECHE",
+              "unidade": "SERVIÇO",
+              "quantidade": "1,00",
+              "valor_referencia": "5.142.211,41"
+            },
+            {
+              "numero": "7",
+              "especificacao": "EMEI",
+              "unidade": "SERVIÇO",
+              "quantidade": "1,00",
+              "valor_referencia": "4.450.454,74"
+            },
+            {
+              "numero": "8",
+              "especificacao": "SERVIÇOS FINAIS",
+              "unidade": "SERVIÇO",
+              "quantidade": "1,00",
+              "valor_referencia": "32.900,00"
             }
           ]
         }
