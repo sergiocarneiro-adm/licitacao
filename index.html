@@ -224,21 +224,32 @@
         <div id="recent-container" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4 mb-8"></div>
 
         <!-- ── FILTROS ──────────────────────────────────────────────────── -->
-        <div class="bg-white dark:bg-slate-900 rounded-xl border border-slate-200 dark:border-slate-800 p-4 mb-6 shadow-sm">
-            <div class="flex flex-col gap-3">
+        <div class="relative mb-6">
+            <!-- Glow effect -->
+            <div class="absolute -inset-0.5 bg-gradient-to-r from-blue-500 via-indigo-500 to-blue-600 rounded-2xl blur opacity-30 dark:opacity-40"></div>
+            <div class="relative bg-white dark:bg-slate-900 rounded-2xl border-2 border-blue-200 dark:border-blue-900 p-5 shadow-xl">
+                <!-- Header da pesquisa -->
+                <div class="flex items-center gap-2 mb-4">
+                    <div class="w-7 h-7 rounded-lg bg-blue-600 flex items-center justify-center shrink-0">
+                        <i class="fas fa-search text-white text-xs"></i>
+                    </div>
+                    <span class="text-sm font-bold text-blue-700 dark:text-blue-400 tracking-wide">Pesquisa de Processos</span>
+                    <span class="ml-auto text-[10px] text-slate-400 hidden sm:block">Enter para pesquisar · ESC para limpar</span>
+                </div>
+                <div class="flex flex-col gap-3">
                 <div class="flex flex-col sm:flex-row gap-2">
                     <div class="relative flex-1">
-                        <i class="fas fa-search absolute left-3 top-1/2 -translate-y-1/2 text-slate-400 text-sm"></i>
+                        <i class="fas fa-search absolute left-3.5 top-1/2 -translate-y-1/2 text-blue-400 text-sm"></i>
                         <input type="text" id="search-input"
                             placeholder="Buscar por objeto, edital, condutor, fornecedor..."
-                            class="w-full pl-10 pr-4 py-2.5 bg-slate-50 dark:bg-slate-950 border border-slate-200 dark:border-slate-800 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-blue-500 outline-none transition-all text-sm">
+                            class="w-full pl-11 pr-4 py-3 bg-slate-50 dark:bg-slate-950 border-2 border-slate-200 dark:border-slate-700 rounded-xl focus:ring-2 focus:ring-blue-400 focus:border-blue-500 outline-none transition-all text-sm font-medium placeholder:text-slate-400">
                     </div>
                     <button id="search-btn"
-                        class="bg-blue-600 hover:bg-blue-700 text-white px-6 py-2.5 rounded-lg font-semibold transition-colors flex items-center justify-center gap-2 text-sm">
+                        class="bg-blue-600 hover:bg-blue-700 active:scale-95 text-white px-6 py-3 rounded-xl font-bold transition-all flex items-center justify-center gap-2 text-sm shadow-md shadow-blue-200 dark:shadow-blue-950">
                         <i class="fas fa-search"></i> Pesquisar
                     </button>
                     <button id="clear-btn"
-                        class="text-slate-400 hover:text-slate-600 dark:hover:text-slate-200 px-3 py-2.5 rounded-lg border border-slate-200 dark:border-slate-800 hover:bg-slate-50 dark:hover:bg-slate-800 transition-colors text-sm" title="Limpar filtros">
+                        class="text-slate-400 hover:text-rose-500 dark:hover:text-rose-400 px-3 py-3 rounded-xl border-2 border-slate-200 dark:border-slate-700 hover:border-rose-300 dark:hover:border-rose-700 hover:bg-rose-50 dark:hover:bg-rose-950/30 transition-all text-sm" title="Limpar filtros">
                         <i class="fas fa-times"></i>
                     </button>
                 </div>
@@ -254,6 +265,7 @@
                     </button>
                 </div>
             </div>
+        </div>
         </div>
 
         <!-- ── TABELA ───────────────────────────────────────────────────── -->
@@ -1197,6 +1209,7 @@ function clearFilters() {
 document.getElementById('search-btn').addEventListener('click', executeSearch);
 document.getElementById('clear-btn').addEventListener('click', clearFilters);
 document.getElementById('search-input').addEventListener('keypress', e => { if(e.key==='Enter') executeSearch(); });
+document.getElementById('search-input').addEventListener('keydown', e => { if(e.key==='Escape') { clearFilters(); document.getElementById('search-input').blur(); } });
 
 document.querySelectorAll('.view-tab').forEach(btn => {
     btn.addEventListener('click', () => {
