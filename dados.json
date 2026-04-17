@@ -4,7 +4,7 @@
     "total_processos": 766,
     "total_lotes": 8661,
     "total_itens": 14795,
-    "atualizado_em": "20260416_193508"
+    "atualizado_em": "20260417_020218"
   },
   "processos": [
     {
@@ -221,7 +221,7 @@
         {
           "numero": "1",
           "titulo": "LOTE 1",
-          "fase": "RECEPÇÃO DE CONTRARRAZÕES",
+          "fase": "JULGAMENTO DE RECURSOS",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -1886,7 +1886,7 @@
         {
           "numero": "7",
           "titulo": "5707611110 BANDEJA PARA RACK:Bandeja fixa de 19polegadas, 1U de altura e 400mm. Tipo de fixação: Frontal sobre auxilio de porcas do tipo gaiola ventilado que promove melhor circulação de ar. EXCLUSIVO PARA ME/EPP",
-          "fase": "HABILITAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -1894,8 +1894,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "405,12",
-          "vencedor": "VOXATRON COMERCIO DE INFORMATICA LTDA",
-          "melhor_oferta": "720,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
           "total_itens": 1,
           "itens": [
             {
@@ -2510,7 +2510,7 @@
         {
           "numero": "33",
           "titulo": "5707611130 TESTADOR DE CABOS DE REDEPROFISSIONAL:- Características:- LEDs indicadores de força do sinal para que você possa ajudar a identificar um cabo que esteja agrupadocom outros cabos.- A sonda tem um testador de pares embutido para identificar p",
-          "fase": "EM ADJUDICAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -5392,8 +5392,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "3.104,95",
-          "vencedor": "WANDERSON SOUZA DE ALMEIDA",
-          "melhor_oferta": "2.500,00",
+          "vencedor": "J.C ASSEF COMERCIO LTDA",
+          "melhor_oferta": "3.100,00",
           "total_itens": 1,
           "itens": [
             {
@@ -5464,8 +5464,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "2.548,59",
-          "vencedor": "WANDERSON SOUZA DE ALMEIDA",
-          "melhor_oferta": "1.350,00",
+          "vencedor": "TEIXEIRA INFORMÁTICA LTDA",
+          "melhor_oferta": "2.535,00",
           "total_itens": 1,
           "itens": [
             {
@@ -5648,7 +5648,7 @@
         {
           "numero": "16",
           "titulo": "9900830404 Filtro ND para Lente:Tonrom variavel 67mm ND3 - ND1000 / hd ultrafino. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -5656,8 +5656,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "984,00",
-          "vencedor": "WANDERSON SOUZA DE ALMEIDA",
-          "melhor_oferta": "984,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
           "total_itens": 1,
           "itens": [
             {
@@ -5752,8 +5752,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "2.681,96",
-          "vencedor": "WANDERSON SOUZA DE ALMEIDA",
-          "melhor_oferta": "2.400,00",
+          "vencedor": "J.C ASSEF COMERCIO LTDA",
+          "melhor_oferta": "2.681,80",
           "total_itens": 1,
           "itens": [
             {
@@ -6016,8 +6016,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "12.508,70",
-          "vencedor": "WANDERSON SOUZA DE ALMEIDA",
-          "melhor_oferta": "12.508,70",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
           "total_itens": 1,
           "itens": [
             {
@@ -12060,7 +12060,7 @@
         {
           "numero": "16",
           "titulo": "6503000023 OTOSCÓPIO:de fibraóptica 3.5v; mínimo de 5 espéculos reutilizáveis; cabo de lítio recarregável e carregador de mesa bivolt; lâmpada de xenon  halógena; lente giratória com aumento de 2 vezes; conexão para otoscopia pneumática. Garantia mínima",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -12068,8 +12068,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "11.176,56",
-          "vencedor": "CASA DO HOSPITAL PRODUTOS ORTOPEDICOS E HOSPITALARES LTDA",
-          "melhor_oferta": "163.400,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
           "total_itens": 1,
           "itens": [
             {
@@ -14757,7 +14757,7 @@
         {
           "numero": "1",
           "titulo": "EXECUÇÃO DE OBRAS DE CONSTRUÇÃO DE UMA PRÉ-ESCOLA",
-          "fase": "RECEPÇÃO DE CONTRARRAZÕES",
+          "fase": "JULGAMENTO DE RECURSOS",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "1.000,00",
@@ -230926,8 +230926,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "389.822,79",
-          "vencedor": "AMBIENTE SERVIÇOS URBANOS LTDA",
-          "melhor_oferta": "362.174,26",
+          "vencedor": "XAVIER E SILVA EMPREENDIMENTOS LTDA",
+          "melhor_oferta": "378.153,27",
           "total_itens": 8,
           "itens": [
             {
@@ -232138,7 +232138,7 @@
         {
           "numero": "1",
           "titulo": "Camisa PV (poliéster/viscose):a ser confeccionada nos modelos masculino, feminino ou unissex, em tamanhos P, M, G e GG, a serem definidos no momento da contratação. Cores branca e/ou azul, a serem indicadas na contratação. Modelo com gola tradicional, man",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -232162,7 +232162,7 @@
         {
           "numero": "2",
           "titulo": "Camisa polo em tecido piquê ou similar:a ser confeccionada nos modelos masculino, feminino ou unissex, em tamanhos P, M, G e GG, a serem definidos no momento da contratação. Cores branca e/ou azul, a serem indicadas na contratação. Modelo tradicional com",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -232186,7 +232186,7 @@
         {
           "numero": "3",
           "titulo": "Calça jeans em tecido denim de alta resistência:a ser confeccionada nos modelos masculino, feminino ou unissex, em tamanhos P, M, G e GG, a serem definidos no momento da contratação. Corte reto ou semi&#8208;afunilado, cintura média, cinco bolsos funciona",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -232210,7 +232210,7 @@
         {
           "numero": "4",
           "titulo": "Botina de segurança:fornecida em pares, a ser confeccionada nos modelos masculino, feminino ou unissex, em numerações variadas que serão informadas no momento da contratação. Confeccionada em couro legítimo ou material sintético de alta resistência, fecha",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -232234,7 +232234,7 @@
         {
           "numero": "5",
           "titulo": "Camisa de proteção UV de manga longa:confeccionada em tecido tecnológico com fator de proteção UV (FPS/UPF) adequado para bloqueio de radiação solar, garantindo segurança, conforto térmico e durabilidade ao servidor nas atividades externas ou de exposição",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -232278,7 +232278,7 @@
         {
           "numero": "1",
           "titulo": "TABLET",
-          "fase": "INTERPOSIÇÃO DE RECURSOS",
+          "fase": "RECEPÇÃO DE CONTRARRAZÕES",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,00",
@@ -232346,7 +232346,7 @@
         {
           "numero": "2",
           "titulo": "9900515305 PEÇA DE EUCALIPTO TRATADA IMUNIZADA10X12X2,20M 5 FUROS:madeira ambientalmente imunizada, com 05 (cinco) furos para passagem de arame liso.",
-          "fase": "INTERPOSIÇÃO DE RECURSOS",
+          "fase": "RECEPÇÃO DE CONTRARRAZÕES",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -232414,7 +232414,7 @@
         {
           "numero": "1",
           "titulo": "LOTE I",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -237022,7 +237022,7 @@
         {
           "numero": "1",
           "titulo": "9901100288 ACEBROFILINA:10mg/ml, xarope, frasco com 120ml. EXCLUSIVO PARA ME/EPP.",
-          "fase": "EM ADJUDICAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -237046,7 +237046,7 @@
         {
           "numero": "2",
           "titulo": "35787 ACICLOVIR:comprimido 200mg.EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -237070,7 +237070,7 @@
         {
           "numero": "3",
           "titulo": "9901100306 ACICLOVIR:creme tópico 5% tubo com 10 gramas. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -237094,7 +237094,7 @@
         {
           "numero": "4",
           "titulo": "9900100039 ACIDO Acetilsalicílico:comprimido 100mg. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -237142,7 +237142,7 @@
         {
           "numero": "6",
           "titulo": "9901100166 ACIDO VALPROICO:250MG. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -237190,7 +237190,7 @@
         {
           "numero": "8",
           "titulo": "35788 ALBENDAZOL:400MG COMPRIMIDO MASTIGÁVEL",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -237214,7 +237214,7 @@
         {
           "numero": "9",
           "titulo": "9901100308 ALENDRONATO DE SÓDIO:70MG. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -237238,7 +237238,7 @@
         {
           "numero": "10",
           "titulo": "9901100309 ALOPURINOL:100MG. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -237262,7 +237262,7 @@
         {
           "numero": "11",
           "titulo": "9900100038 ALOPURINOL:300MG. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -237334,7 +237334,7 @@
         {
           "numero": "14",
           "titulo": "9900100041 AMITRIPTILINA:25MG. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -237382,7 +237382,7 @@
         {
           "numero": "16",
           "titulo": "9900100043 AMOXICILINA + CLAVULONATO:500MG+125MG. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -237430,7 +237430,7 @@
         {
           "numero": "18",
           "titulo": "9900100044 AMOXICILINA:500MG. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -237439,7 +237439,7 @@
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "24.552,00",
           "vencedor": "VERTICE MEDICAMENTOS LTDA",
-          "melhor_oferta": "20.194,02",
+          "melhor_oferta": "19.437,00",
           "total_itens": 1,
           "itens": [
             {
@@ -237454,7 +237454,7 @@
         {
           "numero": "19",
           "titulo": "9900100045 AMOXICILINA:50MG/ML SUSP ORAL. Frasco com60ML + copo dosador.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -237526,7 +237526,7 @@
         {
           "numero": "22",
           "titulo": "9900100048 ANLODIPINO:10MG. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -237550,7 +237550,7 @@
         {
           "numero": "23",
           "titulo": "9900100049 ANLODIPINO:BESILATO 5MG. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -237574,7 +237574,7 @@
         {
           "numero": "24",
           "titulo": "9900100050 ATENOLOL:50MG. EXCLUSIVO PARA ME/EPP",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -237598,7 +237598,7 @@
         {
           "numero": "25",
           "titulo": "9900100051 ATROPINA SULFATO:0,25 MG/ML SOLUÇÃO INJETÁVEL AMPOLA 1ML. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -237622,7 +237622,7 @@
         {
           "numero": "26",
           "titulo": "9900100052 AZITROMICINA: 40MG/ML, PÓ PARA SUSPENSÃO ORAL:FRASCO COM 15 ML + DILUENTE + DOSADOR.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -237718,7 +237718,7 @@
         {
           "numero": "30",
           "titulo": "9900100053 BENZILPENICILINA BENZATINA:1.200.00.000 UI PÓ PARA SUSP INJ. F/A.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -237742,7 +237742,7 @@
         {
           "numero": "31",
           "titulo": "9900100054 BENZILPENICILINA BENZATINA:600.000 UI PÓ PARA SUSP INJ. F/A. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -237790,7 +237790,7 @@
         {
           "numero": "33",
           "titulo": "9901100182 BROMAZEPAM:3MG. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -237799,7 +237799,7 @@
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "728,00",
           "vencedor": "CALIXTO MEDICAMENTOS LTDA",
-          "melhor_oferta": "671,99",
+          "melhor_oferta": "616,00",
           "total_itens": 1,
           "itens": [
             {
@@ -237814,7 +237814,7 @@
         {
           "numero": "34",
           "titulo": "9900100056 BROMAZEPAM:6MG. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -237838,7 +237838,7 @@
         {
           "numero": "35",
           "titulo": "9900515205 BUDESONIDA:32MCG AEROSOL NASAL. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -237910,7 +237910,7 @@
         {
           "numero": "38",
           "titulo": "9900100059 CAPTOPRIL:25MG. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -237934,7 +237934,7 @@
         {
           "numero": "39",
           "titulo": "9900100060 CARBAMAZEPINA:2%. Frasco com 100ml. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -237958,7 +237958,7 @@
         {
           "numero": "40",
           "titulo": "34825 CARBAMAZEPINA:200MG.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -237967,7 +237967,7 @@
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "71.502,00",
           "vencedor": "VERTICE MEDICAMENTOS LTDA",
-          "melhor_oferta": "54.846,24",
+          "melhor_oferta": "54.678,00",
           "total_itens": 1,
           "itens": [
             {
@@ -237982,7 +237982,7 @@
         {
           "numero": "41",
           "titulo": "36636 CARBAMAZEPINA:400MG. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -238006,7 +238006,7 @@
         {
           "numero": "42",
           "titulo": "9900100061 CARBONATO CÁLCIO:500+COLECALCIFEROL400UI. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -238014,8 +238014,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "8.996,00",
-          "vencedor": "BEDALM PHARMA DO BRASIL LTDA.",
-          "melhor_oferta": "6.900,00",
+          "vencedor": "GALLI E LIOTTO  COMERCIO DE PRODUTOS HOSPITALARES LTDA",
+          "melhor_oferta": "6.920,00",
           "total_itens": 1,
           "itens": [
             {
@@ -238030,7 +238030,7 @@
         {
           "numero": "43",
           "titulo": "9900100062 CARBONATO CÁLCIO:600+COLECALCIFEROL400UI. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -238038,8 +238038,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "4.844,00",
-          "vencedor": "BEDALM PHARMA DO BRASIL LTDA.",
-          "melhor_oferta": "3.114,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
           "total_itens": 1,
           "itens": [
             {
@@ -238054,7 +238054,7 @@
         {
           "numero": "44",
           "titulo": "9900100063 CARBONATO DE CÁLCIO ELEMENTAR:500MG Ca2. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -238062,8 +238062,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "48.000,00",
-          "vencedor": "BEDALM PHARMA DO BRASIL LTDA.",
-          "melhor_oferta": "30.000,00",
+          "vencedor": "CALIXTO MEDICAMENTOS LTDA",
+          "melhor_oferta": "48.000,00",
           "total_itens": 1,
           "itens": [
             {
@@ -238198,7 +238198,7 @@
         {
           "numero": "50",
           "titulo": "9900100069 CEFALEXINA:250MG/5ML SUSP. ORAL.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -238222,7 +238222,7 @@
         {
           "numero": "51",
           "titulo": "9900512111 CEFALEXINA:500 MG cápsula / comprimido.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -238246,7 +238246,7 @@
         {
           "numero": "52",
           "titulo": "33500 CEFTRIAXONA:sódica. pó para solução injetável 1g IV. F/A. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -238270,7 +238270,7 @@
         {
           "numero": "53",
           "titulo": "24965 CIPROFIBRATO, 100mg, comprimido:CIPROFIBRATO,100mg, comprimido. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -238279,7 +238279,7 @@
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "2.814,00",
           "vencedor": "VERTICE MEDICAMENTOS LTDA",
-          "melhor_oferta": "2.133,95",
+          "melhor_oferta": "2.077,00",
           "total_itens": 1,
           "itens": [
             {
@@ -238294,7 +238294,7 @@
         {
           "numero": "54",
           "titulo": "9900100070 CIPROFLOXACINO:500MG.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -238318,7 +238318,7 @@
         {
           "numero": "55",
           "titulo": "9900100071 CLARITROMICINA:500MG. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -238342,7 +238342,7 @@
         {
           "numero": "56",
           "titulo": "9900515198 CLINDAMICINA:300MG. EXCLUSIVO PARAME/EPP",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -238366,7 +238366,7 @@
         {
           "numero": "57",
           "titulo": "9900100072 CLOMIPRAMINA:25MG.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -238390,7 +238390,7 @@
         {
           "numero": "58",
           "titulo": "9900100073 CLONAZEPAM:2,5 mg/ml, em gotas, frasco com 20mL. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -238438,7 +238438,7 @@
         {
           "numero": "60",
           "titulo": "9900100075 CLONIDINA:0,100MG. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -238462,7 +238462,7 @@
         {
           "numero": "61",
           "titulo": "9900100076 CLONIDINA:0,150MG. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -238510,7 +238510,7 @@
         {
           "numero": "63",
           "titulo": "9900100078 CLOPIDOGREL:75MG. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -238558,7 +238558,7 @@
         {
           "numero": "65",
           "titulo": "34837 CLORPROMAZINA:100MG.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -238582,7 +238582,7 @@
         {
           "numero": "66",
           "titulo": "34838 CLORPROMAZINA:25MG. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -238678,7 +238678,7 @@
         {
           "numero": "70",
           "titulo": "9900100083 DEXAMETASONA:0,1%, CREME 10G. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -238750,7 +238750,7 @@
         {
           "numero": "73",
           "titulo": "3691 DEXAMETASONA:COMPRIMIDO, 4MG. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -238774,7 +238774,7 @@
         {
           "numero": "74",
           "titulo": "9900100084 DEXCLOFENIRAMINA:SOL. ORAL. 0,4MG/ML. FRASCO 100ML + COPO DOSADOR. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -238822,7 +238822,7 @@
         {
           "numero": "76",
           "titulo": "9900100086 DIAZEPAM:10MG COMP. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -238830,8 +238830,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "17.528,00",
-          "vencedor": "VERTICE MEDICAMENTOS LTDA",
-          "melhor_oferta": "16.791,82",
+          "vencedor": "EREMED DISTRIBUIDORA DE MEDICAMENTOS LTDA",
+          "melhor_oferta": "17.528,00",
           "total_itens": 1,
           "itens": [
             {
@@ -238846,7 +238846,7 @@
         {
           "numero": "77",
           "titulo": "9900100087 DIAZEPAM:5MG. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -238854,8 +238854,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "11.385,60",
-          "vencedor": "VERTICE MEDICAMENTOS LTDA",
-          "melhor_oferta": "8.615,10",
+          "vencedor": "EREMED DISTRIBUIDORA DE MEDICAMENTOS LTDA",
+          "melhor_oferta": "9.488,00",
           "total_itens": 1,
           "itens": [
             {
@@ -238894,7 +238894,7 @@
         {
           "numero": "79",
           "titulo": "9900100089 DICLOFENACO:SÓDICO 25 MG/ML - AMPOLA3ML. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -238990,7 +238990,7 @@
         {
           "numero": "83",
           "titulo": "9900515206 DIPIRONA:500 MG/ML - AMPOLA 2ML. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -238999,7 +238999,7 @@
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "10.845,90",
           "vencedor": "VERTICE MEDICAMENTOS LTDA",
-          "melhor_oferta": "8.383,05",
+          "melhor_oferta": "8.343,00",
           "total_itens": 1,
           "itens": [
             {
@@ -239014,7 +239014,7 @@
         {
           "numero": "84",
           "titulo": "34932 DIPIRONA:500MG.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -239110,7 +239110,7 @@
         {
           "numero": "88",
           "titulo": "9900100096 ENALAPRIL:10MG. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -239230,7 +239230,7 @@
         {
           "numero": "93",
           "titulo": "9900515199 ESCOPOLAMINA:butilbrometo 10 MG + DIPIRONA250 MG Comprimido.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -239254,7 +239254,7 @@
         {
           "numero": "94",
           "titulo": "9900100100 ESCOPOLAMINA:BUTILBROMETO 10MGcomprimido. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -239278,7 +239278,7 @@
         {
           "numero": "95",
           "titulo": "34847 ESPIRONOLACTONA:100MG. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -239350,7 +239350,7 @@
         {
           "numero": "98",
           "titulo": "9900100102 FENITOÍNA:100MG. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -239446,7 +239446,7 @@
         {
           "numero": "102",
           "titulo": "9900100106 FLUCONAZOL:150MG. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -239454,8 +239454,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "44.608,20",
-          "vencedor": "AVANCE MEDICAMENTOS LTDA",
-          "melhor_oferta": "44.608,20",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
           "total_itens": 1,
           "itens": [
             {
@@ -239470,7 +239470,7 @@
         {
           "numero": "103",
           "titulo": "9900100107 FLUOXETINA:20MG. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -239479,7 +239479,7 @@
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "32.000,00",
           "vencedor": "VERTICE MEDICAMENTOS LTDA",
-          "melhor_oferta": "20.920,00",
+          "melhor_oferta": "20.000,00",
           "total_itens": 1,
           "itens": [
             {
@@ -239542,7 +239542,7 @@
         {
           "numero": "106",
           "titulo": "9900100110 FUROSEMIDA:solução injetável 10mg/ml ampola de 2ml. EXCLUSIVO PARA ME/EPP.",
-          "fase": "EM ADJUDICAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -239566,7 +239566,7 @@
         {
           "numero": "107",
           "titulo": "36624 GLIBENCLAMIDA:5MG.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -239614,7 +239614,7 @@
         {
           "numero": "109",
           "titulo": "34854 GLICLAZIDA:60MG COMP. LIB.PROLONGADA.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -239638,7 +239638,7 @@
         {
           "numero": "110",
           "titulo": "9901100220 GUACO:75MG/ML SUSP ORAL. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -239662,7 +239662,7 @@
         {
           "numero": "111",
           "titulo": "9900100112 HALDOL:DECANOATO INJETÁVEL. 50mg/mLampolas de 1mL",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -239734,7 +239734,7 @@
         {
           "numero": "114",
           "titulo": "35794 HALOPERIDOL:5MG. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -239758,7 +239758,7 @@
         {
           "numero": "115",
           "titulo": "36625 HALOPERIDOL:5MG/ML AMPOLA 1ML.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -239782,7 +239782,7 @@
         {
           "numero": "116",
           "titulo": "9901100289 HIDRALAZINA:25MG COMP. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -239806,7 +239806,7 @@
         {
           "numero": "117",
           "titulo": "9901100290 HIDRALAZINA:50MG COMP. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -239854,7 +239854,7 @@
         {
           "numero": "119",
           "titulo": "9900100114 HIDROCORTISONA:100MG INJ FRASCO- AMPOLA 10ML. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -239863,7 +239863,7 @@
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "12.792,00",
           "vencedor": "VERTICE MEDICAMENTOS LTDA",
-          "melhor_oferta": "11.428,56",
+          "melhor_oferta": "11.427,00",
           "total_itens": 1,
           "itens": [
             {
@@ -239878,7 +239878,7 @@
         {
           "numero": "120",
           "titulo": "9900100115 HIDROCORTISONA:500MG INJ FRASCO- AMPOLA 10ML. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -239887,7 +239887,7 @@
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "16.470,30",
           "vencedor": "VERTICE MEDICAMENTOS LTDA",
-          "melhor_oferta": "15.887,29",
+          "melhor_oferta": "15.868,16",
           "total_itens": 1,
           "itens": [
             {
@@ -239902,7 +239902,7 @@
         {
           "numero": "121",
           "titulo": "36638 IBUPROFENO:50mg/Ml suspensão oral 30mL - gotas. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -239926,7 +239926,7 @@
         {
           "numero": "122",
           "titulo": "9901100224 IBUPROFENO:600MG.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -239935,7 +239935,7 @@
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "84.000,00",
           "vencedor": "VERTICE MEDICAMENTOS LTDA",
-          "melhor_oferta": "75.360,00",
+          "melhor_oferta": "72.000,00",
           "total_itens": 1,
           "itens": [
             {
@@ -240022,7 +240022,7 @@
         {
           "numero": "126",
           "titulo": "9900100117 LEVODOPA:100MG + BENSERAZIDA 25MG. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -240046,7 +240046,7 @@
         {
           "numero": "127",
           "titulo": "9900100118 LEVODOPA:200MG + BENSERAZIDA 50MG. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -240070,7 +240070,7 @@
         {
           "numero": "128",
           "titulo": "35799 LEVODOPA:250MG + CARBIDOPA 25MG. EXCLUSIVO PARA ME/EPP.",
-          "fase": "EM ADJUDICAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -240094,7 +240094,7 @@
         {
           "numero": "129",
           "titulo": "9900100119 LEVONORGESTREL:1,5mg, comprimido. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -240118,7 +240118,7 @@
         {
           "numero": "130",
           "titulo": "35800 LEVOTIROXINA SODICA:100MCG. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -240127,7 +240127,7 @@
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "10.696,00",
           "vencedor": "VERTICE MEDICAMENTOS LTDA",
-          "melhor_oferta": "10.233,78",
+          "melhor_oferta": "9.932,00",
           "total_itens": 1,
           "itens": [
             {
@@ -240238,7 +240238,7 @@
         {
           "numero": "135",
           "titulo": "34861 LOSARTANA:POTÁSSICA 50MG.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -240262,7 +240262,7 @@
         {
           "numero": "136",
           "titulo": "9900515201 MEDROXIPROGESTERONA:150MG/ML SUSP INJ.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -240286,7 +240286,7 @@
         {
           "numero": "137",
           "titulo": "34803 METFORMINA:comprimido sulcado 850mg.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -240334,7 +240334,7 @@
         {
           "numero": "139",
           "titulo": "9900100121 METILFENIDATO:10MG. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -240358,7 +240358,7 @@
         {
           "numero": "140",
           "titulo": "35803 METOCLOPRAMIDA CLORIDRATO:10MG",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -240367,7 +240367,7 @@
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "14.829,36",
           "vencedor": "VERTICE MEDICAMENTOS LTDA",
-          "melhor_oferta": "10.677,14",
+          "melhor_oferta": "10.592,40",
           "total_itens": 1,
           "itens": [
             {
@@ -240382,7 +240382,7 @@
         {
           "numero": "141",
           "titulo": "9900100122 METOCLOPRAMIDA:SOL.ORAL 4MG/ML. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -240391,7 +240391,7 @@
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "15.795,00",
           "vencedor": "VERTICE MEDICAMENTOS LTDA",
-          "melhor_oferta": "10.705,85",
+          "melhor_oferta": "10.635,30",
           "total_itens": 1,
           "itens": [
             {
@@ -240406,7 +240406,7 @@
         {
           "numero": "142",
           "titulo": "9900515202 METOCLOPRAMIDA:solução injetável 5mg/mL: Apresentação: ampola de 2mL. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -240478,7 +240478,7 @@
         {
           "numero": "145",
           "titulo": "9900100125 METOPROLOL:50MG. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -240502,7 +240502,7 @@
         {
           "numero": "146",
           "titulo": "35784 METOTREXATO:DE SODIO 2,5MG. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -240526,7 +240526,7 @@
         {
           "numero": "147",
           "titulo": "9900100126 METRONIDAZOL:100MG/G GELEIA VAGINAL.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -240574,7 +240574,7 @@
         {
           "numero": "149",
           "titulo": "9900100128 METRONIDAZOL:40MG/ML SUSP. ORAL. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -240583,7 +240583,7 @@
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "39.382,20",
           "vencedor": "VERTICE MEDICAMENTOS LTDA",
-          "melhor_oferta": "35.183,54",
+          "melhor_oferta": "35.170,20",
           "total_itens": 1,
           "itens": [
             {
@@ -240670,7 +240670,7 @@
         {
           "numero": "153",
           "titulo": "25198 MUPIROCINA:2% creme bisnaga com 15 g com 20 mg/g. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -240718,7 +240718,7 @@
         {
           "numero": "155",
           "titulo": "9900100130 NEOMICINA:sulfato de + bacitracina (5mg+250UI)/g pomada, tubo com 10 gramas.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -240726,8 +240726,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "61.298,64",
-          "vencedor": "DIMEVA DISTRIBUIDORA E IMPORTADORA LTDA",
-          "melhor_oferta": "56.604,60",
+          "vencedor": "MULTIFARMA COMERCIAL LTDA",
+          "melhor_oferta": "60.194,16",
           "total_itens": 1,
           "itens": [
             {
@@ -240886,7 +240886,7 @@
         {
           "numero": "162",
           "titulo": "9900100136 NORTRIPTILINA:25MG. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -240910,7 +240910,7 @@
         {
           "numero": "163",
           "titulo": "9900100137 NORTRIPTILINA:50MG. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -240934,7 +240934,7 @@
         {
           "numero": "164",
           "titulo": "9900100138 OMEPRAZOL:20MG CÁPSULA.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -241078,7 +241078,7 @@
         {
           "numero": "170",
           "titulo": "9900100144 PARACETAMOL:500MG. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -241086,8 +241086,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "57.778,00",
-          "vencedor": "VERTICE MEDICAMENTOS LTDA",
-          "melhor_oferta": "49.358,92",
+          "vencedor": "MCS ATACADISTA DE MEDICAMENTOS E PRODUTOS FARMACEUTICOS LTDA",
+          "melhor_oferta": "57.778,00",
           "total_itens": 1,
           "itens": [
             {
@@ -241150,7 +241150,7 @@
         {
           "numero": "173",
           "titulo": "35805 PIRIMETAMINA:25MG. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -241222,7 +241222,7 @@
         {
           "numero": "176",
           "titulo": "9900100146 PREDNISONA:5MG. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -241246,7 +241246,7 @@
         {
           "numero": "177",
           "titulo": "9900100150 PROMETAZINA:25MG. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -241438,7 +241438,7 @@
         {
           "numero": "185",
           "titulo": "34783 RISPERIDONA:2MG. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -241462,7 +241462,7 @@
         {
           "numero": "186",
           "titulo": "34782 RISPERIDONA:3MG. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -241486,7 +241486,7 @@
         {
           "numero": "187",
           "titulo": "35808 SAIS PARA REIDRATAÇÃO ORAL:PÓ",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -241510,7 +241510,7 @@
         {
           "numero": "188",
           "titulo": "36630 SALBUTAMOL:100MCG/DOSE 200 DOSES.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -241534,7 +241534,7 @@
         {
           "numero": "189",
           "titulo": "9900100151 SECNIDAZOL:1G. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -241654,7 +241654,7 @@
         {
           "numero": "194",
           "titulo": "9900515210 SITAGLIPTINA:100MG. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -241678,7 +241678,7 @@
         {
           "numero": "195",
           "titulo": "9900515211 SITAGLIPTINA:25MG. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -241750,7 +241750,7 @@
         {
           "numero": "198",
           "titulo": "9900100157 SULFATO FERROSO:25MG/ML SOL ORAL GOTAS. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -241774,7 +241774,7 @@
         {
           "numero": "199",
           "titulo": "36632 SULFATO FERROSO:40MG.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -241782,7 +241782,7 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "42.354,00",
-          "vencedor": "DIMEVA DISTRIBUIDORA E IMPORTADORA LTDA",
+          "vencedor": "NUNESFARMA PRODUTOS FARMACÊUTICOS LTDA",
           "melhor_oferta": "33.883,20",
           "total_itens": 1,
           "itens": [
@@ -241822,7 +241822,7 @@
         {
           "numero": "201",
           "titulo": "35809 TENOXICAM:pó liofilizado para injeção 20mg F.A mais diluente. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -241870,7 +241870,7 @@
         {
           "numero": "203",
           "titulo": "9900100160 TIMOLOL:0,5%  COLÍRIO. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -241894,7 +241894,7 @@
         {
           "numero": "204",
           "titulo": "9900100161 TIORIDAZINA:100 MG. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -241918,7 +241918,7 @@
         {
           "numero": "205",
           "titulo": "9900100162 TIORIDAZINA:50MG. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -241942,7 +241942,7 @@
         {
           "numero": "206",
           "titulo": "9900100163 TOBRAMICINA.:solucao oftalmologica 3mg/ml fr. com 5mL. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -241966,7 +241966,7 @@
         {
           "numero": "207",
           "titulo": "9900100164 TRAMADOL:100mg. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -242014,7 +242014,7 @@
         {
           "numero": "209",
           "titulo": "9900100167 VALPROATO DE SÓDIO:500MG.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -242038,7 +242038,7 @@
         {
           "numero": "210",
           "titulo": "9900100168 VARFARINA:SODICA 5MG. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -242062,7 +242062,7 @@
         {
           "numero": "211",
           "titulo": "9909911305 ALBENDAZOL:400MG:COMPRIMIDO MASTIGÁVEL. COTA DE 25% RESERVADA PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -242110,7 +242110,7 @@
         {
           "numero": "213",
           "titulo": "36906 AZITROMICINA: 40MG/ML:, PÓ PARA SUSPENSÃO ORAL:FRASCO COM 15 ML + DILUENTE + DOSADOR. COTA DE 25% RESERVADA PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -242158,7 +242158,7 @@
         {
           "numero": "215",
           "titulo": "9909911307 BENZILPENICILINA BENZATINA:1.200.00.000 UI:PÓ PARA SUSP INJ. F/A. COTA DE 25% RESERVADA PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -242182,7 +242182,7 @@
         {
           "numero": "216",
           "titulo": "36907 CARBAMAZEPINA:200MG.:CARBAMAZEPINA:200MG. COTA DE 25% RESERVADA PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -242191,7 +242191,7 @@
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "23.834,00",
           "vencedor": "VERTICE MEDICAMENTOS LTDA",
-          "melhor_oferta": "18.282,08",
+          "melhor_oferta": "18.226,00",
           "total_itens": 1,
           "itens": [
             {
@@ -242206,7 +242206,7 @@
         {
           "numero": "217",
           "titulo": "9909911308 CEFALEXINA:250MG/5ML SUSP. ORAL:CEFALEXINA:250MG/5ML SUSP. ORAL. COTA DE 25% RESERVADA PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -242230,7 +242230,7 @@
         {
           "numero": "218",
           "titulo": "36908 CEFALEXINA:500 MG cápsula /comprimido.:CEFALEXINA:500 MG cápsula / comprimido. COTA DE 25% RESERVADA PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -242254,7 +242254,7 @@
         {
           "numero": "219",
           "titulo": "36909 CIPROFLOXACINO:500MG:CIPROFLOXACINO:500MG. COTA DE 25% RESERVADA PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -242302,7 +242302,7 @@
         {
           "numero": "221",
           "titulo": "9909911310CLORPROMAZINA:100MG:CLORPROMAZINA:100MG COTA DE 25% RESERVADA PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -242326,7 +242326,7 @@
         {
           "numero": "222",
           "titulo": "9909911311 DIPIRONA:500MG.:DIPIRONA:500MG. COTA DE25% RESERVADA PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -242398,7 +242398,7 @@
         {
           "numero": "225",
           "titulo": "36910 GLIBENCLAMIDA:5MG.:GLIBENCLAMIDA:5MG. COTA DE 25% RESERVADA PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -242422,7 +242422,7 @@
         {
           "numero": "226",
           "titulo": "9909911314 GLICLAZIDA:30MG COMP. LIB.PROLONGADA.:GLICLAZIDA:30MG COMP. LIB.PROLONGADA. COTA DE 25% RESERVADA PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -242470,7 +242470,7 @@
         {
           "numero": "228",
           "titulo": "36911 HALDOL:DECANOATO INJETÁVEL:HALDOL:DECANOATO INJETÁVEL. COTA DE 25% RESERVADA PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -242518,7 +242518,7 @@
         {
           "numero": "230",
           "titulo": "36913 IBUPROFENO:600MG.:IBUPROFENO:600MG. COTA DE 25% RESERVADA PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -242527,7 +242527,7 @@
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "28.000,00",
           "vencedor": "VERTICE MEDICAMENTOS LTDA",
-          "melhor_oferta": "25.120,00",
+          "melhor_oferta": "24.000,00",
           "total_itens": 1,
           "itens": [
             {
@@ -242566,7 +242566,7 @@
         {
           "numero": "232",
           "titulo": "9909911317 MEDROXIPROGESTERONA:150MG/ML SUSP INJ.:MEDROXIPROGESTERONA:150MG/ML SUSP INJ. COTA DE 25% RESERVADA PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -242590,7 +242590,7 @@
         {
           "numero": "233",
           "titulo": "9909911318 METFORMINA:comprimido sulcado 850mg.:METFORMINA: comprimido sulcado 850mg. COTA DE 25% RESERVADA PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -242599,7 +242599,7 @@
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "123.123,00",
           "vencedor": "VERTICE MEDICAMENTOS LTDA",
-          "melhor_oferta": "108.700,02",
+          "melhor_oferta": "105.534,00",
           "total_itens": 1,
           "itens": [
             {
@@ -242638,7 +242638,7 @@
         {
           "numero": "235",
           "titulo": "9909911320 METRONIDAZOL:100MG/G GELEIA VAGINAL:METRONIDAZOL:100MG/G GELEIA VAGINAL. COTA DE 25% RESERVADA PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -242782,7 +242782,7 @@
         {
           "numero": "241",
           "titulo": "9909911326 SAIS PARA REIDRATAÇÃO ORAL:PÓ:SAIS PARA REIDRATAÇÃO ORAL:PÓ COTA DE 25% RESERVADA PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -242791,7 +242791,7 @@
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "23.346,63",
           "vencedor": "VERTICE MEDICAMENTOS LTDA",
-          "melhor_oferta": "21.795,95",
+          "melhor_oferta": "21.617,25",
           "total_itens": 1,
           "itens": [
             {
@@ -253151,8 +253151,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "10.102,95",
-          "vencedor": "58.751.062 PALMIRA RODRIGUES DA SILVA",
-          "melhor_oferta": "2.445,00",
+          "vencedor": "D.E.A CALCADOS LTDA",
+          "melhor_oferta": "2.480,00",
           "total_itens": 1,
           "itens": [
             {
@@ -253487,8 +253487,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "2.974,05",
-          "vencedor": "ROSILENE TONATTO SPAZZINI - EPP",
-          "melhor_oferta": "840,00",
+          "vencedor": "61.382.807 SAMUEL DA SILVA CUNHA",
+          "melhor_oferta": "1.100,00",
           "total_itens": 1,
           "itens": [
             {
@@ -253511,8 +253511,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "3.405,00",
-          "vencedor": "ROSILENE TONATTO SPAZZINI - EPP",
-          "melhor_oferta": "840,00",
+          "vencedor": "61.382.807 SAMUEL DA SILVA CUNHA",
+          "melhor_oferta": "1.100,00",
           "total_itens": 1,
           "itens": [
             {
@@ -253726,7 +253726,7 @@
         {
           "numero": "1",
           "titulo": "9900515340 Célula de bateria de íon de lítio:modelo cilíndrico tipo 18650, com tensão mínima de 3,4 volts e capacidade mínima de 2.500 mAh, indicada para uso em projetos de robótica, automação e prototipagem, permitindo autonomia e segurança energética em",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -253750,7 +253750,7 @@
         {
           "numero": "2",
           "titulo": "9900515341 Módulo joystick analógico de três eixos para microcontroladores:tensão de operação de 5 volts, próprio para controle direcional em projetos de robótica, simulação e protótipos de veículos, permitindo resposta precisa em movimentos e comandos, c",
-          "fase": "HABILITAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -253758,8 +253758,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "144,00",
-          "vencedor": "BRAVING COMERCIO & SERVICOS LTDA",
-          "melhor_oferta": "144,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
           "total_itens": 1,
           "itens": [
             {
@@ -253798,7 +253798,7 @@
         {
           "numero": "4",
           "titulo": "9900515343 Placa BMS (Battery Management System) 10S:36 volts, 25 Amperes, com funções de proteção contra sobrecarga, sobrecorrente, descarga excessiva e controle térmico, apropriada para gerenciamento de baterias em projetos de maior autonomia e desempen",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -253846,7 +253846,7 @@
         {
           "numero": "6",
           "titulo": "9900515345 Kit robótico educacional completo:contendo placas Arduino (UNO, Mega e Nano), servo motor 9g engrenagem de metal, botão liga/desliga tipo gangorra, driver de motor L298 H- Bridge, rodas com pneus e motor DC 3-6 volts com redução, módulos Blueto",
-          "fase": "HABILITAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -253854,8 +253854,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "23.700,00",
-          "vencedor": "BRAVING COMERCIO & SERVICOS LTDA",
-          "melhor_oferta": "23.700,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
           "total_itens": 1,
           "itens": [
             {
@@ -253942,7 +253942,7 @@
         {
           "numero": "10",
           "titulo": "36855 Testador de resistência para baterias de lítio:em material ABS, precisão de medição ± (percentual + dígito significativo), alcance de 20 ohms a 200 ohms, resolução mínima de 0,01 miliohm, indicado para aferição da qualidade e desempenho de células e",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -265399,8 +265399,8 @@
           ]
         },
         {
-          "numero": "3",
-          "titulo": "9900515570 Case mochila:para equipamentos (mochila para transportar câmera), resistente a agua.",
+          "numero": "4",
+          "titulo": "37160 Câmera:fotografica Z5-2 Nikon.",
           "fase": "PUBLICADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
@@ -265415,7 +265415,7 @@
           "itens": [
             {
               "numero": "1",
-              "especificacao": "9900515570 Case mochila:para equipamentos (mochila para transportar câmera), resistente a agua.",
+              "especificacao": "37160 Câmera:fotografica Z5-2 Nikon.",
               "unidade": "UND",
               "quantidade": "3,00",
               "valor_referencia": ""
@@ -265567,30 +265567,6 @@
           ]
         },
         {
-          "numero": "10",
-          "titulo": "37163 Memória RAM: 32 GB DDR5:em 2 módulos de 16 GB cada (dual channel), frequência efetiva mínima de 5600 MHz. Observação: Os dois módulos deverão ser da mesma marca e modelo.",
-          "fase": "PUBLICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37163 Memória RAM: 32 GB DDR5:em 2 módulos de 16 GB cada (dual channel), frequência efetiva mínima de 5600 MHz. Observação: Os dois módulos deverão ser da mesma marca e modelo.",
-              "unidade": "PAR",
-              "quantidade": "3,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
           "numero": "11",
           "titulo": "5707611161 SSD M.2 NVMe:com capacidade mínima de 1 TB, interface PCI-Express 4.0 x4, velocidade de leitura sequencial mínima de 3.500 MB/s e gravação sequencial mínima de 3.000 MB/s, com memória do tipo 3D NAND.",
           "fase": "PUBLICADO",
@@ -265615,8 +265591,8 @@
           ]
         },
         {
-          "numero": "11",
-          "titulo": "5707611161 SSD M.2 NVMe:com capacidade mínima de 1 TB, interface PCI-Express 4.0 x4, velocidade de leitura sequencial mínima de 3.500 MB/s e gravação sequencial mínima de 3.000 MB/s, com memória do tipo 3D NAND.",
+          "numero": "12",
+          "titulo": "37164 Drone multirotor, com câmera de alta resolução:(mínimo de 20 MP, sensor CMOS grande angular ou comparável), estabilização mecânica em três eixos (inclinação, rotação, giro), sistema de posicionamento por satélite (GPS ± GLONASS ou equivalente) para",
           "fase": "PUBLICADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
@@ -265631,9 +265607,33 @@
           "itens": [
             {
               "numero": "1",
-              "especificacao": "5707611161 SSD M.2 NVMe:com capacidade mínima de 1 TB, interface PCI-Express 4.0 x4, velocidade de leitura sequencial mínima de 3.500 MB/s e gravação sequencial mínima de 3.000 MB/s, com memória do tipo 3D NAND.",
+              "especificacao": "37164 Drone multirotor, com câmera de alta resolução:(mínimo de 20 MP, sensor CMOS grande angular ou comparável), estabilização mecânica em três eixos (inclinação, rotação, giro), sistema de posicionamento por satélite (GPS ± GLONASS ou equivalente) para voos com precisão horizontal e vertical, tanto em ambiente estático quanto em movimento; deve suportar tempo de voo mínimo de 30-40 minutos, alcance de operação de transmissão de sinais compatível (mínimo de 5-10 km em ambiente aberto), resistência ao vento de pelo menos 10-12 m/s, faixa operacional de temperatura de -10°C a +40°C, estrutura leve porém robusta, com materiais resistentes a intempéries, bem como garantia de assistência técnica e manutenção no país. O equipamento deverá ser fornecido com, no mínimo, 4 baterias extras adicionais, compatíveis com o modelo ofertado, com mesma capacidade nominal da bateria original, dotadas de sistemas de proteção contra sobrecarga, superaquecimento e descarga profunda, bem como solução de carregamento compatível (hub ou carregador múltiplo), de modo a assegurar a continuidade das operações sem interrupções por insuficiência de energia.",
               "unidade": "UND",
-              "quantidade": "6,00",
+              "quantidade": "2,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "13",
+          "titulo": "37165 Teleprompter Levantável:liga de alumínio de no mínimo 12 polegadas para iPad, tablet, telefone. Câmera DSLR, sem montagem com controle remoto, aplicativo compatível com iOS e Android com Tripé semi-hidráulico e engate removível.",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37165 Teleprompter Levantável:liga de alumínio de no mínimo 12 polegadas para iPad, tablet, telefone. Câmera DSLR, sem montagem com controle remoto, aplicativo compatível com iOS e Android com Tripé semi-hidráulico e engate removível.",
+              "unidade": "UND",
+              "quantidade": "4,00",
               "valor_referencia": ""
             }
           ]
@@ -265847,30 +265847,6 @@
           ]
         },
         {
-          "numero": "6",
-          "titulo": "9900515538 REDE DE FUTSAL TIPO VÉU 12X12CM:Rede defutsal, fio de 6mm em polietileno de alta densidade e proteção anti-uv, malha 13x13 medindo 2,0 x 3,10 x 1,0 mts, par (2 unidades). EXCLUSIVO PARA ME/EPP.",
-          "fase": "JULGAMENTO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "2.004,90",
-          "vencedor": "60.771.616 REBECA HELEN NASCIMENTO SANTOS",
-          "melhor_oferta": "2.000,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900515538 REDE DE FUTSAL TIPO VÉU 12X12CM:Rede defutsal, fio de 6mm em polietileno de alta densidade e proteção anti-uv, malha 13x13 medindo 2,0 x 3,10 x 1,0 mts, par (2 unidades). EXCLUSIVO PARA ME/EPP.",
-              "unidade": "PAR",
-              "quantidade": "10,00",
-              "valor_referencia": "200,49"
-            }
-          ]
-        },
-        {
           "numero": "7",
           "titulo": "9900515539 Camisa em tecido esportivo (dry fit ou similar):adequado para prática de atividades físicas.  Estampa na parte frontal: Logomarca do município de teixeira de Freitas; Logomarca oficial do evento centralizada na frente da camisa.Estampa na part",
           "fase": "JULGAMENTO",
@@ -265891,6 +265867,30 @@
               "unidade": "UND",
               "quantidade": "200,00",
               "valor_referencia": "46,65"
+            }
+          ]
+        },
+        {
+          "numero": "8",
+          "titulo": "9900515540 Colete Esportivo:Colete esportivo confeccionado em tecido leve e respirável, ideal para treinos, jogos e atividades físicas. Desenvolvido para facilitar a identificação rápida de equipes ou participantes durante práticas esportivas.Confecciona",
+          "fase": "JULGAMENTO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "1.422,40",
+          "vencedor": "TRINCA ESPORTES LTDA",
+          "melhor_oferta": "1.384,60",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515540 Colete Esportivo:Colete esportivo confeccionado em tecido leve e respirável, ideal para treinos, jogos e atividades físicas. Desenvolvido para facilitar a identificação rápida de equipes ou participantes durante práticas esportivas.Confeccionado em malha 100% poliéster ou dry fit; Tecido leve, resistente e de secagem rápida; Modelagem ampla, permitindo uso sobre camisetas ou uniformes; Laterais abertas ou com elástico, proporcionando melhor ajuste ao corpo; Alta durabilidade para uso frequente em treinos e competições; Cores variadas e vivas para fácil visualização (ex.: amarelo, verde, laranja, azul ou vermelho); Tamanho único ou tamanhos P, M, G e GG; Acabamento com costura reforçada nas bordas.EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "140,00",
+              "valor_referencia": "10,16"
             }
           ]
         }
