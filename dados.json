@@ -4,7 +4,7 @@
     "total_processos": 768,
     "total_lotes": 8663,
     "total_itens": 14799,
-    "atualizado_em": "20260420_075122"
+    "atualizado_em": "20260420_193521"
   },
   "processos": [
     {
@@ -261479,273 +261479,6 @@
       ]
     },
     {
-      "id": "PE-061-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "1232 / 2025",
-      "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "RECEPÇÃO DE PROPOSTAS",
-      "condutor": "JONATAS DA SILVA SOUSA",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "REGISTRO DE PREÇO",
-      "publicacao": "07/04/2026 16:33",
-      "inicio_recepcao": "09/04/2026 08:30",
-      "fim_recepcao": "20/04/2026 09:45",
-      "inicio_disputa": "20/04/2026 10:00",
-      "objeto": "Contratação de empresa especializada no fornecimento de UTENSÍLIOS DE COZINHA, UNIFORMES, EPC’S E EPI’S NECESSÁRIOS PARA O PROJETO PADARIA COMUNITÁRIA (material de consumo), a fim de atender às demandas da Secretaria Municipal de Promoção Social e Cultura.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DL7%2Fpbx6_zaCQLlbeJfEH%2FiuatHi5jkP9eMUJgrGPd%2FPr_Sxeg3PF1G_4%2FPU4X0M1IsvmjOxK5gmlSGV%2FE_F7v4eCTCqj5ozm3r1Gl4t%2FVoE%3D",
-      "total_lotes": 3,
-      "total_itens": 28,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "LOTE 1",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 15,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "8401500001 Avental comum impermeável:proteção contra respingos de líquidos, ingredientes e substâncias químicas, material de Nylon emborrachado. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "Und.",
-              "quantidade": "100,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "2",
-              "especificacao": "8401500002 Calça Brim Branca Uniforme Profissional GG:confeccionada em tecido brim pesado, 100% algodão. Possui elástico na cintura e cadarço para um melhor ajuste no corpo. Possui 3 bolsos, sendo 2 laterais e 1 traseiro. Cor branca, tamanho GG 50/52 - cintura 120 cm - comprimento 110 cm.EXCLUSIVO PARA ME/EPP.",
-              "unidade": "Und.",
-              "quantidade": "25,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "3",
-              "especificacao": "8401500003 Calça Brim Branca Uniforme Profissional P:confeccionada em tecido brim pesado, 100% algodão. Possui elástico na cintura e cadarço para um melhor ajuste no corpo. Possui 3 bolsos, sendo 2 laterais e 1 traseiro. Cor branca, tamanho P 38/40 - cintura 100 cm - comprimento 106 cm",
-              "unidade": "Und.",
-              "quantidade": "25,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "4",
-              "especificacao": "8401500004 Calça Brim Branca Uniforme Profissional M:confeccionada em tecido brim pesado,100% algodão. Possui elástico na cintura e cadarço para um melhor ajuste no corpo. Possui 3 bolsos, sendo 2 laterais e 1 traseiro. Cor branca Do tamanho M 42/44 - cintura 106 cm - comprimento 107 cm.EXCLUSIVO PARA ME/EPP.",
-              "unidade": "Und.",
-              "quantidade": "25,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "5",
-              "especificacao": "8401500005 Calça Brim Branca Uniforme Profissional G:confeccionada em tecido brim pesado,100% algodão. Possui elástico na cintura e cadarço para um melhor ajuste no corpo. Possui 3 bolsos, sendo 2 laterais e 1 traseiro. Cor branca, tamanho G 46/48 - cintura 112 cm - comprimento 108 cm.EXCLUSIVO PARA ME/EPP.",
-              "unidade": "Und.",
-              "quantidade": "25,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "6",
-              "especificacao": "8401500006 Calçado Branco Padaria ou cozinha:fabricado em EVA, unissex, no estilo galochas, cono curto, sem salto, material de cabedal sintético, material da sola de borracha, forma de bico arredondada, a prova d?água, sem zíper e sem cordões, com sola antiderrapante. Número 38, cor banca. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "PAR",
-              "quantidade": "6,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "7",
-              "especificacao": "36222 Calçado Branco Padaria ou cozinha:fabricado em EVA, unissex, no estilo galochas, cano curto, sem salto, material de cabedal sintético, material da sola de borracha, forma de bico arredondada, a prova d?água, sem zíper e sem cordões, com sola antiderrapante. Número 39, cor banca. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "PAR",
-              "quantidade": "10,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "8",
-              "especificacao": "8401500007 Calçado Branco Padaria ou cozinha:fabricado em EVA, unissex, no estilo galochas, cano curto, sem salto, material de cabedal sintético, material da sola de borracha, forma de bico arredondada, a prova d?água, sem zíper e sem cordões, com sola antiderrapante. Número 40, cor banca. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "PAR",
-              "quantidade": "10,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "9",
-              "especificacao": "8401500008 Calçado Branco Padaria ou cozinha:fabricado em EVA, unissex, no estilo galochas, cano curto, sem salto, material de cabedal sintético, material da sola de borracha, forma de bico arredondada, a prova d?água, sem zíper e sem cordões, com sola antiderrapante. Número 41, cor banca. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "PAR",
-              "quantidade": "8,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "10",
-              "especificacao": "8401500009 Calçado Branco Padaria ou cozinha:fabricado em EVA, unissex, no estilo galochas, cano curto, sem salto, material de cabedal sintético, material da sola de borracha, forma de bico arredondada, a prova d?água, sem zíper e sem cordões, com sola antiderrapante. Número 36, cor banca. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "PAR",
-              "quantidade": "5,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "11",
-              "especificacao": "8401500010 Jaleco para padeiro G:modelo unissex, tecido Oxford cor branca, com gola, sem alça traseira, manga curta, fechamento frontal em botões, com 3 bolsos frontais (1 superior esquerdo e 2 inferiores) aplicados com costura dupla e reforço no início e final das costuras, sendo que no bolsa superior esquerdo (lado de quem veste), com a logo da Prefeitura Municipal de Teixeira de Freitas e Programa Bolsa Família em serigrafia. Tamanho G. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "Und.",
-              "quantidade": "8,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "12",
-              "especificacao": "8401500011 Jaleco para padeiro P:modelo unissex, tecido Oxford cor branca, com gola, sem alça traseira, manga curta, fechamento frontal em botões, com 3 bolsos frontais (1 superior esquerdo e 2 inferiores) aplicados com costura dupla e reforço no início e final das costuras, sendo que no bolsa superior esquerdo (lado de quem veste), com a logo da Prefeitura Municipal de Teixeira de Freitas e Programa Bolsa Família em serigrafia. Tamanho P. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "Und.",
-              "quantidade": "15,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "13",
-              "especificacao": "8401500012 Jaleco para padeiro M:modelo unissex, tecido Oxford cor branca, com gola, sem alça traseira, manga curta, fechamento frontal em botões, com 3 bolsos frontais (1 superior esquerdo e 2 inferiores) aplicados com costura dupla e reforço no início e final das costuras, sendo que no bolsa superior esquerdo (lado de quem veste), com a logo da Prefeitura Municipal de Teixeira de Freitas e Programa Bolsa Família em serigrafia. Tamanho M. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "Und.",
-              "quantidade": "8,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "14",
-              "especificacao": "36225 Touca descartável:sanfonada elástica em TNT, caixa com 100 unidades Dimensões (AxLxP) 17,26,11cm. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "CX",
-              "quantidade": "10,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "15",
-              "especificacao": "36226 Touca Tule Oxford:circunferência: 64 cm - (regulável); comprimento tiras: 30 cm; altura: 15 cm; material: oxford (100% poliester); unissex, cor branca. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "Und.",
-              "quantidade": "30,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "2",
-          "titulo": "LOTE 2",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 3,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "7303000002 Faca de cozinha de 8 polegadas:32,6cmx4cmx1,5cm, em aço inoxidável. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "Und.",
-              "quantidade": "10,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "2",
-              "especificacao": "7303000003 Faca para Carne 14 polegadas:com lâmina em aço inox e cabo em polipropileno branco. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "Und.",
-              "quantidade": "10,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "3",
-              "especificacao": "7302000007 KIT HIGIENIZAÇÃO (dispenser/porta papel e toalha):kit com dispenser para papel toalha interfolha e uma saboneteira de 800 ml com reservatório. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "KIT",
-              "quantidade": "4,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "3",
-          "titulo": "LOTE 3",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 10,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "8406500010 Luva de segurança confeccionada em borracha nitrílica P:antiderrapante na palma, interior flocado. Proteção das mãos do usuário contra agentes abrasivos, escoriantes, cortantes e perfurantes e contra agentes químicos tais como Classe A - Tipo 2: Agressivos básicos; Classe B - Detergentes, Sabões, Amoníacos e similares e Classe C - Tipo 1: Hidrocarbonetos Alifáticos, Tipo 2: Hidrocarbonetos aromáticos, Tipo 3: Álcoois, Tipo 4: Éteres. Comprimento de aproximadamente 33 cm e espessura de cerca de 0,40mm, tamanhos P. (CA: 26.098). EXCLUSIVO PARA ME/EPP.",
-              "unidade": "PAR",
-              "quantidade": "60,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "2",
-              "especificacao": "36223 Luva de segurança confeccionada em borracha nitrílica M:antiderrapante na palma, interior flocado. Proteção das mãos do usuário contra agentes abrasivos, escoriantes, cortantes e perfurantes e contra agentes químicos tais como Classe A - Tipo 2: Agressivos básicos; Classe B - Detergentes, Sabões, Amoníacos e similares e Classe C - Tipo 1: Hidrocarbonetos Alifáticos, Tipo 2: Hidrocarbonetos aromáticos, Tipo 3: Álcoois, Tipo 4: Éteres. Comprimento de aproximadamente 33 cm e espessura de cerca de 0,40mm, tamanho M. (CA: 26.098).EXCLUSIVO PARA ME/EPP.",
-              "unidade": "PAR",
-              "quantidade": "100,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "3",
-              "especificacao": "8406500011 Luva de segurança confeccionada em borracha nitrílica G:antiderrapante na palma, interior flocado. Proteção das mãos do usuário contra agentes abrasivos, escoriantes, cortantes e perfurantes e contra agentes químicos tais como Classe A - Tipo 2: Agressivos básicos; Classe B - Detergentes, Sabões, Amoníacos e similares e Classe C - Tipo 1: Hidrocarbonetos Alifáticos, Tipo 2: Hidrocarbonetos aromáticos, Tipo 3: Álcoois, Tipo 4: Éteres. Comprimento de aproximadamente 33 cm e espessura de cerca de 0,40mm, tamanho G. (CA: 26.098). EXCLUSIVO PARA ME/EPP.",
-              "unidade": "PAR",
-              "quantidade": "100,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "4",
-              "especificacao": "8406500012 Luva de segurança confeccionada em borracha nitrílica GG:antiderrapante na palma, interior flocado. Proteção das mãos do usuário contra agentes abrasivos, escoriantes, cortantes e perfurantes e contra agentes químicos tais como Classe A - Tipo 2: Agressivos básicos; Classe B - Detergentes, Sabões, Amoníacos e similares e Classe C - Tipo 1: Hidrocarbonetos Alifáticos, Tipo 2: Hidrocarbonetos aromáticos, Tipo 3: Álcoois, Tipo 4: Éteres. Comprimento de aproximadamente 33 cm e espessura de cerca de 0,40mm.Diversos tamanhos GG. (CA: 26.098). EXCLUSIVO PARA ME/EPP.",
-              "unidade": "PAR",
-              "quantidade": "60,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "5",
-              "especificacao": "8406500013 Luva de segurança confeccionada em borracha nitrílica XG:antiderrapante na palma, interior flocado. Proteção das mãos do usuário contra agentes abrasivos, escoriantes, cortantes e perfurantes e contra agentes químicos tais como Classe A - Tipo 2: Agressivos básicos; Classe B - Detergentes, Sabões, Amoníacos e similares e Classe C - Tipo 1: Hidrocarbonetos Alifáticos, Tipo 2: Hidrocarbonetos aromáticos, Tipo 3: Álcoois, Tipo 4: Éteres. Comprimento de aproximadamente 33 cm e espessura de cerca de 0,40mm.Diversos tamanhos XG. (CA: 26.098). EXCLUSIVO PARA ME/EPP.",
-              "unidade": "PAR",
-              "quantidade": "50,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "6",
-              "especificacao": "8406500014 LUVA DESCARTÁVEL TPE SOFTTRANSPARENTE:tamanho: Pequena (P), Material: Elastômero Termoplástico (TPE) Cor: Transparente, caixa com 100 unidades. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "CX",
-              "quantidade": "3,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "7",
-              "especificacao": "8406500015 LUVA DESCARTÁVEL TPE SOFTTRANSPARENTE 8 CM:tamanho: Média (M), Material: Elastômero Termoplástico (TPE) Cor: Transparente, caixa com 100 unidades. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "CX",
-              "quantidade": "6,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "8",
-              "especificacao": "8406500016 LUVA DESCARTÁVEL TPE SOFTTRANSPARENTE 9 CM:tamanho: Grande (G), Material: Elastômero Termoplástico (TPE) Cor: Transparente, caixa com 100 unidades. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "CX",
-              "quantidade": "4,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "9",
-              "especificacao": "8406500017 Luva Térmica Felpuda para Forno Panificação, cano longo para uso Profissional:luva térmica felpuda para forno de panificação, tipo mão de gato, reforçada, cano longo, mínimo 40cm, que suporte altas temperaturas até 500ºC, material Algodão/Poliéster, nas cores azul ou cru. Par. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "PAR",
-              "quantidade": "50,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "10",
-              "especificacao": "9900515331 Protetor auditivo:do tipo concha, constituído por duas conchas em plástico, apresentando almofadas de espuma em suas laterais e em seu interior, possuindo uma haste emplástico rígido, ou outro material, que mantém as conchas firmemente seladas contra a região das orelhas do usuário e que sustenta as conchas. Deverá possuir NRRsf mínimo de 21 dB. (CA: 14.235, 15.247). EXCLUSIVO PARA ME/EPP.",
-              "unidade": "Und.",
-              "quantidade": "10,00",
-              "valor_referencia": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "PE-054-2026",
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "232/2026",
@@ -265081,146 +264814,6 @@
       ]
     },
     {
-      "id": "PE-004-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "1514/2025",
-      "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "ADJUDICADO",
-      "condutor": "JONATAS DA SILVA SOUSA",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "REGISTRO DE PREÇO",
-      "publicacao": "19/01/2026 19:19",
-      "inicio_recepcao": "13/02/2026 08:00",
-      "fim_recepcao": "25/02/2026 08:45",
-      "inicio_disputa": "25/02/2026 09:00",
-      "objeto": "futura e eventual contratação de empresa especializada em prestação de serviço de LOCAÇÃO DE VEÍCULOS LEVES E PESADOS, cujas especificações técnicas, quantidades e demais condições encontram-se detalhadas neste instrumento, a fim de atender as demandas da Secretaria Municipal de Administração e demais Secretarias.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5Dj0XPuKh3lmGAdFjTtKTYr%2F8KIy_e%2FGQmIf4ELMRMAQXWE9TG6FcGr63XlOhbeNIpYUmZWzSYDZwYICnpmcCaekwxXcsJTMSGH5TkQ09wOEo%3D",
-      "total_lotes": 5,
-      "total_itens": 5,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "LOCAÇÃO DE VEÍCULO TIPO VAN 09 A 12LUGARES - SEM MOTORISTA:Locação de Veículo, sem motorista, tipo utilitário fechado, tipo van, sem motorista, movido a gasolina, bicombustível ou diesel, motor 1.4 ou superior, capacidade de 09 a 12 passageiros, equipado",
-          "fase": "FRACASSADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "474.000,00",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "105100068 LOCAÇÃO DE VEÍCULO TIPO VAN 09 A 12LUGARES - SEM MOTORISTA:Locação de Veículo, sem motorista, tipo utilitário fechado, tipo van, sem motorista, movido a gasolina, bicombustível ou diesel, motor 1.4 ou superior, capacidade de 09 a 12 passageiros, equipado com ar- condicionado, direção hidráulica e/ou elétrica, vidros elétricos, trava elétrica, alarme, porta objetos, luz de freio adaptativa, airbag, sistema ativo de frenagem, sistema multimídia, potência mínima 160 CV, bateria mínima 90ah, pacote de integração com smartfone, rodas de liga leve, peso bruto máximo combinado 8.000kg, tração traseira, ano de fabricação mínima de 2021, manutenção por conta da empresa contratada, apólice ou contrato de seguro apresentado no ato do contrato de locação e com vigência para todo o período contratado e encargos tributários de IPVA, DPVAT e TRLAV também por conta da empresa contratada. (LOCAÇÃO MENSAL).",
-              "unidade": "UND",
-              "quantidade": "60,00",
-              "valor_referencia": "7.900,00"
-            }
-          ]
-        },
-        {
-          "numero": "2",
-          "titulo": "LOCAÇÃO DE VEÍCULO UTILITÁRIO ABERTOCABINE SIMPLES - SEM MOTORISTA:Locação de veículo sem motorista, tipo utilitário aberto, tipo caminhonete, movido a gasolina, bicombustível ou diesel, motor 1.4 ou superior, 02 portas, tração 4x2, airbag, luz auxiliar",
-          "fase": "ADJUDICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "1.064.500,80",
-          "vencedor": "LOCA TUDO LOCADORA LTDA",
-          "melhor_oferta": "947.707,20",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "105100069 LOCAÇÃO DE VEÍCULO UTILITÁRIO ABERTOCABINE SIMPLES - SEM MOTORISTA:Locação de veículo sem motorista, tipo utilitário aberto, tipo caminhonete, movido a gasolina, bicombustível ou diesel, motor 1.4 ou superior, 02 portas, tração 4x2, airbag, luz auxiliar de freio, equipado com ar- condicionado, direção hidráulica e/ou elétrica, vidros elétricos, trava elétrica nas 02 portas, alarme, capacidade de carga mínima de 700 kg, ano de fabricação mínima de 2022, manutenção por conta da empresa contratada, apólice ou contrato de seguro apresentado no ato do contrato de locação e com vigência para todo o período contratado e encargos tributários de IPVA, DPVAT e TRLAV também por conta da empresa contratada. (LOCAÇÃO MENSAL).",
-              "unidade": "UND",
-              "quantidade": "240,00",
-              "valor_referencia": "4.435,42"
-            }
-          ]
-        },
-        {
-          "numero": "3",
-          "titulo": "LOCAÇÃO DE VEÍCULO 05 PESSOAS - SEMMOTORISTA:Locação de Veículo sem motorista, veículo tipo automóvel, potência mínima 200 cv, autonomia mínima de 350km sem necessidade de reabastecimento, direção elétrica ou hidráulica, freios a disco, sensor de estacio",
-          "fase": "FRACASSADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "126.333,36",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "105100070 LOCAÇÃO DE VEÍCULO 05 PESSOAS - SEMMOTORISTA:Locação de Veículo sem motorista, veículo tipo automóvel, potência mínima 200 cv, autonomia mínima de 350km sem necessidade de reabastecimento, direção elétrica ou hidráulica, freios a disco, sensor de estacionamento, mínimo 05 airbag, capacidade mínima de carga do porta malas de 450kg, painel multimídia sensível ao toque, sistema auxiliar de permanência de faixa, ano de fabricação mínima de 2022, manutenção por conta da empresa contratada, apólice ou contrato de seguro apresentado no ato do contrato de locação e com vigência para todo o período contratado e encargos tributários de IPVA, DPVAT e TRLAV também por conta da empresa contratada. (LOCAÇÃO MENSAL).",
-              "unidade": "UND",
-              "quantidade": "24,00",
-              "valor_referencia": "5.263,89"
-            }
-          ]
-        },
-        {
-          "numero": "4",
-          "titulo": "LOCAÇÃO DE VEÍCULO TIPO MICRO-ÔNIBUSMÍNIMO 25 LUGARES - COM MOTORISTA:tipo utilitário fechado, com sanitário e de fácil acesso lateral para a manutenção do sanitário; movido a diesel; 2 eixos; potência mínima 160 CV, 02 baterias; rodas em aço; equipado c",
-          "fase": "FRACASSADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "111.300,00",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "105100071 LOCAÇÃO DE VEÍCULO TIPO MICRO-ÔNIBUSMÍNIMO 25 LUGARES - COM MOTORISTA:tipo utilitário fechado, com sanitário e de fácil acesso lateral para a manutenção do sanitário; movido a diesel; 2 eixos; potência mínima 160 CV, 02 baterias; rodas em aço; equipado com ar- condicionado, direção hidráulica e/ou elétrica, vidros elétricos, trava elétrica, alarme, ano de fabricação mínima de 2013, manutenção por conta da empresa contratada, apólice ou contrato de seguro apresentado no ato do contrato de locação e com vigência para todo o período contratado e encargos tributários de IPVA, DPVAT e TRLAV também por conta da empresa contratada. (LOCAÇÃO/DEMANDA).",
-              "unidade": "KM",
-              "quantidade": "10.000,00",
-              "valor_referencia": "11,13"
-            }
-          ]
-        },
-        {
-          "numero": "5",
-          "titulo": "LOCAÇÃO DE VEÍCULO TIPO ÔNIBUS MÍNIMO 43LUGARES - COM MOTORISTA:tipo utilitário fechado; potência máxima de 207cv; movido a diesel; bateria de 12 V/135 Ah (02 unidades); 2 eixos;   Tanque de combustível 210 litros; Reservatório Arla 32 35 litros; equipad",
-          "fase": "FRACASSADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "167.600,00",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "36521 LOCAÇÃO DE VEÍCULO TIPO ÔNIBUS MÍNIMO 43LUGARES - COM MOTORISTA:tipo utilitário fechado; potência máxima de 207cv; movido a diesel; bateria de 12 V/135 Ah (02 unidades); 2 eixos; Tanque de combustível 210 litros; Reservatório Arla 32 35 litros; equipado com ar-condicionado, direção hidráulica e/ou elétrica, vidros elétricos, trava elétrica, alarme, ano de fabricação mínima de 2010, manutenção por conta da empresa contratada, apólice ou contrato de seguro apresentado no ato do contrato de locação e com vigência para todo o período contratado e encargos tributários de IPVA, DPVAT e TRLAV também por conta da empresa contratada.(LOCAÇÃO/DEMANDA).",
-              "unidade": "KM",
-              "quantidade": "10.000,00",
-              "valor_referencia": "16,76"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "PE-065-2026",
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "202 / 2026",
@@ -265303,338 +264896,6 @@
               "unidade": "ROL",
               "quantidade": "30,00",
               "valor_referencia": "267,32"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "PE-067-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "315 / 2026",
-      "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "PUBLICADO",
-      "condutor": "JONATAS DA SILVA SOUSA",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "REGISTRO DE PREÇO",
-      "publicacao": "16/04/2026 17:14",
-      "inicio_recepcao": "20/04/2026 08:30",
-      "fim_recepcao": "30/04/2026 08:15",
-      "inicio_disputa": "30/04/2026 08:30",
-      "objeto": "Contratação de empresa especializada em fornecimento de EQUIPAMENTOS DE INFORMÁTICA, ÁUDIO, VÍDEO E ACESSÓRIOS TECNOLÓGICOS,  a fim de atender as demandas da Secretaria Municipal de Educação.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5D7NojFkM_rkDQEsrxxWBCzZ6TMxkfpcDFVrpJiMsfFDK%2FUkZRwr1P1SnmGxxChho5h65hKoRq805RCsRFSEcqbnF6fYTA9wSjZbO6ssgd0Bk%3D",
-      "total_lotes": 13,
-      "total_itens": 13,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "9900515569 Cartão SD:SD 128g, classe 10 200 MBS.",
-          "fase": "PUBLICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900515569 Cartão SD:SD 128g, classe 10 200 MBS.",
-              "unidade": "UND",
-              "quantidade": "6,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "2",
-          "titulo": "5707611158 Softbox:minimo de 90cm de diametro. Marca e modelo de referência: Triopo K2-90cm.",
-          "fase": "PUBLICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "5707611158 Softbox:minimo de 90cm de diametro. Marca e modelo de referência: Triopo K2-90cm.",
-              "unidade": "UND",
-              "quantidade": "5,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "3",
-          "titulo": "9900515570 Case mochila:para equipamentos (mochila para transportar câmera), resistente a agua.",
-          "fase": "PUBLICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900515570 Case mochila:para equipamentos (mochila para transportar câmera), resistente a agua.",
-              "unidade": "UND",
-              "quantidade": "3,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "4",
-          "titulo": "37160 Câmera:fotografica Z5-2 Nikon.",
-          "fase": "PUBLICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37160 Câmera:fotografica Z5-2 Nikon.",
-              "unidade": "UND",
-              "quantidade": "3,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "5",
-          "titulo": "37161 MICROFONE SHOTGUN PROFISSIONAL C/CAPTAÇÃO DIRECIONAL:Padrão Polar Super; Tipo de Captura Extremo; Faixa de Frequência 20Hz - 20kHz ; Impedância de Saída 200&#937;; Recursos: Sensibilidade -32,0dB re 1 Volt /+/- 2 dB @ 1kHz; Nível de Ruído Equivalen",
-          "fase": "PUBLICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37161 MICROFONE SHOTGUN PROFISSIONAL C/CAPTAÇÃO DIRECIONAL:Padrão Polar Super; Tipo de Captura Extremo; Faixa de Frequência 20Hz - 20kHz ; Impedância de Saída 200&#937;; Recursos: Sensibilidade -32,0dB re 1 Volt /+/- 2 dB @ 1kHz; Nível de Ruído Equivalente (Ponderado A) 16Dba; Energia: Requisitos de Energia P12 P24 P48; Saída XLR. Conteúdo da embalagem: Microfone Shotgun Condensador Alimentado por Bateria ou Phantom Rode NTG-2 Montagem Contra Choque Universal para Sapatas de Câmera e Varas de Boom - Pearstone DUSM-1 Rode Windshield WS6 Deluxe para os microfones NTG2 e NTG1; Vara de Boom em Alumínio da Série Avalon com Cabo XLR Espiralado Interno - K-TekKE-89CC; Pearstone Cabo de Áudio Reto de XLR-M de 3 Pinos para XLR-F Angulado de 3 Pinos 6m; Cabo de Áudio Reto Pearstone de XLR-M de 3 Pinos para XLR-F Angulado de 3 Pinos 0,45m; Bolsa de Neoprene Pearstone para; Vara de Boom Fechada de 34\" com Microfone Shotgun e Softie; Punho de Microfone Universal Pearstone",
-              "unidade": "UND",
-              "quantidade": "2,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "6",
-          "titulo": "5707611159 DRONE DJI AVATA 02. Marca: DJI. Modelo: DroneDJI Avata 2 Fly More:Combo (3 baterias) BR - DJI049; Cor: Preto; Tempo de voo: Até 23 min; Distância máx. de  transmissão: 13 km; Detecção de obstáculos: Inferior e traseira; Vel. máx.: 97,2 km/h; R",
-          "fase": "PUBLICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "5707611159 DRONE DJI AVATA 02. Marca: DJI. Modelo: DroneDJI Avata 2 Fly More:Combo (3 baterias) BR - DJI049; Cor: Preto; Tempo de voo: Até 23 min; Distância máx. de transmissão: 13 km; Detecção de obstáculos: Inferior e traseira; Vel. máx.: 97,2 km/h; Resistência a vento: 38,52 km/h; Câmera: 1/1,3 CMOS 12mm FOV 155; Resolução: Foto: 12 MP; Vídeo: até 4K/60 fps; Abertura: f/2,8; Tela do óculos: DJI Goggles 3: 0,49 Micro-OLED; Resolução do óculos: DJI Goggles 3: 1080p 100 fps; Duração e tipo de bateria: DJI Goggles 3: Até 3 horas, integrada ao óculos. Conteúdo da embalagem: 1 drone DJI Avata 2, 1 controle remoto DJI Motion 3, 1 alça de pulso para DJIMotion 3, 1 óculos de pilotagem DJI Goggles 3, 1 espuma DJIGoggles 3, 1 suporte para testa DJI Goggles 3, 1 par de lentes corretivas para DJI Goggles 3, 1 cabo USB-C OTG, 3 baterias DJI Avata 2, 2 pares de hélices DJI Avata 2, 8 parafusos para hélices DJI Avata 2, 1 ferramenta de remoção das hélices,1 protetor da câmera DJI Avata 2, 1 cabo Tipo-C, 1 Bolsa, 1 hub de carregamento de baterias com função de transferência de carga. Dimensões (LxAxC): 21,2 x 6,4 x 18,5cm; Peso: 377 g.",
-              "unidade": "UND",
-              "quantidade": "3,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "7",
-          "titulo": "5707611160 Controle Remoto DJI FPV 3 (DJI Avata 2/DJI Neo) BR - DJI1044:Marca: DJI. Modelo: DJI1044: Alcance máximo: 13 km; Frequência: 2.4; Quantidade de canais: 1; Duração da bateria: 10 h; Tipo de alimentação: Bateria; Tipos de conectores: USB-C; Com v",
-          "fase": "PUBLICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "5707611160 Controle Remoto DJI FPV 3 (DJI Avata 2/DJI Neo) BR - DJI1044:Marca: DJI. Modelo: DJI1044: Alcance máximo: 13 km; Frequência: 2.4; Quantidade de canais: 1; Duração da bateria: 10 h; Tipo de alimentação: Bateria; Tipos de conectores: USB-C; Com visor: Não; Especificações Técnicas: Cor: CINZA; Peso do produto: 240g; Largura do produto: 16cm; Altura do produto: 8cm; Comprimento do produto: 21cm; Conteúdo da Embalagem: 1x controle remoto DJI FPV 3; 1x par de sticks de controle do DJI FPV 3; 1x chave de fenda em forma de L; Dimensão Produto com Base (mm): (CxLxA): 165x119x62 mm; Tempo de carregamento: 2h; Tempo de Operação: Aprox. 10 horas.",
-              "unidade": "UND",
-              "quantidade": "3,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "8",
-          "titulo": "9900515571 Processador Intel Core i7-14700 ou superior:soquete LGA1700, 20 núcleos físicos (8 Performance + 12 Efficient) e 28 threads, frequência turbo de no mínimo 5.4 GHz, cache L3 mínimo de 33 MB.",
-          "fase": "PUBLICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900515571 Processador Intel Core i7-14700 ou superior:soquete LGA1700, 20 núcleos físicos (8 Performance + 12 Efficient) e 28 threads, frequência turbo de no mínimo 5.4 GHz, cache L3 mínimo de 33 MB.",
-              "unidade": "UND",
-              "quantidade": "3,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "9",
-          "titulo": "37162 Air Cooler:TDP mínimo de 200W, com mínimo de 4  heatpipes, fabricado em cobre (base e heatpipe), aletas deresfriamento em alumínio, Velocidade Max de rotação 1200 RPM; compatível com soquete LGA1700.",
-          "fase": "PUBLICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37162 Air Cooler:TDP mínimo de 200W, com mínimo de 4 heatpipes, fabricado em cobre (base e heatpipe), aletas deresfriamento em alumínio, Velocidade Max de rotação 1200 RPM; compatível com soquete LGA1700.",
-              "unidade": "UND",
-              "quantidade": "3,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "10",
-          "titulo": "37163 Memória RAM: 32 GB DDR5:em 2 módulos de 16 GB cada (dual channel), frequência efetiva mínima de 5600 MHz. Observação: Os dois módulos deverão ser da mesma marca e modelo.",
-          "fase": "PUBLICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37163 Memória RAM: 32 GB DDR5:em 2 módulos de 16 GB cada (dual channel), frequência efetiva mínima de 5600 MHz. Observação: Os dois módulos deverão ser da mesma marca e modelo.",
-              "unidade": "PAR",
-              "quantidade": "3,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "11",
-          "titulo": "5707611161 SSD M.2 NVMe:com capacidade mínima de 1 TB, interface PCI-Express 4.0 x4, velocidade de leitura sequencial mínima de 3.500 MB/s e gravação sequencial mínima de 3.000 MB/s, com memória do tipo 3D NAND.",
-          "fase": "PUBLICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "5707611161 SSD M.2 NVMe:com capacidade mínima de 1 TB, interface PCI-Express 4.0 x4, velocidade de leitura sequencial mínima de 3.500 MB/s e gravação sequencial mínima de 3.000 MB/s, com memória do tipo 3D NAND.",
-              "unidade": "UND",
-              "quantidade": "6,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "12",
-          "titulo": "37164 Drone multirotor, com câmera de alta resolução:(mínimo de 20 MP, sensor CMOS grande angular ou comparável), estabilização mecânica em três eixos (inclinação, rotação, giro), sistema de posicionamento por satélite (GPS ± GLONASS ou equivalente) para",
-          "fase": "PUBLICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37164 Drone multirotor, com câmera de alta resolução:(mínimo de 20 MP, sensor CMOS grande angular ou comparável), estabilização mecânica em três eixos (inclinação, rotação, giro), sistema de posicionamento por satélite (GPS ± GLONASS ou equivalente) para voos com precisão horizontal e vertical, tanto em ambiente estático quanto em movimento; deve suportar tempo de voo mínimo de 30-40 minutos, alcance de operação de transmissão de sinais compatível (mínimo de 5-10 km em ambiente aberto), resistência ao vento de pelo menos 10-12 m/s, faixa operacional de temperatura de -10°C a +40°C, estrutura leve porém robusta, com materiais resistentes a intempéries, bem como garantia de assistência técnica e manutenção no país. O equipamento deverá ser fornecido com, no mínimo, 4 baterias extras adicionais, compatíveis com o modelo ofertado, com mesma capacidade nominal da bateria original, dotadas de sistemas de proteção contra sobrecarga, superaquecimento e descarga profunda, bem como solução de carregamento compatível (hub ou carregador múltiplo), de modo a assegurar a continuidade das operações sem interrupções por insuficiência de energia.",
-              "unidade": "UND",
-              "quantidade": "2,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "13",
-          "titulo": "37165 Teleprompter Levantável:liga de alumínio de no mínimo 12 polegadas para iPad, tablet, telefone. Câmera DSLR, sem montagem com controle remoto, aplicativo compatível com iOS e Android com Tripé semi-hidráulico e engate removível.",
-          "fase": "PUBLICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37165 Teleprompter Levantável:liga de alumínio de no mínimo 12 polegadas para iPad, tablet, telefone. Câmera DSLR, sem montagem com controle remoto, aplicativo compatível com iOS e Android com Tripé semi-hidráulico e engate removível.",
-              "unidade": "UND",
-              "quantidade": "4,00",
-              "valor_referencia": ""
             }
           ]
         }
@@ -266226,6 +265487,745 @@
               "unidade": "Und.",
               "quantidade": "24,00",
               "valor_referencia": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-067-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "315 / 2026",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "RECEPÇÃO DE PROPOSTAS",
+      "condutor": "JONATAS DA SILVA SOUSA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "REGISTRO DE PREÇO",
+      "publicacao": "16/04/2026 17:14",
+      "inicio_recepcao": "20/04/2026 08:30",
+      "fim_recepcao": "30/04/2026 08:15",
+      "inicio_disputa": "30/04/2026 08:30",
+      "objeto": "Contratação de empresa especializada em fornecimento de EQUIPAMENTOS DE INFORMÁTICA, ÁUDIO, VÍDEO E ACESSÓRIOS TECNOLÓGICOS,  a fim de atender as demandas da Secretaria Municipal de Educação.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5D5aZ_2eptvKXSvu9v21IhpFvRnTsFIdAIa6__dfSUP2fb3l5yxA6U%2FjZuuZ6%2F1VVEBM_8ad2PVVWtV0Ko%2FQ3p3sDkKjx%2F2iPmEdSXc6Goyt8%3D",
+      "total_lotes": 13,
+      "total_itens": 13,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "9900515569 Cartão SD:SD 128g, classe 10 200 MBS.",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515569 Cartão SD:SD 128g, classe 10 200 MBS.",
+              "unidade": "UND",
+              "quantidade": "6,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "2",
+          "titulo": "5707611158 Softbox:minimo de 90cm de diametro. Marca e modelo de referência: Triopo K2-90cm.",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "5707611158 Softbox:minimo de 90cm de diametro. Marca e modelo de referência: Triopo K2-90cm.",
+              "unidade": "UND",
+              "quantidade": "5,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "3",
+          "titulo": "9900515570 Case mochila:para equipamentos (mochila para transportar câmera), resistente a agua.",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515570 Case mochila:para equipamentos (mochila para transportar câmera), resistente a agua.",
+              "unidade": "UND",
+              "quantidade": "3,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "4",
+          "titulo": "37160 Câmera:fotografica Z5-2 Nikon.",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37160 Câmera:fotografica Z5-2 Nikon.",
+              "unidade": "UND",
+              "quantidade": "3,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "5",
+          "titulo": "37161 MICROFONE SHOTGUN PROFISSIONAL C/CAPTAÇÃO DIRECIONAL:Padrão Polar Super; Tipo de Captura Extremo; Faixa de Frequência 20Hz - 20kHz ; Impedância de Saída 200&#937;; Recursos: Sensibilidade -32,0dB re 1 Volt /+/- 2 dB @ 1kHz; Nível de Ruído Equivalen",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37161 MICROFONE SHOTGUN PROFISSIONAL C/CAPTAÇÃO DIRECIONAL:Padrão Polar Super; Tipo de Captura Extremo; Faixa de Frequência 20Hz - 20kHz ; Impedância de Saída 200&#937;; Recursos: Sensibilidade -32,0dB re 1 Volt /+/- 2 dB @ 1kHz; Nível de Ruído Equivalente (Ponderado A) 16Dba; Energia: Requisitos de Energia P12 P24 P48; Saída XLR. Conteúdo da embalagem: Microfone Shotgun Condensador Alimentado por Bateria ou Phantom Rode NTG-2 Montagem Contra Choque Universal para Sapatas de Câmera e Varas de Boom - Pearstone DUSM-1 Rode Windshield WS6 Deluxe para os microfones NTG2 e NTG1; Vara de Boom em Alumínio da Série Avalon com Cabo XLR Espiralado Interno - K-TekKE-89CC; Pearstone Cabo de Áudio Reto de XLR-M de 3 Pinos para XLR-F Angulado de 3 Pinos 6m; Cabo de Áudio Reto Pearstone de XLR-M de 3 Pinos para XLR-F Angulado de 3 Pinos 0,45m; Bolsa de Neoprene Pearstone para; Vara de Boom Fechada de 34\" com Microfone Shotgun e Softie; Punho de Microfone Universal Pearstone",
+              "unidade": "UND",
+              "quantidade": "2,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "6",
+          "titulo": "5707611159 DRONE DJI AVATA 02. Marca: DJI. Modelo: DroneDJI Avata 2 Fly More:Combo (3 baterias) BR - DJI049; Cor: Preto; Tempo de voo: Até 23 min; Distância máx. de  transmissão: 13 km; Detecção de obstáculos: Inferior e traseira; Vel. máx.: 97,2 km/h; R",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "5707611159 DRONE DJI AVATA 02. Marca: DJI. Modelo: DroneDJI Avata 2 Fly More:Combo (3 baterias) BR - DJI049; Cor: Preto; Tempo de voo: Até 23 min; Distância máx. de transmissão: 13 km; Detecção de obstáculos: Inferior e traseira; Vel. máx.: 97,2 km/h; Resistência a vento: 38,52 km/h; Câmera: 1/1,3 CMOS 12mm FOV 155; Resolução: Foto: 12 MP; Vídeo: até 4K/60 fps; Abertura: f/2,8; Tela do óculos: DJI Goggles 3: 0,49 Micro-OLED; Resolução do óculos: DJI Goggles 3: 1080p 100 fps; Duração e tipo de bateria: DJI Goggles 3: Até 3 horas, integrada ao óculos. Conteúdo da embalagem: 1 drone DJI Avata 2, 1 controle remoto DJI Motion 3, 1 alça de pulso para DJIMotion 3, 1 óculos de pilotagem DJI Goggles 3, 1 espuma DJIGoggles 3, 1 suporte para testa DJI Goggles 3, 1 par de lentes corretivas para DJI Goggles 3, 1 cabo USB-C OTG, 3 baterias DJI Avata 2, 2 pares de hélices DJI Avata 2, 8 parafusos para hélices DJI Avata 2, 1 ferramenta de remoção das hélices,1 protetor da câmera DJI Avata 2, 1 cabo Tipo-C, 1 Bolsa, 1 hub de carregamento de baterias com função de transferência de carga. Dimensões (LxAxC): 21,2 x 6,4 x 18,5cm; Peso: 377 g.",
+              "unidade": "UND",
+              "quantidade": "3,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "7",
+          "titulo": "5707611160 Controle Remoto DJI FPV 3 (DJI Avata 2/DJI Neo) BR - DJI1044:Marca: DJI. Modelo: DJI1044: Alcance máximo: 13 km; Frequência: 2.4; Quantidade de canais: 1; Duração da bateria: 10 h; Tipo de alimentação: Bateria; Tipos de conectores: USB-C; Com v",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "5707611160 Controle Remoto DJI FPV 3 (DJI Avata 2/DJI Neo) BR - DJI1044:Marca: DJI. Modelo: DJI1044: Alcance máximo: 13 km; Frequência: 2.4; Quantidade de canais: 1; Duração da bateria: 10 h; Tipo de alimentação: Bateria; Tipos de conectores: USB-C; Com visor: Não; Especificações Técnicas: Cor: CINZA; Peso do produto: 240g; Largura do produto: 16cm; Altura do produto: 8cm; Comprimento do produto: 21cm; Conteúdo da Embalagem: 1x controle remoto DJI FPV 3; 1x par de sticks de controle do DJI FPV 3; 1x chave de fenda em forma de L; Dimensão Produto com Base (mm): (CxLxA): 165x119x62 mm; Tempo de carregamento: 2h; Tempo de Operação: Aprox. 10 horas.",
+              "unidade": "UND",
+              "quantidade": "3,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "8",
+          "titulo": "9900515571 Processador Intel Core i7-14700 ou superior:soquete LGA1700, 20 núcleos físicos (8 Performance + 12 Efficient) e 28 threads, frequência turbo de no mínimo 5.4 GHz, cache L3 mínimo de 33 MB.",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515571 Processador Intel Core i7-14700 ou superior:soquete LGA1700, 20 núcleos físicos (8 Performance + 12 Efficient) e 28 threads, frequência turbo de no mínimo 5.4 GHz, cache L3 mínimo de 33 MB.",
+              "unidade": "UND",
+              "quantidade": "3,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "9",
+          "titulo": "37162 Air Cooler:TDP mínimo de 200W, com mínimo de 4  heatpipes, fabricado em cobre (base e heatpipe), aletas deresfriamento em alumínio, Velocidade Max de rotação 1200 RPM; compatível com soquete LGA1700.",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37162 Air Cooler:TDP mínimo de 200W, com mínimo de 4 heatpipes, fabricado em cobre (base e heatpipe), aletas deresfriamento em alumínio, Velocidade Max de rotação 1200 RPM; compatível com soquete LGA1700.",
+              "unidade": "UND",
+              "quantidade": "3,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "10",
+          "titulo": "37163 Memória RAM: 32 GB DDR5:em 2 módulos de 16 GB cada (dual channel), frequência efetiva mínima de 5600 MHz. Observação: Os dois módulos deverão ser da mesma marca e modelo.",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37163 Memória RAM: 32 GB DDR5:em 2 módulos de 16 GB cada (dual channel), frequência efetiva mínima de 5600 MHz. Observação: Os dois módulos deverão ser da mesma marca e modelo.",
+              "unidade": "PAR",
+              "quantidade": "3,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "11",
+          "titulo": "5707611161 SSD M.2 NVMe:com capacidade mínima de 1 TB, interface PCI-Express 4.0 x4, velocidade de leitura sequencial mínima de 3.500 MB/s e gravação sequencial mínima de 3.000 MB/s, com memória do tipo 3D NAND.",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "5707611161 SSD M.2 NVMe:com capacidade mínima de 1 TB, interface PCI-Express 4.0 x4, velocidade de leitura sequencial mínima de 3.500 MB/s e gravação sequencial mínima de 3.000 MB/s, com memória do tipo 3D NAND.",
+              "unidade": "UND",
+              "quantidade": "6,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "12",
+          "titulo": "37164 Drone multirotor, com câmera de alta resolução:(mínimo de 20 MP, sensor CMOS grande angular ou comparável), estabilização mecânica em três eixos (inclinação, rotação, giro), sistema de posicionamento por satélite (GPS ± GLONASS ou equivalente) para",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37164 Drone multirotor, com câmera de alta resolução:(mínimo de 20 MP, sensor CMOS grande angular ou comparável), estabilização mecânica em três eixos (inclinação, rotação, giro), sistema de posicionamento por satélite (GPS ± GLONASS ou equivalente) para voos com precisão horizontal e vertical, tanto em ambiente estático quanto em movimento; deve suportar tempo de voo mínimo de 30-40 minutos, alcance de operação de transmissão de sinais compatível (mínimo de 5-10 km em ambiente aberto), resistência ao vento de pelo menos 10-12 m/s, faixa operacional de temperatura de -10°C a +40°C, estrutura leve porém robusta, com materiais resistentes a intempéries, bem como garantia de assistência técnica e manutenção no país. O equipamento deverá ser fornecido com, no mínimo, 4 baterias extras adicionais, compatíveis com o modelo ofertado, com mesma capacidade nominal da bateria original, dotadas de sistemas de proteção contra sobrecarga, superaquecimento e descarga profunda, bem como solução de carregamento compatível (hub ou carregador múltiplo), de modo a assegurar a continuidade das operações sem interrupções por insuficiência de energia.",
+              "unidade": "UND",
+              "quantidade": "2,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "13",
+          "titulo": "37165 Teleprompter Levantável:liga de alumínio de no mínimo 12 polegadas para iPad, tablet, telefone. Câmera DSLR, sem montagem com controle remoto, aplicativo compatível com iOS e Android com Tripé semi-hidráulico e engate removível.",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37165 Teleprompter Levantável:liga de alumínio de no mínimo 12 polegadas para iPad, tablet, telefone. Câmera DSLR, sem montagem com controle remoto, aplicativo compatível com iOS e Android com Tripé semi-hidráulico e engate removível.",
+              "unidade": "UND",
+              "quantidade": "4,00",
+              "valor_referencia": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-061-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "1232 / 2025",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "JULGAMENTO",
+      "condutor": "JONATAS DA SILVA SOUSA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "REGISTRO DE PREÇO",
+      "publicacao": "07/04/2026 16:33",
+      "inicio_recepcao": "09/04/2026 08:30",
+      "fim_recepcao": "20/04/2026 09:45",
+      "inicio_disputa": "20/04/2026 10:00",
+      "objeto": "Contratação de empresa especializada no fornecimento de UTENSÍLIOS DE COZINHA, UNIFORMES, EPC’S E EPI’S NECESSÁRIOS PARA O PROJETO PADARIA COMUNITÁRIA (material de consumo), a fim de atender às demandas da Secretaria Municipal de Promoção Social e Cultura.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DoaRfx3T6F9t1v1%2FmygdXISpD7OTO2X_XnNyVfV1I22ydZ6rq_N30CwqNPzFqetTfaVcb%2F3QNbY7fLueQM4A2zz%2FqnpzKGLIV70tslaCWrts%3D",
+      "total_lotes": 3,
+      "total_itens": 28,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "LOTE 1",
+          "fase": "JULGAMENTO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "18.340,10",
+          "vencedor": "PRONTUS COMERCIAL LTDA",
+          "melhor_oferta": "18.333,00",
+          "total_itens": 15,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "8401500001 Avental comum impermeável:proteção contra respingos de líquidos, ingredientes e substâncias químicas, material de Nylon emborrachado. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "Und.",
+              "quantidade": "100,00",
+              "valor_referencia": "51,89"
+            },
+            {
+              "numero": "2",
+              "especificacao": "8401500002 Calça Brim Branca Uniforme Profissional GG:confeccionada em tecido brim pesado, 100% algodão. Possui elástico na cintura e cadarço para um melhor ajuste no corpo. Possui 3 bolsos, sendo 2 laterais e 1 traseiro. Cor branca, tamanho GG 50/52 - cintura 120 cm - comprimento 110 cm.EXCLUSIVO PARA ME/EPP.",
+              "unidade": "Und.",
+              "quantidade": "25,00",
+              "valor_referencia": "70,72"
+            },
+            {
+              "numero": "3",
+              "especificacao": "8401500003 Calça Brim Branca Uniforme Profissional P:confeccionada em tecido brim pesado, 100% algodão. Possui elástico na cintura e cadarço para um melhor ajuste no corpo. Possui 3 bolsos, sendo 2 laterais e 1 traseiro. Cor branca, tamanho P 38/40 - cintura 100 cm - comprimento 106 cm",
+              "unidade": "Und.",
+              "quantidade": "25,00",
+              "valor_referencia": "70,72"
+            },
+            {
+              "numero": "4",
+              "especificacao": "8401500004 Calça Brim Branca Uniforme Profissional M:confeccionada em tecido brim pesado,100% algodão. Possui elástico na cintura e cadarço para um melhor ajuste no corpo. Possui 3 bolsos, sendo 2 laterais e 1 traseiro. Cor branca Do tamanho M 42/44 - cintura 106 cm - comprimento 107 cm.EXCLUSIVO PARA ME/EPP.",
+              "unidade": "Und.",
+              "quantidade": "25,00",
+              "valor_referencia": "70,72"
+            },
+            {
+              "numero": "5",
+              "especificacao": "8401500005 Calça Brim Branca Uniforme Profissional G:confeccionada em tecido brim pesado,100% algodão. Possui elástico na cintura e cadarço para um melhor ajuste no corpo. Possui 3 bolsos, sendo 2 laterais e 1 traseiro. Cor branca, tamanho G 46/48 - cintura 112 cm - comprimento 108 cm.EXCLUSIVO PARA ME/EPP.",
+              "unidade": "Und.",
+              "quantidade": "25,00",
+              "valor_referencia": "70,72"
+            },
+            {
+              "numero": "6",
+              "especificacao": "8401500006 Calçado Branco Padaria ou cozinha:fabricado em EVA, unissex, no estilo galochas, cono curto, sem salto, material de cabedal sintético, material da sola de borracha, forma de bico arredondada, a prova d?água, sem zíper e sem cordões, com sola antiderrapante. Número 38, cor banca. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "PAR",
+              "quantidade": "6,00",
+              "valor_referencia": "73,64"
+            },
+            {
+              "numero": "7",
+              "especificacao": "36222 Calçado Branco Padaria ou cozinha:fabricado em EVA, unissex, no estilo galochas, cano curto, sem salto, material de cabedal sintético, material da sola de borracha, forma de bico arredondada, a prova d?água, sem zíper e sem cordões, com sola antiderrapante. Número 39, cor banca. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "PAR",
+              "quantidade": "10,00",
+              "valor_referencia": "73,64"
+            },
+            {
+              "numero": "8",
+              "especificacao": "8401500007 Calçado Branco Padaria ou cozinha:fabricado em EVA, unissex, no estilo galochas, cano curto, sem salto, material de cabedal sintético, material da sola de borracha, forma de bico arredondada, a prova d?água, sem zíper e sem cordões, com sola antiderrapante. Número 40, cor banca. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "PAR",
+              "quantidade": "10,00",
+              "valor_referencia": "72,20"
+            },
+            {
+              "numero": "9",
+              "especificacao": "8401500008 Calçado Branco Padaria ou cozinha:fabricado em EVA, unissex, no estilo galochas, cano curto, sem salto, material de cabedal sintético, material da sola de borracha, forma de bico arredondada, a prova d?água, sem zíper e sem cordões, com sola antiderrapante. Número 41, cor banca. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "PAR",
+              "quantidade": "8,00",
+              "valor_referencia": "72,20"
+            },
+            {
+              "numero": "10",
+              "especificacao": "8401500009 Calçado Branco Padaria ou cozinha:fabricado em EVA, unissex, no estilo galochas, cano curto, sem salto, material de cabedal sintético, material da sola de borracha, forma de bico arredondada, a prova d?água, sem zíper e sem cordões, com sola antiderrapante. Número 36, cor banca. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "PAR",
+              "quantidade": "5,00",
+              "valor_referencia": "73,64"
+            },
+            {
+              "numero": "11",
+              "especificacao": "8401500010 Jaleco para padeiro G:modelo unissex, tecido Oxford cor branca, com gola, sem alça traseira, manga curta, fechamento frontal em botões, com 3 bolsos frontais (1 superior esquerdo e 2 inferiores) aplicados com costura dupla e reforço no início e final das costuras, sendo que no bolsa superior esquerdo (lado de quem veste), com a logo da Prefeitura Municipal de Teixeira de Freitas e Programa Bolsa Família em serigrafia. Tamanho G. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "Und.",
+              "quantidade": "8,00",
+              "valor_referencia": "73,80"
+            },
+            {
+              "numero": "12",
+              "especificacao": "8401500011 Jaleco para padeiro P:modelo unissex, tecido Oxford cor branca, com gola, sem alça traseira, manga curta, fechamento frontal em botões, com 3 bolsos frontais (1 superior esquerdo e 2 inferiores) aplicados com costura dupla e reforço no início e final das costuras, sendo que no bolsa superior esquerdo (lado de quem veste), com a logo da Prefeitura Municipal de Teixeira de Freitas e Programa Bolsa Família em serigrafia. Tamanho P. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "Und.",
+              "quantidade": "15,00",
+              "valor_referencia": "73,80"
+            },
+            {
+              "numero": "13",
+              "especificacao": "8401500012 Jaleco para padeiro M:modelo unissex, tecido Oxford cor branca, com gola, sem alça traseira, manga curta, fechamento frontal em botões, com 3 bolsos frontais (1 superior esquerdo e 2 inferiores) aplicados com costura dupla e reforço no início e final das costuras, sendo que no bolsa superior esquerdo (lado de quem veste), com a logo da Prefeitura Municipal de Teixeira de Freitas e Programa Bolsa Família em serigrafia. Tamanho M. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "Und.",
+              "quantidade": "8,00",
+              "valor_referencia": "73,77"
+            },
+            {
+              "numero": "14",
+              "especificacao": "36225 Touca descartável:sanfonada elástica em TNT, caixa com 100 unidades Dimensões (AxLxP) 17,26,11cm. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "CX",
+              "quantidade": "10,00",
+              "valor_referencia": "11,24"
+            },
+            {
+              "numero": "15",
+              "especificacao": "36226 Touca Tule Oxford:circunferência: 64 cm - (regulável); comprimento tiras: 30 cm; altura: 15 cm; material: oxford (100% poliester); unissex, cor branca. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "Und.",
+              "quantidade": "30,00",
+              "valor_referencia": "27,77"
+            }
+          ]
+        },
+        {
+          "numero": "2",
+          "titulo": "LOTE 2",
+          "fase": "FRACASSADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "1.551,98",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 3,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "7303000002 Faca de cozinha de 8 polegadas:32,6cmx4cmx1,5cm, em aço inoxidável. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "Und.",
+              "quantidade": "10,00",
+              "valor_referencia": "20,98"
+            },
+            {
+              "numero": "2",
+              "especificacao": "7303000003 Faca para Carne 14 polegadas:com lâmina em aço inox e cabo em polipropileno branco. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "Und.",
+              "quantidade": "10,00",
+              "valor_referencia": "112,69"
+            },
+            {
+              "numero": "3",
+              "especificacao": "7302000007 KIT HIGIENIZAÇÃO (dispenser/porta papel e toalha):kit com dispenser para papel toalha interfolha e uma saboneteira de 800 ml com reservatório. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "KIT",
+              "quantidade": "4,00",
+              "valor_referencia": "53,82"
+            }
+          ]
+        },
+        {
+          "numero": "3",
+          "titulo": "LOTE 3",
+          "fase": "FRACASSADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "10.224,67",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 10,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "8406500010 Luva de segurança confeccionada em borracha nitrílica P:antiderrapante na palma, interior flocado. Proteção das mãos do usuário contra agentes abrasivos, escoriantes, cortantes e perfurantes e contra agentes químicos tais como Classe A - Tipo 2: Agressivos básicos; Classe B - Detergentes, Sabões, Amoníacos e similares e Classe C - Tipo 1: Hidrocarbonetos Alifáticos, Tipo 2: Hidrocarbonetos aromáticos, Tipo 3: Álcoois, Tipo 4: Éteres. Comprimento de aproximadamente 33 cm e espessura de cerca de 0,40mm, tamanhos P. (CA: 26.098). EXCLUSIVO PARA ME/EPP.",
+              "unidade": "PAR",
+              "quantidade": "60,00",
+              "valor_referencia": "9,11"
+            },
+            {
+              "numero": "2",
+              "especificacao": "36223 Luva de segurança confeccionada em borracha nitrílica M:antiderrapante na palma, interior flocado. Proteção das mãos do usuário contra agentes abrasivos, escoriantes, cortantes e perfurantes e contra agentes químicos tais como Classe A - Tipo 2: Agressivos básicos; Classe B - Detergentes, Sabões, Amoníacos e similares e Classe C - Tipo 1: Hidrocarbonetos Alifáticos, Tipo 2: Hidrocarbonetos aromáticos, Tipo 3: Álcoois, Tipo 4: Éteres. Comprimento de aproximadamente 33 cm e espessura de cerca de 0,40mm, tamanho M. (CA: 26.098).EXCLUSIVO PARA ME/EPP.",
+              "unidade": "PAR",
+              "quantidade": "100,00",
+              "valor_referencia": "9,71"
+            },
+            {
+              "numero": "3",
+              "especificacao": "8406500011 Luva de segurança confeccionada em borracha nitrílica G:antiderrapante na palma, interior flocado. Proteção das mãos do usuário contra agentes abrasivos, escoriantes, cortantes e perfurantes e contra agentes químicos tais como Classe A - Tipo 2: Agressivos básicos; Classe B - Detergentes, Sabões, Amoníacos e similares e Classe C - Tipo 1: Hidrocarbonetos Alifáticos, Tipo 2: Hidrocarbonetos aromáticos, Tipo 3: Álcoois, Tipo 4: Éteres. Comprimento de aproximadamente 33 cm e espessura de cerca de 0,40mm, tamanho G. (CA: 26.098). EXCLUSIVO PARA ME/EPP.",
+              "unidade": "PAR",
+              "quantidade": "100,00",
+              "valor_referencia": "9,71"
+            },
+            {
+              "numero": "4",
+              "especificacao": "8406500012 Luva de segurança confeccionada em borracha nitrílica GG:antiderrapante na palma, interior flocado. Proteção das mãos do usuário contra agentes abrasivos, escoriantes, cortantes e perfurantes e contra agentes químicos tais como Classe A - Tipo 2: Agressivos básicos; Classe B - Detergentes, Sabões, Amoníacos e similares e Classe C - Tipo 1: Hidrocarbonetos Alifáticos, Tipo 2: Hidrocarbonetos aromáticos, Tipo 3: Álcoois, Tipo 4: Éteres. Comprimento de aproximadamente 33 cm e espessura de cerca de 0,40mm.Diversos tamanhos GG. (CA: 26.098). EXCLUSIVO PARA ME/EPP.",
+              "unidade": "PAR",
+              "quantidade": "60,00",
+              "valor_referencia": "9,82"
+            },
+            {
+              "numero": "5",
+              "especificacao": "8406500013 Luva de segurança confeccionada em borracha nitrílica XG:antiderrapante na palma, interior flocado. Proteção das mãos do usuário contra agentes abrasivos, escoriantes, cortantes e perfurantes e contra agentes químicos tais como Classe A - Tipo 2: Agressivos básicos; Classe B - Detergentes, Sabões, Amoníacos e similares e Classe C - Tipo 1: Hidrocarbonetos Alifáticos, Tipo 2: Hidrocarbonetos aromáticos, Tipo 3: Álcoois, Tipo 4: Éteres. Comprimento de aproximadamente 33 cm e espessura de cerca de 0,40mm.Diversos tamanhos XG. (CA: 26.098). EXCLUSIVO PARA ME/EPP.",
+              "unidade": "PAR",
+              "quantidade": "50,00",
+              "valor_referencia": "9,91"
+            },
+            {
+              "numero": "6",
+              "especificacao": "8406500014 LUVA DESCARTÁVEL TPE SOFTTRANSPARENTE:tamanho: Pequena (P), Material: Elastômero Termoplástico (TPE) Cor: Transparente, caixa com 100 unidades. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "CX",
+              "quantidade": "3,00",
+              "valor_referencia": "14,79"
+            },
+            {
+              "numero": "7",
+              "especificacao": "8406500015 LUVA DESCARTÁVEL TPE SOFTTRANSPARENTE 8 CM:tamanho: Média (M), Material: Elastômero Termoplástico (TPE) Cor: Transparente, caixa com 100 unidades. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "CX",
+              "quantidade": "6,00",
+              "valor_referencia": "15,20"
+            },
+            {
+              "numero": "8",
+              "especificacao": "8406500016 LUVA DESCARTÁVEL TPE SOFTTRANSPARENTE 9 CM:tamanho: Grande (G), Material: Elastômero Termoplástico (TPE) Cor: Transparente, caixa com 100 unidades. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "CX",
+              "quantidade": "4,00",
+              "valor_referencia": "15,30"
+            },
+            {
+              "numero": "9",
+              "especificacao": "8406500017 Luva Térmica Felpuda para Forno Panificação, cano longo para uso Profissional:luva térmica felpuda para forno de panificação, tipo mão de gato, reforçada, cano longo, mínimo 40cm, que suporte altas temperaturas até 500ºC, material Algodão/Poliéster, nas cores azul ou cru. Par. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "PAR",
+              "quantidade": "50,00",
+              "valor_referencia": "126,14"
+            },
+            {
+              "numero": "10",
+              "especificacao": "9900515331 Protetor auditivo:do tipo concha, constituído por duas conchas em plástico, apresentando almofadas de espuma em suas laterais e em seu interior, possuindo uma haste emplástico rígido, ou outro material, que mantém as conchas firmemente seladas contra a região das orelhas do usuário e que sustenta as conchas. Deverá possuir NRRsf mínimo de 21 dB. (CA: 14.235, 15.247). EXCLUSIVO PARA ME/EPP.",
+              "unidade": "Und.",
+              "quantidade": "10,00",
+              "valor_referencia": "14,76"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-004-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "1514/2025",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "HOMOLOGADO",
+      "condutor": "JONATAS DA SILVA SOUSA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "REGISTRO DE PREÇO",
+      "publicacao": "19/01/2026 19:19",
+      "inicio_recepcao": "13/02/2026 08:00",
+      "fim_recepcao": "25/02/2026 08:45",
+      "inicio_disputa": "25/02/2026 09:00",
+      "objeto": "futura e eventual contratação de empresa especializada em prestação de serviço de LOCAÇÃO DE VEÍCULOS LEVES E PESADOS, cujas especificações técnicas, quantidades e demais condições encontram-se detalhadas neste instrumento, a fim de atender as demandas da Secretaria Municipal de Administração e demais Secretarias.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DhxP8RYnDBEP2mcetJHsiD2HYzoQaw3HzpwS1Z8XUmRtM6Nr2Fm1oosIBoZ%2Fg3IHxHebAZZ16fXyPZAjQHrxd1c0ABe9gsBhFs7vVctgYTl4%3D",
+      "total_lotes": 5,
+      "total_itens": 5,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "LOCAÇÃO DE VEÍCULO TIPO VAN 09 A 12LUGARES - SEM MOTORISTA:Locação de Veículo, sem motorista, tipo utilitário fechado, tipo van, sem motorista, movido a gasolina, bicombustível ou diesel, motor 1.4 ou superior, capacidade de 09 a 12 passageiros, equipado",
+          "fase": "FRACASSADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "474.000,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "105100068 LOCAÇÃO DE VEÍCULO TIPO VAN 09 A 12LUGARES - SEM MOTORISTA:Locação de Veículo, sem motorista, tipo utilitário fechado, tipo van, sem motorista, movido a gasolina, bicombustível ou diesel, motor 1.4 ou superior, capacidade de 09 a 12 passageiros, equipado com ar- condicionado, direção hidráulica e/ou elétrica, vidros elétricos, trava elétrica, alarme, porta objetos, luz de freio adaptativa, airbag, sistema ativo de frenagem, sistema multimídia, potência mínima 160 CV, bateria mínima 90ah, pacote de integração com smartfone, rodas de liga leve, peso bruto máximo combinado 8.000kg, tração traseira, ano de fabricação mínima de 2021, manutenção por conta da empresa contratada, apólice ou contrato de seguro apresentado no ato do contrato de locação e com vigência para todo o período contratado e encargos tributários de IPVA, DPVAT e TRLAV também por conta da empresa contratada. (LOCAÇÃO MENSAL).",
+              "unidade": "UND",
+              "quantidade": "60,00",
+              "valor_referencia": "7.900,00"
+            }
+          ]
+        },
+        {
+          "numero": "2",
+          "titulo": "LOCAÇÃO DE VEÍCULO UTILITÁRIO ABERTOCABINE SIMPLES - SEM MOTORISTA:Locação de veículo sem motorista, tipo utilitário aberto, tipo caminhonete, movido a gasolina, bicombustível ou diesel, motor 1.4 ou superior, 02 portas, tração 4x2, airbag, luz auxiliar",
+          "fase": "HOMOLOGADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "1.064.500,80",
+          "vencedor": "LOCA TUDO LOCADORA LTDA",
+          "melhor_oferta": "947.707,20",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "105100069 LOCAÇÃO DE VEÍCULO UTILITÁRIO ABERTOCABINE SIMPLES - SEM MOTORISTA:Locação de veículo sem motorista, tipo utilitário aberto, tipo caminhonete, movido a gasolina, bicombustível ou diesel, motor 1.4 ou superior, 02 portas, tração 4x2, airbag, luz auxiliar de freio, equipado com ar- condicionado, direção hidráulica e/ou elétrica, vidros elétricos, trava elétrica nas 02 portas, alarme, capacidade de carga mínima de 700 kg, ano de fabricação mínima de 2022, manutenção por conta da empresa contratada, apólice ou contrato de seguro apresentado no ato do contrato de locação e com vigência para todo o período contratado e encargos tributários de IPVA, DPVAT e TRLAV também por conta da empresa contratada. (LOCAÇÃO MENSAL).",
+              "unidade": "UND",
+              "quantidade": "240,00",
+              "valor_referencia": "4.435,42"
+            }
+          ]
+        },
+        {
+          "numero": "3",
+          "titulo": "LOCAÇÃO DE VEÍCULO 05 PESSOAS - SEMMOTORISTA:Locação de Veículo sem motorista, veículo tipo automóvel, potência mínima 200 cv, autonomia mínima de 350km sem necessidade de reabastecimento, direção elétrica ou hidráulica, freios a disco, sensor de estacio",
+          "fase": "FRACASSADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "126.333,36",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "105100070 LOCAÇÃO DE VEÍCULO 05 PESSOAS - SEMMOTORISTA:Locação de Veículo sem motorista, veículo tipo automóvel, potência mínima 200 cv, autonomia mínima de 350km sem necessidade de reabastecimento, direção elétrica ou hidráulica, freios a disco, sensor de estacionamento, mínimo 05 airbag, capacidade mínima de carga do porta malas de 450kg, painel multimídia sensível ao toque, sistema auxiliar de permanência de faixa, ano de fabricação mínima de 2022, manutenção por conta da empresa contratada, apólice ou contrato de seguro apresentado no ato do contrato de locação e com vigência para todo o período contratado e encargos tributários de IPVA, DPVAT e TRLAV também por conta da empresa contratada. (LOCAÇÃO MENSAL).",
+              "unidade": "UND",
+              "quantidade": "24,00",
+              "valor_referencia": "5.263,89"
+            }
+          ]
+        },
+        {
+          "numero": "4",
+          "titulo": "LOCAÇÃO DE VEÍCULO TIPO MICRO-ÔNIBUSMÍNIMO 25 LUGARES - COM MOTORISTA:tipo utilitário fechado, com sanitário e de fácil acesso lateral para a manutenção do sanitário; movido a diesel; 2 eixos; potência mínima 160 CV, 02 baterias; rodas em aço; equipado c",
+          "fase": "FRACASSADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "111.300,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "105100071 LOCAÇÃO DE VEÍCULO TIPO MICRO-ÔNIBUSMÍNIMO 25 LUGARES - COM MOTORISTA:tipo utilitário fechado, com sanitário e de fácil acesso lateral para a manutenção do sanitário; movido a diesel; 2 eixos; potência mínima 160 CV, 02 baterias; rodas em aço; equipado com ar- condicionado, direção hidráulica e/ou elétrica, vidros elétricos, trava elétrica, alarme, ano de fabricação mínima de 2013, manutenção por conta da empresa contratada, apólice ou contrato de seguro apresentado no ato do contrato de locação e com vigência para todo o período contratado e encargos tributários de IPVA, DPVAT e TRLAV também por conta da empresa contratada. (LOCAÇÃO/DEMANDA).",
+              "unidade": "KM",
+              "quantidade": "10.000,00",
+              "valor_referencia": "11,13"
+            }
+          ]
+        },
+        {
+          "numero": "5",
+          "titulo": "LOCAÇÃO DE VEÍCULO TIPO ÔNIBUS MÍNIMO 43LUGARES - COM MOTORISTA:tipo utilitário fechado; potência máxima de 207cv; movido a diesel; bateria de 12 V/135 Ah (02 unidades); 2 eixos;   Tanque de combustível 210 litros; Reservatório Arla 32 35 litros; equipad",
+          "fase": "FRACASSADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "167.600,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "36521 LOCAÇÃO DE VEÍCULO TIPO ÔNIBUS MÍNIMO 43LUGARES - COM MOTORISTA:tipo utilitário fechado; potência máxima de 207cv; movido a diesel; bateria de 12 V/135 Ah (02 unidades); 2 eixos; Tanque de combustível 210 litros; Reservatório Arla 32 35 litros; equipado com ar-condicionado, direção hidráulica e/ou elétrica, vidros elétricos, trava elétrica, alarme, ano de fabricação mínima de 2010, manutenção por conta da empresa contratada, apólice ou contrato de seguro apresentado no ato do contrato de locação e com vigência para todo o período contratado e encargos tributários de IPVA, DPVAT e TRLAV também por conta da empresa contratada.(LOCAÇÃO/DEMANDA).",
+              "unidade": "KM",
+              "quantidade": "10.000,00",
+              "valor_referencia": "16,76"
             }
           ]
         }
