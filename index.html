@@ -241,7 +241,7 @@
                     <div class="relative flex-1">
                         <i class="fas fa-search absolute left-3.5 top-1/2 -translate-y-1/2 text-blue-400 text-sm"></i>
                         <input type="text" id="search-input"
-                            placeholder="Buscar por objeto, edital, condutor, fornecedor..."
+                            placeholder="Buscar por objeto, edital, condutor, vencedor..."
                             class="w-full pl-11 pr-4 py-3 bg-slate-50 dark:bg-slate-950 border-2 border-slate-200 dark:border-slate-700 rounded-xl focus:ring-2 focus:ring-blue-400 focus:border-blue-500 outline-none transition-all text-sm font-medium placeholder:text-slate-400">
                     </div>
                     <button id="search-btn"
@@ -833,7 +833,7 @@ function updateFiltered() {
                     r.id, r.objeto, r.numero_adm, r.condutor||r.coordenador, r.autoridade,
                     r.modalidade, statusField(r), r.justificativa||'',
                     ...(dataset === 'licit'
-                        ? (r.lotes||[]).flatMap(l => (l.itens||[]).map(i => (i.descricao||'')+(i.fornecedor||'')))
+                        ? (r.lotes||[]).flatMap(l => [(l.vencedor||''), ...(l.itens||[]).map(i => (i.descricao||''))])
                         : (r.itens||[]).map(i => (i.descricao||'')+(i.fornecedor||''))
                     )
                 ].join(' '));
@@ -855,7 +855,7 @@ function updateFiltered() {
                 if (f4!=='all' && r.artigo        !== f4) return false;
             }
             if (q) {
-                const blob = norm([(it.especificacao||it.descricao||''), (it.fornecedor||''), r.id, r.objeto].join(' '));
+                const blob = norm([(it.especificacao||it.descricao||''), (it.fornecedor||''), (it._lote?.vencedor||''), r.id, r.objeto].join(' '));
                 return blob.includes(q);
             }
             return true;
@@ -912,12 +912,12 @@ function render() {
                     </tr>`;}).join('');
         } else {
             head.innerHTML = `<tr class="bg-slate-50 dark:bg-slate-950 border-b border-slate-200 dark:border-slate-800">
-                ${['Processo','Lote','Especificação','Unidade','Qtd.','Valor Ref.','Situação'].map(h=>
+                ${['Processo','Lote','Especificação','Unidade','Qtd.','Valor Ref.','Vencedor','Situação'].map(h=>
                     `<th class="px-4 py-3 text-[11px] font-bold text-slate-500 uppercase tracking-wider whitespace-nowrap">${h}</th>`
                 ).join('')}
             </tr>`;
             body.innerHTML = !slice.length
-                ? `<tr><td colspan="7" class="px-6 py-12 text-center text-slate-400 text-sm">Nenhum resultado encontrado.</td></tr>`
+                ? `<tr><td colspan="8" class="px-6 py-12 text-center text-slate-400 text-sm">Nenhum resultado encontrado.</td></tr>`
                 : slice.map(it => {
                     const r = it._proc;
                     return `<tr onclick='openModalById("${r.id.replace(/'/g,"\\'")}") ' class="cursor-pointer hover:bg-primary-50 dark:hover:bg-slate-800/40 transition-colors">
@@ -927,6 +927,12 @@ function render() {
                         <td class="px-4 py-3 mono text-xs text-slate-500 whitespace-nowrap">${it.unidade||'–'}</td>
                         <td class="px-4 py-3 mono text-xs font-bold text-center">${it.quantidade||'–'}</td>
                         <td class="px-4 py-3 mono text-xs font-bold text-emerald-600 whitespace-nowrap">${fmtBRL(it.valor_referencia)}</td>
+                        <td class="px-4 py-3 text-xs max-w-[160px]">
+                            ${it._lote?.vencedor
+                                ? `<div class="truncate font-semibold text-emerald-600 dark:text-emerald-400" title="${it._lote.vencedor}">${hl(it._lote.vencedor, search)}</div>`
+                                : `<span class="text-slate-400 italic">Sem vencedor</span>`
+                            }
+                        </td>
                         <td class="px-4 py-3 whitespace-nowrap">
                             ${(() => {
                                 const loteSt = it._lote?.fase || it._lote?.situacao || '';
