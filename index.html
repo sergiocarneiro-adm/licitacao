@@ -832,7 +832,10 @@ function updateFiltered() {
                 const blob = norm([
                     r.id, r.objeto, r.numero_adm, r.condutor||r.coordenador, r.autoridade,
                     r.modalidade, statusField(r), r.justificativa||'',
-                    ...(r.itens||[]).map(i=>(i.descricao||'')+(i.fornecedor||''))
+                    ...(dataset === 'licit'
+                        ? (r.lotes||[]).flatMap(l => (l.itens||[]).map(i => (i.descricao||'')+(i.fornecedor||'')))
+                        : (r.itens||[]).map(i => (i.descricao||'')+(i.fornecedor||''))
+                    )
                 ].join(' '));
                 return blob.includes(q);
             }
