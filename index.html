@@ -632,10 +632,8 @@ function switchDataset(ds) {
 
     const isLicit = ds === 'licit';
 
-    document.getElementById('header-icon').className = `${isLicit ? 'bg-blue-600' : 'bg-violet-600'} p-2 rounded-lg shadow transition-colors`;
-    document.getElementById('header-icon').innerHTML  = `<i class="fas ${isLicit ? 'fa-gavel' : 'fa-shopping-cart'} text-white text-sm"></i>`;
+    // Atualiza cor do "-TX" conforme dataset (azul = licitações, violeta = compras)
     document.getElementById('header-title').className = `${isLicit ? 'text-blue-600' : 'text-violet-600'}`;
-    document.getElementById('header-title').textContent = isLicit ? 'Licitações' : 'Compra Direta';
 
     const bl = document.getElementById('ds-btn-licit');
     const bc = document.getElementById('ds-btn-compras');
