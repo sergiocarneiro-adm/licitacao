@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>BLL Explorer | Teixeira de Freitas</title>
+    <title>SICOL-TX | Teixeira de Freitas</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <script>
         tailwind.config = {
@@ -150,12 +150,10 @@
 <header class="sticky top-0 z-40 w-full border-b border-slate-200 dark:border-slate-800 glass-effect">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-16 flex items-center justify-between gap-3">
         <div class="flex items-center gap-3 shrink-0">
-            <div id="header-icon" class="bg-blue-600 p-2 rounded-lg shadow transition-colors">
-                <i class="fas fa-gavel text-white text-sm"></i>
-            </div>
+            <img src="logo_sicoltx.png" alt="SICOL-TX" style="height:40px;object-fit:contain;" onerror="this.style.display='none'">
             <div>
-                <h1 class="text-base font-bold leading-tight">BLL <span id="header-title" class="text-blue-600">Licitações</span></h1>
-                <p class="text-[10px] text-slate-400 leading-none">Teixeira de Freitas · Processos Licitatórios &amp; Compras Diretas</p>
+                <h1 class="text-base font-bold leading-tight">SICOL<span id="header-title" class="text-blue-600">-TX</span></h1>
+                <p class="text-[10px] text-slate-400 leading-none">Sistema Integrado de Consulta de Licitações · Teixeira de Freitas</p>
             </div>
         </div>
 
@@ -295,7 +293,7 @@
 </main>
 
 <footer class="py-5 border-t border-slate-200 dark:border-slate-800 text-center text-xs text-slate-400">
-    Sérgio BLL Explorer · Município de Teixeira de Freitas &copy; 2026
+    <strong>SICOL-TX</strong> · Sistema Integrado de Consulta de Licitações · Município de Teixeira de Freitas &copy; 2026 &nbsp;|&nbsp; Desenvolvido por <strong>Sérgio Carneiro</strong>
 </footer>
 </div>
 
@@ -347,7 +345,7 @@
                     </div>
                     <a id="ml-link" href="#" target="_blank"
                         class="flex items-center justify-center gap-2 w-full bg-slate-900 dark:bg-white text-white dark:text-slate-900 py-3 rounded-xl font-bold text-sm hover:opacity-80 transition-opacity">
-                        <i class="fas fa-external-link-alt"></i> Ver no BLL
+                        <i class="fas fa-external-link-alt"></i> Ver no Portal
                     </a>
                 </div>
             </div>
@@ -416,7 +414,7 @@
                     </div>
                     <a id="mc-link" href="#" target="_blank"
                         class="flex items-center justify-center gap-2 w-full bg-slate-900 dark:bg-white text-white dark:text-slate-900 py-3 rounded-xl font-bold text-sm hover:opacity-80 transition-opacity">
-                        <i class="fas fa-external-link-alt"></i> Ver no BLL
+                        <i class="fas fa-external-link-alt"></i> Ver no Portal
                     </a>
                 </div>
             </div>
@@ -1402,7 +1400,7 @@ function exportModalPDF() {
     doc.setTextColor(255, 255, 255);
     doc.setFontSize(9);
     doc.setFont('helvetica', 'normal');
-    doc.text('MUNICÍPIO DE TEIXEIRA DE FREITAS — BLL EXPLORER', ML, 9);
+    doc.text('MUNICÍPIO DE TEIXEIRA DE FREITAS — SICOL-TX', ML, 9);
 
     doc.setFontSize(15);
     doc.setFont('helvetica', 'bold');
@@ -1780,7 +1778,7 @@ function exportModalPDF() {
         doc.setFontSize(7);
         doc.setFont('helvetica', 'normal');
         doc.setTextColor(148, 163, 184);
-        doc.text(`BLL Explorer · Município de Teixeira de Freitas · Gerado em ${new Date().toLocaleDateString('pt-BR')}`, ML, rodapeY);
+        doc.text(`SICOL-TX · Município de Teixeira de Freitas · Desenvolvido por Sérgio Carneiro · Gerado em ${new Date().toLocaleDateString('pt-BR')}`, ML, rodapeY);
         doc.text(`Pág. ${p} de ${totalPages}`, W - MR, rodapeY, { align: 'right' });
     }
 
@@ -1830,7 +1828,7 @@ function exportCSV() {
     const blob = new Blob([bom + rows.join('\n')], { type: 'text/csv;charset=utf-8;' });
     const url = URL.createObjectURL(blob);
     const a = document.createElement('a'); a.href = url;
-    a.download = `bll_${dataset}_${viewMode}_${new Date().toISOString().slice(0,10)}.csv`;
+    a.download = `sicoltx_${dataset}_${viewMode}_${new Date().toISOString().slice(0,10)}.csv`;
     a.click(); URL.revokeObjectURL(url);
 }
 
@@ -1921,11 +1919,11 @@ function exportPDF() {
             const pg = doc.internal.getCurrentPageInfo().pageNumber;
             const total = doc.internal.getNumberOfPages();
             doc.setFontSize(7); doc.setTextColor(150,150,150);
-            doc.text(`BLL Explorer · Teixeira de Freitas · Pág. ${pg} de ${total}`, 148, 207, {align:'center'});
+            doc.text(`SICOL-TX · Teixeira de Freitas · Desenvolvido por Sérgio Carneiro · Pág. ${pg} de ${total}`, 148, 207, {align:'center'});
         }
     });
 
-    doc.save(`bll_${dataset}_${viewMode}_${new Date().toISOString().slice(0,10)}.pdf`);
+    doc.save(`sicoltx_${dataset}_${viewMode}_${new Date().toISOString().slice(0,10)}.pdf`);
 }
 
 // ── INIT ──────────────────────────────────────────────────────────────────
