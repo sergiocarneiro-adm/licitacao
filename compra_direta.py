@@ -11,7 +11,7 @@ from playwright.async_api import async_playwright
 # ─────────────────────────────────────────────────────────────────
 PROMOTOR         = 'MUNICIPIO DE TEIXEIRA DE FREITAS'
 LIMITE_REGISTROS = 9999    # reduza para testar (ex: 15)
-HEADLESS         = True
+HEADLESS         = False
 ARQUIVO_JSON     = 'dados_compra_direta.json'
 
 # ─────────────────────────────────────────────────────────────────
