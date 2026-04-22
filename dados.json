@@ -4,7 +4,7 @@
     "total_processos": 768,
     "total_lotes": 8663,
     "total_itens": 14799,
-    "atualizado_em": "20260420_193521"
+    "atualizado_em": "20260422_093605"
   },
   "processos": [
     {
@@ -238030,7 +238030,7 @@
         {
           "numero": "43",
           "titulo": "9900100062 CARBONATO CÁLCIO:600+COLECALCIFEROL400UI. EXCLUSIVO PARA ME/EPP.",
-          "fase": "EM ADJUDICAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -261421,64 +261421,6 @@
       ]
     },
     {
-      "id": "PE-060-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "351/2026",
-      "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "RECEPÇÃO DE PROPOSTAS",
-      "condutor": "JONATAS DA SILVA SOUSA",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO",
-      "publicacao": "07/04/2026 16:38",
-      "inicio_recepcao": "09/04/2026 00:00",
-      "fim_recepcao": "22/04/2026 08:15",
-      "inicio_disputa": "22/04/2026 08:30",
-      "objeto": "Pregão Eletrônico nº 060-2026, Processo Administrativo: 351/2026, do tipo MENOR PREÇO GLOBAL. OBJETO: Contratação de empresa especializada em prestação de serviço de LICENCIAMENTO DE USO (SUBSCRIÇÃO) DE SOFTWARES DE ENGENHARIA AUTODESK, INCLUINDO SUPORTE TÉCNICO E ATUALIZAÇÕES, a fim de atender às demandas da Secretaria Municipal de Projetos Estratégicos e Gerenciamento de Convênios.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DmFwSUoerC2YlPl6ODwhqSyd%2FwLh43Tml1XQX8axqEFxFHu4yiXx%2FTK7PVCKg09%2F5HEpwrjn83EY72E8pOqJDhWzNLT3i9KGoAkCcIQzCYKY%3D",
-      "total_lotes": 1,
-      "total_itens": 3,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "LICENÇAS DE SOFTWARE",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 3,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "202600008 LICENÇA ANUAL DE USO DO SOFTWAREAUTOCAD:destinada à criação e anotação de geometria 2D e modelos 3D, com objetos sólidos, superfície e objetos de malha; com automatização em IA, comparação de desenhos, criação de tabelas e função de publicar layouts. As licenças deverão ser oficiais do fabricante Autodesk, no modelo de usuário nomeado (named user), com direito a atualizações durante o período contratado e suporte técnico adequado, garantindo pleno funcionamento, desempenho e conformidade com as exigências técnicas aplicáveis.",
-              "unidade": "SER",
-              "quantidade": "3,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "2",
-              "especificacao": "202600009 LICENÇA ANUAL DE USO DO SOFTWAREREVIT:destinada à elaboração e compatibilização de projetos de arquitetura, estrutura e instalações, com base na metodologia de Modelagem da Informação da Construção (BIM). As licenças deverão ser oficiais do fabricante Autodesk, no modelo de usuário nomeado (named user), com atualizações incluídas durante toda a vigência contratual e suporte técnico, assegurando a adequada utilização da ferramenta, integração entre disciplinas e atendimento às necessidades técnicas da Administração.",
-              "unidade": "SER",
-              "quantidade": "6,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "3",
-              "especificacao": "202600010 LICENÇA ANUAL DE USO DO SOFTWARE CIVIL3D:destinada à elaboração de projetos de engenharia civil, terraplenagem, drenagem e sistemas viários. As licenças deverão ser oficiais do fabricante Autodesk, no modelo de usuário nomeado (named user), com direito a atualizações durante o período contratado e suporte técnico adequado, garantindo pleno funcionamento, desempenho e conformidade com as exigências técnicas aplicáveis.",
-              "unidade": "SER",
-              "quantidade": "2,00",
-              "valor_referencia": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "PE-054-2026",
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "232/2026",
@@ -264902,50 +264844,6 @@
       ]
     },
     {
-      "id": "2-DLE-041-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "240-2026",
-      "modalidade": "DISPENSA ELETRÔNICA",
-      "situacao": "RECEPÇÃO DE PROPOSTAS",
-      "condutor": "ISLA LIMA SILVA",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO",
-      "publicacao": "15/04/2026 20:47",
-      "inicio_recepcao": "15/04/2026 21:00",
-      "fim_recepcao": "22/04/2026 08:15",
-      "inicio_disputa": "22/04/2026 08:30",
-      "objeto": "Contratação de empresa especializada em fornecimento de [TELAS MOSQUITEIRAS PARA JANELAS E BASCULANTES]\n(material de consumo), a fim de atender as necessidades da Secretaria Municipal de Administração, conforme condições, quantidades e exigências estabelecidas neste Aviso de Contratação Direta, Termo de Referência e seus Anexos.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DxoBbHszkMNVwEUTv3%2Fpd875FOJDX9KYmuxmLQH0vW3ldOJWZEMNNr8uyXDi8auFsnocc6EPVPu0Tt8FuTz8MYX2s%2Ffaf112Ot4kRUVk4dMU%3D",
-      "total_lotes": 1,
-      "total_itens": 1,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "TELAS MOSQUITEIRAS",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "",
-          "garantia": "",
-          "valor_referencia": "8.019,60",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900515461 Tela mosquiteira em fibra de vidro revestida emPVC:cor cinza, fornecida em rolo com largura nominal de 1,20 me comprimento de 50 m, totalizando aproximadamente 60 m² porrolo, com malha fina tipo 18 x 16 fios por polegada ouequivalente. Adequada para proteção contra insetos, vetores epragas urbanas, permitindo ampla circulação de ar e passagemde luz natural, sem comprometer a luminosidade do ambiente.Produto antialérgico, inodoro, lavável com água e detergenteneutro, de fácil corte e instalação, que não desfia nas bordas,não resseca, não rasga com facilidade, resistente a raios UV,intempéries, umidade e fungos, com característica de nãopropagação de chamas e alta durabilidade em uso contínuo.Destinada à instalação em janelas, portas, basculantes e demaisaberturas de cozinhas, despensas e áreas de preparo earmazenamento de alimentos das unidades escolares da redemunicipal, para confecção de módulos fixos ou removíveis pelasequipes internas de marcenaria e serralheria da SecretariaMunicipal de Educação, em conformidade com as exigênciassanitárias para barreiras físicas e com especificações técnicasusualmente adotadas em contratações públicas. EXCLUSIVOPARA ME/EPP.",
-              "unidade": "ROL",
-              "quantidade": "30,00",
-              "valor_referencia": "267,32"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "2-DLE-036-2026",
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "266 / 2026",
@@ -265254,50 +265152,6 @@
       ]
     },
     {
-      "id": "PE-053-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "309/2026",
-      "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "AGUARDANDO DISPUTA",
-      "condutor": "DAVIDSON ARAUJO SANTOS",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO PARCELADA",
-      "publicacao": "24/03/2026 21:21",
-      "inicio_recepcao": "25/03/2026 08:00",
-      "fim_recepcao": "10/04/2026 08:15",
-      "inicio_disputa": "16/04/2026 08:10",
-      "objeto": "Contratação de empresa especializada em serviços de engenharia para o fornecimento de bancas em estruturas metálicas (bancas de frutas e verduras), no município de Teixeira de Freitas – BA.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DuFNv%2FDvd2QWbCOuCaxRacp3C3ietC_bZdxVludM2RndwLUjZmUgKwKq38gM911jGE0m_asiTlZYyrxLoZ98R04Bq7nGZcN19nmG8YYuBTyc%3D",
-      "total_lotes": 1,
-      "total_itens": 1,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "SERVIÇOS DE ENGENHARIA PARA O FORNECIMENTO DE BANCAS EM ESTRUTURAS METÁLICAS (BANCAS DE FRUTAS E VERDURAS)",
-          "fase": "AGUARDANDO DISPUTA",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "1.000,00",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "1.200.887,10",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "BANCA EM ESTRUTURA METÁLICA",
-              "unidade": "UNID.",
-              "quantidade": "1,00",
-              "valor_referencia": "1.200.887,10"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "CE-002-2026",
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "137/2026",
@@ -265385,108 +265239,6 @@
               "unidade": "SERVIÇO",
               "quantidade": "1,00",
               "valor_referencia": "32.900,00"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "PE-066-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "212 / 2026",
-      "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "PUBLICADO",
-      "condutor": "SERGIO CARNEIRO CAVALCANTI DE AZEVEDO",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO",
-      "publicacao": "17/04/2026 15:34",
-      "inicio_recepcao": "22/04/2026 08:30",
-      "fim_recepcao": "05/05/2026 09:45",
-      "inicio_disputa": "05/05/2026 10:00",
-      "objeto": "Contratação de empresa especializada em fornecimento de POSTES DE CONCRETO (material permanente), a fim de atender as demandas da Secretaria Municipal de Infraestrutura e Serviços Urbanos.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DZTsOeO349QCKq9DiAJjoNrdW4ekSbqGjF3WD1lmpjxcbce7lGLz7ji0juM267tZqVqbhl_frcTgLTe4fQ0hOQywc1JecyJoOjZXI7zLbw0g%3D",
-      "total_lotes": 1,
-      "total_itens": 1,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "POSTES DE CONCRETO",
-          "fase": "PUBLICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "5901200003 POSTE DE CONCRETO:ARMADO SESSÃODUPLO T 11 METROS/600DAN (11/600)",
-              "unidade": "UN",
-              "quantidade": "36,00",
-              "valor_referencia": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "PE-063-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "332 / 2026",
-      "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "PUBLICADO",
-      "condutor": "JONATAS DA SILVA SOUSA",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO PARCELADA",
-      "publicacao": "17/04/2026 14:49",
-      "inicio_recepcao": "22/04/2026 08:30",
-      "fim_recepcao": "05/05/2026 08:15",
-      "inicio_disputa": "05/05/2026 08:30",
-      "objeto": "Contratação de empresa especializada em fornecimento de ADUELAS DE CONCRETOS (material de consumo), a fim de atender as demandas da Secretaria Municipal de Infraestrutura e Serviços Urbanos.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DKG385l_SuXGyrS5Gb4gmAP4t_dDKbTZcdQr3B9fDv2_QoNtB9Wv9STpgbWSEeH60ibK%2F_Bt89xzAJbEIm210eD_eSgNoJcOTZKnzblc4aL8%3D",
-      "total_lotes": 1,
-      "total_itens": 3,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "ADUELAS DE CONCRETOS",
-          "fase": "PUBLICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 3,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900515574 Aduela/ Galeria pré-moldada de concreto armado:seção retangular, fechada, com encaixe do tipo macho e fêmea. Dimensões internas de 2,00 m de largura e 2,00 m de altura, comprimento de 1 m, mísula de 20x20 cm, espessura de parede mínima de 15 cm, A altura de aterro a ser considerada é de 0,50 - 5,00 m, carga acidental considerando TB-45 e Fck do concreto de 35 MPa.",
-              "unidade": "Und.",
-              "quantidade": "24,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "2",
-              "especificacao": "9900515575 Aduela/ Galeria pré-moldada de concreto armado:seção retangular, fechada, com encaixe do tipo macho e fêmea. Dimensões internas de 2,50 m de largura e 2,50 m de altura, comprimento de 1 m, mísula de 20x20 cm, espessura de parede mínima de 20 cm, A altura de aterro a ser considerada é de 0,50 - 5,00 m, carga acidental considerando TB-45 e Fck do concreto de 35 MPa.",
-              "unidade": "Und.",
-              "quantidade": "50,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "3",
-              "especificacao": "9900515576 Aduela/ Galeria pré-moldada de concreto armado:Aduela/ Galeria pré-moldada de concreto armado, seção retangular, fechada, com encaixe do tipo macho e fêmea.Dimensões internas de 3,00 m de largura e 3,00 m de altura, comprimento de 1 m, mísula de 20x20 cm, espessura de parede mínima de 20 cm, A altura de aterro a ser considerada é de 0,50- 5,00 m, carga acidental considerando TB-45 e Fck do concreto de 35 MPa.",
-              "unidade": "Und.",
-              "quantidade": "24,00",
-              "valor_referencia": ""
             }
           ]
         }
@@ -266226,6 +265978,254 @@
               "unidade": "KM",
               "quantidade": "10.000,00",
               "valor_referencia": "16,76"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-066-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "212 / 2026",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "RECEPÇÃO DE PROPOSTAS",
+      "condutor": "SERGIO CARNEIRO CAVALCANTI DE AZEVEDO",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO",
+      "publicacao": "17/04/2026 15:34",
+      "inicio_recepcao": "22/04/2026 08:30",
+      "fim_recepcao": "05/05/2026 09:45",
+      "inicio_disputa": "05/05/2026 10:00",
+      "objeto": "Contratação de empresa especializada em fornecimento de POSTES DE CONCRETO (material permanente), a fim de atender as demandas da Secretaria Municipal de Infraestrutura e Serviços Urbanos.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DGXXIrjNxWXMlne_VD5RI3mt%2FICFjogT2X0aicW8NEYWCdu2KIYb5yINzLs9UR3rtS%2FpBHE4VWFv3v7tD3jwjBGxOzSuHEywBkndv1H8HGIQ%3D",
+      "total_lotes": 1,
+      "total_itens": 1,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "POSTES DE CONCRETO",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "5901200003 POSTE DE CONCRETO:ARMADO SESSÃODUPLO T 11 METROS/600DAN (11/600)",
+              "unidade": "UN",
+              "quantidade": "36,00",
+              "valor_referencia": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-063-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "332 / 2026",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "RECEPÇÃO DE PROPOSTAS",
+      "condutor": "JONATAS DA SILVA SOUSA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO PARCELADA",
+      "publicacao": "17/04/2026 14:49",
+      "inicio_recepcao": "22/04/2026 08:30",
+      "fim_recepcao": "05/05/2026 08:15",
+      "inicio_disputa": "05/05/2026 08:30",
+      "objeto": "Contratação de empresa especializada em fornecimento de ADUELAS DE CONCRETOS (material de consumo), a fim de atender as demandas da Secretaria Municipal de Infraestrutura e Serviços Urbanos.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DikS9LNLobMiXWo9Q8z2LQJHnRc5YPu8fcg8625G2PRGQizV8THXU7LhM8a8v9aBsmysiquu%2F6_v99DW9HnPdEK7pHjhIp%2FqHYMlED9uF_74%3D",
+      "total_lotes": 1,
+      "total_itens": 3,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "ADUELAS DE CONCRETOS",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 3,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515574 Aduela/ Galeria pré-moldada de concreto armado:seção retangular, fechada, com encaixe do tipo macho e fêmea. Dimensões internas de 2,00 m de largura e 2,00 m de altura, comprimento de 1 m, mísula de 20x20 cm, espessura de parede mínima de 15 cm, A altura de aterro a ser considerada é de 0,50 - 5,00 m, carga acidental considerando TB-45 e Fck do concreto de 35 MPa.",
+              "unidade": "Und.",
+              "quantidade": "24,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "2",
+              "especificacao": "9900515575 Aduela/ Galeria pré-moldada de concreto armado:seção retangular, fechada, com encaixe do tipo macho e fêmea. Dimensões internas de 2,50 m de largura e 2,50 m de altura, comprimento de 1 m, mísula de 20x20 cm, espessura de parede mínima de 20 cm, A altura de aterro a ser considerada é de 0,50 - 5,00 m, carga acidental considerando TB-45 e Fck do concreto de 35 MPa.",
+              "unidade": "Und.",
+              "quantidade": "50,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "3",
+              "especificacao": "9900515576 Aduela/ Galeria pré-moldada de concreto armado:Aduela/ Galeria pré-moldada de concreto armado, seção retangular, fechada, com encaixe do tipo macho e fêmea.Dimensões internas de 3,00 m de largura e 3,00 m de altura, comprimento de 1 m, mísula de 20x20 cm, espessura de parede mínima de 20 cm, A altura de aterro a ser considerada é de 0,50- 5,00 m, carga acidental considerando TB-45 e Fck do concreto de 35 MPa.",
+              "unidade": "Und.",
+              "quantidade": "24,00",
+              "valor_referencia": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2-DLE-041-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "240-2026",
+      "modalidade": "DISPENSA ELETRÔNICA",
+      "situacao": "DISPUTA",
+      "condutor": "ISLA LIMA SILVA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO",
+      "publicacao": "15/04/2026 20:47",
+      "inicio_recepcao": "15/04/2026 21:00",
+      "fim_recepcao": "22/04/2026 08:15",
+      "inicio_disputa": "22/04/2026 08:30",
+      "objeto": "Contratação de empresa especializada em fornecimento de [TELAS MOSQUITEIRAS PARA JANELAS E BASCULANTES]\n(material de consumo), a fim de atender as necessidades da Secretaria Municipal de Administração, conforme condições, quantidades e exigências estabelecidas neste Aviso de Contratação Direta, Termo de Referência e seus Anexos.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DwF%2FWoiWhic_c1QSBGhOLdbj7vb8_%2FlQ4yhYqiHHu25c%2FuUVOoJ_o4C0M0THvCY86X61rLvdLgfp_W8S8foMPAa1ClaUAMcbTbV3HBNyituA%3D",
+      "total_lotes": 1,
+      "total_itens": 1,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "TELAS MOSQUITEIRAS",
+          "fase": "DISPUTA",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "",
+          "garantia": "",
+          "valor_referencia": "8.019,60",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515461 Tela mosquiteira em fibra de vidro revestida emPVC:cor cinza, fornecida em rolo com largura nominal de 1,20 me comprimento de 50 m, totalizando aproximadamente 60 m² porrolo, com malha fina tipo 18 x 16 fios por polegada ouequivalente. Adequada para proteção contra insetos, vetores epragas urbanas, permitindo ampla circulação de ar e passagemde luz natural, sem comprometer a luminosidade do ambiente.Produto antialérgico, inodoro, lavável com água e detergenteneutro, de fácil corte e instalação, que não desfia nas bordas,não resseca, não rasga com facilidade, resistente a raios UV,intempéries, umidade e fungos, com característica de nãopropagação de chamas e alta durabilidade em uso contínuo.Destinada à instalação em janelas, portas, basculantes e demaisaberturas de cozinhas, despensas e áreas de preparo earmazenamento de alimentos das unidades escolares da redemunicipal, para confecção de módulos fixos ou removíveis pelasequipes internas de marcenaria e serralheria da SecretariaMunicipal de Educação, em conformidade com as exigênciassanitárias para barreiras físicas e com especificações técnicasusualmente adotadas em contratações públicas. EXCLUSIVOPARA ME/EPP.",
+              "unidade": "ROL",
+              "quantidade": "30,00",
+              "valor_referencia": "267,32"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-060-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "351/2026",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "JULGAMENTO",
+      "condutor": "JONATAS DA SILVA SOUSA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO",
+      "publicacao": "07/04/2026 16:38",
+      "inicio_recepcao": "09/04/2026 00:00",
+      "fim_recepcao": "22/04/2026 08:15",
+      "inicio_disputa": "22/04/2026 08:30",
+      "objeto": "Pregão Eletrônico nº 060-2026, Processo Administrativo: 351/2026, do tipo MENOR PREÇO GLOBAL. OBJETO: Contratação de empresa especializada em prestação de serviço de LICENCIAMENTO DE USO (SUBSCRIÇÃO) DE SOFTWARES DE ENGENHARIA AUTODESK, INCLUINDO SUPORTE TÉCNICO E ATUALIZAÇÕES, a fim de atender às demandas da Secretaria Municipal de Projetos Estratégicos e Gerenciamento de Convênios.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DD3ctAEWx9MjG9cQP20kVxwOkOuKoDjkU4106QNuA2JrXzmm1C2%2F58tySpxfpHykDvM6I2Xk1doSnUXaHAToxoyXM0cRCejIvhY_4WocEEro%3D",
+      "total_lotes": 1,
+      "total_itens": 3,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "LICENÇAS DE SOFTWARE",
+          "fase": "JULGAMENTO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "277.295,72",
+          "vencedor": "NTI BRASIL SOLUÇÕES DIGITAIS LTDA",
+          "melhor_oferta": "125.000,00",
+          "total_itens": 3,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "202600008 LICENÇA ANUAL DE USO DO SOFTWAREAUTOCAD:destinada à criação e anotação de geometria 2D e modelos 3D, com objetos sólidos, superfície e objetos de malha; com automatização em IA, comparação de desenhos, criação de tabelas e função de publicar layouts. As licenças deverão ser oficiais do fabricante Autodesk, no modelo de usuário nomeado (named user), com direito a atualizações durante o período contratado e suporte técnico adequado, garantindo pleno funcionamento, desempenho e conformidade com as exigências técnicas aplicáveis.",
+              "unidade": "SER",
+              "quantidade": "3,00",
+              "valor_referencia": "21.226,36"
+            },
+            {
+              "numero": "2",
+              "especificacao": "202600009 LICENÇA ANUAL DE USO DO SOFTWAREREVIT:destinada à elaboração e compatibilização de projetos de arquitetura, estrutura e instalações, com base na metodologia de Modelagem da Informação da Construção (BIM). As licenças deverão ser oficiais do fabricante Autodesk, no modelo de usuário nomeado (named user), com atualizações incluídas durante toda a vigência contratual e suporte técnico, assegurando a adequada utilização da ferramenta, integração entre disciplinas e atendimento às necessidades técnicas da Administração.",
+              "unidade": "SER",
+              "quantidade": "6,00",
+              "valor_referencia": "27.112,16"
+            },
+            {
+              "numero": "3",
+              "especificacao": "202600010 LICENÇA ANUAL DE USO DO SOFTWARE CIVIL3D:destinada à elaboração de projetos de engenharia civil, terraplenagem, drenagem e sistemas viários. As licenças deverão ser oficiais do fabricante Autodesk, no modelo de usuário nomeado (named user), com direito a atualizações durante o período contratado e suporte técnico adequado, garantindo pleno funcionamento, desempenho e conformidade com as exigências técnicas aplicáveis.",
+              "unidade": "SER",
+              "quantidade": "2,00",
+              "valor_referencia": "25.471,84"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-053-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "309/2026",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "HABILITAÇÃO",
+      "condutor": "DAVIDSON ARAUJO SANTOS",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO PARCELADA",
+      "publicacao": "24/03/2026 21:21",
+      "inicio_recepcao": "25/03/2026 08:00",
+      "fim_recepcao": "10/04/2026 08:15",
+      "inicio_disputa": "22/04/2026 09:20",
+      "objeto": "Contratação de empresa especializada em serviços de engenharia para o fornecimento de bancas em estruturas metálicas (bancas de frutas e verduras), no município de Teixeira de Freitas – BA.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5Dlexsg2xLiDv7BWrwc27v4tP1Gs7rPL_XnrVpICdcdjRoCxUNIT7l3DAxb4twrdYS35SMi8%2F9kygpN7hfIOTVcjvrArpONT2dBZFecuCsD7o%3D",
+      "total_lotes": 1,
+      "total_itens": 1,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "SERVIÇOS DE ENGENHARIA PARA O FORNECIMENTO DE BANCAS EM ESTRUTURAS METÁLICAS (BANCAS DE FRUTAS E VERDURAS)",
+          "fase": "HABILITAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "1.000,00",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "1.200.887,10",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "BANCA EM ESTRUTURA METÁLICA",
+              "unidade": "UNID.",
+              "quantidade": "1,00",
+              "valor_referencia": "1.200.887,10"
             }
           ]
         }
