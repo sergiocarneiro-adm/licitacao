@@ -4,7 +4,7 @@
     "total_processos": 772,
     "total_lotes": 8670,
     "total_itens": 14846,
-    "atualizado_em": "20260430_092138"
+    "atualizado_em": "20260430_121019"
   },
   "processos": [
     {
@@ -266349,338 +266349,6 @@
       ]
     },
     {
-      "id": "PE-067-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "315 / 2026",
-      "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "DISPUTA",
-      "condutor": "JONATAS DA SILVA SOUSA",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "REGISTRO DE PREÇO",
-      "publicacao": "16/04/2026 17:14",
-      "inicio_recepcao": "20/04/2026 08:30",
-      "fim_recepcao": "30/04/2026 08:15",
-      "inicio_disputa": "30/04/2026 08:30",
-      "objeto": "Contratação de empresa especializada em fornecimento de EQUIPAMENTOS DE INFORMÁTICA, ÁUDIO, VÍDEO E ACESSÓRIOS TECNOLÓGICOS,  a fim de atender as demandas da Secretaria Municipal de Educação.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5D71u_NHupZxUHsJcp9tMdVZotI69BGJfCv4u9XJONxwJNwli9qj6A6GyY7cgLM2I_76LFLmp4EWfDlQTUObb1hZZBOZuWIKelKKNig83YN6s%3D",
-      "total_lotes": 13,
-      "total_itens": 13,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "9900515569 Cartão SD:SD 128g, classe 10 200 MBS.",
-          "fase": "JULGAMENTO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "ELLOELLA DISTRIBUIDORA LTDA",
-          "melhor_oferta": "368,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900515569 Cartão SD:SD 128g, classe 10 200 MBS.",
-              "unidade": "UND",
-              "quantidade": "6,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "2",
-          "titulo": "5707611158 Softbox:minimo de 90cm de diametro. Marca e modelo de referência: Triopo K2-90cm.",
-          "fase": "JULGAMENTO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "ELLOELLA DISTRIBUIDORA LTDA",
-          "melhor_oferta": "686,40",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "5707611158 Softbox:minimo de 90cm de diametro. Marca e modelo de referência: Triopo K2-90cm.",
-              "unidade": "UND",
-              "quantidade": "5,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "3",
-          "titulo": "9900515570 Case mochila:para equipamentos (mochila para transportar câmera), resistente a agua.",
-          "fase": "JULGAMENTO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "ELLOELLA DISTRIBUIDORA LTDA",
-          "melhor_oferta": "150,40",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900515570 Case mochila:para equipamentos (mochila para transportar câmera), resistente a agua.",
-              "unidade": "UND",
-              "quantidade": "3,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "4",
-          "titulo": "37160 Câmera:fotografica Z5-2 Nikon.",
-          "fase": "JULGAMENTO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "AHR EXPRESS LTDA",
-          "melhor_oferta": "20.679,84",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37160 Câmera:fotografica Z5-2 Nikon.",
-              "unidade": "UND",
-              "quantidade": "3,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "5",
-          "titulo": "37161 MICROFONE SHOTGUN PROFISSIONAL C/CAPTAÇÃO DIRECIONAL:Padrão Polar Super; Tipo de Captura Extremo; Faixa de Frequência 20Hz - 20kHz ; Impedância de Saída 200&#937;; Recursos: Sensibilidade -32,0dB re 1 Volt /+/- 2 dB @ 1kHz; Nível de Ruído Equivalen",
-          "fase": "JULGAMENTO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "SC INSTRUMENTOS MUSICAIS E ACESS LTDA",
-          "melhor_oferta": "758,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37161 MICROFONE SHOTGUN PROFISSIONAL C/CAPTAÇÃO DIRECIONAL:Padrão Polar Super; Tipo de Captura Extremo; Faixa de Frequência 20Hz - 20kHz ; Impedância de Saída 200&#937;; Recursos: Sensibilidade -32,0dB re 1 Volt /+/- 2 dB @ 1kHz; Nível de Ruído Equivalente (Ponderado A) 16Dba; Energia: Requisitos de Energia P12 P24 P48; Saída XLR. Conteúdo da embalagem: Microfone Shotgun Condensador Alimentado por Bateria ou Phantom Rode NTG-2 Montagem Contra Choque Universal para Sapatas de Câmera e Varas de Boom - Pearstone DUSM-1 Rode Windshield WS6 Deluxe para os microfones NTG2 e NTG1; Vara de Boom em Alumínio da Série Avalon com Cabo XLR Espiralado Interno - K-TekKE-89CC; Pearstone Cabo de Áudio Reto de XLR-M de 3 Pinos para XLR-F Angulado de 3 Pinos 6m; Cabo de Áudio Reto Pearstone de XLR-M de 3 Pinos para XLR-F Angulado de 3 Pinos 0,45m; Bolsa de Neoprene Pearstone para; Vara de Boom Fechada de 34\" com Microfone Shotgun e Softie; Punho de Microfone Universal Pearstone",
-              "unidade": "UND",
-              "quantidade": "2,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "6",
-          "titulo": "5707611159 DRONE DJI AVATA 02. Marca: DJI. Modelo: DroneDJI Avata 2 Fly More:Combo (3 baterias) BR - DJI049; Cor: Preto; Tempo de voo: Até 23 min; Distância máx. de  transmissão: 13 km; Detecção de obstáculos: Inferior e traseira; Vel. máx.: 97,2 km/h; R",
-          "fase": "JULGAMENTO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "ELLOELLA DISTRIBUIDORA LTDA",
-          "melhor_oferta": "17.677,28",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "5707611159 DRONE DJI AVATA 02. Marca: DJI. Modelo: DroneDJI Avata 2 Fly More:Combo (3 baterias) BR - DJI049; Cor: Preto; Tempo de voo: Até 23 min; Distância máx. de transmissão: 13 km; Detecção de obstáculos: Inferior e traseira; Vel. máx.: 97,2 km/h; Resistência a vento: 38,52 km/h; Câmera: 1/1,3 CMOS 12mm FOV 155; Resolução: Foto: 12 MP; Vídeo: até 4K/60 fps; Abertura: f/2,8; Tela do óculos: DJI Goggles 3: 0,49 Micro-OLED; Resolução do óculos: DJI Goggles 3: 1080p 100 fps; Duração e tipo de bateria: DJI Goggles 3: Até 3 horas, integrada ao óculos. Conteúdo da embalagem: 1 drone DJI Avata 2, 1 controle remoto DJI Motion 3, 1 alça de pulso para DJIMotion 3, 1 óculos de pilotagem DJI Goggles 3, 1 espuma DJIGoggles 3, 1 suporte para testa DJI Goggles 3, 1 par de lentes corretivas para DJI Goggles 3, 1 cabo USB-C OTG, 3 baterias DJI Avata 2, 2 pares de hélices DJI Avata 2, 8 parafusos para hélices DJI Avata 2, 1 ferramenta de remoção das hélices,1 protetor da câmera DJI Avata 2, 1 cabo Tipo-C, 1 Bolsa, 1 hub de carregamento de baterias com função de transferência de carga. Dimensões (LxAxC): 21,2 x 6,4 x 18,5cm; Peso: 377 g.",
-              "unidade": "UND",
-              "quantidade": "3,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "7",
-          "titulo": "5707611160 Controle Remoto DJI FPV 3 (DJI Avata 2/DJI Neo) BR - DJI1044:Marca: DJI. Modelo: DJI1044: Alcance máximo: 13 km; Frequência: 2.4; Quantidade de canais: 1; Duração da bateria: 10 h; Tipo de alimentação: Bateria; Tipos de conectores: USB-C; Com v",
-          "fase": "JULGAMENTO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "AHR EXPRESS LTDA",
-          "melhor_oferta": "2.623,50",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "5707611160 Controle Remoto DJI FPV 3 (DJI Avata 2/DJI Neo) BR - DJI1044:Marca: DJI. Modelo: DJI1044: Alcance máximo: 13 km; Frequência: 2.4; Quantidade de canais: 1; Duração da bateria: 10 h; Tipo de alimentação: Bateria; Tipos de conectores: USB-C; Com visor: Não; Especificações Técnicas: Cor: CINZA; Peso do produto: 240g; Largura do produto: 16cm; Altura do produto: 8cm; Comprimento do produto: 21cm; Conteúdo da Embalagem: 1x controle remoto DJI FPV 3; 1x par de sticks de controle do DJI FPV 3; 1x chave de fenda em forma de L; Dimensão Produto com Base (mm): (CxLxA): 165x119x62 mm; Tempo de carregamento: 2h; Tempo de Operação: Aprox. 10 horas.",
-              "unidade": "UND",
-              "quantidade": "3,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "8",
-          "titulo": "9900515571 Processador Intel Core i7-14700 ou superior:soquete LGA1700, 20 núcleos físicos (8 Performance + 12 Efficient) e 28 threads, frequência turbo de no mínimo 5.4 GHz, cache L3 mínimo de 33 MB.",
-          "fase": "FECHADO 1",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900515571 Processador Intel Core i7-14700 ou superior:soquete LGA1700, 20 núcleos físicos (8 Performance + 12 Efficient) e 28 threads, frequência turbo de no mínimo 5.4 GHz, cache L3 mínimo de 33 MB.",
-              "unidade": "UND",
-              "quantidade": "3,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "9",
-          "titulo": "37162 Air Cooler:TDP mínimo de 200W, com mínimo de 4  heatpipes, fabricado em cobre (base e heatpipe), aletas deresfriamento em alumínio, Velocidade Max de rotação 1200 RPM; compatível com soquete LGA1700.",
-          "fase": "AGUARDANDO DISPUTA",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37162 Air Cooler:TDP mínimo de 200W, com mínimo de 4 heatpipes, fabricado em cobre (base e heatpipe), aletas deresfriamento em alumínio, Velocidade Max de rotação 1200 RPM; compatível com soquete LGA1700.",
-              "unidade": "UND",
-              "quantidade": "3,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "10",
-          "titulo": "37163 Memória RAM: 32 GB DDR5:em 2 módulos de 16 GB cada (dual channel), frequência efetiva mínima de 5600 MHz. Observação: Os dois módulos deverão ser da mesma marca e modelo.",
-          "fase": "AGUARDANDO DISPUTA",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37163 Memória RAM: 32 GB DDR5:em 2 módulos de 16 GB cada (dual channel), frequência efetiva mínima de 5600 MHz. Observação: Os dois módulos deverão ser da mesma marca e modelo.",
-              "unidade": "PAR",
-              "quantidade": "3,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "11",
-          "titulo": "5707611161 SSD M.2 NVMe:com capacidade mínima de 1 TB, interface PCI-Express 4.0 x4, velocidade de leitura sequencial mínima de 3.500 MB/s e gravação sequencial mínima de 3.000 MB/s, com memória do tipo 3D NAND.",
-          "fase": "AGUARDANDO DISPUTA",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "5707611161 SSD M.2 NVMe:com capacidade mínima de 1 TB, interface PCI-Express 4.0 x4, velocidade de leitura sequencial mínima de 3.500 MB/s e gravação sequencial mínima de 3.000 MB/s, com memória do tipo 3D NAND.",
-              "unidade": "UND",
-              "quantidade": "6,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "12",
-          "titulo": "37164 Drone multirotor, com câmera de alta resolução:(mínimo de 20 MP, sensor CMOS grande angular ou comparável), estabilização mecânica em três eixos (inclinação, rotação, giro), sistema de posicionamento por satélite (GPS ± GLONASS ou equivalente) para",
-          "fase": "AGUARDANDO DISPUTA",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37164 Drone multirotor, com câmera de alta resolução:(mínimo de 20 MP, sensor CMOS grande angular ou comparável), estabilização mecânica em três eixos (inclinação, rotação, giro), sistema de posicionamento por satélite (GPS ± GLONASS ou equivalente) para voos com precisão horizontal e vertical, tanto em ambiente estático quanto em movimento; deve suportar tempo de voo mínimo de 30-40 minutos, alcance de operação de transmissão de sinais compatível (mínimo de 5-10 km em ambiente aberto), resistência ao vento de pelo menos 10-12 m/s, faixa operacional de temperatura de -10°C a +40°C, estrutura leve porém robusta, com materiais resistentes a intempéries, bem como garantia de assistência técnica e manutenção no país. O equipamento deverá ser fornecido com, no mínimo, 4 baterias extras adicionais, compatíveis com o modelo ofertado, com mesma capacidade nominal da bateria original, dotadas de sistemas de proteção contra sobrecarga, superaquecimento e descarga profunda, bem como solução de carregamento compatível (hub ou carregador múltiplo), de modo a assegurar a continuidade das operações sem interrupções por insuficiência de energia.",
-              "unidade": "UND",
-              "quantidade": "2,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "13",
-          "titulo": "37165 Teleprompter Levantável:liga de alumínio de no mínimo 12 polegadas para iPad, tablet, telefone. Câmera DSLR, sem montagem com controle remoto, aplicativo compatível com iOS e Android com Tripé semi-hidráulico e engate removível.",
-          "fase": "AGUARDANDO DISPUTA",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37165 Teleprompter Levantável:liga de alumínio de no mínimo 12 polegadas para iPad, tablet, telefone. Câmera DSLR, sem montagem com controle remoto, aplicativo compatível com iOS e Android com Tripé semi-hidráulico e engate removível.",
-              "unidade": "UND",
-              "quantidade": "4,00",
-              "valor_referencia": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "PE-051-2026",
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "249 / 2026",
@@ -266754,6 +266422,338 @@
               "unidade": "SER",
               "quantidade": "1,00",
               "valor_referencia": "1.500,00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-067-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "315 / 2026",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "JULGAMENTO",
+      "condutor": "JONATAS DA SILVA SOUSA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "REGISTRO DE PREÇO",
+      "publicacao": "16/04/2026 17:14",
+      "inicio_recepcao": "20/04/2026 08:30",
+      "fim_recepcao": "30/04/2026 08:15",
+      "inicio_disputa": "30/04/2026 08:30",
+      "objeto": "Contratação de empresa especializada em fornecimento de EQUIPAMENTOS DE INFORMÁTICA, ÁUDIO, VÍDEO E ACESSÓRIOS TECNOLÓGICOS,  a fim de atender as demandas da Secretaria Municipal de Educação.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DuksQhR94%2FkFQWiJQImbrHI35R6lRcy3LPRY7OaQNQLw8xh7QatGEY6uChnJHg1dYADFPPU9hazCXRqjKfIeVuVj8JdeT94CY7Q0dgC5lYTc%3D",
+      "total_lotes": 13,
+      "total_itens": 13,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "9900515569 Cartão SD:SD 128g, classe 10 200 MBS.",
+          "fase": "JULGAMENTO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "1.685,34",
+          "vencedor": "ELLOELLA DISTRIBUIDORA LTDA",
+          "melhor_oferta": "368,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515569 Cartão SD:SD 128g, classe 10 200 MBS.",
+              "unidade": "UND",
+              "quantidade": "6,00",
+              "valor_referencia": "280,89"
+            }
+          ]
+        },
+        {
+          "numero": "2",
+          "titulo": "5707611158 Softbox:minimo de 90cm de diametro. Marca e modelo de referência: Triopo K2-90cm.",
+          "fase": "JULGAMENTO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "2.627,90",
+          "vencedor": "ELLOELLA DISTRIBUIDORA LTDA",
+          "melhor_oferta": "686,40",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "5707611158 Softbox:minimo de 90cm de diametro. Marca e modelo de referência: Triopo K2-90cm.",
+              "unidade": "UND",
+              "quantidade": "5,00",
+              "valor_referencia": "525,58"
+            }
+          ]
+        },
+        {
+          "numero": "3",
+          "titulo": "9900515570 Case mochila:para equipamentos (mochila para transportar câmera), resistente a agua.",
+          "fase": "JULGAMENTO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "1.584,00",
+          "vencedor": "ELLOELLA DISTRIBUIDORA LTDA",
+          "melhor_oferta": "150,40",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515570 Case mochila:para equipamentos (mochila para transportar câmera), resistente a agua.",
+              "unidade": "UND",
+              "quantidade": "3,00",
+              "valor_referencia": "528,00"
+            }
+          ]
+        },
+        {
+          "numero": "4",
+          "titulo": "37160 Câmera:fotografica Z5-2 Nikon.",
+          "fase": "JULGAMENTO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "37.640,25",
+          "vencedor": "AHR EXPRESS LTDA",
+          "melhor_oferta": "20.679,84",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37160 Câmera:fotografica Z5-2 Nikon.",
+              "unidade": "UND",
+              "quantidade": "3,00",
+              "valor_referencia": "12.546,75"
+            }
+          ]
+        },
+        {
+          "numero": "5",
+          "titulo": "37161 MICROFONE SHOTGUN PROFISSIONAL C/CAPTAÇÃO DIRECIONAL:Padrão Polar Super; Tipo de Captura Extremo; Faixa de Frequência 20Hz - 20kHz ; Impedância de Saída 200&#937;; Recursos: Sensibilidade -32,0dB re 1 Volt /+/- 2 dB @ 1kHz; Nível de Ruído Equivalen",
+          "fase": "JULGAMENTO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "15.189,48",
+          "vencedor": "SC INSTRUMENTOS MUSICAIS E ACESS LTDA",
+          "melhor_oferta": "758,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37161 MICROFONE SHOTGUN PROFISSIONAL C/CAPTAÇÃO DIRECIONAL:Padrão Polar Super; Tipo de Captura Extremo; Faixa de Frequência 20Hz - 20kHz ; Impedância de Saída 200&#937;; Recursos: Sensibilidade -32,0dB re 1 Volt /+/- 2 dB @ 1kHz; Nível de Ruído Equivalente (Ponderado A) 16Dba; Energia: Requisitos de Energia P12 P24 P48; Saída XLR. Conteúdo da embalagem: Microfone Shotgun Condensador Alimentado por Bateria ou Phantom Rode NTG-2 Montagem Contra Choque Universal para Sapatas de Câmera e Varas de Boom - Pearstone DUSM-1 Rode Windshield WS6 Deluxe para os microfones NTG2 e NTG1; Vara de Boom em Alumínio da Série Avalon com Cabo XLR Espiralado Interno - K-TekKE-89CC; Pearstone Cabo de Áudio Reto de XLR-M de 3 Pinos para XLR-F Angulado de 3 Pinos 6m; Cabo de Áudio Reto Pearstone de XLR-M de 3 Pinos para XLR-F Angulado de 3 Pinos 0,45m; Bolsa de Neoprene Pearstone para; Vara de Boom Fechada de 34\" com Microfone Shotgun e Softie; Punho de Microfone Universal Pearstone",
+              "unidade": "UND",
+              "quantidade": "2,00",
+              "valor_referencia": "7.594,74"
+            }
+          ]
+        },
+        {
+          "numero": "6",
+          "titulo": "5707611159 DRONE DJI AVATA 02. Marca: DJI. Modelo: DroneDJI Avata 2 Fly More:Combo (3 baterias) BR - DJI049; Cor: Preto; Tempo de voo: Até 23 min; Distância máx. de  transmissão: 13 km; Detecção de obstáculos: Inferior e traseira; Vel. máx.: 97,2 km/h; R",
+          "fase": "JULGAMENTO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "37.632,00",
+          "vencedor": "ELLOELLA DISTRIBUIDORA LTDA",
+          "melhor_oferta": "17.677,28",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "5707611159 DRONE DJI AVATA 02. Marca: DJI. Modelo: DroneDJI Avata 2 Fly More:Combo (3 baterias) BR - DJI049; Cor: Preto; Tempo de voo: Até 23 min; Distância máx. de transmissão: 13 km; Detecção de obstáculos: Inferior e traseira; Vel. máx.: 97,2 km/h; Resistência a vento: 38,52 km/h; Câmera: 1/1,3 CMOS 12mm FOV 155; Resolução: Foto: 12 MP; Vídeo: até 4K/60 fps; Abertura: f/2,8; Tela do óculos: DJI Goggles 3: 0,49 Micro-OLED; Resolução do óculos: DJI Goggles 3: 1080p 100 fps; Duração e tipo de bateria: DJI Goggles 3: Até 3 horas, integrada ao óculos. Conteúdo da embalagem: 1 drone DJI Avata 2, 1 controle remoto DJI Motion 3, 1 alça de pulso para DJIMotion 3, 1 óculos de pilotagem DJI Goggles 3, 1 espuma DJIGoggles 3, 1 suporte para testa DJI Goggles 3, 1 par de lentes corretivas para DJI Goggles 3, 1 cabo USB-C OTG, 3 baterias DJI Avata 2, 2 pares de hélices DJI Avata 2, 8 parafusos para hélices DJI Avata 2, 1 ferramenta de remoção das hélices,1 protetor da câmera DJI Avata 2, 1 cabo Tipo-C, 1 Bolsa, 1 hub de carregamento de baterias com função de transferência de carga. Dimensões (LxAxC): 21,2 x 6,4 x 18,5cm; Peso: 377 g.",
+              "unidade": "UND",
+              "quantidade": "3,00",
+              "valor_referencia": "12.544,00"
+            }
+          ]
+        },
+        {
+          "numero": "7",
+          "titulo": "5707611160 Controle Remoto DJI FPV 3 (DJI Avata 2/DJI Neo) BR - DJI1044:Marca: DJI. Modelo: DJI1044: Alcance máximo: 13 km; Frequência: 2.4; Quantidade de canais: 1; Duração da bateria: 10 h; Tipo de alimentação: Bateria; Tipos de conectores: USB-C; Com v",
+          "fase": "JULGAMENTO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "5.381,85",
+          "vencedor": "AHR EXPRESS LTDA",
+          "melhor_oferta": "2.623,50",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "5707611160 Controle Remoto DJI FPV 3 (DJI Avata 2/DJI Neo) BR - DJI1044:Marca: DJI. Modelo: DJI1044: Alcance máximo: 13 km; Frequência: 2.4; Quantidade de canais: 1; Duração da bateria: 10 h; Tipo de alimentação: Bateria; Tipos de conectores: USB-C; Com visor: Não; Especificações Técnicas: Cor: CINZA; Peso do produto: 240g; Largura do produto: 16cm; Altura do produto: 8cm; Comprimento do produto: 21cm; Conteúdo da Embalagem: 1x controle remoto DJI FPV 3; 1x par de sticks de controle do DJI FPV 3; 1x chave de fenda em forma de L; Dimensão Produto com Base (mm): (CxLxA): 165x119x62 mm; Tempo de carregamento: 2h; Tempo de Operação: Aprox. 10 horas.",
+              "unidade": "UND",
+              "quantidade": "3,00",
+              "valor_referencia": "1.793,95"
+            }
+          ]
+        },
+        {
+          "numero": "8",
+          "titulo": "9900515571 Processador Intel Core i7-14700 ou superior:soquete LGA1700, 20 núcleos físicos (8 Performance + 12 Efficient) e 28 threads, frequência turbo de no mínimo 5.4 GHz, cache L3 mínimo de 33 MB.",
+          "fase": "JULGAMENTO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "8.295,54",
+          "vencedor": "AHR EXPRESS LTDA",
+          "melhor_oferta": "4.237,50",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515571 Processador Intel Core i7-14700 ou superior:soquete LGA1700, 20 núcleos físicos (8 Performance + 12 Efficient) e 28 threads, frequência turbo de no mínimo 5.4 GHz, cache L3 mínimo de 33 MB.",
+              "unidade": "UND",
+              "quantidade": "3,00",
+              "valor_referencia": "2.765,18"
+            }
+          ]
+        },
+        {
+          "numero": "9",
+          "titulo": "37162 Air Cooler:TDP mínimo de 200W, com mínimo de 4  heatpipes, fabricado em cobre (base e heatpipe), aletas deresfriamento em alumínio, Velocidade Max de rotação 1200 RPM; compatível com soquete LGA1700.",
+          "fase": "JULGAMENTO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "511,29",
+          "vencedor": "AHR EXPRESS LTDA",
+          "melhor_oferta": "200,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37162 Air Cooler:TDP mínimo de 200W, com mínimo de 4 heatpipes, fabricado em cobre (base e heatpipe), aletas deresfriamento em alumínio, Velocidade Max de rotação 1200 RPM; compatível com soquete LGA1700.",
+              "unidade": "UND",
+              "quantidade": "3,00",
+              "valor_referencia": "170,43"
+            }
+          ]
+        },
+        {
+          "numero": "10",
+          "titulo": "37163 Memória RAM: 32 GB DDR5:em 2 módulos de 16 GB cada (dual channel), frequência efetiva mínima de 5600 MHz. Observação: Os dois módulos deverão ser da mesma marca e modelo.",
+          "fase": "JULGAMENTO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "9.958,20",
+          "vencedor": "VECTOR TI - SUPRIMENTOS DE TI E ELETRONICOS LTDA",
+          "melhor_oferta": "1.305,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37163 Memória RAM: 32 GB DDR5:em 2 módulos de 16 GB cada (dual channel), frequência efetiva mínima de 5600 MHz. Observação: Os dois módulos deverão ser da mesma marca e modelo.",
+              "unidade": "PAR",
+              "quantidade": "3,00",
+              "valor_referencia": "3.319,40"
+            }
+          ]
+        },
+        {
+          "numero": "11",
+          "titulo": "5707611161 SSD M.2 NVMe:com capacidade mínima de 1 TB, interface PCI-Express 4.0 x4, velocidade de leitura sequencial mínima de 3.500 MB/s e gravação sequencial mínima de 3.000 MB/s, com memória do tipo 3D NAND.",
+          "fase": "JULGAMENTO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "7.659,00",
+          "vencedor": "ELLOELLA DISTRIBUIDORA LTDA",
+          "melhor_oferta": "1.438,40",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "5707611161 SSD M.2 NVMe:com capacidade mínima de 1 TB, interface PCI-Express 4.0 x4, velocidade de leitura sequencial mínima de 3.500 MB/s e gravação sequencial mínima de 3.000 MB/s, com memória do tipo 3D NAND.",
+              "unidade": "UND",
+              "quantidade": "6,00",
+              "valor_referencia": "1.276,50"
+            }
+          ]
+        },
+        {
+          "numero": "12",
+          "titulo": "37164 Drone multirotor, com câmera de alta resolução:(mínimo de 20 MP, sensor CMOS grande angular ou comparável), estabilização mecânica em três eixos (inclinação, rotação, giro), sistema de posicionamento por satélite (GPS ± GLONASS ou equivalente) para",
+          "fase": "JULGAMENTO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "40.360,00",
+          "vencedor": "ELLOELLA DISTRIBUIDORA LTDA",
+          "melhor_oferta": "7.748,96",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37164 Drone multirotor, com câmera de alta resolução:(mínimo de 20 MP, sensor CMOS grande angular ou comparável), estabilização mecânica em três eixos (inclinação, rotação, giro), sistema de posicionamento por satélite (GPS ± GLONASS ou equivalente) para voos com precisão horizontal e vertical, tanto em ambiente estático quanto em movimento; deve suportar tempo de voo mínimo de 30-40 minutos, alcance de operação de transmissão de sinais compatível (mínimo de 5-10 km em ambiente aberto), resistência ao vento de pelo menos 10-12 m/s, faixa operacional de temperatura de -10°C a +40°C, estrutura leve porém robusta, com materiais resistentes a intempéries, bem como garantia de assistência técnica e manutenção no país. O equipamento deverá ser fornecido com, no mínimo, 4 baterias extras adicionais, compatíveis com o modelo ofertado, com mesma capacidade nominal da bateria original, dotadas de sistemas de proteção contra sobrecarga, superaquecimento e descarga profunda, bem como solução de carregamento compatível (hub ou carregador múltiplo), de modo a assegurar a continuidade das operações sem interrupções por insuficiência de energia.",
+              "unidade": "UND",
+              "quantidade": "2,00",
+              "valor_referencia": "20.180,00"
+            }
+          ]
+        },
+        {
+          "numero": "13",
+          "titulo": "37165 Teleprompter Levantável:liga de alumínio de no mínimo 12 polegadas para iPad, tablet, telefone. Câmera DSLR, sem montagem com controle remoto, aplicativo compatível com iOS e Android com Tripé semi-hidráulico e engate removível.",
+          "fase": "JULGAMENTO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "9.338,80",
+          "vencedor": "ELLOELLA DISTRIBUIDORA LTDA",
+          "melhor_oferta": "1.186,43",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37165 Teleprompter Levantável:liga de alumínio de no mínimo 12 polegadas para iPad, tablet, telefone. Câmera DSLR, sem montagem com controle remoto, aplicativo compatível com iOS e Android com Tripé semi-hidráulico e engate removível.",
+              "unidade": "UND",
+              "quantidade": "4,00",
+              "valor_referencia": "2.334,70"
             }
           ]
         }
