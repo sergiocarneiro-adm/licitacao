@@ -4,7 +4,7 @@
     "total_processos": 774,
     "total_lotes": 8687,
     "total_itens": 14863,
-    "atualizado_em": "20260504_113510"
+    "atualizado_em": "20260504_193527"
   },
   "processos": [
     {
@@ -5262,914 +5262,6 @@
               "unidade": "SER",
               "quantidade": "800,00",
               "valor_referencia": "34,23"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "PE-002-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "1474/2025",
-      "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "HABILITAÇÃO",
-      "condutor": "JONATAS DA SILVA SOUSA",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "REGISTRO DE PREÇO",
-      "publicacao": "09/01/2026 11:54",
-      "inicio_recepcao": "13/01/2026 08:00",
-      "fim_recepcao": "23/01/2026 08:15",
-      "inicio_disputa": "23/01/2026 08:30",
-      "objeto": "Futura e eventual contratação de empresa especializada em fornecimento de PERIFÉRICOS DE INFORMÁTICA, EQUIPAMENTOS DE ILUMINAÇÃO, FILMAGEM, ÁUDIO E CELULAR (material de consumo) e (material permanente), a fim de atender as demandas da Secretaria Municipal de Educação.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DrvdJIZAB0SbemN_gmjO_ucIAl2QFNH3dIshph6UYIHZ6LEluRgSuG2saqoebosCbu9dHKcS8nlPR7Q6hp_FzItWBgHKd0c1BLwXXJNSotZs%3D",
-      "total_lotes": 37,
-      "total_itens": 37,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "9900515062 Cartão SD:SD 128g, classe 10 200 MBS. EXCLUSIVO PARA ME/EPP.",
-          "fase": "FRACASSADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "1.089,12",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900515062 Cartão SD:SD 128g, classe 10 200 MBS. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "UND",
-              "quantidade": "6,00",
-              "valor_referencia": "181,52"
-            }
-          ]
-        },
-        {
-          "numero": "2",
-          "titulo": "9900515063 Cartão SD:128g 4K 120 classe 10 300MB/s v90ll. EXCLUSIVO PARA ME/EPP.",
-          "fase": "EM ADJUDICAÇÃO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "3.163,41",
-          "vencedor": "J.C ASSEF COMERCIO LTDA",
-          "melhor_oferta": "3.162,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900515063 Cartão SD:128g 4K 120 classe 10 300MB/s v90ll. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "UND",
-              "quantidade": "3,00",
-              "valor_referencia": "1.054,47"
-            }
-          ]
-        },
-        {
-          "numero": "3",
-          "titulo": "9900515064 Leitor de cartão USB:para SD +Tf. EXCLUSIVO PARA ME/EPP.",
-          "fase": "EM ADJUDICAÇÃO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "188,16",
-          "vencedor": "ROSA CAFE IMPORTS LTDA",
-          "melhor_oferta": "99,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900515064 Leitor de cartão USB:para SD +Tf. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "UND",
-              "quantidade": "3,00",
-              "valor_referencia": "62,72"
-            }
-          ]
-        },
-        {
-          "numero": "4",
-          "titulo": "9900515065 Fone de ouvido On-ear:anti ruido. Marca e modelo de referência: AKG K414. EXCLUSIVO PARA ME/EPP.",
-          "fase": "EM ADJUDICAÇÃO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "736,23",
-          "vencedor": "ROSA CAFE IMPORTS LTDA",
-          "melhor_oferta": "625,98",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900515065 Fone de ouvido On-ear:anti ruido. Marca e modelo de referência: AKG K414. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "UND",
-              "quantidade": "3,00",
-              "valor_referencia": "245,41"
-            }
-          ]
-        },
-        {
-          "numero": "5",
-          "titulo": "9900515066 Monitor:24 polegadas IPS FHD. EXCLUSIVO PARA ME/EPP.",
-          "fase": "EM ADJUDICAÇÃO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "3.104,95",
-          "vencedor": "J.C ASSEF COMERCIO LTDA",
-          "melhor_oferta": "3.100,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900515066 Monitor:24 polegadas IPS FHD. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "UND",
-              "quantidade": "5,00",
-              "valor_referencia": "620,99"
-            }
-          ]
-        },
-        {
-          "numero": "6",
-          "titulo": "9900515067 Suporte articulado:para monitor de mesa de 24 polegadas. EXCLUSIVO PARA ME/EPP.",
-          "fase": "EM ADJUDICAÇÃO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "504,00",
-          "vencedor": "ROSA CAFE IMPORTS LTDA",
-          "melhor_oferta": "369,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900515067 Suporte articulado:para monitor de mesa de 24 polegadas. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "UND",
-              "quantidade": "3,00",
-              "valor_referencia": "168,00"
-            }
-          ]
-        },
-        {
-          "numero": "7",
-          "titulo": "9900515068 Alto-falante:com 2 woofers e um par de tweeters, minimo de 15 horas de reprodução, resistente a respingos.Marca e modelo de referência: JBL Partybox Stage. EXCLUSIVO PARA ME/EPP.",
-          "fase": "EM ADJUDICAÇÃO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "7.399,34",
-          "vencedor": "ELIZETE APARECIDA PIMENTEL ME",
-          "melhor_oferta": "7.399,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900515068 Alto-falante:com 2 woofers e um par de tweeters, minimo de 15 horas de reprodução, resistente a respingos.Marca e modelo de referência: JBL Partybox Stage. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "UND",
-              "quantidade": "2,00",
-              "valor_referencia": "3.699,67"
-            }
-          ]
-        },
-        {
-          "numero": "8",
-          "titulo": "9900515069 Par de Microfone Sem fio:Minimo de 12 horas de reprodução, distancia de no minimo 20m. Marca e modelo de referência: JBL PartyBox Wireless Mic. EXCLUSIVO PARA ME/EPP.",
-          "fase": "EM ADJUDICAÇÃO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "2.548,59",
-          "vencedor": "TEIXEIRA INFORMÁTICA LTDA",
-          "melhor_oferta": "2.535,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900515069 Par de Microfone Sem fio:Minimo de 12 horas de reprodução, distancia de no minimo 20m. Marca e modelo de referência: JBL PartyBox Wireless Mic. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "PAR",
-              "quantidade": "3,00",
-              "valor_referencia": "849,53"
-            }
-          ]
-        },
-        {
-          "numero": "9",
-          "titulo": "9900515072 Bastão de led iluminação rgb, minimo de 25w de potencia, acessorios inclusos:estojo para transporte, fonte e tripé. Marca e modelo de referência: Sokani X25. EXCLUSIVO PARA ME/EPP.",
-          "fase": "FRACASSADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "1.919,07",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900515072 Bastão de led iluminação rgb, minimo de 25w de potencia, acessorios inclusos:estojo para transporte, fonte e tripé. Marca e modelo de referência: Sokani X25. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "UND",
-              "quantidade": "3,00",
-              "valor_referencia": "639,69"
-            }
-          ]
-        },
-        {
-          "numero": "10",
-          "titulo": "36471 Softbox:minimo de 90cm de diametro. Marca e modelo de referência: Triopo K2-90cm. EXCLUSIVO PARA ME/EPP.",
-          "fase": "FRACASSADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "2.779,85",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "36471 Softbox:minimo de 90cm de diametro. Marca e modelo de referência: Triopo K2-90cm. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "UND",
-              "quantidade": "5,00",
-              "valor_referencia": "555,97"
-            }
-          ]
-        },
-        {
-          "numero": "11",
-          "titulo": "9900515073 Case mochila:para equipamentos (mochila para transportar câmera), resistente a agua. EXCLUSIVO PARA ME/EPP.",
-          "fase": "FRACASSADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "1.083,75",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900515073 Case mochila:para equipamentos (mochila para transportar câmera), resistente a agua. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "UND",
-              "quantidade": "3,00",
-              "valor_referencia": "361,25"
-            }
-          ]
-        },
-        {
-          "numero": "12",
-          "titulo": "36472 Câmera Filmadora:Mirrorless Sony FX-30 - Corpo (01 unidade) + 2 Baterias. EXCLUSIVO PARA ME/EPP.",
-          "fase": "EM ADJUDICAÇÃO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "37.355,64",
-          "vencedor": "ELIZETE APARECIDA PIMENTEL ME",
-          "melhor_oferta": "35.400,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "36472 Câmera Filmadora:Mirrorless Sony FX-30 - Corpo (01 unidade) + 2 Baterias. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "UND",
-              "quantidade": "3,00",
-              "valor_referencia": "12.451,88"
-            }
-          ]
-        },
-        {
-          "numero": "13",
-          "titulo": "36473 Câmera:fotografica Z5-2 Nikon. EXCLUSIVO PARA ME/EPP.",
-          "fase": "FRACASSADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "40.924,89",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "36473 Câmera:fotografica Z5-2 Nikon. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "UND",
-              "quantidade": "3,00",
-              "valor_referencia": "13.641,63"
-            }
-          ]
-        },
-        {
-          "numero": "14",
-          "titulo": "36474 Lente:28-75 f2.8 Nikon LINHA Z. EXCLUSIVO PARA ME/EPP.",
-          "fase": "EM ADJUDICAÇÃO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "14.851,16",
-          "vencedor": "ELIZETE APARECIDA PIMENTEL ME",
-          "melhor_oferta": "13.500,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "36474 Lente:28-75 f2.8 Nikon LINHA Z. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "UND",
-              "quantidade": "2,00",
-              "valor_referencia": "7.425,58"
-            }
-          ]
-        },
-        {
-          "numero": "15",
-          "titulo": "36475 Lente:Tamron 17-70mm F/2.8 Di Iii-a Vc Rxd para câmeras Sony E-mount. EXCLUSIVO PARA ME/EPP.",
-          "fase": "EM ADJUDICAÇÃO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "15.971,19",
-          "vencedor": "ELIZETE APARECIDA PIMENTEL ME",
-          "melhor_oferta": "14.400,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "36475 Lente:Tamron 17-70mm F/2.8 Di Iii-a Vc Rxd para câmeras Sony E-mount. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "UND",
-              "quantidade": "3,00",
-              "valor_referencia": "5.323,73"
-            }
-          ]
-        },
-        {
-          "numero": "16",
-          "titulo": "9900830404 Filtro ND para Lente:Tonrom variavel 67mm ND3 - ND1000 / hd ultrafino. EXCLUSIVO PARA ME/EPP.",
-          "fase": "FRACASSADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "984,00",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900830404 Filtro ND para Lente:Tonrom variavel 67mm ND3 - ND1000 / hd ultrafino. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "UND",
-              "quantidade": "3,00",
-              "valor_referencia": "328,00"
-            }
-          ]
-        },
-        {
-          "numero": "17",
-          "titulo": "36476 Gimbal:para Câmeras DSLR e Mirrorless. Marca e modelo de referência: Scorp 2 ? FaiyuTech. EXCLUSIVO PARA ME/EPP.",
-          "fase": "EM ADJUDICAÇÃO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "7.090,62",
-          "vencedor": "VIH NEGOCIOS COMERCIO E SERVIÇOS LTDA",
-          "melhor_oferta": "6.600,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "36476 Gimbal:para Câmeras DSLR e Mirrorless. Marca e modelo de referência: Scorp 2 ? FaiyuTech. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "UND",
-              "quantidade": "3,00",
-              "valor_referencia": "2.363,54"
-            }
-          ]
-        },
-        {
-          "numero": "18",
-          "titulo": "9900830405 Estabilizador:dobravel e magnetico. Marca e modelo de referência: DJI Osmo Mobile SE. EXCLUSIVO PARA ME/EPP.",
-          "fase": "EM ADJUDICAÇÃO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "1.474,50",
-          "vencedor": "ELIZETE APARECIDA PIMENTEL ME",
-          "melhor_oferta": "1.399,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900830405 Estabilizador:dobravel e magnetico. Marca e modelo de referência: DJI Osmo Mobile SE. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "UND",
-              "quantidade": "2,00",
-              "valor_referencia": "737,25"
-            }
-          ]
-        },
-        {
-          "numero": "19",
-          "titulo": "9900830406 Gravador de Audio:Marca e modelo de referência:Taskam Dr 40X. EXCLUSIVO PARA ME/EPP.",
-          "fase": "EM ADJUDICAÇÃO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "3.332,68",
-          "vencedor": "VIH NEGOCIOS COMERCIO E SERVIÇOS LTDA",
-          "melhor_oferta": "3.150,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900830406 Gravador de Audio:Marca e modelo de referência:Taskam Dr 40X. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "UND",
-              "quantidade": "2,00",
-              "valor_referencia": "1.666,34"
-            }
-          ]
-        },
-        {
-          "numero": "20",
-          "titulo": "36477 Flash:Godox V860 Linha Z - Nikon. EXCLUSIVO PARA ME/EPP.",
-          "fase": "EM ADJUDICAÇÃO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "2.681,96",
-          "vencedor": "J.C ASSEF COMERCIO LTDA",
-          "melhor_oferta": "2.681,80",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "36477 Flash:Godox V860 Linha Z - Nikon. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "UND",
-              "quantidade": "2,00",
-              "valor_referencia": "1.340,98"
-            }
-          ]
-        },
-        {
-          "numero": "21",
-          "titulo": "9900830407 Tripé de aço inoxidável:2.6 dobravel, com suporte para luz: Cabeça Hidráulica. Marca e modelo de referência: Manfrotto Mt055xpro3 Mvh500ah. EXCLUSIVO PARA ME/EPP.",
-          "fase": "FRACASSADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "6.654,66",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900830407 Tripé de aço inoxidável:2.6 dobravel, com suporte para luz: Cabeça Hidráulica. Marca e modelo de referência: Manfrotto Mt055xpro3 Mvh500ah. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "UND",
-              "quantidade": "3,00",
-              "valor_referencia": "2.218,22"
-            }
-          ]
-        },
-        {
-          "numero": "22",
-          "titulo": "36478 MICROFONE SHOTGUN PROFISSIONAL C/CAPTAÇÃO DIRECIONAL:Padrão Polar Super Tipo de Captura ExtremoFaixa de Frequência 20Hz - 20kHz Impedância de Saída 200; Recursos:Sensibilidade -32,0dB re 1 Volt /+/- 2 dB @ 1kHz Nível de Ruído Equivalente (Pondera",
-          "fase": "FRACASSADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "5.266,74",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "36478 MICROFONE SHOTGUN PROFISSIONAL C/CAPTAÇÃO DIRECIONAL:Padrão Polar Super Tipo de Captura ExtremoFaixa de Frequência 20Hz - 20kHz Impedância de Saída 200; Recursos:Sensibilidade -32,0dB re 1 Volt /+/- 2 dB @ 1kHz Nível de Ruído Equivalente (Ponderado A) 16dBA Energia:Requisitos de Energia P12 P24 P48 Saída XLRConteúdo da embalagem:- 1 x NTG4- 1 x RM5- 1 x Windshield- 1 x ZP1 EXCLUSIVO PARA ME/EPP.",
-              "unidade": "UND",
-              "quantidade": "2,00",
-              "valor_referencia": "2.633,37"
-            }
-          ]
-        },
-        {
-          "numero": "23",
-          "titulo": "36479 Suporte:adaptador bowens para speedlight, cabeça redonda. EXCLUSIVO PARA ME/EPP.",
-          "fase": "EM ADJUDICAÇÃO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "676,08",
-          "vencedor": "J.C ASSEF COMERCIO LTDA",
-          "melhor_oferta": "676,05",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "36479 Suporte:adaptador bowens para speedlight, cabeça redonda. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "UND",
-              "quantidade": "3,00",
-              "valor_referencia": "225,36"
-            }
-          ]
-        },
-        {
-          "numero": "24",
-          "titulo": "9900830408 Smartphone:256gb, minimo de 48 megapixels 4K, minimo de 12 de ram. Marca e modelo de referência: Iphone 17 Pro Max ou S25 Ultra. EXCLUSIVO PARA ME/EPP.",
-          "fase": "EM ADJUDICAÇÃO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "22.182,00",
-          "vencedor": "ELIZETE APARECIDA PIMENTEL ME",
-          "melhor_oferta": "21.399,99",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900830408 Smartphone:256gb, minimo de 48 megapixels 4K, minimo de 12 de ram. Marca e modelo de referência: Iphone 17 Pro Max ou S25 Ultra. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "UND",
-              "quantidade": "3,00",
-              "valor_referencia": "7.394,00"
-            }
-          ]
-        },
-        {
-          "numero": "25",
-          "titulo": "36480 Rádio flash:Godox X nano X3 - n transmissor para Nikon. EXCLUSIVO PARA ME/EPP.",
-          "fase": "EM ADJUDICAÇÃO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "1.927,86",
-          "vencedor": "J.C ASSEF COMERCIO LTDA",
-          "melhor_oferta": "1.927,50",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "36480 Rádio flash:Godox X nano X3 - n transmissor para Nikon. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "UND",
-              "quantidade": "3,00",
-              "valor_referencia": "642,62"
-            }
-          ]
-        },
-        {
-          "numero": "26",
-          "titulo": "9900830410 Conjunto fundo Chroma Key:tripé + tecido 3x3m. EXCLUSIVO PARA ME/EPP.",
-          "fase": "EM ADJUDICAÇÃO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "1.012,48",
-          "vencedor": "ROSA CAFE IMPORTS LTDA",
-          "melhor_oferta": "750,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900830410 Conjunto fundo Chroma Key:tripé + tecido 3x3m. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "UND",
-              "quantidade": "2,00",
-              "valor_referencia": "506,24"
-            }
-          ]
-        },
-        {
-          "numero": "27",
-          "titulo": "9900830411 Drone DJI Avata Fly Smart Combo + DJI Goggles V2 4K Motion:ESPECIFICAÇÕES DO PRODUTO:- Tempo de voo: Até 18 minutos- Distância máxima de voo: Até 10 km (FCC)- Detecção de obstáculos: 1 direção: Inferior- Velocidade máxima: 97,2 km/h- Resis",
-          "fase": "CANCELADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "38.898,87",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900830411 Drone DJI Avata Fly Smart Combo + DJI Goggles V2 4K Motion:ESPECIFICAÇÕES DO PRODUTO:- Tempo de voo: Até 18 minutos- Distância máxima de voo: Até 10 km (FCC)- Detecção de obstáculos: 1 direção: Inferior- Velocidade máxima: 97,2 km/h- Resistência a vento: 38,5 km/h- Peso: 410 g- Câmera: 1/1.7? - Pixels efetivos: 48 MP- Resolução DJI FPV Goggles V2: 4K 50/60fps - 2.7K 50/60/100/120fps - 1080p 50/60/100/120fps- Abertura: f/2.8- Vídeo: Estabilizado em 4K- Estabilização avançada: HorizonSteady e RockSteady- Motion Controller- Peso: 167 g- Autonomia: 5h- Tempo de recarga: 2h30- Garantia de 24 meses contra defeito de fabricação INCLUSO:- 1 Drone DJI Avata; 1 DJI FPV Goggles V2;- 1 DJI Motion Controller,- 3 Baterias para DJI Avata; - 1 Hub de carregamento do DJI Avata;- 3 Pares de hélices;- 1 Adaptador de energia;- 1 Protetor do gimbal;- 1 Cabo tipo C;- 1 Chave de remoção dos parafusos;- 4 Parafusos (M2×7);- 1 Bateria para DJI FPV Goggles V2;- 1 Faixa de cabeça para DJI FPV Goggles V2;- 1 Cabo carregador para DJI FPV Goggles V2 (USB-C);- 4 Antenas para DJI FPV Goggles V2;- 1 Cabo USB-C DJI FPV Goggles V2;- 1 Cabo OTG para DJI FPV Goggles V2;- 1 Cordão. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "UND",
-              "quantidade": "3,00",
-              "valor_referencia": "12.966,29"
-            }
-          ]
-        },
-        {
-          "numero": "28",
-          "titulo": "36481 Rádio Comunicador:Rádio Comunicador na cor preta; mínimo de 30km de distância, mínimo de 16 canais; duas fontes de energia: a bateria recarregável ou pilhas AA; com presilha de cinto. EXCLUSIVO PARA ME/EPP.",
-          "fase": "EM ADJUDICAÇÃO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "7.019,12",
-          "vencedor": "INFOSHOP41 TELEINFORMÁTICA LTDA",
-          "melhor_oferta": "4.800,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "36481 Rádio Comunicador:Rádio Comunicador na cor preta; mínimo de 30km de distância, mínimo de 16 canais; duas fontes de energia: a bateria recarregável ou pilhas AA; com presilha de cinto. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "PAR",
-              "quantidade": "8,00",
-              "valor_referencia": "877,39"
-            }
-          ]
-        },
-        {
-          "numero": "29",
-          "titulo": "9900830429 Processador:Intel Core i7-14700 ou superior, soquete LGA1700, 20 núcleos físicos (8 Performance + 12 Efficient) e 28 threads, frequência turbo de no mínimo 5.4 GHz, cache L3 mínimo de 33 MB. EXCLUSIVO PARA ME/EPP.",
-          "fase": "FRACASSADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "7.315,62",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900830429 Processador:Intel Core i7-14700 ou superior, soquete LGA1700, 20 núcleos físicos (8 Performance + 12 Efficient) e 28 threads, frequência turbo de no mínimo 5.4 GHz, cache L3 mínimo de 33 MB. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "UND",
-              "quantidade": "3,00",
-              "valor_referencia": "2.438,54"
-            }
-          ]
-        },
-        {
-          "numero": "30",
-          "titulo": "9900830430 Air Cooler:TDP mínimo de 200W, com mínimo de 4 heatpipes, fabricado em cobre (base e heatpipe), aletas de resfriamento em alumínio, Velocidade Max de rotação 1200 RPM; compatível com soquete LGA1700. EXCLUSIVO PARA ME/EPP.",
-          "fase": "FRACASSADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "331,32",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900830430 Air Cooler:TDP mínimo de 200W, com mínimo de 4 heatpipes, fabricado em cobre (base e heatpipe), aletas de resfriamento em alumínio, Velocidade Max de rotação 1200 RPM; compatível com soquete LGA1700. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "UND",
-              "quantidade": "3,00",
-              "valor_referencia": "110,44"
-            }
-          ]
-        },
-        {
-          "numero": "31",
-          "titulo": "9900830431 Placa Gráfica (GPU):placa gráfica dedicada baseada em GPU NVIDIA GeForce RTX 5060 ou superior, com as seguintes características mínimas: 8 GB de memória de vídeo dedicada GDDR7, interface de 128 bits, largura de banda mínima de 448 GB/s; Barram",
-          "fase": "FRACASSADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "12.508,70",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900830431 Placa Gráfica (GPU):placa gráfica dedicada baseada em GPU NVIDIA GeForce RTX 5060 ou superior, com as seguintes características mínimas: 8 GB de memória de vídeo dedicada GDDR7, interface de 128 bits, largura de banda mínima de 448 GB/s; Barramento PCI-Express 5.0 (x8 ou x16), compatível com o slot PCI-Express x16; Suporte a ray tracing em tempo real e núcleos dedicados de IA (Tensor Cores) para aceleração de aplicações de criação de conteúdo e edição de vídeo; Mínimo de 4 saídas de vídeo digitais, sendo pelo menos 3 DisplayPort 2.1b e 1 HDMI 2.1b, com suporte a resolução 4K em alta taxa de atualização; Suporte simultâneo a, no mínimo, 4 monitores; Consumo máximo de energia de até 150 W, não exigindo mais do que 1 conector de alimentação PCIe 8 pinos (6+2) ou conector 12VHPWR equivalente; Total compatibilidade com os principais softwares de edição de vídeo profissionais (Adobe Premiere Pro, DaVinci Resolve, etc.), com aceleração por GPU. Observações: Não serão aceitas soluções baseadas em GPU de notebook (\"Mobile\", \"Laptop GPU\") ou modelos integrados/onboard. A contratada deverá informar, na proposta, marca, modelo exato e código do fabricante da placa gráfica ofertada, que deverá atender integralmente às especificações mínimas acima. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "UND",
-              "quantidade": "5,00",
-              "valor_referencia": "2.501,74"
-            }
-          ]
-        },
-        {
-          "numero": "32",
-          "titulo": "9900830432 Memória RAM:32 GB DDR5, em 2 módulos de 16 GB cada (dual channel), frequência efetiva mínima de 5600 MHz. Observação: Os dois módulos deverão ser da mesma marca e modelo. EXCLUSIVO PARA ME/EPP.",
-          "fase": "FRACASSADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "3.195,90",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900830432 Memória RAM:32 GB DDR5, em 2 módulos de 16 GB cada (dual channel), frequência efetiva mínima de 5600 MHz. Observação: Os dois módulos deverão ser da mesma marca e modelo. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "PAR",
-              "quantidade": "3,00",
-              "valor_referencia": "1.065,30"
-            }
-          ]
-        },
-        {
-          "numero": "33",
-          "titulo": "36664 Placa-mãe:placa-mãe padrão ATX, com chipset Intel  Z790 ou superior, soquete LGA1700, compatível nativamente com processadores Intel Core de 13ª e 14ª geração, com as seguintes características mínimas: Suporte a memória DDR5, com no mínimo 4 slots,",
-          "fase": "EM ADJUDICAÇÃO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "6.315,39",
-          "vencedor": "ROSA CAFE IMPORTS LTDA",
-          "melhor_oferta": "6.300,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "36664 Placa-mãe:placa-mãe padrão ATX, com chipset Intel Z790 ou superior, soquete LGA1700, compatível nativamente com processadores Intel Core de 13ª e 14ª geração, com as seguintes características mínimas: Suporte a memória DDR5, com no mínimo 4 slots, suportando, no mínimo, 128 GB de RAM e frequência efetiva mínima de 5600 MHz, ou superior, conforme documentação do fabricante; 1 slot PCI-Express x16 com padrão PCIe 5.0 para placa de vídeo dedicada; Mínimo de 3 slots M.2 PCI-Express NVMe, sendo ao menos 2 com interface PCIe 4.0 x4; Mínimo de 4 portas SATA III (6 Gb/s) para unidades adicionais de armazenamento; Controladora de rede Ethernet 10/100/1000 Mbps ou superior integrada; Controladora Wi-Fi 6 (802.11ax) ou superior e Bluetooth 5.2 ou superior integrados; Áudio integrado de alta definição (HD Audio), padrão 7.1 canais ou superior; Saída de vídeo integrada HDMI e/ou Display Port; Mínimo de 6 portas USB, sendo no mínimo, 2 USB 3.2 Gen 1 ou superior e 1 porta USB tipo C; BIOS/UEFI atualizável, com suporte a boot em modo UEFI e configuração por interface gráfica. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "UND",
-              "quantidade": "3,00",
-              "valor_referencia": "2.105,13"
-            }
-          ]
-        },
-        {
-          "numero": "34",
-          "titulo": "9900830433 SSD M.2 NVMe:com capacidade mínima de 1 TB, interface PCI-Express 4.0 x4, velocidade de leitura sequencial mínima de 3.500 MB/s e gravação sequencial mínima de 3.000 MB/s, com memória do tipo 3D NAND. EXCLUSIVO PARA ME/EPP.",
-          "fase": "FRACASSADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "3.867,96",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900830433 SSD M.2 NVMe:com capacidade mínima de 1 TB, interface PCI-Express 4.0 x4, velocidade de leitura sequencial mínima de 3.500 MB/s e gravação sequencial mínima de 3.000 MB/s, com memória do tipo 3D NAND. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "UND",
-              "quantidade": "6,00",
-              "valor_referencia": "644,66"
-            }
-          ]
-        },
-        {
-          "numero": "35",
-          "titulo": "9900830434 Fonte de alimentação:com potência mínima de 800W reais bivolt, certificação 80 Plus Bronze ou sistema de certificação equivalente ou superior, com PFC ativo, padrão ATX, com, no mínimo: 2 conector PCI-Express 8 pinos (6+2) para placa de vídeo;",
-          "fase": "EM ADJUDICAÇÃO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "1.266,00",
-          "vencedor": "TEIXEIRA INFORMÁTICA LTDA",
-          "melhor_oferta": "1.266,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900830434 Fonte de alimentação:com potência mínima de 800W reais bivolt, certificação 80 Plus Bronze ou sistema de certificação equivalente ou superior, com PFC ativo, padrão ATX, com, no mínimo: 2 conector PCI-Express 8 pinos (6+2) para placa de vídeo; 1 conector EPS 8 pinos para CPU; Proteções contra sobrecorrente (OCP), sobretensão (OVP), subtensão (UVP), curto-circuito (SCP) e sobretemperatura (OTP); EXCLUSIVO PARA ME/EPP.",
-              "unidade": "UND",
-              "quantidade": "3,00",
-              "valor_referencia": "422,00"
-            }
-          ]
-        },
-        {
-          "numero": "36",
-          "titulo": "9900830435 Gabinete:tipo torre (mid tower), com: Compatibilidade com placas-mãe ATX, micro-ATX e mini-ITX; Suporte para placas de vídeo de até, no mínimo, 320 mm de comprimento; Suporte para coolers de processador de até, no mínimo, 160 mm de altura; Míni",
-          "fase": "EM ADJUDICAÇÃO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "1.025,25",
-          "vencedor": "TEIXEIRA INFORMÁTICA LTDA",
-          "melhor_oferta": "870,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900830435 Gabinete:tipo torre (mid tower), com: Compatibilidade com placas-mãe ATX, micro-ATX e mini-ITX; Suporte para placas de vídeo de até, no mínimo, 320 mm de comprimento; Suporte para coolers de processador de até, no mínimo, 160 mm de altura; Mínimo de 4 ventoinhas de 120 mm instaladas (2 frontais, 1 traseira e 1 superior), com fluxo de ar otimizado; Painel frontal com, no mínimo, 2 portas USB (1 delas USB 3.0) e conectores P2 de áudio; Filtro de poeira removível. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "UND",
-              "quantidade": "3,00",
-              "valor_referencia": "341,75"
-            }
-          ]
-        },
-        {
-          "numero": "37",
-          "titulo": "36666 Fone de ouvido:tipo over-ear fechado (closed-back), faixa de resposta de frequência mínima de 18 Hz a 20.000 Hz, sensibilidade mínima de 98 dB SPL/V e impedância nominal entre 32 e 47 Ohms, potência máxima de entrada de pelo menos 200 mW, assegurand",
-          "fase": "EM ADJUDICAÇÃO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "4.276,53",
-          "vencedor": "J.C ASSEF COMERCIO LTDA",
-          "melhor_oferta": "4.276,35",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "36666 Fone de ouvido:tipo over-ear fechado (closed-back), faixa de resposta de frequência mínima de 18 Hz a 20.000 Hz, sensibilidade mínima de 98 dB SPL/V e impedância nominal entre 32 e 47 Ohms, potência máxima de entrada de pelo menos 200 mW, assegurando estabilidade mesmo em usos prolongados. As almofadas das conchas deverão ser confeccionadas em couro ou couro sintético, proporcionando conforto e durabilidade, com earpads substituíveis. Comprimento mínimo do cabo: 2,0 metros, podendo ser do tipo reto ou espiralado, desde que ofereça resistência e mobilidade adequadas ao uso profissional, conector P2 (3,5 mm) e deverá acompanhar adaptador para P10 (6,35 mm) ou padrão equivalente que permita a utilização em diferentes equipamentos. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "UND",
-              "quantidade": "9,00",
-              "valor_referencia": "475,17"
             }
           ]
         }
@@ -267202,6 +266294,914 @@
               "unidade": "UND",
               "quantidade": "250,00",
               "valor_referencia": "49,97"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-002-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "1474/2025",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "ADJUDICADO",
+      "condutor": "JONATAS DA SILVA SOUSA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "REGISTRO DE PREÇO",
+      "publicacao": "09/01/2026 11:54",
+      "inicio_recepcao": "13/01/2026 08:00",
+      "fim_recepcao": "23/01/2026 08:15",
+      "inicio_disputa": "23/01/2026 08:30",
+      "objeto": "Futura e eventual contratação de empresa especializada em fornecimento de PERIFÉRICOS DE INFORMÁTICA, EQUIPAMENTOS DE ILUMINAÇÃO, FILMAGEM, ÁUDIO E CELULAR (material de consumo) e (material permanente), a fim de atender as demandas da Secretaria Municipal de Educação.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DPWyoyAaIWqWq1a2_ixcWFKNZSrMBboEK9EsAuYHFrRmC5Gr9G5rYnNQmjtzJkSEZrv%2FMWkBH_EDDEBkQw%2FPTykHMM%2FHpA4kB7pVgtamN5uc%3D",
+      "total_lotes": 37,
+      "total_itens": 37,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "9900515062 Cartão SD:SD 128g, classe 10 200 MBS. EXCLUSIVO PARA ME/EPP.",
+          "fase": "FRACASSADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "1.089,12",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515062 Cartão SD:SD 128g, classe 10 200 MBS. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "6,00",
+              "valor_referencia": "181,52"
+            }
+          ]
+        },
+        {
+          "numero": "2",
+          "titulo": "9900515063 Cartão SD:128g 4K 120 classe 10 300MB/s v90ll. EXCLUSIVO PARA ME/EPP.",
+          "fase": "ADJUDICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "3.163,41",
+          "vencedor": "J.C ASSEF COMERCIO LTDA",
+          "melhor_oferta": "3.162,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515063 Cartão SD:128g 4K 120 classe 10 300MB/s v90ll. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "3,00",
+              "valor_referencia": "1.054,47"
+            }
+          ]
+        },
+        {
+          "numero": "3",
+          "titulo": "9900515064 Leitor de cartão USB:para SD +Tf. EXCLUSIVO PARA ME/EPP.",
+          "fase": "ADJUDICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "188,16",
+          "vencedor": "ROSA CAFE IMPORTS LTDA",
+          "melhor_oferta": "99,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515064 Leitor de cartão USB:para SD +Tf. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "3,00",
+              "valor_referencia": "62,72"
+            }
+          ]
+        },
+        {
+          "numero": "3",
+          "titulo": "9900515064 Leitor de cartão USB:para SD +Tf. EXCLUSIVO PARA ME/EPP.",
+          "fase": "ADJUDICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "188,16",
+          "vencedor": "ROSA CAFE IMPORTS LTDA",
+          "melhor_oferta": "99,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515064 Leitor de cartão USB:para SD +Tf. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "3,00",
+              "valor_referencia": "62,72"
+            }
+          ]
+        },
+        {
+          "numero": "4",
+          "titulo": "9900515065 Fone de ouvido On-ear:anti ruido. Marca e modelo de referência: AKG K414. EXCLUSIVO PARA ME/EPP.",
+          "fase": "ADJUDICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "736,23",
+          "vencedor": "ROSA CAFE IMPORTS LTDA",
+          "melhor_oferta": "625,98",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515065 Fone de ouvido On-ear:anti ruido. Marca e modelo de referência: AKG K414. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "3,00",
+              "valor_referencia": "245,41"
+            }
+          ]
+        },
+        {
+          "numero": "6",
+          "titulo": "9900515067 Suporte articulado:para monitor de mesa de 24 polegadas. EXCLUSIVO PARA ME/EPP.",
+          "fase": "ADJUDICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "504,00",
+          "vencedor": "ROSA CAFE IMPORTS LTDA",
+          "melhor_oferta": "369,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515067 Suporte articulado:para monitor de mesa de 24 polegadas. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "3,00",
+              "valor_referencia": "168,00"
+            }
+          ]
+        },
+        {
+          "numero": "6",
+          "titulo": "9900515067 Suporte articulado:para monitor de mesa de 24 polegadas. EXCLUSIVO PARA ME/EPP.",
+          "fase": "ADJUDICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "504,00",
+          "vencedor": "ROSA CAFE IMPORTS LTDA",
+          "melhor_oferta": "369,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515067 Suporte articulado:para monitor de mesa de 24 polegadas. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "3,00",
+              "valor_referencia": "168,00"
+            }
+          ]
+        },
+        {
+          "numero": "5",
+          "titulo": "9900515066 Monitor:24 polegadas IPS FHD. EXCLUSIVO PARA ME/EPP.",
+          "fase": "ADJUDICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "3.104,95",
+          "vencedor": "J.C ASSEF COMERCIO LTDA",
+          "melhor_oferta": "3.100,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515066 Monitor:24 polegadas IPS FHD. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "5,00",
+              "valor_referencia": "620,99"
+            }
+          ]
+        },
+        {
+          "numero": "7",
+          "titulo": "9900515068 Alto-falante:com 2 woofers e um par de tweeters, minimo de 15 horas de reprodução, resistente a respingos.Marca e modelo de referência: JBL Partybox Stage. EXCLUSIVO PARA ME/EPP.",
+          "fase": "ADJUDICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "7.399,34",
+          "vencedor": "ELIZETE APARECIDA PIMENTEL ME",
+          "melhor_oferta": "7.399,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515068 Alto-falante:com 2 woofers e um par de tweeters, minimo de 15 horas de reprodução, resistente a respingos.Marca e modelo de referência: JBL Partybox Stage. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "2,00",
+              "valor_referencia": "3.699,67"
+            }
+          ]
+        },
+        {
+          "numero": "10",
+          "titulo": "36471 Softbox:minimo de 90cm de diametro. Marca e modelo de referência: Triopo K2-90cm. EXCLUSIVO PARA ME/EPP.",
+          "fase": "FRACASSADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "2.779,85",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "36471 Softbox:minimo de 90cm de diametro. Marca e modelo de referência: Triopo K2-90cm. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "5,00",
+              "valor_referencia": "555,97"
+            }
+          ]
+        },
+        {
+          "numero": "11",
+          "titulo": "9900515073 Case mochila:para equipamentos (mochila para transportar câmera), resistente a agua. EXCLUSIVO PARA ME/EPP.",
+          "fase": "FRACASSADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "1.083,75",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515073 Case mochila:para equipamentos (mochila para transportar câmera), resistente a agua. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "3,00",
+              "valor_referencia": "361,25"
+            }
+          ]
+        },
+        {
+          "numero": "12",
+          "titulo": "36472 Câmera Filmadora:Mirrorless Sony FX-30 - Corpo (01 unidade) + 2 Baterias. EXCLUSIVO PARA ME/EPP.",
+          "fase": "ADJUDICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "37.355,64",
+          "vencedor": "ELIZETE APARECIDA PIMENTEL ME",
+          "melhor_oferta": "35.400,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "36472 Câmera Filmadora:Mirrorless Sony FX-30 - Corpo (01 unidade) + 2 Baterias. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "3,00",
+              "valor_referencia": "12.451,88"
+            }
+          ]
+        },
+        {
+          "numero": "13",
+          "titulo": "36473 Câmera:fotografica Z5-2 Nikon. EXCLUSIVO PARA ME/EPP.",
+          "fase": "FRACASSADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "40.924,89",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "36473 Câmera:fotografica Z5-2 Nikon. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "3,00",
+              "valor_referencia": "13.641,63"
+            }
+          ]
+        },
+        {
+          "numero": "14",
+          "titulo": "36474 Lente:28-75 f2.8 Nikon LINHA Z. EXCLUSIVO PARA ME/EPP.",
+          "fase": "ADJUDICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "14.851,16",
+          "vencedor": "ELIZETE APARECIDA PIMENTEL ME",
+          "melhor_oferta": "13.500,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "36474 Lente:28-75 f2.8 Nikon LINHA Z. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "2,00",
+              "valor_referencia": "7.425,58"
+            }
+          ]
+        },
+        {
+          "numero": "15",
+          "titulo": "36475 Lente:Tamron 17-70mm F/2.8 Di Iii-a Vc Rxd para câmeras Sony E-mount. EXCLUSIVO PARA ME/EPP.",
+          "fase": "ADJUDICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "15.971,19",
+          "vencedor": "ELIZETE APARECIDA PIMENTEL ME",
+          "melhor_oferta": "14.400,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "36475 Lente:Tamron 17-70mm F/2.8 Di Iii-a Vc Rxd para câmeras Sony E-mount. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "3,00",
+              "valor_referencia": "5.323,73"
+            }
+          ]
+        },
+        {
+          "numero": "16",
+          "titulo": "9900830404 Filtro ND para Lente:Tonrom variavel 67mm ND3 - ND1000 / hd ultrafino. EXCLUSIVO PARA ME/EPP.",
+          "fase": "FRACASSADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "984,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900830404 Filtro ND para Lente:Tonrom variavel 67mm ND3 - ND1000 / hd ultrafino. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "3,00",
+              "valor_referencia": "328,00"
+            }
+          ]
+        },
+        {
+          "numero": "16",
+          "titulo": "9900830404 Filtro ND para Lente:Tonrom variavel 67mm ND3 - ND1000 / hd ultrafino. EXCLUSIVO PARA ME/EPP.",
+          "fase": "FRACASSADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "984,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900830404 Filtro ND para Lente:Tonrom variavel 67mm ND3 - ND1000 / hd ultrafino. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "3,00",
+              "valor_referencia": "328,00"
+            }
+          ]
+        },
+        {
+          "numero": "16",
+          "titulo": "9900830404 Filtro ND para Lente:Tonrom variavel 67mm ND3 - ND1000 / hd ultrafino. EXCLUSIVO PARA ME/EPP.",
+          "fase": "FRACASSADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "984,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900830404 Filtro ND para Lente:Tonrom variavel 67mm ND3 - ND1000 / hd ultrafino. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "3,00",
+              "valor_referencia": "328,00"
+            }
+          ]
+        },
+        {
+          "numero": "18",
+          "titulo": "9900830405 Estabilizador:dobravel e magnetico. Marca e modelo de referência: DJI Osmo Mobile SE. EXCLUSIVO PARA ME/EPP.",
+          "fase": "ADJUDICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "1.474,50",
+          "vencedor": "ELIZETE APARECIDA PIMENTEL ME",
+          "melhor_oferta": "1.399,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900830405 Estabilizador:dobravel e magnetico. Marca e modelo de referência: DJI Osmo Mobile SE. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "2,00",
+              "valor_referencia": "737,25"
+            }
+          ]
+        },
+        {
+          "numero": "20",
+          "titulo": "36477 Flash:Godox V860 Linha Z - Nikon. EXCLUSIVO PARA ME/EPP.",
+          "fase": "ADJUDICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "2.681,96",
+          "vencedor": "J.C ASSEF COMERCIO LTDA",
+          "melhor_oferta": "2.681,80",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "36477 Flash:Godox V860 Linha Z - Nikon. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "2,00",
+              "valor_referencia": "1.340,98"
+            }
+          ]
+        },
+        {
+          "numero": "21",
+          "titulo": "9900830407 Tripé de aço inoxidável:2.6 dobravel, com suporte para luz: Cabeça Hidráulica. Marca e modelo de referência: Manfrotto Mt055xpro3 Mvh500ah. EXCLUSIVO PARA ME/EPP.",
+          "fase": "FRACASSADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "6.654,66",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900830407 Tripé de aço inoxidável:2.6 dobravel, com suporte para luz: Cabeça Hidráulica. Marca e modelo de referência: Manfrotto Mt055xpro3 Mvh500ah. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "3,00",
+              "valor_referencia": "2.218,22"
+            }
+          ]
+        },
+        {
+          "numero": "22",
+          "titulo": "36478 MICROFONE SHOTGUN PROFISSIONAL C/CAPTAÇÃO DIRECIONAL:Padrão Polar Super Tipo de Captura ExtremoFaixa de Frequência 20Hz - 20kHz Impedância de Saída 200; Recursos:Sensibilidade -32,0dB re 1 Volt /+/- 2 dB @ 1kHz Nível de Ruído Equivalente (Pondera",
+          "fase": "FRACASSADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "5.266,74",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "36478 MICROFONE SHOTGUN PROFISSIONAL C/CAPTAÇÃO DIRECIONAL:Padrão Polar Super Tipo de Captura ExtremoFaixa de Frequência 20Hz - 20kHz Impedância de Saída 200; Recursos:Sensibilidade -32,0dB re 1 Volt /+/- 2 dB @ 1kHz Nível de Ruído Equivalente (Ponderado A) 16dBA Energia:Requisitos de Energia P12 P24 P48 Saída XLRConteúdo da embalagem:- 1 x NTG4- 1 x RM5- 1 x Windshield- 1 x ZP1 EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "2,00",
+              "valor_referencia": "2.633,37"
+            }
+          ]
+        },
+        {
+          "numero": "23",
+          "titulo": "36479 Suporte:adaptador bowens para speedlight, cabeça redonda. EXCLUSIVO PARA ME/EPP.",
+          "fase": "ADJUDICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "676,08",
+          "vencedor": "J.C ASSEF COMERCIO LTDA",
+          "melhor_oferta": "676,05",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "36479 Suporte:adaptador bowens para speedlight, cabeça redonda. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "3,00",
+              "valor_referencia": "225,36"
+            }
+          ]
+        },
+        {
+          "numero": "23",
+          "titulo": "36479 Suporte:adaptador bowens para speedlight, cabeça redonda. EXCLUSIVO PARA ME/EPP.",
+          "fase": "ADJUDICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "676,08",
+          "vencedor": "J.C ASSEF COMERCIO LTDA",
+          "melhor_oferta": "676,05",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "36479 Suporte:adaptador bowens para speedlight, cabeça redonda. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "3,00",
+              "valor_referencia": "225,36"
+            }
+          ]
+        },
+        {
+          "numero": "24",
+          "titulo": "9900830408 Smartphone:256gb, minimo de 48 megapixels 4K, minimo de 12 de ram. Marca e modelo de referência: Iphone 17 Pro Max ou S25 Ultra. EXCLUSIVO PARA ME/EPP.",
+          "fase": "ADJUDICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "22.182,00",
+          "vencedor": "ELIZETE APARECIDA PIMENTEL ME",
+          "melhor_oferta": "21.399,99",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900830408 Smartphone:256gb, minimo de 48 megapixels 4K, minimo de 12 de ram. Marca e modelo de referência: Iphone 17 Pro Max ou S25 Ultra. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "3,00",
+              "valor_referencia": "7.394,00"
+            }
+          ]
+        },
+        {
+          "numero": "26",
+          "titulo": "9900830410 Conjunto fundo Chroma Key:tripé + tecido 3x3m. EXCLUSIVO PARA ME/EPP.",
+          "fase": "ADJUDICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "1.012,48",
+          "vencedor": "ROSA CAFE IMPORTS LTDA",
+          "melhor_oferta": "750,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900830410 Conjunto fundo Chroma Key:tripé + tecido 3x3m. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "2,00",
+              "valor_referencia": "506,24"
+            }
+          ]
+        },
+        {
+          "numero": "27",
+          "titulo": "9900830411 Drone DJI Avata Fly Smart Combo + DJI Goggles V2 4K Motion:ESPECIFICAÇÕES DO PRODUTO:- Tempo de voo: Até 18 minutos- Distância máxima de voo: Até 10 km (FCC)- Detecção de obstáculos: 1 direção: Inferior- Velocidade máxima: 97,2 km/h- Resis",
+          "fase": "CANCELADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "38.898,87",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900830411 Drone DJI Avata Fly Smart Combo + DJI Goggles V2 4K Motion:ESPECIFICAÇÕES DO PRODUTO:- Tempo de voo: Até 18 minutos- Distância máxima de voo: Até 10 km (FCC)- Detecção de obstáculos: 1 direção: Inferior- Velocidade máxima: 97,2 km/h- Resistência a vento: 38,5 km/h- Peso: 410 g- Câmera: 1/1.7? - Pixels efetivos: 48 MP- Resolução DJI FPV Goggles V2: 4K 50/60fps - 2.7K 50/60/100/120fps - 1080p 50/60/100/120fps- Abertura: f/2.8- Vídeo: Estabilizado em 4K- Estabilização avançada: HorizonSteady e RockSteady- Motion Controller- Peso: 167 g- Autonomia: 5h- Tempo de recarga: 2h30- Garantia de 24 meses contra defeito de fabricação INCLUSO:- 1 Drone DJI Avata; 1 DJI FPV Goggles V2;- 1 DJI Motion Controller,- 3 Baterias para DJI Avata; - 1 Hub de carregamento do DJI Avata;- 3 Pares de hélices;- 1 Adaptador de energia;- 1 Protetor do gimbal;- 1 Cabo tipo C;- 1 Chave de remoção dos parafusos;- 4 Parafusos (M2×7);- 1 Bateria para DJI FPV Goggles V2;- 1 Faixa de cabeça para DJI FPV Goggles V2;- 1 Cabo carregador para DJI FPV Goggles V2 (USB-C);- 4 Antenas para DJI FPV Goggles V2;- 1 Cabo USB-C DJI FPV Goggles V2;- 1 Cabo OTG para DJI FPV Goggles V2;- 1 Cordão. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "3,00",
+              "valor_referencia": "12.966,29"
+            }
+          ]
+        },
+        {
+          "numero": "28",
+          "titulo": "36481 Rádio Comunicador:Rádio Comunicador na cor preta; mínimo de 30km de distância, mínimo de 16 canais; duas fontes de energia: a bateria recarregável ou pilhas AA; com presilha de cinto. EXCLUSIVO PARA ME/EPP.",
+          "fase": "ADJUDICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "7.019,12",
+          "vencedor": "INFOSHOP41 TELEINFORMÁTICA LTDA",
+          "melhor_oferta": "4.800,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "36481 Rádio Comunicador:Rádio Comunicador na cor preta; mínimo de 30km de distância, mínimo de 16 canais; duas fontes de energia: a bateria recarregável ou pilhas AA; com presilha de cinto. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "PAR",
+              "quantidade": "8,00",
+              "valor_referencia": "877,39"
+            }
+          ]
+        },
+        {
+          "numero": "29",
+          "titulo": "9900830429 Processador:Intel Core i7-14700 ou superior, soquete LGA1700, 20 núcleos físicos (8 Performance + 12 Efficient) e 28 threads, frequência turbo de no mínimo 5.4 GHz, cache L3 mínimo de 33 MB. EXCLUSIVO PARA ME/EPP.",
+          "fase": "FRACASSADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "7.315,62",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900830429 Processador:Intel Core i7-14700 ou superior, soquete LGA1700, 20 núcleos físicos (8 Performance + 12 Efficient) e 28 threads, frequência turbo de no mínimo 5.4 GHz, cache L3 mínimo de 33 MB. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "3,00",
+              "valor_referencia": "2.438,54"
+            }
+          ]
+        },
+        {
+          "numero": "30",
+          "titulo": "9900830430 Air Cooler:TDP mínimo de 200W, com mínimo de 4 heatpipes, fabricado em cobre (base e heatpipe), aletas de resfriamento em alumínio, Velocidade Max de rotação 1200 RPM; compatível com soquete LGA1700. EXCLUSIVO PARA ME/EPP.",
+          "fase": "FRACASSADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "331,32",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900830430 Air Cooler:TDP mínimo de 200W, com mínimo de 4 heatpipes, fabricado em cobre (base e heatpipe), aletas de resfriamento em alumínio, Velocidade Max de rotação 1200 RPM; compatível com soquete LGA1700. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "3,00",
+              "valor_referencia": "110,44"
+            }
+          ]
+        },
+        {
+          "numero": "31",
+          "titulo": "9900830431 Placa Gráfica (GPU):placa gráfica dedicada baseada em GPU NVIDIA GeForce RTX 5060 ou superior, com as seguintes características mínimas: 8 GB de memória de vídeo dedicada GDDR7, interface de 128 bits, largura de banda mínima de 448 GB/s; Barram",
+          "fase": "FRACASSADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "12.508,70",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900830431 Placa Gráfica (GPU):placa gráfica dedicada baseada em GPU NVIDIA GeForce RTX 5060 ou superior, com as seguintes características mínimas: 8 GB de memória de vídeo dedicada GDDR7, interface de 128 bits, largura de banda mínima de 448 GB/s; Barramento PCI-Express 5.0 (x8 ou x16), compatível com o slot PCI-Express x16; Suporte a ray tracing em tempo real e núcleos dedicados de IA (Tensor Cores) para aceleração de aplicações de criação de conteúdo e edição de vídeo; Mínimo de 4 saídas de vídeo digitais, sendo pelo menos 3 DisplayPort 2.1b e 1 HDMI 2.1b, com suporte a resolução 4K em alta taxa de atualização; Suporte simultâneo a, no mínimo, 4 monitores; Consumo máximo de energia de até 150 W, não exigindo mais do que 1 conector de alimentação PCIe 8 pinos (6+2) ou conector 12VHPWR equivalente; Total compatibilidade com os principais softwares de edição de vídeo profissionais (Adobe Premiere Pro, DaVinci Resolve, etc.), com aceleração por GPU. Observações: Não serão aceitas soluções baseadas em GPU de notebook (\"Mobile\", \"Laptop GPU\") ou modelos integrados/onboard. A contratada deverá informar, na proposta, marca, modelo exato e código do fabricante da placa gráfica ofertada, que deverá atender integralmente às especificações mínimas acima. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "5,00",
+              "valor_referencia": "2.501,74"
+            }
+          ]
+        },
+        {
+          "numero": "32",
+          "titulo": "9900830432 Memória RAM:32 GB DDR5, em 2 módulos de 16 GB cada (dual channel), frequência efetiva mínima de 5600 MHz. Observação: Os dois módulos deverão ser da mesma marca e modelo. EXCLUSIVO PARA ME/EPP.",
+          "fase": "FRACASSADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "3.195,90",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900830432 Memória RAM:32 GB DDR5, em 2 módulos de 16 GB cada (dual channel), frequência efetiva mínima de 5600 MHz. Observação: Os dois módulos deverão ser da mesma marca e modelo. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "PAR",
+              "quantidade": "3,00",
+              "valor_referencia": "1.065,30"
+            }
+          ]
+        },
+        {
+          "numero": "33",
+          "titulo": "36664 Placa-mãe:placa-mãe padrão ATX, com chipset Intel  Z790 ou superior, soquete LGA1700, compatível nativamente com processadores Intel Core de 13ª e 14ª geração, com as seguintes características mínimas: Suporte a memória DDR5, com no mínimo 4 slots,",
+          "fase": "ADJUDICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "6.315,39",
+          "vencedor": "ROSA CAFE IMPORTS LTDA",
+          "melhor_oferta": "6.300,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "36664 Placa-mãe:placa-mãe padrão ATX, com chipset Intel Z790 ou superior, soquete LGA1700, compatível nativamente com processadores Intel Core de 13ª e 14ª geração, com as seguintes características mínimas: Suporte a memória DDR5, com no mínimo 4 slots, suportando, no mínimo, 128 GB de RAM e frequência efetiva mínima de 5600 MHz, ou superior, conforme documentação do fabricante; 1 slot PCI-Express x16 com padrão PCIe 5.0 para placa de vídeo dedicada; Mínimo de 3 slots M.2 PCI-Express NVMe, sendo ao menos 2 com interface PCIe 4.0 x4; Mínimo de 4 portas SATA III (6 Gb/s) para unidades adicionais de armazenamento; Controladora de rede Ethernet 10/100/1000 Mbps ou superior integrada; Controladora Wi-Fi 6 (802.11ax) ou superior e Bluetooth 5.2 ou superior integrados; Áudio integrado de alta definição (HD Audio), padrão 7.1 canais ou superior; Saída de vídeo integrada HDMI e/ou Display Port; Mínimo de 6 portas USB, sendo no mínimo, 2 USB 3.2 Gen 1 ou superior e 1 porta USB tipo C; BIOS/UEFI atualizável, com suporte a boot em modo UEFI e configuração por interface gráfica. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "3,00",
+              "valor_referencia": "2.105,13"
+            }
+          ]
+        },
+        {
+          "numero": "34",
+          "titulo": "9900830433 SSD M.2 NVMe:com capacidade mínima de 1 TB, interface PCI-Express 4.0 x4, velocidade de leitura sequencial mínima de 3.500 MB/s e gravação sequencial mínima de 3.000 MB/s, com memória do tipo 3D NAND. EXCLUSIVO PARA ME/EPP.",
+          "fase": "FRACASSADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "3.867,96",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900830433 SSD M.2 NVMe:com capacidade mínima de 1 TB, interface PCI-Express 4.0 x4, velocidade de leitura sequencial mínima de 3.500 MB/s e gravação sequencial mínima de 3.000 MB/s, com memória do tipo 3D NAND. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "6,00",
+              "valor_referencia": "644,66"
+            }
+          ]
+        },
+        {
+          "numero": "35",
+          "titulo": "9900830434 Fonte de alimentação:com potência mínima de 800W reais bivolt, certificação 80 Plus Bronze ou sistema de certificação equivalente ou superior, com PFC ativo, padrão ATX, com, no mínimo: 2 conector PCI-Express 8 pinos (6+2) para placa de vídeo;",
+          "fase": "ADJUDICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "1.266,00",
+          "vencedor": "TEIXEIRA INFORMÁTICA LTDA",
+          "melhor_oferta": "1.266,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900830434 Fonte de alimentação:com potência mínima de 800W reais bivolt, certificação 80 Plus Bronze ou sistema de certificação equivalente ou superior, com PFC ativo, padrão ATX, com, no mínimo: 2 conector PCI-Express 8 pinos (6+2) para placa de vídeo; 1 conector EPS 8 pinos para CPU; Proteções contra sobrecorrente (OCP), sobretensão (OVP), subtensão (UVP), curto-circuito (SCP) e sobretemperatura (OTP); EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "3,00",
+              "valor_referencia": "422,00"
+            }
+          ]
+        },
+        {
+          "numero": "36",
+          "titulo": "9900830435 Gabinete:tipo torre (mid tower), com: Compatibilidade com placas-mãe ATX, micro-ATX e mini-ITX; Suporte para placas de vídeo de até, no mínimo, 320 mm de comprimento; Suporte para coolers de processador de até, no mínimo, 160 mm de altura; Míni",
+          "fase": "ADJUDICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "1.025,25",
+          "vencedor": "TEIXEIRA INFORMÁTICA LTDA",
+          "melhor_oferta": "870,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900830435 Gabinete:tipo torre (mid tower), com: Compatibilidade com placas-mãe ATX, micro-ATX e mini-ITX; Suporte para placas de vídeo de até, no mínimo, 320 mm de comprimento; Suporte para coolers de processador de até, no mínimo, 160 mm de altura; Mínimo de 4 ventoinhas de 120 mm instaladas (2 frontais, 1 traseira e 1 superior), com fluxo de ar otimizado; Painel frontal com, no mínimo, 2 portas USB (1 delas USB 3.0) e conectores P2 de áudio; Filtro de poeira removível. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "3,00",
+              "valor_referencia": "341,75"
+            }
+          ]
+        },
+        {
+          "numero": "37",
+          "titulo": "36666 Fone de ouvido:tipo over-ear fechado (closed-back), faixa de resposta de frequência mínima de 18 Hz a 20.000 Hz, sensibilidade mínima de 98 dB SPL/V e impedância nominal entre 32 e 47 Ohms, potência máxima de entrada de pelo menos 200 mW, assegurand",
+          "fase": "ADJUDICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "4.276,53",
+          "vencedor": "J.C ASSEF COMERCIO LTDA",
+          "melhor_oferta": "4.276,35",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "36666 Fone de ouvido:tipo over-ear fechado (closed-back), faixa de resposta de frequência mínima de 18 Hz a 20.000 Hz, sensibilidade mínima de 98 dB SPL/V e impedância nominal entre 32 e 47 Ohms, potência máxima de entrada de pelo menos 200 mW, assegurando estabilidade mesmo em usos prolongados. As almofadas das conchas deverão ser confeccionadas em couro ou couro sintético, proporcionando conforto e durabilidade, com earpads substituíveis. Comprimento mínimo do cabo: 2,0 metros, podendo ser do tipo reto ou espiralado, desde que ofereça resistência e mobilidade adequadas ao uso profissional, conector P2 (3,5 mm) e deverá acompanhar adaptador para P10 (6,35 mm) ou padrão equivalente que permita a utilização em diferentes equipamentos. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "9,00",
+              "valor_referencia": "475,17"
             }
           ]
         }
