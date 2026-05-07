@@ -4,7 +4,7 @@
     "total_processos": 777,
     "total_lotes": 8693,
     "total_itens": 14869,
-    "atualizado_em": "20260506_193509"
+    "atualizado_em": "20260507_193504"
   },
   "processos": [
     {
@@ -9926,155 +9926,6 @@
               "unidade": "m2.",
               "quantidade": "1.200,00",
               "valor_referencia": "35,84"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "CE-022-2025",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "1512/2025",
-      "modalidade": "CONCORRÊNCIA ELETRÔNICA",
-      "situacao": "HABILITAÇÃO",
-      "condutor": "DAVIDSON ARAUJO SANTOS",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO PARCELADA",
-      "publicacao": "27/11/2025 17:08",
-      "inicio_recepcao": "28/11/2025 08:00",
-      "fim_recepcao": "06/01/2026 09:15",
-      "inicio_disputa": "06/01/2026 09:30",
-      "objeto": "Contratação de empresa especializada em execução de obras de construção para ampliação da Escola Municipal Professora Marcela Nolasco Venezia, localizada no bairro Redenção, do município de Teixeira de Freitas – BA.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DOv0764SV3VaYVd%2FGOrJi7sTtoH3biCXbX7P3fH_6GQrt8yAGc21_%2FfnReOyVMrIK6MejJKkfy5QADTzMGH7OJJpdDbjoktQlieC_q0J7dWU%3D",
-      "total_lotes": 1,
-      "total_itens": 16,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "EXECUÇÃO DE OBRAS DE CONSTRUÇÃO PARA AMPLIAÇÃO DA ESCOLA MUNICIPAL PROFESSORA MARCELA NOLASCO VENEZIA, LOCALIZADA NO BAIRRO REDENÇÃO",
-          "fase": "INTERPOSIÇÃO DE RECURSOS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "100,00",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "541.757,88",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 16,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "SERVIÇOS PRELIMINARES",
-              "unidade": "SERVIÇO",
-              "quantidade": "1,00",
-              "valor_referencia": "48.465,19"
-            },
-            {
-              "numero": "2",
-              "especificacao": "MOVIMENTAÇÃO DE TERRA",
-              "unidade": "SERVIÇO",
-              "quantidade": "1,00",
-              "valor_referencia": "2.296,75"
-            },
-            {
-              "numero": "3",
-              "especificacao": "INFRAESTRUTURA",
-              "unidade": "SERVIÇO",
-              "quantidade": "1,00",
-              "valor_referencia": "26.917,73"
-            },
-            {
-              "numero": "4",
-              "especificacao": "SUPERESTRUTURA",
-              "unidade": "SERVIÇO",
-              "quantidade": "1,00",
-              "valor_referencia": "47.177,67"
-            },
-            {
-              "numero": "5",
-              "especificacao": "ALVENARIA",
-              "unidade": "SERVIÇO",
-              "quantidade": "1,00",
-              "valor_referencia": "14.387,96"
-            },
-            {
-              "numero": "6",
-              "especificacao": "SISTEMAS DE COBERTURA",
-              "unidade": "SERVIÇO",
-              "quantidade": "1,00",
-              "valor_referencia": "53.465,35"
-            },
-            {
-              "numero": "7",
-              "especificacao": "REVESTIMENTO",
-              "unidade": "SERVIÇO",
-              "quantidade": "1,00",
-              "valor_referencia": "9.299,92"
-            },
-            {
-              "numero": "8",
-              "especificacao": "ESQUADRIAS",
-              "unidade": "SERVIÇO",
-              "quantidade": "1,00",
-              "valor_referencia": "15.277,57"
-            },
-            {
-              "numero": "9",
-              "especificacao": "PAVIMENTAÇÃO (PISOS)",
-              "unidade": "SERVIÇO",
-              "quantidade": "1,00",
-              "valor_referencia": "142.218,70"
-            },
-            {
-              "numero": "10",
-              "especificacao": "PINTURA",
-              "unidade": "SERVIÇO",
-              "quantidade": "1,00",
-              "valor_referencia": "55.695,17"
-            },
-            {
-              "numero": "11",
-              "especificacao": "INSTALAÇÕES HIDROSSANITÁRIAS",
-              "unidade": "SERVIÇO",
-              "quantidade": "1,00",
-              "valor_referencia": "8.592,60"
-            },
-            {
-              "numero": "12",
-              "especificacao": "DRENAGEM",
-              "unidade": "SERVIÇO",
-              "quantidade": "1,00",
-              "valor_referencia": "43.752,76"
-            },
-            {
-              "numero": "13",
-              "especificacao": "INSTALAÇÕES ELÉTRICAS",
-              "unidade": "SERVIÇO",
-              "quantidade": "1,00",
-              "valor_referencia": "16.619,52"
-            },
-            {
-              "numero": "14",
-              "especificacao": "SISTEMA DE PROTEÇÃO CONTRA DESCARGAS ATMOSFÉRICAS (SPDA)",
-              "unidade": "SERVIÇO",
-              "quantidade": "1,00",
-              "valor_referencia": "16.195,34"
-            },
-            {
-              "numero": "15",
-              "especificacao": "SERVIÇOS COMPLEMENTARES",
-              "unidade": "SERVIÇO",
-              "quantidade": "1,00",
-              "valor_referencia": "37.645,61"
-            },
-            {
-              "numero": "16",
-              "especificacao": "SERVIÇOS FINAIS",
-              "unidade": "SERVIÇO",
-              "quantidade": "1,00",
-              "valor_referencia": "3.750,04"
             }
           ]
         }
@@ -263917,50 +263768,6 @@
       ]
     },
     {
-      "id": "PE-073-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "202 / 2026",
-      "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "PUBLICADO",
-      "condutor": "SERGIO CARNEIRO CAVALCANTI DE AZEVEDO",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO",
-      "publicacao": "05/05/2026 13:34",
-      "inicio_recepcao": "07/05/2026 08:30",
-      "fim_recepcao": "19/05/2026 08:15",
-      "inicio_disputa": "19/05/2026 08:30",
-      "objeto": "Contratação de empresa especializada em fornecimento de VEÍCULOS TIPO PICAPE CABINE DUPLA (bens permanentes), a fim de atender as demandas da Secretaria Municipal de Educação.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5D4bM9vSEZQowwQiVECPdKLeNG3ZSFhcMOeGGN_36v1s8DpOv%2FDBXaqrpw7D74NaqB9ZWqOal4HbWbg13jJija06rJy3KfpJVUEwdQNRkBSmE%3D",
-      "total_lotes": 1,
-      "total_itens": 1,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "VEICULOS TIPO PICAPE",
-          "fase": "PUBLICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "73973900009 Veículo automotor zero quilômetro, tipo picapeleve/compacta:com cabine dupla, 4 portas, capacidade para 5(cinco) ocupantes incluindo o motorista. Ano defabricação/modelo 2026, combustível tipo flex (álcool/gasolina),motorização mínima de 1.3L (ou superior), potência mínima107cv. Tração 4x2, câmbio manual ou automático, com, nomínimo, 5 (cinco) marchas à frente (ou conforme tecnologiadisponível em câmbio automático), visando melhor desempenho,segurança e economia de combustível. Veículo dotado dedireção com assistência elétrica, sistema de freios com ABS eEBD (ou equivalente), airbag frontal para motorista e passageiro,cintos de segurança de 3 (três) pontos para todos os ocupantes(quando aplicável) e encostos de cabeça, atendendointegralmente às normas de segurança vigentes. Vidros elétricosnas portas dianteiras e traseiras, travas elétricas nas portas comtravamento central e acionamento por meio de comando internoe pela chave ou dispositivo equivalente. Sistema de arcondicionado frio/quente, com difusores frontais, adequado aoconforto térmico dos ocupantes, com comandos de fácil acessoao motorista. Carroceria com caçamba traseira aberta, comcapacidade de carga mínima de 600kg, dotada de protetor decaçamba (forração ou protetor em material plástico ou similar),capota marítima ou equivalente, ganchos ou pontos deamarração de carga conforme projeto do fabricante, permitindo otransporte de materiais leves, equipamentos, mobiliários depequeno porte, materiais pedagógicos e insumos administrativos.Sistema multimídia, no mínimo, conexão Bluetooth e rádio, altofalantes instalados, entrada USB ou equivalente, painel deinstrumentos com indicadores básicos (velocímetro, marcador decombustível, hodômetro, luzes de advertência) e computador debordo. Comando interno e elétricos para regulagem deretrovisores externos, desembaçador do vidro traseiro (quandoaplicável), limpador e lavador de para-brisa dianteiro comtemporizador. Equipado, no mínimo, com sensor deestacionamento traseiro e câmera de ré (admite-se um dos doisou ambos), faróis com regulagem de foco (manual ou elétrica,conforme projeto de fábrica), iluminação traseira completa, luz defreio elevada, aviso sonoro de faróis acesos e/ou portas abertas,conforme configuração de série. Bancos revestidos em courosintético de fábrica ou material similar, banco do motorista comajuste de distância e inclinação, porta-objetos distribuídos nopainel...(VIDE O ANEXO DO TERMO).",
-              "unidade": "UN",
-              "quantidade": "4,00",
-              "valor_referencia": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "2-DLE-039-2026",
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "254 / 2026",
@@ -267406,6 +267213,199 @@
               "unidade": "UNID.",
               "quantidade": "1,00",
               "valor_referencia": "5.637,65"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-073-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "202 / 2026",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "RECEPÇÃO DE PROPOSTAS",
+      "condutor": "SERGIO CARNEIRO CAVALCANTI DE AZEVEDO",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO",
+      "publicacao": "05/05/2026 13:34",
+      "inicio_recepcao": "07/05/2026 08:30",
+      "fim_recepcao": "19/05/2026 08:15",
+      "inicio_disputa": "19/05/2026 08:30",
+      "objeto": "Contratação de empresa especializada em fornecimento de VEÍCULOS TIPO PICAPE CABINE DUPLA (bens permanentes), a fim de atender as demandas da Secretaria Municipal de Educação.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DdapNRCFhOCpBxCm%2Fdmpra4U3yQyzzAasBWtp5995zBIWD3%2FqPSc%2Fk9WXZ3BasjTPuj_%2F6KVTzOXuLdITvWLC1B5utiLCfUPPb7VL0yv3BWI%3D",
+      "total_lotes": 1,
+      "total_itens": 1,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "VEICULOS TIPO PICAPE",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "73973900009 Veículo automotor zero quilômetro, tipo picapeleve/compacta:com cabine dupla, 4 portas, capacidade para 5(cinco) ocupantes incluindo o motorista. Ano defabricação/modelo 2026, combustível tipo flex (álcool/gasolina),motorização mínima de 1.3L (ou superior), potência mínima107cv. Tração 4x2, câmbio manual ou automático, com, nomínimo, 5 (cinco) marchas à frente (ou conforme tecnologiadisponível em câmbio automático), visando melhor desempenho,segurança e economia de combustível. Veículo dotado dedireção com assistência elétrica, sistema de freios com ABS eEBD (ou equivalente), airbag frontal para motorista e passageiro,cintos de segurança de 3 (três) pontos para todos os ocupantes(quando aplicável) e encostos de cabeça, atendendointegralmente às normas de segurança vigentes. Vidros elétricosnas portas dianteiras e traseiras, travas elétricas nas portas comtravamento central e acionamento por meio de comando internoe pela chave ou dispositivo equivalente. Sistema de arcondicionado frio/quente, com difusores frontais, adequado aoconforto térmico dos ocupantes, com comandos de fácil acessoao motorista. Carroceria com caçamba traseira aberta, comcapacidade de carga mínima de 600kg, dotada de protetor decaçamba (forração ou protetor em material plástico ou similar),capota marítima ou equivalente, ganchos ou pontos deamarração de carga conforme projeto do fabricante, permitindo otransporte de materiais leves, equipamentos, mobiliários depequeno porte, materiais pedagógicos e insumos administrativos.Sistema multimídia, no mínimo, conexão Bluetooth e rádio, altofalantes instalados, entrada USB ou equivalente, painel deinstrumentos com indicadores básicos (velocímetro, marcador decombustível, hodômetro, luzes de advertência) e computador debordo. Comando interno e elétricos para regulagem deretrovisores externos, desembaçador do vidro traseiro (quandoaplicável), limpador e lavador de para-brisa dianteiro comtemporizador. Equipado, no mínimo, com sensor deestacionamento traseiro e câmera de ré (admite-se um dos doisou ambos), faróis com regulagem de foco (manual ou elétrica,conforme projeto de fábrica), iluminação traseira completa, luz defreio elevada, aviso sonoro de faróis acesos e/ou portas abertas,conforme configuração de série. Bancos revestidos em courosintético de fábrica ou material similar, banco do motorista comajuste de distância e inclinação, porta-objetos distribuídos nopainel...(VIDE O ANEXO DO TERMO).",
+              "unidade": "UN",
+              "quantidade": "4,00",
+              "valor_referencia": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CE-022-2025",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "1512/2025",
+      "modalidade": "CONCORRÊNCIA ELETRÔNICA",
+      "situacao": "FRACASSADO",
+      "condutor": "DAVIDSON ARAUJO SANTOS",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO PARCELADA",
+      "publicacao": "27/11/2025 17:08",
+      "inicio_recepcao": "28/11/2025 08:00",
+      "fim_recepcao": "06/01/2026 09:15",
+      "inicio_disputa": "06/01/2026 09:30",
+      "objeto": "Contratação de empresa especializada em execução de obras de construção para ampliação da Escola Municipal Professora Marcela Nolasco Venezia, localizada no bairro Redenção, do município de Teixeira de Freitas – BA.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5Dvsa45vFyTW3Pbfo8f8F6DR7QTWcucQ8d2g2ixwHrh3iYERN4fHy3fajLfRpycngBgYBFTccVgqBI0KMRNjCApEJ8NTN2df4Vv64ouvCmf6A%3D",
+      "total_lotes": 1,
+      "total_itens": 16,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "EXECUÇÃO DE OBRAS DE CONSTRUÇÃO PARA AMPLIAÇÃO DA ESCOLA MUNICIPAL PROFESSORA MARCELA NOLASCO VENEZIA, LOCALIZADA NO BAIRRO REDENÇÃO",
+          "fase": "FRACASSADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "100,00",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "541.757,88",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 16,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "SERVIÇOS PRELIMINARES",
+              "unidade": "SERVIÇO",
+              "quantidade": "1,00",
+              "valor_referencia": "48.465,19"
+            },
+            {
+              "numero": "2",
+              "especificacao": "MOVIMENTAÇÃO DE TERRA",
+              "unidade": "SERVIÇO",
+              "quantidade": "1,00",
+              "valor_referencia": "2.296,75"
+            },
+            {
+              "numero": "3",
+              "especificacao": "INFRAESTRUTURA",
+              "unidade": "SERVIÇO",
+              "quantidade": "1,00",
+              "valor_referencia": "26.917,73"
+            },
+            {
+              "numero": "4",
+              "especificacao": "SUPERESTRUTURA",
+              "unidade": "SERVIÇO",
+              "quantidade": "1,00",
+              "valor_referencia": "47.177,67"
+            },
+            {
+              "numero": "5",
+              "especificacao": "ALVENARIA",
+              "unidade": "SERVIÇO",
+              "quantidade": "1,00",
+              "valor_referencia": "14.387,96"
+            },
+            {
+              "numero": "6",
+              "especificacao": "SISTEMAS DE COBERTURA",
+              "unidade": "SERVIÇO",
+              "quantidade": "1,00",
+              "valor_referencia": "53.465,35"
+            },
+            {
+              "numero": "7",
+              "especificacao": "REVESTIMENTO",
+              "unidade": "SERVIÇO",
+              "quantidade": "1,00",
+              "valor_referencia": "9.299,92"
+            },
+            {
+              "numero": "8",
+              "especificacao": "ESQUADRIAS",
+              "unidade": "SERVIÇO",
+              "quantidade": "1,00",
+              "valor_referencia": "15.277,57"
+            },
+            {
+              "numero": "9",
+              "especificacao": "PAVIMENTAÇÃO (PISOS)",
+              "unidade": "SERVIÇO",
+              "quantidade": "1,00",
+              "valor_referencia": "142.218,70"
+            },
+            {
+              "numero": "10",
+              "especificacao": "PINTURA",
+              "unidade": "SERVIÇO",
+              "quantidade": "1,00",
+              "valor_referencia": "55.695,17"
+            },
+            {
+              "numero": "11",
+              "especificacao": "INSTALAÇÕES HIDROSSANITÁRIAS",
+              "unidade": "SERVIÇO",
+              "quantidade": "1,00",
+              "valor_referencia": "8.592,60"
+            },
+            {
+              "numero": "12",
+              "especificacao": "DRENAGEM",
+              "unidade": "SERVIÇO",
+              "quantidade": "1,00",
+              "valor_referencia": "43.752,76"
+            },
+            {
+              "numero": "13",
+              "especificacao": "INSTALAÇÕES ELÉTRICAS",
+              "unidade": "SERVIÇO",
+              "quantidade": "1,00",
+              "valor_referencia": "16.619,52"
+            },
+            {
+              "numero": "14",
+              "especificacao": "SISTEMA DE PROTEÇÃO CONTRA DESCARGAS ATMOSFÉRICAS (SPDA)",
+              "unidade": "SERVIÇO",
+              "quantidade": "1,00",
+              "valor_referencia": "16.195,34"
+            },
+            {
+              "numero": "15",
+              "especificacao": "SERVIÇOS COMPLEMENTARES",
+              "unidade": "SERVIÇO",
+              "quantidade": "1,00",
+              "valor_referencia": "37.645,61"
+            },
+            {
+              "numero": "16",
+              "especificacao": "SERVIÇOS FINAIS",
+              "unidade": "SERVIÇO",
+              "quantidade": "1,00",
+              "valor_referencia": "3.750,04"
             }
           ]
         }
