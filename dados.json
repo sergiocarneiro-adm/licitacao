@@ -1,10 +1,10 @@
 {
   "metadata": {
     "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-    "total_processos": 777,
-    "total_lotes": 8693,
-    "total_itens": 14869,
-    "atualizado_em": "20260507_193504"
+    "total_processos": 781,
+    "total_lotes": 8701,
+    "total_itens": 14896,
+    "atualizado_em": "20260508_193505"
   },
   "processos": [
     {
@@ -231225,148 +231225,6 @@
       ]
     },
     {
-      "id": "CE-006-2025",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "641/2025",
-      "modalidade": "CONCORRÊNCIA ELETRÔNICA",
-      "situacao": "ADJUDICADO",
-      "condutor": "DAVIDSON ARAUJO SANTOS",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO PARCELADA",
-      "publicacao": "14/04/2025 10:37",
-      "inicio_recepcao": "15/04/2025 08:00",
-      "fim_recepcao": "28/05/2025 10:15",
-      "inicio_disputa": "28/05/2025 10:30",
-      "objeto": "Contratação de empresa especializada em execução de obras de construção dos quiosques e banheiros na praça do Parque \nda Biquinha, no bairro Colina Verde, no município de Teixeira de Freitas – BA.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DLYzoNNLTQA%2FX1nUroxqPC8lPsvzBSXmTP_aVO%2FhN7FntWaa7_mQ3m5Uof6N2I3XsOXmjfLrklda8eriKpUeJ8A9_71SdTauLNAAgZ%2Fb39nw%3D",
-      "total_lotes": 1,
-      "total_itens": 15,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "OBRAS DE CONSTRUÇÃO DOS QUIOSQUES E BANHEIROS NA PRAÇA DO PARQUE DA  BIQUINHA",
-          "fase": "ADJUDICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "1.000,00",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "434.649,50",
-          "vencedor": "CONSTRUTORA JF PRADO LTDA",
-          "melhor_oferta": "374.000,00",
-          "total_itens": 15,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "ADMINISTRAÇÃO LOCAL DA OBRA",
-              "unidade": "SERVIÇO",
-              "quantidade": "1,00",
-              "valor_referencia": "21.800,52"
-            },
-            {
-              "numero": "2",
-              "especificacao": "SERVIÇOS PRELIMINARES",
-              "unidade": "SERVIÇO",
-              "quantidade": "1,00",
-              "valor_referencia": "68.866,48"
-            },
-            {
-              "numero": "3",
-              "especificacao": "INFRAESTRUTURA",
-              "unidade": "UNIDADE",
-              "quantidade": "1,00",
-              "valor_referencia": "48.095,05"
-            },
-            {
-              "numero": "4",
-              "especificacao": "SUPERESTRUTURA",
-              "unidade": "UNIDADE",
-              "quantidade": "1,00",
-              "valor_referencia": "71.221,27"
-            },
-            {
-              "numero": "5",
-              "especificacao": "ALVENARIA-VEDAÇÃO",
-              "unidade": "UNIDADE",
-              "quantidade": "1,00",
-              "valor_referencia": "61.184,02"
-            },
-            {
-              "numero": "6",
-              "especificacao": "COBERTURA",
-              "unidade": "UNIDADE",
-              "quantidade": "1,00",
-              "valor_referencia": "37.606,07"
-            },
-            {
-              "numero": "7",
-              "especificacao": "INSTALAÇÃO HIDROSSANITÁRIA",
-              "unidade": "UNIDADE",
-              "quantidade": "1,00",
-              "valor_referencia": "10.421,43"
-            },
-            {
-              "numero": "8",
-              "especificacao": "INSTALAÇÃO ELÉTRICA",
-              "unidade": "SERVIÇO",
-              "quantidade": "1,00",
-              "valor_referencia": "31.068,23"
-            },
-            {
-              "numero": "9",
-              "especificacao": "REVESTIMENTO",
-              "unidade": "UNIDADE",
-              "quantidade": "1,00",
-              "valor_referencia": "11.308,57"
-            },
-            {
-              "numero": "10",
-              "especificacao": "PAVIMENTAÇÃO (PISOS)",
-              "unidade": "UNIDADE",
-              "quantidade": "1,00",
-              "valor_referencia": "36.294,19"
-            },
-            {
-              "numero": "11",
-              "especificacao": "ESQUADRIAS",
-              "unidade": "UNIDADE",
-              "quantidade": "1,00",
-              "valor_referencia": "13.956,73"
-            },
-            {
-              "numero": "12",
-              "especificacao": "FORRO",
-              "unidade": "UNIDADE",
-              "quantidade": "1,00",
-              "valor_referencia": "803,66"
-            },
-            {
-              "numero": "13",
-              "especificacao": "PINTURA",
-              "unidade": "UNIDADE",
-              "quantidade": "1,00",
-              "valor_referencia": "12.833,28"
-            },
-            {
-              "numero": "14",
-              "especificacao": "LOUÇAS E METAIS",
-              "unidade": "UNIDADE",
-              "quantidade": "1,00",
-              "valor_referencia": "8.196,18"
-            },
-            {
-              "numero": "15",
-              "especificacao": "SERVIÇOS COMPLEMENTARES",
-              "unidade": "UNIDADE",
-              "quantidade": "1,00",
-              "valor_referencia": "993,82"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "PE-032-2026",
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "133/2026",
@@ -244788,71 +244646,6 @@
               "unidade": "UND",
               "quantidade": "10,00",
               "valor_referencia": "1.226,67"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "CE-006-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "218/2026",
-      "modalidade": "CONCORRÊNCIA ELETRÔNICA",
-      "situacao": "RECEPÇÃO DE PROPOSTAS",
-      "condutor": "DAVIDSON ARAUJO SANTOS",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO PARCELADA",
-      "publicacao": "30/03/2026 16:23",
-      "inicio_recepcao": "31/03/2026 08:00",
-      "fim_recepcao": "08/05/2026 08:15",
-      "inicio_disputa": "08/05/2026 08:30",
-      "objeto": "Contratação de empresa especializada em execução de obras de microdrenagem e pavimentação da rua Mauá, localizada no Centro, do município de Teixeira de Freitas – BA.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DjStDjIvizgNmMXGC2nvbU8J9bMEkf_1iPx%2F_kc4b6pBFH5vR6kwiyu9Pt5ViVOUIAjBfSDFVsuxFpi3c75DXPU6OKZB4FT94xac91JFyqHc%3D",
-      "total_lotes": 1,
-      "total_itens": 4,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "EXECUÇÃO DE OBRAS DE MICRODRENAGEM E PAVIMENTAÇÃO DA RUA MAUÁ, LOCALIZADA NO CENTRO",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "1.000,00",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "1.886.275,46",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 4,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "ADMINISTRAÇÃO LOCAL DE OBRA",
-              "unidade": "SERVIÇO",
-              "quantidade": "1,00",
-              "valor_referencia": "264.288,55"
-            },
-            {
-              "numero": "2",
-              "especificacao": "SERVIÇOS PRELIMINARES",
-              "unidade": "SERVIÇO",
-              "quantidade": "1,00",
-              "valor_referencia": "34.011,34"
-            },
-            {
-              "numero": "3",
-              "especificacao": "PAVIMENTAÇÃO",
-              "unidade": "SERVIÇO",
-              "quantidade": "1,00",
-              "valor_referencia": "667.474,53"
-            },
-            {
-              "numero": "4",
-              "especificacao": "MICRODRENAGEM",
-              "unidade": "SERVIÇO",
-              "quantidade": "1,00",
-              "valor_referencia": "920.501,04"
             }
           ]
         }
@@ -262272,242 +262065,6 @@
       ]
     },
     {
-      "id": "3-DLE-044-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "441 / 2026",
-      "modalidade": "DISPENSA ELETRÔNICA",
-      "situacao": "RECEPÇÃO DE PROPOSTAS",
-      "condutor": "ISLA LIMA SILVA",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO PARCELADA",
-      "publicacao": "04/05/2026 11:21",
-      "inicio_recepcao": "04/05/2026 11:25",
-      "fim_recepcao": "08/05/2026 08:15",
-      "inicio_disputa": "08/05/2026 08:30",
-      "objeto": "Contratação de empresa especializada em fornecimento de MEDICAMENTOS (material de consumo),  a fim de atender as demandas da Secretaria Municipal de Saúde.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5D3xaO8NHROv9mUf2KvMmKAZm_yNR0DYalj04o9UhWyEyZ2Ky0BM0rUQKzAhmHvMyAfvIbK4v_baO6VLFys2Haigp4i3pi6%2F_o4F_13BQlLYc%3D",
-      "total_lotes": 9,
-      "total_itens": 9,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "36637 ENALAPRIL:20MG. EXCLUVISO PARA ME/EPP.",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "2.800,00",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "36637 ENALAPRIL:20MG. EXCLUVISO PARA ME/EPP.",
-              "unidade": "CO",
-              "quantidade": "40.000,00",
-              "valor_referencia": "0,07"
-            }
-          ]
-        },
-        {
-          "numero": "2",
-          "titulo": "34796 MICONAZOL:NITRATO 2% CREME VAGINAL. EXCLUVISO PARA ME/EPP.",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "8.380,00",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "34796 MICONAZOL:NITRATO 2% CREME VAGINAL. EXCLUVISO PARA ME/EPP.",
-              "unidade": "Und.",
-              "quantidade": "2.000,00",
-              "valor_referencia": "4,19"
-            }
-          ]
-        },
-        {
-          "numero": "3",
-          "titulo": "36638 IBUPROFENO:50mg/Ml suspensão oral 30mL - gotas. EXCLUSIVO PARA ME/EPP.",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "3.520,00",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "36638 IBUPROFENO:50mg/Ml suspensão oral 30mL - gotas. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "FR",
-              "quantidade": "1.600,00",
-              "valor_referencia": "2,20"
-            }
-          ]
-        },
-        {
-          "numero": "4",
-          "titulo": "35791 ALPRAZOLAM:2MG EXCLUSIVO PARA ME/EPP.",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "180,00",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "35791 ALPRAZOLAM:2MG EXCLUSIVO PARA ME/EPP.",
-              "unidade": "CO",
-              "quantidade": "1.000,00",
-              "valor_referencia": "0,18"
-            }
-          ]
-        },
-        {
-          "numero": "5",
-          "titulo": "37313 NISTATINA:creme vaginal 25.000 UI/g tubo com 60g + aplicador. EXCLUVISO PARA ME/EPP.",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "5.082,00",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37313 NISTATINA:creme vaginal 25.000 UI/g tubo com 60g + aplicador. EXCLUVISO PARA ME/EPP.",
-              "unidade": "Und.",
-              "quantidade": "700,00",
-              "valor_referencia": "7,26"
-            }
-          ]
-        },
-        {
-          "numero": "6",
-          "titulo": "9900100149 PERMAGANATO DE POTÁSSIO:100MG. EXCLUSIVO PARA ME/EPP.",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "162,00",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900100149 PERMAGANATO DE POTÁSSIO:100MG. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "CO",
-              "quantidade": "600,00",
-              "valor_referencia": "0,27"
-            }
-          ]
-        },
-        {
-          "numero": "7",
-          "titulo": "34777 AZITROMICINA:comprimido revestido ou cápsula 500mg. EXCLUVISO PARA ME/EPP.",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "8.100,00",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "34777 AZITROMICINA:comprimido revestido ou cápsula 500mg. EXCLUVISO PARA ME/EPP.",
-              "unidade": "CO",
-              "quantidade": "10.000,00",
-              "valor_referencia": "0,81"
-            }
-          ]
-        },
-        {
-          "numero": "8",
-          "titulo": "9900100209 Lanceta:para punção digital teste glicemico. EXCLUVISO PARA ME/EPP.",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "1.200,00",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900100209 Lanceta:para punção digital teste glicemico. EXCLUVISO PARA ME/EPP.",
-              "unidade": "Und.",
-              "quantidade": "8.000,00",
-              "valor_referencia": "0,15"
-            }
-          ]
-        },
-        {
-          "numero": "9",
-          "titulo": "37312 HALOPERIDOL:5MG/ML AMPOLA 1ML. EXCLUVISO PARA ME/EPP.",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "3.780,00",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37312 HALOPERIDOL:5MG/ML AMPOLA 1ML. EXCLUVISO PARA ME/EPP.",
-              "unidade": "AMP",
-              "quantidade": "2.000,00",
-              "valor_referencia": "1,89"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "PE-065-2026",
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "202 / 2026",
@@ -262854,914 +262411,6 @@
               "unidade": "Und.",
               "quantidade": "1,00",
               "valor_referencia": "50.000,00"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "PE-002-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "1474/2025",
-      "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "ADJUDICADO",
-      "condutor": "JONATAS DA SILVA SOUSA",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "REGISTRO DE PREÇO",
-      "publicacao": "09/01/2026 11:54",
-      "inicio_recepcao": "13/01/2026 08:00",
-      "fim_recepcao": "23/01/2026 08:15",
-      "inicio_disputa": "23/01/2026 08:30",
-      "objeto": "Futura e eventual contratação de empresa especializada em fornecimento de PERIFÉRICOS DE INFORMÁTICA, EQUIPAMENTOS DE ILUMINAÇÃO, FILMAGEM, ÁUDIO E CELULAR (material de consumo) e (material permanente), a fim de atender as demandas da Secretaria Municipal de Educação.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DPWyoyAaIWqWq1a2_ixcWFKNZSrMBboEK9EsAuYHFrRmC5Gr9G5rYnNQmjtzJkSEZrv%2FMWkBH_EDDEBkQw%2FPTykHMM%2FHpA4kB7pVgtamN5uc%3D",
-      "total_lotes": 37,
-      "total_itens": 37,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "9900515062 Cartão SD:SD 128g, classe 10 200 MBS. EXCLUSIVO PARA ME/EPP.",
-          "fase": "FRACASSADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "1.089,12",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900515062 Cartão SD:SD 128g, classe 10 200 MBS. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "UND",
-              "quantidade": "6,00",
-              "valor_referencia": "181,52"
-            }
-          ]
-        },
-        {
-          "numero": "2",
-          "titulo": "9900515063 Cartão SD:128g 4K 120 classe 10 300MB/s v90ll. EXCLUSIVO PARA ME/EPP.",
-          "fase": "ADJUDICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "3.163,41",
-          "vencedor": "J.C ASSEF COMERCIO LTDA",
-          "melhor_oferta": "3.162,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900515063 Cartão SD:128g 4K 120 classe 10 300MB/s v90ll. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "UND",
-              "quantidade": "3,00",
-              "valor_referencia": "1.054,47"
-            }
-          ]
-        },
-        {
-          "numero": "3",
-          "titulo": "9900515064 Leitor de cartão USB:para SD +Tf. EXCLUSIVO PARA ME/EPP.",
-          "fase": "ADJUDICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "188,16",
-          "vencedor": "ROSA CAFE IMPORTS LTDA",
-          "melhor_oferta": "99,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900515064 Leitor de cartão USB:para SD +Tf. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "UND",
-              "quantidade": "3,00",
-              "valor_referencia": "62,72"
-            }
-          ]
-        },
-        {
-          "numero": "3",
-          "titulo": "9900515064 Leitor de cartão USB:para SD +Tf. EXCLUSIVO PARA ME/EPP.",
-          "fase": "ADJUDICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "188,16",
-          "vencedor": "ROSA CAFE IMPORTS LTDA",
-          "melhor_oferta": "99,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900515064 Leitor de cartão USB:para SD +Tf. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "UND",
-              "quantidade": "3,00",
-              "valor_referencia": "62,72"
-            }
-          ]
-        },
-        {
-          "numero": "4",
-          "titulo": "9900515065 Fone de ouvido On-ear:anti ruido. Marca e modelo de referência: AKG K414. EXCLUSIVO PARA ME/EPP.",
-          "fase": "ADJUDICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "736,23",
-          "vencedor": "ROSA CAFE IMPORTS LTDA",
-          "melhor_oferta": "625,98",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900515065 Fone de ouvido On-ear:anti ruido. Marca e modelo de referência: AKG K414. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "UND",
-              "quantidade": "3,00",
-              "valor_referencia": "245,41"
-            }
-          ]
-        },
-        {
-          "numero": "6",
-          "titulo": "9900515067 Suporte articulado:para monitor de mesa de 24 polegadas. EXCLUSIVO PARA ME/EPP.",
-          "fase": "ADJUDICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "504,00",
-          "vencedor": "ROSA CAFE IMPORTS LTDA",
-          "melhor_oferta": "369,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900515067 Suporte articulado:para monitor de mesa de 24 polegadas. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "UND",
-              "quantidade": "3,00",
-              "valor_referencia": "168,00"
-            }
-          ]
-        },
-        {
-          "numero": "6",
-          "titulo": "9900515067 Suporte articulado:para monitor de mesa de 24 polegadas. EXCLUSIVO PARA ME/EPP.",
-          "fase": "ADJUDICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "504,00",
-          "vencedor": "ROSA CAFE IMPORTS LTDA",
-          "melhor_oferta": "369,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900515067 Suporte articulado:para monitor de mesa de 24 polegadas. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "UND",
-              "quantidade": "3,00",
-              "valor_referencia": "168,00"
-            }
-          ]
-        },
-        {
-          "numero": "5",
-          "titulo": "9900515066 Monitor:24 polegadas IPS FHD. EXCLUSIVO PARA ME/EPP.",
-          "fase": "ADJUDICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "3.104,95",
-          "vencedor": "J.C ASSEF COMERCIO LTDA",
-          "melhor_oferta": "3.100,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900515066 Monitor:24 polegadas IPS FHD. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "UND",
-              "quantidade": "5,00",
-              "valor_referencia": "620,99"
-            }
-          ]
-        },
-        {
-          "numero": "7",
-          "titulo": "9900515068 Alto-falante:com 2 woofers e um par de tweeters, minimo de 15 horas de reprodução, resistente a respingos.Marca e modelo de referência: JBL Partybox Stage. EXCLUSIVO PARA ME/EPP.",
-          "fase": "ADJUDICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "7.399,34",
-          "vencedor": "ELIZETE APARECIDA PIMENTEL ME",
-          "melhor_oferta": "7.399,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900515068 Alto-falante:com 2 woofers e um par de tweeters, minimo de 15 horas de reprodução, resistente a respingos.Marca e modelo de referência: JBL Partybox Stage. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "UND",
-              "quantidade": "2,00",
-              "valor_referencia": "3.699,67"
-            }
-          ]
-        },
-        {
-          "numero": "10",
-          "titulo": "36471 Softbox:minimo de 90cm de diametro. Marca e modelo de referência: Triopo K2-90cm. EXCLUSIVO PARA ME/EPP.",
-          "fase": "FRACASSADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "2.779,85",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "36471 Softbox:minimo de 90cm de diametro. Marca e modelo de referência: Triopo K2-90cm. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "UND",
-              "quantidade": "5,00",
-              "valor_referencia": "555,97"
-            }
-          ]
-        },
-        {
-          "numero": "11",
-          "titulo": "9900515073 Case mochila:para equipamentos (mochila para transportar câmera), resistente a agua. EXCLUSIVO PARA ME/EPP.",
-          "fase": "FRACASSADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "1.083,75",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900515073 Case mochila:para equipamentos (mochila para transportar câmera), resistente a agua. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "UND",
-              "quantidade": "3,00",
-              "valor_referencia": "361,25"
-            }
-          ]
-        },
-        {
-          "numero": "12",
-          "titulo": "36472 Câmera Filmadora:Mirrorless Sony FX-30 - Corpo (01 unidade) + 2 Baterias. EXCLUSIVO PARA ME/EPP.",
-          "fase": "ADJUDICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "37.355,64",
-          "vencedor": "ELIZETE APARECIDA PIMENTEL ME",
-          "melhor_oferta": "35.400,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "36472 Câmera Filmadora:Mirrorless Sony FX-30 - Corpo (01 unidade) + 2 Baterias. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "UND",
-              "quantidade": "3,00",
-              "valor_referencia": "12.451,88"
-            }
-          ]
-        },
-        {
-          "numero": "13",
-          "titulo": "36473 Câmera:fotografica Z5-2 Nikon. EXCLUSIVO PARA ME/EPP.",
-          "fase": "FRACASSADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "40.924,89",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "36473 Câmera:fotografica Z5-2 Nikon. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "UND",
-              "quantidade": "3,00",
-              "valor_referencia": "13.641,63"
-            }
-          ]
-        },
-        {
-          "numero": "14",
-          "titulo": "36474 Lente:28-75 f2.8 Nikon LINHA Z. EXCLUSIVO PARA ME/EPP.",
-          "fase": "ADJUDICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "14.851,16",
-          "vencedor": "ELIZETE APARECIDA PIMENTEL ME",
-          "melhor_oferta": "13.500,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "36474 Lente:28-75 f2.8 Nikon LINHA Z. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "UND",
-              "quantidade": "2,00",
-              "valor_referencia": "7.425,58"
-            }
-          ]
-        },
-        {
-          "numero": "15",
-          "titulo": "36475 Lente:Tamron 17-70mm F/2.8 Di Iii-a Vc Rxd para câmeras Sony E-mount. EXCLUSIVO PARA ME/EPP.",
-          "fase": "ADJUDICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "15.971,19",
-          "vencedor": "ELIZETE APARECIDA PIMENTEL ME",
-          "melhor_oferta": "14.400,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "36475 Lente:Tamron 17-70mm F/2.8 Di Iii-a Vc Rxd para câmeras Sony E-mount. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "UND",
-              "quantidade": "3,00",
-              "valor_referencia": "5.323,73"
-            }
-          ]
-        },
-        {
-          "numero": "16",
-          "titulo": "9900830404 Filtro ND para Lente:Tonrom variavel 67mm ND3 - ND1000 / hd ultrafino. EXCLUSIVO PARA ME/EPP.",
-          "fase": "FRACASSADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "984,00",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900830404 Filtro ND para Lente:Tonrom variavel 67mm ND3 - ND1000 / hd ultrafino. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "UND",
-              "quantidade": "3,00",
-              "valor_referencia": "328,00"
-            }
-          ]
-        },
-        {
-          "numero": "16",
-          "titulo": "9900830404 Filtro ND para Lente:Tonrom variavel 67mm ND3 - ND1000 / hd ultrafino. EXCLUSIVO PARA ME/EPP.",
-          "fase": "FRACASSADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "984,00",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900830404 Filtro ND para Lente:Tonrom variavel 67mm ND3 - ND1000 / hd ultrafino. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "UND",
-              "quantidade": "3,00",
-              "valor_referencia": "328,00"
-            }
-          ]
-        },
-        {
-          "numero": "16",
-          "titulo": "9900830404 Filtro ND para Lente:Tonrom variavel 67mm ND3 - ND1000 / hd ultrafino. EXCLUSIVO PARA ME/EPP.",
-          "fase": "FRACASSADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "984,00",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900830404 Filtro ND para Lente:Tonrom variavel 67mm ND3 - ND1000 / hd ultrafino. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "UND",
-              "quantidade": "3,00",
-              "valor_referencia": "328,00"
-            }
-          ]
-        },
-        {
-          "numero": "18",
-          "titulo": "9900830405 Estabilizador:dobravel e magnetico. Marca e modelo de referência: DJI Osmo Mobile SE. EXCLUSIVO PARA ME/EPP.",
-          "fase": "ADJUDICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "1.474,50",
-          "vencedor": "ELIZETE APARECIDA PIMENTEL ME",
-          "melhor_oferta": "1.399,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900830405 Estabilizador:dobravel e magnetico. Marca e modelo de referência: DJI Osmo Mobile SE. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "UND",
-              "quantidade": "2,00",
-              "valor_referencia": "737,25"
-            }
-          ]
-        },
-        {
-          "numero": "20",
-          "titulo": "36477 Flash:Godox V860 Linha Z - Nikon. EXCLUSIVO PARA ME/EPP.",
-          "fase": "ADJUDICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "2.681,96",
-          "vencedor": "J.C ASSEF COMERCIO LTDA",
-          "melhor_oferta": "2.681,80",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "36477 Flash:Godox V860 Linha Z - Nikon. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "UND",
-              "quantidade": "2,00",
-              "valor_referencia": "1.340,98"
-            }
-          ]
-        },
-        {
-          "numero": "21",
-          "titulo": "9900830407 Tripé de aço inoxidável:2.6 dobravel, com suporte para luz: Cabeça Hidráulica. Marca e modelo de referência: Manfrotto Mt055xpro3 Mvh500ah. EXCLUSIVO PARA ME/EPP.",
-          "fase": "FRACASSADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "6.654,66",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900830407 Tripé de aço inoxidável:2.6 dobravel, com suporte para luz: Cabeça Hidráulica. Marca e modelo de referência: Manfrotto Mt055xpro3 Mvh500ah. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "UND",
-              "quantidade": "3,00",
-              "valor_referencia": "2.218,22"
-            }
-          ]
-        },
-        {
-          "numero": "22",
-          "titulo": "36478 MICROFONE SHOTGUN PROFISSIONAL C/CAPTAÇÃO DIRECIONAL:Padrão Polar Super Tipo de Captura ExtremoFaixa de Frequência 20Hz - 20kHz Impedância de Saída 200; Recursos:Sensibilidade -32,0dB re 1 Volt /+/- 2 dB @ 1kHz Nível de Ruído Equivalente (Pondera",
-          "fase": "FRACASSADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "5.266,74",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "36478 MICROFONE SHOTGUN PROFISSIONAL C/CAPTAÇÃO DIRECIONAL:Padrão Polar Super Tipo de Captura ExtremoFaixa de Frequência 20Hz - 20kHz Impedância de Saída 200; Recursos:Sensibilidade -32,0dB re 1 Volt /+/- 2 dB @ 1kHz Nível de Ruído Equivalente (Ponderado A) 16dBA Energia:Requisitos de Energia P12 P24 P48 Saída XLRConteúdo da embalagem:- 1 x NTG4- 1 x RM5- 1 x Windshield- 1 x ZP1 EXCLUSIVO PARA ME/EPP.",
-              "unidade": "UND",
-              "quantidade": "2,00",
-              "valor_referencia": "2.633,37"
-            }
-          ]
-        },
-        {
-          "numero": "23",
-          "titulo": "36479 Suporte:adaptador bowens para speedlight, cabeça redonda. EXCLUSIVO PARA ME/EPP.",
-          "fase": "ADJUDICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "676,08",
-          "vencedor": "J.C ASSEF COMERCIO LTDA",
-          "melhor_oferta": "676,05",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "36479 Suporte:adaptador bowens para speedlight, cabeça redonda. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "UND",
-              "quantidade": "3,00",
-              "valor_referencia": "225,36"
-            }
-          ]
-        },
-        {
-          "numero": "23",
-          "titulo": "36479 Suporte:adaptador bowens para speedlight, cabeça redonda. EXCLUSIVO PARA ME/EPP.",
-          "fase": "ADJUDICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "676,08",
-          "vencedor": "J.C ASSEF COMERCIO LTDA",
-          "melhor_oferta": "676,05",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "36479 Suporte:adaptador bowens para speedlight, cabeça redonda. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "UND",
-              "quantidade": "3,00",
-              "valor_referencia": "225,36"
-            }
-          ]
-        },
-        {
-          "numero": "24",
-          "titulo": "9900830408 Smartphone:256gb, minimo de 48 megapixels 4K, minimo de 12 de ram. Marca e modelo de referência: Iphone 17 Pro Max ou S25 Ultra. EXCLUSIVO PARA ME/EPP.",
-          "fase": "ADJUDICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "22.182,00",
-          "vencedor": "ELIZETE APARECIDA PIMENTEL ME",
-          "melhor_oferta": "21.399,99",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900830408 Smartphone:256gb, minimo de 48 megapixels 4K, minimo de 12 de ram. Marca e modelo de referência: Iphone 17 Pro Max ou S25 Ultra. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "UND",
-              "quantidade": "3,00",
-              "valor_referencia": "7.394,00"
-            }
-          ]
-        },
-        {
-          "numero": "26",
-          "titulo": "9900830410 Conjunto fundo Chroma Key:tripé + tecido 3x3m. EXCLUSIVO PARA ME/EPP.",
-          "fase": "ADJUDICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "1.012,48",
-          "vencedor": "ROSA CAFE IMPORTS LTDA",
-          "melhor_oferta": "750,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900830410 Conjunto fundo Chroma Key:tripé + tecido 3x3m. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "UND",
-              "quantidade": "2,00",
-              "valor_referencia": "506,24"
-            }
-          ]
-        },
-        {
-          "numero": "27",
-          "titulo": "9900830411 Drone DJI Avata Fly Smart Combo + DJI Goggles V2 4K Motion:ESPECIFICAÇÕES DO PRODUTO:- Tempo de voo: Até 18 minutos- Distância máxima de voo: Até 10 km (FCC)- Detecção de obstáculos: 1 direção: Inferior- Velocidade máxima: 97,2 km/h- Resis",
-          "fase": "CANCELADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "38.898,87",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900830411 Drone DJI Avata Fly Smart Combo + DJI Goggles V2 4K Motion:ESPECIFICAÇÕES DO PRODUTO:- Tempo de voo: Até 18 minutos- Distância máxima de voo: Até 10 km (FCC)- Detecção de obstáculos: 1 direção: Inferior- Velocidade máxima: 97,2 km/h- Resistência a vento: 38,5 km/h- Peso: 410 g- Câmera: 1/1.7? - Pixels efetivos: 48 MP- Resolução DJI FPV Goggles V2: 4K 50/60fps - 2.7K 50/60/100/120fps - 1080p 50/60/100/120fps- Abertura: f/2.8- Vídeo: Estabilizado em 4K- Estabilização avançada: HorizonSteady e RockSteady- Motion Controller- Peso: 167 g- Autonomia: 5h- Tempo de recarga: 2h30- Garantia de 24 meses contra defeito de fabricação INCLUSO:- 1 Drone DJI Avata; 1 DJI FPV Goggles V2;- 1 DJI Motion Controller,- 3 Baterias para DJI Avata; - 1 Hub de carregamento do DJI Avata;- 3 Pares de hélices;- 1 Adaptador de energia;- 1 Protetor do gimbal;- 1 Cabo tipo C;- 1 Chave de remoção dos parafusos;- 4 Parafusos (M2×7);- 1 Bateria para DJI FPV Goggles V2;- 1 Faixa de cabeça para DJI FPV Goggles V2;- 1 Cabo carregador para DJI FPV Goggles V2 (USB-C);- 4 Antenas para DJI FPV Goggles V2;- 1 Cabo USB-C DJI FPV Goggles V2;- 1 Cabo OTG para DJI FPV Goggles V2;- 1 Cordão. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "UND",
-              "quantidade": "3,00",
-              "valor_referencia": "12.966,29"
-            }
-          ]
-        },
-        {
-          "numero": "28",
-          "titulo": "36481 Rádio Comunicador:Rádio Comunicador na cor preta; mínimo de 30km de distância, mínimo de 16 canais; duas fontes de energia: a bateria recarregável ou pilhas AA; com presilha de cinto. EXCLUSIVO PARA ME/EPP.",
-          "fase": "ADJUDICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "7.019,12",
-          "vencedor": "INFOSHOP41 TELEINFORMÁTICA LTDA",
-          "melhor_oferta": "4.800,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "36481 Rádio Comunicador:Rádio Comunicador na cor preta; mínimo de 30km de distância, mínimo de 16 canais; duas fontes de energia: a bateria recarregável ou pilhas AA; com presilha de cinto. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "PAR",
-              "quantidade": "8,00",
-              "valor_referencia": "877,39"
-            }
-          ]
-        },
-        {
-          "numero": "29",
-          "titulo": "9900830429 Processador:Intel Core i7-14700 ou superior, soquete LGA1700, 20 núcleos físicos (8 Performance + 12 Efficient) e 28 threads, frequência turbo de no mínimo 5.4 GHz, cache L3 mínimo de 33 MB. EXCLUSIVO PARA ME/EPP.",
-          "fase": "FRACASSADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "7.315,62",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900830429 Processador:Intel Core i7-14700 ou superior, soquete LGA1700, 20 núcleos físicos (8 Performance + 12 Efficient) e 28 threads, frequência turbo de no mínimo 5.4 GHz, cache L3 mínimo de 33 MB. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "UND",
-              "quantidade": "3,00",
-              "valor_referencia": "2.438,54"
-            }
-          ]
-        },
-        {
-          "numero": "30",
-          "titulo": "9900830430 Air Cooler:TDP mínimo de 200W, com mínimo de 4 heatpipes, fabricado em cobre (base e heatpipe), aletas de resfriamento em alumínio, Velocidade Max de rotação 1200 RPM; compatível com soquete LGA1700. EXCLUSIVO PARA ME/EPP.",
-          "fase": "FRACASSADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "331,32",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900830430 Air Cooler:TDP mínimo de 200W, com mínimo de 4 heatpipes, fabricado em cobre (base e heatpipe), aletas de resfriamento em alumínio, Velocidade Max de rotação 1200 RPM; compatível com soquete LGA1700. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "UND",
-              "quantidade": "3,00",
-              "valor_referencia": "110,44"
-            }
-          ]
-        },
-        {
-          "numero": "31",
-          "titulo": "9900830431 Placa Gráfica (GPU):placa gráfica dedicada baseada em GPU NVIDIA GeForce RTX 5060 ou superior, com as seguintes características mínimas: 8 GB de memória de vídeo dedicada GDDR7, interface de 128 bits, largura de banda mínima de 448 GB/s; Barram",
-          "fase": "FRACASSADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "12.508,70",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900830431 Placa Gráfica (GPU):placa gráfica dedicada baseada em GPU NVIDIA GeForce RTX 5060 ou superior, com as seguintes características mínimas: 8 GB de memória de vídeo dedicada GDDR7, interface de 128 bits, largura de banda mínima de 448 GB/s; Barramento PCI-Express 5.0 (x8 ou x16), compatível com o slot PCI-Express x16; Suporte a ray tracing em tempo real e núcleos dedicados de IA (Tensor Cores) para aceleração de aplicações de criação de conteúdo e edição de vídeo; Mínimo de 4 saídas de vídeo digitais, sendo pelo menos 3 DisplayPort 2.1b e 1 HDMI 2.1b, com suporte a resolução 4K em alta taxa de atualização; Suporte simultâneo a, no mínimo, 4 monitores; Consumo máximo de energia de até 150 W, não exigindo mais do que 1 conector de alimentação PCIe 8 pinos (6+2) ou conector 12VHPWR equivalente; Total compatibilidade com os principais softwares de edição de vídeo profissionais (Adobe Premiere Pro, DaVinci Resolve, etc.), com aceleração por GPU. Observações: Não serão aceitas soluções baseadas em GPU de notebook (\"Mobile\", \"Laptop GPU\") ou modelos integrados/onboard. A contratada deverá informar, na proposta, marca, modelo exato e código do fabricante da placa gráfica ofertada, que deverá atender integralmente às especificações mínimas acima. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "UND",
-              "quantidade": "5,00",
-              "valor_referencia": "2.501,74"
-            }
-          ]
-        },
-        {
-          "numero": "32",
-          "titulo": "9900830432 Memória RAM:32 GB DDR5, em 2 módulos de 16 GB cada (dual channel), frequência efetiva mínima de 5600 MHz. Observação: Os dois módulos deverão ser da mesma marca e modelo. EXCLUSIVO PARA ME/EPP.",
-          "fase": "FRACASSADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "3.195,90",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900830432 Memória RAM:32 GB DDR5, em 2 módulos de 16 GB cada (dual channel), frequência efetiva mínima de 5600 MHz. Observação: Os dois módulos deverão ser da mesma marca e modelo. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "PAR",
-              "quantidade": "3,00",
-              "valor_referencia": "1.065,30"
-            }
-          ]
-        },
-        {
-          "numero": "33",
-          "titulo": "36664 Placa-mãe:placa-mãe padrão ATX, com chipset Intel  Z790 ou superior, soquete LGA1700, compatível nativamente com processadores Intel Core de 13ª e 14ª geração, com as seguintes características mínimas: Suporte a memória DDR5, com no mínimo 4 slots,",
-          "fase": "ADJUDICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "6.315,39",
-          "vencedor": "ROSA CAFE IMPORTS LTDA",
-          "melhor_oferta": "6.300,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "36664 Placa-mãe:placa-mãe padrão ATX, com chipset Intel Z790 ou superior, soquete LGA1700, compatível nativamente com processadores Intel Core de 13ª e 14ª geração, com as seguintes características mínimas: Suporte a memória DDR5, com no mínimo 4 slots, suportando, no mínimo, 128 GB de RAM e frequência efetiva mínima de 5600 MHz, ou superior, conforme documentação do fabricante; 1 slot PCI-Express x16 com padrão PCIe 5.0 para placa de vídeo dedicada; Mínimo de 3 slots M.2 PCI-Express NVMe, sendo ao menos 2 com interface PCIe 4.0 x4; Mínimo de 4 portas SATA III (6 Gb/s) para unidades adicionais de armazenamento; Controladora de rede Ethernet 10/100/1000 Mbps ou superior integrada; Controladora Wi-Fi 6 (802.11ax) ou superior e Bluetooth 5.2 ou superior integrados; Áudio integrado de alta definição (HD Audio), padrão 7.1 canais ou superior; Saída de vídeo integrada HDMI e/ou Display Port; Mínimo de 6 portas USB, sendo no mínimo, 2 USB 3.2 Gen 1 ou superior e 1 porta USB tipo C; BIOS/UEFI atualizável, com suporte a boot em modo UEFI e configuração por interface gráfica. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "UND",
-              "quantidade": "3,00",
-              "valor_referencia": "2.105,13"
-            }
-          ]
-        },
-        {
-          "numero": "34",
-          "titulo": "9900830433 SSD M.2 NVMe:com capacidade mínima de 1 TB, interface PCI-Express 4.0 x4, velocidade de leitura sequencial mínima de 3.500 MB/s e gravação sequencial mínima de 3.000 MB/s, com memória do tipo 3D NAND. EXCLUSIVO PARA ME/EPP.",
-          "fase": "FRACASSADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "3.867,96",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900830433 SSD M.2 NVMe:com capacidade mínima de 1 TB, interface PCI-Express 4.0 x4, velocidade de leitura sequencial mínima de 3.500 MB/s e gravação sequencial mínima de 3.000 MB/s, com memória do tipo 3D NAND. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "UND",
-              "quantidade": "6,00",
-              "valor_referencia": "644,66"
-            }
-          ]
-        },
-        {
-          "numero": "35",
-          "titulo": "9900830434 Fonte de alimentação:com potência mínima de 800W reais bivolt, certificação 80 Plus Bronze ou sistema de certificação equivalente ou superior, com PFC ativo, padrão ATX, com, no mínimo: 2 conector PCI-Express 8 pinos (6+2) para placa de vídeo;",
-          "fase": "ADJUDICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "1.266,00",
-          "vencedor": "TEIXEIRA INFORMÁTICA LTDA",
-          "melhor_oferta": "1.266,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900830434 Fonte de alimentação:com potência mínima de 800W reais bivolt, certificação 80 Plus Bronze ou sistema de certificação equivalente ou superior, com PFC ativo, padrão ATX, com, no mínimo: 2 conector PCI-Express 8 pinos (6+2) para placa de vídeo; 1 conector EPS 8 pinos para CPU; Proteções contra sobrecorrente (OCP), sobretensão (OVP), subtensão (UVP), curto-circuito (SCP) e sobretemperatura (OTP); EXCLUSIVO PARA ME/EPP.",
-              "unidade": "UND",
-              "quantidade": "3,00",
-              "valor_referencia": "422,00"
-            }
-          ]
-        },
-        {
-          "numero": "36",
-          "titulo": "9900830435 Gabinete:tipo torre (mid tower), com: Compatibilidade com placas-mãe ATX, micro-ATX e mini-ITX; Suporte para placas de vídeo de até, no mínimo, 320 mm de comprimento; Suporte para coolers de processador de até, no mínimo, 160 mm de altura; Míni",
-          "fase": "ADJUDICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "1.025,25",
-          "vencedor": "TEIXEIRA INFORMÁTICA LTDA",
-          "melhor_oferta": "870,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900830435 Gabinete:tipo torre (mid tower), com: Compatibilidade com placas-mãe ATX, micro-ATX e mini-ITX; Suporte para placas de vídeo de até, no mínimo, 320 mm de comprimento; Suporte para coolers de processador de até, no mínimo, 160 mm de altura; Mínimo de 4 ventoinhas de 120 mm instaladas (2 frontais, 1 traseira e 1 superior), com fluxo de ar otimizado; Painel frontal com, no mínimo, 2 portas USB (1 delas USB 3.0) e conectores P2 de áudio; Filtro de poeira removível. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "UND",
-              "quantidade": "3,00",
-              "valor_referencia": "341,75"
-            }
-          ]
-        },
-        {
-          "numero": "37",
-          "titulo": "36666 Fone de ouvido:tipo over-ear fechado (closed-back), faixa de resposta de frequência mínima de 18 Hz a 20.000 Hz, sensibilidade mínima de 98 dB SPL/V e impedância nominal entre 32 e 47 Ohms, potência máxima de entrada de pelo menos 200 mW, assegurand",
-          "fase": "ADJUDICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "4.276,53",
-          "vencedor": "J.C ASSEF COMERCIO LTDA",
-          "melhor_oferta": "4.276,35",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "36666 Fone de ouvido:tipo over-ear fechado (closed-back), faixa de resposta de frequência mínima de 18 Hz a 20.000 Hz, sensibilidade mínima de 98 dB SPL/V e impedância nominal entre 32 e 47 Ohms, potência máxima de entrada de pelo menos 200 mW, assegurando estabilidade mesmo em usos prolongados. As almofadas das conchas deverão ser confeccionadas em couro ou couro sintético, proporcionando conforto e durabilidade, com earpads substituíveis. Comprimento mínimo do cabo: 2,0 metros, podendo ser do tipo reto ou espiralado, desde que ofereça resistência e mobilidade adequadas ao uso profissional, conector P2 (3,5 mm) e deverá acompanhar adaptador para P10 (6,35 mm) ou padrão equivalente que permita a utilização em diferentes equipamentos. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "UND",
-              "quantidade": "9,00",
-              "valor_referencia": "475,17"
             }
           ]
         }
@@ -265348,166 +263997,6 @@
               "unidade": "UND",
               "quantidade": "250,00",
               "valor_referencia": "49,97"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "PE-075-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "174 / 2026",
-      "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "PUBLICADO",
-      "condutor": "JONATAS DA SILVA SOUSA",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO",
-      "publicacao": "06/05/2026 15:46",
-      "inicio_recepcao": "08/05/2026 08:30",
-      "fim_recepcao": "21/05/2026 09:45",
-      "inicio_disputa": "21/05/2026 10:00",
-      "objeto": "Contratação de empresa especializada em fornecimento de LINÓLEO (material de consumo),  a fim de atender as demandas da Secretaria Municipal de Cultura e Turismo.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DRWtTLpalXs4S3VcwFO5RqLEtWHUF6z_Xl1a7xz80A3HXDw555beV41PB7qP9z4cc7p3nldYeuYglxT_ptU_19UnBqS5Esd2WSH1pijcdvCo%3D",
-      "total_lotes": 1,
-      "total_itens": 1,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "LINÓLEO FINO",
-          "fase": "PUBLICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900515363 LINÓLEO FINO:- revestimento flexível compostopor óleo de linhaça, resinas naturais, cortiça e pigmentosminerais, prensados sobre base de juta; antiderrapante,resistente ao desgaste, com absorção de impacto; nas corescinza e/ou preto; largura padrão de 1.8 até 2 metros e espessurade 1.2mm",
-              "unidade": "m2",
-              "quantidade": "2.000,00",
-              "valor_referencia": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "PE-074-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "1673 / 2025",
-      "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "PUBLICADO",
-      "condutor": "SERGIO CARNEIRO CAVALCANTI DE AZEVEDO",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "REGISTRO DE PREÇO",
-      "publicacao": "06/05/2026 12:23",
-      "inicio_recepcao": "08/05/2026 08:30",
-      "fim_recepcao": "21/05/2026 08:15",
-      "inicio_disputa": "21/05/2026 08:30",
-      "objeto": "Contratação de empresa especializada em fornecimento de TUBOS EM POLIETILENO DE ALTA DENSIDADE (PEAD) (material de consumo), cujas especificações técnicas, quantidades e demais condições encontram-se detalhadas neste instrumento, a fim de atender as demandas da Secretaria Municipal de Infraestrutura e Serviços Urbanos.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DzTkzeFAO_TG_k4ZOPNFEwsEZxqjxOIickZNTtu8%2F2vtwKTjx1DCvP4C5TdF6CNvlsa5hiUQi9g%2FZNw6E1zp4BksXPxPx6rQRWniFiqq7%2FZA%3D",
-      "total_lotes": 4,
-      "total_itens": 4,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "9900515230 TUBO PEAD 400 MM:tubo extrudado, parede dupla em pead (polietileno de alta densidade), com união ponta e bolsa, liso internamente e corrugado externamente, em barras de 6m de comprimento, cor preta, pigmentada com negro de fumo, com diâmetro no",
-          "fase": "PUBLICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900515230 TUBO PEAD 400 MM:tubo extrudado, parede dupla em pead (polietileno de alta densidade), com união ponta e bolsa, liso internamente e corrugado externamente, em barras de 6m de comprimento, cor preta, pigmentada com negro de fumo, com diâmetro nominal DN/DI 400 mm (baseado no diâmetro interno), classe de rigidez sn4, conforme norma DNIT 094/2014",
-              "unidade": "Und.",
-              "quantidade": "350,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "2",
-          "titulo": "9900515231 TUBO PEAD 800 MM:tubo extrudado, parede dupla em pead (polietileno de alta densidade), com união ponta e bolsa, liso internamente e corrugado externamente, em barras de 6m de comprimento, cor preta, pigmentada com negro de fumo, com diâmetro no",
-          "fase": "PUBLICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900515231 TUBO PEAD 800 MM:tubo extrudado, parede dupla em pead (polietileno de alta densidade), com união ponta e bolsa, liso internamente e corrugado externamente, em barras de 6m de comprimento, cor preta, pigmentada com negro de fumo, com diâmetro nominal DN/DI 800 mm (baseado no diâmetro interno), classe de rigidez sn4, conforme norma DNIT 094/2014",
-              "unidade": "Und.",
-              "quantidade": "200,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "3",
-          "titulo": "9900515232 TUBO PEAD 1500 MM:tubo extrudado, parede dupla em pead (polietileno de alta densidade), com união ponta e bolsa, liso internamente e corrugado externamente, em barras de 6m de comprimento, cor preta, pigmentada com negro de fumo, com diâmetro n",
-          "fase": "PUBLICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900515232 TUBO PEAD 1500 MM:tubo extrudado, parede dupla em pead (polietileno de alta densidade), com união ponta e bolsa, liso internamente e corrugado externamente, em barras de 6m de comprimento, cor preta, pigmentada com negro de fumo, com diâmetro nominal DN/DI 1500 mm (baseado no diâmetro interno), classe de rigidez sn2, conforme norma DNIT 094/2014",
-              "unidade": "Und.",
-              "quantidade": "60,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "4",
-          "titulo": "36839 TUBO PEAD 300 MM:: tubo extrudado, parede dupla em pead (polietileno de alta densidade), com união ponta e  bolsa, liso internamente e corrugado externamente, em  barras de 6m de comprimento, cor preta, pigmentada com  negro de fumo, com diâmetro no",
-          "fase": "PUBLICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "36839 TUBO PEAD 300 MM:: tubo extrudado, parede dupla em pead (polietileno de alta densidade), com união ponta e bolsa, liso internamente e corrugado externamente, em barras de 6m de comprimento, cor preta, pigmentada com negro de fumo, com diâmetro nominal dn/di 300 mm (baseado no diâmetro interno), classe de rigidez sn4, conforme norma dnit 094/2014.",
-              "unidade": "Und.",
-              "quantidade": "200,00",
-              "valor_referencia": ""
             }
           ]
         }
@@ -267406,6 +265895,1922 @@
               "unidade": "SERVIÇO",
               "quantidade": "1,00",
               "valor_referencia": "3.750,04"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4-DLE-045-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "392 / 2026",
+      "modalidade": "DISPENSA ELETRÔNICA",
+      "situacao": "RECEPÇÃO DE PROPOSTAS",
+      "condutor": "ISAQUE SILVA DOS SANTOS",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO",
+      "publicacao": "08/05/2026 11:59",
+      "inicio_recepcao": "08/05/2026 12:05",
+      "fim_recepcao": "14/05/2026 08:15",
+      "inicio_disputa": "14/05/2026 08:30",
+      "objeto": "Contratação de empresa especializada em fornecimento de [BOMBAS SUBMERSAS] (material permanente), a fim de atender as necessidades da Secretaria Municipal de Educação.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DmVCptc8Ld27%2FtsWX8HO3L2g%2FdX34tbrW7f1QaRqDKWmQhbyqUwXBO%2F4OU4MLCB7V6Tl7X03mXo3PYW17q0i%2Fuo%2F60d%2FXxIJzHqSncC%2FFeQ8%3D",
+      "total_lotes": 1,
+      "total_itens": 1,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "BOMBAS SUBMERSAS",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "18.500,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37273 Bomba submersa tipo \"sapo\":monofásica 127/220V (bivoltautomático), potência mínima de 450W (0,5 CV), vazão média600-2.200 L/h, elevação máxima 65m, saída ø 1\", diâmetro 3\"-4\",frequência 60Hz, temperatura máx. água 35°C, materialinox/termoplástico anticorrosão, cabo 20m com flutuador eproteção térmica, para água limpa em poços de no minimo 30m,conforme NBR 14372 ou ABNT similar. EXCLUSIVO PARAME/EPP.",
+              "unidade": "UN",
+              "quantidade": "50,00",
+              "valor_referencia": "370,00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3-DLE-048-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "472 / 2026",
+      "modalidade": "DISPENSA ELETRÔNICA",
+      "situacao": "RECEPÇÃO DE PROPOSTAS",
+      "condutor": "ISLA LIMA SILVA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO",
+      "publicacao": "08/05/2026 11:52",
+      "inicio_recepcao": "08/05/2026 11:55",
+      "fim_recepcao": "14/05/2026 08:45",
+      "inicio_disputa": "14/05/2026 09:00",
+      "objeto": "Contratação de empresa especializada na prestação de serviço de [MANUTENÇÃO PREVENTIVA DE EQUIPAMENTOS DE DIAGNÓSTICO AUDIOLÓGICO, INCLUINDO ATENDIMENTO TÉCNICO IN LOCO], a fim de atender as necessidades da Secretaria Municipal de Saúde.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DPQyzjSSuBC0M8apYKCJ7%2FiBaI%2FcZPJXhm_GbxibXAHtsocSTi968FGSQdsi21ifPwH5D4pLXf7SNtQRZGuSDtekIWSTky1ErI2UfLZV4jFA%3D",
+      "total_lotes": 1,
+      "total_itens": 5,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "MANUTENÇÃO PREVENTIVA DE EQUIPAMENTOS DE DIAGNÓSTICO AUDIOLÓGICO",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "10.007,56",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 5,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9902900151 Manutenção/calibração de equipamentos para Audiometria:Modelo AC40 Clinical Audiometer Interacoustics, 2 canais",
+              "unidade": "SER",
+              "quantidade": "1,00",
+              "valor_referencia": "2.061,56"
+            },
+            {
+              "numero": "2",
+              "especificacao": "9902900152 Manutenção/calibração de equipamentos Amplificadores para Audiometria em Campo Livre:(Free Field Amplifier) - Modelo FF-70/2",
+              "unidade": "SER",
+              "quantidade": "2,00",
+              "valor_referencia": "863,47"
+            },
+            {
+              "numero": "3",
+              "especificacao": "36840 Manutenção/calibração de equipamentos Impedanciômetro:Modelo AT235 by Interacoustics",
+              "unidade": "SER",
+              "quantidade": "2,00",
+              "valor_referencia": "1.660,08"
+            },
+            {
+              "numero": "4",
+              "especificacao": "36841 Manutenção/calibração de cabines para Audiometria:Auditec",
+              "unidade": "SER",
+              "quantidade": "2,00",
+              "valor_referencia": "604,64"
+            },
+            {
+              "numero": "5",
+              "especificacao": "36842 Manutenção/calibração de equipamento de Emissões Otoacústicas Evocadas (EOA) portátil:Modelo OtoRead Interacoustics",
+              "unidade": "SER",
+              "quantidade": "1,00",
+              "valor_referencia": "1.689,62"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-076-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "276 / 2026",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "PUBLICADO",
+      "condutor": "SERGIO CARNEIRO CAVALCANTI DE AZEVEDO",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO PARCELADA",
+      "publicacao": "08/05/2026 10:55",
+      "inicio_recepcao": "12/05/2026 08:30",
+      "fim_recepcao": "25/05/2026 08:15",
+      "inicio_disputa": "25/05/2026 08:30",
+      "objeto": "Contratação de empresa especializada em fornecimento de UNIFORMES PADRONIZADOS DESTINADOS AOS ESTUDANTES E AO CORPO ADMINISTRATIVO DAS UNIDADES DE ENSINO\nMILITARIZADAS DA REDE MUNICIPAL (material de consumo), a fim de atender as demandas da Secretaria Municipal de Educação.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5D8Dt5pgp5YJxLK5tV%2F%2Fl0w0A0tKXfxko2RUIuIZZiF9gx6t6vJq1%2F37GXDFhdMcwcJQdzUR_NcYeu7oH15z_n0u1cWCPqzRpWSoE9W1iIgt0%3D",
+      "total_lotes": 2,
+      "total_itens": 17,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "UNIFORMES PADRONIZADOS",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 13,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515548 Calça Administrativa Masculina:tecido brim pesado marrom café, cós anatômico, bolsos laterais tipo faca e bolsos traseiros embutidos, passadores reforçados, costuras triplas nas áreas de tensão. Uso com cinto de nylon marrom café com fivela metálica do brasão da Escola, em tamanhos variados que serão informados no momento da contratação.",
+              "unidade": "UND",
+              "quantidade": "32,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "2",
+              "especificacao": "9900515549 Bermuda Feminina para Educação Física:tecido tactel premium azul padrão UEMC, cós com elástico reforçado, modelagem feminina, comprimento 5 cm acima do joelho, secagem rápida, resistência à abrasão, tecnologia antiodor, em tamanhos variados que serão informados no momento da contratação.",
+              "unidade": "UND",
+              "quantidade": "1.000,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "3",
+              "especificacao": "37145 Calção Masculino para Educação Física:tactel premium azul padrão UEMC, cós com cordão interno, dois bolsos laterais, dois bolsos traseiros, comprimento 5 cm acima do joelho, secagem rápida e resistência ao uso contínuo, em tamanhos variados que serão informados no momento da contratação.",
+              "unidade": "UND",
+              "quantidade": "1.000,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "4",
+              "especificacao": "9900515550 Calça Masculina em Brim (Padrão UEMC):cor azul UEMC, faixas laterais vermelhas de 6 cm, bolsos funcionais, costuras reforçadas, passantes militares, uso com cinto nylon azul marinho com brasão, em tamanhos variados que serão informados no momento da contratação.",
+              "unidade": "UND",
+              "quantidade": "1.000,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "5",
+              "especificacao": "37147 Calça Feminina em Brim (Padrão UEMC):brim azul UEMC, faixas laterais vermelhas de 6 cm, modelagem feminina, bolsos laterais e traseiros, passantes militares reforçados, em tamanhos variados que serão informados no momento da contratação.",
+              "unidade": "UND",
+              "quantidade": "1.000,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "6",
+              "especificacao": "37148 Saia Feminina em Brim (Padrão UEMC):brim azul UEMC, altura até o joelho, faixas laterais vermelhas de 6 cm, bolsos laterais e traseiros, modelagem levemente evasê, passantes reforçados, em tamanhos variados que serão informados no momento da contratação.",
+              "unidade": "UND",
+              "quantidade": "1.000,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "7",
+              "especificacao": "9900515551 Camisa para Educação Física:malha premium branca, gramatura mínima 150 g/m², gola careca reforçada, manga curta, brasão institucional em alta definição, identificação MCPM/UEMC, tratamento antiodor e antialérgico, em tamanhos P, M, G e GG, sendo as definições exatas de tamanho, modelagem e gênero informadas no momento da contratação.",
+              "unidade": "UND",
+              "quantidade": "1.000,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "8",
+              "especificacao": "37149 Camisa Polo Administrativa:malha PV (67% poliéster/33% viscose), branca, gola e punhos marrom café, bordados com nome de guerra, função, tipo sanguíneo e RH; brasão da Escola no peito; bandeira da Bahia na manga direita; brasão do Município na esquerda; bordado vermelho padrão UEMC, em tamanhos P, M, G e GG, sendo as definições exatas de tamanho, modelagem e gênero informadas no momento da contratação.",
+              "unidade": "UND",
+              "quantidade": "32,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "9",
+              "especificacao": "9900515552 Camisa Polo Estudantil MCPM:malha PV branca, gola e punhos azul UEMC, identificação (AL MCPM + nome de guerra), tipo sanguíneo e RH bordados, brasão institucional no peito, bandeira da Bahia bordada e brasão do Município na manga esquerda, em tamanhos P, M, G e GG, sendo as definições exatas de tamanho, modelagem e gênero informadas no momento da contratação.",
+              "unidade": "UND",
+              "quantidade": "1.000,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "10",
+              "especificacao": "37150 Jaleco Branco Administrativo:tecido Oxford, manga curta, gola esporte, bolsos funcionais, identificação bordada (nome, tipo sanguíneo, RH), brasão institucional no peito, bandeira da Bahia bordada e brasão do Município pintado, em tamanhos variados que serão informados no momento da contratação.",
+              "unidade": "UND",
+              "quantidade": "90,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "11",
+              "especificacao": "9900515553 Beca Cerimonial MCPM:tecido microfibra premium azul marinho, gola em V estruturada, caimento reto, viés vermelho padrão UEMC, brasão institucional bordado em alta definição. Uso em solenidades, formaturas e eventos oficiais, em tamanhos variados que serão informados no momento da contratação.",
+              "unidade": "UND",
+              "quantidade": "1.000,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "12",
+              "especificacao": "9900515554 Boné Estudantil MCPM:brim pesado azul UEMC, estrutura reforçada, seis gomos com ilhoses para ventilação, brasão pintado frontal, fecho em velcro militar reforçado com ajuste de tamanho.",
+              "unidade": "UND",
+              "quantidade": "1.000,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "13",
+              "especificacao": "9900515555 Boné Administrativo MCPM:brim pesado marrom café, brasão pintado, ajuste posterior em velcro.",
+              "unidade": "UND",
+              "quantidade": "32,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "2",
+          "titulo": "UNIFORMES PADRONIZADOS",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 4,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515556 Cinto Estudantil MCPM:nylon azul marinho de alta resistência, fivela metálica com brasão UEMC em alto relevo, costura reforçada e regulagem militar, em tamanhos variados que serão informados no momento da contratação.",
+              "unidade": "UND",
+              "quantidade": "1.000,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "2",
+              "especificacao": "9900515557 Meia Social Preta Administrativa:par, 100% poliamida, cano médio, reforço no calcanhar e ponteira, estrutura elástica que mantém o formato após lavagem, em tamanhos variados que serão informadas no momento da contratação.",
+              "unidade": "PAR",
+              "quantidade": "32,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "3",
+              "especificacao": "9900515558 Meia Social Preta Estudantil:par, 100% poliamida, cano médio, reforço no calcanhar e ponteira, estrutura elástica que mantém o formato após lavagem, destinada ao conjunto de uniformes estudantis, em tamanhos variados que serão informados no momento da contratação.",
+              "unidade": "PAR",
+              "quantidade": "1.000,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "4",
+              "especificacao": "9900515559 Tênis Preto Estudantil:material emborrachado, solado antiderrapante totalmente preto, palmilha anatômica, fechamento em cadarço, resistência a desgaste, em tamanhos variados que serão informados no momento da contratação.",
+              "unidade": "PAR",
+              "quantidade": "1.000,00",
+              "valor_referencia": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2-DLE-040-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "381 / 2026",
+      "modalidade": "DISPENSA ELETRÔNICA",
+      "situacao": "RECEPÇÃO DE PROPOSTAS",
+      "condutor": "ISLA LIMA SILVA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO",
+      "publicacao": "08/05/2026 10:44",
+      "inicio_recepcao": "08/05/2026 10:50",
+      "fim_recepcao": "14/05/2026 08:15",
+      "inicio_disputa": "14/05/2026 08:30",
+      "objeto": "Contratação de empresa especializada em fornecimento de [COLETES INSTITUCIONAIS] (material de consumo), a fim de atender as necessidades da Secretaria Municipal de Finanças.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DqGt_7lFG3Yu2iLjW0g4IkslpsyWbZTk4vCEQEab_yRQfH4mbuSxwpLpQ4ErwHWvHL9ZLA8QAZ52TEyZeJxE8J8CPvTdoASO2hsqjPwG0k64%3D",
+      "total_lotes": 4,
+      "total_itens": 4,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "8410114770 COLETE INSTITUCIONAL:Tamanho P; Emmaterial brim leve, tactel ou poliéster reforçado; Cor azul, conforme brasão PMTF; Fechamento com zíper frontal; 01 bolso superior com zíper (para documentos), 01 bolso interno; Com brasão da Prefeitura de Tei",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "511,41",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "8410114770 COLETE INSTITUCIONAL:Tamanho P; Emmaterial brim leve, tactel ou poliéster reforçado; Cor azul, conforme brasão PMTF; Fechamento com zíper frontal; 01 bolso superior com zíper (para documentos), 01 bolso interno; Com brasão da Prefeitura de Teixeira de Freitas bordado no peito esquerdo; Escrita de identificação na parte da frente: \"Secretaria Municipal de Finanças\", podendo ser bordada ou pintada, em cor branca ou amarela para contraste; Escrita de identificação nas costas: \"Fiscalização de Rendas\", \"Cadastro Técnico\" ou \"Dívida ativa\", podendo ser bordada ou pintada, em cor branca ou amarela para contraste.",
+              "unidade": "UND",
+              "quantidade": "3,00",
+              "valor_referencia": "170,47"
+            }
+          ]
+        },
+        {
+          "numero": "2",
+          "titulo": "8410114771 COLETE INSTITUCIONAL:Tamanho M; Emmaterial brim leve, tactel ou poliéster reforçado; Cor azul, conforme brasão PMTF; Fechamento com zíper frontal; 01 bolso superior com zíper (para documentos), 01 bolso interno; Com brasão da Prefeitura de Tei",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "2.975,70",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "8410114771 COLETE INSTITUCIONAL:Tamanho M; Emmaterial brim leve, tactel ou poliéster reforçado; Cor azul, conforme brasão PMTF; Fechamento com zíper frontal; 01 bolso superior com zíper (para documentos), 01 bolso interno; Com brasão da Prefeitura de Teixeira de Freitas bordado no peito esquerdo; Escrita de identificação na parte da frente: \"Secretaria Municipal de Finanças\", podendo ser bordada ou pintada, em cor branca ou amarela para contraste; Escrita de identificação nas costas: \"Fiscalização de Rendas\", \"Cadastro Técnico\" ou \"Dívida ativa\", podendo ser bordada ou pintada, em cor branca ou amarela para contraste.",
+              "unidade": "UND",
+              "quantidade": "15,00",
+              "valor_referencia": "198,38"
+            }
+          ]
+        },
+        {
+          "numero": "3",
+          "titulo": "8410114772 COLETE INSTITUCIONAL:Tamanho G; Emmaterial brim leve, tactel ou poliéster reforçado; Cor azul, conforme brasão PMTF; Fechamento com zíper frontal; 01 bolso superior com zíper (para documentos), 01 bolso interno; Com brasão da Prefeitura de Tei",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "3.053,40",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "8410114772 COLETE INSTITUCIONAL:Tamanho G; Emmaterial brim leve, tactel ou poliéster reforçado; Cor azul, conforme brasão PMTF; Fechamento com zíper frontal; 01 bolso superior com zíper (para documentos), 01 bolso interno; Com brasão da Prefeitura de Teixeira de Freitas bordado no peito esquerdo; Escrita de identificação na parte da frente: \"Secretaria Municipal de Finanças\", podendo ser bordada ou pintada, em cor branca ou amarela para contraste; Escrita de identificação nas costas: \"Fiscalização de Rendas\", \"Cadastro Técnico\" ou \"Dívida ativa\", podendo ser bordada ou pintada, em cor branca ou amarela para contraste.",
+              "unidade": "UND",
+              "quantidade": "14,00",
+              "valor_referencia": "218,10"
+            }
+          ]
+        },
+        {
+          "numero": "4",
+          "titulo": "8410114773 COLETE INSTITUCIONAL:Tamanho GG; Emmaterial brim leve, tactel ou poliéster reforçado; Cor azul, conforme brasão PMTF; Fechamento com zíper frontal; 01 bolso superior com zíper (para documentos), 01 bolso interno; Com brasão da Prefeitura de Te",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "672,54",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "8410114773 COLETE INSTITUCIONAL:Tamanho GG; Emmaterial brim leve, tactel ou poliéster reforçado; Cor azul, conforme brasão PMTF; Fechamento com zíper frontal; 01 bolso superior com zíper (para documentos), 01 bolso interno; Com brasão da Prefeitura de Teixeira de Freitas bordado no peito esquerdo; Escrita de identificação na parte da frente: \"Secretaria Municipal de Finanças\", podendo ser bordada ou pintada, em cor branca ou amarela para contraste; Escrita de identificação nas costas: \"Fiscalização de Rendas\", \"Cadastro Técnico\" ou \"Dívida ativa\", podendo ser bordada ou pintada, em cor branca ou amarela para contraste.",
+              "unidade": "UND",
+              "quantidade": "3,00",
+              "valor_referencia": "224,18"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-075-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "174 / 2026",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "RECEPÇÃO DE PROPOSTAS",
+      "condutor": "JONATAS DA SILVA SOUSA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO",
+      "publicacao": "06/05/2026 15:46",
+      "inicio_recepcao": "08/05/2026 08:30",
+      "fim_recepcao": "21/05/2026 09:45",
+      "inicio_disputa": "21/05/2026 10:00",
+      "objeto": "Contratação de empresa especializada em fornecimento de LINÓLEO (material de consumo),  a fim de atender as demandas da Secretaria Municipal de Cultura e Turismo.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DZtF_rCQHSPO0kO5XVYZ472OayZHMj_75emtzoG4qK5QI9OCl4O9c2hCETt5JGoAo0E1HI_PPfqFySqp_ihvU2vPI_UQqaQVkm6fT_2uvZck%3D",
+      "total_lotes": 1,
+      "total_itens": 1,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "LINÓLEO FINO",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515363 LINÓLEO FINO:- revestimento flexível compostopor óleo de linhaça, resinas naturais, cortiça e pigmentosminerais, prensados sobre base de juta; antiderrapante,resistente ao desgaste, com absorção de impacto; nas corescinza e/ou preto; largura padrão de 1.8 até 2 metros e espessurade 1.2mm",
+              "unidade": "m2",
+              "quantidade": "2.000,00",
+              "valor_referencia": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-074-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "1673 / 2025",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "RECEPÇÃO DE PROPOSTAS",
+      "condutor": "SERGIO CARNEIRO CAVALCANTI DE AZEVEDO",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "REGISTRO DE PREÇO",
+      "publicacao": "06/05/2026 12:23",
+      "inicio_recepcao": "08/05/2026 08:30",
+      "fim_recepcao": "21/05/2026 08:15",
+      "inicio_disputa": "21/05/2026 08:30",
+      "objeto": "Contratação de empresa especializada em fornecimento de TUBOS EM POLIETILENO DE ALTA DENSIDADE (PEAD) (material de consumo), cujas especificações técnicas, quantidades e demais condições encontram-se detalhadas neste instrumento, a fim de atender as demandas da Secretaria Municipal de Infraestrutura e Serviços Urbanos.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DDcQuaT29V_Ssz4Z5Ro8ESqz4DkpVv1KX4DiG3iok5VmldB1bIJlQzQlHg67NdhdhY3tf0lbEtwMQ8yZ8jnJ9UeGXjA1%2FEK9c29ti2EPNJKU%3D",
+      "total_lotes": 4,
+      "total_itens": 4,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "9900515230 TUBO PEAD 400 MM:tubo extrudado, parede dupla em pead (polietileno de alta densidade), com união ponta e bolsa, liso internamente e corrugado externamente, em barras de 6m de comprimento, cor preta, pigmentada com negro de fumo, com diâmetro no",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515230 TUBO PEAD 400 MM:tubo extrudado, parede dupla em pead (polietileno de alta densidade), com união ponta e bolsa, liso internamente e corrugado externamente, em barras de 6m de comprimento, cor preta, pigmentada com negro de fumo, com diâmetro nominal DN/DI 400 mm (baseado no diâmetro interno), classe de rigidez sn4, conforme norma DNIT 094/2014",
+              "unidade": "Und.",
+              "quantidade": "350,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "2",
+          "titulo": "9900515231 TUBO PEAD 800 MM:tubo extrudado, parede dupla em pead (polietileno de alta densidade), com união ponta e bolsa, liso internamente e corrugado externamente, em barras de 6m de comprimento, cor preta, pigmentada com negro de fumo, com diâmetro no",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515231 TUBO PEAD 800 MM:tubo extrudado, parede dupla em pead (polietileno de alta densidade), com união ponta e bolsa, liso internamente e corrugado externamente, em barras de 6m de comprimento, cor preta, pigmentada com negro de fumo, com diâmetro nominal DN/DI 800 mm (baseado no diâmetro interno), classe de rigidez sn4, conforme norma DNIT 094/2014",
+              "unidade": "Und.",
+              "quantidade": "200,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "3",
+          "titulo": "9900515232 TUBO PEAD 1500 MM:tubo extrudado, parede dupla em pead (polietileno de alta densidade), com união ponta e bolsa, liso internamente e corrugado externamente, em barras de 6m de comprimento, cor preta, pigmentada com negro de fumo, com diâmetro n",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515232 TUBO PEAD 1500 MM:tubo extrudado, parede dupla em pead (polietileno de alta densidade), com união ponta e bolsa, liso internamente e corrugado externamente, em barras de 6m de comprimento, cor preta, pigmentada com negro de fumo, com diâmetro nominal DN/DI 1500 mm (baseado no diâmetro interno), classe de rigidez sn2, conforme norma DNIT 094/2014",
+              "unidade": "Und.",
+              "quantidade": "60,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "4",
+          "titulo": "36839 TUBO PEAD 300 MM:: tubo extrudado, parede dupla em pead (polietileno de alta densidade), com união ponta e  bolsa, liso internamente e corrugado externamente, em  barras de 6m de comprimento, cor preta, pigmentada com  negro de fumo, com diâmetro no",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "36839 TUBO PEAD 300 MM:: tubo extrudado, parede dupla em pead (polietileno de alta densidade), com união ponta e bolsa, liso internamente e corrugado externamente, em barras de 6m de comprimento, cor preta, pigmentada com negro de fumo, com diâmetro nominal dn/di 300 mm (baseado no diâmetro interno), classe de rigidez sn4, conforme norma dnit 094/2014.",
+              "unidade": "Und.",
+              "quantidade": "200,00",
+              "valor_referencia": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3-DLE-044-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "441 / 2026",
+      "modalidade": "DISPENSA ELETRÔNICA",
+      "situacao": "JULGAMENTO",
+      "condutor": "ISLA LIMA SILVA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO PARCELADA",
+      "publicacao": "04/05/2026 11:21",
+      "inicio_recepcao": "04/05/2026 11:25",
+      "fim_recepcao": "08/05/2026 08:15",
+      "inicio_disputa": "08/05/2026 08:30",
+      "objeto": "Contratação de empresa especializada em fornecimento de MEDICAMENTOS (material de consumo),  a fim de atender as demandas da Secretaria Municipal de Saúde.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DDyy9f1YIACzJR5456bcCPHvQYZthrLaFarAoTOFlssojuUEdu3Bxep3HFSBJbovvZloNJG%2FPqlHNQjVhct60%2FM4n7pUBeC88LvbXZHRIQZ8%3D",
+      "total_lotes": 9,
+      "total_itens": 9,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "36637 ENALAPRIL:20MG. EXCLUVISO PARA ME/EPP.",
+          "fase": "HABILITAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "2.800,00",
+          "vencedor": "CALIXTO MEDICAMENTOS LTDA",
+          "melhor_oferta": "2.400,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "36637 ENALAPRIL:20MG. EXCLUVISO PARA ME/EPP.",
+              "unidade": "CO",
+              "quantidade": "40.000,00",
+              "valor_referencia": "0,07"
+            }
+          ]
+        },
+        {
+          "numero": "2",
+          "titulo": "34796 MICONAZOL:NITRATO 2% CREME VAGINAL. EXCLUVISO PARA ME/EPP.",
+          "fase": "DESERTO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "8.380,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "34796 MICONAZOL:NITRATO 2% CREME VAGINAL. EXCLUVISO PARA ME/EPP.",
+              "unidade": "Und.",
+              "quantidade": "2.000,00",
+              "valor_referencia": "4,19"
+            }
+          ]
+        },
+        {
+          "numero": "3",
+          "titulo": "36638 IBUPROFENO:50mg/Ml suspensão oral 30mL - gotas. EXCLUSIVO PARA ME/EPP.",
+          "fase": "HABILITAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "3.520,00",
+          "vencedor": "CALIXTO MEDICAMENTOS LTDA",
+          "melhor_oferta": "3.520,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "36638 IBUPROFENO:50mg/Ml suspensão oral 30mL - gotas. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "FR",
+              "quantidade": "1.600,00",
+              "valor_referencia": "2,20"
+            }
+          ]
+        },
+        {
+          "numero": "4",
+          "titulo": "35791 ALPRAZOLAM:2MG EXCLUSIVO PARA ME/EPP.",
+          "fase": "EM ADJUDICAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "180,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "35791 ALPRAZOLAM:2MG EXCLUSIVO PARA ME/EPP.",
+              "unidade": "CO",
+              "quantidade": "1.000,00",
+              "valor_referencia": "0,18"
+            }
+          ]
+        },
+        {
+          "numero": "5",
+          "titulo": "37313 NISTATINA:creme vaginal 25.000 UI/g tubo com 60g + aplicador. EXCLUVISO PARA ME/EPP.",
+          "fase": "HABILITAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "5.082,00",
+          "vencedor": "CALIXTO MEDICAMENTOS LTDA",
+          "melhor_oferta": "5.082,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37313 NISTATINA:creme vaginal 25.000 UI/g tubo com 60g + aplicador. EXCLUVISO PARA ME/EPP.",
+              "unidade": "Und.",
+              "quantidade": "700,00",
+              "valor_referencia": "7,26"
+            }
+          ]
+        },
+        {
+          "numero": "6",
+          "titulo": "9900100149 PERMAGANATO DE POTÁSSIO:100MG. EXCLUSIVO PARA ME/EPP.",
+          "fase": "DESERTO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "162,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900100149 PERMAGANATO DE POTÁSSIO:100MG. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "CO",
+              "quantidade": "600,00",
+              "valor_referencia": "0,27"
+            }
+          ]
+        },
+        {
+          "numero": "7",
+          "titulo": "34777 AZITROMICINA:comprimido revestido ou cápsula 500mg. EXCLUVISO PARA ME/EPP.",
+          "fase": "HABILITAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "8.100,00",
+          "vencedor": "CALIXTO MEDICAMENTOS LTDA",
+          "melhor_oferta": "8.100,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "34777 AZITROMICINA:comprimido revestido ou cápsula 500mg. EXCLUVISO PARA ME/EPP.",
+              "unidade": "CO",
+              "quantidade": "10.000,00",
+              "valor_referencia": "0,81"
+            }
+          ]
+        },
+        {
+          "numero": "8",
+          "titulo": "9900100209 Lanceta:para punção digital teste glicemico. EXCLUVISO PARA ME/EPP.",
+          "fase": "JULGAMENTO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "1.200,00",
+          "vencedor": "ERA DISTRIBUIDORA LTDA",
+          "melhor_oferta": "1.200,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900100209 Lanceta:para punção digital teste glicemico. EXCLUVISO PARA ME/EPP.",
+              "unidade": "Und.",
+              "quantidade": "8.000,00",
+              "valor_referencia": "0,15"
+            }
+          ]
+        },
+        {
+          "numero": "9",
+          "titulo": "37312 HALOPERIDOL:5MG/ML AMPOLA 1ML. EXCLUVISO PARA ME/EPP.",
+          "fase": "HABILITAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "3.780,00",
+          "vencedor": "VITALMED IMPORTAÇÃO, EXPORTAÇÃO E DISTRIBUIÇÃO LTDA",
+          "melhor_oferta": "3.400,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37312 HALOPERIDOL:5MG/ML AMPOLA 1ML. EXCLUVISO PARA ME/EPP.",
+              "unidade": "AMP",
+              "quantidade": "2.000,00",
+              "valor_referencia": "1,89"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CE-006-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "218/2026",
+      "modalidade": "CONCORRÊNCIA ELETRÔNICA",
+      "situacao": "JULGAMENTO",
+      "condutor": "DAVIDSON ARAUJO SANTOS",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO PARCELADA",
+      "publicacao": "30/03/2026 16:23",
+      "inicio_recepcao": "31/03/2026 08:00",
+      "fim_recepcao": "08/05/2026 08:15",
+      "inicio_disputa": "08/05/2026 08:30",
+      "objeto": "Contratação de empresa especializada em execução de obras de microdrenagem e pavimentação da rua Mauá, localizada no Centro, do município de Teixeira de Freitas – BA.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5D6xAN3WnWeIWt_ljPWqpp%2F2H3YEQFaT4OaqrE7E%2FeyxVOmU_Xkm0nbHOFBFuY7KEP7OTrOM64oywlES4waz2KAxhLVM%2FOzuio27pzbkOEgO8%3D",
+      "total_lotes": 1,
+      "total_itens": 4,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "EXECUÇÃO DE OBRAS DE MICRODRENAGEM E PAVIMENTAÇÃO DA RUA MAUÁ, LOCALIZADA NO CENTRO",
+          "fase": "JULGAMENTO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "1.000,00",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "1.886.275,46",
+          "vencedor": "CONSTRUTORA JF PRADO LTDA",
+          "melhor_oferta": "1.791.650,00",
+          "total_itens": 4,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "ADMINISTRAÇÃO LOCAL DE OBRA",
+              "unidade": "SERVIÇO",
+              "quantidade": "1,00",
+              "valor_referencia": "264.288,55"
+            },
+            {
+              "numero": "2",
+              "especificacao": "SERVIÇOS PRELIMINARES",
+              "unidade": "SERVIÇO",
+              "quantidade": "1,00",
+              "valor_referencia": "34.011,34"
+            },
+            {
+              "numero": "3",
+              "especificacao": "PAVIMENTAÇÃO",
+              "unidade": "SERVIÇO",
+              "quantidade": "1,00",
+              "valor_referencia": "667.474,53"
+            },
+            {
+              "numero": "4",
+              "especificacao": "MICRODRENAGEM",
+              "unidade": "SERVIÇO",
+              "quantidade": "1,00",
+              "valor_referencia": "920.501,04"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-002-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "1474/2025",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "HOMOLOGADO",
+      "condutor": "JONATAS DA SILVA SOUSA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "REGISTRO DE PREÇO",
+      "publicacao": "09/01/2026 11:54",
+      "inicio_recepcao": "13/01/2026 08:00",
+      "fim_recepcao": "23/01/2026 08:15",
+      "inicio_disputa": "23/01/2026 08:30",
+      "objeto": "Futura e eventual contratação de empresa especializada em fornecimento de PERIFÉRICOS DE INFORMÁTICA, EQUIPAMENTOS DE ILUMINAÇÃO, FILMAGEM, ÁUDIO E CELULAR (material de consumo) e (material permanente), a fim de atender as demandas da Secretaria Municipal de Educação.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DELVp951IUQ2WczUSRIQ6z3OBBk5iaFCkyDiG3Bd5c1KPW_eVM1pi6H75vVdliz_Vw8ipNeklNhQ4wuzpcq3a%2FlQMGsM5sdYzkQRYLzaDOS0%3D",
+      "total_lotes": 37,
+      "total_itens": 37,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "9900515062 Cartão SD:SD 128g, classe 10 200 MBS. EXCLUSIVO PARA ME/EPP.",
+          "fase": "FRACASSADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "1.089,12",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515062 Cartão SD:SD 128g, classe 10 200 MBS. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "6,00",
+              "valor_referencia": "181,52"
+            }
+          ]
+        },
+        {
+          "numero": "2",
+          "titulo": "9900515063 Cartão SD:128g 4K 120 classe 10 300MB/s v90ll. EXCLUSIVO PARA ME/EPP.",
+          "fase": "HOMOLOGADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "3.163,41",
+          "vencedor": "J.C ASSEF COMERCIO LTDA",
+          "melhor_oferta": "3.162,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515063 Cartão SD:128g 4K 120 classe 10 300MB/s v90ll. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "3,00",
+              "valor_referencia": "1.054,47"
+            }
+          ]
+        },
+        {
+          "numero": "3",
+          "titulo": "9900515064 Leitor de cartão USB:para SD +Tf. EXCLUSIVO PARA ME/EPP.",
+          "fase": "HOMOLOGADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "188,16",
+          "vencedor": "ROSA CAFE IMPORTS LTDA",
+          "melhor_oferta": "99,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515064 Leitor de cartão USB:para SD +Tf. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "3,00",
+              "valor_referencia": "62,72"
+            }
+          ]
+        },
+        {
+          "numero": "4",
+          "titulo": "9900515065 Fone de ouvido On-ear:anti ruido. Marca e modelo de referência: AKG K414. EXCLUSIVO PARA ME/EPP.",
+          "fase": "HOMOLOGADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "736,23",
+          "vencedor": "ROSA CAFE IMPORTS LTDA",
+          "melhor_oferta": "625,98",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515065 Fone de ouvido On-ear:anti ruido. Marca e modelo de referência: AKG K414. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "3,00",
+              "valor_referencia": "245,41"
+            }
+          ]
+        },
+        {
+          "numero": "5",
+          "titulo": "9900515066 Monitor:24 polegadas IPS FHD. EXCLUSIVO PARA ME/EPP.",
+          "fase": "HOMOLOGADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "3.104,95",
+          "vencedor": "J.C ASSEF COMERCIO LTDA",
+          "melhor_oferta": "3.100,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515066 Monitor:24 polegadas IPS FHD. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "5,00",
+              "valor_referencia": "620,99"
+            }
+          ]
+        },
+        {
+          "numero": "6",
+          "titulo": "9900515067 Suporte articulado:para monitor de mesa de 24 polegadas. EXCLUSIVO PARA ME/EPP.",
+          "fase": "HOMOLOGADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "504,00",
+          "vencedor": "ROSA CAFE IMPORTS LTDA",
+          "melhor_oferta": "369,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515067 Suporte articulado:para monitor de mesa de 24 polegadas. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "3,00",
+              "valor_referencia": "168,00"
+            }
+          ]
+        },
+        {
+          "numero": "7",
+          "titulo": "9900515068 Alto-falante:com 2 woofers e um par de tweeters, minimo de 15 horas de reprodução, resistente a respingos.Marca e modelo de referência: JBL Partybox Stage. EXCLUSIVO PARA ME/EPP.",
+          "fase": "HOMOLOGADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "7.399,34",
+          "vencedor": "ELIZETE APARECIDA PIMENTEL ME",
+          "melhor_oferta": "7.399,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515068 Alto-falante:com 2 woofers e um par de tweeters, minimo de 15 horas de reprodução, resistente a respingos.Marca e modelo de referência: JBL Partybox Stage. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "2,00",
+              "valor_referencia": "3.699,67"
+            }
+          ]
+        },
+        {
+          "numero": "8",
+          "titulo": "9900515069 Par de Microfone Sem fio:Minimo de 12 horas de reprodução, distancia de no minimo 20m. Marca e modelo de referência: JBL PartyBox Wireless Mic. EXCLUSIVO PARA ME/EPP.",
+          "fase": "HOMOLOGADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "2.548,59",
+          "vencedor": "TEIXEIRA INFORMÁTICA LTDA",
+          "melhor_oferta": "2.535,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515069 Par de Microfone Sem fio:Minimo de 12 horas de reprodução, distancia de no minimo 20m. Marca e modelo de referência: JBL PartyBox Wireless Mic. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "PAR",
+              "quantidade": "3,00",
+              "valor_referencia": "849,53"
+            }
+          ]
+        },
+        {
+          "numero": "9",
+          "titulo": "9900515072 Bastão de led iluminação rgb, minimo de 25w de potencia, acessorios inclusos:estojo para transporte, fonte e tripé. Marca e modelo de referência: Sokani X25. EXCLUSIVO PARA ME/EPP.",
+          "fase": "FRACASSADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "1.919,07",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515072 Bastão de led iluminação rgb, minimo de 25w de potencia, acessorios inclusos:estojo para transporte, fonte e tripé. Marca e modelo de referência: Sokani X25. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "3,00",
+              "valor_referencia": "639,69"
+            }
+          ]
+        },
+        {
+          "numero": "10",
+          "titulo": "36471 Softbox:minimo de 90cm de diametro. Marca e modelo de referência: Triopo K2-90cm. EXCLUSIVO PARA ME/EPP.",
+          "fase": "FRACASSADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "2.779,85",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "36471 Softbox:minimo de 90cm de diametro. Marca e modelo de referência: Triopo K2-90cm. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "5,00",
+              "valor_referencia": "555,97"
+            }
+          ]
+        },
+        {
+          "numero": "11",
+          "titulo": "9900515073 Case mochila:para equipamentos (mochila para transportar câmera), resistente a agua. EXCLUSIVO PARA ME/EPP.",
+          "fase": "FRACASSADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "1.083,75",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515073 Case mochila:para equipamentos (mochila para transportar câmera), resistente a agua. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "3,00",
+              "valor_referencia": "361,25"
+            }
+          ]
+        },
+        {
+          "numero": "12",
+          "titulo": "36472 Câmera Filmadora:Mirrorless Sony FX-30 - Corpo (01 unidade) + 2 Baterias. EXCLUSIVO PARA ME/EPP.",
+          "fase": "HOMOLOGADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "37.355,64",
+          "vencedor": "ELIZETE APARECIDA PIMENTEL ME",
+          "melhor_oferta": "35.400,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "36472 Câmera Filmadora:Mirrorless Sony FX-30 - Corpo (01 unidade) + 2 Baterias. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "3,00",
+              "valor_referencia": "12.451,88"
+            }
+          ]
+        },
+        {
+          "numero": "13",
+          "titulo": "36473 Câmera:fotografica Z5-2 Nikon. EXCLUSIVO PARA ME/EPP.",
+          "fase": "FRACASSADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "40.924,89",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "36473 Câmera:fotografica Z5-2 Nikon. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "3,00",
+              "valor_referencia": "13.641,63"
+            }
+          ]
+        },
+        {
+          "numero": "14",
+          "titulo": "36474 Lente:28-75 f2.8 Nikon LINHA Z. EXCLUSIVO PARA ME/EPP.",
+          "fase": "HOMOLOGADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "14.851,16",
+          "vencedor": "ELIZETE APARECIDA PIMENTEL ME",
+          "melhor_oferta": "13.500,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "36474 Lente:28-75 f2.8 Nikon LINHA Z. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "2,00",
+              "valor_referencia": "7.425,58"
+            }
+          ]
+        },
+        {
+          "numero": "15",
+          "titulo": "36475 Lente:Tamron 17-70mm F/2.8 Di Iii-a Vc Rxd para câmeras Sony E-mount. EXCLUSIVO PARA ME/EPP.",
+          "fase": "HOMOLOGADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "15.971,19",
+          "vencedor": "ELIZETE APARECIDA PIMENTEL ME",
+          "melhor_oferta": "14.400,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "36475 Lente:Tamron 17-70mm F/2.8 Di Iii-a Vc Rxd para câmeras Sony E-mount. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "3,00",
+              "valor_referencia": "5.323,73"
+            }
+          ]
+        },
+        {
+          "numero": "16",
+          "titulo": "9900830404 Filtro ND para Lente:Tonrom variavel 67mm ND3 - ND1000 / hd ultrafino. EXCLUSIVO PARA ME/EPP.",
+          "fase": "FRACASSADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "984,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900830404 Filtro ND para Lente:Tonrom variavel 67mm ND3 - ND1000 / hd ultrafino. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "3,00",
+              "valor_referencia": "328,00"
+            }
+          ]
+        },
+        {
+          "numero": "17",
+          "titulo": "36476 Gimbal:para Câmeras DSLR e Mirrorless. Marca e modelo de referência: Scorp 2 ? FaiyuTech. EXCLUSIVO PARA ME/EPP.",
+          "fase": "HOMOLOGADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "7.090,62",
+          "vencedor": "VIH NEGOCIOS COMERCIO E SERVIÇOS LTDA",
+          "melhor_oferta": "6.600,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "36476 Gimbal:para Câmeras DSLR e Mirrorless. Marca e modelo de referência: Scorp 2 ? FaiyuTech. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "3,00",
+              "valor_referencia": "2.363,54"
+            }
+          ]
+        },
+        {
+          "numero": "18",
+          "titulo": "9900830405 Estabilizador:dobravel e magnetico. Marca e modelo de referência: DJI Osmo Mobile SE. EXCLUSIVO PARA ME/EPP.",
+          "fase": "HOMOLOGADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "1.474,50",
+          "vencedor": "ELIZETE APARECIDA PIMENTEL ME",
+          "melhor_oferta": "1.399,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900830405 Estabilizador:dobravel e magnetico. Marca e modelo de referência: DJI Osmo Mobile SE. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "2,00",
+              "valor_referencia": "737,25"
+            }
+          ]
+        },
+        {
+          "numero": "19",
+          "titulo": "9900830406 Gravador de Audio:Marca e modelo de referência:Taskam Dr 40X. EXCLUSIVO PARA ME/EPP.",
+          "fase": "HOMOLOGADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "3.332,68",
+          "vencedor": "VIH NEGOCIOS COMERCIO E SERVIÇOS LTDA",
+          "melhor_oferta": "3.150,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900830406 Gravador de Audio:Marca e modelo de referência:Taskam Dr 40X. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "2,00",
+              "valor_referencia": "1.666,34"
+            }
+          ]
+        },
+        {
+          "numero": "20",
+          "titulo": "36477 Flash:Godox V860 Linha Z - Nikon. EXCLUSIVO PARA ME/EPP.",
+          "fase": "HOMOLOGADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "2.681,96",
+          "vencedor": "J.C ASSEF COMERCIO LTDA",
+          "melhor_oferta": "2.681,80",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "36477 Flash:Godox V860 Linha Z - Nikon. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "2,00",
+              "valor_referencia": "1.340,98"
+            }
+          ]
+        },
+        {
+          "numero": "21",
+          "titulo": "9900830407 Tripé de aço inoxidável:2.6 dobravel, com suporte para luz: Cabeça Hidráulica. Marca e modelo de referência: Manfrotto Mt055xpro3 Mvh500ah. EXCLUSIVO PARA ME/EPP.",
+          "fase": "FRACASSADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "6.654,66",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900830407 Tripé de aço inoxidável:2.6 dobravel, com suporte para luz: Cabeça Hidráulica. Marca e modelo de referência: Manfrotto Mt055xpro3 Mvh500ah. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "3,00",
+              "valor_referencia": "2.218,22"
+            }
+          ]
+        },
+        {
+          "numero": "22",
+          "titulo": "36478 MICROFONE SHOTGUN PROFISSIONAL C/CAPTAÇÃO DIRECIONAL:Padrão Polar Super Tipo de Captura ExtremoFaixa de Frequência 20Hz - 20kHz Impedância de Saída 200; Recursos:Sensibilidade -32,0dB re 1 Volt /+/- 2 dB @ 1kHz Nível de Ruído Equivalente (Pondera",
+          "fase": "FRACASSADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "5.266,74",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "36478 MICROFONE SHOTGUN PROFISSIONAL C/CAPTAÇÃO DIRECIONAL:Padrão Polar Super Tipo de Captura ExtremoFaixa de Frequência 20Hz - 20kHz Impedância de Saída 200; Recursos:Sensibilidade -32,0dB re 1 Volt /+/- 2 dB @ 1kHz Nível de Ruído Equivalente (Ponderado A) 16dBA Energia:Requisitos de Energia P12 P24 P48 Saída XLRConteúdo da embalagem:- 1 x NTG4- 1 x RM5- 1 x Windshield- 1 x ZP1 EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "2,00",
+              "valor_referencia": "2.633,37"
+            }
+          ]
+        },
+        {
+          "numero": "23",
+          "titulo": "36479 Suporte:adaptador bowens para speedlight, cabeça redonda. EXCLUSIVO PARA ME/EPP.",
+          "fase": "HOMOLOGADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "676,08",
+          "vencedor": "J.C ASSEF COMERCIO LTDA",
+          "melhor_oferta": "676,05",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "36479 Suporte:adaptador bowens para speedlight, cabeça redonda. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "3,00",
+              "valor_referencia": "225,36"
+            }
+          ]
+        },
+        {
+          "numero": "24",
+          "titulo": "9900830408 Smartphone:256gb, minimo de 48 megapixels 4K, minimo de 12 de ram. Marca e modelo de referência: Iphone 17 Pro Max ou S25 Ultra. EXCLUSIVO PARA ME/EPP.",
+          "fase": "HOMOLOGADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "22.182,00",
+          "vencedor": "ELIZETE APARECIDA PIMENTEL ME",
+          "melhor_oferta": "21.399,99",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900830408 Smartphone:256gb, minimo de 48 megapixels 4K, minimo de 12 de ram. Marca e modelo de referência: Iphone 17 Pro Max ou S25 Ultra. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "3,00",
+              "valor_referencia": "7.394,00"
+            }
+          ]
+        },
+        {
+          "numero": "25",
+          "titulo": "36480 Rádio flash:Godox X nano X3 - n transmissor para Nikon. EXCLUSIVO PARA ME/EPP.",
+          "fase": "HOMOLOGADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "1.927,86",
+          "vencedor": "J.C ASSEF COMERCIO LTDA",
+          "melhor_oferta": "1.927,50",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "36480 Rádio flash:Godox X nano X3 - n transmissor para Nikon. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "3,00",
+              "valor_referencia": "642,62"
+            }
+          ]
+        },
+        {
+          "numero": "26",
+          "titulo": "9900830410 Conjunto fundo Chroma Key:tripé + tecido 3x3m. EXCLUSIVO PARA ME/EPP.",
+          "fase": "HOMOLOGADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "1.012,48",
+          "vencedor": "ROSA CAFE IMPORTS LTDA",
+          "melhor_oferta": "750,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900830410 Conjunto fundo Chroma Key:tripé + tecido 3x3m. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "2,00",
+              "valor_referencia": "506,24"
+            }
+          ]
+        },
+        {
+          "numero": "27",
+          "titulo": "9900830411 Drone DJI Avata Fly Smart Combo + DJI Goggles V2 4K Motion:ESPECIFICAÇÕES DO PRODUTO:- Tempo de voo: Até 18 minutos- Distância máxima de voo: Até 10 km (FCC)- Detecção de obstáculos: 1 direção: Inferior- Velocidade máxima: 97,2 km/h- Resis",
+          "fase": "CANCELADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "38.898,87",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900830411 Drone DJI Avata Fly Smart Combo + DJI Goggles V2 4K Motion:ESPECIFICAÇÕES DO PRODUTO:- Tempo de voo: Até 18 minutos- Distância máxima de voo: Até 10 km (FCC)- Detecção de obstáculos: 1 direção: Inferior- Velocidade máxima: 97,2 km/h- Resistência a vento: 38,5 km/h- Peso: 410 g- Câmera: 1/1.7? - Pixels efetivos: 48 MP- Resolução DJI FPV Goggles V2: 4K 50/60fps - 2.7K 50/60/100/120fps - 1080p 50/60/100/120fps- Abertura: f/2.8- Vídeo: Estabilizado em 4K- Estabilização avançada: HorizonSteady e RockSteady- Motion Controller- Peso: 167 g- Autonomia: 5h- Tempo de recarga: 2h30- Garantia de 24 meses contra defeito de fabricação INCLUSO:- 1 Drone DJI Avata; 1 DJI FPV Goggles V2;- 1 DJI Motion Controller,- 3 Baterias para DJI Avata; - 1 Hub de carregamento do DJI Avata;- 3 Pares de hélices;- 1 Adaptador de energia;- 1 Protetor do gimbal;- 1 Cabo tipo C;- 1 Chave de remoção dos parafusos;- 4 Parafusos (M2×7);- 1 Bateria para DJI FPV Goggles V2;- 1 Faixa de cabeça para DJI FPV Goggles V2;- 1 Cabo carregador para DJI FPV Goggles V2 (USB-C);- 4 Antenas para DJI FPV Goggles V2;- 1 Cabo USB-C DJI FPV Goggles V2;- 1 Cabo OTG para DJI FPV Goggles V2;- 1 Cordão. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "3,00",
+              "valor_referencia": "12.966,29"
+            }
+          ]
+        },
+        {
+          "numero": "28",
+          "titulo": "36481 Rádio Comunicador:Rádio Comunicador na cor preta; mínimo de 30km de distância, mínimo de 16 canais; duas fontes de energia: a bateria recarregável ou pilhas AA; com presilha de cinto. EXCLUSIVO PARA ME/EPP.",
+          "fase": "HOMOLOGADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "7.019,12",
+          "vencedor": "INFOSHOP41 TELEINFORMÁTICA LTDA",
+          "melhor_oferta": "4.800,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "36481 Rádio Comunicador:Rádio Comunicador na cor preta; mínimo de 30km de distância, mínimo de 16 canais; duas fontes de energia: a bateria recarregável ou pilhas AA; com presilha de cinto. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "PAR",
+              "quantidade": "8,00",
+              "valor_referencia": "877,39"
+            }
+          ]
+        },
+        {
+          "numero": "29",
+          "titulo": "9900830429 Processador:Intel Core i7-14700 ou superior, soquete LGA1700, 20 núcleos físicos (8 Performance + 12 Efficient) e 28 threads, frequência turbo de no mínimo 5.4 GHz, cache L3 mínimo de 33 MB. EXCLUSIVO PARA ME/EPP.",
+          "fase": "FRACASSADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "7.315,62",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900830429 Processador:Intel Core i7-14700 ou superior, soquete LGA1700, 20 núcleos físicos (8 Performance + 12 Efficient) e 28 threads, frequência turbo de no mínimo 5.4 GHz, cache L3 mínimo de 33 MB. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "3,00",
+              "valor_referencia": "2.438,54"
+            }
+          ]
+        },
+        {
+          "numero": "30",
+          "titulo": "9900830430 Air Cooler:TDP mínimo de 200W, com mínimo de 4 heatpipes, fabricado em cobre (base e heatpipe), aletas de resfriamento em alumínio, Velocidade Max de rotação 1200 RPM; compatível com soquete LGA1700. EXCLUSIVO PARA ME/EPP.",
+          "fase": "FRACASSADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "331,32",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900830430 Air Cooler:TDP mínimo de 200W, com mínimo de 4 heatpipes, fabricado em cobre (base e heatpipe), aletas de resfriamento em alumínio, Velocidade Max de rotação 1200 RPM; compatível com soquete LGA1700. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "3,00",
+              "valor_referencia": "110,44"
+            }
+          ]
+        },
+        {
+          "numero": "31",
+          "titulo": "9900830431 Placa Gráfica (GPU):placa gráfica dedicada baseada em GPU NVIDIA GeForce RTX 5060 ou superior, com as seguintes características mínimas: 8 GB de memória de vídeo dedicada GDDR7, interface de 128 bits, largura de banda mínima de 448 GB/s; Barram",
+          "fase": "FRACASSADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "12.508,70",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900830431 Placa Gráfica (GPU):placa gráfica dedicada baseada em GPU NVIDIA GeForce RTX 5060 ou superior, com as seguintes características mínimas: 8 GB de memória de vídeo dedicada GDDR7, interface de 128 bits, largura de banda mínima de 448 GB/s; Barramento PCI-Express 5.0 (x8 ou x16), compatível com o slot PCI-Express x16; Suporte a ray tracing em tempo real e núcleos dedicados de IA (Tensor Cores) para aceleração de aplicações de criação de conteúdo e edição de vídeo; Mínimo de 4 saídas de vídeo digitais, sendo pelo menos 3 DisplayPort 2.1b e 1 HDMI 2.1b, com suporte a resolução 4K em alta taxa de atualização; Suporte simultâneo a, no mínimo, 4 monitores; Consumo máximo de energia de até 150 W, não exigindo mais do que 1 conector de alimentação PCIe 8 pinos (6+2) ou conector 12VHPWR equivalente; Total compatibilidade com os principais softwares de edição de vídeo profissionais (Adobe Premiere Pro, DaVinci Resolve, etc.), com aceleração por GPU. Observações: Não serão aceitas soluções baseadas em GPU de notebook (\"Mobile\", \"Laptop GPU\") ou modelos integrados/onboard. A contratada deverá informar, na proposta, marca, modelo exato e código do fabricante da placa gráfica ofertada, que deverá atender integralmente às especificações mínimas acima. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "5,00",
+              "valor_referencia": "2.501,74"
+            }
+          ]
+        },
+        {
+          "numero": "32",
+          "titulo": "9900830432 Memória RAM:32 GB DDR5, em 2 módulos de 16 GB cada (dual channel), frequência efetiva mínima de 5600 MHz. Observação: Os dois módulos deverão ser da mesma marca e modelo. EXCLUSIVO PARA ME/EPP.",
+          "fase": "FRACASSADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "3.195,90",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900830432 Memória RAM:32 GB DDR5, em 2 módulos de 16 GB cada (dual channel), frequência efetiva mínima de 5600 MHz. Observação: Os dois módulos deverão ser da mesma marca e modelo. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "PAR",
+              "quantidade": "3,00",
+              "valor_referencia": "1.065,30"
+            }
+          ]
+        },
+        {
+          "numero": "33",
+          "titulo": "36664 Placa-mãe:placa-mãe padrão ATX, com chipset Intel  Z790 ou superior, soquete LGA1700, compatível nativamente com processadores Intel Core de 13ª e 14ª geração, com as seguintes características mínimas: Suporte a memória DDR5, com no mínimo 4 slots,",
+          "fase": "HOMOLOGADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "6.315,39",
+          "vencedor": "ROSA CAFE IMPORTS LTDA",
+          "melhor_oferta": "6.300,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "36664 Placa-mãe:placa-mãe padrão ATX, com chipset Intel Z790 ou superior, soquete LGA1700, compatível nativamente com processadores Intel Core de 13ª e 14ª geração, com as seguintes características mínimas: Suporte a memória DDR5, com no mínimo 4 slots, suportando, no mínimo, 128 GB de RAM e frequência efetiva mínima de 5600 MHz, ou superior, conforme documentação do fabricante; 1 slot PCI-Express x16 com padrão PCIe 5.0 para placa de vídeo dedicada; Mínimo de 3 slots M.2 PCI-Express NVMe, sendo ao menos 2 com interface PCIe 4.0 x4; Mínimo de 4 portas SATA III (6 Gb/s) para unidades adicionais de armazenamento; Controladora de rede Ethernet 10/100/1000 Mbps ou superior integrada; Controladora Wi-Fi 6 (802.11ax) ou superior e Bluetooth 5.2 ou superior integrados; Áudio integrado de alta definição (HD Audio), padrão 7.1 canais ou superior; Saída de vídeo integrada HDMI e/ou Display Port; Mínimo de 6 portas USB, sendo no mínimo, 2 USB 3.2 Gen 1 ou superior e 1 porta USB tipo C; BIOS/UEFI atualizável, com suporte a boot em modo UEFI e configuração por interface gráfica. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "3,00",
+              "valor_referencia": "2.105,13"
+            }
+          ]
+        },
+        {
+          "numero": "34",
+          "titulo": "9900830433 SSD M.2 NVMe:com capacidade mínima de 1 TB, interface PCI-Express 4.0 x4, velocidade de leitura sequencial mínima de 3.500 MB/s e gravação sequencial mínima de 3.000 MB/s, com memória do tipo 3D NAND. EXCLUSIVO PARA ME/EPP.",
+          "fase": "FRACASSADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "3.867,96",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900830433 SSD M.2 NVMe:com capacidade mínima de 1 TB, interface PCI-Express 4.0 x4, velocidade de leitura sequencial mínima de 3.500 MB/s e gravação sequencial mínima de 3.000 MB/s, com memória do tipo 3D NAND. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "6,00",
+              "valor_referencia": "644,66"
+            }
+          ]
+        },
+        {
+          "numero": "35",
+          "titulo": "9900830434 Fonte de alimentação:com potência mínima de 800W reais bivolt, certificação 80 Plus Bronze ou sistema de certificação equivalente ou superior, com PFC ativo, padrão ATX, com, no mínimo: 2 conector PCI-Express 8 pinos (6+2) para placa de vídeo;",
+          "fase": "HOMOLOGADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "1.266,00",
+          "vencedor": "TEIXEIRA INFORMÁTICA LTDA",
+          "melhor_oferta": "1.266,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900830434 Fonte de alimentação:com potência mínima de 800W reais bivolt, certificação 80 Plus Bronze ou sistema de certificação equivalente ou superior, com PFC ativo, padrão ATX, com, no mínimo: 2 conector PCI-Express 8 pinos (6+2) para placa de vídeo; 1 conector EPS 8 pinos para CPU; Proteções contra sobrecorrente (OCP), sobretensão (OVP), subtensão (UVP), curto-circuito (SCP) e sobretemperatura (OTP); EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "3,00",
+              "valor_referencia": "422,00"
+            }
+          ]
+        },
+        {
+          "numero": "36",
+          "titulo": "9900830435 Gabinete:tipo torre (mid tower), com: Compatibilidade com placas-mãe ATX, micro-ATX e mini-ITX; Suporte para placas de vídeo de até, no mínimo, 320 mm de comprimento; Suporte para coolers de processador de até, no mínimo, 160 mm de altura; Míni",
+          "fase": "HOMOLOGADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "1.025,25",
+          "vencedor": "TEIXEIRA INFORMÁTICA LTDA",
+          "melhor_oferta": "870,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900830435 Gabinete:tipo torre (mid tower), com: Compatibilidade com placas-mãe ATX, micro-ATX e mini-ITX; Suporte para placas de vídeo de até, no mínimo, 320 mm de comprimento; Suporte para coolers de processador de até, no mínimo, 160 mm de altura; Mínimo de 4 ventoinhas de 120 mm instaladas (2 frontais, 1 traseira e 1 superior), com fluxo de ar otimizado; Painel frontal com, no mínimo, 2 portas USB (1 delas USB 3.0) e conectores P2 de áudio; Filtro de poeira removível. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "3,00",
+              "valor_referencia": "341,75"
+            }
+          ]
+        },
+        {
+          "numero": "37",
+          "titulo": "36666 Fone de ouvido:tipo over-ear fechado (closed-back), faixa de resposta de frequência mínima de 18 Hz a 20.000 Hz, sensibilidade mínima de 98 dB SPL/V e impedância nominal entre 32 e 47 Ohms, potência máxima de entrada de pelo menos 200 mW, assegurand",
+          "fase": "HOMOLOGADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "4.276,53",
+          "vencedor": "J.C ASSEF COMERCIO LTDA",
+          "melhor_oferta": "4.276,35",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "36666 Fone de ouvido:tipo over-ear fechado (closed-back), faixa de resposta de frequência mínima de 18 Hz a 20.000 Hz, sensibilidade mínima de 98 dB SPL/V e impedância nominal entre 32 e 47 Ohms, potência máxima de entrada de pelo menos 200 mW, assegurando estabilidade mesmo em usos prolongados. As almofadas das conchas deverão ser confeccionadas em couro ou couro sintético, proporcionando conforto e durabilidade, com earpads substituíveis. Comprimento mínimo do cabo: 2,0 metros, podendo ser do tipo reto ou espiralado, desde que ofereça resistência e mobilidade adequadas ao uso profissional, conector P2 (3,5 mm) e deverá acompanhar adaptador para P10 (6,35 mm) ou padrão equivalente que permita a utilização em diferentes equipamentos. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "9,00",
+              "valor_referencia": "475,17"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CE-006-2025",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "641/2025",
+      "modalidade": "CONCORRÊNCIA ELETRÔNICA",
+      "situacao": "HOMOLOGADO",
+      "condutor": "DAVIDSON ARAUJO SANTOS",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO PARCELADA",
+      "publicacao": "14/04/2025 10:37",
+      "inicio_recepcao": "15/04/2025 08:00",
+      "fim_recepcao": "28/05/2025 10:15",
+      "inicio_disputa": "28/05/2025 10:30",
+      "objeto": "Contratação de empresa especializada em execução de obras de construção dos quiosques e banheiros na praça do Parque \nda Biquinha, no bairro Colina Verde, no município de Teixeira de Freitas – BA.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DhjjpifrlkzLRiuErmupa5OkKMy3TE7Tx6fg0Jb1Oo7vxvM6sUIRSvA1xrFwGHXX5hbJ02czxAPzBiijAYJ5qP0KtR6DOy5k4IU7GT0DmqTM%3D",
+      "total_lotes": 1,
+      "total_itens": 15,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "OBRAS DE CONSTRUÇÃO DOS QUIOSQUES E BANHEIROS NA PRAÇA DO PARQUE DA  BIQUINHA",
+          "fase": "HOMOLOGADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "1.000,00",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "434.649,50",
+          "vencedor": "CONSTRUTORA JF PRADO LTDA",
+          "melhor_oferta": "374.000,00",
+          "total_itens": 15,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "ADMINISTRAÇÃO LOCAL DA OBRA",
+              "unidade": "SERVIÇO",
+              "quantidade": "1,00",
+              "valor_referencia": "21.800,52"
+            },
+            {
+              "numero": "2",
+              "especificacao": "SERVIÇOS PRELIMINARES",
+              "unidade": "SERVIÇO",
+              "quantidade": "1,00",
+              "valor_referencia": "68.866,48"
+            },
+            {
+              "numero": "3",
+              "especificacao": "INFRAESTRUTURA",
+              "unidade": "UNIDADE",
+              "quantidade": "1,00",
+              "valor_referencia": "48.095,05"
+            },
+            {
+              "numero": "4",
+              "especificacao": "SUPERESTRUTURA",
+              "unidade": "UNIDADE",
+              "quantidade": "1,00",
+              "valor_referencia": "71.221,27"
+            },
+            {
+              "numero": "5",
+              "especificacao": "ALVENARIA-VEDAÇÃO",
+              "unidade": "UNIDADE",
+              "quantidade": "1,00",
+              "valor_referencia": "61.184,02"
+            },
+            {
+              "numero": "6",
+              "especificacao": "COBERTURA",
+              "unidade": "UNIDADE",
+              "quantidade": "1,00",
+              "valor_referencia": "37.606,07"
+            },
+            {
+              "numero": "7",
+              "especificacao": "INSTALAÇÃO HIDROSSANITÁRIA",
+              "unidade": "UNIDADE",
+              "quantidade": "1,00",
+              "valor_referencia": "10.421,43"
+            },
+            {
+              "numero": "8",
+              "especificacao": "INSTALAÇÃO ELÉTRICA",
+              "unidade": "SERVIÇO",
+              "quantidade": "1,00",
+              "valor_referencia": "31.068,23"
+            },
+            {
+              "numero": "9",
+              "especificacao": "REVESTIMENTO",
+              "unidade": "UNIDADE",
+              "quantidade": "1,00",
+              "valor_referencia": "11.308,57"
+            },
+            {
+              "numero": "10",
+              "especificacao": "PAVIMENTAÇÃO (PISOS)",
+              "unidade": "UNIDADE",
+              "quantidade": "1,00",
+              "valor_referencia": "36.294,19"
+            },
+            {
+              "numero": "11",
+              "especificacao": "ESQUADRIAS",
+              "unidade": "UNIDADE",
+              "quantidade": "1,00",
+              "valor_referencia": "13.956,73"
+            },
+            {
+              "numero": "12",
+              "especificacao": "FORRO",
+              "unidade": "UNIDADE",
+              "quantidade": "1,00",
+              "valor_referencia": "803,66"
+            },
+            {
+              "numero": "13",
+              "especificacao": "PINTURA",
+              "unidade": "UNIDADE",
+              "quantidade": "1,00",
+              "valor_referencia": "12.833,28"
+            },
+            {
+              "numero": "14",
+              "especificacao": "LOUÇAS E METAIS",
+              "unidade": "UNIDADE",
+              "quantidade": "1,00",
+              "valor_referencia": "8.196,18"
+            },
+            {
+              "numero": "15",
+              "especificacao": "SERVIÇOS COMPLEMENTARES",
+              "unidade": "UNIDADE",
+              "quantidade": "1,00",
+              "valor_referencia": "993,82"
             }
           ]
         }
