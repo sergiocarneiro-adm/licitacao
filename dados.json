@@ -4,7 +4,7 @@
     "total_processos": 781,
     "total_lotes": 8701,
     "total_itens": 14896,
-    "atualizado_em": "20260508_193505"
+    "atualizado_em": "20260511_193519"
   },
   "processos": [
     {
@@ -260260,309 +260260,6 @@
       ]
     },
     {
-      "id": "PE-056-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "132/2026",
-      "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "JULGAMENTO",
-      "condutor": "JONATAS DA SILVA SOUSA",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "REGISTRO DE PREÇO",
-      "publicacao": "09/04/2026 15:19",
-      "inicio_recepcao": "13/04/2026 08:30",
-      "fim_recepcao": "27/04/2026 09:45",
-      "inicio_disputa": "27/04/2026 10:00",
-      "objeto": "A Contratação de empresa especializada em FORNECIMENTO DE ESQUADRIAS DE MADEIRA, DE ALUMÍNIO E ACESSÓRIOS,  a fim de atender as demandas da Secretaria Municipal de Infraestrutura e Serviços Urbanos.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DV%2FE61oHUHb9q4NA9OjzQku70dGpuHBXr1CZii79VaHdyRN38Vj0V%2FYMQVe%2FHdeHzHEtyd0Ijjp42pLTR3MycG843SCkcynkRAYdaXlBUcjI%3D",
-      "total_lotes": 1,
-      "total_itens": 38,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "ESQUADRIAS DE MADEIRA",
-          "fase": "JULGAMENTO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "491.610,79",
-          "vencedor": "EDSON MATERIAL DE CONSTRUÇÃO LTDA",
-          "melhor_oferta": "422.348,72",
-          "total_itens": 38,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "5502000001 FECHADURA PARA PORTA EXTERNA PADRAO MÉDIO:FECHADURA PARA PORTA EXTERNA PADRAO MÉDIO",
-              "unidade": "UND",
-              "quantidade": "280,00",
-              "valor_referencia": "51,01"
-            },
-            {
-              "numero": "2",
-              "especificacao": "5502000002 FECHADURA PARA PORTA DE BANHEIRO PADRAO MÉDIO:FECHADURA PARA PORTA DE BANHEIRO PADRAO MÉDIO",
-              "unidade": "UND",
-              "quantidade": "120,00",
-              "valor_referencia": "60,55"
-            },
-            {
-              "numero": "3",
-              "especificacao": "5502000003 FECHADURA PARA PORTA EXTERNA CHAVE TETRA::FECHADURA PARA PORTA EXTERNA CHAVE TETRA",
-              "unidade": "UND",
-              "quantidade": "70,00",
-              "valor_referencia": "103,25"
-            },
-            {
-              "numero": "4",
-              "especificacao": "5502000004 FECHADURA EXTERNA DE SOBREPOR P/ PORTÃO CHAVE TETRA:FECHADURA EXTERNA DE SOBREPOR P/ PORTÃO CHAVE TETRA",
-              "unidade": "UND",
-              "quantidade": "90,00",
-              "valor_referencia": "91,16"
-            },
-            {
-              "numero": "5",
-              "especificacao": "5502000005 JANELA DUPLA DE MADEIRA DO TIPO ALMOFADA 1,20X1,10 M:JANELA DUPLA DE MADEIRA DO TIPO ALMOFADA 1,20X1,10 M.",
-              "unidade": "UND",
-              "quantidade": "40,00",
-              "valor_referencia": "340,17"
-            },
-            {
-              "numero": "6",
-              "especificacao": "5502000006 JANELA DUPLA DE MADEIRA DO TIPO ALMOFADA 1,60X1,10 M:JANELA DUPLA DE MADEIRA DO TIPO ALMOFADA 1,60X1,10 M.",
-              "unidade": "UND",
-              "quantidade": "20,00",
-              "valor_referencia": "542,20"
-            },
-            {
-              "numero": "7",
-              "especificacao": "5502000007 JANELA MAXIAR DE ALUMINIO 0,60X0,50 COM VIDRO:JANELA MAXIAR DE ALUMINIO 0,60X0,50 COM VIDRO",
-              "unidade": "UND",
-              "quantidade": "20,00",
-              "valor_referencia": "260,51"
-            },
-            {
-              "numero": "8",
-              "especificacao": "5502000008 JANELA SIMPLES DE MADEIRA DO TIPO ALMOFADA 0,80X1,10M:JANELA SIMPLES DE MADEIRA DO TIPO ALMOFADA 0,80X1,10M.",
-              "unidade": "UND",
-              "quantidade": "32,00",
-              "valor_referencia": "254,00"
-            },
-            {
-              "numero": "9",
-              "especificacao": "5502000009 JANELA SIMPLES DE MADEIRA DO TIPO ALMOFADA 1,00X1,10 M:JANELA SIMPLES DE MADEIRA DO TIPO ALMOFADA 1,00X1,10 M.",
-              "unidade": "UND",
-              "quantidade": "22,00",
-              "valor_referencia": "277,10"
-            },
-            {
-              "numero": "10",
-              "especificacao": "5502000010 KIT DE DOBRADIÇA PARA JANELA 2. 1/2 COM 2 UNIDADES:KIT DE DOBRADIÇA PARA JANELA 2.1/2 COM 2 UNIDADES",
-              "unidade": "UND",
-              "quantidade": "110,00",
-              "valor_referencia": "14,44"
-            },
-            {
-              "numero": "11",
-              "especificacao": "5502000011 KIT DE DOBRADIÇA PARA PORTA 2.1/2, COM 3 UNIDADES:KIT DE DOBRADIÇA PARA PORTA 2.1/2, COM 3 UNIDADES",
-              "unidade": "UND",
-              "quantidade": "180,00",
-              "valor_referencia": "16,00"
-            },
-            {
-              "numero": "12",
-              "especificacao": "5502000012 KIT DE DOBRADIÇA PARA PORTA 3.1/2, COM 3 UNIDADES:KIT DE DOBRADIÇA PARA PORTA 3.1/2, COM 3 UNIDADES",
-              "unidade": "UND",
-              "quantidade": "320,00",
-              "valor_referencia": "18,34"
-            },
-            {
-              "numero": "13",
-              "especificacao": "5502000013 PORTA DE MADEIRA MISTA DO TIPO ALMOFADA 0,60X2,10 M:PORTA DE MADEIRA MISTA DO TIPO ALMOFADA 0,60X2,10 M",
-              "unidade": "UND",
-              "quantidade": "54,00",
-              "valor_referencia": "239,00"
-            },
-            {
-              "numero": "14",
-              "especificacao": "5502000014 PORTA DE MADEIRA MISTA DO TIPO ALMOFADA 0,70X2,10 M:PORTA DE MADEIRA MISTA DO TIPO ALMOFADA 0,70X2,10 M",
-              "unidade": "UND",
-              "quantidade": "52,00",
-              "valor_referencia": "250,83"
-            },
-            {
-              "numero": "15",
-              "especificacao": "5502000015 PORTA DE MADEIRA MISTA DO TIPO ALMOFADA 0,80X2,10 M:PORTA DE MADEIRA MISTA DO TIPO ALMOFADA 0,80X2,10 M",
-              "unidade": "UND",
-              "quantidade": "145,00",
-              "valor_referencia": "287,00"
-            },
-            {
-              "numero": "16",
-              "especificacao": "5502000016 PORTA DE MADEIRA MISTA DO TIPO ALMOFADA 0,90X2,10 M:PORTA DE MADEIRA MISTA DO TIPO ALMOFADA 0,90X2,10 M",
-              "unidade": "UND",
-              "quantidade": "123,00",
-              "valor_referencia": "306,26"
-            },
-            {
-              "numero": "17",
-              "especificacao": "5502000017 PORTA DE MADEIRA MISTA DO TIPO SEMIOCA0,60X2,10 M:PORTA DE MADEIRA MISTA DO TIPO SEMI OCA0,60X2,10 M",
-              "unidade": "UND",
-              "quantidade": "85,00",
-              "valor_referencia": "212,08"
-            },
-            {
-              "numero": "18",
-              "especificacao": "5502000018 PORTA DE MADEIRA MISTA DO TIPO SEMIOCA0,70X2,10 M:PORTA DE MADEIRA MISTA DO TIPO SEMI OCA0,70X2,10 M",
-              "unidade": "UND",
-              "quantidade": "70,00",
-              "valor_referencia": "217,95"
-            },
-            {
-              "numero": "19",
-              "especificacao": "5502000019 PORTA DE MADEIRA MISTA DO TIPO SEMIOCA 0,80X2,10 M:PORTA DE MADEIRA MISTA DO TIPO SEMI OCA0,80X2,10 M",
-              "unidade": "UND",
-              "quantidade": "128,00",
-              "valor_referencia": "244,90"
-            },
-            {
-              "numero": "20",
-              "especificacao": "5502000020 PORTA DE MADEIRA MISTA DO TIPO SEMIOCA0,90X2,10 M:PORTA DE MADEIRA MISTA DO TIPO SEMI OCA0,90X2,10 M",
-              "unidade": "UND",
-              "quantidade": "74,00",
-              "valor_referencia": "265,00"
-            },
-            {
-              "numero": "21",
-              "especificacao": "5502000021 PORTA DE MADEIRA MISTA DO TIPO SEMI OCA1,00X2,10 M:PORTA VENEZIANA DE ALUMINIO 0,60X2,10 M",
-              "unidade": "UND",
-              "quantidade": "66,00",
-              "valor_referencia": "262,45"
-            },
-            {
-              "numero": "22",
-              "especificacao": "5502000022 PORTA VENEZIANA DE ALUMINIO 0,60X2,10 M:PORTA VENEZIANA DE ALUMINIO 0,60X2,10 M",
-              "unidade": "UND",
-              "quantidade": "20,00",
-              "valor_referencia": "555,12"
-            },
-            {
-              "numero": "23",
-              "especificacao": "5502000023 PORTA VENEZIANA DE ALUMINIO 0,70X2,10 M COMPLETA:PORTA VENEZIANA DE ALUMINIO 0,70X2,10 M COMPLETA",
-              "unidade": "UND",
-              "quantidade": "20,00",
-              "valor_referencia": "580,87"
-            },
-            {
-              "numero": "24",
-              "especificacao": "5502000024 PORTA VENEZIANA DE ALUMINIO 0,80X2,10 M:PORTA VENEZIANA DE ALUMINIO 0,80X2,10 M",
-              "unidade": "UND",
-              "quantidade": "40,00",
-              "valor_referencia": "609,55"
-            },
-            {
-              "numero": "25",
-              "especificacao": "5502000025 PORTA VENEZIANA DE ALUMINIO 0,90X2,10 M:PORTA VENEZIANA DE ALUMINIO 0,90X2,10 M",
-              "unidade": "UND",
-              "quantidade": "30,00",
-              "valor_referencia": "747,96"
-            },
-            {
-              "numero": "26",
-              "especificacao": "5502000026 PORTA VENEZIANA DE ALUMÍNIO 1,00X2,10 M:PORTA VENEZIANA DE ALUMÍNIO 1,00X2,10 M",
-              "unidade": "UND",
-              "quantidade": "20,00",
-              "valor_referencia": "798,79"
-            },
-            {
-              "numero": "27",
-              "especificacao": "5502000027 PORTA VENEZIANA DE ALUMÍNIO DUPLA2,00X2,10 M:PORTA VENEZIANA DE ALUMÍNIO DUPLA2,00X2,10 M",
-              "unidade": "UND",
-              "quantidade": "20,00",
-              "valor_referencia": "2.397,39"
-            },
-            {
-              "numero": "28",
-              "especificacao": "5502000028 TRINCO FERROLHO:REDONDO AÇO ZINCADO2",
-              "unidade": "UND",
-              "quantidade": "260,00",
-              "valor_referencia": "7,49"
-            },
-            {
-              "numero": "29",
-              "especificacao": "5502000029 TRINCO FERROLHO:REDONDO AÇO ZINCADO3",
-              "unidade": "UND",
-              "quantidade": "320,00",
-              "valor_referencia": "8,07"
-            },
-            {
-              "numero": "30",
-              "especificacao": "5502000030 TRINCO FERROLHO:REDONDO AÇO ZINCADO4",
-              "unidade": "UND",
-              "quantidade": "120,00",
-              "valor_referencia": "13,17"
-            },
-            {
-              "numero": "31",
-              "especificacao": "5502000031 TRINCO FERROLHO:CHATO P/ CADEADO AÇO ZINCADO 3",
-              "unidade": "UND",
-              "quantidade": "230,00",
-              "valor_referencia": "16,15"
-            },
-            {
-              "numero": "32",
-              "especificacao": "5502000032 PORTA CADEADO:ZINCADO COM TRAVA PARA PORTÃO E PORTA 2.1/2",
-              "unidade": "UND",
-              "quantidade": "250,00",
-              "valor_referencia": "7,08"
-            },
-            {
-              "numero": "33",
-              "especificacao": "5502000033 CADEADO:20MM",
-              "unidade": "UND",
-              "quantidade": "160,00",
-              "valor_referencia": "16,14"
-            },
-            {
-              "numero": "34",
-              "especificacao": "5502000034 CADEADO:25MM",
-              "unidade": "UND",
-              "quantidade": "180,00",
-              "valor_referencia": "19,01"
-            },
-            {
-              "numero": "35",
-              "especificacao": "5502000035 CADEADO:30MM",
-              "unidade": "UND",
-              "quantidade": "235,00",
-              "valor_referencia": "19,23"
-            },
-            {
-              "numero": "36",
-              "especificacao": "5502000036 CADEADO:40MM",
-              "unidade": "UND",
-              "quantidade": "270,00",
-              "valor_referencia": "40,88"
-            },
-            {
-              "numero": "37",
-              "especificacao": "5502000037 CADEADO:50MM",
-              "unidade": "UND",
-              "quantidade": "255,00",
-              "valor_referencia": "43,50"
-            },
-            {
-              "numero": "38",
-              "especificacao": "5502000038 CADEADO:60MM",
-              "unidade": "UND",
-              "quantidade": "226,00",
-              "valor_referencia": "70,35"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "PE-053-2026",
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "309/2026",
@@ -262574,50 +262271,6 @@
               "unidade": "UND",
               "quantidade": "16,00",
               "valor_referencia": "31,00"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "PE-066-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "212 / 2026",
-      "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "JULGAMENTO",
-      "condutor": "SERGIO CARNEIRO CAVALCANTI DE AZEVEDO",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO",
-      "publicacao": "17/04/2026 15:34",
-      "inicio_recepcao": "22/04/2026 08:30",
-      "fim_recepcao": "05/05/2026 09:45",
-      "inicio_disputa": "05/05/2026 10:00",
-      "objeto": "Contratação de empresa especializada em fornecimento de POSTES DE CONCRETO (material permanente), a fim de atender as demandas da Secretaria Municipal de Infraestrutura e Serviços Urbanos.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DqV1ptFkOEVHuHbRdjQtQpMYScf4qvL_58JuEvofyA7mEWbhZK2YMJj7aNlpB6I9XLFR5oELnlUvVOLxkI7fUCAxIhR2b5Q5%2FfA6w0c_8%2FPk%3D",
-      "total_lotes": 1,
-      "total_itens": 1,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "POSTES DE CONCRETO",
-          "fase": "JULGAMENTO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "101.785,32",
-          "vencedor": "DIPAR FERRAGENS EIRELI",
-          "melhor_oferta": "94.749,84",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "5901200003 POSTE DE CONCRETO:ARMADO SESSÃODUPLO T 11 METROS/600DAN (11/600)",
-              "unidade": "UN",
-              "quantidade": "36,00",
-              "valor_referencia": "2.827,37"
             }
           ]
         }
@@ -267811,6 +267464,353 @@
               "unidade": "UNIDADE",
               "quantidade": "1,00",
               "valor_referencia": "993,82"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-066-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "212 / 2026",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "HABILITAÇÃO",
+      "condutor": "SERGIO CARNEIRO CAVALCANTI DE AZEVEDO",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO",
+      "publicacao": "17/04/2026 15:34",
+      "inicio_recepcao": "22/04/2026 08:30",
+      "fim_recepcao": "05/05/2026 09:45",
+      "inicio_disputa": "05/05/2026 10:00",
+      "objeto": "Contratação de empresa especializada em fornecimento de POSTES DE CONCRETO (material permanente), a fim de atender as demandas da Secretaria Municipal de Infraestrutura e Serviços Urbanos.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DMtMUtpdkr7T8OePMeHhEhkHw_%2Frz5mxWV8VFbvZHROfggAZVz0k2Oq9Pq2cWJ5C%2F1bQndxHGRbFF3%2FKBM3N4NkwAf3QIjNpLMlEJZ7ZJE00%3D",
+      "total_lotes": 1,
+      "total_itens": 1,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "POSTES DE CONCRETO",
+          "fase": "HABILITAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "101.785,32",
+          "vencedor": "DIPAR FERRAGENS EIRELI",
+          "melhor_oferta": "94.749,84",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "5901200003 POSTE DE CONCRETO:ARMADO SESSÃODUPLO T 11 METROS/600DAN (11/600)",
+              "unidade": "UN",
+              "quantidade": "36,00",
+              "valor_referencia": "2.827,37"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-056-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "132/2026",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "HABILITAÇÃO",
+      "condutor": "JONATAS DA SILVA SOUSA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "REGISTRO DE PREÇO",
+      "publicacao": "09/04/2026 15:19",
+      "inicio_recepcao": "13/04/2026 08:30",
+      "fim_recepcao": "27/04/2026 09:45",
+      "inicio_disputa": "27/04/2026 10:00",
+      "objeto": "A Contratação de empresa especializada em FORNECIMENTO DE ESQUADRIAS DE MADEIRA, DE ALUMÍNIO E ACESSÓRIOS,  a fim de atender as demandas da Secretaria Municipal de Infraestrutura e Serviços Urbanos.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DeDMF37pgSKlHzsBZcvmghcwA9dVTNJiz3cFV1EJUanJVcYzu_z9E3Anl_NV2_YrN6VXi8_H7icDKLwpa4Q55VdrY1MZwV1UqEB4r3T0lBIA%3D",
+      "total_lotes": 1,
+      "total_itens": 38,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "ESQUADRIAS DE MADEIRA",
+          "fase": "HABILITAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "491.610,79",
+          "vencedor": "EDSON MATERIAL DE CONSTRUÇÃO LTDA",
+          "melhor_oferta": "422.348,59",
+          "total_itens": 38,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "5502000001 FECHADURA PARA PORTA EXTERNA PADRAO MÉDIO:FECHADURA PARA PORTA EXTERNA PADRAO MÉDIO",
+              "unidade": "UND",
+              "quantidade": "280,00",
+              "valor_referencia": "51,01"
+            },
+            {
+              "numero": "2",
+              "especificacao": "5502000002 FECHADURA PARA PORTA DE BANHEIRO PADRAO MÉDIO:FECHADURA PARA PORTA DE BANHEIRO PADRAO MÉDIO",
+              "unidade": "UND",
+              "quantidade": "120,00",
+              "valor_referencia": "60,55"
+            },
+            {
+              "numero": "3",
+              "especificacao": "5502000003 FECHADURA PARA PORTA EXTERNA CHAVE TETRA::FECHADURA PARA PORTA EXTERNA CHAVE TETRA",
+              "unidade": "UND",
+              "quantidade": "70,00",
+              "valor_referencia": "103,25"
+            },
+            {
+              "numero": "4",
+              "especificacao": "5502000004 FECHADURA EXTERNA DE SOBREPOR P/ PORTÃO CHAVE TETRA:FECHADURA EXTERNA DE SOBREPOR P/ PORTÃO CHAVE TETRA",
+              "unidade": "UND",
+              "quantidade": "90,00",
+              "valor_referencia": "91,16"
+            },
+            {
+              "numero": "5",
+              "especificacao": "5502000005 JANELA DUPLA DE MADEIRA DO TIPO ALMOFADA 1,20X1,10 M:JANELA DUPLA DE MADEIRA DO TIPO ALMOFADA 1,20X1,10 M.",
+              "unidade": "UND",
+              "quantidade": "40,00",
+              "valor_referencia": "340,17"
+            },
+            {
+              "numero": "6",
+              "especificacao": "5502000006 JANELA DUPLA DE MADEIRA DO TIPO ALMOFADA 1,60X1,10 M:JANELA DUPLA DE MADEIRA DO TIPO ALMOFADA 1,60X1,10 M.",
+              "unidade": "UND",
+              "quantidade": "20,00",
+              "valor_referencia": "542,20"
+            },
+            {
+              "numero": "7",
+              "especificacao": "5502000007 JANELA MAXIAR DE ALUMINIO 0,60X0,50 COM VIDRO:JANELA MAXIAR DE ALUMINIO 0,60X0,50 COM VIDRO",
+              "unidade": "UND",
+              "quantidade": "20,00",
+              "valor_referencia": "260,51"
+            },
+            {
+              "numero": "8",
+              "especificacao": "5502000008 JANELA SIMPLES DE MADEIRA DO TIPO ALMOFADA 0,80X1,10M:JANELA SIMPLES DE MADEIRA DO TIPO ALMOFADA 0,80X1,10M.",
+              "unidade": "UND",
+              "quantidade": "32,00",
+              "valor_referencia": "254,00"
+            },
+            {
+              "numero": "9",
+              "especificacao": "5502000009 JANELA SIMPLES DE MADEIRA DO TIPO ALMOFADA 1,00X1,10 M:JANELA SIMPLES DE MADEIRA DO TIPO ALMOFADA 1,00X1,10 M.",
+              "unidade": "UND",
+              "quantidade": "22,00",
+              "valor_referencia": "277,10"
+            },
+            {
+              "numero": "10",
+              "especificacao": "5502000010 KIT DE DOBRADIÇA PARA JANELA 2. 1/2 COM 2 UNIDADES:KIT DE DOBRADIÇA PARA JANELA 2.1/2 COM 2 UNIDADES",
+              "unidade": "UND",
+              "quantidade": "110,00",
+              "valor_referencia": "14,44"
+            },
+            {
+              "numero": "11",
+              "especificacao": "5502000011 KIT DE DOBRADIÇA PARA PORTA 2.1/2, COM 3 UNIDADES:KIT DE DOBRADIÇA PARA PORTA 2.1/2, COM 3 UNIDADES",
+              "unidade": "UND",
+              "quantidade": "180,00",
+              "valor_referencia": "16,00"
+            },
+            {
+              "numero": "12",
+              "especificacao": "5502000012 KIT DE DOBRADIÇA PARA PORTA 3.1/2, COM 3 UNIDADES:KIT DE DOBRADIÇA PARA PORTA 3.1/2, COM 3 UNIDADES",
+              "unidade": "UND",
+              "quantidade": "320,00",
+              "valor_referencia": "18,34"
+            },
+            {
+              "numero": "13",
+              "especificacao": "5502000013 PORTA DE MADEIRA MISTA DO TIPO ALMOFADA 0,60X2,10 M:PORTA DE MADEIRA MISTA DO TIPO ALMOFADA 0,60X2,10 M",
+              "unidade": "UND",
+              "quantidade": "54,00",
+              "valor_referencia": "239,00"
+            },
+            {
+              "numero": "14",
+              "especificacao": "5502000014 PORTA DE MADEIRA MISTA DO TIPO ALMOFADA 0,70X2,10 M:PORTA DE MADEIRA MISTA DO TIPO ALMOFADA 0,70X2,10 M",
+              "unidade": "UND",
+              "quantidade": "52,00",
+              "valor_referencia": "250,83"
+            },
+            {
+              "numero": "15",
+              "especificacao": "5502000015 PORTA DE MADEIRA MISTA DO TIPO ALMOFADA 0,80X2,10 M:PORTA DE MADEIRA MISTA DO TIPO ALMOFADA 0,80X2,10 M",
+              "unidade": "UND",
+              "quantidade": "145,00",
+              "valor_referencia": "287,00"
+            },
+            {
+              "numero": "16",
+              "especificacao": "5502000016 PORTA DE MADEIRA MISTA DO TIPO ALMOFADA 0,90X2,10 M:PORTA DE MADEIRA MISTA DO TIPO ALMOFADA 0,90X2,10 M",
+              "unidade": "UND",
+              "quantidade": "123,00",
+              "valor_referencia": "306,26"
+            },
+            {
+              "numero": "17",
+              "especificacao": "5502000017 PORTA DE MADEIRA MISTA DO TIPO SEMIOCA0,60X2,10 M:PORTA DE MADEIRA MISTA DO TIPO SEMI OCA0,60X2,10 M",
+              "unidade": "UND",
+              "quantidade": "85,00",
+              "valor_referencia": "212,08"
+            },
+            {
+              "numero": "18",
+              "especificacao": "5502000018 PORTA DE MADEIRA MISTA DO TIPO SEMIOCA0,70X2,10 M:PORTA DE MADEIRA MISTA DO TIPO SEMI OCA0,70X2,10 M",
+              "unidade": "UND",
+              "quantidade": "70,00",
+              "valor_referencia": "217,95"
+            },
+            {
+              "numero": "19",
+              "especificacao": "5502000019 PORTA DE MADEIRA MISTA DO TIPO SEMIOCA 0,80X2,10 M:PORTA DE MADEIRA MISTA DO TIPO SEMI OCA0,80X2,10 M",
+              "unidade": "UND",
+              "quantidade": "128,00",
+              "valor_referencia": "244,90"
+            },
+            {
+              "numero": "20",
+              "especificacao": "5502000020 PORTA DE MADEIRA MISTA DO TIPO SEMIOCA0,90X2,10 M:PORTA DE MADEIRA MISTA DO TIPO SEMI OCA0,90X2,10 M",
+              "unidade": "UND",
+              "quantidade": "74,00",
+              "valor_referencia": "265,00"
+            },
+            {
+              "numero": "21",
+              "especificacao": "5502000021 PORTA DE MADEIRA MISTA DO TIPO SEMI OCA1,00X2,10 M:PORTA VENEZIANA DE ALUMINIO 0,60X2,10 M",
+              "unidade": "UND",
+              "quantidade": "66,00",
+              "valor_referencia": "262,45"
+            },
+            {
+              "numero": "22",
+              "especificacao": "5502000022 PORTA VENEZIANA DE ALUMINIO 0,60X2,10 M:PORTA VENEZIANA DE ALUMINIO 0,60X2,10 M",
+              "unidade": "UND",
+              "quantidade": "20,00",
+              "valor_referencia": "555,12"
+            },
+            {
+              "numero": "23",
+              "especificacao": "5502000023 PORTA VENEZIANA DE ALUMINIO 0,70X2,10 M COMPLETA:PORTA VENEZIANA DE ALUMINIO 0,70X2,10 M COMPLETA",
+              "unidade": "UND",
+              "quantidade": "20,00",
+              "valor_referencia": "580,87"
+            },
+            {
+              "numero": "24",
+              "especificacao": "5502000024 PORTA VENEZIANA DE ALUMINIO 0,80X2,10 M:PORTA VENEZIANA DE ALUMINIO 0,80X2,10 M",
+              "unidade": "UND",
+              "quantidade": "40,00",
+              "valor_referencia": "609,55"
+            },
+            {
+              "numero": "25",
+              "especificacao": "5502000025 PORTA VENEZIANA DE ALUMINIO 0,90X2,10 M:PORTA VENEZIANA DE ALUMINIO 0,90X2,10 M",
+              "unidade": "UND",
+              "quantidade": "30,00",
+              "valor_referencia": "747,96"
+            },
+            {
+              "numero": "26",
+              "especificacao": "5502000026 PORTA VENEZIANA DE ALUMÍNIO 1,00X2,10 M:PORTA VENEZIANA DE ALUMÍNIO 1,00X2,10 M",
+              "unidade": "UND",
+              "quantidade": "20,00",
+              "valor_referencia": "798,79"
+            },
+            {
+              "numero": "27",
+              "especificacao": "5502000027 PORTA VENEZIANA DE ALUMÍNIO DUPLA2,00X2,10 M:PORTA VENEZIANA DE ALUMÍNIO DUPLA2,00X2,10 M",
+              "unidade": "UND",
+              "quantidade": "20,00",
+              "valor_referencia": "2.397,39"
+            },
+            {
+              "numero": "28",
+              "especificacao": "5502000028 TRINCO FERROLHO:REDONDO AÇO ZINCADO2",
+              "unidade": "UND",
+              "quantidade": "260,00",
+              "valor_referencia": "7,49"
+            },
+            {
+              "numero": "29",
+              "especificacao": "5502000029 TRINCO FERROLHO:REDONDO AÇO ZINCADO3",
+              "unidade": "UND",
+              "quantidade": "320,00",
+              "valor_referencia": "8,07"
+            },
+            {
+              "numero": "30",
+              "especificacao": "5502000030 TRINCO FERROLHO:REDONDO AÇO ZINCADO4",
+              "unidade": "UND",
+              "quantidade": "120,00",
+              "valor_referencia": "13,17"
+            },
+            {
+              "numero": "31",
+              "especificacao": "5502000031 TRINCO FERROLHO:CHATO P/ CADEADO AÇO ZINCADO 3",
+              "unidade": "UND",
+              "quantidade": "230,00",
+              "valor_referencia": "16,15"
+            },
+            {
+              "numero": "32",
+              "especificacao": "5502000032 PORTA CADEADO:ZINCADO COM TRAVA PARA PORTÃO E PORTA 2.1/2",
+              "unidade": "UND",
+              "quantidade": "250,00",
+              "valor_referencia": "7,08"
+            },
+            {
+              "numero": "33",
+              "especificacao": "5502000033 CADEADO:20MM",
+              "unidade": "UND",
+              "quantidade": "160,00",
+              "valor_referencia": "16,14"
+            },
+            {
+              "numero": "34",
+              "especificacao": "5502000034 CADEADO:25MM",
+              "unidade": "UND",
+              "quantidade": "180,00",
+              "valor_referencia": "19,01"
+            },
+            {
+              "numero": "35",
+              "especificacao": "5502000035 CADEADO:30MM",
+              "unidade": "UND",
+              "quantidade": "235,00",
+              "valor_referencia": "19,23"
+            },
+            {
+              "numero": "36",
+              "especificacao": "5502000036 CADEADO:40MM",
+              "unidade": "UND",
+              "quantidade": "270,00",
+              "valor_referencia": "40,88"
+            },
+            {
+              "numero": "37",
+              "especificacao": "5502000037 CADEADO:50MM",
+              "unidade": "UND",
+              "quantidade": "255,00",
+              "valor_referencia": "43,50"
+            },
+            {
+              "numero": "38",
+              "especificacao": "5502000038 CADEADO:60MM",
+              "unidade": "UND",
+              "quantidade": "226,00",
+              "valor_referencia": "70,35"
             }
           ]
         }
