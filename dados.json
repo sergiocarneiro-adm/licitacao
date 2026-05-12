@@ -3,8 +3,8 @@
     "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
     "total_processos": 780,
     "total_lotes": 8700,
-    "total_itens": 14895,
-    "atualizado_em": "20260512_074525"
+    "total_itens": 14904,
+    "atualizado_em": "20260512_193502"
   },
   "processos": [
     {
@@ -245395,134 +245395,6 @@
       ]
     },
     {
-      "id": "CE-005-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "216/2026",
-      "modalidade": "CONCORRÊNCIA ELETRÔNICA",
-      "situacao": "RECEPÇÃO DE PROPOSTAS",
-      "condutor": "DAVIDSON ARAUJO SANTOS",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO PARCELADA",
-      "publicacao": "31/03/2026 16:00",
-      "inicio_recepcao": "01/04/2026 08:00",
-      "fim_recepcao": "12/05/2026 08:15",
-      "inicio_disputa": "12/05/2026 08:30",
-      "objeto": "Contratação de empresa especializada em execução de obras para ampliação de refeitório na Escola Municipal Rachel de Queiroz, localizada no bairro Centro, do município de Teixeira de Freitas – BA.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5D2BMcLPtdcptFObVOJn0oNdNIDvd7cLVZkqK9j5COfrfTslg5etc8QQWXiBp3OYK2SVeR3wHm8AilMCaWsjc2gbaeefhNz1kbWw90dTcm9ec%3D",
-      "total_lotes": 1,
-      "total_itens": 13,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "EXECUÇÃO DE OBRAS PARA AMPLIAÇÃO DE REFEITÓRIO NA ESCOLA MUNICIPAL RACHEL DE QUEIROZ",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "100,00",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "235.249,19",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 13,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "SERVIÇOS PRELIMINARES",
-              "unidade": "SERVIÇO",
-              "quantidade": "1,00",
-              "valor_referencia": "44.778,15"
-            },
-            {
-              "numero": "2",
-              "especificacao": "DEMOLIÇÕES E RETIRADAS",
-              "unidade": "SERVIÇO",
-              "quantidade": "1,00",
-              "valor_referencia": "11.483,38"
-            },
-            {
-              "numero": "3",
-              "especificacao": "MOVIMENTO DE TERRA",
-              "unidade": "SERVIÇO",
-              "quantidade": "1,00",
-              "valor_referencia": "7.822,81"
-            },
-            {
-              "numero": "4",
-              "especificacao": "FUNDAÇÕES",
-              "unidade": "SERVIÇO",
-              "quantidade": "1,00",
-              "valor_referencia": "13.593,14"
-            },
-            {
-              "numero": "5",
-              "especificacao": "SUPERESTRUTURA",
-              "unidade": "SERVIÇO",
-              "quantidade": "1,00",
-              "valor_referencia": "21.043,91"
-            },
-            {
-              "numero": "6",
-              "especificacao": "COBERTURA",
-              "unidade": "SERVIÇO",
-              "quantidade": "1,00",
-              "valor_referencia": "86.685,50"
-            },
-            {
-              "numero": "7",
-              "especificacao": "PAREDES E PAINÉIS",
-              "unidade": "SERVIÇO",
-              "quantidade": "1,00",
-              "valor_referencia": "1.304,48"
-            },
-            {
-              "numero": "8",
-              "especificacao": "REVESTIMENTOS",
-              "unidade": "SERVIÇO",
-              "quantidade": "1,00",
-              "valor_referencia": "32.945,92"
-            },
-            {
-              "numero": "9",
-              "especificacao": "PINTURAS",
-              "unidade": "SERVIÇO",
-              "quantidade": "1,00",
-              "valor_referencia": "2.334,41"
-            },
-            {
-              "numero": "10",
-              "especificacao": "INSTALAÇÕES ELÉTRICAS",
-              "unidade": "SERVIÇO",
-              "quantidade": "1,00",
-              "valor_referencia": "5.472,41"
-            },
-            {
-              "numero": "11",
-              "especificacao": "ÁGUAS PLUVIAIS",
-              "unidade": "SERVIÇO",
-              "quantidade": "1,00",
-              "valor_referencia": "4.530,78"
-            },
-            {
-              "numero": "12",
-              "especificacao": "INSTALAÇÕES DE PREVENÇÃO DE COMBATE A INCÊNDIO E SPDA",
-              "unidade": "SERVIÇO",
-              "quantidade": "1,00",
-              "valor_referencia": "2.961,05"
-            },
-            {
-              "numero": "13",
-              "especificacao": "SERVIÇOS COMPLEMENTARES",
-              "unidade": "SERVIÇO",
-              "quantidade": "1,00",
-              "valor_referencia": "293,25"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "PE-044-2026",
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "110/2026",
@@ -251950,50 +251822,6 @@
               "unidade": "UND",
               "quantidade": "2,00",
               "valor_referencia": "22,03"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "PE-050-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "126/2026",
-      "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "RECEPÇÃO DE PROPOSTAS",
-      "condutor": "JONATAS DA SILVA SOUSA",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO",
-      "publicacao": "08/04/2026 17:12",
-      "inicio_recepcao": "10/04/2026 08:30",
-      "fim_recepcao": "12/05/2026 08:15",
-      "inicio_disputa": "12/05/2026 08:30",
-      "objeto": "Contratação de empresa especializada em prestação de serviço de LEVANTAMENTO TOPOGRÁFICO PLANIALTIMÉTRICO PARA REALIZAÇÃO DE GEORREFERENCIAMENTO DE ROTAS ESCOLARES, a fim de atender as demandas da Secretaria Municipal de Educação.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5D203jaPyfXVXmDEuoRihXV0eCeDdGbuEvsnrpDTHSwJfEy2UAWor0wIH%2FIfGFDq81jf0yYiqldgRxfh8u1KGo3aBdwUVYS8gx2FvOzAPDyCM%3D",
-      "total_lotes": 1,
-      "total_itens": 1,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "GEORREFERENCIAMENTO",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9903311812 Serviço de levantamento topográfico planialtimétricoe georreferenciamento completo das rotas escolares domunicípio:abrangendo visitas de campo, coleta de dados porreceptores GNSS/GPS de alta precisão, medição de distânciasreais considerando curvas, declividades e vias vicinais,identificação de pontos notáveis e condicionantes geográficos,compatibilização com a malha viária oficial e geração de basegeoespacial em formato digital (shapefile, geojson ouequivalente), com elaboração de mapeamento cartográfico digitalconsolidado, contendo todas as rotas levantadas, pontos deembarque e desembarque, localização das escolas atendidas,delimitação das zonas urbana e rural, vias de acesso, pontoscríticos (aclives, declives, travessias e estradas nãopavimentadas), representação sobre malha viária real, geraçãode plantas em escala adequada e integração dos dados aoSistema de Informações Geográficas (SIG), acompanhada derelatório técnico detalhado, memorial descritivo e plantageorreferenciada das rotas escolares.",
-              "unidade": "KM",
-              "quantidade": "4.800,00",
-              "valor_referencia": ""
             }
           ]
         }
@@ -262189,64 +262017,6 @@
       ]
     },
     {
-      "id": "PE-063-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "332 / 2026",
-      "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "JULGAMENTO",
-      "condutor": "JONATAS DA SILVA SOUSA",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO PARCELADA",
-      "publicacao": "17/04/2026 14:49",
-      "inicio_recepcao": "22/04/2026 08:30",
-      "fim_recepcao": "05/05/2026 08:15",
-      "inicio_disputa": "05/05/2026 08:30",
-      "objeto": "Contratação de empresa especializada em fornecimento de ADUELAS DE CONCRETOS (material de consumo), a fim de atender as demandas da Secretaria Municipal de Infraestrutura e Serviços Urbanos.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5D4t2nd7pJDI3JrCoGvXmwtP%2Fsi%2FNrfDb5juP8L_rBzbjghQkvA_iOS41DnniN7M4S%2Fyh3h8kIQZvWe%2FSPWBBLfsKU3p5EeAUTHmbUrvb1GWU%3D",
-      "total_lotes": 1,
-      "total_itens": 3,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "ADUELAS DE CONCRETOS",
-          "fase": "JULGAMENTO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "571.404,30",
-          "vencedor": "CEPRENG INDUSTRIA DE ARTEFATOS E CIMENTO EIRELI",
-          "melhor_oferta": "571.397,10",
-          "total_itens": 3,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900515574 Aduela/ Galeria pré-moldada de concreto armado:seção retangular, fechada, com encaixe do tipo macho e fêmea. Dimensões internas de 2,00 m de largura e 2,00 m de altura, comprimento de 1 m, mísula de 20x20 cm, espessura de parede mínima de 15 cm, A altura de aterro a ser considerada é de 0,50 - 5,00 m, carga acidental considerando TB-45 e Fck do concreto de 35 MPa.",
-              "unidade": "Und.",
-              "quantidade": "24,00",
-              "valor_referencia": "4.778,03"
-            },
-            {
-              "numero": "2",
-              "especificacao": "9900515575 Aduela/ Galeria pré-moldada de concreto armado:seção retangular, fechada, com encaixe do tipo macho e fêmea. Dimensões internas de 2,50 m de largura e 2,50 m de altura, comprimento de 1 m, mísula de 20x20 cm, espessura de parede mínima de 20 cm, A altura de aterro a ser considerada é de 0,50 - 5,00 m, carga acidental considerando TB-45 e Fck do concreto de 35 MPa.",
-              "unidade": "Und.",
-              "quantidade": "50,00",
-              "valor_referencia": "5.854,95"
-            },
-            {
-              "numero": "3",
-              "especificacao": "9900515576 Aduela/ Galeria pré-moldada de concreto armado:Aduela/ Galeria pré-moldada de concreto armado, seção retangular, fechada, com encaixe do tipo macho e fêmea.Dimensões internas de 3,00 m de largura e 3,00 m de altura, comprimento de 1 m, mísula de 20x20 cm, espessura de parede mínima de 20 cm, A altura de aterro a ser considerada é de 0,50- 5,00 m, carga acidental considerando TB-45 e Fck do concreto de 35 MPa.",
-              "unidade": "Und.",
-              "quantidade": "24,00",
-              "valor_referencia": "6.832,67"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "PE-051-2026",
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "249 / 2026",
@@ -265582,179 +265352,6 @@
       ]
     },
     {
-      "id": "PE-076-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "276 / 2026",
-      "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "PUBLICADO",
-      "condutor": "SERGIO CARNEIRO CAVALCANTI DE AZEVEDO",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO PARCELADA",
-      "publicacao": "08/05/2026 10:55",
-      "inicio_recepcao": "12/05/2026 08:30",
-      "fim_recepcao": "25/05/2026 08:15",
-      "inicio_disputa": "25/05/2026 08:30",
-      "objeto": "Contratação de empresa especializada em fornecimento de UNIFORMES PADRONIZADOS DESTINADOS AOS ESTUDANTES E AO CORPO ADMINISTRATIVO DAS UNIDADES DE ENSINO\nMILITARIZADAS DA REDE MUNICIPAL (material de consumo), a fim de atender as demandas da Secretaria Municipal de Educação.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5D8Dt5pgp5YJxLK5tV%2F%2Fl0w0A0tKXfxko2RUIuIZZiF9gx6t6vJq1%2F37GXDFhdMcwcJQdzUR_NcYeu7oH15z_n0u1cWCPqzRpWSoE9W1iIgt0%3D",
-      "total_lotes": 2,
-      "total_itens": 17,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "UNIFORMES PADRONIZADOS",
-          "fase": "PUBLICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 13,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900515548 Calça Administrativa Masculina:tecido brim pesado marrom café, cós anatômico, bolsos laterais tipo faca e bolsos traseiros embutidos, passadores reforçados, costuras triplas nas áreas de tensão. Uso com cinto de nylon marrom café com fivela metálica do brasão da Escola, em tamanhos variados que serão informados no momento da contratação.",
-              "unidade": "UND",
-              "quantidade": "32,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "2",
-              "especificacao": "9900515549 Bermuda Feminina para Educação Física:tecido tactel premium azul padrão UEMC, cós com elástico reforçado, modelagem feminina, comprimento 5 cm acima do joelho, secagem rápida, resistência à abrasão, tecnologia antiodor, em tamanhos variados que serão informados no momento da contratação.",
-              "unidade": "UND",
-              "quantidade": "1.000,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "3",
-              "especificacao": "37145 Calção Masculino para Educação Física:tactel premium azul padrão UEMC, cós com cordão interno, dois bolsos laterais, dois bolsos traseiros, comprimento 5 cm acima do joelho, secagem rápida e resistência ao uso contínuo, em tamanhos variados que serão informados no momento da contratação.",
-              "unidade": "UND",
-              "quantidade": "1.000,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "4",
-              "especificacao": "9900515550 Calça Masculina em Brim (Padrão UEMC):cor azul UEMC, faixas laterais vermelhas de 6 cm, bolsos funcionais, costuras reforçadas, passantes militares, uso com cinto nylon azul marinho com brasão, em tamanhos variados que serão informados no momento da contratação.",
-              "unidade": "UND",
-              "quantidade": "1.000,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "5",
-              "especificacao": "37147 Calça Feminina em Brim (Padrão UEMC):brim azul UEMC, faixas laterais vermelhas de 6 cm, modelagem feminina, bolsos laterais e traseiros, passantes militares reforçados, em tamanhos variados que serão informados no momento da contratação.",
-              "unidade": "UND",
-              "quantidade": "1.000,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "6",
-              "especificacao": "37148 Saia Feminina em Brim (Padrão UEMC):brim azul UEMC, altura até o joelho, faixas laterais vermelhas de 6 cm, bolsos laterais e traseiros, modelagem levemente evasê, passantes reforçados, em tamanhos variados que serão informados no momento da contratação.",
-              "unidade": "UND",
-              "quantidade": "1.000,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "7",
-              "especificacao": "9900515551 Camisa para Educação Física:malha premium branca, gramatura mínima 150 g/m², gola careca reforçada, manga curta, brasão institucional em alta definição, identificação MCPM/UEMC, tratamento antiodor e antialérgico, em tamanhos P, M, G e GG, sendo as definições exatas de tamanho, modelagem e gênero informadas no momento da contratação.",
-              "unidade": "UND",
-              "quantidade": "1.000,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "8",
-              "especificacao": "37149 Camisa Polo Administrativa:malha PV (67% poliéster/33% viscose), branca, gola e punhos marrom café, bordados com nome de guerra, função, tipo sanguíneo e RH; brasão da Escola no peito; bandeira da Bahia na manga direita; brasão do Município na esquerda; bordado vermelho padrão UEMC, em tamanhos P, M, G e GG, sendo as definições exatas de tamanho, modelagem e gênero informadas no momento da contratação.",
-              "unidade": "UND",
-              "quantidade": "32,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "9",
-              "especificacao": "9900515552 Camisa Polo Estudantil MCPM:malha PV branca, gola e punhos azul UEMC, identificação (AL MCPM + nome de guerra), tipo sanguíneo e RH bordados, brasão institucional no peito, bandeira da Bahia bordada e brasão do Município na manga esquerda, em tamanhos P, M, G e GG, sendo as definições exatas de tamanho, modelagem e gênero informadas no momento da contratação.",
-              "unidade": "UND",
-              "quantidade": "1.000,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "10",
-              "especificacao": "37150 Jaleco Branco Administrativo:tecido Oxford, manga curta, gola esporte, bolsos funcionais, identificação bordada (nome, tipo sanguíneo, RH), brasão institucional no peito, bandeira da Bahia bordada e brasão do Município pintado, em tamanhos variados que serão informados no momento da contratação.",
-              "unidade": "UND",
-              "quantidade": "90,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "11",
-              "especificacao": "9900515553 Beca Cerimonial MCPM:tecido microfibra premium azul marinho, gola em V estruturada, caimento reto, viés vermelho padrão UEMC, brasão institucional bordado em alta definição. Uso em solenidades, formaturas e eventos oficiais, em tamanhos variados que serão informados no momento da contratação.",
-              "unidade": "UND",
-              "quantidade": "1.000,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "12",
-              "especificacao": "9900515554 Boné Estudantil MCPM:brim pesado azul UEMC, estrutura reforçada, seis gomos com ilhoses para ventilação, brasão pintado frontal, fecho em velcro militar reforçado com ajuste de tamanho.",
-              "unidade": "UND",
-              "quantidade": "1.000,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "13",
-              "especificacao": "9900515555 Boné Administrativo MCPM:brim pesado marrom café, brasão pintado, ajuste posterior em velcro.",
-              "unidade": "UND",
-              "quantidade": "32,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "2",
-          "titulo": "UNIFORMES PADRONIZADOS",
-          "fase": "PUBLICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 4,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900515556 Cinto Estudantil MCPM:nylon azul marinho de alta resistência, fivela metálica com brasão UEMC em alto relevo, costura reforçada e regulagem militar, em tamanhos variados que serão informados no momento da contratação.",
-              "unidade": "UND",
-              "quantidade": "1.000,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "2",
-              "especificacao": "9900515557 Meia Social Preta Administrativa:par, 100% poliamida, cano médio, reforço no calcanhar e ponteira, estrutura elástica que mantém o formato após lavagem, em tamanhos variados que serão informadas no momento da contratação.",
-              "unidade": "PAR",
-              "quantidade": "32,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "3",
-              "especificacao": "9900515558 Meia Social Preta Estudantil:par, 100% poliamida, cano médio, reforço no calcanhar e ponteira, estrutura elástica que mantém o formato após lavagem, destinada ao conjunto de uniformes estudantis, em tamanhos variados que serão informados no momento da contratação.",
-              "unidade": "PAR",
-              "quantidade": "1.000,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "4",
-              "especificacao": "9900515559 Tênis Preto Estudantil:material emborrachado, solado antiderrapante totalmente preto, palmilha anatômica, fechamento em cadarço, resistência a desgaste, em tamanhos variados que serão informados no momento da contratação.",
-              "unidade": "PAR",
-              "quantidade": "1.000,00",
-              "valor_referencia": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "2-DLE-040-2026",
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "381 / 2026",
@@ -267729,42 +267326,508 @@
       ]
     },
     {
-      "id": "PE-027-2024",
+      "id": "PE-076-2026",
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "705/2024",
+      "numero_adm": "276 / 2026",
       "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "SUSPENSO",
-      "condutor": "VICTOR KINIDEL DETHLING",
+      "situacao": "RECEPÇÃO DE PROPOSTAS",
+      "condutor": "SERGIO CARNEIRO CAVALCANTI DE AZEVEDO",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO PARCELADA",
+      "publicacao": "08/05/2026 10:55",
+      "inicio_recepcao": "12/05/2026 08:30",
+      "fim_recepcao": "25/05/2026 08:15",
+      "inicio_disputa": "25/05/2026 08:30",
+      "objeto": "Contratação de empresa especializada em fornecimento de UNIFORMES PADRONIZADOS DESTINADOS AOS ESTUDANTES E AO CORPO ADMINISTRATIVO DAS UNIDADES DE ENSINO\nMILITARIZADAS DA REDE MUNICIPAL (material de consumo), a fim de atender as demandas da Secretaria Municipal de Educação.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DJgUUgGPdGK326Dtf6fx74LBieyslWl8eGrasK_jBotj5un5RiQX5M6xvGE9%2F_lLSeB2wWKV7lwVoXXCn39ol0Q64d_4DwA53sJFzrgISdgY%3D",
+      "total_lotes": 2,
+      "total_itens": 26,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "UNIFORMES PADRONIZADOS",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 13,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515548 Calça Administrativa Masculina:tecido brim pesado marrom café, cós anatômico, bolsos laterais tipo faca e bolsos traseiros embutidos, passadores reforçados, costuras triplas nas áreas de tensão. Uso com cinto de nylon marrom café com fivela metálica do brasão da Escola, em tamanhos variados que serão informados no momento da contratação.",
+              "unidade": "UND",
+              "quantidade": "32,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "2",
+              "especificacao": "9900515549 Bermuda Feminina para Educação Física:tecido tactel premium azul padrão UEMC, cós com elástico reforçado, modelagem feminina, comprimento 5 cm acima do joelho, secagem rápida, resistência à abrasão, tecnologia antiodor, em tamanhos variados que serão informados no momento da contratação.",
+              "unidade": "UND",
+              "quantidade": "1.000,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "3",
+              "especificacao": "37145 Calção Masculino para Educação Física:tactel premium azul padrão UEMC, cós com cordão interno, dois bolsos laterais, dois bolsos traseiros, comprimento 5 cm acima do joelho, secagem rápida e resistência ao uso contínuo, em tamanhos variados que serão informados no momento da contratação.",
+              "unidade": "UND",
+              "quantidade": "1.000,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "4",
+              "especificacao": "9900515550 Calça Masculina em Brim (Padrão UEMC):cor azul UEMC, faixas laterais vermelhas de 6 cm, bolsos funcionais, costuras reforçadas, passantes militares, uso com cinto nylon azul marinho com brasão, em tamanhos variados que serão informados no momento da contratação.",
+              "unidade": "UND",
+              "quantidade": "1.000,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "5",
+              "especificacao": "37147 Calça Feminina em Brim (Padrão UEMC):brim azul UEMC, faixas laterais vermelhas de 6 cm, modelagem feminina, bolsos laterais e traseiros, passantes militares reforçados, em tamanhos variados que serão informados no momento da contratação.",
+              "unidade": "UND",
+              "quantidade": "1.000,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "6",
+              "especificacao": "37148 Saia Feminina em Brim (Padrão UEMC):brim azul UEMC, altura até o joelho, faixas laterais vermelhas de 6 cm, bolsos laterais e traseiros, modelagem levemente evasê, passantes reforçados, em tamanhos variados que serão informados no momento da contratação.",
+              "unidade": "UND",
+              "quantidade": "1.000,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "7",
+              "especificacao": "9900515551 Camisa para Educação Física:malha premium branca, gramatura mínima 150 g/m², gola careca reforçada, manga curta, brasão institucional em alta definição, identificação MCPM/UEMC, tratamento antiodor e antialérgico, em tamanhos P, M, G e GG, sendo as definições exatas de tamanho, modelagem e gênero informadas no momento da contratação.",
+              "unidade": "UND",
+              "quantidade": "1.000,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "8",
+              "especificacao": "37149 Camisa Polo Administrativa:malha PV (67% poliéster/33% viscose), branca, gola e punhos marrom café, bordados com nome de guerra, função, tipo sanguíneo e RH; brasão da Escola no peito; bandeira da Bahia na manga direita; brasão do Município na esquerda; bordado vermelho padrão UEMC, em tamanhos P, M, G e GG, sendo as definições exatas de tamanho, modelagem e gênero informadas no momento da contratação.",
+              "unidade": "UND",
+              "quantidade": "32,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "9",
+              "especificacao": "9900515552 Camisa Polo Estudantil MCPM:malha PV branca, gola e punhos azul UEMC, identificação (AL MCPM + nome de guerra), tipo sanguíneo e RH bordados, brasão institucional no peito, bandeira da Bahia bordada e brasão do Município na manga esquerda, em tamanhos P, M, G e GG, sendo as definições exatas de tamanho, modelagem e gênero informadas no momento da contratação.",
+              "unidade": "UND",
+              "quantidade": "1.000,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "10",
+              "especificacao": "37150 Jaleco Branco Administrativo:tecido Oxford, manga curta, gola esporte, bolsos funcionais, identificação bordada (nome, tipo sanguíneo, RH), brasão institucional no peito, bandeira da Bahia bordada e brasão do Município pintado, em tamanhos variados que serão informados no momento da contratação.",
+              "unidade": "UND",
+              "quantidade": "90,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "11",
+              "especificacao": "9900515553 Beca Cerimonial MCPM:tecido microfibra premium azul marinho, gola em V estruturada, caimento reto, viés vermelho padrão UEMC, brasão institucional bordado em alta definição. Uso em solenidades, formaturas e eventos oficiais, em tamanhos variados que serão informados no momento da contratação.",
+              "unidade": "UND",
+              "quantidade": "1.000,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "12",
+              "especificacao": "9900515554 Boné Estudantil MCPM:brim pesado azul UEMC, estrutura reforçada, seis gomos com ilhoses para ventilação, brasão pintado frontal, fecho em velcro militar reforçado com ajuste de tamanho.",
+              "unidade": "UND",
+              "quantidade": "1.000,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "13",
+              "especificacao": "9900515555 Boné Administrativo MCPM:brim pesado marrom café, brasão pintado, ajuste posterior em velcro.",
+              "unidade": "UND",
+              "quantidade": "32,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "1",
+          "titulo": "UNIFORMES PADRONIZADOS",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 13,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515548 Calça Administrativa Masculina:tecido brim pesado marrom café, cós anatômico, bolsos laterais tipo faca e bolsos traseiros embutidos, passadores reforçados, costuras triplas nas áreas de tensão. Uso com cinto de nylon marrom café com fivela metálica do brasão da Escola, em tamanhos variados que serão informados no momento da contratação.",
+              "unidade": "UND",
+              "quantidade": "32,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "2",
+              "especificacao": "9900515549 Bermuda Feminina para Educação Física:tecido tactel premium azul padrão UEMC, cós com elástico reforçado, modelagem feminina, comprimento 5 cm acima do joelho, secagem rápida, resistência à abrasão, tecnologia antiodor, em tamanhos variados que serão informados no momento da contratação.",
+              "unidade": "UND",
+              "quantidade": "1.000,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "3",
+              "especificacao": "37145 Calção Masculino para Educação Física:tactel premium azul padrão UEMC, cós com cordão interno, dois bolsos laterais, dois bolsos traseiros, comprimento 5 cm acima do joelho, secagem rápida e resistência ao uso contínuo, em tamanhos variados que serão informados no momento da contratação.",
+              "unidade": "UND",
+              "quantidade": "1.000,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "4",
+              "especificacao": "9900515550 Calça Masculina em Brim (Padrão UEMC):cor azul UEMC, faixas laterais vermelhas de 6 cm, bolsos funcionais, costuras reforçadas, passantes militares, uso com cinto nylon azul marinho com brasão, em tamanhos variados que serão informados no momento da contratação.",
+              "unidade": "UND",
+              "quantidade": "1.000,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "5",
+              "especificacao": "37147 Calça Feminina em Brim (Padrão UEMC):brim azul UEMC, faixas laterais vermelhas de 6 cm, modelagem feminina, bolsos laterais e traseiros, passantes militares reforçados, em tamanhos variados que serão informados no momento da contratação.",
+              "unidade": "UND",
+              "quantidade": "1.000,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "6",
+              "especificacao": "37148 Saia Feminina em Brim (Padrão UEMC):brim azul UEMC, altura até o joelho, faixas laterais vermelhas de 6 cm, bolsos laterais e traseiros, modelagem levemente evasê, passantes reforçados, em tamanhos variados que serão informados no momento da contratação.",
+              "unidade": "UND",
+              "quantidade": "1.000,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "7",
+              "especificacao": "9900515551 Camisa para Educação Física:malha premium branca, gramatura mínima 150 g/m², gola careca reforçada, manga curta, brasão institucional em alta definição, identificação MCPM/UEMC, tratamento antiodor e antialérgico, em tamanhos P, M, G e GG, sendo as definições exatas de tamanho, modelagem e gênero informadas no momento da contratação.",
+              "unidade": "UND",
+              "quantidade": "1.000,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "8",
+              "especificacao": "37149 Camisa Polo Administrativa:malha PV (67% poliéster/33% viscose), branca, gola e punhos marrom café, bordados com nome de guerra, função, tipo sanguíneo e RH; brasão da Escola no peito; bandeira da Bahia na manga direita; brasão do Município na esquerda; bordado vermelho padrão UEMC, em tamanhos P, M, G e GG, sendo as definições exatas de tamanho, modelagem e gênero informadas no momento da contratação.",
+              "unidade": "UND",
+              "quantidade": "32,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "9",
+              "especificacao": "9900515552 Camisa Polo Estudantil MCPM:malha PV branca, gola e punhos azul UEMC, identificação (AL MCPM + nome de guerra), tipo sanguíneo e RH bordados, brasão institucional no peito, bandeira da Bahia bordada e brasão do Município na manga esquerda, em tamanhos P, M, G e GG, sendo as definições exatas de tamanho, modelagem e gênero informadas no momento da contratação.",
+              "unidade": "UND",
+              "quantidade": "1.000,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "10",
+              "especificacao": "37150 Jaleco Branco Administrativo:tecido Oxford, manga curta, gola esporte, bolsos funcionais, identificação bordada (nome, tipo sanguíneo, RH), brasão institucional no peito, bandeira da Bahia bordada e brasão do Município pintado, em tamanhos variados que serão informados no momento da contratação.",
+              "unidade": "UND",
+              "quantidade": "90,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "11",
+              "especificacao": "9900515553 Beca Cerimonial MCPM:tecido microfibra premium azul marinho, gola em V estruturada, caimento reto, viés vermelho padrão UEMC, brasão institucional bordado em alta definição. Uso em solenidades, formaturas e eventos oficiais, em tamanhos variados que serão informados no momento da contratação.",
+              "unidade": "UND",
+              "quantidade": "1.000,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "12",
+              "especificacao": "9900515554 Boné Estudantil MCPM:brim pesado azul UEMC, estrutura reforçada, seis gomos com ilhoses para ventilação, brasão pintado frontal, fecho em velcro militar reforçado com ajuste de tamanho.",
+              "unidade": "UND",
+              "quantidade": "1.000,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "13",
+              "especificacao": "9900515555 Boné Administrativo MCPM:brim pesado marrom café, brasão pintado, ajuste posterior em velcro.",
+              "unidade": "UND",
+              "quantidade": "32,00",
+              "valor_referencia": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-063-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "332 / 2026",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "HABILITAÇÃO",
+      "condutor": "JONATAS DA SILVA SOUSA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO PARCELADA",
+      "publicacao": "17/04/2026 14:49",
+      "inicio_recepcao": "22/04/2026 08:30",
+      "fim_recepcao": "05/05/2026 08:15",
+      "inicio_disputa": "05/05/2026 08:30",
+      "objeto": "Contratação de empresa especializada em fornecimento de ADUELAS DE CONCRETOS (material de consumo), a fim de atender as demandas da Secretaria Municipal de Infraestrutura e Serviços Urbanos.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5De6KLP%2F2i2Pu69UpQSSUlvQ1Jg4cSlUiTJ7wlR6YFvch%2FpklMq4YVv3fwbha6T3WMwiXV3TbQjfPIVZ9zpTV9fV4nBYP_yfODa3Yz6e1OxS4%3D",
+      "total_lotes": 1,
+      "total_itens": 3,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "ADUELAS DE CONCRETOS",
+          "fase": "HABILITAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "571.404,30",
+          "vencedor": "CEPRENG INDUSTRIA DE ARTEFATOS E CIMENTO EIRELI",
+          "melhor_oferta": "571.397,10",
+          "total_itens": 3,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515574 Aduela/ Galeria pré-moldada de concreto armado:seção retangular, fechada, com encaixe do tipo macho e fêmea. Dimensões internas de 2,00 m de largura e 2,00 m de altura, comprimento de 1 m, mísula de 20x20 cm, espessura de parede mínima de 15 cm, A altura de aterro a ser considerada é de 0,50 - 5,00 m, carga acidental considerando TB-45 e Fck do concreto de 35 MPa.",
+              "unidade": "Und.",
+              "quantidade": "24,00",
+              "valor_referencia": "4.778,03"
+            },
+            {
+              "numero": "2",
+              "especificacao": "9900515575 Aduela/ Galeria pré-moldada de concreto armado:seção retangular, fechada, com encaixe do tipo macho e fêmea. Dimensões internas de 2,50 m de largura e 2,50 m de altura, comprimento de 1 m, mísula de 20x20 cm, espessura de parede mínima de 20 cm, A altura de aterro a ser considerada é de 0,50 - 5,00 m, carga acidental considerando TB-45 e Fck do concreto de 35 MPa.",
+              "unidade": "Und.",
+              "quantidade": "50,00",
+              "valor_referencia": "5.854,95"
+            },
+            {
+              "numero": "3",
+              "especificacao": "9900515576 Aduela/ Galeria pré-moldada de concreto armado:Aduela/ Galeria pré-moldada de concreto armado, seção retangular, fechada, com encaixe do tipo macho e fêmea.Dimensões internas de 3,00 m de largura e 3,00 m de altura, comprimento de 1 m, mísula de 20x20 cm, espessura de parede mínima de 20 cm, A altura de aterro a ser considerada é de 0,50- 5,00 m, carga acidental considerando TB-45 e Fck do concreto de 35 MPa.",
+              "unidade": "Und.",
+              "quantidade": "24,00",
+              "valor_referencia": "6.832,67"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-050-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "126/2026",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "JULGAMENTO",
+      "condutor": "JONATAS DA SILVA SOUSA",
       "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
       "tipo_contrato": "AQUISIÇÃO",
-      "publicacao": "15/05/2024 18:26",
-      "inicio_recepcao": "16/05/2024 08:00",
-      "fim_recepcao": "12/06/2024 09:45",
-      "inicio_disputa": "12/06/2024 10:00",
-      "objeto": "Contratação de instituição financeira para prestação de serviços bancários para centralização, gerenciamento e processamento de créditos da folha de pagamento dos servidores, a fim de atender as demandas da Prefeitura de Teixeira de Freitas, conforme condições, quantidades e especificações no Edital, Termo de Referência e seus Anexos.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DlMjRRPyDrb%2FLWn4C4iz%2FbMCdHMftJ9y_lnNpeIqFGVrDRo5snLs7NAHP2yH1ahyGWNJDgJ6vJ7TN%2FyvJk1IV4YXyEIEen%2F2X1ALjjP3uyl8%3D",
+      "publicacao": "08/04/2026 17:12",
+      "inicio_recepcao": "10/04/2026 08:30",
+      "fim_recepcao": "12/05/2026 08:15",
+      "inicio_disputa": "12/05/2026 08:30",
+      "objeto": "Contratação de empresa especializada em prestação de serviço de LEVANTAMENTO TOPOGRÁFICO PLANIALTIMÉTRICO PARA REALIZAÇÃO DE GEORREFERENCIAMENTO DE ROTAS ESCOLARES, a fim de atender as demandas da Secretaria Municipal de Educação.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DfDJ6_ft0Gl0tXZwKRkrUGGWn0Vj95R8U5QtGnX%2FxgAEy_mKHj7FspkWyisuoOxQEkBtKe3L0BUitA9TDycaAUWwsF0AmCpHfzZZpmBdCNY4%3D",
       "total_lotes": 1,
       "total_itens": 1,
       "lotes": [
         {
           "numero": "1",
-          "titulo": "LOTE 01",
-          "fase": "SUSPENSO",
-          "tipo": "UNITÁRIO",
+          "titulo": "GEORREFERENCIAMENTO",
+          "fase": "JULGAMENTO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "84.240,00",
+          "vencedor": "SOLO TOPOGRAFIA E GEORREFERENCIAMENTO LTDA",
+          "melhor_oferta": "163.000,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9903311812 Serviço de levantamento topográfico planialtimétricoe georreferenciamento completo das rotas escolares domunicípio:abrangendo visitas de campo, coleta de dados porreceptores GNSS/GPS de alta precisão, medição de distânciasreais considerando curvas, declividades e vias vicinais,identificação de pontos notáveis e condicionantes geográficos,compatibilização com a malha viária oficial e geração de basegeoespacial em formato digital (shapefile, geojson ouequivalente), com elaboração de mapeamento cartográfico digitalconsolidado, contendo todas as rotas levantadas, pontos deembarque e desembarque, localização das escolas atendidas,delimitação das zonas urbana e rural, vias de acesso, pontoscríticos (aclives, declives, travessias e estradas nãopavimentadas), representação sobre malha viária real, geraçãode plantas em escala adequada e integração dos dados aoSistema de Informações Geográficas (SIG), acompanhada derelatório técnico detalhado, memorial descritivo e plantageorreferenciada das rotas escolares.",
+              "unidade": "KM",
+              "quantidade": "4.800,00",
+              "valor_referencia": "17,55"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CE-005-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "216/2026",
+      "modalidade": "CONCORRÊNCIA ELETRÔNICA",
+      "situacao": "JULGAMENTO",
+      "condutor": "DAVIDSON ARAUJO SANTOS",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO PARCELADA",
+      "publicacao": "31/03/2026 16:00",
+      "inicio_recepcao": "01/04/2026 08:00",
+      "fim_recepcao": "12/05/2026 08:15",
+      "inicio_disputa": "12/05/2026 08:30",
+      "objeto": "Contratação de empresa especializada em execução de obras para ampliação de refeitório na Escola Municipal Rachel de Queiroz, localizada no bairro Centro, do município de Teixeira de Freitas – BA.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DM7OI1ZztrTYBRzlNSIXAn0TRPblFYB7g2M_IF%2F8Agr46BAKHgW3wV4l5IDppvOWdqZmFQBJSaHgu6K0OQhoIr5piPmmgvbie3YE9eLvEbEU%3D",
+      "total_lotes": 1,
+      "total_itens": 13,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "EXECUÇÃO DE OBRAS PARA AMPLIAÇÃO DE REFEITÓRIO NA ESCOLA MUNICIPAL RACHEL DE QUEIROZ",
+          "fase": "JULGAMENTO",
+          "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "100,00",
           "exclusivo_me": "NÃO",
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
+          "valor_referencia": "235.249,19",
+          "vencedor": "CONSTRUTORA JF PRADO LTDA",
+          "melhor_oferta": "225.200,00",
+          "total_itens": 13,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "SERVIÇOS PRELIMINARES",
+              "unidade": "SERVIÇO",
+              "quantidade": "1,00",
+              "valor_referencia": "44.778,15"
+            },
+            {
+              "numero": "2",
+              "especificacao": "DEMOLIÇÕES E RETIRADAS",
+              "unidade": "SERVIÇO",
+              "quantidade": "1,00",
+              "valor_referencia": "11.483,38"
+            },
+            {
+              "numero": "3",
+              "especificacao": "MOVIMENTO DE TERRA",
+              "unidade": "SERVIÇO",
+              "quantidade": "1,00",
+              "valor_referencia": "7.822,81"
+            },
+            {
+              "numero": "4",
+              "especificacao": "FUNDAÇÕES",
+              "unidade": "SERVIÇO",
+              "quantidade": "1,00",
+              "valor_referencia": "13.593,14"
+            },
+            {
+              "numero": "5",
+              "especificacao": "SUPERESTRUTURA",
+              "unidade": "SERVIÇO",
+              "quantidade": "1,00",
+              "valor_referencia": "21.043,91"
+            },
+            {
+              "numero": "6",
+              "especificacao": "COBERTURA",
+              "unidade": "SERVIÇO",
+              "quantidade": "1,00",
+              "valor_referencia": "86.685,50"
+            },
+            {
+              "numero": "7",
+              "especificacao": "PAREDES E PAINÉIS",
+              "unidade": "SERVIÇO",
+              "quantidade": "1,00",
+              "valor_referencia": "1.304,48"
+            },
+            {
+              "numero": "8",
+              "especificacao": "REVESTIMENTOS",
+              "unidade": "SERVIÇO",
+              "quantidade": "1,00",
+              "valor_referencia": "32.945,92"
+            },
+            {
+              "numero": "9",
+              "especificacao": "PINTURAS",
+              "unidade": "SERVIÇO",
+              "quantidade": "1,00",
+              "valor_referencia": "2.334,41"
+            },
+            {
+              "numero": "10",
+              "especificacao": "INSTALAÇÕES ELÉTRICAS",
+              "unidade": "SERVIÇO",
+              "quantidade": "1,00",
+              "valor_referencia": "5.472,41"
+            },
+            {
+              "numero": "11",
+              "especificacao": "ÁGUAS PLUVIAIS",
+              "unidade": "SERVIÇO",
+              "quantidade": "1,00",
+              "valor_referencia": "4.530,78"
+            },
+            {
+              "numero": "12",
+              "especificacao": "INSTALAÇÕES DE PREVENÇÃO DE COMBATE A INCÊNDIO E SPDA",
+              "unidade": "SERVIÇO",
+              "quantidade": "1,00",
+              "valor_referencia": "2.961,05"
+            },
+            {
+              "numero": "13",
+              "especificacao": "SERVIÇOS COMPLEMENTARES",
+              "unidade": "SERVIÇO",
+              "quantidade": "1,00",
+              "valor_referencia": "293,25"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-027-2024",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "705/2024",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "HOMOLOGADO",
+      "condutor": "MAGDA DE SELES GUIMARÃES",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO",
+      "publicacao": "13/06/2024 18:49",
+      "inicio_recepcao": "14/06/2024 08:00",
+      "fim_recepcao": "10/07/2024 13:45",
+      "inicio_disputa": "10/07/2024 14:00",
+      "objeto": "O objeto da presente licitação é a contratação de INSTITUIÇÃO FINANCEIRA ESPECIALIZADA NA PRESTAÇÃO DE SERVIÇOS BANCÁRIOS PARA CENTRALIZAÇÃO, GERENCIAMENTO E PROCESSAMENTO DE CRÉDITOS DA FOLHA DE PAGAMENTO DOS SERVIDORES, a fim de atender as demandas da Secretaria Municipal de Administração, conforme condições, quantidades e especificações no Edital, Termo de Referência e seus Anexos.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DeAZw5F6vUHKFX2UaDR2ihYgN70zSsBm4p5LRqgfmjCK14LvNmT4Leyf3cHgaZV51ZOg2XcRkmRmaLe9oEGnex1tb_tFNpj6mP0iotb3vwL0%3D",
+      "total_lotes": 1,
+      "total_itens": 1,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "SERVIÇOS BANCÁRIOS",
+          "fase": "HOMOLOGADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
           "valor_referencia": "6.052.150,00",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
+          "vencedor": "ITAÚ UNIBANCO S.A.",
+          "melhor_oferta": "6.053.000,00",
           "total_itens": 1,
           "itens": [
             {
               "numero": "1",
               "especificacao": "CONTRATAÇÃO DE INSTITUIÇÃO FINANCEIRA: ESPECIALIZADA NA PRESTAÇÃO DE SERVIÇOS BANCÁRIOS PARA CENTRALIZAÇÃO, GERENCIAMENTO E PROCESSAMENTO DE CRÉDITOS DA FOLHA DE PAGAMENTO DOS SERVIDORES DA PREFEITURA MUNICIPAL DE TEIXEIRA DE FREITAS/BA.",
-              "unidade": "SERVIÇO",
+              "unidade": "UN",
               "quantidade": "1,00",
               "valor_referencia": "6.052.150,00"
             }
