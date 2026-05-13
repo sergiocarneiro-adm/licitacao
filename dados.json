@@ -4,7 +4,7 @@
     "total_processos": 780,
     "total_lotes": 8700,
     "total_itens": 14904,
-    "atualizado_em": "20260512_193502"
+    "atualizado_em": "20260513_193523"
   },
   "processos": [
     {
@@ -260123,211 +260123,6 @@
       ]
     },
     {
-      "id": "PE-068-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "303 / 2026",
-      "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "RECEPÇÃO DE PROPOSTAS",
-      "condutor": "SERGIO CARNEIRO CAVALCANTI DE AZEVEDO",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO PARCELADA",
-      "publicacao": "24/04/2026 15:22",
-      "inicio_recepcao": "28/04/2026 08:30",
-      "fim_recepcao": "13/05/2026 08:15",
-      "inicio_disputa": "13/05/2026 08:30",
-      "objeto": "Contratação de empresa especializada em prestação de serviço de LOCAÇÃO DE EQUIPAMENTOS DE IMPRESSÃO E CÓPIA, DE MANUTENÇÃO PREVENTIVA E CORRETIVA COM TROCA DE PEÇAS DE IMPRESSORAS, DE RECARGA DE TONER, a fim de atender as demandas da Secretaria Municipal de Administração e demais Secretarias.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5Dt6bpEdlAZ26K7_kfVxUC1jiT2ZCD5%2FbhCbw1LqRXA_xvLYlm5aaXspk6PATqKGFIIkjV7p2S3FGcZe_9KG2yxKIWCz3FeoJl04vsAcUnE%2FQ%3D",
-      "total_lotes": 1,
-      "total_itens": 24,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "LOCAÇÃO DE EQUIPAMENTOS DE IMPRESSÃO E CÓPIA",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 24,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "10010000003 SERVIÇO DE LOCAÇÃO DE 03(três) IMPRESSORAS MULTIFUNCIONAL A3 COLORIDA DEGRANDE PORTE:Locação de impressora multifuncional A3 colorida, tecnologia jato de tinta (tanque ou cartuchos), incluindo manutenção preventiva e corretiva, reposição de todas as peças e suprimentos, sem limite de páginas, com prazo para atendimento, de até 24h. após o registro do chamado, caso não ocorra o reparo ou reposição neste prazo o equipamento deverá ser imediatamente substituído, também deverá ser fornecido todo o material para que o mesmo seja instalado para seu perfeito funcionamento, com objetivo de atender as necessidades das Secretarias deste Município. Especificações técnicas mínimas: Multifuncional com Tecnologia jato de tinta, colorida, com 4 cores (CMYK) ou superior; Impressão, cópia, digitalização, envio (scan to e-mail/pasta); Formato máximo A3 (297 x 420 mm) ou superior, compatível também com A4 e formatos menores; Velocidade de impressão mínima de 25 ppm (preto) e 20 ppm (cores); Resolução de impressão mínima de 4.800 x 1.200 dpi ou equivalente; Tempo para primeira impressão compatível com equipamentos profissionais da categoria; Alimentação de papel compatível com equipamentos da categoria; Alimentador automático de documentos (ADF) com capacidade mínima de 35 folhas, com digitalização duplex automática; Conectividade Ethernet 10/100/1000, USB 2.0 e Wi- Fi (padrão n/ac ou superior); Compatível com impressão móvel (AirPrint, Mopria, Google Cloud Print ou similar); Painel de operação com display (LCD ou touch) para configuração e operação; Volume mensal recomendado mínimo de 2.000 páginas, com ciclo máximo compatível com demanda de médio/grande porte; Sistema de tinta com tanque recarregável ou cartuchos de alta capacidade, com rendimento mínimo compatível com uso intensivo; Drivers disponíveis para Windows, Linux e Mac OS (versões atuais).",
-              "unidade": "SER",
-              "quantidade": "36,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "2",
-              "especificacao": "10010000004 SERVIÇO DE LOCAÇÃO DE 02(duas) IMPRESSORAS PLOTTER:SERVIÇO DE LOCAÇÃO DE02(duas) IMPRESSORAS PLOTTER: Locação de impressora plotter de grande formato, colorida, com largura mínima de 914 mm (36\"), compatível com formato A0, incluindo manutenção preventiva e corretiva, reposição de todas as peças e suprimentos, sem limite de metros lineares impressos, com prazo para atendimento, de até 24h. após o registro do chamado, caso não ocorra o reparo ou reposição neste prazo o equipamento deverá ser imediatamente substituído, também deverá ser fornecido todo o material para que o mesmo seja instalado para seu perfeito funcionamento, com objetivo de atender as necessidades das Secretarias deste Município; Especificações técnicas: Plotter profissional de grande formato; Tecnologia jato de tinta (térmico ou piezoelétrico), colorido; Largura máxima mínima de 914 mm (36\"), compatível com A0; Resolução mínima de 2.400 x 1.200 dpi equivalente; Velocidade compatível com demandas de escritórios de arquitetura/engenharia; Suprimentos com mínimo de 4 cores (CMYK), cartuchos individuais; Compatível com padrões de mercado para CAD (HP-GL/2, TIFF, PDF, CALS G4 ou equivalentes); Conectividade Ethernet Gigabit e USB, com Wi-Fi desejável; Alimentação de papel por rolo (mínimo de 1 rolo, até 91m) e alimentação manual; Cortador automático integrado para mídias em rolo; Bandeja de saída com bandeja coletora/empilhadeira inclusa; Memória compatível com processamento de arquivos CAD complexos; Drivers disponíveis para Windows, Linux e Mac OS (versões atuais); Equipamento em linha de comercialização no mercado nacional.",
-              "unidade": "SER",
-              "quantidade": "24,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "3",
-              "especificacao": "10010000005 SERVIÇO DE LOCAÇÃO DE 145(cento e quarenta e cinco) IMPRESSORAS MULTIFUNCIONAL LASER MONOCROMÁTICA:Locação de máquinas fotocopiadoras incluso a manutenção preventiva- corretiva e reposição de suprimentos (incluso também, manutenção preventiva corretiva, suprimentos e periféricos necessários para instalação e funcionamento, troca de peças e cartuchos, sem limites de páginas, recarga de tonner e outros), com prazo para atendimento, de até 24h. após o registro do chamado, caso não ocorra o reparo ou reposição neste prazo o equipamento deverá ser imediatamente substituído, também deverá ser fornecido todo o material para que o mesmo seja instalado para seu perfeito funcionamento, com objetivo de atender as necessidades das Secretarias deste Município; Especificações técnicas mínimas do equipamento: Multifuncional a laser monocromática; Impressão, cópia, digitalização, envio (scan to e- mail/pasta) e fax(opcional); Velocidade de impressão/cópia mínima de 40 ppm (páginas por minuto) no formato A4; Primeira impressão: &#8804; 6 segundos para Carta/A4; Primeira impressão: &#8804; 6 segundos para cópia (pelo vidro de digitalização); Resolução de impressão mínima de 1200 x 1200 dpi equivalente; Resolução de digitalização mínima de 600 x 600 dpi; Compatível com PCL, PostScript ou linguagem nativa equivalente que garanta processamento eficiente; Painel de toque colorido com tamanho mínimo de 4,3 polegadas; Conectividade de rede Ethernet 10/100/1000 (Gigabit) e Wi-Fi (padrão 802.11 n/ac ou superior); Conectividade local USB 2.0 (Host e Device) ou superior; Compatível com impressão móvel (Apple AirPrint, Mopria, Google Cloud Print ou similar); Alimentação de papel padrão com mínimo de 400 folhas em cassete + bandeja multifuncional para 100 folhas; Alimentador automático de documentos (ADF) com capacidade mínima de 50 folhas, com digitalização duplex automática; Tamanho máximo de original no ADF mínimo de 216 mm x 355 mm (capacidade para Ofício); Zoom de 25% a 400% em incrementos de 1%; Cópias múltiplas até 999 cópias; Digitalização TWAIN de rede, com suporte a formatos PDF, JPEG, TIFF; Originais aceitos no vidro: folhas, livros e objetos tridimensionais; Volume mensal recomendado mínimo de 50.000 páginas; Ciclo máximo mensal mínimo de 150.000 páginas ou superior; Drivers disponíveis para os sistemas utilizados pela Administração (Windows 10/11, Windows Server, Linux (principais distribuições) e Mac OS); O e",
-              "unidade": "SER",
-              "quantidade": "1.740,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "4",
-              "especificacao": "37133 SERVIÇO DE LOCAÇÃO DE 45(quarenta e cinco) IMPRESSORAS MULTIFUNCIONAL LASER COLORIDA:SERVIÇO DE LOCAÇÃO DE 45(quarenta eLocação de equipamento multifuncional a laser colorido, com fornecimento de todos os suprimentos, manutenção preventiva e corretiva, reposição de peças e periféricos necessários para instalação e perfeito funcionamento, sem limite de páginas, incluindo recarga de toner e substituição de componentes, com prazo de atendimento técnico de até 24 (vinte e quatro) horas contadas do registro do chamado, sob pena de substituição imediata do equipamento, para atender às necessidades das Secretarias Municipais. Especificações técnicas mínimas do equipamento: Multifuncional a laser colorida (tecnologia eletrofotográfica); Impressão, cópia, digitalização, envio (scan to e-mail/pasta) e fax(opcional); Velocidade de impressão/cópia mínima de 30 ppm nas cores e no preto, no formato A4; Primeira impressão: &#8804; 15 segundos para primeira impressão (preto/cores); Primeira impressão: &#8804; 15 segundos para primeira cópia; Resolução de impressão mínima de 2400 x 600 dpi equivalente; Resolução de digitalização mínima de 1200 x 600 dpi (óptica); Processador mínimo de 800 MHz ou desempenho equivalente; Memória mínima de 512 MB, expansível; Compatível com PCL, PostScript ou linguagem nativa equivalente que garanta processamento eficiente; Painel de toque colorido com tamanho mínimo de 2,7 polegadas; Conectividade de rede Ethernet 10/100/1000 (Gigabit) e Wi-Fi (padrão 802.11 n/ac ou superior); Conectividade local USB 2.0 (Host e Device); Compatível com impressão móvel (Apple AirPrint, Mopria, Google Cloud Print ou similar); Alimentação de papel padrão com capacidade mínima total de 300 folhas, sendo no mínimo 200 folhas em bandeja(s) cassete(s) e 50 folhas em bandeja multifuncional (alimentação manual), sendo aceitas configurações que, somadas, atinjam este total; Capacidade de saída de papel mínima de 100 folhas (face para baixo); Alimentador automático de documentos (ADF) com capacidade mínima de 50 folhas, com digitalização duplex automática; Tamanho máximo de original no ADF mínimo de 216 mm x 355 mm (capacidade para Ofício); Tamanho do vidro de documentos mínimo de 216 mm x 279 mm (capacidade para Carta/Ofício); Tipos de mídia suportados: papel comum, timbrado, colorido, reciclado, cartão, etiquetas, envelopes; Gramatura suportada: bandeja padrão de 60 a 105 g/m² e bandeja multiuso de 60 a 163 g/m",
-              "unidade": "SER",
-              "quantidade": "540,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "5",
-              "especificacao": "10010000006 SERVIÇO DE RECARGA de cartucho HP 85A(CE285A):ou equivalente, utilizado em impressoras HP LaserJet Pro série P1102, P1106, P1108, P1109, M1132 MFP, M1212nfMFP e M1120 MFP ou modelos compatíveis. O serviço deverá incluir desmontagem, limpeza completa, abastecimento com toner compatível, substituição de componentes quando necessário (cilindro e outros) e teste de impressão. Com rendimento aproximado de 1.600 páginas, com cobertura de 5%.",
-              "unidade": "SER",
-              "quantidade": "480,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "6",
-              "especificacao": "37134 SERVIÇO DE RECARGA de cartucho Brother TN-2340 / TN-2370 ou equivalente:compatível com impressoras Brother DCP-L2520DW, DCP-L2540DW e modelos similares da série DCP-L2. O serviço deverá incluir desmontagem, limpeza completa, abastecimento com toner compatível e testes de impressão. Rendimento mínimo esperado: 1.200 páginas(TN-2340) e 2.600 páginas (TN-2370), com cobertura de 5%.",
-              "unidade": "SER",
-              "quantidade": "360,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "7",
-              "especificacao": "37135 SERVIÇO DE RECARGA de cartucho HP 53A (Q7553A)ou equivalente:compatível com impressoras HP LaserJet P2015, P2015d, P2015dn e modelos similares da série HP LaserJet P2015. O serviço deverá incluir desmontagem, limpeza completa, abastecimento com toner compatível, substituição de componentes quando necessário (cilindro e outros) e testes de impressão. Rendimento mínimo esperado: 3.000 páginas, com cobertura de 5%.",
-              "unidade": "SER",
-              "quantidade": "24,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "8",
-              "especificacao": "37136 SERVIÇO DE RECARGA de cartucho HP 05A (CE505A)ou equivalente:compatível com impressoras HP LaserJet P2035, P2055 e modelos similares da série HP LaserJet P2035/P2055. O serviço deverá incluir desmontagem, limpeza completa, abastecimento com toner compatível, substituição de componentes quando necessário (cilindro e outros) e testes de impressão. Rendimento mínimo esperado: 2.300 páginas, com cobertura de 5%.",
-              "unidade": "SER",
-              "quantidade": "12,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "9",
-              "especificacao": "9903311933 SERVIÇO DE RECARGA de cartucho HP 12A(Q2612A) ou equivalente:compatível com impressoras HP LaserJet 1020, HP LaserJet M1319f MFP e modelos similares da série HP LaserJet. O serviço deverá incluir desmontagem, limpeza completa, abastecimento com toner compatível, substituição de componentes quando necessário (cilindro e outros) e testes de impressão. Rendimento mínimo esperado:2.000 páginas, com cobertura de 5%.",
-              "unidade": "SER",
-              "quantidade": "60,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "10",
-              "especificacao": "9903311934 SERVIÇO DE RECARGA de cartucho HP 35A(CB435A) ou equivalente:compatível com impressoras HP LaserJet P1005, P1006 e modelos similares da série HP LaserJet P1000. O serviço deverá incluir desmontagem, limpeza completa, abastecimento com toner compatível, substituição de componentes quando necessário (cilindro e outros) e testes de impressão. Rendimento mínimo esperado: 1.500 páginas, com cobertura de 5%.",
-              "unidade": "SER",
-              "quantidade": "12,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "11",
-              "especificacao": "9903311935 SERVIÇO DE RECARGA de cartucho HP 33A(CF233A) ou equivalente:compatível com impressoras HP LaserJet Ultra M106w e modelos similares da série HP LaserJet Ultra. O serviço deverá incluir desmontagem, limpeza completa, abastecimento com toner compatível, substituição de componentes quando necessário (cilindro e outros) e testes de impressão. Rendimento mínimo esperado: 2.300 páginas, com cobertura de 5%.",
-              "unidade": "SER",
-              "quantidade": "24,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "12",
-              "especificacao": "10010000007 SERVIÇO DE RECARGA de cartucho Brother TN-3422, TN-3442 ou TN-3472 equivalentes:compatível comimpressoras Brother DCP-L5502DN e modelos similares da série Brother DCP-L5. O serviço deverá incluir desmontagem, limpeza completa, abastecimento com toner compatível; substituição, quando necessária, de componentes durante o processo de manutenção, incluindo o cilindro DR-3440 e outros itens relacionados. Rendimento mínimo esperado: 3.000 páginas(TN-3422), 8.000 páginas (TN-3442) e 12.000 páginas (TN-3472), com cobertura de 5%.",
-              "unidade": "SER",
-              "quantidade": "24,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "13",
-              "especificacao": "37137 SERVIÇO DE RECARGA:de cartuchos BrotherTN-419BK, TN-419C, TN-419M, TN-419Y ou equivalentes,compatível com impressoras Brother MFC-L8900CDW e modelos similares da série Brother MFC-L. O serviço deverá incluir desmontagem, limpeza completa, abastecimento com toner compatível, substituição de componentes quando necessário (cilindro e outros) e testes de impressão. Rendimento mínimo esperado: 9.000 páginas (preto) e 9.000 páginas (cores),com cobertura de 5%.",
-              "unidade": "SER",
-              "quantidade": "24,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "14",
-              "especificacao": "9903311936 SERVIÇO DE RECARGA de cartucho Brother TN-1060 ou equivalente:compatível com impressoras BrotherDCP-1617DW e modelos similares da série Brother DCP-1600. O serviço deverá incluir desmontagem, limpeza completa, abastecimento com toner compatível, substituição de componentes quando necessário (cilindro e outros) e testes de impressão. Rendimento mínimo esperado: 1.000 páginas, com cobertura de 5%.",
-              "unidade": "SER",
-              "quantidade": "24,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "15",
-              "especificacao": "37138 SERVIÇO DE RECARGA de cartucho Brother TN-420, TN-450 ou equivalente:compatível com impressoras Brother DCP-7065DN e modelos similares da série Brother DCP. O serviço deverá incluir desmontagem, limpeza completa, abastecimento com toner compatível e testes de impressão. Rendimento mínimo esperado: 2.600 páginas, com cobertura de 5%.",
-              "unidade": "SER",
-              "quantidade": "36,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "16",
-              "especificacao": "9903311937 SERVIÇO DE RECARGA de cartucho Brother TN-750, TN-720 ou TN-3302 ou equivalentes:compatível comimpressoras Brother DCP-8152DN e modelos similares da série Brother DCP. O serviço deverá incluir desmontagem, limpeza completa, abastecimento com toner compatível e testes de impressão. Rendimento mínimo esperado: 8.000 páginas, com cobertura de 5%.",
-              "unidade": "SER",
-              "quantidade": "24,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "17",
-              "especificacao": "9903311938 SERVIÇO DE RECARGA de cartucho HPCF258XC (58X) ou equivalente:compatível com impressoras HP LaserJet Pro M428fdw e modelos similares das séries HP LaserJet Pro M404/M428. O serviço deverá incluir desmontagem, limpeza completa, abastecimento com toner compatível e testes de impressão. Rendimento mínimo esperado: 10.000 páginas, com cobertura de 5%. Com chip.",
-              "unidade": "SER",
-              "quantidade": "120,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "18",
-              "especificacao": "9903311939 SERVIÇO DE RECARGA de cartucho HP 151X(W1510X) ou equivalente:compatível com impressoras HP LaserJet Pro 4103dw, 4103fdn, 4103fdw, 4104fdn e modelos similares da série HP LaserJet Pro 4100. O serviço deverá incluir desmontagem, limpeza completa, abastecimento com toner compatível e testes de impressão. Rendimento mínimo esperado: 9.700 páginas, com cobertura de 5%. Com chip.",
-              "unidade": "SER",
-              "quantidade": "240,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "19",
-              "especificacao": "9903311940 SERVIÇO DE RECARGA de cartuchos HP 83A(CF283A), ou equivalentes:compatível com impressoras HP LaserJet Pro MFP M127fn e modelos similares. O serviço deverá incluir desmontagem, limpeza completa, abastecimento com toner compatível e testes de impressão. Rendimento mínimo esperado: entre 1.500 e 2.300 páginas, com cobertura de 5%.",
-              "unidade": "SER",
-              "quantidade": "180,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "20",
-              "especificacao": "37139 SERVIÇO DE RECARGA de cartuchos HP 110A(W1110A), 105A (W1105A)) ou equivalentes:compatível com impressoras HP LaserJet MFP 135a e modelos similares. O serviço deverá incluir desmontagem, limpeza completa, abastecimento com toner compatível e testes de impressão. Rendimento mínimo esperado: entre 1.500 e 2.300 páginas, com cobertura de 5%.",
-              "unidade": "SER",
-              "quantidade": "12,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "21",
-              "especificacao": "9903311941 SERVIÇO DE RECARGA de cartucho Lexmark 56FBU0E ou equivalente:compatível com impressoras Lexmark MS521dn e modelos similares da série Lexmark MS520. O serviço deverá incluir desmontagem, limpeza completa, abastecimento com toner compatível e testes de impressão. Com chip. Rendimento mínimo esperado: 6.000 páginas, com cobertura de 5%.",
-              "unidade": "SER",
-              "quantidade": "12,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "22",
-              "especificacao": "37140 SERVIÇO DE RECARGA de tinta Brother BTD100BK,BTD100C, BTD100M, BTD100Y ou equivalentes:compatível com impressoras Brother DCP-T730DW e modelos similares da série Brother Tank. O serviço deverá incluir abastecimento com tinta compatível nas cores preto, ciano, magenta e amarelo, e testes de impressão para verificação da qualidade. Rendimento mínimo esperado: até 7.500 páginas para preto e até 5.000 páginas para cores, considerando cobertura padrão.",
-              "unidade": "SER",
-              "quantidade": "180,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "23",
-              "especificacao": "9903311942 SERVIÇO DE MANUTENÇÃO PREVENTIVA E CORRETIVA EM 30(trinta) IMPRESSORAS PRÓPRIAS DOMUNICÍPIO:Serviço de manutenção preventiva e corretiva para as impressoras pertencentes ao patrimônio do município (modelos diversos: jato de tinta, laser e multifuncionais), contemplando diagnóstico, limpeza, lubrificação, regulagem, reparos e substituição de componentes.",
-              "unidade": "SER",
-              "quantidade": "360,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "24",
-              "especificacao": "9900515572 FORNECIMENTO DE PEÇAS E INSUMOS PARAIMPRESSORAS:fornecimento de peças para impressoras pertencentes ao patrimônio do município (modelos diversos: jato de tinta, laser e multifuncionais), como que, tais como toners, tintas, cilindros, tambores, kits de manutenção, fusores, bandejas e demais componentes correlatos. A prestação do serviço e a eventual reposição de peças ocorrerão mediante demanda da Administração, visando assegurar a continuidade operacionaldos equipamentos.",
-              "unidade": "Und.",
-              "quantidade": "1,00",
-              "valor_referencia": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "PE-049-2026",
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "169/2026",
@@ -267792,42 +267587,247 @@
       ]
     },
     {
-      "id": "PE-027-2024",
+      "id": "PE-068-2026",
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "705/2024",
+      "numero_adm": "303 / 2026",
       "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "HOMOLOGADO",
-      "condutor": "MAGDA DE SELES GUIMARÃES",
+      "situacao": "JULGAMENTO",
+      "condutor": "SERGIO CARNEIRO CAVALCANTI DE AZEVEDO",
       "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO",
-      "publicacao": "13/06/2024 18:49",
-      "inicio_recepcao": "14/06/2024 08:00",
-      "fim_recepcao": "10/07/2024 13:45",
-      "inicio_disputa": "10/07/2024 14:00",
-      "objeto": "O objeto da presente licitação é a contratação de INSTITUIÇÃO FINANCEIRA ESPECIALIZADA NA PRESTAÇÃO DE SERVIÇOS BANCÁRIOS PARA CENTRALIZAÇÃO, GERENCIAMENTO E PROCESSAMENTO DE CRÉDITOS DA FOLHA DE PAGAMENTO DOS SERVIDORES, a fim de atender as demandas da Secretaria Municipal de Administração, conforme condições, quantidades e especificações no Edital, Termo de Referência e seus Anexos.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DeAZw5F6vUHKFX2UaDR2ihYgN70zSsBm4p5LRqgfmjCK14LvNmT4Leyf3cHgaZV51ZOg2XcRkmRmaLe9oEGnex1tb_tFNpj6mP0iotb3vwL0%3D",
+      "tipo_contrato": "AQUISIÇÃO PARCELADA",
+      "publicacao": "24/04/2026 15:22",
+      "inicio_recepcao": "28/04/2026 08:30",
+      "fim_recepcao": "13/05/2026 08:15",
+      "inicio_disputa": "13/05/2026 08:30",
+      "objeto": "Contratação de empresa especializada em prestação de serviço de LOCAÇÃO DE EQUIPAMENTOS DE IMPRESSÃO E CÓPIA, DE MANUTENÇÃO PREVENTIVA E CORRETIVA COM TROCA DE PEÇAS DE IMPRESSORAS, DE RECARGA DE TONER, a fim de atender as demandas da Secretaria Municipal de Administração e demais Secretarias.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5D8wUORZ%2F4N29Z12Hb6k3uL0BfbswyrbloTjFr7Y3z9CQw1UjXnDK%2F2H2uRbS%2FHPGSwovNW3rt3Mn9CkXoqHvJEfHvPikTMl%2FdKaj7M9Zll0I%3D",
       "total_lotes": 1,
-      "total_itens": 1,
+      "total_itens": 24,
       "lotes": [
         {
           "numero": "1",
-          "titulo": "SERVIÇOS BANCÁRIOS",
-          "fase": "HOMOLOGADO",
+          "titulo": "LOCAÇÃO DE EQUIPAMENTOS DE IMPRESSÃO E CÓPIA",
+          "fase": "JULGAMENTO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
           "exclusivo_me": "NÃO",
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
+          "valor_referencia": "3.315.120,48",
+          "vencedor": "U.M. SOLUÇÕES EM IMPRESSÃO",
+          "melhor_oferta": "971.520,00",
+          "total_itens": 24,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "10010000003 SERVIÇO DE LOCAÇÃO DE 03(três) IMPRESSORAS MULTIFUNCIONAL A3 COLORIDA DEGRANDE PORTE:Locação de impressora multifuncional A3 colorida, tecnologia jato de tinta (tanque ou cartuchos), incluindo manutenção preventiva e corretiva, reposição de todas as peças e suprimentos, sem limite de páginas, com prazo para atendimento, de até 24h. após o registro do chamado, caso não ocorra o reparo ou reposição neste prazo o equipamento deverá ser imediatamente substituído, também deverá ser fornecido todo o material para que o mesmo seja instalado para seu perfeito funcionamento, com objetivo de atender as necessidades das Secretarias deste Município. Especificações técnicas mínimas: Multifuncional com Tecnologia jato de tinta, colorida, com 4 cores (CMYK) ou superior; Impressão, cópia, digitalização, envio (scan to e-mail/pasta); Formato máximo A3 (297 x 420 mm) ou superior, compatível também com A4 e formatos menores; Velocidade de impressão mínima de 25 ppm (preto) e 20 ppm (cores); Resolução de impressão mínima de 4.800 x 1.200 dpi ou equivalente; Tempo para primeira impressão compatível com equipamentos profissionais da categoria; Alimentação de papel compatível com equipamentos da categoria; Alimentador automático de documentos (ADF) com capacidade mínima de 35 folhas, com digitalização duplex automática; Conectividade Ethernet 10/100/1000, USB 2.0 e Wi- Fi (padrão n/ac ou superior); Compatível com impressão móvel (AirPrint, Mopria, Google Cloud Print ou similar); Painel de operação com display (LCD ou touch) para configuração e operação; Volume mensal recomendado mínimo de 2.000 páginas, com ciclo máximo compatível com demanda de médio/grande porte; Sistema de tinta com tanque recarregável ou cartuchos de alta capacidade, com rendimento mínimo compatível com uso intensivo; Drivers disponíveis para Windows, Linux e Mac OS (versões atuais).",
+              "unidade": "SER",
+              "quantidade": "36,00",
+              "valor_referencia": "2.784,67"
+            },
+            {
+              "numero": "2",
+              "especificacao": "10010000004 SERVIÇO DE LOCAÇÃO DE 02(duas) IMPRESSORAS PLOTTER:SERVIÇO DE LOCAÇÃO DE02(duas) IMPRESSORAS PLOTTER: Locação de impressora plotter de grande formato, colorida, com largura mínima de 914 mm (36\"), compatível com formato A0, incluindo manutenção preventiva e corretiva, reposição de todas as peças e suprimentos, sem limite de metros lineares impressos, com prazo para atendimento, de até 24h. após o registro do chamado, caso não ocorra o reparo ou reposição neste prazo o equipamento deverá ser imediatamente substituído, também deverá ser fornecido todo o material para que o mesmo seja instalado para seu perfeito funcionamento, com objetivo de atender as necessidades das Secretarias deste Município; Especificações técnicas: Plotter profissional de grande formato; Tecnologia jato de tinta (térmico ou piezoelétrico), colorido; Largura máxima mínima de 914 mm (36\"), compatível com A0; Resolução mínima de 2.400 x 1.200 dpi equivalente; Velocidade compatível com demandas de escritórios de arquitetura/engenharia; Suprimentos com mínimo de 4 cores (CMYK), cartuchos individuais; Compatível com padrões de mercado para CAD (HP-GL/2, TIFF, PDF, CALS G4 ou equivalentes); Conectividade Ethernet Gigabit e USB, com Wi-Fi desejável; Alimentação de papel por rolo (mínimo de 1 rolo, até 91m) e alimentação manual; Cortador automático integrado para mídias em rolo; Bandeja de saída com bandeja coletora/empilhadeira inclusa; Memória compatível com processamento de arquivos CAD complexos; Drivers disponíveis para Windows, Linux e Mac OS (versões atuais); Equipamento em linha de comercialização no mercado nacional.",
+              "unidade": "SER",
+              "quantidade": "24,00",
+              "valor_referencia": "4.721,22"
+            },
+            {
+              "numero": "3",
+              "especificacao": "10010000005 SERVIÇO DE LOCAÇÃO DE 145(cento e quarenta e cinco) IMPRESSORAS MULTIFUNCIONAL LASER MONOCROMÁTICA:Locação de máquinas fotocopiadoras incluso a manutenção preventiva- corretiva e reposição de suprimentos (incluso também, manutenção preventiva corretiva, suprimentos e periféricos necessários para instalação e funcionamento, troca de peças e cartuchos, sem limites de páginas, recarga de tonner e outros), com prazo para atendimento, de até 24h. após o registro do chamado, caso não ocorra o reparo ou reposição neste prazo o equipamento deverá ser imediatamente substituído, também deverá ser fornecido todo o material para que o mesmo seja instalado para seu perfeito funcionamento, com objetivo de atender as necessidades das Secretarias deste Município; Especificações técnicas mínimas do equipamento: Multifuncional a laser monocromática; Impressão, cópia, digitalização, envio (scan to e- mail/pasta) e fax(opcional); Velocidade de impressão/cópia mínima de 40 ppm (páginas por minuto) no formato A4; Primeira impressão: &#8804; 6 segundos para Carta/A4; Primeira impressão: &#8804; 6 segundos para cópia (pelo vidro de digitalização); Resolução de impressão mínima de 1200 x 1200 dpi equivalente; Resolução de digitalização mínima de 600 x 600 dpi; Compatível com PCL, PostScript ou linguagem nativa equivalente que garanta processamento eficiente; Painel de toque colorido com tamanho mínimo de 4,3 polegadas; Conectividade de rede Ethernet 10/100/1000 (Gigabit) e Wi-Fi (padrão 802.11 n/ac ou superior); Conectividade local USB 2.0 (Host e Device) ou superior; Compatível com impressão móvel (Apple AirPrint, Mopria, Google Cloud Print ou similar); Alimentação de papel padrão com mínimo de 400 folhas em cassete + bandeja multifuncional para 100 folhas; Alimentador automático de documentos (ADF) com capacidade mínima de 50 folhas, com digitalização duplex automática; Tamanho máximo de original no ADF mínimo de 216 mm x 355 mm (capacidade para Ofício); Zoom de 25% a 400% em incrementos de 1%; Cópias múltiplas até 999 cópias; Digitalização TWAIN de rede, com suporte a formatos PDF, JPEG, TIFF; Originais aceitos no vidro: folhas, livros e objetos tridimensionais; Volume mensal recomendado mínimo de 50.000 páginas; Ciclo máximo mensal mínimo de 150.000 páginas ou superior; Drivers disponíveis para os sistemas utilizados pela Administração (Windows 10/11, Windows Server, Linux (principais distribuições) e Mac OS); O e",
+              "unidade": "SER",
+              "quantidade": "1.740,00",
+              "valor_referencia": "852,88"
+            },
+            {
+              "numero": "4",
+              "especificacao": "37133 SERVIÇO DE LOCAÇÃO DE 45(quarenta e cinco) IMPRESSORAS MULTIFUNCIONAL LASER COLORIDA:SERVIÇO DE LOCAÇÃO DE 45(quarenta eLocação de equipamento multifuncional a laser colorido, com fornecimento de todos os suprimentos, manutenção preventiva e corretiva, reposição de peças e periféricos necessários para instalação e perfeito funcionamento, sem limite de páginas, incluindo recarga de toner e substituição de componentes, com prazo de atendimento técnico de até 24 (vinte e quatro) horas contadas do registro do chamado, sob pena de substituição imediata do equipamento, para atender às necessidades das Secretarias Municipais. Especificações técnicas mínimas do equipamento: Multifuncional a laser colorida (tecnologia eletrofotográfica); Impressão, cópia, digitalização, envio (scan to e-mail/pasta) e fax(opcional); Velocidade de impressão/cópia mínima de 30 ppm nas cores e no preto, no formato A4; Primeira impressão: &#8804; 15 segundos para primeira impressão (preto/cores); Primeira impressão: &#8804; 15 segundos para primeira cópia; Resolução de impressão mínima de 2400 x 600 dpi equivalente; Resolução de digitalização mínima de 1200 x 600 dpi (óptica); Processador mínimo de 800 MHz ou desempenho equivalente; Memória mínima de 512 MB, expansível; Compatível com PCL, PostScript ou linguagem nativa equivalente que garanta processamento eficiente; Painel de toque colorido com tamanho mínimo de 2,7 polegadas; Conectividade de rede Ethernet 10/100/1000 (Gigabit) e Wi-Fi (padrão 802.11 n/ac ou superior); Conectividade local USB 2.0 (Host e Device); Compatível com impressão móvel (Apple AirPrint, Mopria, Google Cloud Print ou similar); Alimentação de papel padrão com capacidade mínima total de 300 folhas, sendo no mínimo 200 folhas em bandeja(s) cassete(s) e 50 folhas em bandeja multifuncional (alimentação manual), sendo aceitas configurações que, somadas, atinjam este total; Capacidade de saída de papel mínima de 100 folhas (face para baixo); Alimentador automático de documentos (ADF) com capacidade mínima de 50 folhas, com digitalização duplex automática; Tamanho máximo de original no ADF mínimo de 216 mm x 355 mm (capacidade para Ofício); Tamanho do vidro de documentos mínimo de 216 mm x 279 mm (capacidade para Carta/Ofício); Tipos de mídia suportados: papel comum, timbrado, colorido, reciclado, cartão, etiquetas, envelopes; Gramatura suportada: bandeja padrão de 60 a 105 g/m² e bandeja multiuso de 60 a 163 g/m",
+              "unidade": "SER",
+              "quantidade": "540,00",
+              "valor_referencia": "1.610,36"
+            },
+            {
+              "numero": "5",
+              "especificacao": "10010000006 SERVIÇO DE RECARGA de cartucho HP 85A(CE285A):ou equivalente, utilizado em impressoras HP LaserJet Pro série P1102, P1106, P1108, P1109, M1132 MFP, M1212nfMFP e M1120 MFP ou modelos compatíveis. O serviço deverá incluir desmontagem, limpeza completa, abastecimento com toner compatível, substituição de componentes quando necessário (cilindro e outros) e teste de impressão. Com rendimento aproximado de 1.600 páginas, com cobertura de 5%.",
+              "unidade": "SER",
+              "quantidade": "480,00",
+              "valor_referencia": "55,61"
+            },
+            {
+              "numero": "6",
+              "especificacao": "37134 SERVIÇO DE RECARGA de cartucho Brother TN-2340 / TN-2370 ou equivalente:compatível com impressoras Brother DCP-L2520DW, DCP-L2540DW e modelos similares da série DCP-L2. O serviço deverá incluir desmontagem, limpeza completa, abastecimento com toner compatível e testes de impressão. Rendimento mínimo esperado: 1.200 páginas(TN-2340) e 2.600 páginas (TN-2370), com cobertura de 5%.",
+              "unidade": "SER",
+              "quantidade": "360,00",
+              "valor_referencia": "54,96"
+            },
+            {
+              "numero": "7",
+              "especificacao": "37135 SERVIÇO DE RECARGA de cartucho HP 53A (Q7553A)ou equivalente:compatível com impressoras HP LaserJet P2015, P2015d, P2015dn e modelos similares da série HP LaserJet P2015. O serviço deverá incluir desmontagem, limpeza completa, abastecimento com toner compatível, substituição de componentes quando necessário (cilindro e outros) e testes de impressão. Rendimento mínimo esperado: 3.000 páginas, com cobertura de 5%.",
+              "unidade": "SER",
+              "quantidade": "24,00",
+              "valor_referencia": "78,19"
+            },
+            {
+              "numero": "8",
+              "especificacao": "37136 SERVIÇO DE RECARGA de cartucho HP 05A (CE505A)ou equivalente:compatível com impressoras HP LaserJet P2035, P2055 e modelos similares da série HP LaserJet P2035/P2055. O serviço deverá incluir desmontagem, limpeza completa, abastecimento com toner compatível, substituição de componentes quando necessário (cilindro e outros) e testes de impressão. Rendimento mínimo esperado: 2.300 páginas, com cobertura de 5%.",
+              "unidade": "SER",
+              "quantidade": "12,00",
+              "valor_referencia": "75,56"
+            },
+            {
+              "numero": "9",
+              "especificacao": "9903311933 SERVIÇO DE RECARGA de cartucho HP 12A(Q2612A) ou equivalente:compatível com impressoras HP LaserJet 1020, HP LaserJet M1319f MFP e modelos similares da série HP LaserJet. O serviço deverá incluir desmontagem, limpeza completa, abastecimento com toner compatível, substituição de componentes quando necessário (cilindro e outros) e testes de impressão. Rendimento mínimo esperado:2.000 páginas, com cobertura de 5%.",
+              "unidade": "SER",
+              "quantidade": "60,00",
+              "valor_referencia": "65,63"
+            },
+            {
+              "numero": "10",
+              "especificacao": "9903311934 SERVIÇO DE RECARGA de cartucho HP 35A(CB435A) ou equivalente:compatível com impressoras HP LaserJet P1005, P1006 e modelos similares da série HP LaserJet P1000. O serviço deverá incluir desmontagem, limpeza completa, abastecimento com toner compatível, substituição de componentes quando necessário (cilindro e outros) e testes de impressão. Rendimento mínimo esperado: 1.500 páginas, com cobertura de 5%.",
+              "unidade": "SER",
+              "quantidade": "12,00",
+              "valor_referencia": "64,45"
+            },
+            {
+              "numero": "11",
+              "especificacao": "9903311935 SERVIÇO DE RECARGA de cartucho HP 33A(CF233A) ou equivalente:compatível com impressoras HP LaserJet Ultra M106w e modelos similares da série HP LaserJet Ultra. O serviço deverá incluir desmontagem, limpeza completa, abastecimento com toner compatível, substituição de componentes quando necessário (cilindro e outros) e testes de impressão. Rendimento mínimo esperado: 2.300 páginas, com cobertura de 5%.",
+              "unidade": "SER",
+              "quantidade": "24,00",
+              "valor_referencia": "74,63"
+            },
+            {
+              "numero": "12",
+              "especificacao": "10010000007 SERVIÇO DE RECARGA de cartucho Brother TN-3422, TN-3442 ou TN-3472 equivalentes:compatível comimpressoras Brother DCP-L5502DN e modelos similares da série Brother DCP-L5. O serviço deverá incluir desmontagem, limpeza completa, abastecimento com toner compatível; substituição, quando necessária, de componentes durante o processo de manutenção, incluindo o cilindro DR-3440 e outros itens relacionados. Rendimento mínimo esperado: 3.000 páginas(TN-3422), 8.000 páginas (TN-3442) e 12.000 páginas (TN-3472), com cobertura de 5%.",
+              "unidade": "SER",
+              "quantidade": "24,00",
+              "valor_referencia": "125,25"
+            },
+            {
+              "numero": "13",
+              "especificacao": "37137 SERVIÇO DE RECARGA:de cartuchos BrotherTN-419BK, TN-419C, TN-419M, TN-419Y ou equivalentes,compatível com impressoras Brother MFC-L8900CDW e modelos similares da série Brother MFC-L. O serviço deverá incluir desmontagem, limpeza completa, abastecimento com toner compatível, substituição de componentes quando necessário (cilindro e outros) e testes de impressão. Rendimento mínimo esperado: 9.000 páginas (preto) e 9.000 páginas (cores),com cobertura de 5%.",
+              "unidade": "SER",
+              "quantidade": "24,00",
+              "valor_referencia": "125,25"
+            },
+            {
+              "numero": "14",
+              "especificacao": "9903311936 SERVIÇO DE RECARGA de cartucho Brother TN-1060 ou equivalente:compatível com impressoras BrotherDCP-1617DW e modelos similares da série Brother DCP-1600. O serviço deverá incluir desmontagem, limpeza completa, abastecimento com toner compatível, substituição de componentes quando necessário (cilindro e outros) e testes de impressão. Rendimento mínimo esperado: 1.000 páginas, com cobertura de 5%.",
+              "unidade": "SER",
+              "quantidade": "24,00",
+              "valor_referencia": "64,63"
+            },
+            {
+              "numero": "15",
+              "especificacao": "37138 SERVIÇO DE RECARGA de cartucho Brother TN-420, TN-450 ou equivalente:compatível com impressoras Brother DCP-7065DN e modelos similares da série Brother DCP. O serviço deverá incluir desmontagem, limpeza completa, abastecimento com toner compatível e testes de impressão. Rendimento mínimo esperado: 2.600 páginas, com cobertura de 5%.",
+              "unidade": "SER",
+              "quantidade": "36,00",
+              "valor_referencia": "68,72"
+            },
+            {
+              "numero": "16",
+              "especificacao": "9903311937 SERVIÇO DE RECARGA de cartucho Brother TN-750, TN-720 ou TN-3302 ou equivalentes:compatível comimpressoras Brother DCP-8152DN e modelos similares da série Brother DCP. O serviço deverá incluir desmontagem, limpeza completa, abastecimento com toner compatível e testes de impressão. Rendimento mínimo esperado: 8.000 páginas, com cobertura de 5%.",
+              "unidade": "SER",
+              "quantidade": "24,00",
+              "valor_referencia": "79,71"
+            },
+            {
+              "numero": "17",
+              "especificacao": "9903311938 SERVIÇO DE RECARGA de cartucho HPCF258XC (58X) ou equivalente:compatível com impressoras HP LaserJet Pro M428fdw e modelos similares das séries HP LaserJet Pro M404/M428. O serviço deverá incluir desmontagem, limpeza completa, abastecimento com toner compatível e testes de impressão. Rendimento mínimo esperado: 10.000 páginas, com cobertura de 5%. Com chip.",
+              "unidade": "SER",
+              "quantidade": "120,00",
+              "valor_referencia": "74,51"
+            },
+            {
+              "numero": "18",
+              "especificacao": "9903311939 SERVIÇO DE RECARGA de cartucho HP 151X(W1510X) ou equivalente:compatível com impressoras HP LaserJet Pro 4103dw, 4103fdn, 4103fdw, 4104fdn e modelos similares da série HP LaserJet Pro 4100. O serviço deverá incluir desmontagem, limpeza completa, abastecimento com toner compatível e testes de impressão. Rendimento mínimo esperado: 9.700 páginas, com cobertura de 5%. Com chip.",
+              "unidade": "SER",
+              "quantidade": "240,00",
+              "valor_referencia": "135,16"
+            },
+            {
+              "numero": "19",
+              "especificacao": "9903311940 SERVIÇO DE RECARGA de cartuchos HP 83A(CF283A), ou equivalentes:compatível com impressoras HP LaserJet Pro MFP M127fn e modelos similares. O serviço deverá incluir desmontagem, limpeza completa, abastecimento com toner compatível e testes de impressão. Rendimento mínimo esperado: entre 1.500 e 2.300 páginas, com cobertura de 5%.",
+              "unidade": "SER",
+              "quantidade": "180,00",
+              "valor_referencia": "76,45"
+            },
+            {
+              "numero": "20",
+              "especificacao": "37139 SERVIÇO DE RECARGA de cartuchos HP 110A(W1110A), 105A (W1105A)) ou equivalentes:compatível com impressoras HP LaserJet MFP 135a e modelos similares. O serviço deverá incluir desmontagem, limpeza completa, abastecimento com toner compatível e testes de impressão. Rendimento mínimo esperado: entre 1.500 e 2.300 páginas, com cobertura de 5%.",
+              "unidade": "SER",
+              "quantidade": "12,00",
+              "valor_referencia": "78,33"
+            },
+            {
+              "numero": "21",
+              "especificacao": "9903311941 SERVIÇO DE RECARGA de cartucho Lexmark 56FBU0E ou equivalente:compatível com impressoras Lexmark MS521dn e modelos similares da série Lexmark MS520. O serviço deverá incluir desmontagem, limpeza completa, abastecimento com toner compatível e testes de impressão. Com chip. Rendimento mínimo esperado: 6.000 páginas, com cobertura de 5%.",
+              "unidade": "SER",
+              "quantidade": "12,00",
+              "valor_referencia": "116,62"
+            },
+            {
+              "numero": "22",
+              "especificacao": "37140 SERVIÇO DE RECARGA de tinta Brother BTD100BK,BTD100C, BTD100M, BTD100Y ou equivalentes:compatível com impressoras Brother DCP-T730DW e modelos similares da série Brother Tank. O serviço deverá incluir abastecimento com tinta compatível nas cores preto, ciano, magenta e amarelo, e testes de impressão para verificação da qualidade. Rendimento mínimo esperado: até 7.500 páginas para preto e até 5.000 páginas para cores, considerando cobertura padrão.",
+              "unidade": "SER",
+              "quantidade": "180,00",
+              "valor_referencia": "148,79"
+            },
+            {
+              "numero": "23",
+              "especificacao": "9903311942 SERVIÇO DE MANUTENÇÃO PREVENTIVA E CORRETIVA EM 30(trinta) IMPRESSORAS PRÓPRIAS DOMUNICÍPIO:Serviço de manutenção preventiva e corretiva para as impressoras pertencentes ao patrimônio do município (modelos diversos: jato de tinta, laser e multifuncionais), contemplando diagnóstico, limpeza, lubrificação, regulagem, reparos e substituição de componentes.",
+              "unidade": "SER",
+              "quantidade": "360,00",
+              "valor_referencia": "1.572,17"
+            },
+            {
+              "numero": "24",
+              "especificacao": "9900515572 FORNECIMENTO DE PEÇAS E INSUMOS PARAIMPRESSORAS:fornecimento de peças para impressoras pertencentes ao patrimônio do município (modelos diversos: jato de tinta, laser e multifuncionais), como que, tais como toners, tintas, cilindros, tambores, kits de manutenção, fusores, bandejas e demais componentes correlatos. A prestação do serviço e a eventual reposição de peças ocorrerão mediante demanda da Administração, visando assegurar a continuidade operacionaldos equipamentos.",
+              "unidade": "Und.",
+              "quantidade": "1,00",
+              "valor_referencia": "30.000,00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-027-2024",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "705/2024",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "SUSPENSO",
+      "condutor": "VICTOR KINIDEL DETHLING",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO",
+      "publicacao": "15/05/2024 18:26",
+      "inicio_recepcao": "16/05/2024 08:00",
+      "fim_recepcao": "12/06/2024 09:45",
+      "inicio_disputa": "12/06/2024 10:00",
+      "objeto": "Contratação de instituição financeira para prestação de serviços bancários para centralização, gerenciamento e processamento de créditos da folha de pagamento dos servidores, a fim de atender as demandas da Prefeitura de Teixeira de Freitas, conforme condições, quantidades e especificações no Edital, Termo de Referência e seus Anexos.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DMksgVEb90ZmaQBLuDOoLF3yryojfyuKTPzLaicVNPzhNdqjTRXR6_pKmnVAWzYsMcaqlD3jHCaOdgoituhBeX_SPZx%2Fk6BkAKcT2MYwci0k%3D",
+      "total_lotes": 1,
+      "total_itens": 1,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "LOTE 01",
+          "fase": "SUSPENSO",
+          "tipo": "UNITÁRIO",
+          "quantidade": "1",
+          "intervalo_minimo": "100,00",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
           "valor_referencia": "6.052.150,00",
-          "vencedor": "ITAÚ UNIBANCO S.A.",
-          "melhor_oferta": "6.053.000,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
           "total_itens": 1,
           "itens": [
             {
               "numero": "1",
               "especificacao": "CONTRATAÇÃO DE INSTITUIÇÃO FINANCEIRA: ESPECIALIZADA NA PRESTAÇÃO DE SERVIÇOS BANCÁRIOS PARA CENTRALIZAÇÃO, GERENCIAMENTO E PROCESSAMENTO DE CRÉDITOS DA FOLHA DE PAGAMENTO DOS SERVIDORES DA PREFEITURA MUNICIPAL DE TEIXEIRA DE FREITAS/BA.",
-              "unidade": "UN",
+              "unidade": "SERVIÇO",
               "quantidade": "1,00",
               "valor_referencia": "6.052.150,00"
             }
