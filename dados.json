@@ -4,7 +4,7 @@
     "total_processos": 780,
     "total_lotes": 8700,
     "total_itens": 14904,
-    "atualizado_em": "20260513_193523"
+    "atualizado_em": "20260514_193513"
   },
   "processos": [
     {
@@ -251032,127 +251032,6 @@
       ]
     },
     {
-      "id": "CE-007-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "213/2026",
-      "modalidade": "CONCORRÊNCIA ELETRÔNICA",
-      "situacao": "RECEPÇÃO DE PROPOSTAS",
-      "condutor": "DAVIDSON ARAUJO SANTOS",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO PARCELADA",
-      "publicacao": "06/04/2026 18:43",
-      "inicio_recepcao": "07/04/2026 08:00",
-      "fim_recepcao": "14/05/2026 08:15",
-      "inicio_disputa": "14/05/2026 08:30",
-      "objeto": "Contratação de empresa especializada em execução de obras de construção de um palco para eventos recreativos e culturais na Praça Padre Aparecido, localizada no bairro Monte Castelo, do município de Teixeira de Freitas – BA.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5D89S2uykbBbO4IQ%2FtlK7IlX7z3kuwikDp9p4QxMI2_UqpDyG91X0YS5zQ_zCx3mHN2v7XDaquQG6HFk4CJsBKf8xMIoMLDabC1MSxYGlWK%2FM%3D",
-      "total_lotes": 1,
-      "total_itens": 12,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "EXECUÇÃO DE OBRAS DE CONSTRUÇÃO DE UM PALCO PARA EVENTOS RECREATIVOS E CULTURAIS NA PRAÇA PADRE APARECIDO, LOCALIZADA NO BAIRRO MONTE CASTELO",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "100,00",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "135.309,15",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 12,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "SERVIÇOS PRELIMINARES",
-              "unidade": "SERVIÇO",
-              "quantidade": "1,00",
-              "valor_referencia": "2.166,62"
-            },
-            {
-              "numero": "2",
-              "especificacao": "MOVIMENTO DE TERRA",
-              "unidade": "SERVIÇO",
-              "quantidade": "1,00",
-              "valor_referencia": "6.058,67"
-            },
-            {
-              "numero": "3",
-              "especificacao": "INFRAESTRUTURA",
-              "unidade": "SERVIÇO",
-              "quantidade": "1,00",
-              "valor_referencia": "13.450,30"
-            },
-            {
-              "numero": "4",
-              "especificacao": "SUPERESTRUTURA",
-              "unidade": "SERVIÇO",
-              "quantidade": "1,00",
-              "valor_referencia": "43.357,43"
-            },
-            {
-              "numero": "5",
-              "especificacao": "PALCO",
-              "unidade": "SERVIÇO",
-              "quantidade": "1,00",
-              "valor_referencia": "10.930,01"
-            },
-            {
-              "numero": "6",
-              "especificacao": "SISTEMAS DE COBERTURA",
-              "unidade": "SERVIÇO",
-              "quantidade": "1,00",
-              "valor_referencia": "25.389,44"
-            },
-            {
-              "numero": "7",
-              "especificacao": "IMPERMEABILIZAÇÃO",
-              "unidade": "SERVIÇO",
-              "quantidade": "1,00",
-              "valor_referencia": "2.089,11"
-            },
-            {
-              "numero": "8",
-              "especificacao": "REVESTIMENTOS",
-              "unidade": "SERVIÇO",
-              "quantidade": "1,00",
-              "valor_referencia": "2.417,67"
-            },
-            {
-              "numero": "9",
-              "especificacao": "PAVIMENTAÇÃO (PISOS)",
-              "unidade": "SERVIÇO",
-              "quantidade": "1,00",
-              "valor_referencia": "17.409,96"
-            },
-            {
-              "numero": "10",
-              "especificacao": "PINTURAS",
-              "unidade": "SERVIÇO",
-              "quantidade": "1,00",
-              "valor_referencia": "8.459,13"
-            },
-            {
-              "numero": "11",
-              "especificacao": "INSTALAÇÕES ELÉTRICAS",
-              "unidade": "SERVIÇO",
-              "quantidade": "1,00",
-              "valor_referencia": "3.110,52"
-            },
-            {
-              "numero": "12",
-              "especificacao": "SERVIÇOS FINAIS",
-              "unidade": "SERVIÇO",
-              "quantidade": "1,00",
-              "valor_referencia": "470,29"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "PE-038-2026",
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "1232/2025",
@@ -264633,211 +264512,6 @@
       ]
     },
     {
-      "id": "CE-017-2025",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "971/2025",
-      "modalidade": "CONCORRÊNCIA ELETRÔNICA",
-      "situacao": "ADJUDICADO",
-      "condutor": "DAVIDSON ARAUJO SANTOS",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO PARCELADA",
-      "publicacao": "24/10/2025 10:54",
-      "inicio_recepcao": "27/10/2025 08:00",
-      "fim_recepcao": "03/12/2025 08:15",
-      "inicio_disputa": "03/12/2025 08:30",
-      "objeto": "Contratação de empresa especializada em execução de obras de construção de uma pré-escola, no bairro Santa Rita, do município de Teixeira de Freitas – BA.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DvI9thg3aoowFSHwZwyPn%2FLAoZUVVzJ7WvuZ6yCRr3LOotfjUDmporv5EPtHkRnyoU05EqvdnSxjg4ZMaxkRlggzCRrSxag%2F1xTH3Jubqlwg%3D",
-      "total_lotes": 1,
-      "total_itens": 24,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "EXECUÇÃO DE OBRAS DE CONSTRUÇÃO DE UMA PRÉ-ESCOLA",
-          "fase": "ADJUDICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "1.000,00",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "4.135.123,59",
-          "vencedor": "CONSTRUTORA JF PRADO LTDA",
-          "melhor_oferta": "3.845.000,00",
-          "total_itens": 24,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "SERVIÇOS PRELIMINARES",
-              "unidade": "SERVIÇO",
-              "quantidade": "1,00",
-              "valor_referencia": "445.357,41"
-            },
-            {
-              "numero": "2",
-              "especificacao": "MOVIMENTO DE TERRA",
-              "unidade": "UNID.",
-              "quantidade": "1,00",
-              "valor_referencia": "74.225,94"
-            },
-            {
-              "numero": "3",
-              "especificacao": "INFRAESTRUTURA",
-              "unidade": "UNID.",
-              "quantidade": "1,00",
-              "valor_referencia": "371.526,37"
-            },
-            {
-              "numero": "4",
-              "especificacao": "SUPERESTRUTURA",
-              "unidade": "UNID.",
-              "quantidade": "1,00",
-              "valor_referencia": "691.148,37"
-            },
-            {
-              "numero": "5",
-              "especificacao": "ALVENARIA -VEDAÇÃO",
-              "unidade": "UNID.",
-              "quantidade": "1,00",
-              "valor_referencia": "378.243,25"
-            },
-            {
-              "numero": "6",
-              "especificacao": "ESQUADRIAS",
-              "unidade": "UNID.",
-              "quantidade": "1,00",
-              "valor_referencia": "181.609,40"
-            },
-            {
-              "numero": "7",
-              "especificacao": "SISTEMAS DE COBERTURA",
-              "unidade": "UNID.",
-              "quantidade": "1,00",
-              "valor_referencia": "201.974,99"
-            },
-            {
-              "numero": "8",
-              "especificacao": "IMPERMEABILIZAÇÃO",
-              "unidade": "UNID.",
-              "quantidade": "1,00",
-              "valor_referencia": "28.890,82"
-            },
-            {
-              "numero": "9",
-              "especificacao": "REVESTIMENTOS",
-              "unidade": "UNID.",
-              "quantidade": "1,00",
-              "valor_referencia": "508.200,10"
-            },
-            {
-              "numero": "10",
-              "especificacao": "PAVIMENTAÇÃO (PISOS)",
-              "unidade": "UNID.",
-              "quantidade": "1,00",
-              "valor_referencia": "221.966,37"
-            },
-            {
-              "numero": "11",
-              "especificacao": "PINTURAS",
-              "unidade": "UNID.",
-              "quantidade": "1,00",
-              "valor_referencia": "156.697,36"
-            },
-            {
-              "numero": "12",
-              "especificacao": "INSTALAÇÃO HIDRÁULICA",
-              "unidade": "SERVIÇO",
-              "quantidade": "1,00",
-              "valor_referencia": "57.994,04"
-            },
-            {
-              "numero": "13",
-              "especificacao": "DRENAGEM DE ÁGUAS PLUVIAIS",
-              "unidade": "UNID.",
-              "quantidade": "1,00",
-              "valor_referencia": "18.703,58"
-            },
-            {
-              "numero": "14",
-              "especificacao": "INSTALAÇÃO SANITÁRIA",
-              "unidade": "SERVIÇO",
-              "quantidade": "1,00",
-              "valor_referencia": "62.942,20"
-            },
-            {
-              "numero": "15",
-              "especificacao": "LOUÇAS E METAIS",
-              "unidade": "UNID.",
-              "quantidade": "1,00",
-              "valor_referencia": "47.599,90"
-            },
-            {
-              "numero": "16",
-              "especificacao": "INSTALAÇÃO DE GÁS COMBUSTÍVEL",
-              "unidade": "SERVIÇO",
-              "quantidade": "1,00",
-              "valor_referencia": "15.678,43"
-            },
-            {
-              "numero": "17",
-              "especificacao": "SISTEMA DE PROTEÇÃO CONTRA INCÊNDIO",
-              "unidade": "SERVIÇO",
-              "quantidade": "1,00",
-              "valor_referencia": "47.471,76"
-            },
-            {
-              "numero": "18",
-              "especificacao": "INSTALAÇÕES ELÉTRICAS",
-              "unidade": "UNID.",
-              "quantidade": "1,00",
-              "valor_referencia": "311.618,40"
-            },
-            {
-              "numero": "19",
-              "especificacao": "INSTALAÇÃO DE CLIMATIZAÇÃO",
-              "unidade": "SERVIÇO",
-              "quantidade": "1,00",
-              "valor_referencia": "11.516,24"
-            },
-            {
-              "numero": "20",
-              "especificacao": "INSTALAÇÃO DE REDE ESTRUTURADA",
-              "unidade": "SERVIÇO",
-              "quantidade": "1,00",
-              "valor_referencia": "53.194,91"
-            },
-            {
-              "numero": "21",
-              "especificacao": "SISTEMA DE EXAUSTÃO MECÂNICA",
-              "unidade": "SERVIÇO",
-              "quantidade": "1,00",
-              "valor_referencia": "11.989,46"
-            },
-            {
-              "numero": "22",
-              "especificacao": "SISTEMA DE PROTEÇÃO CONTRA DESCARGAS ATMOSFÉRICAS (SPDA)",
-              "unidade": "UNID.",
-              "quantidade": "1,00",
-              "valor_referencia": "112.432,31"
-            },
-            {
-              "numero": "23",
-              "especificacao": "SERVIÇOS COMPLEMENTARES",
-              "unidade": "UNID.",
-              "quantidade": "1,00",
-              "valor_referencia": "118.504,33"
-            },
-            {
-              "numero": "24",
-              "especificacao": "SERVIÇOS FINAIS",
-              "unidade": "UNID.",
-              "quantidade": "1,00",
-              "valor_referencia": "5.637,65"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "PE-073-2026",
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "202 / 2026",
@@ -265025,238 +264699,6 @@
               "unidade": "SERVIÇO",
               "quantidade": "1,00",
               "valor_referencia": "3.750,04"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "4-DLE-045-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "392 / 2026",
-      "modalidade": "DISPENSA ELETRÔNICA",
-      "situacao": "RECEPÇÃO DE PROPOSTAS",
-      "condutor": "ISAQUE SILVA DOS SANTOS",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO",
-      "publicacao": "08/05/2026 11:59",
-      "inicio_recepcao": "08/05/2026 12:05",
-      "fim_recepcao": "14/05/2026 08:15",
-      "inicio_disputa": "14/05/2026 08:30",
-      "objeto": "Contratação de empresa especializada em fornecimento de [BOMBAS SUBMERSAS] (material permanente), a fim de atender as necessidades da Secretaria Municipal de Educação.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DmVCptc8Ld27%2FtsWX8HO3L2g%2FdX34tbrW7f1QaRqDKWmQhbyqUwXBO%2F4OU4MLCB7V6Tl7X03mXo3PYW17q0i%2Fuo%2F60d%2FXxIJzHqSncC%2FFeQ8%3D",
-      "total_lotes": 1,
-      "total_itens": 1,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "BOMBAS SUBMERSAS",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "18.500,00",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37273 Bomba submersa tipo \"sapo\":monofásica 127/220V (bivoltautomático), potência mínima de 450W (0,5 CV), vazão média600-2.200 L/h, elevação máxima 65m, saída ø 1\", diâmetro 3\"-4\",frequência 60Hz, temperatura máx. água 35°C, materialinox/termoplástico anticorrosão, cabo 20m com flutuador eproteção térmica, para água limpa em poços de no minimo 30m,conforme NBR 14372 ou ABNT similar. EXCLUSIVO PARAME/EPP.",
-              "unidade": "UN",
-              "quantidade": "50,00",
-              "valor_referencia": "370,00"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "3-DLE-048-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "472 / 2026",
-      "modalidade": "DISPENSA ELETRÔNICA",
-      "situacao": "RECEPÇÃO DE PROPOSTAS",
-      "condutor": "ISLA LIMA SILVA",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO",
-      "publicacao": "08/05/2026 11:52",
-      "inicio_recepcao": "08/05/2026 11:55",
-      "fim_recepcao": "14/05/2026 08:45",
-      "inicio_disputa": "14/05/2026 09:00",
-      "objeto": "Contratação de empresa especializada na prestação de serviço de [MANUTENÇÃO PREVENTIVA DE EQUIPAMENTOS DE DIAGNÓSTICO AUDIOLÓGICO, INCLUINDO ATENDIMENTO TÉCNICO IN LOCO], a fim de atender as necessidades da Secretaria Municipal de Saúde.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DPQyzjSSuBC0M8apYKCJ7%2FiBaI%2FcZPJXhm_GbxibXAHtsocSTi968FGSQdsi21ifPwH5D4pLXf7SNtQRZGuSDtekIWSTky1ErI2UfLZV4jFA%3D",
-      "total_lotes": 1,
-      "total_itens": 5,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "MANUTENÇÃO PREVENTIVA DE EQUIPAMENTOS DE DIAGNÓSTICO AUDIOLÓGICO",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "10.007,56",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 5,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9902900151 Manutenção/calibração de equipamentos para Audiometria:Modelo AC40 Clinical Audiometer Interacoustics, 2 canais",
-              "unidade": "SER",
-              "quantidade": "1,00",
-              "valor_referencia": "2.061,56"
-            },
-            {
-              "numero": "2",
-              "especificacao": "9902900152 Manutenção/calibração de equipamentos Amplificadores para Audiometria em Campo Livre:(Free Field Amplifier) - Modelo FF-70/2",
-              "unidade": "SER",
-              "quantidade": "2,00",
-              "valor_referencia": "863,47"
-            },
-            {
-              "numero": "3",
-              "especificacao": "36840 Manutenção/calibração de equipamentos Impedanciômetro:Modelo AT235 by Interacoustics",
-              "unidade": "SER",
-              "quantidade": "2,00",
-              "valor_referencia": "1.660,08"
-            },
-            {
-              "numero": "4",
-              "especificacao": "36841 Manutenção/calibração de cabines para Audiometria:Auditec",
-              "unidade": "SER",
-              "quantidade": "2,00",
-              "valor_referencia": "604,64"
-            },
-            {
-              "numero": "5",
-              "especificacao": "36842 Manutenção/calibração de equipamento de Emissões Otoacústicas Evocadas (EOA) portátil:Modelo OtoRead Interacoustics",
-              "unidade": "SER",
-              "quantidade": "1,00",
-              "valor_referencia": "1.689,62"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "2-DLE-040-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "381 / 2026",
-      "modalidade": "DISPENSA ELETRÔNICA",
-      "situacao": "RECEPÇÃO DE PROPOSTAS",
-      "condutor": "ISLA LIMA SILVA",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO",
-      "publicacao": "08/05/2026 10:44",
-      "inicio_recepcao": "08/05/2026 10:50",
-      "fim_recepcao": "14/05/2026 08:15",
-      "inicio_disputa": "14/05/2026 08:30",
-      "objeto": "Contratação de empresa especializada em fornecimento de [COLETES INSTITUCIONAIS] (material de consumo), a fim de atender as necessidades da Secretaria Municipal de Finanças.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DqGt_7lFG3Yu2iLjW0g4IkslpsyWbZTk4vCEQEab_yRQfH4mbuSxwpLpQ4ErwHWvHL9ZLA8QAZ52TEyZeJxE8J8CPvTdoASO2hsqjPwG0k64%3D",
-      "total_lotes": 4,
-      "total_itens": 4,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "8410114770 COLETE INSTITUCIONAL:Tamanho P; Emmaterial brim leve, tactel ou poliéster reforçado; Cor azul, conforme brasão PMTF; Fechamento com zíper frontal; 01 bolso superior com zíper (para documentos), 01 bolso interno; Com brasão da Prefeitura de Tei",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "511,41",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "8410114770 COLETE INSTITUCIONAL:Tamanho P; Emmaterial brim leve, tactel ou poliéster reforçado; Cor azul, conforme brasão PMTF; Fechamento com zíper frontal; 01 bolso superior com zíper (para documentos), 01 bolso interno; Com brasão da Prefeitura de Teixeira de Freitas bordado no peito esquerdo; Escrita de identificação na parte da frente: \"Secretaria Municipal de Finanças\", podendo ser bordada ou pintada, em cor branca ou amarela para contraste; Escrita de identificação nas costas: \"Fiscalização de Rendas\", \"Cadastro Técnico\" ou \"Dívida ativa\", podendo ser bordada ou pintada, em cor branca ou amarela para contraste.",
-              "unidade": "UND",
-              "quantidade": "3,00",
-              "valor_referencia": "170,47"
-            }
-          ]
-        },
-        {
-          "numero": "2",
-          "titulo": "8410114771 COLETE INSTITUCIONAL:Tamanho M; Emmaterial brim leve, tactel ou poliéster reforçado; Cor azul, conforme brasão PMTF; Fechamento com zíper frontal; 01 bolso superior com zíper (para documentos), 01 bolso interno; Com brasão da Prefeitura de Tei",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "2.975,70",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "8410114771 COLETE INSTITUCIONAL:Tamanho M; Emmaterial brim leve, tactel ou poliéster reforçado; Cor azul, conforme brasão PMTF; Fechamento com zíper frontal; 01 bolso superior com zíper (para documentos), 01 bolso interno; Com brasão da Prefeitura de Teixeira de Freitas bordado no peito esquerdo; Escrita de identificação na parte da frente: \"Secretaria Municipal de Finanças\", podendo ser bordada ou pintada, em cor branca ou amarela para contraste; Escrita de identificação nas costas: \"Fiscalização de Rendas\", \"Cadastro Técnico\" ou \"Dívida ativa\", podendo ser bordada ou pintada, em cor branca ou amarela para contraste.",
-              "unidade": "UND",
-              "quantidade": "15,00",
-              "valor_referencia": "198,38"
-            }
-          ]
-        },
-        {
-          "numero": "3",
-          "titulo": "8410114772 COLETE INSTITUCIONAL:Tamanho G; Emmaterial brim leve, tactel ou poliéster reforçado; Cor azul, conforme brasão PMTF; Fechamento com zíper frontal; 01 bolso superior com zíper (para documentos), 01 bolso interno; Com brasão da Prefeitura de Tei",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "3.053,40",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "8410114772 COLETE INSTITUCIONAL:Tamanho G; Emmaterial brim leve, tactel ou poliéster reforçado; Cor azul, conforme brasão PMTF; Fechamento com zíper frontal; 01 bolso superior com zíper (para documentos), 01 bolso interno; Com brasão da Prefeitura de Teixeira de Freitas bordado no peito esquerdo; Escrita de identificação na parte da frente: \"Secretaria Municipal de Finanças\", podendo ser bordada ou pintada, em cor branca ou amarela para contraste; Escrita de identificação nas costas: \"Fiscalização de Rendas\", \"Cadastro Técnico\" ou \"Dívida ativa\", podendo ser bordada ou pintada, em cor branca ou amarela para contraste.",
-              "unidade": "UND",
-              "quantidade": "14,00",
-              "valor_referencia": "218,10"
-            }
-          ]
-        },
-        {
-          "numero": "4",
-          "titulo": "8410114773 COLETE INSTITUCIONAL:Tamanho GG; Emmaterial brim leve, tactel ou poliéster reforçado; Cor azul, conforme brasão PMTF; Fechamento com zíper frontal; 01 bolso superior com zíper (para documentos), 01 bolso interno; Com brasão da Prefeitura de Te",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "672,54",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "8410114773 COLETE INSTITUCIONAL:Tamanho GG; Emmaterial brim leve, tactel ou poliéster reforçado; Cor azul, conforme brasão PMTF; Fechamento com zíper frontal; 01 bolso superior com zíper (para documentos), 01 bolso interno; Com brasão da Prefeitura de Teixeira de Freitas bordado no peito esquerdo; Escrita de identificação na parte da frente: \"Secretaria Municipal de Finanças\", podendo ser bordada ou pintada, em cor branca ou amarela para contraste; Escrita de identificação nas costas: \"Fiscalização de Rendas\", \"Cadastro Técnico\" ou \"Dívida ativa\", podendo ser bordada ou pintada, em cor branca ou amarela para contraste.",
-              "unidade": "UND",
-              "quantidade": "3,00",
-              "valor_referencia": "224,18"
             }
           ]
         }
@@ -267415,50 +266857,6 @@
       ]
     },
     {
-      "id": "PE-050-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "126/2026",
-      "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "JULGAMENTO",
-      "condutor": "JONATAS DA SILVA SOUSA",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO",
-      "publicacao": "08/04/2026 17:12",
-      "inicio_recepcao": "10/04/2026 08:30",
-      "fim_recepcao": "12/05/2026 08:15",
-      "inicio_disputa": "12/05/2026 08:30",
-      "objeto": "Contratação de empresa especializada em prestação de serviço de LEVANTAMENTO TOPOGRÁFICO PLANIALTIMÉTRICO PARA REALIZAÇÃO DE GEORREFERENCIAMENTO DE ROTAS ESCOLARES, a fim de atender as demandas da Secretaria Municipal de Educação.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DfDJ6_ft0Gl0tXZwKRkrUGGWn0Vj95R8U5QtGnX%2FxgAEy_mKHj7FspkWyisuoOxQEkBtKe3L0BUitA9TDycaAUWwsF0AmCpHfzZZpmBdCNY4%3D",
-      "total_lotes": 1,
-      "total_itens": 1,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "GEORREFERENCIAMENTO",
-          "fase": "JULGAMENTO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "84.240,00",
-          "vencedor": "SOLO TOPOGRAFIA E GEORREFERENCIAMENTO LTDA",
-          "melhor_oferta": "163.000,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9903311812 Serviço de levantamento topográfico planialtimétricoe georreferenciamento completo das rotas escolares domunicípio:abrangendo visitas de campo, coleta de dados porreceptores GNSS/GPS de alta precisão, medição de distânciasreais considerando curvas, declividades e vias vicinais,identificação de pontos notáveis e condicionantes geográficos,compatibilização com a malha viária oficial e geração de basegeoespacial em formato digital (shapefile, geojson ouequivalente), com elaboração de mapeamento cartográfico digitalconsolidado, contendo todas as rotas levantadas, pontos deembarque e desembarque, localização das escolas atendidas,delimitação das zonas urbana e rural, vias de acesso, pontoscríticos (aclives, declives, travessias e estradas nãopavimentadas), representação sobre malha viária real, geraçãode plantas em escala adequada e integração dos dados aoSistema de Informações Geográficas (SIG), acompanhada derelatório técnico detalhado, memorial descritivo e plantageorreferenciada das rotas escolares.",
-              "unidade": "KM",
-              "quantidade": "4.800,00",
-              "valor_referencia": "17,55"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "CE-005-2026",
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "216/2026",
@@ -267792,42 +267190,644 @@
       ]
     },
     {
-      "id": "PE-027-2024",
+      "id": "4-DLE-045-2026",
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "705/2024",
-      "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "SUSPENSO",
-      "condutor": "VICTOR KINIDEL DETHLING",
+      "numero_adm": "392 / 2026",
+      "modalidade": "DISPENSA ELETRÔNICA",
+      "situacao": "JULGAMENTO",
+      "condutor": "ISAQUE SILVA DOS SANTOS",
       "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
       "tipo_contrato": "AQUISIÇÃO",
-      "publicacao": "15/05/2024 18:26",
-      "inicio_recepcao": "16/05/2024 08:00",
-      "fim_recepcao": "12/06/2024 09:45",
-      "inicio_disputa": "12/06/2024 10:00",
-      "objeto": "Contratação de instituição financeira para prestação de serviços bancários para centralização, gerenciamento e processamento de créditos da folha de pagamento dos servidores, a fim de atender as demandas da Prefeitura de Teixeira de Freitas, conforme condições, quantidades e especificações no Edital, Termo de Referência e seus Anexos.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DMksgVEb90ZmaQBLuDOoLF3yryojfyuKTPzLaicVNPzhNdqjTRXR6_pKmnVAWzYsMcaqlD3jHCaOdgoituhBeX_SPZx%2Fk6BkAKcT2MYwci0k%3D",
+      "publicacao": "08/05/2026 11:59",
+      "inicio_recepcao": "08/05/2026 12:05",
+      "fim_recepcao": "14/05/2026 08:15",
+      "inicio_disputa": "14/05/2026 08:30",
+      "objeto": "Contratação de empresa especializada em fornecimento de [BOMBAS SUBMERSAS] (material permanente), a fim de atender as necessidades da Secretaria Municipal de Educação.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DwS_VrvxtCN5%2FxnlnLloHQ_uDcuOCk8KCx_GdMcsyVqeQ6fTIQCVogGrSuAX4ifD15eqDaOMPnLNjDdYvEcx5%2FJbHOpOH3Gm5A6KFa6ah3ls%3D",
       "total_lotes": 1,
       "total_itens": 1,
       "lotes": [
         {
           "numero": "1",
-          "titulo": "LOTE 01",
-          "fase": "SUSPENSO",
-          "tipo": "UNITÁRIO",
+          "titulo": "BOMBAS SUBMERSAS",
+          "fase": "JULGAMENTO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "18.500,00",
+          "vencedor": "EDINALVA MARIA DE OLIVEIRA ME",
+          "melhor_oferta": "16.950,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37273 Bomba submersa tipo \"sapo\":monofásica 127/220V (bivoltautomático), potência mínima de 450W (0,5 CV), vazão média600-2.200 L/h, elevação máxima 65m, saída ø 1\", diâmetro 3\"-4\",frequência 60Hz, temperatura máx. água 35°C, materialinox/termoplástico anticorrosão, cabo 20m com flutuador eproteção térmica, para água limpa em poços de no minimo 30m,conforme NBR 14372 ou ABNT similar. EXCLUSIVO PARAME/EPP.",
+              "unidade": "UN",
+              "quantidade": "50,00",
+              "valor_referencia": "370,00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3-DLE-048-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "472 / 2026",
+      "modalidade": "DISPENSA ELETRÔNICA",
+      "situacao": "HABILITAÇÃO",
+      "condutor": "ISLA LIMA SILVA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO",
+      "publicacao": "08/05/2026 11:52",
+      "inicio_recepcao": "08/05/2026 11:55",
+      "fim_recepcao": "14/05/2026 08:45",
+      "inicio_disputa": "14/05/2026 09:00",
+      "objeto": "Contratação de empresa especializada na prestação de serviço de [MANUTENÇÃO PREVENTIVA DE EQUIPAMENTOS DE DIAGNÓSTICO AUDIOLÓGICO, INCLUINDO ATENDIMENTO TÉCNICO IN LOCO], a fim de atender as necessidades da Secretaria Municipal de Saúde.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5D2Tp4LkO8%2FdDWLWR47MgzWUb11cSYZ6fs1QuADCJ_d2Mrk0JCyQZzrhxLzgmvwV9BfFFjkgH3jpLJDaaKacEx85bSneUU_zc16dAHcBQt49E%3D",
+      "total_lotes": 1,
+      "total_itens": 5,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "MANUTENÇÃO PREVENTIVA DE EQUIPAMENTOS DE DIAGNÓSTICO AUDIOLÓGICO",
+          "fase": "HABILITAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "10.007,56",
+          "vencedor": "Z-9 ENGENHARIA LTDA",
+          "melhor_oferta": "10.007,56",
+          "total_itens": 5,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9902900151 Manutenção/calibração de equipamentos para Audiometria:Modelo AC40 Clinical Audiometer Interacoustics, 2 canais",
+              "unidade": "SER",
+              "quantidade": "1,00",
+              "valor_referencia": "2.061,56"
+            },
+            {
+              "numero": "2",
+              "especificacao": "9902900152 Manutenção/calibração de equipamentos Amplificadores para Audiometria em Campo Livre:(Free Field Amplifier) - Modelo FF-70/2",
+              "unidade": "SER",
+              "quantidade": "2,00",
+              "valor_referencia": "863,47"
+            },
+            {
+              "numero": "3",
+              "especificacao": "36840 Manutenção/calibração de equipamentos Impedanciômetro:Modelo AT235 by Interacoustics",
+              "unidade": "SER",
+              "quantidade": "2,00",
+              "valor_referencia": "1.660,08"
+            },
+            {
+              "numero": "4",
+              "especificacao": "36841 Manutenção/calibração de cabines para Audiometria:Auditec",
+              "unidade": "SER",
+              "quantidade": "2,00",
+              "valor_referencia": "604,64"
+            },
+            {
+              "numero": "5",
+              "especificacao": "36842 Manutenção/calibração de equipamento de Emissões Otoacústicas Evocadas (EOA) portátil:Modelo OtoRead Interacoustics",
+              "unidade": "SER",
+              "quantidade": "1,00",
+              "valor_referencia": "1.689,62"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2-DLE-040-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "381 / 2026",
+      "modalidade": "DISPENSA ELETRÔNICA",
+      "situacao": "JULGAMENTO",
+      "condutor": "ISLA LIMA SILVA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO",
+      "publicacao": "08/05/2026 10:44",
+      "inicio_recepcao": "08/05/2026 10:50",
+      "fim_recepcao": "14/05/2026 08:15",
+      "inicio_disputa": "14/05/2026 08:30",
+      "objeto": "Contratação de empresa especializada em fornecimento de [COLETES INSTITUCIONAIS] (material de consumo), a fim de atender as necessidades da Secretaria Municipal de Finanças.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5D97sHThbtjxJ%2F3sFj4ye_W2FQzBULCNRYt7R95COMkgMBGDM6gjs_FSSe2j4h7DJPgdg8hLN__%2F15VJvNHtAjtbAeYV5W8yL3wAUmlIpnv7k%3D",
+      "total_lotes": 4,
+      "total_itens": 4,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "8410114770 COLETE INSTITUCIONAL:Tamanho P; Emmaterial brim leve, tactel ou poliéster reforçado; Cor azul, conforme brasão PMTF; Fechamento com zíper frontal; 01 bolso superior com zíper (para documentos), 01 bolso interno; Com brasão da Prefeitura de Tei",
+          "fase": "JULGAMENTO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "511,41",
+          "vencedor": "PONTAL DA PESCA LTDA",
+          "melhor_oferta": "386,97",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "8410114770 COLETE INSTITUCIONAL:Tamanho P; Emmaterial brim leve, tactel ou poliéster reforçado; Cor azul, conforme brasão PMTF; Fechamento com zíper frontal; 01 bolso superior com zíper (para documentos), 01 bolso interno; Com brasão da Prefeitura de Teixeira de Freitas bordado no peito esquerdo; Escrita de identificação na parte da frente: \"Secretaria Municipal de Finanças\", podendo ser bordada ou pintada, em cor branca ou amarela para contraste; Escrita de identificação nas costas: \"Fiscalização de Rendas\", \"Cadastro Técnico\" ou \"Dívida ativa\", podendo ser bordada ou pintada, em cor branca ou amarela para contraste.",
+              "unidade": "UND",
+              "quantidade": "3,00",
+              "valor_referencia": "170,47"
+            }
+          ]
+        },
+        {
+          "numero": "2",
+          "titulo": "8410114771 COLETE INSTITUCIONAL:Tamanho M; Emmaterial brim leve, tactel ou poliéster reforçado; Cor azul, conforme brasão PMTF; Fechamento com zíper frontal; 01 bolso superior com zíper (para documentos), 01 bolso interno; Com brasão da Prefeitura de Tei",
+          "fase": "JULGAMENTO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "2.975,70",
+          "vencedor": "PONTAL DA PESCA LTDA",
+          "melhor_oferta": "2.144,85",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "8410114771 COLETE INSTITUCIONAL:Tamanho M; Emmaterial brim leve, tactel ou poliéster reforçado; Cor azul, conforme brasão PMTF; Fechamento com zíper frontal; 01 bolso superior com zíper (para documentos), 01 bolso interno; Com brasão da Prefeitura de Teixeira de Freitas bordado no peito esquerdo; Escrita de identificação na parte da frente: \"Secretaria Municipal de Finanças\", podendo ser bordada ou pintada, em cor branca ou amarela para contraste; Escrita de identificação nas costas: \"Fiscalização de Rendas\", \"Cadastro Técnico\" ou \"Dívida ativa\", podendo ser bordada ou pintada, em cor branca ou amarela para contraste.",
+              "unidade": "UND",
+              "quantidade": "15,00",
+              "valor_referencia": "198,38"
+            }
+          ]
+        },
+        {
+          "numero": "3",
+          "titulo": "8410114772 COLETE INSTITUCIONAL:Tamanho G; Emmaterial brim leve, tactel ou poliéster reforçado; Cor azul, conforme brasão PMTF; Fechamento com zíper frontal; 01 bolso superior com zíper (para documentos), 01 bolso interno; Com brasão da Prefeitura de Tei",
+          "fase": "JULGAMENTO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "3.053,40",
+          "vencedor": "PONTAL DA PESCA LTDA",
+          "melhor_oferta": "1.400,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "8410114772 COLETE INSTITUCIONAL:Tamanho G; Emmaterial brim leve, tactel ou poliéster reforçado; Cor azul, conforme brasão PMTF; Fechamento com zíper frontal; 01 bolso superior com zíper (para documentos), 01 bolso interno; Com brasão da Prefeitura de Teixeira de Freitas bordado no peito esquerdo; Escrita de identificação na parte da frente: \"Secretaria Municipal de Finanças\", podendo ser bordada ou pintada, em cor branca ou amarela para contraste; Escrita de identificação nas costas: \"Fiscalização de Rendas\", \"Cadastro Técnico\" ou \"Dívida ativa\", podendo ser bordada ou pintada, em cor branca ou amarela para contraste.",
+              "unidade": "UND",
+              "quantidade": "14,00",
+              "valor_referencia": "218,10"
+            }
+          ]
+        },
+        {
+          "numero": "4",
+          "titulo": "8410114773 COLETE INSTITUCIONAL:Tamanho GG; Emmaterial brim leve, tactel ou poliéster reforçado; Cor azul, conforme brasão PMTF; Fechamento com zíper frontal; 01 bolso superior com zíper (para documentos), 01 bolso interno; Com brasão da Prefeitura de Te",
+          "fase": "JULGAMENTO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "672,54",
+          "vencedor": "PONTAL DA PESCA LTDA",
+          "melhor_oferta": "298,98",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "8410114773 COLETE INSTITUCIONAL:Tamanho GG; Emmaterial brim leve, tactel ou poliéster reforçado; Cor azul, conforme brasão PMTF; Fechamento com zíper frontal; 01 bolso superior com zíper (para documentos), 01 bolso interno; Com brasão da Prefeitura de Teixeira de Freitas bordado no peito esquerdo; Escrita de identificação na parte da frente: \"Secretaria Municipal de Finanças\", podendo ser bordada ou pintada, em cor branca ou amarela para contraste; Escrita de identificação nas costas: \"Fiscalização de Rendas\", \"Cadastro Técnico\" ou \"Dívida ativa\", podendo ser bordada ou pintada, em cor branca ou amarela para contraste.",
+              "unidade": "UND",
+              "quantidade": "3,00",
+              "valor_referencia": "224,18"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-050-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "126/2026",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "HABILITAÇÃO",
+      "condutor": "JONATAS DA SILVA SOUSA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO",
+      "publicacao": "08/04/2026 17:12",
+      "inicio_recepcao": "10/04/2026 08:30",
+      "fim_recepcao": "12/05/2026 08:15",
+      "inicio_disputa": "12/05/2026 08:30",
+      "objeto": "Contratação de empresa especializada em prestação de serviço de LEVANTAMENTO TOPOGRÁFICO PLANIALTIMÉTRICO PARA REALIZAÇÃO DE GEORREFERENCIAMENTO DE ROTAS ESCOLARES, a fim de atender as demandas da Secretaria Municipal de Educação.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DdqaZd%2F5gZxDHeoxFyerpBNGn%2FvUQI5D_QNK0zohtHUHJO5zaXDecl5NsLIUDlkUlOnfGMA426yrp%2FpFOlm1Yn_ivue6q8epybRcZ1yFlt1A%3D",
+      "total_lotes": 1,
+      "total_itens": 1,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "GEORREFERENCIAMENTO",
+          "fase": "HABILITAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "84.240,00",
+          "vencedor": "AGRIMENSURA BRASIL LTDA",
+          "melhor_oferta": "84.000,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9903311812 Serviço de levantamento topográfico planialtimétricoe georreferenciamento completo das rotas escolares domunicípio:abrangendo visitas de campo, coleta de dados porreceptores GNSS/GPS de alta precisão, medição de distânciasreais considerando curvas, declividades e vias vicinais,identificação de pontos notáveis e condicionantes geográficos,compatibilização com a malha viária oficial e geração de basegeoespacial em formato digital (shapefile, geojson ouequivalente), com elaboração de mapeamento cartográfico digitalconsolidado, contendo todas as rotas levantadas, pontos deembarque e desembarque, localização das escolas atendidas,delimitação das zonas urbana e rural, vias de acesso, pontoscríticos (aclives, declives, travessias e estradas nãopavimentadas), representação sobre malha viária real, geraçãode plantas em escala adequada e integração dos dados aoSistema de Informações Geográficas (SIG), acompanhada derelatório técnico detalhado, memorial descritivo e plantageorreferenciada das rotas escolares.",
+              "unidade": "KM",
+              "quantidade": "4.800,00",
+              "valor_referencia": "17,55"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CE-007-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "213/2026",
+      "modalidade": "CONCORRÊNCIA ELETRÔNICA",
+      "situacao": "JULGAMENTO",
+      "condutor": "DAVIDSON ARAUJO SANTOS",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO PARCELADA",
+      "publicacao": "06/04/2026 18:43",
+      "inicio_recepcao": "07/04/2026 08:00",
+      "fim_recepcao": "14/05/2026 08:15",
+      "inicio_disputa": "14/05/2026 08:30",
+      "objeto": "Contratação de empresa especializada em execução de obras de construção de um palco para eventos recreativos e culturais na Praça Padre Aparecido, localizada no bairro Monte Castelo, do município de Teixeira de Freitas – BA.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DKrkkcHLQPztsghtAL1hK5t8eEnR4_RQnw08i1OX_%2FwR9uOTBwPMz1XdhDI3Z3VR2hKfN%2FubTBlYFJoQdu%2F_XST7HrlBrRCP4RztpC6OcFoA%3D",
+      "total_lotes": 1,
+      "total_itens": 12,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "EXECUÇÃO DE OBRAS DE CONSTRUÇÃO DE UM PALCO PARA EVENTOS RECREATIVOS E CULTURAIS NA PRAÇA PADRE APARECIDO, LOCALIZADA NO BAIRRO MONTE CASTELO",
+          "fase": "JULGAMENTO",
+          "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "100,00",
           "exclusivo_me": "NÃO",
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
+          "valor_referencia": "135.309,15",
+          "vencedor": "CONSTRUTORA JF PRADO LTDA",
+          "melhor_oferta": "135.309,15",
+          "total_itens": 12,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "SERVIÇOS PRELIMINARES",
+              "unidade": "SERVIÇO",
+              "quantidade": "1,00",
+              "valor_referencia": "2.166,62"
+            },
+            {
+              "numero": "2",
+              "especificacao": "MOVIMENTO DE TERRA",
+              "unidade": "SERVIÇO",
+              "quantidade": "1,00",
+              "valor_referencia": "6.058,67"
+            },
+            {
+              "numero": "3",
+              "especificacao": "INFRAESTRUTURA",
+              "unidade": "SERVIÇO",
+              "quantidade": "1,00",
+              "valor_referencia": "13.450,30"
+            },
+            {
+              "numero": "4",
+              "especificacao": "SUPERESTRUTURA",
+              "unidade": "SERVIÇO",
+              "quantidade": "1,00",
+              "valor_referencia": "43.357,43"
+            },
+            {
+              "numero": "5",
+              "especificacao": "PALCO",
+              "unidade": "SERVIÇO",
+              "quantidade": "1,00",
+              "valor_referencia": "10.930,01"
+            },
+            {
+              "numero": "6",
+              "especificacao": "SISTEMAS DE COBERTURA",
+              "unidade": "SERVIÇO",
+              "quantidade": "1,00",
+              "valor_referencia": "25.389,44"
+            },
+            {
+              "numero": "7",
+              "especificacao": "IMPERMEABILIZAÇÃO",
+              "unidade": "SERVIÇO",
+              "quantidade": "1,00",
+              "valor_referencia": "2.089,11"
+            },
+            {
+              "numero": "8",
+              "especificacao": "REVESTIMENTOS",
+              "unidade": "SERVIÇO",
+              "quantidade": "1,00",
+              "valor_referencia": "2.417,67"
+            },
+            {
+              "numero": "9",
+              "especificacao": "PAVIMENTAÇÃO (PISOS)",
+              "unidade": "SERVIÇO",
+              "quantidade": "1,00",
+              "valor_referencia": "17.409,96"
+            },
+            {
+              "numero": "10",
+              "especificacao": "PINTURAS",
+              "unidade": "SERVIÇO",
+              "quantidade": "1,00",
+              "valor_referencia": "8.459,13"
+            },
+            {
+              "numero": "11",
+              "especificacao": "INSTALAÇÕES ELÉTRICAS",
+              "unidade": "SERVIÇO",
+              "quantidade": "1,00",
+              "valor_referencia": "3.110,52"
+            },
+            {
+              "numero": "12",
+              "especificacao": "SERVIÇOS FINAIS",
+              "unidade": "SERVIÇO",
+              "quantidade": "1,00",
+              "valor_referencia": "470,29"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CE-017-2025",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "971/2025",
+      "modalidade": "CONCORRÊNCIA ELETRÔNICA",
+      "situacao": "HOMOLOGADO",
+      "condutor": "DAVIDSON ARAUJO SANTOS",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO PARCELADA",
+      "publicacao": "24/10/2025 10:54",
+      "inicio_recepcao": "27/10/2025 08:00",
+      "fim_recepcao": "03/12/2025 08:15",
+      "inicio_disputa": "03/12/2025 08:30",
+      "objeto": "Contratação de empresa especializada em execução de obras de construção de uma pré-escola, no bairro Santa Rita, do município de Teixeira de Freitas – BA.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DjMYpqEh1nvu77H1UQySGvy7IAKlMaxBRer9g92wT5dJLRR3U2Sw4x7jljZxawAyZzxo1p2z1myLuGA7LISOu47Q_0Kf6%2FadYyVGzPuRbKO4%3D",
+      "total_lotes": 1,
+      "total_itens": 24,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "EXECUÇÃO DE OBRAS DE CONSTRUÇÃO DE UMA PRÉ-ESCOLA",
+          "fase": "HOMOLOGADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "1.000,00",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "4.135.123,59",
+          "vencedor": "CONSTRUTORA JF PRADO LTDA",
+          "melhor_oferta": "3.845.000,00",
+          "total_itens": 24,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "SERVIÇOS PRELIMINARES",
+              "unidade": "SERVIÇO",
+              "quantidade": "1,00",
+              "valor_referencia": "445.357,41"
+            },
+            {
+              "numero": "2",
+              "especificacao": "MOVIMENTO DE TERRA",
+              "unidade": "UNID.",
+              "quantidade": "1,00",
+              "valor_referencia": "74.225,94"
+            },
+            {
+              "numero": "3",
+              "especificacao": "INFRAESTRUTURA",
+              "unidade": "UNID.",
+              "quantidade": "1,00",
+              "valor_referencia": "371.526,37"
+            },
+            {
+              "numero": "4",
+              "especificacao": "SUPERESTRUTURA",
+              "unidade": "UNID.",
+              "quantidade": "1,00",
+              "valor_referencia": "691.148,37"
+            },
+            {
+              "numero": "5",
+              "especificacao": "ALVENARIA -VEDAÇÃO",
+              "unidade": "UNID.",
+              "quantidade": "1,00",
+              "valor_referencia": "378.243,25"
+            },
+            {
+              "numero": "6",
+              "especificacao": "ESQUADRIAS",
+              "unidade": "UNID.",
+              "quantidade": "1,00",
+              "valor_referencia": "181.609,40"
+            },
+            {
+              "numero": "7",
+              "especificacao": "SISTEMAS DE COBERTURA",
+              "unidade": "UNID.",
+              "quantidade": "1,00",
+              "valor_referencia": "201.974,99"
+            },
+            {
+              "numero": "8",
+              "especificacao": "IMPERMEABILIZAÇÃO",
+              "unidade": "UNID.",
+              "quantidade": "1,00",
+              "valor_referencia": "28.890,82"
+            },
+            {
+              "numero": "9",
+              "especificacao": "REVESTIMENTOS",
+              "unidade": "UNID.",
+              "quantidade": "1,00",
+              "valor_referencia": "508.200,10"
+            },
+            {
+              "numero": "10",
+              "especificacao": "PAVIMENTAÇÃO (PISOS)",
+              "unidade": "UNID.",
+              "quantidade": "1,00",
+              "valor_referencia": "221.966,37"
+            },
+            {
+              "numero": "11",
+              "especificacao": "PINTURAS",
+              "unidade": "UNID.",
+              "quantidade": "1,00",
+              "valor_referencia": "156.697,36"
+            },
+            {
+              "numero": "12",
+              "especificacao": "INSTALAÇÃO HIDRÁULICA",
+              "unidade": "SERVIÇO",
+              "quantidade": "1,00",
+              "valor_referencia": "57.994,04"
+            },
+            {
+              "numero": "13",
+              "especificacao": "DRENAGEM DE ÁGUAS PLUVIAIS",
+              "unidade": "UNID.",
+              "quantidade": "1,00",
+              "valor_referencia": "18.703,58"
+            },
+            {
+              "numero": "14",
+              "especificacao": "INSTALAÇÃO SANITÁRIA",
+              "unidade": "SERVIÇO",
+              "quantidade": "1,00",
+              "valor_referencia": "62.942,20"
+            },
+            {
+              "numero": "15",
+              "especificacao": "LOUÇAS E METAIS",
+              "unidade": "UNID.",
+              "quantidade": "1,00",
+              "valor_referencia": "47.599,90"
+            },
+            {
+              "numero": "16",
+              "especificacao": "INSTALAÇÃO DE GÁS COMBUSTÍVEL",
+              "unidade": "SERVIÇO",
+              "quantidade": "1,00",
+              "valor_referencia": "15.678,43"
+            },
+            {
+              "numero": "17",
+              "especificacao": "SISTEMA DE PROTEÇÃO CONTRA INCÊNDIO",
+              "unidade": "SERVIÇO",
+              "quantidade": "1,00",
+              "valor_referencia": "47.471,76"
+            },
+            {
+              "numero": "18",
+              "especificacao": "INSTALAÇÕES ELÉTRICAS",
+              "unidade": "UNID.",
+              "quantidade": "1,00",
+              "valor_referencia": "311.618,40"
+            },
+            {
+              "numero": "19",
+              "especificacao": "INSTALAÇÃO DE CLIMATIZAÇÃO",
+              "unidade": "SERVIÇO",
+              "quantidade": "1,00",
+              "valor_referencia": "11.516,24"
+            },
+            {
+              "numero": "20",
+              "especificacao": "INSTALAÇÃO DE REDE ESTRUTURADA",
+              "unidade": "SERVIÇO",
+              "quantidade": "1,00",
+              "valor_referencia": "53.194,91"
+            },
+            {
+              "numero": "21",
+              "especificacao": "SISTEMA DE EXAUSTÃO MECÂNICA",
+              "unidade": "SERVIÇO",
+              "quantidade": "1,00",
+              "valor_referencia": "11.989,46"
+            },
+            {
+              "numero": "22",
+              "especificacao": "SISTEMA DE PROTEÇÃO CONTRA DESCARGAS ATMOSFÉRICAS (SPDA)",
+              "unidade": "UNID.",
+              "quantidade": "1,00",
+              "valor_referencia": "112.432,31"
+            },
+            {
+              "numero": "23",
+              "especificacao": "SERVIÇOS COMPLEMENTARES",
+              "unidade": "UNID.",
+              "quantidade": "1,00",
+              "valor_referencia": "118.504,33"
+            },
+            {
+              "numero": "24",
+              "especificacao": "SERVIÇOS FINAIS",
+              "unidade": "UNID.",
+              "quantidade": "1,00",
+              "valor_referencia": "5.637,65"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-027-2024",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "705/2024",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "HOMOLOGADO",
+      "condutor": "MAGDA DE SELES GUIMARÃES",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO",
+      "publicacao": "13/06/2024 18:49",
+      "inicio_recepcao": "14/06/2024 08:00",
+      "fim_recepcao": "10/07/2024 13:45",
+      "inicio_disputa": "10/07/2024 14:00",
+      "objeto": "O objeto da presente licitação é a contratação de INSTITUIÇÃO FINANCEIRA ESPECIALIZADA NA PRESTAÇÃO DE SERVIÇOS BANCÁRIOS PARA CENTRALIZAÇÃO, GERENCIAMENTO E PROCESSAMENTO DE CRÉDITOS DA FOLHA DE PAGAMENTO DOS SERVIDORES, a fim de atender as demandas da Secretaria Municipal de Administração, conforme condições, quantidades e especificações no Edital, Termo de Referência e seus Anexos.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DiIt1J2h26cFTekaCLOorcq9UHVw_L7dax4BRB%2FWr1YceM6GNDiHo49MumNMJ%2F07GH1O%2FN7GlucugnV0eT4RN4NhV3tQcll1QMSBMmy6cS3A%3D",
+      "total_lotes": 1,
+      "total_itens": 1,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "SERVIÇOS BANCÁRIOS",
+          "fase": "HOMOLOGADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
           "valor_referencia": "6.052.150,00",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
+          "vencedor": "ITAÚ UNIBANCO S.A.",
+          "melhor_oferta": "6.053.000,00",
           "total_itens": 1,
           "itens": [
             {
               "numero": "1",
               "especificacao": "CONTRATAÇÃO DE INSTITUIÇÃO FINANCEIRA: ESPECIALIZADA NA PRESTAÇÃO DE SERVIÇOS BANCÁRIOS PARA CENTRALIZAÇÃO, GERENCIAMENTO E PROCESSAMENTO DE CRÉDITOS DA FOLHA DE PAGAMENTO DOS SERVIDORES DA PREFEITURA MUNICIPAL DE TEIXEIRA DE FREITAS/BA.",
-              "unidade": "SERVIÇO",
+              "unidade": "UN",
               "quantidade": "1,00",
               "valor_referencia": "6.052.150,00"
             }
