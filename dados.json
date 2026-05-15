@@ -1,10 +1,10 @@
 {
   "metadata": {
     "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-    "total_processos": 780,
-    "total_lotes": 8700,
-    "total_itens": 14904,
-    "atualizado_em": "20260514_193513"
+    "total_processos": 782,
+    "total_lotes": 8704,
+    "total_itens": 14908,
+    "atualizado_em": "20260515_193504"
   },
   "processos": [
     {
@@ -267792,42 +267792,178 @@
       ]
     },
     {
-      "id": "PE-027-2024",
+      "id": "2-DLE-050-2026",
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "705/2024",
-      "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "HOMOLOGADO",
-      "condutor": "MAGDA DE SELES GUIMARÃES",
+      "numero_adm": "480 / 2026",
+      "modalidade": "DISPENSA ELETRÔNICA",
+      "situacao": "RECEPÇÃO DE PROPOSTAS",
+      "condutor": "ISLA LIMA SILVA",
       "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
       "tipo_contrato": "AQUISIÇÃO",
-      "publicacao": "13/06/2024 18:49",
-      "inicio_recepcao": "14/06/2024 08:00",
-      "fim_recepcao": "10/07/2024 13:45",
-      "inicio_disputa": "10/07/2024 14:00",
-      "objeto": "O objeto da presente licitação é a contratação de INSTITUIÇÃO FINANCEIRA ESPECIALIZADA NA PRESTAÇÃO DE SERVIÇOS BANCÁRIOS PARA CENTRALIZAÇÃO, GERENCIAMENTO E PROCESSAMENTO DE CRÉDITOS DA FOLHA DE PAGAMENTO DOS SERVIDORES, a fim de atender as demandas da Secretaria Municipal de Administração, conforme condições, quantidades e especificações no Edital, Termo de Referência e seus Anexos.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DiIt1J2h26cFTekaCLOorcq9UHVw_L7dax4BRB%2FWr1YceM6GNDiHo49MumNMJ%2F07GH1O%2FN7GlucugnV0eT4RN4NhV3tQcll1QMSBMmy6cS3A%3D",
+      "publicacao": "15/05/2026 17:13",
+      "inicio_recepcao": "15/05/2026 17:15",
+      "fim_recepcao": "22/05/2026 08:15",
+      "inicio_disputa": "22/05/2026 08:30",
+      "objeto": "Contratação de empresa especializada em fornecimento de BANHEIROS QUÍMICOS (material permanente), cujas especificações técnicas, quantidades e demais condições encontram-se detalhadas neste instrumento, a fim de atender as demandas da Secretaria Municipal de Administração.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5Dv9_iPNTtWNuYIl9EW4VD7wU%2Fa92yj3gMn_NIz_VaN0scLlDPsSDltFkymmtdTzNQ%2FWzC14cldb5q4vo0YzYY0op%2F3Ku7uQNROkvhd1fNpjg%3D",
       "total_lotes": 1,
       "total_itens": 1,
       "lotes": [
         {
           "numero": "1",
-          "titulo": "SERVIÇOS BANCÁRIOS",
-          "fase": "HOMOLOGADO",
+          "titulo": "BANHEIROS QUÍMICOS",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "25.314,12",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9908411205 BANHEIROS QUÍMICOS:individuais portáteis comteto translúcido composto com caixa de dejeto com assento,mictório, porta papel higiênico (devidamente abastecidos) efechamento de identificação OCUPADO/DESOCUPADO eindicação de masculinos, femininos, para público e bandas(camarins), com medidas mínimas de altura: até 2,40 m largura:até 1,12 m comprimento: até 1,20 m, com ponto de ventilaçãonatural.",
+              "unidade": "UN",
+              "quantidade": "6,00",
+              "valor_referencia": "4.219,02"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2-DLE-038-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "316 / 2026",
+      "modalidade": "DISPENSA ELETRÔNICA",
+      "situacao": "RECEPÇÃO DE PROPOSTAS",
+      "condutor": "ISLA LIMA SILVA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO",
+      "publicacao": "15/05/2026 13:52",
+      "inicio_recepcao": "15/05/2026 14:00",
+      "fim_recepcao": "22/05/2026 08:15",
+      "inicio_disputa": "22/05/2026 08:30",
+      "objeto": "Contratação de empresa especializada em fornecimento de TOLDOS (material permanente), quantidades e demais condições encontram-se detalhadas neste instrumento, a fim de atender as demandas da Secretaria Municipal de Administração.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5D4mMtNejQH4Uje7F7iAR8cFm5jtsxAjUbK6LimlyzEGez8vfjtkFV6g5QZq%2FYWiMy1YytzljWKboU16SyUyGt7IxivHc6MYqS9MPeisT1ymg%3D",
+      "total_lotes": 3,
+      "total_itens": 3,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "9900830445 TOLDO 4X4 METROS:tenda piramidal 4 x 4 m: cor diversa em laminado nigth and day - anti chamas, lona de cobertura produzida em pvc calandrado, com reforço fibra de poliéster impermeável, auto-extinguível, com blackout, sem costuras mecânicas, co",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "11.321,76",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900830445 TOLDO 4X4 METROS:tenda piramidal 4 x 4 m: cor diversa em laminado nigth and day - anti chamas, lona de cobertura produzida em pvc calandrado, com reforço fibra de poliéster impermeável, auto-extinguível, com blackout, sem costuras mecânicas, cortada e moldada através de vulcanização a quente, aplicada às estruturas metálicas por tensionamento, estrutura metálica: ferro tubular em aço reforçado, chapas de 1,4 mm3, partes soldadas em sistema mg. partes unidas por encaixe e fixadas com parafusos e conexões em aço, pés de sustentação: estrutura em ferro tubular (3), com altura de 3 m, ancorados com cordas de nylon de 1/4, amarras especiais, fixadas em estacas de ferro. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "4,00",
+              "valor_referencia": "2.830,44"
+            }
+          ]
+        },
+        {
+          "numero": "2",
+          "titulo": "9900830446 TOLDO 5X5 METROS:tenda piramidal 5 x 5 m: cor diversa em laminado nigth and day - anti chamas, lona de cobertura produzida em pvc calandrado, com reforço fibra de poliéster impermeável, auto-extinguível, com blackout, sem costuras mecânicas, co",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "12.024,84",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900830446 TOLDO 5X5 METROS:tenda piramidal 5 x 5 m: cor diversa em laminado nigth and day - anti chamas, lona de cobertura produzida em pvc calandrado, com reforço fibra de poliéster impermeável, auto-extinguível, com blackout, sem costuras mecânicas, cortada e moldada através de vulcanização a quente, aplicada às estruturas metálicas por tensionamento, estrutura metálica: ferro tubular em aço reforçado, chapas de 1,4 mm3, partes soldadas em sistema mg. partes unidas por encaixe e fixadas com parafusos e conexões em aço, pés de sustentação: estrutura em ferro tubular (3), com altura de 3 m, ancorados com cordas de nylon de 1/4, amarras especiais, fixadas em estacas de ferro. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "4,00",
+              "valor_referencia": "3.006,21"
+            }
+          ]
+        },
+        {
+          "numero": "3",
+          "titulo": "9900830447 TOLDO 6X6 METROS:tenda piramidal 6 x 6 m: cor diversa em laminado nigth and day - anti chamas, lona de cobertura produzida em pvc calandrado, com reforço fibra de poliéster impermeável, auto extinguível, com blackout, sem costuras mecânicas, co",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "12.765,72",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900830447 TOLDO 6X6 METROS:tenda piramidal 6 x 6 m: cor diversa em laminado nigth and day - anti chamas, lona de cobertura produzida em pvc calandrado, com reforço fibra de poliéster impermeável, auto extinguível, com blackout, sem costuras mecânicas, cortada e moldada através de vulcanização a quente, aplicada às estruturas metálicas por tensionamento, estrutura metálica: ferro tubular em aço reforçado, chapas de 1,4 mm3, partes soldadas em sistema mg. partes unidas por encaixe e fixadas com parafusos e conexões em aço, pés de sustentação: estrutura em ferro tubular (3), com altura de 3 m, ancorados com cordas de nylon de 1,'4, amarras especiais, fixadas em estacas de ferro. EXCLUSICO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "4,00",
+              "valor_referencia": "3.191,43"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-027-2024",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "705/2024",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "SUSPENSO",
+      "condutor": "VICTOR KINIDEL DETHLING",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO",
+      "publicacao": "15/05/2024 18:26",
+      "inicio_recepcao": "16/05/2024 08:00",
+      "fim_recepcao": "12/06/2024 09:45",
+      "inicio_disputa": "12/06/2024 10:00",
+      "objeto": "Contratação de instituição financeira para prestação de serviços bancários para centralização, gerenciamento e processamento de créditos da folha de pagamento dos servidores, a fim de atender as demandas da Prefeitura de Teixeira de Freitas, conforme condições, quantidades e especificações no Edital, Termo de Referência e seus Anexos.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DK8167McO9LaeTr0B8S4B16oSpmSh3yTevdxesJNySXNjggBUf4TAHtvVxYyDIwswfT6GMAtptQhzWD%2ForPPFZMuEx3sougJxj5BGgHrdm2U%3D",
+      "total_lotes": 1,
+      "total_itens": 1,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "LOTE 01",
+          "fase": "SUSPENSO",
+          "tipo": "UNITÁRIO",
+          "quantidade": "1",
+          "intervalo_minimo": "100,00",
           "exclusivo_me": "NÃO",
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "6.052.150,00",
-          "vencedor": "ITAÚ UNIBANCO S.A.",
-          "melhor_oferta": "6.053.000,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
           "total_itens": 1,
           "itens": [
             {
               "numero": "1",
               "especificacao": "CONTRATAÇÃO DE INSTITUIÇÃO FINANCEIRA: ESPECIALIZADA NA PRESTAÇÃO DE SERVIÇOS BANCÁRIOS PARA CENTRALIZAÇÃO, GERENCIAMENTO E PROCESSAMENTO DE CRÉDITOS DA FOLHA DE PAGAMENTO DOS SERVIDORES DA PREFEITURA MUNICIPAL DE TEIXEIRA DE FREITAS/BA.",
-              "unidade": "UN",
+              "unidade": "SERVIÇO",
               "quantidade": "1,00",
               "valor_referencia": "6.052.150,00"
             }
