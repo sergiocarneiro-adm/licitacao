@@ -1,10 +1,10 @@
 {
   "metadata": {
     "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-    "total_processos": 782,
-    "total_lotes": 8704,
-    "total_itens": 14908,
-    "atualizado_em": "20260515_193504"
+    "total_processos": 788,
+    "total_lotes": 8748,
+    "total_itens": 14959,
+    "atualizado_em": "20260519_193503"
   },
   "processos": [
     {
@@ -263012,218 +263012,6 @@
       ]
     },
     {
-      "id": "PE-072-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "269 / 2026",
-      "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "RECEPÇÃO DE PROPOSTAS",
-      "condutor": "JONATAS DA SILVA SOUSA",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO PARCELADA",
-      "publicacao": "04/05/2026 10:51",
-      "inicio_recepcao": "06/05/2026 08:30",
-      "fim_recepcao": "19/05/2026 08:15",
-      "inicio_disputa": "19/05/2026 08:30",
-      "objeto": "Contratação de empresa especializada em fornecimento de DOCES (material de consumo), a fim de atender as demandas da Secretaria Municipal de Educação.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5D4cBinzLInClcpgYYLENvB4OatiOrt3_trW8W_p2RuV2bLUGajdQzDrGtK08yR%2FRI9s9rBSMUV%2Fk9VdPe8ojLyJzWI0vBVV2s77dHdQim7B0%3D",
-      "total_lotes": 8,
-      "total_itens": 8,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "37141 Bombom tipo wafer recheado com creme de castanha de caju e cobertura de chocolate:Produto alimentício do tipo bombom à base de wafer crocante, com recheio cremoso sabor castanha de caju, coberto com chocolate ao leite ou similar, apresentando textur",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37141 Bombom tipo wafer recheado com creme de castanha de caju e cobertura de chocolate:Produto alimentício do tipo bombom à base de wafer crocante, com recheio cremoso sabor castanha de caju, coberto com chocolate ao leite ou similar, apresentando textura que combina crocância do wafer com cremosidade do recheio, sabor marcante e homogêneo, próprio para consumo humano. Deverá ser elaborado com ingredientes de boa qualidade, contendo, entre outros, derivados de trigo, leite e castanha de caju, podendo conter soja, amendoim e traços de glúten, conforme rotulagem do fabricante. Embalagem primária: bombons embalados individualmente, em invólucro apropriado para alimentos, íntegro, sem rasgos, furos ou sinais de violação. Embalagem secundária: pacote com peso líquido de 1 kg, devendo constar, a identificação clara do produto, marca, peso líquido, lote, data de fabricação e validade. Produto pronto para consumo, isento de corpos estranhos, sujidades, umidade excessiva, deformações acentuadas ou sinais de deterioração. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "PCT",
-              "quantidade": "120,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "2",
-          "titulo": "37142 Bombom tipo wafer recheado com creme de chocolate meio amargo e flocos de arroz, coberto com chocolate branco:Produto alimentício do tipo bombom wafer, composto por camadas de wafer crocante, recheio cremoso sabor chocolate meio amargo com flocos de",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37142 Bombom tipo wafer recheado com creme de chocolate meio amargo e flocos de arroz, coberto com chocolate branco:Produto alimentício do tipo bombom wafer, composto por camadas de wafer crocante, recheio cremoso sabor chocolate meio amargo com flocos de arroz e cobertura de chocolate branco, conferindo contraste de sabores e texturas, adequado ao consumo individual. Deverá apresentar textura crocante do wafer e dos flocos de arroz, combinada à cremosidade do recheio, sabor característico de chocolate meio amargo e chocolate branco, isento de odores ou sabores estranhos e de sinais de rancificação. Embalagem primária: unidades embaladas individualmente, em filme apropriado para contato com alimentos, íntegro e inviolado. Embalagem secundária: pacote ou caixa com peso líquido de 1 kg, com identificação do produto (bombom wafer recheado), marca, peso líquido, lote, data de fabricação, data de validade, lista de ingredientes, informação nutricional e advertências sobre alergênicos (trigo, leite, soja, amendoim, entre outros), bem como identificação do fabricante (nome/razão social e CNPJ) e registro no órgão competente. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "PCT",
-              "quantidade": "120,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "3",
-          "titulo": "9900515543 Bombom tipo wafer recheado com creme sabor chocolate ao leite, coberto com chocolate ao leite:Produto alimentício do tipo bombom chocolate, consistindo em wafer crocante com recheio cremoso sabor chocolate ao leite e cobertura externa também de",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900515543 Bombom tipo wafer recheado com creme sabor chocolate ao leite, coberto com chocolate ao leite:Produto alimentício do tipo bombom chocolate, consistindo em wafer crocante com recheio cremoso sabor chocolate ao leite e cobertura externa também de chocolate ao leite, destinado ao consumo imediato. Produto deve apresentar cor, sabor e aroma característicos de chocolate, textura firme, sem grumos, sem sinais de umidade excessiva, deformação, esbranquiçamento (\"fat bloom\") acentuado ou qualquer indício de deterioração.Embalagem: bombons embalados individualmente, acondicionados em pacote com peso líquido de 1 kg, em material apropriado para alimentos, resistente e íntegro, contendo identificação do produto, marca, peso líquido, lote, data de fabricação, validade, informações nutricionais, lista de ingredientes e advertências sobre alergênicos, além do nome/razão social e CNPJ do fabricante e número de registro no órgão competente. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "PCT",
-              "quantidade": "120,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "4",
-          "titulo": "9900515544 Bala de goma tipo jujuba sortida em tubos:Produto alimentício do tipo bala de goma (jujuba) açucarada, macia, mastigável, em sabores sortidos de frutas (como morango, uva, laranja, limão, abacaxi ou similares), acondicionada em tubos plásticos",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900515544 Bala de goma tipo jujuba sortida em tubos:Produto alimentício do tipo bala de goma (jujuba) açucarada, macia, mastigável, em sabores sortidos de frutas (como morango, uva, laranja, limão, abacaxi ou similares), acondicionada em tubos plásticos individuais, própria para consumo humano. Deverá apresentar textura macia, não excessivamente pegajosa, sem cristalização exagerada de açúcar na superfície, isenta de sujidades, corpos estranhos, odor e sabor estranhos ou sinais de fermentação. Embalagem: tubo com no mínimo 8 unidades de jujubas, com peso aproximado de 30 g a 35 g cada tubo, acondicionado em caixa com 30 tubos por caixa, devendo constar na rotulagem a identificação do produto (bala de goma tipo jujuba), sabor sortido, peso, lote, data de fabricação, prazo de validade, lista de ingredientes, informação nutricional, advertências sobre alergênicos e presença/ausência de glúten, além do nome/razão social e CNPJ do fabricante. EXCLUSIVOPARA ME/EPP.",
-              "unidade": "CX",
-              "quantidade": "100,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "5",
-          "titulo": "9900515545 Bala de goma tipo jujuba sabor iogurte em tubos:Produto alimentício do tipo bala de goma (jujuba), macia, mastigável, com sabores sortidos inspirados em iogurte de frutas (como morango, uva, pêssego ou similares), apresentando textura suave e a",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900515545 Bala de goma tipo jujuba sabor iogurte em tubos:Produto alimentício do tipo bala de goma (jujuba), macia, mastigável, com sabores sortidos inspirados em iogurte de frutas (como morango, uva, pêssego ou similares), apresentando textura suave e aroma característico de iogurte, acondicionada em tubos plásticos individuais. Deverá ser elaborada com ingredientes próprios para consumo humano, apresentando cores e formatos compatíveis com a categoria, sem presença de corpos estranhos, sujidades, deformações excessivas ou sinais de deterioração. Embalagem: tubo com no mínimo 8 unidades de jujubas, com peso aproximado de 30 g a 35 g cada tubo, acondicionado em caixa com 30 tubos por caixa, com rotulagem contendo denominação do produto (bala de goma sabor iogurte), sabores, peso, lote, data de fabricação, prazo de validade, lista de ingredientes, informação nutricional, advertências sobre alergênicos e identificação completa do fabricante (nome/razão social, CNPJ e endereço), e registro no órgão competente.EXCLUSIVO PARA ME/EPP.",
-              "unidade": "CX",
-              "quantidade": "100,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "6",
-          "titulo": "9900515546 Bala de café:Produto alimentício do tipo bala dura ou mastigável, sabor café, com aroma e sabor característicos de café torrado, própria para consumo humano, destinada à oferta em eventos, reuniões e ações institucionais. Deverá apresentar text",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900515546 Bala de café:Produto alimentício do tipo bala dura ou mastigável, sabor café, com aroma e sabor característicos de café torrado, própria para consumo humano, destinada à oferta em eventos, reuniões e ações institucionais. Deverá apresentar textura uniforme (dura ou levemente mastigável, conforme o tipo), sem rachaduras excessivas, sem cristais de açúcar soltos em demasia, isenta de corpos estranhos, sujidades, umidade excessiva, deformações anormais ou odor e sabor estranhos.Embalagem: balas embaladas individualmente, acondicionadas em pacote com peso líquido mínimo de 500g, em material apropriado para contato com alimentos, íntegro e inviolado, com identificação do produto (bala de café), marca, peso líquido, lote, data de fabricação, prazo de validade, lista de ingredientes, informação nutricional e advertências sobre alergênicos, além dos dados do fabricante (nome/razão social, CNPJ) e registro no órgão competente. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "PCT",
-              "quantidade": "100,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "7",
-          "titulo": "37143 Bala sortida de sabores:Produto alimentício do tipo bala (dura ou mastigável), com sabores sortidos de frutas e/ou outros sabores usuais (tais como menta, tutti-frutti, caramelo, entre outros), própria para consumo humano em eventos e reuniões insti",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37143 Bala sortida de sabores:Produto alimentício do tipo bala (dura ou mastigável), com sabores sortidos de frutas e/ou outros sabores usuais (tais como menta, tutti-frutti, caramelo, entre outros), própria para consumo humano em eventos e reuniões institucionais. Deverá apresentar textura adequada ao tipo (dura ou mastigável), cor e aroma compatíveis com os sabores declarados, isenta de sujidades, corpos estranhos, deformações excessivas, umidade anormal ou sinais de deterioração.Embalagem: balas embaladas individualmente, acondicionadas em pacote com peso líquido mínimo de 500g, devendo a embalagem conter, de forma clara e legível, a identificação do produto (bala sortida), marca, peso líquido, lote, data de fabricação, validade, lista de ingredientes, informação nutricional, advertências sobre alergênicos, identificação do fabricante (nome/razão social, CNPJ e endereço) e, quando aplicável, registro no órgão competente. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "PCT",
-              "quantidade": "100,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "8",
-          "titulo": "9900515547 Bala sabor morango:Produto alimentício do tipo bala (dura ou mastigável), sabor morango, com cor, aroma e sabor característicos da fruta, própria para consumo humano. Deverá apresentar textura homogênea, sem rachaduras ou deformações exageradas",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900515547 Bala sabor morango:Produto alimentício do tipo bala (dura ou mastigável), sabor morango, com cor, aroma e sabor característicos da fruta, própria para consumo humano. Deverá apresentar textura homogênea, sem rachaduras ou deformações exageradas, isenta de sujidades, corpos estranhos, umidade excessiva ou sinais de deterioração. Embalagem: balas embaladas individualmente, acondicionadas em pacote com peso líquido mínimo de 500g, devendo o rótulo conter a denominação do produto (bala sabor morango), marca, peso líquido, lote, data de fabricação, prazo de validade, lista de ingredientes, informação nutricional, advertências sobre alergênicos, identificação do fabricante (nome/razão social, CNPJ) e, quando exigido, registro no órgão competente.EXCLUSIVO PARA ME/EPP.",
-              "unidade": "PCT",
-              "quantidade": "100,00",
-              "valor_referencia": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "PE-069-2026",
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "312/2026",
@@ -264506,50 +264294,6 @@
               "unidade": "UN",
               "quantidade": "1,00",
               "valor_referencia": "709,19"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "PE-073-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "202 / 2026",
-      "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "RECEPÇÃO DE PROPOSTAS",
-      "condutor": "SERGIO CARNEIRO CAVALCANTI DE AZEVEDO",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO",
-      "publicacao": "05/05/2026 13:34",
-      "inicio_recepcao": "07/05/2026 08:30",
-      "fim_recepcao": "19/05/2026 08:15",
-      "inicio_disputa": "19/05/2026 08:30",
-      "objeto": "Contratação de empresa especializada em fornecimento de VEÍCULOS TIPO PICAPE CABINE DUPLA (bens permanentes), a fim de atender as demandas da Secretaria Municipal de Educação.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DdapNRCFhOCpBxCm%2Fdmpra4U3yQyzzAasBWtp5995zBIWD3%2FqPSc%2Fk9WXZ3BasjTPuj_%2F6KVTzOXuLdITvWLC1B5utiLCfUPPb7VL0yv3BWI%3D",
-      "total_lotes": 1,
-      "total_itens": 1,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "VEICULOS TIPO PICAPE",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "73973900009 Veículo automotor zero quilômetro, tipo picapeleve/compacta:com cabine dupla, 4 portas, capacidade para 5(cinco) ocupantes incluindo o motorista. Ano defabricação/modelo 2026, combustível tipo flex (álcool/gasolina),motorização mínima de 1.3L (ou superior), potência mínima107cv. Tração 4x2, câmbio manual ou automático, com, nomínimo, 5 (cinco) marchas à frente (ou conforme tecnologiadisponível em câmbio automático), visando melhor desempenho,segurança e economia de combustível. Veículo dotado dedireção com assistência elétrica, sistema de freios com ABS eEBD (ou equivalente), airbag frontal para motorista e passageiro,cintos de segurança de 3 (três) pontos para todos os ocupantes(quando aplicável) e encostos de cabeça, atendendointegralmente às normas de segurança vigentes. Vidros elétricosnas portas dianteiras e traseiras, travas elétricas nas portas comtravamento central e acionamento por meio de comando internoe pela chave ou dispositivo equivalente. Sistema de arcondicionado frio/quente, com difusores frontais, adequado aoconforto térmico dos ocupantes, com comandos de fácil acessoao motorista. Carroceria com caçamba traseira aberta, comcapacidade de carga mínima de 600kg, dotada de protetor decaçamba (forração ou protetor em material plástico ou similar),capota marítima ou equivalente, ganchos ou pontos deamarração de carga conforme projeto do fabricante, permitindo otransporte de materiais leves, equipamentos, mobiliários depequeno porte, materiais pedagógicos e insumos administrativos.Sistema multimídia, no mínimo, conexão Bluetooth e rádio, altofalantes instalados, entrada USB ou equivalente, painel deinstrumentos com indicadores básicos (velocímetro, marcador decombustível, hodômetro, luzes de advertência) e computador debordo. Comando interno e elétricos para regulagem deretrovisores externos, desembaçador do vidro traseiro (quandoaplicável), limpador e lavador de para-brisa dianteiro comtemporizador. Equipado, no mínimo, com sensor deestacionamento traseiro e câmera de ré (admite-se um dos doisou ambos), faróis com regulagem de foco (manual ou elétrica,conforme projeto de fábrica), iluminação traseira completa, luz defreio elevada, aviso sonoro de faróis acesos e/ou portas abertas,conforme configuração de série. Bancos revestidos em courosintético de fábrica ou material similar, banco do motorista comajuste de distância e inclinação, porta-objetos distribuídos nopainel...(VIDE O ANEXO DO TERMO).",
-              "unidade": "UN",
-              "quantidade": "4,00",
-              "valor_referencia": ""
             }
           ]
         }
@@ -267234,78 +266978,6 @@
       ]
     },
     {
-      "id": "3-DLE-048-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "472 / 2026",
-      "modalidade": "DISPENSA ELETRÔNICA",
-      "situacao": "HABILITAÇÃO",
-      "condutor": "ISLA LIMA SILVA",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO",
-      "publicacao": "08/05/2026 11:52",
-      "inicio_recepcao": "08/05/2026 11:55",
-      "fim_recepcao": "14/05/2026 08:45",
-      "inicio_disputa": "14/05/2026 09:00",
-      "objeto": "Contratação de empresa especializada na prestação de serviço de [MANUTENÇÃO PREVENTIVA DE EQUIPAMENTOS DE DIAGNÓSTICO AUDIOLÓGICO, INCLUINDO ATENDIMENTO TÉCNICO IN LOCO], a fim de atender as necessidades da Secretaria Municipal de Saúde.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5D2Tp4LkO8%2FdDWLWR47MgzWUb11cSYZ6fs1QuADCJ_d2Mrk0JCyQZzrhxLzgmvwV9BfFFjkgH3jpLJDaaKacEx85bSneUU_zc16dAHcBQt49E%3D",
-      "total_lotes": 1,
-      "total_itens": 5,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "MANUTENÇÃO PREVENTIVA DE EQUIPAMENTOS DE DIAGNÓSTICO AUDIOLÓGICO",
-          "fase": "HABILITAÇÃO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "10.007,56",
-          "vencedor": "Z-9 ENGENHARIA LTDA",
-          "melhor_oferta": "10.007,56",
-          "total_itens": 5,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9902900151 Manutenção/calibração de equipamentos para Audiometria:Modelo AC40 Clinical Audiometer Interacoustics, 2 canais",
-              "unidade": "SER",
-              "quantidade": "1,00",
-              "valor_referencia": "2.061,56"
-            },
-            {
-              "numero": "2",
-              "especificacao": "9902900152 Manutenção/calibração de equipamentos Amplificadores para Audiometria em Campo Livre:(Free Field Amplifier) - Modelo FF-70/2",
-              "unidade": "SER",
-              "quantidade": "2,00",
-              "valor_referencia": "863,47"
-            },
-            {
-              "numero": "3",
-              "especificacao": "36840 Manutenção/calibração de equipamentos Impedanciômetro:Modelo AT235 by Interacoustics",
-              "unidade": "SER",
-              "quantidade": "2,00",
-              "valor_referencia": "1.660,08"
-            },
-            {
-              "numero": "4",
-              "especificacao": "36841 Manutenção/calibração de cabines para Audiometria:Auditec",
-              "unidade": "SER",
-              "quantidade": "2,00",
-              "valor_referencia": "604,64"
-            },
-            {
-              "numero": "5",
-              "especificacao": "36842 Manutenção/calibração de equipamento de Emissões Otoacústicas Evocadas (EOA) portátil:Modelo OtoRead Interacoustics",
-              "unidade": "SER",
-              "quantidade": "1,00",
-              "valor_referencia": "1.689,62"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "2-DLE-040-2026",
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "381 / 2026",
@@ -267928,42 +267600,1595 @@
       ]
     },
     {
-      "id": "PE-027-2024",
+      "id": "PE-080-2026",
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "705/2024",
+      "numero_adm": "311 / 2026",
       "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "SUSPENSO",
-      "condutor": "VICTOR KINIDEL DETHLING",
+      "situacao": "PUBLICADO",
+      "condutor": "SERGIO CARNEIRO CAVALCANTI DE AZEVEDO",
       "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
       "tipo_contrato": "AQUISIÇÃO",
-      "publicacao": "15/05/2024 18:26",
-      "inicio_recepcao": "16/05/2024 08:00",
-      "fim_recepcao": "12/06/2024 09:45",
-      "inicio_disputa": "12/06/2024 10:00",
-      "objeto": "Contratação de instituição financeira para prestação de serviços bancários para centralização, gerenciamento e processamento de créditos da folha de pagamento dos servidores, a fim de atender as demandas da Prefeitura de Teixeira de Freitas, conforme condições, quantidades e especificações no Edital, Termo de Referência e seus Anexos.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DK8167McO9LaeTr0B8S4B16oSpmSh3yTevdxesJNySXNjggBUf4TAHtvVxYyDIwswfT6GMAtptQhzWD%2ForPPFZMuEx3sougJxj5BGgHrdm2U%3D",
-      "total_lotes": 1,
-      "total_itens": 1,
+      "publicacao": "19/05/2026 17:54",
+      "inicio_recepcao": "21/05/2026 08:30",
+      "fim_recepcao": "02/06/2026 10:15",
+      "inicio_disputa": "02/06/2026 10:30",
+      "objeto": "Contratação de empresa especializada em fornecimento de MATERIAIS PARA QUADRAS ESPORTIVAS (material de consumo e permanente), a fim de atender as demandas da Secretaria Municipal de Educação.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5D4BzcvGKP_Ecs3SUttPUv8rEfbpuM6q5avYpUiksUcqzIgG_SveoWteM%2FjwmNYryKS3mwH2zFYApr8Fr6BgTg2DwES_p1fcH_ZPHyfrnzdm0%3D",
+      "total_lotes": 16,
+      "total_itens": 16,
       "lotes": [
         {
           "numero": "1",
-          "titulo": "LOTE 01",
-          "fase": "SUSPENSO",
-          "tipo": "UNITÁRIO",
+          "titulo": "9908411202 Par de traves oficiais para futsal:medidas internas 3,00m x 2,00m, em conformidade com regras oficiais vigentes da modalidade. Estrutura em tubo metálico com diâmetro mínimo de 75mm e espessura mínima de 2mm, com tratamento anticorrosivo e pint",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
           "quantidade": "1",
-          "intervalo_minimo": "100,00",
+          "intervalo_minimo": "0,01",
           "exclusivo_me": "NÃO",
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
-          "valor_referencia": "6.052.150,00",
+          "valor_referencia": "",
           "vencedor": "",
           "melhor_oferta": "0,00",
           "total_itens": 1,
           "itens": [
             {
               "numero": "1",
+              "especificacao": "9908411202 Par de traves oficiais para futsal:medidas internas 3,00m x 2,00m, em conformidade com regras oficiais vigentes da modalidade. Estrutura em tubo metálico com diâmetro mínimo de 75mm e espessura mínima de 2mm, com tratamento anticorrosivo e pintura de acabamento adequada ao uso em ambiente esportivo. Sistema de fixação que garanta estabilidade e segurança em uso, incluindo todos os acessórios necessários à instalação. Garantia mínima de 12 meses.",
+              "unidade": "PAR",
+              "quantidade": "18,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "1",
+          "titulo": "9908411202 Par de traves oficiais para futsal:medidas internas 3,00m x 2,00m, em conformidade com regras oficiais vigentes da modalidade. Estrutura em tubo metálico com diâmetro mínimo de 75mm e espessura mínima de 2mm, com tratamento anticorrosivo e pint",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9908411202 Par de traves oficiais para futsal:medidas internas 3,00m x 2,00m, em conformidade com regras oficiais vigentes da modalidade. Estrutura em tubo metálico com diâmetro mínimo de 75mm e espessura mínima de 2mm, com tratamento anticorrosivo e pintura de acabamento adequada ao uso em ambiente esportivo. Sistema de fixação que garanta estabilidade e segurança em uso, incluindo todos os acessórios necessários à instalação. Garantia mínima de 12 meses.",
+              "unidade": "PAR",
+              "quantidade": "18,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "1",
+          "titulo": "9908411202 Par de traves oficiais para futsal:medidas internas 3,00m x 2,00m, em conformidade com regras oficiais vigentes da modalidade. Estrutura em tubo metálico com diâmetro mínimo de 75mm e espessura mínima de 2mm, com tratamento anticorrosivo e pint",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9908411202 Par de traves oficiais para futsal:medidas internas 3,00m x 2,00m, em conformidade com regras oficiais vigentes da modalidade. Estrutura em tubo metálico com diâmetro mínimo de 75mm e espessura mínima de 2mm, com tratamento anticorrosivo e pintura de acabamento adequada ao uso em ambiente esportivo. Sistema de fixação que garanta estabilidade e segurança em uso, incluindo todos os acessórios necessários à instalação. Garantia mínima de 12 meses.",
+              "unidade": "PAR",
+              "quantidade": "18,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "4",
+          "titulo": "9900515561 Tinta para demarcação de quadras esportivas:embalagem de 18L, apropriada para piso esportivo interno, com alta aderência e resistência à abrasão, rendimento mínimo de 10m² por litro e adequada para demarcação de linhas de futsal, basquete e vol",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515561 Tinta para demarcação de quadras esportivas:embalagem de 18L, apropriada para piso esportivo interno, com alta aderência e resistência à abrasão, rendimento mínimo de 10m² por litro e adequada para demarcação de linhas de futsal, basquete e voleibol. Tinta de alto desempenho para pisos esportivos, do tipo epóxi, poliuretano ou equivalente, desde que recomendada para tráfego esportivo. Fornecimento acompanhado dos acessórios básicos de aplicação (como pincéis e rolos).",
+              "unidade": "LT.",
+              "quantidade": "18,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "3",
+          "titulo": "9900830443 Poste de voleibol móvel:par, com altura ajustável de 2,00m a 2,43m, adequado para uso esportivo em quadras escolares. Estrutura metálica tubular com tratamento anticorrosivo, dotada de base que permita estabilidade em uso e deslocamento seguro.",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900830443 Poste de voleibol móvel:par, com altura ajustável de 2,00m a 2,43m, adequado para uso esportivo em quadras escolares. Estrutura metálica tubular com tratamento anticorrosivo, dotada de base que permita estabilidade em uso e deslocamento seguro. Sistema de regulagem de altura que possibilite travamento firme nas alturas oficiais da modalidade.Garantia mínima de 12 meses.",
+              "unidade": "PAR",
+              "quantidade": "18,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "5",
+          "titulo": "37152 Placar manual portátil para uso em quadras esportivas:com estrutura leve e dobrável, em material plástico rígido ou metálico, com dígitos de altura mínima de 15cm, sistema tipo flip ou equivalente, permitindo contagem de 0 a 99 pontos por equipe. Di",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37152 Placar manual portátil para uso em quadras esportivas:com estrutura leve e dobrável, em material plástico rígido ou metálico, com dígitos de altura mínima de 15cm, sistema tipo flip ou equivalente, permitindo contagem de 0 a 99 pontos por equipe. Dimensões aproximada: 40cm (L) x 25cm (A) x 15cm (C), Garantia mínima de 12 meses.",
+              "unidade": "UND",
+              "quantidade": "18,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "7",
+          "titulo": "37153 Jogo de chaves inglesas em aço cromo-vanádio:contendo 2 unidades, nos tamanhos aproximados de 10\" e 12\", com acabamento cromado e resistência à corrosão, adequadas para uso em manutenção de equipamentos esportivos.",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37153 Jogo de chaves inglesas em aço cromo-vanádio:contendo 2 unidades, nos tamanhos aproximados de 10\" e 12\", com acabamento cromado e resistência à corrosão, adequadas para uso em manutenção de equipamentos esportivos.",
+              "unidade": "JOG",
+              "quantidade": "2,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "7",
+          "titulo": "37153 Jogo de chaves inglesas em aço cromo-vanádio:contendo 2 unidades, nos tamanhos aproximados de 10\" e 12\", com acabamento cromado e resistência à corrosão, adequadas para uso em manutenção de equipamentos esportivos.",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37153 Jogo de chaves inglesas em aço cromo-vanádio:contendo 2 unidades, nos tamanhos aproximados de 10\" e 12\", com acabamento cromado e resistência à corrosão, adequadas para uso em manutenção de equipamentos esportivos.",
+              "unidade": "JOG",
+              "quantidade": "2,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "9",
+          "titulo": "9900515577 Parafusos em aço inoxidável M8 x 20mm:embalagem com 100 unidades, com resistência à corrosão, adequados para uso em instalações e fixações de equipamentos esportivos em ambientes internos e externos.",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515577 Parafusos em aço inoxidável M8 x 20mm:embalagem com 100 unidades, com resistência à corrosão, adequados para uso em instalações e fixações de equipamentos esportivos em ambientes internos e externos.",
+              "unidade": "CX",
+              "quantidade": "2,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "10",
+          "titulo": "9900515563 Parafusos em aço inoxidável M10 x  20mm:embalagem com 100 unidades, com resistência àcorrosão, adequados para uso em instalações e fixações de equipamentos esportivos em ambientes internos e externos.",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515563 Parafusos em aço inoxidável M10 x 20mm:embalagem com 100 unidades, com resistência àcorrosão, adequados para uso em instalações e fixações de equipamentos esportivos em ambientes internos e externos.",
+              "unidade": "cx",
+              "quantidade": "2,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "11",
+          "titulo": "9900515564 Buchas de nylon para fixação compatíveis com broca de 6mm:embalagem com 50 unidades, adequadas para uso em alvenaria na instalação de equipamentos esportivos.",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515564 Buchas de nylon para fixação compatíveis com broca de 6mm:embalagem com 50 unidades, adequadas para uso em alvenaria na instalação de equipamentos esportivos.",
+              "unidade": "PCT",
+              "quantidade": "2,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "12",
+          "titulo": "9900515565 Buchas de nylon para fixação, compatíveis com broca de 8mm:embalagem com 50 unidades, adequadas para uso em alvenaria na instalação de equipamentos esportivos.",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515565 Buchas de nylon para fixação, compatíveis com broca de 8mm:embalagem com 50 unidades, adequadas para uso em alvenaria na instalação de equipamentos esportivos.",
+              "unidade": "PCT",
+              "quantidade": "2,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "13",
+          "titulo": "9900515566 Buchas de nylon para fixação, compatíveis com broca de 10mm:embalagem com 50 unidades, adequadas para uso em alvenaria na instalação de equipamentos esportivos.",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515566 Buchas de nylon para fixação, compatíveis com broca de 10mm:embalagem com 50 unidades, adequadas para uso em alvenaria na instalação de equipamentos esportivos.",
+              "unidade": "PCT",
+              "quantidade": "2,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "13",
+          "titulo": "9900515566 Buchas de nylon para fixação, compatíveis com broca de 10mm:embalagem com 50 unidades, adequadas para uso em alvenaria na instalação de equipamentos esportivos.",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515566 Buchas de nylon para fixação, compatíveis com broca de 10mm:embalagem com 50 unidades, adequadas para uso em alvenaria na instalação de equipamentos esportivos.",
+              "unidade": "PCT",
+              "quantidade": "2,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "15",
+          "titulo": "37155 Maleta rígida para armazenamento de ferramentas e acessórios:em material plástico de alta resistência ou metálico, com alça reforçada e travas de fechamento. Dimensões externas aproximadas de 45cm x 30cm x 15cm, admitidas pequenas variações que não",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37155 Maleta rígida para armazenamento de ferramentas e acessórios:em material plástico de alta resistência ou metálico, com alça reforçada e travas de fechamento. Dimensões externas aproximadas de 45cm x 30cm x 15cm, admitidas pequenas variações que não prejudiquem a acomodação dos itens de manutenção esportiva.",
+              "unidade": "UND",
+              "quantidade": "2,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "15",
+          "titulo": "37155 Maleta rígida para armazenamento de ferramentas e acessórios:em material plástico de alta resistência ou metálico, com alça reforçada e travas de fechamento. Dimensões externas aproximadas de 45cm x 30cm x 15cm, admitidas pequenas variações que não",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37155 Maleta rígida para armazenamento de ferramentas e acessórios:em material plástico de alta resistência ou metálico, com alça reforçada e travas de fechamento. Dimensões externas aproximadas de 45cm x 30cm x 15cm, admitidas pequenas variações que não prejudiquem a acomodação dos itens de manutenção esportiva.",
+              "unidade": "UND",
+              "quantidade": "2,00",
+              "valor_referencia": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-082-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "408 / 2026",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "PUBLICADO",
+      "condutor": "JONATAS DA SILVA SOUSA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO",
+      "publicacao": "19/05/2026 17:51",
+      "inicio_recepcao": "21/05/2026 08:30",
+      "fim_recepcao": "02/06/2026 11:15",
+      "inicio_disputa": "02/06/2026 11:30",
+      "objeto": "Contratação de empresa especializada em fornecimento de CARRINHOS COLETORES DE LIMPEZA (material permanente),  a fim de atender as demandas da Secretaria Municipal de Educação.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DabLCSlfS_No9w6LXvQyY8CHu_51SSMSulbZ6yqdSSir4q6gnQBzwIWHmjRI4MOt2TB_Knu%2FtqJMueLxY4fJomhTutCUUhnxBSqJZ5hWIlpw%3D",
+      "total_lotes": 1,
+      "total_itens": 1,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "CARRINHOS COLETORES DE LIMPEZA",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900830484 CARRINHO FUNCIONAL DE LIMPEZAPROFISSIONAL:tipo kit completo com coletor de resíduos,destinado à limpeza úmida e seca de pisos em ambientesescolares e administrativos, adequado para superfícies comocerâmica, porcelanato, granilite, paviflex, cimento queimado,entre outros, com estrutura resistente em plástico de altadurabilidade (PEAD ou PP), com design tipo caminhão grande,dotado de compartimentos para organização de utensílios ecaçamba móvel basculante para coleta de resíduos, comcapacidade entre 50 e 120 litros e encaixe para saco ou cesto delixo, equipado com no mínimo 4 (quatro) e até 6 (seis) rodasgiratórias que permitam fácil movimentação e estabilidade, comdimensões mínimas aproximadas de 50 x 22 x 22 cm, devendoacompanhar balde duplo com capacidade mínima de 30 litroscom sistema de espremedor, cabo em alumínio comcomprimento aproximado de 1,40 m, haste tipo euro em materialplástico resistente, refil mop úmido em algodão ou microfibracom gramatura mínima de 300 g, conjunto mop pó com armaçãoe refil com largura mínima de 60 cm, pá coletora de resíduos eplaca sinalizadora de segurança tipo \"piso molhado\",disponibilizado em cores como azul, cinza ou similar, atendendoàs normas aplicáveis da ANVISA e da ABNT para uso emambientes institucionais.",
+              "unidade": "UN",
+              "quantidade": "220,00",
+              "valor_referencia": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-078-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "404 / 2026",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "PUBLICADO",
+      "condutor": "SERGIO CARNEIRO CAVALCANTI DE AZEVEDO",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO PARCELADA",
+      "publicacao": "19/05/2026 15:53",
+      "inicio_recepcao": "21/05/2026 08:30",
+      "fim_recepcao": "03/06/2026 08:15",
+      "inicio_disputa": "03/06/2026 08:30",
+      "objeto": "Contratação de empresa especializada em PRESTAÇÃO DE SERVIÇOS DE TELEFONIA, ABRANGENDO A MODALIDADE STFC (SISTEMA DE TELEFONIA FIXO COMUTADO) E COMUNICAÇÃO POR REDE VOIP/SIP, CONTEMPLANDO AINDA A DISPONIBILIZAÇÃO DOS EQUIPAMENTOS NECESSÁRIOS EM REGIME DE COMODATO,  a fim de atender as demandas da Secretaria Municipal de Administração e demais Secretarias.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DUlewHuKbyeEzbXhQFVdVeYIRb5T5G%2FosJgX5oRcxz4Nt7lfa1Nfr837DZCcNSrlU3VOq%2Fuz2GVOEurQ6cJ02J8WJ76uGNeWjwLyoiZW5_fk%3D",
+      "total_lotes": 1,
+      "total_itens": 8,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "TELEFONIA",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 8,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9903311964 Licença de Ramal:PABX IP em Nuvem (serviço mensal)",
+              "unidade": "SER",
+              "quantidade": "360,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "2",
+              "especificacao": "9903311965 Fornecimento de tronco SIP:com ligações Ilimitadas fixo e Móvel para todo território nacional com 10 canais (10 ligações simultâneas) (serviço mensal) para uso em acesso central PABX NUVEM",
+              "unidade": "SER",
+              "quantidade": "36,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "3",
+              "especificacao": "9903311966 Pacote de acesso ao STFC:bloco com 50 DDR´S (DID-Direct Inward Dialing).",
+              "unidade": "SER",
+              "quantidade": "12,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "4",
+              "especificacao": "9903311967 Sistema Tri dígito:serviço de discagem abreviada (3 dígitos) regulamentado pela Anatel, projetado para facilitar o acesso rápido a serviços de utilidade pública e emergências, garantindo a interoperabilidade na área dos municípios de abrangência do SAMU de Teixeira de Freitas, estado da Bahia.",
+              "unidade": "SER",
+              "quantidade": "48,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "5",
+              "especificacao": "9903311968 Licença de URA:(UNIDADE DE RESPOSTAAUDIVEL) com gravação.",
+              "unidade": "SER",
+              "quantidade": "12,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "6",
+              "especificacao": "37285 Fornecimento de Link:de Redundância não dedicado HALF DUPLEX 500MB/S.",
+              "unidade": "SER",
+              "quantidade": "12,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "7",
+              "especificacao": "9903311969 Serviço de Comodato:em regime de comodato de Aparelho Telefônico IP BASICO (Serviço Mensal).",
+              "unidade": "SER",
+              "quantidade": "360,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "8",
+              "especificacao": "9903311970 Serviço de Migração:implantação instalação e configuração",
+              "unidade": "SER",
+              "quantidade": "1,00",
+              "valor_referencia": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-071-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "437 / 2026",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "PUBLICADO",
+      "condutor": "JONATAS DA SILVA SOUSA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO PARCELADA",
+      "publicacao": "19/05/2026 15:36",
+      "inicio_recepcao": "21/05/2026 08:30",
+      "fim_recepcao": "02/06/2026 09:15",
+      "inicio_disputa": "02/06/2026 09:30",
+      "objeto": "Contratação de empresa especializada em fornecimento de EQUIPAMENTOS HOSPITALARES (material permanente),  a fim de atender as demandas da Secretaria Municipal de Saúde.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DUD6klnOpvaO8moswbZMeHQQrw_zcbRWdK7PTPTxMtRW3n76uJijiWh5ZtnRr58vGoF7XaaOIwNMK32Fs9dgigdOPxr%2F2Bgo9eq4QL0N4L1c%3D",
+      "total_lotes": 12,
+      "total_itens": 12,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "37305 CAMA HOSPITALAR COM RODAS:Cama Hospitalar;Movimentos: Elevação dorsal, Fowler, Semi-fowler, Flexão de pernas, Cardíaco e Sentado; Regulagem de altura (0,53x70); Acionamento através de manivelas; Estrutura em Aço carbono com tratamento antiferrugino",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37305 CAMA HOSPITALAR COM RODAS:Cama Hospitalar;Movimentos: Elevação dorsal, Fowler, Semi-fowler, Flexão de pernas, Cardíaco e Sentado; Regulagem de altura (0,53x70); Acionamento através de manivelas; Estrutura em Aço carbono com tratamento antiferruginoso e acabamento em pintura eletrostática a pó; Cabeceiras removíveis em material injetado decorativo-Grades laterais material termoplástico injetado; Rodízios de 3 sendo dois com freios em diagonal; CAPACIDADE DE CARGA: 150 kg distribuídos sob o leito. ANGULOS: DORSO: 75° 1 PERNA: 44° DIMENSÕES EXTERNAS: 203cm x 110cm. DIMENSÕES INTERNAS: 190cm x 90cm. ALTURA MÍNIMA: 45cm. ALTURA MÁXIMA: 75cm. PESO: 65 kg.",
+              "unidade": "UND",
+              "quantidade": "27,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "2",
+          "titulo": "37306 CARRO DE EMERGÊNCIA:Fabricado em aço carbono com tratamento anticorrosão e pintura epóxi de alta resistência. Quatro rodízios em poliuretano (75 mm de diâmetro), sendo dois com freio. Quatro gavetas com corrediças e com lacre único através do suport",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37306 CARRO DE EMERGÊNCIA:Fabricado em aço carbono com tratamento anticorrosão e pintura epóxi de alta resistência. Quatro rodízios em poliuretano (75 mm de diâmetro), sendo dois com freio. Quatro gavetas com corrediças e com lacre único através do suporte de soro. Suporte para cilindro em aço.Divisória para medicamentos na primeira gaveta. Bandeja superior giratória 360 graus para acomodação de equipamentos com pintura eletrostática. Tampo em aço inox 304 para manipulação de medicamentos, com gradil de proteção nos lados e ao fundo. Tábua para massagem cardíaca em polipropileno com suporte de fixação. Para-choque de borracha. Suporte de soro de altura ajustável em aço INOX. Dimensões (com a bandeja giratória montada): Altura: 1050 mm Largura: 500mm. Comprimento: 700 mm Peso: 27 Kg. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "2,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "3",
+          "titulo": "37307 CARRO MACA SIMPLES:Carro maca hospitalar, para transporte de paciente, estofado removível e cabeceira móvel estruturada em tubos de aço inoxidável, leito em aço inox, e acabamento polido, rodas giratórias revestidos em borracha de 5 a 6 de diâmetro",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37307 CARRO MACA SIMPLES:Carro maca hospitalar, para transporte de paciente, estofado removível e cabeceira móvel estruturada em tubos de aço inoxidável, leito em aço inox, e acabamento polido, rodas giratórias revestidos em borracha de 5 a 6 de diâmetro sendo duas com sistema de freio dupla ação contra choque em toda volta. Grades laterais tubular de baixar dos dois lados em aço inoxidável com sistema de engate rápido. Para-choque em pvc em toda a volta do leito resistente a impacto, leito com cabeceira regulável; deve possuir no mínimo duas manivelas escamoteáveis para elevação de altura do leito. Ter suporte de soro confeccionado em aço inoxidável.Dimensões mínimas 1,90m (comprimento) x 0,50m (largura). Registro no ministério da saúde. EXCLSUIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "2,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "4",
+          "titulo": "9900830490 DESFIBRILADOR:O Monitor Cardioversor Desfibrilador Bifásico, tem a função Prevenção de Morte Súbita (PMS), que permite o monitoramento contínuo do paciente e identifica o início de um episódio de Fibrilação Ventricular ou Taquicardia Ventricula",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900830490 DESFIBRILADOR:O Monitor Cardioversor Desfibrilador Bifásico, tem a função Prevenção de Morte Súbita (PMS), que permite o monitoramento contínuo do paciente e identifica o início de um episódio de Fibrilação Ventricular ou Taquicardia Ventricular Rápida, apresentando, um alarme visual e sonoro, alertando a equipe e permitindo que o paciente seja tratado com choque em tempo muito menor, aumentando significativamente as chances de reversão da parada cardiorrespiratória. A função de Auto Sequência de Carga - quando habilitada, permite a configuração prévia de energias pelo usuário para o primeiro, segundo e terceiro choques, sem necessidade de alteração manual do seletor. O equipamento também conta com a nova tecnologia CTR - Checagem em Tempo Real que realiza autodiagnóstico e informa, antecipadamente, se existe qualquer ação de manutenção a ser realizada, garantindo que estará sempre disponível para uso imediato. ESPECIFICAÇÕES GERAIS Dimensões com pás: 30,0 cm (largura). 21,5 cm (profundidade). 28,0 cm (altura).Peso:Aparelho - 5,15 Kg. Bateria Li-lon - 0,60 Kg. Pás externas - 0,85 Kg. Equipamento completo (bateria Li-lon) - 6,60 Kg (exceto PANI). Elétrico: AC: 100 a 240 VAC, 50/60 Hz (seleção automática). DC externo: 11 a 16 VDC. Bateria recarregável removível: Tipo: Li-lon, 14,8 VDC 4,4 A/h. Duração: Bateria com carga plena - 3 horas em modo monitor, sem impressora ou um mínimo de 140 choques em 360 joules ou um mínimo de 200 choques em 200 joules. Tempo de carga completa da bateria (completamente descarregada): 4:30 horas. Memória:Tipo: Flash Nand. Capacidade: 2 Mbytes. Pacientes armazenados: > 150 pacientes. Armazenagem: 15 segundos de ECG quando em choque, alarme fisiológico e eventos do painel. ECG: gravação de 2 horas contínuas da curva de ECG, quando em modo DEA.CTR - Checagem em Tempo Real (disponível quando equipado com bateria opcional tipo Li-lon): Auto-diagnóstico de desfibrilação, nível de bateria, pás conectadas e verificação da ligação do aparelho à rede elétrica. Checagem realizada em 3 horários pré-configurados. Transmissão destas informações, sem fio, para PC com software do Sistema CTR instalado e aoalcance da rede. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "2,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "5",
+          "titulo": "37308 Escada com Dois Degraus e Piso  Antiderrapante:Armação em tubos redondos de 3/4 com pintura epóxi reforçada. Degrau revestido com material sintético antiderrapante. Pés com ponteira de pvc. Dimensões externas aproximadas: comprimento 0,38cm x largur",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37308 Escada com Dois Degraus e Piso Antiderrapante:Armação em tubos redondos de 3/4 com pintura epóxi reforçada. Degrau revestido com material sintético antiderrapante. Pés com ponteira de pvc. Dimensões externas aproximadas: comprimento 0,38cm x largura 0,37cm x 0,41cm de altura. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "13,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "6",
+          "titulo": "9900830491 Maca Tubular com Cabeceira Regulável. Modelo: fixa. Estrutura em aço carbono 1020. Revestimento da estrutura:pintura epóxi. Espuma ortopédica de alta resiliência com densidade D33. Revestimento em courvin sintético.Cabeceira reclinável: ângulo",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900830491 Maca Tubular com Cabeceira Regulável. Modelo: fixa. Estrutura em aço carbono 1020. Revestimento da estrutura:pintura epóxi. Espuma ortopédica de alta resiliência com densidade D33. Revestimento em courvin sintético.Cabeceira reclinável: ângulo de 452 para regulagem. Medidas; 192,5x65x81 cm aprox. Peso máximo suportado: 140 kg.EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "2,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "7",
+          "titulo": "37309 MESA CABECEIRA FECHADA:Mesa Cabeceira Fechada com 1 gaveta e 1 porta; Cor: Branco; O item deve possuir 01 (uma) gaveta superior e 01 (uma) porta inferior com 01 (uma) prateleira interna, totalmente em pintura epóxi. O móvel deve ser dotado de pés co",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37309 MESA CABECEIRA FECHADA:Mesa Cabeceira Fechada com 1 gaveta e 1 porta; Cor: Branco; O item deve possuir 01 (uma) gaveta superior e 01 (uma) porta inferior com 01 (uma) prateleira interna, totalmente em pintura epóxi. O móvel deve ser dotado de pés com rodízios para facilitar o deslocamento.Dimensões externas aproximadas de 0,45m de comprimento, 0,40m de largura/profundidade e 0,80m de altura, com peso estimado de 18kg. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "28,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "7",
+          "titulo": "37309 MESA CABECEIRA FECHADA:Mesa Cabeceira Fechada com 1 gaveta e 1 porta; Cor: Branco; O item deve possuir 01 (uma) gaveta superior e 01 (uma) porta inferior com 01 (uma) prateleira interna, totalmente em pintura epóxi. O móvel deve ser dotado de pés co",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37309 MESA CABECEIRA FECHADA:Mesa Cabeceira Fechada com 1 gaveta e 1 porta; Cor: Branco; O item deve possuir 01 (uma) gaveta superior e 01 (uma) porta inferior com 01 (uma) prateleira interna, totalmente em pintura epóxi. O móvel deve ser dotado de pés com rodízios para facilitar o deslocamento.Dimensões externas aproximadas de 0,45m de comprimento, 0,40m de largura/profundidade e 0,80m de altura, com peso estimado de 18kg. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "28,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "9",
+          "titulo": "37311 SUPORTE PARA SORO:altura regulável, construído em tubos inox 7/8\" x 0,9mm de espessura, quadripé fundido com rodízios, haste em tubos inox de ¾\" x 0,9 mm com 4 ganchos em \"X\" na parte superior. Altura mínima: 1,57m e Altura máxima: 2,10m. EXCLUSIVO",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37311 SUPORTE PARA SORO:altura regulável, construído em tubos inox 7/8\" x 0,9mm de espessura, quadripé fundido com rodízios, haste em tubos inox de ¾\" x 0,9 mm com 4 ganchos em \"X\" na parte superior. Altura mínima: 1,57m e Altura máxima: 2,10m. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "37,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "10",
+          "titulo": "9900830492 VENTILADOR PULMONAR MICROPROCESSADO- MODOS VENTILATÓRIOS ADULTO / PEDIÁTRICO:VCVassistido / controlado; PCV assistido / controlado; PSV/CPAP; PRVC assistido / controlado; SIMV(VCV) + PSV; SIMV(PCV) + PSV; time automático; Ventilação não invas",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900830492 VENTILADOR PULMONAR MICROPROCESSADO- MODOS VENTILATÓRIOS ADULTO / PEDIÁTRICO:VCVassistido / controlado; PCV assistido / controlado; PSV/CPAP; PRVC assistido / controlado; SIMV(VCV) + PSV; SIMV(PCV) + PSV; time automático; Ventilação não invasiva; Compensação de fulgas; Leitura de fluxo proximal; Função O2 100%; Tendências de 24h; Sensibilidade inspiratória de fluxo ou pressão; Bateria de 15h; Cálculo automático do peso teórico; Interface intuitiva; Interface personalizável com memória.CARACTERÍSTICAS ESPECIAIS: Hora e data atual; Hora e data do equipamento ligado; Bloqueio da tela touch screen; Indicador gráfico de fonte externa e bateria Indicador do nível de carga da bateria; Barras indicadoras de faixa de ajuste dos parâmetros; Barra gráfica da pressão ventilatória com indicador do nível dos alarmes; Leitura da FiO2 por célula galvânica ou pneumotacógrafo; Símbolo para Stand by; Símbolo para histórico de alarme MMV + PSV; PSV + VT assegurado; Pressão bifásica (APRV); VNI. NEONATAL: VCV assistido / controlado; PCV assistido / controlado; PSV/CPAP; SIMV(PCV) + PSV; Fluxo contínuo assistido / controlado; CPAP Nasal.CONFIGURAÇÕES ESPECIAIS: Ventilação Neonatal; Configuração do paciente; Mecânicas Ventilatórias; FiO2 50 a 100%; Compensação de altitude; Ajuste do volume; Histórico de alarmes; Rise.",
+              "unidade": "UND",
+              "quantidade": "6,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "11",
+          "titulo": "9900830493 CAMA HOSPITALAR COM RODAS:CamaHospitalar; Movimentos: Elevação dorsal, Fowler, Semi-fowler, Flexão de pernas, Cardíaco e Sentado; Regulagem de altura (0,53x70); Acionamento através de manivelas; Estrutura em Aço carbono com tratamento antiferr",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900830493 CAMA HOSPITALAR COM RODAS:CamaHospitalar; Movimentos: Elevação dorsal, Fowler, Semi-fowler, Flexão de pernas, Cardíaco e Sentado; Regulagem de altura (0,53x70); Acionamento através de manivelas; Estrutura em Aço carbono com tratamento antiferruginoso e acabamento em pintura eletrostática a pó; Cabeceiras removíveis em material injetado decorativo-Grades laterais material termoplástico injetado; Rodízios de 3 sendo dois com freios em diagonal; CAPACIDADE DE CARGA: 150 kg distribuídos sob o leito.ANGULOS: DORSO: 75° 1 PERNA: 44° DIMENSÕES EXTERNAS: 203cm x 110cm. DIMENSÕES INTERNAS: 190cm x 90cm. ALTURA MÍNIMA: 45cm. ALTURA MÁXIMA: 75cm. PESO: 65 kg. COTA DE 25% RESERVADA PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "8,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "12",
+          "titulo": "9900830495 VENTILADOR PULMONAR MICROPROCESSADO- MODOS VENTILATÓRIOS: ADULTO / PEDIÁTRICO:VCVassistido / controlado; PCV assistido / controlado; PSV/CPAP; PRVC assistido / controlado; SIMV(VCV) + PSV; SIMV(PCV) + PSV; time automático; Ventilação não inva",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900830495 VENTILADOR PULMONAR MICROPROCESSADO- MODOS VENTILATÓRIOS: ADULTO / PEDIÁTRICO:VCVassistido / controlado; PCV assistido / controlado; PSV/CPAP; PRVC assistido / controlado; SIMV(VCV) + PSV; SIMV(PCV) + PSV; time automático; Ventilação não invasiva; Compensação de fulgas; Leitura de fluxo proximal; Função O2 100%; Tendências de 24h; Sensibilidade inspiratória de fluxo ou pressão; Bateria de 15h; Cálculo automático do peso teórico; Interface intuitiva; Interface personalizável com memória.CARACTERÍSTICAS ESPECIAIS: Hora e data atual; Hora e data do equipamento ligado; Bloqueio da tela touch screen; Indicador gráfico de fonte externa e bateria Indicador do nível de carga da bateria; Barras indicadoras de faixa de ajuste dos parâmetros; Barra gráfica da pressão ventilatória com indicador do nível dos alarmes; Leitura da FiO2 por célula galvânica ou pneumotacógrafo; Símbolo para Stand by; Símbolo para histórico de alarme MMV + PSV; PSV + VT assegurado; Pressão bifásica (APRV); VNI. NEONATAL: VCV assistido / controlado; PCV assistido / controlado; PSV/CPAP; SIMV(PCV) + PSV; Fluxo contínuo assistido / controlado; CPAP Nasal.CONFIGURAÇÕES ESPECIAIS: Ventilação Neonatal; Configuração do paciente; Mecânicas Ventilatórias; FiO2 50 a 100%; Compensação de altitude; Ajuste do volume; Histórico de alarmes; Rise. COTA DE 25% RESERVADA PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "1,00",
+              "valor_referencia": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-070-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "106 / 2026",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "PUBLICADO",
+      "condutor": "SERGIO CARNEIRO CAVALCANTI DE AZEVEDO",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO PARCELADA",
+      "publicacao": "19/05/2026 15:06",
+      "inicio_recepcao": "21/05/2026 08:30",
+      "fim_recepcao": "02/06/2026 08:15",
+      "inicio_disputa": "02/06/2026 08:30",
+      "objeto": "Contratação de empresa especializada em fornecimento de ÓRTESES, PRÓTESES E MATERIAIS ESPECIAIS (OPME), (material de consumo),  a fim de atender as demandas da Secretaria Municipal de Saúde.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DeaIkgf4bTJoANzNZeJVOSzLRDPO9l6c6ei2DjX8UjyO%2F8nYG5hTtU_qeSmU8C3e7MASL3F1jINx_ndIDGWlCf6K2hFROzzgA3M%2FFEVnaFmw%3D",
+      "total_lotes": 11,
+      "total_itens": 11,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "36844 BENGALA ARTICULADA:bengalas de alumínio com pontas de borracha cabo anatômico, articulada para pessoas com deficiência visual. (diversos tamanhos). EXCLUSIVO PARA ME/EPP.",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "36844 BENGALA ARTICULADA:bengalas de alumínio com pontas de borracha cabo anatômico, articulada para pessoas com deficiência visual. (diversos tamanhos). EXCLUSIVO PARA ME/EPP.",
+              "unidade": "Und.",
+              "quantidade": "200,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "2",
+          "titulo": "9900515599 LUPAS DE APOIO SEM ILUMINAÇÃO:lupas comsuporte de mesa ou pescoço com lentes esféricas ou asféricas positivas para ampliação da imagem, com diferentes poderes dióptricos. (diversos graus). EXCLUSIVO PARA ME/EPP.",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515599 LUPAS DE APOIO SEM ILUMINAÇÃO:lupas comsuporte de mesa ou pescoço com lentes esféricas ou asféricas positivas para ampliação da imagem, com diferentes poderes dióptricos. (diversos graus). EXCLUSIVO PARA ME/EPP.",
+              "unidade": "Und.",
+              "quantidade": "100,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "3",
+          "titulo": "9900515333 LUPAS DE APOIO COM ILUMINAÇÃO:lupas comsuporte de mesa ou pescoço com lentes esféricas ou asféricas positivas para ampliação da imagem, com diferentes poderes dióptricos. (diversos graus). EXCLUSIVO PARA ME/EPP.",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515333 LUPAS DE APOIO COM ILUMINAÇÃO:lupas comsuporte de mesa ou pescoço com lentes esféricas ou asféricas positivas para ampliação da imagem, com diferentes poderes dióptricos. (diversos graus). EXCLUSIVO PARA ME/EPP.",
+              "unidade": "Und.",
+              "quantidade": "100,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "4",
+          "titulo": "9900515334 LENTE ESCLERAL PINTADA:lente escleralpintada, transparente para recomposição estética do globo ocular para pacientes que sofrem traumatismo. (diversos graus).",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515334 LENTE ESCLERAL PINTADA:lente escleralpintada, transparente para recomposição estética do globo ocular para pacientes que sofrem traumatismo. (diversos graus).",
+              "unidade": "Und.",
+              "quantidade": "150,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "5",
+          "titulo": "9900515600 LUPAS MANUAL COM ILUMINAÇÃO:lupas demão com lentes esféricas ou asféricas positivas para ampliação da imagem, com diferentes poderes dióptricos. (Diversos graus). EXCLUSIVO PARA ME/EPP.",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515600 LUPAS MANUAL COM ILUMINAÇÃO:lupas demão com lentes esféricas ou asféricas positivas para ampliação da imagem, com diferentes poderes dióptricos. (Diversos graus). EXCLUSIVO PARA ME/EPP.",
+              "unidade": "Und.",
+              "quantidade": "100,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "6",
+          "titulo": "9900515335 LUPAS MANUAL SEM ILUMINAÇÃO:lupas de mãocom lentes esféricas ou asféricas positivas para ampliação da imagem, com diferentes poderes dióptricos. (Diversos graus). EXCLUSIVO PARA ME/EPP.",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515335 LUPAS MANUAL SEM ILUMINAÇÃO:lupas de mãocom lentes esféricas ou asféricas positivas para ampliação da imagem, com diferentes poderes dióptricos. (Diversos graus). EXCLUSIVO PARA ME/EPP.",
+              "unidade": "Und.",
+              "quantidade": "100,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "6",
+          "titulo": "9900515335 LUPAS MANUAL SEM ILUMINAÇÃO:lupas de mãocom lentes esféricas ou asféricas positivas para ampliação da imagem, com diferentes poderes dióptricos. (Diversos graus). EXCLUSIVO PARA ME/EPP.",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515335 LUPAS MANUAL SEM ILUMINAÇÃO:lupas de mãocom lentes esféricas ou asféricas positivas para ampliação da imagem, com diferentes poderes dióptricos. (Diversos graus). EXCLUSIVO PARA ME/EPP.",
+              "unidade": "Und.",
+              "quantidade": "100,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "8",
+          "titulo": "36845 PRÓTESE OCULAR:prótese utilizada para recomposição estética da anatomia da fenda palpebral. Diversos Tamanhos.EXCLUSIVO PARA ME/EPP.",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "36845 PRÓTESE OCULAR:prótese utilizada para recomposição estética da anatomia da fenda palpebral. Diversos Tamanhos.EXCLUSIVO PARA ME/EPP.",
+              "unidade": "Und.",
+              "quantidade": "50,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "9",
+          "titulo": "9900515337 SISTEMAS TELESCÓPICOS BINOCULARES MONTADOS EM ARMAÇÃO COM FOCO AJUSTÁVEL:sistematelescópico binocular, montado em armações similares a óculos, com ampliações de 2x a 4x e diâmetro variável de objetiva. Para emprego para longe ou para perto. O",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515337 SISTEMAS TELESCÓPICOS BINOCULARES MONTADOS EM ARMAÇÃO COM FOCO AJUSTÁVEL:sistematelescópico binocular, montado em armações similares a óculos, com ampliações de 2x a 4x e diâmetro variável de objetiva. Para emprego para longe ou para perto. O ajuste de foco é manual. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "Und.",
+              "quantidade": "30,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "10",
+          "titulo": "36846 SISTEMAS TELESCÓPICOS MANUAL MONOCULARCOM FOCO AJUSTÁVEL:sistema telescópico monocular, com ampliações de 2x a 8x com diâmetros variados de objetiva e com ajuste manual do foco. Para emprego no melhor olho e para atividades para longe ou para perto",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "36846 SISTEMAS TELESCÓPICOS MANUAL MONOCULARCOM FOCO AJUSTÁVEL:sistema telescópico monocular, com ampliações de 2x a 8x com diâmetros variados de objetiva e com ajuste manual do foco. Para emprego no melhor olho e para atividades para longe ou para perto. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "Und.",
+              "quantidade": "30,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "11",
+          "titulo": "9900515604 LENTE ESCLERAL PINTADA:lente escleralpintada, transparente para recomposição estética do globo ocular para pacientes que sofrem traumatismo. (diversos graus) COTA DE 25% RESERVADA PARA ME/EPP.",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515604 LENTE ESCLERAL PINTADA:lente escleralpintada, transparente para recomposição estética do globo ocular para pacientes que sofrem traumatismo. (diversos graus) COTA DE 25% RESERVADA PARA ME/EPP.",
+              "unidade": "Und.",
+              "quantidade": "50,00",
+              "valor_referencia": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3-DLE-030-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "184 / 2026",
+      "modalidade": "DISPENSA ELETRÔNICA",
+      "situacao": "RECEPÇÃO DE PROPOSTAS",
+      "condutor": "ISLA LIMA SILVA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO",
+      "publicacao": "19/05/2026 13:40",
+      "inicio_recepcao": "19/05/2026 13:45",
+      "fim_recepcao": "25/05/2026 08:15",
+      "inicio_disputa": "25/05/2026 08:30",
+      "objeto": "Contratação de empresa especializada em fornecimento de [DISPOSITIVOS DE ELETROESTIMULAÇÃO E SEUS\nCOMPONENTES (material permanente], a fim de atender as necessidades da Secretaria Municipal de Saúde.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5Dqp9fEpW1KiaeyUEALxquM1PDWD_WUmBNCjHr91IEGl2b5kS7y3hqGNCMeuVroCaAQCPo07N7o7I4_ME8JDouZXIkM8donmj9_1i_%2FG%2FNH_w%3D",
+      "total_lotes": 3,
+      "total_itens": 3,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "9900515367 Estimulador neuromuscular transcutâneo destinado aos tratamentos de reabilitação física:Composto pelas correntes: TENS (estimulação elétrica transcutânea, Transcutaneous Electrical Nerve Stimulation), FES (estimulação elétrica  funcional, Funct",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "10.620,24",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515367 Estimulador neuromuscular transcutâneo destinado aos tratamentos de reabilitação física:Composto pelas correntes: TENS (estimulação elétrica transcutânea, Transcutaneous Electrical Nerve Stimulation), FES (estimulação elétrica funcional, Functional Electrical Stimulation) e russa. 04 canais, voltagem: Bivolt 100/220. 50/60Hz. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "Und.",
+              "quantidade": "6,00",
+              "valor_referencia": "1.770,04"
+            }
+          ]
+        },
+        {
+          "numero": "2",
+          "titulo": "9900515386 Kit de cabos de conexão para eletroestimulação:destinado à condução de corrente elétrica entre o equipamento de estimulação elétrica nervosa transcutânea (TENS/FES) e os eletrodos. 02 unidades Laranja/Preto e Azul/Verde; Pinos Correntes/ Banana",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "1.998,20",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515386 Kit de cabos de conexão para eletroestimulação:destinado à condução de corrente elétrica entre o equipamento de estimulação elétrica nervosa transcutânea (TENS/FES) e os eletrodos. 02 unidades Laranja/Preto e Azul/Verde; Pinos Correntes/ Banana; Plug DB9 9 pinos; Medida do cabo 1,5 mts, com eletrodos de silicone.Compatível com o modelo Neurodyn ll da Ibramed. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "KIT",
+              "quantidade": "20,00",
+              "valor_referencia": "99,91"
+            }
+          ]
+        },
+        {
+          "numero": "3",
+          "titulo": "9900515387 Equipamento de ultrassom microcontrolado para fisioterapia:operando nas frequências de 1 MHz e 3 MHz, com modos de emissão contínuo e pulsado. Deve apresentar intensidade ajustável, temporizador digital e display para controle de parâmetros. O",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "11.839,20",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515387 Equipamento de ultrassom microcontrolado para fisioterapia:operando nas frequências de 1 MHz e 3 MHz, com modos de emissão contínuo e pulsado. Deve apresentar intensidade ajustável, temporizador digital e display para controle de parâmetros. O transdutor deve possuir ERA (Área de Radiação Efetiva) compatível com uso clínico e ser vedado para aplicações subaquáticas. Alimentação elétrica bivolt compatível com a rede nacional, acompanhado de todos os acessórios necessários ao pleno funcionamento e obrigatoriamente com registro ativo na ANVISA e certificado de conformidade técnica NBR IEC 60601. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "Und.",
+              "quantidade": "6,00",
+              "valor_referencia": "1.973,20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3-DLE-048-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "472 / 2026",
+      "modalidade": "DISPENSA ELETRÔNICA",
+      "situacao": "ADJUDICADO",
+      "condutor": "ISLA LIMA SILVA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO",
+      "publicacao": "08/05/2026 11:52",
+      "inicio_recepcao": "08/05/2026 11:55",
+      "fim_recepcao": "14/05/2026 08:45",
+      "inicio_disputa": "14/05/2026 09:00",
+      "objeto": "Contratação de empresa especializada na prestação de serviço de [MANUTENÇÃO PREVENTIVA DE EQUIPAMENTOS DE DIAGNÓSTICO AUDIOLÓGICO, INCLUINDO ATENDIMENTO TÉCNICO IN LOCO], a fim de atender as necessidades da Secretaria Municipal de Saúde.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5D9e5rz4TLWpoeH4ZcGbCwIaBGpJWW_q%2FyQ4d46xoQb8pV_RJ2nlY5%2F2dvTczFigNlPotSSplPxhxd7R_zxHS8o1%2F6OsUJVP9DgPKY8X7z3eY%3D",
+      "total_lotes": 1,
+      "total_itens": 5,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "MANUTENÇÃO PREVENTIVA DE EQUIPAMENTOS DE DIAGNÓSTICO AUDIOLÓGICO",
+          "fase": "ADJUDICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "10.007,56",
+          "vencedor": "Z-9 ENGENHARIA LTDA",
+          "melhor_oferta": "10.007,56",
+          "total_itens": 5,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9902900151 Manutenção/calibração de equipamentos para Audiometria:Modelo AC40 Clinical Audiometer Interacoustics, 2 canais",
+              "unidade": "SER",
+              "quantidade": "1,00",
+              "valor_referencia": "2.061,56"
+            },
+            {
+              "numero": "2",
+              "especificacao": "9902900152 Manutenção/calibração de equipamentos Amplificadores para Audiometria em Campo Livre:(Free Field Amplifier) - Modelo FF-70/2",
+              "unidade": "SER",
+              "quantidade": "2,00",
+              "valor_referencia": "863,47"
+            },
+            {
+              "numero": "3",
+              "especificacao": "36840 Manutenção/calibração de equipamentos Impedanciômetro:Modelo AT235 by Interacoustics",
+              "unidade": "SER",
+              "quantidade": "2,00",
+              "valor_referencia": "1.660,08"
+            },
+            {
+              "numero": "4",
+              "especificacao": "36841 Manutenção/calibração de cabines para Audiometria:Auditec",
+              "unidade": "SER",
+              "quantidade": "2,00",
+              "valor_referencia": "604,64"
+            },
+            {
+              "numero": "5",
+              "especificacao": "36842 Manutenção/calibração de equipamento de Emissões Otoacústicas Evocadas (EOA) portátil:Modelo OtoRead Interacoustics",
+              "unidade": "SER",
+              "quantidade": "1,00",
+              "valor_referencia": "1.689,62"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-073-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "202 / 2026",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "JULGAMENTO",
+      "condutor": "SERGIO CARNEIRO CAVALCANTI DE AZEVEDO",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO",
+      "publicacao": "05/05/2026 13:34",
+      "inicio_recepcao": "07/05/2026 08:30",
+      "fim_recepcao": "19/05/2026 08:15",
+      "inicio_disputa": "19/05/2026 08:30",
+      "objeto": "Contratação de empresa especializada em fornecimento de VEÍCULOS TIPO PICAPE CABINE DUPLA (bens permanentes), a fim de atender as demandas da Secretaria Municipal de Educação.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5Db3fYlzfT_q7xuN%2FUA0IcY7st9VXfKGRe9NlMutXeVGxTX_bnrjWVtc_2zBqrbvdeiYlFOUiNUpcOWT_Rl7K3PJ0HrwSn18w7awUumm4HeUE%3D",
+      "total_lotes": 1,
+      "total_itens": 1,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "VEICULOS TIPO PICAPE",
+          "fase": "JULGAMENTO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "542.018,80",
+          "vencedor": "SIGMA MAQUINAS E REPRESENTACOES LTDA",
+          "melhor_oferta": "517.500,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "73973900009 Veículo automotor zero quilômetro, tipo picapeleve/compacta:com cabine dupla, 4 portas, capacidade para 5(cinco) ocupantes incluindo o motorista. Ano defabricação/modelo 2026, combustível tipo flex (álcool/gasolina),motorização mínima de 1.3L (ou superior), potência mínima107cv. Tração 4x2, câmbio manual ou automático, com, nomínimo, 5 (cinco) marchas à frente (ou conforme tecnologiadisponível em câmbio automático), visando melhor desempenho,segurança e economia de combustível. Veículo dotado dedireção com assistência elétrica, sistema de freios com ABS eEBD (ou equivalente), airbag frontal para motorista e passageiro,cintos de segurança de 3 (três) pontos para todos os ocupantes(quando aplicável) e encostos de cabeça, atendendointegralmente às normas de segurança vigentes. Vidros elétricosnas portas dianteiras e traseiras, travas elétricas nas portas comtravamento central e acionamento por meio de comando internoe pela chave ou dispositivo equivalente. Sistema de arcondicionado frio/quente, com difusores frontais, adequado aoconforto térmico dos ocupantes, com comandos de fácil acessoao motorista. Carroceria com caçamba traseira aberta, comcapacidade de carga mínima de 600kg, dotada de protetor decaçamba (forração ou protetor em material plástico ou similar),capota marítima ou equivalente, ganchos ou pontos deamarração de carga conforme projeto do fabricante, permitindo otransporte de materiais leves, equipamentos, mobiliários depequeno porte, materiais pedagógicos e insumos administrativos.Sistema multimídia, no mínimo, conexão Bluetooth e rádio, altofalantes instalados, entrada USB ou equivalente, painel deinstrumentos com indicadores básicos (velocímetro, marcador decombustível, hodômetro, luzes de advertência) e computador debordo. Comando interno e elétricos para regulagem deretrovisores externos, desembaçador do vidro traseiro (quandoaplicável), limpador e lavador de para-brisa dianteiro comtemporizador. Equipado, no mínimo, com sensor deestacionamento traseiro e câmera de ré (admite-se um dos doisou ambos), faróis com regulagem de foco (manual ou elétrica,conforme projeto de fábrica), iluminação traseira completa, luz defreio elevada, aviso sonoro de faróis acesos e/ou portas abertas,conforme configuração de série. Bancos revestidos em courosintético de fábrica ou material similar, banco do motorista comajuste de distância e inclinação, porta-objetos distribuídos nopainel...(VIDE O ANEXO DO TERMO).",
+              "unidade": "UN",
+              "quantidade": "4,00",
+              "valor_referencia": "135.504,70"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-072-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "269 / 2026",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "FRACASSADO",
+      "condutor": "JONATAS DA SILVA SOUSA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO PARCELADA",
+      "publicacao": "04/05/2026 10:51",
+      "inicio_recepcao": "06/05/2026 08:30",
+      "fim_recepcao": "19/05/2026 08:15",
+      "inicio_disputa": "19/05/2026 08:30",
+      "objeto": "Contratação de empresa especializada em fornecimento de DOCES (material de consumo), a fim de atender as demandas da Secretaria Municipal de Educação.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5Drs_tRAL0Zf%2Fx0TIFc6FHfDGIy%2FTqV6BWlqTJGjA6VO3TBT62GEfpxaHQvIzRy344NP7brRQfG9jQUh9zGVidDXFsxVpFDdIgUcT86tjt0SA%3D",
+      "total_lotes": 8,
+      "total_itens": 8,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "37141 Bombom tipo wafer recheado com creme de castanha de caju e cobertura de chocolate:Produto alimentício do tipo bombom à base de wafer crocante, com recheio cremoso sabor castanha de caju, coberto com chocolate ao leite ou similar, apresentando textur",
+          "fase": "FRACASSADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "7.126,80",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37141 Bombom tipo wafer recheado com creme de castanha de caju e cobertura de chocolate:Produto alimentício do tipo bombom à base de wafer crocante, com recheio cremoso sabor castanha de caju, coberto com chocolate ao leite ou similar, apresentando textura que combina crocância do wafer com cremosidade do recheio, sabor marcante e homogêneo, próprio para consumo humano. Deverá ser elaborado com ingredientes de boa qualidade, contendo, entre outros, derivados de trigo, leite e castanha de caju, podendo conter soja, amendoim e traços de glúten, conforme rotulagem do fabricante. Embalagem primária: bombons embalados individualmente, em invólucro apropriado para alimentos, íntegro, sem rasgos, furos ou sinais de violação. Embalagem secundária: pacote com peso líquido de 1 kg, devendo constar, a identificação clara do produto, marca, peso líquido, lote, data de fabricação e validade. Produto pronto para consumo, isento de corpos estranhos, sujidades, umidade excessiva, deformações acentuadas ou sinais de deterioração. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "PCT",
+              "quantidade": "120,00",
+              "valor_referencia": "59,39"
+            }
+          ]
+        },
+        {
+          "numero": "2",
+          "titulo": "37142 Bombom tipo wafer recheado com creme de chocolate meio amargo e flocos de arroz, coberto com chocolate branco:Produto alimentício do tipo bombom wafer, composto por camadas de wafer crocante, recheio cremoso sabor chocolate meio amargo com flocos de",
+          "fase": "FRACASSADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "7.900,80",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37142 Bombom tipo wafer recheado com creme de chocolate meio amargo e flocos de arroz, coberto com chocolate branco:Produto alimentício do tipo bombom wafer, composto por camadas de wafer crocante, recheio cremoso sabor chocolate meio amargo com flocos de arroz e cobertura de chocolate branco, conferindo contraste de sabores e texturas, adequado ao consumo individual. Deverá apresentar textura crocante do wafer e dos flocos de arroz, combinada à cremosidade do recheio, sabor característico de chocolate meio amargo e chocolate branco, isento de odores ou sabores estranhos e de sinais de rancificação. Embalagem primária: unidades embaladas individualmente, em filme apropriado para contato com alimentos, íntegro e inviolado. Embalagem secundária: pacote ou caixa com peso líquido de 1 kg, com identificação do produto (bombom wafer recheado), marca, peso líquido, lote, data de fabricação, data de validade, lista de ingredientes, informação nutricional e advertências sobre alergênicos (trigo, leite, soja, amendoim, entre outros), bem como identificação do fabricante (nome/razão social e CNPJ) e registro no órgão competente. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "PCT",
+              "quantidade": "120,00",
+              "valor_referencia": "65,84"
+            }
+          ]
+        },
+        {
+          "numero": "3",
+          "titulo": "9900515543 Bombom tipo wafer recheado com creme sabor chocolate ao leite, coberto com chocolate ao leite:Produto alimentício do tipo bombom chocolate, consistindo em wafer crocante com recheio cremoso sabor chocolate ao leite e cobertura externa também de",
+          "fase": "FRACASSADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "6.924,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515543 Bombom tipo wafer recheado com creme sabor chocolate ao leite, coberto com chocolate ao leite:Produto alimentício do tipo bombom chocolate, consistindo em wafer crocante com recheio cremoso sabor chocolate ao leite e cobertura externa também de chocolate ao leite, destinado ao consumo imediato. Produto deve apresentar cor, sabor e aroma característicos de chocolate, textura firme, sem grumos, sem sinais de umidade excessiva, deformação, esbranquiçamento (\"fat bloom\") acentuado ou qualquer indício de deterioração.Embalagem: bombons embalados individualmente, acondicionados em pacote com peso líquido de 1 kg, em material apropriado para alimentos, resistente e íntegro, contendo identificação do produto, marca, peso líquido, lote, data de fabricação, validade, informações nutricionais, lista de ingredientes e advertências sobre alergênicos, além do nome/razão social e CNPJ do fabricante e número de registro no órgão competente. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "PCT",
+              "quantidade": "120,00",
+              "valor_referencia": "57,70"
+            }
+          ]
+        },
+        {
+          "numero": "4",
+          "titulo": "9900515544 Bala de goma tipo jujuba sortida em tubos:Produto alimentício do tipo bala de goma (jujuba) açucarada, macia, mastigável, em sabores sortidos de frutas (como morango, uva, laranja, limão, abacaxi ou similares), acondicionada em tubos plásticos",
+          "fase": "FRACASSADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "2.136,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515544 Bala de goma tipo jujuba sortida em tubos:Produto alimentício do tipo bala de goma (jujuba) açucarada, macia, mastigável, em sabores sortidos de frutas (como morango, uva, laranja, limão, abacaxi ou similares), acondicionada em tubos plásticos individuais, própria para consumo humano. Deverá apresentar textura macia, não excessivamente pegajosa, sem cristalização exagerada de açúcar na superfície, isenta de sujidades, corpos estranhos, odor e sabor estranhos ou sinais de fermentação. Embalagem: tubo com no mínimo 8 unidades de jujubas, com peso aproximado de 30 g a 35 g cada tubo, acondicionado em caixa com 30 tubos por caixa, devendo constar na rotulagem a identificação do produto (bala de goma tipo jujuba), sabor sortido, peso, lote, data de fabricação, prazo de validade, lista de ingredientes, informação nutricional, advertências sobre alergênicos e presença/ausência de glúten, além do nome/razão social e CNPJ do fabricante. EXCLUSIVOPARA ME/EPP.",
+              "unidade": "CX",
+              "quantidade": "100,00",
+              "valor_referencia": "21,36"
+            }
+          ]
+        },
+        {
+          "numero": "5",
+          "titulo": "9900515545 Bala de goma tipo jujuba sabor iogurte em tubos:Produto alimentício do tipo bala de goma (jujuba), macia, mastigável, com sabores sortidos inspirados em iogurte de frutas (como morango, uva, pêssego ou similares), apresentando textura suave e a",
+          "fase": "FRACASSADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "2.178,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515545 Bala de goma tipo jujuba sabor iogurte em tubos:Produto alimentício do tipo bala de goma (jujuba), macia, mastigável, com sabores sortidos inspirados em iogurte de frutas (como morango, uva, pêssego ou similares), apresentando textura suave e aroma característico de iogurte, acondicionada em tubos plásticos individuais. Deverá ser elaborada com ingredientes próprios para consumo humano, apresentando cores e formatos compatíveis com a categoria, sem presença de corpos estranhos, sujidades, deformações excessivas ou sinais de deterioração. Embalagem: tubo com no mínimo 8 unidades de jujubas, com peso aproximado de 30 g a 35 g cada tubo, acondicionado em caixa com 30 tubos por caixa, com rotulagem contendo denominação do produto (bala de goma sabor iogurte), sabores, peso, lote, data de fabricação, prazo de validade, lista de ingredientes, informação nutricional, advertências sobre alergênicos e identificação completa do fabricante (nome/razão social, CNPJ e endereço), e registro no órgão competente.EXCLUSIVO PARA ME/EPP.",
+              "unidade": "CX",
+              "quantidade": "100,00",
+              "valor_referencia": "21,78"
+            }
+          ]
+        },
+        {
+          "numero": "6",
+          "titulo": "9900515546 Bala de café:Produto alimentício do tipo bala dura ou mastigável, sabor café, com aroma e sabor característicos de café torrado, própria para consumo humano, destinada à oferta em eventos, reuniões e ações institucionais. Deverá apresentar text",
+          "fase": "FRACASSADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "1.183,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515546 Bala de café:Produto alimentício do tipo bala dura ou mastigável, sabor café, com aroma e sabor característicos de café torrado, própria para consumo humano, destinada à oferta em eventos, reuniões e ações institucionais. Deverá apresentar textura uniforme (dura ou levemente mastigável, conforme o tipo), sem rachaduras excessivas, sem cristais de açúcar soltos em demasia, isenta de corpos estranhos, sujidades, umidade excessiva, deformações anormais ou odor e sabor estranhos.Embalagem: balas embaladas individualmente, acondicionadas em pacote com peso líquido mínimo de 500g, em material apropriado para contato com alimentos, íntegro e inviolado, com identificação do produto (bala de café), marca, peso líquido, lote, data de fabricação, prazo de validade, lista de ingredientes, informação nutricional e advertências sobre alergênicos, além dos dados do fabricante (nome/razão social, CNPJ) e registro no órgão competente. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "PCT",
+              "quantidade": "100,00",
+              "valor_referencia": "11,83"
+            }
+          ]
+        },
+        {
+          "numero": "7",
+          "titulo": "37143 Bala sortida de sabores:Produto alimentício do tipo bala (dura ou mastigável), com sabores sortidos de frutas e/ou outros sabores usuais (tais como menta, tutti-frutti, caramelo, entre outros), própria para consumo humano em eventos e reuniões insti",
+          "fase": "FRACASSADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "1.018,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37143 Bala sortida de sabores:Produto alimentício do tipo bala (dura ou mastigável), com sabores sortidos de frutas e/ou outros sabores usuais (tais como menta, tutti-frutti, caramelo, entre outros), própria para consumo humano em eventos e reuniões institucionais. Deverá apresentar textura adequada ao tipo (dura ou mastigável), cor e aroma compatíveis com os sabores declarados, isenta de sujidades, corpos estranhos, deformações excessivas, umidade anormal ou sinais de deterioração.Embalagem: balas embaladas individualmente, acondicionadas em pacote com peso líquido mínimo de 500g, devendo a embalagem conter, de forma clara e legível, a identificação do produto (bala sortida), marca, peso líquido, lote, data de fabricação, validade, lista de ingredientes, informação nutricional, advertências sobre alergênicos, identificação do fabricante (nome/razão social, CNPJ e endereço) e, quando aplicável, registro no órgão competente. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "PCT",
+              "quantidade": "100,00",
+              "valor_referencia": "10,18"
+            }
+          ]
+        },
+        {
+          "numero": "8",
+          "titulo": "9900515547 Bala sabor morango:Produto alimentício do tipo bala (dura ou mastigável), sabor morango, com cor, aroma e sabor característicos da fruta, própria para consumo humano. Deverá apresentar textura homogênea, sem rachaduras ou deformações exageradas",
+          "fase": "FRACASSADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "1.000,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515547 Bala sabor morango:Produto alimentício do tipo bala (dura ou mastigável), sabor morango, com cor, aroma e sabor característicos da fruta, própria para consumo humano. Deverá apresentar textura homogênea, sem rachaduras ou deformações exageradas, isenta de sujidades, corpos estranhos, umidade excessiva ou sinais de deterioração. Embalagem: balas embaladas individualmente, acondicionadas em pacote com peso líquido mínimo de 500g, devendo o rótulo conter a denominação do produto (bala sabor morango), marca, peso líquido, lote, data de fabricação, prazo de validade, lista de ingredientes, informação nutricional, advertências sobre alergênicos, identificação do fabricante (nome/razão social, CNPJ) e, quando exigido, registro no órgão competente.EXCLUSIVO PARA ME/EPP.",
+              "unidade": "PCT",
+              "quantidade": "100,00",
+              "valor_referencia": "10,00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-027-2024",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "705/2024",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "HOMOLOGADO",
+      "condutor": "MAGDA DE SELES GUIMARÃES",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO",
+      "publicacao": "13/06/2024 18:49",
+      "inicio_recepcao": "14/06/2024 08:00",
+      "fim_recepcao": "10/07/2024 13:45",
+      "inicio_disputa": "10/07/2024 14:00",
+      "objeto": "O objeto da presente licitação é a contratação de INSTITUIÇÃO FINANCEIRA ESPECIALIZADA NA PRESTAÇÃO DE SERVIÇOS BANCÁRIOS PARA CENTRALIZAÇÃO, GERENCIAMENTO E PROCESSAMENTO DE CRÉDITOS DA FOLHA DE PAGAMENTO DOS SERVIDORES, a fim de atender as demandas da Secretaria Municipal de Administração, conforme condições, quantidades e especificações no Edital, Termo de Referência e seus Anexos.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DsVUTO8U3dtRmxOV31ujsqOrVJv71INR7jvqMtMIIZEF3lOHJbk01zXQn2U607kYgv46ItFwsW55Zwgs64NgE_JjvkFPDE1nq7YydrmR2zJ8%3D",
+      "total_lotes": 1,
+      "total_itens": 1,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "SERVIÇOS BANCÁRIOS",
+          "fase": "HOMOLOGADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "6.052.150,00",
+          "vencedor": "ITAÚ UNIBANCO S.A.",
+          "melhor_oferta": "6.053.000,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
               "especificacao": "CONTRATAÇÃO DE INSTITUIÇÃO FINANCEIRA: ESPECIALIZADA NA PRESTAÇÃO DE SERVIÇOS BANCÁRIOS PARA CENTRALIZAÇÃO, GERENCIAMENTO E PROCESSAMENTO DE CRÉDITOS DA FOLHA DE PAGAMENTO DOS SERVIDORES DA PREFEITURA MUNICIPAL DE TEIXEIRA DE FREITAS/BA.",
-              "unidade": "SERVIÇO",
+              "unidade": "UN",
               "quantidade": "1,00",
               "valor_referencia": "6.052.150,00"
             }
