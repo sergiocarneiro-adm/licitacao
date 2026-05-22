@@ -1,10 +1,10 @@
 {
   "metadata": {
     "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-    "total_processos": 790,
-    "total_lotes": 8750,
-    "total_itens": 14991,
-    "atualizado_em": "20260521_193509"
+    "total_processos": 792,
+    "total_lotes": 8760,
+    "total_itens": 15001,
+    "atualizado_em": "20260522_193506"
   },
   "processos": [
     {
@@ -264493,242 +264493,6 @@
       ]
     },
     {
-      "id": "3-DLE-044-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "441 / 2026",
-      "modalidade": "DISPENSA ELETRÔNICA",
-      "situacao": "JULGAMENTO",
-      "condutor": "ISLA LIMA SILVA",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO PARCELADA",
-      "publicacao": "04/05/2026 11:21",
-      "inicio_recepcao": "04/05/2026 11:25",
-      "fim_recepcao": "08/05/2026 08:15",
-      "inicio_disputa": "08/05/2026 08:30",
-      "objeto": "Contratação de empresa especializada em fornecimento de MEDICAMENTOS (material de consumo),  a fim de atender as demandas da Secretaria Municipal de Saúde.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DDyy9f1YIACzJR5456bcCPHvQYZthrLaFarAoTOFlssojuUEdu3Bxep3HFSBJbovvZloNJG%2FPqlHNQjVhct60%2FM4n7pUBeC88LvbXZHRIQZ8%3D",
-      "total_lotes": 9,
-      "total_itens": 9,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "36637 ENALAPRIL:20MG. EXCLUVISO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "2.800,00",
-          "vencedor": "CALIXTO MEDICAMENTOS LTDA",
-          "melhor_oferta": "2.400,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "36637 ENALAPRIL:20MG. EXCLUVISO PARA ME/EPP.",
-              "unidade": "CO",
-              "quantidade": "40.000,00",
-              "valor_referencia": "0,07"
-            }
-          ]
-        },
-        {
-          "numero": "2",
-          "titulo": "34796 MICONAZOL:NITRATO 2% CREME VAGINAL. EXCLUVISO PARA ME/EPP.",
-          "fase": "DESERTO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "8.380,00",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "34796 MICONAZOL:NITRATO 2% CREME VAGINAL. EXCLUVISO PARA ME/EPP.",
-              "unidade": "Und.",
-              "quantidade": "2.000,00",
-              "valor_referencia": "4,19"
-            }
-          ]
-        },
-        {
-          "numero": "3",
-          "titulo": "36638 IBUPROFENO:50mg/Ml suspensão oral 30mL - gotas. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "3.520,00",
-          "vencedor": "CALIXTO MEDICAMENTOS LTDA",
-          "melhor_oferta": "3.520,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "36638 IBUPROFENO:50mg/Ml suspensão oral 30mL - gotas. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "FR",
-              "quantidade": "1.600,00",
-              "valor_referencia": "2,20"
-            }
-          ]
-        },
-        {
-          "numero": "4",
-          "titulo": "35791 ALPRAZOLAM:2MG EXCLUSIVO PARA ME/EPP.",
-          "fase": "EM ADJUDICAÇÃO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "180,00",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "35791 ALPRAZOLAM:2MG EXCLUSIVO PARA ME/EPP.",
-              "unidade": "CO",
-              "quantidade": "1.000,00",
-              "valor_referencia": "0,18"
-            }
-          ]
-        },
-        {
-          "numero": "5",
-          "titulo": "37313 NISTATINA:creme vaginal 25.000 UI/g tubo com 60g + aplicador. EXCLUVISO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "5.082,00",
-          "vencedor": "CALIXTO MEDICAMENTOS LTDA",
-          "melhor_oferta": "5.082,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37313 NISTATINA:creme vaginal 25.000 UI/g tubo com 60g + aplicador. EXCLUVISO PARA ME/EPP.",
-              "unidade": "Und.",
-              "quantidade": "700,00",
-              "valor_referencia": "7,26"
-            }
-          ]
-        },
-        {
-          "numero": "6",
-          "titulo": "9900100149 PERMAGANATO DE POTÁSSIO:100MG. EXCLUSIVO PARA ME/EPP.",
-          "fase": "DESERTO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "162,00",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900100149 PERMAGANATO DE POTÁSSIO:100MG. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "CO",
-              "quantidade": "600,00",
-              "valor_referencia": "0,27"
-            }
-          ]
-        },
-        {
-          "numero": "7",
-          "titulo": "34777 AZITROMICINA:comprimido revestido ou cápsula 500mg. EXCLUVISO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "8.100,00",
-          "vencedor": "CALIXTO MEDICAMENTOS LTDA",
-          "melhor_oferta": "8.100,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "34777 AZITROMICINA:comprimido revestido ou cápsula 500mg. EXCLUVISO PARA ME/EPP.",
-              "unidade": "CO",
-              "quantidade": "10.000,00",
-              "valor_referencia": "0,81"
-            }
-          ]
-        },
-        {
-          "numero": "8",
-          "titulo": "9900100209 Lanceta:para punção digital teste glicemico. EXCLUVISO PARA ME/EPP.",
-          "fase": "JULGAMENTO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "1.200,00",
-          "vencedor": "ERA DISTRIBUIDORA LTDA",
-          "melhor_oferta": "1.200,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900100209 Lanceta:para punção digital teste glicemico. EXCLUVISO PARA ME/EPP.",
-              "unidade": "Und.",
-              "quantidade": "8.000,00",
-              "valor_referencia": "0,15"
-            }
-          ]
-        },
-        {
-          "numero": "9",
-          "titulo": "37312 HALOPERIDOL:5MG/ML AMPOLA 1ML. EXCLUVISO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "3.780,00",
-          "vencedor": "VITALMED IMPORTAÇÃO, EXPORTAÇÃO E DISTRIBUIÇÃO LTDA",
-          "melhor_oferta": "3.400,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37312 HALOPERIDOL:5MG/ML AMPOLA 1ML. EXCLUVISO PARA ME/EPP.",
-              "unidade": "AMP",
-              "quantidade": "2.000,00",
-              "valor_referencia": "1,89"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "CE-006-2026",
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "218/2026",
@@ -267143,142 +266907,6 @@
       ]
     },
     {
-      "id": "2-DLE-050-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "480 / 2026",
-      "modalidade": "DISPENSA ELETRÔNICA",
-      "situacao": "RECEPÇÃO DE PROPOSTAS",
-      "condutor": "ISLA LIMA SILVA",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO",
-      "publicacao": "15/05/2026 17:13",
-      "inicio_recepcao": "15/05/2026 17:15",
-      "fim_recepcao": "22/05/2026 08:15",
-      "inicio_disputa": "22/05/2026 08:30",
-      "objeto": "Contratação de empresa especializada em fornecimento de BANHEIROS QUÍMICOS (material permanente), cujas especificações técnicas, quantidades e demais condições encontram-se detalhadas neste instrumento, a fim de atender as demandas da Secretaria Municipal de Administração.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5Dv9_iPNTtWNuYIl9EW4VD7wU%2Fa92yj3gMn_NIz_VaN0scLlDPsSDltFkymmtdTzNQ%2FWzC14cldb5q4vo0YzYY0op%2F3Ku7uQNROkvhd1fNpjg%3D",
-      "total_lotes": 1,
-      "total_itens": 1,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "BANHEIROS QUÍMICOS",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "25.314,12",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9908411205 BANHEIROS QUÍMICOS:individuais portáteis comteto translúcido composto com caixa de dejeto com assento,mictório, porta papel higiênico (devidamente abastecidos) efechamento de identificação OCUPADO/DESOCUPADO eindicação de masculinos, femininos, para público e bandas(camarins), com medidas mínimas de altura: até 2,40 m largura:até 1,12 m comprimento: até 1,20 m, com ponto de ventilaçãonatural.",
-              "unidade": "UN",
-              "quantidade": "6,00",
-              "valor_referencia": "4.219,02"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "2-DLE-038-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "316 / 2026",
-      "modalidade": "DISPENSA ELETRÔNICA",
-      "situacao": "RECEPÇÃO DE PROPOSTAS",
-      "condutor": "ISLA LIMA SILVA",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO",
-      "publicacao": "15/05/2026 13:52",
-      "inicio_recepcao": "15/05/2026 14:00",
-      "fim_recepcao": "22/05/2026 08:15",
-      "inicio_disputa": "22/05/2026 08:30",
-      "objeto": "Contratação de empresa especializada em fornecimento de TOLDOS (material permanente), quantidades e demais condições encontram-se detalhadas neste instrumento, a fim de atender as demandas da Secretaria Municipal de Administração.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5D4mMtNejQH4Uje7F7iAR8cFm5jtsxAjUbK6LimlyzEGez8vfjtkFV6g5QZq%2FYWiMy1YytzljWKboU16SyUyGt7IxivHc6MYqS9MPeisT1ymg%3D",
-      "total_lotes": 3,
-      "total_itens": 3,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "9900830445 TOLDO 4X4 METROS:tenda piramidal 4 x 4 m: cor diversa em laminado nigth and day - anti chamas, lona de cobertura produzida em pvc calandrado, com reforço fibra de poliéster impermeável, auto-extinguível, com blackout, sem costuras mecânicas, co",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "11.321,76",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900830445 TOLDO 4X4 METROS:tenda piramidal 4 x 4 m: cor diversa em laminado nigth and day - anti chamas, lona de cobertura produzida em pvc calandrado, com reforço fibra de poliéster impermeável, auto-extinguível, com blackout, sem costuras mecânicas, cortada e moldada através de vulcanização a quente, aplicada às estruturas metálicas por tensionamento, estrutura metálica: ferro tubular em aço reforçado, chapas de 1,4 mm3, partes soldadas em sistema mg. partes unidas por encaixe e fixadas com parafusos e conexões em aço, pés de sustentação: estrutura em ferro tubular (3), com altura de 3 m, ancorados com cordas de nylon de 1/4, amarras especiais, fixadas em estacas de ferro. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "UND",
-              "quantidade": "4,00",
-              "valor_referencia": "2.830,44"
-            }
-          ]
-        },
-        {
-          "numero": "2",
-          "titulo": "9900830446 TOLDO 5X5 METROS:tenda piramidal 5 x 5 m: cor diversa em laminado nigth and day - anti chamas, lona de cobertura produzida em pvc calandrado, com reforço fibra de poliéster impermeável, auto-extinguível, com blackout, sem costuras mecânicas, co",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "12.024,84",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900830446 TOLDO 5X5 METROS:tenda piramidal 5 x 5 m: cor diversa em laminado nigth and day - anti chamas, lona de cobertura produzida em pvc calandrado, com reforço fibra de poliéster impermeável, auto-extinguível, com blackout, sem costuras mecânicas, cortada e moldada através de vulcanização a quente, aplicada às estruturas metálicas por tensionamento, estrutura metálica: ferro tubular em aço reforçado, chapas de 1,4 mm3, partes soldadas em sistema mg. partes unidas por encaixe e fixadas com parafusos e conexões em aço, pés de sustentação: estrutura em ferro tubular (3), com altura de 3 m, ancorados com cordas de nylon de 1/4, amarras especiais, fixadas em estacas de ferro. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "UND",
-              "quantidade": "4,00",
-              "valor_referencia": "3.006,21"
-            }
-          ]
-        },
-        {
-          "numero": "3",
-          "titulo": "9900830447 TOLDO 6X6 METROS:tenda piramidal 6 x 6 m: cor diversa em laminado nigth and day - anti chamas, lona de cobertura produzida em pvc calandrado, com reforço fibra de poliéster impermeável, auto extinguível, com blackout, sem costuras mecânicas, co",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "12.765,72",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900830447 TOLDO 6X6 METROS:tenda piramidal 6 x 6 m: cor diversa em laminado nigth and day - anti chamas, lona de cobertura produzida em pvc calandrado, com reforço fibra de poliéster impermeável, auto extinguível, com blackout, sem costuras mecânicas, cortada e moldada através de vulcanização a quente, aplicada às estruturas metálicas por tensionamento, estrutura metálica: ferro tubular em aço reforçado, chapas de 1,4 mm3, partes soldadas em sistema mg. partes unidas por encaixe e fixadas com parafusos e conexões em aço, pés de sustentação: estrutura em ferro tubular (3), com altura de 3 m, ancorados com cordas de nylon de 1,'4, amarras especiais, fixadas em estacas de ferro. EXCLUSICO PARA ME/EPP.",
-              "unidade": "UND",
-              "quantidade": "4,00",
-              "valor_referencia": "3.191,43"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "3-DLE-030-2026",
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "184 / 2026",
@@ -269451,42 +269079,694 @@
       ]
     },
     {
-      "id": "PE-027-2024",
+      "id": "PE-085-2026",
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "705/2024",
+      "numero_adm": "614 / 2026",
       "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "HOMOLOGADO",
-      "condutor": "MAGDA DE SELES GUIMARÃES",
+      "situacao": "PUBLICADO",
+      "condutor": "SERGIO CARNEIRO CAVALCANTI DE AZEVEDO",
       "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
       "tipo_contrato": "AQUISIÇÃO",
-      "publicacao": "13/06/2024 18:49",
-      "inicio_recepcao": "14/06/2024 08:00",
-      "fim_recepcao": "10/07/2024 13:45",
-      "inicio_disputa": "10/07/2024 14:00",
-      "objeto": "O objeto da presente licitação é a contratação de INSTITUIÇÃO FINANCEIRA ESPECIALIZADA NA PRESTAÇÃO DE SERVIÇOS BANCÁRIOS PARA CENTRALIZAÇÃO, GERENCIAMENTO E PROCESSAMENTO DE CRÉDITOS DA FOLHA DE PAGAMENTO DOS SERVIDORES, a fim de atender as demandas da Secretaria Municipal de Administração, conforme condições, quantidades e especificações no Edital, Termo de Referência e seus Anexos.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DV2kJenJzuruCA4tJpmy%2FZa9_O3HaXuSeeEAdO1ywtp63vQ8buBM412Eq40QvLXyhO0XiQXmgh3I4c%2F3VEvKVRT132MJFo82PzoSqY010_5I%3D",
-      "total_lotes": 1,
-      "total_itens": 1,
+      "publicacao": "22/05/2026 17:57",
+      "inicio_recepcao": "26/05/2026 08:30",
+      "fim_recepcao": "08/06/2026 09:15",
+      "inicio_disputa": "08/06/2026 09:30",
+      "objeto": "Contratação de empresa especializada em fornecimento de NOTEBOOKS (material permanente), a fim de atender as demandas da Secretaria Municipal de Administração e demais secretarias.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DG9CLn4LqNr%2F3PWvjdgUa%2Fc3F9ZbqtQmZCUEMm3dsDf5JQdY2z8U0Kk7jBNsl5EZ9FfkXDZOwvOIsCfmD6h7h%2FU5pe3hewsTnem2hMFWemB4%3D",
+      "total_lotes": 2,
+      "total_itens": 2,
       "lotes": [
         {
           "numero": "1",
-          "titulo": "SERVIÇOS BANCÁRIOS",
-          "fase": "HOMOLOGADO",
+          "titulo": "9900830497 NOTEBOOK DE ALTO DESEMPENHO:PROCESSADOR:Intel Core i7, Intel Core Ultra 7, AMD Ryzen 7 ou processadores para NOTEBOOK de desempenho superior a21.000 (vinte e cinco mil) pontos no PASSMARK SOFTWARE (https://www.cpubenchmark.net/laptop.html) ex",
+          "fase": "PUBLICADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
           "exclusivo_me": "NÃO",
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900830497 NOTEBOOK DE ALTO DESEMPENHO:PROCESSADOR:Intel Core i7, Intel Core Ultra 7, AMD Ryzen 7 ou processadores para NOTEBOOK de desempenho superior a21.000 (vinte e cinco mil) pontos no PASSMARK SOFTWARE (https://www.cpubenchmark.net/laptop.html) exceto os modelos Intel Core i5 e Ryzen 5; SISTEMA OPERACIONAL: Windows 11 Home ou Professional em Português Brasileiro; PLACA DE VIDEO DEDICADA: GPU para Laptop NVIDIA GeForce RTX 4050 6GB GDDR6 ou Superior; MEMÓRIA: no mínimo 16GB DDR5; ARMAZENAMENTO: 512GB SSD NVMe M.2 (mínimo);TELA: Resolução mínima WUXGA (1920 x 1200), antirreflexo, 300 nits (mínimo), Taxa de atualização 165 Hz (mínimo),sRGB-100%; WIFI: Wi-Fi 6 (exigido) & Bluetooth 5.1 ou superior; CONEXÕES: 1x USB 3.2 Tipo-C (mínimo), 2x USB 3.2 Tipo-A (mínimo), 1x HDMI 2.1 (exigido), 1X RJ-45 (exigido); Conector de áudio: Entrada de Microfone e fone de ouvido (exigido).GARANTIA: 36 meses de garantia a contar do RECEBIMENTO DEFINITIVO dos equipamentos. MODELOS DE REFERÊNCIA: Notebook Gamer Alienware 16 Aurora NVIDIA® GeForce RTX™ 4050, Notebook Gamer Acer Nitro V16, Notebook ASUS TUF Gaming F16 2025, Legion 5 Intel Ultra 7 255HX RTX 5070 8GB15.1\" 165Hz.",
+              "unidade": "UND",
+              "quantidade": "6,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "2",
+          "titulo": "37391 NOTEBOOK DE DESEMPENHO INTERMEDIÁRIO:PROCESSADOR:: Intel Core 5 120U, Intel Core Ultra 5, Intel Core de 13ª Geração ou superior, AMD Ryzen 5 série 7000 ou superior; SISTEMA OPERACIONAL: Windows 11 Home ou Professional em Português Brasileiro; PLACA",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37391 NOTEBOOK DE DESEMPENHO INTERMEDIÁRIO:PROCESSADOR:: Intel Core 5 120U, Intel Core Ultra 5, Intel Core de 13ª Geração ou superior, AMD Ryzen 5 série 7000 ou superior; SISTEMA OPERACIONAL: Windows 11 Home ou Professional em Português Brasileiro; PLACA DE VIDEO INTEGRADA: MEMÓRIA: no mínimo 16GB DDR4; ARMAZENAMENTO: 512GB SSD NVMe M.2 (mínimo); TELA:Resolução mínima FHD (1920 x 1080), antirreflexo, 250 nits (mínimo), Taxa de atualização 120 Hz (mínimo), sRGB-100%; WIFI: Wi-Fi 6 (exigido) & Bluetooth 5.1 ou superior; CONEXÕES: 1x USB 3.2 Tipo-C (mínimo), 2x USB 3.2 Tipo-A (mínimo), 1x HDMI 2.1 (exigido); Conector de áudio: Entrada de Microfone e fone de ouvido (exigido). GARANTIA: 24 meses de garantia a contar do RECEBIMENTO DEFINITIVO dos equipamentos. MODELO REFERÊNCIA: Notebook Dell Pro 15 Essential.",
+              "unidade": "UND",
+              "quantidade": "10,00",
+              "valor_referencia": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-084-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "269 / 2026",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "PUBLICADO",
+      "condutor": "JONATAS DA SILVA SOUSA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO PARCELADA",
+      "publicacao": "22/05/2026 17:42",
+      "inicio_recepcao": "26/05/2026 08:30",
+      "fim_recepcao": "08/06/2026 08:15",
+      "inicio_disputa": "08/06/2026 08:30",
+      "objeto": "Contratação de empresa especializada no fornecimento de DOCES (material de consumo), a fim de atender às demandas da Secretaria Municipal de Educação.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DS17YfW5wGwuxZekGv8B_bgU3rVe5SANbpOC9sMzdV2PCCsSyj2gKBmo54Fp04H3Ggve9ifXRkKPOx_7REnFICa%2F9rDD2KXomvcydiV5nX1s%3D",
+      "total_lotes": 8,
+      "total_itens": 8,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "37141 Bombom tipo wafer recheado com creme de castanha de caju e cobertura de chocolate:Produto alimentício do tipo bombom à base de wafer crocante, com recheio cremoso sabor castanha de caju, coberto com chocolate ao leite ou similar, apresentando textur",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37141 Bombom tipo wafer recheado com creme de castanha de caju e cobertura de chocolate:Produto alimentício do tipo bombom à base de wafer crocante, com recheio cremoso sabor castanha de caju, coberto com chocolate ao leite ou similar, apresentando textura que combina crocância do wafer com cremosidade do recheio, sabor marcante e homogêneo, próprio para consumo humano. Deverá ser elaborado com ingredientes de boa qualidade, contendo, entre outros, derivados de trigo, leite e castanha de caju, podendo conter soja, amendoim e traços de glúten, conforme rotulagem do fabricante. Embalagem primária: bombons embalados individualmente, em invólucro apropriado para alimentos, íntegro, sem rasgos, furos ou sinais de violação. Embalagem secundária: pacote com peso líquido de 1 kg, devendo constar, a identificação clara do produto, marca, peso líquido, lote, data de fabricação e validade. Produto pronto para consumo, isento de corpos estranhos, sujidades, umidade excessiva, deformações acentuadas ou sinais de deterioração. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "PCT",
+              "quantidade": "120,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "2",
+          "titulo": "37142 Bombom tipo wafer recheado com creme de chocolate meio amargo e flocos de arroz, coberto com chocolate branco:Produto alimentício do tipo bombom wafer, composto por camadas de wafer crocante, recheio cremoso sabor chocolate meio amargo com flocos de",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37142 Bombom tipo wafer recheado com creme de chocolate meio amargo e flocos de arroz, coberto com chocolate branco:Produto alimentício do tipo bombom wafer, composto por camadas de wafer crocante, recheio cremoso sabor chocolate meio amargo com flocos de arroz e cobertura de chocolate branco, conferindo contraste de sabores e texturas, adequado ao consumo individual. Deverá apresentar textura crocante do wafer e dos flocos de arroz, combinada à cremosidade do recheio, sabor característico de chocolate meio amargo e chocolate branco, isento de odores ou sabores estranhos e de sinais de rancificação. Embalagem primária: unidades embaladas individualmente, em filme apropriado para contato com alimentos, íntegro e inviolado. Embalagem secundária: pacote ou caixa com peso líquido de 1 kg, com identificação do produto (bombom wafer recheado), marca, peso líquido, lote, data de fabricação, data de validade, lista de ingredientes, informação nutricional e advertências sobre alergênicos (trigo, leite, soja, amendoim, entre outros), bem como identificação do fabricante (nome/razão social e CNPJ) e registro no órgão competente. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "PCT",
+              "quantidade": "120,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "3",
+          "titulo": "9900515543 Bombom tipo wafer recheado com creme sabor chocolate ao leite, coberto com chocolate ao leite:Produto alimentício do tipo bombom chocolate, consistindo em wafer crocante com recheio cremoso sabor chocolate ao leite e cobertura externa também de",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515543 Bombom tipo wafer recheado com creme sabor chocolate ao leite, coberto com chocolate ao leite:Produto alimentício do tipo bombom chocolate, consistindo em wafer crocante com recheio cremoso sabor chocolate ao leite e cobertura externa também de chocolate ao leite, destinado ao consumo imediato. Produto deve apresentar cor, sabor e aroma característicos de chocolate, textura firme, sem grumos, sem sinais de umidade excessiva, deformação, esbranquiçamento (\"fat bloom\") acentuado ou qualquer indício de deterioração.Embalagem: bombons embalados individualmente, acondicionados em pacote com peso líquido de 1 kg, em material apropriado para alimentos, resistente e íntegro, contendo identificação do produto, marca, peso líquido, lote, data de fabricação, validade, informações nutricionais, lista de ingredientes e advertências sobre alergênicos, além do nome/razão social e CNPJ do fabricante e número de registro no órgão competente. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "PCT",
+              "quantidade": "120,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "4",
+          "titulo": "9900515544 Bala de goma tipo jujuba sortida em tubos:Produto alimentício do tipo bala de goma (jujuba) açucarada, macia, mastigável, em sabores sortidos de frutas (como morango, uva, laranja, limão, abacaxi ou similares), acondicionada em tubos plásticos",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515544 Bala de goma tipo jujuba sortida em tubos:Produto alimentício do tipo bala de goma (jujuba) açucarada, macia, mastigável, em sabores sortidos de frutas (como morango, uva, laranja, limão, abacaxi ou similares), acondicionada em tubos plásticos individuais, própria para consumo humano. Deverá apresentar textura macia, não excessivamente pegajosa, sem cristalização exagerada de açúcar na superfície, isenta de sujidades, corpos estranhos, odor e sabor estranhos ou sinais de fermentação. Embalagem: tubo com no mínimo 8 unidades de jujubas, com peso aproximado de 30 g a 35 g cada tubo, acondicionado em caixa com 30 tubos por caixa, devendo constar na rotulagem a identificação do produto (bala de goma tipo jujuba), sabor sortido, peso, lote, data de fabricação, prazo de validade, lista de ingredientes, informação nutricional, advertências sobre alergênicos e presença/ausência de glúten, além do nome/razão social e CNPJ do fabricante. EXCLUSIVOPARA ME/EPP.",
+              "unidade": "CX",
+              "quantidade": "100,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "5",
+          "titulo": "9900515545 Bala de goma tipo jujuba sabor iogurte em tubos:Produto alimentício do tipo bala de goma (jujuba), macia, mastigável, com sabores sortidos inspirados em iogurte de frutas (como morango, uva, pêssego ou similares), apresentando textura suave e a",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515545 Bala de goma tipo jujuba sabor iogurte em tubos:Produto alimentício do tipo bala de goma (jujuba), macia, mastigável, com sabores sortidos inspirados em iogurte de frutas (como morango, uva, pêssego ou similares), apresentando textura suave e aroma característico de iogurte, acondicionada em tubos plásticos individuais. Deverá ser elaborada com ingredientes próprios para consumo humano, apresentando cores e formatos compatíveis com a categoria, sem presença de corpos estranhos, sujidades, deformações excessivas ou sinais de deterioração. Embalagem: tubo com no mínimo 8 unidades de jujubas, com peso aproximado de 30 g a 35 g cada tubo, acondicionado em caixa com 30 tubos por caixa, com rotulagem contendo denominação do produto (bala de goma sabor iogurte), sabores, peso, lote, data de fabricação, prazo de validade, lista de ingredientes, informação nutricional, advertências sobre alergênicos e identificação completa do fabricante (nome/razão social, CNPJ e endereço), e registro no órgão competente.EXCLUSIVO PARA ME/EPP.",
+              "unidade": "CX",
+              "quantidade": "100,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "6",
+          "titulo": "9900515546 Bala de café:Produto alimentício do tipo bala dura ou mastigável, sabor café, com aroma e sabor característicos de café torrado, própria para consumo humano, destinada à oferta em eventos, reuniões e ações institucionais. Deverá apresentar text",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515546 Bala de café:Produto alimentício do tipo bala dura ou mastigável, sabor café, com aroma e sabor característicos de café torrado, própria para consumo humano, destinada à oferta em eventos, reuniões e ações institucionais. Deverá apresentar textura uniforme (dura ou levemente mastigável, conforme o tipo), sem rachaduras excessivas, sem cristais de açúcar soltos em demasia, isenta de corpos estranhos, sujidades, umidade excessiva, deformações anormais ou odor e sabor estranhos.Embalagem: balas embaladas individualmente, acondicionadas em pacote com peso líquido mínimo de 500g, em material apropriado para contato com alimentos, íntegro e inviolado, com identificação do produto (bala de café), marca, peso líquido, lote, data de fabricação, prazo de validade, lista de ingredientes, informação nutricional e advertências sobre alergênicos, além dos dados do fabricante (nome/razão social, CNPJ) e registro no órgão competente. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "PCT",
+              "quantidade": "100,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "7",
+          "titulo": "37143 Bala sortida de sabores:Produto alimentício do tipo bala (dura ou mastigável), com sabores sortidos de frutas e/ou outros sabores usuais (tais como menta, tutti-frutti, caramelo, entre outros), própria para consumo humano em eventos e reuniões insti",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37143 Bala sortida de sabores:Produto alimentício do tipo bala (dura ou mastigável), com sabores sortidos de frutas e/ou outros sabores usuais (tais como menta, tutti-frutti, caramelo, entre outros), própria para consumo humano em eventos e reuniões institucionais. Deverá apresentar textura adequada ao tipo (dura ou mastigável), cor e aroma compatíveis com os sabores declarados, isenta de sujidades, corpos estranhos, deformações excessivas, umidade anormal ou sinais de deterioração.Embalagem: balas embaladas individualmente, acondicionadas em pacote com peso líquido mínimo de 500g, devendo a embalagem conter, de forma clara e legível, a identificação do produto (bala sortida), marca, peso líquido, lote, data de fabricação, validade, lista de ingredientes, informação nutricional, advertências sobre alergênicos, identificação do fabricante (nome/razão social, CNPJ e endereço) e, quando aplicável, registro no órgão competente. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "PCT",
+              "quantidade": "100,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "8",
+          "titulo": "9900515547 Bala sabor morango:Produto alimentício do tipo bala (dura ou mastigável), sabor morango, com cor, aroma e sabor característicos da fruta, própria para consumo humano. Deverá apresentar textura homogênea, sem rachaduras ou deformações exageradas",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515547 Bala sabor morango:Produto alimentício do tipo bala (dura ou mastigável), sabor morango, com cor, aroma e sabor característicos da fruta, própria para consumo humano. Deverá apresentar textura homogênea, sem rachaduras ou deformações exageradas, isenta de sujidades, corpos estranhos, umidade excessiva ou sinais de deterioração. Embalagem: balas embaladas individualmente, acondicionadas em pacote com peso líquido mínimo de 500g, devendo o rótulo conter a denominação do produto (bala sabor morango), marca, peso líquido, lote, data de fabricação, prazo de validade, lista de ingredientes, informação nutricional, advertências sobre alergênicos, identificação do fabricante (nome/razão social, CNPJ) e, quando exigido, registro no órgão competente.EXCLUSIVO PARA ME/EPP.",
+              "unidade": "PCT",
+              "quantidade": "100,00",
+              "valor_referencia": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2-DLE-050-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "480 / 2026",
+      "modalidade": "DISPENSA ELETRÔNICA",
+      "situacao": "JULGAMENTO",
+      "condutor": "ISAQUE SILVA DOS SANTOS",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO",
+      "publicacao": "15/05/2026 17:13",
+      "inicio_recepcao": "15/05/2026 17:15",
+      "fim_recepcao": "22/05/2026 08:15",
+      "inicio_disputa": "22/05/2026 08:30",
+      "objeto": "Contratação de empresa especializada em fornecimento de BANHEIROS QUÍMICOS (material permanente), cujas especificações técnicas, quantidades e demais condições encontram-se detalhadas neste instrumento, a fim de atender as demandas da Secretaria Municipal de Administração.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5Dek7kc8gMZlESvxxkcX1_DOJhJLUdKxBhZCzN23U8F7uSWifv1HOD7Ixq4oDMpl7pB0b8IUGmi%2FZY0enWUIvFv22iV3mRqCuFrrYZpP4vYwg%3D",
+      "total_lotes": 1,
+      "total_itens": 1,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "BANHEIROS QUÍMICOS",
+          "fase": "JULGAMENTO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "25.314,12",
+          "vencedor": "RSTF - SERVICOS, LOCACOES E EVENTOS - EIRELI - ME",
+          "melhor_oferta": "25.314,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9908411205 BANHEIROS QUÍMICOS:individuais portáteis comteto translúcido composto com caixa de dejeto com assento,mictório, porta papel higiênico (devidamente abastecidos) efechamento de identificação OCUPADO/DESOCUPADO eindicação de masculinos, femininos, para público e bandas(camarins), com medidas mínimas de altura: até 2,40 m largura:até 1,12 m comprimento: até 1,20 m, com ponto de ventilaçãonatural.",
+              "unidade": "UN",
+              "quantidade": "6,00",
+              "valor_referencia": "4.219,02"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2-DLE-038-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "316 / 2026",
+      "modalidade": "DISPENSA ELETRÔNICA",
+      "situacao": "JULGAMENTO",
+      "condutor": "ISLA LIMA SILVA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO",
+      "publicacao": "15/05/2026 13:52",
+      "inicio_recepcao": "15/05/2026 14:00",
+      "fim_recepcao": "22/05/2026 08:15",
+      "inicio_disputa": "22/05/2026 08:30",
+      "objeto": "Contratação de empresa especializada em fornecimento de TOLDOS (material permanente), quantidades e demais condições encontram-se detalhadas neste instrumento, a fim de atender as demandas da Secretaria Municipal de Administração.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5Djak5NJIy5o6f7p%2FPGyZyqJGXClemwTEk5lEB5O3ikr9IOXxEhaSI31Wka3Lm95UFtZ4xrjFie5VHXW_mnX446IsBMsbbi8pmmwfvOvCGW1g%3D",
+      "total_lotes": 3,
+      "total_itens": 3,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "9900830445 TOLDO 4X4 METROS:tenda piramidal 4 x 4 m: cor diversa em laminado nigth and day - anti chamas, lona de cobertura produzida em pvc calandrado, com reforço fibra de poliéster impermeável, auto-extinguível, com blackout, sem costuras mecânicas, co",
+          "fase": "JULGAMENTO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "11.321,76",
+          "vencedor": "VERSATTI COMERCIO E SERVIÇOS LTDA",
+          "melhor_oferta": "11.098,64",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900830445 TOLDO 4X4 METROS:tenda piramidal 4 x 4 m: cor diversa em laminado nigth and day - anti chamas, lona de cobertura produzida em pvc calandrado, com reforço fibra de poliéster impermeável, auto-extinguível, com blackout, sem costuras mecânicas, cortada e moldada através de vulcanização a quente, aplicada às estruturas metálicas por tensionamento, estrutura metálica: ferro tubular em aço reforçado, chapas de 1,4 mm3, partes soldadas em sistema mg. partes unidas por encaixe e fixadas com parafusos e conexões em aço, pés de sustentação: estrutura em ferro tubular (3), com altura de 3 m, ancorados com cordas de nylon de 1/4, amarras especiais, fixadas em estacas de ferro. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "4,00",
+              "valor_referencia": "2.830,44"
+            }
+          ]
+        },
+        {
+          "numero": "2",
+          "titulo": "9900830446 TOLDO 5X5 METROS:tenda piramidal 5 x 5 m: cor diversa em laminado nigth and day - anti chamas, lona de cobertura produzida em pvc calandrado, com reforço fibra de poliéster impermeável, auto-extinguível, com blackout, sem costuras mecânicas, co",
+          "fase": "JULGAMENTO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "12.024,84",
+          "vencedor": "VERSATTI COMERCIO E SERVIÇOS LTDA",
+          "melhor_oferta": "11.948,95",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900830446 TOLDO 5X5 METROS:tenda piramidal 5 x 5 m: cor diversa em laminado nigth and day - anti chamas, lona de cobertura produzida em pvc calandrado, com reforço fibra de poliéster impermeável, auto-extinguível, com blackout, sem costuras mecânicas, cortada e moldada através de vulcanização a quente, aplicada às estruturas metálicas por tensionamento, estrutura metálica: ferro tubular em aço reforçado, chapas de 1,4 mm3, partes soldadas em sistema mg. partes unidas por encaixe e fixadas com parafusos e conexões em aço, pés de sustentação: estrutura em ferro tubular (3), com altura de 3 m, ancorados com cordas de nylon de 1/4, amarras especiais, fixadas em estacas de ferro. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "4,00",
+              "valor_referencia": "3.006,21"
+            }
+          ]
+        },
+        {
+          "numero": "3",
+          "titulo": "9900830447 TOLDO 6X6 METROS:tenda piramidal 6 x 6 m: cor diversa em laminado nigth and day - anti chamas, lona de cobertura produzida em pvc calandrado, com reforço fibra de poliéster impermeável, auto extinguível, com blackout, sem costuras mecânicas, co",
+          "fase": "JULGAMENTO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "12.765,72",
+          "vencedor": "VERSATTI COMERCIO E SERVIÇOS LTDA",
+          "melhor_oferta": "12.348,23",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900830447 TOLDO 6X6 METROS:tenda piramidal 6 x 6 m: cor diversa em laminado nigth and day - anti chamas, lona de cobertura produzida em pvc calandrado, com reforço fibra de poliéster impermeável, auto extinguível, com blackout, sem costuras mecânicas, cortada e moldada através de vulcanização a quente, aplicada às estruturas metálicas por tensionamento, estrutura metálica: ferro tubular em aço reforçado, chapas de 1,4 mm3, partes soldadas em sistema mg. partes unidas por encaixe e fixadas com parafusos e conexões em aço, pés de sustentação: estrutura em ferro tubular (3), com altura de 3 m, ancorados com cordas de nylon de 1,'4, amarras especiais, fixadas em estacas de ferro. EXCLUSICO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "4,00",
+              "valor_referencia": "3.191,43"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3-DLE-044-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "441 / 2026",
+      "modalidade": "DISPENSA ELETRÔNICA",
+      "situacao": "HABILITAÇÃO",
+      "condutor": "ISLA LIMA SILVA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO PARCELADA",
+      "publicacao": "04/05/2026 11:21",
+      "inicio_recepcao": "04/05/2026 11:25",
+      "fim_recepcao": "08/05/2026 08:15",
+      "inicio_disputa": "08/05/2026 08:30",
+      "objeto": "Contratação de empresa especializada em fornecimento de MEDICAMENTOS (material de consumo),  a fim de atender as demandas da Secretaria Municipal de Saúde.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5Dz8eVTK7JBJWmSvGUn4MHz9thYI3LcUdN6KcZ6eeXHq1LyWcyxSv1ZnR_z7YQEYMSzFGoThPV2QrfZQq3faQlvsCzQZ42VPkZlM4YJ1BcI1M%3D",
+      "total_lotes": 9,
+      "total_itens": 9,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "36637 ENALAPRIL:20MG. EXCLUVISO PARA ME/EPP.",
+          "fase": "HABILITAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "2.800,00",
+          "vencedor": "CALIXTO MEDICAMENTOS LTDA",
+          "melhor_oferta": "2.400,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "36637 ENALAPRIL:20MG. EXCLUVISO PARA ME/EPP.",
+              "unidade": "CO",
+              "quantidade": "40.000,00",
+              "valor_referencia": "0,07"
+            }
+          ]
+        },
+        {
+          "numero": "2",
+          "titulo": "34796 MICONAZOL:NITRATO 2% CREME VAGINAL. EXCLUVISO PARA ME/EPP.",
+          "fase": "DESERTO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "8.380,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "34796 MICONAZOL:NITRATO 2% CREME VAGINAL. EXCLUVISO PARA ME/EPP.",
+              "unidade": "Und.",
+              "quantidade": "2.000,00",
+              "valor_referencia": "4,19"
+            }
+          ]
+        },
+        {
+          "numero": "3",
+          "titulo": "36638 IBUPROFENO:50mg/Ml suspensão oral 30mL - gotas. EXCLUSIVO PARA ME/EPP.",
+          "fase": "HABILITAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "3.520,00",
+          "vencedor": "CALIXTO MEDICAMENTOS LTDA",
+          "melhor_oferta": "3.520,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "36638 IBUPROFENO:50mg/Ml suspensão oral 30mL - gotas. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "FR",
+              "quantidade": "1.600,00",
+              "valor_referencia": "2,20"
+            }
+          ]
+        },
+        {
+          "numero": "4",
+          "titulo": "35791 ALPRAZOLAM:2MG EXCLUSIVO PARA ME/EPP.",
+          "fase": "FRACASSADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "180,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "35791 ALPRAZOLAM:2MG EXCLUSIVO PARA ME/EPP.",
+              "unidade": "CO",
+              "quantidade": "1.000,00",
+              "valor_referencia": "0,18"
+            }
+          ]
+        },
+        {
+          "numero": "5",
+          "titulo": "37313 NISTATINA:creme vaginal 25.000 UI/g tubo com 60g + aplicador. EXCLUVISO PARA ME/EPP.",
+          "fase": "HABILITAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "5.082,00",
+          "vencedor": "CALIXTO MEDICAMENTOS LTDA",
+          "melhor_oferta": "5.082,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37313 NISTATINA:creme vaginal 25.000 UI/g tubo com 60g + aplicador. EXCLUVISO PARA ME/EPP.",
+              "unidade": "Und.",
+              "quantidade": "700,00",
+              "valor_referencia": "7,26"
+            }
+          ]
+        },
+        {
+          "numero": "6",
+          "titulo": "9900100149 PERMAGANATO DE POTÁSSIO:100MG. EXCLUSIVO PARA ME/EPP.",
+          "fase": "DESERTO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "162,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900100149 PERMAGANATO DE POTÁSSIO:100MG. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "CO",
+              "quantidade": "600,00",
+              "valor_referencia": "0,27"
+            }
+          ]
+        },
+        {
+          "numero": "7",
+          "titulo": "34777 AZITROMICINA:comprimido revestido ou cápsula 500mg. EXCLUVISO PARA ME/EPP.",
+          "fase": "HABILITAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "8.100,00",
+          "vencedor": "CALIXTO MEDICAMENTOS LTDA",
+          "melhor_oferta": "8.100,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "34777 AZITROMICINA:comprimido revestido ou cápsula 500mg. EXCLUVISO PARA ME/EPP.",
+              "unidade": "CO",
+              "quantidade": "10.000,00",
+              "valor_referencia": "0,81"
+            }
+          ]
+        },
+        {
+          "numero": "8",
+          "titulo": "9900100209 Lanceta:para punção digital teste glicemico. EXCLUVISO PARA ME/EPP.",
+          "fase": "HABILITAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "1.200,00",
+          "vencedor": "ERA DISTRIBUIDORA LTDA",
+          "melhor_oferta": "1.200,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900100209 Lanceta:para punção digital teste glicemico. EXCLUVISO PARA ME/EPP.",
+              "unidade": "Und.",
+              "quantidade": "8.000,00",
+              "valor_referencia": "0,15"
+            }
+          ]
+        },
+        {
+          "numero": "9",
+          "titulo": "37312 HALOPERIDOL:5MG/ML AMPOLA 1ML. EXCLUVISO PARA ME/EPP.",
+          "fase": "HABILITAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "3.780,00",
+          "vencedor": "VITALMED IMPORTAÇÃO, EXPORTAÇÃO E DISTRIBUIÇÃO LTDA",
+          "melhor_oferta": "3.400,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37312 HALOPERIDOL:5MG/ML AMPOLA 1ML. EXCLUVISO PARA ME/EPP.",
+              "unidade": "AMP",
+              "quantidade": "2.000,00",
+              "valor_referencia": "1,89"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-027-2024",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "705/2024",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "SUSPENSO",
+      "condutor": "VICTOR KINIDEL DETHLING",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO",
+      "publicacao": "15/05/2024 18:26",
+      "inicio_recepcao": "16/05/2024 08:00",
+      "fim_recepcao": "12/06/2024 09:45",
+      "inicio_disputa": "12/06/2024 10:00",
+      "objeto": "Contratação de instituição financeira para prestação de serviços bancários para centralização, gerenciamento e processamento de créditos da folha de pagamento dos servidores, a fim de atender as demandas da Prefeitura de Teixeira de Freitas, conforme condições, quantidades e especificações no Edital, Termo de Referência e seus Anexos.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5D0IZlsHcdRIiuhc0LHzx5IxXg7zFtLyoa5bO9SSR1cLGVKg6BxqAi_2qYnMH3pCU4x55f28xzW9KkYaX8IglSKwjuxNuO8W%2FD2nSO0ygdoNc%3D",
+      "total_lotes": 1,
+      "total_itens": 1,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "LOTE 01",
+          "fase": "SUSPENSO",
+          "tipo": "UNITÁRIO",
+          "quantidade": "1",
+          "intervalo_minimo": "100,00",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
           "valor_referencia": "6.052.150,00",
-          "vencedor": "ITAÚ UNIBANCO S.A.",
-          "melhor_oferta": "6.053.000,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
           "total_itens": 1,
           "itens": [
             {
               "numero": "1",
               "especificacao": "CONTRATAÇÃO DE INSTITUIÇÃO FINANCEIRA: ESPECIALIZADA NA PRESTAÇÃO DE SERVIÇOS BANCÁRIOS PARA CENTRALIZAÇÃO, GERENCIAMENTO E PROCESSAMENTO DE CRÉDITOS DA FOLHA DE PAGAMENTO DOS SERVIDORES DA PREFEITURA MUNICIPAL DE TEIXEIRA DE FREITAS/BA.",
-              "unidade": "UN",
+              "unidade": "SERVIÇO",
               "quantidade": "1,00",
               "valor_referencia": "6.052.150,00"
             }
