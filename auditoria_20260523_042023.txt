@@ -1,0 +1,525 @@
+AUDITORIA BLL  23/05/2026 04:20
+Arquivo    : dados.json
+Auditados  : 792
+Alteracoes : 20
+Bloqueados : 0
+Erros      : 0
+
+------------------------------------------------------------------------
+
+ALTERACOES:
+
+  PE-016-2026:
+    * Lote 2 > Fase
+        antes : HABILITAÇÃO
+        depois: EM ADJUDICAÇÃO
+    * Lote 3 > Fase
+        antes : HABILITAÇÃO
+        depois: EM ADJUDICAÇÃO
+    * Lote 4 > Fase
+        antes : HABILITAÇÃO
+        depois: EM ADJUDICAÇÃO
+    * Lote 6 > Fase
+        antes : HABILITAÇÃO
+        depois: EM ADJUDICAÇÃO
+    * Lote 7 > Fase
+        antes : HABILITAÇÃO
+        depois: EM ADJUDICAÇÃO
+    * Lote 8 > Fase
+        antes : HABILITAÇÃO
+        depois: EM ADJUDICAÇÃO
+    * Lote 9 > Fase
+        antes : HABILITAÇÃO
+        depois: EM ADJUDICAÇÃO
+
+  PE-013-2026:
+    * Lote 18 > Fase
+        antes : HABILITAÇÃO
+        depois: FRACASSADO
+    * Lote 18 > Vencedor
+        antes : INFORCOLOR INFORMATICA LTDA
+        depois: (vazio)
+    * Lote 18 > Melhor Oferta
+        antes : 4.278,30
+        depois: 0,00
+    * Lote 19 > Fase
+        antes : HABILITAÇÃO
+        depois: FRACASSADO
+    * Lote 19 > Vencedor
+        antes : ECF COMERCIO E REPRESENTAÇOES
+        depois: (vazio)
+    * Lote 19 > Melhor Oferta
+        antes : 2.880,00
+        depois: 0,00
+    * Lote 4 > Vencedor
+        antes : ECF COMERCIO E REPRESENTAÇOES
+        depois: ISE PASSOS DOS SANTOS LOPES
+    * Lote 4 > Melhor Oferta
+        antes : 9.900,00
+        depois: 10.800,00
+
+  PE-144-2025:
+    * Lote 1 > Vencedor
+        antes : ELETROMUNDI COMÉRCIO E DISTRIBUIDORA DE MATERIAIS ELÉTRICOS LTDA-EPP
+        depois: ELETROMUNDI CONSTRUTORA E ILUMINAÇÃO LTDA
+    * Lote 11 > Vencedor
+        antes : ELETROMUNDI COMÉRCIO E DISTRIBUIDORA DE MATERIAIS ELÉTRICOS LTDA-EPP
+        depois: ELETROMUNDI CONSTRUTORA E ILUMINAÇÃO LTDA
+    * Lote 2 > Vencedor
+        antes : ELETROMUNDI COMÉRCIO E DISTRIBUIDORA DE MATERIAIS ELÉTRICOS LTDA-EPP
+        depois: ELETROMUNDI CONSTRUTORA E ILUMINAÇÃO LTDA
+    * Lote 3 > Vencedor
+        antes : ELETROMUNDI COMÉRCIO E DISTRIBUIDORA DE MATERIAIS ELÉTRICOS LTDA-EPP
+        depois: ELETROMUNDI CONSTRUTORA E ILUMINAÇÃO LTDA
+    * Lote 4 > Vencedor
+        antes : ELETROMUNDI COMÉRCIO E DISTRIBUIDORA DE MATERIAIS ELÉTRICOS LTDA-EPP
+        depois: ELETROMUNDI CONSTRUTORA E ILUMINAÇÃO LTDA
+    * Lote 7 > Vencedor
+        antes : ELETROMUNDI COMÉRCIO E DISTRIBUIDORA DE MATERIAIS ELÉTRICOS LTDA-EPP
+        depois: ELETROMUNDI CONSTRUTORA E ILUMINAÇÃO LTDA
+
+  PE-119-2025:
+    * Lote 101 > Vencedor
+        antes : ELETROMUNDI COMÉRCIO E DISTRIBUIDORA DE MATERIAIS ELÉTRICOS LTDA-EPP
+        depois: ELETROMUNDI CONSTRUTORA E ILUMINAÇÃO LTDA
+    * Lote 106 > Vencedor
+        antes : ELETROMUNDI COMÉRCIO E DISTRIBUIDORA DE MATERIAIS ELÉTRICOS LTDA-EPP
+        depois: ELETROMUNDI CONSTRUTORA E ILUMINAÇÃO LTDA
+    * Lote 109 > Vencedor
+        antes : ELETROMUNDI COMÉRCIO E DISTRIBUIDORA DE MATERIAIS ELÉTRICOS LTDA-EPP
+        depois: ELETROMUNDI CONSTRUTORA E ILUMINAÇÃO LTDA
+    * Lote 110 > Vencedor
+        antes : ELETROMUNDI COMÉRCIO E DISTRIBUIDORA DE MATERIAIS ELÉTRICOS LTDA-EPP
+        depois: ELETROMUNDI CONSTRUTORA E ILUMINAÇÃO LTDA
+    * Lote 122 > Vencedor
+        antes : ELETROMUNDI COMÉRCIO E DISTRIBUIDORA DE MATERIAIS ELÉTRICOS LTDA-EPP
+        depois: ELETROMUNDI CONSTRUTORA E ILUMINAÇÃO LTDA
+    * Lote 126 > Vencedor
+        antes : ELETROMUNDI COMÉRCIO E DISTRIBUIDORA DE MATERIAIS ELÉTRICOS LTDA-EPP
+        depois: ELETROMUNDI CONSTRUTORA E ILUMINAÇÃO LTDA
+    * Lote 130 > Vencedor
+        antes : ELETROMUNDI COMÉRCIO E DISTRIBUIDORA DE MATERIAIS ELÉTRICOS LTDA-EPP
+        depois: ELETROMUNDI CONSTRUTORA E ILUMINAÇÃO LTDA
+    * Lote 131 > Vencedor
+        antes : ELETROMUNDI COMÉRCIO E DISTRIBUIDORA DE MATERIAIS ELÉTRICOS LTDA-EPP
+        depois: ELETROMUNDI CONSTRUTORA E ILUMINAÇÃO LTDA
+    * Lote 136 > Vencedor
+        antes : ELETROMUNDI COMÉRCIO E DISTRIBUIDORA DE MATERIAIS ELÉTRICOS LTDA-EPP
+        depois: ELETROMUNDI CONSTRUTORA E ILUMINAÇÃO LTDA
+    * Lote 137 > Vencedor
+        antes : ELETROMUNDI COMÉRCIO E DISTRIBUIDORA DE MATERIAIS ELÉTRICOS LTDA-EPP
+        depois: ELETROMUNDI CONSTRUTORA E ILUMINAÇÃO LTDA
+    * Lote 2 > Vencedor
+        antes : ELETROMUNDI COMÉRCIO E DISTRIBUIDORA DE MATERIAIS ELÉTRICOS LTDA-EPP
+        depois: ELETROMUNDI CONSTRUTORA E ILUMINAÇÃO LTDA
+    * Lote 28 > Vencedor
+        antes : ELETROMUNDI COMÉRCIO E DISTRIBUIDORA DE MATERIAIS ELÉTRICOS LTDA-EPP
+        depois: ELETROMUNDI CONSTRUTORA E ILUMINAÇÃO LTDA
+    * Lote 3 > Vencedor
+        antes : ELETROMUNDI COMÉRCIO E DISTRIBUIDORA DE MATERIAIS ELÉTRICOS LTDA-EPP
+        depois: ELETROMUNDI CONSTRUTORA E ILUMINAÇÃO LTDA
+    * Lote 31 > Vencedor
+        antes : ELETROMUNDI COMÉRCIO E DISTRIBUIDORA DE MATERIAIS ELÉTRICOS LTDA-EPP
+        depois: ELETROMUNDI CONSTRUTORA E ILUMINAÇÃO LTDA
+    * Lote 33 > Vencedor
+        antes : ELETROMUNDI COMÉRCIO E DISTRIBUIDORA DE MATERIAIS ELÉTRICOS LTDA-EPP
+        depois: ELETROMUNDI CONSTRUTORA E ILUMINAÇÃO LTDA
+    * Lote 34 > Vencedor
+        antes : ELETROMUNDI COMÉRCIO E DISTRIBUIDORA DE MATERIAIS ELÉTRICOS LTDA-EPP
+        depois: ELETROMUNDI CONSTRUTORA E ILUMINAÇÃO LTDA
+    * Lote 38 > Vencedor
+        antes : ELETROMUNDI COMÉRCIO E DISTRIBUIDORA DE MATERIAIS ELÉTRICOS LTDA-EPP
+        depois: ELETROMUNDI CONSTRUTORA E ILUMINAÇÃO LTDA
+    * Lote 39 > Vencedor
+        antes : ELETROMUNDI COMÉRCIO E DISTRIBUIDORA DE MATERIAIS ELÉTRICOS LTDA-EPP
+        depois: ELETROMUNDI CONSTRUTORA E ILUMINAÇÃO LTDA
+    * Lote 40 > Vencedor
+        antes : ELETROMUNDI COMÉRCIO E DISTRIBUIDORA DE MATERIAIS ELÉTRICOS LTDA-EPP
+        depois: ELETROMUNDI CONSTRUTORA E ILUMINAÇÃO LTDA
+    * Lote 43 > Vencedor
+        antes : ELETROMUNDI COMÉRCIO E DISTRIBUIDORA DE MATERIAIS ELÉTRICOS LTDA-EPP
+        depois: ELETROMUNDI CONSTRUTORA E ILUMINAÇÃO LTDA
+    * Lote 54 > Vencedor
+        antes : ELETROMUNDI COMÉRCIO E DISTRIBUIDORA DE MATERIAIS ELÉTRICOS LTDA-EPP
+        depois: ELETROMUNDI CONSTRUTORA E ILUMINAÇÃO LTDA
+    * Lote 55 > Vencedor
+        antes : ELETROMUNDI COMÉRCIO E DISTRIBUIDORA DE MATERIAIS ELÉTRICOS LTDA-EPP
+        depois: ELETROMUNDI CONSTRUTORA E ILUMINAÇÃO LTDA
+    * Lote 56 > Vencedor
+        antes : ELETROMUNDI COMÉRCIO E DISTRIBUIDORA DE MATERIAIS ELÉTRICOS LTDA-EPP
+        depois: ELETROMUNDI CONSTRUTORA E ILUMINAÇÃO LTDA
+    * Lote 57 > Vencedor
+        antes : ELETROMUNDI COMÉRCIO E DISTRIBUIDORA DE MATERIAIS ELÉTRICOS LTDA-EPP
+        depois: ELETROMUNDI CONSTRUTORA E ILUMINAÇÃO LTDA
+    * Lote 6 > Vencedor
+        antes : ELETROMUNDI COMÉRCIO E DISTRIBUIDORA DE MATERIAIS ELÉTRICOS LTDA-EPP
+        depois: ELETROMUNDI CONSTRUTORA E ILUMINAÇÃO LTDA
+    * Lote 7 > Vencedor
+        antes : ELETROMUNDI COMÉRCIO E DISTRIBUIDORA DE MATERIAIS ELÉTRICOS LTDA-EPP
+        depois: ELETROMUNDI CONSTRUTORA E ILUMINAÇÃO LTDA
+    * Lote 70 > Vencedor
+        antes : ELETROMUNDI COMÉRCIO E DISTRIBUIDORA DE MATERIAIS ELÉTRICOS LTDA-EPP
+        depois: ELETROMUNDI CONSTRUTORA E ILUMINAÇÃO LTDA
+    * Lote 77 > Vencedor
+        antes : ELETROMUNDI COMÉRCIO E DISTRIBUIDORA DE MATERIAIS ELÉTRICOS LTDA-EPP
+        depois: ELETROMUNDI CONSTRUTORA E ILUMINAÇÃO LTDA
+    * Lote 8 > Vencedor
+        antes : ELETROMUNDI COMÉRCIO E DISTRIBUIDORA DE MATERIAIS ELÉTRICOS LTDA-EPP
+        depois: ELETROMUNDI CONSTRUTORA E ILUMINAÇÃO LTDA
+    * Lote 80 > Vencedor
+        antes : ELETROMUNDI COMÉRCIO E DISTRIBUIDORA DE MATERIAIS ELÉTRICOS LTDA-EPP
+        depois: ELETROMUNDI CONSTRUTORA E ILUMINAÇÃO LTDA
+    * Lote 84 > Vencedor
+        antes : ELETROMUNDI COMÉRCIO E DISTRIBUIDORA DE MATERIAIS ELÉTRICOS LTDA-EPP
+        depois: ELETROMUNDI CONSTRUTORA E ILUMINAÇÃO LTDA
+    * Lote 85 > Vencedor
+        antes : ELETROMUNDI COMÉRCIO E DISTRIBUIDORA DE MATERIAIS ELÉTRICOS LTDA-EPP
+        depois: ELETROMUNDI CONSTRUTORA E ILUMINAÇÃO LTDA
+    * Lote 86 > Vencedor
+        antes : ELETROMUNDI COMÉRCIO E DISTRIBUIDORA DE MATERIAIS ELÉTRICOS LTDA-EPP
+        depois: ELETROMUNDI CONSTRUTORA E ILUMINAÇÃO LTDA
+    * Lote 88 > Vencedor
+        antes : ELETROMUNDI COMÉRCIO E DISTRIBUIDORA DE MATERIAIS ELÉTRICOS LTDA-EPP
+        depois: ELETROMUNDI CONSTRUTORA E ILUMINAÇÃO LTDA
+    * Lote 89 > Vencedor
+        antes : ELETROMUNDI COMÉRCIO E DISTRIBUIDORA DE MATERIAIS ELÉTRICOS LTDA-EPP
+        depois: ELETROMUNDI CONSTRUTORA E ILUMINAÇÃO LTDA
+    * Lote 90 > Vencedor
+        antes : ELETROMUNDI COMÉRCIO E DISTRIBUIDORA DE MATERIAIS ELÉTRICOS LTDA-EPP
+        depois: ELETROMUNDI CONSTRUTORA E ILUMINAÇÃO LTDA
+    * Lote 92 > Vencedor
+        antes : ELETROMUNDI COMÉRCIO E DISTRIBUIDORA DE MATERIAIS ELÉTRICOS LTDA-EPP
+        depois: ELETROMUNDI CONSTRUTORA E ILUMINAÇÃO LTDA
+    * Lote 95 > Vencedor
+        antes : ELETROMUNDI COMÉRCIO E DISTRIBUIDORA DE MATERIAIS ELÉTRICOS LTDA-EPP
+        depois: ELETROMUNDI CONSTRUTORA E ILUMINAÇÃO LTDA
+    * Lote 96 > Vencedor
+        antes : ELETROMUNDI COMÉRCIO E DISTRIBUIDORA DE MATERIAIS ELÉTRICOS LTDA-EPP
+        depois: ELETROMUNDI CONSTRUTORA E ILUMINAÇÃO LTDA
+    * Lote 98 > Vencedor
+        antes : ELETROMUNDI COMÉRCIO E DISTRIBUIDORA DE MATERIAIS ELÉTRICOS LTDA-EPP
+        depois: ELETROMUNDI CONSTRUTORA E ILUMINAÇÃO LTDA
+
+  PE-113-2025:
+    * Lote 18 > Vencedor
+        antes : ELETROMUNDI COMÉRCIO E DISTRIBUIDORA DE MATERIAIS ELÉTRICOS LTDA-EPP
+        depois: ELETROMUNDI CONSTRUTORA E ILUMINAÇÃO LTDA
+    * Lote 9 > Vencedor
+        antes : ELETROMUNDI COMÉRCIO E DISTRIBUIDORA DE MATERIAIS ELÉTRICOS LTDA-EPP
+        depois: ELETROMUNDI CONSTRUTORA E ILUMINAÇÃO LTDA
+
+  PE-028-2026:
+    * Lote 1 > Fase
+        antes : HABILITAÇÃO
+        depois: EM ADJUDICAÇÃO
+    * Lote 10 > Fase
+        antes : HABILITAÇÃO
+        depois: EM ADJUDICAÇÃO
+    * Lote 11 > Fase
+        antes : HABILITAÇÃO
+        depois: EM ADJUDICAÇÃO
+    * Lote 12 > Fase
+        antes : HABILITAÇÃO
+        depois: EM ADJUDICAÇÃO
+    * Lote 13 > Fase
+        antes : HABILITAÇÃO
+        depois: EM ADJUDICAÇÃO
+    * Lote 14 > Fase
+        antes : HABILITAÇÃO
+        depois: EM ADJUDICAÇÃO
+    * Lote 14 > Melhor Oferta
+        antes : 8.606,25
+        depois: 8.606,15
+    * Lote 15 > Fase
+        antes : HABILITAÇÃO
+        depois: EM ADJUDICAÇÃO
+    * Lote 16 > Fase
+        antes : HABILITAÇÃO
+        depois: EM ADJUDICAÇÃO
+    * Lote 17 > Fase
+        antes : HABILITAÇÃO
+        depois: EM ADJUDICAÇÃO
+    * Lote 18 > Fase
+        antes : HABILITAÇÃO
+        depois: EM ADJUDICAÇÃO
+    * Lote 2 > Fase
+        antes : HABILITAÇÃO
+        depois: EM ADJUDICAÇÃO
+    * Lote 3 > Fase
+        antes : HABILITAÇÃO
+        depois: EM ADJUDICAÇÃO
+    * Lote 4 > Fase
+        antes : HABILITAÇÃO
+        depois: EM ADJUDICAÇÃO
+    * Lote 6 > Fase
+        antes : HABILITAÇÃO
+        depois: EM ADJUDICAÇÃO
+    * Lote 7 > Fase
+        antes : HABILITAÇÃO
+        depois: EM ADJUDICAÇÃO
+    * Lote 8 > Fase
+        antes : HABILITAÇÃO
+        depois: EM ADJUDICAÇÃO
+    * Lote 9 > Fase
+        antes : HABILITAÇÃO
+        depois: EM ADJUDICAÇÃO
+
+  PE-035-2026:
+    * Lote 1 > Fase
+        antes : JULGAMENTO DE RECURSOS
+        depois: HABILITAÇÃO
+    * Lote 1 > Vencedor
+        antes : WDCL COMÉRCIO E SERVIÇOS LTDA
+        depois: MALTA MIX ATACADO E SERVICOS LTDA
+    * Lote 1 > Melhor Oferta
+        antes : 519.988,70
+        depois: 920.150,00
+
+  PE-041-2026:
+    * Lote 1 > Fase
+        antes : HABILITAÇÃO
+        depois: EM ADJUDICAÇÃO
+    * Lote 10 > Fase
+        antes : HABILITAÇÃO
+        depois: EM ADJUDICAÇÃO
+    * Lote 11 > Fase
+        antes : HABILITAÇÃO
+        depois: CANCELADO
+    * Lote 11 > Vencedor
+        antes : ENGEFER.MDS LTDA
+        depois: (vazio)
+    * Lote 11 > Melhor Oferta
+        antes : 3.950,00
+        depois: 0,00
+    * Lote 12 > Fase
+        antes : HABILITAÇÃO
+        depois: CANCELADO
+    * Lote 12 > Vencedor
+        antes : ALUBAN EVENTOS LTDA
+        depois: (vazio)
+    * Lote 12 > Melhor Oferta
+        antes : 32.000,00
+        depois: 0,00
+    * Lote 13 > Fase
+        antes : HABILITAÇÃO
+        depois: CANCELADO
+    * Lote 13 > Vencedor
+        antes : AM MOREIRA GONÇALVES E CIA LTDA
+        depois: (vazio)
+    * Lote 13 > Melhor Oferta
+        antes : 26.050,00
+        depois: 0,00
+    * Lote 2 > Fase
+        antes : HABILITAÇÃO
+        depois: CANCELADO
+    * Lote 2 > Vencedor
+        antes : ALUBAN EVENTOS LTDA
+        depois: (vazio)
+    * Lote 2 > Melhor Oferta
+        antes : 25.000,00
+        depois: 0,00
+    * Lote 2 > Valor Ref.
+        antes : 78.364,00
+        depois: 28.496,00
+    * Lote 2 > Item 1 > quantidade
+        antes : 220,00
+        depois: 80,00
+    * Lote 3 > Fase
+        antes : HABILITAÇÃO
+        depois: EM ADJUDICAÇÃO
+    * Lote 3 > Melhor Oferta
+        antes : 16.000,00
+        depois: 15.999,90
+    * Lote 4 > Fase
+        antes : HABILITAÇÃO
+        depois: EM ADJUDICAÇÃO
+    * Lote 4 > Melhor Oferta
+        antes : 25.000,00
+        depois: 24.999,91
+    * Lote 5 > Fase
+        antes : HABILITAÇÃO
+        depois: CANCELADO
+    * Lote 5 > Vencedor
+        antes : CLIFAIS VENDAS LOCACOES E EVENTOS LTDA
+        depois: (vazio)
+    * Lote 5 > Melhor Oferta
+        antes : 135.000,00
+        depois: 0,00
+    * Lote 6 > Fase
+        antes : HABILITAÇÃO
+        depois: EM ADJUDICAÇÃO
+    * Lote 6 > Vencedor
+        antes : ENGEFER.MDS LTDA
+        depois: AM MOREIRA GONÇALVES E CIA LTDA
+    * Lote 7 > Fase
+        antes : HABILITAÇÃO
+        depois: CANCELADO
+    * Lote 7 > Vencedor
+        antes : AM MOREIRA GONÇALVES E CIA LTDA
+        depois: (vazio)
+    * Lote 7 > Melhor Oferta
+        antes : 78.150,00
+        depois: 0,00
+    * Lote 9 > Fase
+        antes : HABILITAÇÃO
+        depois: EM ADJUDICAÇÃO
+
+  PE-044-2026:
+    * Lote 10 > Fase
+        antes : HABILITAÇÃO
+        depois: EM ADJUDICAÇÃO
+    * Lote 11 > Fase
+        antes : HABILITAÇÃO
+        depois: EM ADJUDICAÇÃO
+    * Lote 13 > Fase
+        antes : HABILITAÇÃO
+        depois: EM ADJUDICAÇÃO
+    * Lote 14 > Fase
+        antes : HABILITAÇÃO
+        depois: EM ADJUDICAÇÃO
+    * Lote 15 > Fase
+        antes : HABILITAÇÃO
+        depois: EM ADJUDICAÇÃO
+    * Lote 16 > Fase
+        antes : HABILITAÇÃO
+        depois: EM ADJUDICAÇÃO
+    * Lote 17 > Fase
+        antes : HABILITAÇÃO
+        depois: EM ADJUDICAÇÃO
+    * Lote 18 > Fase
+        antes : HABILITAÇÃO
+        depois: EM ADJUDICAÇÃO
+    * Lote 19 > Fase
+        antes : HABILITAÇÃO
+        depois: EM ADJUDICAÇÃO
+    * Lote 2 > Fase
+        antes : HABILITAÇÃO
+        depois: EM ADJUDICAÇÃO
+    * Lote 24 > Fase
+        antes : HABILITAÇÃO
+        depois: EM ADJUDICAÇÃO
+    * Lote 25 > Fase
+        antes : HABILITAÇÃO
+        depois: EM ADJUDICAÇÃO
+    * Lote 35 > Fase
+        antes : HABILITAÇÃO
+        depois: EM ADJUDICAÇÃO
+    * Lote 36 > Fase
+        antes : HABILITAÇÃO
+        depois: EM ADJUDICAÇÃO
+    * Lote 38 > Fase
+        antes : HABILITAÇÃO
+        depois: EM ADJUDICAÇÃO
+    * Lote 39 > Fase
+        antes : HABILITAÇÃO
+        depois: EM ADJUDICAÇÃO
+    * Lote 47 > Fase
+        antes : HABILITAÇÃO
+        depois: EM ADJUDICAÇÃO
+    * Lote 68 > Fase
+        antes : HABILITAÇÃO
+        depois: EM ADJUDICAÇÃO
+    * Lote 69 > Fase
+        antes : HABILITAÇÃO
+        depois: EM ADJUDICAÇÃO
+    * Lote 70 > Fase
+        antes : HABILITAÇÃO
+        depois: EM ADJUDICAÇÃO
+    * Lote 71 > Fase
+        antes : HABILITAÇÃO
+        depois: EM ADJUDICAÇÃO
+    * Lote 72 > Fase
+        antes : HABILITAÇÃO
+        depois: EM ADJUDICAÇÃO
+    * Lote 74 > Fase
+        antes : HABILITAÇÃO
+        depois: EM ADJUDICAÇÃO
+    * Lote 75 > Fase
+        antes : HABILITAÇÃO
+        depois: EM ADJUDICAÇÃO
+    * Lote 76 > Fase
+        antes : HABILITAÇÃO
+        depois: EM ADJUDICAÇÃO
+    * Lote 77 > Fase
+        antes : HABILITAÇÃO
+        depois: EM ADJUDICAÇÃO
+    * Lote 8 > Fase
+        antes : HABILITAÇÃO
+        depois: EM ADJUDICAÇÃO
+    * Lote 9 > Fase
+        antes : HABILITAÇÃO
+        depois: EM ADJUDICAÇÃO
+
+  PE-057-2026:
+    * Lote 1 > Fase
+        antes : HABILITAÇÃO
+        depois: EM ADJUDICAÇÃO
+
+  PE-059-2026:
+    * Lote 1 > Fase
+        antes : HABILITAÇÃO
+        depois: RECEPÇÃO DE CONTRARRAZÕES
+
+  CE-003-2026:
+    * Lote 1 > Vencedor
+        antes : SEVEN ENGENHARIA E CONSTRUÇÃO LTDA
+        depois: CONSTRUTORA JF PRADO LTDA
+    * Lote 1 > Melhor Oferta
+        antes : 5.441.726,31
+        depois: 5.641.752,07
+
+  PE-075-2026:
+    * Fim Recepcao
+        antes : 21/05/2026 09:45
+        depois: 01/06/2026 08:45
+    * Inicio Disputa
+        antes : 21/05/2026 10:00
+        depois: 01/06/2026 09:00
+
+  PE-066-2026:
+    * Lote 1 > Fase
+        antes : HABILITAÇÃO
+        depois: EM ADJUDICAÇÃO
+
+  PE-056-2026:
+    * Lote 1 > Fase
+        antes : HABILITAÇÃO
+        depois: EM ADJUDICAÇÃO
+
+  PE-076-2026:
+    * Total Itens
+        antes : 26
+        depois: 17
+    * Lote 2
+        antes : (nao existia)
+        depois: adicionado: UNIFORMES PADRONIZADOS
+
+  PE-063-2026:
+    * Lote 1 > Fase
+        antes : HABILITAÇÃO
+        depois: INTERPOSIÇÃO DE RECURSOS
+
+  PE-080-2026:
+    * Lote 13
+        antes : (nao existia)
+        depois: adicionado: 9900515566 Buchas de nylon para fixação, compatíveis com...
+    * Lote 3
+        antes : (nao existia)
+        depois: adicionado: 9900830443 Poste de voleibol móvel:par, com altura ajust...
+
+  PE-071-2026:
+    * Lote 11
+        antes : (nao existia)
+        depois: adicionado: 9900830493 CAMA HOSPITALAR COM RODAS:CamaHospitalar; Mov...
+    * Lote 8
+        antes : (nao existia)
+        depois: adicionado: 37310 MESA TIPO MAYO:Inoxidável Com Bandeja Inox 48X32cm...
+
+  PE-070-2026:
+    * Lote 3
+        antes : (nao existia)
+        depois: adicionado: 9900515333 LUPAS DE APOIO COM ILUMINAÇÃO:lupas comsuport...
+    * Lote 7
+        antes : (nao existia)
+        depois: adicionado: 9900515336 ÓCULOS COM LENTES CORRETIVAS IGUAISMAIORES QU...
+

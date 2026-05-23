@@ -3,8 +3,8 @@
     "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
     "total_processos": 792,
     "total_lotes": 8760,
-    "total_itens": 15001,
-    "atualizado_em": "20260522_193506"
+    "total_itens": 14992,
+    "atualizado_em": "20260523_193510"
   },
   "processos": [
     {
@@ -1264,7 +1264,7 @@
         {
           "numero": "2",
           "titulo": "CAMISAS",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -1358,7 +1358,7 @@
         {
           "numero": "3",
           "titulo": "CALÇADOS",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -1424,7 +1424,7 @@
         {
           "numero": "4",
           "titulo": "CALÇAS",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -1591,7 +1591,7 @@
         {
           "numero": "6",
           "titulo": "MOCHILAS",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -1643,7 +1643,7 @@
         {
           "numero": "7",
           "titulo": "JALECOS",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -1674,7 +1674,7 @@
         {
           "numero": "8",
           "titulo": "CINTO",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -1698,7 +1698,7 @@
         {
           "numero": "9",
           "titulo": "MACACÃO VETERINÁRIO",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -1822,8 +1822,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "16.800,00",
-          "vencedor": "ECF COMERCIO E REPRESENTAÇOES",
-          "melhor_oferta": "9.900,00",
+          "vencedor": "ISE PASSOS DOS SANTOS LOPES",
+          "melhor_oferta": "10.800,00",
           "total_itens": 1,
           "itens": [
             {
@@ -2150,7 +2150,7 @@
         {
           "numero": "18",
           "titulo": "5707611120 FONTE UBIQUITI POE 48 V 0,5ª:- DIMENSÕES:91,8 X 59,9 X 33 MM (3,61 X 2,36 X 1,30 POL.)- VOLTAGEM DE SAÍDA: 48VDC @ 0.5A- TENSÃO DE ENTRADA: 90-260VAC A 47-63 HZ- CORRENTE DE ENTRADA: 0.6A @ 120VAC, 0.4A @ 240VAC- CORRENTE DE IRRUPÇÃO: <65A",
-          "fase": "HABILITAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -2158,8 +2158,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "4.278,30",
-          "vencedor": "INFORCOLOR INFORMATICA LTDA",
-          "melhor_oferta": "4.278,30",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
           "total_itens": 1,
           "itens": [
             {
@@ -2174,7 +2174,7 @@
         {
           "numero": "19",
           "titulo": "6104500010 PATCH CORD CAT5E 1,5 MAMARELO:Informações TécnicasModelo: FlexívelTemperatura máxima de trabalho: 80°CCategoria: 5e (CAT5e) Cor: Amarelo Comprimento: 1,5M Homologação: AnatelTransmissão de até 1000 Mbps e limite desempenho 100 Mhz Modelo d",
-          "fase": "HABILITAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -2182,8 +2182,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "2.985,60",
-          "vencedor": "ECF COMERCIO E REPRESENTAÇOES",
-          "melhor_oferta": "2.880,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
           "total_itens": 1,
           "itens": [
             {
@@ -19880,7 +19880,7 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "65.328,00",
-          "vencedor": "ELETROMUNDI COMÉRCIO E DISTRIBUIDORA DE MATERIAIS ELÉTRICOS LTDA-EPP",
+          "vencedor": "ELETROMUNDI CONSTRUTORA E ILUMINAÇÃO LTDA",
           "melhor_oferta": "33.240,00",
           "total_itens": 1,
           "itens": [
@@ -19904,7 +19904,7 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "47.520,00",
-          "vencedor": "ELETROMUNDI COMÉRCIO E DISTRIBUIDORA DE MATERIAIS ELÉTRICOS LTDA-EPP",
+          "vencedor": "ELETROMUNDI CONSTRUTORA E ILUMINAÇÃO LTDA",
           "melhor_oferta": "24.480,00",
           "total_itens": 1,
           "itens": [
@@ -19928,7 +19928,7 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "60.760,00",
-          "vencedor": "ELETROMUNDI COMÉRCIO E DISTRIBUIDORA DE MATERIAIS ELÉTRICOS LTDA-EPP",
+          "vencedor": "ELETROMUNDI CONSTRUTORA E ILUMINAÇÃO LTDA",
           "melhor_oferta": "35.980,00",
           "total_itens": 1,
           "itens": [
@@ -19952,7 +19952,7 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "30.140,00",
-          "vencedor": "ELETROMUNDI COMÉRCIO E DISTRIBUIDORA DE MATERIAIS ELÉTRICOS LTDA-EPP",
+          "vencedor": "ELETROMUNDI CONSTRUTORA E ILUMINAÇÃO LTDA",
           "melhor_oferta": "22.500,00",
           "total_itens": 1,
           "itens": [
@@ -20024,7 +20024,7 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "73.744,00",
-          "vencedor": "ELETROMUNDI COMÉRCIO E DISTRIBUIDORA DE MATERIAIS ELÉTRICOS LTDA-EPP",
+          "vencedor": "ELETROMUNDI CONSTRUTORA E ILUMINAÇÃO LTDA",
           "melhor_oferta": "65.216,00",
           "total_itens": 1,
           "itens": [
@@ -20120,7 +20120,7 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "49.320,00",
-          "vencedor": "ELETROMUNDI COMÉRCIO E DISTRIBUIDORA DE MATERIAIS ELÉTRICOS LTDA-EPP",
+          "vencedor": "ELETROMUNDI CONSTRUTORA E ILUMINAÇÃO LTDA",
           "melhor_oferta": "45.880,00",
           "total_itens": 1,
           "itens": [
@@ -28992,7 +28992,7 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "976,14",
-          "vencedor": "ELETROMUNDI COMÉRCIO E DISTRIBUIDORA DE MATERIAIS ELÉTRICOS LTDA-EPP",
+          "vencedor": "ELETROMUNDI CONSTRUTORA E ILUMINAÇÃO LTDA",
           "melhor_oferta": "526,32",
           "total_itens": 1,
           "itens": [
@@ -29016,7 +29016,7 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "715,54",
-          "vencedor": "ELETROMUNDI COMÉRCIO E DISTRIBUIDORA DE MATERIAIS ELÉTRICOS LTDA-EPP",
+          "vencedor": "ELETROMUNDI CONSTRUTORA E ILUMINAÇÃO LTDA",
           "melhor_oferta": "417,62",
           "total_itens": 1,
           "itens": [
@@ -29088,7 +29088,7 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "573,60",
-          "vencedor": "ELETROMUNDI COMÉRCIO E DISTRIBUIDORA DE MATERIAIS ELÉTRICOS LTDA-EPP",
+          "vencedor": "ELETROMUNDI CONSTRUTORA E ILUMINAÇÃO LTDA",
           "melhor_oferta": "303,00",
           "total_itens": 1,
           "itens": [
@@ -29112,7 +29112,7 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "2.437,20",
-          "vencedor": "ELETROMUNDI COMÉRCIO E DISTRIBUIDORA DE MATERIAIS ELÉTRICOS LTDA-EPP",
+          "vencedor": "ELETROMUNDI CONSTRUTORA E ILUMINAÇÃO LTDA",
           "melhor_oferta": "1.963,20",
           "total_itens": 1,
           "itens": [
@@ -29136,7 +29136,7 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "5.619,60",
-          "vencedor": "ELETROMUNDI COMÉRCIO E DISTRIBUIDORA DE MATERIAIS ELÉTRICOS LTDA-EPP",
+          "vencedor": "ELETROMUNDI CONSTRUTORA E ILUMINAÇÃO LTDA",
           "melhor_oferta": "4.368,00",
           "total_itens": 1,
           "itens": [
@@ -29616,7 +29616,7 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "222,53",
-          "vencedor": "ELETROMUNDI COMÉRCIO E DISTRIBUIDORA DE MATERIAIS ELÉTRICOS LTDA-EPP",
+          "vencedor": "ELETROMUNDI CONSTRUTORA E ILUMINAÇÃO LTDA",
           "melhor_oferta": "147,73",
           "total_itens": 1,
           "itens": [
@@ -29688,7 +29688,7 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "671,10",
-          "vencedor": "ELETROMUNDI COMÉRCIO E DISTRIBUIDORA DE MATERIAIS ELÉTRICOS LTDA-EPP",
+          "vencedor": "ELETROMUNDI CONSTRUTORA E ILUMINAÇÃO LTDA",
           "melhor_oferta": "564,60",
           "total_itens": 1,
           "itens": [
@@ -29736,7 +29736,7 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "1.149,00",
-          "vencedor": "ELETROMUNDI COMÉRCIO E DISTRIBUIDORA DE MATERIAIS ELÉTRICOS LTDA-EPP",
+          "vencedor": "ELETROMUNDI CONSTRUTORA E ILUMINAÇÃO LTDA",
           "melhor_oferta": "1.058,40",
           "total_itens": 1,
           "itens": [
@@ -29760,7 +29760,7 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "1.666,20",
-          "vencedor": "ELETROMUNDI COMÉRCIO E DISTRIBUIDORA DE MATERIAIS ELÉTRICOS LTDA-EPP",
+          "vencedor": "ELETROMUNDI CONSTRUTORA E ILUMINAÇÃO LTDA",
           "melhor_oferta": "1.397,40",
           "total_itens": 1,
           "itens": [
@@ -29856,7 +29856,7 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "5.744,64",
-          "vencedor": "ELETROMUNDI COMÉRCIO E DISTRIBUIDORA DE MATERIAIS ELÉTRICOS LTDA-EPP",
+          "vencedor": "ELETROMUNDI CONSTRUTORA E ILUMINAÇÃO LTDA",
           "melhor_oferta": "4.717,44",
           "total_itens": 1,
           "itens": [
@@ -29880,7 +29880,7 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "10.533,60",
-          "vencedor": "ELETROMUNDI COMÉRCIO E DISTRIBUIDORA DE MATERIAIS ELÉTRICOS LTDA-EPP",
+          "vencedor": "ELETROMUNDI CONSTRUTORA E ILUMINAÇÃO LTDA",
           "melhor_oferta": "5.502,00",
           "total_itens": 1,
           "itens": [
@@ -29904,7 +29904,7 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "1.811,16",
-          "vencedor": "ELETROMUNDI COMÉRCIO E DISTRIBUIDORA DE MATERIAIS ELÉTRICOS LTDA-EPP",
+          "vencedor": "ELETROMUNDI CONSTRUTORA E ILUMINAÇÃO LTDA",
           "melhor_oferta": "1.495,26",
           "total_itens": 1,
           "itens": [
@@ -29976,7 +29976,7 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "1.251,60",
-          "vencedor": "ELETROMUNDI COMÉRCIO E DISTRIBUIDORA DE MATERIAIS ELÉTRICOS LTDA-EPP",
+          "vencedor": "ELETROMUNDI CONSTRUTORA E ILUMINAÇÃO LTDA",
           "melhor_oferta": "666,60",
           "total_itens": 1,
           "itens": [
@@ -30240,7 +30240,7 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "420,67",
-          "vencedor": "ELETROMUNDI COMÉRCIO E DISTRIBUIDORA DE MATERIAIS ELÉTRICOS LTDA-EPP",
+          "vencedor": "ELETROMUNDI CONSTRUTORA E ILUMINAÇÃO LTDA",
           "melhor_oferta": "338,66",
           "total_itens": 1,
           "itens": [
@@ -30264,7 +30264,7 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "506,16",
-          "vencedor": "ELETROMUNDI COMÉRCIO E DISTRIBUIDORA DE MATERIAIS ELÉTRICOS LTDA-EPP",
+          "vencedor": "ELETROMUNDI CONSTRUTORA E ILUMINAÇÃO LTDA",
           "melhor_oferta": "413,28",
           "total_itens": 1,
           "itens": [
@@ -30288,7 +30288,7 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "843,30",
-          "vencedor": "ELETROMUNDI COMÉRCIO E DISTRIBUIDORA DE MATERIAIS ELÉTRICOS LTDA-EPP",
+          "vencedor": "ELETROMUNDI CONSTRUTORA E ILUMINAÇÃO LTDA",
           "melhor_oferta": "516,60",
           "total_itens": 1,
           "itens": [
@@ -30312,7 +30312,7 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "1.020,60",
-          "vencedor": "ELETROMUNDI COMÉRCIO E DISTRIBUIDORA DE MATERIAIS ELÉTRICOS LTDA-EPP",
+          "vencedor": "ELETROMUNDI CONSTRUTORA E ILUMINAÇÃO LTDA",
           "melhor_oferta": "619,92",
           "total_itens": 1,
           "itens": [
@@ -30624,7 +30624,7 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "3.936,60",
-          "vencedor": "ELETROMUNDI COMÉRCIO E DISTRIBUIDORA DE MATERIAIS ELÉTRICOS LTDA-EPP",
+          "vencedor": "ELETROMUNDI CONSTRUTORA E ILUMINAÇÃO LTDA",
           "melhor_oferta": "2.483,40",
           "total_itens": 1,
           "itens": [
@@ -30792,7 +30792,7 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "16.822,17",
-          "vencedor": "ELETROMUNDI COMÉRCIO E DISTRIBUIDORA DE MATERIAIS ELÉTRICOS LTDA-EPP",
+          "vencedor": "ELETROMUNDI CONSTRUTORA E ILUMINAÇÃO LTDA",
           "melhor_oferta": "13.038,21",
           "total_itens": 1,
           "itens": [
@@ -30864,7 +30864,7 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "11.541,60",
-          "vencedor": "ELETROMUNDI COMÉRCIO E DISTRIBUIDORA DE MATERIAIS ELÉTRICOS LTDA-EPP",
+          "vencedor": "ELETROMUNDI CONSTRUTORA E ILUMINAÇÃO LTDA",
           "melhor_oferta": "8.341,20",
           "total_itens": 1,
           "itens": [
@@ -30960,7 +30960,7 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "968,66",
-          "vencedor": "ELETROMUNDI COMÉRCIO E DISTRIBUIDORA DE MATERIAIS ELÉTRICOS LTDA-EPP",
+          "vencedor": "ELETROMUNDI CONSTRUTORA E ILUMINAÇÃO LTDA",
           "melhor_oferta": "660,45",
           "total_itens": 1,
           "itens": [
@@ -30984,7 +30984,7 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "836,40",
-          "vencedor": "ELETROMUNDI COMÉRCIO E DISTRIBUIDORA DE MATERIAIS ELÉTRICOS LTDA-EPP",
+          "vencedor": "ELETROMUNDI CONSTRUTORA E ILUMINAÇÃO LTDA",
           "melhor_oferta": "588,30",
           "total_itens": 1,
           "itens": [
@@ -31008,7 +31008,7 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "1.023,10",
-          "vencedor": "ELETROMUNDI COMÉRCIO E DISTRIBUIDORA DE MATERIAIS ELÉTRICOS LTDA-EPP",
+          "vencedor": "ELETROMUNDI CONSTRUTORA E ILUMINAÇÃO LTDA",
           "melhor_oferta": "588,30",
           "total_itens": 1,
           "itens": [
@@ -31056,7 +31056,7 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "2.551,92",
-          "vencedor": "ELETROMUNDI COMÉRCIO E DISTRIBUIDORA DE MATERIAIS ELÉTRICOS LTDA-EPP",
+          "vencedor": "ELETROMUNDI CONSTRUTORA E ILUMINAÇÃO LTDA",
           "melhor_oferta": "2.275,92",
           "total_itens": 1,
           "itens": [
@@ -31080,7 +31080,7 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "1.640,85",
-          "vencedor": "ELETROMUNDI COMÉRCIO E DISTRIBUIDORA DE MATERIAIS ELÉTRICOS LTDA-EPP",
+          "vencedor": "ELETROMUNDI CONSTRUTORA E ILUMINAÇÃO LTDA",
           "melhor_oferta": "973,80",
           "total_itens": 1,
           "itens": [
@@ -31104,7 +31104,7 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "6.780,96",
-          "vencedor": "ELETROMUNDI COMÉRCIO E DISTRIBUIDORA DE MATERIAIS ELÉTRICOS LTDA-EPP",
+          "vencedor": "ELETROMUNDI CONSTRUTORA E ILUMINAÇÃO LTDA",
           "melhor_oferta": "4.820,16",
           "total_itens": 1,
           "itens": [
@@ -31152,7 +31152,7 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "1.111,68",
-          "vencedor": "ELETROMUNDI COMÉRCIO E DISTRIBUIDORA DE MATERIAIS ELÉTRICOS LTDA-EPP",
+          "vencedor": "ELETROMUNDI CONSTRUTORA E ILUMINAÇÃO LTDA",
           "melhor_oferta": "954,36",
           "total_itens": 1,
           "itens": [
@@ -31224,7 +31224,7 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "173,40",
-          "vencedor": "ELETROMUNDI COMÉRCIO E DISTRIBUIDORA DE MATERIAIS ELÉTRICOS LTDA-EPP",
+          "vencedor": "ELETROMUNDI CONSTRUTORA E ILUMINAÇÃO LTDA",
           "melhor_oferta": "100,68",
           "total_itens": 1,
           "itens": [
@@ -31248,7 +31248,7 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "1.408,32",
-          "vencedor": "ELETROMUNDI COMÉRCIO E DISTRIBUIDORA DE MATERIAIS ELÉTRICOS LTDA-EPP",
+          "vencedor": "ELETROMUNDI CONSTRUTORA E ILUMINAÇÃO LTDA",
           "melhor_oferta": "705,96",
           "total_itens": 1,
           "itens": [
@@ -31296,7 +31296,7 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "11.197,71",
-          "vencedor": "ELETROMUNDI COMÉRCIO E DISTRIBUIDORA DE MATERIAIS ELÉTRICOS LTDA-EPP",
+          "vencedor": "ELETROMUNDI CONSTRUTORA E ILUMINAÇÃO LTDA",
           "melhor_oferta": "5.662,17",
           "total_itens": 1,
           "itens": [
@@ -31368,7 +31368,7 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "6.974,52",
-          "vencedor": "ELETROMUNDI COMÉRCIO E DISTRIBUIDORA DE MATERIAIS ELÉTRICOS LTDA-EPP",
+          "vencedor": "ELETROMUNDI CONSTRUTORA E ILUMINAÇÃO LTDA",
           "melhor_oferta": "4.079,30",
           "total_itens": 1,
           "itens": [
@@ -31488,7 +31488,7 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "2.525,25",
-          "vencedor": "ELETROMUNDI COMÉRCIO E DISTRIBUIDORA DE MATERIAIS ELÉTRICOS LTDA-EPP",
+          "vencedor": "ELETROMUNDI CONSTRUTORA E ILUMINAÇÃO LTDA",
           "melhor_oferta": "1.370,85",
           "total_itens": 1,
           "itens": [
@@ -31560,7 +31560,7 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "658,32",
-          "vencedor": "ELETROMUNDI COMÉRCIO E DISTRIBUIDORA DE MATERIAIS ELÉTRICOS LTDA-EPP",
+          "vencedor": "ELETROMUNDI CONSTRUTORA E ILUMINAÇÃO LTDA",
           "melhor_oferta": "413,40",
           "total_itens": 1,
           "itens": [
@@ -31584,7 +31584,7 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "367,62",
-          "vencedor": "ELETROMUNDI COMÉRCIO E DISTRIBUIDORA DE MATERIAIS ELÉTRICOS LTDA-EPP",
+          "vencedor": "ELETROMUNDI CONSTRUTORA E ILUMINAÇÃO LTDA",
           "melhor_oferta": "221,10",
           "total_itens": 1,
           "itens": [
@@ -31872,7 +31872,7 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "264,00",
-          "vencedor": "ELETROMUNDI COMÉRCIO E DISTRIBUIDORA DE MATERIAIS ELÉTRICOS LTDA-EPP",
+          "vencedor": "ELETROMUNDI CONSTRUTORA E ILUMINAÇÃO LTDA",
           "melhor_oferta": "133,20",
           "total_itens": 1,
           "itens": [
@@ -31968,7 +31968,7 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "173,70",
-          "vencedor": "ELETROMUNDI COMÉRCIO E DISTRIBUIDORA DE MATERIAIS ELÉTRICOS LTDA-EPP",
+          "vencedor": "ELETROMUNDI CONSTRUTORA E ILUMINAÇÃO LTDA",
           "melhor_oferta": "143,10",
           "total_itens": 1,
           "itens": [
@@ -32064,7 +32064,7 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "193,80",
-          "vencedor": "ELETROMUNDI COMÉRCIO E DISTRIBUIDORA DE MATERIAIS ELÉTRICOS LTDA-EPP",
+          "vencedor": "ELETROMUNDI CONSTRUTORA E ILUMINAÇÃO LTDA",
           "melhor_oferta": "102,60",
           "total_itens": 1,
           "itens": [
@@ -32088,7 +32088,7 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "195,84",
-          "vencedor": "ELETROMUNDI COMÉRCIO E DISTRIBUIDORA DE MATERIAIS ELÉTRICOS LTDA-EPP",
+          "vencedor": "ELETROMUNDI CONSTRUTORA E ILUMINAÇÃO LTDA",
           "melhor_oferta": "106,08",
           "total_itens": 1,
           "itens": [
@@ -32208,7 +32208,7 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "326,43",
-          "vencedor": "ELETROMUNDI COMÉRCIO E DISTRIBUIDORA DE MATERIAIS ELÉTRICOS LTDA-EPP",
+          "vencedor": "ELETROMUNDI CONSTRUTORA E ILUMINAÇÃO LTDA",
           "melhor_oferta": "248,13",
           "total_itens": 1,
           "itens": [
@@ -32232,7 +32232,7 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "1.758,12",
-          "vencedor": "ELETROMUNDI COMÉRCIO E DISTRIBUIDORA DE MATERIAIS ELÉTRICOS LTDA-EPP",
+          "vencedor": "ELETROMUNDI CONSTRUTORA E ILUMINAÇÃO LTDA",
           "melhor_oferta": "1.020,18",
           "total_itens": 1,
           "itens": [
@@ -38894,7 +38894,7 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "116.080,20",
-          "vencedor": "ELETROMUNDI COMÉRCIO E DISTRIBUIDORA DE MATERIAIS ELÉTRICOS LTDA-EPP",
+          "vencedor": "ELETROMUNDI CONSTRUTORA E ILUMINAÇÃO LTDA",
           "melhor_oferta": "55.641,60",
           "total_itens": 1,
           "itens": [
@@ -39110,7 +39110,7 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "38.693,40",
-          "vencedor": "ELETROMUNDI COMÉRCIO E DISTRIBUIDORA DE MATERIAIS ELÉTRICOS LTDA-EPP",
+          "vencedor": "ELETROMUNDI CONSTRUTORA E ILUMINAÇÃO LTDA",
           "melhor_oferta": "18.547,20",
           "total_itens": 1,
           "itens": [
@@ -230121,7 +230121,7 @@
         {
           "numero": "1",
           "titulo": "9900515212 LUVA CORRER C/ANEL, PVC 110MM P/ÁGUA FRIA:LUVA CORRER C/ANEL, PVC 110MM P/ÁGUA FRIA.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -230145,7 +230145,7 @@
         {
           "numero": "2",
           "titulo": "9900515213 LUVA PVC CORRER ESGOTO DN 200MM C/ANEL:LUVA, PVC CORRER ESGOTO DN 200MM, C/ANEL.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -230169,7 +230169,7 @@
         {
           "numero": "3",
           "titulo": "9900515214 CAP SOLDAVEL, PVC 110 MM P/ÁGUA FRIA 1ª LINHA:CAP SOLDADEL, PVC 110MM P/ÁGUA FRIA 1ª LINHA.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -230193,7 +230193,7 @@
         {
           "numero": "4",
           "titulo": "9900515215 CURVA SOLDAVEL, PVC 90°, 75MM P/ÁGUA FRIA PREDIAL:CURVA SOLDAVEL, PVC 90°, 75MM P/ ÁGUA FRIA PREDIA.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -230241,7 +230241,7 @@
         {
           "numero": "6",
           "titulo": "9900515217 CURVA PVC ESGOTO 90°, DN 200MM:CURVA PVC ESGOTO 90°, DN 200MM.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -230265,7 +230265,7 @@
         {
           "numero": "7",
           "titulo": "9900515218 JOELHO SOLDAVEL, PVC 90°, 110MM P/ ÁGUA FRIA PREDIAL:JOELHO SOLDAVEL, PVC 90° 110MM P/ ÁGUA FRIA PREDIAL.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -230289,7 +230289,7 @@
         {
           "numero": "8",
           "titulo": "9900515219 TUBO DE LIGAÇÃO SANFONADO PARA VASO SANITARIO:TUBO DE LIGAÇÃO SANFONADO PARA VASOSANITARIO.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -230313,7 +230313,7 @@
         {
           "numero": "9",
           "titulo": "9900515220 ADAPTADOR SOLDAVEL FLANGE P/ CAIXA D'ÁGUA 75MM:ADAPTADOR SOLDAVEL FLANGE P/ CAIXA D'ÁGUA 75MM.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -230337,7 +230337,7 @@
         {
           "numero": "10",
           "titulo": "9900515221 ADAPTADOR SOLDAVEL FLANGE P/ CAIXA D'ÁGUA 110MM:ADAPTADOR SOLDAVEL FLANGE P/ CAIXA D'ÁGUA 110MM.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -230361,7 +230361,7 @@
         {
           "numero": "11",
           "titulo": "9900515222 TUBO PVC OCRE LISO COM LUTA 150MM6M:TUBO PVC OCRE LISO COM LUVA 150MM 6M.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -230385,7 +230385,7 @@
         {
           "numero": "12",
           "titulo": "9900515223 TUBO SOLDAVEL, PVC 110MM P/ÁGUA FRIA COM 6 METROS:TUBO SOLDAVEL, PVC 110MM P/ÁGUA FRIA COM 6 METROS.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -230409,7 +230409,7 @@
         {
           "numero": "13",
           "titulo": "9900515224 TUBO SOLDAVEL, PVC 60MM P/ÁGUA FRIA COM 6 METROS:TUBO SOLDAVEL, PVC 60MM P/ÁGUA FRIA COM 6 METROS.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -230433,7 +230433,7 @@
         {
           "numero": "14",
           "titulo": "9900515225 TUBO SOLDAVEL, PVC 75MM P/ÁGUA FRIA COM 6 METROS:TUBO SOLDAVEL, PVC 75MM P/ÁGUA FRIA COM 6 METROS.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -230442,7 +230442,7 @@
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "8.754,55",
           "vencedor": "COMERCIAL VANGUARDEIRA EIRELI",
-          "melhor_oferta": "8.606,25",
+          "melhor_oferta": "8.606,15",
           "total_itens": 1,
           "itens": [
             {
@@ -230457,7 +230457,7 @@
         {
           "numero": "15",
           "titulo": "9900515226 LUVA SOLDAVEL LR ROSCA DE LATAO AZUL, PVC 25MM P/ÁGUA FRIA:LUVA SOLDAVEL LR ROSCA DE LATAO AZUL, PVC 20MM P/ÁGUA FRIA.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -230481,7 +230481,7 @@
         {
           "numero": "16",
           "titulo": "36643 LÂMPADA 40W LED:TEMPERATURA DE COR 6500K (LUZ BRANCA FRIA); EFICIÊNCIA EM LM/W: ÍNDICE DE REPRODUÇÃO DE COR (IRC): >80; FATOR DE POTÊNCIA:=0.8; TEMPERATURA DE OPERAÇÃO:-20°+40°C; TENSÃO NOMINAL: BIVOLV 100-240V; POTÊNCIA NOMINAL: 15W; FLUXO NOMINAL:",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -230505,7 +230505,7 @@
         {
           "numero": "17",
           "titulo": "9900515227 REFLETOR 100W LED SLIM-TEMPERATURA DE COR; BRANCO FRIO (6500K):VIDAÚTIL ESTIMADA DE ATÉ25.000 HORAS; POTENCIA: 100W; LUMINOSIDADE: APROXIMADAMENTE 4500 LÚMENS; VOLTAGEM: BIVOLT AUTOMÁTICO; ÂNGULO: 120°; PROTEÇÃO: IP66; DIMENSÕES: C 19XL13XA5CM",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -230529,7 +230529,7 @@
         {
           "numero": "18",
           "titulo": "9900515228 REFLETOR LED 200W:REFLETOR LED 200W.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -230709,7 +230709,7 @@
         {
           "numero": "1",
           "titulo": "TABLET",
-          "fase": "JULGAMENTO DE RECURSOS",
+          "fase": "HABILITAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,00",
@@ -230717,8 +230717,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "523.041,75",
-          "vencedor": "WDCL COMÉRCIO E SERVIÇOS LTDA",
-          "melhor_oferta": "519.988,70",
+          "vencedor": "MALTA MIX ATACADO E SERVICOS LTDA",
+          "melhor_oferta": "920.150,00",
           "total_itens": 1,
           "itens": [
             {
@@ -244628,7 +244628,7 @@
         {
           "numero": "1",
           "titulo": "9900515124 BARRACA COM LATERAL DE LONA  3 x 3M:Altura livre mínima: 2,0 m;Estrutura em aço carbono com acabamento galvanizado ou com tratamento anticorrosivo equivalente;Tubos com diâmetros compatíveis para sustentação da carga, mínimo 1\";Espessura mí",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -244652,23 +244652,23 @@
         {
           "numero": "2",
           "titulo": "36540 GRADIL DE ISOLAMENTO 2,00 x 1,20 m:Dimensões:2,00 x 1,20 m;Tubos metálicos com diâmetro mínimo de 1\"; Espessura mínima da parede: 1,50 mm;Acabamento com galvanização ou pintura anticorrosiva equivalente;Lâminas internas em aço;Sistema de encaix",
-          "fase": "HABILITAÇÃO",
+          "fase": "CANCELADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
           "exclusivo_me": "SIM",
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
-          "valor_referencia": "78.364,00",
-          "vencedor": "ALUBAN EVENTOS LTDA",
-          "melhor_oferta": "25.000,00",
+          "valor_referencia": "28.496,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
           "total_itens": 1,
           "itens": [
             {
               "numero": "1",
               "especificacao": "36540 GRADIL DE ISOLAMENTO 2,00 x 1,20 m:Dimensões:2,00 x 1,20 m;Tubos metálicos com diâmetro mínimo de 1\"; Espessura mínima da parede: 1,50 mm;Acabamento com galvanização ou pintura anticorrosiva equivalente;Lâminas internas em aço;Sistema de encaixe permitindo angulação. EXCLUSIVO PARA ME/EPP",
               "unidade": "Und.",
-              "quantidade": "220,00",
+              "quantidade": "80,00",
               "valor_referencia": "356,20"
             }
           ]
@@ -244676,7 +244676,7 @@
         {
           "numero": "3",
           "titulo": "9900515125 TENDA PIRAMIDAL 3 x 3 M:Estrutura em aço com tratamento anticorrosivo: galvanização ou equivalente;Tubulação com diâmetro mínimo de 1 ¼\"; Espessura mínima da parede: 1,50 mm;Lona PVC com gramatura mínima de 450 g/m², com proteção UV;Conexões",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -244685,7 +244685,7 @@
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "28.377,00",
           "vencedor": "DESDOBRA INDUSTRIA COMERCIO E SERVIÇOS LTDA",
-          "melhor_oferta": "16.000,00",
+          "melhor_oferta": "15.999,90",
           "total_itens": 1,
           "itens": [
             {
@@ -244700,7 +244700,7 @@
         {
           "numero": "4",
           "titulo": "9900515126 TENDA PIRAMIDAL 4 x 4 M:Estrutura metálica com tratamento anticorrosivo;Diâmetro mínimo dos tubos: 1 ¼\"; Espessura mínima: 1,50 mm;Lona PVC com mínimo 450 g/m², com proteção UV; Sistema de montagem por encaixe/parafusos;Cor branca. EXCLUSIVO",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -244709,7 +244709,7 @@
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "31.684,25",
           "vencedor": "DESDOBRA INDUSTRIA COMERCIO E SERVIÇOS LTDA",
-          "melhor_oferta": "25.000,00",
+          "melhor_oferta": "24.999,91",
           "total_itens": 1,
           "itens": [
             {
@@ -244724,7 +244724,7 @@
         {
           "numero": "5",
           "titulo": "9900515127 TENDA PIRAMIDAL 10 x 10 M:Estrutura reforçada em aço ou equivalente, com proteção contra corrosão; Tubos com diâmetro mínimo de 2\";Espessura mínima: 2,00 mm; Lona PVC profissional com mínimo 500 g/m², com proteção UV; Conexões metálicas; Siste",
-          "fase": "HABILITAÇÃO",
+          "fase": "CANCELADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -244732,8 +244732,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "141.618,75",
-          "vencedor": "CLIFAIS VENDAS LOCACOES E EVENTOS LTDA",
-          "melhor_oferta": "135.000,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
           "total_itens": 1,
           "itens": [
             {
@@ -244748,7 +244748,7 @@
         {
           "numero": "6",
           "titulo": "9900515128 TENDA PIRAMIDAL 6 x 6 M:Estrutura metálica, com tratamento contra corrosão;Diâmetro mínimo: 1 ½\"; Espessura mínima: 1,75 mm;Lona PVC com mínimo 500 g/m², com proteção UV; Sistema de montagem por encaixe/parafusos;Cor branca. EXCLUSIVO PARA M",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -244756,7 +244756,7 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "44.100,00",
-          "vencedor": "ENGEFER.MDS LTDA",
+          "vencedor": "AM MOREIRA GONÇALVES E CIA LTDA",
           "melhor_oferta": "44.100,00",
           "total_itens": 1,
           "itens": [
@@ -244772,7 +244772,7 @@
         {
           "numero": "7",
           "titulo": "9900515129 BARRACA INDIVIDUAL GALVANIZADA:medindoaproximadamente altura 2,10m x 1,40m de largura x 1,00m de profundidade;Com balcão esteira (expositor) de 0,30 cm; Cobertura avançada em lona.",
-          "fase": "HABILITAÇÃO",
+          "fase": "CANCELADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -244780,8 +244780,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "78.150,00",
-          "vencedor": "AM MOREIRA GONÇALVES E CIA LTDA",
-          "melhor_oferta": "78.150,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
           "total_itens": 1,
           "itens": [
             {
@@ -244820,7 +244820,7 @@
         {
           "numero": "9",
           "titulo": "9900515130 TOLDO 3 x 3 M:Estrutura em aço reforçado, com chapas de 1,4 mm de espessura, com partes soldadas em sistema MIG e conexões metálicas fixadas por encaixe e parafusos;Tubos em aço com diâmetro compatível para sustentação da carga (não especifica",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -244844,7 +244844,7 @@
         {
           "numero": "10",
           "titulo": "9900515131 TOLDO 4 x 4 M:Estrutura confeccionada em ferro tubular em aço reforçado, com chapas de 1,4 mm de espessura, possuindo partes soldadas em sistema MIG. As demais partes são unidas por encaixe e fixadas com parafusos e conexões metálicas de alta r",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -244868,7 +244868,7 @@
         {
           "numero": "11",
           "titulo": "9900515132 TENDA SANFONADA 3 X 4,5M::estrutura em aço galvanizado, pintura eletrostática e sistema articulado de montagem; laterais com reforço em metal; alturas reguláveis; lona à prova d´água e feita com material de nylon. EXCLUSIVO PARA ME/EPP",
-          "fase": "HABILITAÇÃO",
+          "fase": "CANCELADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -244876,8 +244876,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "5.301,75",
-          "vencedor": "ENGEFER.MDS LTDA",
-          "melhor_oferta": "3.950,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
           "total_itens": 1,
           "itens": [
             {
@@ -244892,7 +244892,7 @@
         {
           "numero": "12",
           "titulo": "36779 TENDA PIRAMIDAL 10 x 10 M::Estrutura reforçada em aço ou equivalente, com proteção contra corrosão; Tubos com diâmetro mínimo de 2\"Espessura mínima: 2,00 mm;Lona PVC profissional com mínimo 500 g/m², com proteção UV; Conexões metálicas;Sistema de",
-          "fase": "HABILITAÇÃO",
+          "fase": "CANCELADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -244900,8 +244900,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "37.765,00",
-          "vencedor": "ALUBAN EVENTOS LTDA",
-          "melhor_oferta": "32.000,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
           "total_itens": 1,
           "itens": [
             {
@@ -244916,7 +244916,7 @@
         {
           "numero": "13",
           "titulo": "36780 BARRACA INDIVIDUAL GALVANIZADA::medindoaproximadamente altura 2,10m x 1,40m de largura x 1,00m de profundidade;Com balcão esteira (expositor) de 0,30 cm;Cobertura avançada em lona. COTA 25% PARA ME/EPP",
-          "fase": "HABILITAÇÃO",
+          "fase": "CANCELADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -244924,8 +244924,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "26.050,00",
-          "vencedor": "AM MOREIRA GONÇALVES E CIA LTDA",
-          "melhor_oferta": "26.050,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
           "total_itens": 1,
           "itens": [
             {
@@ -245439,7 +245439,7 @@
         {
           "numero": "2",
           "titulo": "4102000028 BOMBA DE VÁCUO DUPLO ESTÁGIO:BivoltManual 12CFM: Modelo: 12CFM- Potência: 1 HP- Voltagem: 11 OV/22OV - Bivolt (Não Automático)-Cubagem: 0,014- Em alumínio-Motor: 1 H- Medidas de conexão: 1/4 E 3/8- Capacidade de óleo: 600ML EXCLUSIVO PA",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -245583,7 +245583,7 @@
         {
           "numero": "8",
           "titulo": "4103000004 CAPACITOR DE PARTIDA DUPLO P/ AR CONDICIONADO:25 + 1,5 NF - 7 A 7500 BTUS; TENSÃO: 380/440v ac. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -245607,7 +245607,7 @@
         {
           "numero": "9",
           "titulo": "4103000005 CAPACITOR DE PARTIDA DUPLO P/ AR CONDICIONADO:30 + 2 NF - 9 A 12000 BTUS TENSÃO: 380/440v ac. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -245631,7 +245631,7 @@
         {
           "numero": "10",
           "titulo": "4103000006 CAPACITOR DE PARTIDA DUPLO P/ AR CONDICIONADO:35 + 2 NF - 12 A 18000 BTUS TENSÃO: 380/440v ac. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -245655,7 +245655,7 @@
         {
           "numero": "11",
           "titulo": "4103000007 CAPACITOR DE PARTIDA DUPLO P/ AR CONDICIONADO:40 + 3 NF - 18000 A 30000 BTUs TENSÃO: 380/440v ac. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -245703,7 +245703,7 @@
         {
           "numero": "13",
           "titulo": "4103000009 CAPACITOR DE PARTIDA DUPLO P/ AR CONDICIONADO:60 + 5 NF - 60000 BTUS TENSÃO: 380/440v ac. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -245727,7 +245727,7 @@
         {
           "numero": "14",
           "titulo": "5304000207 ESCADA EXTENSIVA:4 em 1 2 x 12Degraus em Alumínío:Especificações Técnicas:- Escada em alumínio de liga especial- Sapatas antiderrapantes- Deve suportar até 120Kg- Possui 12 degrausDimensões aproximadas (altura):- Fechada: 415cm- Aberta:",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -245751,7 +245751,7 @@
         {
           "numero": "15",
           "titulo": "5304000208 FITA PVC PARA INSTALAÇÃO DE SPLIT:100mmx 10m: Isolamento para tubulação de cobre. Pacote com 50 unidades. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -245775,7 +245775,7 @@
         {
           "numero": "16",
           "titulo": "5304000209 FLUXOS P/ SOLDA:Características Técnicas: Quantidade: 80g. Tipo Fhs 1 - Din 8511. Temperatura De Trabalho: 500 - 780°C. Decapante Especial Para Soldar Com Todas As Liqas De Prata. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -245799,7 +245799,7 @@
         {
           "numero": "17",
           "titulo": "5907000004 ISOLAMENTO ESPONJOSO 1/4:Isolante térmico resistente a temperaturas de até 120 °C. Barra de 2 metros.EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -245823,7 +245823,7 @@
         {
           "numero": "18",
           "titulo": "5907000005 ISOLAMENTO ESPONJOSO 3/8:Isolante térmico resistente a temperaturas de até 120°C. Barra de 2 metros.EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -245847,7 +245847,7 @@
         {
           "numero": "19",
           "titulo": "5907000003 ISOLAMENTO ESPONJOSO 5/8:Isolante térmico resistente a temperaturas de até 120 °C. Barra de 2 metros.EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -245967,7 +245967,7 @@
         {
           "numero": "24",
           "titulo": "5304000214 KIT FLANGEADOR CORTADOR ESCARIADORDE TUBOS DE COBRE: Itens Inclusos::01 Morsa De Medidas 1/2 - 5/8 - 3/401 Morsa De Medidas 1/8 - 3/16 - 1/4 - 5/16 - 3/8 - 7/16°01 Flangeador Com Ponta De Acoplamento Tipo Rosca Para Peças! Acessórios01 Ponta",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -245991,7 +245991,7 @@
         {
           "numero": "25",
           "titulo": "5304000233 KIT MANIFOLD MANÔMETRO R410, R22, R404 eR507:com mangueira de no mínimo 0,90m com Manômetro. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -246231,7 +246231,7 @@
         {
           "numero": "35",
           "titulo": "4103000011 PLACA UNIVERSAL P/AR CONDICIONADO SPLIT:de 7000 a 60000 BTU's. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -246255,7 +246255,7 @@
         {
           "numero": "36",
           "titulo": "4103000012 REFIL PARA MAÇARICO GÁS MAPP:Gás mapprefil para maçarico, indicado parasoldagem e brasagem. Especificações Técnicas: Peso:400g. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -246303,7 +246303,7 @@
         {
           "numero": "38",
           "titulo": "4103000013 SUPORTE PARA CONDENSADORA (PAR) ATÉ45KG:Suporte para Condensadora até 40 kg 500mm. Carga Compatível até 40 Kg; Material PP com Fibra; Tamanho (LxAxP/cm) 4,2 x 40 x 27 cm; Tipo de Acessório Suporte.EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -246327,7 +246327,7 @@
         {
           "numero": "39",
           "titulo": "4103000014 SUPORTE PARA CONDENSADORA (PAR) ATÉ70KG:Suporte para condensadora até 70 kg/par 600mm Perfil U Aço Inox 304. Altura: 60 cm; Comprimento: 60 cm; Largura: 4,5 cm; Chapa: 1,5mm. Compatível com ar condicionado de: 30.000 BTUs a 60.000 BTUs. EXCLUS",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -246519,7 +246519,7 @@
         {
           "numero": "47",
           "titulo": "4103000018 TUBO ISOLANTE POLIETILENO BLINDADO1/2:Isolante térmico resistente a temperaturas de até 120 ºc. Barra de 2 metros. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -247023,7 +247023,7 @@
         {
           "numero": "68",
           "titulo": "4103000031 CAPACITOR DUPLO(ventilador +compressor):para aparelhos de ar condicionado split de 7.000 a9.000 BTU/h, capacitância 30 + 1,5; (±5% ou 6%), tensão nominal bivolt 127/220V AC (450V), formato cilíndrico ou oval, terminais de conexão por bornes o",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -247047,7 +247047,7 @@
         {
           "numero": "69",
           "titulo": "4103000032 CAPACITOR DUPLO(ventilador +compressor):para aparelhos de ar condicionado split de 9.000 a12.000 BTU/h, capacitância 30 + 2,5; (±5% ou 6%), tensão nominal bivolt 127/220V AC (450V), formato cilíndrico ou oval, terminais de conexão por bornes",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -247071,7 +247071,7 @@
         {
           "numero": "70",
           "titulo": "4103000033 CAPACITOR DUPLO(ventilador +compressor):para aparelhos de ar condicionado split de 12.000 a18.000 BTU/h, capacitância 35 + 2,5; (±5% ou 6%), tensão nominal bivolt 127/220V AC (450V), formato cilíndrico ou oval, terminais por bornes ou fios, c",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -247095,7 +247095,7 @@
         {
           "numero": "71",
           "titulo": "4103000034 CAPACITOR DUPLO(ventilador +compressor):para aparelhos de ar condicionado split de 18.000 a24.000 BTU/h, capacitância 35 + 5; (±5% ou 6%), tensão nominal bivolt 127/220V AC (450V), formato cilíndrico ou oval com terminais robustos, caixa metá",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -247119,7 +247119,7 @@
         {
           "numero": "72",
           "titulo": "4103000035 CAPACITOR DUPLO(ventilador +compressor):para aparelhos de ar condicionado split de 12.000 a18.000 BTU/h, capacitância 40 + 1,5; (±5% ou 6%), tensão nominal bivolt 127/220V AC (450V), formato cilíndrico ou oval, terminais isolados para conexão",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -247167,7 +247167,7 @@
         {
           "numero": "74",
           "titulo": "4103000037 CAPACITOR DUPLO(ventilador +compressor):para aparelhos de ar condicionado split de 18.000 a24.000 BTU/h, capacitância 40 + 5; (±5% ou 6%), tensão nominal bivolt 127/220V AC (450V), formato cilíndrico ou oval, terminais por fios ou bornes, cai",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -247191,7 +247191,7 @@
         {
           "numero": "75",
           "titulo": "4103000038 CAPACITOR DUPLO(ventilador +compressor):para aparelhos de ar condicionado split de 24.000 BTU/h, capacitância 45 + 5; (±5% ou 6%), tensão nominal bivolt 127/220V AC (450V), formato cilíndrico ou oval robusto, terminais adequados para uso profi",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -247215,7 +247215,7 @@
         {
           "numero": "76",
           "titulo": "4103000039 CAPACITOR DUPLO(ventilador +compressor):para aparelhos de ar condicionado split de 30.000 BTU/h, capacitância 50 + 5; (±5% ou 6%), tensão nominal bivolt 127/220V AC (450V), formato cilíndrico ou oval com terminais isolados, caixa metálica sela",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -247239,7 +247239,7 @@
         {
           "numero": "77",
           "titulo": "4103000040 CAPACITOR DUPLO (ventilador +compressor):para aparelhos de ar condicionado split de 30.000 a36.000 BTU/h, capacitância 55 + 5; ±5% ou 6%), tensão nominal bivolt 127/220V AC (450V), formato cilíndrico ou oval, terminais de conexão segura, caix",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -262057,7 +262057,7 @@
         {
           "numero": "1",
           "titulo": "MATERIAL ASFÁLTICO",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,00",
@@ -263250,7 +263250,7 @@
         {
           "numero": "1",
           "titulo": "EVENTOS",
-          "fase": "HABILITAÇÃO",
+          "fase": "RECEPÇÃO DE CONTRARRAZÕES",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -264121,8 +264121,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "6.411.081,90",
-          "vencedor": "SEVEN ENGENHARIA E CONSTRUÇÃO LTDA",
-          "melhor_oferta": "5.441.726,31",
+          "vencedor": "CONSTRUTORA JF PRADO LTDA",
+          "melhor_oferta": "5.641.752,07",
           "total_itens": 5,
           "itens": [
             {
@@ -264459,8 +264459,8 @@
       "tipo_contrato": "AQUISIÇÃO",
       "publicacao": "06/05/2026 15:46",
       "inicio_recepcao": "08/05/2026 08:30",
-      "fim_recepcao": "21/05/2026 09:45",
-      "inicio_disputa": "21/05/2026 10:00",
+      "fim_recepcao": "01/06/2026 08:45",
+      "inicio_disputa": "01/06/2026 09:00",
       "objeto": "Contratação de empresa especializada em fornecimento de LINÓLEO (material de consumo),  a fim de atender as demandas da Secretaria Municipal de Cultura e Turismo.",
       "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DZtF_rCQHSPO0kO5XVYZ472OayZHMj_75emtzoG4qK5QI9OCl4O9c2hCETt5JGoAo0E1HI_PPfqFySqp_ihvU2vPI_UQqaQVkm6fT_2uvZck%3D",
       "total_lotes": 1,
@@ -265628,7 +265628,7 @@
         {
           "numero": "1",
           "titulo": "POSTES DE CONCRETO",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -265672,7 +265672,7 @@
         {
           "numero": "1",
           "titulo": "ESQUADRIAS DE MADEIRA",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -265970,7 +265970,7 @@
       "objeto": "Contratação de empresa especializada em fornecimento de UNIFORMES PADRONIZADOS DESTINADOS AOS ESTUDANTES E AO CORPO ADMINISTRATIVO DAS UNIDADES DE ENSINO\nMILITARIZADAS DA REDE MUNICIPAL (material de consumo), a fim de atender as demandas da Secretaria Municipal de Educação.",
       "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DJgUUgGPdGK326Dtf6fx74LBieyslWl8eGrasK_jBotj5un5RiQX5M6xvGE9%2F_lLSeB2wWKV7lwVoXXCn39ol0Q64d_4DwA53sJFzrgISdgY%3D",
       "total_lotes": 2,
-      "total_itens": 26,
+      "total_itens": 17,
       "lotes": [
         {
           "numero": "1",
@@ -266081,7 +266081,7 @@
           ]
         },
         {
-          "numero": "1",
+          "numero": "2",
           "titulo": "UNIFORMES PADRONIZADOS",
           "fase": "RECEPÇÃO DE PROPOSTAS",
           "tipo": "GLOBAL",
@@ -266093,97 +266093,34 @@
           "valor_referencia": "",
           "vencedor": "",
           "melhor_oferta": "0,00",
-          "total_itens": 13,
+          "total_itens": 4,
           "itens": [
             {
               "numero": "1",
-              "especificacao": "9900515548 Calça Administrativa Masculina:tecido brim pesado marrom café, cós anatômico, bolsos laterais tipo faca e bolsos traseiros embutidos, passadores reforçados, costuras triplas nas áreas de tensão. Uso com cinto de nylon marrom café com fivela metálica do brasão da Escola, em tamanhos variados que serão informados no momento da contratação.",
-              "unidade": "UND",
-              "quantidade": "32,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "2",
-              "especificacao": "9900515549 Bermuda Feminina para Educação Física:tecido tactel premium azul padrão UEMC, cós com elástico reforçado, modelagem feminina, comprimento 5 cm acima do joelho, secagem rápida, resistência à abrasão, tecnologia antiodor, em tamanhos variados que serão informados no momento da contratação.",
+              "especificacao": "9900515556 Cinto Estudantil MCPM:nylon azul marinho de alta resistência, fivela metálica com brasão UEMC em alto relevo, costura reforçada e regulagem militar, em tamanhos variados que serão informados no momento da contratação.",
               "unidade": "UND",
               "quantidade": "1.000,00",
               "valor_referencia": ""
             },
             {
+              "numero": "2",
+              "especificacao": "9900515557 Meia Social Preta Administrativa:par, 100% poliamida, cano médio, reforço no calcanhar e ponteira, estrutura elástica que mantém o formato após lavagem, em tamanhos variados que serão informadas no momento da contratação.",
+              "unidade": "PAR",
+              "quantidade": "32,00",
+              "valor_referencia": ""
+            },
+            {
               "numero": "3",
-              "especificacao": "37145 Calção Masculino para Educação Física:tactel premium azul padrão UEMC, cós com cordão interno, dois bolsos laterais, dois bolsos traseiros, comprimento 5 cm acima do joelho, secagem rápida e resistência ao uso contínuo, em tamanhos variados que serão informados no momento da contratação.",
-              "unidade": "UND",
+              "especificacao": "9900515558 Meia Social Preta Estudantil:par, 100% poliamida, cano médio, reforço no calcanhar e ponteira, estrutura elástica que mantém o formato após lavagem, destinada ao conjunto de uniformes estudantis, em tamanhos variados que serão informados no momento da contratação.",
+              "unidade": "PAR",
               "quantidade": "1.000,00",
               "valor_referencia": ""
             },
             {
               "numero": "4",
-              "especificacao": "9900515550 Calça Masculina em Brim (Padrão UEMC):cor azul UEMC, faixas laterais vermelhas de 6 cm, bolsos funcionais, costuras reforçadas, passantes militares, uso com cinto nylon azul marinho com brasão, em tamanhos variados que serão informados no momento da contratação.",
-              "unidade": "UND",
+              "especificacao": "9900515559 Tênis Preto Estudantil:material emborrachado, solado antiderrapante totalmente preto, palmilha anatômica, fechamento em cadarço, resistência a desgaste, em tamanhos variados que serão informados no momento da contratação.",
+              "unidade": "PAR",
               "quantidade": "1.000,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "5",
-              "especificacao": "37147 Calça Feminina em Brim (Padrão UEMC):brim azul UEMC, faixas laterais vermelhas de 6 cm, modelagem feminina, bolsos laterais e traseiros, passantes militares reforçados, em tamanhos variados que serão informados no momento da contratação.",
-              "unidade": "UND",
-              "quantidade": "1.000,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "6",
-              "especificacao": "37148 Saia Feminina em Brim (Padrão UEMC):brim azul UEMC, altura até o joelho, faixas laterais vermelhas de 6 cm, bolsos laterais e traseiros, modelagem levemente evasê, passantes reforçados, em tamanhos variados que serão informados no momento da contratação.",
-              "unidade": "UND",
-              "quantidade": "1.000,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "7",
-              "especificacao": "9900515551 Camisa para Educação Física:malha premium branca, gramatura mínima 150 g/m², gola careca reforçada, manga curta, brasão institucional em alta definição, identificação MCPM/UEMC, tratamento antiodor e antialérgico, em tamanhos P, M, G e GG, sendo as definições exatas de tamanho, modelagem e gênero informadas no momento da contratação.",
-              "unidade": "UND",
-              "quantidade": "1.000,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "8",
-              "especificacao": "37149 Camisa Polo Administrativa:malha PV (67% poliéster/33% viscose), branca, gola e punhos marrom café, bordados com nome de guerra, função, tipo sanguíneo e RH; brasão da Escola no peito; bandeira da Bahia na manga direita; brasão do Município na esquerda; bordado vermelho padrão UEMC, em tamanhos P, M, G e GG, sendo as definições exatas de tamanho, modelagem e gênero informadas no momento da contratação.",
-              "unidade": "UND",
-              "quantidade": "32,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "9",
-              "especificacao": "9900515552 Camisa Polo Estudantil MCPM:malha PV branca, gola e punhos azul UEMC, identificação (AL MCPM + nome de guerra), tipo sanguíneo e RH bordados, brasão institucional no peito, bandeira da Bahia bordada e brasão do Município na manga esquerda, em tamanhos P, M, G e GG, sendo as definições exatas de tamanho, modelagem e gênero informadas no momento da contratação.",
-              "unidade": "UND",
-              "quantidade": "1.000,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "10",
-              "especificacao": "37150 Jaleco Branco Administrativo:tecido Oxford, manga curta, gola esporte, bolsos funcionais, identificação bordada (nome, tipo sanguíneo, RH), brasão institucional no peito, bandeira da Bahia bordada e brasão do Município pintado, em tamanhos variados que serão informados no momento da contratação.",
-              "unidade": "UND",
-              "quantidade": "90,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "11",
-              "especificacao": "9900515553 Beca Cerimonial MCPM:tecido microfibra premium azul marinho, gola em V estruturada, caimento reto, viés vermelho padrão UEMC, brasão institucional bordado em alta definição. Uso em solenidades, formaturas e eventos oficiais, em tamanhos variados que serão informados no momento da contratação.",
-              "unidade": "UND",
-              "quantidade": "1.000,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "12",
-              "especificacao": "9900515554 Boné Estudantil MCPM:brim pesado azul UEMC, estrutura reforçada, seis gomos com ilhoses para ventilação, brasão pintado frontal, fecho em velcro militar reforçado com ajuste de tamanho.",
-              "unidade": "UND",
-              "quantidade": "1.000,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "13",
-              "especificacao": "9900515555 Boné Administrativo MCPM:brim pesado marrom café, brasão pintado, ajuste posterior em velcro.",
-              "unidade": "UND",
-              "quantidade": "32,00",
               "valor_referencia": ""
             }
           ]
@@ -266211,7 +266148,7 @@
         {
           "numero": "1",
           "titulo": "ADUELAS DE CONCRETOS",
-          "fase": "HABILITAÇÃO",
+          "fase": "INTERPOSIÇÃO DE RECURSOS",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -267872,30 +267809,6 @@
           ]
         },
         {
-          "numero": "1",
-          "titulo": "9908411202 Par de traves oficiais para futsal:medidas internas 3,00m x 2,00m, em conformidade com regras oficiais vigentes da modalidade. Estrutura em tubo metálico com diâmetro mínimo de 75mm e espessura mínima de 2mm, com tratamento anticorrosivo e pint",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9908411202 Par de traves oficiais para futsal:medidas internas 3,00m x 2,00m, em conformidade com regras oficiais vigentes da modalidade. Estrutura em tubo metálico com diâmetro mínimo de 75mm e espessura mínima de 2mm, com tratamento anticorrosivo e pintura de acabamento adequada ao uso em ambiente esportivo. Sistema de fixação que garanta estabilidade e segurança em uso, incluindo todos os acessórios necessários à instalação. Garantia mínima de 12 meses.",
-              "unidade": "PAR",
-              "quantidade": "18,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
           "numero": "2",
           "titulo": "9900515560 Rede para trave de futsal:fabricada em nylon ou polietileno de alta densidade, fio mínimo 4mm, malha aproximada 10 x 10cm, com tratamento UV e borda reforçada. Dimensões compatíveis com traves oficiais de futsal (3,00m x 2,00m). Garantia mínima",
           "fase": "RECEPÇÃO DE PROPOSTAS",
@@ -267913,6 +267826,30 @@
             {
               "numero": "1",
               "especificacao": "9900515560 Rede para trave de futsal:fabricada em nylon ou polietileno de alta densidade, fio mínimo 4mm, malha aproximada 10 x 10cm, com tratamento UV e borda reforçada. Dimensões compatíveis com traves oficiais de futsal (3,00m x 2,00m). Garantia mínima de 6 meses.",
+              "unidade": "PAR",
+              "quantidade": "18,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "3",
+          "titulo": "9900830443 Poste de voleibol móvel:par, com altura ajustável de 2,00m a 2,43m, adequado para uso esportivo em quadras escolares. Estrutura metálica tubular com tratamento anticorrosivo, dotada de base que permita estabilidade em uso e deslocamento seguro.",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900830443 Poste de voleibol móvel:par, com altura ajustável de 2,00m a 2,43m, adequado para uso esportivo em quadras escolares. Estrutura metálica tubular com tratamento anticorrosivo, dotada de base que permita estabilidade em uso e deslocamento seguro. Sistema de regulagem de altura que possibilite travamento firme nas alturas oficiais da modalidade.Garantia mínima de 12 meses.",
               "unidade": "PAR",
               "quantidade": "18,00",
               "valor_referencia": ""
@@ -268112,30 +268049,6 @@
           ]
         },
         {
-          "numero": "11",
-          "titulo": "9900515564 Buchas de nylon para fixação compatíveis com broca de 6mm:embalagem com 50 unidades, adequadas para uso em alvenaria na instalação de equipamentos esportivos.",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900515564 Buchas de nylon para fixação compatíveis com broca de 6mm:embalagem com 50 unidades, adequadas para uso em alvenaria na instalação de equipamentos esportivos.",
-              "unidade": "PCT",
-              "quantidade": "2,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
           "numero": "12",
           "titulo": "9900515565 Buchas de nylon para fixação, compatíveis com broca de 8mm:embalagem com 50 unidades, adequadas para uso em alvenaria na instalação de equipamentos esportivos.",
           "fase": "RECEPÇÃO DE PROPOSTAS",
@@ -268153,6 +268066,30 @@
             {
               "numero": "1",
               "especificacao": "9900515565 Buchas de nylon para fixação, compatíveis com broca de 8mm:embalagem com 50 unidades, adequadas para uso em alvenaria na instalação de equipamentos esportivos.",
+              "unidade": "PCT",
+              "quantidade": "2,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "13",
+          "titulo": "9900515566 Buchas de nylon para fixação, compatíveis com broca de 10mm:embalagem com 50 unidades, adequadas para uso em alvenaria na instalação de equipamentos esportivos.",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515566 Buchas de nylon para fixação, compatíveis com broca de 10mm:embalagem com 50 unidades, adequadas para uso em alvenaria na instalação de equipamentos esportivos.",
               "unidade": "PCT",
               "quantidade": "2,00",
               "valor_referencia": ""
@@ -268557,8 +268494,8 @@
           ]
         },
         {
-          "numero": "7",
-          "titulo": "37309 MESA CABECEIRA FECHADA:Mesa Cabeceira Fechada com 1 gaveta e 1 porta; Cor: Branco; O item deve possuir 01 (uma) gaveta superior e 01 (uma) porta inferior com 01 (uma) prateleira interna, totalmente em pintura epóxi. O móvel deve ser dotado de pés co",
+          "numero": "8",
+          "titulo": "37310 MESA TIPO MAYO:Inoxidável Com Bandeja Inox 48X32cm Estrutura em tubos inoxidável de 25,40mm de diâmetro, com três rodízios giratórios de 42mm de diâmetro, base superior em ferro redondo maciço inoxidável e bandeja inoxidável com 0,32 X 0,48mt. Altur",
           "fase": "RECEPÇÃO DE PROPOSTAS",
           "tipo": "GLOBAL",
           "quantidade": "1",
@@ -268573,33 +268510,9 @@
           "itens": [
             {
               "numero": "1",
-              "especificacao": "37309 MESA CABECEIRA FECHADA:Mesa Cabeceira Fechada com 1 gaveta e 1 porta; Cor: Branco; O item deve possuir 01 (uma) gaveta superior e 01 (uma) porta inferior com 01 (uma) prateleira interna, totalmente em pintura epóxi. O móvel deve ser dotado de pés com rodízios para facilitar o deslocamento.Dimensões externas aproximadas de 0,45m de comprimento, 0,40m de largura/profundidade e 0,80m de altura, com peso estimado de 18kg. EXCLUSIVO PARA ME/EPP.",
+              "especificacao": "37310 MESA TIPO MAYO:Inoxidável Com Bandeja Inox 48X32cm Estrutura em tubos inoxidável de 25,40mm de diâmetro, com três rodízios giratórios de 42mm de diâmetro, base superior em ferro redondo maciço inoxidável e bandeja inoxidável com 0,32 X 0,48mt. Altura mínima 0,85 mt e máxima 1,25 mt regulável por meio de manipulo. EXCLUSIVO PARA ME/EPP.",
               "unidade": "UND",
-              "quantidade": "28,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "9",
-          "titulo": "37311 SUPORTE PARA SORO:altura regulável, construído em tubos inox 7/8\" x 0,9mm de espessura, quadripé fundido com rodízios, haste em tubos inox de ¾\" x 0,9 mm com 4 ganchos em \"X\" na parte superior. Altura mínima: 1,57m e Altura máxima: 2,10m. EXCLUSIVO",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37311 SUPORTE PARA SORO:altura regulável, construído em tubos inox 7/8\" x 0,9mm de espessura, quadripé fundido com rodízios, haste em tubos inox de ¾\" x 0,9 mm com 4 ganchos em \"X\" na parte superior. Altura mínima: 1,57m e Altura máxima: 2,10m. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "UND",
-              "quantidade": "37,00",
+              "quantidade": "5,00",
               "valor_referencia": ""
             }
           ]
@@ -268648,6 +268561,30 @@
               "especificacao": "9900830492 VENTILADOR PULMONAR MICROPROCESSADO- MODOS VENTILATÓRIOS ADULTO / PEDIÁTRICO:VCVassistido / controlado; PCV assistido / controlado; PSV/CPAP; PRVC assistido / controlado; SIMV(VCV) + PSV; SIMV(PCV) + PSV; time automático; Ventilação não invasiva; Compensação de fulgas; Leitura de fluxo proximal; Função O2 100%; Tendências de 24h; Sensibilidade inspiratória de fluxo ou pressão; Bateria de 15h; Cálculo automático do peso teórico; Interface intuitiva; Interface personalizável com memória.CARACTERÍSTICAS ESPECIAIS: Hora e data atual; Hora e data do equipamento ligado; Bloqueio da tela touch screen; Indicador gráfico de fonte externa e bateria Indicador do nível de carga da bateria; Barras indicadoras de faixa de ajuste dos parâmetros; Barra gráfica da pressão ventilatória com indicador do nível dos alarmes; Leitura da FiO2 por célula galvânica ou pneumotacógrafo; Símbolo para Stand by; Símbolo para histórico de alarme MMV + PSV; PSV + VT assegurado; Pressão bifásica (APRV); VNI. NEONATAL: VCV assistido / controlado; PCV assistido / controlado; PSV/CPAP; SIMV(PCV) + PSV; Fluxo contínuo assistido / controlado; CPAP Nasal.CONFIGURAÇÕES ESPECIAIS: Ventilação Neonatal; Configuração do paciente; Mecânicas Ventilatórias; FiO2 50 a 100%; Compensação de altitude; Ajuste do volume; Histórico de alarmes; Rise.",
               "unidade": "UND",
               "quantidade": "6,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "11",
+          "titulo": "9900830493 CAMA HOSPITALAR COM RODAS:CamaHospitalar; Movimentos: Elevação dorsal, Fowler, Semi-fowler, Flexão de pernas, Cardíaco e Sentado; Regulagem de altura (0,53x70); Acionamento através de manivelas; Estrutura em Aço carbono com tratamento antiferr",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900830493 CAMA HOSPITALAR COM RODAS:CamaHospitalar; Movimentos: Elevação dorsal, Fowler, Semi-fowler, Flexão de pernas, Cardíaco e Sentado; Regulagem de altura (0,53x70); Acionamento através de manivelas; Estrutura em Aço carbono com tratamento antiferruginoso e acabamento em pintura eletrostática a pó; Cabeceiras removíveis em material injetado decorativo-Grades laterais material termoplástico injetado; Rodízios de 3 sendo dois com freios em diagonal; CAPACIDADE DE CARGA: 150 kg distribuídos sob o leito.ANGULOS: DORSO: 75° 1 PERNA: 44° DIMENSÕES EXTERNAS: 203cm x 110cm. DIMENSÕES INTERNAS: 190cm x 90cm. ALTURA MÍNIMA: 45cm. ALTURA MÁXIMA: 75cm. PESO: 65 kg. COTA DE 25% RESERVADA PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "8,00",
               "valor_referencia": ""
             }
           ]
@@ -268721,30 +268658,6 @@
           ]
         },
         {
-          "numero": "1",
-          "titulo": "36844 BENGALA ARTICULADA:bengalas de alumínio com pontas de borracha cabo anatômico, articulada para pessoas com deficiência visual. (diversos tamanhos). EXCLUSIVO PARA ME/EPP.",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "36844 BENGALA ARTICULADA:bengalas de alumínio com pontas de borracha cabo anatômico, articulada para pessoas com deficiência visual. (diversos tamanhos). EXCLUSIVO PARA ME/EPP.",
-              "unidade": "Und.",
-              "quantidade": "200,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
           "numero": "2",
           "titulo": "9900515599 LUPAS DE APOIO SEM ILUMINAÇÃO:lupas comsuporte de mesa ou pescoço com lentes esféricas ou asféricas positivas para ampliação da imagem, com diferentes poderes dióptricos. (diversos graus). EXCLUSIVO PARA ME/EPP.",
           "fase": "RECEPÇÃO DE PROPOSTAS",
@@ -268762,6 +268675,30 @@
             {
               "numero": "1",
               "especificacao": "9900515599 LUPAS DE APOIO SEM ILUMINAÇÃO:lupas comsuporte de mesa ou pescoço com lentes esféricas ou asféricas positivas para ampliação da imagem, com diferentes poderes dióptricos. (diversos graus). EXCLUSIVO PARA ME/EPP.",
+              "unidade": "Und.",
+              "quantidade": "100,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "3",
+          "titulo": "9900515333 LUPAS DE APOIO COM ILUMINAÇÃO:lupas comsuporte de mesa ou pescoço com lentes esféricas ou asféricas positivas para ampliação da imagem, com diferentes poderes dióptricos. (diversos graus). EXCLUSIVO PARA ME/EPP.",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515333 LUPAS DE APOIO COM ILUMINAÇÃO:lupas comsuporte de mesa ou pescoço com lentes esféricas ou asféricas positivas para ampliação da imagem, com diferentes poderes dióptricos. (diversos graus). EXCLUSIVO PARA ME/EPP.",
               "unidade": "Und.",
               "quantidade": "100,00",
               "valor_referencia": ""
@@ -268841,8 +268778,8 @@
           ]
         },
         {
-          "numero": "6",
-          "titulo": "9900515335 LUPAS MANUAL SEM ILUMINAÇÃO:lupas de mãocom lentes esféricas ou asféricas positivas para ampliação da imagem, com diferentes poderes dióptricos. (Diversos graus). EXCLUSIVO PARA ME/EPP.",
+          "numero": "7",
+          "titulo": "9900515336 ÓCULOS COM LENTES CORRETIVAS IGUAISMAIORES QUE 0,5 DE DIOPTRIAS:óculos utilizados para corrigir miopias, hipermetropias, astigmatismos, presbiopia e para baixa visão. (diversos tamanhos e graus) EXCLUSIVO PARA ME/EPP.",
           "fase": "RECEPÇÃO DE PROPOSTAS",
           "tipo": "GLOBAL",
           "quantidade": "1",
@@ -268857,9 +268794,9 @@
           "itens": [
             {
               "numero": "1",
-              "especificacao": "9900515335 LUPAS MANUAL SEM ILUMINAÇÃO:lupas de mãocom lentes esféricas ou asféricas positivas para ampliação da imagem, com diferentes poderes dióptricos. (Diversos graus). EXCLUSIVO PARA ME/EPP.",
+              "especificacao": "9900515336 ÓCULOS COM LENTES CORRETIVAS IGUAISMAIORES QUE 0,5 DE DIOPTRIAS:óculos utilizados para corrigir miopias, hipermetropias, astigmatismos, presbiopia e para baixa visão. (diversos tamanhos e graus) EXCLUSIVO PARA ME/EPP.",
               "unidade": "Und.",
-              "quantidade": "100,00",
+              "quantidade": "300,00",
               "valor_referencia": ""
             }
           ]
@@ -269735,38 +269672,38 @@
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "705/2024",
       "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "SUSPENSO",
-      "condutor": "VICTOR KINIDEL DETHLING",
+      "situacao": "HOMOLOGADO",
+      "condutor": "MAGDA DE SELES GUIMARÃES",
       "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
       "tipo_contrato": "AQUISIÇÃO",
-      "publicacao": "15/05/2024 18:26",
-      "inicio_recepcao": "16/05/2024 08:00",
-      "fim_recepcao": "12/06/2024 09:45",
-      "inicio_disputa": "12/06/2024 10:00",
-      "objeto": "Contratação de instituição financeira para prestação de serviços bancários para centralização, gerenciamento e processamento de créditos da folha de pagamento dos servidores, a fim de atender as demandas da Prefeitura de Teixeira de Freitas, conforme condições, quantidades e especificações no Edital, Termo de Referência e seus Anexos.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5D0IZlsHcdRIiuhc0LHzx5IxXg7zFtLyoa5bO9SSR1cLGVKg6BxqAi_2qYnMH3pCU4x55f28xzW9KkYaX8IglSKwjuxNuO8W%2FD2nSO0ygdoNc%3D",
+      "publicacao": "13/06/2024 18:49",
+      "inicio_recepcao": "14/06/2024 08:00",
+      "fim_recepcao": "10/07/2024 13:45",
+      "inicio_disputa": "10/07/2024 14:00",
+      "objeto": "O objeto da presente licitação é a contratação de INSTITUIÇÃO FINANCEIRA ESPECIALIZADA NA PRESTAÇÃO DE SERVIÇOS BANCÁRIOS PARA CENTRALIZAÇÃO, GERENCIAMENTO E PROCESSAMENTO DE CRÉDITOS DA FOLHA DE PAGAMENTO DOS SERVIDORES, a fim de atender as demandas da Secretaria Municipal de Administração, conforme condições, quantidades e especificações no Edital, Termo de Referência e seus Anexos.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DSWMRE41yfJY2ycFm%2FcTF9WjCePYlc1G3q1EJbH0ejVzruvTHb3jG%2Fisnc_OvlCUh_G9ran1x6ixKzyU1DYpBEtgUp%2Fasv33vVnpRGW6MTFk%3D",
       "total_lotes": 1,
       "total_itens": 1,
       "lotes": [
         {
           "numero": "1",
-          "titulo": "LOTE 01",
-          "fase": "SUSPENSO",
-          "tipo": "UNITÁRIO",
+          "titulo": "SERVIÇOS BANCÁRIOS",
+          "fase": "HOMOLOGADO",
+          "tipo": "GLOBAL",
           "quantidade": "1",
-          "intervalo_minimo": "100,00",
+          "intervalo_minimo": "0,01",
           "exclusivo_me": "NÃO",
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "6.052.150,00",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
+          "vencedor": "ITAÚ UNIBANCO S.A.",
+          "melhor_oferta": "6.053.000,00",
           "total_itens": 1,
           "itens": [
             {
               "numero": "1",
               "especificacao": "CONTRATAÇÃO DE INSTITUIÇÃO FINANCEIRA: ESPECIALIZADA NA PRESTAÇÃO DE SERVIÇOS BANCÁRIOS PARA CENTRALIZAÇÃO, GERENCIAMENTO E PROCESSAMENTO DE CRÉDITOS DA FOLHA DE PAGAMENTO DOS SERVIDORES DA PREFEITURA MUNICIPAL DE TEIXEIRA DE FREITAS/BA.",
-              "unidade": "SERVIÇO",
+              "unidade": "UN",
               "quantidade": "1,00",
               "valor_referencia": "6.052.150,00"
             }
