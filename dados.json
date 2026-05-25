@@ -4,7 +4,7 @@
     "total_processos": 792,
     "total_lotes": 8760,
     "total_itens": 14992,
-    "atualizado_em": "20260524_193515"
+    "atualizado_em": "20260525_193520"
   },
   "processos": [
     {
@@ -265955,179 +265955,6 @@
       ]
     },
     {
-      "id": "PE-076-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "276 / 2026",
-      "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "RECEPÇÃO DE PROPOSTAS",
-      "condutor": "SERGIO CARNEIRO CAVALCANTI DE AZEVEDO",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO PARCELADA",
-      "publicacao": "08/05/2026 10:55",
-      "inicio_recepcao": "12/05/2026 08:30",
-      "fim_recepcao": "25/05/2026 08:15",
-      "inicio_disputa": "25/05/2026 08:30",
-      "objeto": "Contratação de empresa especializada em fornecimento de UNIFORMES PADRONIZADOS DESTINADOS AOS ESTUDANTES E AO CORPO ADMINISTRATIVO DAS UNIDADES DE ENSINO\nMILITARIZADAS DA REDE MUNICIPAL (material de consumo), a fim de atender as demandas da Secretaria Municipal de Educação.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DJgUUgGPdGK326Dtf6fx74LBieyslWl8eGrasK_jBotj5un5RiQX5M6xvGE9%2F_lLSeB2wWKV7lwVoXXCn39ol0Q64d_4DwA53sJFzrgISdgY%3D",
-      "total_lotes": 2,
-      "total_itens": 17,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "UNIFORMES PADRONIZADOS",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 13,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900515548 Calça Administrativa Masculina:tecido brim pesado marrom café, cós anatômico, bolsos laterais tipo faca e bolsos traseiros embutidos, passadores reforçados, costuras triplas nas áreas de tensão. Uso com cinto de nylon marrom café com fivela metálica do brasão da Escola, em tamanhos variados que serão informados no momento da contratação.",
-              "unidade": "UND",
-              "quantidade": "32,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "2",
-              "especificacao": "9900515549 Bermuda Feminina para Educação Física:tecido tactel premium azul padrão UEMC, cós com elástico reforçado, modelagem feminina, comprimento 5 cm acima do joelho, secagem rápida, resistência à abrasão, tecnologia antiodor, em tamanhos variados que serão informados no momento da contratação.",
-              "unidade": "UND",
-              "quantidade": "1.000,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "3",
-              "especificacao": "37145 Calção Masculino para Educação Física:tactel premium azul padrão UEMC, cós com cordão interno, dois bolsos laterais, dois bolsos traseiros, comprimento 5 cm acima do joelho, secagem rápida e resistência ao uso contínuo, em tamanhos variados que serão informados no momento da contratação.",
-              "unidade": "UND",
-              "quantidade": "1.000,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "4",
-              "especificacao": "9900515550 Calça Masculina em Brim (Padrão UEMC):cor azul UEMC, faixas laterais vermelhas de 6 cm, bolsos funcionais, costuras reforçadas, passantes militares, uso com cinto nylon azul marinho com brasão, em tamanhos variados que serão informados no momento da contratação.",
-              "unidade": "UND",
-              "quantidade": "1.000,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "5",
-              "especificacao": "37147 Calça Feminina em Brim (Padrão UEMC):brim azul UEMC, faixas laterais vermelhas de 6 cm, modelagem feminina, bolsos laterais e traseiros, passantes militares reforçados, em tamanhos variados que serão informados no momento da contratação.",
-              "unidade": "UND",
-              "quantidade": "1.000,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "6",
-              "especificacao": "37148 Saia Feminina em Brim (Padrão UEMC):brim azul UEMC, altura até o joelho, faixas laterais vermelhas de 6 cm, bolsos laterais e traseiros, modelagem levemente evasê, passantes reforçados, em tamanhos variados que serão informados no momento da contratação.",
-              "unidade": "UND",
-              "quantidade": "1.000,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "7",
-              "especificacao": "9900515551 Camisa para Educação Física:malha premium branca, gramatura mínima 150 g/m², gola careca reforçada, manga curta, brasão institucional em alta definição, identificação MCPM/UEMC, tratamento antiodor e antialérgico, em tamanhos P, M, G e GG, sendo as definições exatas de tamanho, modelagem e gênero informadas no momento da contratação.",
-              "unidade": "UND",
-              "quantidade": "1.000,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "8",
-              "especificacao": "37149 Camisa Polo Administrativa:malha PV (67% poliéster/33% viscose), branca, gola e punhos marrom café, bordados com nome de guerra, função, tipo sanguíneo e RH; brasão da Escola no peito; bandeira da Bahia na manga direita; brasão do Município na esquerda; bordado vermelho padrão UEMC, em tamanhos P, M, G e GG, sendo as definições exatas de tamanho, modelagem e gênero informadas no momento da contratação.",
-              "unidade": "UND",
-              "quantidade": "32,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "9",
-              "especificacao": "9900515552 Camisa Polo Estudantil MCPM:malha PV branca, gola e punhos azul UEMC, identificação (AL MCPM + nome de guerra), tipo sanguíneo e RH bordados, brasão institucional no peito, bandeira da Bahia bordada e brasão do Município na manga esquerda, em tamanhos P, M, G e GG, sendo as definições exatas de tamanho, modelagem e gênero informadas no momento da contratação.",
-              "unidade": "UND",
-              "quantidade": "1.000,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "10",
-              "especificacao": "37150 Jaleco Branco Administrativo:tecido Oxford, manga curta, gola esporte, bolsos funcionais, identificação bordada (nome, tipo sanguíneo, RH), brasão institucional no peito, bandeira da Bahia bordada e brasão do Município pintado, em tamanhos variados que serão informados no momento da contratação.",
-              "unidade": "UND",
-              "quantidade": "90,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "11",
-              "especificacao": "9900515553 Beca Cerimonial MCPM:tecido microfibra premium azul marinho, gola em V estruturada, caimento reto, viés vermelho padrão UEMC, brasão institucional bordado em alta definição. Uso em solenidades, formaturas e eventos oficiais, em tamanhos variados que serão informados no momento da contratação.",
-              "unidade": "UND",
-              "quantidade": "1.000,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "12",
-              "especificacao": "9900515554 Boné Estudantil MCPM:brim pesado azul UEMC, estrutura reforçada, seis gomos com ilhoses para ventilação, brasão pintado frontal, fecho em velcro militar reforçado com ajuste de tamanho.",
-              "unidade": "UND",
-              "quantidade": "1.000,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "13",
-              "especificacao": "9900515555 Boné Administrativo MCPM:brim pesado marrom café, brasão pintado, ajuste posterior em velcro.",
-              "unidade": "UND",
-              "quantidade": "32,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "2",
-          "titulo": "UNIFORMES PADRONIZADOS",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 4,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900515556 Cinto Estudantil MCPM:nylon azul marinho de alta resistência, fivela metálica com brasão UEMC em alto relevo, costura reforçada e regulagem militar, em tamanhos variados que serão informados no momento da contratação.",
-              "unidade": "UND",
-              "quantidade": "1.000,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "2",
-              "especificacao": "9900515557 Meia Social Preta Administrativa:par, 100% poliamida, cano médio, reforço no calcanhar e ponteira, estrutura elástica que mantém o formato após lavagem, em tamanhos variados que serão informadas no momento da contratação.",
-              "unidade": "PAR",
-              "quantidade": "32,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "3",
-              "especificacao": "9900515558 Meia Social Preta Estudantil:par, 100% poliamida, cano médio, reforço no calcanhar e ponteira, estrutura elástica que mantém o formato após lavagem, destinada ao conjunto de uniformes estudantis, em tamanhos variados que serão informados no momento da contratação.",
-              "unidade": "PAR",
-              "quantidade": "1.000,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "4",
-              "especificacao": "9900515559 Tênis Preto Estudantil:material emborrachado, solado antiderrapante totalmente preto, palmilha anatômica, fechamento em cadarço, resistência a desgaste, em tamanhos variados que serão informados no momento da contratação.",
-              "unidade": "PAR",
-              "quantidade": "1.000,00",
-              "valor_referencia": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "PE-063-2026",
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "332 / 2026",
@@ -266844,142 +266671,6 @@
       ]
     },
     {
-      "id": "3-DLE-030-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "184 / 2026",
-      "modalidade": "DISPENSA ELETRÔNICA",
-      "situacao": "RECEPÇÃO DE PROPOSTAS",
-      "condutor": "ISLA LIMA SILVA",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO",
-      "publicacao": "19/05/2026 13:40",
-      "inicio_recepcao": "19/05/2026 13:45",
-      "fim_recepcao": "25/05/2026 08:15",
-      "inicio_disputa": "25/05/2026 08:30",
-      "objeto": "Contratação de empresa especializada em fornecimento de [DISPOSITIVOS DE ELETROESTIMULAÇÃO E SEUS\nCOMPONENTES (material permanente], a fim de atender as necessidades da Secretaria Municipal de Saúde.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5Dqp9fEpW1KiaeyUEALxquM1PDWD_WUmBNCjHr91IEGl2b5kS7y3hqGNCMeuVroCaAQCPo07N7o7I4_ME8JDouZXIkM8donmj9_1i_%2FG%2FNH_w%3D",
-      "total_lotes": 3,
-      "total_itens": 3,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "9900515367 Estimulador neuromuscular transcutâneo destinado aos tratamentos de reabilitação física:Composto pelas correntes: TENS (estimulação elétrica transcutânea, Transcutaneous Electrical Nerve Stimulation), FES (estimulação elétrica  funcional, Funct",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "10.620,24",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900515367 Estimulador neuromuscular transcutâneo destinado aos tratamentos de reabilitação física:Composto pelas correntes: TENS (estimulação elétrica transcutânea, Transcutaneous Electrical Nerve Stimulation), FES (estimulação elétrica funcional, Functional Electrical Stimulation) e russa. 04 canais, voltagem: Bivolt 100/220. 50/60Hz. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "Und.",
-              "quantidade": "6,00",
-              "valor_referencia": "1.770,04"
-            }
-          ]
-        },
-        {
-          "numero": "2",
-          "titulo": "9900515386 Kit de cabos de conexão para eletroestimulação:destinado à condução de corrente elétrica entre o equipamento de estimulação elétrica nervosa transcutânea (TENS/FES) e os eletrodos. 02 unidades Laranja/Preto e Azul/Verde; Pinos Correntes/ Banana",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "1.998,20",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900515386 Kit de cabos de conexão para eletroestimulação:destinado à condução de corrente elétrica entre o equipamento de estimulação elétrica nervosa transcutânea (TENS/FES) e os eletrodos. 02 unidades Laranja/Preto e Azul/Verde; Pinos Correntes/ Banana; Plug DB9 9 pinos; Medida do cabo 1,5 mts, com eletrodos de silicone.Compatível com o modelo Neurodyn ll da Ibramed. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "KIT",
-              "quantidade": "20,00",
-              "valor_referencia": "99,91"
-            }
-          ]
-        },
-        {
-          "numero": "3",
-          "titulo": "9900515387 Equipamento de ultrassom microcontrolado para fisioterapia:operando nas frequências de 1 MHz e 3 MHz, com modos de emissão contínuo e pulsado. Deve apresentar intensidade ajustável, temporizador digital e display para controle de parâmetros. O",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "11.839,20",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900515387 Equipamento de ultrassom microcontrolado para fisioterapia:operando nas frequências de 1 MHz e 3 MHz, com modos de emissão contínuo e pulsado. Deve apresentar intensidade ajustável, temporizador digital e display para controle de parâmetros. O transdutor deve possuir ERA (Área de Radiação Efetiva) compatível com uso clínico e ser vedado para aplicações subaquáticas. Alimentação elétrica bivolt compatível com a rede nacional, acompanhado de todos os acessórios necessários ao pleno funcionamento e obrigatoriamente com registro ativo na ANVISA e certificado de conformidade técnica NBR IEC 60601. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "Und.",
-              "quantidade": "6,00",
-              "valor_referencia": "1.973,20"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "PE-073-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "202 / 2026",
-      "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "JULGAMENTO",
-      "condutor": "SERGIO CARNEIRO CAVALCANTI DE AZEVEDO",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO",
-      "publicacao": "05/05/2026 13:34",
-      "inicio_recepcao": "07/05/2026 08:30",
-      "fim_recepcao": "19/05/2026 08:15",
-      "inicio_disputa": "19/05/2026 08:30",
-      "objeto": "Contratação de empresa especializada em fornecimento de VEÍCULOS TIPO PICAPE CABINE DUPLA (bens permanentes), a fim de atender as demandas da Secretaria Municipal de Educação.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5Db3fYlzfT_q7xuN%2FUA0IcY7st9VXfKGRe9NlMutXeVGxTX_bnrjWVtc_2zBqrbvdeiYlFOUiNUpcOWT_Rl7K3PJ0HrwSn18w7awUumm4HeUE%3D",
-      "total_lotes": 1,
-      "total_itens": 1,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "VEICULOS TIPO PICAPE",
-          "fase": "JULGAMENTO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "542.018,80",
-          "vencedor": "SIGMA MAQUINAS E REPRESENTACOES LTDA",
-          "melhor_oferta": "517.500,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "73973900009 Veículo automotor zero quilômetro, tipo picapeleve/compacta:com cabine dupla, 4 portas, capacidade para 5(cinco) ocupantes incluindo o motorista. Ano defabricação/modelo 2026, combustível tipo flex (álcool/gasolina),motorização mínima de 1.3L (ou superior), potência mínima107cv. Tração 4x2, câmbio manual ou automático, com, nomínimo, 5 (cinco) marchas à frente (ou conforme tecnologiadisponível em câmbio automático), visando melhor desempenho,segurança e economia de combustível. Veículo dotado dedireção com assistência elétrica, sistema de freios com ABS eEBD (ou equivalente), airbag frontal para motorista e passageiro,cintos de segurança de 3 (três) pontos para todos os ocupantes(quando aplicável) e encostos de cabeça, atendendointegralmente às normas de segurança vigentes. Vidros elétricosnas portas dianteiras e traseiras, travas elétricas nas portas comtravamento central e acionamento por meio de comando internoe pela chave ou dispositivo equivalente. Sistema de arcondicionado frio/quente, com difusores frontais, adequado aoconforto térmico dos ocupantes, com comandos de fácil acessoao motorista. Carroceria com caçamba traseira aberta, comcapacidade de carga mínima de 600kg, dotada de protetor decaçamba (forração ou protetor em material plástico ou similar),capota marítima ou equivalente, ganchos ou pontos deamarração de carga conforme projeto do fabricante, permitindo otransporte de materiais leves, equipamentos, mobiliários depequeno porte, materiais pedagógicos e insumos administrativos.Sistema multimídia, no mínimo, conexão Bluetooth e rádio, altofalantes instalados, entrada USB ou equivalente, painel deinstrumentos com indicadores básicos (velocímetro, marcador decombustível, hodômetro, luzes de advertência) e computador debordo. Comando interno e elétricos para regulagem deretrovisores externos, desembaçador do vidro traseiro (quandoaplicável), limpador e lavador de para-brisa dianteiro comtemporizador. Equipado, no mínimo, com sensor deestacionamento traseiro e câmera de ré (admite-se um dos doisou ambos), faróis com regulagem de foco (manual ou elétrica,conforme projeto de fábrica), iluminação traseira completa, luz defreio elevada, aviso sonoro de faróis acesos e/ou portas abertas,conforme configuração de série. Bancos revestidos em courosintético de fábrica ou material similar, banco do motorista comajuste de distância e inclinação, porta-objetos distribuídos nopainel...(VIDE O ANEXO DO TERMO).",
-              "unidade": "UN",
-              "quantidade": "4,00",
-              "valor_referencia": "135.504,70"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "PE-072-2026",
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "269 / 2026",
@@ -267463,260 +267154,6 @@
               "unidade": "Und.",
               "quantidade": "1,00",
               "valor_referencia": "30.000,00"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "PE-047-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "123/2026",
-      "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "PUBLICADO",
-      "condutor": "JONATAS DA SILVA SOUSA",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO PARCELADA",
-      "publicacao": "21/05/2026 13:52",
-      "inicio_recepcao": "25/05/2026 08:30",
-      "fim_recepcao": "03/06/2026 09:15",
-      "inicio_disputa": "03/06/2026 09:30",
-      "objeto": "Contratação de empresa especializada em fornecimento de insumos alimentícios e materiais complementares para panificação para o projeto padaria comunitária (material de consumo),  a fim de atender as demandas da Secretaria Municipal de Promoção Social.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DodSSZCRt6_LXicOA%2FPLk1ZQl6dPZ4Q2GGdvaIyN5GVlIr%2F7L_l6QXKP2klaDQD_wLz_6TIpAv1C1Ka9cu775gSWeqgnEua6OVwqqo5DDO%2FE%3D",
-      "total_lotes": 1,
-      "total_itens": 31,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "INSUMOS ALIMENTÍCIOS",
-          "fase": "PUBLICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 31,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900515348 FARINHA DE TRIGO:Farinha de trigo tipo 1, especial para panificação, em saco industrial, integro e original de fábrica com 25kg. Pó fino, branco, sem grumos ou partículas estranhas. Teor de proteína mínimo de 10%, com força do glúten(W) mínima de 190 e máxima de 220, livre de sujidades, parasitas e matérias estranhas. O acondicionamento em local seco, arejado, ao abrigo da luz e da umidade. A validade mínima de 06 meses a partir da data de entrega.",
-              "unidade": "Und.",
-              "quantidade": "1.848,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "2",
-              "especificacao": "9900515349 MELHORADOR DE FARINHA:melhorador para panificação, próprio para pão francês e pão de leite. Embalagem com 500g. Composição: Ácido ascórbico, enzimas e emulsificantes permitidos pela legislação. Pó fino, homogêneo, sem grumos, sem odor ou sabor estranho. Acondicionamento em local seco, fechado e protegido da luz. Validade Mínima de 06 meses da data de entrega.",
-              "unidade": "PC",
-              "quantidade": "500,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "3",
-              "especificacao": "9900515350 SAL:Sal refinado iodado, embalagens plásticas e lacradas de 1 kg. Composição: Cloreto de sódio com adição de iodo. Branco, fino, seco, sem impurezas. Acondicionamento em local seco e arejado. Validade mínima de 12 meses.",
-              "unidade": "KG",
-              "quantidade": "1.000,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "4",
-              "especificacao": "36857 AÇUCAR:açúcar cristal branco (sacarose de cana de açúcar) Embalagem em pacotes de 5kg, lacrados, com grãos uniformes, sem umidade, sem impurezas. Acondicionamento em local seco e ventilado. Validade mínima de 12 meses.",
-              "unidade": "PC",
-              "quantidade": "148,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "5",
-              "especificacao": "36858 LEITE ME PÓ:leite integral em pó (desidratado) instantâneo. Embalagem em pacotes de 1 kg, aluminizados ou metalizados. Deve possuir sabor natural, sem adição de açúcar. Acondicionamento em local seco, ao abrigo da luz. Validade mínima de 12 meses.",
-              "unidade": "KG",
-              "quantidade": "1.000,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "6",
-              "especificacao": "36859 MARGARINA:margarina (óleos vegetais, água, sal e emulsificantes permitidos, com teor mínimo de lipídios em 80%) própria para panificação, em balde plástico alimentício de 15 kg, com tampa, de consistência homogênea e sem ranço.Acondicionamento em local refrigerado ou em local fresco, conforme orientação do fabricante. Validade mínima de 06 meses.",
-              "unidade": "KG",
-              "quantidade": "47,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "7",
-              "especificacao": "36860 FERMENTO BIOLÓGICO SECO:fermento biológico seco instantâneo (saccharomyces cerevisiae) embalado em pacotes de 500 g, a vácuo. Acondicionamento em local seco e fresco.Validade mínima de 12 meses.",
-              "unidade": "PC",
-              "quantidade": "460,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "8",
-              "especificacao": "9900515351 ÁGUA POTÁVEL:água mineral natural sem gás (incolor, inodora e insípida), em galões de 20 litros, retornáveis e lacrados. Acondicionamento em local limpo, coberto e protegido do sol.",
-              "unidade": "GAL",
-              "quantidade": "160,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "9",
-              "especificacao": "36861 SACO DE PAPEL KRAFT:Saco kraft pardo reciclável, em pacotes c/ 500 UN, e capacidade de 2kg, conforme fornecimento comercial. Gramatura mínima de 60 g/m², resistente, sem rasgos ou perfurações",
-              "unidade": "FD",
-              "quantidade": "220,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "10",
-              "especificacao": "36862 SACO DE PAPEL KRAFT:Saco kraft pardo reciclável, em pacotes c/ 500 UN, e capacidade de 5kg, conforme fornecimento comercial. Gramatura mínima de 80 g/m², resistente, sem rasgos ou perfurações.",
-              "unidade": "FD",
-              "quantidade": "220,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "11",
-              "especificacao": "36863 OVO:Ovo de galinha classe A, frescos, íntegros, limpos, sem trincas, odor estranho ou contaminações. Cartelas com 30 unidades. Acondicionamento em cartelas lacradas e armazenadas sob refrigeração ou em local fresco e ventilado. Validade mínima conforme legislação sanitária vigente.",
-              "unidade": "CR",
-              "quantidade": "700,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "12",
-              "especificacao": "36864 ÓLEO VEGETAL:Óleo vegetal comestível refinado (soja, milho ou girassol), claro, sem resíduos, próprio para uso alimentar e em garrafa PET de 900 ml, lacrada.Acondicionamento em local seco, arejado e ao abrigo da luz. Validade mínima de 12 meses da data de entrega.",
-              "unidade": "LT",
-              "quantidade": "400,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "13",
-              "especificacao": "36865 ANTIMOFO:conservante alimentar antifúngico para panificação, conforme permitido pela legislação sanitária (ex: propionato de cálcio ou similar). Embalagem em pacotes de 1kg com pó branco, fino e solúvel, sem odor e sem grumos.Acondicionamento na embalagem original, em local seco e fechado. Validade mínima de 12 meses da entrega.",
-              "unidade": "KG",
-              "quantidade": "10,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "14",
-              "especificacao": "9900515352 FERMENTO FRESCO:fermento biológico prensado com cor clara, textura macia, odor característico e sem sinais de escurecimento ou ressecamento. Embalagem em blocos ou tabletes, totalizando 500g. Acondicionamento local refrigerado entre 4ºC e 10ºC. validade mínima de 15 dias a partir da entrega.",
-              "unidade": "PC",
-              "quantidade": "40,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "15",
-              "especificacao": "36866 LEITE INTEGRAL:leite integral UHT, com a cor branca uniforme, sabor natural e sem acidez, em caixas cartonadas de 1 litros. Acondicionamento em local seco e ventilado. Validade mínima de 06 meses da entrega.",
-              "unidade": "CX",
-              "quantidade": "300,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "16",
-              "especificacao": "9900515353 POLVILHO AZEDO:polvilho de mandioca fermentado (branco, fino, seco, sem grumos) em embalagens de 1kg. Acondicionamento em local seco e fechado. Validade mínima de 6 meses.",
-              "unidade": "KG",
-              "quantidade": "100,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "17",
-              "especificacao": "9900515354 POLVILHO DOCE:polvilho de mandioca (branco, fino, seco, sem grumos) em embalagens de 500g.Acondicionamento em local seco e fechado. Validade mínima de 6 meses.",
-              "unidade": "Und.",
-              "quantidade": "200,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "18",
-              "especificacao": "9900515355 QUEIJO:queijo do tipo muçarela (leite pasteurizado, fermentos lácteos, coalho e sal), com consistência firme, sem bolores, próprio para panificação. Peça fracionada embalada a vácuo de até 2kg. Acondicionamento refrigerado, validade mínima de 30 dias.",
-              "unidade": "KG",
-              "quantidade": "40,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "19",
-              "especificacao": "9900515356 PRESUNTO:presunto (carne suína, água, açúcar, estabilizantes, conservadores, antioxidantes e aromatizantes, todos permitidos pela legislação vigente) cozido e em peças fracionadas embaladas a vácuo de até 2kg, de consistência firme, sem bolores, próprio para panificação. Acondicionamento refrigerado, validade mínima de 30 dias.",
-              "unidade": "KG",
-              "quantidade": "40,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "20",
-              "especificacao": "9900515357 CALABRESA:carne suína, gordura suína, água, sal, açúcar, especiarias, estabilizantes, conservadores, antioxidantes e aromatizantes, todos permitidos pela legislação sanitária vigente, com consistência firme, sem bolores, próprio para panificação. Embalagens de 1kg. Acondicionamento refrigerado. Validade mínima de 30 dias.",
-              "unidade": "KG",
-              "quantidade": "80,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "21",
-              "especificacao": "36867 FERMENTO EM PÓ:fermento químico (bicarbonato de sódio, sais ácidos e amido) para bolo, pó fino e sem grumos. Pacotes de 200g. Validade mínima de 12 meses.",
-              "unidade": "Und.",
-              "quantidade": "250,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "22",
-              "especificacao": "36868 LEITE CONDENSADO:leite condensado integral (leite integral e açúcar) com textura cremosa e homogênea, cor branca e levemente amarelada, sabor doce característico e sem acidez. Caixa de 395g. Acondicionamento em local seco, fresco e protegido da luz. Validade mínima de 12 meses.",
-              "unidade": "CX",
-              "quantidade": "50,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "23",
-              "especificacao": "9900515358 CREME DE LEITE:creme de leite UTH (creme de leite e estabilizantes permitidos) com consistência cremosa, sem separação excessiva de fases, sabor suave e sem acidez. Caixa de 200 g. Acondicionamento em local seco. Validade mínima de 6 meses.",
-              "unidade": "CX",
-              "quantidade": "50,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "24",
-              "especificacao": "36869 CHOCOLATE EM PÓ:chocolate (cacau em pó e açúcar) em pó fino homogêneo e sem grumos, com no mínimo 30% de cacau. Pacotes de 1 kg. Acondicionamento em local seco.Validade mínima de 12 meses.",
-              "unidade": "KG",
-              "quantidade": "10,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "25",
-              "especificacao": "9900515359 ACHOCOLATADO:achocolatado (açúcar, cacau em pó, vitaminas e minerais) em pó solúvel, fino e de fácil dissolução. Em embalagens de 1kg. Acondicionamento em local seco e fechado. Validade mínima de 12 meses.",
-              "unidade": "Und.",
-              "quantidade": "5,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "26",
-              "especificacao": "36870 MANTEIGA:manteiga (Creme de leite pasteurizado e sal) na cor amarelo clara, consistência firme e sabor lácteo. Pote contendo 500g. Acondicionamento em local refrigerado. Validade mínima de 6 meses.",
-              "unidade": "Und.",
-              "quantidade": "40,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "27",
-              "especificacao": "36871 FUBÁ:fubá de milho fino (milho moído - amarelo claro, sem impurezas) em embalagens de 1kg. Acondicionamento em local seco e arejado. Validade mínima de 6 meses e registro.",
-              "unidade": "KG",
-              "quantidade": "50,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "28",
-              "especificacao": "36872 MILHO VERDE:milho verde em grãos, cozido e conservado (grãos inteiros, macios, de coloração amarela uniforme, livre de matérias estranhas, odores e sabores anormais), água e sal, sem adição de conservantes artificiais, conforme legislação sanitária vigente. Lata metálica contendo peso liquido de 200g. Acondicionamento em local seco e arejado. Validade mínima de 6 meses.",
-              "unidade": "Und.",
-              "quantidade": "250,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "29",
-              "especificacao": "36873 FLOCÃO:flocão de milho pré-cozido (flocos uniformes próprios para cuscuz e panificação), em embalagens de 500g. Acondicionamento em local seco e arejado. Validade mínima de 06 meses.",
-              "unidade": "PC",
-              "quantidade": "100,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "30",
-              "especificacao": "9900515360 AMIDO DE MILHO:amido de milho refinado (pó branco, fino e sem odor), em embalagens lacradas de 1kg. Acondicionamento em local seco e protegido da umidade.Validade mínima de 12 meses.",
-              "unidade": "KG",
-              "quantidade": "100,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "31",
-              "especificacao": "36875 COCO RALADO SECO:coco seco ralado sem adição de açúcar (branco, seco, sem umidade excessiva, sabor e aromas naturais), em embalagens lacradas de 100g. Composição: polpa de coco desidratada. Acondicionamento em local seco e fresco. Validade mínima de 12 meses.",
-              "unidade": "PC",
-              "quantidade": "30,00",
-              "valor_referencia": ""
             }
           ]
         }
@@ -269668,42 +269105,605 @@
       ]
     },
     {
-      "id": "PE-027-2024",
+      "id": "PE-047-2026",
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "705/2024",
+      "numero_adm": "123/2026",
       "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "SUSPENSO",
-      "condutor": "VICTOR KINIDEL DETHLING",
+      "situacao": "RECEPÇÃO DE PROPOSTAS",
+      "condutor": "JONATAS DA SILVA SOUSA",
       "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO",
-      "publicacao": "15/05/2024 18:26",
-      "inicio_recepcao": "16/05/2024 08:00",
-      "fim_recepcao": "12/06/2024 09:45",
-      "inicio_disputa": "12/06/2024 10:00",
-      "objeto": "Contratação de instituição financeira para prestação de serviços bancários para centralização, gerenciamento e processamento de créditos da folha de pagamento dos servidores, a fim de atender as demandas da Prefeitura de Teixeira de Freitas, conforme condições, quantidades e especificações no Edital, Termo de Referência e seus Anexos.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DzLz2Xen8YPaf7imkPCl92qPTjbO9FWj_Ij8A7z0lhFoshYKItEZJKMSwsDmMZZzEgTW7zLdCM5FFM6MxoGEPGV4brvKOlKkQqKuMNpKnsQA%3D",
+      "tipo_contrato": "AQUISIÇÃO PARCELADA",
+      "publicacao": "21/05/2026 13:52",
+      "inicio_recepcao": "25/05/2026 08:30",
+      "fim_recepcao": "03/06/2026 09:15",
+      "inicio_disputa": "03/06/2026 09:30",
+      "objeto": "Contratação de empresa especializada em fornecimento de insumos alimentícios e materiais complementares para panificação para o projeto padaria comunitária (material de consumo),  a fim de atender as demandas da Secretaria Municipal de Promoção Social.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5D%2Fy%2FPsIIGa1t7uO0hjBCn5k1_APS7bVdO7HS7rkVf57N6zOsFISTg8WgMgxNmcTbUyvqY32aMMUPX8yzZcA6CYOGI0mzffJTXEoyfAeBIndI%3D",
       "total_lotes": 1,
-      "total_itens": 1,
+      "total_itens": 31,
       "lotes": [
         {
           "numero": "1",
-          "titulo": "LOTE 01",
-          "fase": "SUSPENSO",
-          "tipo": "UNITÁRIO",
+          "titulo": "INSUMOS ALIMENTÍCIOS",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
           "quantidade": "1",
-          "intervalo_minimo": "100,00",
+          "intervalo_minimo": "0,01",
           "exclusivo_me": "NÃO",
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
-          "valor_referencia": "6.052.150,00",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 31,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515348 FARINHA DE TRIGO:Farinha de trigo tipo 1, especial para panificação, em saco industrial, integro e original de fábrica com 25kg. Pó fino, branco, sem grumos ou partículas estranhas. Teor de proteína mínimo de 10%, com força do glúten(W) mínima de 190 e máxima de 220, livre de sujidades, parasitas e matérias estranhas. O acondicionamento em local seco, arejado, ao abrigo da luz e da umidade. A validade mínima de 06 meses a partir da data de entrega.",
+              "unidade": "Und.",
+              "quantidade": "1.848,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "2",
+              "especificacao": "9900515349 MELHORADOR DE FARINHA:melhorador para panificação, próprio para pão francês e pão de leite. Embalagem com 500g. Composição: Ácido ascórbico, enzimas e emulsificantes permitidos pela legislação. Pó fino, homogêneo, sem grumos, sem odor ou sabor estranho. Acondicionamento em local seco, fechado e protegido da luz. Validade Mínima de 06 meses da data de entrega.",
+              "unidade": "PC",
+              "quantidade": "500,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "3",
+              "especificacao": "9900515350 SAL:Sal refinado iodado, embalagens plásticas e lacradas de 1 kg. Composição: Cloreto de sódio com adição de iodo. Branco, fino, seco, sem impurezas. Acondicionamento em local seco e arejado. Validade mínima de 12 meses.",
+              "unidade": "KG",
+              "quantidade": "1.000,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "4",
+              "especificacao": "36857 AÇUCAR:açúcar cristal branco (sacarose de cana de açúcar) Embalagem em pacotes de 5kg, lacrados, com grãos uniformes, sem umidade, sem impurezas. Acondicionamento em local seco e ventilado. Validade mínima de 12 meses.",
+              "unidade": "PC",
+              "quantidade": "148,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "5",
+              "especificacao": "36858 LEITE ME PÓ:leite integral em pó (desidratado) instantâneo. Embalagem em pacotes de 1 kg, aluminizados ou metalizados. Deve possuir sabor natural, sem adição de açúcar. Acondicionamento em local seco, ao abrigo da luz. Validade mínima de 12 meses.",
+              "unidade": "KG",
+              "quantidade": "1.000,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "6",
+              "especificacao": "36859 MARGARINA:margarina (óleos vegetais, água, sal e emulsificantes permitidos, com teor mínimo de lipídios em 80%) própria para panificação, em balde plástico alimentício de 15 kg, com tampa, de consistência homogênea e sem ranço.Acondicionamento em local refrigerado ou em local fresco, conforme orientação do fabricante. Validade mínima de 06 meses.",
+              "unidade": "KG",
+              "quantidade": "47,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "7",
+              "especificacao": "36860 FERMENTO BIOLÓGICO SECO:fermento biológico seco instantâneo (saccharomyces cerevisiae) embalado em pacotes de 500 g, a vácuo. Acondicionamento em local seco e fresco.Validade mínima de 12 meses.",
+              "unidade": "PC",
+              "quantidade": "460,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "8",
+              "especificacao": "9900515351 ÁGUA POTÁVEL:água mineral natural sem gás (incolor, inodora e insípida), em galões de 20 litros, retornáveis e lacrados. Acondicionamento em local limpo, coberto e protegido do sol.",
+              "unidade": "GAL",
+              "quantidade": "160,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "9",
+              "especificacao": "36861 SACO DE PAPEL KRAFT:Saco kraft pardo reciclável, em pacotes c/ 500 UN, e capacidade de 2kg, conforme fornecimento comercial. Gramatura mínima de 60 g/m², resistente, sem rasgos ou perfurações",
+              "unidade": "FD",
+              "quantidade": "220,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "10",
+              "especificacao": "36862 SACO DE PAPEL KRAFT:Saco kraft pardo reciclável, em pacotes c/ 500 UN, e capacidade de 5kg, conforme fornecimento comercial. Gramatura mínima de 80 g/m², resistente, sem rasgos ou perfurações.",
+              "unidade": "FD",
+              "quantidade": "220,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "11",
+              "especificacao": "36863 OVO:Ovo de galinha classe A, frescos, íntegros, limpos, sem trincas, odor estranho ou contaminações. Cartelas com 30 unidades. Acondicionamento em cartelas lacradas e armazenadas sob refrigeração ou em local fresco e ventilado. Validade mínima conforme legislação sanitária vigente.",
+              "unidade": "CR",
+              "quantidade": "700,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "12",
+              "especificacao": "36864 ÓLEO VEGETAL:Óleo vegetal comestível refinado (soja, milho ou girassol), claro, sem resíduos, próprio para uso alimentar e em garrafa PET de 900 ml, lacrada.Acondicionamento em local seco, arejado e ao abrigo da luz. Validade mínima de 12 meses da data de entrega.",
+              "unidade": "LT",
+              "quantidade": "400,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "13",
+              "especificacao": "36865 ANTIMOFO:conservante alimentar antifúngico para panificação, conforme permitido pela legislação sanitária (ex: propionato de cálcio ou similar). Embalagem em pacotes de 1kg com pó branco, fino e solúvel, sem odor e sem grumos.Acondicionamento na embalagem original, em local seco e fechado. Validade mínima de 12 meses da entrega.",
+              "unidade": "KG",
+              "quantidade": "10,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "14",
+              "especificacao": "9900515352 FERMENTO FRESCO:fermento biológico prensado com cor clara, textura macia, odor característico e sem sinais de escurecimento ou ressecamento. Embalagem em blocos ou tabletes, totalizando 500g. Acondicionamento local refrigerado entre 4ºC e 10ºC. validade mínima de 15 dias a partir da entrega.",
+              "unidade": "PC",
+              "quantidade": "40,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "15",
+              "especificacao": "36866 LEITE INTEGRAL:leite integral UHT, com a cor branca uniforme, sabor natural e sem acidez, em caixas cartonadas de 1 litros. Acondicionamento em local seco e ventilado. Validade mínima de 06 meses da entrega.",
+              "unidade": "CX",
+              "quantidade": "300,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "16",
+              "especificacao": "9900515353 POLVILHO AZEDO:polvilho de mandioca fermentado (branco, fino, seco, sem grumos) em embalagens de 1kg. Acondicionamento em local seco e fechado. Validade mínima de 6 meses.",
+              "unidade": "KG",
+              "quantidade": "100,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "17",
+              "especificacao": "9900515354 POLVILHO DOCE:polvilho de mandioca (branco, fino, seco, sem grumos) em embalagens de 500g.Acondicionamento em local seco e fechado. Validade mínima de 6 meses.",
+              "unidade": "Und.",
+              "quantidade": "200,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "18",
+              "especificacao": "9900515355 QUEIJO:queijo do tipo muçarela (leite pasteurizado, fermentos lácteos, coalho e sal), com consistência firme, sem bolores, próprio para panificação. Peça fracionada embalada a vácuo de até 2kg. Acondicionamento refrigerado, validade mínima de 30 dias.",
+              "unidade": "KG",
+              "quantidade": "40,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "19",
+              "especificacao": "9900515356 PRESUNTO:presunto (carne suína, água, açúcar, estabilizantes, conservadores, antioxidantes e aromatizantes, todos permitidos pela legislação vigente) cozido e em peças fracionadas embaladas a vácuo de até 2kg, de consistência firme, sem bolores, próprio para panificação. Acondicionamento refrigerado, validade mínima de 30 dias.",
+              "unidade": "KG",
+              "quantidade": "40,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "20",
+              "especificacao": "9900515357 CALABRESA:carne suína, gordura suína, água, sal, açúcar, especiarias, estabilizantes, conservadores, antioxidantes e aromatizantes, todos permitidos pela legislação sanitária vigente, com consistência firme, sem bolores, próprio para panificação. Embalagens de 1kg. Acondicionamento refrigerado. Validade mínima de 30 dias.",
+              "unidade": "KG",
+              "quantidade": "80,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "21",
+              "especificacao": "36867 FERMENTO EM PÓ:fermento químico (bicarbonato de sódio, sais ácidos e amido) para bolo, pó fino e sem grumos. Pacotes de 200g. Validade mínima de 12 meses.",
+              "unidade": "Und.",
+              "quantidade": "250,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "22",
+              "especificacao": "36868 LEITE CONDENSADO:leite condensado integral (leite integral e açúcar) com textura cremosa e homogênea, cor branca e levemente amarelada, sabor doce característico e sem acidez. Caixa de 395g. Acondicionamento em local seco, fresco e protegido da luz. Validade mínima de 12 meses.",
+              "unidade": "CX",
+              "quantidade": "50,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "23",
+              "especificacao": "9900515358 CREME DE LEITE:creme de leite UTH (creme de leite e estabilizantes permitidos) com consistência cremosa, sem separação excessiva de fases, sabor suave e sem acidez. Caixa de 200 g. Acondicionamento em local seco. Validade mínima de 6 meses.",
+              "unidade": "CX",
+              "quantidade": "50,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "24",
+              "especificacao": "36869 CHOCOLATE EM PÓ:chocolate (cacau em pó e açúcar) em pó fino homogêneo e sem grumos, com no mínimo 30% de cacau. Pacotes de 1 kg. Acondicionamento em local seco.Validade mínima de 12 meses.",
+              "unidade": "KG",
+              "quantidade": "10,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "25",
+              "especificacao": "9900515359 ACHOCOLATADO:achocolatado (açúcar, cacau em pó, vitaminas e minerais) em pó solúvel, fino e de fácil dissolução. Em embalagens de 1kg. Acondicionamento em local seco e fechado. Validade mínima de 12 meses.",
+              "unidade": "Und.",
+              "quantidade": "5,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "26",
+              "especificacao": "36870 MANTEIGA:manteiga (Creme de leite pasteurizado e sal) na cor amarelo clara, consistência firme e sabor lácteo. Pote contendo 500g. Acondicionamento em local refrigerado. Validade mínima de 6 meses.",
+              "unidade": "Und.",
+              "quantidade": "40,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "27",
+              "especificacao": "36871 FUBÁ:fubá de milho fino (milho moído - amarelo claro, sem impurezas) em embalagens de 1kg. Acondicionamento em local seco e arejado. Validade mínima de 6 meses e registro.",
+              "unidade": "KG",
+              "quantidade": "50,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "28",
+              "especificacao": "36872 MILHO VERDE:milho verde em grãos, cozido e conservado (grãos inteiros, macios, de coloração amarela uniforme, livre de matérias estranhas, odores e sabores anormais), água e sal, sem adição de conservantes artificiais, conforme legislação sanitária vigente. Lata metálica contendo peso liquido de 200g. Acondicionamento em local seco e arejado. Validade mínima de 6 meses.",
+              "unidade": "Und.",
+              "quantidade": "250,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "29",
+              "especificacao": "36873 FLOCÃO:flocão de milho pré-cozido (flocos uniformes próprios para cuscuz e panificação), em embalagens de 500g. Acondicionamento em local seco e arejado. Validade mínima de 06 meses.",
+              "unidade": "PC",
+              "quantidade": "100,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "30",
+              "especificacao": "9900515360 AMIDO DE MILHO:amido de milho refinado (pó branco, fino e sem odor), em embalagens lacradas de 1kg. Acondicionamento em local seco e protegido da umidade.Validade mínima de 12 meses.",
+              "unidade": "KG",
+              "quantidade": "100,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "31",
+              "especificacao": "36875 COCO RALADO SECO:coco seco ralado sem adição de açúcar (branco, seco, sem umidade excessiva, sabor e aromas naturais), em embalagens lacradas de 100g. Composição: polpa de coco desidratada. Acondicionamento em local seco e fresco. Validade mínima de 12 meses.",
+              "unidade": "PC",
+              "quantidade": "30,00",
+              "valor_referencia": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3-DLE-030-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "184 / 2026",
+      "modalidade": "DISPENSA ELETRÔNICA",
+      "situacao": "JULGAMENTO",
+      "condutor": "ISLA LIMA SILVA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO",
+      "publicacao": "19/05/2026 13:40",
+      "inicio_recepcao": "19/05/2026 13:45",
+      "fim_recepcao": "25/05/2026 08:15",
+      "inicio_disputa": "25/05/2026 08:30",
+      "objeto": "Contratação de empresa especializada em fornecimento de [DISPOSITIVOS DE ELETROESTIMULAÇÃO E SEUS\nCOMPONENTES (material permanente], a fim de atender as necessidades da Secretaria Municipal de Saúde.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DhxrWWUgqqHr2lVOJqXD31cof4_1hseiiXvHmsQia1c07UpdqILi8XNNh4qfIqy7GrdkZOIVcL074%2FbEwm01wGLOeBR2h1FqBW_V8qiD%2FP58%3D",
+      "total_lotes": 3,
+      "total_itens": 3,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "9900515367 Estimulador neuromuscular transcutâneo destinado aos tratamentos de reabilitação física:Composto pelas correntes: TENS (estimulação elétrica transcutânea, Transcutaneous Electrical Nerve Stimulation), FES (estimulação elétrica  funcional, Funct",
+          "fase": "JULGAMENTO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "10.620,24",
+          "vencedor": "64.734.884 JULIANE KELLY RODRIGUES COSTA",
+          "melhor_oferta": "1.770,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515367 Estimulador neuromuscular transcutâneo destinado aos tratamentos de reabilitação física:Composto pelas correntes: TENS (estimulação elétrica transcutânea, Transcutaneous Electrical Nerve Stimulation), FES (estimulação elétrica funcional, Functional Electrical Stimulation) e russa. 04 canais, voltagem: Bivolt 100/220. 50/60Hz. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "Und.",
+              "quantidade": "6,00",
+              "valor_referencia": "1.770,04"
+            }
+          ]
+        },
+        {
+          "numero": "2",
+          "titulo": "9900515386 Kit de cabos de conexão para eletroestimulação:destinado à condução de corrente elétrica entre o equipamento de estimulação elétrica nervosa transcutânea (TENS/FES) e os eletrodos. 02 unidades Laranja/Preto e Azul/Verde; Pinos Correntes/ Banana",
+          "fase": "DESERTO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "1.998,20",
           "vencedor": "",
           "melhor_oferta": "0,00",
           "total_itens": 1,
           "itens": [
             {
               "numero": "1",
+              "especificacao": "9900515386 Kit de cabos de conexão para eletroestimulação:destinado à condução de corrente elétrica entre o equipamento de estimulação elétrica nervosa transcutânea (TENS/FES) e os eletrodos. 02 unidades Laranja/Preto e Azul/Verde; Pinos Correntes/ Banana; Plug DB9 9 pinos; Medida do cabo 1,5 mts, com eletrodos de silicone.Compatível com o modelo Neurodyn ll da Ibramed. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "KIT",
+              "quantidade": "20,00",
+              "valor_referencia": "99,91"
+            }
+          ]
+        },
+        {
+          "numero": "3",
+          "titulo": "9900515387 Equipamento de ultrassom microcontrolado para fisioterapia:operando nas frequências de 1 MHz e 3 MHz, com modos de emissão contínuo e pulsado. Deve apresentar intensidade ajustável, temporizador digital e display para controle de parâmetros. O",
+          "fase": "JULGAMENTO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "11.839,20",
+          "vencedor": "64.734.884 JULIANE KELLY RODRIGUES COSTA",
+          "melhor_oferta": "1.973,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515387 Equipamento de ultrassom microcontrolado para fisioterapia:operando nas frequências de 1 MHz e 3 MHz, com modos de emissão contínuo e pulsado. Deve apresentar intensidade ajustável, temporizador digital e display para controle de parâmetros. O transdutor deve possuir ERA (Área de Radiação Efetiva) compatível com uso clínico e ser vedado para aplicações subaquáticas. Alimentação elétrica bivolt compatível com a rede nacional, acompanhado de todos os acessórios necessários ao pleno funcionamento e obrigatoriamente com registro ativo na ANVISA e certificado de conformidade técnica NBR IEC 60601. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "Und.",
+              "quantidade": "6,00",
+              "valor_referencia": "1.973,20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-076-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "276 / 2026",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "JULGAMENTO",
+      "condutor": "SERGIO CARNEIRO CAVALCANTI DE AZEVEDO",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO PARCELADA",
+      "publicacao": "08/05/2026 10:55",
+      "inicio_recepcao": "12/05/2026 08:30",
+      "fim_recepcao": "25/05/2026 08:15",
+      "inicio_disputa": "25/05/2026 08:30",
+      "objeto": "Contratação de empresa especializada em fornecimento de UNIFORMES PADRONIZADOS DESTINADOS AOS ESTUDANTES E AO CORPO ADMINISTRATIVO DAS UNIDADES DE ENSINO\nMILITARIZADAS DA REDE MUNICIPAL (material de consumo), a fim de atender as demandas da Secretaria Municipal de Educação.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DUqxeiT8qcvBk7AhexbuL938ED2YsBKVmlMnne0yKFnEKSHQKpuBUaMKZsGIalXG5wr5kC50yNruQCHwrA4F8goONFteo2MVI16QAHrFkTks%3D",
+      "total_lotes": 2,
+      "total_itens": 17,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "UNIFORMES PADRONIZADOS",
+          "fase": "JULGAMENTO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "468.758,66",
+          "vencedor": "NADIA CORREIA DE ALMEIDA",
+          "melhor_oferta": "468.758,66",
+          "total_itens": 13,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515548 Calça Administrativa Masculina:tecido brim pesado marrom café, cós anatômico, bolsos laterais tipo faca e bolsos traseiros embutidos, passadores reforçados, costuras triplas nas áreas de tensão. Uso com cinto de nylon marrom café com fivela metálica do brasão da Escola, em tamanhos variados que serão informados no momento da contratação.",
+              "unidade": "UND",
+              "quantidade": "32,00",
+              "valor_referencia": "71,84"
+            },
+            {
+              "numero": "2",
+              "especificacao": "9900515549 Bermuda Feminina para Educação Física:tecido tactel premium azul padrão UEMC, cós com elástico reforçado, modelagem feminina, comprimento 5 cm acima do joelho, secagem rápida, resistência à abrasão, tecnologia antiodor, em tamanhos variados que serão informados no momento da contratação.",
+              "unidade": "UND",
+              "quantidade": "1.000,00",
+              "valor_referencia": "25,19"
+            },
+            {
+              "numero": "3",
+              "especificacao": "37145 Calção Masculino para Educação Física:tactel premium azul padrão UEMC, cós com cordão interno, dois bolsos laterais, dois bolsos traseiros, comprimento 5 cm acima do joelho, secagem rápida e resistência ao uso contínuo, em tamanhos variados que serão informados no momento da contratação.",
+              "unidade": "UND",
+              "quantidade": "1.000,00",
+              "valor_referencia": "25,23"
+            },
+            {
+              "numero": "4",
+              "especificacao": "9900515550 Calça Masculina em Brim (Padrão UEMC):cor azul UEMC, faixas laterais vermelhas de 6 cm, bolsos funcionais, costuras reforçadas, passantes militares, uso com cinto nylon azul marinho com brasão, em tamanhos variados que serão informados no momento da contratação.",
+              "unidade": "UND",
+              "quantidade": "1.000,00",
+              "valor_referencia": "69,07"
+            },
+            {
+              "numero": "5",
+              "especificacao": "37147 Calça Feminina em Brim (Padrão UEMC):brim azul UEMC, faixas laterais vermelhas de 6 cm, modelagem feminina, bolsos laterais e traseiros, passantes militares reforçados, em tamanhos variados que serão informados no momento da contratação.",
+              "unidade": "UND",
+              "quantidade": "1.000,00",
+              "valor_referencia": "69,06"
+            },
+            {
+              "numero": "6",
+              "especificacao": "37148 Saia Feminina em Brim (Padrão UEMC):brim azul UEMC, altura até o joelho, faixas laterais vermelhas de 6 cm, bolsos laterais e traseiros, modelagem levemente evasê, passantes reforçados, em tamanhos variados que serão informados no momento da contratação.",
+              "unidade": "UND",
+              "quantidade": "1.000,00",
+              "valor_referencia": "66,63"
+            },
+            {
+              "numero": "7",
+              "especificacao": "9900515551 Camisa para Educação Física:malha premium branca, gramatura mínima 150 g/m², gola careca reforçada, manga curta, brasão institucional em alta definição, identificação MCPM/UEMC, tratamento antiodor e antialérgico, em tamanhos P, M, G e GG, sendo as definições exatas de tamanho, modelagem e gênero informadas no momento da contratação.",
+              "unidade": "UND",
+              "quantidade": "1.000,00",
+              "valor_referencia": "19,66"
+            },
+            {
+              "numero": "8",
+              "especificacao": "37149 Camisa Polo Administrativa:malha PV (67% poliéster/33% viscose), branca, gola e punhos marrom café, bordados com nome de guerra, função, tipo sanguíneo e RH; brasão da Escola no peito; bandeira da Bahia na manga direita; brasão do Município na esquerda; bordado vermelho padrão UEMC, em tamanhos P, M, G e GG, sendo as definições exatas de tamanho, modelagem e gênero informadas no momento da contratação.",
+              "unidade": "UND",
+              "quantidade": "32,00",
+              "valor_referencia": "45,06"
+            },
+            {
+              "numero": "9",
+              "especificacao": "9900515552 Camisa Polo Estudantil MCPM:malha PV branca, gola e punhos azul UEMC, identificação (AL MCPM + nome de guerra), tipo sanguíneo e RH bordados, brasão institucional no peito, bandeira da Bahia bordada e brasão do Município na manga esquerda, em tamanhos P, M, G e GG, sendo as definições exatas de tamanho, modelagem e gênero informadas no momento da contratação.",
+              "unidade": "UND",
+              "quantidade": "1.000,00",
+              "valor_referencia": "40,55"
+            },
+            {
+              "numero": "10",
+              "especificacao": "37150 Jaleco Branco Administrativo:tecido Oxford, manga curta, gola esporte, bolsos funcionais, identificação bordada (nome, tipo sanguíneo, RH), brasão institucional no peito, bandeira da Bahia bordada e brasão do Município pintado, em tamanhos variados que serão informados no momento da contratação.",
+              "unidade": "UND",
+              "quantidade": "90,00",
+              "valor_referencia": "70,25"
+            },
+            {
+              "numero": "11",
+              "especificacao": "9900515553 Beca Cerimonial MCPM:tecido microfibra premium azul marinho, gola em V estruturada, caimento reto, viés vermelho padrão UEMC, brasão institucional bordado em alta definição. Uso em solenidades, formaturas e eventos oficiais, em tamanhos variados que serão informados no momento da contratação.",
+              "unidade": "UND",
+              "quantidade": "1.000,00",
+              "valor_referencia": "117,33"
+            },
+            {
+              "numero": "12",
+              "especificacao": "9900515554 Boné Estudantil MCPM:brim pesado azul UEMC, estrutura reforçada, seis gomos com ilhoses para ventilação, brasão pintado frontal, fecho em velcro militar reforçado com ajuste de tamanho.",
+              "unidade": "UND",
+              "quantidade": "1.000,00",
+              "valor_referencia": "25,16"
+            },
+            {
+              "numero": "13",
+              "especificacao": "9900515555 Boné Administrativo MCPM:brim pesado marrom café, brasão pintado, ajuste posterior em velcro.",
+              "unidade": "UND",
+              "quantidade": "32,00",
+              "valor_referencia": "25,48"
+            }
+          ]
+        },
+        {
+          "numero": "2",
+          "titulo": "UNIFORMES PADRONIZADOS",
+          "fase": "JULGAMENTO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "90.502,24",
+          "vencedor": "ANDIVA COMÉRCIO DE EQUIPAMENTOS E SERVIÇOS LTDA",
+          "melhor_oferta": "90.500,00",
+          "total_itens": 4,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515556 Cinto Estudantil MCPM:nylon azul marinho de alta resistência, fivela metálica com brasão UEMC em alto relevo, costura reforçada e regulagem militar, em tamanhos variados que serão informados no momento da contratação.",
+              "unidade": "UND",
+              "quantidade": "1.000,00",
+              "valor_referencia": "26,15"
+            },
+            {
+              "numero": "2",
+              "especificacao": "9900515557 Meia Social Preta Administrativa:par, 100% poliamida, cano médio, reforço no calcanhar e ponteira, estrutura elástica que mantém o formato após lavagem, em tamanhos variados que serão informadas no momento da contratação.",
+              "unidade": "PAR",
+              "quantidade": "32,00",
+              "valor_referencia": "5,07"
+            },
+            {
+              "numero": "3",
+              "especificacao": "9900515558 Meia Social Preta Estudantil:par, 100% poliamida, cano médio, reforço no calcanhar e ponteira, estrutura elástica que mantém o formato após lavagem, destinada ao conjunto de uniformes estudantis, em tamanhos variados que serão informados no momento da contratação.",
+              "unidade": "PAR",
+              "quantidade": "1.000,00",
+              "valor_referencia": "5,07"
+            },
+            {
+              "numero": "4",
+              "especificacao": "9900515559 Tênis Preto Estudantil:material emborrachado, solado antiderrapante totalmente preto, palmilha anatômica, fechamento em cadarço, resistência a desgaste, em tamanhos variados que serão informados no momento da contratação.",
+              "unidade": "PAR",
+              "quantidade": "1.000,00",
+              "valor_referencia": "59,12"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-073-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "202 / 2026",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "HABILITAÇÃO",
+      "condutor": "SERGIO CARNEIRO CAVALCANTI DE AZEVEDO",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO",
+      "publicacao": "05/05/2026 13:34",
+      "inicio_recepcao": "07/05/2026 08:30",
+      "fim_recepcao": "19/05/2026 08:15",
+      "inicio_disputa": "19/05/2026 08:30",
+      "objeto": "Contratação de empresa especializada em fornecimento de VEÍCULOS TIPO PICAPE CABINE DUPLA (bens permanentes), a fim de atender as demandas da Secretaria Municipal de Educação.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DkAnnflYOtUAj3BvwokGPSL1NJoClgQs8NCY7gdXq03DG_gCPPkQ4f8YT%2FyurKDnM3iyci2JrIkpa17zRl1o2q0Wfvs37eoufvI73KPMk5ok%3D",
+      "total_lotes": 1,
+      "total_itens": 1,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "VEICULOS TIPO PICAPE",
+          "fase": "HABILITAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "542.018,80",
+          "vencedor": "VIA MONDO AUTOMOVEIS E PEÇAS LTDA",
+          "melhor_oferta": "524.000,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "73973900009 Veículo automotor zero quilômetro, tipo picapeleve/compacta:com cabine dupla, 4 portas, capacidade para 5(cinco) ocupantes incluindo o motorista. Ano defabricação/modelo 2026, combustível tipo flex (álcool/gasolina),motorização mínima de 1.3L (ou superior), potência mínima107cv. Tração 4x2, câmbio manual ou automático, com, nomínimo, 5 (cinco) marchas à frente (ou conforme tecnologiadisponível em câmbio automático), visando melhor desempenho,segurança e economia de combustível. Veículo dotado dedireção com assistência elétrica, sistema de freios com ABS eEBD (ou equivalente), airbag frontal para motorista e passageiro,cintos de segurança de 3 (três) pontos para todos os ocupantes(quando aplicável) e encostos de cabeça, atendendointegralmente às normas de segurança vigentes. Vidros elétricosnas portas dianteiras e traseiras, travas elétricas nas portas comtravamento central e acionamento por meio de comando internoe pela chave ou dispositivo equivalente. Sistema de arcondicionado frio/quente, com difusores frontais, adequado aoconforto térmico dos ocupantes, com comandos de fácil acessoao motorista. Carroceria com caçamba traseira aberta, comcapacidade de carga mínima de 600kg, dotada de protetor decaçamba (forração ou protetor em material plástico ou similar),capota marítima ou equivalente, ganchos ou pontos deamarração de carga conforme projeto do fabricante, permitindo otransporte de materiais leves, equipamentos, mobiliários depequeno porte, materiais pedagógicos e insumos administrativos.Sistema multimídia, no mínimo, conexão Bluetooth e rádio, altofalantes instalados, entrada USB ou equivalente, painel deinstrumentos com indicadores básicos (velocímetro, marcador decombustível, hodômetro, luzes de advertência) e computador debordo. Comando interno e elétricos para regulagem deretrovisores externos, desembaçador do vidro traseiro (quandoaplicável), limpador e lavador de para-brisa dianteiro comtemporizador. Equipado, no mínimo, com sensor deestacionamento traseiro e câmera de ré (admite-se um dos doisou ambos), faróis com regulagem de foco (manual ou elétrica,conforme projeto de fábrica), iluminação traseira completa, luz defreio elevada, aviso sonoro de faróis acesos e/ou portas abertas,conforme configuração de série. Bancos revestidos em courosintético de fábrica ou material similar, banco do motorista comajuste de distância e inclinação, porta-objetos distribuídos nopainel...(VIDE O ANEXO DO TERMO).",
+              "unidade": "UN",
+              "quantidade": "4,00",
+              "valor_referencia": "135.504,70"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-027-2024",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "705/2024",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "HOMOLOGADO",
+      "condutor": "MAGDA DE SELES GUIMARÃES",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO",
+      "publicacao": "13/06/2024 18:49",
+      "inicio_recepcao": "14/06/2024 08:00",
+      "fim_recepcao": "10/07/2024 13:45",
+      "inicio_disputa": "10/07/2024 14:00",
+      "objeto": "O objeto da presente licitação é a contratação de INSTITUIÇÃO FINANCEIRA ESPECIALIZADA NA PRESTAÇÃO DE SERVIÇOS BANCÁRIOS PARA CENTRALIZAÇÃO, GERENCIAMENTO E PROCESSAMENTO DE CRÉDITOS DA FOLHA DE PAGAMENTO DOS SERVIDORES, a fim de atender as demandas da Secretaria Municipal de Administração, conforme condições, quantidades e especificações no Edital, Termo de Referência e seus Anexos.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5Drz0pscEwb6%2FU1hxPlKd9oZVA3K5oFGJ7f7R8axBkvu0c5BaKRb6IDFB9yMgVFkGvM5hhsS0DBJ9kAL5UysuvzQeNt7zz6EKUwlgsIpL8rxg%3D",
+      "total_lotes": 1,
+      "total_itens": 1,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "SERVIÇOS BANCÁRIOS",
+          "fase": "HOMOLOGADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "6.052.150,00",
+          "vencedor": "ITAÚ UNIBANCO S.A.",
+          "melhor_oferta": "6.053.000,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
               "especificacao": "CONTRATAÇÃO DE INSTITUIÇÃO FINANCEIRA: ESPECIALIZADA NA PRESTAÇÃO DE SERVIÇOS BANCÁRIOS PARA CENTRALIZAÇÃO, GERENCIAMENTO E PROCESSAMENTO DE CRÉDITOS DA FOLHA DE PAGAMENTO DOS SERVIDORES DA PREFEITURA MUNICIPAL DE TEIXEIRA DE FREITAS/BA.",
-              "unidade": "SERVIÇO",
+              "unidade": "UN",
               "quantidade": "1,00",
               "valor_referencia": "6.052.150,00"
             }
