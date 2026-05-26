@@ -1,10 +1,10 @@
 {
   "metadata": {
     "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-    "total_processos": 792,
-    "total_lotes": 8760,
-    "total_itens": 14992,
-    "atualizado_em": "20260525_193520"
+    "total_processos": 793,
+    "total_lotes": 8762,
+    "total_itens": 15003,
+    "atualizado_em": "20260526_193512"
   },
   "processos": [
     {
@@ -265955,64 +265955,6 @@
       ]
     },
     {
-      "id": "PE-063-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "332 / 2026",
-      "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "HABILITAÇÃO",
-      "condutor": "JONATAS DA SILVA SOUSA",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO PARCELADA",
-      "publicacao": "17/04/2026 14:49",
-      "inicio_recepcao": "22/04/2026 08:30",
-      "fim_recepcao": "05/05/2026 08:15",
-      "inicio_disputa": "05/05/2026 08:30",
-      "objeto": "Contratação de empresa especializada em fornecimento de ADUELAS DE CONCRETOS (material de consumo), a fim de atender as demandas da Secretaria Municipal de Infraestrutura e Serviços Urbanos.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5De6KLP%2F2i2Pu69UpQSSUlvQ1Jg4cSlUiTJ7wlR6YFvch%2FpklMq4YVv3fwbha6T3WMwiXV3TbQjfPIVZ9zpTV9fV4nBYP_yfODa3Yz6e1OxS4%3D",
-      "total_lotes": 1,
-      "total_itens": 3,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "ADUELAS DE CONCRETOS",
-          "fase": "INTERPOSIÇÃO DE RECURSOS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "571.404,30",
-          "vencedor": "CEPRENG INDUSTRIA DE ARTEFATOS E CIMENTO EIRELI",
-          "melhor_oferta": "571.397,10",
-          "total_itens": 3,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900515574 Aduela/ Galeria pré-moldada de concreto armado:seção retangular, fechada, com encaixe do tipo macho e fêmea. Dimensões internas de 2,00 m de largura e 2,00 m de altura, comprimento de 1 m, mísula de 20x20 cm, espessura de parede mínima de 15 cm, A altura de aterro a ser considerada é de 0,50 - 5,00 m, carga acidental considerando TB-45 e Fck do concreto de 35 MPa.",
-              "unidade": "Und.",
-              "quantidade": "24,00",
-              "valor_referencia": "4.778,03"
-            },
-            {
-              "numero": "2",
-              "especificacao": "9900515575 Aduela/ Galeria pré-moldada de concreto armado:seção retangular, fechada, com encaixe do tipo macho e fêmea. Dimensões internas de 2,50 m de largura e 2,50 m de altura, comprimento de 1 m, mísula de 20x20 cm, espessura de parede mínima de 20 cm, A altura de aterro a ser considerada é de 0,50 - 5,00 m, carga acidental considerando TB-45 e Fck do concreto de 35 MPa.",
-              "unidade": "Und.",
-              "quantidade": "50,00",
-              "valor_referencia": "5.854,95"
-            },
-            {
-              "numero": "3",
-              "especificacao": "9900515576 Aduela/ Galeria pré-moldada de concreto armado:Aduela/ Galeria pré-moldada de concreto armado, seção retangular, fechada, com encaixe do tipo macho e fêmea.Dimensões internas de 3,00 m de largura e 3,00 m de altura, comprimento de 1 m, mísula de 20x20 cm, espessura de parede mínima de 20 cm, A altura de aterro a ser considerada é de 0,50- 5,00 m, carga acidental considerando TB-45 e Fck do concreto de 35 MPa.",
-              "unidade": "Und.",
-              "quantidade": "24,00",
-              "valor_referencia": "6.832,67"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "CE-005-2026",
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "216/2026",
@@ -268453,286 +268395,6 @@
       ]
     },
     {
-      "id": "PE-085-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "614 / 2026",
-      "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "PUBLICADO",
-      "condutor": "SERGIO CARNEIRO CAVALCANTI DE AZEVEDO",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO",
-      "publicacao": "22/05/2026 17:57",
-      "inicio_recepcao": "26/05/2026 08:30",
-      "fim_recepcao": "08/06/2026 09:15",
-      "inicio_disputa": "08/06/2026 09:30",
-      "objeto": "Contratação de empresa especializada em fornecimento de NOTEBOOKS (material permanente), a fim de atender as demandas da Secretaria Municipal de Administração e demais secretarias.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DG9CLn4LqNr%2F3PWvjdgUa%2Fc3F9ZbqtQmZCUEMm3dsDf5JQdY2z8U0Kk7jBNsl5EZ9FfkXDZOwvOIsCfmD6h7h%2FU5pe3hewsTnem2hMFWemB4%3D",
-      "total_lotes": 2,
-      "total_itens": 2,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "9900830497 NOTEBOOK DE ALTO DESEMPENHO:PROCESSADOR:Intel Core i7, Intel Core Ultra 7, AMD Ryzen 7 ou processadores para NOTEBOOK de desempenho superior a21.000 (vinte e cinco mil) pontos no PASSMARK SOFTWARE (https://www.cpubenchmark.net/laptop.html) ex",
-          "fase": "PUBLICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900830497 NOTEBOOK DE ALTO DESEMPENHO:PROCESSADOR:Intel Core i7, Intel Core Ultra 7, AMD Ryzen 7 ou processadores para NOTEBOOK de desempenho superior a21.000 (vinte e cinco mil) pontos no PASSMARK SOFTWARE (https://www.cpubenchmark.net/laptop.html) exceto os modelos Intel Core i5 e Ryzen 5; SISTEMA OPERACIONAL: Windows 11 Home ou Professional em Português Brasileiro; PLACA DE VIDEO DEDICADA: GPU para Laptop NVIDIA GeForce RTX 4050 6GB GDDR6 ou Superior; MEMÓRIA: no mínimo 16GB DDR5; ARMAZENAMENTO: 512GB SSD NVMe M.2 (mínimo);TELA: Resolução mínima WUXGA (1920 x 1200), antirreflexo, 300 nits (mínimo), Taxa de atualização 165 Hz (mínimo),sRGB-100%; WIFI: Wi-Fi 6 (exigido) & Bluetooth 5.1 ou superior; CONEXÕES: 1x USB 3.2 Tipo-C (mínimo), 2x USB 3.2 Tipo-A (mínimo), 1x HDMI 2.1 (exigido), 1X RJ-45 (exigido); Conector de áudio: Entrada de Microfone e fone de ouvido (exigido).GARANTIA: 36 meses de garantia a contar do RECEBIMENTO DEFINITIVO dos equipamentos. MODELOS DE REFERÊNCIA: Notebook Gamer Alienware 16 Aurora NVIDIA® GeForce RTX™ 4050, Notebook Gamer Acer Nitro V16, Notebook ASUS TUF Gaming F16 2025, Legion 5 Intel Ultra 7 255HX RTX 5070 8GB15.1\" 165Hz.",
-              "unidade": "UND",
-              "quantidade": "6,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "2",
-          "titulo": "37391 NOTEBOOK DE DESEMPENHO INTERMEDIÁRIO:PROCESSADOR:: Intel Core 5 120U, Intel Core Ultra 5, Intel Core de 13ª Geração ou superior, AMD Ryzen 5 série 7000 ou superior; SISTEMA OPERACIONAL: Windows 11 Home ou Professional em Português Brasileiro; PLACA",
-          "fase": "PUBLICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37391 NOTEBOOK DE DESEMPENHO INTERMEDIÁRIO:PROCESSADOR:: Intel Core 5 120U, Intel Core Ultra 5, Intel Core de 13ª Geração ou superior, AMD Ryzen 5 série 7000 ou superior; SISTEMA OPERACIONAL: Windows 11 Home ou Professional em Português Brasileiro; PLACA DE VIDEO INTEGRADA: MEMÓRIA: no mínimo 16GB DDR4; ARMAZENAMENTO: 512GB SSD NVMe M.2 (mínimo); TELA:Resolução mínima FHD (1920 x 1080), antirreflexo, 250 nits (mínimo), Taxa de atualização 120 Hz (mínimo), sRGB-100%; WIFI: Wi-Fi 6 (exigido) & Bluetooth 5.1 ou superior; CONEXÕES: 1x USB 3.2 Tipo-C (mínimo), 2x USB 3.2 Tipo-A (mínimo), 1x HDMI 2.1 (exigido); Conector de áudio: Entrada de Microfone e fone de ouvido (exigido). GARANTIA: 24 meses de garantia a contar do RECEBIMENTO DEFINITIVO dos equipamentos. MODELO REFERÊNCIA: Notebook Dell Pro 15 Essential.",
-              "unidade": "UND",
-              "quantidade": "10,00",
-              "valor_referencia": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "PE-084-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "269 / 2026",
-      "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "PUBLICADO",
-      "condutor": "JONATAS DA SILVA SOUSA",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO PARCELADA",
-      "publicacao": "22/05/2026 17:42",
-      "inicio_recepcao": "26/05/2026 08:30",
-      "fim_recepcao": "08/06/2026 08:15",
-      "inicio_disputa": "08/06/2026 08:30",
-      "objeto": "Contratação de empresa especializada no fornecimento de DOCES (material de consumo), a fim de atender às demandas da Secretaria Municipal de Educação.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DS17YfW5wGwuxZekGv8B_bgU3rVe5SANbpOC9sMzdV2PCCsSyj2gKBmo54Fp04H3Ggve9ifXRkKPOx_7REnFICa%2F9rDD2KXomvcydiV5nX1s%3D",
-      "total_lotes": 8,
-      "total_itens": 8,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "37141 Bombom tipo wafer recheado com creme de castanha de caju e cobertura de chocolate:Produto alimentício do tipo bombom à base de wafer crocante, com recheio cremoso sabor castanha de caju, coberto com chocolate ao leite ou similar, apresentando textur",
-          "fase": "PUBLICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37141 Bombom tipo wafer recheado com creme de castanha de caju e cobertura de chocolate:Produto alimentício do tipo bombom à base de wafer crocante, com recheio cremoso sabor castanha de caju, coberto com chocolate ao leite ou similar, apresentando textura que combina crocância do wafer com cremosidade do recheio, sabor marcante e homogêneo, próprio para consumo humano. Deverá ser elaborado com ingredientes de boa qualidade, contendo, entre outros, derivados de trigo, leite e castanha de caju, podendo conter soja, amendoim e traços de glúten, conforme rotulagem do fabricante. Embalagem primária: bombons embalados individualmente, em invólucro apropriado para alimentos, íntegro, sem rasgos, furos ou sinais de violação. Embalagem secundária: pacote com peso líquido de 1 kg, devendo constar, a identificação clara do produto, marca, peso líquido, lote, data de fabricação e validade. Produto pronto para consumo, isento de corpos estranhos, sujidades, umidade excessiva, deformações acentuadas ou sinais de deterioração. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "PCT",
-              "quantidade": "120,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "2",
-          "titulo": "37142 Bombom tipo wafer recheado com creme de chocolate meio amargo e flocos de arroz, coberto com chocolate branco:Produto alimentício do tipo bombom wafer, composto por camadas de wafer crocante, recheio cremoso sabor chocolate meio amargo com flocos de",
-          "fase": "PUBLICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37142 Bombom tipo wafer recheado com creme de chocolate meio amargo e flocos de arroz, coberto com chocolate branco:Produto alimentício do tipo bombom wafer, composto por camadas de wafer crocante, recheio cremoso sabor chocolate meio amargo com flocos de arroz e cobertura de chocolate branco, conferindo contraste de sabores e texturas, adequado ao consumo individual. Deverá apresentar textura crocante do wafer e dos flocos de arroz, combinada à cremosidade do recheio, sabor característico de chocolate meio amargo e chocolate branco, isento de odores ou sabores estranhos e de sinais de rancificação. Embalagem primária: unidades embaladas individualmente, em filme apropriado para contato com alimentos, íntegro e inviolado. Embalagem secundária: pacote ou caixa com peso líquido de 1 kg, com identificação do produto (bombom wafer recheado), marca, peso líquido, lote, data de fabricação, data de validade, lista de ingredientes, informação nutricional e advertências sobre alergênicos (trigo, leite, soja, amendoim, entre outros), bem como identificação do fabricante (nome/razão social e CNPJ) e registro no órgão competente. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "PCT",
-              "quantidade": "120,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "3",
-          "titulo": "9900515543 Bombom tipo wafer recheado com creme sabor chocolate ao leite, coberto com chocolate ao leite:Produto alimentício do tipo bombom chocolate, consistindo em wafer crocante com recheio cremoso sabor chocolate ao leite e cobertura externa também de",
-          "fase": "PUBLICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900515543 Bombom tipo wafer recheado com creme sabor chocolate ao leite, coberto com chocolate ao leite:Produto alimentício do tipo bombom chocolate, consistindo em wafer crocante com recheio cremoso sabor chocolate ao leite e cobertura externa também de chocolate ao leite, destinado ao consumo imediato. Produto deve apresentar cor, sabor e aroma característicos de chocolate, textura firme, sem grumos, sem sinais de umidade excessiva, deformação, esbranquiçamento (\"fat bloom\") acentuado ou qualquer indício de deterioração.Embalagem: bombons embalados individualmente, acondicionados em pacote com peso líquido de 1 kg, em material apropriado para alimentos, resistente e íntegro, contendo identificação do produto, marca, peso líquido, lote, data de fabricação, validade, informações nutricionais, lista de ingredientes e advertências sobre alergênicos, além do nome/razão social e CNPJ do fabricante e número de registro no órgão competente. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "PCT",
-              "quantidade": "120,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "4",
-          "titulo": "9900515544 Bala de goma tipo jujuba sortida em tubos:Produto alimentício do tipo bala de goma (jujuba) açucarada, macia, mastigável, em sabores sortidos de frutas (como morango, uva, laranja, limão, abacaxi ou similares), acondicionada em tubos plásticos",
-          "fase": "PUBLICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900515544 Bala de goma tipo jujuba sortida em tubos:Produto alimentício do tipo bala de goma (jujuba) açucarada, macia, mastigável, em sabores sortidos de frutas (como morango, uva, laranja, limão, abacaxi ou similares), acondicionada em tubos plásticos individuais, própria para consumo humano. Deverá apresentar textura macia, não excessivamente pegajosa, sem cristalização exagerada de açúcar na superfície, isenta de sujidades, corpos estranhos, odor e sabor estranhos ou sinais de fermentação. Embalagem: tubo com no mínimo 8 unidades de jujubas, com peso aproximado de 30 g a 35 g cada tubo, acondicionado em caixa com 30 tubos por caixa, devendo constar na rotulagem a identificação do produto (bala de goma tipo jujuba), sabor sortido, peso, lote, data de fabricação, prazo de validade, lista de ingredientes, informação nutricional, advertências sobre alergênicos e presença/ausência de glúten, além do nome/razão social e CNPJ do fabricante. EXCLUSIVOPARA ME/EPP.",
-              "unidade": "CX",
-              "quantidade": "100,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "5",
-          "titulo": "9900515545 Bala de goma tipo jujuba sabor iogurte em tubos:Produto alimentício do tipo bala de goma (jujuba), macia, mastigável, com sabores sortidos inspirados em iogurte de frutas (como morango, uva, pêssego ou similares), apresentando textura suave e a",
-          "fase": "PUBLICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900515545 Bala de goma tipo jujuba sabor iogurte em tubos:Produto alimentício do tipo bala de goma (jujuba), macia, mastigável, com sabores sortidos inspirados em iogurte de frutas (como morango, uva, pêssego ou similares), apresentando textura suave e aroma característico de iogurte, acondicionada em tubos plásticos individuais. Deverá ser elaborada com ingredientes próprios para consumo humano, apresentando cores e formatos compatíveis com a categoria, sem presença de corpos estranhos, sujidades, deformações excessivas ou sinais de deterioração. Embalagem: tubo com no mínimo 8 unidades de jujubas, com peso aproximado de 30 g a 35 g cada tubo, acondicionado em caixa com 30 tubos por caixa, com rotulagem contendo denominação do produto (bala de goma sabor iogurte), sabores, peso, lote, data de fabricação, prazo de validade, lista de ingredientes, informação nutricional, advertências sobre alergênicos e identificação completa do fabricante (nome/razão social, CNPJ e endereço), e registro no órgão competente.EXCLUSIVO PARA ME/EPP.",
-              "unidade": "CX",
-              "quantidade": "100,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "6",
-          "titulo": "9900515546 Bala de café:Produto alimentício do tipo bala dura ou mastigável, sabor café, com aroma e sabor característicos de café torrado, própria para consumo humano, destinada à oferta em eventos, reuniões e ações institucionais. Deverá apresentar text",
-          "fase": "PUBLICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900515546 Bala de café:Produto alimentício do tipo bala dura ou mastigável, sabor café, com aroma e sabor característicos de café torrado, própria para consumo humano, destinada à oferta em eventos, reuniões e ações institucionais. Deverá apresentar textura uniforme (dura ou levemente mastigável, conforme o tipo), sem rachaduras excessivas, sem cristais de açúcar soltos em demasia, isenta de corpos estranhos, sujidades, umidade excessiva, deformações anormais ou odor e sabor estranhos.Embalagem: balas embaladas individualmente, acondicionadas em pacote com peso líquido mínimo de 500g, em material apropriado para contato com alimentos, íntegro e inviolado, com identificação do produto (bala de café), marca, peso líquido, lote, data de fabricação, prazo de validade, lista de ingredientes, informação nutricional e advertências sobre alergênicos, além dos dados do fabricante (nome/razão social, CNPJ) e registro no órgão competente. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "PCT",
-              "quantidade": "100,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "7",
-          "titulo": "37143 Bala sortida de sabores:Produto alimentício do tipo bala (dura ou mastigável), com sabores sortidos de frutas e/ou outros sabores usuais (tais como menta, tutti-frutti, caramelo, entre outros), própria para consumo humano em eventos e reuniões insti",
-          "fase": "PUBLICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37143 Bala sortida de sabores:Produto alimentício do tipo bala (dura ou mastigável), com sabores sortidos de frutas e/ou outros sabores usuais (tais como menta, tutti-frutti, caramelo, entre outros), própria para consumo humano em eventos e reuniões institucionais. Deverá apresentar textura adequada ao tipo (dura ou mastigável), cor e aroma compatíveis com os sabores declarados, isenta de sujidades, corpos estranhos, deformações excessivas, umidade anormal ou sinais de deterioração.Embalagem: balas embaladas individualmente, acondicionadas em pacote com peso líquido mínimo de 500g, devendo a embalagem conter, de forma clara e legível, a identificação do produto (bala sortida), marca, peso líquido, lote, data de fabricação, validade, lista de ingredientes, informação nutricional, advertências sobre alergênicos, identificação do fabricante (nome/razão social, CNPJ e endereço) e, quando aplicável, registro no órgão competente. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "PCT",
-              "quantidade": "100,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "8",
-          "titulo": "9900515547 Bala sabor morango:Produto alimentício do tipo bala (dura ou mastigável), sabor morango, com cor, aroma e sabor característicos da fruta, própria para consumo humano. Deverá apresentar textura homogênea, sem rachaduras ou deformações exageradas",
-          "fase": "PUBLICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900515547 Bala sabor morango:Produto alimentício do tipo bala (dura ou mastigável), sabor morango, com cor, aroma e sabor característicos da fruta, própria para consumo humano. Deverá apresentar textura homogênea, sem rachaduras ou deformações exageradas, isenta de sujidades, corpos estranhos, umidade excessiva ou sinais de deterioração. Embalagem: balas embaladas individualmente, acondicionadas em pacote com peso líquido mínimo de 500g, devendo o rótulo conter a denominação do produto (bala sabor morango), marca, peso líquido, lote, data de fabricação, prazo de validade, lista de ingredientes, informação nutricional, advertências sobre alergênicos, identificação do fabricante (nome/razão social, CNPJ) e, quando exigido, registro no órgão competente.EXCLUSIVO PARA ME/EPP.",
-              "unidade": "PCT",
-              "quantidade": "100,00",
-              "valor_referencia": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "2-DLE-050-2026",
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "480 / 2026",
@@ -269451,11 +269113,403 @@
       ]
     },
     {
+      "id": "PE-073-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "202 / 2026",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "HABILITAÇÃO",
+      "condutor": "SERGIO CARNEIRO CAVALCANTI DE AZEVEDO",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO",
+      "publicacao": "05/05/2026 13:34",
+      "inicio_recepcao": "07/05/2026 08:30",
+      "fim_recepcao": "19/05/2026 08:15",
+      "inicio_disputa": "19/05/2026 08:30",
+      "objeto": "Contratação de empresa especializada em fornecimento de VEÍCULOS TIPO PICAPE CABINE DUPLA (bens permanentes), a fim de atender as demandas da Secretaria Municipal de Educação.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DkAnnflYOtUAj3BvwokGPSL1NJoClgQs8NCY7gdXq03DG_gCPPkQ4f8YT%2FyurKDnM3iyci2JrIkpa17zRl1o2q0Wfvs37eoufvI73KPMk5ok%3D",
+      "total_lotes": 1,
+      "total_itens": 1,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "VEICULOS TIPO PICAPE",
+          "fase": "HABILITAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "542.018,80",
+          "vencedor": "VIA MONDO AUTOMOVEIS E PEÇAS LTDA",
+          "melhor_oferta": "524.000,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "73973900009 Veículo automotor zero quilômetro, tipo picapeleve/compacta:com cabine dupla, 4 portas, capacidade para 5(cinco) ocupantes incluindo o motorista. Ano defabricação/modelo 2026, combustível tipo flex (álcool/gasolina),motorização mínima de 1.3L (ou superior), potência mínima107cv. Tração 4x2, câmbio manual ou automático, com, nomínimo, 5 (cinco) marchas à frente (ou conforme tecnologiadisponível em câmbio automático), visando melhor desempenho,segurança e economia de combustível. Veículo dotado dedireção com assistência elétrica, sistema de freios com ABS eEBD (ou equivalente), airbag frontal para motorista e passageiro,cintos de segurança de 3 (três) pontos para todos os ocupantes(quando aplicável) e encostos de cabeça, atendendointegralmente às normas de segurança vigentes. Vidros elétricosnas portas dianteiras e traseiras, travas elétricas nas portas comtravamento central e acionamento por meio de comando internoe pela chave ou dispositivo equivalente. Sistema de arcondicionado frio/quente, com difusores frontais, adequado aoconforto térmico dos ocupantes, com comandos de fácil acessoao motorista. Carroceria com caçamba traseira aberta, comcapacidade de carga mínima de 600kg, dotada de protetor decaçamba (forração ou protetor em material plástico ou similar),capota marítima ou equivalente, ganchos ou pontos deamarração de carga conforme projeto do fabricante, permitindo otransporte de materiais leves, equipamentos, mobiliários depequeno porte, materiais pedagógicos e insumos administrativos.Sistema multimídia, no mínimo, conexão Bluetooth e rádio, altofalantes instalados, entrada USB ou equivalente, painel deinstrumentos com indicadores básicos (velocímetro, marcador decombustível, hodômetro, luzes de advertência) e computador debordo. Comando interno e elétricos para regulagem deretrovisores externos, desembaçador do vidro traseiro (quandoaplicável), limpador e lavador de para-brisa dianteiro comtemporizador. Equipado, no mínimo, com sensor deestacionamento traseiro e câmera de ré (admite-se um dos doisou ambos), faróis com regulagem de foco (manual ou elétrica,conforme projeto de fábrica), iluminação traseira completa, luz defreio elevada, aviso sonoro de faróis acesos e/ou portas abertas,conforme configuração de série. Bancos revestidos em courosintético de fábrica ou material similar, banco do motorista comajuste de distância e inclinação, porta-objetos distribuídos nopainel...(VIDE O ANEXO DO TERMO).",
+              "unidade": "UN",
+              "quantidade": "4,00",
+              "valor_referencia": "135.504,70"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-086-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "1350 / 2025",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "PUBLICADO",
+      "condutor": "JONATAS DA SILVA SOUSA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO",
+      "publicacao": "26/05/2026 17:00",
+      "inicio_recepcao": "28/05/2026 08:30",
+      "fim_recepcao": "10/06/2026 08:15",
+      "inicio_disputa": "10/06/2026 08:30",
+      "objeto": "Contratação de empresa especializada em fornecimento de BETONEIRA E CARRO COLETOR (material permanente e de consumo), a fim de atender as demandas da Secretaria Municipal de Infraestrutura e Serviços Urbanos.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5Dvn3r5nt9Hf0syfEMGI0qP9jVWptz6%2FgTGkrFejy3t392i2TZjUaoZu49wXfWuMccDZsnheqtPyXHWPdJjaNsYG4T5VOsmSoLP86YuZCX5Ok%3D",
+      "total_lotes": 2,
+      "total_itens": 2,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "700110361 BETONEIRA 400L:tambor 400 litros, misturam 315 litros, 15 ciclos/hora, produção 4,7 m³, tambor com 26 rpm, motor com 2 cv, tensão monofásica de 220v, frequência de 60 hz, transmissão por correia tipo v a44 e peso 160kg. EXCLUSIVO PARA ME/EPP.",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "700110361 BETONEIRA 400L:tambor 400 litros, misturam 315 litros, 15 ciclos/hora, produção 4,7 m³, tambor com 26 rpm, motor com 2 cv, tensão monofásica de 220v, frequência de 60 hz, transmissão por correia tipo v a44 e peso 160kg. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "Und.",
+              "quantidade": "2,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "1",
+          "titulo": "700110361 BETONEIRA 400L:tambor 400 litros, misturam 315 litros, 15 ciclos/hora, produção 4,7 m³, tambor com 26 rpm, motor com 2 cv, tensão monofásica de 220v, frequência de 60 hz, transmissão por correia tipo v a44 e peso 160kg. EXCLUSIVO PARA ME/EPP.",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "700110361 BETONEIRA 400L:tambor 400 litros, misturam 315 litros, 15 ciclos/hora, produção 4,7 m³, tambor com 26 rpm, motor com 2 cv, tensão monofásica de 220v, frequência de 60 hz, transmissão por correia tipo v a44 e peso 160kg. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "Und.",
+              "quantidade": "2,00",
+              "valor_referencia": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-085-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "614 / 2026",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "RECEPÇÃO DE PROPOSTAS",
+      "condutor": "SERGIO CARNEIRO CAVALCANTI DE AZEVEDO",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO",
+      "publicacao": "22/05/2026 17:57",
+      "inicio_recepcao": "26/05/2026 08:30",
+      "fim_recepcao": "08/06/2026 09:15",
+      "inicio_disputa": "08/06/2026 09:30",
+      "objeto": "Contratação de empresa especializada em fornecimento de NOTEBOOKS (material permanente), a fim de atender as demandas da Secretaria Municipal de Administração e demais secretarias.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DpAfOXMLuH1zwTGNeUtAOuFKM%2FPGZK%2Fbedhqg%2F8QX4kjZH5JJ4EX2P_OsTpP2rzU2CegkmkPYqbt_Fac%2FQtDMylSWZNyfmeeAz69F5xroPBo%3D",
+      "total_lotes": 2,
+      "total_itens": 2,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "9900830497 NOTEBOOK DE ALTO DESEMPENHO:PROCESSADOR:Intel Core i7, Intel Core Ultra 7, AMD Ryzen 7 ou processadores para NOTEBOOK de desempenho superior a21.000 (vinte e cinco mil) pontos no PASSMARK SOFTWARE (https://www.cpubenchmark.net/laptop.html) ex",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900830497 NOTEBOOK DE ALTO DESEMPENHO:PROCESSADOR:Intel Core i7, Intel Core Ultra 7, AMD Ryzen 7 ou processadores para NOTEBOOK de desempenho superior a21.000 (vinte e cinco mil) pontos no PASSMARK SOFTWARE (https://www.cpubenchmark.net/laptop.html) exceto os modelos Intel Core i5 e Ryzen 5; SISTEMA OPERACIONAL: Windows 11 Home ou Professional em Português Brasileiro; PLACA DE VIDEO DEDICADA: GPU para Laptop NVIDIA GeForce RTX 4050 6GB GDDR6 ou Superior; MEMÓRIA: no mínimo 16GB DDR5; ARMAZENAMENTO: 512GB SSD NVMe M.2 (mínimo);TELA: Resolução mínima WUXGA (1920 x 1200), antirreflexo, 300 nits (mínimo), Taxa de atualização 165 Hz (mínimo),sRGB-100%; WIFI: Wi-Fi 6 (exigido) & Bluetooth 5.1 ou superior; CONEXÕES: 1x USB 3.2 Tipo-C (mínimo), 2x USB 3.2 Tipo-A (mínimo), 1x HDMI 2.1 (exigido), 1X RJ-45 (exigido); Conector de áudio: Entrada de Microfone e fone de ouvido (exigido).GARANTIA: 36 meses de garantia a contar do RECEBIMENTO DEFINITIVO dos equipamentos. MODELOS DE REFERÊNCIA: Notebook Gamer Alienware 16 Aurora NVIDIA® GeForce RTX™ 4050, Notebook Gamer Acer Nitro V16, Notebook ASUS TUF Gaming F16 2025, Legion 5 Intel Ultra 7 255HX RTX 5070 8GB15.1\" 165Hz.",
+              "unidade": "UND",
+              "quantidade": "6,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "1",
+          "titulo": "9900830497 NOTEBOOK DE ALTO DESEMPENHO:PROCESSADOR:Intel Core i7, Intel Core Ultra 7, AMD Ryzen 7 ou processadores para NOTEBOOK de desempenho superior a21.000 (vinte e cinco mil) pontos no PASSMARK SOFTWARE (https://www.cpubenchmark.net/laptop.html) ex",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900830497 NOTEBOOK DE ALTO DESEMPENHO:PROCESSADOR:Intel Core i7, Intel Core Ultra 7, AMD Ryzen 7 ou processadores para NOTEBOOK de desempenho superior a21.000 (vinte e cinco mil) pontos no PASSMARK SOFTWARE (https://www.cpubenchmark.net/laptop.html) exceto os modelos Intel Core i5 e Ryzen 5; SISTEMA OPERACIONAL: Windows 11 Home ou Professional em Português Brasileiro; PLACA DE VIDEO DEDICADA: GPU para Laptop NVIDIA GeForce RTX 4050 6GB GDDR6 ou Superior; MEMÓRIA: no mínimo 16GB DDR5; ARMAZENAMENTO: 512GB SSD NVMe M.2 (mínimo);TELA: Resolução mínima WUXGA (1920 x 1200), antirreflexo, 300 nits (mínimo), Taxa de atualização 165 Hz (mínimo),sRGB-100%; WIFI: Wi-Fi 6 (exigido) & Bluetooth 5.1 ou superior; CONEXÕES: 1x USB 3.2 Tipo-C (mínimo), 2x USB 3.2 Tipo-A (mínimo), 1x HDMI 2.1 (exigido), 1X RJ-45 (exigido); Conector de áudio: Entrada de Microfone e fone de ouvido (exigido).GARANTIA: 36 meses de garantia a contar do RECEBIMENTO DEFINITIVO dos equipamentos. MODELOS DE REFERÊNCIA: Notebook Gamer Alienware 16 Aurora NVIDIA® GeForce RTX™ 4050, Notebook Gamer Acer Nitro V16, Notebook ASUS TUF Gaming F16 2025, Legion 5 Intel Ultra 7 255HX RTX 5070 8GB15.1\" 165Hz.",
+              "unidade": "UND",
+              "quantidade": "6,00",
+              "valor_referencia": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-084-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "269 / 2026",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "RECEPÇÃO DE PROPOSTAS",
+      "condutor": "JONATAS DA SILVA SOUSA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO PARCELADA",
+      "publicacao": "22/05/2026 17:42",
+      "inicio_recepcao": "26/05/2026 08:30",
+      "fim_recepcao": "08/06/2026 08:15",
+      "inicio_disputa": "08/06/2026 08:30",
+      "objeto": "Contratação de empresa especializada no fornecimento de DOCES (material de consumo), a fim de atender às demandas da Secretaria Municipal de Educação.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DYd31jSSDKhgfwBkZMBiT4EbTQNBC%2F_km_ind79T8pvvsbusn4k2ib1mWKspgWklGMMeMlzokmKUx8jt4Fux4Nitqyj2yL_wBSvdab1CAxVM%3D",
+      "total_lotes": 8,
+      "total_itens": 8,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "37141 Bombom tipo wafer recheado com creme de castanha de caju e cobertura de chocolate:Produto alimentício do tipo bombom à base de wafer crocante, com recheio cremoso sabor castanha de caju, coberto com chocolate ao leite ou similar, apresentando textur",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37141 Bombom tipo wafer recheado com creme de castanha de caju e cobertura de chocolate:Produto alimentício do tipo bombom à base de wafer crocante, com recheio cremoso sabor castanha de caju, coberto com chocolate ao leite ou similar, apresentando textura que combina crocância do wafer com cremosidade do recheio, sabor marcante e homogêneo, próprio para consumo humano. Deverá ser elaborado com ingredientes de boa qualidade, contendo, entre outros, derivados de trigo, leite e castanha de caju, podendo conter soja, amendoim e traços de glúten, conforme rotulagem do fabricante. Embalagem primária: bombons embalados individualmente, em invólucro apropriado para alimentos, íntegro, sem rasgos, furos ou sinais de violação. Embalagem secundária: pacote com peso líquido de 1 kg, devendo constar, a identificação clara do produto, marca, peso líquido, lote, data de fabricação e validade. Produto pronto para consumo, isento de corpos estranhos, sujidades, umidade excessiva, deformações acentuadas ou sinais de deterioração. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "PCT",
+              "quantidade": "120,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "2",
+          "titulo": "37142 Bombom tipo wafer recheado com creme de chocolate meio amargo e flocos de arroz, coberto com chocolate branco:Produto alimentício do tipo bombom wafer, composto por camadas de wafer crocante, recheio cremoso sabor chocolate meio amargo com flocos de",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37142 Bombom tipo wafer recheado com creme de chocolate meio amargo e flocos de arroz, coberto com chocolate branco:Produto alimentício do tipo bombom wafer, composto por camadas de wafer crocante, recheio cremoso sabor chocolate meio amargo com flocos de arroz e cobertura de chocolate branco, conferindo contraste de sabores e texturas, adequado ao consumo individual. Deverá apresentar textura crocante do wafer e dos flocos de arroz, combinada à cremosidade do recheio, sabor característico de chocolate meio amargo e chocolate branco, isento de odores ou sabores estranhos e de sinais de rancificação. Embalagem primária: unidades embaladas individualmente, em filme apropriado para contato com alimentos, íntegro e inviolado. Embalagem secundária: pacote ou caixa com peso líquido de 1 kg, com identificação do produto (bombom wafer recheado), marca, peso líquido, lote, data de fabricação, data de validade, lista de ingredientes, informação nutricional e advertências sobre alergênicos (trigo, leite, soja, amendoim, entre outros), bem como identificação do fabricante (nome/razão social e CNPJ) e registro no órgão competente. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "PCT",
+              "quantidade": "120,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "3",
+          "titulo": "9900515543 Bombom tipo wafer recheado com creme sabor chocolate ao leite, coberto com chocolate ao leite:Produto alimentício do tipo bombom chocolate, consistindo em wafer crocante com recheio cremoso sabor chocolate ao leite e cobertura externa também de",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515543 Bombom tipo wafer recheado com creme sabor chocolate ao leite, coberto com chocolate ao leite:Produto alimentício do tipo bombom chocolate, consistindo em wafer crocante com recheio cremoso sabor chocolate ao leite e cobertura externa também de chocolate ao leite, destinado ao consumo imediato. Produto deve apresentar cor, sabor e aroma característicos de chocolate, textura firme, sem grumos, sem sinais de umidade excessiva, deformação, esbranquiçamento (\"fat bloom\") acentuado ou qualquer indício de deterioração.Embalagem: bombons embalados individualmente, acondicionados em pacote com peso líquido de 1 kg, em material apropriado para alimentos, resistente e íntegro, contendo identificação do produto, marca, peso líquido, lote, data de fabricação, validade, informações nutricionais, lista de ingredientes e advertências sobre alergênicos, além do nome/razão social e CNPJ do fabricante e número de registro no órgão competente. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "PCT",
+              "quantidade": "120,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "3",
+          "titulo": "9900515543 Bombom tipo wafer recheado com creme sabor chocolate ao leite, coberto com chocolate ao leite:Produto alimentício do tipo bombom chocolate, consistindo em wafer crocante com recheio cremoso sabor chocolate ao leite e cobertura externa também de",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515543 Bombom tipo wafer recheado com creme sabor chocolate ao leite, coberto com chocolate ao leite:Produto alimentício do tipo bombom chocolate, consistindo em wafer crocante com recheio cremoso sabor chocolate ao leite e cobertura externa também de chocolate ao leite, destinado ao consumo imediato. Produto deve apresentar cor, sabor e aroma característicos de chocolate, textura firme, sem grumos, sem sinais de umidade excessiva, deformação, esbranquiçamento (\"fat bloom\") acentuado ou qualquer indício de deterioração.Embalagem: bombons embalados individualmente, acondicionados em pacote com peso líquido de 1 kg, em material apropriado para alimentos, resistente e íntegro, contendo identificação do produto, marca, peso líquido, lote, data de fabricação, validade, informações nutricionais, lista de ingredientes e advertências sobre alergênicos, além do nome/razão social e CNPJ do fabricante e número de registro no órgão competente. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "PCT",
+              "quantidade": "120,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "4",
+          "titulo": "9900515544 Bala de goma tipo jujuba sortida em tubos:Produto alimentício do tipo bala de goma (jujuba) açucarada, macia, mastigável, em sabores sortidos de frutas (como morango, uva, laranja, limão, abacaxi ou similares), acondicionada em tubos plásticos",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515544 Bala de goma tipo jujuba sortida em tubos:Produto alimentício do tipo bala de goma (jujuba) açucarada, macia, mastigável, em sabores sortidos de frutas (como morango, uva, laranja, limão, abacaxi ou similares), acondicionada em tubos plásticos individuais, própria para consumo humano. Deverá apresentar textura macia, não excessivamente pegajosa, sem cristalização exagerada de açúcar na superfície, isenta de sujidades, corpos estranhos, odor e sabor estranhos ou sinais de fermentação. Embalagem: tubo com no mínimo 8 unidades de jujubas, com peso aproximado de 30 g a 35 g cada tubo, acondicionado em caixa com 30 tubos por caixa, devendo constar na rotulagem a identificação do produto (bala de goma tipo jujuba), sabor sortido, peso, lote, data de fabricação, prazo de validade, lista de ingredientes, informação nutricional, advertências sobre alergênicos e presença/ausência de glúten, além do nome/razão social e CNPJ do fabricante. EXCLUSIVOPARA ME/EPP.",
+              "unidade": "CX",
+              "quantidade": "100,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "4",
+          "titulo": "9900515544 Bala de goma tipo jujuba sortida em tubos:Produto alimentício do tipo bala de goma (jujuba) açucarada, macia, mastigável, em sabores sortidos de frutas (como morango, uva, laranja, limão, abacaxi ou similares), acondicionada em tubos plásticos",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515544 Bala de goma tipo jujuba sortida em tubos:Produto alimentício do tipo bala de goma (jujuba) açucarada, macia, mastigável, em sabores sortidos de frutas (como morango, uva, laranja, limão, abacaxi ou similares), acondicionada em tubos plásticos individuais, própria para consumo humano. Deverá apresentar textura macia, não excessivamente pegajosa, sem cristalização exagerada de açúcar na superfície, isenta de sujidades, corpos estranhos, odor e sabor estranhos ou sinais de fermentação. Embalagem: tubo com no mínimo 8 unidades de jujubas, com peso aproximado de 30 g a 35 g cada tubo, acondicionado em caixa com 30 tubos por caixa, devendo constar na rotulagem a identificação do produto (bala de goma tipo jujuba), sabor sortido, peso, lote, data de fabricação, prazo de validade, lista de ingredientes, informação nutricional, advertências sobre alergênicos e presença/ausência de glúten, além do nome/razão social e CNPJ do fabricante. EXCLUSIVOPARA ME/EPP.",
+              "unidade": "CX",
+              "quantidade": "100,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "7",
+          "titulo": "37143 Bala sortida de sabores:Produto alimentício do tipo bala (dura ou mastigável), com sabores sortidos de frutas e/ou outros sabores usuais (tais como menta, tutti-frutti, caramelo, entre outros), própria para consumo humano em eventos e reuniões insti",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37143 Bala sortida de sabores:Produto alimentício do tipo bala (dura ou mastigável), com sabores sortidos de frutas e/ou outros sabores usuais (tais como menta, tutti-frutti, caramelo, entre outros), própria para consumo humano em eventos e reuniões institucionais. Deverá apresentar textura adequada ao tipo (dura ou mastigável), cor e aroma compatíveis com os sabores declarados, isenta de sujidades, corpos estranhos, deformações excessivas, umidade anormal ou sinais de deterioração.Embalagem: balas embaladas individualmente, acondicionadas em pacote com peso líquido mínimo de 500g, devendo a embalagem conter, de forma clara e legível, a identificação do produto (bala sortida), marca, peso líquido, lote, data de fabricação, validade, lista de ingredientes, informação nutricional, advertências sobre alergênicos, identificação do fabricante (nome/razão social, CNPJ e endereço) e, quando aplicável, registro no órgão competente. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "PCT",
+              "quantidade": "100,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "8",
+          "titulo": "9900515547 Bala sabor morango:Produto alimentício do tipo bala (dura ou mastigável), sabor morango, com cor, aroma e sabor característicos da fruta, própria para consumo humano. Deverá apresentar textura homogênea, sem rachaduras ou deformações exageradas",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515547 Bala sabor morango:Produto alimentício do tipo bala (dura ou mastigável), sabor morango, com cor, aroma e sabor característicos da fruta, própria para consumo humano. Deverá apresentar textura homogênea, sem rachaduras ou deformações exageradas, isenta de sujidades, corpos estranhos, umidade excessiva ou sinais de deterioração. Embalagem: balas embaladas individualmente, acondicionadas em pacote com peso líquido mínimo de 500g, devendo o rótulo conter a denominação do produto (bala sabor morango), marca, peso líquido, lote, data de fabricação, prazo de validade, lista de ingredientes, informação nutricional, advertências sobre alergênicos, identificação do fabricante (nome/razão social, CNPJ) e, quando exigido, registro no órgão competente.EXCLUSIVO PARA ME/EPP.",
+              "unidade": "PCT",
+              "quantidade": "100,00",
+              "valor_referencia": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "PE-076-2026",
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "276 / 2026",
       "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "JULGAMENTO",
+      "situacao": "HABILITAÇÃO",
       "condutor": "SERGIO CARNEIRO CAVALCANTI DE AZEVEDO",
       "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
       "tipo_contrato": "AQUISIÇÃO PARCELADA",
@@ -269464,14 +269518,14 @@
       "fim_recepcao": "25/05/2026 08:15",
       "inicio_disputa": "25/05/2026 08:30",
       "objeto": "Contratação de empresa especializada em fornecimento de UNIFORMES PADRONIZADOS DESTINADOS AOS ESTUDANTES E AO CORPO ADMINISTRATIVO DAS UNIDADES DE ENSINO\nMILITARIZADAS DA REDE MUNICIPAL (material de consumo), a fim de atender as demandas da Secretaria Municipal de Educação.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DUqxeiT8qcvBk7AhexbuL938ED2YsBKVmlMnne0yKFnEKSHQKpuBUaMKZsGIalXG5wr5kC50yNruQCHwrA4F8goONFteo2MVI16QAHrFkTks%3D",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5D_WOgxru2i2ztcsyOQjFW7HJ5NLLJKRW1CMVUFoy7z9yRRWYT645KXLiMbQgKetORh_bHJe9uf8yFqPUUpm_tgLlXIn5lyruptR92es4oiaM%3D",
       "total_lotes": 2,
-      "total_itens": 17,
+      "total_itens": 26,
       "lotes": [
         {
           "numero": "1",
           "titulo": "UNIFORMES PADRONIZADOS",
-          "fase": "JULGAMENTO",
+          "fase": "HABILITAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -269577,73 +269631,8 @@
           ]
         },
         {
-          "numero": "2",
-          "titulo": "UNIFORMES PADRONIZADOS",
-          "fase": "JULGAMENTO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "90.502,24",
-          "vencedor": "ANDIVA COMÉRCIO DE EQUIPAMENTOS E SERVIÇOS LTDA",
-          "melhor_oferta": "90.500,00",
-          "total_itens": 4,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900515556 Cinto Estudantil MCPM:nylon azul marinho de alta resistência, fivela metálica com brasão UEMC em alto relevo, costura reforçada e regulagem militar, em tamanhos variados que serão informados no momento da contratação.",
-              "unidade": "UND",
-              "quantidade": "1.000,00",
-              "valor_referencia": "26,15"
-            },
-            {
-              "numero": "2",
-              "especificacao": "9900515557 Meia Social Preta Administrativa:par, 100% poliamida, cano médio, reforço no calcanhar e ponteira, estrutura elástica que mantém o formato após lavagem, em tamanhos variados que serão informadas no momento da contratação.",
-              "unidade": "PAR",
-              "quantidade": "32,00",
-              "valor_referencia": "5,07"
-            },
-            {
-              "numero": "3",
-              "especificacao": "9900515558 Meia Social Preta Estudantil:par, 100% poliamida, cano médio, reforço no calcanhar e ponteira, estrutura elástica que mantém o formato após lavagem, destinada ao conjunto de uniformes estudantis, em tamanhos variados que serão informados no momento da contratação.",
-              "unidade": "PAR",
-              "quantidade": "1.000,00",
-              "valor_referencia": "5,07"
-            },
-            {
-              "numero": "4",
-              "especificacao": "9900515559 Tênis Preto Estudantil:material emborrachado, solado antiderrapante totalmente preto, palmilha anatômica, fechamento em cadarço, resistência a desgaste, em tamanhos variados que serão informados no momento da contratação.",
-              "unidade": "PAR",
-              "quantidade": "1.000,00",
-              "valor_referencia": "59,12"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "PE-073-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "202 / 2026",
-      "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "HABILITAÇÃO",
-      "condutor": "SERGIO CARNEIRO CAVALCANTI DE AZEVEDO",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO",
-      "publicacao": "05/05/2026 13:34",
-      "inicio_recepcao": "07/05/2026 08:30",
-      "fim_recepcao": "19/05/2026 08:15",
-      "inicio_disputa": "19/05/2026 08:30",
-      "objeto": "Contratação de empresa especializada em fornecimento de VEÍCULOS TIPO PICAPE CABINE DUPLA (bens permanentes), a fim de atender as demandas da Secretaria Municipal de Educação.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DkAnnflYOtUAj3BvwokGPSL1NJoClgQs8NCY7gdXq03DG_gCPPkQ4f8YT%2FyurKDnM3iyci2JrIkpa17zRl1o2q0Wfvs37eoufvI73KPMk5ok%3D",
-      "total_lotes": 1,
-      "total_itens": 1,
-      "lotes": [
-        {
           "numero": "1",
-          "titulo": "VEICULOS TIPO PICAPE",
+          "titulo": "UNIFORMES PADRONIZADOS",
           "fase": "HABILITAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
@@ -269651,17 +269640,159 @@
           "exclusivo_me": "NÃO",
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
-          "valor_referencia": "542.018,80",
-          "vencedor": "VIA MONDO AUTOMOVEIS E PEÇAS LTDA",
-          "melhor_oferta": "524.000,00",
-          "total_itens": 1,
+          "valor_referencia": "468.758,66",
+          "vencedor": "NADIA CORREIA DE ALMEIDA",
+          "melhor_oferta": "468.758,66",
+          "total_itens": 13,
           "itens": [
             {
               "numero": "1",
-              "especificacao": "73973900009 Veículo automotor zero quilômetro, tipo picapeleve/compacta:com cabine dupla, 4 portas, capacidade para 5(cinco) ocupantes incluindo o motorista. Ano defabricação/modelo 2026, combustível tipo flex (álcool/gasolina),motorização mínima de 1.3L (ou superior), potência mínima107cv. Tração 4x2, câmbio manual ou automático, com, nomínimo, 5 (cinco) marchas à frente (ou conforme tecnologiadisponível em câmbio automático), visando melhor desempenho,segurança e economia de combustível. Veículo dotado dedireção com assistência elétrica, sistema de freios com ABS eEBD (ou equivalente), airbag frontal para motorista e passageiro,cintos de segurança de 3 (três) pontos para todos os ocupantes(quando aplicável) e encostos de cabeça, atendendointegralmente às normas de segurança vigentes. Vidros elétricosnas portas dianteiras e traseiras, travas elétricas nas portas comtravamento central e acionamento por meio de comando internoe pela chave ou dispositivo equivalente. Sistema de arcondicionado frio/quente, com difusores frontais, adequado aoconforto térmico dos ocupantes, com comandos de fácil acessoao motorista. Carroceria com caçamba traseira aberta, comcapacidade de carga mínima de 600kg, dotada de protetor decaçamba (forração ou protetor em material plástico ou similar),capota marítima ou equivalente, ganchos ou pontos deamarração de carga conforme projeto do fabricante, permitindo otransporte de materiais leves, equipamentos, mobiliários depequeno porte, materiais pedagógicos e insumos administrativos.Sistema multimídia, no mínimo, conexão Bluetooth e rádio, altofalantes instalados, entrada USB ou equivalente, painel deinstrumentos com indicadores básicos (velocímetro, marcador decombustível, hodômetro, luzes de advertência) e computador debordo. Comando interno e elétricos para regulagem deretrovisores externos, desembaçador do vidro traseiro (quandoaplicável), limpador e lavador de para-brisa dianteiro comtemporizador. Equipado, no mínimo, com sensor deestacionamento traseiro e câmera de ré (admite-se um dos doisou ambos), faróis com regulagem de foco (manual ou elétrica,conforme projeto de fábrica), iluminação traseira completa, luz defreio elevada, aviso sonoro de faróis acesos e/ou portas abertas,conforme configuração de série. Bancos revestidos em courosintético de fábrica ou material similar, banco do motorista comajuste de distância e inclinação, porta-objetos distribuídos nopainel...(VIDE O ANEXO DO TERMO).",
-              "unidade": "UN",
-              "quantidade": "4,00",
-              "valor_referencia": "135.504,70"
+              "especificacao": "9900515548 Calça Administrativa Masculina:tecido brim pesado marrom café, cós anatômico, bolsos laterais tipo faca e bolsos traseiros embutidos, passadores reforçados, costuras triplas nas áreas de tensão. Uso com cinto de nylon marrom café com fivela metálica do brasão da Escola, em tamanhos variados que serão informados no momento da contratação.",
+              "unidade": "UND",
+              "quantidade": "32,00",
+              "valor_referencia": "71,84"
+            },
+            {
+              "numero": "2",
+              "especificacao": "9900515549 Bermuda Feminina para Educação Física:tecido tactel premium azul padrão UEMC, cós com elástico reforçado, modelagem feminina, comprimento 5 cm acima do joelho, secagem rápida, resistência à abrasão, tecnologia antiodor, em tamanhos variados que serão informados no momento da contratação.",
+              "unidade": "UND",
+              "quantidade": "1.000,00",
+              "valor_referencia": "25,19"
+            },
+            {
+              "numero": "3",
+              "especificacao": "37145 Calção Masculino para Educação Física:tactel premium azul padrão UEMC, cós com cordão interno, dois bolsos laterais, dois bolsos traseiros, comprimento 5 cm acima do joelho, secagem rápida e resistência ao uso contínuo, em tamanhos variados que serão informados no momento da contratação.",
+              "unidade": "UND",
+              "quantidade": "1.000,00",
+              "valor_referencia": "25,23"
+            },
+            {
+              "numero": "4",
+              "especificacao": "9900515550 Calça Masculina em Brim (Padrão UEMC):cor azul UEMC, faixas laterais vermelhas de 6 cm, bolsos funcionais, costuras reforçadas, passantes militares, uso com cinto nylon azul marinho com brasão, em tamanhos variados que serão informados no momento da contratação.",
+              "unidade": "UND",
+              "quantidade": "1.000,00",
+              "valor_referencia": "69,07"
+            },
+            {
+              "numero": "5",
+              "especificacao": "37147 Calça Feminina em Brim (Padrão UEMC):brim azul UEMC, faixas laterais vermelhas de 6 cm, modelagem feminina, bolsos laterais e traseiros, passantes militares reforçados, em tamanhos variados que serão informados no momento da contratação.",
+              "unidade": "UND",
+              "quantidade": "1.000,00",
+              "valor_referencia": "69,06"
+            },
+            {
+              "numero": "6",
+              "especificacao": "37148 Saia Feminina em Brim (Padrão UEMC):brim azul UEMC, altura até o joelho, faixas laterais vermelhas de 6 cm, bolsos laterais e traseiros, modelagem levemente evasê, passantes reforçados, em tamanhos variados que serão informados no momento da contratação.",
+              "unidade": "UND",
+              "quantidade": "1.000,00",
+              "valor_referencia": "66,63"
+            },
+            {
+              "numero": "7",
+              "especificacao": "9900515551 Camisa para Educação Física:malha premium branca, gramatura mínima 150 g/m², gola careca reforçada, manga curta, brasão institucional em alta definição, identificação MCPM/UEMC, tratamento antiodor e antialérgico, em tamanhos P, M, G e GG, sendo as definições exatas de tamanho, modelagem e gênero informadas no momento da contratação.",
+              "unidade": "UND",
+              "quantidade": "1.000,00",
+              "valor_referencia": "19,66"
+            },
+            {
+              "numero": "8",
+              "especificacao": "37149 Camisa Polo Administrativa:malha PV (67% poliéster/33% viscose), branca, gola e punhos marrom café, bordados com nome de guerra, função, tipo sanguíneo e RH; brasão da Escola no peito; bandeira da Bahia na manga direita; brasão do Município na esquerda; bordado vermelho padrão UEMC, em tamanhos P, M, G e GG, sendo as definições exatas de tamanho, modelagem e gênero informadas no momento da contratação.",
+              "unidade": "UND",
+              "quantidade": "32,00",
+              "valor_referencia": "45,06"
+            },
+            {
+              "numero": "9",
+              "especificacao": "9900515552 Camisa Polo Estudantil MCPM:malha PV branca, gola e punhos azul UEMC, identificação (AL MCPM + nome de guerra), tipo sanguíneo e RH bordados, brasão institucional no peito, bandeira da Bahia bordada e brasão do Município na manga esquerda, em tamanhos P, M, G e GG, sendo as definições exatas de tamanho, modelagem e gênero informadas no momento da contratação.",
+              "unidade": "UND",
+              "quantidade": "1.000,00",
+              "valor_referencia": "40,55"
+            },
+            {
+              "numero": "10",
+              "especificacao": "37150 Jaleco Branco Administrativo:tecido Oxford, manga curta, gola esporte, bolsos funcionais, identificação bordada (nome, tipo sanguíneo, RH), brasão institucional no peito, bandeira da Bahia bordada e brasão do Município pintado, em tamanhos variados que serão informados no momento da contratação.",
+              "unidade": "UND",
+              "quantidade": "90,00",
+              "valor_referencia": "70,25"
+            },
+            {
+              "numero": "11",
+              "especificacao": "9900515553 Beca Cerimonial MCPM:tecido microfibra premium azul marinho, gola em V estruturada, caimento reto, viés vermelho padrão UEMC, brasão institucional bordado em alta definição. Uso em solenidades, formaturas e eventos oficiais, em tamanhos variados que serão informados no momento da contratação.",
+              "unidade": "UND",
+              "quantidade": "1.000,00",
+              "valor_referencia": "117,33"
+            },
+            {
+              "numero": "12",
+              "especificacao": "9900515554 Boné Estudantil MCPM:brim pesado azul UEMC, estrutura reforçada, seis gomos com ilhoses para ventilação, brasão pintado frontal, fecho em velcro militar reforçado com ajuste de tamanho.",
+              "unidade": "UND",
+              "quantidade": "1.000,00",
+              "valor_referencia": "25,16"
+            },
+            {
+              "numero": "13",
+              "especificacao": "9900515555 Boné Administrativo MCPM:brim pesado marrom café, brasão pintado, ajuste posterior em velcro.",
+              "unidade": "UND",
+              "quantidade": "32,00",
+              "valor_referencia": "25,48"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-063-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "332 / 2026",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "ADJUDICADO",
+      "condutor": "JONATAS DA SILVA SOUSA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO PARCELADA",
+      "publicacao": "17/04/2026 14:49",
+      "inicio_recepcao": "22/04/2026 08:30",
+      "fim_recepcao": "05/05/2026 08:15",
+      "inicio_disputa": "05/05/2026 08:30",
+      "objeto": "Contratação de empresa especializada em fornecimento de ADUELAS DE CONCRETOS (material de consumo), a fim de atender as demandas da Secretaria Municipal de Infraestrutura e Serviços Urbanos.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DBub0obFpzuAMb9lcyZGqcVp6qv%2FTvKj0ZPh5gkpqIK2vGJVoEC9xcTz_ravV5BsCXEWC%2FpgMDH0CShIp5kzkwehQV7vDpXvXSOHOYPfkhb0%3D",
+      "total_lotes": 1,
+      "total_itens": 3,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "ADUELAS DE CONCRETOS",
+          "fase": "ADJUDICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "571.404,30",
+          "vencedor": "CEPRENG INDUSTRIA DE ARTEFATOS E CIMENTO EIRELI",
+          "melhor_oferta": "571.397,10",
+          "total_itens": 3,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515574 Aduela/ Galeria pré-moldada de concreto armado:seção retangular, fechada, com encaixe do tipo macho e fêmea. Dimensões internas de 2,00 m de largura e 2,00 m de altura, comprimento de 1 m, mísula de 20x20 cm, espessura de parede mínima de 15 cm, A altura de aterro a ser considerada é de 0,50 - 5,00 m, carga acidental considerando TB-45 e Fck do concreto de 35 MPa.",
+              "unidade": "Und.",
+              "quantidade": "24,00",
+              "valor_referencia": "4.778,03"
+            },
+            {
+              "numero": "2",
+              "especificacao": "9900515575 Aduela/ Galeria pré-moldada de concreto armado:seção retangular, fechada, com encaixe do tipo macho e fêmea. Dimensões internas de 2,50 m de largura e 2,50 m de altura, comprimento de 1 m, mísula de 20x20 cm, espessura de parede mínima de 20 cm, A altura de aterro a ser considerada é de 0,50 - 5,00 m, carga acidental considerando TB-45 e Fck do concreto de 35 MPa.",
+              "unidade": "Und.",
+              "quantidade": "50,00",
+              "valor_referencia": "5.854,95"
+            },
+            {
+              "numero": "3",
+              "especificacao": "9900515576 Aduela/ Galeria pré-moldada de concreto armado:Aduela/ Galeria pré-moldada de concreto armado, seção retangular, fechada, com encaixe do tipo macho e fêmea.Dimensões internas de 3,00 m de largura e 3,00 m de altura, comprimento de 1 m, mísula de 20x20 cm, espessura de parede mínima de 20 cm, A altura de aterro a ser considerada é de 0,50- 5,00 m, carga acidental considerando TB-45 e Fck do concreto de 35 MPa.",
+              "unidade": "Und.",
+              "quantidade": "24,00",
+              "valor_referencia": "6.832,67"
             }
           ]
         }
@@ -269672,38 +269803,38 @@
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "705/2024",
       "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "HOMOLOGADO",
-      "condutor": "MAGDA DE SELES GUIMARÃES",
+      "situacao": "SUSPENSO",
+      "condutor": "VICTOR KINIDEL DETHLING",
       "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
       "tipo_contrato": "AQUISIÇÃO",
-      "publicacao": "13/06/2024 18:49",
-      "inicio_recepcao": "14/06/2024 08:00",
-      "fim_recepcao": "10/07/2024 13:45",
-      "inicio_disputa": "10/07/2024 14:00",
-      "objeto": "O objeto da presente licitação é a contratação de INSTITUIÇÃO FINANCEIRA ESPECIALIZADA NA PRESTAÇÃO DE SERVIÇOS BANCÁRIOS PARA CENTRALIZAÇÃO, GERENCIAMENTO E PROCESSAMENTO DE CRÉDITOS DA FOLHA DE PAGAMENTO DOS SERVIDORES, a fim de atender as demandas da Secretaria Municipal de Administração, conforme condições, quantidades e especificações no Edital, Termo de Referência e seus Anexos.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5Drz0pscEwb6%2FU1hxPlKd9oZVA3K5oFGJ7f7R8axBkvu0c5BaKRb6IDFB9yMgVFkGvM5hhsS0DBJ9kAL5UysuvzQeNt7zz6EKUwlgsIpL8rxg%3D",
+      "publicacao": "15/05/2024 18:26",
+      "inicio_recepcao": "16/05/2024 08:00",
+      "fim_recepcao": "12/06/2024 09:45",
+      "inicio_disputa": "12/06/2024 10:00",
+      "objeto": "Contratação de instituição financeira para prestação de serviços bancários para centralização, gerenciamento e processamento de créditos da folha de pagamento dos servidores, a fim de atender as demandas da Prefeitura de Teixeira de Freitas, conforme condições, quantidades e especificações no Edital, Termo de Referência e seus Anexos.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5Dtil6VjdsIF%2FOegTvVsbXe6sSlUbkOaT0n1YNFzu01XbdZbRxkYO8kcwpuRCBgJK6iodL9zht6QDUkN7rZW4F%2FDkd3m29b%2Fz4XpJVRdYWuLE%3D",
       "total_lotes": 1,
       "total_itens": 1,
       "lotes": [
         {
           "numero": "1",
-          "titulo": "SERVIÇOS BANCÁRIOS",
-          "fase": "HOMOLOGADO",
-          "tipo": "GLOBAL",
+          "titulo": "LOTE 01",
+          "fase": "SUSPENSO",
+          "tipo": "UNITÁRIO",
           "quantidade": "1",
-          "intervalo_minimo": "0,01",
+          "intervalo_minimo": "100,00",
           "exclusivo_me": "NÃO",
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "6.052.150,00",
-          "vencedor": "ITAÚ UNIBANCO S.A.",
-          "melhor_oferta": "6.053.000,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
           "total_itens": 1,
           "itens": [
             {
               "numero": "1",
               "especificacao": "CONTRATAÇÃO DE INSTITUIÇÃO FINANCEIRA: ESPECIALIZADA NA PRESTAÇÃO DE SERVIÇOS BANCÁRIOS PARA CENTRALIZAÇÃO, GERENCIAMENTO E PROCESSAMENTO DE CRÉDITOS DA FOLHA DE PAGAMENTO DOS SERVIDORES DA PREFEITURA MUNICIPAL DE TEIXEIRA DE FREITAS/BA.",
-              "unidade": "UN",
+              "unidade": "SERVIÇO",
               "quantidade": "1,00",
               "valor_referencia": "6.052.150,00"
             }

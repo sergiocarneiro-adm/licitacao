@@ -1,9 +1,9 @@
 {
   "metadata": {
     "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-    "total_registros": 666,
-    "total_itens": 2350,
-    "atualizado_em": "20260515_193612"
+    "total_registros": 669,
+    "total_itens": 2367,
+    "atualizado_em": "20260526_193656"
   },
   "registros": [
     {
@@ -38155,6 +38155,242 @@
           "marca": "NÃO SE APLICA",
           "modelo": "NÃO SE APLICA",
           "valor": "4000,0000"
+        }
+      ]
+    },
+    {
+      "id": "2IL-108-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "583/2026",
+      "modalidade": "INEXIGIBILIDADE",
+      "status": "CONCLUÍDA",
+      "coordenador": "ISLA LIMA SILVA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "ano_referencia": "2026",
+      "data_publicacao": "26/05/2026 15:50:13",
+      "data_conclusao": "26/05/2026 15:50:16",
+      "artigo": "Art. 74º",
+      "inciso": "V",
+      "justificativa": "Art. 74, V da Lei Federal nº 14.133, de 2021 e art. 5º, §§1º e 3º do Decreto Municipal nº 303, 26 de março de 2025.",
+      "legislacao": "Lei nº 14.133",
+      "objeto": "LOCAÇÃO DE IMÓVEL localizado na rua da Lapa, nº 341, Bairro São Lourenço, Teixeira de Freitas-BA, para REINSTALAÇÃO DA SEDE DA SECRETARIA MUNICIPAL DE HABITAÇÃO, de responsabilidade da Secretaria Municipal de Habitação.",
+      "observacao": "",
+      "link": "https://bllcompras.com/DirectBuy/DirectBuyView?param1=%5Bgkz%5DECYFr7BIF3liVdsWzrYO6rLMzeMos25NyXCyAvSSzQtiGboI37WGUr2mQObkfMnEdxK95OK5PX2u5IG8eneXqImatsfpLst_G1ylnJh6G_Q%3D",
+      "total_itens": 1,
+      "itens": [
+        {
+          "numero": "1",
+          "descricao": "9909910126 ALUGUEL DE IMOVEL.:ALUGUEL DE IMOVEL.",
+          "quantidade": "12,0000",
+          "unidade": "SERV",
+          "fornecedor": "JUSSARA DE JESUS SANTOS",
+          "marca": "NÃO SE APLICA",
+          "modelo": "NÃO SE APLICA",
+          "valor": "3500,0000"
+        }
+      ]
+    },
+    {
+      "id": "3IL-086-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "499/2026",
+      "modalidade": "INEXIGIBILIDADE",
+      "status": "CONCLUÍDA",
+      "coordenador": "ISLA LIMA SILVA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "ano_referencia": "2026",
+      "data_publicacao": "26/05/2026 15:18:10",
+      "data_conclusao": "26/05/2026 17:03:13",
+      "artigo": "Art. 74º",
+      "inciso": "IV",
+      "justificativa": "Arts. 74, IV, e 79, I da Lei Federal nº 14.133/2021, Decreto Municipal nº 85, de 2024, em seus arts. 2º, I, e 5º, VII e demais legislações e regulamentações específicas.",
+      "legislacao": "Lei nº 14.133",
+      "objeto": "Empresa BARBOSA LIMA SERVICOS LTDA, para prestação de serviços médicos especializados (GINECOLOGIA E OBSTETRICIA) conforme o edital de credenciamento CD-003/2025, para atender às necessidades do Complexo Regulador.",
+      "observacao": "sob responsabilidade da Secretaria Municipal de Saúde.",
+      "link": "https://bllcompras.com/DirectBuy/DirectBuyView?param1=%5Bgkz%5D6DURdNLswFL3q5XBKad5cOFPDnC9MS4%2FcFptmy8jmAMcxO%2F1isCLC%2FuBxuIebS5E39bqkhZoYIcrIz_408tGtv2Ms_0bEHqIsi1YomNjYO8%3D",
+      "total_itens": 14,
+      "itens": [
+        {
+          "numero": "1",
+          "descricao": "917997982 CONSULTA MEDICA EM ATENCAO ESPECIALIZADA EM GINECOLOGIA REGULACAO SUS: CONSULTA MEDICA EM ATENCAO ESPECIALIZADA EM GINECOLOGIA REGULACAO SUS",
+          "quantidade": "2400,0000",
+          "unidade": "SER",
+          "fornecedor": "BARBOSA LIMA SERVICOS MEDICOS LTDA",
+          "marca": "NAO SE APLICA",
+          "modelo": "",
+          "valor": "10,0000"
+        },
+        {
+          "numero": "2",
+          "descricao": "917997980 CONSULTA MEDICA EM ATENCAO ESPECIALIZADA EM GINECOLOGIA REGULACAO CONTRAPARTIDA",
+          "quantidade": "2400,0000",
+          "unidade": "SER",
+          "fornecedor": "BARBOSA LIMA SERVICOS MEDICOS LTDA",
+          "marca": "NAO SE APLICA",
+          "modelo": "",
+          "valor": "50,0000"
+        },
+        {
+          "numero": "3",
+          "descricao": "206810265 COLPOSCOPIA REGULACAO SUS",
+          "quantidade": "1200,0000",
+          "unidade": "SER",
+          "fornecedor": "BARBOSA LIMA SERVICOS MEDICOS LTDA",
+          "marca": "NAO SE APLICA",
+          "modelo": "",
+          "valor": "3,3800"
+        },
+        {
+          "numero": "4",
+          "descricao": "206810266 COLPOSCOPIA REGULACAO  CONTRAPARTIDA",
+          "quantidade": "1200,0000",
+          "unidade": "SER",
+          "fornecedor": "BARBOSA LIMA SERVICOS MEDICOS LTDA",
+          "marca": "NAO SE APLICA",
+          "modelo": "",
+          "valor": "26,6200"
+        },
+        {
+          "numero": "5",
+          "descricao": "914998021 ULTRASSONOGRAFIA TRANSVAGINAL REGULACAO SUS",
+          "quantidade": "1200,0000",
+          "unidade": "SER",
+          "fornecedor": "BARBOSA LIMA SERVICOS MEDICOS LTDA",
+          "marca": "NAO SE APLICA",
+          "modelo": "",
+          "valor": "24,2000"
+        },
+        {
+          "numero": "6",
+          "descricao": "914997995 ULTRASSONOGRAFIA TRANSVAGINAL REGULACAO CONTRA PARTIDA",
+          "quantidade": "1200,0000",
+          "unidade": "SER",
+          "fornecedor": "BARBOSA LIMA SERVICOS MEDICOS LTDA",
+          "marca": "NAO SE APLICA",
+          "modelo": "",
+          "valor": "35,8000"
+        },
+        {
+          "numero": "7",
+          "descricao": "989179009 ULTRASSONOGRAFIA DE ABDOMEN TOTAL REGULACAO SUS",
+          "quantidade": "1200,0000",
+          "unidade": "SER",
+          "fornecedor": "BARBOSA LIMA SERVICOS MEDICOS LTDA",
+          "marca": "NAO SE APLICA",
+          "modelo": "",
+          "valor": "37,9500"
+        },
+        {
+          "numero": "8",
+          "descricao": "989178992 ULTRASSONOGRAFIA DE ABDOMEN TOTAL REGULACAO CONTRA PARTIDA",
+          "quantidade": "1200,0000",
+          "unidade": "SER",
+          "fornecedor": "BARBOSA LIMA SERVICOS MEDICOS LTDA",
+          "marca": "NAO SE APLICA",
+          "modelo": "",
+          "valor": "42,0500"
+        },
+        {
+          "numero": "9",
+          "descricao": "989179005 ULTRASSONOGRAFIA DE TIREOIDE REGULACAO SUS",
+          "quantidade": "1200,0000",
+          "unidade": "SER",
+          "fornecedor": "BARBOSA LIMA SERVICOS MEDICOS LTDA",
+          "marca": "NAO SE APLICA",
+          "modelo": "",
+          "valor": "24,2000"
+        },
+        {
+          "numero": "10",
+          "descricao": "989178996 ULTRASSONOGRAFIA DE TIREOIDE REGULACAO CONTRA PARTIDA",
+          "quantidade": "1200,0000",
+          "unidade": "SER",
+          "fornecedor": "BARBOSA LIMA SERVICOS MEDICOS LTDA",
+          "marca": "NAO SE APLICA",
+          "modelo": "",
+          "valor": "35,8000"
+        },
+        {
+          "numero": "11",
+          "descricao": "989179003 ULTRASSONOGRAFIA PELVICA(GINECOLOGICA)  REGULACAO SUS",
+          "quantidade": "1200,0000",
+          "unidade": "SER",
+          "fornecedor": "BARBOSA LIMA SERVICOS MEDICOS LTDA",
+          "marca": "NAO SE APLICA",
+          "modelo": "",
+          "valor": "24,2000"
+        },
+        {
+          "numero": "12",
+          "descricao": "989178998 ULTRASSONOGRAFIA PELVICA(GINECOLOGICA) REGULACAO CONTRA PARTIDA",
+          "quantidade": "1200,0000",
+          "unidade": "SER",
+          "fornecedor": "BARBOSA LIMA SERVICOS MEDICOS LTDA",
+          "marca": "NAO SE APLICA",
+          "modelo": "",
+          "valor": "35,8000"
+        },
+        {
+          "numero": "13",
+          "descricao": "914998020 ULTRASSONOGRAFIA DE MAMARIA BILATERAL REGULACAO SUS",
+          "quantidade": "1200,0000",
+          "unidade": "SER",
+          "fornecedor": "BARBOSA LIMA SERVICOS MEDICOS LTDA",
+          "marca": "NAO SE APLICA",
+          "modelo": "",
+          "valor": "24,2000"
+        },
+        {
+          "numero": "14",
+          "descricao": "914997998 ULTRASSONOGRAFIA DE MAMARIA BILATERAL REGULACAO CONTRA PARTIDA",
+          "quantidade": "1200,0000",
+          "unidade": "SER",
+          "fornecedor": "BARBOSA LIMA SERVICOS MEDICOS LTDA",
+          "marca": "NAO SE APLICA",
+          "modelo": "",
+          "valor": "55,8000"
+        }
+      ]
+    },
+    {
+      "id": "3IL-085-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "498 /2026",
+      "modalidade": "INEXIGIBILIDADE",
+      "status": "CONCLUÍDA",
+      "coordenador": "ISLA LIMA SILVA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "ano_referencia": "2026",
+      "data_publicacao": "26/05/2026 10:57:48",
+      "data_conclusao": "26/05/2026 10:58:00",
+      "artigo": "Art. 74º",
+      "inciso": "IV",
+      "justificativa": "Arts. 74, IV, e 79, I da Lei Federal nº 14.133/2021, Decreto Municipal nº 85, de 2024, em seus arts. 2º, I, e 5º, VII e demais legislações e regulamentações específicas.",
+      "legislacao": "Lei nº 14.133",
+      "objeto": "Empresa: ALIANÇA SERVIÇOS MEDICO S/S, para prestação de serviços médicos\nespecializados (GINECOLOGIA E OBSTETRICIA) conforme o edital de credenciamento CD- 003/2025, para atender às necessidades do Complexo Regulador.",
+      "observacao": "sob responsabilidade da Secretaria Municipal de Saúde.",
+      "link": "https://bllcompras.com/DirectBuy/DirectBuyView?param1=%5Bgkz%5DTZ8fHb_jxFPW_LMEzrKep_lGrGAXvDSn%2Falb9od3c%2FNdj%2FbxIwIK2BR1D690L6RvnXmYEoPZJosc9VLvKmDRZQluxdx9w7X4W7Qz48%2FM0zQ%3D",
+      "total_itens": 2,
+      "itens": [
+        {
+          "numero": "1",
+          "descricao": "917997983 CONSULTA MEDICA EM ATENÇÃOESPECIALIZADA EM OBSTETRICIA DE ALTO RISCO -REGULAÇÃOSUS:CONSULTA MEDICA EM ATENÇÃOESPECIALIZADA EM OBSTETRICIA DE ALTO RISCO -REGULAÇÃOSUS",
+          "quantidade": "2400,0000",
+          "unidade": "SER",
+          "fornecedor": "ALIANÇA SERVIÇOS MEDICO S/S",
+          "marca": "NAO SE APLICA",
+          "modelo": "NAO SE APLICA",
+          "valor": "10,0000"
+        },
+        {
+          "numero": "2",
+          "descricao": "917997981 CONSULTA MEDICA EM ATENÇÃOESPECIALIZADA EM OBSTETRICIA DE ALTO RISCO -REGULAÇÃOCONTRA PARTIDA:CONSULTA MEDICA EMATENÇÃO ESPECIALIZADA EM OBSTETRICIA DE ALTORISCO -REGULAÇÃOCONTRA PARTIDA",
+          "quantidade": "2400,0000",
+          "unidade": "SER",
+          "fornecedor": "ALIANÇA SERVIÇOS MEDICO S/S",
+          "marca": "NAO SE APLICA",
+          "modelo": "NAO SE APLICA",
+          "valor": "68,0000"
         }
       ]
     }
