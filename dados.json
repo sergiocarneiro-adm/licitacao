@@ -1,10 +1,10 @@
 {
   "metadata": {
     "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-    "total_processos": 793,
-    "total_lotes": 8762,
-    "total_itens": 14994,
-    "atualizado_em": "20260527_193514"
+    "total_processos": 795,
+    "total_lotes": 8764,
+    "total_itens": 15030,
+    "atualizado_em": "20260528_193504"
   },
   "processos": [
     {
@@ -252305,50 +252305,6 @@
       ]
     },
     {
-      "id": "2-DLE-041-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "240-2026",
-      "modalidade": "DISPENSA ELETRÔNICA",
-      "situacao": "JULGAMENTO",
-      "condutor": "ISLA LIMA SILVA",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO",
-      "publicacao": "15/04/2026 20:47",
-      "inicio_recepcao": "15/04/2026 21:00",
-      "fim_recepcao": "22/04/2026 08:15",
-      "inicio_disputa": "22/04/2026 08:30",
-      "objeto": "Contratação de empresa especializada em fornecimento de [TELAS MOSQUITEIRAS PARA JANELAS E BASCULANTES]\n(material de consumo), a fim de atender as necessidades da Secretaria Municipal de Administração, conforme condições, quantidades e exigências estabelecidas neste Aviso de Contratação Direta, Termo de Referência e seus Anexos.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DzBtObmY5X0xn%2FRb5HChl5IO3dBBhCIure2VvlpXZkCEC95FtDKOx1yUKNMlLzD2E5osbs3KZi20mas2V%2FuVg4APVIOKRPn_3zzDlLh2f40s%3D",
-      "total_lotes": 1,
-      "total_itens": 1,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "TELAS MOSQUITEIRAS",
-          "fase": "JULGAMENTO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "",
-          "garantia": "",
-          "valor_referencia": "8.019,60",
-          "vencedor": "64.303.673 CAMILA TEIXEIRA DA SILVA",
-          "melhor_oferta": "7.988,40",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900515461 Tela mosquiteira em fibra de vidro revestida emPVC:cor cinza, fornecida em rolo com largura nominal de 1,20 me comprimento de 50 m, totalizando aproximadamente 60 m² porrolo, com malha fina tipo 18 x 16 fios por polegada ouequivalente. Adequada para proteção contra insetos, vetores epragas urbanas, permitindo ampla circulação de ar e passagemde luz natural, sem comprometer a luminosidade do ambiente.Produto antialérgico, inodoro, lavável com água e detergenteneutro, de fácil corte e instalação, que não desfia nas bordas,não resseca, não rasga com facilidade, resistente a raios UV,intempéries, umidade e fungos, com característica de nãopropagação de chamas e alta durabilidade em uso contínuo.Destinada à instalação em janelas, portas, basculantes e demaisaberturas de cozinhas, despensas e áreas de preparo earmazenamento de alimentos das unidades escolares da redemunicipal, para confecção de módulos fixos ou removíveis pelasequipes internas de marcenaria e serralheria da SecretariaMunicipal de Educação, em conformidade com as exigênciassanitárias para barreiras físicas e com especificações técnicasusualmente adotadas em contratações públicas. EXCLUSIVOPARA ME/EPP.",
-              "unidade": "ROL",
-              "quantidade": "30,00",
-              "valor_referencia": "267,32"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "PE-029-2026",
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "1657/2025",
@@ -268997,74 +268953,6 @@
       ]
     },
     {
-      "id": "PE-086-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "1350 / 2025",
-      "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "PUBLICADO",
-      "condutor": "JONATAS DA SILVA SOUSA",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO",
-      "publicacao": "26/05/2026 17:00",
-      "inicio_recepcao": "28/05/2026 08:30",
-      "fim_recepcao": "10/06/2026 08:15",
-      "inicio_disputa": "10/06/2026 08:30",
-      "objeto": "Contratação de empresa especializada em fornecimento de BETONEIRA E CARRO COLETOR (material permanente e de consumo), a fim de atender as demandas da Secretaria Municipal de Infraestrutura e Serviços Urbanos.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5Dvn3r5nt9Hf0syfEMGI0qP9jVWptz6%2FgTGkrFejy3t392i2TZjUaoZu49wXfWuMccDZsnheqtPyXHWPdJjaNsYG4T5VOsmSoLP86YuZCX5Ok%3D",
-      "total_lotes": 2,
-      "total_itens": 2,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "700110361 BETONEIRA 400L:tambor 400 litros, misturam 315 litros, 15 ciclos/hora, produção 4,7 m³, tambor com 26 rpm, motor com 2 cv, tensão monofásica de 220v, frequência de 60 hz, transmissão por correia tipo v a44 e peso 160kg. EXCLUSIVO PARA ME/EPP.",
-          "fase": "PUBLICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "700110361 BETONEIRA 400L:tambor 400 litros, misturam 315 litros, 15 ciclos/hora, produção 4,7 m³, tambor com 26 rpm, motor com 2 cv, tensão monofásica de 220v, frequência de 60 hz, transmissão por correia tipo v a44 e peso 160kg. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "Und.",
-              "quantidade": "2,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "2",
-          "titulo": "9900514889 CARRINHO COLETOR 120L EMPOLIETILENO:carrinho coletor de lixo 120l deve ser sem pedal e com 120 litros, fabricado em polietileno de alta densidade (pead) ou polipropileno (pp) e injetados em máquinas de alta tecnologia ou através do processo de",
-          "fase": "PUBLICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900514889 CARRINHO COLETOR 120L EMPOLIETILENO:carrinho coletor de lixo 120l deve ser sem pedal e com 120 litros, fabricado em polietileno de alta densidade (pead) ou polipropileno (pp) e injetados em máquinas de alta tecnologia ou através do processo de rotomoldagem, respeitando as principais normas vigentes da agência nacional de vigilância sanitária (ANVISA). Resistentes ao impacto, aos raios ultravioleta e às repetidas lavagens, garantindo segurança, confiabilidade e durabilidade, devendo ter capacidade para armazenar 120 litros ou 58 kg de lixo. Devem ser dotados de rodas de borracha com 200mm de diâmetro e eixo reforçado. As cores deverão ser vermelha, verde, preto, marrom, laranja, cinza, branco, azul e amarelo, que fazem relação com os diferentes tipos de coleta. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "Und.",
-              "quantidade": "50,00",
-              "valor_referencia": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "PE-085-2026",
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "614 / 2026",
@@ -269576,50 +269464,6 @@
       ]
     },
     {
-      "id": "5-DLE-032-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "211 / 2026",
-      "modalidade": "DISPENSA ELETRÔNICA",
-      "situacao": "RECEPÇÃO DE PROPOSTAS",
-      "condutor": "ISLA LIMA SILVA",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO",
-      "publicacao": "27/05/2026 16:51",
-      "inicio_recepcao": "27/05/2026 16:59",
-      "fim_recepcao": "02/06/2026 08:15",
-      "inicio_disputa": "02/06/2026 08:30",
-      "objeto": "Contratação de empresa especializada em fornecimento de CAPOTA BAÚ PARA VEÍCULOS MODELOS STRADA, a fim de atender as demandas da Secretaria Municipal de Promoção Social.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DskwS95FxknMQsLCn358SqKmNeXuGOheAlde2JBdxHtciifO%2F9jObzrlZyLHggzSElAN%2FDcpkOWZpTlyOMKB82bxsnOi4JKF_CXM6WRfO2Ic%3D",
-      "total_lotes": 1,
-      "total_itens": 1,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "CAPOTA BAÚ",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "6.646,67",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9908411201 CAPOTA ESTILO BAÚ:Capota modelo baú,confeccionada em fibra de vidro de alta resistência, compatívelcom veículo tipo Strada cabine simples, dotada de tampa traseiradupla com sistema de abertura independente, equipada comfechadura com chave para travamento seguro, garantindovedação adequada, proteção contra intempéries e segurança dacarga transportada. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "UN",
-              "quantidade": "1,00",
-              "valor_referencia": "6.646,67"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "PE-074-2026",
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "1673 / 2025",
@@ -269736,42 +269580,524 @@
       ]
     },
     {
-      "id": "PE-027-2024",
+      "id": "2-DLE-055-2026",
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "705/2024",
-      "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "HOMOLOGADO",
-      "condutor": "MAGDA DE SELES GUIMARÃES",
+      "numero_adm": "240 / 2026",
+      "modalidade": "DISPENSA ELETRÔNICA",
+      "situacao": "RECEPÇÃO DE PROPOSTAS",
+      "condutor": "ISAQUE SILVA DOS SANTOS",
       "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
       "tipo_contrato": "AQUISIÇÃO",
-      "publicacao": "13/06/2024 18:49",
-      "inicio_recepcao": "14/06/2024 08:00",
-      "fim_recepcao": "10/07/2024 13:45",
-      "inicio_disputa": "10/07/2024 14:00",
-      "objeto": "O objeto da presente licitação é a contratação de INSTITUIÇÃO FINANCEIRA ESPECIALIZADA NA PRESTAÇÃO DE SERVIÇOS BANCÁRIOS PARA CENTRALIZAÇÃO, GERENCIAMENTO E PROCESSAMENTO DE CRÉDITOS DA FOLHA DE PAGAMENTO DOS SERVIDORES, a fim de atender as demandas da Secretaria Municipal de Administração, conforme condições, quantidades e especificações no Edital, Termo de Referência e seus Anexos.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5De6NXlJnbE5%2FfS0PiHKAWdN06jpMeJ8lYB8SupCyQ6nIwByvyQ2pyCGFdYyWYiHtmVY2ilrjphtIxnaqQx2nnGOE650by4qK9VPQ7uQDRFvQ%3D",
+      "publicacao": "28/05/2026 16:32",
+      "inicio_recepcao": "28/05/2026 17:55",
+      "fim_recepcao": "03/06/2026 08:15",
+      "inicio_disputa": "03/06/2026 08:30",
+      "objeto": "Contratação de empresa especializada em fornecimento de TELAS MOSQUITEIRAS PARA JANELAS E BASCULANTES (material de consumo),  a fim de atender as demandas da Secretaria Municipal de Administração e demais Secretarias Municipais.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DqqQXgkV8kgg56Q0NWBx9a9fmVLrcJH3mdHHY5YJUBWL9xHHl32LFWq7Gm0bZ5U9JTz718Y5w9qTWOvCD3WnBoAMIcm%2FiULhVXeAJbUx1YL4%3D",
       "total_lotes": 1,
       "total_itens": 1,
       "lotes": [
         {
           "numero": "1",
-          "titulo": "SERVIÇOS BANCÁRIOS",
-          "fase": "HOMOLOGADO",
+          "titulo": "TELAS MOSQUITEIRAS",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "8.019,60",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515461 Tela mosquiteira em fibra de vidro revestida emPVC:cor cinza, fornecida em rolo com largura nominal de 1,20 me comprimento de 50 m, totalizando aproximadamente 60 m² porrolo, com malha fina tipo 18 x 16 fios por polegada ouequivalente. Adequada para proteção contra insetos, vetores epragas urbanas, permitindo ampla circulação de ar e passagemde luz natural, sem comprometer a luminosidade do ambiente.Produto antialérgico, inodoro, lavável com água e detergenteneutro, de fácil corte e instalação, que não desfia nas bordas,não resseca, não rasga com facilidade, resistente a raios UV,intempéries, umidade e fungos, com característica de nãopropagação de chamas e alta durabilidade em uso contínuo.Destinada à instalação em janelas, portas, basculantes e demaisaberturas de cozinhas, despensas e áreas de preparo earmazenamento de alimentos das unidades escolares da redemunicipal, para confecção de módulos fixos ou removíveis pelasequipes internas de marcenaria e serralheria da SecretariaMunicipal de Educação, em conformidade com as exigênciassanitárias para barreiras físicas e com especificações técnicasUsualmente adotadas em contratações públicas. EXCLUSIVOPARA ME/EPP.",
+              "unidade": "ROL",
+              "quantidade": "30,00",
+              "valor_referencia": "267,32"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-062-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "152 / 2026",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "PUBLICADO",
+      "condutor": "SERGIO CARNEIRO CAVALCANTI DE AZEVEDO",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "REGISTRO DE PREÇO",
+      "publicacao": "28/05/2026 09:08",
+      "inicio_recepcao": "01/06/2026 08:30",
+      "fim_recepcao": "17/06/2026 09:15",
+      "inicio_disputa": "17/06/2026 09:30",
+      "objeto": "Contratação de empresa especializada em FORNECIMENTO, INSTALAÇÃO E MANUTENÇÃO DE ESQUADRIAS DE VIDRO,  a fim de atender as demandas da Secretaria Municipal de Infraestrutura e Serviços Urbanos.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5D8Ctg3%2FosQEUgToHisQUB%2F6NMFXj19MG1P7wPiZcVRBjjknSVq2CjhW%2FwSDSP%2FhyS5GjtrOAtBxzxltrlbrGsN_u3Z6gjdB%2FNXAE%2F5cvtF3U%3D",
+      "total_lotes": 1,
+      "total_itens": 35,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "ESQUADRIAS DE VIDRO",
+          "fase": "PUBLICADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
           "exclusivo_me": "NÃO",
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 35,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900502006 FECHADURA ELETRONICA PARA PORTA DE VIDRO:FECHADURA ELETRONICA PARA PORTA DE VIDRO",
+              "unidade": "UND",
+              "quantidade": "12,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "2",
+              "especificacao": "9900502007 FECHADURA PARA PORTA EXTERNA DE VIDRO PIVOTANTE:FECHADURA PARA PORTA EXTERNA DE VIDRO PIVOTANTE",
+              "unidade": "UND",
+              "quantidade": "52,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "3",
+              "especificacao": "805000003 JANELA BASCULANTE DE VIDRO TEMPERADO8MM 0,40X0,50 M COM INSTALAÇÃO E TODA A FERRAGEM NECESSÁRIA:JANELA BASCULANTE DE VIDRO TEMPERADO 8MM 0,40X0,50 M COM INSTALAÇÃO E TODA A FERRAGEM NECESSÁRIA.",
+              "unidade": "UND",
+              "quantidade": "20,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "4",
+              "especificacao": "805000004 JANELA BASCULANTE DE VIDRO TEMPERADO8MM 0,60X0,50 M COM INSTALAÇÃO E TODA A FERRAGEM NECESSÁRIA:JANELA BASCULANTE DE VIDRO TEMPERADO 8MM 0,60X0,50 M COM INSTALAÇÃO E TODA A FERRAGEM NECESSÁRIA.",
+              "unidade": "UND",
+              "quantidade": "20,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "5",
+              "especificacao": "805000005 JANELA BASCULANTE DE VIDRO TEMPERADO8MM 0,80X0,50 COM INSTALAÇÃO E TODA A FERRAGEM NECESSÁRIA:JANELA BASCULANTE DE VIDRO TEMPERADO 8MM 0,80X0,50 COM INSTALAÇÃO E TODA A FERRAGEM NECESSÁRIA.",
+              "unidade": "UND",
+              "quantidade": "20,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "6",
+              "especificacao": "805000006 JANELA DE VIDRO TEMPERADO DE CORRER, DUAS FOLHAS 6MM 1,00x1,10 M COM INSTALAÇÃO E TODA A FERRAGEM NECESSÁRIA:JANELA DE VIDRO TEMPERADO DE CORRER, DUAS FOLHAS 6MM 1,00x1,10 M COM INSTALAÇÃO E TODA A FERRAGEM NECESSÁRIA.",
+              "unidade": "UND",
+              "quantidade": "32,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "7",
+              "especificacao": "805000007 JANELA DE VIDRO TEMPERADO DE CORRER, DUAS FOLHAS 6MM 1,20x1,10 M COM INSTALAÇÃO E TODA A FERRAGEM NECESSÁRIA:JANELA DE VIDRO TEMPERADO DE CORRER, DUAS FOLHAS 6MM 1,20x1,10 M COM INSTALAÇÃO E TODA A FERRAGEM NECESSÁRIA.",
+              "unidade": "UND",
+              "quantidade": "28,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "8",
+              "especificacao": "805000008 JANELA DE VIDRO TEMPERADO DE CORRER, DUAS FOLHAS 6MM 1,50x1,10 M COM INSTALAÇÃO E TODA A FERRAGEM NECESSÁRIA:JANELA DE VIDRO TEMPERADO DE CORRER, DUAS FOLHAS 6MM 1,50x1,10 M COM INSTALAÇÃO E TODA A FERRAGEM NECESSÁRIA.",
+              "unidade": "UND",
+              "quantidade": "28,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "9",
+              "especificacao": "805000009 JANELA DE VIDRO TEMPERADO DE CORRER, QUATRO FOLHAS 6MM 2,00x1,10M COM INSTALAÇÃO COM INSTALAÇÃO E TODA A FERRAGEM NECESSÁRIA:JANELA DE VIDRO TEMPERADO DE CORRER, QUATRO FOLHAS 6MM 2,00x1,10M COM INSTALAÇÃO COM INSTALAÇÃO E TODA A FERRAGEM NECESSÁRIA.",
+              "unidade": "UND",
+              "quantidade": "20,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "10",
+              "especificacao": "805500002 KIT DE FERRAGENS PARA A JANELA BASCULANTE DE VIDRO TEMPERADO 8MM 0,40X0,50M:KIT DE FERRAGENS PARA A JANELA BASCULANTE DE VIDRO TEMPERADO 8MM 0,40X0,50M",
+              "unidade": "UND",
+              "quantidade": "24,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "11",
+              "especificacao": "805500003 KIT DE FERRAGENS PARA A JANELA BASCULANTE DE VIDRO TEMPERADO 8MM 0,60X0,50 M:KIT DE FERRAGENS PARA A JANELA BASCULANTE DE VIDRO TEMPERADO 8MM 0,60X0,50 M",
+              "unidade": "UND",
+              "quantidade": "20,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "12",
+              "especificacao": "805500004 KIT DE FERRAGENS PARA A JANELA BASCULANTE DE VIDRO TEMPERADO 8MM 0,80X0,50 M:KIT DE FERRAGENS PARA A JANELA BASCULANTE DE VIDRO TEMPERADO 8MM 0,80X0,50 M",
+              "unidade": "UND",
+              "quantidade": "20,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "13",
+              "especificacao": "805500005 KIT DE FERRAGENS PARA A JANELA DE VIDRO TEMPERADO DE CORRER, DUAS FOLHAS 6MM 1,00x1,10 M:KIT DE FERRAGENS PARA A JANELA DE VIDRO TEMPERADO DE CORRER, DUAS FOLHAS 6MM 1,00x1,10 M",
+              "unidade": "UND",
+              "quantidade": "24,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "14",
+              "especificacao": "805500006 KIT DE FERRAGENS PARA A JANELA DE VIDRO TEMPERADO DE CORRER, DUAS FOLHAS 6MM 1,20x1,10 M:KIT DE FERRAGENS PARA A JANELA DE VIDRO TEMPERADO DE CORRER, DUAS FOLHAS 6MM 1,20x1,10 M",
+              "unidade": "UND",
+              "quantidade": "32,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "15",
+              "especificacao": "805500007 KIT DE FERRAGENS PARA A JANELA DE VIDRO TEMPERADO DE CORRER, DUAS FOLHAS 6MM 1,50x1,10 M:KIT DE FERRAGENS PARA A JANELA DE VIDRO TEMPERADO DE CORRER, DUAS FOLHAS 6MM 1,50x1,10 M",
+              "unidade": "UND",
+              "quantidade": "28,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "16",
+              "especificacao": "805500008 KIT DE FERRAGENS PARA A JANELA DE VIDRO TEMPERADO DE CORRER, QUATRO FOLHAS 6MM 2,00x1,10 M:KIT DE FERRAGENS PARA A JANELA DE VIDRO TEMPERADO DE CORRER, QUATRO FOLHAS 6MM 2,00x1,10 M",
+              "unidade": "UND",
+              "quantidade": "20,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "17",
+              "especificacao": "805500009 KIT DE DOBRADIÇA PARA PORTA DE VIDRO TEMPERADO DE CORRER, DUAS FOLHAS 10MM 3,00X2,10 M:KIT DE DOBRADIÇA PARA PORTA DE VIDRO TEMPERADO DE CORRER, DUAS FOLHAS 10MM 3,00X2,10 M",
+              "unidade": "UND",
+              "quantidade": "20,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "18",
+              "especificacao": "805500010 KIT DE FERRAGENS PARA A PORTA DE VIDRO TEMPERADO 10MM 0,80X2,10 M:KIT DE FERRAGENS PARA A PORTA DE VIDRO TEMPERADO 10MM 0,80X2,10 M",
+              "unidade": "UND",
+              "quantidade": "20,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "19",
+              "especificacao": "805500011 KIT DE FERRAGENS PARA A PORTA DE VIDRO TEMPERADO 10MM 1,00X2,10 M:KIT DE FERRAGENS PARA A PORTA DE VIDRO TEMPERADO 10MM 1,00X2,10 M",
+              "unidade": "UND",
+              "quantidade": "24,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "20",
+              "especificacao": "805500012 KIT DE FERRAGENS PARA A PORTA DE VIDRO TEMPERADO DE CORRER, DUAS FOLHAS 10MM 1,20X2,10 M:KIT DE FERRAGENS PARA A PORTA DE VIDRO TEMPERADO DE CORRER, DUAS FOLHAS 10MM 1,20X2,10 M",
+              "unidade": "UND",
+              "quantidade": "20,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "21",
+              "especificacao": "805500013 KIT DE FERRAGENS PARA A PORTA DE VIDRO TEMPERADO DE CORRER, DUAS FOLHAS 10MM 2,00X2,10 M:KIT DE FERRAGENS PARA A PORTA DE VIDRO TEMPERADO DE CORRER, DUAS FOLHAS 10MM 2,00X2,10 M",
+              "unidade": "UND",
+              "quantidade": "24,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "22",
+              "especificacao": "9902900153 MANUTENÇÃO EM PORTAS E JANELAS DE VIDRO:MANUTENÇÃO EM PORTAS E JANELAS DE VIDRO.",
+              "unidade": "SER",
+              "quantidade": "600,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "23",
+              "especificacao": "805500014 MOLA HIDRAULICA DE PISO PARA PORTA DE VIDRO TEMPERADO:MOLA HIDRAULICA DE PISO PARA PORTA DE VIDRO TEMPERADO",
+              "unidade": "UND",
+              "quantidade": "28,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "24",
+              "especificacao": "805000010 PORTA DE VIDRO TEMPERADO 10MM 0,80X2,10 M COM INSTALAÇÃO:PORTA DE VIDRO TEMPERADO 10MM 0,80X2,10 M COM INSTALAÇÃO",
+              "unidade": "UND",
+              "quantidade": "40,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "25",
+              "especificacao": "805000011 PORTA DE VIDRO TEMPERADO 10MM 0,90X2,10 M COM INSTALAÇÃO:PORTA DE VIDRO TEMPERADO 10MM 0,90X2,10 M COM INSTALAÇÃO",
+              "unidade": "UND",
+              "quantidade": "28,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "26",
+              "especificacao": "805000012 PORTA DE VIDRO TEMPERADO 10MM 1,00X2,10 M COM INSTALAÇÃO:PORTA DE VIDRO TEMPERADO 10MM 1,00X2,10 M COM INSTALAÇÃO",
+              "unidade": "UND",
+              "quantidade": "36,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "27",
+              "especificacao": "805000013 PORTA DE VIDRO TEMPERADO DE CORRER, DUAS FOLHAS 10MM 1,10X2,10 M COM INSTALAÇÃO E TODA A FERRAGEM NECESSÁRIA:PORTA DE VIDRO TEMPERADO DE CORRER, DUAS FOLHAS 10MM 1,10X2,10 M COM INSTALAÇÃO E TODA A FERRAGEM NECESSÁRIA.",
+              "unidade": "UND",
+              "quantidade": "28,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "28",
+              "especificacao": "805000014 PORTA DE VIDRO TEMPERADO DE CORRER, DUAS FOLHAS 10MM 1,20X2,10 M COM INSTALAÇÃO E TODA A FERRAGEM NECESSÁRIA:PORTA DE VIDRO TEMPERADO DE CORRER, DUAS FOLHAS 10MM 1,20X2,10 M COM INSTALAÇÃO E TODA A FERRAGEM NECESSÁRIA.",
+              "unidade": "UND",
+              "quantidade": "20,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "29",
+              "especificacao": "805000015 PORTA DE VIDRO TEMPERADO DE CORRER, DUAS FOLHAS 10MM 2,00X2,10 M COM INSTALAÇÃO E TODA A FERRAGEM NECESSÁRIA:PORTA DE VIDRO TEMPERADO DE CORRER, DUAS FOLHAS 10MM 2,00X2,10 M COM INSTALAÇÃO E TODA A FERRAGEM NECESSÁRIA.",
+              "unidade": "UND",
+              "quantidade": "20,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "30",
+              "especificacao": "805000016 PORTA DE VIDRO TEMPERADO DE CORRER, DUAS FOLHAS 10MM 3,00X2,10 M COM INSTALAÇÃO E TODA A FERRAGEM NECESSÁRIA:PORTA DE VIDRO TEMPERADO DE CORRER, DUAS FOLHAS 10MM 3,00X2,10 M COM INSTALAÇÃO E TODA A FERRAGEM NECESSÁRIA.",
+              "unidade": "UND",
+              "quantidade": "20,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "31",
+              "especificacao": "805500015 PUXADOR PARA PORTA DE VIDRO TEMPERADO10MM 0,80X2,10 M:PUXADOR PARA PORTA DE VIDRO TEMPERADO 10MM 0,80X2,10 M",
+              "unidade": "UND",
+              "quantidade": "40,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "32",
+              "especificacao": "805500016 PUXADOR PARA PORTA DE VIDRO TEMPERADO 10MM 1,00X2,10 M:PUXADOR PARA PORTA DE VIDRO TEMPERADO 10MM 1,00X2,10 M",
+              "unidade": "UND",
+              "quantidade": "32,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "33",
+              "especificacao": "805500017 PUXADOR PARA PORTA DE VIDRO TEMPERADO DE CORRER, DUAS FOLHAS 10MM 1,20X2,10 M:PUXADOR PARA PORTA DE VIDRO TEMPERADO DE CORRER, DUAS FOLHAS 10MM 1,20X2,10 M",
+              "unidade": "UND",
+              "quantidade": "36,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "34",
+              "especificacao": "805500018 PUXADOR PARA PORTA DE VIDRO PUXADOR PARA PORTA DE VIDRO TEMPERADO DE CORRER, DUAS FOLHAS 10MM 2,00X2,10 M:PUXADOR PARA PORTA DE VIDRO PUXADOR PARA PORTA DE VIDRO TEMPERADO DE CORRER, DUAS FOLHAS 10MM 2,00X2,10 M",
+              "unidade": "UND",
+              "quantidade": "20,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "35",
+              "especificacao": "805500019 PUXADOR PARA PORTA DE VIDRO TEMPERADO DE CORRER, DUAS FOLHAS 10MM 3,00X2,10 M:PUXADOR PARA PORTA DE VIDRO TEMPERADO DE CORRER, DUAS FOLHAS 10MM 3,00X2,10 M",
+              "unidade": "UND",
+              "quantidade": "20,00",
+              "valor_referencia": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-086-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "1350 / 2025",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "RECEPÇÃO DE PROPOSTAS",
+      "condutor": "JONATAS DA SILVA SOUSA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO",
+      "publicacao": "26/05/2026 17:00",
+      "inicio_recepcao": "28/05/2026 08:30",
+      "fim_recepcao": "10/06/2026 08:15",
+      "inicio_disputa": "10/06/2026 08:30",
+      "objeto": "Contratação de empresa especializada em fornecimento de BETONEIRA E CARRO COLETOR (material permanente e de consumo), a fim de atender as demandas da Secretaria Municipal de Infraestrutura e Serviços Urbanos.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DhaDw77qr0BQkX%2FbZ5X_OMQPIWRlThv9D47A9_A2KmlrJ8pWxngd1Lko%2F8zQ2q7cuGYuQexg8Z6MrOd9sBWqL6kYujSB17mwGnMd5K32gcRs%3D",
+      "total_lotes": 2,
+      "total_itens": 2,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "700110361 BETONEIRA 400L:tambor 400 litros, misturam 315 litros, 15 ciclos/hora, produção 4,7 m³, tambor com 26 rpm, motor com 2 cv, tensão monofásica de 220v, frequência de 60 hz, transmissão por correia tipo v a44 e peso 160kg. EXCLUSIVO PARA ME/EPP.",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "700110361 BETONEIRA 400L:tambor 400 litros, misturam 315 litros, 15 ciclos/hora, produção 4,7 m³, tambor com 26 rpm, motor com 2 cv, tensão monofásica de 220v, frequência de 60 hz, transmissão por correia tipo v a44 e peso 160kg. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "Und.",
+              "quantidade": "2,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "2",
+          "titulo": "9900514889 CARRINHO COLETOR 120L EMPOLIETILENO:carrinho coletor de lixo 120l deve ser sem pedal e com 120 litros, fabricado em polietileno de alta densidade (pead) ou polipropileno (pp) e injetados em máquinas de alta tecnologia ou através do processo de",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900514889 CARRINHO COLETOR 120L EMPOLIETILENO:carrinho coletor de lixo 120l deve ser sem pedal e com 120 litros, fabricado em polietileno de alta densidade (pead) ou polipropileno (pp) e injetados em máquinas de alta tecnologia ou através do processo de rotomoldagem, respeitando as principais normas vigentes da agência nacional de vigilância sanitária (ANVISA). Resistentes ao impacto, aos raios ultravioleta e às repetidas lavagens, garantindo segurança, confiabilidade e durabilidade, devendo ter capacidade para armazenar 120 litros ou 58 kg de lixo. Devem ser dotados de rodas de borracha com 200mm de diâmetro e eixo reforçado. As cores deverão ser vermelha, verde, preto, marrom, laranja, cinza, branco, azul e amarelo, que fazem relação com os diferentes tipos de coleta. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "Und.",
+              "quantidade": "50,00",
+              "valor_referencia": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5-DLE-032-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "211 / 2026",
+      "modalidade": "DISPENSA ELETRÔNICA",
+      "situacao": "DESERTO",
+      "condutor": "ISLA LIMA SILVA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO",
+      "publicacao": "21/05/2026 13:44",
+      "inicio_recepcao": "21/05/2026 13:50",
+      "fim_recepcao": "27/05/2026 08:15",
+      "inicio_disputa": "27/05/2026 08:30",
+      "objeto": "Contratação de empresa especializada em fornecimento de CAPOTA BAÚ PARA VEÍCULOS MODELOS STRADA, a fim de atender as demandas da Secretaria Municipal de Promoção Social.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5D2qFsGB6nkXUgTYp9KLOkvcxL3khsaP32GaObdUlff_0Sd7BJ0bBhhVUvFqL5f5pwyhiVchpm07hs0x0jyQJZKhGuBRiKnKmoqZ7cW%2FLguzk%3D",
+      "total_lotes": 1,
+      "total_itens": 1,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "CAPOTA BAÚ",
+          "fase": "DESERTO",
+          "tipo": "UNITÁRIO",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "6.646,67",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9908411201 CAPOTA ESTILO BAÚ:Capota modelo baú,confeccionada em fibra de vidro de alta resistência, compatívelcom veículo tipo Strada cabine simples, dotada de tampa traseiradupla com sistema de abertura independente, equipada comfechadura com chave para travamento seguro, garantindovedação adequada, proteção contra intempéries e segurança dacarga transportada. EXCLUSIVO PARA ME/EPP",
+              "unidade": "UND",
+              "quantidade": "1,00",
+              "valor_referencia": "6.646,67"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2-DLE-041-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "240-2026",
+      "modalidade": "DISPENSA ELETRÔNICA",
+      "situacao": "FRACASSADO",
+      "condutor": "ISLA LIMA SILVA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO",
+      "publicacao": "15/04/2026 20:47",
+      "inicio_recepcao": "15/04/2026 21:00",
+      "fim_recepcao": "22/04/2026 08:15",
+      "inicio_disputa": "22/04/2026 08:30",
+      "objeto": "Contratação de empresa especializada em fornecimento de [TELAS MOSQUITEIRAS PARA JANELAS E BASCULANTES]\n(material de consumo), a fim de atender as necessidades da Secretaria Municipal de Administração, conforme condições, quantidades e exigências estabelecidas neste Aviso de Contratação Direta, Termo de Referência e seus Anexos.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DEFARjIQSuD9HpSJlyovRPCszv20ETGn9rPlJKnJyldR6%2FwxiRlC78wyDAl%2FJzJ0ituA1QypO9nZ7rKpDe3Bc5MJpxCnXvD0H2p6r9jmGdos%3D",
+      "total_lotes": 1,
+      "total_itens": 1,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "TELAS MOSQUITEIRAS",
+          "fase": "FRACASSADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "",
+          "garantia": "",
+          "valor_referencia": "8.019,60",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515461 Tela mosquiteira em fibra de vidro revestida emPVC:cor cinza, fornecida em rolo com largura nominal de 1,20 me comprimento de 50 m, totalizando aproximadamente 60 m² porrolo, com malha fina tipo 18 x 16 fios por polegada ouequivalente. Adequada para proteção contra insetos, vetores epragas urbanas, permitindo ampla circulação de ar e passagemde luz natural, sem comprometer a luminosidade do ambiente.Produto antialérgico, inodoro, lavável com água e detergenteneutro, de fácil corte e instalação, que não desfia nas bordas,não resseca, não rasga com facilidade, resistente a raios UV,intempéries, umidade e fungos, com característica de nãopropagação de chamas e alta durabilidade em uso contínuo.Destinada à instalação em janelas, portas, basculantes e demaisaberturas de cozinhas, despensas e áreas de preparo earmazenamento de alimentos das unidades escolares da redemunicipal, para confecção de módulos fixos ou removíveis pelasequipes internas de marcenaria e serralheria da SecretariaMunicipal de Educação, em conformidade com as exigênciassanitárias para barreiras físicas e com especificações técnicasusualmente adotadas em contratações públicas. EXCLUSIVOPARA ME/EPP.",
+              "unidade": "ROL",
+              "quantidade": "30,00",
+              "valor_referencia": "267,32"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-027-2024",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "705/2024",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "SUSPENSO",
+      "condutor": "VICTOR KINIDEL DETHLING",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO",
+      "publicacao": "15/05/2024 18:26",
+      "inicio_recepcao": "16/05/2024 08:00",
+      "fim_recepcao": "12/06/2024 09:45",
+      "inicio_disputa": "12/06/2024 10:00",
+      "objeto": "Contratação de instituição financeira para prestação de serviços bancários para centralização, gerenciamento e processamento de créditos da folha de pagamento dos servidores, a fim de atender as demandas da Prefeitura de Teixeira de Freitas, conforme condições, quantidades e especificações no Edital, Termo de Referência e seus Anexos.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DV9eObOIN6ukK9ACU2uEhzNPIgAgoNr7_C%2FzWj59nBU0jkZFyL0eiLiow40jUE9P5gzePQ7AnSJ1QlsoA69cDHae5cgm65nHuvAw9ETrVwp0%3D",
+      "total_lotes": 1,
+      "total_itens": 1,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "LOTE 01",
+          "fase": "SUSPENSO",
+          "tipo": "UNITÁRIO",
+          "quantidade": "1",
+          "intervalo_minimo": "100,00",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
           "valor_referencia": "6.052.150,00",
-          "vencedor": "ITAÚ UNIBANCO S.A.",
-          "melhor_oferta": "6.053.000,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
           "total_itens": 1,
           "itens": [
             {
               "numero": "1",
               "especificacao": "CONTRATAÇÃO DE INSTITUIÇÃO FINANCEIRA: ESPECIALIZADA NA PRESTAÇÃO DE SERVIÇOS BANCÁRIOS PARA CENTRALIZAÇÃO, GERENCIAMENTO E PROCESSAMENTO DE CRÉDITOS DA FOLHA DE PAGAMENTO DOS SERVIDORES DA PREFEITURA MUNICIPAL DE TEIXEIRA DE FREITAS/BA.",
-              "unidade": "UN",
+              "unidade": "SERVIÇO",
               "quantidade": "1,00",
               "valor_referencia": "6.052.150,00"
             }
