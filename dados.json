@@ -4,7 +4,7 @@
     "total_processos": 798,
     "total_lotes": 8774,
     "total_itens": 15058,
-    "atualizado_em": "20260529_193527"
+    "atualizado_em": "20260530_193510"
   },
   "processos": [
     {
@@ -270068,50 +270068,6 @@
       ]
     },
     {
-      "id": "5-DLE-032-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "211 / 2026",
-      "modalidade": "DISPENSA ELETRÔNICA",
-      "situacao": "RECEPÇÃO DE PROPOSTAS",
-      "condutor": "ISLA LIMA SILVA",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO",
-      "publicacao": "27/05/2026 16:51",
-      "inicio_recepcao": "27/05/2026 16:59",
-      "fim_recepcao": "02/06/2026 08:15",
-      "inicio_disputa": "02/06/2026 08:30",
-      "objeto": "Contratação de empresa especializada em fornecimento de CAPOTA BAÚ PARA VEÍCULOS MODELOS STRADA, a fim de atender as demandas da Secretaria Municipal de Promoção Social.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DS4E88_O_TqAjKiEBcs0d0YaMLccqzJNJzGipxzjlqKMh5hDaIpUSrQN36PZEL_cm8ON1kmcMXX%2F4CL0UuO39pIvaw7ajEpgmV2J7kl1QMJU%3D",
-      "total_lotes": 1,
-      "total_itens": 1,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "CAPOTA BAÚ",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "6.646,67",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9908411201 CAPOTA ESTILO BAÚ:Capota modelo baú,confeccionada em fibra de vidro de alta resistência, compatívelcom veículo tipo Strada cabine simples, dotada de tampa traseiradupla com sistema de abertura independente, equipada comfechadura com chave para travamento seguro, garantindovedação adequada, proteção contra intempéries e segurança dacarga transportada. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "UN",
-              "quantidade": "1,00",
-              "valor_referencia": "6.646,67"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "PE-041-2026",
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "1583/2025",
@@ -270488,42 +270444,86 @@
       ]
     },
     {
-      "id": "PE-027-2024",
+      "id": "5-DLE-032-2026",
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "705/2024",
-      "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "HOMOLOGADO",
-      "condutor": "MAGDA DE SELES GUIMARÃES",
+      "numero_adm": "211 / 2026",
+      "modalidade": "DISPENSA ELETRÔNICA",
+      "situacao": "DESERTO",
+      "condutor": "ISLA LIMA SILVA",
       "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
       "tipo_contrato": "AQUISIÇÃO",
-      "publicacao": "13/06/2024 18:49",
-      "inicio_recepcao": "14/06/2024 08:00",
-      "fim_recepcao": "10/07/2024 13:45",
-      "inicio_disputa": "10/07/2024 14:00",
-      "objeto": "O objeto da presente licitação é a contratação de INSTITUIÇÃO FINANCEIRA ESPECIALIZADA NA PRESTAÇÃO DE SERVIÇOS BANCÁRIOS PARA CENTRALIZAÇÃO, GERENCIAMENTO E PROCESSAMENTO DE CRÉDITOS DA FOLHA DE PAGAMENTO DOS SERVIDORES, a fim de atender as demandas da Secretaria Municipal de Administração, conforme condições, quantidades e especificações no Edital, Termo de Referência e seus Anexos.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DovAEqPSsB5L_KJIYfnP%2FvjjmsW0Lzd8yTRzb93Cu2effHurLmQaIn_cIKI5au9uI0t2nUK3LVXZ7ktmS77qTGjDEg7djSlZ61SpCNQKLgFQ%3D",
+      "publicacao": "21/05/2026 13:44",
+      "inicio_recepcao": "21/05/2026 13:50",
+      "fim_recepcao": "27/05/2026 08:15",
+      "inicio_disputa": "27/05/2026 08:30",
+      "objeto": "Contratação de empresa especializada em fornecimento de CAPOTA BAÚ PARA VEÍCULOS MODELOS STRADA, a fim de atender as demandas da Secretaria Municipal de Promoção Social.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DJcT03F%2FRslONiy896n6VQHoQhgerCYg5iAUTkpoEopQSw0WLvWqU%2FGX3IyoFABTk45KEikMfXVAikSXmKFHEMYuTYfgfU5wgWi3kLIAwfYo%3D",
       "total_lotes": 1,
       "total_itens": 1,
       "lotes": [
         {
           "numero": "1",
-          "titulo": "SERVIÇOS BANCÁRIOS",
-          "fase": "HOMOLOGADO",
-          "tipo": "GLOBAL",
+          "titulo": "CAPOTA BAÚ",
+          "fase": "DESERTO",
+          "tipo": "UNITÁRIO",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "6.646,67",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9908411201 CAPOTA ESTILO BAÚ:Capota modelo baú,confeccionada em fibra de vidro de alta resistência, compatívelcom veículo tipo Strada cabine simples, dotada de tampa traseiradupla com sistema de abertura independente, equipada comfechadura com chave para travamento seguro, garantindovedação adequada, proteção contra intempéries e segurança dacarga transportada. EXCLUSIVO PARA ME/EPP",
+              "unidade": "UND",
+              "quantidade": "1,00",
+              "valor_referencia": "6.646,67"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-027-2024",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "705/2024",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "SUSPENSO",
+      "condutor": "VICTOR KINIDEL DETHLING",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO",
+      "publicacao": "15/05/2024 18:26",
+      "inicio_recepcao": "16/05/2024 08:00",
+      "fim_recepcao": "12/06/2024 09:45",
+      "inicio_disputa": "12/06/2024 10:00",
+      "objeto": "Contratação de instituição financeira para prestação de serviços bancários para centralização, gerenciamento e processamento de créditos da folha de pagamento dos servidores, a fim de atender as demandas da Prefeitura de Teixeira de Freitas, conforme condições, quantidades e especificações no Edital, Termo de Referência e seus Anexos.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DPT0gonCt7zI2FU3g_hG493UVTShV4Ezb0BNr1WFc5OaEfDQhOQOjVOV7ys7cIZR0%2FZDsKQNWU1yH_ze1YMgffH4bFw20pghM6pRHN4rvtFg%3D",
+      "total_lotes": 1,
+      "total_itens": 1,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "LOTE 01",
+          "fase": "SUSPENSO",
+          "tipo": "UNITÁRIO",
+          "quantidade": "1",
+          "intervalo_minimo": "100,00",
           "exclusivo_me": "NÃO",
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "6.052.150,00",
-          "vencedor": "ITAÚ UNIBANCO S.A.",
-          "melhor_oferta": "6.053.000,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
           "total_itens": 1,
           "itens": [
             {
               "numero": "1",
               "especificacao": "CONTRATAÇÃO DE INSTITUIÇÃO FINANCEIRA: ESPECIALIZADA NA PRESTAÇÃO DE SERVIÇOS BANCÁRIOS PARA CENTRALIZAÇÃO, GERENCIAMENTO E PROCESSAMENTO DE CRÉDITOS DA FOLHA DE PAGAMENTO DOS SERVIDORES DA PREFEITURA MUNICIPAL DE TEIXEIRA DE FREITAS/BA.",
-              "unidade": "UN",
+              "unidade": "SERVIÇO",
               "quantidade": "1,00",
               "valor_referencia": "6.052.150,00"
             }
