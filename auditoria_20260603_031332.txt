@@ -1,0 +1,93 @@
+AUDITORIA BLL  03/06/2026 03:13
+Arquivo    : dados.json
+Auditados  : 804
+Alteracoes : 5
+Bloqueados : 0
+Erros      : 0
+
+------------------------------------------------------------------------
+
+ALTERACOES:
+
+  PE-032-2025:
+    * Lote 11 > Vencedor
+        antes : MEDICENTRO COMERCIO DE MEDICAMENTOS - EIRELI - EPP
+        depois: MEDICENTRO COMERCIO DE MEDICAMENTOS LTDA
+    * Lote 13 > Vencedor
+        antes : MEDICENTRO COMERCIO DE MEDICAMENTOS - EIRELI - EPP
+        depois: MEDICENTRO COMERCIO DE MEDICAMENTOS LTDA
+    * Lote 14 > Vencedor
+        antes : MEDICENTRO COMERCIO DE MEDICAMENTOS - EIRELI - EPP
+        depois: MEDICENTRO COMERCIO DE MEDICAMENTOS LTDA
+    * Lote 15 > Vencedor
+        antes : MEDICENTRO COMERCIO DE MEDICAMENTOS - EIRELI - EPP
+        depois: MEDICENTRO COMERCIO DE MEDICAMENTOS LTDA
+
+  PE-016-2025:
+    * Lote 23 > Vencedor
+        antes : MEDICENTRO COMERCIO DE MEDICAMENTOS - EIRELI - EPP
+        depois: MEDICENTRO COMERCIO DE MEDICAMENTOS LTDA
+    * Lote 26 > Vencedor
+        antes : MEDICENTRO COMERCIO DE MEDICAMENTOS - EIRELI - EPP
+        depois: MEDICENTRO COMERCIO DE MEDICAMENTOS LTDA
+    * Lote 28 > Vencedor
+        antes : MEDICENTRO COMERCIO DE MEDICAMENTOS - EIRELI - EPP
+        depois: MEDICENTRO COMERCIO DE MEDICAMENTOS LTDA
+    * Lote 31 > Vencedor
+        antes : MEDICENTRO COMERCIO DE MEDICAMENTOS - EIRELI - EPP
+        depois: MEDICENTRO COMERCIO DE MEDICAMENTOS LTDA
+    * Lote 32 > Vencedor
+        antes : MEDICENTRO COMERCIO DE MEDICAMENTOS - EIRELI - EPP
+        depois: MEDICENTRO COMERCIO DE MEDICAMENTOS LTDA
+    * Lote 33 > Vencedor
+        antes : MEDICENTRO COMERCIO DE MEDICAMENTOS - EIRELI - EPP
+        depois: MEDICENTRO COMERCIO DE MEDICAMENTOS LTDA
+    * Lote 34 > Vencedor
+        antes : MEDICENTRO COMERCIO DE MEDICAMENTOS - EIRELI - EPP
+        depois: MEDICENTRO COMERCIO DE MEDICAMENTOS LTDA
+    * Lote 35 > Vencedor
+        antes : MEDICENTRO COMERCIO DE MEDICAMENTOS - EIRELI - EPP
+        depois: MEDICENTRO COMERCIO DE MEDICAMENTOS LTDA
+    * Lote 36 > Vencedor
+        antes : MEDICENTRO COMERCIO DE MEDICAMENTOS - EIRELI - EPP
+        depois: MEDICENTRO COMERCIO DE MEDICAMENTOS LTDA
+
+  PE-067-2026:
+    * Lote 1 > Fase
+        antes : HABILITAÇÃO
+        depois: EM ADJUDICAÇÃO
+    * Lote 12 > Fase
+        antes : HABILITAÇÃO
+        depois: INTERPOSIÇÃO DE RECURSOS
+    * Lote 2 > Fase
+        antes : EM ADJUDICAÇÃO
+        depois: FRACASSADO
+    * Lote 3 > Fase
+        antes : EM ADJUDICAÇÃO
+        depois: FRACASSADO
+    * Lote 5 > Fase
+        antes : HABILITAÇÃO
+        depois: EM ADJUDICAÇÃO
+    * Lote 6 > Fase
+        antes : HABILITAÇÃO
+        depois: EM ADJUDICAÇÃO
+    * Lote 7 > Fase
+        antes : HABILITAÇÃO
+        depois: EM ADJUDICAÇÃO
+    * Lote 9 > Fase
+        antes : EM ADJUDICAÇÃO
+        depois: FRACASSADO
+
+  PE-050-2026:
+    * Lote 1 > Vencedor
+        antes : AGRIMENSURA BRASIL LTDA
+        depois: AANDRADE ARQUITETURA E ENGENHARIA LTDA
+    * Lote 1 > Melhor Oferta
+        antes : 84.000,00
+        depois: 305.000,00
+
+  PE-073-2026:
+    * Lote 1 > Fase
+        antes : INTERPOSIÇÃO DE RECURSOS
+        depois: RECEPÇÃO DE CONTRARRAZÕES
+

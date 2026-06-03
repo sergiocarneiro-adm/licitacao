@@ -1,9 +1,9 @@
 {
   "metadata": {
     "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-    "total_registros": 672,
-    "total_itens": 2371,
-    "atualizado_em": "20260527_193621"
+    "total_registros": 673,
+    "total_itens": 2372,
+    "atualizado_em": "20260603_193842"
   },
   "registros": [
     {
@@ -38497,6 +38497,38 @@
           "marca": "NAO SE APLICA",
           "modelo": "",
           "valor": "434,8500"
+        }
+      ]
+    },
+    {
+      "id": "2IL-109-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "589/2026",
+      "modalidade": "INEXIGIBILIDADE",
+      "status": "CONCLUÍDA",
+      "coordenador": "ISLA LIMA SILVA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "ano_referencia": "2026",
+      "data_publicacao": "03/06/2026 15:45:47",
+      "data_conclusao": "03/06/2026 15:45:50",
+      "artigo": "Art. 74º",
+      "inciso": "IV",
+      "justificativa": "Art. 74, IV, da Lei Federal nº 14.133/2021, Decreto Municipal nº 85.2024 e demais legislações e regulamentos específicos.",
+      "legislacao": "Lei nº 14.133",
+      "objeto": "Contratação da EMPRESA AGNI ALVES ESPECIALIZADA NA PRESTAÇÃO DE SERVIÇOS (MANUTENÇÃO CORRETIVA PREVENTIVA DE VEÍCULOS DA FROTA MUNICIPAL COM FORNECIMENTO DE PEÇAS), afim de atender as demandas da Secretaria Municipal de Administração e demais Secretarias.",
+      "observacao": "",
+      "link": "https://bllcompras.com/DirectBuy/DirectBuyView?param1=%5Bgkz%5D7nT5lnfVuLMG8sA84l0sohaEMBRkHP_0HZm09kxoVMWLxmM682I3hiR%2FEwk0Qzb%2Fctb_vIb8BJv4HWjLq9ycGSSMH9%2F2J6nczOc98KJP8%2F8%3D",
+      "total_itens": 1,
+      "itens": [
+        {
+          "numero": "1",
+          "descricao": "9903312048 SERVIÇO DE MANUTENÇÃO PREVENTIVA E CORRETIVA DA FROTA MUNICIPAL, COM FORNECIMENTO DE PEÇA: manutenção preventiva e corretiva da frota municipal,incluindo veículos leves, pesados, médios e maquinários diversos na parte de mecânica, elétrica, suspensão arqueamento, entre outros serviços, incluindo também o fornecimento de peças, acessórios, equipamentos, pneus, serviço de vidraçaria, capotaria, tapeçaria, borracharia, funilaria e pintura, retífica de motores, socorro mecânico, dentre outros.",
+          "quantidade": "1,0000",
+          "unidade": "SERV",
+          "fornecedor": "59.854.079 AGNI ALVES DE OLIVEIRA",
+          "marca": "NÃO SE APLICA",
+          "modelo": "NÃO SE APLICA",
+          "valor": "80000,0000"
         }
       ]
     }
