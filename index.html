@@ -32,50 +32,144 @@
     </script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf-autotable/3.8.2/jspdf.plugin.autotable.min.js"></script>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Syne:wght@400;500;600;700;800&family=DM+Sans:ital,opsz,wght@0,9..40,300;0,9..40,400;0,9..40,500;0,9..40,600;0,9..40,700;1,9..40,400&family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <style>
-        body { font-family: 'Inter', sans-serif; }
+        :root {
+            --brand-blue: #1d4ed8;
+            --brand-blue-light: #3b82f6;
+            --brand-violet: #6d28d9;
+            --brand-violet-light: #8b5cf6;
+            --surface: #ffffff;
+            --surface-2: #f8fafc;
+            --surface-3: #f1f5f9;
+            --border: #e2e8f0;
+            --border-strong: #cbd5e1;
+            --text-1: #0f172a;
+            --text-2: #334155;
+            --text-3: #64748b;
+            --text-4: #94a3b8;
+            --radius-sm: 8px;
+            --radius-md: 12px;
+            --radius-lg: 16px;
+            --radius-xl: 20px;
+            --shadow-sm: 0 1px 3px rgba(0,0,0,.06), 0 1px 2px rgba(0,0,0,.04);
+            --shadow-md: 0 4px 12px rgba(0,0,0,.08), 0 2px 4px rgba(0,0,0,.04);
+            --shadow-lg: 0 12px 32px rgba(0,0,0,.10), 0 4px 8px rgba(0,0,0,.06);
+        }
+        .dark {
+            --surface: #0d1117;
+            --surface-2: #161b22;
+            --surface-3: #1c2128;
+            --border: #21262d;
+            --border-strong: #30363d;
+            --text-1: #f0f6fc;
+            --text-2: #c9d1d9;
+            --text-3: #8b949e;
+            --text-4: #6e7681;
+        }
+        body { font-family: 'DM Sans', sans-serif; background: var(--surface-2); color: var(--text-1); }
+        h1, h2, h3 { font-family: 'Syne', sans-serif; }
         code, .mono { font-family: 'JetBrains Mono', monospace; }
-        .glass-effect { background: rgba(255,255,255,0.9); backdrop-filter: blur(12px); }
-        .dark .glass-effect { background: rgba(10,15,30,0.9); }
-        .custom-scrollbar::-webkit-scrollbar { width: 5px; height: 5px; }
+
+        /* ── GLASS ── */
+        .glass-effect { background: rgba(255,255,255,0.92); backdrop-filter: blur(16px); -webkit-backdrop-filter: blur(16px); border-bottom: 1px solid var(--border); }
+        .dark .glass-effect { background: rgba(13,17,23,0.92); }
+
+        /* ── SCROLLBAR ── */
+        .custom-scrollbar::-webkit-scrollbar { width: 4px; height: 4px; }
         .custom-scrollbar::-webkit-scrollbar-track { background: transparent; }
-        .custom-scrollbar::-webkit-scrollbar-thumb { background: #cbd5e1; border-radius: 10px; }
-        .dark .custom-scrollbar::-webkit-scrollbar-thumb { background: #334155; }
-        mark { background: #fef08a; color: #854d0e; padding: 0 2px; border-radius: 2px; }
-        .dark mark { background: #854d0e; color: #fef08a; }
+        .custom-scrollbar::-webkit-scrollbar-thumb { background: var(--border-strong); border-radius: 10px; }
+
+        /* ── HIGHLIGHT ── */
+        mark { background: #fef08a; color: #78350f; padding: 1px 3px; border-radius: 3px; font-weight: 600; box-shadow: 0 0 0 1px #fcd34d; }
+        .dark mark { background: #78350f; color: #fde68a; box-shadow: 0 0 0 1px #92400e; }
+        mark.current { background: #fb923c; color: #fff; box-shadow: 0 0 0 1px #ea580c; }
+
+        /* ── MODAL ── */
         .modal-backdrop { transition: opacity 0.25s ease; }
-        .modal-content  { transition: transform 0.25s ease, opacity 0.25s ease; }
+        .modal-content  { transition: transform 0.3s cubic-bezier(.34,1.56,.64,1), opacity 0.2s ease; }
         .modal-hidden   { opacity: 0; pointer-events: none; }
-        .modal-hidden .modal-content { transform: scale(0.96); opacity: 0; }
-        .stat-card { transition: transform 0.18s ease, box-shadow 0.18s ease; }
-        .stat-card:hover { transform: translateY(-2px); }
-        tbody tr { transition: background 0.12s; }
+        .modal-hidden .modal-content { transform: scale(0.95) translateY(8px); opacity: 0; }
+
+        /* ── STAT CARDS ── */
+        .stat-card {
+            transition: transform 0.2s ease, box-shadow 0.2s ease;
+            position: relative;
+            overflow: hidden;
+        }
+        .stat-card::before {
+            content: '';
+            position: absolute;
+            inset: 0;
+            background: linear-gradient(135deg, transparent 50%, rgba(255,255,255,.04) 100%);
+            pointer-events: none;
+        }
+        .stat-card:hover { transform: translateY(-3px); box-shadow: var(--shadow-lg); }
+
+        /* ── TABLE ── */
+        tbody tr { transition: background 0.1s; }
+        thead th { font-family: 'Syne', sans-serif; letter-spacing: 0.04em; }
+
+        /* ── BADGES ── */
         @keyframes pulse-green { 0%,100%{opacity:1} 50%{opacity:.5} }
         .badge-pulse { animation: pulse-green 2s infinite; }
-        .tab-active { border-bottom: 2px solid #2563eb; color: #2563eb; }
+
+        /* ── TABS ── */
+        .tab-active { border-bottom: 2px solid var(--brand-blue); color: var(--brand-blue); font-weight: 600; }
         .dark .tab-active { color: #60a5fa; border-color: #60a5fa; }
-        .ds-tab-active { background: #7c3aed; color: #fff; }
-        .dark .ds-tab-active { background: #7c3aed; }
-        .ds-tab-licit-active { background: #2563eb; color: #fff; }
-        .loading-spinner { display: inline-block; width: 20px; height: 20px; border: 3px solid rgba(0,0,0,0.1); border-radius: 50%; border-top-color: #2563eb; animation: spin 0.8s linear infinite; }
+        .ds-tab-active { background: var(--brand-violet); color: #fff; }
+        .dark .ds-tab-active { background: var(--brand-violet); }
+        .ds-tab-licit-active { background: var(--brand-blue); color: #fff; }
+
+        /* ── LOADING ── */
+        .loading-spinner { display: inline-block; width: 24px; height: 24px; border: 3px solid rgba(0,0,0,0.08); border-radius: 50%; border-top-color: var(--brand-blue); animation: spin 0.7s linear infinite; }
         @keyframes spin { to { transform: rotate(360deg); } }
+
         /* ── ALERTAS ── */
         .alert-urgente { border-left: 3px solid #ef4444; }
         .alert-proximo { border-left: 3px solid #f59e0b; }
         .alert-info    { border-left: 3px solid #3b82f6; }
-        /* ── HIGHLIGHT ── */
-        mark { background: #fef08a; color: #854d0e; padding: 1px 3px; border-radius: 3px; font-weight: 600; box-shadow: 0 0 0 1px #fcd34d; }
-        .dark mark { background: #78350f; color: #fde68a; box-shadow: 0 0 0 1px #92400e; }
-        mark.current { background: #fb923c; color: #fff; box-shadow: 0 0 0 1px #ea580c; }
+
         /* ── EXPORT BTN ── */
-        .export-btn { transition: all .15s; }
-        .export-btn:hover { transform: translateY(-1px); }
+        .export-btn { transition: all .18s; }
+        .export-btn:hover { transform: translateY(-1px); box-shadow: 0 4px 12px rgba(0,0,0,.12); }
+
+        /* ── SEARCH PANEL ── */
+        .search-panel {
+            background: var(--surface);
+            border: 1px solid var(--border);
+            border-radius: var(--radius-xl);
+            box-shadow: var(--shadow-md);
+        }
+        .dark .search-panel { background: var(--surface-2); }
+
+        /* ── RECENT CARDS ── */
+        .proc-card {
+            background: var(--surface);
+            border: 1px solid var(--border);
+            border-radius: var(--radius-lg);
+            box-shadow: var(--shadow-sm);
+            transition: all .2s ease;
+        }
+        .proc-card:hover {
+            box-shadow: var(--shadow-md);
+            border-color: var(--border-strong);
+            transform: translateY(-2px);
+        }
+
+        /* ── TABLE WRAPPER ── */
+        .table-wrapper {
+            background: var(--surface);
+            border: 1px solid var(--border);
+            border-radius: var(--radius-lg);
+            box-shadow: var(--shadow-sm);
+            overflow: hidden;
+        }
 
         /* ── CHAT IA ── */
-        #ai-fab { position:fixed; bottom:28px; right:28px; z-index:9998; width:52px; height:52px; border-radius:50%; background:linear-gradient(135deg,#2563eb,#7c3aed); border:none; cursor:pointer; box-shadow:0 4px 20px rgba(37,99,235,.45); display:flex; align-items:center; justify-content:center; transition:transform .2s,box-shadow .2s; }
-        #ai-fab:hover { transform:scale(1.08); box-shadow:0 6px 28px rgba(37,99,235,.6); }
+        #ai-fab { position:fixed; bottom:28px; right:28px; z-index:9998; width:52px; height:52px; border-radius:50%; background:linear-gradient(135deg,#1d4ed8,#6d28d9); border:none; cursor:pointer; box-shadow:0 4px 24px rgba(29,78,216,.5); display:flex; align-items:center; justify-content:center; transition:transform .2s,box-shadow .2s; }
+        #ai-fab:hover { transform:scale(1.1); box-shadow:0 8px 32px rgba(29,78,216,.65); }
         #ai-panel { position:fixed; bottom:92px; right:28px; z-index:9997; width:380px; max-height:580px; border-radius:18px; background:white; box-shadow:0 12px 48px rgba(0,0,0,.18); display:flex; flex-direction:column; overflow:hidden; border:1px solid #e2e8f0; transform:scale(0.92) translateY(16px); opacity:0; pointer-events:none; transition:transform .25s cubic-bezier(.34,1.56,.64,1), opacity .2s ease; }
         .dark #ai-panel { background:#0f172a; border-color:#1e293b; }
         #ai-panel.open { transform:scale(1) translateY(0); opacity:1; pointer-events:all; }
@@ -143,53 +237,59 @@
         #ai-status { padding:4px 14px 2px; font-size:10px; color:#94a3b8; flex-shrink:0; min-height:16px; }
     </style>
 </head>
-<body class="bg-slate-50 dark:bg-slate-950 text-slate-900 dark:text-slate-100 transition-colors duration-300 overflow-x-hidden">
+<body class="bg-slate-100 dark:bg-[#0d1117] text-slate-900 dark:text-slate-100 transition-colors duration-300 overflow-x-hidden">
 <div class="min-h-screen flex flex-col">
 
 <!-- ── HEADER ──────────────────────────────────────────────────────── -->
-<header class="sticky top-0 z-40 w-full border-b border-slate-200 dark:border-slate-800 glass-effect">
-    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-16 flex items-center justify-between gap-3">
+<header class="sticky top-0 z-40 w-full glass-effect">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-[60px] flex items-center justify-between gap-3">
+
+        <!-- Logo + título -->
         <div class="flex items-center gap-3 shrink-0">
-            <img src="logo_sicoltx.png" alt="SICOL-TX" style="height:40px;object-fit:contain;" onerror="this.style.display='none'">
+            <img src="logo_sicoltx.png" alt="SICOL-TX" style="height:36px;object-fit:contain;" onerror="this.style.display='none'">
             <div>
-                <h1 class="text-base font-bold leading-tight">SICOL<span id="header-title" class="text-blue-600">-TX</span></h1>
-                <p class="text-[10px] text-slate-400 leading-none">Sistema Integrado de Consulta de Licitações · Teixeira de Freitas</p>
+                <h1 class="text-[15px] font-black leading-tight tracking-tight" style="font-family:'Syne',sans-serif">
+                    SICOL<span id="header-title" class="text-blue-600 dark:text-blue-400">-TX</span>
+                </h1>
+                <p class="text-[10px] text-slate-400 dark:text-slate-500 leading-none tracking-wide">
+                    Sistema Integrado de Consulta de Licitações
+                </p>
             </div>
         </div>
 
         <!-- Dataset switcher -->
-        <div class="flex items-center bg-slate-100 dark:bg-slate-800 rounded-xl p-1 gap-1">
+        <div class="flex items-center bg-slate-100 dark:bg-[#161b22] border border-slate-200 dark:border-[#21262d] rounded-xl p-1 gap-1">
             <button id="ds-btn-licit" onclick="switchDataset('licit')"
-                class="ds-tab-licit-active flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-xs font-bold transition-all text-white">
-                <i class="fas fa-gavel text-xs"></i>
+                class="ds-tab-licit-active flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-[11px] font-bold transition-all text-white">
+                <i class="fas fa-gavel text-[10px]"></i>
                 <span class="hidden sm:inline">Licitações</span>
-                <span id="ds-count-licit" class="mono text-[10px] opacity-75"></span>
+                <span id="ds-count-licit" class="mono text-[10px] opacity-70 tabular-nums"></span>
             </button>
             <button id="ds-btn-compras" onclick="switchDataset('compras')"
-                class="flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-xs font-bold transition-all text-slate-500 dark:text-slate-400 hover:text-slate-700 dark:hover:text-white">
-                <i class="fas fa-shopping-cart text-xs"></i>
+                class="flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-[11px] font-bold transition-all text-slate-500 dark:text-slate-400 hover:text-slate-700 dark:hover:text-white">
+                <i class="fas fa-shopping-cart text-[10px]"></i>
                 <span class="hidden sm:inline">Compras Diretas</span>
-                <span id="ds-count-compras" class="mono text-[10px] opacity-75"></span>
+                <span id="ds-count-compras" class="mono text-[10px] opacity-70 tabular-nums"></span>
             </button>
         </div>
 
         <div class="flex items-center gap-2">
-            <span id="header-meta" class="text-[10px] text-slate-400 hidden md:block mono"></span>
+            <span id="header-meta" class="text-[10px] text-slate-400 dark:text-slate-500 hidden md:block mono tabular-nums"></span>
             <a href="https://sergiocarneiro-adm.github.io/pncp/" target="_blank" rel="noopener noreferrer"
-                class="flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-xs font-bold border border-slate-200 dark:border-slate-700 text-slate-500 dark:text-slate-400 hover:border-emerald-400 hover:text-emerald-600 dark:hover:text-emerald-400 transition-all"
+                class="flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-[11px] font-semibold border border-slate-200 dark:border-[#21262d] text-slate-500 dark:text-slate-400 hover:border-emerald-400 hover:text-emerald-600 dark:hover:text-emerald-400 transition-all"
                 title="PNCP Explorer | Por Sergio Carneiro">
-                <i class="fas fa-globe text-xs"></i>
+                <i class="fas fa-globe text-[10px]"></i>
                 <span class="hidden sm:inline">PNCP</span>
             </a>
             <button id="export-pdf-btn" onclick="exportPDF()"
-                class="export-btn flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-xs font-bold bg-rose-600 hover:bg-rose-700 text-white transition-all"
+                class="export-btn flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-[11px] font-bold bg-rose-600 hover:bg-rose-700 text-white transition-all shadow-sm"
                 title="Exportar PDF">
-                <i class="fas fa-file-pdf text-xs"></i>
+                <i class="fas fa-file-pdf text-[10px]"></i>
                 <span class="hidden sm:inline">PDF</span>
             </button>
-            <button id="theme-toggle" class="p-2 rounded-full hover:bg-slate-100 dark:hover:bg-slate-800 transition-colors" title="Alternar tema">
-                <i class="fas fa-moon dark:hidden text-slate-500"></i>
-                <i class="fas fa-sun hidden dark:block text-slate-400"></i>
+            <button id="theme-toggle" class="w-8 h-8 rounded-lg flex items-center justify-center border border-slate-200 dark:border-[#21262d] hover:bg-slate-100 dark:hover:bg-[#161b22] transition-colors" title="Alternar tema">
+                <i class="fas fa-moon dark:hidden text-slate-500 text-[12px]"></i>
+                <i class="fas fa-sun hidden dark:block text-slate-400 text-[12px]"></i>
             </button>
         </div>
     </div>
