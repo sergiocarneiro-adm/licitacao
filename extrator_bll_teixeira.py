@@ -11,7 +11,7 @@ from playwright.async_api import async_playwright
 # ─────────────────────────────────────────────────────────────────
 PROMOTOR         = 'MUNICIPIO DE TEIXEIRA DE FREITAS'
 LIMITE_PROCESSOS = 9999    # reduza para testar (ex: 15)
-HEADLESS         = False   # True para rodar sem abrir janela
+HEADLESS         = False   # deve ser False para resolução manual do CAPTCHA
 ARQUIVO_JSON     = 'dados.json'
 
 # ─────────────────────────────────────────────────────────────────
@@ -119,14 +119,36 @@ def carregar_json_existente():
         return {}, []
 
 # ─────────────────────────────────────────────────────────────────
-#  SCROLL INFINITO
+#  FECHA MODAL DE ERRO VIA JS (reutilizado na busca e no scroll)
+# ─────────────────────────────────────────────────────────────────
+async def fechar_modal_erro(page):
+    await page.evaluate("""
+        () => {
+            $('#errorModal').modal('hide');
+            setTimeout(() => {
+                document.querySelectorAll('.modal-backdrop').forEach(el => el.remove());
+                document.body.classList.remove('modal-open');
+                document.body.style.removeProperty('padding-right');
+                const m = document.getElementById('errorModal');
+                if (m) { m.classList.remove('show'); m.style.display = 'none'; }
+            }, 400);
+        }
+    """)
+    await page.wait_for_timeout(800)
+
+# ─────────────────────────────────────────────────────────────────
+#  SCROLL INFINITO (com retry de CAPTCHA a cada página)
 # ─────────────────────────────────────────────────────────────────
 async def scroll_para_carregar_todos(page):
     print("📜 Carregando todos os registros via scroll...")
-    anterior = sem_mudanca = 0
+    anterior   = 0
+    sem_mudanca = 0
+    MAX_RETRY_SCROLL = 10
+
     while True:
         atual = await page.locator('#tableProcessDataBody tr').count()
         print(f"   Registros visíveis: {atual}", end='\r')
+
         if atual == anterior:
             sem_mudanca += 1
             if sem_mudanca >= 3:
@@ -135,8 +157,27 @@ async def scroll_para_carregar_todos(page):
         else:
             sem_mudanca = 0
             anterior = atual
+
+        # dispara o scroll — isso chama GetDataFromScroll() que pode gerar CAPTCHA
         await page.evaluate("window.scrollTo(0, document.body.scrollHeight)")
-        await page.wait_for_timeout(2500)
+        await page.wait_for_timeout(3000)
+
+        # verifica se o modal de erro de CAPTCHA apareceu após o scroll
+        for _ in range(MAX_RETRY_SCROLL):
+            try:
+                erro_texto = await page.locator('#errorContentModal').inner_text(timeout=1500)
+            except Exception:
+                erro_texto = ''
+
+            if 'captcha' in erro_texto.lower() or 'inválido' in erro_texto.lower():
+                print(f"\n   ❌ CAPTCHA no scroll — fechando e tentando novamente...")
+                await fechar_modal_erro(page)
+
+                # rola de novo para disparar GetDataFromScroll()
+                await page.evaluate("window.scrollTo(0, document.body.scrollHeight)")
+                await page.wait_for_timeout(3000)
+            else:
+                break  # sem erro, continua normalmente
 
 # ─────────────────────────────────────────────────────────────────
 #  COLETA DE LINKS + SITUAÇÃO DA LISTAGEM
@@ -458,7 +499,7 @@ async def main():
         context = await browser.new_context()
         page    = await context.new_page()
 
-        # 1. Busca
+        # 1. Busca com retry automático em caso de erro de CAPTCHA
         print("\n🌐 Acessando BLL Compras...")
         await page.goto(
             'https://bllcompras.com/Process/ProcessSearchPublic?param1=0#',
@@ -468,9 +509,44 @@ async def main():
         await page.wait_for_timeout(400)
         await page.fill('input[name="Organization"]', PROMOTOR)
         await page.wait_for_timeout(400)
-        await page.click('button#btnAuctionSearch')
-        await page.wait_for_load_state('networkidle', timeout=20000)
-        await page.wait_for_timeout(3000)
+
+        MAX_TENTATIVAS = 10
+        busca_ok = False
+        for tentativa in range(1, MAX_TENTATIVAS + 1):
+            print(f"\n🔎 Tentativa {tentativa}/{MAX_TENTATIVAS} — clicando em buscar '{PROMOTOR}'...")
+
+            # garante que o campo ainda está preenchido antes de cada tentativa
+            await page.fill('input[name="Organization"]', PROMOTOR)
+            await page.wait_for_timeout(300)
+            await page.click('button#btnAuctionSearch')
+            await page.wait_for_timeout(4000)   # aguarda resposta do servidor
+
+            # --- verifica se o modal de erro está visível pelo texto ---
+            try:
+                erro_texto = await page.locator('#errorContentModal').inner_text(timeout=2000)
+            except Exception:
+                erro_texto = ''
+
+            if 'captcha' in erro_texto.lower() or 'inválido' in erro_texto.lower():
+                print(f"   ❌ CAPTCHA rejeitado: '{erro_texto.strip()}'")
+                print("   🔄 Fechando modal e tentando novamente...")
+
+                await fechar_modal_erro(page)
+                continue
+
+            # --- verifica se há resultados na tabela ---
+            linhas = await page.locator('#tableProcessDataBody tr[role="row"]').count()
+            if linhas > 0:
+                print(f"   ✅ Busca bem-sucedida! {linhas} resultado(s) na tabela.")
+                await page.wait_for_timeout(1000)
+                busca_ok = True
+                break
+
+            print("   ⚠️  Sem resultados e sem erro detectado, aguardando...")
+            await page.wait_for_timeout(1500)
+
+        if not busca_ok:
+            raise Exception(f"❌ Falha após {MAX_TENTATIVAS} tentativas. Abortando.")
 
         # 2. Scroll
         await scroll_para_carregar_todos(page)
