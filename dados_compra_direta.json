@@ -1,9 +1,9 @@
 {
   "metadata": {
     "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-    "total_registros": 673,
-    "total_itens": 2372,
-    "atualizado_em": "20260603_193842"
+    "total_registros": 674,
+    "total_itens": 2373,
+    "atualizado_em": "20260608_193820"
   },
   "registros": [
     {
@@ -38529,6 +38529,38 @@
           "marca": "NÃO SE APLICA",
           "modelo": "NÃO SE APLICA",
           "valor": "80000,0000"
+        }
+      ]
+    },
+    {
+      "id": "2IL-044-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "172/2026",
+      "modalidade": "INEXIGIBILIDADE",
+      "status": "CONCLUÍDA",
+      "coordenador": "ISLA LIMA SILVA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "ano_referencia": "2026",
+      "data_publicacao": "08/06/2026 09:14:22",
+      "data_conclusao": "08/06/2026 09:14:27",
+      "artigo": "Art. 74º",
+      "inciso": "I",
+      "justificativa": "Art. 74, inciso I, da Lei Federal nº 14.133 de 2021 e art. 5º, §1º do Decreto Municipal nº 303, de 2025.",
+      "legislacao": "Lei nº 14.133",
+      "objeto": "Empresa  VIAÇÃO ÁGUIA BRANCA  S  A, para prestação de serviços de emissão de bilhetes de PASSAGENS TERRESTRES,  a  fim  de  atendas  demandas da  Secretaria Municipal de Administração e demais secretarias.",
+      "observacao": "",
+      "link": "https://bllcompras.com/DirectBuy/DirectBuyView?param1=%5Bgkz%5DPsBo2IYmFZAMyoNhErtqmM6VDZ_VSwMYSYLsVMD72j2u1ayEinhph%2FXEKCCeHOrfy8rnUNGfd8Fk6MC6QtMGL%2F5JHlEdypiWtzEV971Yf1s%3D",
+      "total_itens": 1,
+      "itens": [
+        {
+          "numero": "1",
+          "descricao": "9903311825 SERVIÇO DE EMISSÃO DE BILHETES DE PASSAGENS TERRESTRES: oferecendo emissão de bilhetes de passagens incluindo reserva, emissão, transferência, marcação, remarcação e reembolso e despacho de bagagem, nos seguintes trechos:Teixeira de Freitas x Salvador;Teixeira de Freitas x Vitoria - ES;Teixeira de Freitas x Serra- ES;Teixeira de Freitas x Vila Velha - ES;Teixeira de Freitas x Linhares-ES;Teixeira de Freitas x São Mateus - ES;Teixeira de Freitas x Aracaju - SE.",
+          "quantidade": "1,0000",
+          "unidade": "SERV",
+          "fornecedor": "VIAÇÃO ÁGUIA BRANCA S.A",
+          "marca": "NÃO SE APLICA",
+          "modelo": "NÃO SE APLICA",
+          "valor": "850000,0000"
         }
       ]
     }
