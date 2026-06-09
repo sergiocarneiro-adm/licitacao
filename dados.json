@@ -1,10 +1,10 @@
 {
   "metadata": {
     "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-    "total_processos": 811,
-    "total_lotes": 8843,
-    "total_itens": 15173,
-    "atualizado_em": "20260608_193526"
+    "total_processos": 810,
+    "total_lotes": 8842,
+    "total_itens": 15172,
+    "atualizado_em": "20260609_193517"
   },
   "processos": [
     {
@@ -260243,122 +260243,6 @@
       ]
     },
     {
-      "id": "2-DLE-040-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "381 / 2026",
-      "modalidade": "DISPENSA ELETRÔNICA",
-      "situacao": "JULGAMENTO",
-      "condutor": "ISLA LIMA SILVA",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO",
-      "publicacao": "08/05/2026 10:44",
-      "inicio_recepcao": "08/05/2026 10:50",
-      "fim_recepcao": "14/05/2026 08:15",
-      "inicio_disputa": "14/05/2026 08:30",
-      "objeto": "Contratação de empresa especializada em fornecimento de [COLETES INSTITUCIONAIS] (material de consumo), a fim de atender as necessidades da Secretaria Municipal de Finanças.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5D97sHThbtjxJ%2F3sFj4ye_W2FQzBULCNRYt7R95COMkgMBGDM6gjs_FSSe2j4h7DJPgdg8hLN__%2F15VJvNHtAjtbAeYV5W8yL3wAUmlIpnv7k%3D",
-      "total_lotes": 4,
-      "total_itens": 4,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "8410114770 COLETE INSTITUCIONAL:Tamanho P; Emmaterial brim leve, tactel ou poliéster reforçado; Cor azul, conforme brasão PMTF; Fechamento com zíper frontal; 01 bolso superior com zíper (para documentos), 01 bolso interno; Com brasão da Prefeitura de Tei",
-          "fase": "JULGAMENTO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "511,41",
-          "vencedor": "PONTAL DA PESCA LTDA",
-          "melhor_oferta": "386,97",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "8410114770 COLETE INSTITUCIONAL:Tamanho P; Emmaterial brim leve, tactel ou poliéster reforçado; Cor azul, conforme brasão PMTF; Fechamento com zíper frontal; 01 bolso superior com zíper (para documentos), 01 bolso interno; Com brasão da Prefeitura de Teixeira de Freitas bordado no peito esquerdo; Escrita de identificação na parte da frente: \"Secretaria Municipal de Finanças\", podendo ser bordada ou pintada, em cor branca ou amarela para contraste; Escrita de identificação nas costas: \"Fiscalização de Rendas\", \"Cadastro Técnico\" ou \"Dívida ativa\", podendo ser bordada ou pintada, em cor branca ou amarela para contraste.",
-              "unidade": "UND",
-              "quantidade": "3,00",
-              "valor_referencia": "170,47"
-            }
-          ]
-        },
-        {
-          "numero": "2",
-          "titulo": "8410114771 COLETE INSTITUCIONAL:Tamanho M; Emmaterial brim leve, tactel ou poliéster reforçado; Cor azul, conforme brasão PMTF; Fechamento com zíper frontal; 01 bolso superior com zíper (para documentos), 01 bolso interno; Com brasão da Prefeitura de Tei",
-          "fase": "JULGAMENTO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "2.975,70",
-          "vencedor": "PONTAL DA PESCA LTDA",
-          "melhor_oferta": "2.144,85",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "8410114771 COLETE INSTITUCIONAL:Tamanho M; Emmaterial brim leve, tactel ou poliéster reforçado; Cor azul, conforme brasão PMTF; Fechamento com zíper frontal; 01 bolso superior com zíper (para documentos), 01 bolso interno; Com brasão da Prefeitura de Teixeira de Freitas bordado no peito esquerdo; Escrita de identificação na parte da frente: \"Secretaria Municipal de Finanças\", podendo ser bordada ou pintada, em cor branca ou amarela para contraste; Escrita de identificação nas costas: \"Fiscalização de Rendas\", \"Cadastro Técnico\" ou \"Dívida ativa\", podendo ser bordada ou pintada, em cor branca ou amarela para contraste.",
-              "unidade": "UND",
-              "quantidade": "15,00",
-              "valor_referencia": "198,38"
-            }
-          ]
-        },
-        {
-          "numero": "3",
-          "titulo": "8410114772 COLETE INSTITUCIONAL:Tamanho G; Emmaterial brim leve, tactel ou poliéster reforçado; Cor azul, conforme brasão PMTF; Fechamento com zíper frontal; 01 bolso superior com zíper (para documentos), 01 bolso interno; Com brasão da Prefeitura de Tei",
-          "fase": "JULGAMENTO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "3.053,40",
-          "vencedor": "PONTAL DA PESCA LTDA",
-          "melhor_oferta": "1.400,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "8410114772 COLETE INSTITUCIONAL:Tamanho G; Emmaterial brim leve, tactel ou poliéster reforçado; Cor azul, conforme brasão PMTF; Fechamento com zíper frontal; 01 bolso superior com zíper (para documentos), 01 bolso interno; Com brasão da Prefeitura de Teixeira de Freitas bordado no peito esquerdo; Escrita de identificação na parte da frente: \"Secretaria Municipal de Finanças\", podendo ser bordada ou pintada, em cor branca ou amarela para contraste; Escrita de identificação nas costas: \"Fiscalização de Rendas\", \"Cadastro Técnico\" ou \"Dívida ativa\", podendo ser bordada ou pintada, em cor branca ou amarela para contraste.",
-              "unidade": "UND",
-              "quantidade": "14,00",
-              "valor_referencia": "218,10"
-            }
-          ]
-        },
-        {
-          "numero": "4",
-          "titulo": "8410114773 COLETE INSTITUCIONAL:Tamanho GG; Emmaterial brim leve, tactel ou poliéster reforçado; Cor azul, conforme brasão PMTF; Fechamento com zíper frontal; 01 bolso superior com zíper (para documentos), 01 bolso interno; Com brasão da Prefeitura de Te",
-          "fase": "JULGAMENTO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "672,54",
-          "vencedor": "PONTAL DA PESCA LTDA",
-          "melhor_oferta": "298,98",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "8410114773 COLETE INSTITUCIONAL:Tamanho GG; Emmaterial brim leve, tactel ou poliéster reforçado; Cor azul, conforme brasão PMTF; Fechamento com zíper frontal; 01 bolso superior com zíper (para documentos), 01 bolso interno; Com brasão da Prefeitura de Teixeira de Freitas bordado no peito esquerdo; Escrita de identificação na parte da frente: \"Secretaria Municipal de Finanças\", podendo ser bordada ou pintada, em cor branca ou amarela para contraste; Escrita de identificação nas costas: \"Fiscalização de Rendas\", \"Cadastro Técnico\" ou \"Dívida ativa\", podendo ser bordada ou pintada, em cor branca ou amarela para contraste.",
-              "unidade": "UND",
-              "quantidade": "3,00",
-              "valor_referencia": "224,18"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "PE-050-2026",
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "126/2026",
@@ -262239,163 +262123,6 @@
               "unidade": "UN",
               "quantidade": "385,00",
               "valor_referencia": "1.358,55"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "2-DLE-052-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "443 / 2026",
-      "modalidade": "DISPENSA ELETRÔNICA",
-      "situacao": "RECEPÇÃO DE PROPOSTAS",
-      "condutor": "ISLA LIMA SILVA",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO",
-      "publicacao": "02/06/2026 16:34",
-      "inicio_recepcao": "02/06/2026 16:38",
-      "fim_recepcao": "09/06/2026 08:15",
-      "inicio_disputa": "09/06/2026 08:30",
-      "objeto": "Contratação de empresa especializada em fornecimento de [VASSOURAS] (material de consumo), a fim de atender às necessidades da Secretaria Municipal de Infraestrutura e Serviços Urbanos.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5D1kvmctNv7WoZ0egmfSVEQQM%2FihQs59QXWp6rmTi9M_ybIEONwHLYz07VD6pQ4a2l1vXZLtTzG4wRKkTabQa8q42ulCD_OOgvHhsUFsiQOGc%3D",
-      "total_lotes": 3,
-      "total_itens": 3,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "7901700102 VASSOURA PET PEQUENA:com cabo de madeira de 1,10 a 1,20 m cerdas de fibra de pet, largura das cerdas entre 23 e 28cm. EXCLUSIVO PARA ME/EPP.",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "7.137,00",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "7901700102 VASSOURA PET PEQUENA:com cabo de madeira de 1,10 a 1,20 m cerdas de fibra de pet, largura das cerdas entre 23 e 28cm. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "UND",
-              "quantidade": "300,00",
-              "valor_referencia": "23,79"
-            }
-          ]
-        },
-        {
-          "numero": "2",
-          "titulo": "7901700103 VASSOURA PET GRANDE:com cabo de madeira de 1,10 a 1,20 m cerdas de fibra de pet, largura das cerdas entre 35 e 40cm. EXCLUSIVO PARA ME/EPP.",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "6.100,00",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "7901700103 VASSOURA PET GRANDE:com cabo de madeira de 1,10 a 1,20 m cerdas de fibra de pet, largura das cerdas entre 35 e 40cm. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "UND",
-              "quantidade": "200,00",
-              "valor_referencia": "30,50"
-            }
-          ]
-        },
-        {
-          "numero": "3",
-          "titulo": "7901700104 VASSOURA RASTELO METALICAREGULÁVEL:com cabo, 22 dentes, comprimento aproximado de 2,54cm. EXCLUSIVO ME/EPP.",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "3.528,00",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "7901700104 VASSOURA RASTELO METALICAREGULÁVEL:com cabo, 22 dentes, comprimento aproximado de 2,54cm. EXCLUSIVO ME/EPP.",
-              "unidade": "UND",
-              "quantidade": "150,00",
-              "valor_referencia": "23,52"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "2-DLE-049-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "466 / 2026",
-      "modalidade": "DISPENSA ELETRÔNICA",
-      "situacao": "RECEPÇÃO DE PROPOSTAS",
-      "condutor": "ISAQUE SILVA DOS SANTOS",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO",
-      "publicacao": "02/06/2026 15:53",
-      "inicio_recepcao": "02/06/2026 16:03",
-      "fim_recepcao": "09/06/2026 08:15",
-      "inicio_disputa": "09/06/2026 08:30",
-      "objeto": "Contratação de empresa especializada em prestação de serviços de gerenciamento, manutenção preventiva e/ou corretiva de HOSPEDAGEM DE SITE, VIRTUALIZAÇÃO EM NUVEM E DOMÍNIO,  a fim de atender às demandas da Secretaria Municipal de Administração.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DdPKFCULUxln6X6sC0kO%2Fq9%2FBIvejT93a9BdBxl8t8SEVoT6sTpvnpaX9a%2Fa122TVI8eQi8qKveFvlFrD5Eg7tKby_KzQyNKCZPQSgALRecI%3D",
-      "total_lotes": 1,
-      "total_itens": 4,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "HOSPEDAGEM SITE",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "42.860,52",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 4,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "200100001 DOMÍNIO:Prestação de serviços de gerenciamento de domínios institucionais, incluindo configuração e administração de servidores DNS (NS/Nameservers), manutenção e controle dos domínios já existentes no âmbito da Administração Pública, bem como o registro, renovação e gerenciamento de novos domínios que venham a ser contratados durante a vigência do contrato, pelo período de 24 (vinte e quatro) meses, contemplando ainda suporte técnico, atualização de registros DNS, garantia de disponibilidade e funcionamento contínuo dos serviços vinculados aos domínios.",
-              "unidade": "SER",
-              "quantidade": "4,00",
-              "valor_referencia": "173,55"
-            },
-            {
-              "numero": "2",
-              "especificacao": "200100003 HOSPEDAGEM DOS WEBSITES:Gerenciarhospedagem instituída pelo Parque Tecnológico desta prefeitura, com manutenção e suporte das plataformas existentes e de novas contratações. Armazenamento mínimo de 150 GB SSD, Contas de e-mail Ilimitadas, Site Ilimitados, 500 mil de arquivos (Inodes), Memória RAM DDR4 ou superior, 50 conexões com o banco de dados, 50 Processos Simultâneos, Instalador automático Softaculous, Criador de Sites Rápido Grátis, SSL grátis para todos domínios e subdomínios, Painel de Controle.Pelo período de 24 (vinte e quatro) meses.",
-              "unidade": "SER",
-              "quantidade": "48,00",
-              "valor_referencia": "212,33"
-            },
-            {
-              "numero": "3",
-              "especificacao": "200100004 VIRTUALIZAÇÃO EM NUVEM NÍVEL 1:O serviçodeverá ser prestado em ambiente virtualizado do tipo VPS ou Cloud, com infraestrutura dedicada contendo, no mínimo, 4 vCPU, 16 GB de memória RAM, armazenamento mínimo de 200 GB em NVMe, 16 TB de largura de banda ou ilimitada, link de conexão de no mínimo 1 Gbps e endereço IPv4 público dedicado; deverá operar em sistema operacional Linux (preferencialmente Ubuntu Server, Debian ou CentOS), com acesso administrativo (root) ou painel de gerenciamento, suporte a serviços web como Apache ou Nginx, PHP e bancos de dados MySQL/MariaDB ou PostgreSQL, garantindo compatibilidade com aplicações institucionais; deverá assegurar disponibilidade mínima de 99,5% mensal, com monitoramento ativo 24x7, tempo de resposta para incidentes críticos de até 2 horas e solução em até 8 horas; contemplar mecanismos de segurança, incluindo firewall, proteção contra ataques DDoS, certificado SSL válido, atualizações periódicas e controle de acesso seguro; executar rotinas de backup automático diário com retenção mínima de 7 dias, 1 snapshot, armazenamento em ambiente segregado e possibilidade de restauração sob demanda; bem como disponibilizar suporte técnico remoto em horário comercial e atendimento emergencial 24x7, por meio de canais como email, telefone ou sistema de chamados, com equipe técnica especializada, incluindo ainda os serviços de implantação, configuração inicial, migração de dados sem custo adicional, monitoramento contínuo e manutenção preventiva e corretiva do ambiente. Pelo período de 24 (vinte e quatro) meses.",
-              "unidade": "SER",
-              "quantidade": "72,00",
-              "valor_referencia": "174,45"
-            },
-            {
-              "numero": "4",
-              "especificacao": "200100005 VIRTUALIZAÇÃO EM NUVEM NÍVEL 2:O serviçodeverá ser prestado em ambiente virtualizado do tipo VPS ou Cloud, com infraestrutura dedicada contendo, no mínimo, 8 vCPU, 32 GB de memória RAM, armazenamento mínimo de 400 GB em NVMe, 32 TB de largura de banda ou ilimitada, link de conexão de no mínimo 1 Gbps e endereço IPv4 público dedicado; deverá operar em sistema operacional Linux (preferencialmente Ubuntu Server, Debian ou CentOS), com acesso administrativo (root) ou painel de gerenciamento, suporte a serviços web como Apache ou Nginx, PHP e bancos de dados MySQL/MariaDB ou PostgreSQL, garantindo compatibilidade com aplicações institucionais; deverá assegurar disponibilidade mínima de 99,5% mensal, com monitoramento ativo 24x7, tempo de resposta para incidentes críticos de até 2 horas e solução em até 8 horas; contemplar mecanismos de segurança, incluindo firewall, proteção contra ataques DDoS, certificado SSL válido,",
-              "unidade": "SER",
-              "quantidade": "96,00",
-              "valor_referencia": "202,23"
             }
           ]
         }
@@ -269424,1075 +269151,6 @@
       ]
     },
     {
-      "id": "PE-090-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "342 / 2026",
-      "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "PUBLICADO",
-      "condutor": "JONATAS DA SILVA SOUSA",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO PARCELADA",
-      "publicacao": "03/06/2026 16:17",
-      "inicio_recepcao": "09/06/2026 08:30",
-      "fim_recepcao": "19/06/2026 13:45",
-      "inicio_disputa": "19/06/2026 14:00",
-      "objeto": "Contratação de empresa especializada em fornecimento de TECIDOS E LUVAS (material de consumo), a fim de atender às demandas da Secretaria Municipal de Educação.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DfNUS3O4oCf9QZfEQMqLsJuinbP%2FUh_flKqf19xvnuuftzzCtu3oyOvu8J3S0sICmgQbzEaKa9pe%2F0iUhwKMNLLP2ztdb97zMbfJbrxbzQs8%3D",
-      "total_lotes": 18,
-      "total_itens": 18,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "8300500037 Cetim:tecido sintético em cores diversas a serem indicadas no momento da contratação e emissão de OFs, de superfície brilhante e toque suave, composto por 100% poliéster, com gramatura de 90 g/m² e largura de 1,40m. Adequado para confecção de f",
-          "fase": "PUBLICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "8300500037 Cetim:tecido sintético em cores diversas a serem indicadas no momento da contratação e emissão de OFs, de superfície brilhante e toque suave, composto por 100% poliéster, com gramatura de 90 g/m² e largura de 1,40m. Adequado para confecção de figurinos, painéis decorativos, fundos de palco, adereços cênicos e ambientação de espaços escolares e institucionais. O tecido deverá apresentar estrutura uniforme, sem falhas de tecelagem, desfiados, furos, rasgos, manchas ou variações acentuadas de tonalidade dentro do mesmo lote, garantindo padrão estético contínuo. O fornecimento deverá ocorrer em metro linear, em rolos ou peças contínuas, sem emendas na área útil, com cortes retos e bordas íntegras, apto ao uso imediato em eventos institucionais, atividades pedagógicas, solenidades e demais ações da Rede Municipal de Educação.",
-              "unidade": "M",
-              "quantidade": "400,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "2",
-          "titulo": "8300500038 Malha:incluindo variações com elastano (tipo Lycra), em cores diversas a serem indicadas no momento da contratação e emissão de OFs, de malha circular, composta por poliéster ou poliamida com elastano, com boa elasticidade e recuperação, gramat",
-          "fase": "PUBLICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "8300500038 Malha:incluindo variações com elastano (tipo Lycra), em cores diversas a serem indicadas no momento da contratação e emissão de OFs, de malha circular, composta por poliéster ou poliamida com elastano, com boa elasticidade e recuperação, gramatura de 180 g/m² e largura de 1,50 m.Indicada para figurinos infantis e adultos, roupas temáticas, adereços cênicos e elementos decorativos que exijam mobilidade e ajuste ao corpo em apresentações, projetos pedagógicos e eventos escolares. O tecido deve apresentar superfície regular, sem furos, rasgos, bolinhas (pilling), manchas ou deformações, mantendo conforto, resistência e segurança no uso por estudantes e profissionais. O fornecimento será em metro linear, em rolos contínuos, sem emendas na extensão útil, com cortes precisos e acondicionamento adequado, de forma a atender às demandas recorrentes de ornamentação e atividades pedagógicas da Rede Municipal de Educação.",
-              "unidade": "M",
-              "quantidade": "400,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "3",
-          "titulo": "8300500039 Oxford:tecido sintético em cores diversas a serem indicadas no momento da contratação e emissão de OFs, composto predominantemente por poliéster, com entrelaçamento firme, gramatura de 110 g/m² e largura de 1,50 m. Indicado para confecção de un",
-          "fase": "PUBLICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "8300500039 Oxford:tecido sintético em cores diversas a serem indicadas no momento da contratação e emissão de OFs, composto predominantemente por poliéster, com entrelaçamento firme, gramatura de 110 g/m² e largura de 1,50 m. Indicado para confecção de uniformes simples, toalhas, painéis, bandeiras, fundos de palco, faixas e outros elementos decorativos utilizados em eventos institucionais, reuniões, formaturas, feiras pedagógicas e ações de integração com a comunidade escolar. O tecido deverá ser resistente, com acabamento opaco, textura homogênea, boa estabilidade dimensional e ausência de furos, rasgos, manchas, falhas de tecelagem ou desbotamento acentuado. O fornecimento ocorrerá em metro linear, em rolos contínuos, sem emendas na área útil, garantindo durabilidade e padrão visual compatível com a relevância das atividades desenvolvidas na Rede Municipal de Ensino.",
-              "unidade": "M",
-              "quantidade": "750,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "4",
-          "titulo": "37330 Tule:tecido leve em cores diversas a serem indicadas no momento da contratação e emissão de OFs, de malha aberta, fino, transparente e maleável, composto por 100% poliamida ou poliéster, com largura de 1,40 m. Destinado à confecção de saias volumosa",
-          "fase": "PUBLICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37330 Tule:tecido leve em cores diversas a serem indicadas no momento da contratação e emissão de OFs, de malha aberta, fino, transparente e maleável, composto por 100% poliamida ou poliéster, com largura de 1,40 m. Destinado à confecção de saias volumosas, sobreposições de figurinos, cenários, arranjos decorativos e demais elementos utilizados em apresentações culturais, eventos comemorativos, festas escolares e projetos pedagógicos temáticos. O tule deverá apresentar malha uniforme, sem rasgos, furos, deformações, fios rompidos ou manchas, proporcionando bom caimento e efeito visual adequado sob iluminação de palco ou ambientes internos. O fornecimento será realizado em metro linear, em rolos ou peças contínuas, preferencialmente sem emendas na área útil, prontos para uso em ornamentação e ambientação no âmbito da Rede Municipal de Educação.",
-              "unidade": "M",
-              "quantidade": "400,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "5",
-          "titulo": "37331 Juta:tecido de origem natural, em cores diversas a serem indicadas no momento da contratação e emissão de OFs, de aspecto rústico, fabricado com fibras vegetais, com gramatura elevada em torno de 300 g/m² e largura de 1,40 m. Indicado para decoração",
-          "fase": "PUBLICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37331 Juta:tecido de origem natural, em cores diversas a serem indicadas no momento da contratação e emissão de OFs, de aspecto rústico, fabricado com fibras vegetais, com gramatura elevada em torno de 300 g/m² e largura de 1,40 m. Indicado para decoração temática, cenários com apelo rústico, painéis, revestimento de mesas, stands e atividades de artesanato em feiras pedagógicas, projetos culturais, festas juninas e demais eventos escolares. O tecido deverá apresentar trama firme, boa resistência mecânica, baixa quantidade de impurezas, sem rasgos excessivos, furos significativos, manchas intensas ou odores não característicos do material. O fornecimento ocorrerá em metro linear, em peças contínuas, garantindo segurança no manuseio e qualidade visual condizente com a proposta educativa, cultural e institucional da Rede Municipal de Ensino.",
-              "unidade": "M",
-              "quantidade": "400,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "6",
-          "titulo": "37332 Algodão cru:tecido plano em cores diversas a serem indicadas no momento da contratação e emissão de OFs (preferencialmente naturais ou em tons claros), 100% algodão, sem tingimento intenso ou acabamento químico agressivo, com gramatura de 150 g/m² e",
-          "fase": "PUBLICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37332 Algodão cru:tecido plano em cores diversas a serem indicadas no momento da contratação e emissão de OFs (preferencialmente naturais ou em tons claros), 100% algodão, sem tingimento intenso ou acabamento químico agressivo, com gramatura de 150 g/m² e largura de 1,40 m. Destinado à realização de atividades educativas, artísticas e artesanais, como pintura, colagem, produção de painéis, cenários, banners e peças decorativas para uso em salas de aula, corredores, auditórios e demais espaços escolares. O tecido deverá apresentar superfície homogênea, estrutura firme, sem furos, rasgos, manchas significativas, deformações ou odores intensos, permitindo escrita, pintura e colagem com boa aderência. O fornecimento será em metro linear, em peças contínuas, com cortes retos, apto ao uso por estudantes e equipes pedagógicas em projetos escolares e eventos institucionais.",
-              "unidade": "M",
-              "quantidade": "400,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "7",
-          "titulo": "37333 Oxford xadrez:variação estampada do tecido Oxford, em padrão xadrez e cores diversas, composto por 100% poliéster, com gramatura de 110 g/m² e largura de 1,50 m. Adequado para composições temáticas, decoração de festas escolares (como festas juninas",
-          "fase": "PUBLICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37333 Oxford xadrez:variação estampada do tecido Oxford, em padrão xadrez e cores diversas, composto por 100% poliéster, com gramatura de 110 g/m² e largura de 1,50 m. Adequado para composições temáticas, decoração de festas escolares (como festas juninas), confecção de toalhas, bandeirolas, aventais, detalhes de figurinos e elementos visuais utilizados em projetos pedagógicos que envolvam ambientação de espaços. A estampa deverá ser regular, sem falhas de impressão, sem desbotamento acentuado ou diferenças marcantes de tonalidade entre rolos do mesmo lote. O fornecimento deve ser em metro linear, em rolos contínuos, sem emendas na área útil, livre de furos, rasgos, manchas e falhas de tecelagem, garantindo acabamento visual adequado às ações educativas e culturais da Rede Municipal de Ensino.",
-              "unidade": "M",
-              "quantidade": "400,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "8",
-          "titulo": "8300500040 TNT (tecido não tecido):material sintético em cores diversas a serem indicadas no momento da contratação e emissão de OFs, produzido por agulhamento ou colagem de fibras, com gramatura entre 40 g/m² e 80 g/m² e largura de 1,40m. Amplamente uti",
-          "fase": "PUBLICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "8300500040 TNT (tecido não tecido):material sintético em cores diversas a serem indicadas no momento da contratação e emissão de OFs, produzido por agulhamento ou colagem de fibras, com gramatura entre 40 g/m² e 80 g/m² e largura de 1,40m. Amplamente utilizado para decoração de ambientes escolares, revestimento de painéis, confecção de fundos de palco, faixas, molduras, elementos cenográficos e partes de figurinos de uso pontual em atividades pedagógicas e culturais. O material deverá apresentar superfície uniforme, sem rasgos, furos, falhas na estrutura, manchas intensas ou acúmulo excessivo de partículas soltas, garantindo segurança e facilidade de manuseio. O fornecimento será em metro linear, em rolos contínuos, com cortes retos e acondicionamento adequado, destinado ao atendimento das demandas de ornamentação, ambientação e execução de projetos e eventos no âmbito da Rede Municipal de Educação.",
-              "unidade": "M",
-              "quantidade": "400,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "9",
-          "titulo": "37334 Feltro:tecido denso e macio em cores diversas a serem indicadas no momento da contratação e emissão de OFs, composto por fibras sintéticas ou naturais prensadas, com gramatura de 300 g/m² e largura de 1,40 m. Indicado para trabalhos de artesanato, p",
-          "fase": "PUBLICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37334 Feltro:tecido denso e macio em cores diversas a serem indicadas no momento da contratação e emissão de OFs, composto por fibras sintéticas ou naturais prensadas, com gramatura de 300 g/m² e largura de 1,40 m. Indicado para trabalhos de artesanato, produção de painéis decorativos, letras e figuras recortadas, confecção de máscaras, adereços, elementos estruturais de figurinos e materiais de apoio visual utilizados em atividades pedagógicas, apresentações artísticas e eventos escolares. O feltro deverá apresentar superfície uniforme, sem furos, rasgos, manchas, deformações, odores intensos ou excesso de resíduos soltos, permitindo cortes limpos e boa fixação com colas ou costuras. O fornecimento será em metro linear, em cortes contínuos, sem emendas na área útil, garantindo durabilidade, segurança no manuseio e qualidade estética compatível com as ações da Rede Municipal de Ensino.",
-              "unidade": "M",
-              "quantidade": "400,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "10",
-          "titulo": "37335 Organza:tecido leve em cores diversas a serem indicadas no momento da contratação e emissão de OFs, translúcido, armável, com brilho moderado, composto por fibras sintéticas à base de poliéster, com gramatura de 40 g/m² e largura de 1,40m. Destinad",
-          "fase": "PUBLICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37335 Organza:tecido leve em cores diversas a serem indicadas no momento da contratação e emissão de OFs, translúcido, armável, com brilho moderado, composto por fibras sintéticas à base de poliéster, com gramatura de 40 g/m² e largura de 1,40m. Destinado à confecção de sobreposições, laços, cortinas decorativas, saias de mesa, detalhes de figurinos, arranjos e outros elementos de embelezamento utilizados em eventos escolares, solenidades institucionais, apresentações culturais e projetos pedagógicos que demandem efeito visual delicado e sofisticado. O tecido deverá apresentar estrutura regular, boa estabilidade para montagem de arranjos, caimento compatível com uso decorativo, sem fios soltos, rasgos, furos, manchas, desbotamento acentuado ou falhas de tecelagem. O fornecimento será em metro linear, em rolos ou peças contínuas, com cortes retos, pronto para uso na ornamentação deambientes da Rede Municipal de Educação.",
-              "unidade": "M",
-              "quantidade": "400,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "11",
-          "titulo": "8300500041 Tricoline:tecido plano 100% algodão: em cores lisas e/ou estampas variadas adequadas ao ambiente escolar, com gramatura de 120 g/m² e largura de 1,40 m. Indicado para confecção de painéis pedagógicos, bandeirolas, letras e figuras aplicadas, fr",
-          "fase": "PUBLICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "8300500041 Tricoline:tecido plano 100% algodão: em cores lisas e/ou estampas variadas adequadas ao ambiente escolar, com gramatura de 120 g/m² e largura de 1,40 m. Indicado para confecção de painéis pedagógicos, bandeirolas, letras e figuras aplicadas, fronhas decorativas, elementos de identificação visual, adereços cênicos e itens de artesanato escolar utilizados em projetos didáticos, festas temáticas e atividades de valorização do ambiente educacional. O tecido deverá apresentar toque macio, boa estabilidade dimensional, superfície homogênea, sem furos, rasgos, manchas, falhas de estamparia, deformações ou odores intensos, permitindo costura, colagem e aplicação de técnicas de pintura e bordado de forma satisfatória. O fornecimento ocorrerá em metro linear, em rolos ou peças contínuas, sem emendas na área útil, com cortes retos e acondicionamento adequado, apto ao uso imediato em ações educativas, culturais e de ornamentação dos espaços escolares da Rede Municipal de Educação.",
-              "unidade": "M",
-              "quantidade": "400,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "12",
-          "titulo": "37336 Corino sintético:tecido sintético impermeável em cores diversas a serem indicadas no momento da contratação e emissão de OFs, composto por PVC com base têxtil (50% PVC / 50% substrato), espessura entre 0,20 mm e 0,30 mm, gramatura média de 300 a 400",
-          "fase": "PUBLICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37336 Corino sintético:tecido sintético impermeável em cores diversas a serem indicadas no momento da contratação e emissão de OFs, composto por PVC com base têxtil (50% PVC / 50% substrato), espessura entre 0,20 mm e 0,30 mm, gramatura média de 300 a 400 g/m² e largura de 1,40 m. Indicado para confecção de capas protetoras, estofados, painéis decorativos, elementos cenográficos e ambientação de espaços escolares em eventos institucionais, atividades pedagógicas e solenidades da Rede Municipal de Educação. O material deve apresentar superfície lisa e uniforme, resistente a manchas, água e riscos leves, sem falhas de laminação, bolhas, rasgos, furos ou variações acentuadas de tonalidade no mesmo lote, garantindo durabilidade e padrão estético contínuo. Fornecimento em rolos contínuos sem emendas na área útil, cortes retos e embalagem adequada para uso imediato.",
-              "unidade": "M",
-              "quantidade": "400,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "13",
-          "titulo": "9900515618 Par de luvas destinadas à composição de uniforme oficial para bandas marciais:confeccionadas em tecido de algodão, proporcionando conforto, respirabilidade e adequada mobilidade das mãos durante apresentações, ensaios e desfiles; produzida em a",
-          "fase": "PUBLICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900515618 Par de luvas destinadas à composição de uniforme oficial para bandas marciais:confeccionadas em tecido de algodão, proporcionando conforto, respirabilidade e adequada mobilidade das mãos durante apresentações, ensaios e desfiles; produzida em algodão ou material predominantemente composto por fibras de algodão, de toque macio, resistente ao uso contínuo, permitindo adequada ventilação das mãos e absorção de umidade. Deverá apresentar cor branca uniforme, sem manchas, variações de tonalidade, transparência excessiva ou imperfeições aparentes, mantendo padrão estético compatível com uniformização de banda marcial. O modelo deverá ser anatômico, fechado, com dedos completos. deverão possuir costuras reforçadas, acabamento resistente e ausência de fios soltos, rasgos, deformações ou defeitos de fabricação, devendo suportar lavagens sucessivas sem perda significativa de formato, elasticidade ou coloração. O punho deverá possuir acabamento reforçado, podendo conter elástico ou sistema equivalente que assegure ajuste firme ao pulso, evitando deslocamentos durante o uso e contribuindo para melhor acabamento visual do uniforme. Os tamanhos serão definidos pela Secretaria no momento da solicitação e emissão da Ordem de Fornecimento, conforme a necessidade dos usuários, devendo ser disponibilizados variados tamanhos, abrangendo medidas infantis e adultas, de modo a atender adequadamente aos integrantes da banda marcial.",
-              "unidade": "PAR",
-              "quantidade": "1.000,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "14",
-          "titulo": "37337 Tecido tipo chita:em cores e estampas variadas a serem definidas no momento da contratação e emissão das Ordens de Fornecimento, composto predominantemente por fibras de algodão ou mistura com fibras sintéticas, de gramatura média aproximada entre 1",
-          "fase": "PUBLICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37337 Tecido tipo chita:em cores e estampas variadas a serem definidas no momento da contratação e emissão das Ordens de Fornecimento, composto predominantemente por fibras de algodão ou mistura com fibras sintéticas, de gramatura média aproximada entre 120 g/m² e 180 g/m² e largura mínima de 1,40m. Caracteriza-se por apresentar estampas vivas, florais ou temáticas, com boa fixação de cor e resistência ao uso. O tecido deverá apresentar superfície uniforme, sem falhas de estamparia, desbotamento acentuado, rasgos, furos, manchas ou defeitos de fabricação. O fornecimento deverá ocorrer em metro linear, em peças contínuas, com cortes retos e sem emendas na área útil, pronto para uso em atividades educacionais e eventos institucionais.",
-              "unidade": "M",
-              "quantidade": "400,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "15",
-          "titulo": "37338 Tecido tipo helanca:malha sintética de alta resistência, em cores diversas a serem definidas no momento da contratação e emissão das Ordens de Fornecimento, composto predominantemente por poliéster, podendo conter elastano em sua composição, com gra",
-          "fase": "PUBLICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37338 Tecido tipo helanca:malha sintética de alta resistência, em cores diversas a serem definidas no momento da contratação e emissão das Ordens de Fornecimento, composto predominantemente por poliéster, podendo conter elastano em sua composição, com gramatura média aproximada entre 120 g/m² e 200 g/m² e largura mínima de 1,50 m. Apresenta boa elasticidade, durabilidade, resistência ao desgaste e fácil manutenção. O tecido deverá possuir superfície regular, sem bolinhas (pilling), rasgos, furos, manchas ou deformações, garantindo qualidade e segurança no uso. O fornecimento será em metro linear, em rolos ou peças contínuas, sem emendas na área útil, com cortes precisos e acondicionamento adequado.",
-              "unidade": "M",
-              "quantidade": "400,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "16",
-          "titulo": "37339 Tecido tipo brim leve:em cores diversas a serem definidas no momento da contratação e emissão das Ordens de Fornecimento, composto predominantemente por algodão ou mistura com poliéster, com gramatura aproximada entre 180 g/m² e 250 g/m² e largura m",
-          "fase": "PUBLICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37339 Tecido tipo brim leve:em cores diversas a serem definidas no momento da contratação e emissão das Ordens de Fornecimento, composto predominantemente por algodão ou mistura com poliéster, com gramatura aproximada entre 180 g/m² e 250 g/m² e largura mínima de 1,40 m. Caracteriza-se por apresentar resistência mecânica moderada, boa durabilidade e conforto térmico. O tecido deverá apresentar trama uniforme, sem falhas de tecelagem, rasgos, furos, manchas ou desbotamento acentuado, garantindo acabamento adequado e resistência ao uso contínuo e lavagens. O fornecimento deverá ocorrer em metro linear, em peças contínuas, com cortes retos, sem emendas na área útil e devidamente acondicionado.",
-              "unidade": "M",
-              "quantidade": "400,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "17",
-          "titulo": "37340 Tecido alvejado:plano, em cor clara (predominantemente branca), composto por fibras de algodão ou mistura com fibras sintéticas, submetido a processo de alvejamento para remoção de impurezas e padronização de tonalidade, com gramatura aproximada ent",
-          "fase": "PUBLICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37340 Tecido alvejado:plano, em cor clara (predominantemente branca), composto por fibras de algodão ou mistura com fibras sintéticas, submetido a processo de alvejamento para remoção de impurezas e padronização de tonalidade, com gramatura aproximada entre 100 g/m² e 200 g/m² e largura mínima de 1,40m. O material deverá apresentar superfície uniforme, sem manchas, odores, resíduos químicos excessivos, rasgos, furos ou falhas de tecelagem, garantindo boa absorção e aderência para tintas e outros materiais. O fornecimento será em metro linear, em peças contínuas, com cortes retos e sem emendas na área útil.",
-              "unidade": "M",
-              "quantidade": "400,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "18",
-          "titulo": "37341 Tecido com aplicação de paetês:em cores diversas a serem definidas no momento da contratação e emissão das Ordens de Fornecimento, composto por base têxtil sintética (poliéster ou poliamida) com superfície revestida por paetês fixados de forma unifo",
-          "fase": "PUBLICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37341 Tecido com aplicação de paetês:em cores diversas a serem definidas no momento da contratação e emissão das Ordens de Fornecimento, composto por base têxtil sintética (poliéster ou poliamida) com superfície revestida por paetês fixados de forma uniforme, podendo ser liso ou reversível, com largura mínima de 1,30 m. O material deverá apresentar fixação firme dos paetês, sem desprendimento excessivo, falhas de aplicação, rasgos, furos ou deformações, garantindo efeito visual uniforme e durabilidade no uso. O fornecimento será em metro linear, em peças contínuas, devidamente acondicionadas, com cortes regulares e sem emendas na área útil.",
-              "unidade": "M",
-              "quantidade": "400,00",
-              "valor_referencia": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "PE-089-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "382 / 2026",
-      "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "PUBLICADO",
-      "condutor": "SERGIO CARNEIRO CAVALCANTI DE AZEVEDO",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO PARCELADA",
-      "publicacao": "03/06/2026 11:50",
-      "inicio_recepcao": "09/06/2026 08:30",
-      "fim_recepcao": "19/06/2026 09:15",
-      "inicio_disputa": "19/06/2026 09:30",
-      "objeto": "Contratação de empresa especializada em fornecimento de extintores de incêndio, suportes e em prestação de serviços técnicos continuados de inspeção, recarga e manutenção desses equipamentos, a fim de atender as demandas da Secretaria Municipal de Administração e demais Secretarias",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5D2FhZlSVK0LPgHK5nclBtC03jToYUlSdu6FCnG0v2sVavtBtDImeAuyltphXgeX2JNea5hsPi%2F2RJnlGcyehmma%2FeFz9OV0Iy%2Fwo3XuYhi8Y%3D",
-      "total_lotes": 6,
-      "total_itens": 11,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "EXTINTOR",
-          "fase": "PUBLICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 2,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "402300001 EXTINTOR:Pó químico seco (PQS); ABC; 06 kg; 4A- 40BC; com carga; rótulo em português; com instruções de uso; validade e garantia; selo de certificação INMETRO e em conformidade com a ABNT-NBR 15808;",
-              "unidade": "Und.",
-              "quantidade": "1.350,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "2",
-              "especificacao": "402300004 RECARGA:De extintor; 06 kg; tipo ABC; manutenção tipo II",
-              "unidade": "Und.",
-              "quantidade": "730,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "2",
-          "titulo": "EXTINTOR",
-          "fase": "PUBLICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 2,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37201 EXTINTOR:Gás carbônico (CO2); 04 kg; 5B; com carga; rótulo em português; com instruções de uso; validade e garantia; selo de certificação ABNT-NBR 15808; INMETRO",
-              "unidade": "Und.",
-              "quantidade": "400,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "2",
-              "especificacao": "402300005 RECARGA:De extintor; 04 kg; gás carbônico (CO2); manutenção tipo II.",
-              "unidade": "Und.",
-              "quantidade": "185,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "3",
-          "titulo": "EXTINTOR",
-          "fase": "PUBLICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 2,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "402300002 EXTINTOR:Gás carbônico (CO2); 06 kg; 5B; com carga; rótulo em português; com instruções de uso; validade e garantia; selo de certificação ABNT-NBR 15808; INMETRO",
-              "unidade": "Und.",
-              "quantidade": "600,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "2",
-              "especificacao": "37207 RECARGA:De extintor; 06 kg; gás carbônico (CO2); manutenção tipo II.",
-              "unidade": "Und.",
-              "quantidade": "300,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "4",
-          "titulo": "EXTINTOR",
-          "fase": "PUBLICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 2,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37204 EXTINTOR:Pó químico seco (PQS); BC; 06 kg; 20BC; com carga; rótulo em português; com instruções de uso; validade e garantia; selo de certificação ABNT-NBR 15808; INMETRO",
-              "unidade": "Und.",
-              "quantidade": "800,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "2",
-              "especificacao": "402300006 RECARGA:De extintor; 06 kg; pó químico; tipo BC; manutenção tipo II.",
-              "unidade": "Und.",
-              "quantidade": "520,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "5",
-          "titulo": "EXTINTOR",
-          "fase": "PUBLICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 2,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "402300003 EXTINTOR:De extintor; 10 Litros; água pressurizada; tipo AP; manômetro para verificação de pressão e capacidade extintora de 2-A ou 3B; com carga; rótulo em português; com instruções de uso; validade e garantia; selo de certificação ABNT- NBR 15808; INMETRO",
-              "unidade": "Und.",
-              "quantidade": "750,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "2",
-              "especificacao": "37208 RECARGA:De extintor; 10 Litros; água pressurizada; tipo AP; manutenção tipo II.",
-              "unidade": "Und.",
-              "quantidade": "260,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "6",
-          "titulo": "EXTINTOR",
-          "fase": "PUBLICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37209 SUPORTE:De parede; para extintor; chapa em aço carbono zincado; mínimo 06 kg; tipo ABC; BC; CO2.EXCLUSIVO PARA ME/EPP.",
-              "unidade": "Und.",
-              "quantidade": "1.250,00",
-              "valor_referencia": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "PE-058-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "402 / 2026",
-      "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "PUBLICADO",
-      "condutor": "SERGIO CARNEIRO CAVALCANTI DE AZEVEDO",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO PARCELADA",
-      "publicacao": "03/06/2026 10:56",
-      "inicio_recepcao": "09/06/2026 08:30",
-      "fim_recepcao": "19/06/2026 08:15",
-      "inicio_disputa": "19/06/2026 08:30",
-      "objeto": "Contratação de empresa especializada em fornecimento de BEBEDOUROS (material permanente), a fim de atender as demandas da Secretaria Municipal de Administração e demais secretarias.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5D2y8yAeCisg0ezfaoXpwR83FAucme9Auza7RoCyQNyOf8f7MQas7cRsJWchRtDldtjaxe3a6pFgNaKKdHH6Pd%2Fn5un4H7LJPStwUB1BtUtdg%3D",
-      "total_lotes": 6,
-      "total_itens": 6,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "9900830485 BEBEDOURO COMPACTO:Com suporte para galão de água mineral compatível de 10L e 20L; gabinete em aço tratado contra corrosão com tampo superior e frontal em plástico resistente; 02 torneiras, com saídas de água gelada ou natural; reservatório int",
-          "fase": "PUBLICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900830485 BEBEDOURO COMPACTO:Com suporte para galão de água mineral compatível de 10L e 20L; gabinete em aço tratado contra corrosão com tampo superior e frontal em plástico resistente; 02 torneiras, com saídas de água gelada ou natural; reservatório interno em plástico atóxico; serpentina externa; sistema de refrigeração sem CFC; capacidade mínima de armazenamento de 2 litros; alimentação elétrica de 220V ou bivolt; dimensões aproximadas (AxLxP): 41x32x34 cm.EXCLUSIVO PARA ME/EPP.",
-              "unidade": "UND",
-              "quantidade": "32,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "2",
-          "titulo": "9900830486 BEBEDOURO DE COLUNA:Com suporte para galão de água mineral compatível de 10 L e 20 L; gabinete em aço inoxidável com tampa e base injetadas; 02 torneiras; saídas de água gelada ou natural; controle manual de temperatura; sistema de refrigeração",
-          "fase": "PUBLICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900830486 BEBEDOURO DE COLUNA:Com suporte para galão de água mineral compatível de 10 L e 20 L; gabinete em aço inoxidável com tampa e base injetadas; 02 torneiras; saídas de água gelada ou natural; controle manual de temperatura; sistema de refrigeração sem CFC; reservatório interno em material atóxico; serpentina externa; estrutura resistente à oxidação; capacidade de armazenamento mínima de 2 litros; capacidade de resfriamento de até 10°C; vazão nominal mínima de 40L/h; tomada com três pinos; classe 1; IPX0 (uso interno); alimentação elétrica de 220V ou bivolt; dimensões aproximadas (AxLxP): 93x30x36 cm.",
-              "unidade": "UND",
-              "quantidade": "90,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "3",
-          "titulo": "9900830487 BEBEDOURO INDUSTRIAL ELETRICO - 4TORNEIRAS:industrial, elétrico, com 4 torneiras, aparador de agua frontal, com revestimento externo em chapa inox, capacidade 200 litros no reservatório, serpentina interna em aço inox 304, tensão 220V, com fil",
-          "fase": "PUBLICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900830487 BEBEDOURO INDUSTRIAL ELETRICO - 4TORNEIRAS:industrial, elétrico, com 4 torneiras, aparador de agua frontal, com revestimento externo em chapa inox, capacidade 200 litros no reservatório, serpentina interna em aço inox 304, tensão 220V, com filtro incluso, isolamento térmico injetado em poliuretano expandido. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "UND",
-              "quantidade": "28,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "4",
-          "titulo": "9900830488 BEBEDOURO INDUSTRIAL:De coluna; 3 torneiras; aparador de água frontal; revestimento externo em chapa inox; reservatório com capacidade mínima de 100 litros, fabricado 100% em aço inox; refrigeração 10 l/h; filtro de carvão ativado; tensão de 22",
-          "fase": "PUBLICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900830488 BEBEDOURO INDUSTRIAL:De coluna; 3 torneiras; aparador de água frontal; revestimento externo em chapa inox; reservatório com capacidade mínima de 100 litros, fabricado 100% em aço inox; refrigeração 10 l/h; filtro de carvão ativado; tensão de 220V; baixo consumo de energia; adequado para gás ecológico.",
-              "unidade": "UND",
-              "quantidade": "63,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "5",
-          "titulo": "37385 BEBEDOURO DE COLUNA::Com suporte paragalão de água mineral compatível de 10 L e 20 L; gabinete emaço inoxidável com tampa e base injetadas; 02 torneiras; saídas de água gelada ou natural; controle manual de temperatura; sistema de refrigeração sem",
-          "fase": "PUBLICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37385 BEBEDOURO DE COLUNA::Com suporte paragalão de água mineral compatível de 10 L e 20 L; gabinete emaço inoxidável com tampa e base injetadas; 02 torneiras; saídas de água gelada ou natural; controle manual de temperatura; sistema de refrigeração sem CFC; reservatório interno emmaterial atóxico; serpentina externa; estrutura resistente àoxidação; capacidade de armazenamento mínima de 2 litros; capacidade de resfriamento de até 10°C; vazão nominal mínimade 40L/h; tomada com três pinos; classe 1; IPX0 (uso interno); alimentação elétrica de 220V ou bivolt; dimensões aproximadas(AxLxP): 93x30x36 cm. COTA 25% PARA ME/EPP.",
-              "unidade": "Und.",
-              "quantidade": "30,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "6",
-          "titulo": "37386 BEBEDOURO INDUSTRIAL::De coluna; 3 torneiras; aparador de água frontal; revestimento externo em chapa inox; reservatório com capacidade mínima de 100 litros, fabricado100% em aço inox; refrigeração 10 l/h; filtro de carvão ativado;tensão de 220V;",
-          "fase": "PUBLICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37386 BEBEDOURO INDUSTRIAL::De coluna; 3 torneiras; aparador de água frontal; revestimento externo em chapa inox; reservatório com capacidade mínima de 100 litros, fabricado100% em aço inox; refrigeração 10 l/h; filtro de carvão ativado;tensão de 220V; baixo consumo de energia; adequado para gás ecológico. COTA 25% PARA ME/EPP.",
-              "unidade": "Und.",
-              "quantidade": "21,00",
-              "valor_referencia": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "PE-047-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "123/2026",
-      "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "JULGAMENTO",
-      "condutor": "JONATAS DA SILVA SOUSA",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO PARCELADA",
-      "publicacao": "21/05/2026 13:52",
-      "inicio_recepcao": "25/05/2026 08:30",
-      "fim_recepcao": "03/06/2026 09:15",
-      "inicio_disputa": "03/06/2026 09:30",
-      "objeto": "Contratação de empresa especializada em fornecimento de insumos alimentícios e materiais complementares para panificação para o projeto padaria comunitária (material de consumo),  a fim de atender as demandas da Secretaria Municipal de Promoção Social.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DLYwU8MU718HHPxqGDWRODIAdmub5SvgIS2PC8VXvxHSGrf%2FbuJCiicmr8LSK2yWCYVKGG337Fssa5t98j7VfWI1F4M_uotVF6tT1QgLsy1c%3D",
-      "total_lotes": 1,
-      "total_itens": 31,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "INSUMOS ALIMENTÍCIOS",
-          "fase": "JULGAMENTO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "321.853,83",
-          "vencedor": "FH SUZARTE COMERCIO ALIMENTICIOS, PAPELARIA HIGIENE PESSOAL LTDA",
-          "melhor_oferta": "318.970,23",
-          "total_itens": 31,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900515348 FARINHA DE TRIGO:Farinha de trigo tipo 1, especial para panificação, em saco industrial, integro e original de fábrica com 25kg. Pó fino, branco, sem grumos ou partículas estranhas. Teor de proteína mínimo de 10%, com força do glúten(W) mínima de 190 e máxima de 220, livre de sujidades, parasitas e matérias estranhas. O acondicionamento em local seco, arejado, ao abrigo da luz e da umidade. A validade mínima de 06 meses a partir da data de entrega.",
-              "unidade": "Und.",
-              "quantidade": "1.848,00",
-              "valor_referencia": "102,91"
-            },
-            {
-              "numero": "2",
-              "especificacao": "9900515349 MELHORADOR DE FARINHA:melhorador para panificação, próprio para pão francês e pão de leite. Embalagem com 500g. Composição: Ácido ascórbico, enzimas e emulsificantes permitidos pela legislação. Pó fino, homogêneo, sem grumos, sem odor ou sabor estranho. Acondicionamento em local seco, fechado e protegido da luz. Validade Mínima de 06 meses da data de entrega.",
-              "unidade": "PC",
-              "quantidade": "500,00",
-              "valor_referencia": "20,93"
-            },
-            {
-              "numero": "3",
-              "especificacao": "9900515350 SAL:Sal refinado iodado, embalagens plásticas e lacradas de 1 kg. Composição: Cloreto de sódio com adição de iodo. Branco, fino, seco, sem impurezas. Acondicionamento em local seco e arejado. Validade mínima de 12 meses.",
-              "unidade": "KG",
-              "quantidade": "1.000,00",
-              "valor_referencia": "1,76"
-            },
-            {
-              "numero": "4",
-              "especificacao": "36857 AÇUCAR:açúcar cristal branco (sacarose de cana de açúcar) Embalagem em pacotes de 5kg, lacrados, com grãos uniformes, sem umidade, sem impurezas. Acondicionamento em local seco e ventilado. Validade mínima de 12 meses.",
-              "unidade": "PC",
-              "quantidade": "148,00",
-              "valor_referencia": "19,31"
-            },
-            {
-              "numero": "5",
-              "especificacao": "36858 LEITE ME PÓ:leite integral em pó (desidratado) instantâneo. Embalagem em pacotes de 1 kg, aluminizados ou metalizados. Deve possuir sabor natural, sem adição de açúcar. Acondicionamento em local seco, ao abrigo da luz. Validade mínima de 12 meses.",
-              "unidade": "KG",
-              "quantidade": "1.000,00",
-              "valor_referencia": "42,10"
-            },
-            {
-              "numero": "6",
-              "especificacao": "36859 MARGARINA:margarina (óleos vegetais, água, sal e emulsificantes permitidos, com teor mínimo de lipídios em 80%) própria para panificação, em balde plástico alimentício de 15 kg, com tampa, de consistência homogênea e sem ranço.Acondicionamento em local refrigerado ou em local fresco, conforme orientação do fabricante. Validade mínima de 06 meses.",
-              "unidade": "KG",
-              "quantidade": "47,00",
-              "valor_referencia": "177,86"
-            },
-            {
-              "numero": "7",
-              "especificacao": "36860 FERMENTO BIOLÓGICO SECO:fermento biológico seco instantâneo (saccharomyces cerevisiae) embalado em pacotes de 500 g, a vácuo. Acondicionamento em local seco e fresco.Validade mínima de 12 meses.",
-              "unidade": "PC",
-              "quantidade": "460,00",
-              "valor_referencia": "19,90"
-            },
-            {
-              "numero": "8",
-              "especificacao": "9900515351 ÁGUA POTÁVEL:água mineral natural sem gás (incolor, inodora e insípida), em galões de 20 litros, retornáveis e lacrados. Acondicionamento em local limpo, coberto e protegido do sol.",
-              "unidade": "GAL",
-              "quantidade": "160,00",
-              "valor_referencia": "12,75"
-            },
-            {
-              "numero": "9",
-              "especificacao": "36861 SACO DE PAPEL KRAFT:Saco kraft pardo reciclável, em pacotes c/ 500 UN, e capacidade de 2kg, conforme fornecimento comercial. Gramatura mínima de 60 g/m², resistente, sem rasgos ou perfurações",
-              "unidade": "FD",
-              "quantidade": "220,00",
-              "valor_referencia": "43,33"
-            },
-            {
-              "numero": "10",
-              "especificacao": "36862 SACO DE PAPEL KRAFT:Saco kraft pardo reciclável, em pacotes c/ 500 UN, e capacidade de 5kg, conforme fornecimento comercial. Gramatura mínima de 80 g/m², resistente, sem rasgos ou perfurações.",
-              "unidade": "FD",
-              "quantidade": "220,00",
-              "valor_referencia": "52,20"
-            },
-            {
-              "numero": "11",
-              "especificacao": "36863 OVO:Ovo de galinha classe A, frescos, íntegros, limpos, sem trincas, odor estranho ou contaminações. Cartelas com 30 unidades. Acondicionamento em cartelas lacradas e armazenadas sob refrigeração ou em local fresco e ventilado. Validade mínima conforme legislação sanitária vigente.",
-              "unidade": "CR",
-              "quantidade": "700,00",
-              "valor_referencia": "20,35"
-            },
-            {
-              "numero": "12",
-              "especificacao": "36864 ÓLEO VEGETAL:Óleo vegetal comestível refinado (soja, milho ou girassol), claro, sem resíduos, próprio para uso alimentar e em garrafa PET de 900 ml, lacrada.Acondicionamento em local seco, arejado e ao abrigo da luz. Validade mínima de 12 meses da data de entrega.",
-              "unidade": "LT",
-              "quantidade": "400,00",
-              "valor_referencia": "7,99"
-            },
-            {
-              "numero": "13",
-              "especificacao": "36865 ANTIMOFO:conservante alimentar antifúngico para panificação, conforme permitido pela legislação sanitária (ex: propionato de cálcio ou similar). Embalagem em pacotes de 1kg com pó branco, fino e solúvel, sem odor e sem grumos.Acondicionamento na embalagem original, em local seco e fechado. Validade mínima de 12 meses da entrega.",
-              "unidade": "KG",
-              "quantidade": "10,00",
-              "valor_referencia": "43,28"
-            },
-            {
-              "numero": "14",
-              "especificacao": "9900515352 FERMENTO FRESCO:fermento biológico prensado com cor clara, textura macia, odor característico e sem sinais de escurecimento ou ressecamento. Embalagem em blocos ou tabletes, totalizando 500g. Acondicionamento local refrigerado entre 4ºC e 10ºC. validade mínima de 15 dias a partir da entrega.",
-              "unidade": "PC",
-              "quantidade": "40,00",
-              "valor_referencia": "10,16"
-            },
-            {
-              "numero": "15",
-              "especificacao": "36866 LEITE INTEGRAL:leite integral UHT, com a cor branca uniforme, sabor natural e sem acidez, em caixas cartonadas de 1 litros. Acondicionamento em local seco e ventilado. Validade mínima de 06 meses da entrega.",
-              "unidade": "CX",
-              "quantidade": "300,00",
-              "valor_referencia": "5,70"
-            },
-            {
-              "numero": "16",
-              "especificacao": "9900515353 POLVILHO AZEDO:polvilho de mandioca fermentado (branco, fino, seco, sem grumos) em embalagens de 1kg. Acondicionamento em local seco e fechado. Validade mínima de 6 meses.",
-              "unidade": "KG",
-              "quantidade": "100,00",
-              "valor_referencia": "10,73"
-            },
-            {
-              "numero": "17",
-              "especificacao": "9900515354 POLVILHO DOCE:polvilho de mandioca (branco, fino, seco, sem grumos) em embalagens de 500g.Acondicionamento em local seco e fechado. Validade mínima de 6 meses.",
-              "unidade": "Und.",
-              "quantidade": "200,00",
-              "valor_referencia": "6,63"
-            },
-            {
-              "numero": "18",
-              "especificacao": "9900515355 QUEIJO:queijo do tipo muçarela (leite pasteurizado, fermentos lácteos, coalho e sal), com consistência firme, sem bolores, próprio para panificação. Peça fracionada embalada a vácuo de até 2kg. Acondicionamento refrigerado, validade mínima de 30 dias.",
-              "unidade": "KG",
-              "quantidade": "40,00",
-              "valor_referencia": "38,61"
-            },
-            {
-              "numero": "19",
-              "especificacao": "9900515356 PRESUNTO:presunto (carne suína, água, açúcar, estabilizantes, conservadores, antioxidantes e aromatizantes, todos permitidos pela legislação vigente) cozido e em peças fracionadas embaladas a vácuo de até 2kg, de consistência firme, sem bolores, próprio para panificação. Acondicionamento refrigerado, validade mínima de 30 dias.",
-              "unidade": "KG",
-              "quantidade": "40,00",
-              "valor_referencia": "28,84"
-            },
-            {
-              "numero": "20",
-              "especificacao": "9900515357 CALABRESA:carne suína, gordura suína, água, sal, açúcar, especiarias, estabilizantes, conservadores, antioxidantes e aromatizantes, todos permitidos pela legislação sanitária vigente, com consistência firme, sem bolores, próprio para panificação. Embalagens de 1kg. Acondicionamento refrigerado. Validade mínima de 30 dias.",
-              "unidade": "KG",
-              "quantidade": "80,00",
-              "valor_referencia": "29,05"
-            },
-            {
-              "numero": "21",
-              "especificacao": "36867 FERMENTO EM PÓ:fermento químico (bicarbonato de sódio, sais ácidos e amido) para bolo, pó fino e sem grumos. Pacotes de 200g. Validade mínima de 12 meses.",
-              "unidade": "Und.",
-              "quantidade": "250,00",
-              "valor_referencia": "6,25"
-            },
-            {
-              "numero": "22",
-              "especificacao": "36868 LEITE CONDENSADO:leite condensado integral (leite integral e açúcar) com textura cremosa e homogênea, cor branca e levemente amarelada, sabor doce característico e sem acidez. Caixa de 395g. Acondicionamento em local seco, fresco e protegido da luz. Validade mínima de 12 meses.",
-              "unidade": "CX",
-              "quantidade": "50,00",
-              "valor_referencia": "6,79"
-            },
-            {
-              "numero": "23",
-              "especificacao": "9900515358 CREME DE LEITE:creme de leite UTH (creme de leite e estabilizantes permitidos) com consistência cremosa, sem separação excessiva de fases, sabor suave e sem acidez. Caixa de 200 g. Acondicionamento em local seco. Validade mínima de 6 meses.",
-              "unidade": "CX",
-              "quantidade": "50,00",
-              "valor_referencia": "4,49"
-            },
-            {
-              "numero": "24",
-              "especificacao": "36869 CHOCOLATE EM PÓ:chocolate (cacau em pó e açúcar) em pó fino homogêneo e sem grumos, com no mínimo 30% de cacau. Pacotes de 1 kg. Acondicionamento em local seco.Validade mínima de 12 meses.",
-              "unidade": "KG",
-              "quantidade": "10,00",
-              "valor_referencia": "32,45"
-            },
-            {
-              "numero": "25",
-              "especificacao": "9900515359 ACHOCOLATADO:achocolatado (açúcar, cacau em pó, vitaminas e minerais) em pó solúvel, fino e de fácil dissolução. Em embalagens de 1kg. Acondicionamento em local seco e fechado. Validade mínima de 12 meses.",
-              "unidade": "Und.",
-              "quantidade": "5,00",
-              "valor_referencia": "13,11"
-            },
-            {
-              "numero": "26",
-              "especificacao": "36870 MANTEIGA:manteiga (Creme de leite pasteurizado e sal) na cor amarelo clara, consistência firme e sabor lácteo. Pote contendo 500g. Acondicionamento em local refrigerado. Validade mínima de 6 meses.",
-              "unidade": "Und.",
-              "quantidade": "40,00",
-              "valor_referencia": "25,29"
-            },
-            {
-              "numero": "27",
-              "especificacao": "36871 FUBÁ:fubá de milho fino (milho moído - amarelo claro, sem impurezas) em embalagens de 1kg. Acondicionamento em local seco e arejado. Validade mínima de 6 meses e registro.",
-              "unidade": "KG",
-              "quantidade": "50,00",
-              "valor_referencia": "4,95"
-            },
-            {
-              "numero": "28",
-              "especificacao": "36872 MILHO VERDE:milho verde em grãos, cozido e conservado (grãos inteiros, macios, de coloração amarela uniforme, livre de matérias estranhas, odores e sabores anormais), água e sal, sem adição de conservantes artificiais, conforme legislação sanitária vigente. Lata metálica contendo peso liquido de 200g. Acondicionamento em local seco e arejado. Validade mínima de 6 meses.",
-              "unidade": "Und.",
-              "quantidade": "250,00",
-              "valor_referencia": "4,01"
-            },
-            {
-              "numero": "29",
-              "especificacao": "36873 FLOCÃO:flocão de milho pré-cozido (flocos uniformes próprios para cuscuz e panificação), em embalagens de 500g. Acondicionamento em local seco e arejado. Validade mínima de 06 meses.",
-              "unidade": "PC",
-              "quantidade": "100,00",
-              "valor_referencia": "2,88"
-            },
-            {
-              "numero": "30",
-              "especificacao": "9900515360 AMIDO DE MILHO:amido de milho refinado (pó branco, fino e sem odor), em embalagens lacradas de 1kg. Acondicionamento em local seco e protegido da umidade.Validade mínima de 12 meses.",
-              "unidade": "KG",
-              "quantidade": "100,00",
-              "valor_referencia": "12,32"
-            },
-            {
-              "numero": "31",
-              "especificacao": "36875 COCO RALADO SECO:coco seco ralado sem adição de açúcar (branco, seco, sem umidade excessiva, sabor e aromas naturais), em embalagens lacradas de 100g. Composição: polpa de coco desidratada. Acondicionamento em local seco e fresco. Validade mínima de 12 meses.",
-              "unidade": "PC",
-              "quantidade": "30,00",
-              "valor_referencia": "7,13"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "PE-082-2026",
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "408 / 2026",
@@ -270531,242 +269189,6 @@
               "unidade": "UN",
               "quantidade": "220,00",
               "valor_referencia": "1.202,43"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "3-DLE-044-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "441 / 2026",
-      "modalidade": "DISPENSA ELETRÔNICA",
-      "situacao": "ADJUDICADO",
-      "condutor": "ISLA LIMA SILVA",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO PARCELADA",
-      "publicacao": "04/05/2026 11:21",
-      "inicio_recepcao": "04/05/2026 11:25",
-      "fim_recepcao": "08/05/2026 08:15",
-      "inicio_disputa": "08/05/2026 08:30",
-      "objeto": "Contratação de empresa especializada em fornecimento de MEDICAMENTOS (material de consumo),  a fim de atender as demandas da Secretaria Municipal de Saúde.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DHnRiIUk2HFqz767QGo8Id%2F8yk_%2FArXDHGK6UyXxelKNakIQLH68bF2_QMj63pJGNv6zRBQtUjPpZ4sGJ0QI%2FCFjuvpNMsvqNZqGNhyvVzbU%3D",
-      "total_lotes": 9,
-      "total_itens": 9,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "36637 ENALAPRIL:20MG. EXCLUVISO PARA ME/EPP.",
-          "fase": "ADJUDICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "2.800,00",
-          "vencedor": "CALIXTO MEDICAMENTOS LTDA",
-          "melhor_oferta": "2.400,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "36637 ENALAPRIL:20MG. EXCLUVISO PARA ME/EPP.",
-              "unidade": "CO",
-              "quantidade": "40.000,00",
-              "valor_referencia": "0,07"
-            }
-          ]
-        },
-        {
-          "numero": "2",
-          "titulo": "34796 MICONAZOL:NITRATO 2% CREME VAGINAL. EXCLUVISO PARA ME/EPP.",
-          "fase": "DESERTO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "8.380,00",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "34796 MICONAZOL:NITRATO 2% CREME VAGINAL. EXCLUVISO PARA ME/EPP.",
-              "unidade": "Und.",
-              "quantidade": "2.000,00",
-              "valor_referencia": "4,19"
-            }
-          ]
-        },
-        {
-          "numero": "3",
-          "titulo": "36638 IBUPROFENO:50mg/Ml suspensão oral 30mL - gotas. EXCLUSIVO PARA ME/EPP.",
-          "fase": "ADJUDICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "3.520,00",
-          "vencedor": "CALIXTO MEDICAMENTOS LTDA",
-          "melhor_oferta": "3.520,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "36638 IBUPROFENO:50mg/Ml suspensão oral 30mL - gotas. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "FR",
-              "quantidade": "1.600,00",
-              "valor_referencia": "2,20"
-            }
-          ]
-        },
-        {
-          "numero": "4",
-          "titulo": "35791 ALPRAZOLAM:2MG EXCLUSIVO PARA ME/EPP.",
-          "fase": "FRACASSADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "180,00",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "35791 ALPRAZOLAM:2MG EXCLUSIVO PARA ME/EPP.",
-              "unidade": "CO",
-              "quantidade": "1.000,00",
-              "valor_referencia": "0,18"
-            }
-          ]
-        },
-        {
-          "numero": "5",
-          "titulo": "37313 NISTATINA:creme vaginal 25.000 UI/g tubo com 60g + aplicador. EXCLUVISO PARA ME/EPP.",
-          "fase": "ADJUDICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "5.082,00",
-          "vencedor": "CALIXTO MEDICAMENTOS LTDA",
-          "melhor_oferta": "5.082,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37313 NISTATINA:creme vaginal 25.000 UI/g tubo com 60g + aplicador. EXCLUVISO PARA ME/EPP.",
-              "unidade": "Und.",
-              "quantidade": "700,00",
-              "valor_referencia": "7,26"
-            }
-          ]
-        },
-        {
-          "numero": "6",
-          "titulo": "9900100149 PERMAGANATO DE POTÁSSIO:100MG. EXCLUSIVO PARA ME/EPP.",
-          "fase": "DESERTO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "162,00",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900100149 PERMAGANATO DE POTÁSSIO:100MG. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "CO",
-              "quantidade": "600,00",
-              "valor_referencia": "0,27"
-            }
-          ]
-        },
-        {
-          "numero": "7",
-          "titulo": "34777 AZITROMICINA:comprimido revestido ou cápsula 500mg. EXCLUVISO PARA ME/EPP.",
-          "fase": "ADJUDICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "8.100,00",
-          "vencedor": "CALIXTO MEDICAMENTOS LTDA",
-          "melhor_oferta": "8.100,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "34777 AZITROMICINA:comprimido revestido ou cápsula 500mg. EXCLUVISO PARA ME/EPP.",
-              "unidade": "CO",
-              "quantidade": "10.000,00",
-              "valor_referencia": "0,81"
-            }
-          ]
-        },
-        {
-          "numero": "8",
-          "titulo": "9900100209 Lanceta:para punção digital teste glicemico. EXCLUVISO PARA ME/EPP.",
-          "fase": "ADJUDICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "1.200,00",
-          "vencedor": "ERA DISTRIBUIDORA LTDA",
-          "melhor_oferta": "1.200,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900100209 Lanceta:para punção digital teste glicemico. EXCLUVISO PARA ME/EPP.",
-              "unidade": "Und.",
-              "quantidade": "8.000,00",
-              "valor_referencia": "0,15"
-            }
-          ]
-        },
-        {
-          "numero": "9",
-          "titulo": "37312 HALOPERIDOL:5MG/ML AMPOLA 1ML. EXCLUVISO PARA ME/EPP.",
-          "fase": "ADJUDICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "3.780,00",
-          "vencedor": "VITALMED IMPORTAÇÃO, EXPORTAÇÃO E DISTRIBUIÇÃO LTDA",
-          "melhor_oferta": "3.400,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37312 HALOPERIDOL:5MG/ML AMPOLA 1ML. EXCLUVISO PARA ME/EPP.",
-              "unidade": "AMP",
-              "quantidade": "2.000,00",
-              "valor_referencia": "1,89"
             }
           ]
         }
@@ -272682,44 +271104,1578 @@
       ]
     },
     {
-      "id": "PE-027-2024",
+      "id": "PE-090-2026",
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "705/2024",
+      "numero_adm": "342 / 2026",
       "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "HOMOLOGADO",
-      "condutor": "MAGDA DE SELES GUIMARÃES",
+      "situacao": "RECEPÇÃO DE PROPOSTAS",
+      "condutor": "JONATAS DA SILVA SOUSA",
       "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO",
-      "publicacao": "13/06/2024 18:49",
-      "inicio_recepcao": "14/06/2024 08:00",
-      "fim_recepcao": "10/07/2024 13:45",
-      "inicio_disputa": "10/07/2024 14:00",
-      "objeto": "O objeto da presente licitação é a contratação de INSTITUIÇÃO FINANCEIRA ESPECIALIZADA NA PRESTAÇÃO DE SERVIÇOS BANCÁRIOS PARA CENTRALIZAÇÃO, GERENCIAMENTO E PROCESSAMENTO DE CRÉDITOS DA FOLHA DE PAGAMENTO DOS SERVIDORES, a fim de atender as demandas da Secretaria Municipal de Administração, conforme condições, quantidades e especificações no Edital, Termo de Referência e seus Anexos.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5Dv4GeRQIXlm9x_kMFuCYKDCTONzf2PMTj%2FU3xlR8s%2Fo0newjz7KiLAeXhuaDPhxQfTuMSf_qtH2XOTZGCsIMGE1BymzjmNMcnEePJ682agSE%3D",
-      "total_lotes": 1,
-      "total_itens": 1,
+      "tipo_contrato": "AQUISIÇÃO PARCELADA",
+      "publicacao": "03/06/2026 16:17",
+      "inicio_recepcao": "09/06/2026 08:30",
+      "fim_recepcao": "19/06/2026 13:45",
+      "inicio_disputa": "19/06/2026 14:00",
+      "objeto": "Contratação de empresa especializada em fornecimento de TECIDOS E LUVAS (material de consumo), a fim de atender às demandas da Secretaria Municipal de Educação.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5D7UHJVJTeElzxj43QqFRZvVT2NA7ZYENDgEnDKZCNeR47rpBxwsNINNkea9EtvxFNSH87r%2F%2FdZ_i3zUnGctUMGTVUsUjJlh%2FJD7Ov_eNkoiI%3D",
+      "total_lotes": 18,
+      "total_itens": 18,
       "lotes": [
         {
           "numero": "1",
-          "titulo": "SERVIÇOS BANCÁRIOS",
-          "fase": "HOMOLOGADO",
+          "titulo": "8300500037 Cetim:tecido sintético em cores diversas a serem indicadas no momento da contratação e emissão de OFs, de superfície brilhante e toque suave, composto por 100% poliéster, com gramatura de 90 g/m² e largura de 1,40m. Adequado para confecção de f",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
           "exclusivo_me": "NÃO",
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
-          "valor_referencia": "6.052.150,00",
-          "vencedor": "ITAÚ UNIBANCO S.A.",
-          "melhor_oferta": "6.053.000,00",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
           "total_itens": 1,
           "itens": [
             {
               "numero": "1",
-              "especificacao": "CONTRATAÇÃO DE INSTITUIÇÃO FINANCEIRA: ESPECIALIZADA NA PRESTAÇÃO DE SERVIÇOS BANCÁRIOS PARA CENTRALIZAÇÃO, GERENCIAMENTO E PROCESSAMENTO DE CRÉDITOS DA FOLHA DE PAGAMENTO DOS SERVIDORES DA PREFEITURA MUNICIPAL DE TEIXEIRA DE FREITAS/BA.",
-              "unidade": "UN",
-              "quantidade": "1,00",
-              "valor_referencia": "6.052.150,00"
+              "especificacao": "8300500037 Cetim:tecido sintético em cores diversas a serem indicadas no momento da contratação e emissão de OFs, de superfície brilhante e toque suave, composto por 100% poliéster, com gramatura de 90 g/m² e largura de 1,40m. Adequado para confecção de figurinos, painéis decorativos, fundos de palco, adereços cênicos e ambientação de espaços escolares e institucionais. O tecido deverá apresentar estrutura uniforme, sem falhas de tecelagem, desfiados, furos, rasgos, manchas ou variações acentuadas de tonalidade dentro do mesmo lote, garantindo padrão estético contínuo. O fornecimento deverá ocorrer em metro linear, em rolos ou peças contínuas, sem emendas na área útil, com cortes retos e bordas íntegras, apto ao uso imediato em eventos institucionais, atividades pedagógicas, solenidades e demais ações da Rede Municipal de Educação.",
+              "unidade": "M",
+              "quantidade": "400,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "1",
+          "titulo": "8300500037 Cetim:tecido sintético em cores diversas a serem indicadas no momento da contratação e emissão de OFs, de superfície brilhante e toque suave, composto por 100% poliéster, com gramatura de 90 g/m² e largura de 1,40m. Adequado para confecção de f",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "8300500037 Cetim:tecido sintético em cores diversas a serem indicadas no momento da contratação e emissão de OFs, de superfície brilhante e toque suave, composto por 100% poliéster, com gramatura de 90 g/m² e largura de 1,40m. Adequado para confecção de figurinos, painéis decorativos, fundos de palco, adereços cênicos e ambientação de espaços escolares e institucionais. O tecido deverá apresentar estrutura uniforme, sem falhas de tecelagem, desfiados, furos, rasgos, manchas ou variações acentuadas de tonalidade dentro do mesmo lote, garantindo padrão estético contínuo. O fornecimento deverá ocorrer em metro linear, em rolos ou peças contínuas, sem emendas na área útil, com cortes retos e bordas íntegras, apto ao uso imediato em eventos institucionais, atividades pedagógicas, solenidades e demais ações da Rede Municipal de Educação.",
+              "unidade": "M",
+              "quantidade": "400,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "3",
+          "titulo": "8300500039 Oxford:tecido sintético em cores diversas a serem indicadas no momento da contratação e emissão de OFs, composto predominantemente por poliéster, com entrelaçamento firme, gramatura de 110 g/m² e largura de 1,50 m. Indicado para confecção de un",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "8300500039 Oxford:tecido sintético em cores diversas a serem indicadas no momento da contratação e emissão de OFs, composto predominantemente por poliéster, com entrelaçamento firme, gramatura de 110 g/m² e largura de 1,50 m. Indicado para confecção de uniformes simples, toalhas, painéis, bandeiras, fundos de palco, faixas e outros elementos decorativos utilizados em eventos institucionais, reuniões, formaturas, feiras pedagógicas e ações de integração com a comunidade escolar. O tecido deverá ser resistente, com acabamento opaco, textura homogênea, boa estabilidade dimensional e ausência de furos, rasgos, manchas, falhas de tecelagem ou desbotamento acentuado. O fornecimento ocorrerá em metro linear, em rolos contínuos, sem emendas na área útil, garantindo durabilidade e padrão visual compatível com a relevância das atividades desenvolvidas na Rede Municipal de Ensino.",
+              "unidade": "M",
+              "quantidade": "750,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "4",
+          "titulo": "37330 Tule:tecido leve em cores diversas a serem indicadas no momento da contratação e emissão de OFs, de malha aberta, fino, transparente e maleável, composto por 100% poliamida ou poliéster, com largura de 1,40 m. Destinado à confecção de saias volumosa",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37330 Tule:tecido leve em cores diversas a serem indicadas no momento da contratação e emissão de OFs, de malha aberta, fino, transparente e maleável, composto por 100% poliamida ou poliéster, com largura de 1,40 m. Destinado à confecção de saias volumosas, sobreposições de figurinos, cenários, arranjos decorativos e demais elementos utilizados em apresentações culturais, eventos comemorativos, festas escolares e projetos pedagógicos temáticos. O tule deverá apresentar malha uniforme, sem rasgos, furos, deformações, fios rompidos ou manchas, proporcionando bom caimento e efeito visual adequado sob iluminação de palco ou ambientes internos. O fornecimento será realizado em metro linear, em rolos ou peças contínuas, preferencialmente sem emendas na área útil, prontos para uso em ornamentação e ambientação no âmbito da Rede Municipal de Educação.",
+              "unidade": "M",
+              "quantidade": "400,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "5",
+          "titulo": "37331 Juta:tecido de origem natural, em cores diversas a serem indicadas no momento da contratação e emissão de OFs, de aspecto rústico, fabricado com fibras vegetais, com gramatura elevada em torno de 300 g/m² e largura de 1,40 m. Indicado para decoração",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37331 Juta:tecido de origem natural, em cores diversas a serem indicadas no momento da contratação e emissão de OFs, de aspecto rústico, fabricado com fibras vegetais, com gramatura elevada em torno de 300 g/m² e largura de 1,40 m. Indicado para decoração temática, cenários com apelo rústico, painéis, revestimento de mesas, stands e atividades de artesanato em feiras pedagógicas, projetos culturais, festas juninas e demais eventos escolares. O tecido deverá apresentar trama firme, boa resistência mecânica, baixa quantidade de impurezas, sem rasgos excessivos, furos significativos, manchas intensas ou odores não característicos do material. O fornecimento ocorrerá em metro linear, em peças contínuas, garantindo segurança no manuseio e qualidade visual condizente com a proposta educativa, cultural e institucional da Rede Municipal de Ensino.",
+              "unidade": "M",
+              "quantidade": "400,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "6",
+          "titulo": "37332 Algodão cru:tecido plano em cores diversas a serem indicadas no momento da contratação e emissão de OFs (preferencialmente naturais ou em tons claros), 100% algodão, sem tingimento intenso ou acabamento químico agressivo, com gramatura de 150 g/m² e",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37332 Algodão cru:tecido plano em cores diversas a serem indicadas no momento da contratação e emissão de OFs (preferencialmente naturais ou em tons claros), 100% algodão, sem tingimento intenso ou acabamento químico agressivo, com gramatura de 150 g/m² e largura de 1,40 m. Destinado à realização de atividades educativas, artísticas e artesanais, como pintura, colagem, produção de painéis, cenários, banners e peças decorativas para uso em salas de aula, corredores, auditórios e demais espaços escolares. O tecido deverá apresentar superfície homogênea, estrutura firme, sem furos, rasgos, manchas significativas, deformações ou odores intensos, permitindo escrita, pintura e colagem com boa aderência. O fornecimento será em metro linear, em peças contínuas, com cortes retos, apto ao uso por estudantes e equipes pedagógicas em projetos escolares e eventos institucionais.",
+              "unidade": "M",
+              "quantidade": "400,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "7",
+          "titulo": "37333 Oxford xadrez:variação estampada do tecido Oxford, em padrão xadrez e cores diversas, composto por 100% poliéster, com gramatura de 110 g/m² e largura de 1,50 m. Adequado para composições temáticas, decoração de festas escolares (como festas juninas",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37333 Oxford xadrez:variação estampada do tecido Oxford, em padrão xadrez e cores diversas, composto por 100% poliéster, com gramatura de 110 g/m² e largura de 1,50 m. Adequado para composições temáticas, decoração de festas escolares (como festas juninas), confecção de toalhas, bandeirolas, aventais, detalhes de figurinos e elementos visuais utilizados em projetos pedagógicos que envolvam ambientação de espaços. A estampa deverá ser regular, sem falhas de impressão, sem desbotamento acentuado ou diferenças marcantes de tonalidade entre rolos do mesmo lote. O fornecimento deve ser em metro linear, em rolos contínuos, sem emendas na área útil, livre de furos, rasgos, manchas e falhas de tecelagem, garantindo acabamento visual adequado às ações educativas e culturais da Rede Municipal de Ensino.",
+              "unidade": "M",
+              "quantidade": "400,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "8",
+          "titulo": "8300500040 TNT (tecido não tecido):material sintético em cores diversas a serem indicadas no momento da contratação e emissão de OFs, produzido por agulhamento ou colagem de fibras, com gramatura entre 40 g/m² e 80 g/m² e largura de 1,40m. Amplamente uti",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "8300500040 TNT (tecido não tecido):material sintético em cores diversas a serem indicadas no momento da contratação e emissão de OFs, produzido por agulhamento ou colagem de fibras, com gramatura entre 40 g/m² e 80 g/m² e largura de 1,40m. Amplamente utilizado para decoração de ambientes escolares, revestimento de painéis, confecção de fundos de palco, faixas, molduras, elementos cenográficos e partes de figurinos de uso pontual em atividades pedagógicas e culturais. O material deverá apresentar superfície uniforme, sem rasgos, furos, falhas na estrutura, manchas intensas ou acúmulo excessivo de partículas soltas, garantindo segurança e facilidade de manuseio. O fornecimento será em metro linear, em rolos contínuos, com cortes retos e acondicionamento adequado, destinado ao atendimento das demandas de ornamentação, ambientação e execução de projetos e eventos no âmbito da Rede Municipal de Educação.",
+              "unidade": "M",
+              "quantidade": "400,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "9",
+          "titulo": "37334 Feltro:tecido denso e macio em cores diversas a serem indicadas no momento da contratação e emissão de OFs, composto por fibras sintéticas ou naturais prensadas, com gramatura de 300 g/m² e largura de 1,40 m. Indicado para trabalhos de artesanato, p",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37334 Feltro:tecido denso e macio em cores diversas a serem indicadas no momento da contratação e emissão de OFs, composto por fibras sintéticas ou naturais prensadas, com gramatura de 300 g/m² e largura de 1,40 m. Indicado para trabalhos de artesanato, produção de painéis decorativos, letras e figuras recortadas, confecção de máscaras, adereços, elementos estruturais de figurinos e materiais de apoio visual utilizados em atividades pedagógicas, apresentações artísticas e eventos escolares. O feltro deverá apresentar superfície uniforme, sem furos, rasgos, manchas, deformações, odores intensos ou excesso de resíduos soltos, permitindo cortes limpos e boa fixação com colas ou costuras. O fornecimento será em metro linear, em cortes contínuos, sem emendas na área útil, garantindo durabilidade, segurança no manuseio e qualidade estética compatível com as ações da Rede Municipal de Ensino.",
+              "unidade": "M",
+              "quantidade": "400,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "9",
+          "titulo": "37334 Feltro:tecido denso e macio em cores diversas a serem indicadas no momento da contratação e emissão de OFs, composto por fibras sintéticas ou naturais prensadas, com gramatura de 300 g/m² e largura de 1,40 m. Indicado para trabalhos de artesanato, p",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37334 Feltro:tecido denso e macio em cores diversas a serem indicadas no momento da contratação e emissão de OFs, composto por fibras sintéticas ou naturais prensadas, com gramatura de 300 g/m² e largura de 1,40 m. Indicado para trabalhos de artesanato, produção de painéis decorativos, letras e figuras recortadas, confecção de máscaras, adereços, elementos estruturais de figurinos e materiais de apoio visual utilizados em atividades pedagógicas, apresentações artísticas e eventos escolares. O feltro deverá apresentar superfície uniforme, sem furos, rasgos, manchas, deformações, odores intensos ou excesso de resíduos soltos, permitindo cortes limpos e boa fixação com colas ou costuras. O fornecimento será em metro linear, em cortes contínuos, sem emendas na área útil, garantindo durabilidade, segurança no manuseio e qualidade estética compatível com as ações da Rede Municipal de Ensino.",
+              "unidade": "M",
+              "quantidade": "400,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "11",
+          "titulo": "8300500041 Tricoline:tecido plano 100% algodão: em cores lisas e/ou estampas variadas adequadas ao ambiente escolar, com gramatura de 120 g/m² e largura de 1,40 m. Indicado para confecção de painéis pedagógicos, bandeirolas, letras e figuras aplicadas, fr",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "8300500041 Tricoline:tecido plano 100% algodão: em cores lisas e/ou estampas variadas adequadas ao ambiente escolar, com gramatura de 120 g/m² e largura de 1,40 m. Indicado para confecção de painéis pedagógicos, bandeirolas, letras e figuras aplicadas, fronhas decorativas, elementos de identificação visual, adereços cênicos e itens de artesanato escolar utilizados em projetos didáticos, festas temáticas e atividades de valorização do ambiente educacional. O tecido deverá apresentar toque macio, boa estabilidade dimensional, superfície homogênea, sem furos, rasgos, manchas, falhas de estamparia, deformações ou odores intensos, permitindo costura, colagem e aplicação de técnicas de pintura e bordado de forma satisfatória. O fornecimento ocorrerá em metro linear, em rolos ou peças contínuas, sem emendas na área útil, com cortes retos e acondicionamento adequado, apto ao uso imediato em ações educativas, culturais e de ornamentação dos espaços escolares da Rede Municipal de Educação.",
+              "unidade": "M",
+              "quantidade": "400,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "10",
+          "titulo": "37335 Organza:tecido leve em cores diversas a serem indicadas no momento da contratação e emissão de OFs, translúcido, armável, com brilho moderado, composto por fibras sintéticas à base de poliéster, com gramatura de 40 g/m² e largura de 1,40m. Destinad",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37335 Organza:tecido leve em cores diversas a serem indicadas no momento da contratação e emissão de OFs, translúcido, armável, com brilho moderado, composto por fibras sintéticas à base de poliéster, com gramatura de 40 g/m² e largura de 1,40m. Destinado à confecção de sobreposições, laços, cortinas decorativas, saias de mesa, detalhes de figurinos, arranjos e outros elementos de embelezamento utilizados em eventos escolares, solenidades institucionais, apresentações culturais e projetos pedagógicos que demandem efeito visual delicado e sofisticado. O tecido deverá apresentar estrutura regular, boa estabilidade para montagem de arranjos, caimento compatível com uso decorativo, sem fios soltos, rasgos, furos, manchas, desbotamento acentuado ou falhas de tecelagem. O fornecimento será em metro linear, em rolos ou peças contínuas, com cortes retos, pronto para uso na ornamentação deambientes da Rede Municipal de Educação.",
+              "unidade": "M",
+              "quantidade": "400,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "12",
+          "titulo": "37336 Corino sintético:tecido sintético impermeável em cores diversas a serem indicadas no momento da contratação e emissão de OFs, composto por PVC com base têxtil (50% PVC / 50% substrato), espessura entre 0,20 mm e 0,30 mm, gramatura média de 300 a 400",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37336 Corino sintético:tecido sintético impermeável em cores diversas a serem indicadas no momento da contratação e emissão de OFs, composto por PVC com base têxtil (50% PVC / 50% substrato), espessura entre 0,20 mm e 0,30 mm, gramatura média de 300 a 400 g/m² e largura de 1,40 m. Indicado para confecção de capas protetoras, estofados, painéis decorativos, elementos cenográficos e ambientação de espaços escolares em eventos institucionais, atividades pedagógicas e solenidades da Rede Municipal de Educação. O material deve apresentar superfície lisa e uniforme, resistente a manchas, água e riscos leves, sem falhas de laminação, bolhas, rasgos, furos ou variações acentuadas de tonalidade no mesmo lote, garantindo durabilidade e padrão estético contínuo. Fornecimento em rolos contínuos sem emendas na área útil, cortes retos e embalagem adequada para uso imediato.",
+              "unidade": "M",
+              "quantidade": "400,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "14",
+          "titulo": "37337 Tecido tipo chita:em cores e estampas variadas a serem definidas no momento da contratação e emissão das Ordens de Fornecimento, composto predominantemente por fibras de algodão ou mistura com fibras sintéticas, de gramatura média aproximada entre 1",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37337 Tecido tipo chita:em cores e estampas variadas a serem definidas no momento da contratação e emissão das Ordens de Fornecimento, composto predominantemente por fibras de algodão ou mistura com fibras sintéticas, de gramatura média aproximada entre 120 g/m² e 180 g/m² e largura mínima de 1,40m. Caracteriza-se por apresentar estampas vivas, florais ou temáticas, com boa fixação de cor e resistência ao uso. O tecido deverá apresentar superfície uniforme, sem falhas de estamparia, desbotamento acentuado, rasgos, furos, manchas ou defeitos de fabricação. O fornecimento deverá ocorrer em metro linear, em peças contínuas, com cortes retos e sem emendas na área útil, pronto para uso em atividades educacionais e eventos institucionais.",
+              "unidade": "M",
+              "quantidade": "400,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "15",
+          "titulo": "37338 Tecido tipo helanca:malha sintética de alta resistência, em cores diversas a serem definidas no momento da contratação e emissão das Ordens de Fornecimento, composto predominantemente por poliéster, podendo conter elastano em sua composição, com gra",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37338 Tecido tipo helanca:malha sintética de alta resistência, em cores diversas a serem definidas no momento da contratação e emissão das Ordens de Fornecimento, composto predominantemente por poliéster, podendo conter elastano em sua composição, com gramatura média aproximada entre 120 g/m² e 200 g/m² e largura mínima de 1,50 m. Apresenta boa elasticidade, durabilidade, resistência ao desgaste e fácil manutenção. O tecido deverá possuir superfície regular, sem bolinhas (pilling), rasgos, furos, manchas ou deformações, garantindo qualidade e segurança no uso. O fornecimento será em metro linear, em rolos ou peças contínuas, sem emendas na área útil, com cortes precisos e acondicionamento adequado.",
+              "unidade": "M",
+              "quantidade": "400,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "16",
+          "titulo": "37339 Tecido tipo brim leve:em cores diversas a serem definidas no momento da contratação e emissão das Ordens de Fornecimento, composto predominantemente por algodão ou mistura com poliéster, com gramatura aproximada entre 180 g/m² e 250 g/m² e largura m",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37339 Tecido tipo brim leve:em cores diversas a serem definidas no momento da contratação e emissão das Ordens de Fornecimento, composto predominantemente por algodão ou mistura com poliéster, com gramatura aproximada entre 180 g/m² e 250 g/m² e largura mínima de 1,40 m. Caracteriza-se por apresentar resistência mecânica moderada, boa durabilidade e conforto térmico. O tecido deverá apresentar trama uniforme, sem falhas de tecelagem, rasgos, furos, manchas ou desbotamento acentuado, garantindo acabamento adequado e resistência ao uso contínuo e lavagens. O fornecimento deverá ocorrer em metro linear, em peças contínuas, com cortes retos, sem emendas na área útil e devidamente acondicionado.",
+              "unidade": "M",
+              "quantidade": "400,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "17",
+          "titulo": "37340 Tecido alvejado:plano, em cor clara (predominantemente branca), composto por fibras de algodão ou mistura com fibras sintéticas, submetido a processo de alvejamento para remoção de impurezas e padronização de tonalidade, com gramatura aproximada ent",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37340 Tecido alvejado:plano, em cor clara (predominantemente branca), composto por fibras de algodão ou mistura com fibras sintéticas, submetido a processo de alvejamento para remoção de impurezas e padronização de tonalidade, com gramatura aproximada entre 100 g/m² e 200 g/m² e largura mínima de 1,40m. O material deverá apresentar superfície uniforme, sem manchas, odores, resíduos químicos excessivos, rasgos, furos ou falhas de tecelagem, garantindo boa absorção e aderência para tintas e outros materiais. O fornecimento será em metro linear, em peças contínuas, com cortes retos e sem emendas na área útil.",
+              "unidade": "M",
+              "quantidade": "400,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "17",
+          "titulo": "37340 Tecido alvejado:plano, em cor clara (predominantemente branca), composto por fibras de algodão ou mistura com fibras sintéticas, submetido a processo de alvejamento para remoção de impurezas e padronização de tonalidade, com gramatura aproximada ent",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37340 Tecido alvejado:plano, em cor clara (predominantemente branca), composto por fibras de algodão ou mistura com fibras sintéticas, submetido a processo de alvejamento para remoção de impurezas e padronização de tonalidade, com gramatura aproximada entre 100 g/m² e 200 g/m² e largura mínima de 1,40m. O material deverá apresentar superfície uniforme, sem manchas, odores, resíduos químicos excessivos, rasgos, furos ou falhas de tecelagem, garantindo boa absorção e aderência para tintas e outros materiais. O fornecimento será em metro linear, em peças contínuas, com cortes retos e sem emendas na área útil.",
+              "unidade": "M",
+              "quantidade": "400,00",
+              "valor_referencia": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-089-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "382 / 2026",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "RECEPÇÃO DE PROPOSTAS",
+      "condutor": "SERGIO CARNEIRO CAVALCANTI DE AZEVEDO",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO PARCELADA",
+      "publicacao": "03/06/2026 11:50",
+      "inicio_recepcao": "09/06/2026 08:30",
+      "fim_recepcao": "19/06/2026 09:15",
+      "inicio_disputa": "19/06/2026 09:30",
+      "objeto": "Contratação de empresa especializada em fornecimento de extintores de incêndio, suportes e em prestação de serviços técnicos continuados de inspeção, recarga e manutenção desses equipamentos, a fim de atender as demandas da Secretaria Municipal de Administração e demais Secretarias",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5Dg262baQMFCJxj6asg28lNoq73nwQIMuzYGInFfivGeVliwn0SgLNSWK8wA%2FphhzXDNsvDq7RnMglALq7rpkVKcyLMXHkjH3prlkgsltdCjY%3D",
+      "total_lotes": 6,
+      "total_itens": 11,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "EXTINTOR",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 2,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "402300001 EXTINTOR:Pó químico seco (PQS); ABC; 06 kg; 4A- 40BC; com carga; rótulo em português; com instruções de uso; validade e garantia; selo de certificação INMETRO e em conformidade com a ABNT-NBR 15808;",
+              "unidade": "Und.",
+              "quantidade": "1.350,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "2",
+              "especificacao": "402300004 RECARGA:De extintor; 06 kg; tipo ABC; manutenção tipo II",
+              "unidade": "Und.",
+              "quantidade": "730,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "2",
+          "titulo": "EXTINTOR",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 2,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37201 EXTINTOR:Gás carbônico (CO2); 04 kg; 5B; com carga; rótulo em português; com instruções de uso; validade e garantia; selo de certificação ABNT-NBR 15808; INMETRO",
+              "unidade": "Und.",
+              "quantidade": "400,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "2",
+              "especificacao": "402300005 RECARGA:De extintor; 04 kg; gás carbônico (CO2); manutenção tipo II.",
+              "unidade": "Und.",
+              "quantidade": "185,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "3",
+          "titulo": "EXTINTOR",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 2,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "402300002 EXTINTOR:Gás carbônico (CO2); 06 kg; 5B; com carga; rótulo em português; com instruções de uso; validade e garantia; selo de certificação ABNT-NBR 15808; INMETRO",
+              "unidade": "Und.",
+              "quantidade": "600,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "2",
+              "especificacao": "37207 RECARGA:De extintor; 06 kg; gás carbônico (CO2); manutenção tipo II.",
+              "unidade": "Und.",
+              "quantidade": "300,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "4",
+          "titulo": "EXTINTOR",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 2,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37204 EXTINTOR:Pó químico seco (PQS); BC; 06 kg; 20BC; com carga; rótulo em português; com instruções de uso; validade e garantia; selo de certificação ABNT-NBR 15808; INMETRO",
+              "unidade": "Und.",
+              "quantidade": "800,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "2",
+              "especificacao": "402300006 RECARGA:De extintor; 06 kg; pó químico; tipo BC; manutenção tipo II.",
+              "unidade": "Und.",
+              "quantidade": "520,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "5",
+          "titulo": "EXTINTOR",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 2,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "402300003 EXTINTOR:De extintor; 10 Litros; água pressurizada; tipo AP; manômetro para verificação de pressão e capacidade extintora de 2-A ou 3B; com carga; rótulo em português; com instruções de uso; validade e garantia; selo de certificação ABNT- NBR 15808; INMETRO",
+              "unidade": "Und.",
+              "quantidade": "750,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "2",
+              "especificacao": "37208 RECARGA:De extintor; 10 Litros; água pressurizada; tipo AP; manutenção tipo II.",
+              "unidade": "Und.",
+              "quantidade": "260,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "6",
+          "titulo": "EXTINTOR",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37209 SUPORTE:De parede; para extintor; chapa em aço carbono zincado; mínimo 06 kg; tipo ABC; BC; CO2.EXCLUSIVO PARA ME/EPP.",
+              "unidade": "Und.",
+              "quantidade": "1.250,00",
+              "valor_referencia": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-058-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "402 / 2026",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "RECEPÇÃO DE PROPOSTAS",
+      "condutor": "SERGIO CARNEIRO CAVALCANTI DE AZEVEDO",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO PARCELADA",
+      "publicacao": "03/06/2026 10:56",
+      "inicio_recepcao": "09/06/2026 08:30",
+      "fim_recepcao": "19/06/2026 08:15",
+      "inicio_disputa": "19/06/2026 08:30",
+      "objeto": "Contratação de empresa especializada em fornecimento de BEBEDOUROS (material permanente), a fim de atender as demandas da Secretaria Municipal de Administração e demais secretarias.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DSG9ovZmrbjNvgYbX88Ljo_%2F39F7cRE7xHVR22WXmTAHmSBNujk9gSzGUf%2F_GyzM9orzXLzgSxDfXkEdXqUT4fVh3O4AqilyquOSbAyUPgyo%3D",
+      "total_lotes": 6,
+      "total_itens": 6,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "9900830485 BEBEDOURO COMPACTO:Com suporte para galão de água mineral compatível de 10L e 20L; gabinete em aço tratado contra corrosão com tampo superior e frontal em plástico resistente; 02 torneiras, com saídas de água gelada ou natural; reservatório int",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900830485 BEBEDOURO COMPACTO:Com suporte para galão de água mineral compatível de 10L e 20L; gabinete em aço tratado contra corrosão com tampo superior e frontal em plástico resistente; 02 torneiras, com saídas de água gelada ou natural; reservatório interno em plástico atóxico; serpentina externa; sistema de refrigeração sem CFC; capacidade mínima de armazenamento de 2 litros; alimentação elétrica de 220V ou bivolt; dimensões aproximadas (AxLxP): 41x32x34 cm.EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "32,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "2",
+          "titulo": "9900830486 BEBEDOURO DE COLUNA:Com suporte para galão de água mineral compatível de 10 L e 20 L; gabinete em aço inoxidável com tampa e base injetadas; 02 torneiras; saídas de água gelada ou natural; controle manual de temperatura; sistema de refrigeração",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900830486 BEBEDOURO DE COLUNA:Com suporte para galão de água mineral compatível de 10 L e 20 L; gabinete em aço inoxidável com tampa e base injetadas; 02 torneiras; saídas de água gelada ou natural; controle manual de temperatura; sistema de refrigeração sem CFC; reservatório interno em material atóxico; serpentina externa; estrutura resistente à oxidação; capacidade de armazenamento mínima de 2 litros; capacidade de resfriamento de até 10°C; vazão nominal mínima de 40L/h; tomada com três pinos; classe 1; IPX0 (uso interno); alimentação elétrica de 220V ou bivolt; dimensões aproximadas (AxLxP): 93x30x36 cm.",
+              "unidade": "UND",
+              "quantidade": "90,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "3",
+          "titulo": "9900830487 BEBEDOURO INDUSTRIAL ELETRICO - 4TORNEIRAS:industrial, elétrico, com 4 torneiras, aparador de agua frontal, com revestimento externo em chapa inox, capacidade 200 litros no reservatório, serpentina interna em aço inox 304, tensão 220V, com fil",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900830487 BEBEDOURO INDUSTRIAL ELETRICO - 4TORNEIRAS:industrial, elétrico, com 4 torneiras, aparador de agua frontal, com revestimento externo em chapa inox, capacidade 200 litros no reservatório, serpentina interna em aço inox 304, tensão 220V, com filtro incluso, isolamento térmico injetado em poliuretano expandido. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "28,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "4",
+          "titulo": "9900830488 BEBEDOURO INDUSTRIAL:De coluna; 3 torneiras; aparador de água frontal; revestimento externo em chapa inox; reservatório com capacidade mínima de 100 litros, fabricado 100% em aço inox; refrigeração 10 l/h; filtro de carvão ativado; tensão de 22",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900830488 BEBEDOURO INDUSTRIAL:De coluna; 3 torneiras; aparador de água frontal; revestimento externo em chapa inox; reservatório com capacidade mínima de 100 litros, fabricado 100% em aço inox; refrigeração 10 l/h; filtro de carvão ativado; tensão de 220V; baixo consumo de energia; adequado para gás ecológico.",
+              "unidade": "UND",
+              "quantidade": "63,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "5",
+          "titulo": "37385 BEBEDOURO DE COLUNA::Com suporte paragalão de água mineral compatível de 10 L e 20 L; gabinete emaço inoxidável com tampa e base injetadas; 02 torneiras; saídas de água gelada ou natural; controle manual de temperatura; sistema de refrigeração sem",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37385 BEBEDOURO DE COLUNA::Com suporte paragalão de água mineral compatível de 10 L e 20 L; gabinete emaço inoxidável com tampa e base injetadas; 02 torneiras; saídas de água gelada ou natural; controle manual de temperatura; sistema de refrigeração sem CFC; reservatório interno emmaterial atóxico; serpentina externa; estrutura resistente àoxidação; capacidade de armazenamento mínima de 2 litros; capacidade de resfriamento de até 10°C; vazão nominal mínimade 40L/h; tomada com três pinos; classe 1; IPX0 (uso interno); alimentação elétrica de 220V ou bivolt; dimensões aproximadas(AxLxP): 93x30x36 cm. COTA 25% PARA ME/EPP.",
+              "unidade": "Und.",
+              "quantidade": "30,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "6",
+          "titulo": "37386 BEBEDOURO INDUSTRIAL::De coluna; 3 torneiras; aparador de água frontal; revestimento externo em chapa inox; reservatório com capacidade mínima de 100 litros, fabricado100% em aço inox; refrigeração 10 l/h; filtro de carvão ativado;tensão de 220V;",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37386 BEBEDOURO INDUSTRIAL::De coluna; 3 torneiras; aparador de água frontal; revestimento externo em chapa inox; reservatório com capacidade mínima de 100 litros, fabricado100% em aço inox; refrigeração 10 l/h; filtro de carvão ativado;tensão de 220V; baixo consumo de energia; adequado para gás ecológico. COTA 25% PARA ME/EPP.",
+              "unidade": "Und.",
+              "quantidade": "21,00",
+              "valor_referencia": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2-DLE-052-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "443 / 2026",
+      "modalidade": "DISPENSA ELETRÔNICA",
+      "situacao": "JULGAMENTO",
+      "condutor": "ISLA LIMA SILVA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO",
+      "publicacao": "02/06/2026 16:34",
+      "inicio_recepcao": "02/06/2026 16:38",
+      "fim_recepcao": "09/06/2026 08:15",
+      "inicio_disputa": "09/06/2026 08:30",
+      "objeto": "Contratação de empresa especializada em fornecimento de [VASSOURAS] (material de consumo), a fim de atender às necessidades da Secretaria Municipal de Infraestrutura e Serviços Urbanos.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5Df5yACRr_C6MvRCy9i7cClOBxSHH7EjCyNYF1vrU_A%2FU9Hela%2Fkousz9QwW1WxoSeNSLUQEWkzZpy3cUmdt_RRkRonv20GZ9801HUSjvoPms%3D",
+      "total_lotes": 3,
+      "total_itens": 3,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "7901700102 VASSOURA PET PEQUENA:com cabo de madeira de 1,10 a 1,20 m cerdas de fibra de pet, largura das cerdas entre 23 e 28cm. EXCLUSIVO PARA ME/EPP.",
+          "fase": "JULGAMENTO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "7.137,00",
+          "vencedor": "LEGI DISTRIBUIDORA LTDA",
+          "melhor_oferta": "5.892,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "7901700102 VASSOURA PET PEQUENA:com cabo de madeira de 1,10 a 1,20 m cerdas de fibra de pet, largura das cerdas entre 23 e 28cm. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "300,00",
+              "valor_referencia": "23,79"
+            }
+          ]
+        },
+        {
+          "numero": "2",
+          "titulo": "7901700103 VASSOURA PET GRANDE:com cabo de madeira de 1,10 a 1,20 m cerdas de fibra de pet, largura das cerdas entre 35 e 40cm. EXCLUSIVO PARA ME/EPP.",
+          "fase": "JULGAMENTO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "6.100,00",
+          "vencedor": "LEGI DISTRIBUIDORA LTDA",
+          "melhor_oferta": "5.998,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "7901700103 VASSOURA PET GRANDE:com cabo de madeira de 1,10 a 1,20 m cerdas de fibra de pet, largura das cerdas entre 35 e 40cm. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "200,00",
+              "valor_referencia": "30,50"
+            }
+          ]
+        },
+        {
+          "numero": "3",
+          "titulo": "7901700104 VASSOURA RASTELO METALICAREGULÁVEL:com cabo, 22 dentes, comprimento aproximado de 2,54cm. EXCLUSIVO ME/EPP.",
+          "fase": "JULGAMENTO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "3.528,00",
+          "vencedor": "L.F.E COMERCIAL DE ALIMENTOS LTDA",
+          "melhor_oferta": "4.935,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "7901700104 VASSOURA RASTELO METALICAREGULÁVEL:com cabo, 22 dentes, comprimento aproximado de 2,54cm. EXCLUSIVO ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "150,00",
+              "valor_referencia": "23,52"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2-DLE-049-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "466 / 2026",
+      "modalidade": "DISPENSA ELETRÔNICA",
+      "situacao": "SUSPENSO",
+      "condutor": "ISAQUE SILVA DOS SANTOS",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO",
+      "publicacao": "02/06/2026 15:53",
+      "inicio_recepcao": "02/06/2026 16:03",
+      "fim_recepcao": "09/06/2026 08:15",
+      "inicio_disputa": "09/06/2026 08:30",
+      "objeto": "Contratação de empresa especializada em prestação de serviços de gerenciamento, manutenção preventiva e/ou corretiva de HOSPEDAGEM DE SITE, VIRTUALIZAÇÃO EM NUVEM E DOMÍNIO,  a fim de atender às demandas da Secretaria Municipal de Administração.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5Dfr_Qu8%2FYFQRJQqW_ybT9xzmFWzkm6O8PQN7GMjwTbmZlsWSPP8O50BiQmT0o5JhACldJ5_uRutXJ5dp8Uu5haQsEKPGRbECYUrIUAYUpjPw%3D",
+      "total_lotes": 1,
+      "total_itens": 4,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "HOSPEDAGEM SITE",
+          "fase": "SUSPENSO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "42.860,52",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 4,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "200100001 DOMÍNIO:Prestação de serviços de gerenciamento de domínios institucionais, incluindo configuração e administração de servidores DNS (NS/Nameservers), manutenção e controle dos domínios já existentes no âmbito da Administração Pública, bem como o registro, renovação e gerenciamento de novos domínios que venham a ser contratados durante a vigência do contrato, pelo período de 24 (vinte e quatro) meses, contemplando ainda suporte técnico, atualização de registros DNS, garantia de disponibilidade e funcionamento contínuo dos serviços vinculados aos domínios.",
+              "unidade": "SER",
+              "quantidade": "4,00",
+              "valor_referencia": "173,55"
+            },
+            {
+              "numero": "2",
+              "especificacao": "200100003 HOSPEDAGEM DOS WEBSITES:Gerenciarhospedagem instituída pelo Parque Tecnológico desta prefeitura, com manutenção e suporte das plataformas existentes e de novas contratações. Armazenamento mínimo de 150 GB SSD, Contas de e-mail Ilimitadas, Site Ilimitados, 500 mil de arquivos (Inodes), Memória RAM DDR4 ou superior, 50 conexões com o banco de dados, 50 Processos Simultâneos, Instalador automático Softaculous, Criador de Sites Rápido Grátis, SSL grátis para todos domínios e subdomínios, Painel de Controle.Pelo período de 24 (vinte e quatro) meses.",
+              "unidade": "SER",
+              "quantidade": "48,00",
+              "valor_referencia": "212,33"
+            },
+            {
+              "numero": "3",
+              "especificacao": "200100004 VIRTUALIZAÇÃO EM NUVEM NÍVEL 1:O serviçodeverá ser prestado em ambiente virtualizado do tipo VPS ou Cloud, com infraestrutura dedicada contendo, no mínimo, 4 vCPU, 16 GB de memória RAM, armazenamento mínimo de 200 GB em NVMe, 16 TB de largura de banda ou ilimitada, link de conexão de no mínimo 1 Gbps e endereço IPv4 público dedicado; deverá operar em sistema operacional Linux (preferencialmente Ubuntu Server, Debian ou CentOS), com acesso administrativo (root) ou painel de gerenciamento, suporte a serviços web como Apache ou Nginx, PHP e bancos de dados MySQL/MariaDB ou PostgreSQL, garantindo compatibilidade com aplicações institucionais; deverá assegurar disponibilidade mínima de 99,5% mensal, com monitoramento ativo 24x7, tempo de resposta para incidentes críticos de até 2 horas e solução em até 8 horas; contemplar mecanismos de segurança, incluindo firewall, proteção contra ataques DDoS, certificado SSL válido, atualizações periódicas e controle de acesso seguro; executar rotinas de backup automático diário com retenção mínima de 7 dias, 1 snapshot, armazenamento em ambiente segregado e possibilidade de restauração sob demanda; bem como disponibilizar suporte técnico remoto em horário comercial e atendimento emergencial 24x7, por meio de canais como email, telefone ou sistema de chamados, com equipe técnica especializada, incluindo ainda os serviços de implantação, configuração inicial, migração de dados sem custo adicional, monitoramento contínuo e manutenção preventiva e corretiva do ambiente. Pelo período de 24 (vinte e quatro) meses.",
+              "unidade": "SER",
+              "quantidade": "72,00",
+              "valor_referencia": "174,45"
+            },
+            {
+              "numero": "4",
+              "especificacao": "200100005 VIRTUALIZAÇÃO EM NUVEM NÍVEL 2:O serviçodeverá ser prestado em ambiente virtualizado do tipo VPS ou Cloud, com infraestrutura dedicada contendo, no mínimo, 8 vCPU, 32 GB de memória RAM, armazenamento mínimo de 400 GB em NVMe, 32 TB de largura de banda ou ilimitada, link de conexão de no mínimo 1 Gbps e endereço IPv4 público dedicado; deverá operar em sistema operacional Linux (preferencialmente Ubuntu Server, Debian ou CentOS), com acesso administrativo (root) ou painel de gerenciamento, suporte a serviços web como Apache ou Nginx, PHP e bancos de dados MySQL/MariaDB ou PostgreSQL, garantindo compatibilidade com aplicações institucionais; deverá assegurar disponibilidade mínima de 99,5% mensal, com monitoramento ativo 24x7, tempo de resposta para incidentes críticos de até 2 horas e solução em até 8 horas; contemplar mecanismos de segurança, incluindo firewall, proteção contra ataques DDoS, certificado SSL válido,",
+              "unidade": "SER",
+              "quantidade": "96,00",
+              "valor_referencia": "202,23"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-047-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "123/2026",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "HABILITAÇÃO",
+      "condutor": "JONATAS DA SILVA SOUSA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO PARCELADA",
+      "publicacao": "21/05/2026 13:52",
+      "inicio_recepcao": "25/05/2026 08:30",
+      "fim_recepcao": "03/06/2026 09:15",
+      "inicio_disputa": "03/06/2026 09:30",
+      "objeto": "Contratação de empresa especializada em fornecimento de insumos alimentícios e materiais complementares para panificação para o projeto padaria comunitária (material de consumo),  a fim de atender as demandas da Secretaria Municipal de Promoção Social.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5D0eUHcYdQmnAZ2xxKh2fh65nHy0yhVJnF9LZRY3WlF3Tqf6VGVekRfwmNxNIH_ddo_Uo9pm3tjuOb2d_kPEFPJi_6udP%2FD5g%2F3ZT_e%2FSynNs%3D",
+      "total_lotes": 1,
+      "total_itens": 31,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "INSUMOS ALIMENTÍCIOS",
+          "fase": "HABILITAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "321.853,83",
+          "vencedor": "FH SUZARTE COMERCIO ALIMENTICIOS, PAPELARIA HIGIENE PESSOAL LTDA",
+          "melhor_oferta": "318.970,23",
+          "total_itens": 31,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515348 FARINHA DE TRIGO:Farinha de trigo tipo 1, especial para panificação, em saco industrial, integro e original de fábrica com 25kg. Pó fino, branco, sem grumos ou partículas estranhas. Teor de proteína mínimo de 10%, com força do glúten(W) mínima de 190 e máxima de 220, livre de sujidades, parasitas e matérias estranhas. O acondicionamento em local seco, arejado, ao abrigo da luz e da umidade. A validade mínima de 06 meses a partir da data de entrega.",
+              "unidade": "Und.",
+              "quantidade": "1.848,00",
+              "valor_referencia": "102,91"
+            },
+            {
+              "numero": "2",
+              "especificacao": "9900515349 MELHORADOR DE FARINHA:melhorador para panificação, próprio para pão francês e pão de leite. Embalagem com 500g. Composição: Ácido ascórbico, enzimas e emulsificantes permitidos pela legislação. Pó fino, homogêneo, sem grumos, sem odor ou sabor estranho. Acondicionamento em local seco, fechado e protegido da luz. Validade Mínima de 06 meses da data de entrega.",
+              "unidade": "PC",
+              "quantidade": "500,00",
+              "valor_referencia": "20,93"
+            },
+            {
+              "numero": "3",
+              "especificacao": "9900515350 SAL:Sal refinado iodado, embalagens plásticas e lacradas de 1 kg. Composição: Cloreto de sódio com adição de iodo. Branco, fino, seco, sem impurezas. Acondicionamento em local seco e arejado. Validade mínima de 12 meses.",
+              "unidade": "KG",
+              "quantidade": "1.000,00",
+              "valor_referencia": "1,76"
+            },
+            {
+              "numero": "4",
+              "especificacao": "36857 AÇUCAR:açúcar cristal branco (sacarose de cana de açúcar) Embalagem em pacotes de 5kg, lacrados, com grãos uniformes, sem umidade, sem impurezas. Acondicionamento em local seco e ventilado. Validade mínima de 12 meses.",
+              "unidade": "PC",
+              "quantidade": "148,00",
+              "valor_referencia": "19,31"
+            },
+            {
+              "numero": "5",
+              "especificacao": "36858 LEITE ME PÓ:leite integral em pó (desidratado) instantâneo. Embalagem em pacotes de 1 kg, aluminizados ou metalizados. Deve possuir sabor natural, sem adição de açúcar. Acondicionamento em local seco, ao abrigo da luz. Validade mínima de 12 meses.",
+              "unidade": "KG",
+              "quantidade": "1.000,00",
+              "valor_referencia": "42,10"
+            },
+            {
+              "numero": "6",
+              "especificacao": "36859 MARGARINA:margarina (óleos vegetais, água, sal e emulsificantes permitidos, com teor mínimo de lipídios em 80%) própria para panificação, em balde plástico alimentício de 15 kg, com tampa, de consistência homogênea e sem ranço.Acondicionamento em local refrigerado ou em local fresco, conforme orientação do fabricante. Validade mínima de 06 meses.",
+              "unidade": "KG",
+              "quantidade": "47,00",
+              "valor_referencia": "177,86"
+            },
+            {
+              "numero": "7",
+              "especificacao": "36860 FERMENTO BIOLÓGICO SECO:fermento biológico seco instantâneo (saccharomyces cerevisiae) embalado em pacotes de 500 g, a vácuo. Acondicionamento em local seco e fresco.Validade mínima de 12 meses.",
+              "unidade": "PC",
+              "quantidade": "460,00",
+              "valor_referencia": "19,90"
+            },
+            {
+              "numero": "8",
+              "especificacao": "9900515351 ÁGUA POTÁVEL:água mineral natural sem gás (incolor, inodora e insípida), em galões de 20 litros, retornáveis e lacrados. Acondicionamento em local limpo, coberto e protegido do sol.",
+              "unidade": "GAL",
+              "quantidade": "160,00",
+              "valor_referencia": "12,75"
+            },
+            {
+              "numero": "9",
+              "especificacao": "36861 SACO DE PAPEL KRAFT:Saco kraft pardo reciclável, em pacotes c/ 500 UN, e capacidade de 2kg, conforme fornecimento comercial. Gramatura mínima de 60 g/m², resistente, sem rasgos ou perfurações",
+              "unidade": "FD",
+              "quantidade": "220,00",
+              "valor_referencia": "43,33"
+            },
+            {
+              "numero": "10",
+              "especificacao": "36862 SACO DE PAPEL KRAFT:Saco kraft pardo reciclável, em pacotes c/ 500 UN, e capacidade de 5kg, conforme fornecimento comercial. Gramatura mínima de 80 g/m², resistente, sem rasgos ou perfurações.",
+              "unidade": "FD",
+              "quantidade": "220,00",
+              "valor_referencia": "52,20"
+            },
+            {
+              "numero": "11",
+              "especificacao": "36863 OVO:Ovo de galinha classe A, frescos, íntegros, limpos, sem trincas, odor estranho ou contaminações. Cartelas com 30 unidades. Acondicionamento em cartelas lacradas e armazenadas sob refrigeração ou em local fresco e ventilado. Validade mínima conforme legislação sanitária vigente.",
+              "unidade": "CR",
+              "quantidade": "700,00",
+              "valor_referencia": "20,35"
+            },
+            {
+              "numero": "12",
+              "especificacao": "36864 ÓLEO VEGETAL:Óleo vegetal comestível refinado (soja, milho ou girassol), claro, sem resíduos, próprio para uso alimentar e em garrafa PET de 900 ml, lacrada.Acondicionamento em local seco, arejado e ao abrigo da luz. Validade mínima de 12 meses da data de entrega.",
+              "unidade": "LT",
+              "quantidade": "400,00",
+              "valor_referencia": "7,99"
+            },
+            {
+              "numero": "13",
+              "especificacao": "36865 ANTIMOFO:conservante alimentar antifúngico para panificação, conforme permitido pela legislação sanitária (ex: propionato de cálcio ou similar). Embalagem em pacotes de 1kg com pó branco, fino e solúvel, sem odor e sem grumos.Acondicionamento na embalagem original, em local seco e fechado. Validade mínima de 12 meses da entrega.",
+              "unidade": "KG",
+              "quantidade": "10,00",
+              "valor_referencia": "43,28"
+            },
+            {
+              "numero": "14",
+              "especificacao": "9900515352 FERMENTO FRESCO:fermento biológico prensado com cor clara, textura macia, odor característico e sem sinais de escurecimento ou ressecamento. Embalagem em blocos ou tabletes, totalizando 500g. Acondicionamento local refrigerado entre 4ºC e 10ºC. validade mínima de 15 dias a partir da entrega.",
+              "unidade": "PC",
+              "quantidade": "40,00",
+              "valor_referencia": "10,16"
+            },
+            {
+              "numero": "15",
+              "especificacao": "36866 LEITE INTEGRAL:leite integral UHT, com a cor branca uniforme, sabor natural e sem acidez, em caixas cartonadas de 1 litros. Acondicionamento em local seco e ventilado. Validade mínima de 06 meses da entrega.",
+              "unidade": "CX",
+              "quantidade": "300,00",
+              "valor_referencia": "5,70"
+            },
+            {
+              "numero": "16",
+              "especificacao": "9900515353 POLVILHO AZEDO:polvilho de mandioca fermentado (branco, fino, seco, sem grumos) em embalagens de 1kg. Acondicionamento em local seco e fechado. Validade mínima de 6 meses.",
+              "unidade": "KG",
+              "quantidade": "100,00",
+              "valor_referencia": "10,73"
+            },
+            {
+              "numero": "17",
+              "especificacao": "9900515354 POLVILHO DOCE:polvilho de mandioca (branco, fino, seco, sem grumos) em embalagens de 500g.Acondicionamento em local seco e fechado. Validade mínima de 6 meses.",
+              "unidade": "Und.",
+              "quantidade": "200,00",
+              "valor_referencia": "6,63"
+            },
+            {
+              "numero": "18",
+              "especificacao": "9900515355 QUEIJO:queijo do tipo muçarela (leite pasteurizado, fermentos lácteos, coalho e sal), com consistência firme, sem bolores, próprio para panificação. Peça fracionada embalada a vácuo de até 2kg. Acondicionamento refrigerado, validade mínima de 30 dias.",
+              "unidade": "KG",
+              "quantidade": "40,00",
+              "valor_referencia": "38,61"
+            },
+            {
+              "numero": "19",
+              "especificacao": "9900515356 PRESUNTO:presunto (carne suína, água, açúcar, estabilizantes, conservadores, antioxidantes e aromatizantes, todos permitidos pela legislação vigente) cozido e em peças fracionadas embaladas a vácuo de até 2kg, de consistência firme, sem bolores, próprio para panificação. Acondicionamento refrigerado, validade mínima de 30 dias.",
+              "unidade": "KG",
+              "quantidade": "40,00",
+              "valor_referencia": "28,84"
+            },
+            {
+              "numero": "20",
+              "especificacao": "9900515357 CALABRESA:carne suína, gordura suína, água, sal, açúcar, especiarias, estabilizantes, conservadores, antioxidantes e aromatizantes, todos permitidos pela legislação sanitária vigente, com consistência firme, sem bolores, próprio para panificação. Embalagens de 1kg. Acondicionamento refrigerado. Validade mínima de 30 dias.",
+              "unidade": "KG",
+              "quantidade": "80,00",
+              "valor_referencia": "29,05"
+            },
+            {
+              "numero": "21",
+              "especificacao": "36867 FERMENTO EM PÓ:fermento químico (bicarbonato de sódio, sais ácidos e amido) para bolo, pó fino e sem grumos. Pacotes de 200g. Validade mínima de 12 meses.",
+              "unidade": "Und.",
+              "quantidade": "250,00",
+              "valor_referencia": "6,25"
+            },
+            {
+              "numero": "22",
+              "especificacao": "36868 LEITE CONDENSADO:leite condensado integral (leite integral e açúcar) com textura cremosa e homogênea, cor branca e levemente amarelada, sabor doce característico e sem acidez. Caixa de 395g. Acondicionamento em local seco, fresco e protegido da luz. Validade mínima de 12 meses.",
+              "unidade": "CX",
+              "quantidade": "50,00",
+              "valor_referencia": "6,79"
+            },
+            {
+              "numero": "23",
+              "especificacao": "9900515358 CREME DE LEITE:creme de leite UTH (creme de leite e estabilizantes permitidos) com consistência cremosa, sem separação excessiva de fases, sabor suave e sem acidez. Caixa de 200 g. Acondicionamento em local seco. Validade mínima de 6 meses.",
+              "unidade": "CX",
+              "quantidade": "50,00",
+              "valor_referencia": "4,49"
+            },
+            {
+              "numero": "24",
+              "especificacao": "36869 CHOCOLATE EM PÓ:chocolate (cacau em pó e açúcar) em pó fino homogêneo e sem grumos, com no mínimo 30% de cacau. Pacotes de 1 kg. Acondicionamento em local seco.Validade mínima de 12 meses.",
+              "unidade": "KG",
+              "quantidade": "10,00",
+              "valor_referencia": "32,45"
+            },
+            {
+              "numero": "25",
+              "especificacao": "9900515359 ACHOCOLATADO:achocolatado (açúcar, cacau em pó, vitaminas e minerais) em pó solúvel, fino e de fácil dissolução. Em embalagens de 1kg. Acondicionamento em local seco e fechado. Validade mínima de 12 meses.",
+              "unidade": "Und.",
+              "quantidade": "5,00",
+              "valor_referencia": "13,11"
+            },
+            {
+              "numero": "26",
+              "especificacao": "36870 MANTEIGA:manteiga (Creme de leite pasteurizado e sal) na cor amarelo clara, consistência firme e sabor lácteo. Pote contendo 500g. Acondicionamento em local refrigerado. Validade mínima de 6 meses.",
+              "unidade": "Und.",
+              "quantidade": "40,00",
+              "valor_referencia": "25,29"
+            },
+            {
+              "numero": "27",
+              "especificacao": "36871 FUBÁ:fubá de milho fino (milho moído - amarelo claro, sem impurezas) em embalagens de 1kg. Acondicionamento em local seco e arejado. Validade mínima de 6 meses e registro.",
+              "unidade": "KG",
+              "quantidade": "50,00",
+              "valor_referencia": "4,95"
+            },
+            {
+              "numero": "28",
+              "especificacao": "36872 MILHO VERDE:milho verde em grãos, cozido e conservado (grãos inteiros, macios, de coloração amarela uniforme, livre de matérias estranhas, odores e sabores anormais), água e sal, sem adição de conservantes artificiais, conforme legislação sanitária vigente. Lata metálica contendo peso liquido de 200g. Acondicionamento em local seco e arejado. Validade mínima de 6 meses.",
+              "unidade": "Und.",
+              "quantidade": "250,00",
+              "valor_referencia": "4,01"
+            },
+            {
+              "numero": "29",
+              "especificacao": "36873 FLOCÃO:flocão de milho pré-cozido (flocos uniformes próprios para cuscuz e panificação), em embalagens de 500g. Acondicionamento em local seco e arejado. Validade mínima de 06 meses.",
+              "unidade": "PC",
+              "quantidade": "100,00",
+              "valor_referencia": "2,88"
+            },
+            {
+              "numero": "30",
+              "especificacao": "9900515360 AMIDO DE MILHO:amido de milho refinado (pó branco, fino e sem odor), em embalagens lacradas de 1kg. Acondicionamento em local seco e protegido da umidade.Validade mínima de 12 meses.",
+              "unidade": "KG",
+              "quantidade": "100,00",
+              "valor_referencia": "12,32"
+            },
+            {
+              "numero": "31",
+              "especificacao": "36875 COCO RALADO SECO:coco seco ralado sem adição de açúcar (branco, seco, sem umidade excessiva, sabor e aromas naturais), em embalagens lacradas de 100g. Composição: polpa de coco desidratada. Acondicionamento em local seco e fresco. Validade mínima de 12 meses.",
+              "unidade": "PC",
+              "quantidade": "30,00",
+              "valor_referencia": "7,13"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2-DLE-040-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "381 / 2026",
+      "modalidade": "DISPENSA ELETRÔNICA",
+      "situacao": "HABILITAÇÃO",
+      "condutor": "ISLA LIMA SILVA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO",
+      "publicacao": "08/05/2026 10:44",
+      "inicio_recepcao": "08/05/2026 10:50",
+      "fim_recepcao": "14/05/2026 08:15",
+      "inicio_disputa": "14/05/2026 08:30",
+      "objeto": "Contratação de empresa especializada em fornecimento de [COLETES INSTITUCIONAIS] (material de consumo), a fim de atender as necessidades da Secretaria Municipal de Finanças.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DpcPK_kIXzadUVwcUPpRuIatxqeYWkn6Ztp10Ee57lCno7l0_ek55Por7D%2FWoadGMGOySsxzmnJkQACDVSv2z5T0%2FA%2FCj6bQ9qDbQId7JySE%3D",
+      "total_lotes": 4,
+      "total_itens": 4,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "8410114770 COLETE INSTITUCIONAL:Tamanho P; Emmaterial brim leve, tactel ou poliéster reforçado; Cor azul, conforme brasão PMTF; Fechamento com zíper frontal; 01 bolso superior com zíper (para documentos), 01 bolso interno; Com brasão da Prefeitura de Tei",
+          "fase": "HABILITAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "511,41",
+          "vencedor": "PONTAL DA PESCA LTDA",
+          "melhor_oferta": "386,97",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "8410114770 COLETE INSTITUCIONAL:Tamanho P; Emmaterial brim leve, tactel ou poliéster reforçado; Cor azul, conforme brasão PMTF; Fechamento com zíper frontal; 01 bolso superior com zíper (para documentos), 01 bolso interno; Com brasão da Prefeitura de Teixeira de Freitas bordado no peito esquerdo; Escrita de identificação na parte da frente: \"Secretaria Municipal de Finanças\", podendo ser bordada ou pintada, em cor branca ou amarela para contraste; Escrita de identificação nas costas: \"Fiscalização de Rendas\", \"Cadastro Técnico\" ou \"Dívida ativa\", podendo ser bordada ou pintada, em cor branca ou amarela para contraste.",
+              "unidade": "UND",
+              "quantidade": "3,00",
+              "valor_referencia": "170,47"
+            }
+          ]
+        },
+        {
+          "numero": "2",
+          "titulo": "8410114771 COLETE INSTITUCIONAL:Tamanho M; Emmaterial brim leve, tactel ou poliéster reforçado; Cor azul, conforme brasão PMTF; Fechamento com zíper frontal; 01 bolso superior com zíper (para documentos), 01 bolso interno; Com brasão da Prefeitura de Tei",
+          "fase": "HABILITAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "2.975,70",
+          "vencedor": "PONTAL DA PESCA LTDA",
+          "melhor_oferta": "2.144,85",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "8410114771 COLETE INSTITUCIONAL:Tamanho M; Emmaterial brim leve, tactel ou poliéster reforçado; Cor azul, conforme brasão PMTF; Fechamento com zíper frontal; 01 bolso superior com zíper (para documentos), 01 bolso interno; Com brasão da Prefeitura de Teixeira de Freitas bordado no peito esquerdo; Escrita de identificação na parte da frente: \"Secretaria Municipal de Finanças\", podendo ser bordada ou pintada, em cor branca ou amarela para contraste; Escrita de identificação nas costas: \"Fiscalização de Rendas\", \"Cadastro Técnico\" ou \"Dívida ativa\", podendo ser bordada ou pintada, em cor branca ou amarela para contraste.",
+              "unidade": "UND",
+              "quantidade": "15,00",
+              "valor_referencia": "198,38"
+            }
+          ]
+        },
+        {
+          "numero": "3",
+          "titulo": "8410114772 COLETE INSTITUCIONAL:Tamanho G; Emmaterial brim leve, tactel ou poliéster reforçado; Cor azul, conforme brasão PMTF; Fechamento com zíper frontal; 01 bolso superior com zíper (para documentos), 01 bolso interno; Com brasão da Prefeitura de Tei",
+          "fase": "HABILITAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "3.053,40",
+          "vencedor": "PONTAL DA PESCA LTDA",
+          "melhor_oferta": "1.400,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "8410114772 COLETE INSTITUCIONAL:Tamanho G; Emmaterial brim leve, tactel ou poliéster reforçado; Cor azul, conforme brasão PMTF; Fechamento com zíper frontal; 01 bolso superior com zíper (para documentos), 01 bolso interno; Com brasão da Prefeitura de Teixeira de Freitas bordado no peito esquerdo; Escrita de identificação na parte da frente: \"Secretaria Municipal de Finanças\", podendo ser bordada ou pintada, em cor branca ou amarela para contraste; Escrita de identificação nas costas: \"Fiscalização de Rendas\", \"Cadastro Técnico\" ou \"Dívida ativa\", podendo ser bordada ou pintada, em cor branca ou amarela para contraste.",
+              "unidade": "UND",
+              "quantidade": "14,00",
+              "valor_referencia": "218,10"
+            }
+          ]
+        },
+        {
+          "numero": "4",
+          "titulo": "8410114773 COLETE INSTITUCIONAL:Tamanho GG; Emmaterial brim leve, tactel ou poliéster reforçado; Cor azul, conforme brasão PMTF; Fechamento com zíper frontal; 01 bolso superior com zíper (para documentos), 01 bolso interno; Com brasão da Prefeitura de Te",
+          "fase": "HABILITAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "672,54",
+          "vencedor": "PONTAL DA PESCA LTDA",
+          "melhor_oferta": "298,98",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "8410114773 COLETE INSTITUCIONAL:Tamanho GG; Emmaterial brim leve, tactel ou poliéster reforçado; Cor azul, conforme brasão PMTF; Fechamento com zíper frontal; 01 bolso superior com zíper (para documentos), 01 bolso interno; Com brasão da Prefeitura de Teixeira de Freitas bordado no peito esquerdo; Escrita de identificação na parte da frente: \"Secretaria Municipal de Finanças\", podendo ser bordada ou pintada, em cor branca ou amarela para contraste; Escrita de identificação nas costas: \"Fiscalização de Rendas\", \"Cadastro Técnico\" ou \"Dívida ativa\", podendo ser bordada ou pintada, em cor branca ou amarela para contraste.",
+              "unidade": "UND",
+              "quantidade": "3,00",
+              "valor_referencia": "224,18"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3-DLE-044-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "441 / 2026",
+      "modalidade": "DISPENSA ELETRÔNICA",
+      "situacao": "HOMOLOGADO",
+      "condutor": "ISLA LIMA SILVA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO PARCELADA",
+      "publicacao": "04/05/2026 11:21",
+      "inicio_recepcao": "04/05/2026 11:25",
+      "fim_recepcao": "08/05/2026 08:15",
+      "inicio_disputa": "08/05/2026 08:30",
+      "objeto": "Contratação de empresa especializada em fornecimento de MEDICAMENTOS (material de consumo),  a fim de atender as demandas da Secretaria Municipal de Saúde.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DexUULzZLLI3l4YhumadZXmU4ZHhflyqK8ZivW_boZZxwYaYb6Xh%2FqRBe0QDpHk1RCLf6WTYVAnWFTl5pISF%2F9axHlMTvdpvIocSv%2FSWo86E%3D",
+      "total_lotes": 9,
+      "total_itens": 9,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "36637 ENALAPRIL:20MG. EXCLUVISO PARA ME/EPP.",
+          "fase": "HOMOLOGADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "2.800,00",
+          "vencedor": "CALIXTO MEDICAMENTOS LTDA",
+          "melhor_oferta": "2.400,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "36637 ENALAPRIL:20MG. EXCLUVISO PARA ME/EPP.",
+              "unidade": "CO",
+              "quantidade": "40.000,00",
+              "valor_referencia": "0,07"
+            }
+          ]
+        },
+        {
+          "numero": "2",
+          "titulo": "34796 MICONAZOL:NITRATO 2% CREME VAGINAL. EXCLUVISO PARA ME/EPP.",
+          "fase": "DESERTO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "8.380,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "34796 MICONAZOL:NITRATO 2% CREME VAGINAL. EXCLUVISO PARA ME/EPP.",
+              "unidade": "Und.",
+              "quantidade": "2.000,00",
+              "valor_referencia": "4,19"
+            }
+          ]
+        },
+        {
+          "numero": "3",
+          "titulo": "36638 IBUPROFENO:50mg/Ml suspensão oral 30mL - gotas. EXCLUSIVO PARA ME/EPP.",
+          "fase": "HOMOLOGADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "3.520,00",
+          "vencedor": "CALIXTO MEDICAMENTOS LTDA",
+          "melhor_oferta": "3.520,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "36638 IBUPROFENO:50mg/Ml suspensão oral 30mL - gotas. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "FR",
+              "quantidade": "1.600,00",
+              "valor_referencia": "2,20"
+            }
+          ]
+        },
+        {
+          "numero": "4",
+          "titulo": "35791 ALPRAZOLAM:2MG EXCLUSIVO PARA ME/EPP.",
+          "fase": "FRACASSADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "180,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "35791 ALPRAZOLAM:2MG EXCLUSIVO PARA ME/EPP.",
+              "unidade": "CO",
+              "quantidade": "1.000,00",
+              "valor_referencia": "0,18"
+            }
+          ]
+        },
+        {
+          "numero": "5",
+          "titulo": "37313 NISTATINA:creme vaginal 25.000 UI/g tubo com 60g + aplicador. EXCLUVISO PARA ME/EPP.",
+          "fase": "HOMOLOGADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "5.082,00",
+          "vencedor": "CALIXTO MEDICAMENTOS LTDA",
+          "melhor_oferta": "5.082,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37313 NISTATINA:creme vaginal 25.000 UI/g tubo com 60g + aplicador. EXCLUVISO PARA ME/EPP.",
+              "unidade": "Und.",
+              "quantidade": "700,00",
+              "valor_referencia": "7,26"
+            }
+          ]
+        },
+        {
+          "numero": "6",
+          "titulo": "9900100149 PERMAGANATO DE POTÁSSIO:100MG. EXCLUSIVO PARA ME/EPP.",
+          "fase": "DESERTO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "162,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900100149 PERMAGANATO DE POTÁSSIO:100MG. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "CO",
+              "quantidade": "600,00",
+              "valor_referencia": "0,27"
+            }
+          ]
+        },
+        {
+          "numero": "7",
+          "titulo": "34777 AZITROMICINA:comprimido revestido ou cápsula 500mg. EXCLUVISO PARA ME/EPP.",
+          "fase": "HOMOLOGADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "8.100,00",
+          "vencedor": "CALIXTO MEDICAMENTOS LTDA",
+          "melhor_oferta": "8.100,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "34777 AZITROMICINA:comprimido revestido ou cápsula 500mg. EXCLUVISO PARA ME/EPP.",
+              "unidade": "CO",
+              "quantidade": "10.000,00",
+              "valor_referencia": "0,81"
+            }
+          ]
+        },
+        {
+          "numero": "8",
+          "titulo": "9900100209 Lanceta:para punção digital teste glicemico. EXCLUVISO PARA ME/EPP.",
+          "fase": "HOMOLOGADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "1.200,00",
+          "vencedor": "ERA DISTRIBUIDORA LTDA",
+          "melhor_oferta": "1.200,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900100209 Lanceta:para punção digital teste glicemico. EXCLUVISO PARA ME/EPP.",
+              "unidade": "Und.",
+              "quantidade": "8.000,00",
+              "valor_referencia": "0,15"
+            }
+          ]
+        },
+        {
+          "numero": "9",
+          "titulo": "37312 HALOPERIDOL:5MG/ML AMPOLA 1ML. EXCLUVISO PARA ME/EPP.",
+          "fase": "HOMOLOGADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "3.780,00",
+          "vencedor": "VITALMED IMPORTAÇÃO, EXPORTAÇÃO E DISTRIBUIÇÃO LTDA",
+          "melhor_oferta": "3.400,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37312 HALOPERIDOL:5MG/ML AMPOLA 1ML. EXCLUVISO PARA ME/EPP.",
+              "unidade": "AMP",
+              "quantidade": "2.000,00",
+              "valor_referencia": "1,89"
             }
           ]
         }
@@ -272730,38 +272686,38 @@
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "705/2024",
       "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "HOMOLOGADO",
-      "condutor": "MAGDA DE SELES GUIMARÃES",
+      "situacao": "SUSPENSO",
+      "condutor": "VICTOR KINIDEL DETHLING",
       "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
       "tipo_contrato": "AQUISIÇÃO",
-      "publicacao": "13/06/2024 18:49",
-      "inicio_recepcao": "14/06/2024 08:00",
-      "fim_recepcao": "10/07/2024 13:45",
-      "inicio_disputa": "10/07/2024 14:00",
-      "objeto": "O objeto da presente licitação é a contratação de INSTITUIÇÃO FINANCEIRA ESPECIALIZADA NA PRESTAÇÃO DE SERVIÇOS BANCÁRIOS PARA CENTRALIZAÇÃO, GERENCIAMENTO E PROCESSAMENTO DE CRÉDITOS DA FOLHA DE PAGAMENTO DOS SERVIDORES, a fim de atender as demandas da Secretaria Municipal de Administração, conforme condições, quantidades e especificações no Edital, Termo de Referência e seus Anexos.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DuqeGn%2FMl%2FtcR6qynW9I0SuTHpQ2It%2FaXBNR%2F9O9gKI1d4pxm0Fi6wRLzjJdTcFrssD%2F8eXskzAfte1%2Fl3cqym1AwuiO7xSQ0WsurP4ap_Mk%3D",
+      "publicacao": "15/05/2024 18:26",
+      "inicio_recepcao": "16/05/2024 08:00",
+      "fim_recepcao": "12/06/2024 09:45",
+      "inicio_disputa": "12/06/2024 10:00",
+      "objeto": "Contratação de instituição financeira para prestação de serviços bancários para centralização, gerenciamento e processamento de créditos da folha de pagamento dos servidores, a fim de atender as demandas da Prefeitura de Teixeira de Freitas, conforme condições, quantidades e especificações no Edital, Termo de Referência e seus Anexos.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DUzAixSBpIbBiVc56kOlvBlOFIx_CT3CFGjRECnCm3zYu7OImsfxhVmCPjCXKk2v9dMCc65rEqYD0eeDTuwH4zHaLjCgbfzVrg_jxpUekggE%3D",
       "total_lotes": 1,
       "total_itens": 1,
       "lotes": [
         {
           "numero": "1",
-          "titulo": "SERVIÇOS BANCÁRIOS",
-          "fase": "HOMOLOGADO",
-          "tipo": "GLOBAL",
+          "titulo": "LOTE 01",
+          "fase": "SUSPENSO",
+          "tipo": "UNITÁRIO",
           "quantidade": "1",
-          "intervalo_minimo": "0,01",
+          "intervalo_minimo": "100,00",
           "exclusivo_me": "NÃO",
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "6.052.150,00",
-          "vencedor": "ITAÚ UNIBANCO S.A.",
-          "melhor_oferta": "6.053.000,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
           "total_itens": 1,
           "itens": [
             {
               "numero": "1",
               "especificacao": "CONTRATAÇÃO DE INSTITUIÇÃO FINANCEIRA: ESPECIALIZADA NA PRESTAÇÃO DE SERVIÇOS BANCÁRIOS PARA CENTRALIZAÇÃO, GERENCIAMENTO E PROCESSAMENTO DE CRÉDITOS DA FOLHA DE PAGAMENTO DOS SERVIDORES DA PREFEITURA MUNICIPAL DE TEIXEIRA DE FREITAS/BA.",
-              "unidade": "UN",
+              "unidade": "SERVIÇO",
               "quantidade": "1,00",
               "valor_referencia": "6.052.150,00"
             }
