@@ -1,9 +1,9 @@
 {
   "metadata": {
     "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-    "total_registros": 674,
-    "total_itens": 2373,
-    "atualizado_em": "20260608_193820"
+    "total_registros": 675,
+    "total_itens": 2374,
+    "atualizado_em": "20260610_193637"
   },
   "registros": [
     {
@@ -38561,6 +38561,38 @@
           "marca": "NÃO SE APLICA",
           "modelo": "NÃO SE APLICA",
           "valor": "850000,0000"
+        }
+      ]
+    },
+    {
+      "id": "DLS-056-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "633/2026",
+      "modalidade": "DISPENSA",
+      "status": "CONCLUÍDA",
+      "coordenador": "ISLA LIMA SILVA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "ano_referencia": "2026",
+      "data_publicacao": "10/06/2026 19:20:19",
+      "data_conclusao": "10/06/2026 19:20:23",
+      "artigo": "Art. 75º",
+      "inciso": "VIII",
+      "justificativa": "2. JUSTIFICATIVA E FUNDAMENTAÇÃO DA CONTRATAÇÃO2.1. Justifica-se a contratação direta por Dispensa de Licitação, nos termos do art. 75, inciso VIII da Lei Federal n.º 14.133, de 2021 eart. 1º, alínea (e), do Decreto Municipal n.º 304, de 2025.2.2. A contratação da empresa, visa suprir as necessidades do Departamento de Demanda Judicial da Secretaria Municipal de Saúdevisando atender a liminar deferida nos autos do processo Nº 8000982-36.2021.8.05.0256 garantindo o cumprimento de obrigações legaise a prestação de cuidados essenciais à saúde.2.3. Conforme consta nos autos do processo, paciente menor de idade portador de Síndrome do QT Longo Tipo 3, uma condiçãogenética grave, confirmada por teste genético (mutação SCN5A, p.E1783K), que predispõe a episódios de arritmia cardíacapotencialmente fatais, especialmente em situações de repouso ou durante o sono. Trata-se de uma patologia rara e de alto risco, queexige tratamento contínuo, específico e urgente, com necessidade de abordagem terapêutica personalizada (gene-guiada).2.4. O tratamento indicado pela equipe médica especializada consiste na administração diária do medicamento MEXILETINA 200 mg,que atua como estabilizador da condução elétrica cardíaca, sendo fundamental para a prevenção de eventos arrítmicos graves e,consequentemente, para a preservação da vida do paciente.2.5. De acordo com os relatórios e laudos médicos anexados aos autos, especialmente no evento 97304422, fica evidenciada aurgência e imprescindibilidade do início imediato do tratamento, uma vez que a não utilização do fármaco expõe o paciente a riscoiminente de morte súbita cardíaca.2.6. Além disso, a família do paciente encontra-se em situação de vulnerabilidade socioeconômica, não possuindo condiçõesfinanceiras de arcar com o custo elevado do medicamento, o que inviabiliza a continuidade do tratamento por meios próprios.2.7. Dessa forma, a aquisição do medicamento MEXILETINA 200 mg justifica-se pela necessidade de garantir o direito fundamentalà saúde e à vida do paciente, conforme preconizado pela Constituição Federal e respaldado pela legislação vigente. A urgência e arelevância da medida estão devidamente documentadas no processo, com destaque para os documentos médicos constantes no evento97304422, que fundamentam tecnicamente a solicitação.",
+      "legislacao": "Lei nº 14.133",
+      "objeto": "Contratação de empresa especializada para o fornecimento de [MEDICAMENTO MEXILETINA (material de consumo)], a fim de\natender as necessidades da Secretaria Municipal de Saúde",
+      "observacao": "",
+      "link": "https://bllcompras.com/DirectBuy/DirectBuyView?param1=%5Bgkz%5DzkDAMXXw88I4hgQ4CDbvEB_r59GGQ9C73B51hXcw8Zfv7sjdcb1ncww8aZzq8eEB3VKlk7EJB0mDY4I%2F1d_7WmacgTPlfEwlCK8dKh8phxQ%3D",
+      "total_itens": 1,
+      "itens": [
+        {
+          "numero": "1",
+          "descricao": "MEXILETINA 200MG: Caixa 100 comprimidos",
+          "quantidade": "12,0000",
+          "unidade": "CAIXA",
+          "fornecedor": "URBANBOX COMÉRCIO E SERVIÇOS LTDA",
+          "marca": "TEVA PHARMACEUTICALS",
+          "modelo": "",
+          "valor": "1055,0000"
         }
       ]
     }

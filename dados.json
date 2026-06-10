@@ -1,10 +1,10 @@
 {
   "metadata": {
     "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-    "total_processos": 810,
-    "total_lotes": 8842,
-    "total_itens": 15172,
-    "atualizado_em": "20260609_193517"
+    "total_processos": 812,
+    "total_lotes": 8844,
+    "total_itens": 15175,
+    "atualizado_em": "20260610_193505"
   },
   "processos": [
     {
@@ -261471,74 +261471,6 @@
       ]
     },
     {
-      "id": "PE-086-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "1350 / 2025",
-      "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "RECEPÇÃO DE PROPOSTAS",
-      "condutor": "JONATAS DA SILVA SOUSA",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO",
-      "publicacao": "26/05/2026 17:00",
-      "inicio_recepcao": "28/05/2026 08:30",
-      "fim_recepcao": "10/06/2026 08:15",
-      "inicio_disputa": "10/06/2026 08:30",
-      "objeto": "Contratação de empresa especializada em fornecimento de BETONEIRA E CARRO COLETOR (material permanente e de consumo), a fim de atender as demandas da Secretaria Municipal de Infraestrutura e Serviços Urbanos.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DhaDw77qr0BQkX%2FbZ5X_OMQPIWRlThv9D47A9_A2KmlrJ8pWxngd1Lko%2F8zQ2q7cuGYuQexg8Z6MrOd9sBWqL6kYujSB17mwGnMd5K32gcRs%3D",
-      "total_lotes": 2,
-      "total_itens": 2,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "700110361 BETONEIRA 400L:tambor 400 litros, misturam 315 litros, 15 ciclos/hora, produção 4,7 m³, tambor com 26 rpm, motor com 2 cv, tensão monofásica de 220v, frequência de 60 hz, transmissão por correia tipo v a44 e peso 160kg. EXCLUSIVO PARA ME/EPP.",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "700110361 BETONEIRA 400L:tambor 400 litros, misturam 315 litros, 15 ciclos/hora, produção 4,7 m³, tambor com 26 rpm, motor com 2 cv, tensão monofásica de 220v, frequência de 60 hz, transmissão por correia tipo v a44 e peso 160kg. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "Und.",
-              "quantidade": "2,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "2",
-          "titulo": "9900514889 CARRINHO COLETOR 120L EMPOLIETILENO:carrinho coletor de lixo 120l deve ser sem pedal e com 120 litros, fabricado em polietileno de alta densidade (pead) ou polipropileno (pp) e injetados em máquinas de alta tecnologia ou através do processo de",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900514889 CARRINHO COLETOR 120L EMPOLIETILENO:carrinho coletor de lixo 120l deve ser sem pedal e com 120 litros, fabricado em polietileno de alta densidade (pead) ou polipropileno (pp) e injetados em máquinas de alta tecnologia ou através do processo de rotomoldagem, respeitando as principais normas vigentes da agência nacional de vigilância sanitária (ANVISA). Resistentes ao impacto, aos raios ultravioleta e às repetidas lavagens, garantindo segurança, confiabilidade e durabilidade, devendo ter capacidade para armazenar 120 litros ou 58 kg de lixo. Devem ser dotados de rodas de borracha com 200mm de diâmetro e eixo reforçado. As cores deverão ser vermelha, verde, preto, marrom, laranja, cinza, branco, azul e amarelo, que fazem relação com os diferentes tipos de coleta. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "Und.",
-              "quantidade": "50,00",
-              "valor_referencia": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "2-DLE-041-2026",
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "240-2026",
@@ -272682,42 +272614,205 @@
       ]
     },
     {
-      "id": "PE-027-2024",
+      "id": "3-DLE-057-2026",
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "705/2024",
-      "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "SUSPENSO",
-      "condutor": "VICTOR KINIDEL DETHLING",
+      "numero_adm": "516 / 2026",
+      "modalidade": "DISPENSA ELETRÔNICA",
+      "situacao": "RECEPÇÃO DE PROPOSTAS",
+      "condutor": "ISAQUE SILVA DOS SANTOS",
       "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
       "tipo_contrato": "AQUISIÇÃO",
-      "publicacao": "15/05/2024 18:26",
-      "inicio_recepcao": "16/05/2024 08:00",
-      "fim_recepcao": "12/06/2024 09:45",
-      "inicio_disputa": "12/06/2024 10:00",
-      "objeto": "Contratação de instituição financeira para prestação de serviços bancários para centralização, gerenciamento e processamento de créditos da folha de pagamento dos servidores, a fim de atender as demandas da Prefeitura de Teixeira de Freitas, conforme condições, quantidades e especificações no Edital, Termo de Referência e seus Anexos.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DUzAixSBpIbBiVc56kOlvBlOFIx_CT3CFGjRECnCm3zYu7OImsfxhVmCPjCXKk2v9dMCc65rEqYD0eeDTuwH4zHaLjCgbfzVrg_jxpUekggE%3D",
+      "publicacao": "10/06/2026 18:26",
+      "inicio_recepcao": "10/06/2026 18:33",
+      "fim_recepcao": "16/06/2026 08:15",
+      "inicio_disputa": "16/06/2026 08:30",
+      "objeto": "Contratação de empresa especializada em prestação de serviço de MANUTENÇÃO CORRETIVA COM FORNECIMENTO DE PEÇAS E COMPONENTES ORIGINAIS OU COMPATÍVEIS DE GERADOR DE ENERGIA, a fim de atender as demandas da Secretaria Municipal de Saúde.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DZ9l2QXTsqCJqU3FuAll2e0Di6d%2FQSEgRBTFnWDs8pe1KS1nkhQBu58OUp0yxibN2CdzxMAybzjWWkY3hFxF6lkOuZ1HM8sopg9AvXWGYcXQ%3D",
+      "total_lotes": 1,
+      "total_itens": 2,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "MANUTENÇÃO GERADORES",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "6.766,64",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 2,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9902900165 MANUTENÇÃO CORRETIVA EM GERADOR DEENERGIA:Execução de serviços de manutenção corretiva em geradores de energia elétrica do Município, abrangendo diagnóstico de falhas, reparos e normas técnicas aplicáveis. Devem ser verificados e reparados sistemas elétricos, mecânicos e de combustível, filtros, cabos, conexões e demais elementos críticos, assegurando eficiência, segurança e confiabilidade do gerador. A execução deverá ser realizada por equipe técnica qualificada, utilizando ferramentas, equipamentos e procedimentos adequados, com emissão de relatório detalhado contendo as falhas identificadas, os serviços realizados.Motor marca: BRANCO, Série: CF23007948, Código: 90316070, Modelo: JFWZF7P90, Potência: 38,8/28,6 KVA, Regime: Standby, Tensão: 380/220 V, Rotação: 1800 RPM, Peso do equipamento: 255 kg, Data de fabricação: abr/23.",
+              "unidade": "SER",
+              "quantidade": "1,00",
+              "valor_referencia": "1.766,64"
+            },
+            {
+              "numero": "2",
+              "especificacao": "9900515619 FORNECIMENTO DE PEÇAS E COMPONENTES ORIGINAIS OU COMPATÍVEIS DE QUALIDADECOMPROVADA DE GERADOR:Fornecimento de peças e componentes necessários para manutenção e corretiva de gerador. Todos os itens fornecidos deverão ser originais ou compatíveis de qualidade comprovada, garantindo a operação eficiente, segura e contínua dos equipamentos",
+              "unidade": "Und.",
+              "quantidade": "1,00",
+              "valor_referencia": "5.000,00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-091-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "333 / 2026",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "PUBLICADO",
+      "condutor": "SERGIO CARNEIRO CAVALCANTI DE AZEVEDO",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO PARCELADA",
+      "publicacao": "10/06/2026 15:17",
+      "inicio_recepcao": "12/06/2026 00:00",
+      "fim_recepcao": "24/06/2026 08:15",
+      "inicio_disputa": "24/06/2026 08:30",
+      "objeto": "Contratação de empresa especializada em fornecimento e instalação de CORTINAS BLACKOUT (material de consumo), a fim de atender as demandas da Secretaria Municipal de Educação.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5Dpq1D8upAGLQo9hlQPQQa90Ny3m_2zzWiJswq7CC_j7PJduGJ7SJnvl0%2FWZH9y6Zo%2FxWd076m0PI_CibAo2N5qPCqIcnF4QOsKKEnnJZ6v4Y%3D",
       "total_lotes": 1,
       "total_itens": 1,
       "lotes": [
         {
           "numero": "1",
-          "titulo": "LOTE 01",
-          "fase": "SUSPENSO",
-          "tipo": "UNITÁRIO",
+          "titulo": "CORTINAS BLACKOUT",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
           "quantidade": "1",
-          "intervalo_minimo": "100,00",
+          "intervalo_minimo": "0,01",
           "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "6.052.150,00",
+          "local_entrega": "",
+          "garantia": "",
+          "valor_referencia": "",
           "vencedor": "",
           "melhor_oferta": "0,00",
           "total_itens": 1,
           "itens": [
             {
               "numero": "1",
+              "especificacao": "7203000001 Fornecimento e instalação de cortinas tipoblackout:confeccionadas sob medida, em tecido 100% poliésterou material sintético de características técnicas equivalentes,com bloqueio mínimo de 90% da luminosidade, tratamentoantimofo, antialérgico e de fácil higienização, na cor a serdefinida pela Administração, observada a padronização dasunidades escolares. As cortinas deverão possuir acabamentoreforçado, costuras duplas, barras inferiores com peso paraadequado caimento e estética, contemplando folgas laterais esuperiores necessárias à formação de ondulações e ao corretofuncionamento. O fornecimento deverá incluir todos osacessórios necessários à instalação completa, tais como trilhosou varões em alumínio ou aço com pintura eletrostática,suportes, buchas, parafusos, ponteiras e demais ferragenscompatíveis. A contratação compreende obrigatoriamente arealização de medição prévia in loco, fabricação sob medida,transporte, montagem, instalação por profissional qualificado,ajustes necessários e limpeza final do ambiente, garantindoperfeito alinhamento, nivelamento, funcionamento e durabilidadedo conjunto instalado. Garantia mínima de 12 (doze) meses.",
+              "unidade": "M²",
+              "quantidade": "2.000,00",
+              "valor_referencia": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-086-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "1350 / 2025",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "JULGAMENTO",
+      "condutor": "JONATAS DA SILVA SOUSA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO",
+      "publicacao": "26/05/2026 17:00",
+      "inicio_recepcao": "28/05/2026 08:30",
+      "fim_recepcao": "10/06/2026 08:15",
+      "inicio_disputa": "10/06/2026 08:30",
+      "objeto": "Contratação de empresa especializada em fornecimento de BETONEIRA E CARRO COLETOR (material permanente e de consumo), a fim de atender as demandas da Secretaria Municipal de Infraestrutura e Serviços Urbanos.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DiLV7EIcY0sVAbdTxU%2Fq5%2Fn5kqe6%2F0%2Fx8dvvheCBHgSw_qECyzbG3CKoN%2FgtIr_PN2ZSbAw1jhf6ObMQns_E6hEdFy26VSSmyeBY4r3ttjUA%3D",
+      "total_lotes": 2,
+      "total_itens": 2,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "700110361 BETONEIRA 400L:tambor 400 litros, misturam 315 litros, 15 ciclos/hora, produção 4,7 m³, tambor com 26 rpm, motor com 2 cv, tensão monofásica de 220v, frequência de 60 hz, transmissão por correia tipo v a44 e peso 160kg. EXCLUSIVO PARA ME/EPP.",
+          "fase": "JULGAMENTO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "11.020,12",
+          "vencedor": "BARRETO COMERCIO AGRICOLA LTDA",
+          "melhor_oferta": "10.000,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "700110361 BETONEIRA 400L:tambor 400 litros, misturam 315 litros, 15 ciclos/hora, produção 4,7 m³, tambor com 26 rpm, motor com 2 cv, tensão monofásica de 220v, frequência de 60 hz, transmissão por correia tipo v a44 e peso 160kg. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "Und.",
+              "quantidade": "2,00",
+              "valor_referencia": "5.510,06"
+            }
+          ]
+        },
+        {
+          "numero": "1",
+          "titulo": "700110361 BETONEIRA 400L:tambor 400 litros, misturam 315 litros, 15 ciclos/hora, produção 4,7 m³, tambor com 26 rpm, motor com 2 cv, tensão monofásica de 220v, frequência de 60 hz, transmissão por correia tipo v a44 e peso 160kg. EXCLUSIVO PARA ME/EPP.",
+          "fase": "JULGAMENTO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "11.020,12",
+          "vencedor": "BARRETO COMERCIO AGRICOLA LTDA",
+          "melhor_oferta": "10.000,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "700110361 BETONEIRA 400L:tambor 400 litros, misturam 315 litros, 15 ciclos/hora, produção 4,7 m³, tambor com 26 rpm, motor com 2 cv, tensão monofásica de 220v, frequência de 60 hz, transmissão por correia tipo v a44 e peso 160kg. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "Und.",
+              "quantidade": "2,00",
+              "valor_referencia": "5.510,06"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-027-2024",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "705/2024",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "HOMOLOGADO",
+      "condutor": "MAGDA DE SELES GUIMARÃES",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO",
+      "publicacao": "13/06/2024 18:49",
+      "inicio_recepcao": "14/06/2024 08:00",
+      "fim_recepcao": "10/07/2024 13:45",
+      "inicio_disputa": "10/07/2024 14:00",
+      "objeto": "O objeto da presente licitação é a contratação de INSTITUIÇÃO FINANCEIRA ESPECIALIZADA NA PRESTAÇÃO DE SERVIÇOS BANCÁRIOS PARA CENTRALIZAÇÃO, GERENCIAMENTO E PROCESSAMENTO DE CRÉDITOS DA FOLHA DE PAGAMENTO DOS SERVIDORES, a fim de atender as demandas da Secretaria Municipal de Administração, conforme condições, quantidades e especificações no Edital, Termo de Referência e seus Anexos.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DEIqkdbLa0t9J8mTl5vm0E%2FKJSpBhbuegli1lwmdWZEs09zEg64SuizENMr5evWwD_pbLyxmU3xAsDditPa8BuN7r4V8FuX8UsqRBIG%2FSsWY%3D",
+      "total_lotes": 1,
+      "total_itens": 1,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "SERVIÇOS BANCÁRIOS",
+          "fase": "HOMOLOGADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "6.052.150,00",
+          "vencedor": "ITAÚ UNIBANCO S.A.",
+          "melhor_oferta": "6.053.000,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
               "especificacao": "CONTRATAÇÃO DE INSTITUIÇÃO FINANCEIRA: ESPECIALIZADA NA PRESTAÇÃO DE SERVIÇOS BANCÁRIOS PARA CENTRALIZAÇÃO, GERENCIAMENTO E PROCESSAMENTO DE CRÉDITOS DA FOLHA DE PAGAMENTO DOS SERVIDORES DA PREFEITURA MUNICIPAL DE TEIXEIRA DE FREITAS/BA.",
-              "unidade": "SERVIÇO",
+              "unidade": "UN",
               "quantidade": "1,00",
               "valor_referencia": "6.052.150,00"
             }
