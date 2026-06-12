@@ -1,10 +1,10 @@
 {
   "metadata": {
     "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-    "total_processos": 812,
-    "total_lotes": 8844,
-    "total_itens": 15175,
-    "atualizado_em": "20260611_193522"
+    "total_processos": 814,
+    "total_lotes": 8846,
+    "total_itens": 15177,
+    "atualizado_em": "20260612_193505"
   },
   "processos": [
     {
@@ -242294,50 +242294,6 @@
       ]
     },
     {
-      "id": "2-DLE-017-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "93/2026",
-      "modalidade": "DISPENSA ELETRÔNICA",
-      "situacao": "HABILITAÇÃO",
-      "condutor": "ISLA LIMA SILVA",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO",
-      "publicacao": "02/03/2026 20:08",
-      "inicio_recepcao": "24/03/2026 10:00",
-      "fim_recepcao": "01/04/2026 08:15",
-      "inicio_disputa": "01/04/2026 08:30",
-      "objeto": "Contratação de empresa especializada na prestação de serviço de FORNECIMENTO E INSTALAÇÃO DE ESTRUTURA\nMETÁLICA, a fim de atender as necessidades da Secretaria Municipal de Infraestrutura e Serviços Urbanos.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DX8veQikLhk07kphXG7iD8t9mmbinIXhgQZmBUspf4BA35WYCun%2FcuF8h27NZyOb2b5oQzNhqpx3%2FfZypBaeGEAHap8Qm1YPSJE_Dcl00asQ%3D",
-      "total_lotes": 1,
-      "total_itens": 1,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "FORNECIMENTO E INSTALAÇÃO DE ESTRUTURA  METÁLICA",
-          "fase": "HABILITAÇÃO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "",
-          "valor_referencia": "14.533,33",
-          "vencedor": "CIDPS CONSTRUÇÃO CIVIL, ELÉTRICA, HIDRAÚLICA E CONSULTORIA LIMITADA",
-          "melhor_oferta": "11.481,33",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "FORNECIMENTO E INSTALAÇÃO DE ESTRUTURAMETÁLICA, COMPOSTA POR DUAS CHAPASGALVANIZADAS, DESTINADA À INTEGRAÇÃO AOMONUMENTO EM ALVENARIA PARA A COMPOSIÇÃODO MONUMENTO EM HOMENAGEM À BÍBLIA:Serviço defornecimento e instalação de duas chapas galvanizadas,cada uma com dimensões de 1,70 m x 2,00 m,confeccionadas com leve curvatura para representar, deforma plástica, uma folha apoiada sobre a estrutura dealvenaria existente, compondo simbolicamente uma Bíbliaaberta.As chapas deverão receber pintura automotiva na cordourada, com aplicação prévia de plotagem adesiva dosversículos bíblicos diretamente sobre a superfície metálicacrua. Concluída a pintura, a plotagem deverá ser removida,revelando os versículos no tom natural do metal, emcontraste com o acabamento em dourado, conferindodestaque visual e valorização estética ao monumento.Para a correta instalação e fixação das chapas, deverá serexecutada estrutura metálica de sustentação, fabricada emtubos de aço, discretamente posicionada entre as chapas ea alvenaria existente, de forma a permanecer oculta,garantindo estabilidade, segurança, alinhamento adequado eacabamento visual limpo. EXCLUSIVO PARA ME/EPP",
-              "unidade": "SER",
-              "quantidade": "1,00",
-              "valor_referencia": "14.533,33"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "2-DLE-033-2026",
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "273/2026",
@@ -270508,50 +270464,6 @@
       ]
     },
     {
-      "id": "PE-075-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "174 / 2026",
-      "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "HABILITAÇÃO",
-      "condutor": "JONATAS DA SILVA SOUSA",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO",
-      "publicacao": "06/05/2026 15:46",
-      "inicio_recepcao": "08/05/2026 08:30",
-      "fim_recepcao": "01/06/2026 08:45",
-      "inicio_disputa": "01/06/2026 09:00",
-      "objeto": "Contratação de empresa especializada em fornecimento de LINÓLEO (material de consumo),  a fim de atender as demandas da Secretaria Municipal de Cultura e Turismo.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5D2hp8hSUTcGqVouwth2NBduOin0ZK7Gq%2Faj0ENiBaefJzlbUX%2FW%2FetyiFhaui1jUFQf2Mx7IAcKuoHdO0SB5Gm9hhXVS5lpSoZbobja0hC9A%3D",
-      "total_lotes": 1,
-      "total_itens": 1,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "LINÓLEO FINO",
-          "fase": "HABILITAÇÃO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "249.780,00",
-          "vencedor": "SLOW COFFEE BRASIL E PFD LTDA",
-          "melhor_oferta": "64.680,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900515363 LINÓLEO FINO:- revestimento flexível compostopor óleo de linhaça, resinas naturais, cortiça e pigmentosminerais, prensados sobre base de juta; antiderrapante,resistente ao desgaste, com absorção de impacto; nas corescinza e/ou preto; largura padrão de 1.8 até 2 metros e espessurade 1.2mm",
-              "unidade": "m2",
-              "quantidade": "2.000,00",
-              "valor_referencia": "124,89"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "PE-090-2026",
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "342 / 2026",
@@ -271367,98 +271279,6 @@
       ]
     },
     {
-      "id": "2-DLE-052-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "443 / 2026",
-      "modalidade": "DISPENSA ELETRÔNICA",
-      "situacao": "JULGAMENTO",
-      "condutor": "ISLA LIMA SILVA",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO",
-      "publicacao": "02/06/2026 16:34",
-      "inicio_recepcao": "02/06/2026 16:38",
-      "fim_recepcao": "09/06/2026 08:15",
-      "inicio_disputa": "09/06/2026 08:30",
-      "objeto": "Contratação de empresa especializada em fornecimento de [VASSOURAS] (material de consumo), a fim de atender às necessidades da Secretaria Municipal de Infraestrutura e Serviços Urbanos.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5Df5yACRr_C6MvRCy9i7cClOBxSHH7EjCyNYF1vrU_A%2FU9Hela%2Fkousz9QwW1WxoSeNSLUQEWkzZpy3cUmdt_RRkRonv20GZ9801HUSjvoPms%3D",
-      "total_lotes": 3,
-      "total_itens": 3,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "7901700102 VASSOURA PET PEQUENA:com cabo de madeira de 1,10 a 1,20 m cerdas de fibra de pet, largura das cerdas entre 23 e 28cm. EXCLUSIVO PARA ME/EPP.",
-          "fase": "JULGAMENTO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "7.137,00",
-          "vencedor": "LEGI DISTRIBUIDORA LTDA",
-          "melhor_oferta": "5.892,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "7901700102 VASSOURA PET PEQUENA:com cabo de madeira de 1,10 a 1,20 m cerdas de fibra de pet, largura das cerdas entre 23 e 28cm. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "UND",
-              "quantidade": "300,00",
-              "valor_referencia": "23,79"
-            }
-          ]
-        },
-        {
-          "numero": "2",
-          "titulo": "7901700103 VASSOURA PET GRANDE:com cabo de madeira de 1,10 a 1,20 m cerdas de fibra de pet, largura das cerdas entre 35 e 40cm. EXCLUSIVO PARA ME/EPP.",
-          "fase": "JULGAMENTO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "6.100,00",
-          "vencedor": "LEGI DISTRIBUIDORA LTDA",
-          "melhor_oferta": "5.998,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "7901700103 VASSOURA PET GRANDE:com cabo de madeira de 1,10 a 1,20 m cerdas de fibra de pet, largura das cerdas entre 35 e 40cm. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "UND",
-              "quantidade": "200,00",
-              "valor_referencia": "30,50"
-            }
-          ]
-        },
-        {
-          "numero": "3",
-          "titulo": "7901700104 VASSOURA RASTELO METALICAREGULÁVEL:com cabo, 22 dentes, comprimento aproximado de 2,54cm. EXCLUSIVO ME/EPP.",
-          "fase": "JULGAMENTO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "3.528,00",
-          "vencedor": "L.F.E COMERCIAL DE ALIMENTOS LTDA",
-          "melhor_oferta": "4.935,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "7901700104 VASSOURA RASTELO METALICAREGULÁVEL:com cabo, 22 dentes, comprimento aproximado de 2,54cm. EXCLUSIVO ME/EPP.",
-              "unidade": "UND",
-              "quantidade": "150,00",
-              "valor_referencia": "23,52"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "2-DLE-049-2026",
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "466 / 2026",
@@ -271778,122 +271598,6 @@
       ]
     },
     {
-      "id": "2-DLE-040-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "381 / 2026",
-      "modalidade": "DISPENSA ELETRÔNICA",
-      "situacao": "HABILITAÇÃO",
-      "condutor": "ISLA LIMA SILVA",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO",
-      "publicacao": "08/05/2026 10:44",
-      "inicio_recepcao": "08/05/2026 10:50",
-      "fim_recepcao": "14/05/2026 08:15",
-      "inicio_disputa": "14/05/2026 08:30",
-      "objeto": "Contratação de empresa especializada em fornecimento de [COLETES INSTITUCIONAIS] (material de consumo), a fim de atender as necessidades da Secretaria Municipal de Finanças.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DpcPK_kIXzadUVwcUPpRuIatxqeYWkn6Ztp10Ee57lCno7l0_ek55Por7D%2FWoadGMGOySsxzmnJkQACDVSv2z5T0%2FA%2FCj6bQ9qDbQId7JySE%3D",
-      "total_lotes": 4,
-      "total_itens": 4,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "8410114770 COLETE INSTITUCIONAL:Tamanho P; Emmaterial brim leve, tactel ou poliéster reforçado; Cor azul, conforme brasão PMTF; Fechamento com zíper frontal; 01 bolso superior com zíper (para documentos), 01 bolso interno; Com brasão da Prefeitura de Tei",
-          "fase": "HABILITAÇÃO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "511,41",
-          "vencedor": "PONTAL DA PESCA LTDA",
-          "melhor_oferta": "386,97",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "8410114770 COLETE INSTITUCIONAL:Tamanho P; Emmaterial brim leve, tactel ou poliéster reforçado; Cor azul, conforme brasão PMTF; Fechamento com zíper frontal; 01 bolso superior com zíper (para documentos), 01 bolso interno; Com brasão da Prefeitura de Teixeira de Freitas bordado no peito esquerdo; Escrita de identificação na parte da frente: \"Secretaria Municipal de Finanças\", podendo ser bordada ou pintada, em cor branca ou amarela para contraste; Escrita de identificação nas costas: \"Fiscalização de Rendas\", \"Cadastro Técnico\" ou \"Dívida ativa\", podendo ser bordada ou pintada, em cor branca ou amarela para contraste.",
-              "unidade": "UND",
-              "quantidade": "3,00",
-              "valor_referencia": "170,47"
-            }
-          ]
-        },
-        {
-          "numero": "2",
-          "titulo": "8410114771 COLETE INSTITUCIONAL:Tamanho M; Emmaterial brim leve, tactel ou poliéster reforçado; Cor azul, conforme brasão PMTF; Fechamento com zíper frontal; 01 bolso superior com zíper (para documentos), 01 bolso interno; Com brasão da Prefeitura de Tei",
-          "fase": "HABILITAÇÃO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "2.975,70",
-          "vencedor": "PONTAL DA PESCA LTDA",
-          "melhor_oferta": "2.144,85",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "8410114771 COLETE INSTITUCIONAL:Tamanho M; Emmaterial brim leve, tactel ou poliéster reforçado; Cor azul, conforme brasão PMTF; Fechamento com zíper frontal; 01 bolso superior com zíper (para documentos), 01 bolso interno; Com brasão da Prefeitura de Teixeira de Freitas bordado no peito esquerdo; Escrita de identificação na parte da frente: \"Secretaria Municipal de Finanças\", podendo ser bordada ou pintada, em cor branca ou amarela para contraste; Escrita de identificação nas costas: \"Fiscalização de Rendas\", \"Cadastro Técnico\" ou \"Dívida ativa\", podendo ser bordada ou pintada, em cor branca ou amarela para contraste.",
-              "unidade": "UND",
-              "quantidade": "15,00",
-              "valor_referencia": "198,38"
-            }
-          ]
-        },
-        {
-          "numero": "3",
-          "titulo": "8410114772 COLETE INSTITUCIONAL:Tamanho G; Emmaterial brim leve, tactel ou poliéster reforçado; Cor azul, conforme brasão PMTF; Fechamento com zíper frontal; 01 bolso superior com zíper (para documentos), 01 bolso interno; Com brasão da Prefeitura de Tei",
-          "fase": "HABILITAÇÃO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "3.053,40",
-          "vencedor": "PONTAL DA PESCA LTDA",
-          "melhor_oferta": "1.400,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "8410114772 COLETE INSTITUCIONAL:Tamanho G; Emmaterial brim leve, tactel ou poliéster reforçado; Cor azul, conforme brasão PMTF; Fechamento com zíper frontal; 01 bolso superior com zíper (para documentos), 01 bolso interno; Com brasão da Prefeitura de Teixeira de Freitas bordado no peito esquerdo; Escrita de identificação na parte da frente: \"Secretaria Municipal de Finanças\", podendo ser bordada ou pintada, em cor branca ou amarela para contraste; Escrita de identificação nas costas: \"Fiscalização de Rendas\", \"Cadastro Técnico\" ou \"Dívida ativa\", podendo ser bordada ou pintada, em cor branca ou amarela para contraste.",
-              "unidade": "UND",
-              "quantidade": "14,00",
-              "valor_referencia": "218,10"
-            }
-          ]
-        },
-        {
-          "numero": "4",
-          "titulo": "8410114773 COLETE INSTITUCIONAL:Tamanho GG; Emmaterial brim leve, tactel ou poliéster reforçado; Cor azul, conforme brasão PMTF; Fechamento com zíper frontal; 01 bolso superior com zíper (para documentos), 01 bolso interno; Com brasão da Prefeitura de Te",
-          "fase": "HABILITAÇÃO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "672,54",
-          "vencedor": "PONTAL DA PESCA LTDA",
-          "melhor_oferta": "298,98",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "8410114773 COLETE INSTITUCIONAL:Tamanho GG; Emmaterial brim leve, tactel ou poliéster reforçado; Cor azul, conforme brasão PMTF; Fechamento com zíper frontal; 01 bolso superior com zíper (para documentos), 01 bolso interno; Com brasão da Prefeitura de Teixeira de Freitas bordado no peito esquerdo; Escrita de identificação na parte da frente: \"Secretaria Municipal de Finanças\", podendo ser bordada ou pintada, em cor branca ou amarela para contraste; Escrita de identificação nas costas: \"Fiscalização de Rendas\", \"Cadastro Técnico\" ou \"Dívida ativa\", podendo ser bordada ou pintada, em cor branca ou amarela para contraste.",
-              "unidade": "UND",
-              "quantidade": "3,00",
-              "valor_referencia": "224,18"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "3-DLE-044-2026",
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "441 / 2026",
@@ -272181,118 +271885,6 @@
       ]
     },
     {
-      "id": "PE-091-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "333 / 2026",
-      "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "PUBLICADO",
-      "condutor": "SERGIO CARNEIRO CAVALCANTI DE AZEVEDO",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO PARCELADA",
-      "publicacao": "10/06/2026 15:17",
-      "inicio_recepcao": "12/06/2026 00:00",
-      "fim_recepcao": "24/06/2026 08:15",
-      "inicio_disputa": "24/06/2026 08:30",
-      "objeto": "Contratação de empresa especializada em fornecimento e instalação de CORTINAS BLACKOUT (material de consumo), a fim de atender as demandas da Secretaria Municipal de Educação.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5Dpq1D8upAGLQo9hlQPQQa90Ny3m_2zzWiJswq7CC_j7PJduGJ7SJnvl0%2FWZH9y6Zo%2FxWd076m0PI_CibAo2N5qPCqIcnF4QOsKKEnnJZ6v4Y%3D",
-      "total_lotes": 1,
-      "total_itens": 1,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "CORTINAS BLACKOUT",
-          "fase": "PUBLICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "",
-          "garantia": "",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "7203000001 Fornecimento e instalação de cortinas tipoblackout:confeccionadas sob medida, em tecido 100% poliésterou material sintético de características técnicas equivalentes,com bloqueio mínimo de 90% da luminosidade, tratamentoantimofo, antialérgico e de fácil higienização, na cor a serdefinida pela Administração, observada a padronização dasunidades escolares. As cortinas deverão possuir acabamentoreforçado, costuras duplas, barras inferiores com peso paraadequado caimento e estética, contemplando folgas laterais esuperiores necessárias à formação de ondulações e ao corretofuncionamento. O fornecimento deverá incluir todos osacessórios necessários à instalação completa, tais como trilhosou varões em alumínio ou aço com pintura eletrostática,suportes, buchas, parafusos, ponteiras e demais ferragenscompatíveis. A contratação compreende obrigatoriamente arealização de medição prévia in loco, fabricação sob medida,transporte, montagem, instalação por profissional qualificado,ajustes necessários e limpeza final do ambiente, garantindoperfeito alinhamento, nivelamento, funcionamento e durabilidadedo conjunto instalado. Garantia mínima de 12 (doze) meses.",
-              "unidade": "M²",
-              "quantidade": "2.000,00",
-              "valor_referencia": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "PE-086-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "1350 / 2025",
-      "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "JULGAMENTO",
-      "condutor": "JONATAS DA SILVA SOUSA",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO",
-      "publicacao": "26/05/2026 17:00",
-      "inicio_recepcao": "28/05/2026 08:30",
-      "fim_recepcao": "10/06/2026 08:15",
-      "inicio_disputa": "10/06/2026 08:30",
-      "objeto": "Contratação de empresa especializada em fornecimento de BETONEIRA E CARRO COLETOR (material permanente e de consumo), a fim de atender as demandas da Secretaria Municipal de Infraestrutura e Serviços Urbanos.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DiLV7EIcY0sVAbdTxU%2Fq5%2Fn5kqe6%2F0%2Fx8dvvheCBHgSw_qECyzbG3CKoN%2FgtIr_PN2ZSbAw1jhf6ObMQns_E6hEdFy26VSSmyeBY4r3ttjUA%3D",
-      "total_lotes": 2,
-      "total_itens": 2,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "700110361 BETONEIRA 400L:tambor 400 litros, misturam 315 litros, 15 ciclos/hora, produção 4,7 m³, tambor com 26 rpm, motor com 2 cv, tensão monofásica de 220v, frequência de 60 hz, transmissão por correia tipo v a44 e peso 160kg. EXCLUSIVO PARA ME/EPP.",
-          "fase": "JULGAMENTO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "11.020,12",
-          "vencedor": "BARRETO COMERCIO AGRICOLA LTDA",
-          "melhor_oferta": "10.000,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "700110361 BETONEIRA 400L:tambor 400 litros, misturam 315 litros, 15 ciclos/hora, produção 4,7 m³, tambor com 26 rpm, motor com 2 cv, tensão monofásica de 220v, frequência de 60 hz, transmissão por correia tipo v a44 e peso 160kg. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "Und.",
-              "quantidade": "2,00",
-              "valor_referencia": "5.510,06"
-            }
-          ]
-        },
-        {
-          "numero": "1",
-          "titulo": "700110361 BETONEIRA 400L:tambor 400 litros, misturam 315 litros, 15 ciclos/hora, produção 4,7 m³, tambor com 26 rpm, motor com 2 cv, tensão monofásica de 220v, frequência de 60 hz, transmissão por correia tipo v a44 e peso 160kg. EXCLUSIVO PARA ME/EPP.",
-          "fase": "JULGAMENTO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "11.020,12",
-          "vencedor": "BARRETO COMERCIO AGRICOLA LTDA",
-          "melhor_oferta": "10.000,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "700110361 BETONEIRA 400L:tambor 400 litros, misturam 315 litros, 15 ciclos/hora, produção 4,7 m³, tambor com 26 rpm, motor com 2 cv, tensão monofásica de 220v, frequência de 60 hz, transmissão por correia tipo v a44 e peso 160kg. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "Und.",
-              "quantidade": "2,00",
-              "valor_referencia": "5.510,06"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "2-DLE-055-2026",
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "240 / 2026",
@@ -272337,218 +271929,6 @@
       ]
     },
     {
-      "id": "PE-084-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "269 / 2026",
-      "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "ADJUDICADO",
-      "condutor": "JONATAS DA SILVA SOUSA",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO PARCELADA",
-      "publicacao": "22/05/2026 17:42",
-      "inicio_recepcao": "26/05/2026 08:30",
-      "fim_recepcao": "08/06/2026 08:15",
-      "inicio_disputa": "08/06/2026 08:30",
-      "objeto": "Contratação de empresa especializada no fornecimento de DOCES (material de consumo), a fim de atender às demandas da Secretaria Municipal de Educação.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5Dah%2FMIhnouxcPw2siJkSA1R9tCOhATRyqjbIcCdYpyCISqqGFCR_KN9yzsGCX6ToNFhEqJv6ipa1FBvTYkErxOo_hMlvt0JWLLawRxhzNC8E%3D",
-      "total_lotes": 8,
-      "total_itens": 8,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "37141 Bombom tipo wafer recheado com creme de castanha de caju e cobertura de chocolate:Produto alimentício do tipo bombom à base de wafer crocante, com recheio cremoso sabor castanha de caju, coberto com chocolate ao leite ou similar, apresentando textur",
-          "fase": "ADJUDICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "8.419,20",
-          "vencedor": "LEGI DISTRIBUIDORA LTDA",
-          "melhor_oferta": "8.419,20",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37141 Bombom tipo wafer recheado com creme de castanha de caju e cobertura de chocolate:Produto alimentício do tipo bombom à base de wafer crocante, com recheio cremoso sabor castanha de caju, coberto com chocolate ao leite ou similar, apresentando textura que combina crocância do wafer com cremosidade do recheio, sabor marcante e homogêneo, próprio para consumo humano. Deverá ser elaborado com ingredientes de boa qualidade, contendo, entre outros, derivados de trigo, leite e castanha de caju, podendo conter soja, amendoim e traços de glúten, conforme rotulagem do fabricante. Embalagem primária: bombons embalados individualmente, em invólucro apropriado para alimentos, íntegro, sem rasgos, furos ou sinais de violação. Embalagem secundária: pacote com peso líquido de 1 kg, devendo constar, a identificação clara do produto, marca, peso líquido, lote, data de fabricação e validade. Produto pronto para consumo, isento de corpos estranhos, sujidades, umidade excessiva, deformações acentuadas ou sinais de deterioração. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "PCT",
-              "quantidade": "120,00",
-              "valor_referencia": "70,16"
-            }
-          ]
-        },
-        {
-          "numero": "2",
-          "titulo": "37142 Bombom tipo wafer recheado com creme de chocolate meio amargo e flocos de arroz, coberto com chocolate branco:Produto alimentício do tipo bombom wafer, composto por camadas de wafer crocante, recheio cremoso sabor chocolate meio amargo com flocos de",
-          "fase": "ADJUDICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "8.498,40",
-          "vencedor": "LEGI DISTRIBUIDORA LTDA",
-          "melhor_oferta": "8.498,40",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37142 Bombom tipo wafer recheado com creme de chocolate meio amargo e flocos de arroz, coberto com chocolate branco:Produto alimentício do tipo bombom wafer, composto por camadas de wafer crocante, recheio cremoso sabor chocolate meio amargo com flocos de arroz e cobertura de chocolate branco, conferindo contraste de sabores e texturas, adequado ao consumo individual. Deverá apresentar textura crocante do wafer e dos flocos de arroz, combinada à cremosidade do recheio, sabor característico de chocolate meio amargo e chocolate branco, isento de odores ou sabores estranhos e de sinais de rancificação. Embalagem primária: unidades embaladas individualmente, em filme apropriado para contato com alimentos, íntegro e inviolado. Embalagem secundária: pacote ou caixa com peso líquido de 1 kg, com identificação do produto (bombom wafer recheado), marca, peso líquido, lote, data de fabricação, data de validade, lista de ingredientes, informação nutricional e advertências sobre alergênicos (trigo, leite, soja, amendoim, entre outros), bem como identificação do fabricante (nome/razão social e CNPJ) e registro no órgão competente. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "PCT",
-              "quantidade": "120,00",
-              "valor_referencia": "70,82"
-            }
-          ]
-        },
-        {
-          "numero": "3",
-          "titulo": "9900515543 Bombom tipo wafer recheado com creme sabor chocolate ao leite, coberto com chocolate ao leite:Produto alimentício do tipo bombom chocolate, consistindo em wafer crocante com recheio cremoso sabor chocolate ao leite e cobertura externa também de",
-          "fase": "ADJUDICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "8.439,60",
-          "vencedor": "LEGI DISTRIBUIDORA LTDA",
-          "melhor_oferta": "8.439,60",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900515543 Bombom tipo wafer recheado com creme sabor chocolate ao leite, coberto com chocolate ao leite:Produto alimentício do tipo bombom chocolate, consistindo em wafer crocante com recheio cremoso sabor chocolate ao leite e cobertura externa também de chocolate ao leite, destinado ao consumo imediato. Produto deve apresentar cor, sabor e aroma característicos de chocolate, textura firme, sem grumos, sem sinais de umidade excessiva, deformação, esbranquiçamento (\"fat bloom\") acentuado ou qualquer indício de deterioração.Embalagem: bombons embalados individualmente, acondicionados em pacote com peso líquido de 1 kg, em material apropriado para alimentos, resistente e íntegro, contendo identificação do produto, marca, peso líquido, lote, data de fabricação, validade, informações nutricionais, lista de ingredientes e advertências sobre alergênicos, além do nome/razão social e CNPJ do fabricante e número de registro no órgão competente. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "PCT",
-              "quantidade": "120,00",
-              "valor_referencia": "70,33"
-            }
-          ]
-        },
-        {
-          "numero": "4",
-          "titulo": "9900515544 Bala de goma tipo jujuba sortida em tubos:Produto alimentício do tipo bala de goma (jujuba) açucarada, macia, mastigável, em sabores sortidos de frutas (como morango, uva, laranja, limão, abacaxi ou similares), acondicionada em tubos plásticos",
-          "fase": "ADJUDICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "3.043,00",
-          "vencedor": "LEGI DISTRIBUIDORA LTDA",
-          "melhor_oferta": "3.043,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900515544 Bala de goma tipo jujuba sortida em tubos:Produto alimentício do tipo bala de goma (jujuba) açucarada, macia, mastigável, em sabores sortidos de frutas (como morango, uva, laranja, limão, abacaxi ou similares), acondicionada em tubos plásticos individuais, própria para consumo humano. Deverá apresentar textura macia, não excessivamente pegajosa, sem cristalização exagerada de açúcar na superfície, isenta de sujidades, corpos estranhos, odor e sabor estranhos ou sinais de fermentação. Embalagem: tubo com no mínimo 8 unidades de jujubas, com peso aproximado de 30 g a 35 g cada tubo, acondicionado em caixa com 30 tubos por caixa, devendo constar na rotulagem a identificação do produto (bala de goma tipo jujuba), sabor sortido, peso, lote, data de fabricação, prazo de validade, lista de ingredientes, informação nutricional, advertências sobre alergênicos e presença/ausência de glúten, além do nome/razão social e CNPJ do fabricante. EXCLUSIVOPARA ME/EPP.",
-              "unidade": "CX",
-              "quantidade": "100,00",
-              "valor_referencia": "30,43"
-            }
-          ]
-        },
-        {
-          "numero": "4",
-          "titulo": "9900515544 Bala de goma tipo jujuba sortida em tubos:Produto alimentício do tipo bala de goma (jujuba) açucarada, macia, mastigável, em sabores sortidos de frutas (como morango, uva, laranja, limão, abacaxi ou similares), acondicionada em tubos plásticos",
-          "fase": "ADJUDICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "3.043,00",
-          "vencedor": "LEGI DISTRIBUIDORA LTDA",
-          "melhor_oferta": "3.043,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900515544 Bala de goma tipo jujuba sortida em tubos:Produto alimentício do tipo bala de goma (jujuba) açucarada, macia, mastigável, em sabores sortidos de frutas (como morango, uva, laranja, limão, abacaxi ou similares), acondicionada em tubos plásticos individuais, própria para consumo humano. Deverá apresentar textura macia, não excessivamente pegajosa, sem cristalização exagerada de açúcar na superfície, isenta de sujidades, corpos estranhos, odor e sabor estranhos ou sinais de fermentação. Embalagem: tubo com no mínimo 8 unidades de jujubas, com peso aproximado de 30 g a 35 g cada tubo, acondicionado em caixa com 30 tubos por caixa, devendo constar na rotulagem a identificação do produto (bala de goma tipo jujuba), sabor sortido, peso, lote, data de fabricação, prazo de validade, lista de ingredientes, informação nutricional, advertências sobre alergênicos e presença/ausência de glúten, além do nome/razão social e CNPJ do fabricante. EXCLUSIVOPARA ME/EPP.",
-              "unidade": "CX",
-              "quantidade": "100,00",
-              "valor_referencia": "30,43"
-            }
-          ]
-        },
-        {
-          "numero": "6",
-          "titulo": "9900515546 Bala de café:Produto alimentício do tipo bala dura ou mastigável, sabor café, com aroma e sabor característicos de café torrado, própria para consumo humano, destinada à oferta em eventos, reuniões e ações institucionais. Deverá apresentar text",
-          "fase": "ADJUDICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "1.963,00",
-          "vencedor": "LEGI DISTRIBUIDORA LTDA",
-          "melhor_oferta": "1.963,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900515546 Bala de café:Produto alimentício do tipo bala dura ou mastigável, sabor café, com aroma e sabor característicos de café torrado, própria para consumo humano, destinada à oferta em eventos, reuniões e ações institucionais. Deverá apresentar textura uniforme (dura ou levemente mastigável, conforme o tipo), sem rachaduras excessivas, sem cristais de açúcar soltos em demasia, isenta de corpos estranhos, sujidades, umidade excessiva, deformações anormais ou odor e sabor estranhos.Embalagem: balas embaladas individualmente, acondicionadas em pacote com peso líquido mínimo de 500g, em material apropriado para contato com alimentos, íntegro e inviolado, com identificação do produto (bala de café), marca, peso líquido, lote, data de fabricação, prazo de validade, lista de ingredientes, informação nutricional e advertências sobre alergênicos, além dos dados do fabricante (nome/razão social, CNPJ) e registro no órgão competente. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "PCT",
-              "quantidade": "100,00",
-              "valor_referencia": "19,63"
-            }
-          ]
-        },
-        {
-          "numero": "6",
-          "titulo": "9900515546 Bala de café:Produto alimentício do tipo bala dura ou mastigável, sabor café, com aroma e sabor característicos de café torrado, própria para consumo humano, destinada à oferta em eventos, reuniões e ações institucionais. Deverá apresentar text",
-          "fase": "ADJUDICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "1.963,00",
-          "vencedor": "LEGI DISTRIBUIDORA LTDA",
-          "melhor_oferta": "1.963,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900515546 Bala de café:Produto alimentício do tipo bala dura ou mastigável, sabor café, com aroma e sabor característicos de café torrado, própria para consumo humano, destinada à oferta em eventos, reuniões e ações institucionais. Deverá apresentar textura uniforme (dura ou levemente mastigável, conforme o tipo), sem rachaduras excessivas, sem cristais de açúcar soltos em demasia, isenta de corpos estranhos, sujidades, umidade excessiva, deformações anormais ou odor e sabor estranhos.Embalagem: balas embaladas individualmente, acondicionadas em pacote com peso líquido mínimo de 500g, em material apropriado para contato com alimentos, íntegro e inviolado, com identificação do produto (bala de café), marca, peso líquido, lote, data de fabricação, prazo de validade, lista de ingredientes, informação nutricional e advertências sobre alergênicos, além dos dados do fabricante (nome/razão social, CNPJ) e registro no órgão competente. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "PCT",
-              "quantidade": "100,00",
-              "valor_referencia": "19,63"
-            }
-          ]
-        },
-        {
-          "numero": "5",
-          "titulo": "9900515545 Bala de goma tipo jujuba sabor iogurte em tubos:Produto alimentício do tipo bala de goma (jujuba), macia, mastigável, com sabores sortidos inspirados em iogurte de frutas (como morango, uva, pêssego ou similares), apresentando textura suave e a",
-          "fase": "ADJUDICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "3.584,00",
-          "vencedor": "LEGI DISTRIBUIDORA LTDA",
-          "melhor_oferta": "3.584,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900515545 Bala de goma tipo jujuba sabor iogurte em tubos:Produto alimentício do tipo bala de goma (jujuba), macia, mastigável, com sabores sortidos inspirados em iogurte de frutas (como morango, uva, pêssego ou similares), apresentando textura suave e aroma característico de iogurte, acondicionada em tubos plásticos individuais. Deverá ser elaborada com ingredientes próprios para consumo humano, apresentando cores e formatos compatíveis com a categoria, sem presença de corpos estranhos, sujidades, deformações excessivas ou sinais de deterioração. Embalagem: tubo com no mínimo 8 unidades de jujubas, com peso aproximado de 30 g a 35 g cada tubo, acondicionado em caixa com 30 tubos por caixa, com rotulagem contendo denominação do produto (bala de goma sabor iogurte), sabores, peso, lote, data de fabricação, prazo de validade, lista de ingredientes, informação nutricional, advertências sobre alergênicos e identificação completa do fabricante (nome/razão social, CNPJ e endereço), e registro no órgão competente.EXCLUSIVO PARA ME/EPP.",
-              "unidade": "CX",
-              "quantidade": "100,00",
-              "valor_referencia": "35,84"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "4-DLE-045-2026",
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "392 / 2026",
@@ -272587,122 +271967,6 @@
               "unidade": "UN",
               "quantidade": "50,00",
               "valor_referencia": "370,00"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "PE-074-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "1673 / 2025",
-      "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "ADJUDICADO",
-      "condutor": "SERGIO CARNEIRO CAVALCANTI DE AZEVEDO",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "REGISTRO DE PREÇO",
-      "publicacao": "06/05/2026 12:23",
-      "inicio_recepcao": "08/05/2026 08:30",
-      "fim_recepcao": "21/05/2026 08:15",
-      "inicio_disputa": "21/05/2026 08:30",
-      "objeto": "Contratação de empresa especializada em fornecimento de TUBOS EM POLIETILENO DE ALTA DENSIDADE (PEAD) (material de consumo), cujas especificações técnicas, quantidades e demais condições encontram-se detalhadas neste instrumento, a fim de atender as demandas da Secretaria Municipal de Infraestrutura e Serviços Urbanos.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5Dd1e8BrxiIK2vFNQwzUu1CsSufPRti2i_nzVucu8kPqRtt7o4kmOvGr5LE62nllq4oMWEpiC7ItjNwWnqN26rRvXAPo01Go_Avcw3nj8wOEc%3D",
-      "total_lotes": 4,
-      "total_itens": 4,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "9900515230 TUBO PEAD 400 MM:tubo extrudado, parede dupla em pead (polietileno de alta densidade), com união ponta e bolsa, liso internamente e corrugado externamente, em barras de 6m de comprimento, cor preta, pigmentada com negro de fumo, com diâmetro no",
-          "fase": "ADJUDICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "463.137,50",
-          "vencedor": "EREMASTER DISTRIBUIDORA DE FERRAGENS E FERRAMENTAS LTDA",
-          "melhor_oferta": "423.500,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900515230 TUBO PEAD 400 MM:tubo extrudado, parede dupla em pead (polietileno de alta densidade), com união ponta e bolsa, liso internamente e corrugado externamente, em barras de 6m de comprimento, cor preta, pigmentada com negro de fumo, com diâmetro nominal DN/DI 400 mm (baseado no diâmetro interno), classe de rigidez sn4, conforme norma DNIT 094/2014",
-              "unidade": "Und.",
-              "quantidade": "350,00",
-              "valor_referencia": "1.323,25"
-            }
-          ]
-        },
-        {
-          "numero": "2",
-          "titulo": "9900515231 TUBO PEAD 800 MM:tubo extrudado, parede dupla em pead (polietileno de alta densidade), com união ponta e bolsa, liso internamente e corrugado externamente, em barras de 6m de comprimento, cor preta, pigmentada com negro de fumo, com diâmetro no",
-          "fase": "FRACASSADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "892.514,00",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900515231 TUBO PEAD 800 MM:tubo extrudado, parede dupla em pead (polietileno de alta densidade), com união ponta e bolsa, liso internamente e corrugado externamente, em barras de 6m de comprimento, cor preta, pigmentada com negro de fumo, com diâmetro nominal DN/DI 800 mm (baseado no diâmetro interno), classe de rigidez sn4, conforme norma DNIT 094/2014",
-              "unidade": "Und.",
-              "quantidade": "200,00",
-              "valor_referencia": "4.462,57"
-            }
-          ]
-        },
-        {
-          "numero": "3",
-          "titulo": "9900515232 TUBO PEAD 1500 MM:tubo extrudado, parede dupla em pead (polietileno de alta densidade), com união ponta e bolsa, liso internamente e corrugado externamente, em barras de 6m de comprimento, cor preta, pigmentada com negro de fumo, com diâmetro n",
-          "fase": "ADJUDICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "905.640,00",
-          "vencedor": "TUBOS TIGRE-ADS DO BRASIL LTDA",
-          "melhor_oferta": "853.799,40",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900515232 TUBO PEAD 1500 MM:tubo extrudado, parede dupla em pead (polietileno de alta densidade), com união ponta e bolsa, liso internamente e corrugado externamente, em barras de 6m de comprimento, cor preta, pigmentada com negro de fumo, com diâmetro nominal DN/DI 1500 mm (baseado no diâmetro interno), classe de rigidez sn2, conforme norma DNIT 094/2014",
-              "unidade": "Und.",
-              "quantidade": "60,00",
-              "valor_referencia": "15.094,00"
-            }
-          ]
-        },
-        {
-          "numero": "4",
-          "titulo": "36839 TUBO PEAD 300 MM:: tubo extrudado, parede dupla em pead (polietileno de alta densidade), com união ponta e  bolsa, liso internamente e corrugado externamente, em  barras de 6m de comprimento, cor preta, pigmentada com  negro de fumo, com diâmetro no",
-          "fase": "ADJUDICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "169.878,00",
-          "vencedor": "EREMASTER DISTRIBUIDORA DE FERRAGENS E FERRAMENTAS LTDA",
-          "melhor_oferta": "133.000,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "36839 TUBO PEAD 300 MM:: tubo extrudado, parede dupla em pead (polietileno de alta densidade), com união ponta e bolsa, liso internamente e corrugado externamente, em barras de 6m de comprimento, cor preta, pigmentada com negro de fumo, com diâmetro nominal dn/di 300 mm (baseado no diâmetro interno), classe de rigidez sn4, conforme norma dnit 094/2014.",
-              "unidade": "Und.",
-              "quantidade": "200,00",
-              "valor_referencia": "849,39"
             }
           ]
         }
@@ -272777,42 +272041,866 @@
       ]
     },
     {
-      "id": "PE-027-2024",
+      "id": "PE-094-2026",
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "705/2024",
+      "numero_adm": "623 / 2026",
       "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "SUSPENSO",
-      "condutor": "VICTOR KINIDEL DETHLING",
+      "situacao": "PUBLICADO",
+      "condutor": "JONATAS DA SILVA SOUSA",
       "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO",
-      "publicacao": "15/05/2024 18:26",
-      "inicio_recepcao": "16/05/2024 08:00",
-      "fim_recepcao": "12/06/2024 09:45",
-      "inicio_disputa": "12/06/2024 10:00",
-      "objeto": "Contratação de instituição financeira para prestação de serviços bancários para centralização, gerenciamento e processamento de créditos da folha de pagamento dos servidores, a fim de atender as demandas da Prefeitura de Teixeira de Freitas, conforme condições, quantidades e especificações no Edital, Termo de Referência e seus Anexos.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DR8YA4hLEd3v2swoXJUIDJANAkdfv6d4jUnve%2Fk5KKafbeqPzeLELBenuVwYFDCrZfZcNtP5nUdzb7393HZAViGCcI09nNb34lPy4gEc7ByA%3D",
+      "tipo_contrato": "AQUISIÇÃO PARCELADA",
+      "publicacao": "12/06/2026 15:56",
+      "inicio_recepcao": "16/06/2026 08:30",
+      "fim_recepcao": "01/07/2026 08:15",
+      "inicio_disputa": "01/07/2026 08:30",
+      "objeto": "Contratação de empresa especializada em prestação de serviços de AGENCIAMENTO DE\nPASSAGENS AÉREAS, a fim de atender as da Secretaria Municipal de Administração e\ndemais Secretarias.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5Dy8AZMg9GcSroMQc5QBPVQzFqzhMhUUS3hBI1l%2F6BvBOVVgWK4H7Apy361q703P2Lw32evFJLJQUd5_OHVUKR1UG1OXXrj8i3Q%2F18KezFGtA%3D",
       "total_lotes": 1,
       "total_itens": 1,
       "lotes": [
         {
           "numero": "1",
-          "titulo": "LOTE 01",
-          "fase": "SUSPENSO",
-          "tipo": "UNITÁRIO",
+          "titulo": "PASSAGENS AÉREAS",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
           "quantidade": "1",
-          "intervalo_minimo": "100,00",
+          "intervalo_minimo": "0,01",
           "exclusivo_me": "NÃO",
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
-          "valor_referencia": "6.052.150,00",
+          "valor_referencia": "260.000,00",
           "vencedor": "",
           "melhor_oferta": "0,00",
           "total_itens": 1,
           "itens": [
             {
               "numero": "1",
+              "especificacao": "9903312053 Contratação de empresa especializada no serviçode agenciamento de passagens aéreas:oferecendo emissão debilhetes de passagens de todas as companhias de transporteaéreo em trechos nacionais, incluindo reserva, emissão,transferência, marcação, remarcação e reembolso, despacho debagagem.",
+              "unidade": "SER",
+              "quantidade": "1,00",
+              "valor_referencia": "260.000,00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2-DLE-058-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "696 / 2026",
+      "modalidade": "DISPENSA ELETRÔNICA",
+      "situacao": "RECEPÇÃO DE PROPOSTAS",
+      "condutor": "ISLA LIMA SILVA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO PARCELADA",
+      "publicacao": "12/06/2026 15:32",
+      "inicio_recepcao": "12/06/2026 15:36",
+      "fim_recepcao": "18/06/2026 08:15",
+      "inicio_disputa": "18/06/2026 08:30",
+      "objeto": "Contratação de empresa especializada em fornecimento de [CIMENTO PORTLAND CP-III] (material de consumo), a fim de atender as necessidades da Secretaria Municipal de Infraestrutura e Serviços Urbanos, conforme condições, quantidades e exigências estabelecidas neste Aviso de Contratação Direta, Termo de Referência e seus Anexos.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DYpQncm8JtSdc9QR8fKZgwoJmJlgaGO5jCpv7lIJjFsQ4w%2F7aoabgMKK5Bxu%2Fqza2fhOYm2iK99Ivo8oyTygM9kH%2FbP4kxcd9ofYb8ipwH2M%3D",
+      "total_lotes": 1,
+      "total_itens": 1,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "CIMENTO PORTLAND",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "65.658,60",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515822 CIMENTO PORTLAND:cimento Portland CP-III emsaco de 50KG. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "SAC",
+              "quantidade": "1.620,00",
+              "valor_referencia": "40,53"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-091-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "333 / 2026",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "RECEPÇÃO DE PROPOSTAS",
+      "condutor": "SERGIO CARNEIRO CAVALCANTI DE AZEVEDO",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO PARCELADA",
+      "publicacao": "10/06/2026 15:17",
+      "inicio_recepcao": "12/06/2026 00:00",
+      "fim_recepcao": "24/06/2026 08:15",
+      "inicio_disputa": "24/06/2026 08:30",
+      "objeto": "Contratação de empresa especializada em fornecimento e instalação de CORTINAS BLACKOUT (material de consumo), a fim de atender as demandas da Secretaria Municipal de Educação.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DFaNXwbN3rF6xu3NSZw_L6_asiZyFhDO8FHDJ7B699CuQZcNdg5Zzig8PTHscMvrb%2FNEhVmCvMlY34hcQexg1rvpb2IKLRxky7D4UNyFXymk%3D",
+      "total_lotes": 1,
+      "total_itens": 1,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "CORTINAS BLACKOUT",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "",
+          "garantia": "",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "7203000001 Fornecimento e instalação de cortinas tipoblackout:confeccionadas sob medida, em tecido 100% poliésterou material sintético de características técnicas equivalentes,com bloqueio mínimo de 90% da luminosidade, tratamentoantimofo, antialérgico e de fácil higienização, na cor a serdefinida pela Administração, observada a padronização dasunidades escolares. As cortinas deverão possuir acabamentoreforçado, costuras duplas, barras inferiores com peso paraadequado caimento e estética, contemplando folgas laterais esuperiores necessárias à formação de ondulações e ao corretofuncionamento. O fornecimento deverá incluir todos osacessórios necessários à instalação completa, tais como trilhosou varões em alumínio ou aço com pintura eletrostática,suportes, buchas, parafusos, ponteiras e demais ferragenscompatíveis. A contratação compreende obrigatoriamente arealização de medição prévia in loco, fabricação sob medida,transporte, montagem, instalação por profissional qualificado,ajustes necessários e limpeza final do ambiente, garantindoperfeito alinhamento, nivelamento, funcionamento e durabilidadedo conjunto instalado. Garantia mínima de 12 (doze) meses.",
+              "unidade": "M²",
+              "quantidade": "2.000,00",
+              "valor_referencia": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2-DLE-052-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "443 / 2026",
+      "modalidade": "DISPENSA ELETRÔNICA",
+      "situacao": "HABILITAÇÃO",
+      "condutor": "ISLA LIMA SILVA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO",
+      "publicacao": "02/06/2026 16:34",
+      "inicio_recepcao": "02/06/2026 16:38",
+      "fim_recepcao": "09/06/2026 08:15",
+      "inicio_disputa": "09/06/2026 08:30",
+      "objeto": "Contratação de empresa especializada em fornecimento de [VASSOURAS] (material de consumo), a fim de atender às necessidades da Secretaria Municipal de Infraestrutura e Serviços Urbanos.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DBwAm1Zkb5znF6oqNS2TDSo0ADHg8NC7QWQ77OmQOJQQD%2FcbIx2eKyeRwrmjWGBuZ9tfPvvWEqHEELpyoX273GAYuHxdpTw7WEIqNVYOFsPA%3D",
+      "total_lotes": 3,
+      "total_itens": 3,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "7901700102 VASSOURA PET PEQUENA:com cabo de madeira de 1,10 a 1,20 m cerdas de fibra de pet, largura das cerdas entre 23 e 28cm. EXCLUSIVO PARA ME/EPP.",
+          "fase": "HABILITAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "7.137,00",
+          "vencedor": "LEGI DISTRIBUIDORA LTDA",
+          "melhor_oferta": "5.892,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "7901700102 VASSOURA PET PEQUENA:com cabo de madeira de 1,10 a 1,20 m cerdas de fibra de pet, largura das cerdas entre 23 e 28cm. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "300,00",
+              "valor_referencia": "23,79"
+            }
+          ]
+        },
+        {
+          "numero": "2",
+          "titulo": "7901700103 VASSOURA PET GRANDE:com cabo de madeira de 1,10 a 1,20 m cerdas de fibra de pet, largura das cerdas entre 35 e 40cm. EXCLUSIVO PARA ME/EPP.",
+          "fase": "HABILITAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "6.100,00",
+          "vencedor": "LEGI DISTRIBUIDORA LTDA",
+          "melhor_oferta": "5.998,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "7901700103 VASSOURA PET GRANDE:com cabo de madeira de 1,10 a 1,20 m cerdas de fibra de pet, largura das cerdas entre 35 e 40cm. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "200,00",
+              "valor_referencia": "30,50"
+            }
+          ]
+        },
+        {
+          "numero": "3",
+          "titulo": "7901700104 VASSOURA RASTELO METALICAREGULÁVEL:com cabo, 22 dentes, comprimento aproximado de 2,54cm. EXCLUSIVO ME/EPP.",
+          "fase": "FRACASSADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "3.528,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "7901700104 VASSOURA RASTELO METALICAREGULÁVEL:com cabo, 22 dentes, comprimento aproximado de 2,54cm. EXCLUSIVO ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "150,00",
+              "valor_referencia": "23,52"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-086-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "1350 / 2025",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "HABILITAÇÃO",
+      "condutor": "JONATAS DA SILVA SOUSA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO",
+      "publicacao": "26/05/2026 17:00",
+      "inicio_recepcao": "28/05/2026 08:30",
+      "fim_recepcao": "10/06/2026 08:15",
+      "inicio_disputa": "10/06/2026 08:30",
+      "objeto": "Contratação de empresa especializada em fornecimento de BETONEIRA E CARRO COLETOR (material permanente e de consumo), a fim de atender as demandas da Secretaria Municipal de Infraestrutura e Serviços Urbanos.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DDbpuQah3XGXsZSNMy9gLU5Gwzdvz%2FRob90en%2F4oH13%2FSaCnMOrGVlfJhRKBkBZqOesxdq5G3R0E7yVkN86btada7WvzJygEJ8LhbAChp0hI%3D",
+      "total_lotes": 2,
+      "total_itens": 2,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "700110361 BETONEIRA 400L:tambor 400 litros, misturam 315 litros, 15 ciclos/hora, produção 4,7 m³, tambor com 26 rpm, motor com 2 cv, tensão monofásica de 220v, frequência de 60 hz, transmissão por correia tipo v a44 e peso 160kg. EXCLUSIVO PARA ME/EPP.",
+          "fase": "HABILITAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "11.020,12",
+          "vencedor": "BARRETO COMERCIO AGRICOLA LTDA",
+          "melhor_oferta": "10.000,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "700110361 BETONEIRA 400L:tambor 400 litros, misturam 315 litros, 15 ciclos/hora, produção 4,7 m³, tambor com 26 rpm, motor com 2 cv, tensão monofásica de 220v, frequência de 60 hz, transmissão por correia tipo v a44 e peso 160kg. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "Und.",
+              "quantidade": "2,00",
+              "valor_referencia": "5.510,06"
+            }
+          ]
+        },
+        {
+          "numero": "2",
+          "titulo": "9900514889 CARRINHO COLETOR 120L EMPOLIETILENO:carrinho coletor de lixo 120l deve ser sem pedal e com 120 litros, fabricado em polietileno de alta densidade (pead) ou polipropileno (pp) e injetados em máquinas de alta tecnologia ou através do processo de",
+          "fase": "HABILITAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "16.533,50",
+          "vencedor": "PALLET RIO INDUSTRIA E COMERCIO LTDA",
+          "melhor_oferta": "10.450,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900514889 CARRINHO COLETOR 120L EMPOLIETILENO:carrinho coletor de lixo 120l deve ser sem pedal e com 120 litros, fabricado em polietileno de alta densidade (pead) ou polipropileno (pp) e injetados em máquinas de alta tecnologia ou através do processo de rotomoldagem, respeitando as principais normas vigentes da agência nacional de vigilância sanitária (ANVISA). Resistentes ao impacto, aos raios ultravioleta e às repetidas lavagens, garantindo segurança, confiabilidade e durabilidade, devendo ter capacidade para armazenar 120 litros ou 58 kg de lixo. Devem ser dotados de rodas de borracha com 200mm de diâmetro e eixo reforçado. As cores deverão ser vermelha, verde, preto, marrom, laranja, cinza, branco, azul e amarelo, que fazem relação com os diferentes tipos de coleta. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "Und.",
+              "quantidade": "50,00",
+              "valor_referencia": "330,67"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-084-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "269 / 2026",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "HOMOLOGADO",
+      "condutor": "JONATAS DA SILVA SOUSA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO PARCELADA",
+      "publicacao": "22/05/2026 17:42",
+      "inicio_recepcao": "26/05/2026 08:30",
+      "fim_recepcao": "08/06/2026 08:15",
+      "inicio_disputa": "08/06/2026 08:30",
+      "objeto": "Contratação de empresa especializada no fornecimento de DOCES (material de consumo), a fim de atender às demandas da Secretaria Municipal de Educação.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DtwQIs6ynHLzQJeZKwXv1YHHqJX3UM%2F%2F0z%2FYsMOx6VstSHPuzm%2FtneAFOchSqflWTA_oJIIiQX1VdYuNNJSMLTunFVZSDl5atT1WM1Me6RUc%3D",
+      "total_lotes": 8,
+      "total_itens": 8,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "37141 Bombom tipo wafer recheado com creme de castanha de caju e cobertura de chocolate:Produto alimentício do tipo bombom à base de wafer crocante, com recheio cremoso sabor castanha de caju, coberto com chocolate ao leite ou similar, apresentando textur",
+          "fase": "HOMOLOGADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "8.419,20",
+          "vencedor": "LEGI DISTRIBUIDORA LTDA",
+          "melhor_oferta": "8.419,20",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37141 Bombom tipo wafer recheado com creme de castanha de caju e cobertura de chocolate:Produto alimentício do tipo bombom à base de wafer crocante, com recheio cremoso sabor castanha de caju, coberto com chocolate ao leite ou similar, apresentando textura que combina crocância do wafer com cremosidade do recheio, sabor marcante e homogêneo, próprio para consumo humano. Deverá ser elaborado com ingredientes de boa qualidade, contendo, entre outros, derivados de trigo, leite e castanha de caju, podendo conter soja, amendoim e traços de glúten, conforme rotulagem do fabricante. Embalagem primária: bombons embalados individualmente, em invólucro apropriado para alimentos, íntegro, sem rasgos, furos ou sinais de violação. Embalagem secundária: pacote com peso líquido de 1 kg, devendo constar, a identificação clara do produto, marca, peso líquido, lote, data de fabricação e validade. Produto pronto para consumo, isento de corpos estranhos, sujidades, umidade excessiva, deformações acentuadas ou sinais de deterioração. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "PCT",
+              "quantidade": "120,00",
+              "valor_referencia": "70,16"
+            }
+          ]
+        },
+        {
+          "numero": "2",
+          "titulo": "37142 Bombom tipo wafer recheado com creme de chocolate meio amargo e flocos de arroz, coberto com chocolate branco:Produto alimentício do tipo bombom wafer, composto por camadas de wafer crocante, recheio cremoso sabor chocolate meio amargo com flocos de",
+          "fase": "HOMOLOGADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "8.498,40",
+          "vencedor": "LEGI DISTRIBUIDORA LTDA",
+          "melhor_oferta": "8.498,40",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37142 Bombom tipo wafer recheado com creme de chocolate meio amargo e flocos de arroz, coberto com chocolate branco:Produto alimentício do tipo bombom wafer, composto por camadas de wafer crocante, recheio cremoso sabor chocolate meio amargo com flocos de arroz e cobertura de chocolate branco, conferindo contraste de sabores e texturas, adequado ao consumo individual. Deverá apresentar textura crocante do wafer e dos flocos de arroz, combinada à cremosidade do recheio, sabor característico de chocolate meio amargo e chocolate branco, isento de odores ou sabores estranhos e de sinais de rancificação. Embalagem primária: unidades embaladas individualmente, em filme apropriado para contato com alimentos, íntegro e inviolado. Embalagem secundária: pacote ou caixa com peso líquido de 1 kg, com identificação do produto (bombom wafer recheado), marca, peso líquido, lote, data de fabricação, data de validade, lista de ingredientes, informação nutricional e advertências sobre alergênicos (trigo, leite, soja, amendoim, entre outros), bem como identificação do fabricante (nome/razão social e CNPJ) e registro no órgão competente. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "PCT",
+              "quantidade": "120,00",
+              "valor_referencia": "70,82"
+            }
+          ]
+        },
+        {
+          "numero": "3",
+          "titulo": "9900515543 Bombom tipo wafer recheado com creme sabor chocolate ao leite, coberto com chocolate ao leite:Produto alimentício do tipo bombom chocolate, consistindo em wafer crocante com recheio cremoso sabor chocolate ao leite e cobertura externa também de",
+          "fase": "HOMOLOGADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "8.439,60",
+          "vencedor": "LEGI DISTRIBUIDORA LTDA",
+          "melhor_oferta": "8.439,60",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515543 Bombom tipo wafer recheado com creme sabor chocolate ao leite, coberto com chocolate ao leite:Produto alimentício do tipo bombom chocolate, consistindo em wafer crocante com recheio cremoso sabor chocolate ao leite e cobertura externa também de chocolate ao leite, destinado ao consumo imediato. Produto deve apresentar cor, sabor e aroma característicos de chocolate, textura firme, sem grumos, sem sinais de umidade excessiva, deformação, esbranquiçamento (\"fat bloom\") acentuado ou qualquer indício de deterioração.Embalagem: bombons embalados individualmente, acondicionados em pacote com peso líquido de 1 kg, em material apropriado para alimentos, resistente e íntegro, contendo identificação do produto, marca, peso líquido, lote, data de fabricação, validade, informações nutricionais, lista de ingredientes e advertências sobre alergênicos, além do nome/razão social e CNPJ do fabricante e número de registro no órgão competente. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "PCT",
+              "quantidade": "120,00",
+              "valor_referencia": "70,33"
+            }
+          ]
+        },
+        {
+          "numero": "4",
+          "titulo": "9900515544 Bala de goma tipo jujuba sortida em tubos:Produto alimentício do tipo bala de goma (jujuba) açucarada, macia, mastigável, em sabores sortidos de frutas (como morango, uva, laranja, limão, abacaxi ou similares), acondicionada em tubos plásticos",
+          "fase": "HOMOLOGADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "3.043,00",
+          "vencedor": "LEGI DISTRIBUIDORA LTDA",
+          "melhor_oferta": "3.043,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515544 Bala de goma tipo jujuba sortida em tubos:Produto alimentício do tipo bala de goma (jujuba) açucarada, macia, mastigável, em sabores sortidos de frutas (como morango, uva, laranja, limão, abacaxi ou similares), acondicionada em tubos plásticos individuais, própria para consumo humano. Deverá apresentar textura macia, não excessivamente pegajosa, sem cristalização exagerada de açúcar na superfície, isenta de sujidades, corpos estranhos, odor e sabor estranhos ou sinais de fermentação. Embalagem: tubo com no mínimo 8 unidades de jujubas, com peso aproximado de 30 g a 35 g cada tubo, acondicionado em caixa com 30 tubos por caixa, devendo constar na rotulagem a identificação do produto (bala de goma tipo jujuba), sabor sortido, peso, lote, data de fabricação, prazo de validade, lista de ingredientes, informação nutricional, advertências sobre alergênicos e presença/ausência de glúten, além do nome/razão social e CNPJ do fabricante. EXCLUSIVOPARA ME/EPP.",
+              "unidade": "CX",
+              "quantidade": "100,00",
+              "valor_referencia": "30,43"
+            }
+          ]
+        },
+        {
+          "numero": "5",
+          "titulo": "9900515545 Bala de goma tipo jujuba sabor iogurte em tubos:Produto alimentício do tipo bala de goma (jujuba), macia, mastigável, com sabores sortidos inspirados em iogurte de frutas (como morango, uva, pêssego ou similares), apresentando textura suave e a",
+          "fase": "HOMOLOGADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "3.584,00",
+          "vencedor": "LEGI DISTRIBUIDORA LTDA",
+          "melhor_oferta": "3.584,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515545 Bala de goma tipo jujuba sabor iogurte em tubos:Produto alimentício do tipo bala de goma (jujuba), macia, mastigável, com sabores sortidos inspirados em iogurte de frutas (como morango, uva, pêssego ou similares), apresentando textura suave e aroma característico de iogurte, acondicionada em tubos plásticos individuais. Deverá ser elaborada com ingredientes próprios para consumo humano, apresentando cores e formatos compatíveis com a categoria, sem presença de corpos estranhos, sujidades, deformações excessivas ou sinais de deterioração. Embalagem: tubo com no mínimo 8 unidades de jujubas, com peso aproximado de 30 g a 35 g cada tubo, acondicionado em caixa com 30 tubos por caixa, com rotulagem contendo denominação do produto (bala de goma sabor iogurte), sabores, peso, lote, data de fabricação, prazo de validade, lista de ingredientes, informação nutricional, advertências sobre alergênicos e identificação completa do fabricante (nome/razão social, CNPJ e endereço), e registro no órgão competente.EXCLUSIVO PARA ME/EPP.",
+              "unidade": "CX",
+              "quantidade": "100,00",
+              "valor_referencia": "35,84"
+            }
+          ]
+        },
+        {
+          "numero": "6",
+          "titulo": "9900515546 Bala de café:Produto alimentício do tipo bala dura ou mastigável, sabor café, com aroma e sabor característicos de café torrado, própria para consumo humano, destinada à oferta em eventos, reuniões e ações institucionais. Deverá apresentar text",
+          "fase": "HOMOLOGADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "1.963,00",
+          "vencedor": "LEGI DISTRIBUIDORA LTDA",
+          "melhor_oferta": "1.963,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515546 Bala de café:Produto alimentício do tipo bala dura ou mastigável, sabor café, com aroma e sabor característicos de café torrado, própria para consumo humano, destinada à oferta em eventos, reuniões e ações institucionais. Deverá apresentar textura uniforme (dura ou levemente mastigável, conforme o tipo), sem rachaduras excessivas, sem cristais de açúcar soltos em demasia, isenta de corpos estranhos, sujidades, umidade excessiva, deformações anormais ou odor e sabor estranhos.Embalagem: balas embaladas individualmente, acondicionadas em pacote com peso líquido mínimo de 500g, em material apropriado para contato com alimentos, íntegro e inviolado, com identificação do produto (bala de café), marca, peso líquido, lote, data de fabricação, prazo de validade, lista de ingredientes, informação nutricional e advertências sobre alergênicos, além dos dados do fabricante (nome/razão social, CNPJ) e registro no órgão competente. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "PCT",
+              "quantidade": "100,00",
+              "valor_referencia": "19,63"
+            }
+          ]
+        },
+        {
+          "numero": "7",
+          "titulo": "37143 Bala sortida de sabores:Produto alimentício do tipo bala (dura ou mastigável), com sabores sortidos de frutas e/ou outros sabores usuais (tais como menta, tutti-frutti, caramelo, entre outros), própria para consumo humano em eventos e reuniões insti",
+          "fase": "HOMOLOGADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "1.567,00",
+          "vencedor": "LEGI DISTRIBUIDORA LTDA",
+          "melhor_oferta": "1.567,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37143 Bala sortida de sabores:Produto alimentício do tipo bala (dura ou mastigável), com sabores sortidos de frutas e/ou outros sabores usuais (tais como menta, tutti-frutti, caramelo, entre outros), própria para consumo humano em eventos e reuniões institucionais. Deverá apresentar textura adequada ao tipo (dura ou mastigável), cor e aroma compatíveis com os sabores declarados, isenta de sujidades, corpos estranhos, deformações excessivas, umidade anormal ou sinais de deterioração.Embalagem: balas embaladas individualmente, acondicionadas em pacote com peso líquido mínimo de 500g, devendo a embalagem conter, de forma clara e legível, a identificação do produto (bala sortida), marca, peso líquido, lote, data de fabricação, validade, lista de ingredientes, informação nutricional, advertências sobre alergênicos, identificação do fabricante (nome/razão social, CNPJ e endereço) e, quando aplicável, registro no órgão competente. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "PCT",
+              "quantidade": "100,00",
+              "valor_referencia": "15,67"
+            }
+          ]
+        },
+        {
+          "numero": "8",
+          "titulo": "9900515547 Bala sabor morango:Produto alimentício do tipo bala (dura ou mastigável), sabor morango, com cor, aroma e sabor característicos da fruta, própria para consumo humano. Deverá apresentar textura homogênea, sem rachaduras ou deformações exageradas",
+          "fase": "HOMOLOGADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "1.399,00",
+          "vencedor": "LEGI DISTRIBUIDORA LTDA",
+          "melhor_oferta": "1.399,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515547 Bala sabor morango:Produto alimentício do tipo bala (dura ou mastigável), sabor morango, com cor, aroma e sabor característicos da fruta, própria para consumo humano. Deverá apresentar textura homogênea, sem rachaduras ou deformações exageradas, isenta de sujidades, corpos estranhos, umidade excessiva ou sinais de deterioração. Embalagem: balas embaladas individualmente, acondicionadas em pacote com peso líquido mínimo de 500g, devendo o rótulo conter a denominação do produto (bala sabor morango), marca, peso líquido, lote, data de fabricação, prazo de validade, lista de ingredientes, informação nutricional, advertências sobre alergênicos, identificação do fabricante (nome/razão social, CNPJ) e, quando exigido, registro no órgão competente.EXCLUSIVO PARA ME/EPP.",
+              "unidade": "PCT",
+              "quantidade": "100,00",
+              "valor_referencia": "13,99"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2-DLE-040-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "381 / 2026",
+      "modalidade": "DISPENSA ELETRÔNICA",
+      "situacao": "ADJUDICADO",
+      "condutor": "ISLA LIMA SILVA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO",
+      "publicacao": "08/05/2026 10:44",
+      "inicio_recepcao": "08/05/2026 10:50",
+      "fim_recepcao": "14/05/2026 08:15",
+      "inicio_disputa": "14/05/2026 08:30",
+      "objeto": "Contratação de empresa especializada em fornecimento de [COLETES INSTITUCIONAIS] (material de consumo), a fim de atender as necessidades da Secretaria Municipal de Finanças.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DJaTSAYYY7Cmkx3xBUWpYWl1_UO_GhX38_92dP2thvSxqscr7phQFfdEmhsjafww5CVdgMQQGOCkdtV0RV_Z4sHEt2FBTHjZYWHyCD1p7PgM%3D",
+      "total_lotes": 4,
+      "total_itens": 4,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "8410114770 COLETE INSTITUCIONAL:Tamanho P; Emmaterial brim leve, tactel ou poliéster reforçado; Cor azul, conforme brasão PMTF; Fechamento com zíper frontal; 01 bolso superior com zíper (para documentos), 01 bolso interno; Com brasão da Prefeitura de Tei",
+          "fase": "ADJUDICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "511,41",
+          "vencedor": "PONTAL DA PESCA LTDA",
+          "melhor_oferta": "386,97",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "8410114770 COLETE INSTITUCIONAL:Tamanho P; Emmaterial brim leve, tactel ou poliéster reforçado; Cor azul, conforme brasão PMTF; Fechamento com zíper frontal; 01 bolso superior com zíper (para documentos), 01 bolso interno; Com brasão da Prefeitura de Teixeira de Freitas bordado no peito esquerdo; Escrita de identificação na parte da frente: \"Secretaria Municipal de Finanças\", podendo ser bordada ou pintada, em cor branca ou amarela para contraste; Escrita de identificação nas costas: \"Fiscalização de Rendas\", \"Cadastro Técnico\" ou \"Dívida ativa\", podendo ser bordada ou pintada, em cor branca ou amarela para contraste.",
+              "unidade": "UND",
+              "quantidade": "3,00",
+              "valor_referencia": "170,47"
+            }
+          ]
+        },
+        {
+          "numero": "2",
+          "titulo": "8410114771 COLETE INSTITUCIONAL:Tamanho M; Emmaterial brim leve, tactel ou poliéster reforçado; Cor azul, conforme brasão PMTF; Fechamento com zíper frontal; 01 bolso superior com zíper (para documentos), 01 bolso interno; Com brasão da Prefeitura de Tei",
+          "fase": "ADJUDICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "2.975,70",
+          "vencedor": "PONTAL DA PESCA LTDA",
+          "melhor_oferta": "2.144,85",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "8410114771 COLETE INSTITUCIONAL:Tamanho M; Emmaterial brim leve, tactel ou poliéster reforçado; Cor azul, conforme brasão PMTF; Fechamento com zíper frontal; 01 bolso superior com zíper (para documentos), 01 bolso interno; Com brasão da Prefeitura de Teixeira de Freitas bordado no peito esquerdo; Escrita de identificação na parte da frente: \"Secretaria Municipal de Finanças\", podendo ser bordada ou pintada, em cor branca ou amarela para contraste; Escrita de identificação nas costas: \"Fiscalização de Rendas\", \"Cadastro Técnico\" ou \"Dívida ativa\", podendo ser bordada ou pintada, em cor branca ou amarela para contraste.",
+              "unidade": "UND",
+              "quantidade": "15,00",
+              "valor_referencia": "198,38"
+            }
+          ]
+        },
+        {
+          "numero": "3",
+          "titulo": "8410114772 COLETE INSTITUCIONAL:Tamanho G; Emmaterial brim leve, tactel ou poliéster reforçado; Cor azul, conforme brasão PMTF; Fechamento com zíper frontal; 01 bolso superior com zíper (para documentos), 01 bolso interno; Com brasão da Prefeitura de Tei",
+          "fase": "ADJUDICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "3.053,40",
+          "vencedor": "PONTAL DA PESCA LTDA",
+          "melhor_oferta": "1.400,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "8410114772 COLETE INSTITUCIONAL:Tamanho G; Emmaterial brim leve, tactel ou poliéster reforçado; Cor azul, conforme brasão PMTF; Fechamento com zíper frontal; 01 bolso superior com zíper (para documentos), 01 bolso interno; Com brasão da Prefeitura de Teixeira de Freitas bordado no peito esquerdo; Escrita de identificação na parte da frente: \"Secretaria Municipal de Finanças\", podendo ser bordada ou pintada, em cor branca ou amarela para contraste; Escrita de identificação nas costas: \"Fiscalização de Rendas\", \"Cadastro Técnico\" ou \"Dívida ativa\", podendo ser bordada ou pintada, em cor branca ou amarela para contraste.",
+              "unidade": "UND",
+              "quantidade": "14,00",
+              "valor_referencia": "218,10"
+            }
+          ]
+        },
+        {
+          "numero": "4",
+          "titulo": "8410114773 COLETE INSTITUCIONAL:Tamanho GG; Emmaterial brim leve, tactel ou poliéster reforçado; Cor azul, conforme brasão PMTF; Fechamento com zíper frontal; 01 bolso superior com zíper (para documentos), 01 bolso interno; Com brasão da Prefeitura de Te",
+          "fase": "ADJUDICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "672,54",
+          "vencedor": "PONTAL DA PESCA LTDA",
+          "melhor_oferta": "298,98",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "8410114773 COLETE INSTITUCIONAL:Tamanho GG; Emmaterial brim leve, tactel ou poliéster reforçado; Cor azul, conforme brasão PMTF; Fechamento com zíper frontal; 01 bolso superior com zíper (para documentos), 01 bolso interno; Com brasão da Prefeitura de Teixeira de Freitas bordado no peito esquerdo; Escrita de identificação na parte da frente: \"Secretaria Municipal de Finanças\", podendo ser bordada ou pintada, em cor branca ou amarela para contraste; Escrita de identificação nas costas: \"Fiscalização de Rendas\", \"Cadastro Técnico\" ou \"Dívida ativa\", podendo ser bordada ou pintada, em cor branca ou amarela para contraste.",
+              "unidade": "UND",
+              "quantidade": "3,00",
+              "valor_referencia": "224,18"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-075-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "174 / 2026",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "ADJUDICADO",
+      "condutor": "JONATAS DA SILVA SOUSA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO",
+      "publicacao": "06/05/2026 15:46",
+      "inicio_recepcao": "08/05/2026 08:30",
+      "fim_recepcao": "01/06/2026 08:45",
+      "inicio_disputa": "01/06/2026 09:00",
+      "objeto": "Contratação de empresa especializada em fornecimento de LINÓLEO (material de consumo),  a fim de atender as demandas da Secretaria Municipal de Cultura e Turismo.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DCbfDX8MaDxFJIWO1%2F6twh2RU5IT_9SAk4_elhfd6e_5BtQl0BZhcTByIcNvh7rb8Yv92dzKnzMh_koUPIaKRg3tGFvjm7pUT_HOFdEFMTUg%3D",
+      "total_lotes": 1,
+      "total_itens": 1,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "LINÓLEO FINO",
+          "fase": "ADJUDICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "249.780,00",
+          "vencedor": "SLOW COFFEE BRASIL E PFD LTDA",
+          "melhor_oferta": "64.680,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515363 LINÓLEO FINO:- revestimento flexível compostopor óleo de linhaça, resinas naturais, cortiça e pigmentosminerais, prensados sobre base de juta; antiderrapante,resistente ao desgaste, com absorção de impacto; nas corescinza e/ou preto; largura padrão de 1.8 até 2 metros e espessurade 1.2mm",
+              "unidade": "m2",
+              "quantidade": "2.000,00",
+              "valor_referencia": "124,89"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-074-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "1673 / 2025",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "HOMOLOGADO",
+      "condutor": "SERGIO CARNEIRO CAVALCANTI DE AZEVEDO",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "REGISTRO DE PREÇO",
+      "publicacao": "06/05/2026 12:23",
+      "inicio_recepcao": "08/05/2026 08:30",
+      "fim_recepcao": "21/05/2026 08:15",
+      "inicio_disputa": "21/05/2026 08:30",
+      "objeto": "Contratação de empresa especializada em fornecimento de TUBOS EM POLIETILENO DE ALTA DENSIDADE (PEAD) (material de consumo), cujas especificações técnicas, quantidades e demais condições encontram-se detalhadas neste instrumento, a fim de atender as demandas da Secretaria Municipal de Infraestrutura e Serviços Urbanos.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DhI423iEl4tx3juFi4z3JclGhTqFDXjADy2Ag_u2%2FQ6bEpLl%2FPSm2qFdgD9Rp7Ofw7ihBb2k8oPNuIxBTV_rEV9F2aEV49iVY7_NItUbAyr0%3D",
+      "total_lotes": 4,
+      "total_itens": 4,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "9900515230 TUBO PEAD 400 MM:tubo extrudado, parede dupla em pead (polietileno de alta densidade), com união ponta e bolsa, liso internamente e corrugado externamente, em barras de 6m de comprimento, cor preta, pigmentada com negro de fumo, com diâmetro no",
+          "fase": "HOMOLOGADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "463.137,50",
+          "vencedor": "EREMASTER DISTRIBUIDORA DE FERRAGENS E FERRAMENTAS LTDA",
+          "melhor_oferta": "423.500,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515230 TUBO PEAD 400 MM:tubo extrudado, parede dupla em pead (polietileno de alta densidade), com união ponta e bolsa, liso internamente e corrugado externamente, em barras de 6m de comprimento, cor preta, pigmentada com negro de fumo, com diâmetro nominal DN/DI 400 mm (baseado no diâmetro interno), classe de rigidez sn4, conforme norma DNIT 094/2014",
+              "unidade": "Und.",
+              "quantidade": "350,00",
+              "valor_referencia": "1.323,25"
+            }
+          ]
+        },
+        {
+          "numero": "2",
+          "titulo": "9900515231 TUBO PEAD 800 MM:tubo extrudado, parede dupla em pead (polietileno de alta densidade), com união ponta e bolsa, liso internamente e corrugado externamente, em barras de 6m de comprimento, cor preta, pigmentada com negro de fumo, com diâmetro no",
+          "fase": "FRACASSADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "892.514,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515231 TUBO PEAD 800 MM:tubo extrudado, parede dupla em pead (polietileno de alta densidade), com união ponta e bolsa, liso internamente e corrugado externamente, em barras de 6m de comprimento, cor preta, pigmentada com negro de fumo, com diâmetro nominal DN/DI 800 mm (baseado no diâmetro interno), classe de rigidez sn4, conforme norma DNIT 094/2014",
+              "unidade": "Und.",
+              "quantidade": "200,00",
+              "valor_referencia": "4.462,57"
+            }
+          ]
+        },
+        {
+          "numero": "3",
+          "titulo": "9900515232 TUBO PEAD 1500 MM:tubo extrudado, parede dupla em pead (polietileno de alta densidade), com união ponta e bolsa, liso internamente e corrugado externamente, em barras de 6m de comprimento, cor preta, pigmentada com negro de fumo, com diâmetro n",
+          "fase": "HOMOLOGADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "905.640,00",
+          "vencedor": "TUBOS TIGRE-ADS DO BRASIL LTDA",
+          "melhor_oferta": "853.799,40",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515232 TUBO PEAD 1500 MM:tubo extrudado, parede dupla em pead (polietileno de alta densidade), com união ponta e bolsa, liso internamente e corrugado externamente, em barras de 6m de comprimento, cor preta, pigmentada com negro de fumo, com diâmetro nominal DN/DI 1500 mm (baseado no diâmetro interno), classe de rigidez sn2, conforme norma DNIT 094/2014",
+              "unidade": "Und.",
+              "quantidade": "60,00",
+              "valor_referencia": "15.094,00"
+            }
+          ]
+        },
+        {
+          "numero": "4",
+          "titulo": "36839 TUBO PEAD 300 MM:: tubo extrudado, parede dupla em pead (polietileno de alta densidade), com união ponta e  bolsa, liso internamente e corrugado externamente, em  barras de 6m de comprimento, cor preta, pigmentada com  negro de fumo, com diâmetro no",
+          "fase": "HOMOLOGADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "169.878,00",
+          "vencedor": "EREMASTER DISTRIBUIDORA DE FERRAGENS E FERRAMENTAS LTDA",
+          "melhor_oferta": "133.000,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "36839 TUBO PEAD 300 MM:: tubo extrudado, parede dupla em pead (polietileno de alta densidade), com união ponta e bolsa, liso internamente e corrugado externamente, em barras de 6m de comprimento, cor preta, pigmentada com negro de fumo, com diâmetro nominal dn/di 300 mm (baseado no diâmetro interno), classe de rigidez sn4, conforme norma dnit 094/2014.",
+              "unidade": "Und.",
+              "quantidade": "200,00",
+              "valor_referencia": "849,39"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2-DLE-017-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "93/2026",
+      "modalidade": "DISPENSA ELETRÔNICA",
+      "situacao": "FRACASSADO",
+      "condutor": "ISLA LIMA SILVA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO",
+      "publicacao": "02/03/2026 20:08",
+      "inicio_recepcao": "24/03/2026 10:00",
+      "fim_recepcao": "01/04/2026 08:15",
+      "inicio_disputa": "01/04/2026 08:30",
+      "objeto": "Contratação de empresa especializada na prestação de serviço de FORNECIMENTO E INSTALAÇÃO DE ESTRUTURA\nMETÁLICA, a fim de atender as necessidades da Secretaria Municipal de Infraestrutura e Serviços Urbanos.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5D0NsImyAFtTBwO%2FrCu0uwZndPdgheWsrZErBGhduqF8Vh9h%2FU0oYKvi9%2F0wxAeJNs90heTf9BByay6kGpO5wVWdP8PK5_77N8h_ioWi6DZYc%3D",
+      "total_lotes": 1,
+      "total_itens": 1,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "FORNECIMENTO E INSTALAÇÃO DE ESTRUTURA  METÁLICA",
+          "fase": "FRACASSADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "",
+          "valor_referencia": "14.533,33",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "FORNECIMENTO E INSTALAÇÃO DE ESTRUTURAMETÁLICA, COMPOSTA POR DUAS CHAPASGALVANIZADAS, DESTINADA À INTEGRAÇÃO AOMONUMENTO EM ALVENARIA PARA A COMPOSIÇÃODO MONUMENTO EM HOMENAGEM À BÍBLIA:Serviço defornecimento e instalação de duas chapas galvanizadas,cada uma com dimensões de 1,70 m x 2,00 m,confeccionadas com leve curvatura para representar, deforma plástica, uma folha apoiada sobre a estrutura dealvenaria existente, compondo simbolicamente uma Bíbliaaberta.As chapas deverão receber pintura automotiva na cordourada, com aplicação prévia de plotagem adesiva dosversículos bíblicos diretamente sobre a superfície metálicacrua. Concluída a pintura, a plotagem deverá ser removida,revelando os versículos no tom natural do metal, emcontraste com o acabamento em dourado, conferindodestaque visual e valorização estética ao monumento.Para a correta instalação e fixação das chapas, deverá serexecutada estrutura metálica de sustentação, fabricada emtubos de aço, discretamente posicionada entre as chapas ea alvenaria existente, de forma a permanecer oculta,garantindo estabilidade, segurança, alinhamento adequado eacabamento visual limpo. EXCLUSIVO PARA ME/EPP",
+              "unidade": "SER",
+              "quantidade": "1,00",
+              "valor_referencia": "14.533,33"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-027-2024",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "705/2024",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "HOMOLOGADO",
+      "condutor": "MAGDA DE SELES GUIMARÃES",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO",
+      "publicacao": "13/06/2024 18:49",
+      "inicio_recepcao": "14/06/2024 08:00",
+      "fim_recepcao": "10/07/2024 13:45",
+      "inicio_disputa": "10/07/2024 14:00",
+      "objeto": "O objeto da presente licitação é a contratação de INSTITUIÇÃO FINANCEIRA ESPECIALIZADA NA PRESTAÇÃO DE SERVIÇOS BANCÁRIOS PARA CENTRALIZAÇÃO, GERENCIAMENTO E PROCESSAMENTO DE CRÉDITOS DA FOLHA DE PAGAMENTO DOS SERVIDORES, a fim de atender as demandas da Secretaria Municipal de Administração, conforme condições, quantidades e especificações no Edital, Termo de Referência e seus Anexos.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DXj3iUgKIhcUk2HAZ0SiilBFKtNCCTRzxaS2_Cu2g6n2kuMksJMp4WTsWJrictuMx5OgD6f2IudtGpKSVDK%2F2ONjEwtdunr0Oqv5VaHiEsQ0%3D",
+      "total_lotes": 1,
+      "total_itens": 1,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "SERVIÇOS BANCÁRIOS",
+          "fase": "HOMOLOGADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "6.052.150,00",
+          "vencedor": "ITAÚ UNIBANCO S.A.",
+          "melhor_oferta": "6.053.000,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
               "especificacao": "CONTRATAÇÃO DE INSTITUIÇÃO FINANCEIRA: ESPECIALIZADA NA PRESTAÇÃO DE SERVIÇOS BANCÁRIOS PARA CENTRALIZAÇÃO, GERENCIAMENTO E PROCESSAMENTO DE CRÉDITOS DA FOLHA DE PAGAMENTO DOS SERVIDORES DA PREFEITURA MUNICIPAL DE TEIXEIRA DE FREITAS/BA.",
-              "unidade": "SERVIÇO",
+              "unidade": "UN",
               "quantidade": "1,00",
               "valor_referencia": "6.052.150,00"
             }
