@@ -1,10 +1,10 @@
 {
   "metadata": {
     "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-    "total_processos": 815,
-    "total_lotes": 8847,
-    "total_itens": 15178,
-    "atualizado_em": "20260615_193529"
+    "total_processos": 816,
+    "total_lotes": 8845,
+    "total_itens": 15176,
+    "atualizado_em": "20260616_193518"
   },
   "processos": [
     {
@@ -70924,406 +70924,6 @@
               "unidade": "SERV",
               "quantidade": "1,00",
               "valor_referencia": "7.000,00"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "CD-005-2025",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "758/2025",
-      "modalidade": "CREDENCIAMENTO",
-      "situacao": "RECEPÇÃO DE PROPOSTAS",
-      "condutor": "MAGDA DE SELES GUIMARÃES",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO",
-      "publicacao": "03/06/2025 16:35",
-      "inicio_recepcao": "13/06/2025 08:00",
-      "fim_recepcao": "15/06/2026 08:00",
-      "inicio_disputa": "",
-      "objeto": "CREDENCIAMENTO DE PESSOA JURÍDICA PARA PRESTAÇÃO DE SERVIÇOS MÉDICOS ESPECIALIZADOS EM ANÁLISE PATOLÓGICA PARA ATENDER AS DEMANDAS DA SECRETARIA MUNICIPAL DE SAÚDE",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DOIzXX3Zrl6kivsE5acB96FehKtb%2FEsCbBLz5Eb0zrIJCFhRi8UvzEt2CD59NLAcRhGB7K9bHXNdO9HppEKhGsIwlhZnUIMSnjsyuapR_V%2Fk%3D",
-      "total_lotes": 6,
-      "total_itens": 6,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "33436 BIÓPSIA SIMPLES",
-          "fase": "HABILITAÇÃO",
-          "tipo": "UNITÁRIO",
-          "quantidade": "1",
-          "intervalo_minimo": "0,00",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "60,19",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "33436 BIÓPSIA SIMPLES:BIÓPSIA SIMPLES",
-              "unidade": "SERV",
-              "quantidade": "2.500,00",
-              "valor_referencia": "60,19"
-            }
-          ]
-        },
-        {
-          "numero": "2",
-          "titulo": "9903311392 CITOLOGIA EM MEIO LIQUIDO",
-          "fase": "HABILITAÇÃO",
-          "tipo": "UNITÁRIO",
-          "quantidade": "1",
-          "intervalo_minimo": "0,00",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "62,25",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9903311392 CITOLOGIA EM MEIO LIQUIDO - BRONQUIO:CITOLOGIA EM MEIO LIQUIDO - BRONQUIO.",
-              "unidade": "SERV",
-              "quantidade": "100,00",
-              "valor_referencia": "62,25"
-            }
-          ]
-        },
-        {
-          "numero": "3",
-          "titulo": "9903311373 COLORAÇÃO ESPECIAL",
-          "fase": "HABILITAÇÃO",
-          "tipo": "UNITÁRIO",
-          "quantidade": "1",
-          "intervalo_minimo": "0,00",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "33,65",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9903311373 COLORAÇÃO ESPECIAL: Marcação da biópsia por corantes especiais.",
-              "unidade": "SERV",
-              "quantidade": "50,00",
-              "valor_referencia": "33,65"
-            }
-          ]
-        },
-        {
-          "numero": "4",
-          "titulo": "9903311378 CORE BYOPSY",
-          "fase": "HABILITAÇÃO",
-          "tipo": "UNITÁRIO",
-          "quantidade": "1",
-          "intervalo_minimo": "0,00",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "68,46",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9903311378 CORE BYOPSY:CORE BYOPSY.",
-              "unidade": "SERV",
-              "quantidade": "100,00",
-              "valor_referencia": "68,46"
-            }
-          ]
-        },
-        {
-          "numero": "5",
-          "titulo": "33437 PEÇA CIRÚRGICA SIMPLES",
-          "fase": "HABILITAÇÃO",
-          "tipo": "UNITÁRIO",
-          "quantidade": "1",
-          "intervalo_minimo": "0,00",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "75,00",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "33437 PEÇA CIRÚRGICA SIMPLES:PEÇA CIRÚRGICA SIMPLES",
-              "unidade": "SERV",
-              "quantidade": "2.500,00",
-              "valor_referencia": "75,00"
-            }
-          ]
-        },
-        {
-          "numero": "6",
-          "titulo": "9903311384 PEÇA CIRÚRGICA COMPLEXA",
-          "fase": "HABILITAÇÃO",
-          "tipo": "UNITÁRIO",
-          "quantidade": "1",
-          "intervalo_minimo": "0,00",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "243,42",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9903311384 PEÇA CIRÚRGICA COMPLEXA:PEÇA CIRÚRGICA COMPLEXA",
-              "unidade": "UN",
-              "quantidade": "1.500,00",
-              "valor_referencia": "243,42"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "CD-005-2025",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "758/2025",
-      "modalidade": "CREDENCIAMENTO",
-      "situacao": "SUSPENSO",
-      "condutor": "MAGDA DE SELES GUIMARÃES",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO",
-      "publicacao": "03/06/2025 11:48",
-      "inicio_recepcao": "13/06/2025 08:00",
-      "fim_recepcao": "15/06/2026 00:00",
-      "inicio_disputa": "",
-      "objeto": "Credenciamento de pessoa jurídica para PRESTAÇÃO DE SERVIÇOS\n MÉDICOS ESPECIALIZADOS EM ANÁLISE PATOLÓGICA para atender as demandas da\n Secretaria Municipal de Saúde.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5D4_xaflVVuSlQipIHbr2%2FIqi3FZUUFNWY9Huis3Yy1Zm6_SSJgdbe6iEuVsd%2Fex9dsYzEudDo17HMGmdNFRkfuLBpu7lg3hgiiTpO4KqMNf8%3D",
-      "total_lotes": 9,
-      "total_itens": 9,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "33436 BIÓPSIA SIMPLES:BIÓPSIA SIMPLES",
-          "fase": "SUSPENSO",
-          "tipo": "UNITÁRIO",
-          "quantidade": "1",
-          "intervalo_minimo": "0,00",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "",
-          "garantia": "",
-          "valor_referencia": "60,19",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "33436 BIÓPSIA SIMPLES:BIÓPSIA SIMPLES",
-              "unidade": "SERV",
-              "quantidade": "1.875,00",
-              "valor_referencia": "60,19"
-            }
-          ]
-        },
-        {
-          "numero": "2",
-          "titulo": "909911235 BIOPSIA SIMPLES:BIÓPSIA SIMPLES. COTA DE 25% RESERVADA PARA  ME/EPP.",
-          "fase": "SUSPENSO",
-          "tipo": "UNITÁRIO",
-          "quantidade": "1",
-          "intervalo_minimo": "0,00",
-          "exclusivo_me": "SIM",
-          "local_entrega": "",
-          "garantia": "",
-          "valor_referencia": "60,19",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "909911235 BIOPSIA SIMPLES:BIÓPSIA SIMPLES. COTA DE 25% RESERVADA PARA ME/EPP.",
-              "unidade": "SERV",
-              "quantidade": "625,00",
-              "valor_referencia": "60,19"
-            }
-          ]
-        },
-        {
-          "numero": "3",
-          "titulo": "9903311392 CITOLOGIA EM MEIO LIQUIDO - BRONQUIO: CITOLOGIA EM MEIO LIQUIDO - BRONQUIO EXCLUSIVO PARA ME/EPP",
-          "fase": "SUSPENSO",
-          "tipo": "UNITÁRIO",
-          "quantidade": "1",
-          "intervalo_minimo": "0,00",
-          "exclusivo_me": "SIM",
-          "local_entrega": "",
-          "garantia": "",
-          "valor_referencia": "62,25",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "CITOLOGIA EM MEIO LIQUIDO - BRONQUIO: CITOLOGIA EM MEIO LIQUIDO - BRONQUIO EXCLUSIVO PARA ME/EPP",
-              "unidade": "SERV",
-              "quantidade": "100,00",
-              "valor_referencia": "62,25"
-            }
-          ]
-        },
-        {
-          "numero": "4",
-          "titulo": "9903311373 COLORAÇÃO ESPECIAL:Marcação da biópsia por corantes especiais. EXCLUSIVO PARA ME/EPP",
-          "fase": "SUSPENSO",
-          "tipo": "UNITÁRIO",
-          "quantidade": "1",
-          "intervalo_minimo": "0,00",
-          "exclusivo_me": "SIM",
-          "local_entrega": "",
-          "garantia": "",
-          "valor_referencia": "33,65",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9903311373 COLORAÇÃO ESPECIAL:Marcação da biópsia por corantes especiais. EXCLUSIVO PARA ME/EPP",
-              "unidade": "SERV",
-              "quantidade": "50,00",
-              "valor_referencia": "33,65"
-            }
-          ]
-        },
-        {
-          "numero": "5",
-          "titulo": "9903311378 CORE BYOPSY:CORE BYOPSY. EXCLUSIVO PARA ME/EPP",
-          "fase": "SUSPENSO",
-          "tipo": "UNITÁRIO",
-          "quantidade": "1",
-          "intervalo_minimo": "0,00",
-          "exclusivo_me": "SIM",
-          "local_entrega": "",
-          "garantia": "",
-          "valor_referencia": "68,46",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9903311378 CORE BYOPSY:CORE BYOPSY. EXCLUSIVO PARA ME/EPP",
-              "unidade": "SERV",
-              "quantidade": "100,00",
-              "valor_referencia": "68,46"
-            }
-          ]
-        },
-        {
-          "numero": "6",
-          "titulo": "33437 PEÇA CIRÚRGICA SIMPLES:PEÇA CIRÚRGICA SIMPLES",
-          "fase": "SUSPENSO",
-          "tipo": "UNITÁRIO",
-          "quantidade": "1",
-          "intervalo_minimo": "0,00",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "",
-          "garantia": "",
-          "valor_referencia": "75,00",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "33437 PEÇA CIRÚRGICA SIMPLES:PEÇA CIRÚRGICA SIMPLES",
-              "unidade": "SERV",
-              "quantidade": "1.875,00",
-              "valor_referencia": "75,00"
-            }
-          ]
-        },
-        {
-          "numero": "7",
-          "titulo": "9909911236 PEÇA CIRURGICA SIMPLES:PEÇA CIRURGICA SIMPLES. COTA DE 25% RESERVADA PARA ME/EPP",
-          "fase": "SUSPENSO",
-          "tipo": "UNITÁRIO",
-          "quantidade": "1",
-          "intervalo_minimo": "0,00",
-          "exclusivo_me": "SIM",
-          "local_entrega": "",
-          "garantia": "",
-          "valor_referencia": "75,00",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9909911236 PEÇA CIRURGICA SIMPLES:PEÇA CIRURGICA SIMPLES. COTA DE 25% RESERVADA PARA ME/EPP",
-              "unidade": "SERV",
-              "quantidade": "625,00",
-              "valor_referencia": "75,00"
-            }
-          ]
-        },
-        {
-          "numero": "8",
-          "titulo": "9903311384 PEÇA CIRÚRGICA COMPLEXA:PEÇA CIRÚRGICA COMPLEXA",
-          "fase": "SUSPENSO",
-          "tipo": "UNITÁRIO",
-          "quantidade": "1",
-          "intervalo_minimo": "0,00",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "",
-          "garantia": "",
-          "valor_referencia": "243,42",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9903311384 PEÇA CIRÚRGICA COMPLEXA:PEÇA CIRÚRGICA COMPLEXA",
-              "unidade": "UN",
-              "quantidade": "1.125,00",
-              "valor_referencia": "243,42"
-            }
-          ]
-        },
-        {
-          "numero": "9",
-          "titulo": "9909911237 PEÇA CIRURGICA COMPLEXA:PEÇA CIRURGICA COMPLEXA. COTA DE  25%  RESERVADA PARA ME/EPP.",
-          "fase": "SUSPENSO",
-          "tipo": "UNITÁRIO",
-          "quantidade": "1",
-          "intervalo_minimo": "0,00",
-          "exclusivo_me": "SIM",
-          "local_entrega": "",
-          "garantia": "",
-          "valor_referencia": "243,42",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9909911237 PEÇA CIRURGICA COMPLEXA:PEÇA CIRURGICA COMPLEXA. COTA DE 25% RESERVADA PARA ME/EPP.",
-              "unidade": "SERV",
-              "quantidade": "375,00",
-              "valor_referencia": "243,42"
             }
           ]
         }
@@ -260961,50 +260561,6 @@
       ]
     },
     {
-      "id": "PE-073-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "202 / 2026",
-      "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "HABILITAÇÃO",
-      "condutor": "SERGIO CARNEIRO CAVALCANTI DE AZEVEDO",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO",
-      "publicacao": "05/05/2026 13:34",
-      "inicio_recepcao": "07/05/2026 08:30",
-      "fim_recepcao": "19/05/2026 08:15",
-      "inicio_disputa": "19/05/2026 08:30",
-      "objeto": "Contratação de empresa especializada em fornecimento de VEÍCULOS TIPO PICAPE CABINE DUPLA (bens permanentes), a fim de atender as demandas da Secretaria Municipal de Educação.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DkAnnflYOtUAj3BvwokGPSL1NJoClgQs8NCY7gdXq03DG_gCPPkQ4f8YT%2FyurKDnM3iyci2JrIkpa17zRl1o2q0Wfvs37eoufvI73KPMk5ok%3D",
-      "total_lotes": 1,
-      "total_itens": 1,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "VEICULOS TIPO PICAPE",
-          "fase": "RECEPÇÃO DE CONTRARRAZÕES",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "542.018,80",
-          "vencedor": "VIA MONDO AUTOMOVEIS E PEÇAS LTDA",
-          "melhor_oferta": "524.000,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "73973900009 Veículo automotor zero quilômetro, tipo picapeleve/compacta:com cabine dupla, 4 portas, capacidade para 5(cinco) ocupantes incluindo o motorista. Ano defabricação/modelo 2026, combustível tipo flex (álcool/gasolina),motorização mínima de 1.3L (ou superior), potência mínima107cv. Tração 4x2, câmbio manual ou automático, com, nomínimo, 5 (cinco) marchas à frente (ou conforme tecnologiadisponível em câmbio automático), visando melhor desempenho,segurança e economia de combustível. Veículo dotado dedireção com assistência elétrica, sistema de freios com ABS eEBD (ou equivalente), airbag frontal para motorista e passageiro,cintos de segurança de 3 (três) pontos para todos os ocupantes(quando aplicável) e encostos de cabeça, atendendointegralmente às normas de segurança vigentes. Vidros elétricosnas portas dianteiras e traseiras, travas elétricas nas portas comtravamento central e acionamento por meio de comando internoe pela chave ou dispositivo equivalente. Sistema de arcondicionado frio/quente, com difusores frontais, adequado aoconforto térmico dos ocupantes, com comandos de fácil acessoao motorista. Carroceria com caçamba traseira aberta, comcapacidade de carga mínima de 600kg, dotada de protetor decaçamba (forração ou protetor em material plástico ou similar),capota marítima ou equivalente, ganchos ou pontos deamarração de carga conforme projeto do fabricante, permitindo otransporte de materiais leves, equipamentos, mobiliários depequeno porte, materiais pedagógicos e insumos administrativos.Sistema multimídia, no mínimo, conexão Bluetooth e rádio, altofalantes instalados, entrada USB ou equivalente, painel deinstrumentos com indicadores básicos (velocímetro, marcador decombustível, hodômetro, luzes de advertência) e computador debordo. Comando interno e elétricos para regulagem deretrovisores externos, desembaçador do vidro traseiro (quandoaplicável), limpador e lavador de para-brisa dianteiro comtemporizador. Equipado, no mínimo, com sensor deestacionamento traseiro e câmera de ré (admite-se um dos doisou ambos), faróis com regulagem de foco (manual ou elétrica,conforme projeto de fábrica), iluminação traseira completa, luz defreio elevada, aviso sonoro de faróis acesos e/ou portas abertas,conforme configuração de série. Bancos revestidos em courosintético de fábrica ou material similar, banco do motorista comajuste de distância e inclinação, porta-objetos distribuídos nopainel...(VIDE O ANEXO DO TERMO).",
-              "unidade": "UN",
-              "quantidade": "4,00",
-              "valor_referencia": "135.504,70"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "PE-063-2026",
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "332 / 2026",
@@ -261647,262 +261203,6 @@
               "unidade": "UN",
               "quantidade": "385,00",
               "valor_referencia": "1.358,55"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "PE-081-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "369 / 2026",
-      "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "RECEPÇÃO DE PROPOSTAS",
-      "condutor": "SERGIO CARNEIRO CAVALCANTI DE AZEVEDO",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "REGISTRO DE PREÇO",
-      "publicacao": "29/05/2026 11:42",
-      "inicio_recepcao": "02/06/2026 08:30",
-      "fim_recepcao": "16/06/2026 09:15",
-      "inicio_disputa": "16/06/2026 09:30",
-      "objeto": "Contratação de empresa especializada em fornecimento de FRALDAS INFANTIS DESCARTÁVEIS (material de consumo),  a fim de atender as demandas da Secretaria Municipal de Educação.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DmJKRAjBs6X11kYxIb5aoIO5EHYVe2JulBcMbHRAVeUaoKwBXjbUsC73RSi438zOH_r4D9znUJaHAIw7OhjfDDIdVluJ_LkAy3BwqeN7Gcec%3D",
-      "total_lotes": 3,
-      "total_itens": 3,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "9900515612 Fralda descartável infantil tamanho G (Grande):indicada para crianças com peso aproximado entre 9 kg e 14 kg, admitida variação conforme padrão do fabricante, formato anatômico tipo aberta, com sistema de ajuste por fitas adesivas reposicionáve",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900515612 Fralda descartável infantil tamanho G (Grande):indicada para crianças com peso aproximado entre 9 kg e 14 kg, admitida variação conforme padrão do fabricante, formato anatômico tipo aberta, com sistema de ajuste por fitas adesivas reposicionáveis, proporcionando fixação segura e confortável. Deverá ser confeccionada com materiais macios, hipoalergênicos e respiráveis, contendo camada interna suave em contato com a pele, núcleo absorvente com polímero superabsorvente de alta retenção de líquidos, barreiras laterais antivazamento, elásticos ajustáveis na cintura e nas pernas, e camada externa impermeável. O produto deverá apresentar rápida absorção, retenção eficiente de líquidos sob pressão e manutenção da integridade estrutural durante o uso. Deverá ser isento de látex natural, fragrâncias e corantes potencialmente irritantes, dermatologicamente seguro para uso infantil. O produto deverá possuir Certificação do INMETRO, conforme Portaria nº 327/2018 e atender às disposições da ABNT NBR 15629. As fraldas deverão ser fornecidas em embalagens originais resistentes, contendo identificação do fabricante, tamanho, quantidade de unidades, número do lote, data de fabricação e validade mínima de 24 (vinte e quatro) meses a contar da data da entrega. Unidade de fornecimento: Pacotes com 36 a 78 unidades.",
-              "unidade": "UND",
-              "quantidade": "500.000,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "2",
-          "titulo": "37315 Fralda descartável infantil tamanho XG (Extra Grande):indicada para crianças com peso aproximado entre 13 kg e 18 kg, admitida variação conforme padrão do fabricante, formato anatômico tipo aberta, com sistema de ajuste por fitas adesivas reposicion",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37315 Fralda descartável infantil tamanho XG (Extra Grande):indicada para crianças com peso aproximado entre 13 kg e 18 kg, admitida variação conforme padrão do fabricante, formato anatômico tipo aberta, com sistema de ajuste por fitas adesivas reposicionáveis, proporcionando fixação segura e confortável. Deverá ser confeccionada com materiais macios, hipoalergênicos e respiráveis, contendo camada interna suave em contato com a pele, núcleo absorvente com polímero superabsorvente de alta retenção de líquidos, barreiras laterais antivazamento, elásticos ajustáveis na cintura e nas pernas, e camada externa impermeável. O produto deverá apresentar rápida absorção, retenção eficiente de líquidos sob pressão e manutenção da integridade estrutural durante o uso. Deverá ser isento de látex natural, fragrâncias e corantes potencialmente irritantes, dermatologicamente seguro para uso infantil. O produto deverá possuir Certificação do INMETRO, conforme Portaria nº 327/2018 e atender às disposições da ABNT NBR 15629. As fraldas deverão ser fornecidas em embalagens originais resistentes, contendo identificação do fabricante, tamanho, quantidade de unidades, número do lote, data de fabricação e validade mínima de 24 (vinte e quatro) meses a contar da data da entrega. Unidade de fornecimento: Pacotes com 26 a 66 unidades.",
-              "unidade": "UND",
-              "quantidade": "500.000,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "3",
-          "titulo": "9900515613 Fralda descartável infantil tamanho XXG (Extra Extra Grande):indicada para crianças com peso aproximado entre 15 kg e 25 kg, admitida variação conforme padrão do fabricante, formato anatômico tipo aberta, com sistema de ajuste por fitas adesiva",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900515613 Fralda descartável infantil tamanho XXG (Extra Extra Grande):indicada para crianças com peso aproximado entre 15 kg e 25 kg, admitida variação conforme padrão do fabricante, formato anatômico tipo aberta, com sistema de ajuste por fitas adesivas reposicionáveis, proporcionando fixação segura e confortável. Deverá ser confeccionada com materiais macios, hipoalergênicos e respiráveis, contendo camada interna suave em contato com a pele, núcleo absorvente com polímero superabsorvente de alta retenção de líquidos, barreiras laterais antivazamento, elásticos ajustáveis na cintura e nas pernas, e camada externa impermeável. O produto deverá apresentar rápida absorção, retenção eficiente de líquidos sob pressão e manutenção da integridade estrutural durante o uso. Deverá ser isento de látex natural, fragrâncias e corantes potencialmente irritantes, dermatologicamente seguro para uso infantil. O produto deverá possuir Certificação do INMETRO, conforme Portaria nº 327/2018 e atender às disposições da ABNT NBR 15629. As fraldas deverão ser fornecidas em embalagens originais resistentes, contendo identificação do fabricante, tamanho, quantidade de unidades, número do lote, data de fabricação e validade mínima de 24 (vinte e quatro) meses a contar da data da entrega. Unidade de fornecimento: Pacotes com 20 a 32 unidades.",
-              "unidade": "UND",
-              "quantidade": "500.000,00",
-              "valor_referencia": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "PE-079-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "327 / 2026",
-      "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "RECEPÇÃO DE PROPOSTAS",
-      "condutor": "JONATAS DA SILVA SOUSA",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "REGISTRO DE PREÇO",
-      "publicacao": "29/05/2026 11:32",
-      "inicio_recepcao": "02/06/2026 08:30",
-      "fim_recepcao": "16/06/2026 08:15",
-      "inicio_disputa": "16/06/2026 08:30",
-      "objeto": "Contratação de empresa especializada em fornecimento de BEBEDOUROS INDUSTRIAIS (material permanente), a fim de atender as demandas da Secretaria Municipal de Educação.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DomiNpZFCmY907_k67_YGOjNwsKR7s%2FSRURgJgpdXRbJyhnYJqyvb9YSMDD4jfqbncXDu_N_cC5B_ajZBpRE1B_x2bpaUmGCZEtPl%2FZLaeN4%3D",
-      "total_lotes": 6,
-      "total_itens": 6,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "37182 Bebedouro industrial de coluna em aço inox, com capacidade total de 50 litros:com 2 (duas) torneiras; gabinete externo em aço inox escovado ou polido, AISI 430 ou qualidade superior, com estrutura robusta, resistente à corrosão, acabamento sem rebar",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37182 Bebedouro industrial de coluna em aço inox, com capacidade total de 50 litros:com 2 (duas) torneiras; gabinete externo em aço inox escovado ou polido, AISI 430 ou qualidade superior, com estrutura robusta, resistente à corrosão, acabamento sem rebarbas ou arestas cortantes, base apoiada diretamente sobre o piso, com pés niveladores que permitam correta instalação em superfícies irregulares; coluna/pedestal em aço inox própria para uso direto ao chão, dispensando suportes ou bancadas adicionais; reservatório interno com capacidade mínima de 50 litros de água efetivamente refrigerada, fabricado em aço inox AISI 304 ou material atóxico aprovado para contato com água potável, isento de odor e sabor, com serpentina interna em aço inox AISI 304 ou equivalente, vedado o uso de tubulações de cobre em contato direto com a água; sistema de refrigeração por compressor hermético, potência mínima de 1/5 HP ou superior, dotado de termostato regulável, proteção contra sobrecarga elétrica e superaquecimento, utilizando gás refrigerante ecológico R134a, R600a ou equivalente, com condensador adequadamente ventilado; capacidade mínima de fornecimento entre 80 e 150 copos por hora (200 ml), em temperatura ambiente de até 27 °C; equipado com 2 (duas) torneiras frontais de pressão em latão cromado ou aço inox, podendo ambas fornecer água gelada ou configuração com água gelada e natural, conforme fabricante; aparador em aço inox com bandeja coletora e dreno para conexão a ponto de drenagem ou recipiente coletor; isolamento térmico em poliuretano expandido ou material equivalente; alimentação elétrica em 220 V, 60 Hz, ou bivolt, plugue conforme ABNT NBR 14136, com aterramento; dotado de sistema de filtragem por carvão ativado com prata coloidal ou tecnologia equivalente, substituível e de fácil acesso; produto novo, certificado pelo Inmetro para bebedouros/purificadores, acompanhado de manual em português, garantia mínima de 12 meses e indicação de assistência técnica autorizada no território nacional, devendo ser entregue completamente montado, testado e pronto para instalação, incluindo todos os acessórios hidráulicos e elétricos necessários.",
-              "unidade": "UND",
-              "quantidade": "90,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "2",
-          "titulo": "37183 Bebedouro industrial de coluna em aço inox, com capacidade total de 100 litros:com 3 (três) torneiras; gabinete externo em aço inox escovado ou polido, AISI 430 ou qualidade superior, com estrutura reforçada, resistente à corrosão e de fácil higieni",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37183 Bebedouro industrial de coluna em aço inox, com capacidade total de 100 litros:com 3 (três) torneiras; gabinete externo em aço inox escovado ou polido, AISI 430 ou qualidade superior, com estrutura reforçada, resistente à corrosão e de fácil higienização, sem arestas cortantes na região de contato, com base apoiada diretamente sobre o piso, pés niveladores e acabamento que facilite a limpeza frequente do ambiente escolar; coluna/pedestal em aço inox projetada para instalação livre, sem necessidade de suporte adicional, garantindo estabilidade e segurança; reservatório interno em aço inox AISI 304 ou material atóxico compatível com contato com água potável, com capacidade mínima de 50 litros de água efetivamente refrigerada, com serpentina interna em aço inox 304 ou equivalente, sem uso de cobre em contato direto com a água, isolamento térmico em poliuretano expandido ou similar; sistema de refrigeração por compressor hermético, potência mínima de 1/5 HP ou superior, condensador de alto rendimento, gás refrigerante ecológico R134a, R600a ou equivalente, dotado de termostato regulável e proteção contra sobrecarga elétrica e superaquecimento, com capacidade mínima de fornecimento entre 100 e 150 copos por hora (200 ml), em temperatura ambiente de até 27 °C; equipado com 3 (três) torneiras frontais de pressão em latão cromado ou aço inox, sendo no mínimo 2 (duas) para água gelada e 1 (uma) para água natural, ou todas geladas conforme configuração do fabricante; aparador em aço inox com bandeja coletora e dreno para conexão à rede de esgoto; alimentação elétrica 220 V, 60 Hz, ou bivolt, cabo e plugue conforme ABNT NBR 14136, com aterramento; sistema de filtragem integrado ou acoplado, tipo carvão ativado com prata coloidal ou tecnologia equivalente, substituível, eficiência mínima classe III ou superior; produto certificado pelo Inmetro, acompanhado de selo de conformidade, manual em português e garantia mínima de 12 meses, devendo ser entregue completo, pronto para instalação, incluindo acessórios hidráulicos eelétricos necessários.",
-              "unidade": "UND",
-              "quantidade": "150,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "3",
-          "titulo": "9908411203 Bebedouro industrial de coluna em aço inox, com capacidade total de 100 litros:com de 4 (quatro) torneiras; gabinete externo em aço inox escovado ou polido, AISI 430 ou qualidade superior, com estrutura reforçada adequada ao uso coletivo intens",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9908411203 Bebedouro industrial de coluna em aço inox, com capacidade total de 100 litros:com de 4 (quatro) torneiras; gabinete externo em aço inox escovado ou polido, AISI 430 ou qualidade superior, com estrutura reforçada adequada ao uso coletivo intenso, resistente à corrosão e de fácil higienização, sem arestas cortantes, com base apoiada diretamente sobre o piso e pés niveladores; coluna/pedestal em aço inox projetada para instalação autônoma em locais de grande circulação, garantindo estabilidade e segurança; reservatório interno em aço inox AISI 304 ou material atóxico compatível com contato com água potável, com disponibilização mínima de 50 litros de água efetivamente refrigerada, serpentina interna em aço inox AISI 304 ou equivalente, vedado o uso de cobre em contato direto com a água, com isolamento térmico em poliuretano expandido ou material equivalente; sistema de refrigeração por compressor hermético de alta performance, potência mínima de 1/4 HP ou superior, condensador ventilado e utilização de gás refrigerante ecológico R134a, R600a ou equivalente, dotado de termostato regulável e proteção contra sobrecarga elétrica e superaquecimento, com capacidade mínima de fornecimento entre 150 e 200 copos por hora (200 ml), em temperatura ambiente de até 32 °C; equipado com 4 (quatro) torneiras frontais de pressão em aço inox ou latão cromado, sendo preferencialmente 3 (três) para água gelada e 1 (uma) para água natural, ou configuração equivalente do fabricante; aparador em aço inox com bandeja coletora e dreno para conexão à rede de esgoto ou ponto de drenagem; alimentação elétrica em 220 V, 60 Hz, ou bivolt, com plugue conforme ABNT NBR 14136 e aterramento; sistema de filtragem integrado ou acoplado por carvão ativado com prata coloidal ou tecnologia equivalente, substituível e de fácil manutenção; produto certificado pelo Inmetro para bebedouros/purificadores, acompanhado de manual em português, garantia mínima de 12 meses e assistência técnica autorizada no território nacional, devendo ser entregue completo, montado, testado e pronto para instalação, incluindo acessórios hidráulicos e elétricos necessários.",
-              "unidade": "UND",
-              "quantidade": "90,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "4",
-          "titulo": "37317 Bebedouro industrial de coluna em aço inox, com capacidade total de 50 litros:com 2 (duas) torneiras;:gabineteexterno em aço inox escovado ou polido, AISI 430 ou qualidadesuperior, com estrutura robusta, resistente à corrosão, acabamento sem rebar",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37317 Bebedouro industrial de coluna em aço inox, com capacidade total de 50 litros:com 2 (duas) torneiras;:gabineteexterno em aço inox escovado ou polido, AISI 430 ou qualidadesuperior, com estrutura robusta, resistente à corrosão, acabamento sem rebarbas ou arestas cortantes, base apoiadadiretamente sobre o piso, com pés niveladores que permitam correta instalação em superfícies irregulares; coluna/pedestal emaço inox própria para uso direto ao chão, dispensando suportes ou bancadas adicionais; reservatório interno com capacidade mínima de 50 litros de água efetivamente refrigerada, fabricadoem aço inox AISI 304 ou material atóxico aprovado para contato com água potável, isento de odor e sabor, com serpentina interna em aço inox AISI 304 ou equivalente, vedado o uso de tubulações de cobre em contato direto com a água; sistema de refrigeração por compressor hermético, potência mínima de 1/5 HP ou superior, dotado de termostato regulável, proteção contra sobrecarga elétrica e superaquecimento, utilizando gás refrigerante ecológico R134a, R600a ou equivalente, com condensador adequadamente ventilado; capacidade mínima de fornecimento entre 80 e 150 copos por hora (200 ml), em temperatura ambiente de até 27 °C; equipado com 2 (duas) torneiras frontais de pressão em latão cromado ou aço inox, podendo ambas fornecer água gelada ou configuração com água gelada e natural, conforme fabricante; aparador em aço inox com bandeja coletora e dreno para conexão a ponto de drenagem ou recipiente coletor; isolamento térmico em poliuretano expandidoou material equivalente; alimentação elétrica em 220 V, 60 Hz, ou bivolt, plugue conforme ABNT NBR 14136, com aterramento;dotado de sistema de filtragem por carvão ativado com prata coloidal ou tecnologia equivalente, substituível e de fácil acesso; produto novo, certificado pelo Inmetro para bebedouros/purificadores, acompanhado de manual em português, garantia mínima de 12 meses e indicação deassistência técnica autorizada no território nacional, devendo ser entregue completamente montado, testado e pronto parainstalação, incluindo todos os acessórios hidráulicos e elétricos necessários. COTA 25% PARA ME/EPP.",
-              "unidade": "Und.",
-              "quantidade": "30,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "5",
-          "titulo": "37318 Bebedouro industrial de coluna em aço inox, com capacidade total de 100 litros: com 3 (três) torneiras;:gabinete externo em aço inox escovado ou polido, AISI 430 ou qualidade superior, com estrutura reforçada, resistente à corrosão e de fácil higien",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37318 Bebedouro industrial de coluna em aço inox, com capacidade total de 100 litros: com 3 (três) torneiras;:gabinete externo em aço inox escovado ou polido, AISI 430 ou qualidade superior, com estrutura reforçada, resistente à corrosão e de fácil higienização, sem arestas cortantes na região de contato, com base apoiada diretamente sobreo piso, pés niveladores e acabamento que facilite a limpeza frequente do ambiente escolar; coluna/pedestal em aço inox projetada para instalação livre, sem necessidade de suporte adicional, garantindo estabilidade e segurança; reservatório interno em aço inox AISI 304 ou material atóxico compatível com contato com água potável, com capacidade mínima de 50 litros de água efetivamente refrigerada, com serpentina interna em aço inox 304 ou equivalente, sem uso de cobre em contato direto com a água, isolamento térmico em poliuretano expandido ou similar; sistema de refrigeração por compressor hermético, potência mínima de 1/5 HP ou superior, condensador de alto rendimento, gás refrigerante ecológico R134a, R600a ou equivalente, dotado de termostato regulável e proteção contra sobrecarga elétrica e superaquecimento, com capacidade mínima de fornecimento entre 100 e 150 copos por hora (200 ml), em temperatura ambiente de até 27 °C; equipado com 3 (três) torneiras frontais de pressão em latão cromado ou aço inox, sendo no mínimo 2 (duas) para água gelada e 1 (uma) para água natural, ou todas geladas conforme configuração do fabricante; aparador em aço inox com bandeja coletora e dreno para conexão à rede de esgoto; alimentação elétrica 220 V, 60 Hz, ou bivolt, cabo e plugue conforme ABNT NBR 14136, com aterramento; sistema de filtragem integrado ou acoplado, tipo carvão ativado com prata coloidal ou tecnologia equivalente, substituível, eficiência mínima classe III ou superior; produto certificado pelo Inmetro, acompanhado de selo de conformidade, manual em português e garantia mínima de 12 meses, devendo ser entregue completo, pronto para instalação, incluindo acessórios hidráulicos e elétricos necessários. COTA 25% PARA ME/EPP.",
-              "unidade": "Und.",
-              "quantidade": "50,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "6",
-          "titulo": "9909911330 Bebedouro industrial de coluna em aço inox, com capacidade total de 100 litros: com de 4 (quatro) torneiras;:gabinete externo em aço inox escovado ou polido, AISI 430 ou qualidade superior, com estrutura reforçada adequada ao uso coletivo inten",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9909911330 Bebedouro industrial de coluna em aço inox, com capacidade total de 100 litros: com de 4 (quatro) torneiras;:gabinete externo em aço inox escovado ou polido, AISI 430 ou qualidade superior, com estrutura reforçada adequada ao uso coletivo intenso, resistente à corrosão e de fácil higienização, sem arestas cortantes, com base apoiada diretamente sobre o piso e pés niveladores; coluna/pedestal em aço inox projetada para instalação autônoma em locais de grande circulação, garantindo estabilidade e segurança; reservatório interno em aço inox AISI 304 ou material atóxico compatível com contato com água potável, com disponibilização mínima de 50 litros de água efetivamente refrigerada, serpentina interna em aço inox AISI 304 ou equivalente, vedado o usode cobre em contato direto com a água, com isolamento térmico em poliuretano expandido ou material equivalente; sistema de refrigeração por compressor hermético de alta performance, potência mínima de 1/4 HP ou superior, condensador ventilado e utilização de gás refrigerante ecológico R134a, R600a ou equivalente, dotado de termostato regulável e proteção contra sobrecarga elétrica e superaquecimento, com capacidade mínima de fornecimento entre 150 e 200 copos por hora (200 ml), em temperatura ambiente de até 32 °C; equipado com 4 (quatro) torneiras frontais de pressão em aço inox ou latão cromado, sendo preferencialmente 3 (três) para água gelada e 1 (uma) para água natural, ou configuração equivalente do fabricante; aparador em aço inox com bandeja coletora e dreno para conexão à rede de esgoto ou ponto de drenagem; alimentação elétrica em 220 V, 60 Hz, ou bivolt, com plugue conforme ABNT NBR 14136 e aterramento; sistema de filtragem integrado ou acoplado por carvão ativado com prata coloidal ou tecnologia equivalente, substituível e de fácil manutenção; produto certificado pelo Inmetro para bebedouros/purificadores, acompanhado de manual em português, garantia mínima de 12 meses e assistência técnica autorizada no território nacional, devendo ser entregue completo, montado, testado e pronto para instalação, incluindo acessórios hidráulicos e elétricosnecessários. COTA 25% PARA ME/EPP.",
-              "unidade": "Und.",
-              "quantidade": "30,00",
-              "valor_referencia": ""
             }
           ]
         }
@@ -271294,57 +270594,6 @@
       ]
     },
     {
-      "id": "3-DLE-057-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "516 / 2026",
-      "modalidade": "DISPENSA ELETRÔNICA",
-      "situacao": "RECEPÇÃO DE PROPOSTAS",
-      "condutor": "ISAQUE SILVA DOS SANTOS",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO",
-      "publicacao": "10/06/2026 18:26",
-      "inicio_recepcao": "10/06/2026 18:33",
-      "fim_recepcao": "16/06/2026 08:15",
-      "inicio_disputa": "16/06/2026 08:30",
-      "objeto": "Contratação de empresa especializada em prestação de serviço de MANUTENÇÃO CORRETIVA COM FORNECIMENTO DE PEÇAS E COMPONENTES ORIGINAIS OU COMPATÍVEIS DE GERADOR DE ENERGIA, a fim de atender as demandas da Secretaria Municipal de Saúde.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DZ9l2QXTsqCJqU3FuAll2e0Di6d%2FQSEgRBTFnWDs8pe1KS1nkhQBu58OUp0yxibN2CdzxMAybzjWWkY3hFxF6lkOuZ1HM8sopg9AvXWGYcXQ%3D",
-      "total_lotes": 1,
-      "total_itens": 2,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "MANUTENÇÃO GERADORES",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "6.766,64",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 2,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9902900165 MANUTENÇÃO CORRETIVA EM GERADOR DEENERGIA:Execução de serviços de manutenção corretiva em geradores de energia elétrica do Município, abrangendo diagnóstico de falhas, reparos e normas técnicas aplicáveis. Devem ser verificados e reparados sistemas elétricos, mecânicos e de combustível, filtros, cabos, conexões e demais elementos críticos, assegurando eficiência, segurança e confiabilidade do gerador. A execução deverá ser realizada por equipe técnica qualificada, utilizando ferramentas, equipamentos e procedimentos adequados, com emissão de relatório detalhado contendo as falhas identificadas, os serviços realizados.Motor marca: BRANCO, Série: CF23007948, Código: 90316070, Modelo: JFWZF7P90, Potência: 38,8/28,6 KVA, Regime: Standby, Tensão: 380/220 V, Rotação: 1800 RPM, Peso do equipamento: 255 kg, Data de fabricação: abr/23.",
-              "unidade": "SER",
-              "quantidade": "1,00",
-              "valor_referencia": "1.766,64"
-            },
-            {
-              "numero": "2",
-              "especificacao": "9900515619 FORNECIMENTO DE PEÇAS E COMPONENTES ORIGINAIS OU COMPATÍVEIS DE QUALIDADECOMPROVADA DE GERADOR:Fornecimento de peças e componentes necessários para manutenção e corretiva de gerador. Todos os itens fornecidos deverão ser originais ou compatíveis de qualidade comprovada, garantindo a operação eficiente, segura e contínua dos equipamentos",
-              "unidade": "Und.",
-              "quantidade": "1,00",
-              "valor_referencia": "5.000,00"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "2-DLE-055-2026",
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "240 / 2026",
@@ -271383,50 +270632,6 @@
               "unidade": "ROL",
               "quantidade": "30,00",
               "valor_referencia": "267,32"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "PE-094-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "623 / 2026",
-      "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "PUBLICADO",
-      "condutor": "JONATAS DA SILVA SOUSA",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO PARCELADA",
-      "publicacao": "12/06/2026 15:56",
-      "inicio_recepcao": "16/06/2026 08:30",
-      "fim_recepcao": "01/07/2026 08:15",
-      "inicio_disputa": "01/07/2026 08:30",
-      "objeto": "Contratação de empresa especializada em prestação de serviços de AGENCIAMENTO DE\nPASSAGENS AÉREAS, a fim de atender as da Secretaria Municipal de Administração e\ndemais Secretarias.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5Dy8AZMg9GcSroMQc5QBPVQzFqzhMhUUS3hBI1l%2F6BvBOVVgWK4H7Apy361q703P2Lw32evFJLJQUd5_OHVUKR1UG1OXXrj8i3Q%2F18KezFGtA%3D",
-      "total_lotes": 1,
-      "total_itens": 1,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "PASSAGENS AÉREAS",
-          "fase": "PUBLICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "260.000,00",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9903312053 Contratação de empresa especializada no serviçode agenciamento de passagens aéreas:oferecendo emissão debilhetes de passagens de todas as companhias de transporteaéreo em trechos nacionais, incluindo reserva, emissão,transferência, marcação, remarcação e reembolso, despacho debagagem.",
-              "unidade": "SER",
-              "quantidade": "1,00",
-              "valor_referencia": "260.000,00"
             }
           ]
         }
@@ -272909,42 +272114,809 @@
       ]
     },
     {
-      "id": "PE-027-2024",
+      "id": "PE-093-2026",
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "705/2024",
+      "numero_adm": "512 / 2026",
       "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "SUSPENSO",
-      "condutor": "VICTOR KINIDEL DETHLING",
+      "situacao": "PUBLICADO",
+      "condutor": "SERGIO CARNEIRO CAVALCANTI DE AZEVEDO",
       "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
       "tipo_contrato": "AQUISIÇÃO",
-      "publicacao": "15/05/2024 18:26",
-      "inicio_recepcao": "16/05/2024 08:00",
-      "fim_recepcao": "12/06/2024 09:45",
-      "inicio_disputa": "12/06/2024 10:00",
-      "objeto": "Contratação de instituição financeira para prestação de serviços bancários para centralização, gerenciamento e processamento de créditos da folha de pagamento dos servidores, a fim de atender as demandas da Prefeitura de Teixeira de Freitas, conforme condições, quantidades e especificações no Edital, Termo de Referência e seus Anexos.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DPWMtV82GgIhPvX6G7uYoHyJSLFlbVXUmMY3zCrkinjYNqIdym3rRvvFx7JfXXsIcPcbeAXs4AMjy6kSwKGcGwfOve1ZdlpbzhBLMd0W5OxI%3D",
+      "publicacao": "16/06/2026 14:17",
+      "inicio_recepcao": "18/06/2026 08:30",
+      "fim_recepcao": "01/07/2026 08:15",
+      "inicio_disputa": "01/07/2026 08:30",
+      "objeto": "Contratação de empresa especializada em fornecimento de BICICLETA ELÉTRICA (material permanente), a fim de atender as demandas da Secretaria Municipal de Administração e demais secretarias.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DjsZmzgM090sz4cdCLu8v3ja2LEAScrP26qp0JSjITvczhG%2FiPZVnkuTiujpXcnIH9ULXpR0sXQBsR3BkS1ejtA40Mmp0EN0K3AZQqCHHPnY%3D",
       "total_lotes": 1,
       "total_itens": 1,
       "lotes": [
         {
           "numero": "1",
-          "titulo": "LOTE 01",
-          "fase": "SUSPENSO",
-          "tipo": "UNITÁRIO",
+          "titulo": "BICICLETA ELETRICA",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
           "quantidade": "1",
-          "intervalo_minimo": "100,00",
+          "intervalo_minimo": "0,01",
           "exclusivo_me": "NÃO",
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
-          "valor_referencia": "6.052.150,00",
+          "valor_referencia": "",
           "vencedor": "",
           "melhor_oferta": "0,00",
           "total_itens": 1,
           "itens": [
             {
               "numero": "1",
+              "especificacao": "9900830496 BICICLETA ELÉTRICA:potência mínima de 750W; velocidade máxima de 32 km/h; autonomia mínima de 70 km porcarga; bateria com tensão mínima de 48V e capacidadecompatível para atendimento da autonomia exigida; displaydigital para monitoramento das funções; sistema de freios a disconas rodas dianteira e traseira; câmbio com, no mínimo, 4marchas ou superior; tempo de recarga da bateria total de, nomáximo, 6 horas; farol dianteiro em LED ou tecnologiaequivalente; retrovisor com, no mínimo, 1 unidade no ladoesquerdo; estrutura em aço ou material de resistênciaequivalente; capacidade de suportar uso contínuo em atividadesinstitucionais; (acompanhado de capacete de segurança paraciclista, com proteção de queixo, em conformidade com aResolução CONTRAN nº 996/2023 ou norma que venha asubstituí-la).",
+              "unidade": "UN",
+              "quantidade": "10,00",
+              "valor_referencia": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-094-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "623 / 2026",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "RECEPÇÃO DE PROPOSTAS",
+      "condutor": "JONATAS DA SILVA SOUSA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO PARCELADA",
+      "publicacao": "12/06/2026 15:56",
+      "inicio_recepcao": "16/06/2026 08:30",
+      "fim_recepcao": "01/07/2026 08:15",
+      "inicio_disputa": "01/07/2026 08:30",
+      "objeto": "Contratação de empresa especializada em prestação de serviços de AGENCIAMENTO DE\nPASSAGENS AÉREAS, a fim de atender as da Secretaria Municipal de Administração e\ndemais Secretarias.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DNNmgiJgDO2%2F2qthkQauSgydUDP8hrEqeZMxpf3OM3gXokWdQlT2i2Yt%2FU9uSLBtDTmJ4MhjPjGHoTmNluhX9XLPXNjPTRL4YULvex6qpA5Q%3D",
+      "total_lotes": 1,
+      "total_itens": 1,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "PASSAGENS AÉREAS",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "260.000,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9903312053 Contratação de empresa especializada no serviçode agenciamento de passagens aéreas:oferecendo emissão debilhetes de passagens de todas as companhias de transporteaéreo em trechos nacionais, incluindo reserva, emissão,transferência, marcação, remarcação e reembolso, despacho debagagem.",
+              "unidade": "SER",
+              "quantidade": "1,00",
+              "valor_referencia": "260.000,00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3-DLE-057-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "516 / 2026",
+      "modalidade": "DISPENSA ELETRÔNICA",
+      "situacao": "AGUARDANDO DISPUTA",
+      "condutor": "ISAQUE SILVA DOS SANTOS",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO",
+      "publicacao": "10/06/2026 18:26",
+      "inicio_recepcao": "10/06/2026 18:33",
+      "fim_recepcao": "16/06/2026 08:15",
+      "inicio_disputa": "16/06/2026 08:30",
+      "objeto": "Contratação de empresa especializada em prestação de serviço de MANUTENÇÃO CORRETIVA COM FORNECIMENTO DE PEÇAS E COMPONENTES ORIGINAIS OU COMPATÍVEIS DE GERADOR DE ENERGIA, a fim de atender as demandas da Secretaria Municipal de Saúde.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DogV0waCnO1ROkbqxYRmzWTPL05HEswFlyHbxlgycwrQXIwOkqySD8GnZM6zXNvSKTQW2Ea1ERtwS2Flqxd7b%2FIttXbGSEF1rVU2m6clIqqc%3D",
+      "total_lotes": 1,
+      "total_itens": 2,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "MANUTENÇÃO GERADORES",
+          "fase": "AGUARDANDO DISPUTA",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "6.766,64",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 2,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9902900165 MANUTENÇÃO CORRETIVA EM GERADOR DEENERGIA:Execução de serviços de manutenção corretiva em geradores de energia elétrica do Município, abrangendo diagnóstico de falhas, reparos e normas técnicas aplicáveis. Devem ser verificados e reparados sistemas elétricos, mecânicos e de combustível, filtros, cabos, conexões e demais elementos críticos, assegurando eficiência, segurança e confiabilidade do gerador. A execução deverá ser realizada por equipe técnica qualificada, utilizando ferramentas, equipamentos e procedimentos adequados, com emissão de relatório detalhado contendo as falhas identificadas, os serviços realizados.Motor marca: BRANCO, Série: CF23007948, Código: 90316070, Modelo: JFWZF7P90, Potência: 38,8/28,6 KVA, Regime: Standby, Tensão: 380/220 V, Rotação: 1800 RPM, Peso do equipamento: 255 kg, Data de fabricação: abr/23.",
+              "unidade": "SER",
+              "quantidade": "1,00",
+              "valor_referencia": "1.766,64"
+            },
+            {
+              "numero": "2",
+              "especificacao": "9900515619 FORNECIMENTO DE PEÇAS E COMPONENTES ORIGINAIS OU COMPATÍVEIS DE QUALIDADECOMPROVADA DE GERADOR:Fornecimento de peças e componentes necessários para manutenção e corretiva de gerador. Todos os itens fornecidos deverão ser originais ou compatíveis de qualidade comprovada, garantindo a operação eficiente, segura e contínua dos equipamentos",
+              "unidade": "Und.",
+              "quantidade": "1,00",
+              "valor_referencia": "5.000,00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-081-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "369 / 2026",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "JULGAMENTO",
+      "condutor": "SERGIO CARNEIRO CAVALCANTI DE AZEVEDO",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "REGISTRO DE PREÇO",
+      "publicacao": "29/05/2026 11:42",
+      "inicio_recepcao": "02/06/2026 08:30",
+      "fim_recepcao": "16/06/2026 09:15",
+      "inicio_disputa": "16/06/2026 09:30",
+      "objeto": "Contratação de empresa especializada em fornecimento de FRALDAS INFANTIS DESCARTÁVEIS (material de consumo),  a fim de atender as demandas da Secretaria Municipal de Educação.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5D%2F_Y8jd9PQr_dDDKFdymjmqWJSQSHdCexpMHI5ZnE6YQ068M9axL9pXlJH0ECUARmGx1cO0VWPKR_UK_3laMIA1Gl98K9HxAURRgZhCjyHX4%3D",
+      "total_lotes": 3,
+      "total_itens": 3,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "9900515612 Fralda descartável infantil tamanho G (Grande):indicada para crianças com peso aproximado entre 9 kg e 14 kg, admitida variação conforme padrão do fabricante, formato anatômico tipo aberta, com sistema de ajuste por fitas adesivas reposicionáve",
+          "fase": "JULGAMENTO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "545.000,00",
+          "vencedor": "DISTRIBUIDORA DE PRODUTOS AGRESTE MERIDIONAL LTDA",
+          "melhor_oferta": "340.000,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515612 Fralda descartável infantil tamanho G (Grande):indicada para crianças com peso aproximado entre 9 kg e 14 kg, admitida variação conforme padrão do fabricante, formato anatômico tipo aberta, com sistema de ajuste por fitas adesivas reposicionáveis, proporcionando fixação segura e confortável. Deverá ser confeccionada com materiais macios, hipoalergênicos e respiráveis, contendo camada interna suave em contato com a pele, núcleo absorvente com polímero superabsorvente de alta retenção de líquidos, barreiras laterais antivazamento, elásticos ajustáveis na cintura e nas pernas, e camada externa impermeável. O produto deverá apresentar rápida absorção, retenção eficiente de líquidos sob pressão e manutenção da integridade estrutural durante o uso. Deverá ser isento de látex natural, fragrâncias e corantes potencialmente irritantes, dermatologicamente seguro para uso infantil. O produto deverá possuir Certificação do INMETRO, conforme Portaria nº 327/2018 e atender às disposições da ABNT NBR 15629. As fraldas deverão ser fornecidas em embalagens originais resistentes, contendo identificação do fabricante, tamanho, quantidade de unidades, número do lote, data de fabricação e validade mínima de 24 (vinte e quatro) meses a contar da data da entrega. Unidade de fornecimento: Pacotes com 36 a 78 unidades.",
+              "unidade": "UND",
+              "quantidade": "500.000,00",
+              "valor_referencia": "1,09"
+            }
+          ]
+        },
+        {
+          "numero": "2",
+          "titulo": "37315 Fralda descartável infantil tamanho XG (Extra Grande):indicada para crianças com peso aproximado entre 13 kg e 18 kg, admitida variação conforme padrão do fabricante, formato anatômico tipo aberta, com sistema de ajuste por fitas adesivas reposicion",
+          "fase": "JULGAMENTO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "590.000,00",
+          "vencedor": "PROGRID TERCEIRIZAÇÃO E SERVIÇOS  LTDA",
+          "melhor_oferta": "359.800,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37315 Fralda descartável infantil tamanho XG (Extra Grande):indicada para crianças com peso aproximado entre 13 kg e 18 kg, admitida variação conforme padrão do fabricante, formato anatômico tipo aberta, com sistema de ajuste por fitas adesivas reposicionáveis, proporcionando fixação segura e confortável. Deverá ser confeccionada com materiais macios, hipoalergênicos e respiráveis, contendo camada interna suave em contato com a pele, núcleo absorvente com polímero superabsorvente de alta retenção de líquidos, barreiras laterais antivazamento, elásticos ajustáveis na cintura e nas pernas, e camada externa impermeável. O produto deverá apresentar rápida absorção, retenção eficiente de líquidos sob pressão e manutenção da integridade estrutural durante o uso. Deverá ser isento de látex natural, fragrâncias e corantes potencialmente irritantes, dermatologicamente seguro para uso infantil. O produto deverá possuir Certificação do INMETRO, conforme Portaria nº 327/2018 e atender às disposições da ABNT NBR 15629. As fraldas deverão ser fornecidas em embalagens originais resistentes, contendo identificação do fabricante, tamanho, quantidade de unidades, número do lote, data de fabricação e validade mínima de 24 (vinte e quatro) meses a contar da data da entrega. Unidade de fornecimento: Pacotes com 26 a 66 unidades.",
+              "unidade": "UND",
+              "quantidade": "500.000,00",
+              "valor_referencia": "1,18"
+            }
+          ]
+        },
+        {
+          "numero": "3",
+          "titulo": "9900515613 Fralda descartável infantil tamanho XXG (Extra Extra Grande):indicada para crianças com peso aproximado entre 15 kg e 25 kg, admitida variação conforme padrão do fabricante, formato anatômico tipo aberta, com sistema de ajuste por fitas adesiva",
+          "fase": "JULGAMENTO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "700.000,00",
+          "vencedor": "VIVRE COMERCIO DE PRODUTOS HOSPITALARES LTDA",
+          "melhor_oferta": "415.000,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515613 Fralda descartável infantil tamanho XXG (Extra Extra Grande):indicada para crianças com peso aproximado entre 15 kg e 25 kg, admitida variação conforme padrão do fabricante, formato anatômico tipo aberta, com sistema de ajuste por fitas adesivas reposicionáveis, proporcionando fixação segura e confortável. Deverá ser confeccionada com materiais macios, hipoalergênicos e respiráveis, contendo camada interna suave em contato com a pele, núcleo absorvente com polímero superabsorvente de alta retenção de líquidos, barreiras laterais antivazamento, elásticos ajustáveis na cintura e nas pernas, e camada externa impermeável. O produto deverá apresentar rápida absorção, retenção eficiente de líquidos sob pressão e manutenção da integridade estrutural durante o uso. Deverá ser isento de látex natural, fragrâncias e corantes potencialmente irritantes, dermatologicamente seguro para uso infantil. O produto deverá possuir Certificação do INMETRO, conforme Portaria nº 327/2018 e atender às disposições da ABNT NBR 15629. As fraldas deverão ser fornecidas em embalagens originais resistentes, contendo identificação do fabricante, tamanho, quantidade de unidades, número do lote, data de fabricação e validade mínima de 24 (vinte e quatro) meses a contar da data da entrega. Unidade de fornecimento: Pacotes com 20 a 32 unidades.",
+              "unidade": "UND",
+              "quantidade": "500.000,00",
+              "valor_referencia": "1,40"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-079-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "327 / 2026",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "JULGAMENTO",
+      "condutor": "JONATAS DA SILVA SOUSA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "REGISTRO DE PREÇO",
+      "publicacao": "29/05/2026 11:32",
+      "inicio_recepcao": "02/06/2026 08:30",
+      "fim_recepcao": "16/06/2026 08:15",
+      "inicio_disputa": "16/06/2026 08:30",
+      "objeto": "Contratação de empresa especializada em fornecimento de BEBEDOUROS INDUSTRIAIS (material permanente), a fim de atender as demandas da Secretaria Municipal de Educação.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DyM1qmUobrUdpp9vRSVn4MQ15ETpppVil_gzCRt4Rn_ZhGKGxGVEJrytsDbL8bLEe80xuAnIuEvODzoNggUl36J3fFeSl0iJyTqDWH8cXoFo%3D",
+      "total_lotes": 6,
+      "total_itens": 6,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "37182 Bebedouro industrial de coluna em aço inox, com capacidade total de 50 litros:com 2 (duas) torneiras; gabinete externo em aço inox escovado ou polido, AISI 430 ou qualidade superior, com estrutura robusta, resistente à corrosão, acabamento sem rebar",
+          "fase": "JULGAMENTO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "164.346,30",
+          "vencedor": "MOURA E MOURA INFORMATICA E EMPREENDIMENTOS COMERCIAIS LTDA",
+          "melhor_oferta": "158.850,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37182 Bebedouro industrial de coluna em aço inox, com capacidade total de 50 litros:com 2 (duas) torneiras; gabinete externo em aço inox escovado ou polido, AISI 430 ou qualidade superior, com estrutura robusta, resistente à corrosão, acabamento sem rebarbas ou arestas cortantes, base apoiada diretamente sobre o piso, com pés niveladores que permitam correta instalação em superfícies irregulares; coluna/pedestal em aço inox própria para uso direto ao chão, dispensando suportes ou bancadas adicionais; reservatório interno com capacidade mínima de 50 litros de água efetivamente refrigerada, fabricado em aço inox AISI 304 ou material atóxico aprovado para contato com água potável, isento de odor e sabor, com serpentina interna em aço inox AISI 304 ou equivalente, vedado o uso de tubulações de cobre em contato direto com a água; sistema de refrigeração por compressor hermético, potência mínima de 1/5 HP ou superior, dotado de termostato regulável, proteção contra sobrecarga elétrica e superaquecimento, utilizando gás refrigerante ecológico R134a, R600a ou equivalente, com condensador adequadamente ventilado; capacidade mínima de fornecimento entre 80 e 150 copos por hora (200 ml), em temperatura ambiente de até 27 °C; equipado com 2 (duas) torneiras frontais de pressão em latão cromado ou aço inox, podendo ambas fornecer água gelada ou configuração com água gelada e natural, conforme fabricante; aparador em aço inox com bandeja coletora e dreno para conexão a ponto de drenagem ou recipiente coletor; isolamento térmico em poliuretano expandido ou material equivalente; alimentação elétrica em 220 V, 60 Hz, ou bivolt, plugue conforme ABNT NBR 14136, com aterramento; dotado de sistema de filtragem por carvão ativado com prata coloidal ou tecnologia equivalente, substituível e de fácil acesso; produto novo, certificado pelo Inmetro para bebedouros/purificadores, acompanhado de manual em português, garantia mínima de 12 meses e indicação de assistência técnica autorizada no território nacional, devendo ser entregue completamente montado, testado e pronto para instalação, incluindo todos os acessórios hidráulicos e elétricos necessários.",
+              "unidade": "UND",
+              "quantidade": "90,00",
+              "valor_referencia": "1.826,07"
+            }
+          ]
+        },
+        {
+          "numero": "1",
+          "titulo": "37182 Bebedouro industrial de coluna em aço inox, com capacidade total de 50 litros:com 2 (duas) torneiras; gabinete externo em aço inox escovado ou polido, AISI 430 ou qualidade superior, com estrutura robusta, resistente à corrosão, acabamento sem rebar",
+          "fase": "JULGAMENTO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "164.346,30",
+          "vencedor": "MOURA E MOURA INFORMATICA E EMPREENDIMENTOS COMERCIAIS LTDA",
+          "melhor_oferta": "158.850,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37182 Bebedouro industrial de coluna em aço inox, com capacidade total de 50 litros:com 2 (duas) torneiras; gabinete externo em aço inox escovado ou polido, AISI 430 ou qualidade superior, com estrutura robusta, resistente à corrosão, acabamento sem rebarbas ou arestas cortantes, base apoiada diretamente sobre o piso, com pés niveladores que permitam correta instalação em superfícies irregulares; coluna/pedestal em aço inox própria para uso direto ao chão, dispensando suportes ou bancadas adicionais; reservatório interno com capacidade mínima de 50 litros de água efetivamente refrigerada, fabricado em aço inox AISI 304 ou material atóxico aprovado para contato com água potável, isento de odor e sabor, com serpentina interna em aço inox AISI 304 ou equivalente, vedado o uso de tubulações de cobre em contato direto com a água; sistema de refrigeração por compressor hermético, potência mínima de 1/5 HP ou superior, dotado de termostato regulável, proteção contra sobrecarga elétrica e superaquecimento, utilizando gás refrigerante ecológico R134a, R600a ou equivalente, com condensador adequadamente ventilado; capacidade mínima de fornecimento entre 80 e 150 copos por hora (200 ml), em temperatura ambiente de até 27 °C; equipado com 2 (duas) torneiras frontais de pressão em latão cromado ou aço inox, podendo ambas fornecer água gelada ou configuração com água gelada e natural, conforme fabricante; aparador em aço inox com bandeja coletora e dreno para conexão a ponto de drenagem ou recipiente coletor; isolamento térmico em poliuretano expandido ou material equivalente; alimentação elétrica em 220 V, 60 Hz, ou bivolt, plugue conforme ABNT NBR 14136, com aterramento; dotado de sistema de filtragem por carvão ativado com prata coloidal ou tecnologia equivalente, substituível e de fácil acesso; produto novo, certificado pelo Inmetro para bebedouros/purificadores, acompanhado de manual em português, garantia mínima de 12 meses e indicação de assistência técnica autorizada no território nacional, devendo ser entregue completamente montado, testado e pronto para instalação, incluindo todos os acessórios hidráulicos e elétricos necessários.",
+              "unidade": "UND",
+              "quantidade": "90,00",
+              "valor_referencia": "1.826,07"
+            }
+          ]
+        },
+        {
+          "numero": "2",
+          "titulo": "37183 Bebedouro industrial de coluna em aço inox, com capacidade total de 100 litros:com 3 (três) torneiras; gabinete externo em aço inox escovado ou polido, AISI 430 ou qualidade superior, com estrutura reforçada, resistente à corrosão e de fácil higieni",
+          "fase": "JULGAMENTO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "325.999,50",
+          "vencedor": "MOURA E MOURA INFORMATICA E EMPREENDIMENTOS COMERCIAIS LTDA",
+          "melhor_oferta": "284.850,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37183 Bebedouro industrial de coluna em aço inox, com capacidade total de 100 litros:com 3 (três) torneiras; gabinete externo em aço inox escovado ou polido, AISI 430 ou qualidade superior, com estrutura reforçada, resistente à corrosão e de fácil higienização, sem arestas cortantes na região de contato, com base apoiada diretamente sobre o piso, pés niveladores e acabamento que facilite a limpeza frequente do ambiente escolar; coluna/pedestal em aço inox projetada para instalação livre, sem necessidade de suporte adicional, garantindo estabilidade e segurança; reservatório interno em aço inox AISI 304 ou material atóxico compatível com contato com água potável, com capacidade mínima de 50 litros de água efetivamente refrigerada, com serpentina interna em aço inox 304 ou equivalente, sem uso de cobre em contato direto com a água, isolamento térmico em poliuretano expandido ou similar; sistema de refrigeração por compressor hermético, potência mínima de 1/5 HP ou superior, condensador de alto rendimento, gás refrigerante ecológico R134a, R600a ou equivalente, dotado de termostato regulável e proteção contra sobrecarga elétrica e superaquecimento, com capacidade mínima de fornecimento entre 100 e 150 copos por hora (200 ml), em temperatura ambiente de até 27 °C; equipado com 3 (três) torneiras frontais de pressão em latão cromado ou aço inox, sendo no mínimo 2 (duas) para água gelada e 1 (uma) para água natural, ou todas geladas conforme configuração do fabricante; aparador em aço inox com bandeja coletora e dreno para conexão à rede de esgoto; alimentação elétrica 220 V, 60 Hz, ou bivolt, cabo e plugue conforme ABNT NBR 14136, com aterramento; sistema de filtragem integrado ou acoplado, tipo carvão ativado com prata coloidal ou tecnologia equivalente, substituível, eficiência mínima classe III ou superior; produto certificado pelo Inmetro, acompanhado de selo de conformidade, manual em português e garantia mínima de 12 meses, devendo ser entregue completo, pronto para instalação, incluindo acessórios hidráulicos eelétricos necessários.",
+              "unidade": "UND",
+              "quantidade": "150,00",
+              "valor_referencia": "2.173,33"
+            }
+          ]
+        },
+        {
+          "numero": "3",
+          "titulo": "9908411203 Bebedouro industrial de coluna em aço inox, com capacidade total de 100 litros:com de 4 (quatro) torneiras; gabinete externo em aço inox escovado ou polido, AISI 430 ou qualidade superior, com estrutura reforçada adequada ao uso coletivo intens",
+          "fase": "JULGAMENTO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "210.127,50",
+          "vencedor": "MOURA E MOURA INFORMATICA E EMPREENDIMENTOS COMERCIAIS LTDA",
+          "melhor_oferta": "170.910,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9908411203 Bebedouro industrial de coluna em aço inox, com capacidade total de 100 litros:com de 4 (quatro) torneiras; gabinete externo em aço inox escovado ou polido, AISI 430 ou qualidade superior, com estrutura reforçada adequada ao uso coletivo intenso, resistente à corrosão e de fácil higienização, sem arestas cortantes, com base apoiada diretamente sobre o piso e pés niveladores; coluna/pedestal em aço inox projetada para instalação autônoma em locais de grande circulação, garantindo estabilidade e segurança; reservatório interno em aço inox AISI 304 ou material atóxico compatível com contato com água potável, com disponibilização mínima de 50 litros de água efetivamente refrigerada, serpentina interna em aço inox AISI 304 ou equivalente, vedado o uso de cobre em contato direto com a água, com isolamento térmico em poliuretano expandido ou material equivalente; sistema de refrigeração por compressor hermético de alta performance, potência mínima de 1/4 HP ou superior, condensador ventilado e utilização de gás refrigerante ecológico R134a, R600a ou equivalente, dotado de termostato regulável e proteção contra sobrecarga elétrica e superaquecimento, com capacidade mínima de fornecimento entre 150 e 200 copos por hora (200 ml), em temperatura ambiente de até 32 °C; equipado com 4 (quatro) torneiras frontais de pressão em aço inox ou latão cromado, sendo preferencialmente 3 (três) para água gelada e 1 (uma) para água natural, ou configuração equivalente do fabricante; aparador em aço inox com bandeja coletora e dreno para conexão à rede de esgoto ou ponto de drenagem; alimentação elétrica em 220 V, 60 Hz, ou bivolt, com plugue conforme ABNT NBR 14136 e aterramento; sistema de filtragem integrado ou acoplado por carvão ativado com prata coloidal ou tecnologia equivalente, substituível e de fácil manutenção; produto certificado pelo Inmetro para bebedouros/purificadores, acompanhado de manual em português, garantia mínima de 12 meses e assistência técnica autorizada no território nacional, devendo ser entregue completo, montado, testado e pronto para instalação, incluindo acessórios hidráulicos e elétricos necessários.",
+              "unidade": "UND",
+              "quantidade": "90,00",
+              "valor_referencia": "2.334,75"
+            }
+          ]
+        },
+        {
+          "numero": "4",
+          "titulo": "37317 Bebedouro industrial de coluna em aço inox, com capacidade total de 50 litros:com 2 (duas) torneiras;:gabineteexterno em aço inox escovado ou polido, AISI 430 ou qualidadesuperior, com estrutura robusta, resistente à corrosão, acabamento sem rebar",
+          "fase": "JULGAMENTO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "54.782,10",
+          "vencedor": "H2O COMERCIO E REPRESENTAÇÃO DE BEBEDOUROS LTDA",
+          "melhor_oferta": "52.500,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37317 Bebedouro industrial de coluna em aço inox, com capacidade total de 50 litros:com 2 (duas) torneiras;:gabineteexterno em aço inox escovado ou polido, AISI 430 ou qualidadesuperior, com estrutura robusta, resistente à corrosão, acabamento sem rebarbas ou arestas cortantes, base apoiadadiretamente sobre o piso, com pés niveladores que permitam correta instalação em superfícies irregulares; coluna/pedestal emaço inox própria para uso direto ao chão, dispensando suportes ou bancadas adicionais; reservatório interno com capacidade mínima de 50 litros de água efetivamente refrigerada, fabricadoem aço inox AISI 304 ou material atóxico aprovado para contato com água potável, isento de odor e sabor, com serpentina interna em aço inox AISI 304 ou equivalente, vedado o uso de tubulações de cobre em contato direto com a água; sistema de refrigeração por compressor hermético, potência mínima de 1/5 HP ou superior, dotado de termostato regulável, proteção contra sobrecarga elétrica e superaquecimento, utilizando gás refrigerante ecológico R134a, R600a ou equivalente, com condensador adequadamente ventilado; capacidade mínima de fornecimento entre 80 e 150 copos por hora (200 ml), em temperatura ambiente de até 27 °C; equipado com 2 (duas) torneiras frontais de pressão em latão cromado ou aço inox, podendo ambas fornecer água gelada ou configuração com água gelada e natural, conforme fabricante; aparador em aço inox com bandeja coletora e dreno para conexão a ponto de drenagem ou recipiente coletor; isolamento térmico em poliuretano expandidoou material equivalente; alimentação elétrica em 220 V, 60 Hz, ou bivolt, plugue conforme ABNT NBR 14136, com aterramento;dotado de sistema de filtragem por carvão ativado com prata coloidal ou tecnologia equivalente, substituível e de fácil acesso; produto novo, certificado pelo Inmetro para bebedouros/purificadores, acompanhado de manual em português, garantia mínima de 12 meses e indicação deassistência técnica autorizada no território nacional, devendo ser entregue completamente montado, testado e pronto parainstalação, incluindo todos os acessórios hidráulicos e elétricos necessários. COTA 25% PARA ME/EPP.",
+              "unidade": "Und.",
+              "quantidade": "30,00",
+              "valor_referencia": "1.826,07"
+            }
+          ]
+        },
+        {
+          "numero": "5",
+          "titulo": "37318 Bebedouro industrial de coluna em aço inox, com capacidade total de 100 litros: com 3 (três) torneiras;:gabinete externo em aço inox escovado ou polido, AISI 430 ou qualidade superior, com estrutura reforçada, resistente à corrosão e de fácil higien",
+          "fase": "JULGAMENTO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "108.666,50",
+          "vencedor": "H2O COMERCIO E REPRESENTAÇÃO DE BEBEDOUROS LTDA",
+          "melhor_oferta": "95.000,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37318 Bebedouro industrial de coluna em aço inox, com capacidade total de 100 litros: com 3 (três) torneiras;:gabinete externo em aço inox escovado ou polido, AISI 430 ou qualidade superior, com estrutura reforçada, resistente à corrosão e de fácil higienização, sem arestas cortantes na região de contato, com base apoiada diretamente sobreo piso, pés niveladores e acabamento que facilite a limpeza frequente do ambiente escolar; coluna/pedestal em aço inox projetada para instalação livre, sem necessidade de suporte adicional, garantindo estabilidade e segurança; reservatório interno em aço inox AISI 304 ou material atóxico compatível com contato com água potável, com capacidade mínima de 50 litros de água efetivamente refrigerada, com serpentina interna em aço inox 304 ou equivalente, sem uso de cobre em contato direto com a água, isolamento térmico em poliuretano expandido ou similar; sistema de refrigeração por compressor hermético, potência mínima de 1/5 HP ou superior, condensador de alto rendimento, gás refrigerante ecológico R134a, R600a ou equivalente, dotado de termostato regulável e proteção contra sobrecarga elétrica e superaquecimento, com capacidade mínima de fornecimento entre 100 e 150 copos por hora (200 ml), em temperatura ambiente de até 27 °C; equipado com 3 (três) torneiras frontais de pressão em latão cromado ou aço inox, sendo no mínimo 2 (duas) para água gelada e 1 (uma) para água natural, ou todas geladas conforme configuração do fabricante; aparador em aço inox com bandeja coletora e dreno para conexão à rede de esgoto; alimentação elétrica 220 V, 60 Hz, ou bivolt, cabo e plugue conforme ABNT NBR 14136, com aterramento; sistema de filtragem integrado ou acoplado, tipo carvão ativado com prata coloidal ou tecnologia equivalente, substituível, eficiência mínima classe III ou superior; produto certificado pelo Inmetro, acompanhado de selo de conformidade, manual em português e garantia mínima de 12 meses, devendo ser entregue completo, pronto para instalação, incluindo acessórios hidráulicos e elétricos necessários. COTA 25% PARA ME/EPP.",
+              "unidade": "Und.",
+              "quantidade": "50,00",
+              "valor_referencia": "2.173,33"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-073-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "202 / 2026",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "ADJUDICADO",
+      "condutor": "SERGIO CARNEIRO CAVALCANTI DE AZEVEDO",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO",
+      "publicacao": "05/05/2026 13:34",
+      "inicio_recepcao": "07/05/2026 08:30",
+      "fim_recepcao": "19/05/2026 08:15",
+      "inicio_disputa": "19/05/2026 08:30",
+      "objeto": "Contratação de empresa especializada em fornecimento de VEÍCULOS TIPO PICAPE CABINE DUPLA (bens permanentes), a fim de atender as demandas da Secretaria Municipal de Educação.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5D7XpLoKxK9aifxiebMDAosPkyp222IzGMXnrLGiDerVPHp3P0FRSAw3j_GcIy4R4ybQ07UYn%2F9FaNOSsWRMO5cuCDBXL1aY7udUGZxv3VKac%3D",
+      "total_lotes": 1,
+      "total_itens": 1,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "VEICULOS TIPO PICAPE",
+          "fase": "ADJUDICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "542.018,80",
+          "vencedor": "VIA MONDO AUTOMOVEIS E PEÇAS LTDA",
+          "melhor_oferta": "524.000,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "73973900009 Veículo automotor zero quilômetro, tipo picapeleve/compacta:com cabine dupla, 4 portas, capacidade para 5(cinco) ocupantes incluindo o motorista. Ano defabricação/modelo 2026, combustível tipo flex (álcool/gasolina),motorização mínima de 1.3L (ou superior), potência mínima107cv. Tração 4x2, câmbio manual ou automático, com, nomínimo, 5 (cinco) marchas à frente (ou conforme tecnologiadisponível em câmbio automático), visando melhor desempenho,segurança e economia de combustível. Veículo dotado dedireção com assistência elétrica, sistema de freios com ABS eEBD (ou equivalente), airbag frontal para motorista e passageiro,cintos de segurança de 3 (três) pontos para todos os ocupantes(quando aplicável) e encostos de cabeça, atendendointegralmente às normas de segurança vigentes. Vidros elétricosnas portas dianteiras e traseiras, travas elétricas nas portas comtravamento central e acionamento por meio de comando internoe pela chave ou dispositivo equivalente. Sistema de arcondicionado frio/quente, com difusores frontais, adequado aoconforto térmico dos ocupantes, com comandos de fácil acessoao motorista. Carroceria com caçamba traseira aberta, comcapacidade de carga mínima de 600kg, dotada de protetor decaçamba (forração ou protetor em material plástico ou similar),capota marítima ou equivalente, ganchos ou pontos deamarração de carga conforme projeto do fabricante, permitindo otransporte de materiais leves, equipamentos, mobiliários depequeno porte, materiais pedagógicos e insumos administrativos.Sistema multimídia, no mínimo, conexão Bluetooth e rádio, altofalantes instalados, entrada USB ou equivalente, painel deinstrumentos com indicadores básicos (velocímetro, marcador decombustível, hodômetro, luzes de advertência) e computador debordo. Comando interno e elétricos para regulagem deretrovisores externos, desembaçador do vidro traseiro (quandoaplicável), limpador e lavador de para-brisa dianteiro comtemporizador. Equipado, no mínimo, com sensor deestacionamento traseiro e câmera de ré (admite-se um dos doisou ambos), faróis com regulagem de foco (manual ou elétrica,conforme projeto de fábrica), iluminação traseira completa, luz defreio elevada, aviso sonoro de faróis acesos e/ou portas abertas,conforme configuração de série. Bancos revestidos em courosintético de fábrica ou material similar, banco do motorista comajuste de distância e inclinação, porta-objetos distribuídos nopainel...(VIDE O ANEXO DO TERMO).",
+              "unidade": "UN",
+              "quantidade": "4,00",
+              "valor_referencia": "135.504,70"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CD-005-2025",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "758/2025",
+      "modalidade": "CREDENCIAMENTO",
+      "situacao": "EM FINALIZAÇÃO",
+      "condutor": "MAGDA DE SELES GUIMARÃES",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO",
+      "publicacao": "03/06/2025 16:35",
+      "inicio_recepcao": "13/06/2025 08:00",
+      "fim_recepcao": "15/06/2026 08:00",
+      "inicio_disputa": "",
+      "objeto": "CREDENCIAMENTO DE PESSOA JURÍDICA PARA PRESTAÇÃO DE SERVIÇOS MÉDICOS ESPECIALIZADOS EM ANÁLISE PATOLÓGICA PARA ATENDER AS DEMANDAS DA SECRETARIA MUNICIPAL DE SAÚDE",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DUjXqC6lYCknnLD7XeaDMX1o5d4sBo1lbOAdXMmJSXu1hNXVP2Q7ExS_ZShEbwvpqShAeHaIomO91CTyFoDNtozEXLI_g8z5kvONP2ys9ofQ%3D",
+      "total_lotes": 6,
+      "total_itens": 6,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "33436 BIÓPSIA SIMPLES",
+          "fase": "HABILITAÇÃO",
+          "tipo": "UNITÁRIO",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "60,19",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "33436 BIÓPSIA SIMPLES:BIÓPSIA SIMPLES",
+              "unidade": "SERV",
+              "quantidade": "2.500,00",
+              "valor_referencia": "60,19"
+            }
+          ]
+        },
+        {
+          "numero": "2",
+          "titulo": "9903311392 CITOLOGIA EM MEIO LIQUIDO",
+          "fase": "HABILITAÇÃO",
+          "tipo": "UNITÁRIO",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "62,25",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9903311392 CITOLOGIA EM MEIO LIQUIDO - BRONQUIO:CITOLOGIA EM MEIO LIQUIDO - BRONQUIO.",
+              "unidade": "SERV",
+              "quantidade": "100,00",
+              "valor_referencia": "62,25"
+            }
+          ]
+        },
+        {
+          "numero": "3",
+          "titulo": "9903311373 COLORAÇÃO ESPECIAL",
+          "fase": "HABILITAÇÃO",
+          "tipo": "UNITÁRIO",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "33,65",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9903311373 COLORAÇÃO ESPECIAL: Marcação da biópsia por corantes especiais.",
+              "unidade": "SERV",
+              "quantidade": "50,00",
+              "valor_referencia": "33,65"
+            }
+          ]
+        },
+        {
+          "numero": "4",
+          "titulo": "9903311378 CORE BYOPSY",
+          "fase": "HABILITAÇÃO",
+          "tipo": "UNITÁRIO",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "68,46",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9903311378 CORE BYOPSY:CORE BYOPSY.",
+              "unidade": "SERV",
+              "quantidade": "100,00",
+              "valor_referencia": "68,46"
+            }
+          ]
+        },
+        {
+          "numero": "4",
+          "titulo": "9903311378 CORE BYOPSY",
+          "fase": "HABILITAÇÃO",
+          "tipo": "UNITÁRIO",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "68,46",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9903311378 CORE BYOPSY:CORE BYOPSY.",
+              "unidade": "SERV",
+              "quantidade": "100,00",
+              "valor_referencia": "68,46"
+            }
+          ]
+        },
+        {
+          "numero": "6",
+          "titulo": "9903311384 PEÇA CIRÚRGICA COMPLEXA",
+          "fase": "HABILITAÇÃO",
+          "tipo": "UNITÁRIO",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "243,42",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9903311384 PEÇA CIRÚRGICA COMPLEXA:PEÇA CIRÚRGICA COMPLEXA",
+              "unidade": "UN",
+              "quantidade": "1.500,00",
+              "valor_referencia": "243,42"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CD-005-2025",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "758/2025",
+      "modalidade": "CREDENCIAMENTO",
+      "situacao": "EM FINALIZAÇÃO",
+      "condutor": "MAGDA DE SELES GUIMARÃES",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO",
+      "publicacao": "03/06/2025 16:35",
+      "inicio_recepcao": "13/06/2025 08:00",
+      "fim_recepcao": "15/06/2026 08:00",
+      "inicio_disputa": "",
+      "objeto": "CREDENCIAMENTO DE PESSOA JURÍDICA PARA PRESTAÇÃO DE SERVIÇOS MÉDICOS ESPECIALIZADOS EM ANÁLISE PATOLÓGICA PARA ATENDER AS DEMANDAS DA SECRETARIA MUNICIPAL DE SAÚDE",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DWz1hQHUljPETJSjdksRk6tyOnwoe9rEGUHmh5%2F6zS%2FgGGA8PB%2FAvCSSWOYfiD7jz%2FC4HsyWLItthAHOKFa8TKm9TUalT4kfYt1E6Ho_1rVg%3D",
+      "total_lotes": 6,
+      "total_itens": 6,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "33436 BIÓPSIA SIMPLES",
+          "fase": "HABILITAÇÃO",
+          "tipo": "UNITÁRIO",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "60,19",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "33436 BIÓPSIA SIMPLES:BIÓPSIA SIMPLES",
+              "unidade": "SERV",
+              "quantidade": "2.500,00",
+              "valor_referencia": "60,19"
+            }
+          ]
+        },
+        {
+          "numero": "2",
+          "titulo": "9903311392 CITOLOGIA EM MEIO LIQUIDO",
+          "fase": "HABILITAÇÃO",
+          "tipo": "UNITÁRIO",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "62,25",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9903311392 CITOLOGIA EM MEIO LIQUIDO - BRONQUIO:CITOLOGIA EM MEIO LIQUIDO - BRONQUIO.",
+              "unidade": "SERV",
+              "quantidade": "100,00",
+              "valor_referencia": "62,25"
+            }
+          ]
+        },
+        {
+          "numero": "3",
+          "titulo": "9903311373 COLORAÇÃO ESPECIAL",
+          "fase": "HABILITAÇÃO",
+          "tipo": "UNITÁRIO",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "33,65",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9903311373 COLORAÇÃO ESPECIAL: Marcação da biópsia por corantes especiais.",
+              "unidade": "SERV",
+              "quantidade": "50,00",
+              "valor_referencia": "33,65"
+            }
+          ]
+        },
+        {
+          "numero": "4",
+          "titulo": "9903311378 CORE BYOPSY",
+          "fase": "HABILITAÇÃO",
+          "tipo": "UNITÁRIO",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "68,46",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9903311378 CORE BYOPSY:CORE BYOPSY.",
+              "unidade": "SERV",
+              "quantidade": "100,00",
+              "valor_referencia": "68,46"
+            }
+          ]
+        },
+        {
+          "numero": "5",
+          "titulo": "33437 PEÇA CIRÚRGICA SIMPLES",
+          "fase": "HABILITAÇÃO",
+          "tipo": "UNITÁRIO",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "75,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "33437 PEÇA CIRÚRGICA SIMPLES:PEÇA CIRÚRGICA SIMPLES",
+              "unidade": "SERV",
+              "quantidade": "2.500,00",
+              "valor_referencia": "75,00"
+            }
+          ]
+        },
+        {
+          "numero": "5",
+          "titulo": "33437 PEÇA CIRÚRGICA SIMPLES",
+          "fase": "HABILITAÇÃO",
+          "tipo": "UNITÁRIO",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "75,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "33437 PEÇA CIRÚRGICA SIMPLES:PEÇA CIRÚRGICA SIMPLES",
+              "unidade": "SERV",
+              "quantidade": "2.500,00",
+              "valor_referencia": "75,00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-027-2024",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "705/2024",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "HOMOLOGADO",
+      "condutor": "MAGDA DE SELES GUIMARÃES",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO",
+      "publicacao": "13/06/2024 18:49",
+      "inicio_recepcao": "14/06/2024 08:00",
+      "fim_recepcao": "10/07/2024 13:45",
+      "inicio_disputa": "10/07/2024 14:00",
+      "objeto": "O objeto da presente licitação é a contratação de INSTITUIÇÃO FINANCEIRA ESPECIALIZADA NA PRESTAÇÃO DE SERVIÇOS BANCÁRIOS PARA CENTRALIZAÇÃO, GERENCIAMENTO E PROCESSAMENTO DE CRÉDITOS DA FOLHA DE PAGAMENTO DOS SERVIDORES, a fim de atender as demandas da Secretaria Municipal de Administração, conforme condições, quantidades e especificações no Edital, Termo de Referência e seus Anexos.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DycTlPbfUjFm9Ae4voT41WlSremRUxmxAqXkxn1r4AxvOzwOTeNGSXqaBrLCHncaBQrrniJl2tr%2Fk34OM_zML88OBRXtkGA0NuDbIFKRNhQk%3D",
+      "total_lotes": 1,
+      "total_itens": 1,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "SERVIÇOS BANCÁRIOS",
+          "fase": "HOMOLOGADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "6.052.150,00",
+          "vencedor": "ITAÚ UNIBANCO S.A.",
+          "melhor_oferta": "6.053.000,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
               "especificacao": "CONTRATAÇÃO DE INSTITUIÇÃO FINANCEIRA: ESPECIALIZADA NA PRESTAÇÃO DE SERVIÇOS BANCÁRIOS PARA CENTRALIZAÇÃO, GERENCIAMENTO E PROCESSAMENTO DE CRÉDITOS DA FOLHA DE PAGAMENTO DOS SERVIDORES DA PREFEITURA MUNICIPAL DE TEIXEIRA DE FREITAS/BA.",
-              "unidade": "SERVIÇO",
+              "unidade": "UN",
               "quantidade": "1,00",
               "valor_referencia": "6.052.150,00"
             }
