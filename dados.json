@@ -1,10 +1,10 @@
 {
   "metadata": {
     "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-    "total_processos": 819,
-    "total_lotes": 8844,
-    "total_itens": 15185,
-    "atualizado_em": "20260620_193514"
+    "total_processos": 820,
+    "total_lotes": 8849,
+    "total_itens": 15194,
+    "atualizado_em": "20260622_193521"
   },
   "processos": [
     {
@@ -261089,314 +261089,6 @@
       ]
     },
     {
-      "id": "PE-071-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "437 / 2026",
-      "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "SUSPENSO",
-      "condutor": "JONATAS DA SILVA SOUSA",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO PARCELADA",
-      "publicacao": "19/05/2026 15:36",
-      "inicio_recepcao": "21/05/2026 08:30",
-      "fim_recepcao": "02/06/2026 09:15",
-      "inicio_disputa": "02/06/2026 09:30",
-      "objeto": "Contratação de empresa especializada em fornecimento de EQUIPAMENTOS HOSPITALARES (material permanente),  a fim de atender as demandas da Secretaria Municipal de Saúde.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DcRbF4T3zyAh_1DPxK0ffhgZbWTJJLrq9z8TSN9vonDlPbx9vb8ztNRv%2FmXhz58Q_k%2FcBrAIIwzTRBQG6U9LEDbQqOq5_KWDLYkWkrSvekY4%3D",
-      "total_lotes": 12,
-      "total_itens": 12,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "37305 CAMA HOSPITALAR COM RODAS:Cama Hospitalar;Movimentos: Elevação dorsal, Fowler, Semi-fowler, Flexão de pernas, Cardíaco e Sentado; Regulagem de altura (0,53x70); Acionamento através de manivelas; Estrutura em Aço carbono com tratamento antiferrugino",
-          "fase": "SUSPENSO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37305 CAMA HOSPITALAR COM RODAS:Cama Hospitalar;Movimentos: Elevação dorsal, Fowler, Semi-fowler, Flexão de pernas, Cardíaco e Sentado; Regulagem de altura (0,53x70); Acionamento através de manivelas; Estrutura em Aço carbono com tratamento antiferruginoso e acabamento em pintura eletrostática a pó; Cabeceiras removíveis em material injetado decorativo-Grades laterais material termoplástico injetado; Rodízios de 3 sendo dois com freios em diagonal; CAPACIDADE DE CARGA: 150 kg distribuídos sob o leito. ANGULOS: DORSO: 75° 1 PERNA: 44° DIMENSÕES EXTERNAS: 203cm x 110cm. DIMENSÕES INTERNAS: 190cm x 90cm. ALTURA MÍNIMA: 45cm. ALTURA MÁXIMA: 75cm. PESO: 65 kg.",
-              "unidade": "UND",
-              "quantidade": "27,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "2",
-          "titulo": "37306 CARRO DE EMERGÊNCIA:Fabricado em aço carbono com tratamento anticorrosão e pintura epóxi de alta resistência. Quatro rodízios em poliuretano (75 mm de diâmetro), sendo dois com freio. Quatro gavetas com corrediças e com lacre único através do suport",
-          "fase": "SUSPENSO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37306 CARRO DE EMERGÊNCIA:Fabricado em aço carbono com tratamento anticorrosão e pintura epóxi de alta resistência. Quatro rodízios em poliuretano (75 mm de diâmetro), sendo dois com freio. Quatro gavetas com corrediças e com lacre único através do suporte de soro. Suporte para cilindro em aço.Divisória para medicamentos na primeira gaveta. Bandeja superior giratória 360 graus para acomodação de equipamentos com pintura eletrostática. Tampo em aço inox 304 para manipulação de medicamentos, com gradil de proteção nos lados e ao fundo. Tábua para massagem cardíaca em polipropileno com suporte de fixação. Para-choque de borracha. Suporte de soro de altura ajustável em aço INOX. Dimensões (com a bandeja giratória montada): Altura: 1050 mm Largura: 500mm. Comprimento: 700 mm Peso: 27 Kg. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "UND",
-              "quantidade": "2,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "3",
-          "titulo": "37307 CARRO MACA SIMPLES:Carro maca hospitalar, para transporte de paciente, estofado removível e cabeceira móvel estruturada em tubos de aço inoxidável, leito em aço inox, e acabamento polido, rodas giratórias revestidos em borracha de 5 a 6 de diâmetro",
-          "fase": "SUSPENSO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37307 CARRO MACA SIMPLES:Carro maca hospitalar, para transporte de paciente, estofado removível e cabeceira móvel estruturada em tubos de aço inoxidável, leito em aço inox, e acabamento polido, rodas giratórias revestidos em borracha de 5 a 6 de diâmetro sendo duas com sistema de freio dupla ação contra choque em toda volta. Grades laterais tubular de baixar dos dois lados em aço inoxidável com sistema de engate rápido. Para-choque em pvc em toda a volta do leito resistente a impacto, leito com cabeceira regulável; deve possuir no mínimo duas manivelas escamoteáveis para elevação de altura do leito. Ter suporte de soro confeccionado em aço inoxidável.Dimensões mínimas 1,90m (comprimento) x 0,50m (largura). Registro no ministério da saúde. EXCLSUIVO PARA ME/EPP.",
-              "unidade": "UND",
-              "quantidade": "2,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "4",
-          "titulo": "9900830490 DESFIBRILADOR:O Monitor Cardioversor Desfibrilador Bifásico, tem a função Prevenção de Morte Súbita (PMS), que permite o monitoramento contínuo do paciente e identifica o início de um episódio de Fibrilação Ventricular ou Taquicardia Ventricula",
-          "fase": "SUSPENSO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900830490 DESFIBRILADOR:O Monitor Cardioversor Desfibrilador Bifásico, tem a função Prevenção de Morte Súbita (PMS), que permite o monitoramento contínuo do paciente e identifica o início de um episódio de Fibrilação Ventricular ou Taquicardia Ventricular Rápida, apresentando, um alarme visual e sonoro, alertando a equipe e permitindo que o paciente seja tratado com choque em tempo muito menor, aumentando significativamente as chances de reversão da parada cardiorrespiratória. A função de Auto Sequência de Carga - quando habilitada, permite a configuração prévia de energias pelo usuário para o primeiro, segundo e terceiro choques, sem necessidade de alteração manual do seletor. O equipamento também conta com a nova tecnologia CTR - Checagem em Tempo Real que realiza autodiagnóstico e informa, antecipadamente, se existe qualquer ação de manutenção a ser realizada, garantindo que estará sempre disponível para uso imediato. ESPECIFICAÇÕES GERAIS Dimensões com pás: 30,0 cm (largura). 21,5 cm (profundidade). 28,0 cm (altura).Peso:Aparelho - 5,15 Kg. Bateria Li-lon - 0,60 Kg. Pás externas - 0,85 Kg. Equipamento completo (bateria Li-lon) - 6,60 Kg (exceto PANI). Elétrico: AC: 100 a 240 VAC, 50/60 Hz (seleção automática). DC externo: 11 a 16 VDC. Bateria recarregável removível: Tipo: Li-lon, 14,8 VDC 4,4 A/h. Duração: Bateria com carga plena - 3 horas em modo monitor, sem impressora ou um mínimo de 140 choques em 360 joules ou um mínimo de 200 choques em 200 joules. Tempo de carga completa da bateria (completamente descarregada): 4:30 horas. Memória:Tipo: Flash Nand. Capacidade: 2 Mbytes. Pacientes armazenados: > 150 pacientes. Armazenagem: 15 segundos de ECG quando em choque, alarme fisiológico e eventos do painel. ECG: gravação de 2 horas contínuas da curva de ECG, quando em modo DEA.CTR - Checagem em Tempo Real (disponível quando equipado com bateria opcional tipo Li-lon): Auto-diagnóstico de desfibrilação, nível de bateria, pás conectadas e verificação da ligação do aparelho à rede elétrica. Checagem realizada em 3 horários pré-configurados. Transmissão destas informações, sem fio, para PC com software do Sistema CTR instalado e aoalcance da rede. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "UND",
-              "quantidade": "2,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "5",
-          "titulo": "37308 Escada com Dois Degraus e Piso  Antiderrapante:Armação em tubos redondos de 3/4 com pintura epóxi reforçada. Degrau revestido com material sintético antiderrapante. Pés com ponteira de pvc. Dimensões externas aproximadas: comprimento 0,38cm x largur",
-          "fase": "SUSPENSO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37308 Escada com Dois Degraus e Piso Antiderrapante:Armação em tubos redondos de 3/4 com pintura epóxi reforçada. Degrau revestido com material sintético antiderrapante. Pés com ponteira de pvc. Dimensões externas aproximadas: comprimento 0,38cm x largura 0,37cm x 0,41cm de altura. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "UND",
-              "quantidade": "13,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "6",
-          "titulo": "9900830491 Maca Tubular com Cabeceira Regulável. Modelo: fixa. Estrutura em aço carbono 1020. Revestimento da estrutura:pintura epóxi. Espuma ortopédica de alta resiliência com densidade D33. Revestimento em courvin sintético.Cabeceira reclinável: ângulo",
-          "fase": "SUSPENSO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900830491 Maca Tubular com Cabeceira Regulável. Modelo: fixa. Estrutura em aço carbono 1020. Revestimento da estrutura:pintura epóxi. Espuma ortopédica de alta resiliência com densidade D33. Revestimento em courvin sintético.Cabeceira reclinável: ângulo de 452 para regulagem. Medidas; 192,5x65x81 cm aprox. Peso máximo suportado: 140 kg.EXCLUSIVO PARA ME/EPP.",
-              "unidade": "UND",
-              "quantidade": "2,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "7",
-          "titulo": "37309 MESA CABECEIRA FECHADA:Mesa Cabeceira Fechada com 1 gaveta e 1 porta; Cor: Branco; O item deve possuir 01 (uma) gaveta superior e 01 (uma) porta inferior com 01 (uma) prateleira interna, totalmente em pintura epóxi. O móvel deve ser dotado de pés co",
-          "fase": "SUSPENSO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37309 MESA CABECEIRA FECHADA:Mesa Cabeceira Fechada com 1 gaveta e 1 porta; Cor: Branco; O item deve possuir 01 (uma) gaveta superior e 01 (uma) porta inferior com 01 (uma) prateleira interna, totalmente em pintura epóxi. O móvel deve ser dotado de pés com rodízios para facilitar o deslocamento.Dimensões externas aproximadas de 0,45m de comprimento, 0,40m de largura/profundidade e 0,80m de altura, com peso estimado de 18kg. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "UND",
-              "quantidade": "28,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "8",
-          "titulo": "37310 MESA TIPO MAYO:Inoxidável Com Bandeja Inox 48X32cm Estrutura em tubos inoxidável de 25,40mm de diâmetro, com três rodízios giratórios de 42mm de diâmetro, base superior em ferro redondo maciço inoxidável e bandeja inoxidável com 0,32 X 0,48mt. Altur",
-          "fase": "SUSPENSO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37310 MESA TIPO MAYO:Inoxidável Com Bandeja Inox 48X32cm Estrutura em tubos inoxidável de 25,40mm de diâmetro, com três rodízios giratórios de 42mm de diâmetro, base superior em ferro redondo maciço inoxidável e bandeja inoxidável com 0,32 X 0,48mt. Altura mínima 0,85 mt e máxima 1,25 mt regulável por meio de manipulo. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "UND",
-              "quantidade": "5,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "9",
-          "titulo": "37311 SUPORTE PARA SORO:altura regulável, construído em tubos inox 7/8\" x 0,9mm de espessura, quadripé fundido com rodízios, haste em tubos inox de ¾\" x 0,9 mm com 4 ganchos em \"X\" na parte superior. Altura mínima: 1,57m e Altura máxima: 2,10m. EXCLUSIVO",
-          "fase": "SUSPENSO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37311 SUPORTE PARA SORO:altura regulável, construído em tubos inox 7/8\" x 0,9mm de espessura, quadripé fundido com rodízios, haste em tubos inox de ¾\" x 0,9 mm com 4 ganchos em \"X\" na parte superior. Altura mínima: 1,57m e Altura máxima: 2,10m. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "UND",
-              "quantidade": "37,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "10",
-          "titulo": "9900830492 VENTILADOR PULMONAR MICROPROCESSADO- MODOS VENTILATÓRIOS ADULTO / PEDIÁTRICO:VCVassistido / controlado; PCV assistido / controlado; PSV/CPAP; PRVC assistido / controlado; SIMV(VCV) + PSV; SIMV(PCV) + PSV; time automático; Ventilação não invas",
-          "fase": "SUSPENSO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900830492 VENTILADOR PULMONAR MICROPROCESSADO- MODOS VENTILATÓRIOS ADULTO / PEDIÁTRICO:VCVassistido / controlado; PCV assistido / controlado; PSV/CPAP; PRVC assistido / controlado; SIMV(VCV) + PSV; SIMV(PCV) + PSV; time automático; Ventilação não invasiva; Compensação de fulgas; Leitura de fluxo proximal; Função O2 100%; Tendências de 24h; Sensibilidade inspiratória de fluxo ou pressão; Bateria de 15h; Cálculo automático do peso teórico; Interface intuitiva; Interface personalizável com memória.CARACTERÍSTICAS ESPECIAIS: Hora e data atual; Hora e data do equipamento ligado; Bloqueio da tela touch screen; Indicador gráfico de fonte externa e bateria Indicador do nível de carga da bateria; Barras indicadoras de faixa de ajuste dos parâmetros; Barra gráfica da pressão ventilatória com indicador do nível dos alarmes; Leitura da FiO2 por célula galvânica ou pneumotacógrafo; Símbolo para Stand by; Símbolo para histórico de alarme MMV + PSV; PSV + VT assegurado; Pressão bifásica (APRV); VNI. NEONATAL: VCV assistido / controlado; PCV assistido / controlado; PSV/CPAP; SIMV(PCV) + PSV; Fluxo contínuo assistido / controlado; CPAP Nasal.CONFIGURAÇÕES ESPECIAIS: Ventilação Neonatal; Configuração do paciente; Mecânicas Ventilatórias; FiO2 50 a 100%; Compensação de altitude; Ajuste do volume; Histórico de alarmes; Rise.",
-              "unidade": "UND",
-              "quantidade": "6,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "11",
-          "titulo": "9900830493 CAMA HOSPITALAR COM RODAS:CamaHospitalar; Movimentos: Elevação dorsal, Fowler, Semi-fowler, Flexão de pernas, Cardíaco e Sentado; Regulagem de altura (0,53x70); Acionamento através de manivelas; Estrutura em Aço carbono com tratamento antiferr",
-          "fase": "SUSPENSO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900830493 CAMA HOSPITALAR COM RODAS:CamaHospitalar; Movimentos: Elevação dorsal, Fowler, Semi-fowler, Flexão de pernas, Cardíaco e Sentado; Regulagem de altura (0,53x70); Acionamento através de manivelas; Estrutura em Aço carbono com tratamento antiferruginoso e acabamento em pintura eletrostática a pó; Cabeceiras removíveis em material injetado decorativo-Grades laterais material termoplástico injetado; Rodízios de 3 sendo dois com freios em diagonal; CAPACIDADE DE CARGA: 150 kg distribuídos sob o leito.ANGULOS: DORSO: 75° 1 PERNA: 44° DIMENSÕES EXTERNAS: 203cm x 110cm. DIMENSÕES INTERNAS: 190cm x 90cm. ALTURA MÍNIMA: 45cm. ALTURA MÁXIMA: 75cm. PESO: 65 kg. COTA DE 25% RESERVADA PARA ME/EPP.",
-              "unidade": "UND",
-              "quantidade": "8,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "12",
-          "titulo": "9900830495 VENTILADOR PULMONAR MICROPROCESSADO- MODOS VENTILATÓRIOS: ADULTO / PEDIÁTRICO:VCVassistido / controlado; PCV assistido / controlado; PSV/CPAP; PRVC assistido / controlado; SIMV(VCV) + PSV; SIMV(PCV) + PSV; time automático; Ventilação não inva",
-          "fase": "SUSPENSO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900830495 VENTILADOR PULMONAR MICROPROCESSADO- MODOS VENTILATÓRIOS: ADULTO / PEDIÁTRICO:VCVassistido / controlado; PCV assistido / controlado; PSV/CPAP; PRVC assistido / controlado; SIMV(VCV) + PSV; SIMV(PCV) + PSV; time automático; Ventilação não invasiva; Compensação de fulgas; Leitura de fluxo proximal; Função O2 100%; Tendências de 24h; Sensibilidade inspiratória de fluxo ou pressão; Bateria de 15h; Cálculo automático do peso teórico; Interface intuitiva; Interface personalizável com memória.CARACTERÍSTICAS ESPECIAIS: Hora e data atual; Hora e data do equipamento ligado; Bloqueio da tela touch screen; Indicador gráfico de fonte externa e bateria Indicador do nível de carga da bateria; Barras indicadoras de faixa de ajuste dos parâmetros; Barra gráfica da pressão ventilatória com indicador do nível dos alarmes; Leitura da FiO2 por célula galvânica ou pneumotacógrafo; Símbolo para Stand by; Símbolo para histórico de alarme MMV + PSV; PSV + VT assegurado; Pressão bifásica (APRV); VNI. NEONATAL: VCV assistido / controlado; PCV assistido / controlado; PSV/CPAP; SIMV(PCV) + PSV; Fluxo contínuo assistido / controlado; CPAP Nasal.CONFIGURAÇÕES ESPECIAIS: Ventilação Neonatal; Configuração do paciente; Mecânicas Ventilatórias; FiO2 50 a 100%; Compensação de altitude; Ajuste do volume; Histórico de alarmes; Rise. COTA DE 25% RESERVADA PARA ME/EPP.",
-              "unidade": "UND",
-              "quantidade": "1,00",
-              "valor_referencia": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "PE-070-2026",
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "106 / 2026",
@@ -269893,170 +269585,6 @@
       ]
     },
     {
-      "id": "PE-079-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "327 / 2026",
-      "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "JULGAMENTO",
-      "condutor": "JONATAS DA SILVA SOUSA",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "REGISTRO DE PREÇO",
-      "publicacao": "29/05/2026 11:32",
-      "inicio_recepcao": "02/06/2026 08:30",
-      "fim_recepcao": "16/06/2026 08:15",
-      "inicio_disputa": "16/06/2026 08:30",
-      "objeto": "Contratação de empresa especializada em fornecimento de BEBEDOUROS INDUSTRIAIS (material permanente), a fim de atender as demandas da Secretaria Municipal de Educação.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DyM1qmUobrUdpp9vRSVn4MQ15ETpppVil_gzCRt4Rn_ZhGKGxGVEJrytsDbL8bLEe80xuAnIuEvODzoNggUl36J3fFeSl0iJyTqDWH8cXoFo%3D",
-      "total_lotes": 6,
-      "total_itens": 6,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "37182 Bebedouro industrial de coluna em aço inox, com capacidade total de 50 litros:com 2 (duas) torneiras; gabinete externo em aço inox escovado ou polido, AISI 430 ou qualidade superior, com estrutura robusta, resistente à corrosão, acabamento sem rebar",
-          "fase": "JULGAMENTO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "164.346,30",
-          "vencedor": "MOURA E MOURA INFORMATICA E EMPREENDIMENTOS COMERCIAIS LTDA",
-          "melhor_oferta": "158.850,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37182 Bebedouro industrial de coluna em aço inox, com capacidade total de 50 litros:com 2 (duas) torneiras; gabinete externo em aço inox escovado ou polido, AISI 430 ou qualidade superior, com estrutura robusta, resistente à corrosão, acabamento sem rebarbas ou arestas cortantes, base apoiada diretamente sobre o piso, com pés niveladores que permitam correta instalação em superfícies irregulares; coluna/pedestal em aço inox própria para uso direto ao chão, dispensando suportes ou bancadas adicionais; reservatório interno com capacidade mínima de 50 litros de água efetivamente refrigerada, fabricado em aço inox AISI 304 ou material atóxico aprovado para contato com água potável, isento de odor e sabor, com serpentina interna em aço inox AISI 304 ou equivalente, vedado o uso de tubulações de cobre em contato direto com a água; sistema de refrigeração por compressor hermético, potência mínima de 1/5 HP ou superior, dotado de termostato regulável, proteção contra sobrecarga elétrica e superaquecimento, utilizando gás refrigerante ecológico R134a, R600a ou equivalente, com condensador adequadamente ventilado; capacidade mínima de fornecimento entre 80 e 150 copos por hora (200 ml), em temperatura ambiente de até 27 °C; equipado com 2 (duas) torneiras frontais de pressão em latão cromado ou aço inox, podendo ambas fornecer água gelada ou configuração com água gelada e natural, conforme fabricante; aparador em aço inox com bandeja coletora e dreno para conexão a ponto de drenagem ou recipiente coletor; isolamento térmico em poliuretano expandido ou material equivalente; alimentação elétrica em 220 V, 60 Hz, ou bivolt, plugue conforme ABNT NBR 14136, com aterramento; dotado de sistema de filtragem por carvão ativado com prata coloidal ou tecnologia equivalente, substituível e de fácil acesso; produto novo, certificado pelo Inmetro para bebedouros/purificadores, acompanhado de manual em português, garantia mínima de 12 meses e indicação de assistência técnica autorizada no território nacional, devendo ser entregue completamente montado, testado e pronto para instalação, incluindo todos os acessórios hidráulicos e elétricos necessários.",
-              "unidade": "UND",
-              "quantidade": "90,00",
-              "valor_referencia": "1.826,07"
-            }
-          ]
-        },
-        {
-          "numero": "1",
-          "titulo": "37182 Bebedouro industrial de coluna em aço inox, com capacidade total de 50 litros:com 2 (duas) torneiras; gabinete externo em aço inox escovado ou polido, AISI 430 ou qualidade superior, com estrutura robusta, resistente à corrosão, acabamento sem rebar",
-          "fase": "JULGAMENTO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "164.346,30",
-          "vencedor": "MOURA E MOURA INFORMATICA E EMPREENDIMENTOS COMERCIAIS LTDA",
-          "melhor_oferta": "158.850,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37182 Bebedouro industrial de coluna em aço inox, com capacidade total de 50 litros:com 2 (duas) torneiras; gabinete externo em aço inox escovado ou polido, AISI 430 ou qualidade superior, com estrutura robusta, resistente à corrosão, acabamento sem rebarbas ou arestas cortantes, base apoiada diretamente sobre o piso, com pés niveladores que permitam correta instalação em superfícies irregulares; coluna/pedestal em aço inox própria para uso direto ao chão, dispensando suportes ou bancadas adicionais; reservatório interno com capacidade mínima de 50 litros de água efetivamente refrigerada, fabricado em aço inox AISI 304 ou material atóxico aprovado para contato com água potável, isento de odor e sabor, com serpentina interna em aço inox AISI 304 ou equivalente, vedado o uso de tubulações de cobre em contato direto com a água; sistema de refrigeração por compressor hermético, potência mínima de 1/5 HP ou superior, dotado de termostato regulável, proteção contra sobrecarga elétrica e superaquecimento, utilizando gás refrigerante ecológico R134a, R600a ou equivalente, com condensador adequadamente ventilado; capacidade mínima de fornecimento entre 80 e 150 copos por hora (200 ml), em temperatura ambiente de até 27 °C; equipado com 2 (duas) torneiras frontais de pressão em latão cromado ou aço inox, podendo ambas fornecer água gelada ou configuração com água gelada e natural, conforme fabricante; aparador em aço inox com bandeja coletora e dreno para conexão a ponto de drenagem ou recipiente coletor; isolamento térmico em poliuretano expandido ou material equivalente; alimentação elétrica em 220 V, 60 Hz, ou bivolt, plugue conforme ABNT NBR 14136, com aterramento; dotado de sistema de filtragem por carvão ativado com prata coloidal ou tecnologia equivalente, substituível e de fácil acesso; produto novo, certificado pelo Inmetro para bebedouros/purificadores, acompanhado de manual em português, garantia mínima de 12 meses e indicação de assistência técnica autorizada no território nacional, devendo ser entregue completamente montado, testado e pronto para instalação, incluindo todos os acessórios hidráulicos e elétricos necessários.",
-              "unidade": "UND",
-              "quantidade": "90,00",
-              "valor_referencia": "1.826,07"
-            }
-          ]
-        },
-        {
-          "numero": "2",
-          "titulo": "37183 Bebedouro industrial de coluna em aço inox, com capacidade total de 100 litros:com 3 (três) torneiras; gabinete externo em aço inox escovado ou polido, AISI 430 ou qualidade superior, com estrutura reforçada, resistente à corrosão e de fácil higieni",
-          "fase": "JULGAMENTO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "325.999,50",
-          "vencedor": "MOURA E MOURA INFORMATICA E EMPREENDIMENTOS COMERCIAIS LTDA",
-          "melhor_oferta": "284.850,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37183 Bebedouro industrial de coluna em aço inox, com capacidade total de 100 litros:com 3 (três) torneiras; gabinete externo em aço inox escovado ou polido, AISI 430 ou qualidade superior, com estrutura reforçada, resistente à corrosão e de fácil higienização, sem arestas cortantes na região de contato, com base apoiada diretamente sobre o piso, pés niveladores e acabamento que facilite a limpeza frequente do ambiente escolar; coluna/pedestal em aço inox projetada para instalação livre, sem necessidade de suporte adicional, garantindo estabilidade e segurança; reservatório interno em aço inox AISI 304 ou material atóxico compatível com contato com água potável, com capacidade mínima de 50 litros de água efetivamente refrigerada, com serpentina interna em aço inox 304 ou equivalente, sem uso de cobre em contato direto com a água, isolamento térmico em poliuretano expandido ou similar; sistema de refrigeração por compressor hermético, potência mínima de 1/5 HP ou superior, condensador de alto rendimento, gás refrigerante ecológico R134a, R600a ou equivalente, dotado de termostato regulável e proteção contra sobrecarga elétrica e superaquecimento, com capacidade mínima de fornecimento entre 100 e 150 copos por hora (200 ml), em temperatura ambiente de até 27 °C; equipado com 3 (três) torneiras frontais de pressão em latão cromado ou aço inox, sendo no mínimo 2 (duas) para água gelada e 1 (uma) para água natural, ou todas geladas conforme configuração do fabricante; aparador em aço inox com bandeja coletora e dreno para conexão à rede de esgoto; alimentação elétrica 220 V, 60 Hz, ou bivolt, cabo e plugue conforme ABNT NBR 14136, com aterramento; sistema de filtragem integrado ou acoplado, tipo carvão ativado com prata coloidal ou tecnologia equivalente, substituível, eficiência mínima classe III ou superior; produto certificado pelo Inmetro, acompanhado de selo de conformidade, manual em português e garantia mínima de 12 meses, devendo ser entregue completo, pronto para instalação, incluindo acessórios hidráulicos eelétricos necessários.",
-              "unidade": "UND",
-              "quantidade": "150,00",
-              "valor_referencia": "2.173,33"
-            }
-          ]
-        },
-        {
-          "numero": "3",
-          "titulo": "9908411203 Bebedouro industrial de coluna em aço inox, com capacidade total de 100 litros:com de 4 (quatro) torneiras; gabinete externo em aço inox escovado ou polido, AISI 430 ou qualidade superior, com estrutura reforçada adequada ao uso coletivo intens",
-          "fase": "JULGAMENTO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "210.127,50",
-          "vencedor": "MOURA E MOURA INFORMATICA E EMPREENDIMENTOS COMERCIAIS LTDA",
-          "melhor_oferta": "170.910,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9908411203 Bebedouro industrial de coluna em aço inox, com capacidade total de 100 litros:com de 4 (quatro) torneiras; gabinete externo em aço inox escovado ou polido, AISI 430 ou qualidade superior, com estrutura reforçada adequada ao uso coletivo intenso, resistente à corrosão e de fácil higienização, sem arestas cortantes, com base apoiada diretamente sobre o piso e pés niveladores; coluna/pedestal em aço inox projetada para instalação autônoma em locais de grande circulação, garantindo estabilidade e segurança; reservatório interno em aço inox AISI 304 ou material atóxico compatível com contato com água potável, com disponibilização mínima de 50 litros de água efetivamente refrigerada, serpentina interna em aço inox AISI 304 ou equivalente, vedado o uso de cobre em contato direto com a água, com isolamento térmico em poliuretano expandido ou material equivalente; sistema de refrigeração por compressor hermético de alta performance, potência mínima de 1/4 HP ou superior, condensador ventilado e utilização de gás refrigerante ecológico R134a, R600a ou equivalente, dotado de termostato regulável e proteção contra sobrecarga elétrica e superaquecimento, com capacidade mínima de fornecimento entre 150 e 200 copos por hora (200 ml), em temperatura ambiente de até 32 °C; equipado com 4 (quatro) torneiras frontais de pressão em aço inox ou latão cromado, sendo preferencialmente 3 (três) para água gelada e 1 (uma) para água natural, ou configuração equivalente do fabricante; aparador em aço inox com bandeja coletora e dreno para conexão à rede de esgoto ou ponto de drenagem; alimentação elétrica em 220 V, 60 Hz, ou bivolt, com plugue conforme ABNT NBR 14136 e aterramento; sistema de filtragem integrado ou acoplado por carvão ativado com prata coloidal ou tecnologia equivalente, substituível e de fácil manutenção; produto certificado pelo Inmetro para bebedouros/purificadores, acompanhado de manual em português, garantia mínima de 12 meses e assistência técnica autorizada no território nacional, devendo ser entregue completo, montado, testado e pronto para instalação, incluindo acessórios hidráulicos e elétricos necessários.",
-              "unidade": "UND",
-              "quantidade": "90,00",
-              "valor_referencia": "2.334,75"
-            }
-          ]
-        },
-        {
-          "numero": "4",
-          "titulo": "37317 Bebedouro industrial de coluna em aço inox, com capacidade total de 50 litros:com 2 (duas) torneiras;:gabineteexterno em aço inox escovado ou polido, AISI 430 ou qualidadesuperior, com estrutura robusta, resistente à corrosão, acabamento sem rebar",
-          "fase": "JULGAMENTO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "54.782,10",
-          "vencedor": "H2O COMERCIO E REPRESENTAÇÃO DE BEBEDOUROS LTDA",
-          "melhor_oferta": "52.500,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37317 Bebedouro industrial de coluna em aço inox, com capacidade total de 50 litros:com 2 (duas) torneiras;:gabineteexterno em aço inox escovado ou polido, AISI 430 ou qualidadesuperior, com estrutura robusta, resistente à corrosão, acabamento sem rebarbas ou arestas cortantes, base apoiadadiretamente sobre o piso, com pés niveladores que permitam correta instalação em superfícies irregulares; coluna/pedestal emaço inox própria para uso direto ao chão, dispensando suportes ou bancadas adicionais; reservatório interno com capacidade mínima de 50 litros de água efetivamente refrigerada, fabricadoem aço inox AISI 304 ou material atóxico aprovado para contato com água potável, isento de odor e sabor, com serpentina interna em aço inox AISI 304 ou equivalente, vedado o uso de tubulações de cobre em contato direto com a água; sistema de refrigeração por compressor hermético, potência mínima de 1/5 HP ou superior, dotado de termostato regulável, proteção contra sobrecarga elétrica e superaquecimento, utilizando gás refrigerante ecológico R134a, R600a ou equivalente, com condensador adequadamente ventilado; capacidade mínima de fornecimento entre 80 e 150 copos por hora (200 ml), em temperatura ambiente de até 27 °C; equipado com 2 (duas) torneiras frontais de pressão em latão cromado ou aço inox, podendo ambas fornecer água gelada ou configuração com água gelada e natural, conforme fabricante; aparador em aço inox com bandeja coletora e dreno para conexão a ponto de drenagem ou recipiente coletor; isolamento térmico em poliuretano expandidoou material equivalente; alimentação elétrica em 220 V, 60 Hz, ou bivolt, plugue conforme ABNT NBR 14136, com aterramento;dotado de sistema de filtragem por carvão ativado com prata coloidal ou tecnologia equivalente, substituível e de fácil acesso; produto novo, certificado pelo Inmetro para bebedouros/purificadores, acompanhado de manual em português, garantia mínima de 12 meses e indicação deassistência técnica autorizada no território nacional, devendo ser entregue completamente montado, testado e pronto parainstalação, incluindo todos os acessórios hidráulicos e elétricos necessários. COTA 25% PARA ME/EPP.",
-              "unidade": "Und.",
-              "quantidade": "30,00",
-              "valor_referencia": "1.826,07"
-            }
-          ]
-        },
-        {
-          "numero": "5",
-          "titulo": "37318 Bebedouro industrial de coluna em aço inox, com capacidade total de 100 litros: com 3 (três) torneiras;:gabinete externo em aço inox escovado ou polido, AISI 430 ou qualidade superior, com estrutura reforçada, resistente à corrosão e de fácil higien",
-          "fase": "JULGAMENTO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "108.666,50",
-          "vencedor": "H2O COMERCIO E REPRESENTAÇÃO DE BEBEDOUROS LTDA",
-          "melhor_oferta": "95.000,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37318 Bebedouro industrial de coluna em aço inox, com capacidade total de 100 litros: com 3 (três) torneiras;:gabinete externo em aço inox escovado ou polido, AISI 430 ou qualidade superior, com estrutura reforçada, resistente à corrosão e de fácil higienização, sem arestas cortantes na região de contato, com base apoiada diretamente sobreo piso, pés niveladores e acabamento que facilite a limpeza frequente do ambiente escolar; coluna/pedestal em aço inox projetada para instalação livre, sem necessidade de suporte adicional, garantindo estabilidade e segurança; reservatório interno em aço inox AISI 304 ou material atóxico compatível com contato com água potável, com capacidade mínima de 50 litros de água efetivamente refrigerada, com serpentina interna em aço inox 304 ou equivalente, sem uso de cobre em contato direto com a água, isolamento térmico em poliuretano expandido ou similar; sistema de refrigeração por compressor hermético, potência mínima de 1/5 HP ou superior, condensador de alto rendimento, gás refrigerante ecológico R134a, R600a ou equivalente, dotado de termostato regulável e proteção contra sobrecarga elétrica e superaquecimento, com capacidade mínima de fornecimento entre 100 e 150 copos por hora (200 ml), em temperatura ambiente de até 27 °C; equipado com 3 (três) torneiras frontais de pressão em latão cromado ou aço inox, sendo no mínimo 2 (duas) para água gelada e 1 (uma) para água natural, ou todas geladas conforme configuração do fabricante; aparador em aço inox com bandeja coletora e dreno para conexão à rede de esgoto; alimentação elétrica 220 V, 60 Hz, ou bivolt, cabo e plugue conforme ABNT NBR 14136, com aterramento; sistema de filtragem integrado ou acoplado, tipo carvão ativado com prata coloidal ou tecnologia equivalente, substituível, eficiência mínima classe III ou superior; produto certificado pelo Inmetro, acompanhado de selo de conformidade, manual em português e garantia mínima de 12 meses, devendo ser entregue completo, pronto para instalação, incluindo acessórios hidráulicos e elétricos necessários. COTA 25% PARA ME/EPP.",
-              "unidade": "Und.",
-              "quantidade": "50,00",
-              "valor_referencia": "2.173,33"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "2-DLE-053-2026",
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "487 / 2026",
@@ -270444,50 +269972,6 @@
               "unidade": "FR",
               "quantidade": "28,00",
               "valor_referencia": "1.780,36"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "PE-097-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "408 / 2026",
-      "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "PUBLICADO",
-      "condutor": "SERGIO CARNEIRO CAVALCANTI DE AZEVEDO",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO",
-      "publicacao": "18/06/2026 16:15",
-      "inicio_recepcao": "22/06/2026 08:30",
-      "fim_recepcao": "03/07/2026 08:15",
-      "inicio_disputa": "03/07/2026 08:30",
-      "objeto": "Contratação de empresa especializada em fornecimento de CARRINHOS COLETORES DE LIMPEZA (material permanente), a fim de atender as demandas da Secretaria Municipal de Educação.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5D2YUGk4UjuVNinC5BONJcRYputzPFGqua3jNVLnz_Yd%2FAmdouYPhBON_k8Sm_C7%2FRCRnzeT0AfYCdiZntB_WmIu5k3p_8j%2Fx59Oyf9IV2dII%3D",
-      "total_lotes": 1,
-      "total_itens": 1,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "CARRINHOS COLETORES DE LIMPEZA",
-          "fase": "PUBLICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900830484 CARRINHO FUNCIONAL DE LIMPEZAPROFISSIONAL:tipo kit completo com coletor de resíduos,destinado à limpeza úmida e seca de pisos em ambientesescolares e administrativos, adequado para superfícies comocerâmica, porcelanato, granilite, paviflex, cimento queimado,entre outros, com estrutura resistente em plástico de altadurabilidade (PEAD ou PP), com design tipo caminhão grande,dotado de compartimentos para organização de utensílios ecaçamba móvel basculante para coleta de resíduos, comcapacidade entre 50 e 120 litros e encaixe para saco ou cesto delixo, equipado com no mínimo 4 (quatro) e até 6 (seis) rodasgiratórias que permitam fácil movimentação e estabilidade, comdimensões mínimas aproximadas de 50 x 22 x 22 cm, devendoacompanhar balde duplo com capacidade mínima de 30 litroscom sistema de espremedor, cabo em alumínio comcomprimento aproximado de 1,40 m, haste tipo euro em materialplástico resistente, refil mop úmido em algodão ou microfibracom gramatura mínima de 300 g, conjunto mop pó com armaçãoe refil com largura mínima de 60 cm, pá coletora de resíduos eplaca sinalizadora de segurança tipo \"piso molhado\",disponibilizado em cores como azul, cinza ou similar, atendendoàs normas aplicáveis da ANVISA e da ABNT para uso emambientes institucionais.",
-              "unidade": "UN",
-              "quantidade": "220,00",
-              "valor_referencia": ""
             }
           ]
         }
@@ -272823,33 +272307,645 @@
       ]
     },
     {
-      "id": "CD-005-2025",
+      "id": "PE-095-2026",
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "758/2025",
-      "modalidade": "CREDENCIAMENTO",
-      "situacao": "EM FINALIZAÇÃO",
-      "condutor": "MAGDA DE SELES GUIMARÃES",
+      "numero_adm": "604 / 2026",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "PUBLICADO",
+      "condutor": "SERGIO CARNEIRO CAVALCANTI DE AZEVEDO",
       "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
       "tipo_contrato": "AQUISIÇÃO",
-      "publicacao": "03/06/2025 16:35",
-      "inicio_recepcao": "13/06/2025 08:00",
-      "fim_recepcao": "15/06/2026 08:00",
-      "inicio_disputa": "",
-      "objeto": "CREDENCIAMENTO DE PESSOA JURÍDICA PARA PRESTAÇÃO DE SERVIÇOS MÉDICOS ESPECIALIZADOS EM ANÁLISE PATOLÓGICA PARA ATENDER AS DEMANDAS DA SECRETARIA MUNICIPAL DE SAÚDE",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DAwrd%2FLRwlpcvIpkbwJT0euxJxTD__TslfnufTj6OrhtWOWOqkUc5hpJYHQSwq2AnQIe_oDmqBfX7P2thVeCo9nF4RMj2mVRVRxBzIab4kCk%3D",
+      "publicacao": "22/06/2026 11:38",
+      "inicio_recepcao": "24/06/2026 08:30",
+      "fim_recepcao": "08/07/2026 08:15",
+      "inicio_disputa": "08/07/2026 08:30",
+      "objeto": "Contratação de empresa especializada em fornecimento de UNIFORMES E CALÇADOS PARA BANDAS MARCIAIS E FANFARRAS (material de consumo),  a fim de atender as demandas da Secretaria Municipal de Educação.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DhIM0DjNShcH9b9HfTL9K3o4b_3bDxuA0IWyzdYmHw5uaw57i1_qRTj13F17mHT5gu3H_aCIWt%2FDSTu0AtphQOvl8EdsmIKM_wNVip0UlJmk%3D",
+      "total_lotes": 2,
+      "total_itens": 6,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "UNIFORMES",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 3,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515644 Conjunto completo de uniforme para MOR (Mestre de Ordem) de banda marcial/fanfarra:confeccionado em tecido tipo gabardine, Oxford Premium, microfibra encorpada, brim leve premium ou equivalentes, com alta resistência, excelente caimento, baixa transparência, conforto térmico, durabilidade e acabamento reforçado, apropriado para apresentações cívicas, eventos oficiais, desfiles escolares, competições e atividades correlatas. Composto por túnica/jaleco de manga longa em modelos diversos, contendo gola alta estruturada, fechamento frontal reforçado, botões metálicos ou resinados de alta durabilidade, vivos, galões, bordados ornamentais, passamanarias, aplicações decorativas, ombreiras com franjas, punhos personalizados, faixa/cinto ornamental, detalhes bordados e acabamento interno reforçado. Acompanha calça social/marcial confeccionada em tecido resistente e confortável, com reforço em costuras nas áreas de maior esforço, acabamento interno e modelagem adequada ao conjunto.Acompanha ainda quepe/chapéu estilo militar com estrutura reforçada, aba resistente, acabamento interno confortável, aplicações ornamentais e plumas/penachos decorativos removíveis ou fixos, conforme requisição. Uniforme confeccionado em cores diversas, modelos diversos, tamanhos diversos, podendo conter brasões, símbolos, bordados, personalização institucional e acabamentos variados, conforme necessidade da Administração Municipal e requisição daSecretaria Municipal de Educação.",
+              "unidade": "CON",
+              "quantidade": "7,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "2",
+              "especificacao": "37407 Conjunto completo de uniforme para Linha de Frente de banda marcial/fanfarra:destinado a balizas, balizadores, corpo coreográfico e funções correlatas, confeccionado em tecido tipo helanca, helanca light, suplex, lycra, elastano, neoprene fino ou equivalentes de qualidade igual ou superior, com excelente elasticidade, conforto, resistência, respirabilidade, mobilidade e durabilidade, apropriado para apresentações coreográficas, desfiles cívicos, eventos escolares e atividades correlatas.Composto por vestido, macaquinho, body, collant, saia, short- saia, blusa, sobreposição ou peças equivalentes, em modelos diversos, podendo conter mangas longas, curtas, assimétricas ou transparentes, aplicações em tule, detalhes metalizados, paetês, bordados, galões, fitas decorativas, passamanarias, ombreiras, franjas, pedrarias, recortes estilizados e acabamento reforçado. Acompanha acessórios diversos, podendo incluir luvas, braçadeiras, golas, meiões, meia-calça, pulseiras, faixas, adereços de cabelo e itens similares, conforme requisição. Todas as peças deverão possuir costura reforçada, acabamento interno adequado e resistência ao desbotamento e ao desgaste decorrente do uso contínuo. Uniformes confeccionados em cores diversas, modelos diversos e tamanhos diversos, podendo conter personalização institucional, brasões, símbolos e aplicações variadas, conforme necessidade da Administração Municipal e requisição da Secretaria Municipal de Educação.",
+              "unidade": "CON",
+              "quantidade": "60,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "3",
+              "especificacao": "9900515646 Conjunto completo de uniforme para Corpo Musical de banda marcial/fanfarra:confeccionado em tecido tipo Oxford Premium, gabardine, microfibra encorpada, brim leve premium ou equivalentes de qualidade igual ou superior, apresentando alta resistência, conforto térmico, baixa transparência, excelente durabilidade, resistência ao desbotamento e acabamento reforçado, apropriado para apresentações cívicas, eventos oficiais, desfiles escolares, ensaios e atividades correlatas.Composto por jaqueta/blusão estilo marcial com manga longa, gola alta estruturada, fechamento frontal reforçado, aplicações geométricas, vivos, galões, ombreiras com franjas decorativas, detalhes em sobreposição, punhos personalizados, acabamento interno reforçado e demais elementos característicos de uniformes marciais. Acompanha calça social/marcial confeccionada em tecido resistente e confortável, com reforço em costuras, acabamento interno e detalhes laterais decorativos, conforme modelo. Acompanha ainda acessórios diversos, podendo incluir quepe, boina, luvas, cintos/faixas ornamentais, talabartes, capas, meiões ou itens similares, conforme requisição da Secretaria Municipal de Educação. Uniformes confeccionados em cores diversas, modelos diversos e tamanhos diversos, podendo conter brasões, símbolos, bordados, aplicações e personalização institucional, conforme necessidade da Administração Municipal.",
+              "unidade": "CON",
+              "quantidade": "180,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "1",
+          "titulo": "UNIFORMES",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 3,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515644 Conjunto completo de uniforme para MOR (Mestre de Ordem) de banda marcial/fanfarra:confeccionado em tecido tipo gabardine, Oxford Premium, microfibra encorpada, brim leve premium ou equivalentes, com alta resistência, excelente caimento, baixa transparência, conforto térmico, durabilidade e acabamento reforçado, apropriado para apresentações cívicas, eventos oficiais, desfiles escolares, competições e atividades correlatas. Composto por túnica/jaleco de manga longa em modelos diversos, contendo gola alta estruturada, fechamento frontal reforçado, botões metálicos ou resinados de alta durabilidade, vivos, galões, bordados ornamentais, passamanarias, aplicações decorativas, ombreiras com franjas, punhos personalizados, faixa/cinto ornamental, detalhes bordados e acabamento interno reforçado. Acompanha calça social/marcial confeccionada em tecido resistente e confortável, com reforço em costuras nas áreas de maior esforço, acabamento interno e modelagem adequada ao conjunto.Acompanha ainda quepe/chapéu estilo militar com estrutura reforçada, aba resistente, acabamento interno confortável, aplicações ornamentais e plumas/penachos decorativos removíveis ou fixos, conforme requisição. Uniforme confeccionado em cores diversas, modelos diversos, tamanhos diversos, podendo conter brasões, símbolos, bordados, personalização institucional e acabamentos variados, conforme necessidade da Administração Municipal e requisição daSecretaria Municipal de Educação.",
+              "unidade": "CON",
+              "quantidade": "7,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "2",
+              "especificacao": "37407 Conjunto completo de uniforme para Linha de Frente de banda marcial/fanfarra:destinado a balizas, balizadores, corpo coreográfico e funções correlatas, confeccionado em tecido tipo helanca, helanca light, suplex, lycra, elastano, neoprene fino ou equivalentes de qualidade igual ou superior, com excelente elasticidade, conforto, resistência, respirabilidade, mobilidade e durabilidade, apropriado para apresentações coreográficas, desfiles cívicos, eventos escolares e atividades correlatas.Composto por vestido, macaquinho, body, collant, saia, short- saia, blusa, sobreposição ou peças equivalentes, em modelos diversos, podendo conter mangas longas, curtas, assimétricas ou transparentes, aplicações em tule, detalhes metalizados, paetês, bordados, galões, fitas decorativas, passamanarias, ombreiras, franjas, pedrarias, recortes estilizados e acabamento reforçado. Acompanha acessórios diversos, podendo incluir luvas, braçadeiras, golas, meiões, meia-calça, pulseiras, faixas, adereços de cabelo e itens similares, conforme requisição. Todas as peças deverão possuir costura reforçada, acabamento interno adequado e resistência ao desbotamento e ao desgaste decorrente do uso contínuo. Uniformes confeccionados em cores diversas, modelos diversos e tamanhos diversos, podendo conter personalização institucional, brasões, símbolos e aplicações variadas, conforme necessidade da Administração Municipal e requisição da Secretaria Municipal de Educação.",
+              "unidade": "CON",
+              "quantidade": "60,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "3",
+              "especificacao": "9900515646 Conjunto completo de uniforme para Corpo Musical de banda marcial/fanfarra:confeccionado em tecido tipo Oxford Premium, gabardine, microfibra encorpada, brim leve premium ou equivalentes de qualidade igual ou superior, apresentando alta resistência, conforto térmico, baixa transparência, excelente durabilidade, resistência ao desbotamento e acabamento reforçado, apropriado para apresentações cívicas, eventos oficiais, desfiles escolares, ensaios e atividades correlatas.Composto por jaqueta/blusão estilo marcial com manga longa, gola alta estruturada, fechamento frontal reforçado, aplicações geométricas, vivos, galões, ombreiras com franjas decorativas, detalhes em sobreposição, punhos personalizados, acabamento interno reforçado e demais elementos característicos de uniformes marciais. Acompanha calça social/marcial confeccionada em tecido resistente e confortável, com reforço em costuras, acabamento interno e detalhes laterais decorativos, conforme modelo. Acompanha ainda acessórios diversos, podendo incluir quepe, boina, luvas, cintos/faixas ornamentais, talabartes, capas, meiões ou itens similares, conforme requisição da Secretaria Municipal de Educação. Uniformes confeccionados em cores diversas, modelos diversos e tamanhos diversos, podendo conter brasões, símbolos, bordados, aplicações e personalização institucional, conforme necessidade da Administração Municipal.",
+              "unidade": "CON",
+              "quantidade": "180,00",
+              "valor_referencia": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-097-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "408 / 2026",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "RECEPÇÃO DE PROPOSTAS",
+      "condutor": "SERGIO CARNEIRO CAVALCANTI DE AZEVEDO",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO",
+      "publicacao": "18/06/2026 16:15",
+      "inicio_recepcao": "22/06/2026 08:30",
+      "fim_recepcao": "03/07/2026 08:15",
+      "inicio_disputa": "03/07/2026 08:30",
+      "objeto": "Contratação de empresa especializada em fornecimento de CARRINHOS COLETORES DE LIMPEZA (material permanente), a fim de atender as demandas da Secretaria Municipal de Educação.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DrkqJeadkPjfpXlE4jXe7nK8rV53W2bNw%2F9K0yxMer0Ot5rOzt40cTHW2rBxtGAhCfSWNoxJBwG5j4b_pqlkSXoPK%2F654yuQ8LWdA49SRSj8%3D",
+      "total_lotes": 1,
+      "total_itens": 1,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "CARRINHOS COLETORES DE LIMPEZA",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900830484 CARRINHO FUNCIONAL DE LIMPEZAPROFISSIONAL:tipo kit completo com coletor de resíduos,destinado à limpeza úmida e seca de pisos em ambientesescolares e administrativos, adequado para superfícies comocerâmica, porcelanato, granilite, paviflex, cimento queimado,entre outros, com estrutura resistente em plástico de altadurabilidade (PEAD ou PP), com design tipo caminhão grande,dotado de compartimentos para organização de utensílios ecaçamba móvel basculante para coleta de resíduos, comcapacidade entre 50 e 120 litros e encaixe para saco ou cesto delixo, equipado com no mínimo 4 (quatro) e até 6 (seis) rodasgiratórias que permitam fácil movimentação e estabilidade, comdimensões mínimas aproximadas de 50 x 22 x 22 cm, devendoacompanhar balde duplo com capacidade mínima de 30 litroscom sistema de espremedor, cabo em alumínio comcomprimento aproximado de 1,40 m, haste tipo euro em materialplástico resistente, refil mop úmido em algodão ou microfibracom gramatura mínima de 300 g, conjunto mop pó com armaçãoe refil com largura mínima de 60 cm, pá coletora de resíduos eplaca sinalizadora de segurança tipo \"piso molhado\",disponibilizado em cores como azul, cinza ou similar, atendendoàs normas aplicáveis da ANVISA e da ABNT para uso emambientes institucionais.",
+              "unidade": "UN",
+              "quantidade": "220,00",
+              "valor_referencia": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-079-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "327 / 2026",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "HABILITAÇÃO",
+      "condutor": "JONATAS DA SILVA SOUSA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "REGISTRO DE PREÇO",
+      "publicacao": "29/05/2026 11:32",
+      "inicio_recepcao": "02/06/2026 08:30",
+      "fim_recepcao": "16/06/2026 08:15",
+      "inicio_disputa": "16/06/2026 08:30",
+      "objeto": "Contratação de empresa especializada em fornecimento de BEBEDOUROS INDUSTRIAIS (material permanente), a fim de atender as demandas da Secretaria Municipal de Educação.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DPebYe6xKZQzxlfWvuOb03BmZ2jzeCzRTyLF65k0zv7y18Z4BxHs6rkSAk8ges9XnZdiJE6R0ikY2JLs4XxQ4e4dYXEmBvVtEuKRiaYY6%2FJM%3D",
       "total_lotes": 6,
       "total_itens": 6,
       "lotes": [
         {
           "numero": "1",
-          "titulo": "33436 BIÓPSIA SIMPLES",
-          "fase": "HABILITAÇÃO",
+          "titulo": "37182 Bebedouro industrial de coluna em aço inox, com capacidade total de 50 litros:com 2 (duas) torneiras; gabinete externo em aço inox escovado ou polido, AISI 430 ou qualidade superior, com estrutura robusta, resistente à corrosão, acabamento sem rebar",
+          "fase": "EM ADJUDICAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "164.346,30",
+          "vencedor": "H2O COMERCIO E REPRESENTAÇÃO DE BEBEDOUROS LTDA",
+          "melhor_oferta": "157.500,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37182 Bebedouro industrial de coluna em aço inox, com capacidade total de 50 litros:com 2 (duas) torneiras; gabinete externo em aço inox escovado ou polido, AISI 430 ou qualidade superior, com estrutura robusta, resistente à corrosão, acabamento sem rebarbas ou arestas cortantes, base apoiada diretamente sobre o piso, com pés niveladores que permitam correta instalação em superfícies irregulares; coluna/pedestal em aço inox própria para uso direto ao chão, dispensando suportes ou bancadas adicionais; reservatório interno com capacidade mínima de 50 litros de água efetivamente refrigerada, fabricado em aço inox AISI 304 ou material atóxico aprovado para contato com água potável, isento de odor e sabor, com serpentina interna em aço inox AISI 304 ou equivalente, vedado o uso de tubulações de cobre em contato direto com a água; sistema de refrigeração por compressor hermético, potência mínima de 1/5 HP ou superior, dotado de termostato regulável, proteção contra sobrecarga elétrica e superaquecimento, utilizando gás refrigerante ecológico R134a, R600a ou equivalente, com condensador adequadamente ventilado; capacidade mínima de fornecimento entre 80 e 150 copos por hora (200 ml), em temperatura ambiente de até 27 °C; equipado com 2 (duas) torneiras frontais de pressão em latão cromado ou aço inox, podendo ambas fornecer água gelada ou configuração com água gelada e natural, conforme fabricante; aparador em aço inox com bandeja coletora e dreno para conexão a ponto de drenagem ou recipiente coletor; isolamento térmico em poliuretano expandido ou material equivalente; alimentação elétrica em 220 V, 60 Hz, ou bivolt, plugue conforme ABNT NBR 14136, com aterramento; dotado de sistema de filtragem por carvão ativado com prata coloidal ou tecnologia equivalente, substituível e de fácil acesso; produto novo, certificado pelo Inmetro para bebedouros/purificadores, acompanhado de manual em português, garantia mínima de 12 meses e indicação de assistência técnica autorizada no território nacional, devendo ser entregue completamente montado, testado e pronto para instalação, incluindo todos os acessórios hidráulicos e elétricos necessários.",
+              "unidade": "UND",
+              "quantidade": "90,00",
+              "valor_referencia": "1.826,07"
+            }
+          ]
+        },
+        {
+          "numero": "2",
+          "titulo": "37183 Bebedouro industrial de coluna em aço inox, com capacidade total de 100 litros:com 3 (três) torneiras; gabinete externo em aço inox escovado ou polido, AISI 430 ou qualidade superior, com estrutura reforçada, resistente à corrosão e de fácil higieni",
+          "fase": "EM ADJUDICAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "325.999,50",
+          "vencedor": "H2O COMERCIO E REPRESENTAÇÃO DE BEBEDOUROS LTDA",
+          "melhor_oferta": "285.000,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37183 Bebedouro industrial de coluna em aço inox, com capacidade total de 100 litros:com 3 (três) torneiras; gabinete externo em aço inox escovado ou polido, AISI 430 ou qualidade superior, com estrutura reforçada, resistente à corrosão e de fácil higienização, sem arestas cortantes na região de contato, com base apoiada diretamente sobre o piso, pés niveladores e acabamento que facilite a limpeza frequente do ambiente escolar; coluna/pedestal em aço inox projetada para instalação livre, sem necessidade de suporte adicional, garantindo estabilidade e segurança; reservatório interno em aço inox AISI 304 ou material atóxico compatível com contato com água potável, com capacidade mínima de 50 litros de água efetivamente refrigerada, com serpentina interna em aço inox 304 ou equivalente, sem uso de cobre em contato direto com a água, isolamento térmico em poliuretano expandido ou similar; sistema de refrigeração por compressor hermético, potência mínima de 1/5 HP ou superior, condensador de alto rendimento, gás refrigerante ecológico R134a, R600a ou equivalente, dotado de termostato regulável e proteção contra sobrecarga elétrica e superaquecimento, com capacidade mínima de fornecimento entre 100 e 150 copos por hora (200 ml), em temperatura ambiente de até 27 °C; equipado com 3 (três) torneiras frontais de pressão em latão cromado ou aço inox, sendo no mínimo 2 (duas) para água gelada e 1 (uma) para água natural, ou todas geladas conforme configuração do fabricante; aparador em aço inox com bandeja coletora e dreno para conexão à rede de esgoto; alimentação elétrica 220 V, 60 Hz, ou bivolt, cabo e plugue conforme ABNT NBR 14136, com aterramento; sistema de filtragem integrado ou acoplado, tipo carvão ativado com prata coloidal ou tecnologia equivalente, substituível, eficiência mínima classe III ou superior; produto certificado pelo Inmetro, acompanhado de selo de conformidade, manual em português e garantia mínima de 12 meses, devendo ser entregue completo, pronto para instalação, incluindo acessórios hidráulicos eelétricos necessários.",
+              "unidade": "UND",
+              "quantidade": "150,00",
+              "valor_referencia": "2.173,33"
+            }
+          ]
+        },
+        {
+          "numero": "3",
+          "titulo": "9908411203 Bebedouro industrial de coluna em aço inox, com capacidade total de 100 litros:com de 4 (quatro) torneiras; gabinete externo em aço inox escovado ou polido, AISI 430 ou qualidade superior, com estrutura reforçada adequada ao uso coletivo intens",
+          "fase": "EM ADJUDICAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "210.127,50",
+          "vencedor": "H2O COMERCIO E REPRESENTAÇÃO DE BEBEDOUROS LTDA",
+          "melhor_oferta": "171.000,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9908411203 Bebedouro industrial de coluna em aço inox, com capacidade total de 100 litros:com de 4 (quatro) torneiras; gabinete externo em aço inox escovado ou polido, AISI 430 ou qualidade superior, com estrutura reforçada adequada ao uso coletivo intenso, resistente à corrosão e de fácil higienização, sem arestas cortantes, com base apoiada diretamente sobre o piso e pés niveladores; coluna/pedestal em aço inox projetada para instalação autônoma em locais de grande circulação, garantindo estabilidade e segurança; reservatório interno em aço inox AISI 304 ou material atóxico compatível com contato com água potável, com disponibilização mínima de 50 litros de água efetivamente refrigerada, serpentina interna em aço inox AISI 304 ou equivalente, vedado o uso de cobre em contato direto com a água, com isolamento térmico em poliuretano expandido ou material equivalente; sistema de refrigeração por compressor hermético de alta performance, potência mínima de 1/4 HP ou superior, condensador ventilado e utilização de gás refrigerante ecológico R134a, R600a ou equivalente, dotado de termostato regulável e proteção contra sobrecarga elétrica e superaquecimento, com capacidade mínima de fornecimento entre 150 e 200 copos por hora (200 ml), em temperatura ambiente de até 32 °C; equipado com 4 (quatro) torneiras frontais de pressão em aço inox ou latão cromado, sendo preferencialmente 3 (três) para água gelada e 1 (uma) para água natural, ou configuração equivalente do fabricante; aparador em aço inox com bandeja coletora e dreno para conexão à rede de esgoto ou ponto de drenagem; alimentação elétrica em 220 V, 60 Hz, ou bivolt, com plugue conforme ABNT NBR 14136 e aterramento; sistema de filtragem integrado ou acoplado por carvão ativado com prata coloidal ou tecnologia equivalente, substituível e de fácil manutenção; produto certificado pelo Inmetro para bebedouros/purificadores, acompanhado de manual em português, garantia mínima de 12 meses e assistência técnica autorizada no território nacional, devendo ser entregue completo, montado, testado e pronto para instalação, incluindo acessórios hidráulicos e elétricos necessários.",
+              "unidade": "UND",
+              "quantidade": "90,00",
+              "valor_referencia": "2.334,75"
+            }
+          ]
+        },
+        {
+          "numero": "4",
+          "titulo": "37317 Bebedouro industrial de coluna em aço inox, com capacidade total de 50 litros:com 2 (duas) torneiras;:gabineteexterno em aço inox escovado ou polido, AISI 430 ou qualidadesuperior, com estrutura robusta, resistente à corrosão, acabamento sem rebar",
+          "fase": "EM ADJUDICAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "54.782,10",
+          "vencedor": "H2O COMERCIO E REPRESENTAÇÃO DE BEBEDOUROS LTDA",
+          "melhor_oferta": "52.500,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37317 Bebedouro industrial de coluna em aço inox, com capacidade total de 50 litros:com 2 (duas) torneiras;:gabineteexterno em aço inox escovado ou polido, AISI 430 ou qualidadesuperior, com estrutura robusta, resistente à corrosão, acabamento sem rebarbas ou arestas cortantes, base apoiadadiretamente sobre o piso, com pés niveladores que permitam correta instalação em superfícies irregulares; coluna/pedestal emaço inox própria para uso direto ao chão, dispensando suportes ou bancadas adicionais; reservatório interno com capacidade mínima de 50 litros de água efetivamente refrigerada, fabricadoem aço inox AISI 304 ou material atóxico aprovado para contato com água potável, isento de odor e sabor, com serpentina interna em aço inox AISI 304 ou equivalente, vedado o uso de tubulações de cobre em contato direto com a água; sistema de refrigeração por compressor hermético, potência mínima de 1/5 HP ou superior, dotado de termostato regulável, proteção contra sobrecarga elétrica e superaquecimento, utilizando gás refrigerante ecológico R134a, R600a ou equivalente, com condensador adequadamente ventilado; capacidade mínima de fornecimento entre 80 e 150 copos por hora (200 ml), em temperatura ambiente de até 27 °C; equipado com 2 (duas) torneiras frontais de pressão em latão cromado ou aço inox, podendo ambas fornecer água gelada ou configuração com água gelada e natural, conforme fabricante; aparador em aço inox com bandeja coletora e dreno para conexão a ponto de drenagem ou recipiente coletor; isolamento térmico em poliuretano expandidoou material equivalente; alimentação elétrica em 220 V, 60 Hz, ou bivolt, plugue conforme ABNT NBR 14136, com aterramento;dotado de sistema de filtragem por carvão ativado com prata coloidal ou tecnologia equivalente, substituível e de fácil acesso; produto novo, certificado pelo Inmetro para bebedouros/purificadores, acompanhado de manual em português, garantia mínima de 12 meses e indicação deassistência técnica autorizada no território nacional, devendo ser entregue completamente montado, testado e pronto parainstalação, incluindo todos os acessórios hidráulicos e elétricos necessários. COTA 25% PARA ME/EPP.",
+              "unidade": "Und.",
+              "quantidade": "30,00",
+              "valor_referencia": "1.826,07"
+            }
+          ]
+        },
+        {
+          "numero": "5",
+          "titulo": "37318 Bebedouro industrial de coluna em aço inox, com capacidade total de 100 litros: com 3 (três) torneiras;:gabinete externo em aço inox escovado ou polido, AISI 430 ou qualidade superior, com estrutura reforçada, resistente à corrosão e de fácil higien",
+          "fase": "EM ADJUDICAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "108.666,50",
+          "vencedor": "H2O COMERCIO E REPRESENTAÇÃO DE BEBEDOUROS LTDA",
+          "melhor_oferta": "95.000,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37318 Bebedouro industrial de coluna em aço inox, com capacidade total de 100 litros: com 3 (três) torneiras;:gabinete externo em aço inox escovado ou polido, AISI 430 ou qualidade superior, com estrutura reforçada, resistente à corrosão e de fácil higienização, sem arestas cortantes na região de contato, com base apoiada diretamente sobreo piso, pés niveladores e acabamento que facilite a limpeza frequente do ambiente escolar; coluna/pedestal em aço inox projetada para instalação livre, sem necessidade de suporte adicional, garantindo estabilidade e segurança; reservatório interno em aço inox AISI 304 ou material atóxico compatível com contato com água potável, com capacidade mínima de 50 litros de água efetivamente refrigerada, com serpentina interna em aço inox 304 ou equivalente, sem uso de cobre em contato direto com a água, isolamento térmico em poliuretano expandido ou similar; sistema de refrigeração por compressor hermético, potência mínima de 1/5 HP ou superior, condensador de alto rendimento, gás refrigerante ecológico R134a, R600a ou equivalente, dotado de termostato regulável e proteção contra sobrecarga elétrica e superaquecimento, com capacidade mínima de fornecimento entre 100 e 150 copos por hora (200 ml), em temperatura ambiente de até 27 °C; equipado com 3 (três) torneiras frontais de pressão em latão cromado ou aço inox, sendo no mínimo 2 (duas) para água gelada e 1 (uma) para água natural, ou todas geladas conforme configuração do fabricante; aparador em aço inox com bandeja coletora e dreno para conexão à rede de esgoto; alimentação elétrica 220 V, 60 Hz, ou bivolt, cabo e plugue conforme ABNT NBR 14136, com aterramento; sistema de filtragem integrado ou acoplado, tipo carvão ativado com prata coloidal ou tecnologia equivalente, substituível, eficiência mínima classe III ou superior; produto certificado pelo Inmetro, acompanhado de selo de conformidade, manual em português e garantia mínima de 12 meses, devendo ser entregue completo, pronto para instalação, incluindo acessórios hidráulicos e elétricos necessários. COTA 25% PARA ME/EPP.",
+              "unidade": "Und.",
+              "quantidade": "50,00",
+              "valor_referencia": "2.173,33"
+            }
+          ]
+        },
+        {
+          "numero": "6",
+          "titulo": "9909911330 Bebedouro industrial de coluna em aço inox, com capacidade total de 100 litros: com de 4 (quatro) torneiras;:gabinete externo em aço inox escovado ou polido, AISI 430 ou qualidade superior, com estrutura reforçada adequada ao uso coletivo inten",
+          "fase": "EM ADJUDICAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "70.042,50",
+          "vencedor": "H2O COMERCIO E REPRESENTAÇÃO DE BEBEDOUROS LTDA",
+          "melhor_oferta": "57.000,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9909911330 Bebedouro industrial de coluna em aço inox, com capacidade total de 100 litros: com de 4 (quatro) torneiras;:gabinete externo em aço inox escovado ou polido, AISI 430 ou qualidade superior, com estrutura reforçada adequada ao uso coletivo intenso, resistente à corrosão e de fácil higienização, sem arestas cortantes, com base apoiada diretamente sobre o piso e pés niveladores; coluna/pedestal em aço inox projetada para instalação autônoma em locais de grande circulação, garantindo estabilidade e segurança; reservatório interno em aço inox AISI 304 ou material atóxico compatível com contato com água potável, com disponibilização mínima de 50 litros de água efetivamente refrigerada, serpentina interna em aço inox AISI 304 ou equivalente, vedado o usode cobre em contato direto com a água, com isolamento térmico em poliuretano expandido ou material equivalente; sistema de refrigeração por compressor hermético de alta performance, potência mínima de 1/4 HP ou superior, condensador ventilado e utilização de gás refrigerante ecológico R134a, R600a ou equivalente, dotado de termostato regulável e proteção contra sobrecarga elétrica e superaquecimento, com capacidade mínima de fornecimento entre 150 e 200 copos por hora (200 ml), em temperatura ambiente de até 32 °C; equipado com 4 (quatro) torneiras frontais de pressão em aço inox ou latão cromado, sendo preferencialmente 3 (três) para água gelada e 1 (uma) para água natural, ou configuração equivalente do fabricante; aparador em aço inox com bandeja coletora e dreno para conexão à rede de esgoto ou ponto de drenagem; alimentação elétrica em 220 V, 60 Hz, ou bivolt, com plugue conforme ABNT NBR 14136 e aterramento; sistema de filtragem integrado ou acoplado por carvão ativado com prata coloidal ou tecnologia equivalente, substituível e de fácil manutenção; produto certificado pelo Inmetro para bebedouros/purificadores, acompanhado de manual em português, garantia mínima de 12 meses e assistência técnica autorizada no território nacional, devendo ser entregue completo, montado, testado e pronto para instalação, incluindo acessórios hidráulicos e elétricosnecessários. COTA 25% PARA ME/EPP.",
+              "unidade": "Und.",
+              "quantidade": "30,00",
+              "valor_referencia": "2.334,75"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-071-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "437 / 2026",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "PUBLICADO",
+      "condutor": "JONATAS DA SILVA SOUSA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO PARCELADA",
+      "publicacao": "19/05/2026 15:36",
+      "inicio_recepcao": "24/06/2026 08:30",
+      "fim_recepcao": "08/07/2026 08:15",
+      "inicio_disputa": "08/07/2026 08:30",
+      "objeto": "Contratação de empresa especializada em fornecimento de EQUIPAMENTOS HOSPITALARES (material permanente),  a fim de atender as demandas da Secretaria Municipal de Saúde.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DX99bflvw38Sx_riZdHJMPqa%2FrsC38K2bsOdQWmGiL2XTbQudDzn1VWT3LCmNnbHZTcGJfbhpmE7EUNEoo_lDdDfsrV1eaJm1HS1PnBoX0%2FE%3D",
+      "total_lotes": 12,
+      "total_itens": 12,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "CAMA HOSPITALAR COM RODAS:Cama Hospitalar; Movimentos: Elevação dorsal, Fowler, Semi-fowler, Flexão de pernas, Cardíaco e Sentado; Regulagem de altura com variação aproximada de 0,53 m e 0,70 m; Acionamento através de manivelas; Estrutura em aço carbono c",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "CAMA HOSPITALAR COM RODAS:Cama Hospitalar; Movimentos: Elevação dorsal, Fowler, Semi-fowler, Flexão de pernas, Cardíaco e Sentado; Regulagem de altura com variação aproximada de 0,53 m e 0,70 m; Acionamento através de manivelas; Estrutura em aço carbono com tratamento antiferruginoso e acabamento em pintura eletrostática a pó; Cabeceiras removíveis em material injetado decorativo; Grades laterais em material termoplástico injetado; Rodízios de 3\", sendo dois com freios em diagonal; Capacidade de carga de aproximadamente 150 kg distribuídos sob o leito; Ângulos aproximados: Dorso 75° e Perna 44°; Dimensões externas aproximadas de 203 cm x 110 cm; Dimensões internas aproximadas de 190 cm x 90 cm; Altura mínima aproximada de 45 cm; Altura máxima aproximada de 75 cm; Peso aproximado de 65 kg. (As medidas aproximadas podem ser variáveis, desde que não mude a funcionalidade do item)",
+              "unidade": "UND",
+              "quantidade": "27,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "2",
+          "titulo": "CARRO DE EMERGÊNCIA:Fabricado em aço carbono com tratamento anticorrosão e pintura epóxi de alta resistência. Quatro rodízios em poliuretano (75 mm de diâmetro), sendo dois com freio. Quatro gavetas com corrediças e com lacre único através do suporte de s",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "CARRO DE EMERGÊNCIA:Fabricado em aço carbono com tratamento anticorrosão e pintura epóxi de alta resistência. Quatro rodízios em poliuretano (75 mm de diâmetro), sendo dois com freio. Quatro gavetas com corrediças e com lacre único através do suporte de soro. Suporte para cilindro em aço. Divisória para medicamentos na primeira gaveta. Bandeja superior giratória 360 graus para acomodação de equipamentos com pintura eletrostática. Tampo em aço inox 304 para manipulação de medicamentos, com gradil de proteção nos lados e ao fundo. Tábua para massagem cardíaca em polipropileno com suporte de fixação. Para-choque de borracha. Suporte de soro de altura ajustável em aço INOX. Dimensões (com a bandeja giratória montada): Altura: 1050 mm Largura: 500 mm. Comprimento: 700 mm Peso: 27 Kg. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "2,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "3",
+          "titulo": "CARRO MACA SIMPLES:Carro maca hospitalar, para transporte de paciente, estofado removível e cabeceira móvel estruturada em tubos de aço inoxidável, leito em aço inox, e acabamento polido, rodas giratórias revestidos em borracha de 5 a 6 de diâmetro sendo",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "CARRO MACA SIMPLES:Carro maca hospitalar, para transporte de paciente, estofado removível e cabeceira móvel estruturada em tubos de aço inoxidável, leito em aço inox, e acabamento polido, rodas giratórias revestidos em borracha de 5 a 6 de diâmetro sendo duas com sistema de freio dupla ação contra choque em toda volta. Grades laterais tubular de baixar dos dois lados em aço inoxidável com sistema de engate rápido. Para-choque em pvc em toda a volta do leito resistente a impacto, leito com cabeceira regulável; deve possuir no mínimo duas manivelas escamoteáveis para elevação de altura do leito. Ter suporte de soro confeccionado em aço inoxidável. Dimensões mínimas 1,90m (comprimento) x 0,50m (largura). Registro no ministério da saúde. EXCLSUIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "2,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "4",
+          "titulo": "DESFIBRILADOR: MONITOR CARDIOVERSOR DESFIBRILADOR BIFÁSICO PORTÁTIL::Monitor cardioversor desfibrilador bifásico microprocessado, portátil, destinado ao atendimento hospitalar, urgência e emergência, indicado para monitorização cardíaca, desfibrilação, ca",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "DESFIBRILADOR: MONITOR CARDIOVERSOR DESFIBRILADOR BIFÁSICO PORTÁTIL::Monitor cardioversor desfibrilador bifásico microprocessado, portátil, destinado ao atendimento hospitalar, urgência e emergência, indicado para monitorização cardíaca, desfibrilação, cardioversor sincronizada e marcapasso externo não invasivo. Equipamento deve conter no mínimo as seguintes especificações: tecnologia de onda bifásica, permitindo ajuste de energia compatível com protocolos clínicos para atendimento adulto e pediátrico, com carregamento rápido e elevada eficiência terapêutica. Deverá possuir monitor/display colorido integrado, de tamanho adequado para visualização simultânea de curvas, parâmetros fisiológicos, alarmes e informações operacionais, garantindo adequada leitura em ambiente hospitalar. Possuir sistema de monitorização contínua do paciente com alarmes audiovisuais para identificação de alterações fisiológicas e eventos cardíacos críticos, permitindo rápida atuação da equipe assistencial. O equipamento deverá possuir sistema de autodiagnóstico ou verificação operacional automática dos principais parâmetros funcionais do aparelho, incluindo bateria, circuito de desfibrilação e acessórios conectados, garantindo maior segurança e disponibilidade para uso. Deverá possuir memória interna para armazenamento de eventos, curvas e dados de pacientes, com capacidade compatível para registro de atendimentos e eventos clínicos. Equipamento portátil, com peso e dimensões compatíveis para transporte intra-hospitalar e atendimento móvel, acompanhado de alça, suporte ou sistema que facilite sua locomoção. Alimentação elétrica bivolt automática (100-240 VAC / 50-60 Hz), com bateria interna recarregável de íons de lítio ou tecnologia equivalente, com autonomia mínima de 3 (três) horas em modo monitorização contínua ou capacidade mínima compatível para realização de múltiplos choques. Deverá possuir pás externas adulto/pediátrico integradas ou intercambiáveis, impressora térmica integrada ou compatível, monitorização de ECG e demais acessórios necessários ao pleno funcionamento do equipamento. Acompanhar cabos, sensores, bateria, carregador, manual em português e todos os acessórios indispensáveis para instalação e operação completa do equipamento. Transmissão destas informações, sem fio, para software do Sistema CTR instalado e ao alcance da rede.",
+              "unidade": "UND",
+              "quantidade": "2,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "5",
+          "titulo": "Escada com Dois Degraus e Piso Antiderrapante:Armação em tubos redondos de 3/4 com pintura epóxi reforçada. Degrau revestido com material sintético antiderrapante. Pés com ponteira de pvc. Dimensões externas aproximadas: comprimento 0,38cm x largura 0,37c",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "Escada com Dois Degraus e Piso Antiderrapante:Armação em tubos redondos de 3/4 com pintura epóxi reforçada. Degrau revestido com material sintético antiderrapante. Pés com ponteira de pvc. Dimensões externas aproximadas: comprimento 0,38cm x largura 0,37cm x 0,41cm de altura. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "13,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "6",
+          "titulo": "Maca Tubular com Cabeceira Regulável. Modelo: fixa. Estrutura em aço carbono 1020. Revestimento da estrutura:pintura epóxi. Espuma ortopédica de alta resiliência com densidade D33. Revestimento em courvin sintético. Cabeceira reclinável: ângulo de 452 par",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "Maca Tubular com Cabeceira Regulável. Modelo: fixa. Estrutura em aço carbono 1020. Revestimento da estrutura:pintura epóxi. Espuma ortopédica de alta resiliência com densidade D33. Revestimento em courvin sintético. Cabeceira reclinável: ângulo de 452 para regulagem. Medidas; 192,5x65x81 cm aprox. Peso máximo suportado: 140 kg. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "2,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "6",
+          "titulo": "Maca Tubular com Cabeceira Regulável. Modelo: fixa. Estrutura em aço carbono 1020. Revestimento da estrutura:pintura epóxi. Espuma ortopédica de alta resiliência com densidade D33. Revestimento em courvin sintético. Cabeceira reclinável: ângulo de 452 par",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "Maca Tubular com Cabeceira Regulável. Modelo: fixa. Estrutura em aço carbono 1020. Revestimento da estrutura:pintura epóxi. Espuma ortopédica de alta resiliência com densidade D33. Revestimento em courvin sintético. Cabeceira reclinável: ângulo de 452 para regulagem. Medidas; 192,5x65x81 cm aprox. Peso máximo suportado: 140 kg. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "2,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "7",
+          "titulo": "MESA CABECEIRA FECHADA:Mesa Cabeceira Fechada com 1 gaveta e 1 porta; Cor: Branco; O item deve possuir 01 (uma) gaveta superior e 01 (uma) porta inferior com 01 (uma) prateleira interna, totalmente em pintura epóxi. O móvel deve ser dotado de pés com rodí",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "MESA CABECEIRA FECHADA:Mesa Cabeceira Fechada com 1 gaveta e 1 porta; Cor: Branco; O item deve possuir 01 (uma) gaveta superior e 01 (uma) porta inferior com 01 (uma) prateleira interna, totalmente em pintura epóxi. O móvel deve ser dotado de pés com rodízios para facilitar o deslocamento. Dimensões externas aproximadas de 0,45m de comprimento, 0,40m de largura/profundidade e 0,80m de altura, com peso estimado de 18kg. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "28,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "8",
+          "titulo": "MESA TIPO MAYO:Inoxidável Com Bandeja Inox 48X32cm Estrutura em tubos inoxidável de 25,40mm de diâmetro, com três rodízios giratórios de 42mm de diâmetro, base superior em ferro redondo maciço inoxidável e bandeja inoxidável com 0,32 X 0,48mt. Altura míni",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "MESA TIPO MAYO:Inoxidável Com Bandeja Inox 48X32cm Estrutura em tubos inoxidável de 25,40mm de diâmetro, com três rodízios giratórios de 42mm de diâmetro, base superior em ferro redondo maciço inoxidável e bandeja inoxidável com 0,32 X 0,48mt. Altura mínima 0,85 mt e máxima 1,25 mt regulável por meio de manipulo. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "5,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "8",
+          "titulo": "MESA TIPO MAYO:Inoxidável Com Bandeja Inox 48X32cm Estrutura em tubos inoxidável de 25,40mm de diâmetro, com três rodízios giratórios de 42mm de diâmetro, base superior em ferro redondo maciço inoxidável e bandeja inoxidável com 0,32 X 0,48mt. Altura míni",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "MESA TIPO MAYO:Inoxidável Com Bandeja Inox 48X32cm Estrutura em tubos inoxidável de 25,40mm de diâmetro, com três rodízios giratórios de 42mm de diâmetro, base superior em ferro redondo maciço inoxidável e bandeja inoxidável com 0,32 X 0,48mt. Altura mínima 0,85 mt e máxima 1,25 mt regulável por meio de manipulo. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "5,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "10",
+          "titulo": "VENTILADOR PULMONAR MICROPROCESSADO - MODOS VENTILATÓRIOS ADULTO / PEDIÁTRICO:VCV assistido / controlado; PCV assistido / controlado; PSV/CPAP; PRVC assistido / controlado; SIMV(VCV) + PSV; SIMV(PCV) + PSV; time automático; Ventilação não invasiva; Compen",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "VENTILADOR PULMONAR MICROPROCESSADO - MODOS VENTILATÓRIOS ADULTO / PEDIÁTRICO:VCV assistido / controlado; PCV assistido / controlado; PSV/CPAP; PRVC assistido / controlado; SIMV(VCV) + PSV; SIMV(PCV) + PSV; time automático; Ventilação não invasiva; Compensação de fulgas; Leitura de fluxo proximal; Função O2 100%; Tendências de 24h; Sensibilidade inspiratória de fluxo ou pressão; Bateria de 15h; Cálculo automático do peso teórico; Interface intuitiva; Interface personalizável com memória. CARACTERÍSTICAS ESPECIAIS: Hora e data atual; Hora e data do equipamento ligado; Bloqueio da tela touch screen; Indicador gráfico de fonte externa e bateria Indicador do nível de carga da bateria; Barras indicadoras de faixa de ajuste dos parâmetros; Barra gráfica da pressão ventilatória com indicador do nível dos alarmes; Leitura da FiO2 por célula galvânica ou pneumotacógrafo; Símbolo para Stand by; Símbolo para histórico de alarme MMV + PSV; PSV + VT assegurado; Pressão bifásica (APRV); VNI. NEONATAL: VCV assistido / controlado; PCV assistido / controlado; PSV/CPAP; SIMV(PCV) + PSV; Fluxo contínuo assistido / controlado; CPAP Nasal. CONFIGURAÇÕES ESPECIAIS: Ventilação Neonatal; Configuração do paciente; Mecânicas Ventilatórias; FiO2 50 a 100%; Compensação de altitude; Ajuste do volume; Histórico de alarmes; Rise. Exclusivo ME/EPP",
+              "unidade": "UND",
+              "quantidade": "6,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "11",
+          "titulo": "CAMA HOSPITALAR COM RODAS:Cama Hospitalar; Movimentos: Elevação dorsal, Fowler, Semi-fowler, Flexão de pernas, Cardíaco e Sentado; Regulagem de altura (0,53x70); Acionamento através de manivelas; Estrutura em Aço carbono com tratamento antiferruginoso e a",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "CAMA HOSPITALAR COM RODAS:Cama Hospitalar; Movimentos: Elevação dorsal, Fowler, Semi-fowler, Flexão de pernas, Cardíaco e Sentado; Regulagem de altura (0,53x70); Acionamento através de manivelas; Estrutura em Aço carbono com tratamento antiferruginoso e acabamento em pintura eletrostática a pó; Cabeceiras removíveis em material injetado decorativo-Grades laterais material termoplástico injetado; Rodízios de 3 sendo dois com freios em diagonal; CAPACIDADE DE CARGA: 150 kg distribuídos sob o leito. ANGULOS: DORSO: 75° 1 PERNA: 44° DIMENSÕES EXTERNAS: 203cm x 110cm. DIMENSÕES INTERNAS: 190cm x 90cm. ALTURA MÍNIMA: 45cm. ALTURA MÁXIMA: 75cm. PESO: 65 kg. COTA DE 25% RESERVADA PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "8,00",
+              "valor_referencia": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CD-005-2025",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "758/2025",
+      "modalidade": "CREDENCIAMENTO",
+      "situacao": "SUSPENSO",
+      "condutor": "MAGDA DE SELES GUIMARÃES",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO",
+      "publicacao": "03/06/2025 11:48",
+      "inicio_recepcao": "13/06/2025 08:00",
+      "fim_recepcao": "15/06/2026 00:00",
+      "inicio_disputa": "",
+      "objeto": "Credenciamento de pessoa jurídica para PRESTAÇÃO DE SERVIÇOS\n MÉDICOS ESPECIALIZADOS EM ANÁLISE PATOLÓGICA para atender as demandas da\n Secretaria Municipal de Saúde.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DjK5fuEc68IoPgvaIjBQOT1fy%2FurdKNJbwDcE0%2FqKsyNdyO9cHQFxdYA4jhRudKdTD3dy3ALgnccj%2FbCqsp6qsU1nho3p6L%2F4VwkCE5aKjh8%3D",
+      "total_lotes": 9,
+      "total_itens": 9,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "33436 BIÓPSIA SIMPLES:BIÓPSIA SIMPLES",
+          "fase": "SUSPENSO",
           "tipo": "UNITÁRIO",
           "quantidade": "1",
           "intervalo_minimo": "0,00",
           "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
+          "local_entrega": "",
+          "garantia": "",
           "valor_referencia": "60,19",
           "vencedor": "",
           "melhor_oferta": "0,00",
@@ -272859,45 +272955,69 @@
               "numero": "1",
               "especificacao": "33436 BIÓPSIA SIMPLES:BIÓPSIA SIMPLES",
               "unidade": "SERV",
-              "quantidade": "2.500,00",
+              "quantidade": "1.875,00",
               "valor_referencia": "60,19"
             }
           ]
         },
         {
           "numero": "2",
-          "titulo": "9903311392 CITOLOGIA EM MEIO LIQUIDO",
-          "fase": "HABILITAÇÃO",
+          "titulo": "909911235 BIOPSIA SIMPLES:BIÓPSIA SIMPLES. COTA DE 25% RESERVADA PARA  ME/EPP.",
+          "fase": "SUSPENSO",
           "tipo": "UNITÁRIO",
           "quantidade": "1",
           "intervalo_minimo": "0,00",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "62,25",
+          "exclusivo_me": "SIM",
+          "local_entrega": "",
+          "garantia": "",
+          "valor_referencia": "60,19",
           "vencedor": "",
           "melhor_oferta": "0,00",
           "total_itens": 1,
           "itens": [
             {
               "numero": "1",
-              "especificacao": "9903311392 CITOLOGIA EM MEIO LIQUIDO - BRONQUIO:CITOLOGIA EM MEIO LIQUIDO - BRONQUIO.",
+              "especificacao": "909911235 BIOPSIA SIMPLES:BIÓPSIA SIMPLES. COTA DE 25% RESERVADA PARA ME/EPP.",
               "unidade": "SERV",
-              "quantidade": "100,00",
-              "valor_referencia": "62,25"
+              "quantidade": "625,00",
+              "valor_referencia": "60,19"
             }
           ]
         },
         {
-          "numero": "3",
-          "titulo": "9903311373 COLORAÇÃO ESPECIAL",
-          "fase": "HABILITAÇÃO",
+          "numero": "2",
+          "titulo": "909911235 BIOPSIA SIMPLES:BIÓPSIA SIMPLES. COTA DE 25% RESERVADA PARA  ME/EPP.",
+          "fase": "SUSPENSO",
           "tipo": "UNITÁRIO",
           "quantidade": "1",
           "intervalo_minimo": "0,00",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
+          "exclusivo_me": "SIM",
+          "local_entrega": "",
+          "garantia": "",
+          "valor_referencia": "60,19",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "909911235 BIOPSIA SIMPLES:BIÓPSIA SIMPLES. COTA DE 25% RESERVADA PARA ME/EPP.",
+              "unidade": "SERV",
+              "quantidade": "625,00",
+              "valor_referencia": "60,19"
+            }
+          ]
+        },
+        {
+          "numero": "4",
+          "titulo": "9903311373 COLORAÇÃO ESPECIAL:Marcação da biópsia por corantes especiais. EXCLUSIVO PARA ME/EPP",
+          "fase": "SUSPENSO",
+          "tipo": "UNITÁRIO",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "SIM",
+          "local_entrega": "",
+          "garantia": "",
           "valor_referencia": "33,65",
           "vencedor": "",
           "melhor_oferta": "0,00",
@@ -272905,7 +273025,7 @@
           "itens": [
             {
               "numero": "1",
-              "especificacao": "9903311373 COLORAÇÃO ESPECIAL: Marcação da biópsia por corantes especiais.",
+              "especificacao": "9903311373 COLORAÇÃO ESPECIAL:Marcação da biópsia por corantes especiais. EXCLUSIVO PARA ME/EPP",
               "unidade": "SERV",
               "quantidade": "50,00",
               "valor_referencia": "33,65"
@@ -272914,38 +273034,38 @@
         },
         {
           "numero": "4",
-          "titulo": "9903311378 CORE BYOPSY",
-          "fase": "HABILITAÇÃO",
+          "titulo": "9903311373 COLORAÇÃO ESPECIAL:Marcação da biópsia por corantes especiais. EXCLUSIVO PARA ME/EPP",
+          "fase": "SUSPENSO",
           "tipo": "UNITÁRIO",
           "quantidade": "1",
           "intervalo_minimo": "0,00",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "68,46",
+          "exclusivo_me": "SIM",
+          "local_entrega": "",
+          "garantia": "",
+          "valor_referencia": "33,65",
           "vencedor": "",
           "melhor_oferta": "0,00",
           "total_itens": 1,
           "itens": [
             {
               "numero": "1",
-              "especificacao": "9903311378 CORE BYOPSY:CORE BYOPSY.",
+              "especificacao": "9903311373 COLORAÇÃO ESPECIAL:Marcação da biópsia por corantes especiais. EXCLUSIVO PARA ME/EPP",
               "unidade": "SERV",
-              "quantidade": "100,00",
-              "valor_referencia": "68,46"
+              "quantidade": "50,00",
+              "valor_referencia": "33,65"
             }
           ]
         },
         {
-          "numero": "5",
-          "titulo": "33437 PEÇA CIRÚRGICA SIMPLES",
-          "fase": "HABILITAÇÃO",
+          "numero": "6",
+          "titulo": "33437 PEÇA CIRÚRGICA SIMPLES:PEÇA CIRÚRGICA SIMPLES",
+          "fase": "SUSPENSO",
           "tipo": "UNITÁRIO",
           "quantidade": "1",
           "intervalo_minimo": "0,00",
           "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
+          "local_entrega": "",
+          "garantia": "",
           "valor_referencia": "75,00",
           "vencedor": "",
           "melhor_oferta": "0,00",
@@ -272955,21 +273075,45 @@
               "numero": "1",
               "especificacao": "33437 PEÇA CIRÚRGICA SIMPLES:PEÇA CIRÚRGICA SIMPLES",
               "unidade": "SERV",
-              "quantidade": "2.500,00",
+              "quantidade": "1.875,00",
               "valor_referencia": "75,00"
             }
           ]
         },
         {
-          "numero": "6",
-          "titulo": "9903311384 PEÇA CIRÚRGICA COMPLEXA",
-          "fase": "HABILITAÇÃO",
+          "numero": "7",
+          "titulo": "9909911236 PEÇA CIRURGICA SIMPLES:PEÇA CIRURGICA SIMPLES. COTA DE 25% RESERVADA PARA ME/EPP",
+          "fase": "SUSPENSO",
+          "tipo": "UNITÁRIO",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "SIM",
+          "local_entrega": "",
+          "garantia": "",
+          "valor_referencia": "75,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9909911236 PEÇA CIRURGICA SIMPLES:PEÇA CIRURGICA SIMPLES. COTA DE 25% RESERVADA PARA ME/EPP",
+              "unidade": "SERV",
+              "quantidade": "625,00",
+              "valor_referencia": "75,00"
+            }
+          ]
+        },
+        {
+          "numero": "8",
+          "titulo": "9903311384 PEÇA CIRÚRGICA COMPLEXA:PEÇA CIRÚRGICA COMPLEXA",
+          "fase": "SUSPENSO",
           "tipo": "UNITÁRIO",
           "quantidade": "1",
           "intervalo_minimo": "0,00",
           "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
+          "local_entrega": "",
+          "garantia": "",
           "valor_referencia": "243,42",
           "vencedor": "",
           "melhor_oferta": "0,00",
@@ -272979,7 +273123,31 @@
               "numero": "1",
               "especificacao": "9903311384 PEÇA CIRÚRGICA COMPLEXA:PEÇA CIRÚRGICA COMPLEXA",
               "unidade": "UN",
-              "quantidade": "1.500,00",
+              "quantidade": "1.125,00",
+              "valor_referencia": "243,42"
+            }
+          ]
+        },
+        {
+          "numero": "9",
+          "titulo": "9909911237 PEÇA CIRURGICA COMPLEXA:PEÇA CIRURGICA COMPLEXA. COTA DE  25%  RESERVADA PARA ME/EPP.",
+          "fase": "SUSPENSO",
+          "tipo": "UNITÁRIO",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "SIM",
+          "local_entrega": "",
+          "garantia": "",
+          "valor_referencia": "243,42",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9909911237 PEÇA CIRURGICA COMPLEXA:PEÇA CIRURGICA COMPLEXA. COTA DE 25% RESERVADA PARA ME/EPP.",
+              "unidade": "SERV",
+              "quantidade": "375,00",
               "valor_referencia": "243,42"
             }
           ]
@@ -272991,38 +273159,38 @@
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "705/2024",
       "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "SUSPENSO",
-      "condutor": "VICTOR KINIDEL DETHLING",
+      "situacao": "HOMOLOGADO",
+      "condutor": "MAGDA DE SELES GUIMARÃES",
       "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
       "tipo_contrato": "AQUISIÇÃO",
-      "publicacao": "15/05/2024 18:26",
-      "inicio_recepcao": "16/05/2024 08:00",
-      "fim_recepcao": "12/06/2024 09:45",
-      "inicio_disputa": "12/06/2024 10:00",
-      "objeto": "Contratação de instituição financeira para prestação de serviços bancários para centralização, gerenciamento e processamento de créditos da folha de pagamento dos servidores, a fim de atender as demandas da Prefeitura de Teixeira de Freitas, conforme condições, quantidades e especificações no Edital, Termo de Referência e seus Anexos.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DuwJT_xh79n%2FVsYoF0xujOHmcj7HPrV%2FFET7czFI6APk6rDqSuyNyqF1mvWlWaASaBOv1VCfZ22gFKo8nL8RVs0HqLrPvvMLvSNpPY5FmHHs%3D",
+      "publicacao": "13/06/2024 18:49",
+      "inicio_recepcao": "14/06/2024 08:00",
+      "fim_recepcao": "10/07/2024 13:45",
+      "inicio_disputa": "10/07/2024 14:00",
+      "objeto": "O objeto da presente licitação é a contratação de INSTITUIÇÃO FINANCEIRA ESPECIALIZADA NA PRESTAÇÃO DE SERVIÇOS BANCÁRIOS PARA CENTRALIZAÇÃO, GERENCIAMENTO E PROCESSAMENTO DE CRÉDITOS DA FOLHA DE PAGAMENTO DOS SERVIDORES, a fim de atender as demandas da Secretaria Municipal de Administração, conforme condições, quantidades e especificações no Edital, Termo de Referência e seus Anexos.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DDOr8ToxUDqS4MtOWwFJMK6cQsCbXRPnSF5wiPpnB43i2QMdpeMD%2FCIQQelEwStvHnEVDDWCK_oU%2FLCbiGgw5lK7JJGIjFZuQFC3_kB6dcHQ%3D",
       "total_lotes": 1,
       "total_itens": 1,
       "lotes": [
         {
           "numero": "1",
-          "titulo": "LOTE 01",
-          "fase": "SUSPENSO",
-          "tipo": "UNITÁRIO",
+          "titulo": "SERVIÇOS BANCÁRIOS",
+          "fase": "HOMOLOGADO",
+          "tipo": "GLOBAL",
           "quantidade": "1",
-          "intervalo_minimo": "100,00",
+          "intervalo_minimo": "0,01",
           "exclusivo_me": "NÃO",
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "6.052.150,00",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
+          "vencedor": "ITAÚ UNIBANCO S.A.",
+          "melhor_oferta": "6.053.000,00",
           "total_itens": 1,
           "itens": [
             {
               "numero": "1",
               "especificacao": "CONTRATAÇÃO DE INSTITUIÇÃO FINANCEIRA: ESPECIALIZADA NA PRESTAÇÃO DE SERVIÇOS BANCÁRIOS PARA CENTRALIZAÇÃO, GERENCIAMENTO E PROCESSAMENTO DE CRÉDITOS DA FOLHA DE PAGAMENTO DOS SERVIDORES DA PREFEITURA MUNICIPAL DE TEIXEIRA DE FREITAS/BA.",
-              "unidade": "SERVIÇO",
+              "unidade": "UN",
               "quantidade": "1,00",
               "valor_referencia": "6.052.150,00"
             }
