@@ -2,9 +2,9 @@
   "metadata": {
     "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
     "total_processos": 820,
-    "total_lotes": 8849,
-    "total_itens": 15194,
-    "atualizado_em": "20260622_193521"
+    "total_lotes": 8846,
+    "total_itens": 15191,
+    "atualizado_em": "20260623_193506"
   },
   "processos": [
     {
@@ -255911,169 +255911,6 @@
       ]
     },
     {
-      "id": "2-DLE-039-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "254 / 2026",
-      "modalidade": "DISPENSA ELETRÔNICA",
-      "situacao": "JULGAMENTO",
-      "condutor": "ISAQUE SILVA DOS SANTOS",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO PARCELADA",
-      "publicacao": "28/04/2026 12:46",
-      "inicio_recepcao": "28/04/2026 13:00",
-      "fim_recepcao": "05/05/2026 08:15",
-      "inicio_disputa": "05/05/2026 08:30",
-      "objeto": "Contratação de empresa especializada em prestação de serviço de CONFECÇÃO DE CARIMBOS, a fim de atender as demandas da Secretaria Municipal de Administração e demais secretarias.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DLb4Gq6qMjluc%2FWjWl1GYwcmlX%2FMcqtA%2FifPST0Hl63IPLuHa_4sQHeu8%2FlVtCjfOWjUG8iIPJKWNagfkBUs_zqVRqoqa1ewOD27Y_o_onfQ%3D",
-      "total_lotes": 1,
-      "total_itens": 18,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "CARIMBOS",
-          "fase": "JULGAMENTO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "53.241,16",
-          "vencedor": "GRILO ART'S LTDA",
-          "melhor_oferta": "44.500,00",
-          "total_itens": 18,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900515510 BORRACHA PARA CARIMBOAUTOMÁTICO/RETRÁTIL:auto-entintável; todos os tamanhos.",
-              "unidade": "UND",
-              "quantidade": "164,00",
-              "valor_referencia": "22,25"
-            },
-            {
-              "numero": "2",
-              "especificacao": "9900515511 CARIMBO AUTOMATICO:10X27MM - CORES DIVERSAS.",
-              "unidade": "UND",
-              "quantidade": "24,00",
-              "valor_referencia": "50,05"
-            },
-            {
-              "numero": "3",
-              "especificacao": "9900515512 CARIMBO AUTOMATICO:14X38MM - CORES DIVERSAS.",
-              "unidade": "UND",
-              "quantidade": "48,00",
-              "valor_referencia": "47,75"
-            },
-            {
-              "numero": "4",
-              "especificacao": "9900515513 CARIMBO AUTOMATICO:18X47MM - CORES DIVERSAS.",
-              "unidade": "UND",
-              "quantidade": "20,00",
-              "valor_referencia": "42,55"
-            },
-            {
-              "numero": "5",
-              "especificacao": "9900515514 CARIMBO AUTOMATICO:23X59MM - CORES DIVERSAS.",
-              "unidade": "UND",
-              "quantidade": "20,00",
-              "valor_referencia": "50,43"
-            },
-            {
-              "numero": "6",
-              "especificacao": "9900515515 CARIMBO AUTOMATICO:30X69MM - CORES DIVERSAS.",
-              "unidade": "UND",
-              "quantidade": "20,00",
-              "valor_referencia": "56,28"
-            },
-            {
-              "numero": "7",
-              "especificacao": "9900515516 CARIMBO AUTOMATICO:34X74MM - CORES DIVERSAS.",
-              "unidade": "UND",
-              "quantidade": "20,00",
-              "valor_referencia": "57,23"
-            },
-            {
-              "numero": "8",
-              "especificacao": "9900515517 CARIMBO AUTOMATICO:37X76MM - CORES DIVERSAS.",
-              "unidade": "UND",
-              "quantidade": "24,00",
-              "valor_referencia": "58,42"
-            },
-            {
-              "numero": "9",
-              "especificacao": "9900515518 CARIMBO AUTOMÁTICO MÓBILE:CARIMBO AUTOMÁTICO MÓBILE.",
-              "unidade": "UND",
-              "quantidade": "24,00",
-              "valor_referencia": "66,23"
-            },
-            {
-              "numero": "10",
-              "especificacao": "9900515519 CARIMBO AUTOMÁTICO:PR 4724.",
-              "unidade": "UND",
-              "quantidade": "32,00",
-              "valor_referencia": "94,63"
-            },
-            {
-              "numero": "11",
-              "especificacao": "9900515520 CARIMBO AUTOMATICO:PR 4910/4911.",
-              "unidade": "UND",
-              "quantidade": "568,00",
-              "valor_referencia": "39,29"
-            },
-            {
-              "numero": "12",
-              "especificacao": "9900515521 CARIMBO AUTOMÁTICO:PR 4912.",
-              "unidade": "UND",
-              "quantidade": "60,00",
-              "valor_referencia": "47,90"
-            },
-            {
-              "numero": "13",
-              "especificacao": "9900515522 CARIMBO AUTOMÁTICO:PR 4913.",
-              "unidade": "UND",
-              "quantidade": "40,00",
-              "valor_referencia": "53,63"
-            },
-            {
-              "numero": "14",
-              "especificacao": "9900515523 CARIMBO AUTOMÁTICO:PR 4923.",
-              "unidade": "UND",
-              "quantidade": "40,00",
-              "valor_referencia": "70,03"
-            },
-            {
-              "numero": "15",
-              "especificacao": "9900515524 CARIMBO AUTOMÁTICO:PR 4924.",
-              "unidade": "UND",
-              "quantidade": "36,00",
-              "valor_referencia": "77,50"
-            },
-            {
-              "numero": "16",
-              "especificacao": "9900515525 CARIMBO AUTOMÁTICO:PR 4927.",
-              "unidade": "UND",
-              "quantidade": "28,00",
-              "valor_referencia": "73,47"
-            },
-            {
-              "numero": "17",
-              "especificacao": "9900515526 CARIMBO MADEIRA MÉDIO:carimbo material (corpo e calda) em madeira com base em borracha de silicone,médio, medindo 4x3cm.",
-              "unidade": "UND",
-              "quantidade": "16,00",
-              "valor_referencia": "29,32"
-            },
-            {
-              "numero": "18",
-              "especificacao": "9900515527 CARIMBO MADEIRA PEQUENO:carimbo material (corpo e calda) em madeira com base em borracha de silicone, pequeno, medindo 4x2cm.",
-              "unidade": "UND",
-              "quantidade": "16,00",
-              "valor_referencia": "31,00"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "PE-051-2026",
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "249 / 2026",
@@ -269585,74 +269422,6 @@
       ]
     },
     {
-      "id": "2-DLE-053-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "487 / 2026",
-      "modalidade": "DISPENSA ELETRÔNICA",
-      "situacao": "RECEPÇÃO DE PROPOSTAS",
-      "condutor": "ISLA LIMA SILVA",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO",
-      "publicacao": "17/06/2026 16:26",
-      "inicio_recepcao": "17/06/2026 16:31",
-      "fim_recepcao": "23/06/2026 08:15",
-      "inicio_disputa": "23/06/2026 08:30",
-      "objeto": "Contratação de empresa especializada em FORNECIMENTO DE ANTENA STARLINK E PRESTAÇÃO DE SERVIÇO DE PLANO DE INTERNET (material permanente) e (prestação de serviço), a fim de atender as demandas da Secretaria Municipal de Administração e demais secretarias.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5D7tSOuC8P4azm79JZ23W65rCOuFDERPq6rLrw4p2p7ondNs3%2FrtIwsqhJOMPTcWT_Lf9wyV8zgAeH%2Fdekg67CjVz3KkX7d4kA2uh9g2YM_F8%3D",
-      "total_lotes": 2,
-      "total_itens": 2,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "5707611164 Antena de Internet via Satélite Portátil - Starlink Mini:Terminal de internet via satélite portátil modelo Mini, composto por antena compacta de alto desempenho, roteador Wi- Fi integrado, fonte de alimentação, cabos e demais acessórios necessá",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "1.907,26",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "5707611164 Antena de Internet via Satélite Portátil - Starlink Mini:Terminal de internet via satélite portátil modelo Mini, composto por antena compacta de alto desempenho, roteador Wi- Fi integrado, fonte de alimentação, cabos e demais acessórios necessários ao pleno funcionamento do equipamento,compatível com a rede da empresa Starlink. O equipamento deverá permitir instalação simplificada, operação em campo e transporte facilitado, possibilitando acesso à internet banda larga em locais sem infraestrutura de conectividade terrestre, com tecnologia de comunicação via satélite de órbita baixa (LEO), baixa latência e conexão estável. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "UND",
-              "quantidade": "2,00",
-              "valor_referencia": "953,63"
-            }
-          ]
-        },
-        {
-          "numero": "2",
-          "titulo": "37316 Plano de Serviço de Internet via Satélite Starlink (Mobilidade/Viagem) 100mbs:Plano de prestação de serviço de internet via satélite na modalidade móvel/viagem, com franquia mensal de dados de 100 GB, destinado à utilização do terminal portátil desc",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "30.120,96",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37316 Plano de Serviço de Internet via Satélite Starlink (Mobilidade/Viagem) 100mbs:Plano de prestação de serviço de internet via satélite na modalidade móvel/viagem, com franquia mensal de dados de 100 GB, destinado à utilização do terminal portátil descrito no item anterior. O plano deverá possibilitar utilização em diferentes localidades dentro do território nacional, garantindo conectividade em deslocamentos, operações externas, eventos, visitas técnicas e demais atividades que demandem acesso remoto à internet, com ativação e gestão vinculadas ao equipamento contratado. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "MES",
-              "quantidade": "48,00",
-              "valor_referencia": "627,52"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "CE-012-2026",
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "599/2026",
@@ -270016,50 +269785,6 @@
               "unidade": "UN",
               "quantidade": "10,00",
               "valor_referencia": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "3-DLE-059-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "671 / 2026",
-      "modalidade": "DISPENSA ELETRÔNICA",
-      "situacao": "JULGAMENTO",
-      "condutor": "ISAQUE SILVA DOS SANTOS",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO PARCELADA",
-      "publicacao": "15/06/2026 18:02",
-      "inicio_recepcao": "15/06/2026 18:05",
-      "fim_recepcao": "18/06/2026 08:15",
-      "inicio_disputa": "18/06/2026 08:30",
-      "objeto": "Contratação de empresa especializada em fornecimento de SENSORES DE GLICOSE PARA MONITORAMENTO GLICÊMICO CONTÍNUO (material de consumo),  a fim de atender as demandas da Secretaria Municipal de Saúde.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5D2zU_cQF2bhmTWSyyXfNR%2FFqb5KSoGqmKoicOf%2FHJJOVgKbe2nDEjHgRC2Y4LNReyr2EYtYizR4w67Y9JLwifFndsHFW7OGGr0XBlv9bnh4E%3D",
-      "total_lotes": 1,
-      "total_itens": 1,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "SENSORES DE GLICOSE",
-          "fase": "JULGAMENTO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "55.547,52",
-          "vencedor": "AC DISTRIBUIDORA HOSPITALAR LTDA",
-          "melhor_oferta": "75.516,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900515816 SENSOR DE GLICOSE:FREESTYLE LIBRE 1",
-              "unidade": "UN",
-              "quantidade": "168,00",
-              "valor_referencia": "330,64"
             }
           ]
         }
@@ -272919,242 +272644,6 @@
       ]
     },
     {
-      "id": "CD-005-2025",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "758/2025",
-      "modalidade": "CREDENCIAMENTO",
-      "situacao": "SUSPENSO",
-      "condutor": "MAGDA DE SELES GUIMARÃES",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO",
-      "publicacao": "03/06/2025 11:48",
-      "inicio_recepcao": "13/06/2025 08:00",
-      "fim_recepcao": "15/06/2026 00:00",
-      "inicio_disputa": "",
-      "objeto": "Credenciamento de pessoa jurídica para PRESTAÇÃO DE SERVIÇOS\n MÉDICOS ESPECIALIZADOS EM ANÁLISE PATOLÓGICA para atender as demandas da\n Secretaria Municipal de Saúde.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DjK5fuEc68IoPgvaIjBQOT1fy%2FurdKNJbwDcE0%2FqKsyNdyO9cHQFxdYA4jhRudKdTD3dy3ALgnccj%2FbCqsp6qsU1nho3p6L%2F4VwkCE5aKjh8%3D",
-      "total_lotes": 9,
-      "total_itens": 9,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "33436 BIÓPSIA SIMPLES:BIÓPSIA SIMPLES",
-          "fase": "SUSPENSO",
-          "tipo": "UNITÁRIO",
-          "quantidade": "1",
-          "intervalo_minimo": "0,00",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "",
-          "garantia": "",
-          "valor_referencia": "60,19",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "33436 BIÓPSIA SIMPLES:BIÓPSIA SIMPLES",
-              "unidade": "SERV",
-              "quantidade": "1.875,00",
-              "valor_referencia": "60,19"
-            }
-          ]
-        },
-        {
-          "numero": "2",
-          "titulo": "909911235 BIOPSIA SIMPLES:BIÓPSIA SIMPLES. COTA DE 25% RESERVADA PARA  ME/EPP.",
-          "fase": "SUSPENSO",
-          "tipo": "UNITÁRIO",
-          "quantidade": "1",
-          "intervalo_minimo": "0,00",
-          "exclusivo_me": "SIM",
-          "local_entrega": "",
-          "garantia": "",
-          "valor_referencia": "60,19",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "909911235 BIOPSIA SIMPLES:BIÓPSIA SIMPLES. COTA DE 25% RESERVADA PARA ME/EPP.",
-              "unidade": "SERV",
-              "quantidade": "625,00",
-              "valor_referencia": "60,19"
-            }
-          ]
-        },
-        {
-          "numero": "2",
-          "titulo": "909911235 BIOPSIA SIMPLES:BIÓPSIA SIMPLES. COTA DE 25% RESERVADA PARA  ME/EPP.",
-          "fase": "SUSPENSO",
-          "tipo": "UNITÁRIO",
-          "quantidade": "1",
-          "intervalo_minimo": "0,00",
-          "exclusivo_me": "SIM",
-          "local_entrega": "",
-          "garantia": "",
-          "valor_referencia": "60,19",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "909911235 BIOPSIA SIMPLES:BIÓPSIA SIMPLES. COTA DE 25% RESERVADA PARA ME/EPP.",
-              "unidade": "SERV",
-              "quantidade": "625,00",
-              "valor_referencia": "60,19"
-            }
-          ]
-        },
-        {
-          "numero": "4",
-          "titulo": "9903311373 COLORAÇÃO ESPECIAL:Marcação da biópsia por corantes especiais. EXCLUSIVO PARA ME/EPP",
-          "fase": "SUSPENSO",
-          "tipo": "UNITÁRIO",
-          "quantidade": "1",
-          "intervalo_minimo": "0,00",
-          "exclusivo_me": "SIM",
-          "local_entrega": "",
-          "garantia": "",
-          "valor_referencia": "33,65",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9903311373 COLORAÇÃO ESPECIAL:Marcação da biópsia por corantes especiais. EXCLUSIVO PARA ME/EPP",
-              "unidade": "SERV",
-              "quantidade": "50,00",
-              "valor_referencia": "33,65"
-            }
-          ]
-        },
-        {
-          "numero": "4",
-          "titulo": "9903311373 COLORAÇÃO ESPECIAL:Marcação da biópsia por corantes especiais. EXCLUSIVO PARA ME/EPP",
-          "fase": "SUSPENSO",
-          "tipo": "UNITÁRIO",
-          "quantidade": "1",
-          "intervalo_minimo": "0,00",
-          "exclusivo_me": "SIM",
-          "local_entrega": "",
-          "garantia": "",
-          "valor_referencia": "33,65",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9903311373 COLORAÇÃO ESPECIAL:Marcação da biópsia por corantes especiais. EXCLUSIVO PARA ME/EPP",
-              "unidade": "SERV",
-              "quantidade": "50,00",
-              "valor_referencia": "33,65"
-            }
-          ]
-        },
-        {
-          "numero": "6",
-          "titulo": "33437 PEÇA CIRÚRGICA SIMPLES:PEÇA CIRÚRGICA SIMPLES",
-          "fase": "SUSPENSO",
-          "tipo": "UNITÁRIO",
-          "quantidade": "1",
-          "intervalo_minimo": "0,00",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "",
-          "garantia": "",
-          "valor_referencia": "75,00",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "33437 PEÇA CIRÚRGICA SIMPLES:PEÇA CIRÚRGICA SIMPLES",
-              "unidade": "SERV",
-              "quantidade": "1.875,00",
-              "valor_referencia": "75,00"
-            }
-          ]
-        },
-        {
-          "numero": "7",
-          "titulo": "9909911236 PEÇA CIRURGICA SIMPLES:PEÇA CIRURGICA SIMPLES. COTA DE 25% RESERVADA PARA ME/EPP",
-          "fase": "SUSPENSO",
-          "tipo": "UNITÁRIO",
-          "quantidade": "1",
-          "intervalo_minimo": "0,00",
-          "exclusivo_me": "SIM",
-          "local_entrega": "",
-          "garantia": "",
-          "valor_referencia": "75,00",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9909911236 PEÇA CIRURGICA SIMPLES:PEÇA CIRURGICA SIMPLES. COTA DE 25% RESERVADA PARA ME/EPP",
-              "unidade": "SERV",
-              "quantidade": "625,00",
-              "valor_referencia": "75,00"
-            }
-          ]
-        },
-        {
-          "numero": "8",
-          "titulo": "9903311384 PEÇA CIRÚRGICA COMPLEXA:PEÇA CIRÚRGICA COMPLEXA",
-          "fase": "SUSPENSO",
-          "tipo": "UNITÁRIO",
-          "quantidade": "1",
-          "intervalo_minimo": "0,00",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "",
-          "garantia": "",
-          "valor_referencia": "243,42",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9903311384 PEÇA CIRÚRGICA COMPLEXA:PEÇA CIRÚRGICA COMPLEXA",
-              "unidade": "UN",
-              "quantidade": "1.125,00",
-              "valor_referencia": "243,42"
-            }
-          ]
-        },
-        {
-          "numero": "9",
-          "titulo": "9909911237 PEÇA CIRURGICA COMPLEXA:PEÇA CIRURGICA COMPLEXA. COTA DE  25%  RESERVADA PARA ME/EPP.",
-          "fase": "SUSPENSO",
-          "tipo": "UNITÁRIO",
-          "quantidade": "1",
-          "intervalo_minimo": "0,00",
-          "exclusivo_me": "SIM",
-          "local_entrega": "",
-          "garantia": "",
-          "valor_referencia": "243,42",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9909911237 PEÇA CIRURGICA COMPLEXA:PEÇA CIRURGICA COMPLEXA. COTA DE 25% RESERVADA PARA ME/EPP.",
-              "unidade": "SERV",
-              "quantidade": "375,00",
-              "valor_referencia": "243,42"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "PE-027-2024",
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "705/2024",
@@ -273193,6 +272682,445 @@
               "unidade": "UN",
               "quantidade": "1,00",
               "valor_referencia": "6.052.150,00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2-DLE-053-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "487 / 2026",
+      "modalidade": "DISPENSA ELETRÔNICA",
+      "situacao": "JULGAMENTO",
+      "condutor": "ISLA LIMA SILVA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO",
+      "publicacao": "17/06/2026 16:26",
+      "inicio_recepcao": "17/06/2026 16:31",
+      "fim_recepcao": "23/06/2026 08:15",
+      "inicio_disputa": "23/06/2026 08:30",
+      "objeto": "Contratação de empresa especializada em FORNECIMENTO DE ANTENA STARLINK E PRESTAÇÃO DE SERVIÇO DE PLANO DE INTERNET (material permanente) e (prestação de serviço), a fim de atender as demandas da Secretaria Municipal de Administração e demais secretarias.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DBwhXZe33gs0VEmnDu0soEwMsdsgFf38eJCrNJRE71xsRt_sTEJuX88_qi5lZioo4f89et%2FVNbUeiBZ6RCatX9MYb%2FYUjJKxOThbflcSgYlo%3D",
+      "total_lotes": 2,
+      "total_itens": 2,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "5707611164 Antena de Internet via Satélite Portátil - Starlink Mini:Terminal de internet via satélite portátil modelo Mini, composto por antena compacta de alto desempenho, roteador Wi- Fi integrado, fonte de alimentação, cabos e demais acessórios necessá",
+          "fase": "JULGAMENTO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "1.907,26",
+          "vencedor": "E2 SOLUÇÕES EM TECNOLOGIA LTDA",
+          "melhor_oferta": "1.609,99",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "5707611164 Antena de Internet via Satélite Portátil - Starlink Mini:Terminal de internet via satélite portátil modelo Mini, composto por antena compacta de alto desempenho, roteador Wi- Fi integrado, fonte de alimentação, cabos e demais acessórios necessários ao pleno funcionamento do equipamento,compatível com a rede da empresa Starlink. O equipamento deverá permitir instalação simplificada, operação em campo e transporte facilitado, possibilitando acesso à internet banda larga em locais sem infraestrutura de conectividade terrestre, com tecnologia de comunicação via satélite de órbita baixa (LEO), baixa latência e conexão estável. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "2,00",
+              "valor_referencia": "953,63"
+            }
+          ]
+        },
+        {
+          "numero": "2",
+          "titulo": "37316 Plano de Serviço de Internet via Satélite Starlink (Mobilidade/Viagem) 100mbs:Plano de prestação de serviço de internet via satélite na modalidade móvel/viagem, com franquia mensal de dados de 100 GB, destinado à utilização do terminal portátil desc",
+          "fase": "JULGAMENTO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "30.120,96",
+          "vencedor": "ELÉTRON NET VARIEDADES LTDA",
+          "melhor_oferta": "25.980,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37316 Plano de Serviço de Internet via Satélite Starlink (Mobilidade/Viagem) 100mbs:Plano de prestação de serviço de internet via satélite na modalidade móvel/viagem, com franquia mensal de dados de 100 GB, destinado à utilização do terminal portátil descrito no item anterior. O plano deverá possibilitar utilização em diferentes localidades dentro do território nacional, garantindo conectividade em deslocamentos, operações externas, eventos, visitas técnicas e demais atividades que demandem acesso remoto à internet, com ativação e gestão vinculadas ao equipamento contratado. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "MES",
+              "quantidade": "48,00",
+              "valor_referencia": "627,52"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3-DLE-059-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "671 / 2026",
+      "modalidade": "DISPENSA ELETRÔNICA",
+      "situacao": "FRACASSADO",
+      "condutor": "ISAQUE SILVA DOS SANTOS",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO PARCELADA",
+      "publicacao": "15/06/2026 18:02",
+      "inicio_recepcao": "15/06/2026 18:05",
+      "fim_recepcao": "18/06/2026 08:15",
+      "inicio_disputa": "18/06/2026 08:30",
+      "objeto": "Contratação de empresa especializada em fornecimento de SENSORES DE GLICOSE PARA MONITORAMENTO GLICÊMICO CONTÍNUO (material de consumo),  a fim de atender as demandas da Secretaria Municipal de Saúde.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DwVjdorL7V9zc6ZbBSNGRW9GHu2xaaimGAa4JmRqFJfzaPBSrMXXsQ23MLNuHPrK%2FMcS9JaqQ%2FgUksMI54Rp98P5nUTGVUVXB3H1WNuBJjpA%3D",
+      "total_lotes": 1,
+      "total_itens": 1,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "SENSORES DE GLICOSE",
+          "fase": "FRACASSADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "55.547,52",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515816 SENSOR DE GLICOSE:FREESTYLE LIBRE 1",
+              "unidade": "UN",
+              "quantidade": "168,00",
+              "valor_referencia": "330,64"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2-DLE-039-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "254 / 2026",
+      "modalidade": "DISPENSA ELETRÔNICA",
+      "situacao": "HABILITAÇÃO",
+      "condutor": "ISAQUE SILVA DOS SANTOS",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO PARCELADA",
+      "publicacao": "28/04/2026 12:46",
+      "inicio_recepcao": "28/04/2026 13:00",
+      "fim_recepcao": "05/05/2026 08:15",
+      "inicio_disputa": "05/05/2026 08:30",
+      "objeto": "Contratação de empresa especializada em prestação de serviço de CONFECÇÃO DE CARIMBOS, a fim de atender as demandas da Secretaria Municipal de Administração e demais secretarias.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DSgJBGTPZNWoQDthD%2FBvN8KlaY4hSAq1dGe6wPzulkTBZyWMFiaBay6ZQCArB826eVvH5k0a_Eu25eN%2Fw282tcENTVzC74FwMtZeZgGrXvT8%3D",
+      "total_lotes": 1,
+      "total_itens": 18,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "CARIMBOS",
+          "fase": "EM ADJUDICAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "53.241,16",
+          "vencedor": "JUNIO GOMES DOS SANTOS",
+          "melhor_oferta": "45.900,00",
+          "total_itens": 18,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515510 BORRACHA PARA CARIMBOAUTOMÁTICO/RETRÁTIL:auto-entintável; todos os tamanhos.",
+              "unidade": "UND",
+              "quantidade": "164,00",
+              "valor_referencia": "22,25"
+            },
+            {
+              "numero": "2",
+              "especificacao": "9900515511 CARIMBO AUTOMATICO:10X27MM - CORES DIVERSAS.",
+              "unidade": "UND",
+              "quantidade": "24,00",
+              "valor_referencia": "50,05"
+            },
+            {
+              "numero": "3",
+              "especificacao": "9900515512 CARIMBO AUTOMATICO:14X38MM - CORES DIVERSAS.",
+              "unidade": "UND",
+              "quantidade": "48,00",
+              "valor_referencia": "47,75"
+            },
+            {
+              "numero": "4",
+              "especificacao": "9900515513 CARIMBO AUTOMATICO:18X47MM - CORES DIVERSAS.",
+              "unidade": "UND",
+              "quantidade": "20,00",
+              "valor_referencia": "42,55"
+            },
+            {
+              "numero": "5",
+              "especificacao": "9900515514 CARIMBO AUTOMATICO:23X59MM - CORES DIVERSAS.",
+              "unidade": "UND",
+              "quantidade": "20,00",
+              "valor_referencia": "50,43"
+            },
+            {
+              "numero": "6",
+              "especificacao": "9900515515 CARIMBO AUTOMATICO:30X69MM - CORES DIVERSAS.",
+              "unidade": "UND",
+              "quantidade": "20,00",
+              "valor_referencia": "56,28"
+            },
+            {
+              "numero": "7",
+              "especificacao": "9900515516 CARIMBO AUTOMATICO:34X74MM - CORES DIVERSAS.",
+              "unidade": "UND",
+              "quantidade": "20,00",
+              "valor_referencia": "57,23"
+            },
+            {
+              "numero": "8",
+              "especificacao": "9900515517 CARIMBO AUTOMATICO:37X76MM - CORES DIVERSAS.",
+              "unidade": "UND",
+              "quantidade": "24,00",
+              "valor_referencia": "58,42"
+            },
+            {
+              "numero": "9",
+              "especificacao": "9900515518 CARIMBO AUTOMÁTICO MÓBILE:CARIMBO AUTOMÁTICO MÓBILE.",
+              "unidade": "UND",
+              "quantidade": "24,00",
+              "valor_referencia": "66,23"
+            },
+            {
+              "numero": "10",
+              "especificacao": "9900515519 CARIMBO AUTOMÁTICO:PR 4724.",
+              "unidade": "UND",
+              "quantidade": "32,00",
+              "valor_referencia": "94,63"
+            },
+            {
+              "numero": "11",
+              "especificacao": "9900515520 CARIMBO AUTOMATICO:PR 4910/4911.",
+              "unidade": "UND",
+              "quantidade": "568,00",
+              "valor_referencia": "39,29"
+            },
+            {
+              "numero": "12",
+              "especificacao": "9900515521 CARIMBO AUTOMÁTICO:PR 4912.",
+              "unidade": "UND",
+              "quantidade": "60,00",
+              "valor_referencia": "47,90"
+            },
+            {
+              "numero": "13",
+              "especificacao": "9900515522 CARIMBO AUTOMÁTICO:PR 4913.",
+              "unidade": "UND",
+              "quantidade": "40,00",
+              "valor_referencia": "53,63"
+            },
+            {
+              "numero": "14",
+              "especificacao": "9900515523 CARIMBO AUTOMÁTICO:PR 4923.",
+              "unidade": "UND",
+              "quantidade": "40,00",
+              "valor_referencia": "70,03"
+            },
+            {
+              "numero": "15",
+              "especificacao": "9900515524 CARIMBO AUTOMÁTICO:PR 4924.",
+              "unidade": "UND",
+              "quantidade": "36,00",
+              "valor_referencia": "77,50"
+            },
+            {
+              "numero": "16",
+              "especificacao": "9900515525 CARIMBO AUTOMÁTICO:PR 4927.",
+              "unidade": "UND",
+              "quantidade": "28,00",
+              "valor_referencia": "73,47"
+            },
+            {
+              "numero": "17",
+              "especificacao": "9900515526 CARIMBO MADEIRA MÉDIO:carimbo material (corpo e calda) em madeira com base em borracha de silicone,médio, medindo 4x3cm.",
+              "unidade": "UND",
+              "quantidade": "16,00",
+              "valor_referencia": "29,32"
+            },
+            {
+              "numero": "18",
+              "especificacao": "9900515527 CARIMBO MADEIRA PEQUENO:carimbo material (corpo e calda) em madeira com base em borracha de silicone, pequeno, medindo 4x2cm.",
+              "unidade": "UND",
+              "quantidade": "16,00",
+              "valor_referencia": "31,00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CD-005-2025",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "758/2025",
+      "modalidade": "CREDENCIAMENTO",
+      "situacao": "EM FINALIZAÇÃO",
+      "condutor": "MAGDA DE SELES GUIMARÃES",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO",
+      "publicacao": "03/06/2025 16:35",
+      "inicio_recepcao": "13/06/2025 08:00",
+      "fim_recepcao": "15/06/2026 08:00",
+      "inicio_disputa": "",
+      "objeto": "CREDENCIAMENTO DE PESSOA JURÍDICA PARA PRESTAÇÃO DE SERVIÇOS MÉDICOS ESPECIALIZADOS EM ANÁLISE PATOLÓGICA PARA ATENDER AS DEMANDAS DA SECRETARIA MUNICIPAL DE SAÚDE",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5Dt6tjV5ZD9ua3TAeYmHM_df2ksgug3AbgRS_5Uji4zP3ig31NIeLcTDUeOOF5VIWme6zv3SM0rRtX8jIvEUqmAdSuPvhXmXiTOg5JBIOgsk4%3D",
+      "total_lotes": 6,
+      "total_itens": 6,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "33436 BIÓPSIA SIMPLES",
+          "fase": "HABILITAÇÃO",
+          "tipo": "UNITÁRIO",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "60,19",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "33436 BIÓPSIA SIMPLES:BIÓPSIA SIMPLES",
+              "unidade": "SERV",
+              "quantidade": "2.500,00",
+              "valor_referencia": "60,19"
+            }
+          ]
+        },
+        {
+          "numero": "1",
+          "titulo": "33436 BIÓPSIA SIMPLES",
+          "fase": "HABILITAÇÃO",
+          "tipo": "UNITÁRIO",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "60,19",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "33436 BIÓPSIA SIMPLES:BIÓPSIA SIMPLES",
+              "unidade": "SERV",
+              "quantidade": "2.500,00",
+              "valor_referencia": "60,19"
+            }
+          ]
+        },
+        {
+          "numero": "1",
+          "titulo": "33436 BIÓPSIA SIMPLES",
+          "fase": "HABILITAÇÃO",
+          "tipo": "UNITÁRIO",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "60,19",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "33436 BIÓPSIA SIMPLES:BIÓPSIA SIMPLES",
+              "unidade": "SERV",
+              "quantidade": "2.500,00",
+              "valor_referencia": "60,19"
+            }
+          ]
+        },
+        {
+          "numero": "2",
+          "titulo": "9903311392 CITOLOGIA EM MEIO LIQUIDO",
+          "fase": "HABILITAÇÃO",
+          "tipo": "UNITÁRIO",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "62,25",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9903311392 CITOLOGIA EM MEIO LIQUIDO - BRONQUIO:CITOLOGIA EM MEIO LIQUIDO - BRONQUIO.",
+              "unidade": "SERV",
+              "quantidade": "100,00",
+              "valor_referencia": "62,25"
+            }
+          ]
+        },
+        {
+          "numero": "3",
+          "titulo": "9903311373 COLORAÇÃO ESPECIAL",
+          "fase": "HABILITAÇÃO",
+          "tipo": "UNITÁRIO",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "33,65",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9903311373 COLORAÇÃO ESPECIAL: Marcação da biópsia por corantes especiais.",
+              "unidade": "SERV",
+              "quantidade": "50,00",
+              "valor_referencia": "33,65"
+            }
+          ]
+        },
+        {
+          "numero": "5",
+          "titulo": "33437 PEÇA CIRÚRGICA SIMPLES",
+          "fase": "HABILITAÇÃO",
+          "tipo": "UNITÁRIO",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "75,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "33437 PEÇA CIRÚRGICA SIMPLES:PEÇA CIRÚRGICA SIMPLES",
+              "unidade": "SERV",
+              "quantidade": "2.500,00",
+              "valor_referencia": "75,00"
             }
           ]
         }

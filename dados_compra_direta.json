@@ -1,9 +1,9 @@
 {
   "metadata": {
     "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-    "total_registros": 688,
-    "total_itens": 2387,
-    "atualizado_em": "20260618_193911"
+    "total_registros": 689,
+    "total_itens": 2389,
+    "atualizado_em": "20260623_193744"
   },
   "registros": [
     {
@@ -39009,6 +39009,48 @@
           "marca": "NÃO SE APLICA",
           "modelo": "NÃO SE APLICA",
           "valor": "4000,0000"
+        }
+      ]
+    },
+    {
+      "id": "2IL-120-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "743/2026",
+      "modalidade": "INEXIGIBILIDADE",
+      "status": "CONCLUÍDA",
+      "coordenador": "ISLA LIMA SILVA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "ano_referencia": "2026",
+      "data_publicacao": "23/06/2026 08:37:36",
+      "data_conclusao": "23/06/2026 08:58:23",
+      "artigo": "Art. 74º",
+      "inciso": "IV",
+      "justificativa": "Art. 74, IV, da Lei Federal nº 14.133/2021, Decreto Municipal nº 85.2024 e demais legislações e regulamentos específicos.",
+      "legislacao": "Lei nº 14.133",
+      "objeto": "Empresa especializada em SERVIÇOS DE ARBITROS E MESÁRIOS PARA EVENTOS ESPORTIVOS MUNICIPAIS, a fim de atender as demandas da Secretaria Municipal de Esporte e Lazer.",
+      "observacao": "",
+      "link": "https://bllcompras.com/DirectBuy/DirectBuyView?param1=%5Bgkz%5DdYYcpxdsLbI1kUcBvsTsIaGCXhohAtcojQY38NGP9DSzCDCNxUIRfxK2oP8PgvqNqmpgNxhJzoqH47n2fmyqaHy28n750mrqRZADVkj14OA%3D",
+      "total_itens": 2,
+      "itens": [
+        {
+          "numero": "1",
+          "descricao": "9903312079 Contratação de Árbitros: especializado em lutas de Karaté para atuar nas lutas do Campeonato Baiano Karaté Interestilos",
+          "quantidade": "20,0000",
+          "unidade": "SERV",
+          "fornecedor": "ASSOCIACAO DOS ARBITROS DE TEIXEIRA DE FREITAS",
+          "marca": "NÃO SE APLICA",
+          "modelo": "NÃO SE APLICA",
+          "valor": "170,6000"
+        },
+        {
+          "numero": "2",
+          "descricao": "9903312080 Contratação de Mesários: especializado em lutas de Karaté para atuar nas lutas do Campeonato Baiano Karaté Interestilos.",
+          "quantidade": "20,0000",
+          "unidade": "SERV",
+          "fornecedor": "ASSOCIACAO DOS ARBITROS DE TEIXEIRA DE FREITAS",
+          "marca": "NÃO SE APLICA",
+          "modelo": "NÃO SE APLICA",
+          "valor": "170,6000"
         }
       ]
     }
