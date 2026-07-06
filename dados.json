@@ -2,9 +2,9 @@
   "metadata": {
     "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
     "total_processos": 824,
-    "total_lotes": 9062,
-    "total_itens": 15440,
-    "atualizado_em": "20260701_193505"
+    "total_lotes": 9065,
+    "total_itens": 15443,
+    "atualizado_em": "20260706_130216"
   },
   "processos": [
     {
@@ -271013,50 +271013,6 @@
       ]
     },
     {
-      "id": "PE-097-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "408 / 2026",
-      "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "RECEPÇÃO DE PROPOSTAS",
-      "condutor": "SERGIO CARNEIRO CAVALCANTI DE AZEVEDO",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO",
-      "publicacao": "18/06/2026 16:15",
-      "inicio_recepcao": "22/06/2026 08:30",
-      "fim_recepcao": "03/07/2026 08:15",
-      "inicio_disputa": "03/07/2026 08:30",
-      "objeto": "Contratação de empresa especializada em fornecimento de CARRINHOS COLETORES DE LIMPEZA (material permanente), a fim de atender as demandas da Secretaria Municipal de Educação.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DrkqJeadkPjfpXlE4jXe7nK8rV53W2bNw%2F9K0yxMer0Ot5rOzt40cTHW2rBxtGAhCfSWNoxJBwG5j4b_pqlkSXoPK%2F654yuQ8LWdA49SRSj8%3D",
-      "total_lotes": 1,
-      "total_itens": 1,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "CARRINHOS COLETORES DE LIMPEZA",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900830484 CARRINHO FUNCIONAL DE LIMPEZAPROFISSIONAL:tipo kit completo com coletor de resíduos,destinado à limpeza úmida e seca de pisos em ambientesescolares e administrativos, adequado para superfícies comocerâmica, porcelanato, granilite, paviflex, cimento queimado,entre outros, com estrutura resistente em plástico de altadurabilidade (PEAD ou PP), com design tipo caminhão grande,dotado de compartimentos para organização de utensílios ecaçamba móvel basculante para coleta de resíduos, comcapacidade entre 50 e 120 litros e encaixe para saco ou cesto delixo, equipado com no mínimo 4 (quatro) e até 6 (seis) rodasgiratórias que permitam fácil movimentação e estabilidade, comdimensões mínimas aproximadas de 50 x 22 x 22 cm, devendoacompanhar balde duplo com capacidade mínima de 30 litroscom sistema de espremedor, cabo em alumínio comcomprimento aproximado de 1,40 m, haste tipo euro em materialplástico resistente, refil mop úmido em algodão ou microfibracom gramatura mínima de 300 g, conjunto mop pó com armaçãoe refil com largura mínima de 60 cm, pá coletora de resíduos eplaca sinalizadora de segurança tipo \"piso molhado\",disponibilizado em cores como azul, cinza ou similar, atendendoàs normas aplicáveis da ANVISA e da ABNT para uso emambientes institucionais.",
-              "unidade": "UN",
-              "quantidade": "220,00",
-              "valor_referencia": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "PE-079-2026",
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "327 / 2026",
@@ -272358,85 +272314,6 @@
               "unidade": "Und.",
               "quantidade": "25,00",
               "valor_referencia": "429,82"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "CE-004-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "185/2026",
-      "modalidade": "CONCORRÊNCIA ELETRÔNICA",
-      "situacao": "ADJUDICADO",
-      "condutor": "DAVIDSON ARAUJO SANTOS",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO PARCELADA",
-      "publicacao": "16/03/2026 20:13",
-      "inicio_recepcao": "17/03/2026 08:00",
-      "fim_recepcao": "23/04/2026 08:15",
-      "inicio_disputa": "23/04/2026 08:30",
-      "objeto": "Contratação de empresa especializada em execução de obras de microdrenagem e pavimentação em diversas ruas do bairro Monte Castelo (2ª etapa), no município de Teixeira de Freitas – BA.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5D1ryrkYZxCRkZtOu6Vk4FH2C5IYkh%2FWYSZXVj3upb4VAkWmPl8%2FLBI6RHFYyCayDzNoJ8KTIXHwPY2fG6m6HqE5La6pDk4hFSO%2F2_THqCeqM%3D",
-      "total_lotes": 1,
-      "total_itens": 6,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "EXECUÇÃO DE OBRAS DE MICRODRENAGEM E PAVIMENTAÇÃO EM DIVERSAS RUAS DO BAIRRO MONTE CASTELO (2ª ETAPA)",
-          "fase": "ADJUDICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "1.000,00",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "12.747.769,18",
-          "vencedor": "BULOKE CONSTRUCAO E SERVICOS LTDA",
-          "melhor_oferta": "12.740.620,92",
-          "total_itens": 6,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "ADMINISTRAÇÃO LOCAL DE OBRA",
-              "unidade": "UNIDADE",
-              "quantidade": "1,00",
-              "valor_referencia": "356.230,44"
-            },
-            {
-              "numero": "2",
-              "especificacao": "SERVIÇOS PRELIMINARES",
-              "unidade": "UNIDADE",
-              "quantidade": "1,00",
-              "valor_referencia": "50.978,62"
-            },
-            {
-              "numero": "3",
-              "especificacao": "PAVIMENTAÇÃO",
-              "unidade": "UNIDADE",
-              "quantidade": "1,00",
-              "valor_referencia": "7.895.149,82"
-            },
-            {
-              "numero": "4",
-              "especificacao": "MICRODRENAGEM",
-              "unidade": "UNIDADE",
-              "quantidade": "1,00",
-              "valor_referencia": "2.474.734,34"
-            },
-            {
-              "numero": "5",
-              "especificacao": "SERVIÇOS COMPLEMENTARES",
-              "unidade": "UNIDADE",
-              "quantidade": "1,00",
-              "valor_referencia": "1.960.985,96"
-            },
-            {
-              "numero": "6",
-              "especificacao": "SERVIÇOS FINAIS",
-              "unidade": "UNIDADE",
-              "quantidade": "1,00",
-              "valor_referencia": "9.690,00"
             }
           ]
         }
@@ -274486,288 +274363,6 @@
               "unidade": "KG",
               "quantidade": "10.000,00",
               "valor_referencia": "6,34"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "PE-103-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "152 / 2026",
-      "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "PUBLICADO",
-      "condutor": "SERGIO CARNEIRO CAVALCANTI DE AZEVEDO",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "REGISTRO DE PREÇO",
-      "publicacao": "01/07/2026 16:13",
-      "inicio_recepcao": "06/07/2026 08:30",
-      "fim_recepcao": "20/07/2026 09:15",
-      "inicio_disputa": "20/07/2026 09:30",
-      "objeto": "Contratação de empresa especializada em FORNECIMENTO, INSTALAÇÃO E MANUTENÇÃO DE\nESQUADRIAS DE VIDRO, a fim de atender as demandas da Secretaria Municipal de Infraestrutura e Serviços Urbanos.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DazTBxSyt4X6l%2FCxZfXpJODub4nmfaLFZ0FBVB6svz_cmMAmYtNpAZNKstp8OHht6M0V0hltcPkr4zlLzbt4UjE5a9hFHJEwah1jZEHIleaI%3D",
-      "total_lotes": 1,
-      "total_itens": 35,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "ESQUADRIAS DE VIDRO",
-          "fase": "PUBLICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 35,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900502006 FECHADURA ELETRONICA PARA PORTA DE VIDRO:FECHADURA ELETRONICA PARA PORTA DE VIDRO",
-              "unidade": "UND",
-              "quantidade": "12,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "2",
-              "especificacao": "9900502007 FECHADURA PARA PORTA EXTERNA DE VIDRO PIVOTANTE:FECHADURA PARA PORTA EXTERNA DE VIDRO PIVOTANTE",
-              "unidade": "UND",
-              "quantidade": "52,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "3",
-              "especificacao": "805000003 JANELA BASCULANTE DE VIDRO TEMPERADO8MM 0,40X0,50 M COM INSTALAÇÃO E TODA A FERRAGEM NECESSÁRIA:JANELA BASCULANTE DE VIDRO TEMPERADO 8MM 0,40X0,50 M COM INSTALAÇÃO E TODA A FERRAGEM NECESSÁRIA.",
-              "unidade": "UND",
-              "quantidade": "20,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "4",
-              "especificacao": "805000004 JANELA BASCULANTE DE VIDRO TEMPERADO8MM 0,60X0,50 M COM INSTALAÇÃO E TODA A FERRAGEM NECESSÁRIA:JANELA BASCULANTE DE VIDRO TEMPERADO 8MM 0,60X0,50 M COM INSTALAÇÃO E TODA A FERRAGEM NECESSÁRIA.",
-              "unidade": "UND",
-              "quantidade": "20,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "5",
-              "especificacao": "805000005 JANELA BASCULANTE DE VIDRO TEMPERADO8MM 0,80X0,50 COM INSTALAÇÃO E TODA A FERRAGEM NECESSÁRIA:JANELA BASCULANTE DE VIDRO TEMPERADO 8MM 0,80X0,50 COM INSTALAÇÃO E TODA A FERRAGEM NECESSÁRIA.",
-              "unidade": "UND",
-              "quantidade": "20,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "6",
-              "especificacao": "805000006 JANELA DE VIDRO TEMPERADO DE CORRER, DUAS FOLHAS 6MM 1,00x1,10 M COM INSTALAÇÃO E TODA A FERRAGEM NECESSÁRIA:JANELA DE VIDRO TEMPERADO DE CORRER, DUAS FOLHAS 6MM 1,00x1,10 M COM INSTALAÇÃO E TODA A FERRAGEM NECESSÁRIA.",
-              "unidade": "UND",
-              "quantidade": "32,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "7",
-              "especificacao": "805000007 JANELA DE VIDRO TEMPERADO DE CORRER, DUAS FOLHAS 6MM 1,20x1,10 M COM INSTALAÇÃO E TODA A FERRAGEM NECESSÁRIA:JANELA DE VIDRO TEMPERADO DE CORRER, DUAS FOLHAS 6MM 1,20x1,10 M COM INSTALAÇÃO E TODA A FERRAGEM NECESSÁRIA.",
-              "unidade": "UND",
-              "quantidade": "28,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "8",
-              "especificacao": "805000008 JANELA DE VIDRO TEMPERADO DE CORRER, DUAS FOLHAS 6MM 1,50x1,10 M COM INSTALAÇÃO E TODA A FERRAGEM NECESSÁRIA:JANELA DE VIDRO TEMPERADO DE CORRER, DUAS FOLHAS 6MM 1,50x1,10 M COM INSTALAÇÃO E TODA A FERRAGEM NECESSÁRIA.",
-              "unidade": "UND",
-              "quantidade": "28,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "9",
-              "especificacao": "805000009 JANELA DE VIDRO TEMPERADO DE CORRER, QUATRO FOLHAS 6MM 2,00x1,10M COM INSTALAÇÃO COM INSTALAÇÃO E TODA A FERRAGEM NECESSÁRIA:JANELA DE VIDRO TEMPERADO DE CORRER, QUATRO FOLHAS 6MM 2,00x1,10M COM INSTALAÇÃO COM INSTALAÇÃO E TODA A FERRAGEM NECESSÁRIA.",
-              "unidade": "UND",
-              "quantidade": "20,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "10",
-              "especificacao": "805500002 KIT DE FERRAGENS PARA A JANELA BASCULANTE DE VIDRO TEMPERADO 8MM 0,40X0,50M:KIT DE FERRAGENS PARA A JANELA BASCULANTE DE VIDRO TEMPERADO 8MM 0,40X0,50M",
-              "unidade": "UND",
-              "quantidade": "24,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "11",
-              "especificacao": "805500003 KIT DE FERRAGENS PARA A JANELA BASCULANTE DE VIDRO TEMPERADO 8MM 0,60X0,50 M:KIT DE FERRAGENS PARA A JANELA BASCULANTE DE VIDRO TEMPERADO 8MM 0,60X0,50 M",
-              "unidade": "UND",
-              "quantidade": "20,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "12",
-              "especificacao": "805500004 KIT DE FERRAGENS PARA A JANELA BASCULANTE DE VIDRO TEMPERADO 8MM 0,80X0,50 M:KIT DE FERRAGENS PARA A JANELA BASCULANTE DE VIDRO TEMPERADO 8MM 0,80X0,50 M",
-              "unidade": "UND",
-              "quantidade": "20,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "13",
-              "especificacao": "805500005 KIT DE FERRAGENS PARA A JANELA DE VIDRO TEMPERADO DE CORRER, DUAS FOLHAS 6MM 1,00x1,10 M:KIT DE FERRAGENS PARA A JANELA DE VIDRO TEMPERADO DE CORRER, DUAS FOLHAS 6MM 1,00x1,10 M",
-              "unidade": "UND",
-              "quantidade": "24,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "14",
-              "especificacao": "805500006 KIT DE FERRAGENS PARA A JANELA DE VIDRO TEMPERADO DE CORRER, DUAS FOLHAS 6MM 1,20x1,10 M:KIT DE FERRAGENS PARA A JANELA DE VIDRO TEMPERADO DE CORRER, DUAS FOLHAS 6MM 1,20x1,10 M",
-              "unidade": "UND",
-              "quantidade": "32,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "15",
-              "especificacao": "805500007 KIT DE FERRAGENS PARA A JANELA DE VIDRO TEMPERADO DE CORRER, DUAS FOLHAS 6MM 1,50x1,10 M:KIT DE FERRAGENS PARA A JANELA DE VIDRO TEMPERADO DE CORRER, DUAS FOLHAS 6MM 1,50x1,10 M",
-              "unidade": "UND",
-              "quantidade": "28,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "16",
-              "especificacao": "805500008 KIT DE FERRAGENS PARA A JANELA DE VIDRO TEMPERADO DE CORRER, QUATRO FOLHAS 6MM 2,00x1,10 M:KIT DE FERRAGENS PARA A JANELA DE VIDRO TEMPERADO DE CORRER, QUATRO FOLHAS 6MM 2,00x1,10 M",
-              "unidade": "UND",
-              "quantidade": "20,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "17",
-              "especificacao": "805500009 KIT DE DOBRADIÇA PARA PORTA DE VIDRO TEMPERADO DE CORRER, DUAS FOLHAS 10MM 3,00X2,10 M:KIT DE DOBRADIÇA PARA PORTA DE VIDRO TEMPERADO DE CORRER, DUAS FOLHAS 10MM 3,00X2,10 M",
-              "unidade": "UND",
-              "quantidade": "20,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "18",
-              "especificacao": "805500010 KIT DE FERRAGENS PARA A PORTA DE VIDRO TEMPERADO 10MM 0,80X2,10 M:KIT DE FERRAGENS PARA A PORTA DE VIDRO TEMPERADO 10MM 0,80X2,10 M",
-              "unidade": "UND",
-              "quantidade": "20,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "19",
-              "especificacao": "805500011 KIT DE FERRAGENS PARA A PORTA DE VIDRO TEMPERADO 10MM 1,00X2,10 M:KIT DE FERRAGENS PARA A PORTA DE VIDRO TEMPERADO 10MM 1,00X2,10 M",
-              "unidade": "UND",
-              "quantidade": "24,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "20",
-              "especificacao": "805500012 KIT DE FERRAGENS PARA A PORTA DE VIDRO TEMPERADO DE CORRER, DUAS FOLHAS 10MM 1,20X2,10 M:KIT DE FERRAGENS PARA A PORTA DE VIDRO TEMPERADO DE CORRER, DUAS FOLHAS 10MM 1,20X2,10 M",
-              "unidade": "UND",
-              "quantidade": "20,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "21",
-              "especificacao": "805500013 KIT DE FERRAGENS PARA A PORTA DE VIDRO TEMPERADO DE CORRER, DUAS FOLHAS 10MM 2,00X2,10 M:KIT DE FERRAGENS PARA A PORTA DE VIDRO TEMPERADO DE CORRER, DUAS FOLHAS 10MM 2,00X2,10 M",
-              "unidade": "UND",
-              "quantidade": "24,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "22",
-              "especificacao": "9902900153 MANUTENÇÃO EM PORTAS E JANELAS DE VIDRO:MANUTENÇÃO EM PORTAS E JANELAS DE VIDRO.",
-              "unidade": "SER",
-              "quantidade": "600,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "23",
-              "especificacao": "805500014 MOLA HIDRAULICA DE PISO PARA PORTA DE VIDRO TEMPERADO:MOLA HIDRAULICA DE PISO PARA PORTA DE VIDRO TEMPERADO",
-              "unidade": "UND",
-              "quantidade": "28,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "24",
-              "especificacao": "805000010 PORTA DE VIDRO TEMPERADO 10MM 0,80X2,10 M COM INSTALAÇÃO:PORTA DE VIDRO TEMPERADO 10MM 0,80X2,10 M COM INSTALAÇÃO",
-              "unidade": "UND",
-              "quantidade": "40,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "25",
-              "especificacao": "805000011 PORTA DE VIDRO TEMPERADO 10MM 0,90X2,10 M COM INSTALAÇÃO:PORTA DE VIDRO TEMPERADO 10MM 0,90X2,10 M COM INSTALAÇÃO",
-              "unidade": "UND",
-              "quantidade": "28,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "26",
-              "especificacao": "805000012 PORTA DE VIDRO TEMPERADO 10MM 1,00X2,10 M COM INSTALAÇÃO:PORTA DE VIDRO TEMPERADO 10MM 1,00X2,10 M COM INSTALAÇÃO",
-              "unidade": "UND",
-              "quantidade": "36,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "27",
-              "especificacao": "805000013 PORTA DE VIDRO TEMPERADO DE CORRER, DUAS FOLHAS 10MM 1,10X2,10 M COM INSTALAÇÃO E TODA A FERRAGEM NECESSÁRIA:PORTA DE VIDRO TEMPERADO DE CORRER, DUAS FOLHAS 10MM 1,10X2,10 M COM INSTALAÇÃO E TODA A FERRAGEM NECESSÁRIA.",
-              "unidade": "UND",
-              "quantidade": "28,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "28",
-              "especificacao": "805000014 PORTA DE VIDRO TEMPERADO DE CORRER, DUAS FOLHAS 10MM 1,20X2,10 M COM INSTALAÇÃO E TODA A FERRAGEM NECESSÁRIA:PORTA DE VIDRO TEMPERADO DE CORRER, DUAS FOLHAS 10MM 1,20X2,10 M COM INSTALAÇÃO E TODA A FERRAGEM NECESSÁRIA.",
-              "unidade": "UND",
-              "quantidade": "20,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "29",
-              "especificacao": "805000015 PORTA DE VIDRO TEMPERADO DE CORRER, DUAS FOLHAS 10MM 2,00X2,10 M COM INSTALAÇÃO E TODA A FERRAGEM NECESSÁRIA:PORTA DE VIDRO TEMPERADO DE CORRER, DUAS FOLHAS 10MM 2,00X2,10 M COM INSTALAÇÃO E TODA A FERRAGEM NECESSÁRIA.",
-              "unidade": "UND",
-              "quantidade": "20,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "30",
-              "especificacao": "805000016 PORTA DE VIDRO TEMPERADO DE CORRER, DUAS FOLHAS 10MM 3,00X2,10 M COM INSTALAÇÃO E TODA A FERRAGEM NECESSÁRIA:PORTA DE VIDRO TEMPERADO DE CORRER, DUAS FOLHAS 10MM 3,00X2,10 M COM INSTALAÇÃO E TODA A FERRAGEM NECESSÁRIA.",
-              "unidade": "UND",
-              "quantidade": "20,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "31",
-              "especificacao": "805500015 PUXADOR PARA PORTA DE VIDRO TEMPERADO10MM 0,80X2,10 M:PUXADOR PARA PORTA DE VIDRO TEMPERADO 10MM 0,80X2,10 M",
-              "unidade": "UND",
-              "quantidade": "40,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "32",
-              "especificacao": "805500016 PUXADOR PARA PORTA DE VIDRO TEMPERADO 10MM 1,00X2,10 M:PUXADOR PARA PORTA DE VIDRO TEMPERADO 10MM 1,00X2,10 M",
-              "unidade": "UND",
-              "quantidade": "32,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "33",
-              "especificacao": "805500017 PUXADOR PARA PORTA DE VIDRO TEMPERADO DE CORRER, DUAS FOLHAS 10MM 1,20X2,10 M:PUXADOR PARA PORTA DE VIDRO TEMPERADO DE CORRER, DUAS FOLHAS 10MM 1,20X2,10 M",
-              "unidade": "UND",
-              "quantidade": "36,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "34",
-              "especificacao": "805500018 PUXADOR PARA PORTA DE VIDRO PUXADOR PARA PORTA DE VIDRO TEMPERADO DE CORRER, DUAS FOLHAS 10MM 2,00X2,10 M:PUXADOR PARA PORTA DE VIDRO PUXADOR PARA PORTA DE VIDRO TEMPERADO DE CORRER, DUAS FOLHAS 10MM 2,00X2,10 M",
-              "unidade": "UND",
-              "quantidade": "20,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "35",
-              "especificacao": "805500019 PUXADOR PARA PORTA DE VIDRO TEMPERADO DE CORRER, DUAS FOLHAS 10MM 3,00X2,10 M:PUXADOR PARA PORTA DE VIDRO TEMPERADO DE CORRER, DUAS FOLHAS 10MM 3,00X2,10 M",
-              "unidade": "UND",
-              "quantidade": "20,00",
-              "valor_referencia": ""
             }
           ]
         }
@@ -278414,33 +278009,438 @@
       ]
     },
     {
-      "id": "CD-005-2025",
+      "id": "PE-103-2026",
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "758/2025",
-      "modalidade": "CREDENCIAMENTO",
-      "situacao": "EM FINALIZAÇÃO",
-      "condutor": "MAGDA DE SELES GUIMARÃES",
+      "numero_adm": "152 / 2026",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "RECEPÇÃO DE PROPOSTAS",
+      "condutor": "SERGIO CARNEIRO CAVALCANTI DE AZEVEDO",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "REGISTRO DE PREÇO",
+      "publicacao": "01/07/2026 16:13",
+      "inicio_recepcao": "06/07/2026 08:30",
+      "fim_recepcao": "20/07/2026 09:15",
+      "inicio_disputa": "20/07/2026 09:30",
+      "objeto": "Contratação de empresa especializada em FORNECIMENTO, INSTALAÇÃO E MANUTENÇÃO DE\nESQUADRIAS DE VIDRO, a fim de atender as demandas da Secretaria Municipal de Infraestrutura e Serviços Urbanos.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DCifXwIXcRo3LXGRGGqtSJbTJiTnVpY8IbfxmtKycDv6GORMIepRD2iU63uz59H10b8U1cmrc_sXZXXnbYRqRD6CFlTYV_pFPED0A9JXYVtM%3D",
+      "total_lotes": 1,
+      "total_itens": 35,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "ESQUADRIAS DE VIDRO",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 35,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900502006 FECHADURA ELETRONICA PARA PORTA DE VIDRO:FECHADURA ELETRONICA PARA PORTA DE VIDRO",
+              "unidade": "UND",
+              "quantidade": "12,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "2",
+              "especificacao": "9900502007 FECHADURA PARA PORTA EXTERNA DE VIDRO PIVOTANTE:FECHADURA PARA PORTA EXTERNA DE VIDRO PIVOTANTE",
+              "unidade": "UND",
+              "quantidade": "52,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "3",
+              "especificacao": "805000003 JANELA BASCULANTE DE VIDRO TEMPERADO8MM 0,40X0,50 M COM INSTALAÇÃO E TODA A FERRAGEM NECESSÁRIA:JANELA BASCULANTE DE VIDRO TEMPERADO 8MM 0,40X0,50 M COM INSTALAÇÃO E TODA A FERRAGEM NECESSÁRIA.",
+              "unidade": "UND",
+              "quantidade": "20,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "4",
+              "especificacao": "805000004 JANELA BASCULANTE DE VIDRO TEMPERADO8MM 0,60X0,50 M COM INSTALAÇÃO E TODA A FERRAGEM NECESSÁRIA:JANELA BASCULANTE DE VIDRO TEMPERADO 8MM 0,60X0,50 M COM INSTALAÇÃO E TODA A FERRAGEM NECESSÁRIA.",
+              "unidade": "UND",
+              "quantidade": "20,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "5",
+              "especificacao": "805000005 JANELA BASCULANTE DE VIDRO TEMPERADO8MM 0,80X0,50 COM INSTALAÇÃO E TODA A FERRAGEM NECESSÁRIA:JANELA BASCULANTE DE VIDRO TEMPERADO 8MM 0,80X0,50 COM INSTALAÇÃO E TODA A FERRAGEM NECESSÁRIA.",
+              "unidade": "UND",
+              "quantidade": "20,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "6",
+              "especificacao": "805000006 JANELA DE VIDRO TEMPERADO DE CORRER, DUAS FOLHAS 6MM 1,00x1,10 M COM INSTALAÇÃO E TODA A FERRAGEM NECESSÁRIA:JANELA DE VIDRO TEMPERADO DE CORRER, DUAS FOLHAS 6MM 1,00x1,10 M COM INSTALAÇÃO E TODA A FERRAGEM NECESSÁRIA.",
+              "unidade": "UND",
+              "quantidade": "32,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "7",
+              "especificacao": "805000007 JANELA DE VIDRO TEMPERADO DE CORRER, DUAS FOLHAS 6MM 1,20x1,10 M COM INSTALAÇÃO E TODA A FERRAGEM NECESSÁRIA:JANELA DE VIDRO TEMPERADO DE CORRER, DUAS FOLHAS 6MM 1,20x1,10 M COM INSTALAÇÃO E TODA A FERRAGEM NECESSÁRIA.",
+              "unidade": "UND",
+              "quantidade": "28,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "8",
+              "especificacao": "805000008 JANELA DE VIDRO TEMPERADO DE CORRER, DUAS FOLHAS 6MM 1,50x1,10 M COM INSTALAÇÃO E TODA A FERRAGEM NECESSÁRIA:JANELA DE VIDRO TEMPERADO DE CORRER, DUAS FOLHAS 6MM 1,50x1,10 M COM INSTALAÇÃO E TODA A FERRAGEM NECESSÁRIA.",
+              "unidade": "UND",
+              "quantidade": "28,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "9",
+              "especificacao": "805000009 JANELA DE VIDRO TEMPERADO DE CORRER, QUATRO FOLHAS 6MM 2,00x1,10M COM INSTALAÇÃO COM INSTALAÇÃO E TODA A FERRAGEM NECESSÁRIA:JANELA DE VIDRO TEMPERADO DE CORRER, QUATRO FOLHAS 6MM 2,00x1,10M COM INSTALAÇÃO COM INSTALAÇÃO E TODA A FERRAGEM NECESSÁRIA.",
+              "unidade": "UND",
+              "quantidade": "20,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "10",
+              "especificacao": "805500002 KIT DE FERRAGENS PARA A JANELA BASCULANTE DE VIDRO TEMPERADO 8MM 0,40X0,50M:KIT DE FERRAGENS PARA A JANELA BASCULANTE DE VIDRO TEMPERADO 8MM 0,40X0,50M",
+              "unidade": "UND",
+              "quantidade": "24,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "11",
+              "especificacao": "805500003 KIT DE FERRAGENS PARA A JANELA BASCULANTE DE VIDRO TEMPERADO 8MM 0,60X0,50 M:KIT DE FERRAGENS PARA A JANELA BASCULANTE DE VIDRO TEMPERADO 8MM 0,60X0,50 M",
+              "unidade": "UND",
+              "quantidade": "20,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "12",
+              "especificacao": "805500004 KIT DE FERRAGENS PARA A JANELA BASCULANTE DE VIDRO TEMPERADO 8MM 0,80X0,50 M:KIT DE FERRAGENS PARA A JANELA BASCULANTE DE VIDRO TEMPERADO 8MM 0,80X0,50 M",
+              "unidade": "UND",
+              "quantidade": "20,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "13",
+              "especificacao": "805500005 KIT DE FERRAGENS PARA A JANELA DE VIDRO TEMPERADO DE CORRER, DUAS FOLHAS 6MM 1,00x1,10 M:KIT DE FERRAGENS PARA A JANELA DE VIDRO TEMPERADO DE CORRER, DUAS FOLHAS 6MM 1,00x1,10 M",
+              "unidade": "UND",
+              "quantidade": "24,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "14",
+              "especificacao": "805500006 KIT DE FERRAGENS PARA A JANELA DE VIDRO TEMPERADO DE CORRER, DUAS FOLHAS 6MM 1,20x1,10 M:KIT DE FERRAGENS PARA A JANELA DE VIDRO TEMPERADO DE CORRER, DUAS FOLHAS 6MM 1,20x1,10 M",
+              "unidade": "UND",
+              "quantidade": "32,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "15",
+              "especificacao": "805500007 KIT DE FERRAGENS PARA A JANELA DE VIDRO TEMPERADO DE CORRER, DUAS FOLHAS 6MM 1,50x1,10 M:KIT DE FERRAGENS PARA A JANELA DE VIDRO TEMPERADO DE CORRER, DUAS FOLHAS 6MM 1,50x1,10 M",
+              "unidade": "UND",
+              "quantidade": "28,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "16",
+              "especificacao": "805500008 KIT DE FERRAGENS PARA A JANELA DE VIDRO TEMPERADO DE CORRER, QUATRO FOLHAS 6MM 2,00x1,10 M:KIT DE FERRAGENS PARA A JANELA DE VIDRO TEMPERADO DE CORRER, QUATRO FOLHAS 6MM 2,00x1,10 M",
+              "unidade": "UND",
+              "quantidade": "20,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "17",
+              "especificacao": "805500009 KIT DE DOBRADIÇA PARA PORTA DE VIDRO TEMPERADO DE CORRER, DUAS FOLHAS 10MM 3,00X2,10 M:KIT DE DOBRADIÇA PARA PORTA DE VIDRO TEMPERADO DE CORRER, DUAS FOLHAS 10MM 3,00X2,10 M",
+              "unidade": "UND",
+              "quantidade": "20,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "18",
+              "especificacao": "805500010 KIT DE FERRAGENS PARA A PORTA DE VIDRO TEMPERADO 10MM 0,80X2,10 M:KIT DE FERRAGENS PARA A PORTA DE VIDRO TEMPERADO 10MM 0,80X2,10 M",
+              "unidade": "UND",
+              "quantidade": "20,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "19",
+              "especificacao": "805500011 KIT DE FERRAGENS PARA A PORTA DE VIDRO TEMPERADO 10MM 1,00X2,10 M:KIT DE FERRAGENS PARA A PORTA DE VIDRO TEMPERADO 10MM 1,00X2,10 M",
+              "unidade": "UND",
+              "quantidade": "24,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "20",
+              "especificacao": "805500012 KIT DE FERRAGENS PARA A PORTA DE VIDRO TEMPERADO DE CORRER, DUAS FOLHAS 10MM 1,20X2,10 M:KIT DE FERRAGENS PARA A PORTA DE VIDRO TEMPERADO DE CORRER, DUAS FOLHAS 10MM 1,20X2,10 M",
+              "unidade": "UND",
+              "quantidade": "20,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "21",
+              "especificacao": "805500013 KIT DE FERRAGENS PARA A PORTA DE VIDRO TEMPERADO DE CORRER, DUAS FOLHAS 10MM 2,00X2,10 M:KIT DE FERRAGENS PARA A PORTA DE VIDRO TEMPERADO DE CORRER, DUAS FOLHAS 10MM 2,00X2,10 M",
+              "unidade": "UND",
+              "quantidade": "24,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "22",
+              "especificacao": "9902900153 MANUTENÇÃO EM PORTAS E JANELAS DE VIDRO:MANUTENÇÃO EM PORTAS E JANELAS DE VIDRO.",
+              "unidade": "SER",
+              "quantidade": "600,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "23",
+              "especificacao": "805500014 MOLA HIDRAULICA DE PISO PARA PORTA DE VIDRO TEMPERADO:MOLA HIDRAULICA DE PISO PARA PORTA DE VIDRO TEMPERADO",
+              "unidade": "UND",
+              "quantidade": "28,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "24",
+              "especificacao": "805000010 PORTA DE VIDRO TEMPERADO 10MM 0,80X2,10 M COM INSTALAÇÃO:PORTA DE VIDRO TEMPERADO 10MM 0,80X2,10 M COM INSTALAÇÃO",
+              "unidade": "UND",
+              "quantidade": "40,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "25",
+              "especificacao": "805000011 PORTA DE VIDRO TEMPERADO 10MM 0,90X2,10 M COM INSTALAÇÃO:PORTA DE VIDRO TEMPERADO 10MM 0,90X2,10 M COM INSTALAÇÃO",
+              "unidade": "UND",
+              "quantidade": "28,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "26",
+              "especificacao": "805000012 PORTA DE VIDRO TEMPERADO 10MM 1,00X2,10 M COM INSTALAÇÃO:PORTA DE VIDRO TEMPERADO 10MM 1,00X2,10 M COM INSTALAÇÃO",
+              "unidade": "UND",
+              "quantidade": "36,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "27",
+              "especificacao": "805000013 PORTA DE VIDRO TEMPERADO DE CORRER, DUAS FOLHAS 10MM 1,10X2,10 M COM INSTALAÇÃO E TODA A FERRAGEM NECESSÁRIA:PORTA DE VIDRO TEMPERADO DE CORRER, DUAS FOLHAS 10MM 1,10X2,10 M COM INSTALAÇÃO E TODA A FERRAGEM NECESSÁRIA.",
+              "unidade": "UND",
+              "quantidade": "28,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "28",
+              "especificacao": "805000014 PORTA DE VIDRO TEMPERADO DE CORRER, DUAS FOLHAS 10MM 1,20X2,10 M COM INSTALAÇÃO E TODA A FERRAGEM NECESSÁRIA:PORTA DE VIDRO TEMPERADO DE CORRER, DUAS FOLHAS 10MM 1,20X2,10 M COM INSTALAÇÃO E TODA A FERRAGEM NECESSÁRIA.",
+              "unidade": "UND",
+              "quantidade": "20,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "29",
+              "especificacao": "805000015 PORTA DE VIDRO TEMPERADO DE CORRER, DUAS FOLHAS 10MM 2,00X2,10 M COM INSTALAÇÃO E TODA A FERRAGEM NECESSÁRIA:PORTA DE VIDRO TEMPERADO DE CORRER, DUAS FOLHAS 10MM 2,00X2,10 M COM INSTALAÇÃO E TODA A FERRAGEM NECESSÁRIA.",
+              "unidade": "UND",
+              "quantidade": "20,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "30",
+              "especificacao": "805000016 PORTA DE VIDRO TEMPERADO DE CORRER, DUAS FOLHAS 10MM 3,00X2,10 M COM INSTALAÇÃO E TODA A FERRAGEM NECESSÁRIA:PORTA DE VIDRO TEMPERADO DE CORRER, DUAS FOLHAS 10MM 3,00X2,10 M COM INSTALAÇÃO E TODA A FERRAGEM NECESSÁRIA.",
+              "unidade": "UND",
+              "quantidade": "20,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "31",
+              "especificacao": "805500015 PUXADOR PARA PORTA DE VIDRO TEMPERADO10MM 0,80X2,10 M:PUXADOR PARA PORTA DE VIDRO TEMPERADO 10MM 0,80X2,10 M",
+              "unidade": "UND",
+              "quantidade": "40,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "32",
+              "especificacao": "805500016 PUXADOR PARA PORTA DE VIDRO TEMPERADO 10MM 1,00X2,10 M:PUXADOR PARA PORTA DE VIDRO TEMPERADO 10MM 1,00X2,10 M",
+              "unidade": "UND",
+              "quantidade": "32,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "33",
+              "especificacao": "805500017 PUXADOR PARA PORTA DE VIDRO TEMPERADO DE CORRER, DUAS FOLHAS 10MM 1,20X2,10 M:PUXADOR PARA PORTA DE VIDRO TEMPERADO DE CORRER, DUAS FOLHAS 10MM 1,20X2,10 M",
+              "unidade": "UND",
+              "quantidade": "36,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "34",
+              "especificacao": "805500018 PUXADOR PARA PORTA DE VIDRO PUXADOR PARA PORTA DE VIDRO TEMPERADO DE CORRER, DUAS FOLHAS 10MM 2,00X2,10 M:PUXADOR PARA PORTA DE VIDRO PUXADOR PARA PORTA DE VIDRO TEMPERADO DE CORRER, DUAS FOLHAS 10MM 2,00X2,10 M",
+              "unidade": "UND",
+              "quantidade": "20,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "35",
+              "especificacao": "805500019 PUXADOR PARA PORTA DE VIDRO TEMPERADO DE CORRER, DUAS FOLHAS 10MM 3,00X2,10 M:PUXADOR PARA PORTA DE VIDRO TEMPERADO DE CORRER, DUAS FOLHAS 10MM 3,00X2,10 M",
+              "unidade": "UND",
+              "quantidade": "20,00",
+              "valor_referencia": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-097-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "408 / 2026",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "JULGAMENTO",
+      "condutor": "SERGIO CARNEIRO CAVALCANTI DE AZEVEDO",
       "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
       "tipo_contrato": "AQUISIÇÃO",
-      "publicacao": "03/06/2025 16:35",
-      "inicio_recepcao": "13/06/2025 08:00",
-      "fim_recepcao": "15/06/2026 08:00",
-      "inicio_disputa": "",
-      "objeto": "CREDENCIAMENTO DE PESSOA JURÍDICA PARA PRESTAÇÃO DE SERVIÇOS MÉDICOS ESPECIALIZADOS EM ANÁLISE PATOLÓGICA PARA ATENDER AS DEMANDAS DA SECRETARIA MUNICIPAL DE SAÚDE",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DmjsqTEh5P%2F%2FFO%2F_xyY%2F5Vj%2FWLWWdKVheb4sbs1eTQgtF035LIsfObDD2CRG7RjMswbljdmX7R4xYwso9j42%2Fhz%2F3KZn1ZhRb_%2FyWQdp8xlw%3D",
-      "total_lotes": 6,
+      "publicacao": "18/06/2026 16:15",
+      "inicio_recepcao": "22/06/2026 08:30",
+      "fim_recepcao": "03/07/2026 08:15",
+      "inicio_disputa": "03/07/2026 08:30",
+      "objeto": "Contratação de empresa especializada em fornecimento de CARRINHOS COLETORES DE LIMPEZA (material permanente), a fim de atender as demandas da Secretaria Municipal de Educação.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DbYlhgMA8AEkOWYREEJMBbTHyRdzWa%2FAJs4E8iuLb7q3DxmzGycdeN4iiZBbwt44kNxqXxvEJ4ZVIr5oznvICKtVT8aspQqNqwvBv83oY2u0%3D",
+      "total_lotes": 1,
+      "total_itens": 1,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "CARRINHOS COLETORES DE LIMPEZA",
+          "fase": "JULGAMENTO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "344.841,20",
+          "vencedor": "TRS COMERCIO DE PRODUTOS HOSPITALARES LTDA",
+          "melhor_oferta": "344.841,20",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900830484 CARRINHO FUNCIONAL DE LIMPEZAPROFISSIONAL:tipo kit completo com coletor de resíduos,destinado à limpeza úmida e seca de pisos em ambientesescolares e administrativos, adequado para superfícies comocerâmica, porcelanato, granilite, paviflex, cimento queimado,entre outros, com estrutura resistente em plástico de altadurabilidade (PEAD ou PP), com design tipo caminhão grande,dotado de compartimentos para organização de utensílios ecaçamba móvel basculante para coleta de resíduos, comcapacidade entre 50 e 120 litros e encaixe para saco ou cesto delixo, equipado com no mínimo 4 (quatro) e até 6 (seis) rodasgiratórias que permitam fácil movimentação e estabilidade, comdimensões mínimas aproximadas de 50 x 22 x 22 cm, devendoacompanhar balde duplo com capacidade mínima de 30 litroscom sistema de espremedor, cabo em alumínio comcomprimento aproximado de 1,40 m, haste tipo euro em materialplástico resistente, refil mop úmido em algodão ou microfibracom gramatura mínima de 300 g, conjunto mop pó com armaçãoe refil com largura mínima de 60 cm, pá coletora de resíduos eplaca sinalizadora de segurança tipo \"piso molhado\",disponibilizado em cores como azul, cinza ou similar, atendendoàs normas aplicáveis da ANVISA e da ABNT para uso emambientes institucionais.",
+              "unidade": "UN",
+              "quantidade": "220,00",
+              "valor_referencia": "1.567,46"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CE-004-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "185/2026",
+      "modalidade": "CONCORRÊNCIA ELETRÔNICA",
+      "situacao": "HOMOLOGADO",
+      "condutor": "DAVIDSON ARAUJO SANTOS",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO PARCELADA",
+      "publicacao": "16/03/2026 20:13",
+      "inicio_recepcao": "17/03/2026 08:00",
+      "fim_recepcao": "23/04/2026 08:15",
+      "inicio_disputa": "23/04/2026 08:30",
+      "objeto": "Contratação de empresa especializada em execução de obras de microdrenagem e pavimentação em diversas ruas do bairro Monte Castelo (2ª etapa), no município de Teixeira de Freitas – BA.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DLfOyDDlb8TzNMvrW07vKqKw3KOsZLN%2FcP0ec5on1tQjFV9xrMemCC3OsTaSnwLZTMehvtYmGRQtCc240nBWjDTAFbvAn23WsYzIXeioMu9c%3D",
+      "total_lotes": 1,
       "total_itens": 6,
       "lotes": [
         {
           "numero": "1",
-          "titulo": "33436 BIÓPSIA SIMPLES",
-          "fase": "HABILITAÇÃO",
+          "titulo": "EXECUÇÃO DE OBRAS DE MICRODRENAGEM E PAVIMENTAÇÃO EM DIVERSAS RUAS DO BAIRRO MONTE CASTELO (2ª ETAPA)",
+          "fase": "HOMOLOGADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "1.000,00",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "12.747.769,18",
+          "vencedor": "BULOKE CONSTRUCAO E SERVICOS LTDA",
+          "melhor_oferta": "12.740.620,92",
+          "total_itens": 6,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "ADMINISTRAÇÃO LOCAL DE OBRA",
+              "unidade": "UNIDADE",
+              "quantidade": "1,00",
+              "valor_referencia": "356.230,44"
+            },
+            {
+              "numero": "2",
+              "especificacao": "SERVIÇOS PRELIMINARES",
+              "unidade": "UNIDADE",
+              "quantidade": "1,00",
+              "valor_referencia": "50.978,62"
+            },
+            {
+              "numero": "3",
+              "especificacao": "PAVIMENTAÇÃO",
+              "unidade": "UNIDADE",
+              "quantidade": "1,00",
+              "valor_referencia": "7.895.149,82"
+            },
+            {
+              "numero": "4",
+              "especificacao": "MICRODRENAGEM",
+              "unidade": "UNIDADE",
+              "quantidade": "1,00",
+              "valor_referencia": "2.474.734,34"
+            },
+            {
+              "numero": "5",
+              "especificacao": "SERVIÇOS COMPLEMENTARES",
+              "unidade": "UNIDADE",
+              "quantidade": "1,00",
+              "valor_referencia": "1.960.985,96"
+            },
+            {
+              "numero": "6",
+              "especificacao": "SERVIÇOS FINAIS",
+              "unidade": "UNIDADE",
+              "quantidade": "1,00",
+              "valor_referencia": "9.690,00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CD-005-2025",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "758/2025",
+      "modalidade": "CREDENCIAMENTO",
+      "situacao": "SUSPENSO",
+      "condutor": "MAGDA DE SELES GUIMARÃES",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO",
+      "publicacao": "03/06/2025 11:48",
+      "inicio_recepcao": "13/06/2025 08:00",
+      "fim_recepcao": "15/06/2026 00:00",
+      "inicio_disputa": "",
+      "objeto": "Credenciamento de pessoa jurídica para PRESTAÇÃO DE SERVIÇOS\n MÉDICOS ESPECIALIZADOS EM ANÁLISE PATOLÓGICA para atender as demandas da\n Secretaria Municipal de Saúde.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DujrO0ENORjAiDwzyXy3ICPrQfk9WNbw6glbsFytWAAMqIRQIoJZxSFj%2F_dCBIC7EuzZq18Uv6pXkohKQJ7IsJu74LpGmXLjN7PAegXTrG3s%3D",
+      "total_lotes": 9,
+      "total_itens": 9,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "33436 BIÓPSIA SIMPLES:BIÓPSIA SIMPLES",
+          "fase": "SUSPENSO",
           "tipo": "UNITÁRIO",
           "quantidade": "1",
           "intervalo_minimo": "0,00",
           "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
+          "local_entrega": "",
+          "garantia": "",
           "valor_referencia": "60,19",
           "vencedor": "",
           "melhor_oferta": "0,00",
@@ -278450,45 +278450,45 @@
               "numero": "1",
               "especificacao": "33436 BIÓPSIA SIMPLES:BIÓPSIA SIMPLES",
               "unidade": "SERV",
-              "quantidade": "2.500,00",
+              "quantidade": "1.875,00",
               "valor_referencia": "60,19"
             }
           ]
         },
         {
           "numero": "2",
-          "titulo": "9903311392 CITOLOGIA EM MEIO LIQUIDO",
-          "fase": "HABILITAÇÃO",
+          "titulo": "909911235 BIOPSIA SIMPLES:BIÓPSIA SIMPLES. COTA DE 25% RESERVADA PARA  ME/EPP.",
+          "fase": "SUSPENSO",
           "tipo": "UNITÁRIO",
           "quantidade": "1",
           "intervalo_minimo": "0,00",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "62,25",
+          "exclusivo_me": "SIM",
+          "local_entrega": "",
+          "garantia": "",
+          "valor_referencia": "60,19",
           "vencedor": "",
           "melhor_oferta": "0,00",
           "total_itens": 1,
           "itens": [
             {
               "numero": "1",
-              "especificacao": "9903311392 CITOLOGIA EM MEIO LIQUIDO - BRONQUIO:CITOLOGIA EM MEIO LIQUIDO - BRONQUIO.",
+              "especificacao": "909911235 BIOPSIA SIMPLES:BIÓPSIA SIMPLES. COTA DE 25% RESERVADA PARA ME/EPP.",
               "unidade": "SERV",
-              "quantidade": "100,00",
-              "valor_referencia": "62,25"
+              "quantidade": "625,00",
+              "valor_referencia": "60,19"
             }
           ]
         },
         {
-          "numero": "2",
-          "titulo": "9903311392 CITOLOGIA EM MEIO LIQUIDO",
-          "fase": "HABILITAÇÃO",
+          "numero": "3",
+          "titulo": "9903311392 CITOLOGIA EM MEIO LIQUIDO - BRONQUIO: CITOLOGIA EM MEIO LIQUIDO - BRONQUIO EXCLUSIVO PARA ME/EPP",
+          "fase": "SUSPENSO",
           "tipo": "UNITÁRIO",
           "quantidade": "1",
           "intervalo_minimo": "0,00",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
+          "exclusivo_me": "SIM",
+          "local_entrega": "",
+          "garantia": "",
           "valor_referencia": "62,25",
           "vencedor": "",
           "melhor_oferta": "0,00",
@@ -278496,7 +278496,7 @@
           "itens": [
             {
               "numero": "1",
-              "especificacao": "9903311392 CITOLOGIA EM MEIO LIQUIDO - BRONQUIO:CITOLOGIA EM MEIO LIQUIDO - BRONQUIO.",
+              "especificacao": "CITOLOGIA EM MEIO LIQUIDO - BRONQUIO: CITOLOGIA EM MEIO LIQUIDO - BRONQUIO EXCLUSIVO PARA ME/EPP",
               "unidade": "SERV",
               "quantidade": "100,00",
               "valor_referencia": "62,25"
@@ -278505,38 +278505,38 @@
         },
         {
           "numero": "4",
-          "titulo": "9903311378 CORE BYOPSY",
-          "fase": "HABILITAÇÃO",
+          "titulo": "9903311373 COLORAÇÃO ESPECIAL:Marcação da biópsia por corantes especiais. EXCLUSIVO PARA ME/EPP",
+          "fase": "SUSPENSO",
           "tipo": "UNITÁRIO",
           "quantidade": "1",
           "intervalo_minimo": "0,00",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "68,46",
+          "exclusivo_me": "SIM",
+          "local_entrega": "",
+          "garantia": "",
+          "valor_referencia": "33,65",
           "vencedor": "",
           "melhor_oferta": "0,00",
           "total_itens": 1,
           "itens": [
             {
               "numero": "1",
-              "especificacao": "9903311378 CORE BYOPSY:CORE BYOPSY.",
+              "especificacao": "9903311373 COLORAÇÃO ESPECIAL:Marcação da biópsia por corantes especiais. EXCLUSIVO PARA ME/EPP",
               "unidade": "SERV",
-              "quantidade": "100,00",
-              "valor_referencia": "68,46"
+              "quantidade": "50,00",
+              "valor_referencia": "33,65"
             }
           ]
         },
         {
-          "numero": "4",
-          "titulo": "9903311378 CORE BYOPSY",
-          "fase": "HABILITAÇÃO",
+          "numero": "5",
+          "titulo": "9903311378 CORE BYOPSY:CORE BYOPSY. EXCLUSIVO PARA ME/EPP",
+          "fase": "SUSPENSO",
           "tipo": "UNITÁRIO",
           "quantidade": "1",
           "intervalo_minimo": "0,00",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
+          "exclusivo_me": "SIM",
+          "local_entrega": "",
+          "garantia": "",
           "valor_referencia": "68,46",
           "vencedor": "",
           "melhor_oferta": "0,00",
@@ -278544,7 +278544,7 @@
           "itens": [
             {
               "numero": "1",
-              "especificacao": "9903311378 CORE BYOPSY:CORE BYOPSY.",
+              "especificacao": "9903311378 CORE BYOPSY:CORE BYOPSY. EXCLUSIVO PARA ME/EPP",
               "unidade": "SERV",
               "quantidade": "100,00",
               "valor_referencia": "68,46"
@@ -278553,14 +278553,62 @@
         },
         {
           "numero": "6",
-          "titulo": "9903311384 PEÇA CIRÚRGICA COMPLEXA",
-          "fase": "HABILITAÇÃO",
+          "titulo": "33437 PEÇA CIRÚRGICA SIMPLES:PEÇA CIRÚRGICA SIMPLES",
+          "fase": "SUSPENSO",
           "tipo": "UNITÁRIO",
           "quantidade": "1",
           "intervalo_minimo": "0,00",
           "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
+          "local_entrega": "",
+          "garantia": "",
+          "valor_referencia": "75,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "33437 PEÇA CIRÚRGICA SIMPLES:PEÇA CIRÚRGICA SIMPLES",
+              "unidade": "SERV",
+              "quantidade": "1.875,00",
+              "valor_referencia": "75,00"
+            }
+          ]
+        },
+        {
+          "numero": "7",
+          "titulo": "9909911236 PEÇA CIRURGICA SIMPLES:PEÇA CIRURGICA SIMPLES. COTA DE 25% RESERVADA PARA ME/EPP",
+          "fase": "SUSPENSO",
+          "tipo": "UNITÁRIO",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "SIM",
+          "local_entrega": "",
+          "garantia": "",
+          "valor_referencia": "75,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9909911236 PEÇA CIRURGICA SIMPLES:PEÇA CIRURGICA SIMPLES. COTA DE 25% RESERVADA PARA ME/EPP",
+              "unidade": "SERV",
+              "quantidade": "625,00",
+              "valor_referencia": "75,00"
+            }
+          ]
+        },
+        {
+          "numero": "8",
+          "titulo": "9903311384 PEÇA CIRÚRGICA COMPLEXA:PEÇA CIRÚRGICA COMPLEXA",
+          "fase": "SUSPENSO",
+          "tipo": "UNITÁRIO",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "",
+          "garantia": "",
           "valor_referencia": "243,42",
           "vencedor": "",
           "melhor_oferta": "0,00",
@@ -278570,7 +278618,31 @@
               "numero": "1",
               "especificacao": "9903311384 PEÇA CIRÚRGICA COMPLEXA:PEÇA CIRÚRGICA COMPLEXA",
               "unidade": "UN",
-              "quantidade": "1.500,00",
+              "quantidade": "1.125,00",
+              "valor_referencia": "243,42"
+            }
+          ]
+        },
+        {
+          "numero": "9",
+          "titulo": "9909911237 PEÇA CIRURGICA COMPLEXA:PEÇA CIRURGICA COMPLEXA. COTA DE  25%  RESERVADA PARA ME/EPP.",
+          "fase": "SUSPENSO",
+          "tipo": "UNITÁRIO",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "SIM",
+          "local_entrega": "",
+          "garantia": "",
+          "valor_referencia": "243,42",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9909911237 PEÇA CIRURGICA COMPLEXA:PEÇA CIRURGICA COMPLEXA. COTA DE 25% RESERVADA PARA ME/EPP.",
+              "unidade": "SERV",
+              "quantidade": "375,00",
               "valor_referencia": "243,42"
             }
           ]
@@ -278582,38 +278654,38 @@
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "705/2024",
       "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "HOMOLOGADO",
-      "condutor": "MAGDA DE SELES GUIMARÃES",
+      "situacao": "SUSPENSO",
+      "condutor": "VICTOR KINIDEL DETHLING",
       "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
       "tipo_contrato": "AQUISIÇÃO",
-      "publicacao": "13/06/2024 18:49",
-      "inicio_recepcao": "14/06/2024 08:00",
-      "fim_recepcao": "10/07/2024 13:45",
-      "inicio_disputa": "10/07/2024 14:00",
-      "objeto": "O objeto da presente licitação é a contratação de INSTITUIÇÃO FINANCEIRA ESPECIALIZADA NA PRESTAÇÃO DE SERVIÇOS BANCÁRIOS PARA CENTRALIZAÇÃO, GERENCIAMENTO E PROCESSAMENTO DE CRÉDITOS DA FOLHA DE PAGAMENTO DOS SERVIDORES, a fim de atender as demandas da Secretaria Municipal de Administração, conforme condições, quantidades e especificações no Edital, Termo de Referência e seus Anexos.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5D90yyYDnAyTORM04ZqOiJPPFwg47FtTEWBglsLggp2SJ0mosAm3lxir3uSlYxQEweFFXZgOJMTg9QFA89cp2U3bDpIeNs2rhzjQCk2FvwhOM%3D",
+      "publicacao": "15/05/2024 18:26",
+      "inicio_recepcao": "16/05/2024 08:00",
+      "fim_recepcao": "12/06/2024 09:45",
+      "inicio_disputa": "12/06/2024 10:00",
+      "objeto": "Contratação de instituição financeira para prestação de serviços bancários para centralização, gerenciamento e processamento de créditos da folha de pagamento dos servidores, a fim de atender as demandas da Prefeitura de Teixeira de Freitas, conforme condições, quantidades e especificações no Edital, Termo de Referência e seus Anexos.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DW60JxMUx7KHvZzOFvlYT7KohNZCEd2die3rxi8%2F_F5kvNgV4x9H0o8yECiTU6kzze7FmGXvkcAIp92tswNXYdzcaCenLqsCaOytZVUZbTgg%3D",
       "total_lotes": 1,
       "total_itens": 1,
       "lotes": [
         {
           "numero": "1",
-          "titulo": "SERVIÇOS BANCÁRIOS",
-          "fase": "HOMOLOGADO",
-          "tipo": "GLOBAL",
+          "titulo": "LOTE 01",
+          "fase": "SUSPENSO",
+          "tipo": "UNITÁRIO",
           "quantidade": "1",
-          "intervalo_minimo": "0,01",
+          "intervalo_minimo": "100,00",
           "exclusivo_me": "NÃO",
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "6.052.150,00",
-          "vencedor": "ITAÚ UNIBANCO S.A.",
-          "melhor_oferta": "6.053.000,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
           "total_itens": 1,
           "itens": [
             {
               "numero": "1",
               "especificacao": "CONTRATAÇÃO DE INSTITUIÇÃO FINANCEIRA: ESPECIALIZADA NA PRESTAÇÃO DE SERVIÇOS BANCÁRIOS PARA CENTRALIZAÇÃO, GERENCIAMENTO E PROCESSAMENTO DE CRÉDITOS DA FOLHA DE PAGAMENTO DOS SERVIDORES DA PREFEITURA MUNICIPAL DE TEIXEIRA DE FREITAS/BA.",
-              "unidade": "UN",
+              "unidade": "SERVIÇO",
               "quantidade": "1,00",
               "valor_referencia": "6.052.150,00"
             }
