@@ -1,10 +1,10 @@
 {
   "metadata": {
     "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-    "total_processos": 827,
-    "total_lotes": 9078,
-    "total_itens": 15456,
-    "atualizado_em": "20260708_094000"
+    "total_processos": 828,
+    "total_lotes": 9115,
+    "total_itens": 15493,
+    "atualizado_em": "20260708_180217"
   },
   "processos": [
     {
@@ -269347,458 +269347,6 @@
       ]
     },
     {
-      "id": "PE-090-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "342 / 2026",
-      "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "JULGAMENTO",
-      "condutor": "JONATAS DA SILVA SOUSA",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO PARCELADA",
-      "publicacao": "03/06/2026 16:17",
-      "inicio_recepcao": "09/06/2026 08:30",
-      "fim_recepcao": "19/06/2026 13:45",
-      "inicio_disputa": "19/06/2026 14:00",
-      "objeto": "Contratação de empresa especializada em fornecimento de TECIDOS E LUVAS (material de consumo), a fim de atender às demandas da Secretaria Municipal de Educação.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5D6WcG7%2F%2FU9BCspw763R9vnFVV2FrF6%2FeD2cn4e_1lel4gHUmgYvLmnypvQcgcFzcGrAZsR4x5DQWYEBhVL4VFMOrc5vuyhnijwFWF04EkVZU%3D",
-      "total_lotes": 18,
-      "total_itens": 18,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "8300500037 Cetim:tecido sintético em cores diversas a serem indicadas no momento da contratação e emissão de OFs, de superfície brilhante e toque suave, composto por 100% poliéster, com gramatura de 90 g/m² e largura de 1,40m. Adequado para confecção de f",
-          "fase": "HABILITAÇÃO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "4.068,00",
-          "vencedor": "EMPREENDIMENTOS BRAZ LTDA",
-          "melhor_oferta": "1.600,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "8300500037 Cetim:tecido sintético em cores diversas a serem indicadas no momento da contratação e emissão de OFs, de superfície brilhante e toque suave, composto por 100% poliéster, com gramatura de 90 g/m² e largura de 1,40m. Adequado para confecção de figurinos, painéis decorativos, fundos de palco, adereços cênicos e ambientação de espaços escolares e institucionais. O tecido deverá apresentar estrutura uniforme, sem falhas de tecelagem, desfiados, furos, rasgos, manchas ou variações acentuadas de tonalidade dentro do mesmo lote, garantindo padrão estético contínuo. O fornecimento deverá ocorrer em metro linear, em rolos ou peças contínuas, sem emendas na área útil, com cortes retos e bordas íntegras, apto ao uso imediato em eventos institucionais, atividades pedagógicas, solenidades e demais ações da Rede Municipal de Educação.",
-              "unidade": "M",
-              "quantidade": "400,00",
-              "valor_referencia": "10,17"
-            }
-          ]
-        },
-        {
-          "numero": "2",
-          "titulo": "8300500038 Malha:incluindo variações com elastano (tipo Lycra), em cores diversas a serem indicadas no momento da contratação e emissão de OFs, de malha circular, composta por poliéster ou poliamida com elastano, com boa elasticidade e recuperação, gramat",
-          "fase": "HABILITAÇÃO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "6.400,00",
-          "vencedor": "EMPREENDIMENTOS BRAZ LTDA",
-          "melhor_oferta": "2.796,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "8300500038 Malha:incluindo variações com elastano (tipo Lycra), em cores diversas a serem indicadas no momento da contratação e emissão de OFs, de malha circular, composta por poliéster ou poliamida com elastano, com boa elasticidade e recuperação, gramatura de 180 g/m² e largura de 1,50 m.Indicada para figurinos infantis e adultos, roupas temáticas, adereços cênicos e elementos decorativos que exijam mobilidade e ajuste ao corpo em apresentações, projetos pedagógicos e eventos escolares. O tecido deve apresentar superfície regular, sem furos, rasgos, bolinhas (pilling), manchas ou deformações, mantendo conforto, resistência e segurança no uso por estudantes e profissionais. O fornecimento será em metro linear, em rolos contínuos, sem emendas na extensão útil, com cortes precisos e acondicionamento adequado, de forma a atender às demandas recorrentes de ornamentação e atividades pedagógicas da Rede Municipal de Educação.",
-              "unidade": "M",
-              "quantidade": "400,00",
-              "valor_referencia": "16,00"
-            }
-          ]
-        },
-        {
-          "numero": "3",
-          "titulo": "8300500039 Oxford:tecido sintético em cores diversas a serem indicadas no momento da contratação e emissão de OFs, composto predominantemente por poliéster, com entrelaçamento firme, gramatura de 110 g/m² e largura de 1,50 m. Indicado para confecção de un",
-          "fase": "HABILITAÇÃO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "7.552,50",
-          "vencedor": "EMPREENDIMENTOS BRAZ LTDA",
-          "melhor_oferta": "4.200,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "8300500039 Oxford:tecido sintético em cores diversas a serem indicadas no momento da contratação e emissão de OFs, composto predominantemente por poliéster, com entrelaçamento firme, gramatura de 110 g/m² e largura de 1,50 m. Indicado para confecção de uniformes simples, toalhas, painéis, bandeiras, fundos de palco, faixas e outros elementos decorativos utilizados em eventos institucionais, reuniões, formaturas, feiras pedagógicas e ações de integração com a comunidade escolar. O tecido deverá ser resistente, com acabamento opaco, textura homogênea, boa estabilidade dimensional e ausência de furos, rasgos, manchas, falhas de tecelagem ou desbotamento acentuado. O fornecimento ocorrerá em metro linear, em rolos contínuos, sem emendas na área útil, garantindo durabilidade e padrão visual compatível com a relevância das atividades desenvolvidas na Rede Municipal de Ensino.",
-              "unidade": "M",
-              "quantidade": "750,00",
-              "valor_referencia": "10,07"
-            }
-          ]
-        },
-        {
-          "numero": "4",
-          "titulo": "37330 Tule:tecido leve em cores diversas a serem indicadas no momento da contratação e emissão de OFs, de malha aberta, fino, transparente e maleável, composto por 100% poliamida ou poliéster, com largura de 1,40 m. Destinado à confecção de saias volumosa",
-          "fase": "HABILITAÇÃO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "3.860,00",
-          "vencedor": "EMPREENDIMENTOS BRAZ LTDA",
-          "melhor_oferta": "1.080,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37330 Tule:tecido leve em cores diversas a serem indicadas no momento da contratação e emissão de OFs, de malha aberta, fino, transparente e maleável, composto por 100% poliamida ou poliéster, com largura de 1,40 m. Destinado à confecção de saias volumosas, sobreposições de figurinos, cenários, arranjos decorativos e demais elementos utilizados em apresentações culturais, eventos comemorativos, festas escolares e projetos pedagógicos temáticos. O tule deverá apresentar malha uniforme, sem rasgos, furos, deformações, fios rompidos ou manchas, proporcionando bom caimento e efeito visual adequado sob iluminação de palco ou ambientes internos. O fornecimento será realizado em metro linear, em rolos ou peças contínuas, preferencialmente sem emendas na área útil, prontos para uso em ornamentação e ambientação no âmbito da Rede Municipal de Educação.",
-              "unidade": "M",
-              "quantidade": "400,00",
-              "valor_referencia": "9,65"
-            }
-          ]
-        },
-        {
-          "numero": "5",
-          "titulo": "37331 Juta:tecido de origem natural, em cores diversas a serem indicadas no momento da contratação e emissão de OFs, de aspecto rústico, fabricado com fibras vegetais, com gramatura elevada em torno de 300 g/m² e largura de 1,40 m. Indicado para decoração",
-          "fase": "HABILITAÇÃO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "9.240,00",
-          "vencedor": "EMPREENDIMENTOS BRAZ LTDA",
-          "melhor_oferta": "7.560,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37331 Juta:tecido de origem natural, em cores diversas a serem indicadas no momento da contratação e emissão de OFs, de aspecto rústico, fabricado com fibras vegetais, com gramatura elevada em torno de 300 g/m² e largura de 1,40 m. Indicado para decoração temática, cenários com apelo rústico, painéis, revestimento de mesas, stands e atividades de artesanato em feiras pedagógicas, projetos culturais, festas juninas e demais eventos escolares. O tecido deverá apresentar trama firme, boa resistência mecânica, baixa quantidade de impurezas, sem rasgos excessivos, furos significativos, manchas intensas ou odores não característicos do material. O fornecimento ocorrerá em metro linear, em peças contínuas, garantindo segurança no manuseio e qualidade visual condizente com a proposta educativa, cultural e institucional da Rede Municipal de Ensino.",
-              "unidade": "M",
-              "quantidade": "400,00",
-              "valor_referencia": "23,10"
-            }
-          ]
-        },
-        {
-          "numero": "6",
-          "titulo": "37332 Algodão cru:tecido plano em cores diversas a serem indicadas no momento da contratação e emissão de OFs (preferencialmente naturais ou em tons claros), 100% algodão, sem tingimento intenso ou acabamento químico agressivo, com gramatura de 150 g/m² e",
-          "fase": "HABILITAÇÃO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "5.228,00",
-          "vencedor": "EMPREENDIMENTOS BRAZ LTDA",
-          "melhor_oferta": "4.480,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37332 Algodão cru:tecido plano em cores diversas a serem indicadas no momento da contratação e emissão de OFs (preferencialmente naturais ou em tons claros), 100% algodão, sem tingimento intenso ou acabamento químico agressivo, com gramatura de 150 g/m² e largura de 1,40 m. Destinado à realização de atividades educativas, artísticas e artesanais, como pintura, colagem, produção de painéis, cenários, banners e peças decorativas para uso em salas de aula, corredores, auditórios e demais espaços escolares. O tecido deverá apresentar superfície homogênea, estrutura firme, sem furos, rasgos, manchas significativas, deformações ou odores intensos, permitindo escrita, pintura e colagem com boa aderência. O fornecimento será em metro linear, em peças contínuas, com cortes retos, apto ao uso por estudantes e equipes pedagógicas em projetos escolares e eventos institucionais.",
-              "unidade": "M",
-              "quantidade": "400,00",
-              "valor_referencia": "13,07"
-            }
-          ]
-        },
-        {
-          "numero": "7",
-          "titulo": "37333 Oxford xadrez:variação estampada do tecido Oxford, em padrão xadrez e cores diversas, composto por 100% poliéster, com gramatura de 110 g/m² e largura de 1,50 m. Adequado para composições temáticas, decoração de festas escolares (como festas juninas",
-          "fase": "HABILITAÇÃO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "6.612,00",
-          "vencedor": "EMPREENDIMENTOS BRAZ LTDA",
-          "melhor_oferta": "3.040,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37333 Oxford xadrez:variação estampada do tecido Oxford, em padrão xadrez e cores diversas, composto por 100% poliéster, com gramatura de 110 g/m² e largura de 1,50 m. Adequado para composições temáticas, decoração de festas escolares (como festas juninas), confecção de toalhas, bandeirolas, aventais, detalhes de figurinos e elementos visuais utilizados em projetos pedagógicos que envolvam ambientação de espaços. A estampa deverá ser regular, sem falhas de impressão, sem desbotamento acentuado ou diferenças marcantes de tonalidade entre rolos do mesmo lote. O fornecimento deve ser em metro linear, em rolos contínuos, sem emendas na área útil, livre de furos, rasgos, manchas e falhas de tecelagem, garantindo acabamento visual adequado às ações educativas e culturais da Rede Municipal de Ensino.",
-              "unidade": "M",
-              "quantidade": "400,00",
-              "valor_referencia": "16,53"
-            }
-          ]
-        },
-        {
-          "numero": "8",
-          "titulo": "8300500040 TNT (tecido não tecido):material sintético em cores diversas a serem indicadas no momento da contratação e emissão de OFs, produzido por agulhamento ou colagem de fibras, com gramatura entre 40 g/m² e 80 g/m² e largura de 1,40m. Amplamente uti",
-          "fase": "HABILITAÇÃO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "1.468,00",
-          "vencedor": "EMPREENDIMENTOS BRAZ LTDA",
-          "melhor_oferta": "676,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "8300500040 TNT (tecido não tecido):material sintético em cores diversas a serem indicadas no momento da contratação e emissão de OFs, produzido por agulhamento ou colagem de fibras, com gramatura entre 40 g/m² e 80 g/m² e largura de 1,40m. Amplamente utilizado para decoração de ambientes escolares, revestimento de painéis, confecção de fundos de palco, faixas, molduras, elementos cenográficos e partes de figurinos de uso pontual em atividades pedagógicas e culturais. O material deverá apresentar superfície uniforme, sem rasgos, furos, falhas na estrutura, manchas intensas ou acúmulo excessivo de partículas soltas, garantindo segurança e facilidade de manuseio. O fornecimento será em metro linear, em rolos contínuos, com cortes retos e acondicionamento adequado, destinado ao atendimento das demandas de ornamentação, ambientação e execução de projetos e eventos no âmbito da Rede Municipal de Educação.",
-              "unidade": "M",
-              "quantidade": "400,00",
-              "valor_referencia": "3,67"
-            }
-          ]
-        },
-        {
-          "numero": "9",
-          "titulo": "37334 Feltro:tecido denso e macio em cores diversas a serem indicadas no momento da contratação e emissão de OFs, composto por fibras sintéticas ou naturais prensadas, com gramatura de 300 g/m² e largura de 1,40 m. Indicado para trabalhos de artesanato, p",
-          "fase": "HABILITAÇÃO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "5.844,00",
-          "vencedor": "EMPREENDIMENTOS BRAZ LTDA",
-          "melhor_oferta": "4.480,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37334 Feltro:tecido denso e macio em cores diversas a serem indicadas no momento da contratação e emissão de OFs, composto por fibras sintéticas ou naturais prensadas, com gramatura de 300 g/m² e largura de 1,40 m. Indicado para trabalhos de artesanato, produção de painéis decorativos, letras e figuras recortadas, confecção de máscaras, adereços, elementos estruturais de figurinos e materiais de apoio visual utilizados em atividades pedagógicas, apresentações artísticas e eventos escolares. O feltro deverá apresentar superfície uniforme, sem furos, rasgos, manchas, deformações, odores intensos ou excesso de resíduos soltos, permitindo cortes limpos e boa fixação com colas ou costuras. O fornecimento será em metro linear, em cortes contínuos, sem emendas na área útil, garantindo durabilidade, segurança no manuseio e qualidade estética compatível com as ações da Rede Municipal de Ensino.",
-              "unidade": "M",
-              "quantidade": "400,00",
-              "valor_referencia": "14,61"
-            }
-          ]
-        },
-        {
-          "numero": "10",
-          "titulo": "37335 Organza:tecido leve em cores diversas a serem indicadas no momento da contratação e emissão de OFs, translúcido, armável, com brilho moderado, composto por fibras sintéticas à base de poliéster, com gramatura de 40 g/m² e largura de 1,40m. Destinad",
-          "fase": "HABILITAÇÃO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "3.288,00",
-          "vencedor": "EMPREENDIMENTOS BRAZ LTDA",
-          "melhor_oferta": "1.960,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37335 Organza:tecido leve em cores diversas a serem indicadas no momento da contratação e emissão de OFs, translúcido, armável, com brilho moderado, composto por fibras sintéticas à base de poliéster, com gramatura de 40 g/m² e largura de 1,40m. Destinado à confecção de sobreposições, laços, cortinas decorativas, saias de mesa, detalhes de figurinos, arranjos e outros elementos de embelezamento utilizados em eventos escolares, solenidades institucionais, apresentações culturais e projetos pedagógicos que demandem efeito visual delicado e sofisticado. O tecido deverá apresentar estrutura regular, boa estabilidade para montagem de arranjos, caimento compatível com uso decorativo, sem fios soltos, rasgos, furos, manchas, desbotamento acentuado ou falhas de tecelagem. O fornecimento será em metro linear, em rolos ou peças contínuas, com cortes retos, pronto para uso na ornamentação deambientes da Rede Municipal de Educação.",
-              "unidade": "M",
-              "quantidade": "400,00",
-              "valor_referencia": "8,22"
-            }
-          ]
-        },
-        {
-          "numero": "11",
-          "titulo": "8300500041 Tricoline:tecido plano 100% algodão: em cores lisas e/ou estampas variadas adequadas ao ambiente escolar, com gramatura de 120 g/m² e largura de 1,40 m. Indicado para confecção de painéis pedagógicos, bandeirolas, letras e figuras aplicadas, fr",
-          "fase": "HABILITAÇÃO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "4.828,00",
-          "vencedor": "EMPREENDIMENTOS BRAZ LTDA",
-          "melhor_oferta": "4.360,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "8300500041 Tricoline:tecido plano 100% algodão: em cores lisas e/ou estampas variadas adequadas ao ambiente escolar, com gramatura de 120 g/m² e largura de 1,40 m. Indicado para confecção de painéis pedagógicos, bandeirolas, letras e figuras aplicadas, fronhas decorativas, elementos de identificação visual, adereços cênicos e itens de artesanato escolar utilizados em projetos didáticos, festas temáticas e atividades de valorização do ambiente educacional. O tecido deverá apresentar toque macio, boa estabilidade dimensional, superfície homogênea, sem furos, rasgos, manchas, falhas de estamparia, deformações ou odores intensos, permitindo costura, colagem e aplicação de técnicas de pintura e bordado de forma satisfatória. O fornecimento ocorrerá em metro linear, em rolos ou peças contínuas, sem emendas na área útil, com cortes retos e acondicionamento adequado, apto ao uso imediato em ações educativas, culturais e de ornamentação dos espaços escolares da Rede Municipal de Educação.",
-              "unidade": "M",
-              "quantidade": "400,00",
-              "valor_referencia": "12,07"
-            }
-          ]
-        },
-        {
-          "numero": "12",
-          "titulo": "37336 Corino sintético:tecido sintético impermeável em cores diversas a serem indicadas no momento da contratação e emissão de OFs, composto por PVC com base têxtil (50% PVC / 50% substrato), espessura entre 0,20 mm e 0,30 mm, gramatura média de 300 a 400",
-          "fase": "HABILITAÇÃO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "6.528,00",
-          "vencedor": "EMPREENDIMENTOS BRAZ LTDA",
-          "melhor_oferta": "5.280,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37336 Corino sintético:tecido sintético impermeável em cores diversas a serem indicadas no momento da contratação e emissão de OFs, composto por PVC com base têxtil (50% PVC / 50% substrato), espessura entre 0,20 mm e 0,30 mm, gramatura média de 300 a 400 g/m² e largura de 1,40 m. Indicado para confecção de capas protetoras, estofados, painéis decorativos, elementos cenográficos e ambientação de espaços escolares em eventos institucionais, atividades pedagógicas e solenidades da Rede Municipal de Educação. O material deve apresentar superfície lisa e uniforme, resistente a manchas, água e riscos leves, sem falhas de laminação, bolhas, rasgos, furos ou variações acentuadas de tonalidade no mesmo lote, garantindo durabilidade e padrão estético contínuo. Fornecimento em rolos contínuos sem emendas na área útil, cortes retos e embalagem adequada para uso imediato.",
-              "unidade": "M",
-              "quantidade": "400,00",
-              "valor_referencia": "16,32"
-            }
-          ]
-        },
-        {
-          "numero": "13",
-          "titulo": "9900515618 Par de luvas destinadas à composição de uniforme oficial para bandas marciais:confeccionadas em tecido de algodão, proporcionando conforto, respirabilidade e adequada mobilidade das mãos durante apresentações, ensaios e desfiles; produzida em a",
-          "fase": "JULGAMENTO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "20.600,00",
-          "vencedor": "RUBENS BASILIO DE FARIA",
-          "melhor_oferta": "20.600,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900515618 Par de luvas destinadas à composição de uniforme oficial para bandas marciais:confeccionadas em tecido de algodão, proporcionando conforto, respirabilidade e adequada mobilidade das mãos durante apresentações, ensaios e desfiles; produzida em algodão ou material predominantemente composto por fibras de algodão, de toque macio, resistente ao uso contínuo, permitindo adequada ventilação das mãos e absorção de umidade. Deverá apresentar cor branca uniforme, sem manchas, variações de tonalidade, transparência excessiva ou imperfeições aparentes, mantendo padrão estético compatível com uniformização de banda marcial. O modelo deverá ser anatômico, fechado, com dedos completos. deverão possuir costuras reforçadas, acabamento resistente e ausência de fios soltos, rasgos, deformações ou defeitos de fabricação, devendo suportar lavagens sucessivas sem perda significativa de formato, elasticidade ou coloração. O punho deverá possuir acabamento reforçado, podendo conter elástico ou sistema equivalente que assegure ajuste firme ao pulso, evitando deslocamentos durante o uso e contribuindo para melhor acabamento visual do uniforme. Os tamanhos serão definidos pela Secretaria no momento da solicitação e emissão da Ordem de Fornecimento, conforme a necessidade dos usuários, devendo ser disponibilizados variados tamanhos, abrangendo medidas infantis e adultas, de modo a atender adequadamente aos integrantes da banda marcial.",
-              "unidade": "PAR",
-              "quantidade": "1.000,00",
-              "valor_referencia": "20,60"
-            }
-          ]
-        },
-        {
-          "numero": "14",
-          "titulo": "37337 Tecido tipo chita:em cores e estampas variadas a serem definidas no momento da contratação e emissão das Ordens de Fornecimento, composto predominantemente por fibras de algodão ou mistura com fibras sintéticas, de gramatura média aproximada entre 1",
-          "fase": "HABILITAÇÃO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "4.360,00",
-          "vencedor": "EMPREENDIMENTOS BRAZ LTDA",
-          "melhor_oferta": "4.360,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37337 Tecido tipo chita:em cores e estampas variadas a serem definidas no momento da contratação e emissão das Ordens de Fornecimento, composto predominantemente por fibras de algodão ou mistura com fibras sintéticas, de gramatura média aproximada entre 120 g/m² e 180 g/m² e largura mínima de 1,40m. Caracteriza-se por apresentar estampas vivas, florais ou temáticas, com boa fixação de cor e resistência ao uso. O tecido deverá apresentar superfície uniforme, sem falhas de estamparia, desbotamento acentuado, rasgos, furos, manchas ou defeitos de fabricação. O fornecimento deverá ocorrer em metro linear, em peças contínuas, com cortes retos e sem emendas na área útil, pronto para uso em atividades educacionais e eventos institucionais.",
-              "unidade": "M",
-              "quantidade": "400,00",
-              "valor_referencia": "10,90"
-            }
-          ]
-        },
-        {
-          "numero": "15",
-          "titulo": "37338 Tecido tipo helanca:malha sintética de alta resistência, em cores diversas a serem definidas no momento da contratação e emissão das Ordens de Fornecimento, composto predominantemente por poliéster, podendo conter elastano em sua composição, com gra",
-          "fase": "HABILITAÇÃO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "6.640,00",
-          "vencedor": "EMPREENDIMENTOS BRAZ LTDA",
-          "melhor_oferta": "2.796,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37338 Tecido tipo helanca:malha sintética de alta resistência, em cores diversas a serem definidas no momento da contratação e emissão das Ordens de Fornecimento, composto predominantemente por poliéster, podendo conter elastano em sua composição, com gramatura média aproximada entre 120 g/m² e 200 g/m² e largura mínima de 1,50 m. Apresenta boa elasticidade, durabilidade, resistência ao desgaste e fácil manutenção. O tecido deverá possuir superfície regular, sem bolinhas (pilling), rasgos, furos, manchas ou deformações, garantindo qualidade e segurança no uso. O fornecimento será em metro linear, em rolos ou peças contínuas, sem emendas na área útil, com cortes precisos e acondicionamento adequado.",
-              "unidade": "M",
-              "quantidade": "400,00",
-              "valor_referencia": "16,60"
-            }
-          ]
-        },
-        {
-          "numero": "16",
-          "titulo": "37339 Tecido tipo brim leve:em cores diversas a serem definidas no momento da contratação e emissão das Ordens de Fornecimento, composto predominantemente por algodão ou mistura com poliéster, com gramatura aproximada entre 180 g/m² e 250 g/m² e largura m",
-          "fase": "HABILITAÇÃO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "10.800,00",
-          "vencedor": "EMPREENDIMENTOS BRAZ LTDA",
-          "melhor_oferta": "7.960,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37339 Tecido tipo brim leve:em cores diversas a serem definidas no momento da contratação e emissão das Ordens de Fornecimento, composto predominantemente por algodão ou mistura com poliéster, com gramatura aproximada entre 180 g/m² e 250 g/m² e largura mínima de 1,40 m. Caracteriza-se por apresentar resistência mecânica moderada, boa durabilidade e conforto térmico. O tecido deverá apresentar trama uniforme, sem falhas de tecelagem, rasgos, furos, manchas ou desbotamento acentuado, garantindo acabamento adequado e resistência ao uso contínuo e lavagens. O fornecimento deverá ocorrer em metro linear, em peças contínuas, com cortes retos, sem emendas na área útil e devidamente acondicionado.",
-              "unidade": "M",
-              "quantidade": "400,00",
-              "valor_referencia": "27,00"
-            }
-          ]
-        },
-        {
-          "numero": "17",
-          "titulo": "37340 Tecido alvejado:plano, em cor clara (predominantemente branca), composto por fibras de algodão ou mistura com fibras sintéticas, submetido a processo de alvejamento para remoção de impurezas e padronização de tonalidade, com gramatura aproximada ent",
-          "fase": "HABILITAÇÃO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "6.200,00",
-          "vencedor": "EMPREENDIMENTOS BRAZ LTDA",
-          "melhor_oferta": "3.960,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37340 Tecido alvejado:plano, em cor clara (predominantemente branca), composto por fibras de algodão ou mistura com fibras sintéticas, submetido a processo de alvejamento para remoção de impurezas e padronização de tonalidade, com gramatura aproximada entre 100 g/m² e 200 g/m² e largura mínima de 1,40m. O material deverá apresentar superfície uniforme, sem manchas, odores, resíduos químicos excessivos, rasgos, furos ou falhas de tecelagem, garantindo boa absorção e aderência para tintas e outros materiais. O fornecimento será em metro linear, em peças contínuas, com cortes retos e sem emendas na área útil.",
-              "unidade": "M",
-              "quantidade": "400,00",
-              "valor_referencia": "15,50"
-            }
-          ]
-        },
-        {
-          "numero": "18",
-          "titulo": "37341 Tecido com aplicação de paetês:em cores diversas a serem definidas no momento da contratação e emissão das Ordens de Fornecimento, composto por base têxtil sintética (poliéster ou poliamida) com superfície revestida por paetês fixados de forma unifo",
-          "fase": "HABILITAÇÃO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "12.132,00",
-          "vencedor": "EMPREENDIMENTOS BRAZ LTDA",
-          "melhor_oferta": "2.752,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37341 Tecido com aplicação de paetês:em cores diversas a serem definidas no momento da contratação e emissão das Ordens de Fornecimento, composto por base têxtil sintética (poliéster ou poliamida) com superfície revestida por paetês fixados de forma uniforme, podendo ser liso ou reversível, com largura mínima de 1,30 m. O material deverá apresentar fixação firme dos paetês, sem desprendimento excessivo, falhas de aplicação, rasgos, furos ou deformações, garantindo efeito visual uniforme e durabilidade no uso. O fornecimento será em metro linear, em peças contínuas, devidamente acondicionadas, com cortes regulares e sem emendas na área útil.",
-              "unidade": "M",
-              "quantidade": "400,00",
-              "valor_referencia": "30,33"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "PE-058-2026",
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "402 / 2026",
@@ -270365,169 +269913,6 @@
               "unidade": "UN",
               "quantidade": "168,00",
               "valor_referencia": "330,64"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "2-DLE-039-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "254 / 2026",
-      "modalidade": "DISPENSA ELETRÔNICA",
-      "situacao": "ADJUDICADO",
-      "condutor": "ISAQUE SILVA DOS SANTOS",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO PARCELADA",
-      "publicacao": "28/04/2026 12:46",
-      "inicio_recepcao": "28/04/2026 13:00",
-      "fim_recepcao": "05/05/2026 08:15",
-      "inicio_disputa": "05/05/2026 08:30",
-      "objeto": "Contratação de empresa especializada em prestação de serviço de CONFECÇÃO DE CARIMBOS, a fim de atender as demandas da Secretaria Municipal de Administração e demais secretarias.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DSgJBGTPZNWoQDthD%2FBvN8KlaY4hSAq1dGe6wPzulkTBZyWMFiaBay6ZQCArB826eVvH5k0a_Eu25eN%2Fw282tcENTVzC74FwMtZeZgGrXvT8%3D",
-      "total_lotes": 1,
-      "total_itens": 18,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "CARIMBOS",
-          "fase": "ADJUDICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "53.241,16",
-          "vencedor": "JUNIO GOMES DOS SANTOS",
-          "melhor_oferta": "45.900,00",
-          "total_itens": 18,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900515510 BORRACHA PARA CARIMBOAUTOMÁTICO/RETRÁTIL:auto-entintável; todos os tamanhos.",
-              "unidade": "UND",
-              "quantidade": "164,00",
-              "valor_referencia": "22,25"
-            },
-            {
-              "numero": "2",
-              "especificacao": "9900515511 CARIMBO AUTOMATICO:10X27MM - CORES DIVERSAS.",
-              "unidade": "UND",
-              "quantidade": "24,00",
-              "valor_referencia": "50,05"
-            },
-            {
-              "numero": "3",
-              "especificacao": "9900515512 CARIMBO AUTOMATICO:14X38MM - CORES DIVERSAS.",
-              "unidade": "UND",
-              "quantidade": "48,00",
-              "valor_referencia": "47,75"
-            },
-            {
-              "numero": "4",
-              "especificacao": "9900515513 CARIMBO AUTOMATICO:18X47MM - CORES DIVERSAS.",
-              "unidade": "UND",
-              "quantidade": "20,00",
-              "valor_referencia": "42,55"
-            },
-            {
-              "numero": "5",
-              "especificacao": "9900515514 CARIMBO AUTOMATICO:23X59MM - CORES DIVERSAS.",
-              "unidade": "UND",
-              "quantidade": "20,00",
-              "valor_referencia": "50,43"
-            },
-            {
-              "numero": "6",
-              "especificacao": "9900515515 CARIMBO AUTOMATICO:30X69MM - CORES DIVERSAS.",
-              "unidade": "UND",
-              "quantidade": "20,00",
-              "valor_referencia": "56,28"
-            },
-            {
-              "numero": "7",
-              "especificacao": "9900515516 CARIMBO AUTOMATICO:34X74MM - CORES DIVERSAS.",
-              "unidade": "UND",
-              "quantidade": "20,00",
-              "valor_referencia": "57,23"
-            },
-            {
-              "numero": "8",
-              "especificacao": "9900515517 CARIMBO AUTOMATICO:37X76MM - CORES DIVERSAS.",
-              "unidade": "UND",
-              "quantidade": "24,00",
-              "valor_referencia": "58,42"
-            },
-            {
-              "numero": "9",
-              "especificacao": "9900515518 CARIMBO AUTOMÁTICO MÓBILE:CARIMBO AUTOMÁTICO MÓBILE.",
-              "unidade": "UND",
-              "quantidade": "24,00",
-              "valor_referencia": "66,23"
-            },
-            {
-              "numero": "10",
-              "especificacao": "9900515519 CARIMBO AUTOMÁTICO:PR 4724.",
-              "unidade": "UND",
-              "quantidade": "32,00",
-              "valor_referencia": "94,63"
-            },
-            {
-              "numero": "11",
-              "especificacao": "9900515520 CARIMBO AUTOMATICO:PR 4910/4911.",
-              "unidade": "UND",
-              "quantidade": "568,00",
-              "valor_referencia": "39,29"
-            },
-            {
-              "numero": "12",
-              "especificacao": "9900515521 CARIMBO AUTOMÁTICO:PR 4912.",
-              "unidade": "UND",
-              "quantidade": "60,00",
-              "valor_referencia": "47,90"
-            },
-            {
-              "numero": "13",
-              "especificacao": "9900515522 CARIMBO AUTOMÁTICO:PR 4913.",
-              "unidade": "UND",
-              "quantidade": "40,00",
-              "valor_referencia": "53,63"
-            },
-            {
-              "numero": "14",
-              "especificacao": "9900515523 CARIMBO AUTOMÁTICO:PR 4923.",
-              "unidade": "UND",
-              "quantidade": "40,00",
-              "valor_referencia": "70,03"
-            },
-            {
-              "numero": "15",
-              "especificacao": "9900515524 CARIMBO AUTOMÁTICO:PR 4924.",
-              "unidade": "UND",
-              "quantidade": "36,00",
-              "valor_referencia": "77,50"
-            },
-            {
-              "numero": "16",
-              "especificacao": "9900515525 CARIMBO AUTOMÁTICO:PR 4927.",
-              "unidade": "UND",
-              "quantidade": "28,00",
-              "valor_referencia": "73,47"
-            },
-            {
-              "numero": "17",
-              "especificacao": "9900515526 CARIMBO MADEIRA MÉDIO:carimbo material (corpo e calda) em madeira com base em borracha de silicone,médio, medindo 4x3cm.",
-              "unidade": "UND",
-              "quantidade": "16,00",
-              "valor_referencia": "29,32"
-            },
-            {
-              "numero": "18",
-              "especificacao": "9900515527 CARIMBO MADEIRA PEQUENO:carimbo material (corpo e calda) em madeira com base em borracha de silicone, pequeno, medindo 4x2cm.",
-              "unidade": "UND",
-              "quantidade": "16,00",
-              "valor_referencia": "31,00"
             }
           ]
         }
@@ -276451,50 +275836,6 @@
       ]
     },
     {
-      "id": "PE-097-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "408 / 2026",
-      "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "JULGAMENTO",
-      "condutor": "SERGIO CARNEIRO CAVALCANTI DE AZEVEDO",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO",
-      "publicacao": "18/06/2026 16:15",
-      "inicio_recepcao": "22/06/2026 08:30",
-      "fim_recepcao": "03/07/2026 08:15",
-      "inicio_disputa": "03/07/2026 08:30",
-      "objeto": "Contratação de empresa especializada em fornecimento de CARRINHOS COLETORES DE LIMPEZA (material permanente), a fim de atender as demandas da Secretaria Municipal de Educação.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DbYlhgMA8AEkOWYREEJMBbTHyRdzWa%2FAJs4E8iuLb7q3DxmzGycdeN4iiZBbwt44kNxqXxvEJ4ZVIr5oznvICKtVT8aspQqNqwvBv83oY2u0%3D",
-      "total_lotes": 1,
-      "total_itens": 1,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "CARRINHOS COLETORES DE LIMPEZA",
-          "fase": "JULGAMENTO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "344.841,20",
-          "vencedor": "TRS COMERCIO DE PRODUTOS HOSPITALARES LTDA",
-          "melhor_oferta": "344.841,20",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900830484 CARRINHO FUNCIONAL DE LIMPEZAPROFISSIONAL:tipo kit completo com coletor de resíduos,destinado à limpeza úmida e seca de pisos em ambientesescolares e administrativos, adequado para superfícies comocerâmica, porcelanato, granilite, paviflex, cimento queimado,entre outros, com estrutura resistente em plástico de altadurabilidade (PEAD ou PP), com design tipo caminhão grande,dotado de compartimentos para organização de utensílios ecaçamba móvel basculante para coleta de resíduos, comcapacidade entre 50 e 120 litros e encaixe para saco ou cesto delixo, equipado com no mínimo 4 (quatro) e até 6 (seis) rodasgiratórias que permitam fácil movimentação e estabilidade, comdimensões mínimas aproximadas de 50 x 22 x 22 cm, devendoacompanhar balde duplo com capacidade mínima de 30 litroscom sistema de espremedor, cabo em alumínio comcomprimento aproximado de 1,40 m, haste tipo euro em materialplástico resistente, refil mop úmido em algodão ou microfibracom gramatura mínima de 300 g, conjunto mop pó com armaçãoe refil com largura mínima de 60 cm, pá coletora de resíduos eplaca sinalizadora de segurança tipo \"piso molhado\",disponibilizado em cores como azul, cinza ou similar, atendendoàs normas aplicáveis da ANVISA e da ABNT para uso emambientes institucionais.",
-              "unidade": "UN",
-              "quantidade": "220,00",
-              "valor_referencia": "1.567,46"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "CE-004-2026",
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "185/2026",
@@ -277144,57 +276485,6 @@
               "unidade": "FR",
               "quantidade": "28,00",
               "valor_referencia": "1.780,36"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "3-DLE-057-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "516 / 2026",
-      "modalidade": "DISPENSA ELETRÔNICA",
-      "situacao": "ADJUDICADO",
-      "condutor": "ISAQUE SILVA DOS SANTOS",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO",
-      "publicacao": "10/06/2026 18:26",
-      "inicio_recepcao": "23/06/2026 10:15",
-      "fim_recepcao": "30/06/2026 08:15",
-      "inicio_disputa": "30/06/2026 08:30",
-      "objeto": "Contratação de empresa especializada em prestação de serviço de MANUTENÇÃO CORRETIVA COM FORNECIMENTO DE PEÇAS E COMPONENTES ORIGINAIS OU COMPATÍVEIS DE GERADOR DE ENERGIA, a fim de atender as demandas da Secretaria Municipal de Saúde.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DFBdS9_3cgobk%2FfdVrc6jVsBUqK1SzQGlvIm8if%2FeyqhSz9q4tLsTUIXTQfCh_fmTvKNxMcZtfUrK3tm%2F8kXdnY6X4Iw6Dwt1fLn0MCCllFg%3D",
-      "total_lotes": 1,
-      "total_itens": 2,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "MANUTENÇÃO GERADORES",
-          "fase": "ADJUDICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "6.766,64",
-          "vencedor": "RM SERVIÇOS ELÉTRICOS E INDUSTRIAIS LTDA",
-          "melhor_oferta": "6.690,00",
-          "total_itens": 2,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9902900165 MANUTENÇÃO CORRETIVA EM GERADOR DEENERGIA:Execução de serviços de manutenção corretiva em geradores de energia elétrica do Município, abrangendo diagnóstico de falhas, reparos e normas técnicas aplicáveis. Devem ser verificados e reparados sistemas elétricos, mecânicos e de combustível, filtros, cabos, conexões e demais elementos críticos, assegurando eficiência, segurança e confiabilidade do gerador. A execução deverá ser realizada por equipe técnica qualificada, utilizando ferramentas, equipamentos e procedimentos adequados, com emissão de relatório detalhado contendo as falhas identificadas, os serviços realizados.Motor marca: BRANCO, Série: CF23007948, Código: 90316070, Modelo: JFWZF7P90, Potência: 38,8/28,6 KVA, Regime: Standby, Tensão: 380/220 V, Rotação: 1800 RPM, Peso do equipamento: 255 kg, Data de fabricação: abr/23.",
-              "unidade": "SER",
-              "quantidade": "1,00",
-              "valor_referencia": "1.766,64"
-            },
-            {
-              "numero": "2",
-              "especificacao": "9900515619 FORNECIMENTO DE PEÇAS E COMPONENTES ORIGINAIS OU COMPATÍVEIS DE QUALIDADECOMPROVADA DE GERADOR:Fornecimento de peças e componentes necessários para manutenção e corretiva de gerador. Todos os itens fornecidos deverão ser originais ou compatíveis de qualidade comprovada, garantindo a operação eficiente, segura e contínua dos equipamentos",
-              "unidade": "Und.",
-              "quantidade": "1,00",
-              "valor_referencia": "5.000,00"
             }
           ]
         }
@@ -278010,50 +277300,6 @@
       ]
     },
     {
-      "id": "5-DLE-032-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "211 / 2026",
-      "modalidade": "DISPENSA ELETRÔNICA",
-      "situacao": "RECEPÇÃO DE PROPOSTAS",
-      "condutor": "ISLA LIMA SILVA",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO",
-      "publicacao": "27/05/2026 16:51",
-      "inicio_recepcao": "06/07/2026 16:59",
-      "fim_recepcao": "14/07/2026 08:15",
-      "inicio_disputa": "14/07/2026 08:30",
-      "objeto": "Contratação de empresa especializada em fornecimento de CAPOTA BAÚ PARA VEÍCULOS MODELOS STRADA, a fim de atender as demandas da Secretaria Municipal de Promoção Social.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DkumwbS8rrwZJu_0FkJXwvK9A0YSAxt3C4cdgdPNWFVg_cbKOEEDcK_RFCKw8i4RZ8FWbGohnSW3pu5UGVw1DRj9sjNzrghwTpLq6CcTIklU%3D",
-      "total_lotes": 1,
-      "total_itens": 1,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "CAPOTA BAÚ",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "6.646,67",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9908411201 CAPOTA ESTILO BAÚ:Capota modelo baú,confeccionada em fibra de vidro de alta resistência, compatívelcom veículo tipo Strada cabine simples, dotada de tampa traseiradupla com sistema de abertura independente, equipada comfechadura com chave para travamento seguro, garantindovedação adequada, proteção contra intempéries e segurança dacarga transportada. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "UN",
-              "quantidade": "1,00",
-              "valor_referencia": "6.646,67"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "PE-080-2026",
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "311 / 2026",
@@ -278858,33 +278104,1623 @@
       ]
     },
     {
+      "id": "PE-092-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "617 / 2026",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "PUBLICADO",
+      "condutor": "JONATAS DA SILVA SOUSA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO PARCELADA",
+      "publicacao": "08/07/2026 15:07",
+      "inicio_recepcao": "10/07/2026 08:30",
+      "fim_recepcao": "22/07/2026 08:15",
+      "inicio_disputa": "22/07/2026 08:30",
+      "objeto": "Contratação de empresa especializada em fornecimento de INSUMOS HOSPITALARES E AMBULATORIAIS (material de consumo), a fim de atender as demandas da Secretaria Municipal de Saúde.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DuXkCeOWddTKeVm0rVZO03a_xhhrONvEquvoUV1FGn0Nh3fa93wYBHS0PVhX3smZH08xWp4zcpoTwzv6InbPy3AMRh%2FrJ2ydzj1hQw6YHYFI%3D",
+      "total_lotes": 34,
+      "total_itens": 34,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "9900515632 ABAIXADOR DE LINGUA:LARGURA E ESPESSURA SÃO UNIFORMES EM TODA A SUA EXTENSÃO, MEDINDO APROXIMADAMENTE 14 CM DE COMPRIMENTO, 1,4 CM DE LARGURA E 0,5 MM DE ESPESSURA. ABAIXADOR CONFECCIONADO EM MADEIRA LISA, NÃO ESTÉRIL, DESCARTÁVEL E DE USO ÚNIC",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515632 ABAIXADOR DE LINGUA:LARGURA E ESPESSURA SÃO UNIFORMES EM TODA A SUA EXTENSÃO, MEDINDO APROXIMADAMENTE 14 CM DE COMPRIMENTO, 1,4 CM DE LARGURA E 0,5 MM DE ESPESSURA. ABAIXADOR CONFECCIONADO EM MADEIRA LISA, NÃO ESTÉRIL, DESCARTÁVEL E DE USO ÚNICO.OS ABAIXADORES DE LÍNGUA EM PACOTE COM 100 UNIDADES. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "PCT",
+              "quantidade": "1.100,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "2",
+          "titulo": "9900515633 AGULHA 25X7: AGULHA HIPODÉRMICA:DESCARTÁVEL, UTILIZADA EM APLICAÇÕES MÉDICAS COMO INJEÇÕES INTRAMUSCULARES, SUBCUTÂNEAS E ENDOVENOSAS. COMPRIMENTO: 25 MM; CALIBRE: 0,70 MM (22G); MATERIAL: AÇO INOXIDÁVEL; BISEL TRIFACETADO; ESTÉRIL, EMBALADA IN",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515633 AGULHA 25X7: AGULHA HIPODÉRMICA:DESCARTÁVEL, UTILIZADA EM APLICAÇÕES MÉDICAS COMO INJEÇÕES INTRAMUSCULARES, SUBCUTÂNEAS E ENDOVENOSAS. COMPRIMENTO: 25 MM; CALIBRE: 0,70 MM (22G); MATERIAL: AÇO INOXIDÁVEL; BISEL TRIFACETADO; ESTÉRIL, EMBALADA INDIVIDUALMENTE EM BLISTER (CAIXA COM 100 UNIDADE). EXCLUSIVO PARA ME/EPP.",
+              "unidade": "CX",
+              "quantidade": "1.250,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "3",
+          "titulo": "37393 AGULHA  30X7: AGULHA HIPODÉRMICA:DESCARTÁVEL, UTILIZADA EM APLICAÇÕES MÉDICAS COMO INJEÇÕES INTRAMUSCULARES, SUBCUTÂNEAS E ENDOVENOSAS. COMPRIMENTO: 30 MM; CALIBRE: 0,70 MM (22G); MATERIAL: AÇO INOXIDÁVEL; BISEL TRIFACETADO; ESTÉRIL, EMBALADA INDIVI",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37393 AGULHA 30X7: AGULHA HIPODÉRMICA:DESCARTÁVEL, UTILIZADA EM APLICAÇÕES MÉDICAS COMO INJEÇÕES INTRAMUSCULARES, SUBCUTÂNEAS E ENDOVENOSAS. COMPRIMENTO: 30 MM; CALIBRE: 0,70 MM (22G); MATERIAL: AÇO INOXIDÁVEL; BISEL TRIFACETADO; ESTÉRIL, EMBALADA INDIVIDUALMENTE EM BLISTER, (CAIXA COM 100 UNIDADES). EXCLUSIVO PARA ME/EPP.",
+              "unidade": "CX",
+              "quantidade": "600,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "4",
+          "titulo": "9900515634 AGULHA HIPODÉRMICA 25X0,8MM::PRODUTO ESTÉRIL, DESCARTÁVEL E DE USO ÚNICO, UTILIZADO PARA APLICAÇÃO DE MEDICAMENTOS E SOLUÇÕES EM DIVERSAS VIAS, COMO ENDOVENOSA, INTRAMUSCULAR, INTRADÉRMICA E SUBCUTÂNEA. FABRICADA  EM  AÇO INOXIDÁVEL,  COM  BISE",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515634 AGULHA HIPODÉRMICA 25X0,8MM::PRODUTO ESTÉRIL, DESCARTÁVEL E DE USO ÚNICO, UTILIZADO PARA APLICAÇÃO DE MEDICAMENTOS E SOLUÇÕES EM DIVERSAS VIAS, COMO ENDOVENOSA, INTRAMUSCULAR, INTRADÉRMICA E SUBCUTÂNEA. FABRICADA EM AÇO INOXIDÁVEL, COM BISEL TRI-FACETADO E CANHÃO PLÁSTICO, POSSUI UMA TAMPA DE PROTEÇÃO, EMBALADO INDIVIDUALMENTE EM BLISTER, (CAIXA COM 100 UNIDADES). EXCLUSIVO PARA ME/EPP.",
+              "unidade": "CX",
+              "quantidade": "300,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "5",
+          "titulo": "37394 ALMOTOLIA AMBAR 250ML:DESTINADA AO ACONDICIONAMENTO DE SOLUÇÕES PARA ANTISSEPSIA DA PELE, COMO ÁLCOOL 70%, SOLUÇÕES DE IODO, ENTRE OUTRAS. CARACTERÍSTICAS DO PRODUTO: LEVE; PRÁTICO; BICO CURVO; BICO COM TAMPA; COR: ÂMBAR (MARROM); GRADUADO EM ALTO R",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37394 ALMOTOLIA AMBAR 250ML:DESTINADA AO ACONDICIONAMENTO DE SOLUÇÕES PARA ANTISSEPSIA DA PELE, COMO ÁLCOOL 70%, SOLUÇÕES DE IODO, ENTRE OUTRAS. CARACTERÍSTICAS DO PRODUTO: LEVE; PRÁTICO; BICO CURVO; BICO COM TAMPA; COR: ÂMBAR (MARROM); GRADUADO EM ALTO RELEVO COM BICO RETO. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "Und.",
+              "quantidade": "1.055,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "6",
+          "titulo": "37412 ATADURA GESSADA 5CM, FAIXA DE MATERIAL:(POLIÉSTER OU ALGODÃO) IMPREGNADA COM RESINA (GESSO SINTÉTICO OU GESSO TRADICIONAL), USADA PARA IMOBILIZAÇÃO ORTOPÉDICA DE FRATURAS, ENTORSES E LESÕES, TAMANHO DE 5 CM X 3,6M (DEDOS, PUNHOS, TORNOZELOS) MOLDAGE",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37412 ATADURA GESSADA 5CM, FAIXA DE MATERIAL:(POLIÉSTER OU ALGODÃO) IMPREGNADA COM RESINA (GESSO SINTÉTICO OU GESSO TRADICIONAL), USADA PARA IMOBILIZAÇÃO ORTOPÉDICA DE FRATURAS, ENTORSES E LESÕES, TAMANHO DE 5 CM X 3,6M (DEDOS, PUNHOS, TORNOZELOS) MOLDAGEM FÁCIL, LEVEZA E SECAGEM RÁPIDA PARA CORREÇÃO E SUPORTE, CAIXA COM 20 UNIDADES. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "CX",
+              "quantidade": "30,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "7",
+          "titulo": "37395 FITA ADESIVA HOSPITALAR BRANCA:FITA ADESIVA CREPE HOSPITALAR 16MM X 50M NA COR BRANCA - MATERIAL INDICADO PARA FIXAÇÃO DE ATADURAS, RÓTULOS DE SORO, IDENTIFICAÇÃO DE SERINGAS, FECHAMENTO DE PACOTES DE PAPEL, SMS, ENTRE OUTROS. EXCLUSIVO PARA ME/EPP.",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37395 FITA ADESIVA HOSPITALAR BRANCA:FITA ADESIVA CREPE HOSPITALAR 16MM X 50M NA COR BRANCA - MATERIAL INDICADO PARA FIXAÇÃO DE ATADURAS, RÓTULOS DE SORO, IDENTIFICAÇÃO DE SERINGAS, FECHAMENTO DE PACOTES DE PAPEL, SMS, ENTRE OUTROS. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "Und.",
+              "quantidade": "80,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "8",
+          "titulo": "37396 FIXADOR DE LÂMINA 100ML (FIXADOR CITOLÓGICO):SOLUÇÃO FIXADORA PRONTA PARA USO, ACONDICIONADA EM FRASCO COM 100 ML, DESTINADA À FIXAÇÃO DE LÂMINAS CITOLÓGICAS E HISTOLÓGICAS UTILIZADAS EM EXAMES LABORATORIAIS, COMO O EXAME CITOPATOLÓGICO (PAPANICOLAU",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37396 FIXADOR DE LÂMINA 100ML (FIXADOR CITOLÓGICO):SOLUÇÃO FIXADORA PRONTA PARA USO, ACONDICIONADA EM FRASCO COM 100 ML, DESTINADA À FIXAÇÃO DE LÂMINAS CITOLÓGICAS E HISTOLÓGICAS UTILIZADAS EM EXAMES LABORATORIAIS, COMO O EXAME CITOPATOLÓGICO (PAPANICOLAU). COMPOSTA POR AGENTES FIXADORES QUE PROMOVEM RÁPIDA PENETRAÇÃO CELULAR, PRESERVANDO A MORFOLOGIA E OS DETALHES DAS ESTRUTURAS, SEM CAUSAR ARTEFATOS OU DISTORÇÕES. PRODUTO TRANSPARENTE DE FÁCIL APLICAÇÃO POR IMERSÃO OU ASPERSÃO, GARANTINDO ADERÊNCIA ADEQUADA DAS CÉLULAS À LÂMINA E CONSERVAÇÃO DAS AMOSTRAS ATÉ OPROCESSAMENTO. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "Und.",
+              "quantidade": "520,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "9",
+          "titulo": "37397 MALHA TUBULAR 06CMX15M: ATADURA DE ALGODÃO:SEM COSTURA, USADA PARA PROTEGER A PELE ANTES DA APLICAÇÃO DE APARELHOS GESSADOS OU IMOBILIZAÇÕES ORTOPÉDICAS. DESCARTÁVEL, COM ELASTICIDADE NA LARGURA, QUE PREVINE IRRITAÇÕES CAUSADAS PELO CONTATO DIRETO C",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37397 MALHA TUBULAR 06CMX15M: ATADURA DE ALGODÃO:SEM COSTURA, USADA PARA PROTEGER A PELE ANTES DA APLICAÇÃO DE APARELHOS GESSADOS OU IMOBILIZAÇÕES ORTOPÉDICAS. DESCARTÁVEL, COM ELASTICIDADE NA LARGURA, QUE PREVINE IRRITAÇÕES CAUSADAS PELO CONTATO DIRETO COM O GESSO. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "Und.",
+              "quantidade": "30,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "10",
+          "titulo": "9900515635 MÁSCARA ADULTO PARA NEBULIZAÇÃO:FABRICADA EM PLÁSTICO FLEXÍVEL E TRANSPARENTE QUE COBRE O NARIZ E A BOCA DO PACIENTE, PERMITINDO A ADMINISTRAÇÃO EFICAZ DE MEDICAMENTOS LÍQUIDOS TRANSFORMADOS EM VAPOR FINO (NÉVOA) PELO INALADOR/NEBULIZADOR. GERA",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515635 MÁSCARA ADULTO PARA NEBULIZAÇÃO:FABRICADA EM PLÁSTICO FLEXÍVEL E TRANSPARENTE QUE COBRE O NARIZ E A BOCA DO PACIENTE, PERMITINDO A ADMINISTRAÇÃO EFICAZ DE MEDICAMENTOS LÍQUIDOS TRANSFORMADOS EM VAPOR FINO (NÉVOA) PELO INALADOR/NEBULIZADOR. GERALMENTE, ELA POSSUI ELÁSTICOS LATERAIS PARA FIXAÇÃO NA CABEÇA E UMA ENTRADA NA PARTE INFERIOR PARA CONEXÃO AO COPO DE MEDICAMENTO E À MANGUEIRA DE AR, MEDIDAS APROXIMADAS: 16 CM A 18 CM DE LARGURA POR 11 CM DE ALTURA. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "Und.",
+              "quantidade": "30,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "11",
+          "titulo": "37398 MASCARA DESCARTAVEL (CIRÚRGICA):EQUIPAMENTO DE PROTEÇÃO INDIVIDUAL (EPI); É CONFECCIONADA EM TECIDO NÃO TECIDO 100% POLIPROPILENO, POSSUINDO A GRAMATURA DE 20G/M² EM TODAS AS SUAS CAMADAS, SENDO 2 CAMADAS EM TNT E 1 UMA CAMADA INTERNA DE FILTRO MELT",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37398 MASCARA DESCARTAVEL (CIRÚRGICA):EQUIPAMENTO DE PROTEÇÃO INDIVIDUAL (EPI); É CONFECCIONADA EM TECIDO NÃO TECIDO 100% POLIPROPILENO, POSSUINDO A GRAMATURA DE 20G/M² EM TODAS AS SUAS CAMADAS, SENDO 2 CAMADAS EM TNT E 1 UMA CAMADA INTERNA DE FILTRO MELT BLOWN (COM EFICIÊNCIA DE FILTRAGEM BFE: MAIOR OU IGUAL A 95%) TOTALIZANDO TRÊS CAMADAS, CAIXA COM 50 UNIDADES. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "CX",
+              "quantidade": "1.000,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "12",
+          "titulo": "9900515637 SERINGA 3ML COM AGULHA 25X6:DISPOSITIVO MÉDICO ESTÉRIL, APIROGÊNICO E DE USO ÚNICO, PROJETADO PARA A ADMINISTRAÇÃO PRECISA DE MEDICAMENTOS OU COLETA DE FLUIDOS, O CORPO DA SERINGA POSSUI UM CILINDRO TRANSPARENTE COM MARCAÇÕES CLARAS E PRECISAS",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515637 SERINGA 3ML COM AGULHA 25X6:DISPOSITIVO MÉDICO ESTÉRIL, APIROGÊNICO E DE USO ÚNICO, PROJETADO PARA A ADMINISTRAÇÃO PRECISA DE MEDICAMENTOS OU COLETA DE FLUIDOS, O CORPO DA SERINGA POSSUI UM CILINDRO TRANSPARENTE COM MARCAÇÕES CLARAS E PRECISAS (ESCALA DE GRADUAÇÃO EM MILILITROS), PERMITINDO A LEITURA EXATA DO VOLUME ASPIRADO, CAIXA COM 100 UNIDADES. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "CX",
+              "quantidade": "250,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "13",
+          "titulo": "9900515638 SERINGA 3ML COM AGULHA 30X7:O PRODUTO INCLUI UMA AGULHA FIXA OU ACOPLADA NO TAMANHO 30X7, O QUE CORRESPONDE A 30G (CALIBRE) POR 7MM (COMPRIMENTO). FABRICADA EM MATERIAL PLÁSTICO ESTÉRIL, ATÓXICO E TRANSPARENTE, POSSUI GRADUAÇÃO NÍTIDA PARA GARA",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515638 SERINGA 3ML COM AGULHA 30X7:O PRODUTO INCLUI UMA AGULHA FIXA OU ACOPLADA NO TAMANHO 30X7, O QUE CORRESPONDE A 30G (CALIBRE) POR 7MM (COMPRIMENTO). FABRICADA EM MATERIAL PLÁSTICO ESTÉRIL, ATÓXICO E TRANSPARENTE, POSSUI GRADUAÇÃO NÍTIDA PARA GARANTIR A DOSAGEM PRECISA DE MEDICAMENTOS. É COMUMENTE UTILIZADA PARA APLICAÇÕES INTRAMUSCULARES E ENDOVENOSAS, SENDO IDEAL PARA A ADMINISTRAÇÃO DE VACINAS, INSULINA E OUTRAS SOLUÇÕES EM PROCEDIMENTOS MÉDICOS, HOSPITALARES OU PARA AUTOAPLICAÇÃO ASSISTIDA, CAIXA COM 100 UNIDADES. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "CX",
+              "quantidade": "150,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "14",
+          "titulo": "37399 SERINGA DE 1 ML, SEM AGULHA DESCARTÁVEL:LUER SLIP, ESTERILIZADA, A GÁS OXIDO DE ETILENO, ACIOPACA, EM POLIPROPILENO TRANSPARENTE, ATÓXICA, APIROGÊNICA, CILINDRO RETO SILICONIZADO, PAREDE UNIFORME, FLANGE COM FORMATO ADEQUADO, EMBOLO COM PISTÃO LUBRI",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37399 SERINGA DE 1 ML, SEM AGULHA DESCARTÁVEL:LUER SLIP, ESTERILIZADA, A GÁS OXIDO DE ETILENO, ACIOPACA, EM POLIPROPILENO TRANSPARENTE, ATÓXICA, APIROGÊNICA, CILINDRO RETO SILICONIZADO, PAREDE UNIFORME, FLANGE COM FORMATO ADEQUADO, EMBOLO COM PISTÃO LUBRIFICADO E AJUSTADO AO CILINDRO. EMBALAGEM INDIVIDUAL, EM PAPEL GRAU CIRURGICO OU FILME TERMOPLÁSTICO, ABERTURA EM PETALA. NA EMBALAGEM DEVE ESTAR IMPRESSO DADOS DE IDENTIFICAÇÃO, TIPO DE ESTERELIZAÇÃO, PROCEDENCIA, DATA DE FABRICAÇÃO, PRAZO DE VALIDADE E REGISTRO NO MINISTERIO DA SAÚDE, CAIXA COM 100 UNIDADES. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "CX",
+              "quantidade": "10,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "15",
+          "titulo": "9900515639 SERINGA DE 3ML COM AGULHA20X5,5:PROJETADO PARA A ADMINISTRAÇÃO PRECISA DE MEDICAMENTOS OU COLETA DE FLUIDOS. O KIT COMBINA UMA SERINGA DE POLIPROPILENO TRANSPARENTE, COM CAPACIDADE PARA3 MILILITROS, E UMA AGULHA HIPODÉRMICA DE AÇO INOXIDÁVEL.",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515639 SERINGA DE 3ML COM AGULHA20X5,5:PROJETADO PARA A ADMINISTRAÇÃO PRECISA DE MEDICAMENTOS OU COLETA DE FLUIDOS. O KIT COMBINA UMA SERINGA DE POLIPROPILENO TRANSPARENTE, COM CAPACIDADE PARA3 MILILITROS, E UMA AGULHA HIPODÉRMICA DE AÇO INOXIDÁVEL. A AGULHA POSSUI DIMENSÕES DE 20X5,5MM, QUE CORRESPONDEM AO CALIBRE FINO 24G (IDENTIFICADO PELA COR ROXA) E COMPRIMENTO DE 3/4 DE POLEGADA. O PRODUTO É ATÓXICO E APIROGÊNICO, GARANTINDO SEGURANÇA EM PROCEDIMENTOS QUE REQUEREM PRECISÃO NO VOLUME, CAIXA COM 100 UNIDADES. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "CX",
+              "quantidade": "600,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "16",
+          "titulo": "9900515640 SERINGA DE 3ML COM AGULHA25X7:DISPOSITIVO MÉDICO ESTÉRIL E DE USO ÚNICO, COMPOSTO POR UM CILINDRO TRANSPARENTE GRADUADO E UM ÊMBOLO SUAVE. A AGULHA EM AÇO INOXIDÁVEL, DE 25MM DE COMPRIMENTO E 0,7MM DE DIÂMETRO (CALIBRE 22G E CANHÃO CINZA), É I",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515640 SERINGA DE 3ML COM AGULHA25X7:DISPOSITIVO MÉDICO ESTÉRIL E DE USO ÚNICO, COMPOSTO POR UM CILINDRO TRANSPARENTE GRADUADO E UM ÊMBOLO SUAVE. A AGULHA EM AÇO INOXIDÁVEL, DE 25MM DE COMPRIMENTO E 0,7MM DE DIÂMETRO (CALIBRE 22G E CANHÃO CINZA), É INDICADA PARA APLICAÇÕES INTRAMUSCULARES, SUBCUTANEAS E ENDOVENOSAS, CAIXA COM 100 UNIDADES. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "CX",
+              "quantidade": "360,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "17",
+          "titulo": "37400 SERINGA DE SEGURANÇA ESTÉRIL DE10ML:DISPOSITIVO MÉDICO DESCARTÁVEL PROJETADO PARA A ADMINISTRAÇÃO SEGURA DE MEDICAMENTOS. POSSUI MECANISMO DE SEGURANÇA INTEGRADO QUE, APÓS O USO, ISOLA A AGULHA DE FORMA PERMANENTE, PREVENINDO ACIDENTES COM PERFUROC",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37400 SERINGA DE SEGURANÇA ESTÉRIL DE10ML:DISPOSITIVO MÉDICO DESCARTÁVEL PROJETADO PARA A ADMINISTRAÇÃO SEGURA DE MEDICAMENTOS. POSSUI MECANISMO DE SEGURANÇA INTEGRADO QUE, APÓS O USO, ISOLA A AGULHA DE FORMA PERMANENTE, PREVENINDO ACIDENTES COM PERFUROCORTANTES E A TRANSMISSÃO DE DOENÇAS. FABRICADA EM MATERIAL TRANSPARENTE E ESTÉRIL, POSSUI BICO LUER LOCK PARA ENCAIXE SEGURO, ACOMPANHA COM AGULHA ESTÉRIL ACOPLADA, SENDO INDICADA PARA USO HOSPITALAR E CLÍNICO, GARANTINDO A BIOSSEGURANÇA DOS PROFISSIONAIS DE SAÚDE. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "Und.",
+              "quantidade": "8.400,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "18",
+          "titulo": "37401 SERINGA LUER LOCK 5ML SEM AGULHA:HIPODÉRMICA ROSCA, COM UM ENCAIXE DE BICO EM FORMATO DE ROSCA, QUE TRAVA A AGULHA FIRMEMENTE PARA EVITAR VAZAMENTOS E DESCONEXÕES ACIDENTAIS, INDICADA PARA APLICAÇÕES QUE EXIGEM PRECISÃO, INCLUINDO ADMINISTRAÇÃO DE M",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37401 SERINGA LUER LOCK 5ML SEM AGULHA:HIPODÉRMICA ROSCA, COM UM ENCAIXE DE BICO EM FORMATO DE ROSCA, QUE TRAVA A AGULHA FIRMEMENTE PARA EVITAR VAZAMENTOS E DESCONEXÕES ACIDENTAIS, INDICADA PARA APLICAÇÕES QUE EXIGEM PRECISÃO, INCLUINDO ADMINISTRAÇÃO DE MEDICAMENTOS E COLETA DE SANGUE, CAIXA COM 100 UNIDADES. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "CX",
+              "quantidade": "10,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "19",
+          "titulo": "9900515641 TRAQUEIA PARA VENTILADOR DE TRANSPORTE:TUBO CORRUGADO FLEXÍVEL E REUTILIZÁVEL, PROJETADO PARA O TRANSPORTE SEGURO DE GASES E MISTURAS GASOSAS DO EQUIPAMENTO AO PACIENTE. MATERIAL: FABRICADA EM SILICONE DE USO MÉDICO, GERALMENTE TRANSPARENTE E I",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515641 TRAQUEIA PARA VENTILADOR DE TRANSPORTE:TUBO CORRUGADO FLEXÍVEL E REUTILIZÁVEL, PROJETADO PARA O TRANSPORTE SEGURO DE GASES E MISTURAS GASOSAS DO EQUIPAMENTO AO PACIENTE. MATERIAL: FABRICADA EM SILICONE DE USO MÉDICO, GERALMENTE TRANSPARENTE E ISENTO DE LÁTEX, O QUE GARANTE BIOCOMPATIBILIDADE (CERTIFICAÇÃO ISO 10993 EM MUITOS CASOS). DESIGN: POSSUI UMA ESTRUTURA CORRUGADA EXTERNAMENTE PARA FLEXIBILIDADE E MALEABILIDADE, ENQUANTO A PAREDE INTERNA É LISA PARA FACILITAR A LIMPEZA, ASSEPSIA E EVITAR O ACÚMULO DE CONDENSAÇÃOEXCESSIVA. COMPATIBILIDADE E USO: ITEM ESSENCIAL EM CIRCUITOS RESPIRATÓRIOS, CIRCUITOS ANESTÉSICOS E VENTILATÓRIOS (CPAP, BIPAP, RESPIRADORES PULMONARES, MÁQUINAS DE ANESTESIA). POSSUI BOCAIS/CONECTORES PADRÃO DE 22MM DE DIÂMETRO (MEDIDA UNIVERSAL PARA ADULTOS) PARA FÁCIL ACOPLAMENTO A OUTROS COMPONENTES E EQUIPAMENTOS. REUTILIZAÇÃO E ESTERILIZAÇÃO: É AUTOCLAVÁVEL, O QUE PERMITE A ESTERILIZAÇÃO A VAPOR EM TEMPERATURAS ESPECÍFICAS (EX: 121°C POR 15 MIN OU 134°C POR 4 MIN) PARA USO REPETIDO APÓS A LIMPEZA ADEQUADA. DIMENSÕES COMUNS: DISPONÍVEL EM DIVERSOS COMPRIMENTOS, SENDO OS MAIS COMUNS PARA USO ADULTO 1,20M, 1,50M E 1,80M, ADAPTANDO-SE A DIFERENTES CONFIGURAÇÕES DE TRANSPORTE E VENTILAÇÃO. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "Und.",
+              "quantidade": "10,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "20",
+          "titulo": "37402 TUBO SILICONE Nº 204:TUBO DE SILICONE DE GRAU MÉDICO/HOSPITALAR COM DIMENSÕES ESPECÍFICAS, GERALMENTE UTILIZADO EM PROCEDIMENTOS CIRÚRGICOS, TRANSFUSÕES E EQUIPAMENTOS LABORATORIAIS. MATERIAL: FABRICADO EM SILICONE ATÓXICO DE GRAU MÉDICO, COMPATÍVEL",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37402 TUBO SILICONE Nº 204:TUBO DE SILICONE DE GRAU MÉDICO/HOSPITALAR COM DIMENSÕES ESPECÍFICAS, GERALMENTE UTILIZADO EM PROCEDIMENTOS CIRÚRGICOS, TRANSFUSÕES E EQUIPAMENTOS LABORATORIAIS. MATERIAL: FABRICADO EM SILICONE ATÓXICO DE GRAU MÉDICO, COMPATÍVEL COM PROCESSOS DE ESTERILIZAÇÃO. DIMENSÕES PADRÃO: 6,0 MM DE DIÂMETRO INTERNO POR 12,0 MM DE DIÂMETRO EXTERNO, COM ESPESSURA DE PAREDE DE 3,0 MM, COMPRIMENTO: 15 METROS. RESISTÊNCIA: APRESENTA ALTA RESISTÊNCIA E FLEXIBILIDADE. PODE SER ESTERILIZADO EM AUTOCLAVE A TEMPERATURAS DE ATÉ 130°C E REUTILIZADO. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "Und.",
+              "quantidade": "10,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "21",
+          "titulo": "9900515642 KIT PAPANICOLAU DESCARTAVEL TAMANHO G::KIT COMPLETO PARA A REALIZAÇÃO DO EXAME DE PAPANICOLAU, CONTENDO 1 ESPÁTULA DE AYRES, 1 ESCOVA CERVICAL, 1 LÂMINA DE VIDRO, 1 CAIXA PORTA LÂMINAS, 1 PAR DE LUVAS E 1 ESPÉCULO TAMANHO G. PRODUTO DE USO ÚNIC",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515642 KIT PAPANICOLAU DESCARTAVEL TAMANHO G::KIT COMPLETO PARA A REALIZAÇÃO DO EXAME DE PAPANICOLAU, CONTENDO 1 ESPÁTULA DE AYRES, 1 ESCOVA CERVICAL, 1 LÂMINA DE VIDRO, 1 CAIXA PORTA LÂMINAS, 1 PAR DE LUVAS E 1 ESPÉCULO TAMANHO G. PRODUTO DE USO ÚNICO, DESCARTÁVEL, EMBALADO INDIVIDUALMENTE. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "KIT",
+              "quantidade": "6.500,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "22",
+          "titulo": "37403 KIT PAPANICOLAU DESCARTAVEL TAMANHO P:KIT COMPLETO PARA A REALIZAÇÃO DO EXAME DE PAPANICOLAU, CONTENDO 1 ESPÁTULA DE AYRES, 1 ESCOVA CERVICAL, 1 LÂMINA DE VIDRO, 1 CAIXA PORTA LÂMINAS, 1 PAR DE LUVAS E 1 ESPÉCULO TAMANHO P. PRODUTO DE USO ÚNICO, DES",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37403 KIT PAPANICOLAU DESCARTAVEL TAMANHO P:KIT COMPLETO PARA A REALIZAÇÃO DO EXAME DE PAPANICOLAU, CONTENDO 1 ESPÁTULA DE AYRES, 1 ESCOVA CERVICAL, 1 LÂMINA DE VIDRO, 1 CAIXA PORTA LÂMINAS, 1 PAR DE LUVAS E 1 ESPÉCULO TAMANHO P. PRODUTO DE USO ÚNICO, DESCARTÁVEL, EMBALADO INDIVIDUALMENTE. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "KIT",
+              "quantidade": "17.550,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "23",
+          "titulo": "37404 KIT PAPANICOLAU DESCARTAVEL TAMANHO M:KIT COMPLETO PARA A REALIZAÇÃO DO EXAME DE PAPANICOLAU, CONTENDO 1 ESPÁTULA DE AYRES, 1 ESCOVA CERVICAL, 1 LÂMINA DE VIDRO, 1 CAIXA PORTA LÂMINAS, 1 PAR DE LUVAS E 1 ESPÉCULO TAMANHO M. PRODUTO DE USO ÚNICO, DES",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37404 KIT PAPANICOLAU DESCARTAVEL TAMANHO M:KIT COMPLETO PARA A REALIZAÇÃO DO EXAME DE PAPANICOLAU, CONTENDO 1 ESPÁTULA DE AYRES, 1 ESCOVA CERVICAL, 1 LÂMINA DE VIDRO, 1 CAIXA PORTA LÂMINAS, 1 PAR DE LUVAS E 1 ESPÉCULO TAMANHO M. PRODUTO DE USO ÚNICO, DESCARTÁVEL, EMBALADO INDIVIDUALMENTE.",
+              "unidade": "KIT",
+              "quantidade": "19.800,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "24",
+          "titulo": "9900515643 LÂMINA DE BISTURI NÚMERO 11:CAIXA COM100 UNIDADES: DESCARTÁVEL, ESTÉRIL, EM AÇO INOXIDÁVEL, SEM REBARBAS, COM CORTE AFIADO E QUE SE ADAPTEM AOS CABOS DE BISTURI PADRÃO. EXCLUSIVO PARA ME/EPP.",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515643 LÂMINA DE BISTURI NÚMERO 11:CAIXA COM100 UNIDADES: DESCARTÁVEL, ESTÉRIL, EM AÇO INOXIDÁVEL, SEM REBARBAS, COM CORTE AFIADO E QUE SE ADAPTEM AOS CABOS DE BISTURI PADRÃO. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "CX",
+              "quantidade": "100,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "25",
+          "titulo": "37405 LÂMINA DE BISTURI NÚMERO 15:CAIXA COM 100 UNIDADES: DESCARTÁVEL, ESTÉRIL, EM AÇO INOXIDÁVEL, SEM REBARBAS, COM CORTE AFIADO E QUE SE ADAPTEM AOS CABOS DE BISTURI PADRÃO. EXCLUSIVO PARA ME/EPP.",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37405 LÂMINA DE BISTURI NÚMERO 15:CAIXA COM 100 UNIDADES: DESCARTÁVEL, ESTÉRIL, EM AÇO INOXIDÁVEL, SEM REBARBAS, COM CORTE AFIADO E QUE SE ADAPTEM AOS CABOS DE BISTURI PADRÃO. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "CX",
+              "quantidade": "150,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "26",
+          "titulo": "9900515645 LÂMINA DE BISTURI NÚMERO 24:CAIXA COM100 UNIDADES: DESCARTÁVEL, ESTÉRIL EM AÇO INOXIDÁVEL, SEM REBARBAS, COM CORTE AFIADO E QUE SE ADAPTEM AOS CABOS DE BISTURI PADRÃO. EMBALAGEM: CAIXA COM 100 UNIDADES INDIVIDUAIS, EM PAPEL LAMINADO, ABERTURA",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515645 LÂMINA DE BISTURI NÚMERO 24:CAIXA COM100 UNIDADES: DESCARTÁVEL, ESTÉRIL EM AÇO INOXIDÁVEL, SEM REBARBAS, COM CORTE AFIADO E QUE SE ADAPTEM AOS CABOS DE BISTURI PADRÃO. EMBALAGEM: CAIXA COM 100 UNIDADES INDIVIDUAIS, EM PAPEL LAMINADO, ABERTURA EM PÉTALA. NA EMBALAGEM DEVERÁ ESTAR IMPRESSO DADOS DE IDENTIFICAÇÃO, TIPO DE ESTERILIZAÇÃO, PROCEDÊNCIA, DATA DE FABRICAÇÃO, PRAZO DE VALIDADE E REGISTRO NO MINISTÉRIO DA SAÚDE. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "CX",
+              "quantidade": "100,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "27",
+          "titulo": "37408 LANCETA PARA LANCETADOR 30G:ESPESSURA ULTRAFINA (30G) COM PONTA TRIANGULAR PARA PUNÇÃO INDOLOR; PENETRAÇÃO CONSISTENTE; FORMATO UNIVERSAL PARA A MAIORIA DOS LANCETADORES EXISTENTES; PRODUTOESTERILIZADO POR RADIAÇÃO GAMA. DESCARTÁVEL. CAIXA COM 100 U",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37408 LANCETA PARA LANCETADOR 30G:ESPESSURA ULTRAFINA (30G) COM PONTA TRIANGULAR PARA PUNÇÃO INDOLOR; PENETRAÇÃO CONSISTENTE; FORMATO UNIVERSAL PARA A MAIORIA DOS LANCETADORES EXISTENTES; PRODUTOESTERILIZADO POR RADIAÇÃO GAMA. DESCARTÁVEL. CAIXA COM 100 UNIDADES. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "CX",
+              "quantidade": "50,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "28",
+          "titulo": "9900515647 SERINGA DE 20 ML LUER-LOCK:SEM AGULHA, DESCARTÁVEL, ESTÉRIL: PRODUTO EM POLIPROPILENO, TRANSPARENTE, ATÓXICA, APIROGÊNICA, CILINDRO RETO, SILICONIZADA, PAREDE UNIFORME, ANEL DE RETENÇÃO QUE IMPEÇA E DESPRENDIMENTO DO ÊMBOLO CILINDRO, BICO COM R",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515647 SERINGA DE 20 ML LUER-LOCK:SEM AGULHA, DESCARTÁVEL, ESTÉRIL: PRODUTO EM POLIPROPILENO, TRANSPARENTE, ATÓXICA, APIROGÊNICA, CILINDRO RETO, SILICONIZADA, PAREDE UNIFORME, ANEL DE RETENÇÃO QUE IMPEÇA E DESPRENDIMENTO DO ÊMBOLO CILINDRO, BICO COM ROSCA QUE GARANTA CONEXÕES SEGURAS, FLANGE QUE DE APOIO AOS DEDOS, ÊMBOLO COM PISTÃO LUBRIFICADO E AJUSTADO AO CILINDRO, COM GRADUAÇÃO EM ML, NÚMEROS E TRAÇOS LEGÍVEIS. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "Und.",
+              "quantidade": "100.000,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "29",
+          "titulo": "37409 AGULHA HIPODÉRMICA 40 X 1,2MM:COMPOSTA  POR: CÂNULA: AÇO INOX, SILICONIZADA; CANHÃO: PLÁSTICO, EM CORES DE ACORDO COM O PADRÃO DE CODIFICAÇÃO DO CALIBRE. CONEXÃO: PADRÃO, ADAPTÁVEL A SERINGAS E OUTROS DISPOSITIVOS; BISEI: TRIFACETADO, ATRAUMATICO; T",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37409 AGULHA HIPODÉRMICA 40 X 1,2MM:COMPOSTA POR: CÂNULA: AÇO INOX, SILICONIZADA; CANHÃO: PLÁSTICO, EM CORES DE ACORDO COM O PADRÃO DE CODIFICAÇÃO DO CALIBRE. CONEXÃO: PADRÃO, ADAPTÁVEL A SERINGAS E OUTROS DISPOSITIVOS; BISEI: TRIFACETADO, ATRAUMATICO; TAMPA: PLÁSTICA PROTETORA; TRATAMENTO: APIROGÊNICA, ATÓXICA; ESTERILIDADE: ESTÉRIL; USO: DESCARTÁVEL. CAIXA COM 100 UNIDADES. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "CX",
+              "quantidade": "6.500,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "30",
+          "titulo": "37410 EQUIPO MULTIVIAS COM CLAMP 2 VIAS:ESTÉRIL, APIROGÊNICO, ATÓXICO. DUAS EXTREMIDADES PROXIMAIS COM CONECTORES LUER LOCK FÊMEA. DUAS EXTENSÕES EM PVC DOTADAS DE CLAMP (ABRE/FECHA). UM INTERMEDIÁRIO EM Y UNINDO A EXTENSÃO DISTAL. CONEXÃO LUER DISTAL PAR",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37410 EQUIPO MULTIVIAS COM CLAMP 2 VIAS:ESTÉRIL, APIROGÊNICO, ATÓXICO. DUAS EXTREMIDADES PROXIMAIS COM CONECTORES LUER LOCK FÊMEA. DUAS EXTENSÕES EM PVC DOTADAS DE CLAMP (ABRE/FECHA). UM INTERMEDIÁRIO EM Y UNINDO A EXTENSÃO DISTAL. CONEXÃO LUER DISTAL PARA DISPOSITIVO DE ACESSO VENOSO. EMBALAGEM PAPEL GRAU CIRÚRGICO, ESTERILIZADO POR RADIAÇÃO GAMA. NA EMBALAGEM DEVERÁ ESTAR IMPRESSO DADOS DE IDENTIFICAÇÃO, TIPO DE ESTERILIZAÇÃO, PROCEDÊNCIA, DATA DE FABRICAÇÃO, PRAZO DE VALIDADE E REGISTRO NO MINISTÉRIO DA SAÚDE.",
+              "unidade": "Und.",
+              "quantidade": "112.500,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "31",
+          "titulo": "37411 SCALP DISPOSITIVO:PARA PUNÇÃO VENOSA PERIFÉRICA Nº 19 DESCARTÁVEL, ESTÉRIL, ATÓXICO, APIROGÊNICO, AGULHA EM AÇO INOX, SILICONIZADA, BISEI CURTO, BIANGULADO, TRIFACETADO, AFIADO, COM PROTETOR DE AGULHA TRANSPARENTE, ASAS COM FORMATO BORBOLETA, LISA,",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37411 SCALP DISPOSITIVO:PARA PUNÇÃO VENOSA PERIFÉRICA Nº 19 DESCARTÁVEL, ESTÉRIL, ATÓXICO, APIROGÊNICO, AGULHA EM AÇO INOX, SILICONIZADA, BISEI CURTO, BIANGULADO, TRIFACETADO, AFIADO, COM PROTETOR DE AGULHA TRANSPARENTE, ASAS COM FORMATO BORBOLETA, LISA, FLEXÍVEL, COM O NÚMERO DA AGULHA, TUBO EXTENSOR EM PVC, FLEXÍVEL, TRANSPARENTE, COM APROXIMADAMENTE 30 CM DE COMPRIMENTO, RESISTENTE A DOBRA E CONECTOR LUER-LOCK COM TAMPA ENROSCADA. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "Und.",
+              "quantidade": "3.000,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "31",
+          "titulo": "37411 SCALP DISPOSITIVO:PARA PUNÇÃO VENOSA PERIFÉRICA Nº 19 DESCARTÁVEL, ESTÉRIL, ATÓXICO, APIROGÊNICO, AGULHA EM AÇO INOX, SILICONIZADA, BISEI CURTO, BIANGULADO, TRIFACETADO, AFIADO, COM PROTETOR DE AGULHA TRANSPARENTE, ASAS COM FORMATO BORBOLETA, LISA,",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37411 SCALP DISPOSITIVO:PARA PUNÇÃO VENOSA PERIFÉRICA Nº 19 DESCARTÁVEL, ESTÉRIL, ATÓXICO, APIROGÊNICO, AGULHA EM AÇO INOX, SILICONIZADA, BISEI CURTO, BIANGULADO, TRIFACETADO, AFIADO, COM PROTETOR DE AGULHA TRANSPARENTE, ASAS COM FORMATO BORBOLETA, LISA, FLEXÍVEL, COM O NÚMERO DA AGULHA, TUBO EXTENSOR EM PVC, FLEXÍVEL, TRANSPARENTE, COM APROXIMADAMENTE 30 CM DE COMPRIMENTO, RESISTENTE A DOBRA E CONECTOR LUER-LOCK COM TAMPA ENROSCADA. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "Und.",
+              "quantidade": "3.000,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "32",
+          "titulo": "9900515648 SERINGA DE 5ML LUER SLIP SEM AGULHA:ESTÉRIL POLIPROPILENO, TRANSPARENTE, ATÓXICA, APIROGÊNICA, CILINDRO RETO, SILICONIZADO, PAREDE UNIFORME, ANEL DE RETENÇÃO QUE IMPEÇA E DESPRENDIMENTO DO EMBOLO DO CILINDRO, BICO SEM ROSCA E QUE GARANTA CONEX",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515648 SERINGA DE 5ML LUER SLIP SEM AGULHA:ESTÉRIL POLIPROPILENO, TRANSPARENTE, ATÓXICA, APIROGÊNICA, CILINDRO RETO, SILICONIZADO, PAREDE UNIFORME, ANEL DE RETENÇÃO QUE IMPEÇA E DESPRENDIMENTO DO EMBOLO DO CILINDRO, BICO SEM ROSCA E QUE GARANTA CONEXÕES SEGURAS, FLANGE COM FORMATO ADEQUADO, EMBOLO COM PISTÃO LUBRIFICADO E AJUSTADO AO CILINDRO. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "Und.",
+              "quantidade": "170.000,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "33",
+          "titulo": "37518 KIT PAPANICOLAU DESCARTAVEL TAMANHO M::KIT COMPLETO PARA A REALIZAÇÃO DO EXAME DE PAPANICOLAU, CONTENDO 1 ESPÁTULA DE AYRES, 1 ESCOVA CERVICAL, 1 LÂMINA DE VIDRO, 1 CAIXA PORTALÂMINAS, 1 PAR DE LUVAS E 1 ESPÉCULO TAMANHO M. PRODUTO DE USO ÚNICO, DE",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37518 KIT PAPANICOLAU DESCARTAVEL TAMANHO M::KIT COMPLETO PARA A REALIZAÇÃO DO EXAME DE PAPANICOLAU, CONTENDO 1 ESPÁTULA DE AYRES, 1 ESCOVA CERVICAL, 1 LÂMINA DE VIDRO, 1 CAIXA PORTALÂMINAS, 1 PAR DE LUVAS E 1 ESPÉCULO TAMANHO M. PRODUTO DE USO ÚNICO, DESCARTÁVEL, EMBALADOINDIVIDUALMENTE. COTA 25% RESERVADO PARA ME/EPP.",
+              "unidade": "KIT",
+              "quantidade": "6.600,00",
+              "valor_referencia": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-097-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "408 / 2026",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "HABILITAÇÃO",
+      "condutor": "SERGIO CARNEIRO CAVALCANTI DE AZEVEDO",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO",
+      "publicacao": "18/06/2026 16:15",
+      "inicio_recepcao": "22/06/2026 08:30",
+      "fim_recepcao": "03/07/2026 08:15",
+      "inicio_disputa": "03/07/2026 08:30",
+      "objeto": "Contratação de empresa especializada em fornecimento de CARRINHOS COLETORES DE LIMPEZA (material permanente), a fim de atender as demandas da Secretaria Municipal de Educação.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DhKif25H08Q2MyROjCkJFqdVxNXg_NsB%2F_bOk_d%2FRFBAt1D83TZViBIhX1EqbvWUkvqG3a0PbYObIfkpyLaiq3NRwlL7qGeU2kzGkylEgEGk%3D",
+      "total_lotes": 1,
+      "total_itens": 1,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "CARRINHOS COLETORES DE LIMPEZA",
+          "fase": "HABILITAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "344.841,20",
+          "vencedor": "TRS COMERCIO DE PRODUTOS HOSPITALARES LTDA",
+          "melhor_oferta": "344.841,20",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900830484 CARRINHO FUNCIONAL DE LIMPEZAPROFISSIONAL:tipo kit completo com coletor de resíduos,destinado à limpeza úmida e seca de pisos em ambientesescolares e administrativos, adequado para superfícies comocerâmica, porcelanato, granilite, paviflex, cimento queimado,entre outros, com estrutura resistente em plástico de altadurabilidade (PEAD ou PP), com design tipo caminhão grande,dotado de compartimentos para organização de utensílios ecaçamba móvel basculante para coleta de resíduos, comcapacidade entre 50 e 120 litros e encaixe para saco ou cesto delixo, equipado com no mínimo 4 (quatro) e até 6 (seis) rodasgiratórias que permitam fácil movimentação e estabilidade, comdimensões mínimas aproximadas de 50 x 22 x 22 cm, devendoacompanhar balde duplo com capacidade mínima de 30 litroscom sistema de espremedor, cabo em alumínio comcomprimento aproximado de 1,40 m, haste tipo euro em materialplástico resistente, refil mop úmido em algodão ou microfibracom gramatura mínima de 300 g, conjunto mop pó com armaçãoe refil com largura mínima de 60 cm, pá coletora de resíduos eplaca sinalizadora de segurança tipo \"piso molhado\",disponibilizado em cores como azul, cinza ou similar, atendendoàs normas aplicáveis da ANVISA e da ABNT para uso emambientes institucionais.",
+              "unidade": "UN",
+              "quantidade": "220,00",
+              "valor_referencia": "1.567,46"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3-DLE-057-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "516 / 2026",
+      "modalidade": "DISPENSA ELETRÔNICA",
+      "situacao": "HOMOLOGADO",
+      "condutor": "ISAQUE SILVA DOS SANTOS",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO",
+      "publicacao": "10/06/2026 18:26",
+      "inicio_recepcao": "23/06/2026 10:15",
+      "fim_recepcao": "30/06/2026 08:15",
+      "inicio_disputa": "30/06/2026 08:30",
+      "objeto": "Contratação de empresa especializada em prestação de serviço de MANUTENÇÃO CORRETIVA COM FORNECIMENTO DE PEÇAS E COMPONENTES ORIGINAIS OU COMPATÍVEIS DE GERADOR DE ENERGIA, a fim de atender as demandas da Secretaria Municipal de Saúde.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5D00IGcI7sRy21fCG0CPdJKh%2FjYs3v%2FEy1CWZUAVcuc_s1sz1DMA5nfep2asQvF_OMF7zkGD8t5OzB8f64ekv42WQc4TSi%2FiAcX_TfDFS5RPM%3D",
+      "total_lotes": 1,
+      "total_itens": 2,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "MANUTENÇÃO GERADORES",
+          "fase": "HOMOLOGADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "6.766,64",
+          "vencedor": "RM SERVIÇOS ELÉTRICOS E INDUSTRIAIS LTDA",
+          "melhor_oferta": "6.690,00",
+          "total_itens": 2,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9902900165 MANUTENÇÃO CORRETIVA EM GERADOR DEENERGIA:Execução de serviços de manutenção corretiva em geradores de energia elétrica do Município, abrangendo diagnóstico de falhas, reparos e normas técnicas aplicáveis. Devem ser verificados e reparados sistemas elétricos, mecânicos e de combustível, filtros, cabos, conexões e demais elementos críticos, assegurando eficiência, segurança e confiabilidade do gerador. A execução deverá ser realizada por equipe técnica qualificada, utilizando ferramentas, equipamentos e procedimentos adequados, com emissão de relatório detalhado contendo as falhas identificadas, os serviços realizados.Motor marca: BRANCO, Série: CF23007948, Código: 90316070, Modelo: JFWZF7P90, Potência: 38,8/28,6 KVA, Regime: Standby, Tensão: 380/220 V, Rotação: 1800 RPM, Peso do equipamento: 255 kg, Data de fabricação: abr/23.",
+              "unidade": "SER",
+              "quantidade": "1,00",
+              "valor_referencia": "1.766,64"
+            },
+            {
+              "numero": "2",
+              "especificacao": "9900515619 FORNECIMENTO DE PEÇAS E COMPONENTES ORIGINAIS OU COMPATÍVEIS DE QUALIDADECOMPROVADA DE GERADOR:Fornecimento de peças e componentes necessários para manutenção e corretiva de gerador. Todos os itens fornecidos deverão ser originais ou compatíveis de qualidade comprovada, garantindo a operação eficiente, segura e contínua dos equipamentos",
+              "unidade": "Und.",
+              "quantidade": "1,00",
+              "valor_referencia": "5.000,00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-090-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "342 / 2026",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "HABILITAÇÃO",
+      "condutor": "JONATAS DA SILVA SOUSA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO PARCELADA",
+      "publicacao": "03/06/2026 16:17",
+      "inicio_recepcao": "09/06/2026 08:30",
+      "fim_recepcao": "19/06/2026 13:45",
+      "inicio_disputa": "19/06/2026 14:00",
+      "objeto": "Contratação de empresa especializada em fornecimento de TECIDOS E LUVAS (material de consumo), a fim de atender às demandas da Secretaria Municipal de Educação.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5D6IZyYEUQl6cvSHPQi6Og1limcRHrAPwfJgcnU9ZE82ASGglQpriOQH7r87ot1iMYmBlW_eJvmtmRIsmiVVWCoxqTGUyw%2FvBj%2Fv2nLR4W660%3D",
+      "total_lotes": 18,
+      "total_itens": 18,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "8300500037 Cetim:tecido sintético em cores diversas a serem indicadas no momento da contratação e emissão de OFs, de superfície brilhante e toque suave, composto por 100% poliéster, com gramatura de 90 g/m² e largura de 1,40m. Adequado para confecção de f",
+          "fase": "HABILITAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "4.068,00",
+          "vencedor": "EMPREENDIMENTOS BRAZ LTDA",
+          "melhor_oferta": "1.600,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "8300500037 Cetim:tecido sintético em cores diversas a serem indicadas no momento da contratação e emissão de OFs, de superfície brilhante e toque suave, composto por 100% poliéster, com gramatura de 90 g/m² e largura de 1,40m. Adequado para confecção de figurinos, painéis decorativos, fundos de palco, adereços cênicos e ambientação de espaços escolares e institucionais. O tecido deverá apresentar estrutura uniforme, sem falhas de tecelagem, desfiados, furos, rasgos, manchas ou variações acentuadas de tonalidade dentro do mesmo lote, garantindo padrão estético contínuo. O fornecimento deverá ocorrer em metro linear, em rolos ou peças contínuas, sem emendas na área útil, com cortes retos e bordas íntegras, apto ao uso imediato em eventos institucionais, atividades pedagógicas, solenidades e demais ações da Rede Municipal de Educação.",
+              "unidade": "M",
+              "quantidade": "400,00",
+              "valor_referencia": "10,17"
+            }
+          ]
+        },
+        {
+          "numero": "2",
+          "titulo": "8300500038 Malha:incluindo variações com elastano (tipo Lycra), em cores diversas a serem indicadas no momento da contratação e emissão de OFs, de malha circular, composta por poliéster ou poliamida com elastano, com boa elasticidade e recuperação, gramat",
+          "fase": "HABILITAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "6.400,00",
+          "vencedor": "EMPREENDIMENTOS BRAZ LTDA",
+          "melhor_oferta": "2.796,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "8300500038 Malha:incluindo variações com elastano (tipo Lycra), em cores diversas a serem indicadas no momento da contratação e emissão de OFs, de malha circular, composta por poliéster ou poliamida com elastano, com boa elasticidade e recuperação, gramatura de 180 g/m² e largura de 1,50 m.Indicada para figurinos infantis e adultos, roupas temáticas, adereços cênicos e elementos decorativos que exijam mobilidade e ajuste ao corpo em apresentações, projetos pedagógicos e eventos escolares. O tecido deve apresentar superfície regular, sem furos, rasgos, bolinhas (pilling), manchas ou deformações, mantendo conforto, resistência e segurança no uso por estudantes e profissionais. O fornecimento será em metro linear, em rolos contínuos, sem emendas na extensão útil, com cortes precisos e acondicionamento adequado, de forma a atender às demandas recorrentes de ornamentação e atividades pedagógicas da Rede Municipal de Educação.",
+              "unidade": "M",
+              "quantidade": "400,00",
+              "valor_referencia": "16,00"
+            }
+          ]
+        },
+        {
+          "numero": "3",
+          "titulo": "8300500039 Oxford:tecido sintético em cores diversas a serem indicadas no momento da contratação e emissão de OFs, composto predominantemente por poliéster, com entrelaçamento firme, gramatura de 110 g/m² e largura de 1,50 m. Indicado para confecção de un",
+          "fase": "HABILITAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "7.552,50",
+          "vencedor": "EMPREENDIMENTOS BRAZ LTDA",
+          "melhor_oferta": "4.200,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "8300500039 Oxford:tecido sintético em cores diversas a serem indicadas no momento da contratação e emissão de OFs, composto predominantemente por poliéster, com entrelaçamento firme, gramatura de 110 g/m² e largura de 1,50 m. Indicado para confecção de uniformes simples, toalhas, painéis, bandeiras, fundos de palco, faixas e outros elementos decorativos utilizados em eventos institucionais, reuniões, formaturas, feiras pedagógicas e ações de integração com a comunidade escolar. O tecido deverá ser resistente, com acabamento opaco, textura homogênea, boa estabilidade dimensional e ausência de furos, rasgos, manchas, falhas de tecelagem ou desbotamento acentuado. O fornecimento ocorrerá em metro linear, em rolos contínuos, sem emendas na área útil, garantindo durabilidade e padrão visual compatível com a relevância das atividades desenvolvidas na Rede Municipal de Ensino.",
+              "unidade": "M",
+              "quantidade": "750,00",
+              "valor_referencia": "10,07"
+            }
+          ]
+        },
+        {
+          "numero": "4",
+          "titulo": "37330 Tule:tecido leve em cores diversas a serem indicadas no momento da contratação e emissão de OFs, de malha aberta, fino, transparente e maleável, composto por 100% poliamida ou poliéster, com largura de 1,40 m. Destinado à confecção de saias volumosa",
+          "fase": "HABILITAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "3.860,00",
+          "vencedor": "EMPREENDIMENTOS BRAZ LTDA",
+          "melhor_oferta": "1.080,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37330 Tule:tecido leve em cores diversas a serem indicadas no momento da contratação e emissão de OFs, de malha aberta, fino, transparente e maleável, composto por 100% poliamida ou poliéster, com largura de 1,40 m. Destinado à confecção de saias volumosas, sobreposições de figurinos, cenários, arranjos decorativos e demais elementos utilizados em apresentações culturais, eventos comemorativos, festas escolares e projetos pedagógicos temáticos. O tule deverá apresentar malha uniforme, sem rasgos, furos, deformações, fios rompidos ou manchas, proporcionando bom caimento e efeito visual adequado sob iluminação de palco ou ambientes internos. O fornecimento será realizado em metro linear, em rolos ou peças contínuas, preferencialmente sem emendas na área útil, prontos para uso em ornamentação e ambientação no âmbito da Rede Municipal de Educação.",
+              "unidade": "M",
+              "quantidade": "400,00",
+              "valor_referencia": "9,65"
+            }
+          ]
+        },
+        {
+          "numero": "5",
+          "titulo": "37331 Juta:tecido de origem natural, em cores diversas a serem indicadas no momento da contratação e emissão de OFs, de aspecto rústico, fabricado com fibras vegetais, com gramatura elevada em torno de 300 g/m² e largura de 1,40 m. Indicado para decoração",
+          "fase": "HABILITAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "9.240,00",
+          "vencedor": "EMPREENDIMENTOS BRAZ LTDA",
+          "melhor_oferta": "7.560,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37331 Juta:tecido de origem natural, em cores diversas a serem indicadas no momento da contratação e emissão de OFs, de aspecto rústico, fabricado com fibras vegetais, com gramatura elevada em torno de 300 g/m² e largura de 1,40 m. Indicado para decoração temática, cenários com apelo rústico, painéis, revestimento de mesas, stands e atividades de artesanato em feiras pedagógicas, projetos culturais, festas juninas e demais eventos escolares. O tecido deverá apresentar trama firme, boa resistência mecânica, baixa quantidade de impurezas, sem rasgos excessivos, furos significativos, manchas intensas ou odores não característicos do material. O fornecimento ocorrerá em metro linear, em peças contínuas, garantindo segurança no manuseio e qualidade visual condizente com a proposta educativa, cultural e institucional da Rede Municipal de Ensino.",
+              "unidade": "M",
+              "quantidade": "400,00",
+              "valor_referencia": "23,10"
+            }
+          ]
+        },
+        {
+          "numero": "6",
+          "titulo": "37332 Algodão cru:tecido plano em cores diversas a serem indicadas no momento da contratação e emissão de OFs (preferencialmente naturais ou em tons claros), 100% algodão, sem tingimento intenso ou acabamento químico agressivo, com gramatura de 150 g/m² e",
+          "fase": "HABILITAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "5.228,00",
+          "vencedor": "EMPREENDIMENTOS BRAZ LTDA",
+          "melhor_oferta": "4.480,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37332 Algodão cru:tecido plano em cores diversas a serem indicadas no momento da contratação e emissão de OFs (preferencialmente naturais ou em tons claros), 100% algodão, sem tingimento intenso ou acabamento químico agressivo, com gramatura de 150 g/m² e largura de 1,40 m. Destinado à realização de atividades educativas, artísticas e artesanais, como pintura, colagem, produção de painéis, cenários, banners e peças decorativas para uso em salas de aula, corredores, auditórios e demais espaços escolares. O tecido deverá apresentar superfície homogênea, estrutura firme, sem furos, rasgos, manchas significativas, deformações ou odores intensos, permitindo escrita, pintura e colagem com boa aderência. O fornecimento será em metro linear, em peças contínuas, com cortes retos, apto ao uso por estudantes e equipes pedagógicas em projetos escolares e eventos institucionais.",
+              "unidade": "M",
+              "quantidade": "400,00",
+              "valor_referencia": "13,07"
+            }
+          ]
+        },
+        {
+          "numero": "7",
+          "titulo": "37333 Oxford xadrez:variação estampada do tecido Oxford, em padrão xadrez e cores diversas, composto por 100% poliéster, com gramatura de 110 g/m² e largura de 1,50 m. Adequado para composições temáticas, decoração de festas escolares (como festas juninas",
+          "fase": "HABILITAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "6.612,00",
+          "vencedor": "EMPREENDIMENTOS BRAZ LTDA",
+          "melhor_oferta": "3.040,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37333 Oxford xadrez:variação estampada do tecido Oxford, em padrão xadrez e cores diversas, composto por 100% poliéster, com gramatura de 110 g/m² e largura de 1,50 m. Adequado para composições temáticas, decoração de festas escolares (como festas juninas), confecção de toalhas, bandeirolas, aventais, detalhes de figurinos e elementos visuais utilizados em projetos pedagógicos que envolvam ambientação de espaços. A estampa deverá ser regular, sem falhas de impressão, sem desbotamento acentuado ou diferenças marcantes de tonalidade entre rolos do mesmo lote. O fornecimento deve ser em metro linear, em rolos contínuos, sem emendas na área útil, livre de furos, rasgos, manchas e falhas de tecelagem, garantindo acabamento visual adequado às ações educativas e culturais da Rede Municipal de Ensino.",
+              "unidade": "M",
+              "quantidade": "400,00",
+              "valor_referencia": "16,53"
+            }
+          ]
+        },
+        {
+          "numero": "8",
+          "titulo": "8300500040 TNT (tecido não tecido):material sintético em cores diversas a serem indicadas no momento da contratação e emissão de OFs, produzido por agulhamento ou colagem de fibras, com gramatura entre 40 g/m² e 80 g/m² e largura de 1,40m. Amplamente uti",
+          "fase": "HABILITAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "1.468,00",
+          "vencedor": "EMPREENDIMENTOS BRAZ LTDA",
+          "melhor_oferta": "676,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "8300500040 TNT (tecido não tecido):material sintético em cores diversas a serem indicadas no momento da contratação e emissão de OFs, produzido por agulhamento ou colagem de fibras, com gramatura entre 40 g/m² e 80 g/m² e largura de 1,40m. Amplamente utilizado para decoração de ambientes escolares, revestimento de painéis, confecção de fundos de palco, faixas, molduras, elementos cenográficos e partes de figurinos de uso pontual em atividades pedagógicas e culturais. O material deverá apresentar superfície uniforme, sem rasgos, furos, falhas na estrutura, manchas intensas ou acúmulo excessivo de partículas soltas, garantindo segurança e facilidade de manuseio. O fornecimento será em metro linear, em rolos contínuos, com cortes retos e acondicionamento adequado, destinado ao atendimento das demandas de ornamentação, ambientação e execução de projetos e eventos no âmbito da Rede Municipal de Educação.",
+              "unidade": "M",
+              "quantidade": "400,00",
+              "valor_referencia": "3,67"
+            }
+          ]
+        },
+        {
+          "numero": "9",
+          "titulo": "37334 Feltro:tecido denso e macio em cores diversas a serem indicadas no momento da contratação e emissão de OFs, composto por fibras sintéticas ou naturais prensadas, com gramatura de 300 g/m² e largura de 1,40 m. Indicado para trabalhos de artesanato, p",
+          "fase": "HABILITAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "5.844,00",
+          "vencedor": "EMPREENDIMENTOS BRAZ LTDA",
+          "melhor_oferta": "4.480,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37334 Feltro:tecido denso e macio em cores diversas a serem indicadas no momento da contratação e emissão de OFs, composto por fibras sintéticas ou naturais prensadas, com gramatura de 300 g/m² e largura de 1,40 m. Indicado para trabalhos de artesanato, produção de painéis decorativos, letras e figuras recortadas, confecção de máscaras, adereços, elementos estruturais de figurinos e materiais de apoio visual utilizados em atividades pedagógicas, apresentações artísticas e eventos escolares. O feltro deverá apresentar superfície uniforme, sem furos, rasgos, manchas, deformações, odores intensos ou excesso de resíduos soltos, permitindo cortes limpos e boa fixação com colas ou costuras. O fornecimento será em metro linear, em cortes contínuos, sem emendas na área útil, garantindo durabilidade, segurança no manuseio e qualidade estética compatível com as ações da Rede Municipal de Ensino.",
+              "unidade": "M",
+              "quantidade": "400,00",
+              "valor_referencia": "14,61"
+            }
+          ]
+        },
+        {
+          "numero": "10",
+          "titulo": "37335 Organza:tecido leve em cores diversas a serem indicadas no momento da contratação e emissão de OFs, translúcido, armável, com brilho moderado, composto por fibras sintéticas à base de poliéster, com gramatura de 40 g/m² e largura de 1,40m. Destinad",
+          "fase": "HABILITAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "3.288,00",
+          "vencedor": "EMPREENDIMENTOS BRAZ LTDA",
+          "melhor_oferta": "1.960,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37335 Organza:tecido leve em cores diversas a serem indicadas no momento da contratação e emissão de OFs, translúcido, armável, com brilho moderado, composto por fibras sintéticas à base de poliéster, com gramatura de 40 g/m² e largura de 1,40m. Destinado à confecção de sobreposições, laços, cortinas decorativas, saias de mesa, detalhes de figurinos, arranjos e outros elementos de embelezamento utilizados em eventos escolares, solenidades institucionais, apresentações culturais e projetos pedagógicos que demandem efeito visual delicado e sofisticado. O tecido deverá apresentar estrutura regular, boa estabilidade para montagem de arranjos, caimento compatível com uso decorativo, sem fios soltos, rasgos, furos, manchas, desbotamento acentuado ou falhas de tecelagem. O fornecimento será em metro linear, em rolos ou peças contínuas, com cortes retos, pronto para uso na ornamentação deambientes da Rede Municipal de Educação.",
+              "unidade": "M",
+              "quantidade": "400,00",
+              "valor_referencia": "8,22"
+            }
+          ]
+        },
+        {
+          "numero": "11",
+          "titulo": "8300500041 Tricoline:tecido plano 100% algodão: em cores lisas e/ou estampas variadas adequadas ao ambiente escolar, com gramatura de 120 g/m² e largura de 1,40 m. Indicado para confecção de painéis pedagógicos, bandeirolas, letras e figuras aplicadas, fr",
+          "fase": "HABILITAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "4.828,00",
+          "vencedor": "EMPREENDIMENTOS BRAZ LTDA",
+          "melhor_oferta": "4.360,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "8300500041 Tricoline:tecido plano 100% algodão: em cores lisas e/ou estampas variadas adequadas ao ambiente escolar, com gramatura de 120 g/m² e largura de 1,40 m. Indicado para confecção de painéis pedagógicos, bandeirolas, letras e figuras aplicadas, fronhas decorativas, elementos de identificação visual, adereços cênicos e itens de artesanato escolar utilizados em projetos didáticos, festas temáticas e atividades de valorização do ambiente educacional. O tecido deverá apresentar toque macio, boa estabilidade dimensional, superfície homogênea, sem furos, rasgos, manchas, falhas de estamparia, deformações ou odores intensos, permitindo costura, colagem e aplicação de técnicas de pintura e bordado de forma satisfatória. O fornecimento ocorrerá em metro linear, em rolos ou peças contínuas, sem emendas na área útil, com cortes retos e acondicionamento adequado, apto ao uso imediato em ações educativas, culturais e de ornamentação dos espaços escolares da Rede Municipal de Educação.",
+              "unidade": "M",
+              "quantidade": "400,00",
+              "valor_referencia": "12,07"
+            }
+          ]
+        },
+        {
+          "numero": "12",
+          "titulo": "37336 Corino sintético:tecido sintético impermeável em cores diversas a serem indicadas no momento da contratação e emissão de OFs, composto por PVC com base têxtil (50% PVC / 50% substrato), espessura entre 0,20 mm e 0,30 mm, gramatura média de 300 a 400",
+          "fase": "HABILITAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "6.528,00",
+          "vencedor": "EMPREENDIMENTOS BRAZ LTDA",
+          "melhor_oferta": "5.280,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37336 Corino sintético:tecido sintético impermeável em cores diversas a serem indicadas no momento da contratação e emissão de OFs, composto por PVC com base têxtil (50% PVC / 50% substrato), espessura entre 0,20 mm e 0,30 mm, gramatura média de 300 a 400 g/m² e largura de 1,40 m. Indicado para confecção de capas protetoras, estofados, painéis decorativos, elementos cenográficos e ambientação de espaços escolares em eventos institucionais, atividades pedagógicas e solenidades da Rede Municipal de Educação. O material deve apresentar superfície lisa e uniforme, resistente a manchas, água e riscos leves, sem falhas de laminação, bolhas, rasgos, furos ou variações acentuadas de tonalidade no mesmo lote, garantindo durabilidade e padrão estético contínuo. Fornecimento em rolos contínuos sem emendas na área útil, cortes retos e embalagem adequada para uso imediato.",
+              "unidade": "M",
+              "quantidade": "400,00",
+              "valor_referencia": "16,32"
+            }
+          ]
+        },
+        {
+          "numero": "13",
+          "titulo": "9900515618 Par de luvas destinadas à composição de uniforme oficial para bandas marciais:confeccionadas em tecido de algodão, proporcionando conforto, respirabilidade e adequada mobilidade das mãos durante apresentações, ensaios e desfiles; produzida em a",
+          "fase": "HABILITAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "20.600,00",
+          "vencedor": "RUBENS BASILIO DE FARIA",
+          "melhor_oferta": "20.600,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515618 Par de luvas destinadas à composição de uniforme oficial para bandas marciais:confeccionadas em tecido de algodão, proporcionando conforto, respirabilidade e adequada mobilidade das mãos durante apresentações, ensaios e desfiles; produzida em algodão ou material predominantemente composto por fibras de algodão, de toque macio, resistente ao uso contínuo, permitindo adequada ventilação das mãos e absorção de umidade. Deverá apresentar cor branca uniforme, sem manchas, variações de tonalidade, transparência excessiva ou imperfeições aparentes, mantendo padrão estético compatível com uniformização de banda marcial. O modelo deverá ser anatômico, fechado, com dedos completos. deverão possuir costuras reforçadas, acabamento resistente e ausência de fios soltos, rasgos, deformações ou defeitos de fabricação, devendo suportar lavagens sucessivas sem perda significativa de formato, elasticidade ou coloração. O punho deverá possuir acabamento reforçado, podendo conter elástico ou sistema equivalente que assegure ajuste firme ao pulso, evitando deslocamentos durante o uso e contribuindo para melhor acabamento visual do uniforme. Os tamanhos serão definidos pela Secretaria no momento da solicitação e emissão da Ordem de Fornecimento, conforme a necessidade dos usuários, devendo ser disponibilizados variados tamanhos, abrangendo medidas infantis e adultas, de modo a atender adequadamente aos integrantes da banda marcial.",
+              "unidade": "PAR",
+              "quantidade": "1.000,00",
+              "valor_referencia": "20,60"
+            }
+          ]
+        },
+        {
+          "numero": "14",
+          "titulo": "37337 Tecido tipo chita:em cores e estampas variadas a serem definidas no momento da contratação e emissão das Ordens de Fornecimento, composto predominantemente por fibras de algodão ou mistura com fibras sintéticas, de gramatura média aproximada entre 1",
+          "fase": "HABILITAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "4.360,00",
+          "vencedor": "EMPREENDIMENTOS BRAZ LTDA",
+          "melhor_oferta": "4.360,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37337 Tecido tipo chita:em cores e estampas variadas a serem definidas no momento da contratação e emissão das Ordens de Fornecimento, composto predominantemente por fibras de algodão ou mistura com fibras sintéticas, de gramatura média aproximada entre 120 g/m² e 180 g/m² e largura mínima de 1,40m. Caracteriza-se por apresentar estampas vivas, florais ou temáticas, com boa fixação de cor e resistência ao uso. O tecido deverá apresentar superfície uniforme, sem falhas de estamparia, desbotamento acentuado, rasgos, furos, manchas ou defeitos de fabricação. O fornecimento deverá ocorrer em metro linear, em peças contínuas, com cortes retos e sem emendas na área útil, pronto para uso em atividades educacionais e eventos institucionais.",
+              "unidade": "M",
+              "quantidade": "400,00",
+              "valor_referencia": "10,90"
+            }
+          ]
+        },
+        {
+          "numero": "15",
+          "titulo": "37338 Tecido tipo helanca:malha sintética de alta resistência, em cores diversas a serem definidas no momento da contratação e emissão das Ordens de Fornecimento, composto predominantemente por poliéster, podendo conter elastano em sua composição, com gra",
+          "fase": "HABILITAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "6.640,00",
+          "vencedor": "EMPREENDIMENTOS BRAZ LTDA",
+          "melhor_oferta": "2.796,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37338 Tecido tipo helanca:malha sintética de alta resistência, em cores diversas a serem definidas no momento da contratação e emissão das Ordens de Fornecimento, composto predominantemente por poliéster, podendo conter elastano em sua composição, com gramatura média aproximada entre 120 g/m² e 200 g/m² e largura mínima de 1,50 m. Apresenta boa elasticidade, durabilidade, resistência ao desgaste e fácil manutenção. O tecido deverá possuir superfície regular, sem bolinhas (pilling), rasgos, furos, manchas ou deformações, garantindo qualidade e segurança no uso. O fornecimento será em metro linear, em rolos ou peças contínuas, sem emendas na área útil, com cortes precisos e acondicionamento adequado.",
+              "unidade": "M",
+              "quantidade": "400,00",
+              "valor_referencia": "16,60"
+            }
+          ]
+        },
+        {
+          "numero": "16",
+          "titulo": "37339 Tecido tipo brim leve:em cores diversas a serem definidas no momento da contratação e emissão das Ordens de Fornecimento, composto predominantemente por algodão ou mistura com poliéster, com gramatura aproximada entre 180 g/m² e 250 g/m² e largura m",
+          "fase": "HABILITAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "10.800,00",
+          "vencedor": "EMPREENDIMENTOS BRAZ LTDA",
+          "melhor_oferta": "7.960,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37339 Tecido tipo brim leve:em cores diversas a serem definidas no momento da contratação e emissão das Ordens de Fornecimento, composto predominantemente por algodão ou mistura com poliéster, com gramatura aproximada entre 180 g/m² e 250 g/m² e largura mínima de 1,40 m. Caracteriza-se por apresentar resistência mecânica moderada, boa durabilidade e conforto térmico. O tecido deverá apresentar trama uniforme, sem falhas de tecelagem, rasgos, furos, manchas ou desbotamento acentuado, garantindo acabamento adequado e resistência ao uso contínuo e lavagens. O fornecimento deverá ocorrer em metro linear, em peças contínuas, com cortes retos, sem emendas na área útil e devidamente acondicionado.",
+              "unidade": "M",
+              "quantidade": "400,00",
+              "valor_referencia": "27,00"
+            }
+          ]
+        },
+        {
+          "numero": "17",
+          "titulo": "37340 Tecido alvejado:plano, em cor clara (predominantemente branca), composto por fibras de algodão ou mistura com fibras sintéticas, submetido a processo de alvejamento para remoção de impurezas e padronização de tonalidade, com gramatura aproximada ent",
+          "fase": "HABILITAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "6.200,00",
+          "vencedor": "EMPREENDIMENTOS BRAZ LTDA",
+          "melhor_oferta": "3.960,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37340 Tecido alvejado:plano, em cor clara (predominantemente branca), composto por fibras de algodão ou mistura com fibras sintéticas, submetido a processo de alvejamento para remoção de impurezas e padronização de tonalidade, com gramatura aproximada entre 100 g/m² e 200 g/m² e largura mínima de 1,40m. O material deverá apresentar superfície uniforme, sem manchas, odores, resíduos químicos excessivos, rasgos, furos ou falhas de tecelagem, garantindo boa absorção e aderência para tintas e outros materiais. O fornecimento será em metro linear, em peças contínuas, com cortes retos e sem emendas na área útil.",
+              "unidade": "M",
+              "quantidade": "400,00",
+              "valor_referencia": "15,50"
+            }
+          ]
+        },
+        {
+          "numero": "18",
+          "titulo": "37341 Tecido com aplicação de paetês:em cores diversas a serem definidas no momento da contratação e emissão das Ordens de Fornecimento, composto por base têxtil sintética (poliéster ou poliamida) com superfície revestida por paetês fixados de forma unifo",
+          "fase": "HABILITAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "12.132,00",
+          "vencedor": "EMPREENDIMENTOS BRAZ LTDA",
+          "melhor_oferta": "2.752,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37341 Tecido com aplicação de paetês:em cores diversas a serem definidas no momento da contratação e emissão das Ordens de Fornecimento, composto por base têxtil sintética (poliéster ou poliamida) com superfície revestida por paetês fixados de forma uniforme, podendo ser liso ou reversível, com largura mínima de 1,30 m. O material deverá apresentar fixação firme dos paetês, sem desprendimento excessivo, falhas de aplicação, rasgos, furos ou deformações, garantindo efeito visual uniforme e durabilidade no uso. O fornecimento será em metro linear, em peças contínuas, devidamente acondicionadas, com cortes regulares e sem emendas na área útil.",
+              "unidade": "M",
+              "quantidade": "400,00",
+              "valor_referencia": "30,33"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5-DLE-032-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "211 / 2026",
+      "modalidade": "DISPENSA ELETRÔNICA",
+      "situacao": "DESERTO",
+      "condutor": "ISLA LIMA SILVA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO",
+      "publicacao": "21/05/2026 13:44",
+      "inicio_recepcao": "21/05/2026 13:50",
+      "fim_recepcao": "27/05/2026 08:15",
+      "inicio_disputa": "27/05/2026 08:30",
+      "objeto": "Contratação de empresa especializada em fornecimento de CAPOTA BAÚ PARA VEÍCULOS MODELOS STRADA, a fim de atender as demandas da Secretaria Municipal de Promoção Social.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5D96GdI1yph9Y0S98tgSmqoW4U%2FWh9Z3E621d0Rfl1swEbuvjdnhMt1X7d_sEYopHlqMKPwlDoiG2gFG%2FzKlOwJooZ6IkGl1QEHwOrL8%2FiSWg%3D",
+      "total_lotes": 1,
+      "total_itens": 1,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "CAPOTA BAÚ",
+          "fase": "DESERTO",
+          "tipo": "UNITÁRIO",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "6.646,67",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9908411201 CAPOTA ESTILO BAÚ:Capota modelo baú,confeccionada em fibra de vidro de alta resistência, compatívelcom veículo tipo Strada cabine simples, dotada de tampa traseiradupla com sistema de abertura independente, equipada comfechadura com chave para travamento seguro, garantindovedação adequada, proteção contra intempéries e segurança dacarga transportada. EXCLUSIVO PARA ME/EPP",
+              "unidade": "UND",
+              "quantidade": "1,00",
+              "valor_referencia": "6.646,67"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2-DLE-039-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "254 / 2026",
+      "modalidade": "DISPENSA ELETRÔNICA",
+      "situacao": "HOMOLOGADO",
+      "condutor": "ISAQUE SILVA DOS SANTOS",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO PARCELADA",
+      "publicacao": "28/04/2026 12:46",
+      "inicio_recepcao": "28/04/2026 13:00",
+      "fim_recepcao": "05/05/2026 08:15",
+      "inicio_disputa": "05/05/2026 08:30",
+      "objeto": "Contratação de empresa especializada em prestação de serviço de CONFECÇÃO DE CARIMBOS, a fim de atender as demandas da Secretaria Municipal de Administração e demais secretarias.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5D523pgfZ7RyDUW9eF4i72c89UHwt4%2FNrtYa9koLv_BsCHgr5MPjhuQtkN2BsaJ9Kvb2w6Z1i2cmS8cgg2SD_Z_odAO3he0cZdIQohq2lED%2Fo%3D",
+      "total_lotes": 1,
+      "total_itens": 18,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "CARIMBOS",
+          "fase": "HOMOLOGADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "53.241,16",
+          "vencedor": "JUNIO GOMES DOS SANTOS",
+          "melhor_oferta": "45.900,00",
+          "total_itens": 18,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515510 BORRACHA PARA CARIMBOAUTOMÁTICO/RETRÁTIL:auto-entintável; todos os tamanhos.",
+              "unidade": "UND",
+              "quantidade": "164,00",
+              "valor_referencia": "22,25"
+            },
+            {
+              "numero": "2",
+              "especificacao": "9900515511 CARIMBO AUTOMATICO:10X27MM - CORES DIVERSAS.",
+              "unidade": "UND",
+              "quantidade": "24,00",
+              "valor_referencia": "50,05"
+            },
+            {
+              "numero": "3",
+              "especificacao": "9900515512 CARIMBO AUTOMATICO:14X38MM - CORES DIVERSAS.",
+              "unidade": "UND",
+              "quantidade": "48,00",
+              "valor_referencia": "47,75"
+            },
+            {
+              "numero": "4",
+              "especificacao": "9900515513 CARIMBO AUTOMATICO:18X47MM - CORES DIVERSAS.",
+              "unidade": "UND",
+              "quantidade": "20,00",
+              "valor_referencia": "42,55"
+            },
+            {
+              "numero": "5",
+              "especificacao": "9900515514 CARIMBO AUTOMATICO:23X59MM - CORES DIVERSAS.",
+              "unidade": "UND",
+              "quantidade": "20,00",
+              "valor_referencia": "50,43"
+            },
+            {
+              "numero": "6",
+              "especificacao": "9900515515 CARIMBO AUTOMATICO:30X69MM - CORES DIVERSAS.",
+              "unidade": "UND",
+              "quantidade": "20,00",
+              "valor_referencia": "56,28"
+            },
+            {
+              "numero": "7",
+              "especificacao": "9900515516 CARIMBO AUTOMATICO:34X74MM - CORES DIVERSAS.",
+              "unidade": "UND",
+              "quantidade": "20,00",
+              "valor_referencia": "57,23"
+            },
+            {
+              "numero": "8",
+              "especificacao": "9900515517 CARIMBO AUTOMATICO:37X76MM - CORES DIVERSAS.",
+              "unidade": "UND",
+              "quantidade": "24,00",
+              "valor_referencia": "58,42"
+            },
+            {
+              "numero": "9",
+              "especificacao": "9900515518 CARIMBO AUTOMÁTICO MÓBILE:CARIMBO AUTOMÁTICO MÓBILE.",
+              "unidade": "UND",
+              "quantidade": "24,00",
+              "valor_referencia": "66,23"
+            },
+            {
+              "numero": "10",
+              "especificacao": "9900515519 CARIMBO AUTOMÁTICO:PR 4724.",
+              "unidade": "UND",
+              "quantidade": "32,00",
+              "valor_referencia": "94,63"
+            },
+            {
+              "numero": "11",
+              "especificacao": "9900515520 CARIMBO AUTOMATICO:PR 4910/4911.",
+              "unidade": "UND",
+              "quantidade": "568,00",
+              "valor_referencia": "39,29"
+            },
+            {
+              "numero": "12",
+              "especificacao": "9900515521 CARIMBO AUTOMÁTICO:PR 4912.",
+              "unidade": "UND",
+              "quantidade": "60,00",
+              "valor_referencia": "47,90"
+            },
+            {
+              "numero": "13",
+              "especificacao": "9900515522 CARIMBO AUTOMÁTICO:PR 4913.",
+              "unidade": "UND",
+              "quantidade": "40,00",
+              "valor_referencia": "53,63"
+            },
+            {
+              "numero": "14",
+              "especificacao": "9900515523 CARIMBO AUTOMÁTICO:PR 4923.",
+              "unidade": "UND",
+              "quantidade": "40,00",
+              "valor_referencia": "70,03"
+            },
+            {
+              "numero": "15",
+              "especificacao": "9900515524 CARIMBO AUTOMÁTICO:PR 4924.",
+              "unidade": "UND",
+              "quantidade": "36,00",
+              "valor_referencia": "77,50"
+            },
+            {
+              "numero": "16",
+              "especificacao": "9900515525 CARIMBO AUTOMÁTICO:PR 4927.",
+              "unidade": "UND",
+              "quantidade": "28,00",
+              "valor_referencia": "73,47"
+            },
+            {
+              "numero": "17",
+              "especificacao": "9900515526 CARIMBO MADEIRA MÉDIO:carimbo material (corpo e calda) em madeira com base em borracha de silicone,médio, medindo 4x3cm.",
+              "unidade": "UND",
+              "quantidade": "16,00",
+              "valor_referencia": "29,32"
+            },
+            {
+              "numero": "18",
+              "especificacao": "9900515527 CARIMBO MADEIRA PEQUENO:carimbo material (corpo e calda) em madeira com base em borracha de silicone, pequeno, medindo 4x2cm.",
+              "unidade": "UND",
+              "quantidade": "16,00",
+              "valor_referencia": "31,00"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "CD-005-2025",
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "758/2025",
       "modalidade": "CREDENCIAMENTO",
-      "situacao": "EM FINALIZAÇÃO",
+      "situacao": "SUSPENSO",
       "condutor": "MAGDA DE SELES GUIMARÃES",
       "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
       "tipo_contrato": "AQUISIÇÃO",
-      "publicacao": "03/06/2025 16:35",
+      "publicacao": "03/06/2025 11:48",
       "inicio_recepcao": "13/06/2025 08:00",
-      "fim_recepcao": "15/06/2026 08:00",
+      "fim_recepcao": "15/06/2026 00:00",
       "inicio_disputa": "",
-      "objeto": "CREDENCIAMENTO DE PESSOA JURÍDICA PARA PRESTAÇÃO DE SERVIÇOS MÉDICOS ESPECIALIZADOS EM ANÁLISE PATOLÓGICA PARA ATENDER AS DEMANDAS DA SECRETARIA MUNICIPAL DE SAÚDE",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DCQ3ETelsOyhWytth3uK%2F0erxbDcR9YP7CSigjVfpqDW%2FhJeAFiH9Xzc4N1i_b3c2ODnah5OIIfkVggQRthv3_Jw0Eu0r_H73eTSpyYajlQU%3D",
-      "total_lotes": 6,
-      "total_itens": 6,
+      "objeto": "Credenciamento de pessoa jurídica para PRESTAÇÃO DE SERVIÇOS\n MÉDICOS ESPECIALIZADOS EM ANÁLISE PATOLÓGICA para atender as demandas da\n Secretaria Municipal de Saúde.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DnhSU1tm07WAi5UN4D77x_uKJgRddmIpztpx%2FN9LYln9MoQ_7Cvt76sH5HH7SvZyXbE6sK5QjSh0GGo9liX8QTDM2mdISu_dkwyx5NOqTrto%3D",
+      "total_lotes": 9,
+      "total_itens": 9,
       "lotes": [
         {
           "numero": "1",
-          "titulo": "33436 BIÓPSIA SIMPLES",
-          "fase": "HABILITAÇÃO",
+          "titulo": "33436 BIÓPSIA SIMPLES:BIÓPSIA SIMPLES",
+          "fase": "SUSPENSO",
           "tipo": "UNITÁRIO",
           "quantidade": "1",
           "intervalo_minimo": "0,00",
           "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
+          "local_entrega": "",
+          "garantia": "",
           "valor_referencia": "60,19",
           "vencedor": "",
           "melhor_oferta": "0,00",
@@ -278894,21 +279730,45 @@
               "numero": "1",
               "especificacao": "33436 BIÓPSIA SIMPLES:BIÓPSIA SIMPLES",
               "unidade": "SERV",
-              "quantidade": "2.500,00",
+              "quantidade": "1.875,00",
               "valor_referencia": "60,19"
             }
           ]
         },
         {
           "numero": "2",
-          "titulo": "9903311392 CITOLOGIA EM MEIO LIQUIDO",
-          "fase": "HABILITAÇÃO",
+          "titulo": "909911235 BIOPSIA SIMPLES:BIÓPSIA SIMPLES. COTA DE 25% RESERVADA PARA  ME/EPP.",
+          "fase": "SUSPENSO",
           "tipo": "UNITÁRIO",
           "quantidade": "1",
           "intervalo_minimo": "0,00",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
+          "exclusivo_me": "SIM",
+          "local_entrega": "",
+          "garantia": "",
+          "valor_referencia": "60,19",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "909911235 BIOPSIA SIMPLES:BIÓPSIA SIMPLES. COTA DE 25% RESERVADA PARA ME/EPP.",
+              "unidade": "SERV",
+              "quantidade": "625,00",
+              "valor_referencia": "60,19"
+            }
+          ]
+        },
+        {
+          "numero": "3",
+          "titulo": "9903311392 CITOLOGIA EM MEIO LIQUIDO - BRONQUIO: CITOLOGIA EM MEIO LIQUIDO - BRONQUIO EXCLUSIVO PARA ME/EPP",
+          "fase": "SUSPENSO",
+          "tipo": "UNITÁRIO",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "SIM",
+          "local_entrega": "",
+          "garantia": "",
           "valor_referencia": "62,25",
           "vencedor": "",
           "melhor_oferta": "0,00",
@@ -278916,7 +279776,7 @@
           "itens": [
             {
               "numero": "1",
-              "especificacao": "9903311392 CITOLOGIA EM MEIO LIQUIDO - BRONQUIO:CITOLOGIA EM MEIO LIQUIDO - BRONQUIO.",
+              "especificacao": "CITOLOGIA EM MEIO LIQUIDO - BRONQUIO: CITOLOGIA EM MEIO LIQUIDO - BRONQUIO EXCLUSIVO PARA ME/EPP",
               "unidade": "SERV",
               "quantidade": "100,00",
               "valor_referencia": "62,25"
@@ -278924,15 +279784,15 @@
           ]
         },
         {
-          "numero": "3",
-          "titulo": "9903311373 COLORAÇÃO ESPECIAL",
-          "fase": "HABILITAÇÃO",
+          "numero": "4",
+          "titulo": "9903311373 COLORAÇÃO ESPECIAL:Marcação da biópsia por corantes especiais. EXCLUSIVO PARA ME/EPP",
+          "fase": "SUSPENSO",
           "tipo": "UNITÁRIO",
           "quantidade": "1",
           "intervalo_minimo": "0,00",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
+          "exclusivo_me": "SIM",
+          "local_entrega": "",
+          "garantia": "",
           "valor_referencia": "33,65",
           "vencedor": "",
           "melhor_oferta": "0,00",
@@ -278940,7 +279800,7 @@
           "itens": [
             {
               "numero": "1",
-              "especificacao": "9903311373 COLORAÇÃO ESPECIAL: Marcação da biópsia por corantes especiais.",
+              "especificacao": "9903311373 COLORAÇÃO ESPECIAL:Marcação da biópsia por corantes especiais. EXCLUSIVO PARA ME/EPP",
               "unidade": "SERV",
               "quantidade": "50,00",
               "valor_referencia": "33,65"
@@ -278948,15 +279808,15 @@
           ]
         },
         {
-          "numero": "4",
-          "titulo": "9903311378 CORE BYOPSY",
-          "fase": "HABILITAÇÃO",
+          "numero": "5",
+          "titulo": "9903311378 CORE BYOPSY:CORE BYOPSY. EXCLUSIVO PARA ME/EPP",
+          "fase": "SUSPENSO",
           "tipo": "UNITÁRIO",
           "quantidade": "1",
           "intervalo_minimo": "0,00",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
+          "exclusivo_me": "SIM",
+          "local_entrega": "",
+          "garantia": "",
           "valor_referencia": "68,46",
           "vencedor": "",
           "melhor_oferta": "0,00",
@@ -278964,7 +279824,7 @@
           "itens": [
             {
               "numero": "1",
-              "especificacao": "9903311378 CORE BYOPSY:CORE BYOPSY.",
+              "especificacao": "9903311378 CORE BYOPSY:CORE BYOPSY. EXCLUSIVO PARA ME/EPP",
               "unidade": "SERV",
               "quantidade": "100,00",
               "valor_referencia": "68,46"
@@ -278972,15 +279832,15 @@
           ]
         },
         {
-          "numero": "5",
-          "titulo": "33437 PEÇA CIRÚRGICA SIMPLES",
-          "fase": "HABILITAÇÃO",
+          "numero": "6",
+          "titulo": "33437 PEÇA CIRÚRGICA SIMPLES:PEÇA CIRÚRGICA SIMPLES",
+          "fase": "SUSPENSO",
           "tipo": "UNITÁRIO",
           "quantidade": "1",
           "intervalo_minimo": "0,00",
           "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
+          "local_entrega": "",
+          "garantia": "",
           "valor_referencia": "75,00",
           "vencedor": "",
           "melhor_oferta": "0,00",
@@ -278990,21 +279850,45 @@
               "numero": "1",
               "especificacao": "33437 PEÇA CIRÚRGICA SIMPLES:PEÇA CIRÚRGICA SIMPLES",
               "unidade": "SERV",
-              "quantidade": "2.500,00",
+              "quantidade": "1.875,00",
               "valor_referencia": "75,00"
             }
           ]
         },
         {
-          "numero": "6",
-          "titulo": "9903311384 PEÇA CIRÚRGICA COMPLEXA",
-          "fase": "HABILITAÇÃO",
+          "numero": "7",
+          "titulo": "9909911236 PEÇA CIRURGICA SIMPLES:PEÇA CIRURGICA SIMPLES. COTA DE 25% RESERVADA PARA ME/EPP",
+          "fase": "SUSPENSO",
+          "tipo": "UNITÁRIO",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "SIM",
+          "local_entrega": "",
+          "garantia": "",
+          "valor_referencia": "75,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9909911236 PEÇA CIRURGICA SIMPLES:PEÇA CIRURGICA SIMPLES. COTA DE 25% RESERVADA PARA ME/EPP",
+              "unidade": "SERV",
+              "quantidade": "625,00",
+              "valor_referencia": "75,00"
+            }
+          ]
+        },
+        {
+          "numero": "8",
+          "titulo": "9903311384 PEÇA CIRÚRGICA COMPLEXA:PEÇA CIRÚRGICA COMPLEXA",
+          "fase": "SUSPENSO",
           "tipo": "UNITÁRIO",
           "quantidade": "1",
           "intervalo_minimo": "0,00",
           "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
+          "local_entrega": "",
+          "garantia": "",
           "valor_referencia": "243,42",
           "vencedor": "",
           "melhor_oferta": "0,00",
@@ -279014,7 +279898,31 @@
               "numero": "1",
               "especificacao": "9903311384 PEÇA CIRÚRGICA COMPLEXA:PEÇA CIRÚRGICA COMPLEXA",
               "unidade": "UN",
-              "quantidade": "1.500,00",
+              "quantidade": "1.125,00",
+              "valor_referencia": "243,42"
+            }
+          ]
+        },
+        {
+          "numero": "9",
+          "titulo": "9909911237 PEÇA CIRURGICA COMPLEXA:PEÇA CIRURGICA COMPLEXA. COTA DE  25%  RESERVADA PARA ME/EPP.",
+          "fase": "SUSPENSO",
+          "tipo": "UNITÁRIO",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "SIM",
+          "local_entrega": "",
+          "garantia": "",
+          "valor_referencia": "243,42",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9909911237 PEÇA CIRURGICA COMPLEXA:PEÇA CIRURGICA COMPLEXA. COTA DE 25% RESERVADA PARA ME/EPP.",
+              "unidade": "SERV",
+              "quantidade": "375,00",
               "valor_referencia": "243,42"
             }
           ]
@@ -279026,38 +279934,38 @@
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "705/2024",
       "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "HOMOLOGADO",
-      "condutor": "MAGDA DE SELES GUIMARÃES",
+      "situacao": "SUSPENSO",
+      "condutor": "VICTOR KINIDEL DETHLING",
       "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
       "tipo_contrato": "AQUISIÇÃO",
-      "publicacao": "13/06/2024 18:49",
-      "inicio_recepcao": "14/06/2024 08:00",
-      "fim_recepcao": "10/07/2024 13:45",
-      "inicio_disputa": "10/07/2024 14:00",
-      "objeto": "O objeto da presente licitação é a contratação de INSTITUIÇÃO FINANCEIRA ESPECIALIZADA NA PRESTAÇÃO DE SERVIÇOS BANCÁRIOS PARA CENTRALIZAÇÃO, GERENCIAMENTO E PROCESSAMENTO DE CRÉDITOS DA FOLHA DE PAGAMENTO DOS SERVIDORES, a fim de atender as demandas da Secretaria Municipal de Administração, conforme condições, quantidades e especificações no Edital, Termo de Referência e seus Anexos.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DjyGewOHWJeupCWFtXwSAbo%2FUNw8Q%2FfQniNZL3wTmUNdnpe5Fi_Vki9wDLdhmQd7hVuYlhToNMzzdaPEaWKxGKg5v85mDwyxf6SK6zPYKvrk%3D",
+      "publicacao": "15/05/2024 18:26",
+      "inicio_recepcao": "16/05/2024 08:00",
+      "fim_recepcao": "12/06/2024 09:45",
+      "inicio_disputa": "12/06/2024 10:00",
+      "objeto": "Contratação de instituição financeira para prestação de serviços bancários para centralização, gerenciamento e processamento de créditos da folha de pagamento dos servidores, a fim de atender as demandas da Prefeitura de Teixeira de Freitas, conforme condições, quantidades e especificações no Edital, Termo de Referência e seus Anexos.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DhYusYPKZAmPXeHZyryemV4GURkRVHTIM3l69RXmf1Bc0eH2%2FQLTBgHn19KPOB1bs7myZBk7BaogRqbY5%2FKNjahZU0plMqsG8Px%2F8kuM3j38%3D",
       "total_lotes": 1,
       "total_itens": 1,
       "lotes": [
         {
           "numero": "1",
-          "titulo": "SERVIÇOS BANCÁRIOS",
-          "fase": "HOMOLOGADO",
-          "tipo": "GLOBAL",
+          "titulo": "LOTE 01",
+          "fase": "SUSPENSO",
+          "tipo": "UNITÁRIO",
           "quantidade": "1",
-          "intervalo_minimo": "0,01",
+          "intervalo_minimo": "100,00",
           "exclusivo_me": "NÃO",
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "6.052.150,00",
-          "vencedor": "ITAÚ UNIBANCO S.A.",
-          "melhor_oferta": "6.053.000,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
           "total_itens": 1,
           "itens": [
             {
               "numero": "1",
               "especificacao": "CONTRATAÇÃO DE INSTITUIÇÃO FINANCEIRA: ESPECIALIZADA NA PRESTAÇÃO DE SERVIÇOS BANCÁRIOS PARA CENTRALIZAÇÃO, GERENCIAMENTO E PROCESSAMENTO DE CRÉDITOS DA FOLHA DE PAGAMENTO DOS SERVIDORES DA PREFEITURA MUNICIPAL DE TEIXEIRA DE FREITAS/BA.",
-              "unidade": "UN",
+              "unidade": "SERVIÇO",
               "quantidade": "1,00",
               "valor_referencia": "6.052.150,00"
             }
