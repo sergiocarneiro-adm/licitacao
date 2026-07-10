@@ -1,9 +1,9 @@
 {
   "metadata": {
     "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-    "total_registros": 692,
-    "total_itens": 2394,
-    "atualizado_em": "20260708_180647"
+    "total_registros": 693,
+    "total_itens": 2396,
+    "atualizado_em": "20260710_153325"
   },
   "registros": [
     {
@@ -39167,6 +39167,48 @@
           "marca": "NÃO SE APLICA",
           "modelo": "NÃO SE APLICA",
           "valor": "241,3000"
+        }
+      ]
+    },
+    {
+      "id": "3IL-111-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "756/2026",
+      "modalidade": "INEXIGIBILIDADE",
+      "status": "CONCLUÍDA",
+      "coordenador": "ISLA LIMA SILVA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "ano_referencia": "2026",
+      "data_publicacao": "10/07/2026 13:54:12",
+      "data_conclusao": "10/07/2026 13:54:22",
+      "artigo": "Art. 74º",
+      "inciso": "IV",
+      "justificativa": "Arts. 74, IV, e 79, I da Lei Federal nº 14.133/2021, Decreto Municipal nº 85, de 2024, em seus arts. 2º, I, e 5º, VII e demais legislações e regulamentações específicas.",
+      "legislacao": "Lei nº 14.133",
+      "objeto": "Empresa ASSIS PEIXOTO CLINICA MEDICA LTDA, para prestação de serviços médicos especializados (UROLOGIA) conforme o edital de credenciamento CD-003/2025, para atender às necessidades do Complexo Regulador.",
+      "observacao": "sob responsabilidade da Secretaria Municipal de Saúde.",
+      "link": "https://bllcompras.com/DirectBuy/DirectBuyView?param1=%5Bgkz%5D35h0Yp9dFsNJzFmhn4ZzM6og_OTOC7m7Gfa6GFTdEfHZuVCrDLIRbjQTpdBKXcNqvxUpY8SvU5ABHQz8QxrYzNO8DISiAiRwwBJfcLowWY0%3D",
+      "total_itens": 2,
+      "itens": [
+        {
+          "numero": "1",
+          "descricao": "989999003 CONSULTA MEDICA EM ATENÇÃOESPECIALIZADA EM UROLOGIAREGULAÇÃOSUS:CONSULTA MEDICA EM ATENÇÃOESPECIALIZADA EM UROLOGIA-REGULAÇÃOSUS",
+          "quantidade": "2400,0000",
+          "unidade": "SER",
+          "fornecedor": "ASSIS PEIXOTO CLINICA MEDICA LTDA",
+          "marca": "NAO SE APLICA",
+          "modelo": "",
+          "valor": "10,0000"
+        },
+        {
+          "numero": "2",
+          "descricao": "989998992 CONSULTA MEDICA EM ATENÇÃOESPECIALIZADA EM UROLOGIA-REGULAÇÃOCONTRAPARTIDA:CONSULTA MEDICA EM ATENÇÃOESPECIALIZADA EM UROLOGIA-REGULAÇÃOCONTRAPARTIDA",
+          "quantidade": "2400,0000",
+          "unidade": "SER",
+          "fornecedor": "ASSIS PEIXOTO CLINICA MEDICA LTDA",
+          "marca": "NAO SE APLICA",
+          "modelo": "",
+          "valor": "68,0000"
         }
       ]
     }
