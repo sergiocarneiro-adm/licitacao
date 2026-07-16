@@ -1,10 +1,10 @@
 {
   "metadata": {
     "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-    "total_processos": 842,
-    "total_lotes": 9293,
-    "total_itens": 15769,
-    "atualizado_em": "20260715_112656"
+    "total_processos": 844,
+    "total_lotes": 9292,
+    "total_itens": 15774,
+    "atualizado_em": "20260716_080832"
   },
   "processos": [
     {
@@ -271561,458 +271561,6 @@
       ]
     },
     {
-      "id": "PE-090-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "342 / 2026",
-      "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "HABILITAÇÃO",
-      "condutor": "JONATAS DA SILVA SOUSA",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO PARCELADA",
-      "publicacao": "03/06/2026 16:17",
-      "inicio_recepcao": "09/06/2026 08:30",
-      "fim_recepcao": "19/06/2026 13:45",
-      "inicio_disputa": "19/06/2026 14:00",
-      "objeto": "Contratação de empresa especializada em fornecimento de TECIDOS E LUVAS (material de consumo), a fim de atender às demandas da Secretaria Municipal de Educação.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5D6IZyYEUQl6cvSHPQi6Og1limcRHrAPwfJgcnU9ZE82ASGglQpriOQH7r87ot1iMYmBlW_eJvmtmRIsmiVVWCoxqTGUyw%2FvBj%2Fv2nLR4W660%3D",
-      "total_lotes": 18,
-      "total_itens": 18,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "8300500037 Cetim:tecido sintético em cores diversas a serem indicadas no momento da contratação e emissão de OFs, de superfície brilhante e toque suave, composto por 100% poliéster, com gramatura de 90 g/m² e largura de 1,40m. Adequado para confecção de f",
-          "fase": "EM ADJUDICAÇÃO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "4.068,00",
-          "vencedor": "CHSF DISTRIBUIDORA TEXTIL LTDA",
-          "melhor_oferta": "4.068,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "8300500037 Cetim:tecido sintético em cores diversas a serem indicadas no momento da contratação e emissão de OFs, de superfície brilhante e toque suave, composto por 100% poliéster, com gramatura de 90 g/m² e largura de 1,40m. Adequado para confecção de figurinos, painéis decorativos, fundos de palco, adereços cênicos e ambientação de espaços escolares e institucionais. O tecido deverá apresentar estrutura uniforme, sem falhas de tecelagem, desfiados, furos, rasgos, manchas ou variações acentuadas de tonalidade dentro do mesmo lote, garantindo padrão estético contínuo. O fornecimento deverá ocorrer em metro linear, em rolos ou peças contínuas, sem emendas na área útil, com cortes retos e bordas íntegras, apto ao uso imediato em eventos institucionais, atividades pedagógicas, solenidades e demais ações da Rede Municipal de Educação.",
-              "unidade": "M",
-              "quantidade": "400,00",
-              "valor_referencia": "10,17"
-            }
-          ]
-        },
-        {
-          "numero": "2",
-          "titulo": "8300500038 Malha:incluindo variações com elastano (tipo Lycra), em cores diversas a serem indicadas no momento da contratação e emissão de OFs, de malha circular, composta por poliéster ou poliamida com elastano, com boa elasticidade e recuperação, gramat",
-          "fase": "EM ADJUDICAÇÃO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "6.400,00",
-          "vencedor": "CHSF DISTRIBUIDORA TEXTIL LTDA",
-          "melhor_oferta": "6.400,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "8300500038 Malha:incluindo variações com elastano (tipo Lycra), em cores diversas a serem indicadas no momento da contratação e emissão de OFs, de malha circular, composta por poliéster ou poliamida com elastano, com boa elasticidade e recuperação, gramatura de 180 g/m² e largura de 1,50 m.Indicada para figurinos infantis e adultos, roupas temáticas, adereços cênicos e elementos decorativos que exijam mobilidade e ajuste ao corpo em apresentações, projetos pedagógicos e eventos escolares. O tecido deve apresentar superfície regular, sem furos, rasgos, bolinhas (pilling), manchas ou deformações, mantendo conforto, resistência e segurança no uso por estudantes e profissionais. O fornecimento será em metro linear, em rolos contínuos, sem emendas na extensão útil, com cortes precisos e acondicionamento adequado, de forma a atender às demandas recorrentes de ornamentação e atividades pedagógicas da Rede Municipal de Educação.",
-              "unidade": "M",
-              "quantidade": "400,00",
-              "valor_referencia": "16,00"
-            }
-          ]
-        },
-        {
-          "numero": "3",
-          "titulo": "8300500039 Oxford:tecido sintético em cores diversas a serem indicadas no momento da contratação e emissão de OFs, composto predominantemente por poliéster, com entrelaçamento firme, gramatura de 110 g/m² e largura de 1,50 m. Indicado para confecção de un",
-          "fase": "EM ADJUDICAÇÃO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "7.552,50",
-          "vencedor": "CHSF DISTRIBUIDORA TEXTIL LTDA",
-          "melhor_oferta": "7.552,50",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "8300500039 Oxford:tecido sintético em cores diversas a serem indicadas no momento da contratação e emissão de OFs, composto predominantemente por poliéster, com entrelaçamento firme, gramatura de 110 g/m² e largura de 1,50 m. Indicado para confecção de uniformes simples, toalhas, painéis, bandeiras, fundos de palco, faixas e outros elementos decorativos utilizados em eventos institucionais, reuniões, formaturas, feiras pedagógicas e ações de integração com a comunidade escolar. O tecido deverá ser resistente, com acabamento opaco, textura homogênea, boa estabilidade dimensional e ausência de furos, rasgos, manchas, falhas de tecelagem ou desbotamento acentuado. O fornecimento ocorrerá em metro linear, em rolos contínuos, sem emendas na área útil, garantindo durabilidade e padrão visual compatível com a relevância das atividades desenvolvidas na Rede Municipal de Ensino.",
-              "unidade": "M",
-              "quantidade": "750,00",
-              "valor_referencia": "10,07"
-            }
-          ]
-        },
-        {
-          "numero": "4",
-          "titulo": "37330 Tule:tecido leve em cores diversas a serem indicadas no momento da contratação e emissão de OFs, de malha aberta, fino, transparente e maleável, composto por 100% poliamida ou poliéster, com largura de 1,40 m. Destinado à confecção de saias volumosa",
-          "fase": "EM ADJUDICAÇÃO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "3.860,00",
-          "vencedor": "CHSF DISTRIBUIDORA TEXTIL LTDA",
-          "melhor_oferta": "3.860,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37330 Tule:tecido leve em cores diversas a serem indicadas no momento da contratação e emissão de OFs, de malha aberta, fino, transparente e maleável, composto por 100% poliamida ou poliéster, com largura de 1,40 m. Destinado à confecção de saias volumosas, sobreposições de figurinos, cenários, arranjos decorativos e demais elementos utilizados em apresentações culturais, eventos comemorativos, festas escolares e projetos pedagógicos temáticos. O tule deverá apresentar malha uniforme, sem rasgos, furos, deformações, fios rompidos ou manchas, proporcionando bom caimento e efeito visual adequado sob iluminação de palco ou ambientes internos. O fornecimento será realizado em metro linear, em rolos ou peças contínuas, preferencialmente sem emendas na área útil, prontos para uso em ornamentação e ambientação no âmbito da Rede Municipal de Educação.",
-              "unidade": "M",
-              "quantidade": "400,00",
-              "valor_referencia": "9,65"
-            }
-          ]
-        },
-        {
-          "numero": "5",
-          "titulo": "37331 Juta:tecido de origem natural, em cores diversas a serem indicadas no momento da contratação e emissão de OFs, de aspecto rústico, fabricado com fibras vegetais, com gramatura elevada em torno de 300 g/m² e largura de 1,40 m. Indicado para decoração",
-          "fase": "EM ADJUDICAÇÃO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "9.240,00",
-          "vencedor": "CHSF DISTRIBUIDORA TEXTIL LTDA",
-          "melhor_oferta": "9.240,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37331 Juta:tecido de origem natural, em cores diversas a serem indicadas no momento da contratação e emissão de OFs, de aspecto rústico, fabricado com fibras vegetais, com gramatura elevada em torno de 300 g/m² e largura de 1,40 m. Indicado para decoração temática, cenários com apelo rústico, painéis, revestimento de mesas, stands e atividades de artesanato em feiras pedagógicas, projetos culturais, festas juninas e demais eventos escolares. O tecido deverá apresentar trama firme, boa resistência mecânica, baixa quantidade de impurezas, sem rasgos excessivos, furos significativos, manchas intensas ou odores não característicos do material. O fornecimento ocorrerá em metro linear, em peças contínuas, garantindo segurança no manuseio e qualidade visual condizente com a proposta educativa, cultural e institucional da Rede Municipal de Ensino.",
-              "unidade": "M",
-              "quantidade": "400,00",
-              "valor_referencia": "23,10"
-            }
-          ]
-        },
-        {
-          "numero": "6",
-          "titulo": "37332 Algodão cru:tecido plano em cores diversas a serem indicadas no momento da contratação e emissão de OFs (preferencialmente naturais ou em tons claros), 100% algodão, sem tingimento intenso ou acabamento químico agressivo, com gramatura de 150 g/m² e",
-          "fase": "FRACASSADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "5.228,00",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37332 Algodão cru:tecido plano em cores diversas a serem indicadas no momento da contratação e emissão de OFs (preferencialmente naturais ou em tons claros), 100% algodão, sem tingimento intenso ou acabamento químico agressivo, com gramatura de 150 g/m² e largura de 1,40 m. Destinado à realização de atividades educativas, artísticas e artesanais, como pintura, colagem, produção de painéis, cenários, banners e peças decorativas para uso em salas de aula, corredores, auditórios e demais espaços escolares. O tecido deverá apresentar superfície homogênea, estrutura firme, sem furos, rasgos, manchas significativas, deformações ou odores intensos, permitindo escrita, pintura e colagem com boa aderência. O fornecimento será em metro linear, em peças contínuas, com cortes retos, apto ao uso por estudantes e equipes pedagógicas em projetos escolares e eventos institucionais.",
-              "unidade": "M",
-              "quantidade": "400,00",
-              "valor_referencia": "13,07"
-            }
-          ]
-        },
-        {
-          "numero": "7",
-          "titulo": "37333 Oxford xadrez:variação estampada do tecido Oxford, em padrão xadrez e cores diversas, composto por 100% poliéster, com gramatura de 110 g/m² e largura de 1,50 m. Adequado para composições temáticas, decoração de festas escolares (como festas juninas",
-          "fase": "EM ADJUDICAÇÃO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "6.612,00",
-          "vencedor": "CHSF DISTRIBUIDORA TEXTIL LTDA",
-          "melhor_oferta": "6.612,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37333 Oxford xadrez:variação estampada do tecido Oxford, em padrão xadrez e cores diversas, composto por 100% poliéster, com gramatura de 110 g/m² e largura de 1,50 m. Adequado para composições temáticas, decoração de festas escolares (como festas juninas), confecção de toalhas, bandeirolas, aventais, detalhes de figurinos e elementos visuais utilizados em projetos pedagógicos que envolvam ambientação de espaços. A estampa deverá ser regular, sem falhas de impressão, sem desbotamento acentuado ou diferenças marcantes de tonalidade entre rolos do mesmo lote. O fornecimento deve ser em metro linear, em rolos contínuos, sem emendas na área útil, livre de furos, rasgos, manchas e falhas de tecelagem, garantindo acabamento visual adequado às ações educativas e culturais da Rede Municipal de Ensino.",
-              "unidade": "M",
-              "quantidade": "400,00",
-              "valor_referencia": "16,53"
-            }
-          ]
-        },
-        {
-          "numero": "8",
-          "titulo": "8300500040 TNT (tecido não tecido):material sintético em cores diversas a serem indicadas no momento da contratação e emissão de OFs, produzido por agulhamento ou colagem de fibras, com gramatura entre 40 g/m² e 80 g/m² e largura de 1,40m. Amplamente uti",
-          "fase": "FRACASSADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "1.468,00",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "8300500040 TNT (tecido não tecido):material sintético em cores diversas a serem indicadas no momento da contratação e emissão de OFs, produzido por agulhamento ou colagem de fibras, com gramatura entre 40 g/m² e 80 g/m² e largura de 1,40m. Amplamente utilizado para decoração de ambientes escolares, revestimento de painéis, confecção de fundos de palco, faixas, molduras, elementos cenográficos e partes de figurinos de uso pontual em atividades pedagógicas e culturais. O material deverá apresentar superfície uniforme, sem rasgos, furos, falhas na estrutura, manchas intensas ou acúmulo excessivo de partículas soltas, garantindo segurança e facilidade de manuseio. O fornecimento será em metro linear, em rolos contínuos, com cortes retos e acondicionamento adequado, destinado ao atendimento das demandas de ornamentação, ambientação e execução de projetos e eventos no âmbito da Rede Municipal de Educação.",
-              "unidade": "M",
-              "quantidade": "400,00",
-              "valor_referencia": "3,67"
-            }
-          ]
-        },
-        {
-          "numero": "9",
-          "titulo": "37334 Feltro:tecido denso e macio em cores diversas a serem indicadas no momento da contratação e emissão de OFs, composto por fibras sintéticas ou naturais prensadas, com gramatura de 300 g/m² e largura de 1,40 m. Indicado para trabalhos de artesanato, p",
-          "fase": "FRACASSADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "5.844,00",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37334 Feltro:tecido denso e macio em cores diversas a serem indicadas no momento da contratação e emissão de OFs, composto por fibras sintéticas ou naturais prensadas, com gramatura de 300 g/m² e largura de 1,40 m. Indicado para trabalhos de artesanato, produção de painéis decorativos, letras e figuras recortadas, confecção de máscaras, adereços, elementos estruturais de figurinos e materiais de apoio visual utilizados em atividades pedagógicas, apresentações artísticas e eventos escolares. O feltro deverá apresentar superfície uniforme, sem furos, rasgos, manchas, deformações, odores intensos ou excesso de resíduos soltos, permitindo cortes limpos e boa fixação com colas ou costuras. O fornecimento será em metro linear, em cortes contínuos, sem emendas na área útil, garantindo durabilidade, segurança no manuseio e qualidade estética compatível com as ações da Rede Municipal de Ensino.",
-              "unidade": "M",
-              "quantidade": "400,00",
-              "valor_referencia": "14,61"
-            }
-          ]
-        },
-        {
-          "numero": "10",
-          "titulo": "37335 Organza:tecido leve em cores diversas a serem indicadas no momento da contratação e emissão de OFs, translúcido, armável, com brilho moderado, composto por fibras sintéticas à base de poliéster, com gramatura de 40 g/m² e largura de 1,40m. Destinad",
-          "fase": "FRACASSADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "3.288,00",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37335 Organza:tecido leve em cores diversas a serem indicadas no momento da contratação e emissão de OFs, translúcido, armável, com brilho moderado, composto por fibras sintéticas à base de poliéster, com gramatura de 40 g/m² e largura de 1,40m. Destinado à confecção de sobreposições, laços, cortinas decorativas, saias de mesa, detalhes de figurinos, arranjos e outros elementos de embelezamento utilizados em eventos escolares, solenidades institucionais, apresentações culturais e projetos pedagógicos que demandem efeito visual delicado e sofisticado. O tecido deverá apresentar estrutura regular, boa estabilidade para montagem de arranjos, caimento compatível com uso decorativo, sem fios soltos, rasgos, furos, manchas, desbotamento acentuado ou falhas de tecelagem. O fornecimento será em metro linear, em rolos ou peças contínuas, com cortes retos, pronto para uso na ornamentação deambientes da Rede Municipal de Educação.",
-              "unidade": "M",
-              "quantidade": "400,00",
-              "valor_referencia": "8,22"
-            }
-          ]
-        },
-        {
-          "numero": "11",
-          "titulo": "8300500041 Tricoline:tecido plano 100% algodão: em cores lisas e/ou estampas variadas adequadas ao ambiente escolar, com gramatura de 120 g/m² e largura de 1,40 m. Indicado para confecção de painéis pedagógicos, bandeirolas, letras e figuras aplicadas, fr",
-          "fase": "FRACASSADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "4.828,00",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "8300500041 Tricoline:tecido plano 100% algodão: em cores lisas e/ou estampas variadas adequadas ao ambiente escolar, com gramatura de 120 g/m² e largura de 1,40 m. Indicado para confecção de painéis pedagógicos, bandeirolas, letras e figuras aplicadas, fronhas decorativas, elementos de identificação visual, adereços cênicos e itens de artesanato escolar utilizados em projetos didáticos, festas temáticas e atividades de valorização do ambiente educacional. O tecido deverá apresentar toque macio, boa estabilidade dimensional, superfície homogênea, sem furos, rasgos, manchas, falhas de estamparia, deformações ou odores intensos, permitindo costura, colagem e aplicação de técnicas de pintura e bordado de forma satisfatória. O fornecimento ocorrerá em metro linear, em rolos ou peças contínuas, sem emendas na área útil, com cortes retos e acondicionamento adequado, apto ao uso imediato em ações educativas, culturais e de ornamentação dos espaços escolares da Rede Municipal de Educação.",
-              "unidade": "M",
-              "quantidade": "400,00",
-              "valor_referencia": "12,07"
-            }
-          ]
-        },
-        {
-          "numero": "12",
-          "titulo": "37336 Corino sintético:tecido sintético impermeável em cores diversas a serem indicadas no momento da contratação e emissão de OFs, composto por PVC com base têxtil (50% PVC / 50% substrato), espessura entre 0,20 mm e 0,30 mm, gramatura média de 300 a 400",
-          "fase": "FRACASSADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "6.528,00",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37336 Corino sintético:tecido sintético impermeável em cores diversas a serem indicadas no momento da contratação e emissão de OFs, composto por PVC com base têxtil (50% PVC / 50% substrato), espessura entre 0,20 mm e 0,30 mm, gramatura média de 300 a 400 g/m² e largura de 1,40 m. Indicado para confecção de capas protetoras, estofados, painéis decorativos, elementos cenográficos e ambientação de espaços escolares em eventos institucionais, atividades pedagógicas e solenidades da Rede Municipal de Educação. O material deve apresentar superfície lisa e uniforme, resistente a manchas, água e riscos leves, sem falhas de laminação, bolhas, rasgos, furos ou variações acentuadas de tonalidade no mesmo lote, garantindo durabilidade e padrão estético contínuo. Fornecimento em rolos contínuos sem emendas na área útil, cortes retos e embalagem adequada para uso imediato.",
-              "unidade": "M",
-              "quantidade": "400,00",
-              "valor_referencia": "16,32"
-            }
-          ]
-        },
-        {
-          "numero": "13",
-          "titulo": "9900515618 Par de luvas destinadas à composição de uniforme oficial para bandas marciais:confeccionadas em tecido de algodão, proporcionando conforto, respirabilidade e adequada mobilidade das mãos durante apresentações, ensaios e desfiles; produzida em a",
-          "fase": "FRACASSADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "20.600,00",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900515618 Par de luvas destinadas à composição de uniforme oficial para bandas marciais:confeccionadas em tecido de algodão, proporcionando conforto, respirabilidade e adequada mobilidade das mãos durante apresentações, ensaios e desfiles; produzida em algodão ou material predominantemente composto por fibras de algodão, de toque macio, resistente ao uso contínuo, permitindo adequada ventilação das mãos e absorção de umidade. Deverá apresentar cor branca uniforme, sem manchas, variações de tonalidade, transparência excessiva ou imperfeições aparentes, mantendo padrão estético compatível com uniformização de banda marcial. O modelo deverá ser anatômico, fechado, com dedos completos. deverão possuir costuras reforçadas, acabamento resistente e ausência de fios soltos, rasgos, deformações ou defeitos de fabricação, devendo suportar lavagens sucessivas sem perda significativa de formato, elasticidade ou coloração. O punho deverá possuir acabamento reforçado, podendo conter elástico ou sistema equivalente que assegure ajuste firme ao pulso, evitando deslocamentos durante o uso e contribuindo para melhor acabamento visual do uniforme. Os tamanhos serão definidos pela Secretaria no momento da solicitação e emissão da Ordem de Fornecimento, conforme a necessidade dos usuários, devendo ser disponibilizados variados tamanhos, abrangendo medidas infantis e adultas, de modo a atender adequadamente aos integrantes da banda marcial.",
-              "unidade": "PAR",
-              "quantidade": "1.000,00",
-              "valor_referencia": "20,60"
-            }
-          ]
-        },
-        {
-          "numero": "14",
-          "titulo": "37337 Tecido tipo chita:em cores e estampas variadas a serem definidas no momento da contratação e emissão das Ordens de Fornecimento, composto predominantemente por fibras de algodão ou mistura com fibras sintéticas, de gramatura média aproximada entre 1",
-          "fase": "FRACASSADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "4.360,00",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37337 Tecido tipo chita:em cores e estampas variadas a serem definidas no momento da contratação e emissão das Ordens de Fornecimento, composto predominantemente por fibras de algodão ou mistura com fibras sintéticas, de gramatura média aproximada entre 120 g/m² e 180 g/m² e largura mínima de 1,40m. Caracteriza-se por apresentar estampas vivas, florais ou temáticas, com boa fixação de cor e resistência ao uso. O tecido deverá apresentar superfície uniforme, sem falhas de estamparia, desbotamento acentuado, rasgos, furos, manchas ou defeitos de fabricação. O fornecimento deverá ocorrer em metro linear, em peças contínuas, com cortes retos e sem emendas na área útil, pronto para uso em atividades educacionais e eventos institucionais.",
-              "unidade": "M",
-              "quantidade": "400,00",
-              "valor_referencia": "10,90"
-            }
-          ]
-        },
-        {
-          "numero": "15",
-          "titulo": "37338 Tecido tipo helanca:malha sintética de alta resistência, em cores diversas a serem definidas no momento da contratação e emissão das Ordens de Fornecimento, composto predominantemente por poliéster, podendo conter elastano em sua composição, com gra",
-          "fase": "EM ADJUDICAÇÃO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "6.640,00",
-          "vencedor": "CHSF DISTRIBUIDORA TEXTIL LTDA",
-          "melhor_oferta": "3.160,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37338 Tecido tipo helanca:malha sintética de alta resistência, em cores diversas a serem definidas no momento da contratação e emissão das Ordens de Fornecimento, composto predominantemente por poliéster, podendo conter elastano em sua composição, com gramatura média aproximada entre 120 g/m² e 200 g/m² e largura mínima de 1,50 m. Apresenta boa elasticidade, durabilidade, resistência ao desgaste e fácil manutenção. O tecido deverá possuir superfície regular, sem bolinhas (pilling), rasgos, furos, manchas ou deformações, garantindo qualidade e segurança no uso. O fornecimento será em metro linear, em rolos ou peças contínuas, sem emendas na área útil, com cortes precisos e acondicionamento adequado.",
-              "unidade": "M",
-              "quantidade": "400,00",
-              "valor_referencia": "16,60"
-            }
-          ]
-        },
-        {
-          "numero": "16",
-          "titulo": "37339 Tecido tipo brim leve:em cores diversas a serem definidas no momento da contratação e emissão das Ordens de Fornecimento, composto predominantemente por algodão ou mistura com poliéster, com gramatura aproximada entre 180 g/m² e 250 g/m² e largura m",
-          "fase": "EM ADJUDICAÇÃO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "10.800,00",
-          "vencedor": "CHSF DISTRIBUIDORA TEXTIL LTDA",
-          "melhor_oferta": "7.960,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37339 Tecido tipo brim leve:em cores diversas a serem definidas no momento da contratação e emissão das Ordens de Fornecimento, composto predominantemente por algodão ou mistura com poliéster, com gramatura aproximada entre 180 g/m² e 250 g/m² e largura mínima de 1,40 m. Caracteriza-se por apresentar resistência mecânica moderada, boa durabilidade e conforto térmico. O tecido deverá apresentar trama uniforme, sem falhas de tecelagem, rasgos, furos, manchas ou desbotamento acentuado, garantindo acabamento adequado e resistência ao uso contínuo e lavagens. O fornecimento deverá ocorrer em metro linear, em peças contínuas, com cortes retos, sem emendas na área útil e devidamente acondicionado.",
-              "unidade": "M",
-              "quantidade": "400,00",
-              "valor_referencia": "27,00"
-            }
-          ]
-        },
-        {
-          "numero": "17",
-          "titulo": "37340 Tecido alvejado:plano, em cor clara (predominantemente branca), composto por fibras de algodão ou mistura com fibras sintéticas, submetido a processo de alvejamento para remoção de impurezas e padronização de tonalidade, com gramatura aproximada ent",
-          "fase": "FRACASSADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "6.200,00",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37340 Tecido alvejado:plano, em cor clara (predominantemente branca), composto por fibras de algodão ou mistura com fibras sintéticas, submetido a processo de alvejamento para remoção de impurezas e padronização de tonalidade, com gramatura aproximada entre 100 g/m² e 200 g/m² e largura mínima de 1,40m. O material deverá apresentar superfície uniforme, sem manchas, odores, resíduos químicos excessivos, rasgos, furos ou falhas de tecelagem, garantindo boa absorção e aderência para tintas e outros materiais. O fornecimento será em metro linear, em peças contínuas, com cortes retos e sem emendas na área útil.",
-              "unidade": "M",
-              "quantidade": "400,00",
-              "valor_referencia": "15,50"
-            }
-          ]
-        },
-        {
-          "numero": "18",
-          "titulo": "37341 Tecido com aplicação de paetês:em cores diversas a serem definidas no momento da contratação e emissão das Ordens de Fornecimento, composto por base têxtil sintética (poliéster ou poliamida) com superfície revestida por paetês fixados de forma unifo",
-          "fase": "EM ADJUDICAÇÃO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "12.132,00",
-          "vencedor": "CHSF DISTRIBUIDORA TEXTIL LTDA",
-          "melhor_oferta": "12.132,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37341 Tecido com aplicação de paetês:em cores diversas a serem definidas no momento da contratação e emissão das Ordens de Fornecimento, composto por base têxtil sintética (poliéster ou poliamida) com superfície revestida por paetês fixados de forma uniforme, podendo ser liso ou reversível, com largura mínima de 1,30 m. O material deverá apresentar fixação firme dos paetês, sem desprendimento excessivo, falhas de aplicação, rasgos, furos ou deformações, garantindo efeito visual uniforme e durabilidade no uso. O fornecimento será em metro linear, em peças contínuas, devidamente acondicionadas, com cortes regulares e sem emendas na área útil.",
-              "unidade": "M",
-              "quantidade": "400,00",
-              "valor_referencia": "30,33"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "2-DLE-039-2026",
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "254 / 2026",
@@ -280554,74 +280102,6 @@
       ]
     },
     {
-      "id": "2-DLE-062-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "413 / 2026",
-      "modalidade": "DISPENSA ELETRÔNICA",
-      "situacao": "DISPUTA",
-      "condutor": "ISAQUE SILVA DOS SANTOS",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO",
-      "publicacao": "09/07/2026 16:01",
-      "inicio_recepcao": "09/07/2026 16:05",
-      "fim_recepcao": "15/07/2026 08:15",
-      "inicio_disputa": "15/07/2026 08:30",
-      "objeto": "Contratação de empresa especializada em fornecimento de [PILHAS] (material de consumo), a fim de atender as necessidades da Secretaria Municipal de Administração, conforme condições, quantidades e exigências estabelecidas neste Aviso de Contratação Direta, Termo de Referência e seus Anexos.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DzDzXjcTBVKbU8o2Vh0l6su_ra4Z9QyiwBUH2vZ2wkTCZYhpDTz4McB6MsUaG6fLUc%2F7CQ0tI260zoIoqxqwIJ9oFbSVRVPjapMasFXAbdT0%3D",
-      "total_lotes": 2,
-      "total_itens": 2,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "9900515602 Pilha alcalina modelo AA (LR6):tensão nominal de 1,5V, não recarregável, composta por dióxido de manganês e zinco, isenta de metais pesados como mercúrio e cádmio, com elevada durabilidade e desempenho contínuo, indicada para utilização em equi",
-          "fase": "DISPUTA",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "4.835,50",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900515602 Pilha alcalina modelo AA (LR6):tensão nominal de 1,5V, não recarregável, composta por dióxido de manganês e zinco, isenta de metais pesados como mercúrio e cádmio, com elevada durabilidade e desempenho contínuo, indicada para utilização em equipamentos eletrônicos de médio e alto consumo, tais como controles remotos, microfones sem fio, brinquedos pedagógicos, relógios, entre outros dispositivos. Na data da entrega, o produto deverá apresentar validade remanescente correspondente a, no mínimo, 75% (setenta e cinco por cento) do prazo total de validade estabelecido pelo fabricante, acondicionado em embalagem original do fabricante, devidamente lacrada, contendo identificação do fabricante, lote e data de fabricação. Fornecimento em pacotes contendo 04 (quatro) unidades cada. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "Und.",
-              "quantidade": "475,00",
-              "valor_referencia": "10,18"
-            }
-          ]
-        },
-        {
-          "numero": "2",
-          "titulo": "9900515603 Pilha alcalina modelo AAA (LR03):tensão nominal de 1,5V, não recarregável, composta por dióxido de manganês e zinco, isenta de metais pesados como mercúrio e cádmio, com alto desempenho e longa duração, adequada para equipamentos eletrônicos de",
-          "fase": "DISPUTA",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "4.835,50",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900515603 Pilha alcalina modelo AAA (LR03):tensão nominal de 1,5V, não recarregável, composta por dióxido de manganês e zinco, isenta de metais pesados como mercúrio e cádmio, com alto desempenho e longa duração, adequada para equipamentos eletrônicos de baixo e médio consumo, como controles remotos, microfones sem fio, dispositivos portáteis e similares. Na data da entrega, o produto deverá apresentar validade remanescente correspondente a, no mínimo, 75% (setenta e cinco por cento) do prazo total de validade estabelecido pelo fabricante, acondicionado em embalagem original do fabricante, devidamente lacrada, contendo identificação do fabricante, lote e data de fabricação. Fornecimento em pacotes contendo 04 (quatro) unidades cada. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "Und.",
-              "quantidade": "475,00",
-              "valor_referencia": "10,18"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "3-DLE-067-2026",
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "796/2026",
@@ -284703,71 +284183,6 @@
       ]
     },
     {
-      "id": "2-DLE-049-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "466 / 2026",
-      "modalidade": "DISPENSA ELETRÔNICA",
-      "situacao": "DISPUTA",
-      "condutor": "ISLA LIMA SILVA",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO",
-      "publicacao": "02/06/2026 15:53",
-      "inicio_recepcao": "08/07/2026 18:30",
-      "fim_recepcao": "15/07/2026 08:15",
-      "inicio_disputa": "15/07/2026 08:30",
-      "objeto": "Contratação de empresa especializada em prestação de serviços de gerenciamento, manutenção preventiva e/ou corretiva de HOSPEDAGEM DE SITE, VIRTUALIZAÇÃO EM NUVEM E DOMÍNIO,  a fim de atender às demandas da Secretaria Municipal de Administração.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5D7VeczIWhjab5mAryZd_xFQ0mXugIqUdgBB6OFt9gHCzEJjB1Gz4Kv7U%2FvpJAggYN3EWpixiZmf0KYe4hZ6Lbp8FXW1Ej6KHFWkLRsqdmLvk%3D",
-      "total_lotes": 1,
-      "total_itens": 4,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "HOSPEDAGEM SITE",
-          "fase": "DISPUTA",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "42.860,52",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 4,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "200100001 DOMÍNIO:Prestação de serviços de gerenciamento de domínios institucionais, incluindo configuração e administração de servidores DNS (NS/Nameservers), manutenção e controle dos domínios já existentes no âmbito da Administração Pública, bem como o registro, renovação e gerenciamento de novos domínios que venham a ser contratados durante a vigência do contrato, pelo período de 24 (vinte e quatro) meses, contemplando ainda suporte técnico, atualização de registros DNS, garantia de disponibilidade e funcionamento contínuo dos serviços vinculados aos domínios.",
-              "unidade": "SER",
-              "quantidade": "4,00",
-              "valor_referencia": "173,55"
-            },
-            {
-              "numero": "2",
-              "especificacao": "200100003 HOSPEDAGEM DOS WEBSITES:Gerenciarhospedagem instituída pelo Parque Tecnológico desta prefeitura, com manutenção e suporte das plataformas existentes e de novas contratações. Armazenamento mínimo de 150 GB SSD, Contas de e-mail Ilimitadas, Site Ilimitados, 500 mil de arquivos (Inodes), Memória RAM DDR4 ou superior, 50 conexões com o banco de dados, 50 Processos Simultâneos, Instalador automático Softaculous, Criador de Sites Rápido Grátis, SSL grátis para todos domínios e subdomínios, Painel de Controle.Pelo período de 24 (vinte e quatro) meses.",
-              "unidade": "SER",
-              "quantidade": "48,00",
-              "valor_referencia": "212,33"
-            },
-            {
-              "numero": "3",
-              "especificacao": "200100004 VIRTUALIZAÇÃO EM NUVEM NÍVEL 1:O serviçodeverá ser prestado em ambiente virtualizado do tipo VPS ou Cloud, com infraestrutura dedicada contendo, no mínimo, 4 vCPU, 16 GB de memória RAM, armazenamento mínimo de 200 GB em NVMe, 16 TB de largura de banda ou ilimitada, link de conexão de no mínimo 1 Gbps e endereço IPv4 público dedicado; deverá operar em sistema operacional Linux (preferencialmente Ubuntu Server, Debian ou CentOS), com acesso administrativo (root) ou painel de gerenciamento, suporte a serviços web como Apache ou Nginx, PHP e bancos de dados MySQL/MariaDB ou PostgreSQL, garantindo compatibilidade com aplicações institucionais; deverá assegurar disponibilidade mínima de 99,5% mensal, com monitoramento ativo 24x7, tempo de resposta para incidentes críticos de até 2 horas e solução em até 8 horas; contemplar mecanismos de segurança, incluindo firewall, proteção contra ataques DDoS, certificado SSL válido, atualizações periódicas e controle de acesso seguro; executar rotinas de backup automático diário com retenção mínima de 7 dias, 1 snapshot, armazenamento em ambiente segregado e possibilidade de restauração sob demanda; bem como disponibilizar suporte técnico remoto em horário comercial e atendimento emergencial 24x7, por meio de canais como email, telefone ou sistema de chamados, com equipe técnica especializada, incluindo ainda os serviços de implantação, configuração inicial, migração de dados sem custo adicional, monitoramento contínuo e manutenção preventiva e corretiva do ambiente. Pelo período de 24 (vinte e quatro) meses.",
-              "unidade": "SER",
-              "quantidade": "72,00",
-              "valor_referencia": "174,45"
-            },
-            {
-              "numero": "4",
-              "especificacao": "200100005 VIRTUALIZAÇÃO EM NUVEM NÍVEL 2:O serviçodeverá ser prestado em ambiente virtualizado do tipo VPS ou Cloud, com infraestrutura dedicada contendo, no mínimo, 8 vCPU, 32 GB de memória RAM, armazenamento mínimo de 400 GB em NVMe, 32 TB de largura de banda ou ilimitada, link de conexão de no mínimo 1 Gbps e endereço IPv4 público dedicado; deverá operar em sistema operacional Linux (preferencialmente Ubuntu Server, Debian ou CentOS), com acesso administrativo (root) ou painel de gerenciamento, suporte a serviços web como Apache ou Nginx, PHP e bancos de dados MySQL/MariaDB ou PostgreSQL, garantindo compatibilidade com aplicações institucionais; deverá assegurar disponibilidade mínima de 99,5% mensal, com monitoramento ativo 24x7, tempo de resposta para incidentes críticos de até 2 horas e solução em até 8 horas; contemplar mecanismos de segurança, incluindo firewall, proteção contra ataques DDoS, certificado SSL válido,",
-              "unidade": "SER",
-              "quantidade": "96,00",
-              "valor_referencia": "202,23"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "PE-111-2026",
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "694 / 2026",
@@ -284932,33 +284347,748 @@
       ]
     },
     {
+      "id": "CE-014-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "620/2026",
+      "modalidade": "CONCORRÊNCIA ELETRÔNICA",
+      "situacao": "RECEPÇÃO DE PROPOSTAS",
+      "condutor": "DAVIDSON ARAUJO SANTOS",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO PARCELADA",
+      "publicacao": "15/07/2026 16:02",
+      "inicio_recepcao": "16/07/2026 08:00",
+      "fim_recepcao": "20/08/2026 13:45",
+      "inicio_disputa": "20/08/2026 14:00",
+      "objeto": "Contratação de empresa especializada em execução de obras de microdrenagem e pavimentação em diversas ruas dos bairros Bonadiman, Eixo Sul e Portal Sul, no município de Teixeira de Freitas – BA.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5D9Y8AnfEdjIYSGxkwwtiY5EN3fDUqAJ_xjU3vyiCJr%2FA5OMC_LcL1sLkslI7EualSkcShiERn1lHeZTCFpykezVP72uOX3%2Fu5wFDH7dzwDio%3D",
+      "total_lotes": 1,
+      "total_itens": 5,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "EXECUÇÃO DE OBRAS DE MICRODRENAGEM E PAVIMENTAÇÃO EM DIVERSAS RUAS DOS BAIRROS BONADIMAN, EIXO SUL E PORTAL SUL",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "1.000,00",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "31.056.653,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 5,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "ADMINISTRAÇÃO LOCAL DE OBRA",
+              "unidade": "SERVIÇO",
+              "quantidade": "1,00",
+              "valor_referencia": "506.589,72"
+            },
+            {
+              "numero": "2",
+              "especificacao": "SERVIÇOS PRELIMINARES",
+              "unidade": "SERVIÇO",
+              "quantidade": "1,00",
+              "valor_referencia": "103.138,36"
+            },
+            {
+              "numero": "3",
+              "especificacao": "PAVIMENTAÇÃO E DRENAGEM DO BAIRRO BONADIMAN",
+              "unidade": "SERVIÇO",
+              "quantidade": "1,00",
+              "valor_referencia": "16.606.532,37"
+            },
+            {
+              "numero": "4",
+              "especificacao": "PAVIMENTAÇÃO E DRENAGEM DO BAIRRO EIXO SUL",
+              "unidade": "SERVIÇO",
+              "quantidade": "1,00",
+              "valor_referencia": "7.865.223,48"
+            },
+            {
+              "numero": "5",
+              "especificacao": "PAVIMENTAÇÃO E DRENAGEM DO BAIRRO PORTAL SUL",
+              "unidade": "SERVIÇO",
+              "quantidade": "1,00",
+              "valor_referencia": "5.975.169,07"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CE-013-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "619/2026",
+      "modalidade": "CONCORRÊNCIA ELETRÔNICA",
+      "situacao": "RECEPÇÃO DE PROPOSTAS",
+      "condutor": "DAVIDSON ARAUJO SANTOS",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO PARCELADA",
+      "publicacao": "15/07/2026 15:59",
+      "inicio_recepcao": "16/07/2026 00:00",
+      "fim_recepcao": "20/08/2026 08:15",
+      "inicio_disputa": "20/08/2026 08:30",
+      "objeto": "Contratação de empresa especializada em execução de obras de microdrenagem e pavimentação em diversas ruas do bairro Estância Biquine, no município de Teixeira de Freitas – BA.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DFo2sUMUU7Jk%2Fsw2TR1DOry1bYVlDM7zHaISI3FQL2Rle2V6%2F4ZorCyMaI4TIHfp5Di6GEHTl6SFm%2FSuhT%2FvjwwQA6HIeo3s4DnDeD_ctusc%3D",
+      "total_lotes": 1,
+      "total_itens": 3,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "EXECUÇÃO DE OBRAS DE MICRODRENAGEM E PAVIMENTAÇÃO EM DIVERSAS RUAS DO BAIRRO ESTÂNCIA BIQUINE",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "1.000,00",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "23.092.487,55",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 3,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "ADMINISTRAÇÃO LOCAL DE OBRA",
+              "unidade": "SERVIÇO",
+              "quantidade": "1,00",
+              "valor_referencia": "506.589,72"
+            },
+            {
+              "numero": "2",
+              "especificacao": "SERVIÇOS PRELIMINARES",
+              "unidade": "SERVIÇO",
+              "quantidade": "1,00",
+              "valor_referencia": "141.458,20"
+            },
+            {
+              "numero": "3",
+              "especificacao": "PAVIMENTAÇÃO E DRENAGEM DO BAIRRO ESTÂNCIA BIQUINE",
+              "unidade": "SERVIÇO",
+              "quantidade": "1,00",
+              "valor_referencia": "22.444.439,63"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2-DLE-062-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "413 / 2026",
+      "modalidade": "DISPENSA ELETRÔNICA",
+      "situacao": "HABILITAÇÃO",
+      "condutor": "ISAQUE SILVA DOS SANTOS",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO",
+      "publicacao": "09/07/2026 16:01",
+      "inicio_recepcao": "09/07/2026 16:05",
+      "fim_recepcao": "15/07/2026 08:15",
+      "inicio_disputa": "15/07/2026 08:30",
+      "objeto": "Contratação de empresa especializada em fornecimento de [PILHAS] (material de consumo), a fim de atender as necessidades da Secretaria Municipal de Administração, conforme condições, quantidades e exigências estabelecidas neste Aviso de Contratação Direta, Termo de Referência e seus Anexos.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5D7PD7C5vTP4sj3boFaRG_dvZykYJtmSHa8pfXgCCj61L1U4nmW8R0nPKTYX7go_x4TrAyD7r9cFNtiODYt0zJ9XLFm9xsbpFvGbzwBDBaHqk%3D",
+      "total_lotes": 2,
+      "total_itens": 2,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "9900515602 Pilha alcalina modelo AA (LR6):tensão nominal de 1,5V, não recarregável, composta por dióxido de manganês e zinco, isenta de metais pesados como mercúrio e cádmio, com elevada durabilidade e desempenho contínuo, indicada para utilização em equi",
+          "fase": "HABILITAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "4.835,50",
+          "vencedor": "POP SHOP LAR INTERMEDIAÇÕES E NEGOCIOS LTDA",
+          "melhor_oferta": "2.997,25",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515602 Pilha alcalina modelo AA (LR6):tensão nominal de 1,5V, não recarregável, composta por dióxido de manganês e zinco, isenta de metais pesados como mercúrio e cádmio, com elevada durabilidade e desempenho contínuo, indicada para utilização em equipamentos eletrônicos de médio e alto consumo, tais como controles remotos, microfones sem fio, brinquedos pedagógicos, relógios, entre outros dispositivos. Na data da entrega, o produto deverá apresentar validade remanescente correspondente a, no mínimo, 75% (setenta e cinco por cento) do prazo total de validade estabelecido pelo fabricante, acondicionado em embalagem original do fabricante, devidamente lacrada, contendo identificação do fabricante, lote e data de fabricação. Fornecimento em pacotes contendo 04 (quatro) unidades cada. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "Und.",
+              "quantidade": "475,00",
+              "valor_referencia": "10,18"
+            }
+          ]
+        },
+        {
+          "numero": "2",
+          "titulo": "9900515603 Pilha alcalina modelo AAA (LR03):tensão nominal de 1,5V, não recarregável, composta por dióxido de manganês e zinco, isenta de metais pesados como mercúrio e cádmio, com alto desempenho e longa duração, adequada para equipamentos eletrônicos de",
+          "fase": "HABILITAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "4.835,50",
+          "vencedor": "POP SHOP LAR INTERMEDIAÇÕES E NEGOCIOS LTDA",
+          "melhor_oferta": "2.997,25",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515603 Pilha alcalina modelo AAA (LR03):tensão nominal de 1,5V, não recarregável, composta por dióxido de manganês e zinco, isenta de metais pesados como mercúrio e cádmio, com alto desempenho e longa duração, adequada para equipamentos eletrônicos de baixo e médio consumo, como controles remotos, microfones sem fio, dispositivos portáteis e similares. Na data da entrega, o produto deverá apresentar validade remanescente correspondente a, no mínimo, 75% (setenta e cinco por cento) do prazo total de validade estabelecido pelo fabricante, acondicionado em embalagem original do fabricante, devidamente lacrada, contendo identificação do fabricante, lote e data de fabricação. Fornecimento em pacotes contendo 04 (quatro) unidades cada. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "Und.",
+              "quantidade": "475,00",
+              "valor_referencia": "10,18"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-090-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "342 / 2026",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "ADJUDICADO",
+      "condutor": "JONATAS DA SILVA SOUSA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO PARCELADA",
+      "publicacao": "03/06/2026 16:17",
+      "inicio_recepcao": "09/06/2026 08:30",
+      "fim_recepcao": "19/06/2026 13:45",
+      "inicio_disputa": "19/06/2026 14:00",
+      "objeto": "Contratação de empresa especializada em fornecimento de TECIDOS E LUVAS (material de consumo), a fim de atender às demandas da Secretaria Municipal de Educação.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DC5CII0wHEUPA%2F5k9bVRd3cyM755Zd_I5r2ZxBhHzP1qyjsoMZDpclIm_tTuY3gp7e7vddTtlpH8n2QpNn1cxyooVWroSLOLYFJ8QVzX3vqk%3D",
+      "total_lotes": 18,
+      "total_itens": 18,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "8300500037 Cetim:tecido sintético em cores diversas a serem indicadas no momento da contratação e emissão de OFs, de superfície brilhante e toque suave, composto por 100% poliéster, com gramatura de 90 g/m² e largura de 1,40m. Adequado para confecção de f",
+          "fase": "ADJUDICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "4.068,00",
+          "vencedor": "CHSF DISTRIBUIDORA TEXTIL LTDA",
+          "melhor_oferta": "4.068,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "8300500037 Cetim:tecido sintético em cores diversas a serem indicadas no momento da contratação e emissão de OFs, de superfície brilhante e toque suave, composto por 100% poliéster, com gramatura de 90 g/m² e largura de 1,40m. Adequado para confecção de figurinos, painéis decorativos, fundos de palco, adereços cênicos e ambientação de espaços escolares e institucionais. O tecido deverá apresentar estrutura uniforme, sem falhas de tecelagem, desfiados, furos, rasgos, manchas ou variações acentuadas de tonalidade dentro do mesmo lote, garantindo padrão estético contínuo. O fornecimento deverá ocorrer em metro linear, em rolos ou peças contínuas, sem emendas na área útil, com cortes retos e bordas íntegras, apto ao uso imediato em eventos institucionais, atividades pedagógicas, solenidades e demais ações da Rede Municipal de Educação.",
+              "unidade": "M",
+              "quantidade": "400,00",
+              "valor_referencia": "10,17"
+            }
+          ]
+        },
+        {
+          "numero": "2",
+          "titulo": "8300500038 Malha:incluindo variações com elastano (tipo Lycra), em cores diversas a serem indicadas no momento da contratação e emissão de OFs, de malha circular, composta por poliéster ou poliamida com elastano, com boa elasticidade e recuperação, gramat",
+          "fase": "ADJUDICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "6.400,00",
+          "vencedor": "CHSF DISTRIBUIDORA TEXTIL LTDA",
+          "melhor_oferta": "6.400,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "8300500038 Malha:incluindo variações com elastano (tipo Lycra), em cores diversas a serem indicadas no momento da contratação e emissão de OFs, de malha circular, composta por poliéster ou poliamida com elastano, com boa elasticidade e recuperação, gramatura de 180 g/m² e largura de 1,50 m.Indicada para figurinos infantis e adultos, roupas temáticas, adereços cênicos e elementos decorativos que exijam mobilidade e ajuste ao corpo em apresentações, projetos pedagógicos e eventos escolares. O tecido deve apresentar superfície regular, sem furos, rasgos, bolinhas (pilling), manchas ou deformações, mantendo conforto, resistência e segurança no uso por estudantes e profissionais. O fornecimento será em metro linear, em rolos contínuos, sem emendas na extensão útil, com cortes precisos e acondicionamento adequado, de forma a atender às demandas recorrentes de ornamentação e atividades pedagógicas da Rede Municipal de Educação.",
+              "unidade": "M",
+              "quantidade": "400,00",
+              "valor_referencia": "16,00"
+            }
+          ]
+        },
+        {
+          "numero": "3",
+          "titulo": "8300500039 Oxford:tecido sintético em cores diversas a serem indicadas no momento da contratação e emissão de OFs, composto predominantemente por poliéster, com entrelaçamento firme, gramatura de 110 g/m² e largura de 1,50 m. Indicado para confecção de un",
+          "fase": "ADJUDICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "7.552,50",
+          "vencedor": "CHSF DISTRIBUIDORA TEXTIL LTDA",
+          "melhor_oferta": "7.552,50",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "8300500039 Oxford:tecido sintético em cores diversas a serem indicadas no momento da contratação e emissão de OFs, composto predominantemente por poliéster, com entrelaçamento firme, gramatura de 110 g/m² e largura de 1,50 m. Indicado para confecção de uniformes simples, toalhas, painéis, bandeiras, fundos de palco, faixas e outros elementos decorativos utilizados em eventos institucionais, reuniões, formaturas, feiras pedagógicas e ações de integração com a comunidade escolar. O tecido deverá ser resistente, com acabamento opaco, textura homogênea, boa estabilidade dimensional e ausência de furos, rasgos, manchas, falhas de tecelagem ou desbotamento acentuado. O fornecimento ocorrerá em metro linear, em rolos contínuos, sem emendas na área útil, garantindo durabilidade e padrão visual compatível com a relevância das atividades desenvolvidas na Rede Municipal de Ensino.",
+              "unidade": "M",
+              "quantidade": "750,00",
+              "valor_referencia": "10,07"
+            }
+          ]
+        },
+        {
+          "numero": "4",
+          "titulo": "37330 Tule:tecido leve em cores diversas a serem indicadas no momento da contratação e emissão de OFs, de malha aberta, fino, transparente e maleável, composto por 100% poliamida ou poliéster, com largura de 1,40 m. Destinado à confecção de saias volumosa",
+          "fase": "ADJUDICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "3.860,00",
+          "vencedor": "CHSF DISTRIBUIDORA TEXTIL LTDA",
+          "melhor_oferta": "3.860,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37330 Tule:tecido leve em cores diversas a serem indicadas no momento da contratação e emissão de OFs, de malha aberta, fino, transparente e maleável, composto por 100% poliamida ou poliéster, com largura de 1,40 m. Destinado à confecção de saias volumosas, sobreposições de figurinos, cenários, arranjos decorativos e demais elementos utilizados em apresentações culturais, eventos comemorativos, festas escolares e projetos pedagógicos temáticos. O tule deverá apresentar malha uniforme, sem rasgos, furos, deformações, fios rompidos ou manchas, proporcionando bom caimento e efeito visual adequado sob iluminação de palco ou ambientes internos. O fornecimento será realizado em metro linear, em rolos ou peças contínuas, preferencialmente sem emendas na área útil, prontos para uso em ornamentação e ambientação no âmbito da Rede Municipal de Educação.",
+              "unidade": "M",
+              "quantidade": "400,00",
+              "valor_referencia": "9,65"
+            }
+          ]
+        },
+        {
+          "numero": "5",
+          "titulo": "37331 Juta:tecido de origem natural, em cores diversas a serem indicadas no momento da contratação e emissão de OFs, de aspecto rústico, fabricado com fibras vegetais, com gramatura elevada em torno de 300 g/m² e largura de 1,40 m. Indicado para decoração",
+          "fase": "ADJUDICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "9.240,00",
+          "vencedor": "CHSF DISTRIBUIDORA TEXTIL LTDA",
+          "melhor_oferta": "9.240,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37331 Juta:tecido de origem natural, em cores diversas a serem indicadas no momento da contratação e emissão de OFs, de aspecto rústico, fabricado com fibras vegetais, com gramatura elevada em torno de 300 g/m² e largura de 1,40 m. Indicado para decoração temática, cenários com apelo rústico, painéis, revestimento de mesas, stands e atividades de artesanato em feiras pedagógicas, projetos culturais, festas juninas e demais eventos escolares. O tecido deverá apresentar trama firme, boa resistência mecânica, baixa quantidade de impurezas, sem rasgos excessivos, furos significativos, manchas intensas ou odores não característicos do material. O fornecimento ocorrerá em metro linear, em peças contínuas, garantindo segurança no manuseio e qualidade visual condizente com a proposta educativa, cultural e institucional da Rede Municipal de Ensino.",
+              "unidade": "M",
+              "quantidade": "400,00",
+              "valor_referencia": "23,10"
+            }
+          ]
+        },
+        {
+          "numero": "6",
+          "titulo": "37332 Algodão cru:tecido plano em cores diversas a serem indicadas no momento da contratação e emissão de OFs (preferencialmente naturais ou em tons claros), 100% algodão, sem tingimento intenso ou acabamento químico agressivo, com gramatura de 150 g/m² e",
+          "fase": "FRACASSADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "5.228,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37332 Algodão cru:tecido plano em cores diversas a serem indicadas no momento da contratação e emissão de OFs (preferencialmente naturais ou em tons claros), 100% algodão, sem tingimento intenso ou acabamento químico agressivo, com gramatura de 150 g/m² e largura de 1,40 m. Destinado à realização de atividades educativas, artísticas e artesanais, como pintura, colagem, produção de painéis, cenários, banners e peças decorativas para uso em salas de aula, corredores, auditórios e demais espaços escolares. O tecido deverá apresentar superfície homogênea, estrutura firme, sem furos, rasgos, manchas significativas, deformações ou odores intensos, permitindo escrita, pintura e colagem com boa aderência. O fornecimento será em metro linear, em peças contínuas, com cortes retos, apto ao uso por estudantes e equipes pedagógicas em projetos escolares e eventos institucionais.",
+              "unidade": "M",
+              "quantidade": "400,00",
+              "valor_referencia": "13,07"
+            }
+          ]
+        },
+        {
+          "numero": "7",
+          "titulo": "37333 Oxford xadrez:variação estampada do tecido Oxford, em padrão xadrez e cores diversas, composto por 100% poliéster, com gramatura de 110 g/m² e largura de 1,50 m. Adequado para composições temáticas, decoração de festas escolares (como festas juninas",
+          "fase": "ADJUDICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "6.612,00",
+          "vencedor": "CHSF DISTRIBUIDORA TEXTIL LTDA",
+          "melhor_oferta": "6.612,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37333 Oxford xadrez:variação estampada do tecido Oxford, em padrão xadrez e cores diversas, composto por 100% poliéster, com gramatura de 110 g/m² e largura de 1,50 m. Adequado para composições temáticas, decoração de festas escolares (como festas juninas), confecção de toalhas, bandeirolas, aventais, detalhes de figurinos e elementos visuais utilizados em projetos pedagógicos que envolvam ambientação de espaços. A estampa deverá ser regular, sem falhas de impressão, sem desbotamento acentuado ou diferenças marcantes de tonalidade entre rolos do mesmo lote. O fornecimento deve ser em metro linear, em rolos contínuos, sem emendas na área útil, livre de furos, rasgos, manchas e falhas de tecelagem, garantindo acabamento visual adequado às ações educativas e culturais da Rede Municipal de Ensino.",
+              "unidade": "M",
+              "quantidade": "400,00",
+              "valor_referencia": "16,53"
+            }
+          ]
+        },
+        {
+          "numero": "8",
+          "titulo": "8300500040 TNT (tecido não tecido):material sintético em cores diversas a serem indicadas no momento da contratação e emissão de OFs, produzido por agulhamento ou colagem de fibras, com gramatura entre 40 g/m² e 80 g/m² e largura de 1,40m. Amplamente uti",
+          "fase": "FRACASSADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "1.468,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "8300500040 TNT (tecido não tecido):material sintético em cores diversas a serem indicadas no momento da contratação e emissão de OFs, produzido por agulhamento ou colagem de fibras, com gramatura entre 40 g/m² e 80 g/m² e largura de 1,40m. Amplamente utilizado para decoração de ambientes escolares, revestimento de painéis, confecção de fundos de palco, faixas, molduras, elementos cenográficos e partes de figurinos de uso pontual em atividades pedagógicas e culturais. O material deverá apresentar superfície uniforme, sem rasgos, furos, falhas na estrutura, manchas intensas ou acúmulo excessivo de partículas soltas, garantindo segurança e facilidade de manuseio. O fornecimento será em metro linear, em rolos contínuos, com cortes retos e acondicionamento adequado, destinado ao atendimento das demandas de ornamentação, ambientação e execução de projetos e eventos no âmbito da Rede Municipal de Educação.",
+              "unidade": "M",
+              "quantidade": "400,00",
+              "valor_referencia": "3,67"
+            }
+          ]
+        },
+        {
+          "numero": "9",
+          "titulo": "37334 Feltro:tecido denso e macio em cores diversas a serem indicadas no momento da contratação e emissão de OFs, composto por fibras sintéticas ou naturais prensadas, com gramatura de 300 g/m² e largura de 1,40 m. Indicado para trabalhos de artesanato, p",
+          "fase": "FRACASSADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "5.844,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37334 Feltro:tecido denso e macio em cores diversas a serem indicadas no momento da contratação e emissão de OFs, composto por fibras sintéticas ou naturais prensadas, com gramatura de 300 g/m² e largura de 1,40 m. Indicado para trabalhos de artesanato, produção de painéis decorativos, letras e figuras recortadas, confecção de máscaras, adereços, elementos estruturais de figurinos e materiais de apoio visual utilizados em atividades pedagógicas, apresentações artísticas e eventos escolares. O feltro deverá apresentar superfície uniforme, sem furos, rasgos, manchas, deformações, odores intensos ou excesso de resíduos soltos, permitindo cortes limpos e boa fixação com colas ou costuras. O fornecimento será em metro linear, em cortes contínuos, sem emendas na área útil, garantindo durabilidade, segurança no manuseio e qualidade estética compatível com as ações da Rede Municipal de Ensino.",
+              "unidade": "M",
+              "quantidade": "400,00",
+              "valor_referencia": "14,61"
+            }
+          ]
+        },
+        {
+          "numero": "10",
+          "titulo": "37335 Organza:tecido leve em cores diversas a serem indicadas no momento da contratação e emissão de OFs, translúcido, armável, com brilho moderado, composto por fibras sintéticas à base de poliéster, com gramatura de 40 g/m² e largura de 1,40m. Destinad",
+          "fase": "FRACASSADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "3.288,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37335 Organza:tecido leve em cores diversas a serem indicadas no momento da contratação e emissão de OFs, translúcido, armável, com brilho moderado, composto por fibras sintéticas à base de poliéster, com gramatura de 40 g/m² e largura de 1,40m. Destinado à confecção de sobreposições, laços, cortinas decorativas, saias de mesa, detalhes de figurinos, arranjos e outros elementos de embelezamento utilizados em eventos escolares, solenidades institucionais, apresentações culturais e projetos pedagógicos que demandem efeito visual delicado e sofisticado. O tecido deverá apresentar estrutura regular, boa estabilidade para montagem de arranjos, caimento compatível com uso decorativo, sem fios soltos, rasgos, furos, manchas, desbotamento acentuado ou falhas de tecelagem. O fornecimento será em metro linear, em rolos ou peças contínuas, com cortes retos, pronto para uso na ornamentação deambientes da Rede Municipal de Educação.",
+              "unidade": "M",
+              "quantidade": "400,00",
+              "valor_referencia": "8,22"
+            }
+          ]
+        },
+        {
+          "numero": "11",
+          "titulo": "8300500041 Tricoline:tecido plano 100% algodão: em cores lisas e/ou estampas variadas adequadas ao ambiente escolar, com gramatura de 120 g/m² e largura de 1,40 m. Indicado para confecção de painéis pedagógicos, bandeirolas, letras e figuras aplicadas, fr",
+          "fase": "FRACASSADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "4.828,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "8300500041 Tricoline:tecido plano 100% algodão: em cores lisas e/ou estampas variadas adequadas ao ambiente escolar, com gramatura de 120 g/m² e largura de 1,40 m. Indicado para confecção de painéis pedagógicos, bandeirolas, letras e figuras aplicadas, fronhas decorativas, elementos de identificação visual, adereços cênicos e itens de artesanato escolar utilizados em projetos didáticos, festas temáticas e atividades de valorização do ambiente educacional. O tecido deverá apresentar toque macio, boa estabilidade dimensional, superfície homogênea, sem furos, rasgos, manchas, falhas de estamparia, deformações ou odores intensos, permitindo costura, colagem e aplicação de técnicas de pintura e bordado de forma satisfatória. O fornecimento ocorrerá em metro linear, em rolos ou peças contínuas, sem emendas na área útil, com cortes retos e acondicionamento adequado, apto ao uso imediato em ações educativas, culturais e de ornamentação dos espaços escolares da Rede Municipal de Educação.",
+              "unidade": "M",
+              "quantidade": "400,00",
+              "valor_referencia": "12,07"
+            }
+          ]
+        },
+        {
+          "numero": "12",
+          "titulo": "37336 Corino sintético:tecido sintético impermeável em cores diversas a serem indicadas no momento da contratação e emissão de OFs, composto por PVC com base têxtil (50% PVC / 50% substrato), espessura entre 0,20 mm e 0,30 mm, gramatura média de 300 a 400",
+          "fase": "FRACASSADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "6.528,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37336 Corino sintético:tecido sintético impermeável em cores diversas a serem indicadas no momento da contratação e emissão de OFs, composto por PVC com base têxtil (50% PVC / 50% substrato), espessura entre 0,20 mm e 0,30 mm, gramatura média de 300 a 400 g/m² e largura de 1,40 m. Indicado para confecção de capas protetoras, estofados, painéis decorativos, elementos cenográficos e ambientação de espaços escolares em eventos institucionais, atividades pedagógicas e solenidades da Rede Municipal de Educação. O material deve apresentar superfície lisa e uniforme, resistente a manchas, água e riscos leves, sem falhas de laminação, bolhas, rasgos, furos ou variações acentuadas de tonalidade no mesmo lote, garantindo durabilidade e padrão estético contínuo. Fornecimento em rolos contínuos sem emendas na área útil, cortes retos e embalagem adequada para uso imediato.",
+              "unidade": "M",
+              "quantidade": "400,00",
+              "valor_referencia": "16,32"
+            }
+          ]
+        },
+        {
+          "numero": "12",
+          "titulo": "37336 Corino sintético:tecido sintético impermeável em cores diversas a serem indicadas no momento da contratação e emissão de OFs, composto por PVC com base têxtil (50% PVC / 50% substrato), espessura entre 0,20 mm e 0,30 mm, gramatura média de 300 a 400",
+          "fase": "FRACASSADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "6.528,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37336 Corino sintético:tecido sintético impermeável em cores diversas a serem indicadas no momento da contratação e emissão de OFs, composto por PVC com base têxtil (50% PVC / 50% substrato), espessura entre 0,20 mm e 0,30 mm, gramatura média de 300 a 400 g/m² e largura de 1,40 m. Indicado para confecção de capas protetoras, estofados, painéis decorativos, elementos cenográficos e ambientação de espaços escolares em eventos institucionais, atividades pedagógicas e solenidades da Rede Municipal de Educação. O material deve apresentar superfície lisa e uniforme, resistente a manchas, água e riscos leves, sem falhas de laminação, bolhas, rasgos, furos ou variações acentuadas de tonalidade no mesmo lote, garantindo durabilidade e padrão estético contínuo. Fornecimento em rolos contínuos sem emendas na área útil, cortes retos e embalagem adequada para uso imediato.",
+              "unidade": "M",
+              "quantidade": "400,00",
+              "valor_referencia": "16,32"
+            }
+          ]
+        },
+        {
+          "numero": "13",
+          "titulo": "9900515618 Par de luvas destinadas à composição de uniforme oficial para bandas marciais:confeccionadas em tecido de algodão, proporcionando conforto, respirabilidade e adequada mobilidade das mãos durante apresentações, ensaios e desfiles; produzida em a",
+          "fase": "FRACASSADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "20.600,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515618 Par de luvas destinadas à composição de uniforme oficial para bandas marciais:confeccionadas em tecido de algodão, proporcionando conforto, respirabilidade e adequada mobilidade das mãos durante apresentações, ensaios e desfiles; produzida em algodão ou material predominantemente composto por fibras de algodão, de toque macio, resistente ao uso contínuo, permitindo adequada ventilação das mãos e absorção de umidade. Deverá apresentar cor branca uniforme, sem manchas, variações de tonalidade, transparência excessiva ou imperfeições aparentes, mantendo padrão estético compatível com uniformização de banda marcial. O modelo deverá ser anatômico, fechado, com dedos completos. deverão possuir costuras reforçadas, acabamento resistente e ausência de fios soltos, rasgos, deformações ou defeitos de fabricação, devendo suportar lavagens sucessivas sem perda significativa de formato, elasticidade ou coloração. O punho deverá possuir acabamento reforçado, podendo conter elástico ou sistema equivalente que assegure ajuste firme ao pulso, evitando deslocamentos durante o uso e contribuindo para melhor acabamento visual do uniforme. Os tamanhos serão definidos pela Secretaria no momento da solicitação e emissão da Ordem de Fornecimento, conforme a necessidade dos usuários, devendo ser disponibilizados variados tamanhos, abrangendo medidas infantis e adultas, de modo a atender adequadamente aos integrantes da banda marcial.",
+              "unidade": "PAR",
+              "quantidade": "1.000,00",
+              "valor_referencia": "20,60"
+            }
+          ]
+        },
+        {
+          "numero": "15",
+          "titulo": "37338 Tecido tipo helanca:malha sintética de alta resistência, em cores diversas a serem definidas no momento da contratação e emissão das Ordens de Fornecimento, composto predominantemente por poliéster, podendo conter elastano em sua composição, com gra",
+          "fase": "ADJUDICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "6.640,00",
+          "vencedor": "CHSF DISTRIBUIDORA TEXTIL LTDA",
+          "melhor_oferta": "3.160,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37338 Tecido tipo helanca:malha sintética de alta resistência, em cores diversas a serem definidas no momento da contratação e emissão das Ordens de Fornecimento, composto predominantemente por poliéster, podendo conter elastano em sua composição, com gramatura média aproximada entre 120 g/m² e 200 g/m² e largura mínima de 1,50 m. Apresenta boa elasticidade, durabilidade, resistência ao desgaste e fácil manutenção. O tecido deverá possuir superfície regular, sem bolinhas (pilling), rasgos, furos, manchas ou deformações, garantindo qualidade e segurança no uso. O fornecimento será em metro linear, em rolos ou peças contínuas, sem emendas na área útil, com cortes precisos e acondicionamento adequado.",
+              "unidade": "M",
+              "quantidade": "400,00",
+              "valor_referencia": "16,60"
+            }
+          ]
+        },
+        {
+          "numero": "16",
+          "titulo": "37339 Tecido tipo brim leve:em cores diversas a serem definidas no momento da contratação e emissão das Ordens de Fornecimento, composto predominantemente por algodão ou mistura com poliéster, com gramatura aproximada entre 180 g/m² e 250 g/m² e largura m",
+          "fase": "ADJUDICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "10.800,00",
+          "vencedor": "CHSF DISTRIBUIDORA TEXTIL LTDA",
+          "melhor_oferta": "7.960,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37339 Tecido tipo brim leve:em cores diversas a serem definidas no momento da contratação e emissão das Ordens de Fornecimento, composto predominantemente por algodão ou mistura com poliéster, com gramatura aproximada entre 180 g/m² e 250 g/m² e largura mínima de 1,40 m. Caracteriza-se por apresentar resistência mecânica moderada, boa durabilidade e conforto térmico. O tecido deverá apresentar trama uniforme, sem falhas de tecelagem, rasgos, furos, manchas ou desbotamento acentuado, garantindo acabamento adequado e resistência ao uso contínuo e lavagens. O fornecimento deverá ocorrer em metro linear, em peças contínuas, com cortes retos, sem emendas na área útil e devidamente acondicionado.",
+              "unidade": "M",
+              "quantidade": "400,00",
+              "valor_referencia": "27,00"
+            }
+          ]
+        },
+        {
+          "numero": "17",
+          "titulo": "37340 Tecido alvejado:plano, em cor clara (predominantemente branca), composto por fibras de algodão ou mistura com fibras sintéticas, submetido a processo de alvejamento para remoção de impurezas e padronização de tonalidade, com gramatura aproximada ent",
+          "fase": "FRACASSADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "6.200,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37340 Tecido alvejado:plano, em cor clara (predominantemente branca), composto por fibras de algodão ou mistura com fibras sintéticas, submetido a processo de alvejamento para remoção de impurezas e padronização de tonalidade, com gramatura aproximada entre 100 g/m² e 200 g/m² e largura mínima de 1,40m. O material deverá apresentar superfície uniforme, sem manchas, odores, resíduos químicos excessivos, rasgos, furos ou falhas de tecelagem, garantindo boa absorção e aderência para tintas e outros materiais. O fornecimento será em metro linear, em peças contínuas, com cortes retos e sem emendas na área útil.",
+              "unidade": "M",
+              "quantidade": "400,00",
+              "valor_referencia": "15,50"
+            }
+          ]
+        },
+        {
+          "numero": "18",
+          "titulo": "37341 Tecido com aplicação de paetês:em cores diversas a serem definidas no momento da contratação e emissão das Ordens de Fornecimento, composto por base têxtil sintética (poliéster ou poliamida) com superfície revestida por paetês fixados de forma unifo",
+          "fase": "ADJUDICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "12.132,00",
+          "vencedor": "CHSF DISTRIBUIDORA TEXTIL LTDA",
+          "melhor_oferta": "12.132,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37341 Tecido com aplicação de paetês:em cores diversas a serem definidas no momento da contratação e emissão das Ordens de Fornecimento, composto por base têxtil sintética (poliéster ou poliamida) com superfície revestida por paetês fixados de forma uniforme, podendo ser liso ou reversível, com largura mínima de 1,30 m. O material deverá apresentar fixação firme dos paetês, sem desprendimento excessivo, falhas de aplicação, rasgos, furos ou deformações, garantindo efeito visual uniforme e durabilidade no uso. O fornecimento será em metro linear, em peças contínuas, devidamente acondicionadas, com cortes regulares e sem emendas na área útil.",
+              "unidade": "M",
+              "quantidade": "400,00",
+              "valor_referencia": "30,33"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2-DLE-049-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "466 / 2026",
+      "modalidade": "DISPENSA ELETRÔNICA",
+      "situacao": "JULGAMENTO",
+      "condutor": "ISLA LIMA SILVA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO",
+      "publicacao": "02/06/2026 15:53",
+      "inicio_recepcao": "08/07/2026 18:30",
+      "fim_recepcao": "15/07/2026 08:15",
+      "inicio_disputa": "15/07/2026 08:30",
+      "objeto": "Contratação de empresa especializada em prestação de serviços de gerenciamento, manutenção preventiva e/ou corretiva de HOSPEDAGEM DE SITE, VIRTUALIZAÇÃO EM NUVEM E DOMÍNIO,  a fim de atender às demandas da Secretaria Municipal de Administração.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DnQYt_nbgYnBWJgr9Z_zWp29xJkAyGk1oDtuLOupJLsH8Cet_d7IVh3jfxp9jrwbThOjLKi%2Fdfs2Fyh5WnnZkjjjucVi2Ky1%2FML3ZVf0ohT8%3D",
+      "total_lotes": 1,
+      "total_itens": 4,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "HOSPEDAGEM SITE",
+          "fase": "JULGAMENTO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "42.860,52",
+          "vencedor": "DYNAMIKA SOLUÇÕES WEB LTDA",
+          "melhor_oferta": "32.999,99",
+          "total_itens": 4,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "200100001 DOMÍNIO:Prestação de serviços de gerenciamento de domínios institucionais, incluindo configuração e administração de servidores DNS (NS/Nameservers), manutenção e controle dos domínios já existentes no âmbito da Administração Pública, bem como o registro, renovação e gerenciamento de novos domínios que venham a ser contratados durante a vigência do contrato, pelo período de 24 (vinte e quatro) meses, contemplando ainda suporte técnico, atualização de registros DNS, garantia de disponibilidade e funcionamento contínuo dos serviços vinculados aos domínios.",
+              "unidade": "SER",
+              "quantidade": "4,00",
+              "valor_referencia": "173,55"
+            },
+            {
+              "numero": "2",
+              "especificacao": "200100003 HOSPEDAGEM DOS WEBSITES:Gerenciarhospedagem instituída pelo Parque Tecnológico desta prefeitura, com manutenção e suporte das plataformas existentes e de novas contratações. Armazenamento mínimo de 150 GB SSD, Contas de e-mail Ilimitadas, Site Ilimitados, 500 mil de arquivos (Inodes), Memória RAM DDR4 ou superior, 50 conexões com o banco de dados, 50 Processos Simultâneos, Instalador automático Softaculous, Criador de Sites Rápido Grátis, SSL grátis para todos domínios e subdomínios, Painel de Controle.Pelo período de 24 (vinte e quatro) meses.",
+              "unidade": "SER",
+              "quantidade": "48,00",
+              "valor_referencia": "212,33"
+            },
+            {
+              "numero": "3",
+              "especificacao": "200100004 VIRTUALIZAÇÃO EM NUVEM NÍVEL 1:O serviçodeverá ser prestado em ambiente virtualizado do tipo VPS ou Cloud, com infraestrutura dedicada contendo, no mínimo, 4 vCPU, 16 GB de memória RAM, armazenamento mínimo de 200 GB em NVMe, 16 TB de largura de banda ou ilimitada, link de conexão de no mínimo 1 Gbps e endereço IPv4 público dedicado; deverá operar em sistema operacional Linux (preferencialmente Ubuntu Server, Debian ou CentOS), com acesso administrativo (root) ou painel de gerenciamento, suporte a serviços web como Apache ou Nginx, PHP e bancos de dados MySQL/MariaDB ou PostgreSQL, garantindo compatibilidade com aplicações institucionais; deverá assegurar disponibilidade mínima de 99,5% mensal, com monitoramento ativo 24x7, tempo de resposta para incidentes críticos de até 2 horas e solução em até 8 horas; contemplar mecanismos de segurança, incluindo firewall, proteção contra ataques DDoS, certificado SSL válido, atualizações periódicas e controle de acesso seguro; executar rotinas de backup automático diário com retenção mínima de 7 dias, 1 snapshot, armazenamento em ambiente segregado e possibilidade de restauração sob demanda; bem como disponibilizar suporte técnico remoto em horário comercial e atendimento emergencial 24x7, por meio de canais como email, telefone ou sistema de chamados, com equipe técnica especializada, incluindo ainda os serviços de implantação, configuração inicial, migração de dados sem custo adicional, monitoramento contínuo e manutenção preventiva e corretiva do ambiente. Pelo período de 24 (vinte e quatro) meses.",
+              "unidade": "SER",
+              "quantidade": "72,00",
+              "valor_referencia": "174,45"
+            },
+            {
+              "numero": "4",
+              "especificacao": "200100005 VIRTUALIZAÇÃO EM NUVEM NÍVEL 2:O serviçodeverá ser prestado em ambiente virtualizado do tipo VPS ou Cloud, com infraestrutura dedicada contendo, no mínimo, 8 vCPU, 32 GB de memória RAM, armazenamento mínimo de 400 GB em NVMe, 32 TB de largura de banda ou ilimitada, link de conexão de no mínimo 1 Gbps e endereço IPv4 público dedicado; deverá operar em sistema operacional Linux (preferencialmente Ubuntu Server, Debian ou CentOS), com acesso administrativo (root) ou painel de gerenciamento, suporte a serviços web como Apache ou Nginx, PHP e bancos de dados MySQL/MariaDB ou PostgreSQL, garantindo compatibilidade com aplicações institucionais; deverá assegurar disponibilidade mínima de 99,5% mensal, com monitoramento ativo 24x7, tempo de resposta para incidentes críticos de até 2 horas e solução em até 8 horas; contemplar mecanismos de segurança, incluindo firewall, proteção contra ataques DDoS, certificado SSL válido,",
+              "unidade": "SER",
+              "quantidade": "96,00",
+              "valor_referencia": "202,23"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "CD-005-2025",
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "758/2025",
       "modalidade": "CREDENCIAMENTO",
-      "situacao": "SUSPENSO",
+      "situacao": "EM FINALIZAÇÃO",
       "condutor": "MAGDA DE SELES GUIMARÃES",
       "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
       "tipo_contrato": "AQUISIÇÃO",
-      "publicacao": "03/06/2025 11:48",
+      "publicacao": "03/06/2025 16:35",
       "inicio_recepcao": "13/06/2025 08:00",
-      "fim_recepcao": "15/06/2026 00:00",
+      "fim_recepcao": "15/06/2026 08:00",
       "inicio_disputa": "",
-      "objeto": "Credenciamento de pessoa jurídica para PRESTAÇÃO DE SERVIÇOS\n MÉDICOS ESPECIALIZADOS EM ANÁLISE PATOLÓGICA para atender as demandas da\n Secretaria Municipal de Saúde.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DELhpuiXHO44KJYiC5KRaQa1CQ%2Fa%2FgSG3Pus5Mna3AzfUwLYuzp0xWGHSzge6F3ctWXcmsRCRfxgySjR024JT6UYISP2pK_Nhn%2FCz9K09miE%3D",
-      "total_lotes": 9,
-      "total_itens": 9,
+      "objeto": "CREDENCIAMENTO DE PESSOA JURÍDICA PARA PRESTAÇÃO DE SERVIÇOS MÉDICOS ESPECIALIZADOS EM ANÁLISE PATOLÓGICA PARA ATENDER AS DEMANDAS DA SECRETARIA MUNICIPAL DE SAÚDE",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DkI0jZ65DuepcPLjDtbesdcgz3r2Fp%2Fckk_NBInZGa2Gbxs5qucWSBlhZOjeNno5BVXtSuS0jE3O%2FLLrBefw3QJko5EX5ciJ%2Fb9NcGZtyeVc%3D",
+      "total_lotes": 6,
+      "total_itens": 6,
       "lotes": [
         {
           "numero": "1",
-          "titulo": "33436 BIÓPSIA SIMPLES:BIÓPSIA SIMPLES",
-          "fase": "SUSPENSO",
+          "titulo": "33436 BIÓPSIA SIMPLES",
+          "fase": "HABILITAÇÃO",
           "tipo": "UNITÁRIO",
           "quantidade": "1",
           "intervalo_minimo": "0,00",
           "exclusivo_me": "NÃO",
-          "local_entrega": "",
-          "garantia": "",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
           "valor_referencia": "60,19",
           "vencedor": "",
           "melhor_oferta": "0,00",
@@ -284968,45 +285098,21 @@
               "numero": "1",
               "especificacao": "33436 BIÓPSIA SIMPLES:BIÓPSIA SIMPLES",
               "unidade": "SERV",
-              "quantidade": "1.875,00",
+              "quantidade": "2.500,00",
               "valor_referencia": "60,19"
             }
           ]
         },
         {
           "numero": "2",
-          "titulo": "909911235 BIOPSIA SIMPLES:BIÓPSIA SIMPLES. COTA DE 25% RESERVADA PARA  ME/EPP.",
-          "fase": "SUSPENSO",
+          "titulo": "9903311392 CITOLOGIA EM MEIO LIQUIDO",
+          "fase": "HABILITAÇÃO",
           "tipo": "UNITÁRIO",
           "quantidade": "1",
           "intervalo_minimo": "0,00",
-          "exclusivo_me": "SIM",
-          "local_entrega": "",
-          "garantia": "",
-          "valor_referencia": "60,19",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "909911235 BIOPSIA SIMPLES:BIÓPSIA SIMPLES. COTA DE 25% RESERVADA PARA ME/EPP.",
-              "unidade": "SERV",
-              "quantidade": "625,00",
-              "valor_referencia": "60,19"
-            }
-          ]
-        },
-        {
-          "numero": "3",
-          "titulo": "9903311392 CITOLOGIA EM MEIO LIQUIDO - BRONQUIO: CITOLOGIA EM MEIO LIQUIDO - BRONQUIO EXCLUSIVO PARA ME/EPP",
-          "fase": "SUSPENSO",
-          "tipo": "UNITÁRIO",
-          "quantidade": "1",
-          "intervalo_minimo": "0,00",
-          "exclusivo_me": "SIM",
-          "local_entrega": "",
-          "garantia": "",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
           "valor_referencia": "62,25",
           "vencedor": "",
           "melhor_oferta": "0,00",
@@ -285014,7 +285120,7 @@
           "itens": [
             {
               "numero": "1",
-              "especificacao": "CITOLOGIA EM MEIO LIQUIDO - BRONQUIO: CITOLOGIA EM MEIO LIQUIDO - BRONQUIO EXCLUSIVO PARA ME/EPP",
+              "especificacao": "9903311392 CITOLOGIA EM MEIO LIQUIDO - BRONQUIO:CITOLOGIA EM MEIO LIQUIDO - BRONQUIO.",
               "unidade": "SERV",
               "quantidade": "100,00",
               "valor_referencia": "62,25"
@@ -285022,15 +285128,15 @@
           ]
         },
         {
-          "numero": "4",
-          "titulo": "9903311373 COLORAÇÃO ESPECIAL:Marcação da biópsia por corantes especiais. EXCLUSIVO PARA ME/EPP",
-          "fase": "SUSPENSO",
+          "numero": "3",
+          "titulo": "9903311373 COLORAÇÃO ESPECIAL",
+          "fase": "HABILITAÇÃO",
           "tipo": "UNITÁRIO",
           "quantidade": "1",
           "intervalo_minimo": "0,00",
-          "exclusivo_me": "SIM",
-          "local_entrega": "",
-          "garantia": "",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
           "valor_referencia": "33,65",
           "vencedor": "",
           "melhor_oferta": "0,00",
@@ -285038,7 +285144,7 @@
           "itens": [
             {
               "numero": "1",
-              "especificacao": "9903311373 COLORAÇÃO ESPECIAL:Marcação da biópsia por corantes especiais. EXCLUSIVO PARA ME/EPP",
+              "especificacao": "9903311373 COLORAÇÃO ESPECIAL: Marcação da biópsia por corantes especiais.",
               "unidade": "SERV",
               "quantidade": "50,00",
               "valor_referencia": "33,65"
@@ -285046,15 +285152,15 @@
           ]
         },
         {
-          "numero": "5",
-          "titulo": "9903311378 CORE BYOPSY:CORE BYOPSY. EXCLUSIVO PARA ME/EPP",
-          "fase": "SUSPENSO",
+          "numero": "4",
+          "titulo": "9903311378 CORE BYOPSY",
+          "fase": "HABILITAÇÃO",
           "tipo": "UNITÁRIO",
           "quantidade": "1",
           "intervalo_minimo": "0,00",
-          "exclusivo_me": "SIM",
-          "local_entrega": "",
-          "garantia": "",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
           "valor_referencia": "68,46",
           "vencedor": "",
           "melhor_oferta": "0,00",
@@ -285062,7 +285168,7 @@
           "itens": [
             {
               "numero": "1",
-              "especificacao": "9903311378 CORE BYOPSY:CORE BYOPSY. EXCLUSIVO PARA ME/EPP",
+              "especificacao": "9903311378 CORE BYOPSY:CORE BYOPSY.",
               "unidade": "SERV",
               "quantidade": "100,00",
               "valor_referencia": "68,46"
@@ -285070,15 +285176,15 @@
           ]
         },
         {
-          "numero": "6",
-          "titulo": "33437 PEÇA CIRÚRGICA SIMPLES:PEÇA CIRÚRGICA SIMPLES",
-          "fase": "SUSPENSO",
+          "numero": "5",
+          "titulo": "33437 PEÇA CIRÚRGICA SIMPLES",
+          "fase": "HABILITAÇÃO",
           "tipo": "UNITÁRIO",
           "quantidade": "1",
           "intervalo_minimo": "0,00",
           "exclusivo_me": "NÃO",
-          "local_entrega": "",
-          "garantia": "",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
           "valor_referencia": "75,00",
           "vencedor": "",
           "melhor_oferta": "0,00",
@@ -285088,45 +285194,21 @@
               "numero": "1",
               "especificacao": "33437 PEÇA CIRÚRGICA SIMPLES:PEÇA CIRÚRGICA SIMPLES",
               "unidade": "SERV",
-              "quantidade": "1.875,00",
+              "quantidade": "2.500,00",
               "valor_referencia": "75,00"
             }
           ]
         },
         {
-          "numero": "7",
-          "titulo": "9909911236 PEÇA CIRURGICA SIMPLES:PEÇA CIRURGICA SIMPLES. COTA DE 25% RESERVADA PARA ME/EPP",
-          "fase": "SUSPENSO",
-          "tipo": "UNITÁRIO",
-          "quantidade": "1",
-          "intervalo_minimo": "0,00",
-          "exclusivo_me": "SIM",
-          "local_entrega": "",
-          "garantia": "",
-          "valor_referencia": "75,00",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9909911236 PEÇA CIRURGICA SIMPLES:PEÇA CIRURGICA SIMPLES. COTA DE 25% RESERVADA PARA ME/EPP",
-              "unidade": "SERV",
-              "quantidade": "625,00",
-              "valor_referencia": "75,00"
-            }
-          ]
-        },
-        {
-          "numero": "8",
-          "titulo": "9903311384 PEÇA CIRÚRGICA COMPLEXA:PEÇA CIRÚRGICA COMPLEXA",
-          "fase": "SUSPENSO",
+          "numero": "6",
+          "titulo": "9903311384 PEÇA CIRÚRGICA COMPLEXA",
+          "fase": "HABILITAÇÃO",
           "tipo": "UNITÁRIO",
           "quantidade": "1",
           "intervalo_minimo": "0,00",
           "exclusivo_me": "NÃO",
-          "local_entrega": "",
-          "garantia": "",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
           "valor_referencia": "243,42",
           "vencedor": "",
           "melhor_oferta": "0,00",
@@ -285136,31 +285218,7 @@
               "numero": "1",
               "especificacao": "9903311384 PEÇA CIRÚRGICA COMPLEXA:PEÇA CIRÚRGICA COMPLEXA",
               "unidade": "UN",
-              "quantidade": "1.125,00",
-              "valor_referencia": "243,42"
-            }
-          ]
-        },
-        {
-          "numero": "9",
-          "titulo": "9909911237 PEÇA CIRURGICA COMPLEXA:PEÇA CIRURGICA COMPLEXA. COTA DE  25%  RESERVADA PARA ME/EPP.",
-          "fase": "SUSPENSO",
-          "tipo": "UNITÁRIO",
-          "quantidade": "1",
-          "intervalo_minimo": "0,00",
-          "exclusivo_me": "SIM",
-          "local_entrega": "",
-          "garantia": "",
-          "valor_referencia": "243,42",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9909911237 PEÇA CIRURGICA COMPLEXA:PEÇA CIRURGICA COMPLEXA. COTA DE 25% RESERVADA PARA ME/EPP.",
-              "unidade": "SERV",
-              "quantidade": "375,00",
+              "quantidade": "1.500,00",
               "valor_referencia": "243,42"
             }
           ]
@@ -285172,38 +285230,38 @@
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "705/2024",
       "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "SUSPENSO",
-      "condutor": "VICTOR KINIDEL DETHLING",
+      "situacao": "HOMOLOGADO",
+      "condutor": "MAGDA DE SELES GUIMARÃES",
       "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
       "tipo_contrato": "AQUISIÇÃO",
-      "publicacao": "15/05/2024 18:26",
-      "inicio_recepcao": "16/05/2024 08:00",
-      "fim_recepcao": "12/06/2024 09:45",
-      "inicio_disputa": "12/06/2024 10:00",
-      "objeto": "Contratação de instituição financeira para prestação de serviços bancários para centralização, gerenciamento e processamento de créditos da folha de pagamento dos servidores, a fim de atender as demandas da Prefeitura de Teixeira de Freitas, conforme condições, quantidades e especificações no Edital, Termo de Referência e seus Anexos.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DThsi41uPvkfU6wojXVtE_2DyX5XHX_8MMHlZXVBxINZaBIDz_PtXhytqwCadUkvaVcd1heUzWaGcydAbFurrtmdbbu4nPQYJZpZR5wAe0HQ%3D",
+      "publicacao": "13/06/2024 18:49",
+      "inicio_recepcao": "14/06/2024 08:00",
+      "fim_recepcao": "10/07/2024 13:45",
+      "inicio_disputa": "10/07/2024 14:00",
+      "objeto": "O objeto da presente licitação é a contratação de INSTITUIÇÃO FINANCEIRA ESPECIALIZADA NA PRESTAÇÃO DE SERVIÇOS BANCÁRIOS PARA CENTRALIZAÇÃO, GERENCIAMENTO E PROCESSAMENTO DE CRÉDITOS DA FOLHA DE PAGAMENTO DOS SERVIDORES, a fim de atender as demandas da Secretaria Municipal de Administração, conforme condições, quantidades e especificações no Edital, Termo de Referência e seus Anexos.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DcwIM5dfkfO8jYYDJfDejG2FGLxZGTGVe0K1aGAR34HvF6EaMZbW31FMWC9A1VlyQOGcSO88k3ZGawc00kEwgZ0sG5VSYRL64grqVeeu468Y%3D",
       "total_lotes": 1,
       "total_itens": 1,
       "lotes": [
         {
           "numero": "1",
-          "titulo": "LOTE 01",
-          "fase": "SUSPENSO",
-          "tipo": "UNITÁRIO",
+          "titulo": "SERVIÇOS BANCÁRIOS",
+          "fase": "HOMOLOGADO",
+          "tipo": "GLOBAL",
           "quantidade": "1",
-          "intervalo_minimo": "100,00",
+          "intervalo_minimo": "0,01",
           "exclusivo_me": "NÃO",
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "6.052.150,00",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
+          "vencedor": "ITAÚ UNIBANCO S.A.",
+          "melhor_oferta": "6.053.000,00",
           "total_itens": 1,
           "itens": [
             {
               "numero": "1",
               "especificacao": "CONTRATAÇÃO DE INSTITUIÇÃO FINANCEIRA: ESPECIALIZADA NA PRESTAÇÃO DE SERVIÇOS BANCÁRIOS PARA CENTRALIZAÇÃO, GERENCIAMENTO E PROCESSAMENTO DE CRÉDITOS DA FOLHA DE PAGAMENTO DOS SERVIDORES DA PREFEITURA MUNICIPAL DE TEIXEIRA DE FREITAS/BA.",
-              "unidade": "SERVIÇO",
+              "unidade": "UN",
               "quantidade": "1,00",
               "valor_referencia": "6.052.150,00"
             }
