@@ -1,9 +1,9 @@
 {
   "metadata": {
     "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-    "total_registros": 696,
-    "total_itens": 2395,
-    "atualizado_em": "20260724_073520"
+    "total_registros": 698,
+    "total_itens": 2398,
+    "atualizado_em": "20260728_090843"
   },
   "registros": [
     {
@@ -39266,6 +39266,80 @@
       "link": "https://bllcompras.com/DirectBuy/DirectBuyView?param1=%5Bgkz%5DzpJH3VMLisuuKxqykD%2Fdaen_9YXZNT8gsyZHkP2QbrMzWwnsHcvE_V%2FhlTrSMQfjZjEgX90_2g76m%2FROu9_tNK76ciCaKhHummru0t1mhHE%3D",
       "total_itens": 0,
       "itens": []
+    },
+    {
+      "id": "DLS-070-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "698/2026",
+      "modalidade": "DISPENSA",
+      "status": "CONCLUÍDA",
+      "coordenador": "ISAQUE SILVA DOS SANTOS",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "ano_referencia": "2026",
+      "data_publicacao": "27/07/2026 10:17:03",
+      "data_conclusao": "27/07/2026 10:17:07",
+      "artigo": "Art. 75º",
+      "inciso": "II",
+      "justificativa": "art. n.º 75, inciso II",
+      "legislacao": "Lei nº 14.133",
+      "objeto": "Contratação de empresa especializada para a prestação de serviços de [ARBITRAGEM ESPORTIVA, PARA A REALIZAÇÃO DOS JOGOS ESCOLARES INTERCOLEGIAIS DA REDE MUNICIPAL], a fim de atender as necessidades da Secretaria Municipal de Educação.",
+      "observacao": "",
+      "link": "https://bllcompras.com/DirectBuy/DirectBuyView?param1=%5Bgkz%5DoytaiDQcqXx5buptTyMvJXUnLmgGBrS7vy4ev1KvP_7Q9ZL9EQgonZ16jhpRLtdWRdVtVKDaoiB%2FtcoEk5Nlg%2FQSiYl%2FX0T_WQw2U3PYCSg%3D",
+      "total_itens": 2,
+      "itens": [
+        {
+          "numero": "1",
+          "descricao": "100200440 CONTRATAÇÃO DE ARBITRAGEM FUTSAL PARAOS JOGOS INTERCOLEGIAIS 2026:em jogo com duração dedois (02) tempos de 10 minutos corridos por período, comsubstituição de atletas ao final dos primeiros 5 minutos doprimeiro tempo de jogo, realizado em perímetro urbano semacréscimos, podendo haver disputa de pênaltis. O serviço seráprestado por 02 arbitro de quadra, e 01 anotador. Datas:04/08/2026, 05/08/2026, 06/08/2026, 07/08/2026, 18/08/2026,20/08/2026 e 25/08/2026",
+          "quantidade": "61,0000",
+          "unidade": "SERV",
+          "fornecedor": "ASSOCIACAO DOS ARBITROS DE TEIXEIRA DE FREITAS",
+          "marca": "NÃO SE APLICA",
+          "modelo": "NÃO SE APLICA",
+          "valor": "285,8800"
+        },
+        {
+          "numero": "2",
+          "descricao": "37529 CONTRATAÇÃO DE ARBITRAGEM HANDEBOL PARAOS JOGOS INTERCOLEGIAIS 2026:em jogo com duração dedois (02) tempos de 10 minutos corridos por período, comsubstituição de atletas ao final dos primeiros 5 minutos doprimeiro tempo de jogo, realizado em perímetro urbano semacréscimos, podendo haver disputa de pênaltis. O serviço seráprestado por 02 arbitro de quadra e 01 anotador. Datas:20/08/2026 e 25/08/2026.",
+          "quantidade": "10,0000",
+          "unidade": "SERV",
+          "fornecedor": "ASSOCIACAO DOS ARBITROS DE TEIXEIRA DE FREITAS",
+          "marca": "NÃO SE APLICA",
+          "modelo": "NÃO SE APLICA",
+          "valor": "225,4500"
+        }
+      ]
+    },
+    {
+      "id": "DLS-028-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "166/2026",
+      "modalidade": "DISPENSA",
+      "status": "CONCLUÍDA",
+      "coordenador": "ISLA LIMA SILVA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "ano_referencia": "2026",
+      "data_publicacao": "24/07/2026 08:43:36",
+      "data_conclusao": "24/07/2026 08:43:42",
+      "artigo": "Art. 75º",
+      "inciso": "II",
+      "justificativa": "art. n.º 75, inciso II",
+      "legislacao": "Lei nº 14.133",
+      "objeto": "Contratação de profissional habilitado ou empresa especializada em prestação de serviço para avaliação de VTN (Valor de Terra Nua), para atender a Secretaria Municipal de Finanças.",
+      "observacao": "",
+      "link": "https://bllcompras.com/DirectBuy/DirectBuyView?param1=%5Bgkz%5Dkn8qjTWYlR8EOWKG3D55t3vpDGQ8%2F44mtg2WkGdqrci6ZOCtpX%2FLyaBxk0jNlvNOvbgte8xyWDw9yxy8EeAsw5vnghXrK1A7b38nUZzAL90%3D",
+      "total_itens": 1,
+      "itens": [
+        {
+          "numero": "1",
+          "descricao": "36958 CONTRATAÇÃO DE SERVIÇO TÉCNICO:coleta dedados de venda de propriedade nos distritos e sede, praticadopelo mercado e cálculos onde ficam evidenciados critérios,metodologia e fonte de informações e modo a permitirtransparência e maior confiabilidade nos valores a seremconferidos na vida da propriedade rurais no município de Teixeirade Freitas-BA. EXCLUSIVO PARA ME/EPP.",
+          "quantidade": "1,0000",
+          "unidade": "UN",
+          "fornecedor": "CAIO FREDERICO DE ANDRADE PESSANHA",
+          "marca": "NÃO SE APLICA",
+          "modelo": "NÃO SE APLICA",
+          "valor": "8778,7500"
+        }
+      ]
     }
   ]
 }
