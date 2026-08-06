@@ -1,10 +1,10 @@
 {
   "metadata": {
     "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-    "total_processos": 863,
-    "total_lotes": 9415,
-    "total_itens": 15919,
-    "atualizado_em": "20260804_153140"
+    "total_processos": 864,
+    "total_lotes": 9459,
+    "total_itens": 15963,
+    "atualizado_em": "20260806_090917"
   },
   "processos": [
     {
@@ -277802,71 +277802,6 @@
       ]
     },
     {
-      "id": "PE-117-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "686 / 2026",
-      "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "RECEPÇÃO DE PROPOSTAS",
-      "condutor": "JONATAS DA SILVA SOUSA",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO PARCELADA",
-      "publicacao": "23/07/2026 17:31",
-      "inicio_recepcao": "27/07/2026 08:00",
-      "fim_recepcao": "06/08/2026 08:15",
-      "inicio_disputa": "06/08/2026 08:30",
-      "objeto": "Contratação de empresa especializada em prestação de serviço de LIMPEZA DE CAIXAS D’ÁGUA, a fim de atender as demandas da Secretaria Municipal de Educação.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DGRf8YmTrxD9nAG_tMXenqHBBp7QiXJ4P3RxFcUbzK%2FY9iauv5oSC7e%2FuQ4IaVgxda18y9TPn9o7tBFSDcNB5GA%2FNIugrnG1Ts9iRpIEam3I%3D",
-      "total_lotes": 1,
-      "total_itens": 4,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "LIMPEZA CAIXA D'ÁGUA",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 4,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37536 SERVIÇO DE LIMPEZA, HIGIENIZAÇÃO E DESINFECÇÃO DE CAIXA D ÁGUA (ATÉ 500LITROS):Características: prestação de serviços especializados de limpeza, higienização e desinfecção química de reservatórios de água potável com capacidade de até litros, destinados à manutenção preventiva das condições sanitárias e adequadas de funcionamento do reservatório, compreendendo esvaziamento total da caixa d’água, remoção de resíduos, lodo, sedimentos, incrustações e demais impurezas acumuladas, escovação e lavagem técnica das superfícies internas (paredes, fundo e tampa), enxágue completo, aplicação de solução desinfetante/cloração apropriada e em conformidade com as normas sanitárias vigentes, sucção e descarte adequado dos resíduos gerados, vedação do reservatório e posterior reabastecimento, visando garantir a qualidade e a potabilidade da água destinada ao consumo humano nas unidades escolares, administrativas e demais prédios da Secretaria Municipal de Educação.",
-              "unidade": "SER",
-              "quantidade": "400,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "2",
-              "especificacao": "37537 SERVIÇO DE LIMPEZA, HIGIENIZAÇÃO E DESINFECÇÃO DE CAIXA D ÁGUA (ATÉ 1.000LITROS).:Características: prestação de serviços especializados de limpeza, higienização e desinfecção química de reservatórios de água potável com capacidade de até 1.000 litros, destinados à manutenção preventiva das condições sanitárias e adequadas de funcionamento do reservatório, compreendendo esvaziamento total da caixa d’água, remoção de resíduos, lodo, sedimentos, incrustações e demais impurezas acumuladas, escovação e lavagem técnica das superfícies internas (paredes, fundo e tampa), enxágue completo, aplicação de solução desinfetante/cloração apropriada e em conformidade com as normas sanitárias vigentes, sucção e descarte adequado dos resíduos gerados, vedação do reservatório e posterior reabastecimento, visando garantir a qualidade e a potabilidade da água destinada ao consumo humano nas unidades escolares, administrativas e demais prédios da Secretaria Municipal de Educação.",
-              "unidade": "SER",
-              "quantidade": "320,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "3",
-              "especificacao": "37538 SERVIÇO DE LIMPEZA, HIGIENIZAÇÃO E DESINFECÇÃO DE CAIXA D ÁGUA (DE 1.001 A 5.000LITROS):Características: prestação de serviços especializados de limpeza, higienização e desinfecção química de reservatórios de água potável com capacidade entre 1.001 e 5.000 litros, destinados à manutenção preventiva das condições sanitárias e adequadas de funcionamento do reservatório, compreendendo drenagem e esvaziamento total da caixa d’água, remoção de resíduos sólidos, lodo, sedimentos, incrustações, materiais orgânicos e demais impurezas acumuladas, escovação mecânica e lavagem técnica das superfícies internas (paredes, fundo e tampa), enxágue completo, aplicação de solução desinfetante/cloração apropriada e em conformidade com as normas sanitárias vigentes, sucção e descarte adequado dos resíduos gerados, vedação do reservatório e posterior reabastecimento, visando garantir condições adequadas de armazenamento, qualidade e potabilidade da água destinada ao consumo humano nas unidades escolares, administrativas e demais prédios da Secretaria Municipal de Educação.",
-              "unidade": "SER",
-              "quantidade": "240,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "4",
-              "especificacao": "37539 SERVIÇO DE LIMPEZA, HIGIENIZAÇÃO E DESINFECÇÃO DE CAIXA D ÁGUA E RESERVATÓRIOS ACIMA DE 5.000 LITROS.:Características: prestação de serviços especializados de limpeza, higienização e desinfecção química de reservatórios de água potável com capacidade superior a 5.000 litros, incluindo caixas d’água, reservatórios elevados, reservatórios tipo taça, cisternas e estruturas similares, destinados à manutenção preventiva das condições sanitárias e adequadas de funcionamento dos reservatórios, compreendendo esgotamento total, remoção de resíduos, lodo, sedimentos, incrustações e demais impurezas acumuladas, raspagem, escovação mecânica/manual, lavagem técnica das superfícies internas (paredes, fundo e tampa), enxágue completo, aplicação de solução desinfetante/cloração apropriada e em conformidade com as normas sanitárias vigentes, sucção e descarte adequado dos resíduos gerados, vedação do reservatório e posterior reabastecimento, visando garantir condições adequadas de armazenamento, qualidade e potabilidade da água destinada ao consumo humano nas unidades escolares, administrativas e demais prédios da Secretaria Municipal de Educação.",
-              "unidade": "SER",
-              "quantidade": "120,00",
-              "valor_referencia": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "PE-110-2026",
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "777 / 2026",
@@ -287276,50 +287211,6 @@
       ]
     },
     {
-      "id": "PE-027-2024",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "705/2024",
-      "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "SUSPENSO",
-      "condutor": "VICTOR KINIDEL DETHLING",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO",
-      "publicacao": "15/05/2024 18:26",
-      "inicio_recepcao": "16/05/2024 08:00",
-      "fim_recepcao": "12/06/2024 09:45",
-      "inicio_disputa": "12/06/2024 10:00",
-      "objeto": "Contratação de instituição financeira para prestação de serviços bancários para centralização, gerenciamento e processamento de créditos da folha de pagamento dos servidores, a fim de atender as demandas da Prefeitura de Teixeira de Freitas, conforme condições, quantidades e especificações no Edital, Termo de Referência e seus Anexos.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DoD6nKoQX1M%2FlqboZoiKUkf9_uiATu6Ri1c6LJwzT86nQECIsRH4GgT8mSXHZUEkiHLVDbnc0uvg2Zv6LZ42UQKE30nYuvHRHnvQm0zw%2FL1M%3D",
-      "total_lotes": 1,
-      "total_itens": 1,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "LOTE 01",
-          "fase": "SUSPENSO",
-          "tipo": "UNITÁRIO",
-          "quantidade": "1",
-          "intervalo_minimo": "100,00",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "6.052.150,00",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "CONTRATAÇÃO DE INSTITUIÇÃO FINANCEIRA: ESPECIALIZADA NA PRESTAÇÃO DE SERVIÇOS BANCÁRIOS PARA CENTRALIZAÇÃO, GERENCIAMENTO E PROCESSAMENTO DE CRÉDITOS DA FOLHA DE PAGAMENTO DOS SERVIDORES DA PREFEITURA MUNICIPAL DE TEIXEIRA DE FREITAS/BA.",
-              "unidade": "SERVIÇO",
-              "quantidade": "1,00",
-              "valor_referencia": "6.052.150,00"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "PE-124-2026",
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "860 / 2026",
@@ -288591,33 +288482,1102 @@
       ]
     },
     {
+      "id": "2-DLE-083-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "895/2026",
+      "modalidade": "DISPENSA ELETRÔNICA",
+      "situacao": "RECEPÇÃO DE PROPOSTAS",
+      "condutor": "ISAQUE SILVA DOS SANTOS",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO",
+      "publicacao": "04/08/2026 16:44",
+      "inicio_recepcao": "04/08/2026 16:45",
+      "fim_recepcao": "10/08/2026 08:15",
+      "inicio_disputa": "10/08/2026 08:30",
+      "objeto": "Contratação de empresa especializada em fornecimento de [MATERIAIS DE ARMARINHO] (material de consumo), a fim de atender as necessidades da Secretaria Municipal de Cultura e Turismo.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DkTsg9XXyCckt35tGD2RqG0P7cv9F_mUHzWVRey6489TNS2vdeJzTkqS0ll0v4kJpS8A%2FSjvOfS2iJZ8brgUCuW_z60m_swI3AZ9Ajy0cS%2F8%3D",
+      "total_lotes": 41,
+      "total_itens": 41,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "Agulha para máquina de costura industrial galoneira nº 12",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "107,35",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "8301500001 Agulha para máquina de costura industrial galoneiranº 12:agulha em aço temperado para máquina de costuraindustrial galoneira, cabo grosso e padrão universal, tamanho nº12, cartela contendo 10 unidades",
+              "unidade": "PCT",
+              "quantidade": "5,00",
+              "valor_referencia": "21,47"
+            }
+          ]
+        },
+        {
+          "numero": "2",
+          "titulo": "Agulha para máquina de costura industrial galoneira nº 12",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "101,90",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "8301500002 Agulha para máquina de costura industrial galoneiranº 14:agulha em aço temperado para máquina de costuraindustrial galoneira, cabo grosso e padrão universal, tamanho nº14, cartela contendo 10 unidades",
+              "unidade": "PCT",
+              "quantidade": "5,00",
+              "valor_referencia": "20,38"
+            }
+          ]
+        },
+        {
+          "numero": "3",
+          "titulo": "Agulha para máquina de costura industrial galoneira nº 16",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "82,20",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "8301500003 Agulha para máquina de costura industrial galoneiranº 16:agulha em aço temperado para máquina de costuraindustrial galoneira, cabo grosso e padrão universal, tamanho nº16, cartela contendo 10 unidades",
+              "unidade": "PCT",
+              "quantidade": "5,00",
+              "valor_referencia": "16,44"
+            }
+          ]
+        },
+        {
+          "numero": "3",
+          "titulo": "Agulha para máquina de costura industrial galoneira nº 16",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "82,20",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "8301500003 Agulha para máquina de costura industrial galoneiranº 16:agulha em aço temperado para máquina de costuraindustrial galoneira, cabo grosso e padrão universal, tamanho nº16, cartela contendo 10 unidades",
+              "unidade": "PCT",
+              "quantidade": "5,00",
+              "valor_referencia": "16,44"
+            }
+          ]
+        },
+        {
+          "numero": "5",
+          "titulo": "Agulha para máquina de costura industrial overlock nº 14",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "87,75",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "8301500005 Agulha para máquina de costura industrial overlocknº 14:agulha em aço temperado para máquina de costuraindustrial overlock, cabo grosso e padrão universal, tamanho nº14, cartela contendo 10 unidades",
+              "unidade": "PCT",
+              "quantidade": "5,00",
+              "valor_referencia": "17,55"
+            }
+          ]
+        },
+        {
+          "numero": "6",
+          "titulo": "Agulha para máquina de costura industrial overlock nº 16",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "84,90",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "8301500006 Agulha para máquina de costura industrial overlocknº 16:agulha em aço temperado para máquina de costuraindustrial overlock, cabo grosso e padrão universal, tamanho nº16, contendo 10 unidades",
+              "unidade": "PCT",
+              "quantidade": "5,00",
+              "valor_referencia": "16,98"
+            }
+          ]
+        },
+        {
+          "numero": "7",
+          "titulo": "Agulha para máquina de costura industrial reta nº 12",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "70,10",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "8301500007 Agulha para máquina de costura industrial reta nº12:agulha em aço temperado para máquina de costura industrialreta, cabo fino e padrão universal, tamanho nº 12, cartelacontendo 10 unidades.",
+              "unidade": "PCT",
+              "quantidade": "5,00",
+              "valor_referencia": "14,02"
+            }
+          ]
+        },
+        {
+          "numero": "4",
+          "titulo": "Agulha para máquina de costura industrial galoneira nº 12",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "82,20",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "8301500004 Agulha para máquina de costura industrial galoneiranº 12:agulha em aço temperado para máquina de costuraindustrial overlock, cabo grosso e padrão universal, tamanho nº12, cartela contendo 10 unidades",
+              "unidade": "PCT",
+              "quantidade": "5,00",
+              "valor_referencia": "16,44"
+            }
+          ]
+        },
+        {
+          "numero": "9",
+          "titulo": "Agulha para máquina de costura industrial reta nº 16",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "71,20",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "8301500009 Agulha para máquina de costura industrial reta nº16:agulha em aço temperado para máquina de costura industrialreta, cabo fino e padrão universal, tamanhos nº 16, cartelacontendo 10 unidades",
+              "unidade": "PCT",
+              "quantidade": "5,00",
+              "valor_referencia": "14,24"
+            }
+          ]
+        },
+        {
+          "numero": "10",
+          "titulo": "Bobina baixa furada",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "52,20",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900516138 Bobina baixa furada:compatível com máquina decostura industrial, confeccionada em aço inoxidável. Dimensõesaproximadas: diâmetro de 2,0 cm e altura de 0,7 cm",
+              "unidade": "UND",
+              "quantidade": "20,00",
+              "valor_referencia": "2,61"
+            }
+          ]
+        },
+        {
+          "numero": "10",
+          "titulo": "Bobina baixa furada",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "52,20",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900516138 Bobina baixa furada:compatível com máquina decostura industrial, confeccionada em aço inoxidável. Dimensõesaproximadas: diâmetro de 2,0 cm e altura de 0,7 cm",
+              "unidade": "UND",
+              "quantidade": "20,00",
+              "valor_referencia": "2,61"
+            }
+          ]
+        },
+        {
+          "numero": "12",
+          "titulo": "Carretilha para máquina de costura industrial",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "33,40",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900516140 Carretilha para máquina de costuraindustrial:carretilha confeccionada em aço inoxidável de altaresistência, compatível com máquina de costura reta industrial,indicada para condução e movimentação do tecido durante acostura, proporcionando deslizamento uniforme e precisão naexecução das costuras. Dimensões aproximadas de 8,74 mm x20,82 mm, devendo ser compatível com o equipamento ao qualse destina, sem necessidade de adaptações",
+              "unidade": "ROL",
+              "quantidade": "10,00",
+              "valor_referencia": "3,34"
+            }
+          ]
+        },
+        {
+          "numero": "13",
+          "titulo": "Cola branca liquida",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "73,70",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900516160 Cola branca liquida:à base de PVA (acetato depolivinila), acondicionada em embalagem de 1 litro, própria para colagem de papel, papelão, madeira e materiais porosos, desecagem rápida, atóxica e lavável após a secagem, comvalidade mínima de 12 meses a partir da data de entrega",
+              "unidade": "ROL",
+              "quantidade": "5,00",
+              "valor_referencia": "14,74"
+            }
+          ]
+        },
+        {
+          "numero": "14",
+          "titulo": "Cola liquida P.V.A",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "116,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900516161 Cola liquida P.V.A:cola líquida à base de P.V.A.(acetato de polivinila), de uso escolar e/ou artesanal, não tóxica,lavável, acondicionada em frasco de 500 mL, com tampa devedação",
+              "unidade": "ROL",
+              "quantidade": "10,00",
+              "valor_referencia": "11,60"
+            }
+          ]
+        },
+        {
+          "numero": "15",
+          "titulo": "Corrente metálica dourada",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "67,20",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900516142 Corrente metálica dourada:Corrente de metal, comacabamento na cor dourada, indicada para confecção de bolsas,cintos, acessórios e artigos decorativos. Com rolo de 5 metros",
+              "unidade": "ROL",
+              "quantidade": "3,00",
+              "valor_referencia": "22,40"
+            }
+          ]
+        },
+        {
+          "numero": "16",
+          "titulo": "Fio náutico",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "45,20",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900516141 Fio náutico:confeccionado em poliéster de altatenacidade, com alma (enchimento), espessura nominal de 6mm, cor azul-marinho, indicado para confecção de bolsas, cestose peças artesanais. Fornecido em rolo contendo, no mínimo, 100metros de comprimento, com cor uniforme, isento de emendas,defeitos de fabricação, desfiamentos ou deformações",
+              "unidade": "ROL",
+              "quantidade": "1,00",
+              "valor_referencia": "45,20"
+            }
+          ]
+        },
+        {
+          "numero": "17",
+          "titulo": "Fio poliéster de alta tenacidade",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "1.468,80",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900516143 Fio poliéster de alta tenacidade:indicada paramáquinas de costura overlock. Cone contendo 5.000 metros. Emcores: branco, preta, azul-marinho, Off-White, terracota e caqui.",
+              "unidade": "ROL",
+              "quantidade": "90,00",
+              "valor_referencia": "16,32"
+            }
+          ]
+        },
+        {
+          "numero": "18",
+          "titulo": "Fita Métrica flexível",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "21,17",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900516144 Fita Métrica flexível:com comprimento de 1,50 m(150 cm), graduada em centímetros e milímetros, confeccionadaem material flexível e resistente, com marcações legíveis emambas as faces, indicada para medições em costura e atividadesde modelagem. Fornecimento em kit contendo 5 (cinco) unidades",
+              "unidade": "KIT",
+              "quantidade": "1,00",
+              "valor_referencia": "21,17"
+            }
+          ]
+        },
+        {
+          "numero": "19",
+          "titulo": "Fivela metálica nº 5",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "52,50",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900516145 Fivela metálica nº 5:indicada para confecção ereparo de cintos, bolsas, mochilas, alças e artigos de couro, comacabamento dourado. Compatível com tiras de larguracorrespondente ao tamanho especificado, acondicionada empacote contendo 10 (dez) unidades",
+              "unidade": "PCT",
+              "quantidade": "2,00",
+              "valor_referencia": "26,25"
+            }
+          ]
+        },
+        {
+          "numero": "20",
+          "titulo": "Folha de EVA glitter",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "6.276,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900516162 Folha de EVA glitter:Folha de EVA comacabamento em glitter, medindo aproximadamente 40 x 48 cm,nas cores AZUL, BRANCO, PRETA, ROSA, VERDE EVERMELHA, espessura mínima de 2 mm, acondicionada em kitcontendo 10 unidades",
+              "unidade": "PCT",
+              "quantidade": "120,00",
+              "valor_referencia": "52,30"
+            }
+          ]
+        },
+        {
+          "numero": "21",
+          "titulo": "Folha de EVA lisa",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "2.595,60",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900516163 Folha de EVA lisa:acabamento liso, dimensões de40 x 48 cm, nas cores AMARELA, AZUL, BRANCA, PRETA,ROSA, VERDE E VERMELHA, espessura mínima de 2 mm,acondicionada em kit contendo 10 unidades.",
+              "unidade": "PCT",
+              "quantidade": "140,00",
+              "valor_referencia": "18,54"
+            }
+          ]
+        },
+        {
+          "numero": "22",
+          "titulo": "Franja decorativa",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "1.144,80",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900516164 Franja decorativa:confeccionada em fios sintéticoscom aparência semelhante à seda, com altura da queda de 15cm, nas cores BRANCO, DOURADA E PRETA, fornecida empeça de 1 metro de comprimento",
+              "unidade": "PÇ",
+              "quantidade": "60,00",
+              "valor_referencia": "19,08"
+            }
+          ]
+        },
+        {
+          "numero": "22",
+          "titulo": "Franja decorativa",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "1.144,80",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900516164 Franja decorativa:confeccionada em fios sintéticoscom aparência semelhante à seda, com altura da queda de 15cm, nas cores BRANCO, DOURADA E PRETA, fornecida empeça de 1 metro de comprimento",
+              "unidade": "PÇ",
+              "quantidade": "60,00",
+              "valor_referencia": "19,08"
+            }
+          ]
+        },
+        {
+          "numero": "24",
+          "titulo": "Kit de réguas para traçado e modelagem",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "70,20",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900516148 Kit de réguas para traçado e modelagem:compostopor 03 (três) peças, confeccionadas em acrílico cristaltransparente de alta resistência, com espessura entre 2,0 mm e3,0 mm, bordas lisas e acabamento uniforme. Cor transparente(cristal), contendo marcações, escalas milimétricas e numeraçãogravadas ou impressas na cor preta, de alta legibilidade eresistência ao desgaste. Composição: 01 Esquadro de 50 cm,com escalas milimétricas em formato \"L\", destinado ao traçadode ângulos de 90° e linhas retas; 01 Curva de Alfaiate (Quadril)de 60 cm, destinada ao traçado de curvas de quadril, laterais depeças, saias, calças e bainhas; 01 Curva Francesa (Cava) de 27cm, destinada ao traçado de cavas, decotes, ganchos, recortes edemais curvas de modelagem. As réguas deverão apresentarsuperfícies transparentes, sem bolhas, trincas, empenamentosou imperfeições que comprometam sua utilização, garantindoprecisão nas medições e no traçado de moldes.",
+              "unidade": "KIT",
+              "quantidade": "2,00",
+              "valor_referencia": "35,10"
+            }
+          ]
+        },
+        {
+          "numero": "24",
+          "titulo": "Kit de réguas para traçado e modelagem",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "70,20",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900516148 Kit de réguas para traçado e modelagem:compostopor 03 (três) peças, confeccionadas em acrílico cristaltransparente de alta resistência, com espessura entre 2,0 mm e3,0 mm, bordas lisas e acabamento uniforme. Cor transparente(cristal), contendo marcações, escalas milimétricas e numeraçãogravadas ou impressas na cor preta, de alta legibilidade eresistência ao desgaste. Composição: 01 Esquadro de 50 cm,com escalas milimétricas em formato \"L\", destinado ao traçadode ângulos de 90° e linhas retas; 01 Curva de Alfaiate (Quadril)de 60 cm, destinada ao traçado de curvas de quadril, laterais depeças, saias, calças e bainhas; 01 Curva Francesa (Cava) de 27cm, destinada ao traçado de cavas, decotes, ganchos, recortes edemais curvas de modelagem. As réguas deverão apresentarsuperfícies transparentes, sem bolhas, trincas, empenamentosou imperfeições que comprometam sua utilização, garantindoprecisão nas medições e no traçado de moldes.",
+              "unidade": "KIT",
+              "quantidade": "2,00",
+              "valor_referencia": "35,10"
+            }
+          ]
+        },
+        {
+          "numero": "23",
+          "titulo": "Guia de barra",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "83,80",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900516147 Guia de barra:com regulagem de largura entre 15mm e 25 mm; Ferramenta mecânica confeccionada em açoinoxidável, compatível com máquina de costura reta industrial,utilizada para auxiliar na costura de peças",
+              "unidade": "UND",
+              "quantidade": "2,00",
+              "valor_referencia": "41,90"
+            }
+          ]
+        },
+        {
+          "numero": "27",
+          "titulo": "Massa de EVA",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "2.520,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900516150 Massa de EVA:massa para modelagem tipo EVAnas cores AMARELA, AZUL, BRANCO, PRETA, VERDE EVERMELHA, macia, atóxica, de alta maleabilidade, indicada para atividades artesanais e escolares, na cor azul, acondicionada emembalagem contendo 100 g, com identificação do fabricante, lotee prazo de validade, quando aplicável",
+              "unidade": "UND",
+              "quantidade": "120,00",
+              "valor_referencia": "21,00"
+            }
+          ]
+        },
+        {
+          "numero": "25",
+          "titulo": "Linha poliéster industrial",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "1.986,30",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900516149 Linha poliéster industrial:linha de costura empoliéster de alta tenacidade, nas cores AZUL MARINHO,BRANCO, CAQUI, OFF WHITE, PRETA E TERRACOTA,indicada para uso em máquinas de costura industrial, com altaresistência à tração e à abrasão. Acondicionada em conecontendo, no mínimo, 5.000 metros de linha",
+              "unidade": "ROL",
+              "quantidade": "90,00",
+              "valor_referencia": "22,07"
+            }
+          ]
+        },
+        {
+          "numero": "29",
+          "titulo": "Pé calcador",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "31,50",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900516152 Pé calcador:acessório confeccionado em metal,com base revestida em teflon, compatível com máquina decostura industrial, indicado para costura de materiais sintéticos,couro, vinil e tecidos diversos, com medida da guia de 1 mm.",
+              "unidade": "UND",
+              "quantidade": "2,00",
+              "valor_referencia": "15,75"
+            }
+          ]
+        },
+        {
+          "numero": "30",
+          "titulo": "Pé calcador",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "58,78",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900516153 Pé calcador:acessório confeccionado em metal,compatível com máquina de costura industrial, destinado àaplicação de zíper invisível. Dimensões aproximadas: largura de5 cm, comprimento de 3 cm, altura de 5 cm e peso aproximadode 100 g",
+              "unidade": "UND",
+              "quantidade": "2,00",
+              "valor_referencia": "29,39"
+            }
+          ]
+        },
+        {
+          "numero": "31",
+          "titulo": "Pinça metálica",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "40,20",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900516154 Pinça metálica:confeccionada em aço inoxidável,com ponta tipo pescador, indicada para trabalhos de costura,artesanato e atividades de precisão, ideal para manuseio delinhas, tecidos, aviamentos e pequenos componentes.Comprimento aproximado de 18 cm, resistente à corrosão, defácil higienização e adequada para uso contínuo.",
+              "unidade": "UND",
+              "quantidade": "5,00",
+              "valor_referencia": "8,04"
+            }
+          ]
+        },
+        {
+          "numero": "32",
+          "titulo": "Pincéis para artesanato (ponta chata)",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "184,25",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900516166 Pincéis para artesanato (ponta chata):caboanatômico em plástico resistente, cerdas sintéticas de altaqualidade, indicados para aplicação de tintas à base de água,PVA, acrílica e vernizes em superfícies diversas, como madeira,tecido, papel, EVA e MDF. Kit contendo 12 pincéis,correspondentes às numerações de nº 1 ao nº 12, sendo umpincel de cada numeração",
+              "unidade": "UND",
+              "quantidade": "5,00",
+              "valor_referencia": "36,85"
+            }
+          ]
+        },
+        {
+          "numero": "33",
+          "titulo": "Pincéis para artesanato (ponta fina)",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "144,30",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900516167 Pincéis para artesanato (ponta fina):cabo anatômicoem plástico resistente, cerdas sintéticas de alta qualidade,indicados para trabalhos de precisão, pintura artística,acabamento e aplicação de tintas à base de água, PVA e acrílicaem superfícies diversas. Kit contendo 12 pincéis,correspondentes às numerações de nº 1 ao nº 12, sendo umpincel de cada numeração.",
+              "unidade": "UND",
+              "quantidade": "5,00",
+              "valor_referencia": "28,86"
+            }
+          ]
+        },
+        {
+          "numero": "33",
+          "titulo": "Pincéis para artesanato (ponta fina)",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "144,30",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900516167 Pincéis para artesanato (ponta fina):cabo anatômicoem plástico resistente, cerdas sintéticas de alta qualidade,indicados para trabalhos de precisão, pintura artística,acabamento e aplicação de tintas à base de água, PVA e acrílicaem superfícies diversas. Kit contendo 12 pincéis,correspondentes às numerações de nº 1 ao nº 12, sendo umpincel de cada numeração.",
+              "unidade": "UND",
+              "quantidade": "5,00",
+              "valor_referencia": "28,86"
+            }
+          ]
+        },
+        {
+          "numero": "35",
+          "titulo": "Tesoura para alfaiate",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "31,65",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900516168 Tesoura para alfaiate:confeccionada em aço de altaresistência, com lâminas temperadas, fio de corte de altadurabilidade e cabo anatômico, indicada para corte preciso detecidos, linhas e demais materiais têxteis. Comprimento mínimode 20 cm (8 polegadas). Cores variadas, conformedisponibilidade do fabricante e demanda da Administração",
+              "unidade": "PCT",
+              "quantidade": "3,00",
+              "valor_referencia": "10,55"
+            }
+          ]
+        },
+        {
+          "numero": "36",
+          "titulo": "Tinta em aerossol (spray)",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "1.192,50",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900516169 Tinta em aerossol (spray):com base acrílica, nascores AZUL, AMARELA, BRANCA, DOURADA, PRETO,PRATA, ROSA, VERDE E VERMELHA, indicada para uso geralem superfícies como metal, madeira, papel, cerâmica, gesso eplástico (quando aplicável), de secagem rápida, alto poder decobertura e boa aderência, acondicionada em embalagemaerossol contendo, no mínimo, 350 g",
+              "unidade": "PCT",
+              "quantidade": "45,00",
+              "valor_referencia": "26,50"
+            }
+          ]
+        },
+        {
+          "numero": "37",
+          "titulo": "Tinta P.V.A.",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "2.399,40",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900516157 Tinta P.V.A.:tinta à base de látex P.V.A., solúvel emágua, indicada para aplicação em superfícies de papel, papelão,madeira, MDF, gesso, cerâmica, isopor e artesanato em geral,nas cores: AMARELO, AZUL, BRANCO, PRETO, VERDE EVERMELHO, de secagem rápida, acabamento fosco,acondicionada em embalagem contendo, no mínimo, 500 Ml",
+              "unidade": "UND",
+              "quantidade": "60,00",
+              "valor_referencia": "39,99"
+            }
+          ]
+        },
+        {
+          "numero": "38",
+          "titulo": "Tinta para tecido",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "2.938,80",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900516170 Tinta para tecido:à base de água, nas coresAMARELO, AZUL, BRANCO, PRETA, VERDE E VERMELHO,indicada para pintura em tecidos de fibras naturais ou mistas,com acabamento de boa cobertura, secagem rápida, resistente àlavagem após fixação, acondicionada em embalagem de 500 Ml",
+              "unidade": "UND",
+              "quantidade": "60,00",
+              "valor_referencia": "48,98"
+            }
+          ]
+        },
+        {
+          "numero": "39",
+          "titulo": "Viés",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "187,70",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900516158 Viés:confeccionado em material sintético, comlargura de 24 mm, na cor dourada, indicado para acabamento,reforço e aplicação decorativa em peças de vestuário,acessórios, artigos de artesanato e itens de decoração.Fornecido em peça contínua, com acabamento uniforme, boaflexibilidade, resistência ao desgaste e solidez da cor, isento dedefeitos que comprometam sua utilização",
+              "unidade": "PÇ",
+              "quantidade": "10,00",
+              "valor_referencia": "18,77"
+            }
+          ]
+        },
+        {
+          "numero": "40",
+          "titulo": "Viés",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "121,40",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900516159 Viés:confeccionado em material sintético, comlargura de 35 mm, na cor dourada, indicado para acabamento,reforço e acabamento decorativo em peças de vestuário, acessórios, artigos de artesanato e itens de decoração.Fornecido em peça contínua, com boa flexibilidade, resistênciaao desgaste e acabamento uniforme",
+              "unidade": "PÇ",
+              "quantidade": "5,00",
+              "valor_referencia": "24,28"
+            }
+          ]
+        },
+        {
+          "numero": "41",
+          "titulo": "Virador de rolete",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "91,48",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900516172 Virador de rolete:confeccionado em aço inoxidável,ferramenta de precisão indicada para desvirar alças, tiras, viés,passantes e demais peças tubulares utilizadas em costura eartesanato. Comprimento aproximado de 26,5 cm, resistente àcorrosão, com acabamento liso que facilite o manuseio e evitedanos aos tecidos",
+              "unidade": "UND",
+              "quantidade": "4,00",
+              "valor_referencia": "22,87"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-117-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "686 / 2026",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "SUSPENSO",
+      "condutor": "JONATAS DA SILVA SOUSA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO PARCELADA",
+      "publicacao": "23/07/2026 17:31",
+      "inicio_recepcao": "27/07/2026 08:00",
+      "fim_recepcao": "06/08/2026 08:15",
+      "inicio_disputa": "06/08/2026 08:30",
+      "objeto": "Contratação de empresa especializada em prestação de serviço de LIMPEZA DE CAIXAS D’ÁGUA, a fim de atender as demandas da Secretaria Municipal de Educação.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5D72MwtFVS9SWE%2FpE83gBmsJ%2FwaWmnj1AdGq9iZcqGBOrg0Rzi75k8Yvs8RYWoItHPH9BCsCgRQMGC1uYtH90iPBgZTUwB%2FaHDsevTl8pDq8Y%3D",
+      "total_lotes": 1,
+      "total_itens": 4,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "LIMPEZA CAIXA D'ÁGUA",
+          "fase": "SUSPENSO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 4,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37536 SERVIÇO DE LIMPEZA, HIGIENIZAÇÃO E DESINFECÇÃO DE CAIXA D ÁGUA (ATÉ 500LITROS):Características: prestação de serviços especializados de limpeza, higienização e desinfecção química de reservatórios de água potável com capacidade de até litros, destinados à manutenção preventiva das condições sanitárias e adequadas de funcionamento do reservatório, compreendendo esvaziamento total da caixa d’água, remoção de resíduos, lodo, sedimentos, incrustações e demais impurezas acumuladas, escovação e lavagem técnica das superfícies internas (paredes, fundo e tampa), enxágue completo, aplicação de solução desinfetante/cloração apropriada e em conformidade com as normas sanitárias vigentes, sucção e descarte adequado dos resíduos gerados, vedação do reservatório e posterior reabastecimento, visando garantir a qualidade e a potabilidade da água destinada ao consumo humano nas unidades escolares, administrativas e demais prédios da Secretaria Municipal de Educação.",
+              "unidade": "SER",
+              "quantidade": "400,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "2",
+              "especificacao": "37537 SERVIÇO DE LIMPEZA, HIGIENIZAÇÃO E DESINFECÇÃO DE CAIXA D ÁGUA (ATÉ 1.000LITROS).:Características: prestação de serviços especializados de limpeza, higienização e desinfecção química de reservatórios de água potável com capacidade de até 1.000 litros, destinados à manutenção preventiva das condições sanitárias e adequadas de funcionamento do reservatório, compreendendo esvaziamento total da caixa d’água, remoção de resíduos, lodo, sedimentos, incrustações e demais impurezas acumuladas, escovação e lavagem técnica das superfícies internas (paredes, fundo e tampa), enxágue completo, aplicação de solução desinfetante/cloração apropriada e em conformidade com as normas sanitárias vigentes, sucção e descarte adequado dos resíduos gerados, vedação do reservatório e posterior reabastecimento, visando garantir a qualidade e a potabilidade da água destinada ao consumo humano nas unidades escolares, administrativas e demais prédios da Secretaria Municipal de Educação.",
+              "unidade": "SER",
+              "quantidade": "320,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "3",
+              "especificacao": "37538 SERVIÇO DE LIMPEZA, HIGIENIZAÇÃO E DESINFECÇÃO DE CAIXA D ÁGUA (DE 1.001 A 5.000LITROS):Características: prestação de serviços especializados de limpeza, higienização e desinfecção química de reservatórios de água potável com capacidade entre 1.001 e 5.000 litros, destinados à manutenção preventiva das condições sanitárias e adequadas de funcionamento do reservatório, compreendendo drenagem e esvaziamento total da caixa d’água, remoção de resíduos sólidos, lodo, sedimentos, incrustações, materiais orgânicos e demais impurezas acumuladas, escovação mecânica e lavagem técnica das superfícies internas (paredes, fundo e tampa), enxágue completo, aplicação de solução desinfetante/cloração apropriada e em conformidade com as normas sanitárias vigentes, sucção e descarte adequado dos resíduos gerados, vedação do reservatório e posterior reabastecimento, visando garantir condições adequadas de armazenamento, qualidade e potabilidade da água destinada ao consumo humano nas unidades escolares, administrativas e demais prédios da Secretaria Municipal de Educação.",
+              "unidade": "SER",
+              "quantidade": "240,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "4",
+              "especificacao": "37539 SERVIÇO DE LIMPEZA, HIGIENIZAÇÃO E DESINFECÇÃO DE CAIXA D ÁGUA E RESERVATÓRIOS ACIMA DE 5.000 LITROS.:Características: prestação de serviços especializados de limpeza, higienização e desinfecção química de reservatórios de água potável com capacidade superior a 5.000 litros, incluindo caixas d’água, reservatórios elevados, reservatórios tipo taça, cisternas e estruturas similares, destinados à manutenção preventiva das condições sanitárias e adequadas de funcionamento dos reservatórios, compreendendo esgotamento total, remoção de resíduos, lodo, sedimentos, incrustações e demais impurezas acumuladas, raspagem, escovação mecânica/manual, lavagem técnica das superfícies internas (paredes, fundo e tampa), enxágue completo, aplicação de solução desinfetante/cloração apropriada e em conformidade com as normas sanitárias vigentes, sucção e descarte adequado dos resíduos gerados, vedação do reservatório e posterior reabastecimento, visando garantir condições adequadas de armazenamento, qualidade e potabilidade da água destinada ao consumo humano nas unidades escolares, administrativas e demais prédios da Secretaria Municipal de Educação.",
+              "unidade": "SER",
+              "quantidade": "120,00",
+              "valor_referencia": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "CD-005-2025",
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "758/2025",
       "modalidade": "CREDENCIAMENTO",
-      "situacao": "EM FINALIZAÇÃO",
+      "situacao": "SUSPENSO",
       "condutor": "MAGDA DE SELES GUIMARÃES",
       "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
       "tipo_contrato": "AQUISIÇÃO",
-      "publicacao": "03/06/2025 16:35",
+      "publicacao": "03/06/2025 11:48",
       "inicio_recepcao": "13/06/2025 08:00",
-      "fim_recepcao": "15/06/2026 08:00",
+      "fim_recepcao": "15/06/2026 00:00",
       "inicio_disputa": "",
-      "objeto": "CREDENCIAMENTO DE PESSOA JURÍDICA PARA PRESTAÇÃO DE SERVIÇOS MÉDICOS ESPECIALIZADOS EM ANÁLISE PATOLÓGICA PARA ATENDER AS DEMANDAS DA SECRETARIA MUNICIPAL DE SAÚDE",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DIHio0bisGEFBzPnxRhWBM652yUyT6Xab%2FyVG1kh46X3FNgJazhq%2F4r13lOwb1V0aBifu1Jbx%2FNgdd3As9O18k7OLmUVus3TePPantzoxAeE%3D",
-      "total_lotes": 6,
-      "total_itens": 6,
+      "objeto": "Credenciamento de pessoa jurídica para PRESTAÇÃO DE SERVIÇOS\n MÉDICOS ESPECIALIZADOS EM ANÁLISE PATOLÓGICA para atender as demandas da\n Secretaria Municipal de Saúde.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DP62bVtB3WybEvjDk8b4mzqlQP4vRv8N54ZhDzfjrnoa26dcD8%2FAgadTXn2HtmoThfyzaEJpWkP36X6c16xz6cAKZu7qfU1bqM%2FjrXVYOXSE%3D",
+      "total_lotes": 9,
+      "total_itens": 9,
       "lotes": [
         {
           "numero": "1",
-          "titulo": "33436 BIÓPSIA SIMPLES",
-          "fase": "HABILITAÇÃO",
+          "titulo": "33436 BIÓPSIA SIMPLES:BIÓPSIA SIMPLES",
+          "fase": "SUSPENSO",
           "tipo": "UNITÁRIO",
           "quantidade": "1",
           "intervalo_minimo": "0,00",
           "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
+          "local_entrega": "",
+          "garantia": "",
           "valor_referencia": "60,19",
           "vencedor": "",
           "melhor_oferta": "0,00",
@@ -288627,21 +289587,45 @@
               "numero": "1",
               "especificacao": "33436 BIÓPSIA SIMPLES:BIÓPSIA SIMPLES",
               "unidade": "SERV",
-              "quantidade": "2.500,00",
+              "quantidade": "1.875,00",
               "valor_referencia": "60,19"
             }
           ]
         },
         {
-          "numero": "2",
-          "titulo": "9903311392 CITOLOGIA EM MEIO LIQUIDO",
-          "fase": "HABILITAÇÃO",
+          "numero": "1",
+          "titulo": "33436 BIÓPSIA SIMPLES:BIÓPSIA SIMPLES",
+          "fase": "SUSPENSO",
           "tipo": "UNITÁRIO",
           "quantidade": "1",
           "intervalo_minimo": "0,00",
           "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
+          "local_entrega": "",
+          "garantia": "",
+          "valor_referencia": "60,19",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "33436 BIÓPSIA SIMPLES:BIÓPSIA SIMPLES",
+              "unidade": "SERV",
+              "quantidade": "1.875,00",
+              "valor_referencia": "60,19"
+            }
+          ]
+        },
+        {
+          "numero": "3",
+          "titulo": "9903311392 CITOLOGIA EM MEIO LIQUIDO - BRONQUIO: CITOLOGIA EM MEIO LIQUIDO - BRONQUIO EXCLUSIVO PARA ME/EPP",
+          "fase": "SUSPENSO",
+          "tipo": "UNITÁRIO",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "SIM",
+          "local_entrega": "",
+          "garantia": "",
           "valor_referencia": "62,25",
           "vencedor": "",
           "melhor_oferta": "0,00",
@@ -288649,7 +289633,7 @@
           "itens": [
             {
               "numero": "1",
-              "especificacao": "9903311392 CITOLOGIA EM MEIO LIQUIDO - BRONQUIO:CITOLOGIA EM MEIO LIQUIDO - BRONQUIO.",
+              "especificacao": "CITOLOGIA EM MEIO LIQUIDO - BRONQUIO: CITOLOGIA EM MEIO LIQUIDO - BRONQUIO EXCLUSIVO PARA ME/EPP",
               "unidade": "SERV",
               "quantidade": "100,00",
               "valor_referencia": "62,25"
@@ -288658,38 +289642,38 @@
         },
         {
           "numero": "3",
-          "titulo": "9903311373 COLORAÇÃO ESPECIAL",
-          "fase": "HABILITAÇÃO",
+          "titulo": "9903311392 CITOLOGIA EM MEIO LIQUIDO - BRONQUIO: CITOLOGIA EM MEIO LIQUIDO - BRONQUIO EXCLUSIVO PARA ME/EPP",
+          "fase": "SUSPENSO",
           "tipo": "UNITÁRIO",
           "quantidade": "1",
           "intervalo_minimo": "0,00",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "33,65",
+          "exclusivo_me": "SIM",
+          "local_entrega": "",
+          "garantia": "",
+          "valor_referencia": "62,25",
           "vencedor": "",
           "melhor_oferta": "0,00",
           "total_itens": 1,
           "itens": [
             {
               "numero": "1",
-              "especificacao": "9903311373 COLORAÇÃO ESPECIAL: Marcação da biópsia por corantes especiais.",
+              "especificacao": "CITOLOGIA EM MEIO LIQUIDO - BRONQUIO: CITOLOGIA EM MEIO LIQUIDO - BRONQUIO EXCLUSIVO PARA ME/EPP",
               "unidade": "SERV",
-              "quantidade": "50,00",
-              "valor_referencia": "33,65"
+              "quantidade": "100,00",
+              "valor_referencia": "62,25"
             }
           ]
         },
         {
-          "numero": "4",
-          "titulo": "9903311378 CORE BYOPSY",
-          "fase": "HABILITAÇÃO",
+          "numero": "5",
+          "titulo": "9903311378 CORE BYOPSY:CORE BYOPSY. EXCLUSIVO PARA ME/EPP",
+          "fase": "SUSPENSO",
           "tipo": "UNITÁRIO",
           "quantidade": "1",
           "intervalo_minimo": "0,00",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
+          "exclusivo_me": "SIM",
+          "local_entrega": "",
+          "garantia": "",
           "valor_referencia": "68,46",
           "vencedor": "",
           "melhor_oferta": "0,00",
@@ -288697,7 +289681,7 @@
           "itens": [
             {
               "numero": "1",
-              "especificacao": "9903311378 CORE BYOPSY:CORE BYOPSY.",
+              "especificacao": "9903311378 CORE BYOPSY:CORE BYOPSY. EXCLUSIVO PARA ME/EPP",
               "unidade": "SERV",
               "quantidade": "100,00",
               "valor_referencia": "68,46"
@@ -288705,15 +289689,15 @@
           ]
         },
         {
-          "numero": "5",
-          "titulo": "33437 PEÇA CIRÚRGICA SIMPLES",
-          "fase": "HABILITAÇÃO",
+          "numero": "6",
+          "titulo": "33437 PEÇA CIRÚRGICA SIMPLES:PEÇA CIRÚRGICA SIMPLES",
+          "fase": "SUSPENSO",
           "tipo": "UNITÁRIO",
           "quantidade": "1",
           "intervalo_minimo": "0,00",
           "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
+          "local_entrega": "",
+          "garantia": "",
           "valor_referencia": "75,00",
           "vencedor": "",
           "melhor_oferta": "0,00",
@@ -288723,21 +289707,69 @@
               "numero": "1",
               "especificacao": "33437 PEÇA CIRÚRGICA SIMPLES:PEÇA CIRÚRGICA SIMPLES",
               "unidade": "SERV",
-              "quantidade": "2.500,00",
+              "quantidade": "1.875,00",
               "valor_referencia": "75,00"
             }
           ]
         },
         {
-          "numero": "6",
-          "titulo": "9903311384 PEÇA CIRÚRGICA COMPLEXA",
-          "fase": "HABILITAÇÃO",
+          "numero": "7",
+          "titulo": "9909911236 PEÇA CIRURGICA SIMPLES:PEÇA CIRURGICA SIMPLES. COTA DE 25% RESERVADA PARA ME/EPP",
+          "fase": "SUSPENSO",
+          "tipo": "UNITÁRIO",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "SIM",
+          "local_entrega": "",
+          "garantia": "",
+          "valor_referencia": "75,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9909911236 PEÇA CIRURGICA SIMPLES:PEÇA CIRURGICA SIMPLES. COTA DE 25% RESERVADA PARA ME/EPP",
+              "unidade": "SERV",
+              "quantidade": "625,00",
+              "valor_referencia": "75,00"
+            }
+          ]
+        },
+        {
+          "numero": "7",
+          "titulo": "9909911236 PEÇA CIRURGICA SIMPLES:PEÇA CIRURGICA SIMPLES. COTA DE 25% RESERVADA PARA ME/EPP",
+          "fase": "SUSPENSO",
+          "tipo": "UNITÁRIO",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "SIM",
+          "local_entrega": "",
+          "garantia": "",
+          "valor_referencia": "75,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9909911236 PEÇA CIRURGICA SIMPLES:PEÇA CIRURGICA SIMPLES. COTA DE 25% RESERVADA PARA ME/EPP",
+              "unidade": "SERV",
+              "quantidade": "625,00",
+              "valor_referencia": "75,00"
+            }
+          ]
+        },
+        {
+          "numero": "8",
+          "titulo": "9903311384 PEÇA CIRÚRGICA COMPLEXA:PEÇA CIRÚRGICA COMPLEXA",
+          "fase": "SUSPENSO",
           "tipo": "UNITÁRIO",
           "quantidade": "1",
           "intervalo_minimo": "0,00",
           "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
+          "local_entrega": "",
+          "garantia": "",
           "valor_referencia": "243,42",
           "vencedor": "",
           "melhor_oferta": "0,00",
@@ -288747,8 +289779,52 @@
               "numero": "1",
               "especificacao": "9903311384 PEÇA CIRÚRGICA COMPLEXA:PEÇA CIRÚRGICA COMPLEXA",
               "unidade": "UN",
-              "quantidade": "1.500,00",
+              "quantidade": "1.125,00",
               "valor_referencia": "243,42"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-027-2024",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "705/2024",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "HOMOLOGADO",
+      "condutor": "MAGDA DE SELES GUIMARÃES",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO",
+      "publicacao": "13/06/2024 18:49",
+      "inicio_recepcao": "14/06/2024 08:00",
+      "fim_recepcao": "10/07/2024 13:45",
+      "inicio_disputa": "10/07/2024 14:00",
+      "objeto": "O objeto da presente licitação é a contratação de INSTITUIÇÃO FINANCEIRA ESPECIALIZADA NA PRESTAÇÃO DE SERVIÇOS BANCÁRIOS PARA CENTRALIZAÇÃO, GERENCIAMENTO E PROCESSAMENTO DE CRÉDITOS DA FOLHA DE PAGAMENTO DOS SERVIDORES, a fim de atender as demandas da Secretaria Municipal de Administração, conforme condições, quantidades e especificações no Edital, Termo de Referência e seus Anexos.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DiSmJCoc59gTObyP8QBOwnyP1%2FvXD7Vq5UZWmsO3fjzD82KZyCbPKY1BRZHb4liMWkf1Bft3C9hHGezqZ_AI5GTwPVPwDyPxc0HWYWFcNRYA%3D",
+      "total_lotes": 1,
+      "total_itens": 1,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "SERVIÇOS BANCÁRIOS",
+          "fase": "HOMOLOGADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "6.052.150,00",
+          "vencedor": "ITAÚ UNIBANCO S.A.",
+          "melhor_oferta": "6.053.000,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "CONTRATAÇÃO DE INSTITUIÇÃO FINANCEIRA: ESPECIALIZADA NA PRESTAÇÃO DE SERVIÇOS BANCÁRIOS PARA CENTRALIZAÇÃO, GERENCIAMENTO E PROCESSAMENTO DE CRÉDITOS DA FOLHA DE PAGAMENTO DOS SERVIDORES DA PREFEITURA MUNICIPAL DE TEIXEIRA DE FREITAS/BA.",
+              "unidade": "UN",
+              "quantidade": "1,00",
+              "valor_referencia": "6.052.150,00"
             }
           ]
         }
