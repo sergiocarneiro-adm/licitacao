@@ -1072,6 +1072,13 @@ function openModalLicit(r) {
         : lotes.map(l => {
             const temVencedor = l.vencedor && l.vencedor.trim();
             const temMelhorOferta = l.melhor_oferta && parseValor(l.melhor_oferta) > 0;
+            // A melhor oferta do lote só pode ser convertida em valor unitário
+            // com segurança quando o lote possui exatamente um item.
+            const mostrarMOUnit = temMelhorOferta && l.itens && l.itens.length === 1;
+            const qtdItemUnico = mostrarMOUnit ? parseValor(l.itens[0].quantidade || '1') : 0;
+            const moUnit = mostrarMOUnit && !isNaN(qtdItemUnico) && qtdItemUnico > 0
+                ? parseValor(l.melhor_oferta) / qtdItemUnico
+                : 0;
             return `
             <div class="border border-slate-200 dark:border-slate-700 rounded-xl overflow-hidden">
                 <div class="bg-slate-50 dark:bg-slate-800 px-4 py-2.5 flex items-start justify-between gap-3">
@@ -1105,7 +1112,8 @@ function openModalLicit(r) {
                         <th class="px-3 py-1.5 text-left">Especificação</th>
                         <th class="px-3 py-1.5 text-left">Un.</th>
                         <th class="px-3 py-1.5 text-right">Qtd.</th>
-                        <th class="px-3 py-1.5 text-right">Valor Ref.</th>
+                        <th class="px-3 py-1.5 text-right">Valor Ref. Unit.</th>
+                        ${mostrarMOUnit && moUnit > 0 ? '<th class="px-3 py-1.5 text-right">MO Unit.</th>' : ''}
                     </tr></thead>
                     <tbody class="divide-y divide-slate-100 dark:divide-slate-800">
                     ${l.itens.map(it=>`<tr class="hover:bg-slate-50 dark:hover:bg-slate-800/40">
@@ -1114,6 +1122,7 @@ function openModalLicit(r) {
                         <td class="px-3 py-1.5 mono text-slate-500 whitespace-nowrap">${it.unidade||'–'}</td>
                         <td class="px-3 py-1.5 mono text-right font-bold">${it.quantidade||'–'}</td>
                         <td class="px-3 py-1.5 mono text-right font-bold text-emerald-600 whitespace-nowrap">${fmtBRL(it.valor_referencia)}</td>
+                        ${mostrarMOUnit && moUnit > 0 ? `<td class="px-3 py-1.5 mono text-right font-bold text-blue-600 whitespace-nowrap">${fmtBRL(moUnit)}</td>` : ''}
                     </tr>`).join('')}
                     </tbody></table></div>` : ''}
             </div>`}).join('');
