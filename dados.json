@@ -1,10 +1,10 @@
 {
   "metadata": {
     "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-    "total_processos": 872,
-    "total_lotes": 9540,
-    "total_itens": 16048,
-    "atualizado_em": "20260812_135239"
+    "total_processos": 875,
+    "total_lotes": 9557,
+    "total_itens": 16069,
+    "atualizado_em": "20260812_175249"
   },
   "processos": [
     {
@@ -273174,146 +273174,6 @@
       ]
     },
     {
-      "id": "PE-096-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "625 / 2026",
-      "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "JULGAMENTO",
-      "condutor": "JONATAS DA SILVA SOUSA",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO",
-      "publicacao": "09/07/2026 09:26",
-      "inicio_recepcao": "13/07/2026 08:30",
-      "fim_recepcao": "23/07/2026 08:15",
-      "inicio_disputa": "23/07/2026 08:30",
-      "objeto": "Contratação de empresa especializada em fornecimento de TENDAS, TOLDOS, BARRACAS E GRADIS, a fim de atender as demandas da Secretaria Municipal de Administração e demais Secretarias.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DtUygVbxJg3n0iIbc3%2FhKLLILICpzJYbCxGRGCEo_zssQsaYAufk5wXmpnB4fqzfl3cCg04hN8HaOdSCARpXEhHKtRYWkIF7W8Jq94EVLCzs%3D",
-      "total_lotes": 5,
-      "total_itens": 5,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "5707611165 GRADIL DE ISOLAMENTO 2,00 x 1,20m:Dimensões: 2,00 x 1,20 m; Tubos metálicos com diâmetro mínimo de 1 polegada; Espessura mínima da parede: 1,50 mm; Acabamento com galvanização ou pintura anticorrosiva equivalente; Lâminas internas em aço; Sist",
-          "fase": "JULGAMENTO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "178.100,00",
-          "vencedor": "CASA DAS INDUSTRIAS LTDA",
-          "melhor_oferta": "105.000,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "5707611165 GRADIL DE ISOLAMENTO 2,00 x 1,20m:Dimensões: 2,00 x 1,20 m; Tubos metálicos com diâmetro mínimo de 1 polegada; Espessura mínima da parede: 1,50 mm; Acabamento com galvanização ou pintura anticorrosiva equivalente; Lâminas internas em aço; Sistema de encaixe permitindo angulação",
-              "unidade": "Und.",
-              "quantidade": "500,00",
-              "valor_referencia": "356,20"
-            }
-          ]
-        },
-        {
-          "numero": "2",
-          "titulo": "5707611166 TENDA PIRAMIDAL 10 x 10 M:Estrutura reforçada em aço ou equivalente, com proteção contra corrosão; Tubos com diâmetro mínimo de 2 polegadas; Espessura mínima: 2,00 mm; Lona PVC profissional com mínimo 500 g/m², com proteção UV; Conexões metálic",
-          "fase": "JULGAMENTO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "185.503,27",
-          "vencedor": "ALUBAN EVENTOS LTDA",
-          "melhor_oferta": "130.150,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "5707611166 TENDA PIRAMIDAL 10 x 10 M:Estrutura reforçada em aço ou equivalente, com proteção contra corrosão; Tubos com diâmetro mínimo de 2 polegadas; Espessura mínima: 2,00 mm; Lona PVC profissional com mínimo 500 g/m², com proteção UV; Conexões metálicas; Sistema de montagem reforçado; Cor branca.",
-              "unidade": "Und.",
-              "quantidade": "19,00",
-              "valor_referencia": "9.763,33"
-            }
-          ]
-        },
-        {
-          "numero": "3",
-          "titulo": "5707611167 BARRACA INDIVIDUAL GALVANIZADA:medindoaproximadamente altura 2,10m x 1,40m de largura x 1,00m de profundidade; Com balcão esteira (expositor) de 0,30 cm; Cobertura avançada em lona.",
-          "fase": "JULGAMENTO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "129.886,00",
-          "vencedor": "ALUBAN EVENTOS LTDA",
-          "melhor_oferta": "110.000,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "5707611167 BARRACA INDIVIDUAL GALVANIZADA:medindoaproximadamente altura 2,10m x 1,40m de largura x 1,00m de profundidade; Com balcão esteira (expositor) de 0,30 cm; Cobertura avançada em lona.",
-              "unidade": "Und.",
-              "quantidade": "100,00",
-              "valor_referencia": "1.298,86"
-            }
-          ]
-        },
-        {
-          "numero": "4",
-          "titulo": "5707611168 TOLDO 6,26 M x 2,50 M:Estrutura metálica confeccionada em aço (galvanizado ou com tratamento equivalente); Tubos em aço com diâmetros compatíveis para sustentação da carga; Cobertura confeccionada em lona PVC, com tratamento anti-UV, gramatura",
-          "fase": "FRACASSADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "4.527,64",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "5707611168 TOLDO 6,26 M x 2,50 M:Estrutura metálica confeccionada em aço (galvanizado ou com tratamento equivalente); Tubos em aço com diâmetros compatíveis para sustentação da carga; Cobertura confeccionada em lona PVC, com tratamento anti-UV, gramatura compatível e acabamento adequado para proteção contra intempéries; Conexões metálicas ou material equivalente de alta resistência, fixadas por encaixe e/ou parafusos; Cor: a definir.",
-              "unidade": "Und.",
-              "quantidade": "2,00",
-              "valor_referencia": "2.263,82"
-            }
-          ]
-        },
-        {
-          "numero": "5",
-          "titulo": "5707611169 TENDA SANFONADA 3 X 4,5M:estrutura em aço galvanizado, pintura eletrostática e sistema articulado de montagem; laterais com reforço em metal; alturas reguláveis; lona à prova d´água e feita com material de nylon.",
-          "fase": "JULGAMENTO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "5.301,75",
-          "vencedor": "ALUBAN EVENTOS LTDA",
-          "melhor_oferta": "3.990,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "5707611169 TENDA SANFONADA 3 X 4,5M:estrutura em aço galvanizado, pintura eletrostática e sistema articulado de montagem; laterais com reforço em metal; alturas reguláveis; lona à prova d´água e feita com material de nylon.",
-              "unidade": "Und.",
-              "quantidade": "3,00",
-              "valor_referencia": "1.767,25"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "PE-092-2026",
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "617 / 2026",
@@ -291755,57 +291615,597 @@
       ]
     },
     {
-      "id": "CD-005-2025",
+      "id": "PE-119-2026",
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "758/2025",
-      "modalidade": "CREDENCIAMENTO",
-      "situacao": "EM FINALIZAÇÃO",
-      "condutor": "MAGDA DE SELES GUIMARÃES",
+      "numero_adm": "678 / 2026",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "PUBLICADO",
+      "condutor": "JONATAS DA SILVA SOUSA",
       "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO",
-      "publicacao": "03/06/2025 16:35",
-      "inicio_recepcao": "13/06/2025 08:00",
-      "fim_recepcao": "15/06/2026 08:00",
-      "inicio_disputa": "",
-      "objeto": "CREDENCIAMENTO DE PESSOA JURÍDICA PARA PRESTAÇÃO DE SERVIÇOS MÉDICOS ESPECIALIZADOS EM ANÁLISE PATOLÓGICA PARA ATENDER AS DEMANDAS DA SECRETARIA MUNICIPAL DE SAÚDE",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DzPZ4zl4dyvh1LTheyTd12zz6EIwDQQpm3MPVS67nvYDdLelCkWraduZIjC3cbeGb2z%2FfOGT9wkLJ7MGwY_eihqA5pJ7fcoMOEksSJL6nYk4%3D",
-      "total_lotes": 6,
+      "tipo_contrato": "AQUISIÇÃO PARCELADA",
+      "publicacao": "12/08/2026 11:27",
+      "inicio_recepcao": "14/08/2026 08:00",
+      "fim_recepcao": "28/08/2026 13:45",
+      "inicio_disputa": "28/08/2026 14:00",
+      "objeto": "Contratação de empresa especializada em PRESTAÇÃO DE SERVIÇO DE MANUTENÇÃO PREVENTIVA, MANUTENÇÃO CORRETIVA E FORNECIMENTO DE PEÇAS E COMPONENTES DE GERADORES E CÂMARAS FRIAS,  a fim de atender as demandas da Secretaria Municipal de Administração e demais Secretarias.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DrHGkRwKG_SDg4FsGnLMM5Dd7RgUfnCC1UMIhPo9gRu_ebD9JXJHHJhJgECaWq9h9ei6xLqDeflh_FNWIFz7PyEI7MbIxkn4XvQKdl8WDG0g%3D",
+      "total_lotes": 2,
       "total_itens": 6,
       "lotes": [
         {
           "numero": "1",
-          "titulo": "33436 BIÓPSIA SIMPLES",
-          "fase": "HABILITAÇÃO",
-          "tipo": "UNITÁRIO",
+          "titulo": "MANUTENÇÃO PREVENTIVA",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
           "quantidade": "1",
-          "intervalo_minimo": "0,00",
+          "intervalo_minimo": "0,01",
           "exclusivo_me": "NÃO",
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
-          "valor_referencia": "60,19",
+          "valor_referencia": "",
           "vencedor": "",
           "melhor_oferta": "0,00",
-          "total_itens": 1,
+          "total_itens": 3,
           "itens": [
             {
               "numero": "1",
-              "especificacao": "33436 BIÓPSIA SIMPLES:BIÓPSIA SIMPLES",
+              "especificacao": "9902900166 MANUTENÇÃO PREVENTIVA EM GERADORESDO MUNICÍPIO:Execução de serviços de manutenção preventiva em geradores de energia elétrica pertencentes ao Município, abrangendo inspeção, limpeza, lubrificação, ajustes e testes de funcionamento, de acordo com as especificações do fabricante e as normas técnicas aplicáveis. O serviço inclui a identificação de componentes desgastados ou com desempenho inferior ao especificado, garantindo a operação confiável e contínua dos equipamentos. Devem ser verificados sistemas elétricos, mecânicos e de combustível, filtros, cabos, conexões e demais elementos críticos, assegurando a eficiência, durabilidade e segurança do gerador. O serviço deverá ser realizado por equipe técnica capacitada, utilizando ferramentas, equipamentos e procedimentos adequados, com emissão de relatório detalhado de todas as ações realizadas.",
               "unidade": "SERV",
-              "quantidade": "2.500,00",
-              "valor_referencia": "60,19"
+              "quantidade": "20,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "2",
+              "especificacao": "9902900167 MANUTENÇÃO CORRETIVA EM GERADORESDO MUNICÍPIO:Execução de serviços de manutenção corretiva em geradores de energia elétrica do Município, abrangendo diagnóstico de falhas, reparos e normas técnicas aplicáveis.Devem ser verificados e reparados sistemas elétricos, mecânicos e de combustível, filtros, cabos, conexões e demais elementos críticos, assegurando eficiência, segurança e confiabilidade do gerador. A execução deverá ser realizada por equipe técnica qualificada, utilizando ferramentas, equipamentos e procedimentos adequados, com emissão de relatório detalhado contendo as falhas identificadas, os serviços realizados.",
+              "unidade": "SERV",
+              "quantidade": "20,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "3",
+              "especificacao": "37526 FORNECIMENTO DE PEÇAS E COMPONENTES ORIGINAIS OU COMPATÍVEIS DE QUALIDADECOMPROVADA DE GERADORES:Fornecimento de peças e componentes necessários para manutenção preventiva e corretiva de geradores do Município. Todos os itens fornecidos deverão ser originais ou compatíveis de qualidade comprovada, garantindo a operação eficiente, segura e contínua dos equipamentos.",
+              "unidade": "Und.",
+              "quantidade": "1,00",
+              "valor_referencia": ""
             }
           ]
         },
         {
+          "numero": "2",
+          "titulo": "MANUTENÇÃO PREVENTIVA",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 3,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9902900168 MANUTENÇÃO PREVENTIVA EM CÂMARAS FRIAS DO MUNICÍPIO, COM REPOSIÇÃO DEPEÇAS:Execução de serviços de manutenção preventiva em câmaras frias do Município, abrangendo inspeção, limpeza, ajustes, lubrificação, calibração e testes de funcionamento, de acordo com as especificações do fabricante, normas técnicas aplicáveis e procedimentos necessários para garantir operação adequada e eficiente. O serviço inclui a identificação de peças e componentes desgastados ou com desempenho abaixo do recomendado. Devem ser verificadas todas as partes críticas da câmara fria, incluindo sistemas de refrigeração, compressores, evaporadores, condensadores, válvulas, sensores, cabos e conexões. A manutenção deverá ser realizada por equipe técnica capacitada, utilizando ferramentas e procedimentos apropriados, e acompanhada de relatório detalhado contendo todas as ações realizadas.",
+              "unidade": "SERV",
+              "quantidade": "20,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "2",
+              "especificacao": "9902900169 MANUTENÇÃO CORRETIVA EM CÂMARASFRIAS DO MUNICÍPIO:Execução de serviços de manutenção corretiva em câmaras frias do Município, abrangendo diagnóstico, reparo e restauração do pleno funcionamento dos equipamentos, de acordo com as especificações do fabricante e normas técnicas aplicáveis. Devem ser verificados e reparados todos os sistemas críticos, incluindo refrigeração, compressores, evaporadores, condensadores, válvulas, sensores, cabos e conexões. A manutenção corretiva deverá ser realizada por equipe técnica capacitada, utilizando ferramentas e procedimentos adequados, e acompanhada de relatório detalhado contendo todas as ações executadas",
+              "unidade": "SERV",
+              "quantidade": "20,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "3",
+              "especificacao": "9900515817 FORNECIMENTO DE PEÇAS E COMPONENTES ORIGINAIS OU COMPATÍVEIS DE QUALIDADECOMPROVADA DE CÂMARAS FRIAS:Fornecimento de peças e componentes necessários para manutenção preventiva e corretiva de câmaras frias do Município. Todos os itens fornecidos deverão ser originais ou compatíveis de qualidade comprovada, garantindo a operação eficiente, segura e contínua dos equipamentos.",
+              "unidade": "Und.",
+              "quantidade": "1,00",
+              "valor_referencia": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-133-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "616 / 2026",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "PUBLICADO",
+      "condutor": "JONATAS DA SILVA SOUSA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO",
+      "publicacao": "12/08/2026 10:56",
+      "inicio_recepcao": "14/08/2026 08:00",
+      "fim_recepcao": "26/08/2026 08:15",
+      "inicio_disputa": "26/08/2026 08:30",
+      "objeto": "Contratação de empresa especializada em fornecimento de ROÇADEIRA HIDRÁULICA PARA TRATOR (material permanente),  a fim de atender às demandas da Secretaria Municipal de Administração e da Secretaria Municipal de Agricultura, Pecuária e Abastecimento.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DsAgGMVb2iPIdVNsIstH2F4KeIum9MWyJDokMYouv4jAMYD8iQAzfi5ss9ymlhmHlIMVrCW3NQlaoQ75OIwj5NdOmxevfGD1acwMoGQFjxn8%3D",
+      "total_lotes": 1,
+      "total_itens": 1,
+      "lotes": [
+        {
           "numero": "1",
-          "titulo": "33436 BIÓPSIA SIMPLES",
+          "titulo": "ROÇADEIRA HIDRÁULICA",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37392 ROÇADEIRA HIDRÁULICA PARA TRATOR:Roçadeirahidráulica de dupla hélice, destinada ao acoplamento em trator,por meio de uma transmissão direta com Sistema de engate de 3pontos, giro livre interno, com dentes cônico helicoidais,embreagem e cardan com proteção. Características mínimasexigidas: Comprimento aproximado 2,10 m; Largura aproximadade 2,73 m; Peso aproximado de 755 Kg; Largura de cortemáximo de 2,50 cm; Altura de corte máximo de 20 cm;Compatibilidade com tratores de potência entre 70 CV a 90 CV;Sistema de engate de 3 pontos para trator, cat II; Eixo cardanarticulado com embreagem de torque regulável; Caixas com girolivre banhado a óleo",
+              "unidade": "UN",
+              "quantidade": "2,00",
+              "valor_referencia": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2-DLE-082-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "786/2026",
+      "modalidade": "DISPENSA ELETRÔNICA",
+      "situacao": "RECEPÇÃO DE PROPOSTAS",
+      "condutor": "ISLA LIMA SILVA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO",
+      "publicacao": "12/08/2026 10:39",
+      "inicio_recepcao": "12/08/2026 10:40",
+      "fim_recepcao": "18/08/2026 08:15",
+      "inicio_disputa": "18/08/2026 08:30",
+      "objeto": "Contratação de empresa especializada em fornecimento de [MATERIAIS ESPORTIVOS] (materiais de consumo), a fim de atender as necessidades da Secretaria Municipal de Esporte e Lazer",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DurnsO0DTTJN0mntdM2YzOadctrWbWKmmeMvhOMqPtuyw7NTvjvngwCTpUE3rTGDEVp1FdMFpWYNdbc6BmaQt7Feez09BLkcSTckQvGAmPFQ%3D",
+      "total_lotes": 11,
+      "total_itens": 11,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "BOLA DE FUTEBOL DE CAMPO",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "3.424,20",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9907000141 BOLA DE FUTEBOL DE CAMPO:padrãocompetição - alto rendimento; tamanho 5; peso 410 a 450 g;circunferência 68 a 70 cm; revestimento em PU (vedado PVC oumaterial inferior); construção termofusionada/termosoldada (ouequivalente sem costuras expostas); câmara butílica; baixaabsorção de água, esfericidade e estabilidade de voocompatíveis com padrão competição; certificação obrigatóriaFIFA Quality ou FIFA Quality PRO (aceita-se IMS/InternationalMatch Standard quando comprovado por documentação dofabricante).",
+              "unidade": "UN",
+              "quantidade": "10,00",
+              "valor_referencia": "342,42"
+            }
+          ]
+        },
+        {
+          "numero": "2",
+          "titulo": "CONE",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "115,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9907000142 CONE:tipo chapéu chinês, para demarcação etreinamento esportivo, material plástico flexível, com larguramínima de 19 cm e altura mínima de 4,5cm, na cor verde.",
+              "unidade": "UN",
+              "quantidade": "50,00",
+              "valor_referencia": "2,30"
+            }
+          ]
+        },
+        {
+          "numero": "3",
+          "titulo": "KIMONO JUDÔ A1",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "2.920,60",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9907000143 KIMONO JUDÔ A1:Blusa e Calça confeccionadasno tecido Brim Médio - 100% algodão, A1 - de 1,55 a 1,65 M.Blusa com reforços de tecido duplos no peito, costas e axilas.Gola em tecido com seis costuras alinhadas. Gramatura igual ousuperior a 350 g/m².",
+              "unidade": "UN",
+              "quantidade": "10,00",
+              "valor_referencia": "292,06"
+            }
+          ]
+        },
+        {
+          "numero": "4",
+          "titulo": "303,10",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "0,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9907000144 KIMONO JUDÔ A2:Blusa e Calça confeccionadasno tecido Brim Médio - 100% algodão, A2 - de 1,66 a 1,76 M.Blusa com reforços de tecido duplos no peito, costas e axilas.Gola em tecido com seis costuras alinhadas. Gramatura igual ousuperior a 350 g/m².",
+              "unidade": "UN",
+              "quantidade": "10,00",
+              "valor_referencia": "0,00"
+            }
+          ]
+        },
+        {
+          "numero": "5",
+          "titulo": "KIMONO JUDÔ M2",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "2.509,90",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9907000145 KIMONO JUDÔ M2:Blusa e Calça confeccionadasno tecido Brim Médio - 100% algodão, M2 - de 1,20 a 1,30M.Blusa com reforços de tecido duplos no peito, costas e axilas.Gola em tecido com seis costuras alinhadas. Gramatura igual ousuperior a 350 g/m².",
+              "unidade": "UN",
+              "quantidade": "10,00",
+              "valor_referencia": "250,99"
+            }
+          ]
+        },
+        {
+          "numero": "6",
+          "titulo": "KIMONO JUDÔ M3",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "2.153,10",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9907000146 KIMONO JUDÔ M3:Blusa e Calça confeccionadasno tecido Brim Médio - 100% algodão, M3 - de 1,30 a 1,40M.Blusa com reforços de tecido duplos no peito, costas e axilas.Gola em tecido com seis costuras alinhadas. Gramatura igual ousuperior a 350 g/m².",
+              "unidade": "UN",
+              "quantidade": "10,00",
+              "valor_referencia": "215,31"
+            }
+          ]
+        },
+        {
+          "numero": "7",
+          "titulo": "KIMONO JUDÔ M4",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "2.054,90",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9907000147 KIMONO JUDÔ M4:Blusa e Calça confeccionadasno tecido Brim Médio - 100% algodão, M4- de 1,40 a 1,50M.Blusa com reforços de tecido duplos no peito, costas e axilas.Gola em tecido com seis costuras alinhadas. Gramatura igual ousuperior a 350 g/m².",
+              "unidade": "UN",
+              "quantidade": "10,00",
+              "valor_referencia": "205,49"
+            }
+          ]
+        },
+        {
+          "numero": "8",
+          "titulo": "MINI CONE PEQUENO",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "585,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9907000148 MINI CONE PEQUENO:Cone de treino pequeno,altura 30cm, material: pp, material de grande durabilidade eflexível.",
+              "unidade": "UN",
+              "quantidade": "50,00",
+              "valor_referencia": "11,70"
+            }
+          ]
+        },
+        {
+          "numero": "9",
+          "titulo": "REDE DE FUTEBOL TIPO VÉU DE CAMPO",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "5.121,30",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9907000149 REDE DE FUTEBOL TIPO VÉU DECAMPO:Oficial, em nylon, fio de 6mm, par (2 unidades).",
+              "unidade": "PAR",
+              "quantidade": "10,00",
+              "valor_referencia": "512,13"
+            }
+          ]
+        },
+        {
+          "numero": "10",
+          "titulo": "REDE DE FUTSAL TIPO VÉU 12X12CM",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "2.018,20",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9907000150 REDE DE FUTSAL TIPO VÉU 12X12CM:Rede defutsal, fio de 6mm em polietileno de alta densidade e proteçãoanti-uv, malha 13x13 medindo 2,0 x 3,10 x 1,0 mts, par (2unidades).",
+              "unidade": "PAR",
+              "quantidade": "10,00",
+              "valor_referencia": "201,82"
+            }
+          ]
+        },
+        {
+          "numero": "11",
+          "titulo": "TATAME EM EVA",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "5.847,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9907000151 TATAME EM EVA: de 40 mm de espessura, fabricado em material de alta densidade, atóxico, impermeável e lavável, indicado para atividades esportivas, artes marciais, recreação, treinamento funcional e áreas de proteção contra impacto. Especificações mínimas: Material: EVA (Etileno Acetato de Vinila) de alta qualidade; Espessura: 40 mm (4 cm); Dimensões: 1,00 m x 1,00 m (ou equivalente);Sistema de encaixe tipo quebra-cabeça; Superfície antiderrapante e texturizada; Bordas removíveis para acabamento; Alta resistência ao impacto e à deformação; Fácil higienização e manutenção; Cores variadas (conforme disponibilidade ou especificação do contratante); Produto não tóxico, resistente à umidade e de longa durabilidade.",
+              "unidade": "UN",
+              "quantidade": "50,00",
+              "valor_referencia": "116,94"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-096-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "625 / 2026",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "HABILITAÇÃO",
+      "condutor": "JONATAS DA SILVA SOUSA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO",
+      "publicacao": "09/07/2026 09:26",
+      "inicio_recepcao": "13/07/2026 08:30",
+      "fim_recepcao": "23/07/2026 08:15",
+      "inicio_disputa": "23/07/2026 08:30",
+      "objeto": "Contratação de empresa especializada em fornecimento de TENDAS, TOLDOS, BARRACAS E GRADIS, a fim de atender as demandas da Secretaria Municipal de Administração e demais Secretarias.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5D4Di6s6TiJ8uctJIDccRUWNpAl3HPLMMGe3elx9oFlP95wU2Brsb53f4BIryEwHQ4321mgLIv840hIA97jxUe%2FqpB8SebRSbkPQUO8ZPdmck%3D",
+      "total_lotes": 5,
+      "total_itens": 5,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "5707611165 GRADIL DE ISOLAMENTO 2,00 x 1,20m:Dimensões: 2,00 x 1,20 m; Tubos metálicos com diâmetro mínimo de 1 polegada; Espessura mínima da parede: 1,50 mm; Acabamento com galvanização ou pintura anticorrosiva equivalente; Lâminas internas em aço; Sist",
           "fase": "HABILITAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "178.100,00",
+          "vencedor": "CASA DAS INDUSTRIAS LTDA",
+          "melhor_oferta": "105.000,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "5707611165 GRADIL DE ISOLAMENTO 2,00 x 1,20m:Dimensões: 2,00 x 1,20 m; Tubos metálicos com diâmetro mínimo de 1 polegada; Espessura mínima da parede: 1,50 mm; Acabamento com galvanização ou pintura anticorrosiva equivalente; Lâminas internas em aço; Sistema de encaixe permitindo angulação",
+              "unidade": "Und.",
+              "quantidade": "500,00",
+              "valor_referencia": "356,20"
+            }
+          ]
+        },
+        {
+          "numero": "2",
+          "titulo": "5707611166 TENDA PIRAMIDAL 10 x 10 M:Estrutura reforçada em aço ou equivalente, com proteção contra corrosão; Tubos com diâmetro mínimo de 2 polegadas; Espessura mínima: 2,00 mm; Lona PVC profissional com mínimo 500 g/m², com proteção UV; Conexões metálic",
+          "fase": "HABILITAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "185.503,27",
+          "vencedor": "ALUBAN EVENTOS LTDA",
+          "melhor_oferta": "130.150,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "5707611166 TENDA PIRAMIDAL 10 x 10 M:Estrutura reforçada em aço ou equivalente, com proteção contra corrosão; Tubos com diâmetro mínimo de 2 polegadas; Espessura mínima: 2,00 mm; Lona PVC profissional com mínimo 500 g/m², com proteção UV; Conexões metálicas; Sistema de montagem reforçado; Cor branca.",
+              "unidade": "Und.",
+              "quantidade": "19,00",
+              "valor_referencia": "9.763,33"
+            }
+          ]
+        },
+        {
+          "numero": "3",
+          "titulo": "5707611167 BARRACA INDIVIDUAL GALVANIZADA:medindoaproximadamente altura 2,10m x 1,40m de largura x 1,00m de profundidade; Com balcão esteira (expositor) de 0,30 cm; Cobertura avançada em lona.",
+          "fase": "HABILITAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "129.886,00",
+          "vencedor": "ALUBAN EVENTOS LTDA",
+          "melhor_oferta": "110.000,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "5707611167 BARRACA INDIVIDUAL GALVANIZADA:medindoaproximadamente altura 2,10m x 1,40m de largura x 1,00m de profundidade; Com balcão esteira (expositor) de 0,30 cm; Cobertura avançada em lona.",
+              "unidade": "Und.",
+              "quantidade": "100,00",
+              "valor_referencia": "1.298,86"
+            }
+          ]
+        },
+        {
+          "numero": "4",
+          "titulo": "5707611168 TOLDO 6,26 M x 2,50 M:Estrutura metálica confeccionada em aço (galvanizado ou com tratamento equivalente); Tubos em aço com diâmetros compatíveis para sustentação da carga; Cobertura confeccionada em lona PVC, com tratamento anti-UV, gramatura",
+          "fase": "FRACASSADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "4.527,64",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "5707611168 TOLDO 6,26 M x 2,50 M:Estrutura metálica confeccionada em aço (galvanizado ou com tratamento equivalente); Tubos em aço com diâmetros compatíveis para sustentação da carga; Cobertura confeccionada em lona PVC, com tratamento anti-UV, gramatura compatível e acabamento adequado para proteção contra intempéries; Conexões metálicas ou material equivalente de alta resistência, fixadas por encaixe e/ou parafusos; Cor: a definir.",
+              "unidade": "Und.",
+              "quantidade": "2,00",
+              "valor_referencia": "2.263,82"
+            }
+          ]
+        },
+        {
+          "numero": "5",
+          "titulo": "5707611169 TENDA SANFONADA 3 X 4,5M:estrutura em aço galvanizado, pintura eletrostática e sistema articulado de montagem; laterais com reforço em metal; alturas reguláveis; lona à prova d´água e feita com material de nylon.",
+          "fase": "HABILITAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "5.301,75",
+          "vencedor": "ALUBAN EVENTOS LTDA",
+          "melhor_oferta": "3.990,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "5707611169 TENDA SANFONADA 3 X 4,5M:estrutura em aço galvanizado, pintura eletrostática e sistema articulado de montagem; laterais com reforço em metal; alturas reguláveis; lona à prova d´água e feita com material de nylon.",
+              "unidade": "Und.",
+              "quantidade": "3,00",
+              "valor_referencia": "1.767,25"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CD-005-2025",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "758/2025",
+      "modalidade": "CREDENCIAMENTO",
+      "situacao": "SUSPENSO",
+      "condutor": "MAGDA DE SELES GUIMARÃES",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO",
+      "publicacao": "03/06/2025 11:48",
+      "inicio_recepcao": "13/06/2025 08:00",
+      "fim_recepcao": "15/06/2026 00:00",
+      "inicio_disputa": "",
+      "objeto": "Credenciamento de pessoa jurídica para PRESTAÇÃO DE SERVIÇOS\n MÉDICOS ESPECIALIZADOS EM ANÁLISE PATOLÓGICA para atender as demandas da\n Secretaria Municipal de Saúde.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5D8JO4cTDEIbCOk%2Fuip2YUMQuBoE8jKm_dTntQSkTXpw2ZKPy5Gz10NBDymVizvxE5rOF_VnF0Z9daRTzeyNuacAz2UUU7p6rV8ATvCDvHoHw%3D",
+      "total_lotes": 9,
+      "total_itens": 9,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "33436 BIÓPSIA SIMPLES:BIÓPSIA SIMPLES",
+          "fase": "SUSPENSO",
           "tipo": "UNITÁRIO",
           "quantidade": "1",
           "intervalo_minimo": "0,00",
           "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
+          "local_entrega": "",
+          "garantia": "",
           "valor_referencia": "60,19",
           "vencedor": "",
           "melhor_oferta": "0,00",
@@ -291815,21 +292215,45 @@
               "numero": "1",
               "especificacao": "33436 BIÓPSIA SIMPLES:BIÓPSIA SIMPLES",
               "unidade": "SERV",
-              "quantidade": "2.500,00",
+              "quantidade": "1.875,00",
               "valor_referencia": "60,19"
             }
           ]
         },
         {
           "numero": "2",
-          "titulo": "9903311392 CITOLOGIA EM MEIO LIQUIDO",
-          "fase": "HABILITAÇÃO",
+          "titulo": "909911235 BIOPSIA SIMPLES:BIÓPSIA SIMPLES. COTA DE 25% RESERVADA PARA  ME/EPP.",
+          "fase": "SUSPENSO",
           "tipo": "UNITÁRIO",
           "quantidade": "1",
           "intervalo_minimo": "0,00",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
+          "exclusivo_me": "SIM",
+          "local_entrega": "",
+          "garantia": "",
+          "valor_referencia": "60,19",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "909911235 BIOPSIA SIMPLES:BIÓPSIA SIMPLES. COTA DE 25% RESERVADA PARA ME/EPP.",
+              "unidade": "SERV",
+              "quantidade": "625,00",
+              "valor_referencia": "60,19"
+            }
+          ]
+        },
+        {
+          "numero": "3",
+          "titulo": "9903311392 CITOLOGIA EM MEIO LIQUIDO - BRONQUIO: CITOLOGIA EM MEIO LIQUIDO - BRONQUIO EXCLUSIVO PARA ME/EPP",
+          "fase": "SUSPENSO",
+          "tipo": "UNITÁRIO",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "SIM",
+          "local_entrega": "",
+          "garantia": "",
           "valor_referencia": "62,25",
           "vencedor": "",
           "melhor_oferta": "0,00",
@@ -291837,7 +292261,7 @@
           "itens": [
             {
               "numero": "1",
-              "especificacao": "9903311392 CITOLOGIA EM MEIO LIQUIDO - BRONQUIO:CITOLOGIA EM MEIO LIQUIDO - BRONQUIO.",
+              "especificacao": "CITOLOGIA EM MEIO LIQUIDO - BRONQUIO: CITOLOGIA EM MEIO LIQUIDO - BRONQUIO EXCLUSIVO PARA ME/EPP",
               "unidade": "SERV",
               "quantidade": "100,00",
               "valor_referencia": "62,25"
@@ -291846,14 +292270,38 @@
         },
         {
           "numero": "4",
-          "titulo": "9903311378 CORE BYOPSY",
-          "fase": "HABILITAÇÃO",
+          "titulo": "9903311373 COLORAÇÃO ESPECIAL:Marcação da biópsia por corantes especiais. EXCLUSIVO PARA ME/EPP",
+          "fase": "SUSPENSO",
           "tipo": "UNITÁRIO",
           "quantidade": "1",
           "intervalo_minimo": "0,00",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
+          "exclusivo_me": "SIM",
+          "local_entrega": "",
+          "garantia": "",
+          "valor_referencia": "33,65",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9903311373 COLORAÇÃO ESPECIAL:Marcação da biópsia por corantes especiais. EXCLUSIVO PARA ME/EPP",
+              "unidade": "SERV",
+              "quantidade": "50,00",
+              "valor_referencia": "33,65"
+            }
+          ]
+        },
+        {
+          "numero": "5",
+          "titulo": "9903311378 CORE BYOPSY:CORE BYOPSY. EXCLUSIVO PARA ME/EPP",
+          "fase": "SUSPENSO",
+          "tipo": "UNITÁRIO",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "SIM",
+          "local_entrega": "",
+          "garantia": "",
           "valor_referencia": "68,46",
           "vencedor": "",
           "melhor_oferta": "0,00",
@@ -291861,7 +292309,7 @@
           "itens": [
             {
               "numero": "1",
-              "especificacao": "9903311378 CORE BYOPSY:CORE BYOPSY.",
+              "especificacao": "9903311378 CORE BYOPSY:CORE BYOPSY. EXCLUSIVO PARA ME/EPP",
               "unidade": "SERV",
               "quantidade": "100,00",
               "valor_referencia": "68,46"
@@ -291869,15 +292317,15 @@
           ]
         },
         {
-          "numero": "5",
-          "titulo": "33437 PEÇA CIRÚRGICA SIMPLES",
-          "fase": "HABILITAÇÃO",
+          "numero": "6",
+          "titulo": "33437 PEÇA CIRÚRGICA SIMPLES:PEÇA CIRÚRGICA SIMPLES",
+          "fase": "SUSPENSO",
           "tipo": "UNITÁRIO",
           "quantidade": "1",
           "intervalo_minimo": "0,00",
           "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
+          "local_entrega": "",
+          "garantia": "",
           "valor_referencia": "75,00",
           "vencedor": "",
           "melhor_oferta": "0,00",
@@ -291887,21 +292335,21 @@
               "numero": "1",
               "especificacao": "33437 PEÇA CIRÚRGICA SIMPLES:PEÇA CIRÚRGICA SIMPLES",
               "unidade": "SERV",
-              "quantidade": "2.500,00",
+              "quantidade": "1.875,00",
               "valor_referencia": "75,00"
             }
           ]
         },
         {
-          "numero": "5",
-          "titulo": "33437 PEÇA CIRÚRGICA SIMPLES",
-          "fase": "HABILITAÇÃO",
+          "numero": "7",
+          "titulo": "9909911236 PEÇA CIRURGICA SIMPLES:PEÇA CIRURGICA SIMPLES. COTA DE 25% RESERVADA PARA ME/EPP",
+          "fase": "SUSPENSO",
           "tipo": "UNITÁRIO",
           "quantidade": "1",
           "intervalo_minimo": "0,00",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
+          "exclusivo_me": "SIM",
+          "local_entrega": "",
+          "garantia": "",
           "valor_referencia": "75,00",
           "vencedor": "",
           "melhor_oferta": "0,00",
@@ -291909,10 +292357,58 @@
           "itens": [
             {
               "numero": "1",
-              "especificacao": "33437 PEÇA CIRÚRGICA SIMPLES:PEÇA CIRÚRGICA SIMPLES",
+              "especificacao": "9909911236 PEÇA CIRURGICA SIMPLES:PEÇA CIRURGICA SIMPLES. COTA DE 25% RESERVADA PARA ME/EPP",
               "unidade": "SERV",
-              "quantidade": "2.500,00",
+              "quantidade": "625,00",
               "valor_referencia": "75,00"
+            }
+          ]
+        },
+        {
+          "numero": "8",
+          "titulo": "9903311384 PEÇA CIRÚRGICA COMPLEXA:PEÇA CIRÚRGICA COMPLEXA",
+          "fase": "SUSPENSO",
+          "tipo": "UNITÁRIO",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "",
+          "garantia": "",
+          "valor_referencia": "243,42",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9903311384 PEÇA CIRÚRGICA COMPLEXA:PEÇA CIRÚRGICA COMPLEXA",
+              "unidade": "UN",
+              "quantidade": "1.125,00",
+              "valor_referencia": "243,42"
+            }
+          ]
+        },
+        {
+          "numero": "9",
+          "titulo": "9909911237 PEÇA CIRURGICA COMPLEXA:PEÇA CIRURGICA COMPLEXA. COTA DE  25%  RESERVADA PARA ME/EPP.",
+          "fase": "SUSPENSO",
+          "tipo": "UNITÁRIO",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "SIM",
+          "local_entrega": "",
+          "garantia": "",
+          "valor_referencia": "243,42",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9909911237 PEÇA CIRURGICA COMPLEXA:PEÇA CIRURGICA COMPLEXA. COTA DE 25% RESERVADA PARA ME/EPP.",
+              "unidade": "SERV",
+              "quantidade": "375,00",
+              "valor_referencia": "243,42"
             }
           ]
         }
@@ -291923,38 +292419,38 @@
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "705/2024",
       "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "SUSPENSO",
-      "condutor": "VICTOR KINIDEL DETHLING",
+      "situacao": "HOMOLOGADO",
+      "condutor": "MAGDA DE SELES GUIMARÃES",
       "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
       "tipo_contrato": "AQUISIÇÃO",
-      "publicacao": "15/05/2024 18:26",
-      "inicio_recepcao": "16/05/2024 08:00",
-      "fim_recepcao": "12/06/2024 09:45",
-      "inicio_disputa": "12/06/2024 10:00",
-      "objeto": "Contratação de instituição financeira para prestação de serviços bancários para centralização, gerenciamento e processamento de créditos da folha de pagamento dos servidores, a fim de atender as demandas da Prefeitura de Teixeira de Freitas, conforme condições, quantidades e especificações no Edital, Termo de Referência e seus Anexos.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DHcwogk8wQnnCeg1hDvlso9j_M3BzjQ3upY4r%2FMYTDdqGk1S1a83r9Ifd78I_oeJeYgcUBoOqx8XO5kchANL3aDuQynzR6Ebo_cd%2FJSEI8wY%3D",
+      "publicacao": "13/06/2024 18:49",
+      "inicio_recepcao": "14/06/2024 08:00",
+      "fim_recepcao": "10/07/2024 13:45",
+      "inicio_disputa": "10/07/2024 14:00",
+      "objeto": "O objeto da presente licitação é a contratação de INSTITUIÇÃO FINANCEIRA ESPECIALIZADA NA PRESTAÇÃO DE SERVIÇOS BANCÁRIOS PARA CENTRALIZAÇÃO, GERENCIAMENTO E PROCESSAMENTO DE CRÉDITOS DA FOLHA DE PAGAMENTO DOS SERVIDORES, a fim de atender as demandas da Secretaria Municipal de Administração, conforme condições, quantidades e especificações no Edital, Termo de Referência e seus Anexos.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DOUGy0pVNcDlXIie3u96VW2Jo%2FBjS8JPASJICnKc1VS2jl4XkNh_aeMecHQ4m7vpWbQq54s5NbwTUCAn6Nl00C7ojuNNjZs6hT4etLS139Ic%3D",
       "total_lotes": 1,
       "total_itens": 1,
       "lotes": [
         {
           "numero": "1",
-          "titulo": "LOTE 01",
-          "fase": "SUSPENSO",
-          "tipo": "UNITÁRIO",
+          "titulo": "SERVIÇOS BANCÁRIOS",
+          "fase": "HOMOLOGADO",
+          "tipo": "GLOBAL",
           "quantidade": "1",
-          "intervalo_minimo": "100,00",
+          "intervalo_minimo": "0,01",
           "exclusivo_me": "NÃO",
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "6.052.150,00",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
+          "vencedor": "ITAÚ UNIBANCO S.A.",
+          "melhor_oferta": "6.053.000,00",
           "total_itens": 1,
           "itens": [
             {
               "numero": "1",
               "especificacao": "CONTRATAÇÃO DE INSTITUIÇÃO FINANCEIRA: ESPECIALIZADA NA PRESTAÇÃO DE SERVIÇOS BANCÁRIOS PARA CENTRALIZAÇÃO, GERENCIAMENTO E PROCESSAMENTO DE CRÉDITOS DA FOLHA DE PAGAMENTO DOS SERVIDORES DA PREFEITURA MUNICIPAL DE TEIXEIRA DE FREITAS/BA.",
-              "unidade": "SERVIÇO",
+              "unidade": "UN",
               "quantidade": "1,00",
               "valor_referencia": "6.052.150,00"
             }
