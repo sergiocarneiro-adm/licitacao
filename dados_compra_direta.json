@@ -1,9 +1,9 @@
 {
   "metadata": {
     "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-    "total_registros": 702,
-    "total_itens": 2402,
-    "atualizado_em": "20260807_231300"
+    "total_registros": 703,
+    "total_itens": 2403,
+    "atualizado_em": "20260813_185128"
   },
   "registros": [
     {
@@ -39466,6 +39466,38 @@
           "marca": "NÃO SE APLICA",
           "modelo": "NÃO SE APLICA",
           "valor": "45000,0000"
+        }
+      ]
+    },
+    {
+      "id": "2IL-137-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "915/2026",
+      "modalidade": "INEXIGIBILIDADE",
+      "status": "CONCLUÍDA",
+      "coordenador": "ISLA LIMA SILVA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "ano_referencia": "2026",
+      "data_publicacao": "13/08/2026 17:11:41",
+      "data_conclusao": "13/08/2026 17:11:45",
+      "artigo": "Art. 74º",
+      "inciso": "I",
+      "justificativa": "Art. 74, inciso I da Lei Federal nº 14.133, de 2021 e art. 5º, §§1º e 2º do Decreto Municipal nº 303, de 2025.",
+      "legislacao": "Lei nº 14.133",
+      "objeto": "Empresa METRICA TECNOLOGIA LTDA para fornecimento de licença de uso de software de\ntopografia para Regularização Fundiária Urbana (REURB), a fim de atender as demandas da\nSecretaria Municipal de Habitação",
+      "observacao": "",
+      "link": "https://bllcompras.com/DirectBuy/DirectBuyView?param1=%5Bgkz%5D8VI2Y6oiVZW7hYayqQLVZJw7A9iIrpcT%2FfKsmG%2FivT8sBRyrxgd3_cDGjd8hUQrtPgnESDzXjcc9qdMZn6bGntYsBHNu8qfN6OQqFNXVDBc%3D",
+      "total_itens": 1,
+      "itens": [
+        {
+          "numero": "1",
+          "descricao": "90001 Licença de uso de software de topografia para Regularização Fundiária Urbana (REURB): Licença de uso de software profissional especializado em topografia, geoprocessamento e regularização fundiária, destinada à elaboração, edição, processamento, análise e compatibilização de levantamentos topográficos, cadastrais e georreferenciados,voltados à instrução dos processos de Regularização Fundiária Urbana (REURB), em conformidade com a Lei Federal nº 13.465/2017, Decreto Federal nº 9.310/2018 e demais normas técnicas aplicáveis.",
+          "quantidade": "2,0000",
+          "unidade": "SERV",
+          "fornecedor": "METRICA TECNOLOGIA LTDA",
+          "marca": "NÃO SE APLICA",
+          "modelo": "NÃO SE APLICA",
+          "valor": "2868,5000"
         }
       ]
     }
