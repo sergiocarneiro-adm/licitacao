@@ -2,9 +2,9 @@
   "metadata": {
     "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
     "total_processos": 876,
-    "total_lotes": 9555,
-    "total_itens": 16067,
-    "atualizado_em": "20260814_075706"
+    "total_lotes": 9558,
+    "total_itens": 16070,
+    "atualizado_em": "20260817_125334"
   },
   "processos": [
     {
@@ -269474,254 +269474,6 @@
       ]
     },
     {
-      "id": "PE-101-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "104 / 2026",
-      "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "RECEPÇÃO DE PROPOSTAS",
-      "condutor": "SERGIO CARNEIRO CAVALCANTI DE AZEVEDO",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "REGISTRO DE PREÇO",
-      "publicacao": "16/07/2026 10:59",
-      "inicio_recepcao": "03/08/2026 08:00",
-      "fim_recepcao": "17/08/2026 08:15",
-      "inicio_disputa": "17/08/2026 08:30",
-      "objeto": "Contratação de empresa especializada em prestação de serviço de MANUTENÇÃO PREVENTIVA E CORRETIVA, COM FORNECIMENTO DE PEÇAS, EM EQUIPAMENTOS DIVERSOS, a fim de atender as demandas da Secretaria Municipal de Administração e demais secretarias.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5D6kTxwn%2F7_UDjapygrdUtXIERRqmMqy2OQNl0nXIRpcQiGbHmf6d7etlI6UinVsW2HJQ6VlWSaXaVEW1b9OZFhjRsuuKwjlAqeTx%2FEUOr5W4%3D",
-      "total_lotes": 6,
-      "total_itens": 18,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "ELETRONICOS DIVERSOS",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 3,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9902900154 Manutenção Preventiva com reposição de peças diversas:Equipamentos de refrigeração, água e cocção (Bebedouro Galão 20L, Coluna e Industrial / Freezer Vertical e Horizontal / Frigobar / Geladeira e Refrigerador / Purificador de Água / Fornos à Gás, Elétrico e Micro-ondas)",
-              "unidade": "SER",
-              "quantidade": "804,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "2",
-              "especificacao": "9902900156 Manutenção Corretiva com reposição de peças diversas:Equipamentos de refrigeração, água e cocção (Bebedouro Galão 20L, Coluna e Industrial / Freezer Vertical e Horizontal / Frigobar / Geladeira e Refrigerador / Purificador de Água / Fornos à Gás, Elétrico e Micro-ondas)",
-              "unidade": "SER",
-              "quantidade": "804,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "3",
-              "especificacao": "9900515529 Peças diversas para manutenção preventiva e corretiva de equipamentos de cocção, aquecimento, refrigeração e tratamento e acondicionamento de água:abrangendo fogão doméstico de 2 (duas) a 8 (oito) bocas com forno; fogão industrial de 2 (duas) a 8 (oito) bocas com forno; forno a gás; forno elétrico; forno micro-ondas; bebedouro para galão de água de 20 litros (incluindo filtros); bebedouro tipo coluna para galão e jato de água (incluindo filtros); bebedouro industrial em aço inox, de 02 (duas) a 04 (quatro) torneiras (incluindo filtros); purificador de água (incluindo filtros); geladeira/refrigerador; freezer modelo vertical e horizontal; e frigobar, incluindo componentes elétricos, mecânicos, hidráulicos, sistemas de ignição, ventilação, queimadores, resistências e demais peças indispensáveis ao funcionamento regular, seguro e eficiente dos equipamentos.",
-              "unidade": "UND",
-              "quantidade": "1,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "2",
-          "titulo": "ELETRONICOS DIVERSOS",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 3,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9902900157 Manutenção Preventiva com reposição de peças diversas:Eletrodomésticos e Eletroportáteis (Aspirador de Pó / Batedeira Planetária e Comum / Liquidificador Doméstico e Industrial / Multiprocessador e Espremedor de Frutas)",
-              "unidade": "SER",
-              "quantidade": "187,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "2",
-              "especificacao": "9902900158 Manutenção Corretiva com reposição de peças diversas:Eletrodomésticos e eletroportáteis (Aspirador de Pó / Batedeira Planetária e Comum / Liquidificador Doméstico e Industrial / Multiprocessador e Espremedor de Frutas)",
-              "unidade": "SER",
-              "quantidade": "187,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "3",
-              "especificacao": "9900515530 Peças diversas para manutenção preventiva e corretiva de eletroportáteis de uso doméstico e institucional:compreendendo: aspirador de pó; batedeira planetária e comum; liquidificador doméstico; liquidificador industrial; multiprocessador e espremedor de frutas, incluindo motores, copos, lâminas, correias, engrenagens, componentes elétricos e demais peças necessárias à recuperação e ao funcionamento adequado dos equipamentos.",
-              "unidade": "UND",
-              "quantidade": "1,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "3",
-          "titulo": "ELETRONICOS DIVERSOS",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 3,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9902900159 Manutenção Preventiva com reposição de peças diversas:Equipamentos Operacionais e de Apoio (Ventiladores / Exaustores / Lavadora de Alta Pressão à Jato / Máquina de Costura / Máquina Lavadora e Secadora / Roçadeira)",
-              "unidade": "SER",
-              "quantidade": "271,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "2",
-              "especificacao": "9902900160 Manutenção Corretiva com reposição de peças diversas:Equipamentos Operacionais e de Apoio (Ventiladores / Exaustores / Lavadora de Alta Pressão à Jato / Máquina de Costura / Máquina Lavadora e Secadora / Roçadeira)",
-              "unidade": "SER",
-              "quantidade": "271,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "3",
-              "especificacao": "9900515531 Peças diversas para manutenção preventiva e corretiva de equipamentos mecânicos, operacionais e sistemas de ventilação:bem como de máquinas lavadoras e máquinas secadoras, de uso doméstico e industrial, abrangendo ventilador de parede, coluna, teto e mesa; exaustor; roçadeira; máquina de costura; lavadora de alta pressão a jato; máquinas lavadoras e máquinas secadoras, incluindo componentes elétricos, mecânicos e eletrônicos, tais como motores, correias, bombas, rolamentos, placas eletrônicas, resistências, mangueiras, sensores, sistemas de acionamento e demais peças indispensáveis ao funcionamento regular, contínuo, seguro e eficiente dos equipamentos.",
-              "unidade": "UND",
-              "quantidade": "1,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "4",
-          "titulo": "ELETRONICOS DIVERSOS",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 3,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9902900161 Manutenção Preventiva com reposição de peças diversas:Instrumentos Musicais (Violão / Violino / Violoncelo / Piano / Teclado / Bateria)",
-              "unidade": "SER",
-              "quantidade": "171,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "2",
-              "especificacao": "9902900162 Manutenção Corretiva com reposição de peças diversas:Instrumentos Musicais (Violão / Violino / Violoncelo / Piano / Teclado / Bateria)",
-              "unidade": "SER",
-              "quantidade": "171,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "3",
-              "especificacao": "37062 Peças diversas para manutenção preventiva e corretiva de instrumentos musicais:abrangendo violão; teclado; piano; bateria; violoncelo; e violino, incluindo componentes estruturais, mecânicos, eletrônicos e de afinação, tais como cordas, teclas, martelos, peles, ferragens, captadores, circuitos eletrônicos, suportes, sistemas de fixação e demais peças indispensáveis à conservação, ao pleno funcionamento, à afinação e ao desempenho adequado dos instrumentos.",
-              "unidade": "UND",
-              "quantidade": "1,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "5",
-          "titulo": "ELETRONICOS DIVERSOS",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 3,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9902900163 Manutenção Preventiva com reposição de peças diversas:Equipamentos de Áudio (caixa de som, mesa de som, microfone e cabos)",
-              "unidade": "SER",
-              "quantidade": "420,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "2",
-              "especificacao": "37061 Manutenção Corretiva com reposição de peças diversas:Equipamentos de Áudio (caixa de som, mesa de som, microfone e cabos)",
-              "unidade": "SER",
-              "quantidade": "420,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "3",
-              "especificacao": "9900515532 Peças diversas para manutenção preventiva e corretiva de equipamentos e acessórios de áudio e sonorização:abrangendo caixa de som; mesa de som; microfone; e cabos de áudio para instrumentos e equipamentos de som, incluindo componentes eletrônicos, elétricos e estruturais, tais como alto-falantes, tweeters, amplificadores, conectores, plugs, entradas, saídas, placas eletrônicas, potenciômetros, cápsulas, circuitos internos, revestimentos, isolamentos, soldas e demais peças indispensáveis ao funcionamento adequado, à qualidade sonora e à segurança dos equipamentos.",
-              "unidade": "UND",
-              "quantidade": "1,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "6",
-          "titulo": "ELETRONICOS DIVERSOS",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 3,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9903311953 Prestação de serviços continuados de manutenção preventiva das lousas digitais interativas multimídia:adquiridas e instaladas nas unidades escolares da rede municipal de ensino. A manutenção preventiva deverá ser realizada de forma periódica, conforme cronograma previamente acordado com a Administração, com o objetivo de assegurar o pleno funcionamento, a conservação e a vida útil dos equipamentos instalados. Os serviços deverão abranger, no mínimo: inspeção visual e funcional dos equipamentos; verificação das fixações mecânicas e suportes; limpeza externa adequada; checagem das conexões elétricas e de dados; atualização de firmware e software quando aplicável; testes de calibração e de responsividade ao toque; bem como outras verificações técnicas necessárias ao adequado desempenho do sistema. Ao final de cada manutenção preventiva, deverá ser emitido relatório técnico detalhado, contendo a descrição das ações executadas, eventuais recomendações técnicas e o registro de possíveis não conformidades identificadas.",
-              "unidade": "SER",
-              "quantidade": "84,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "2",
-              "especificacao": "9903311954 Prestação de serviços continuados de manutenção corretiva das lousas digitais interativas multimídia:adquiridas e instaladas nas unidades escolares da rede municipal de ensino. A manutenção corretiva compreenderá o atendimento a chamados destinados à solução de falhas, defeitos ou irregularidades no funcionamento das lousas digitais interativas multimídia e de seus componentes, incluindo tela interativa, fonte de alimentação, placas eletrônicas internas, conectores, cabos, suportes, softwares embarcados e demais acessórios necessários à operação. Os serviços deverão incluir diagnóstico técnico, reparos, ajustes e substituição de peças ou componentes defeituosos, quando necessário, visando ao restabelecimento das condições normais de funcionamento dos equipamentos. A execução dos serviços deverá contemplar mão de obra técnica especializada, deslocamento até as unidades escolares e fornecimento de insumos e pequenas peças necessárias à manutenção, excetuando-se apenas itens de consumo definidos contratualmente como responsabilidade da Administração. O atendimento aos chamados corretivos deverá observar o prazo máximo estabelecido em edital ou contrato (por exemplo, até 48 horas úteis para início do atendimento), podendo ser realizado de forma remota quando tecnicamente viável. A contratada deverá manter registro dos atendimentos realizados e emitir relatórios periódicos consolidados, assegurando a rastreabilidade das ocorrências e dos serviços executados.",
-              "unidade": "SER",
-              "quantidade": "84,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "3",
-              "especificacao": "9903311955 Peças diversas para manutenção preventiva e corretiva de lousas digitais interativas multimídia:contemplando componentes necessários à reposição e substituição, indispensáveis ao pleno funcionamento, à estabilidade operacional, à qualidade de imagem e à adequada resposta ao toque dos equipamentos instalados nas unidades escolares.",
-              "unidade": "UND",
-              "quantidade": "1,00",
-              "valor_referencia": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "3-DLE-071-2026",
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "671 / 2026",
@@ -283971,290 +283723,6 @@
       ]
     },
     {
-      "id": "PE-122-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "857 / 2026",
-      "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "RECEPÇÃO DE PROPOSTAS",
-      "condutor": "SERGIO CARNEIRO CAVALCANTI DE AZEVEDO",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO",
-      "publicacao": "31/07/2026 19:17",
-      "inicio_recepcao": "04/08/2026 08:00",
-      "fim_recepcao": "17/08/2026 10:15",
-      "inicio_disputa": "17/08/2026 10:30",
-      "objeto": "Contratação de empresa especializada em fornecimento de LIVROS PARADIDÁTICOS DESTINADOS AO NÚCLEO DE APOIO À EDUCAÇÃO INCLUSIVA (NAEI), a fim de atender as demandas da Secretaria Municipal de Educação.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5Dale5PUqYLo%2FTpMPTTuq5ZB0Iwme2VTvtYJ5QlvZWZlnYVydBoU0R%2F7ta13KB4dR3uPeOEd1FIr1Jzhmjppn322mUcOwl9RjSDUq_aG3xhTE%3D",
-      "total_lotes": 11,
-      "total_itens": 11,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "7601000001 Kit Livro Infantil Histórias Divertidas Com Desenhos 3D:livro pop up, imagens que saltam, livro ilustrativo, cores vivas educativa, capa almofadada",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "7601000001 Kit Livro Infantil Histórias Divertidas Com Desenhos 3D:livro pop up, imagens que saltam, livro ilustrativo, cores vivas educativa, capa almofadada",
-              "unidade": "Und.",
-              "quantidade": "140,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "2",
-          "titulo": "7601000002 Bocarra:Um livro Sensorial! Monstros Capa dura - Livro interativo, 1 julho 2023",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "7601000002 Bocarra:Um livro Sensorial! Monstros Capa dura - Livro interativo, 1 julho 2023",
-              "unidade": "Und.",
-              "quantidade": "140,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "3",
-          "titulo": "7601000003 Toc... toc... Quem mora aqui?:Autor: Maria Loretta Giraldo",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "7601000003 Toc... toc... Quem mora aqui?:Autor: Maria Loretta Giraldo",
-              "unidade": "Und.",
-              "quantidade": "140,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "4",
-          "titulo": "7601000004 Neurodiversidade Clássicos:João e o Pé de Feijão",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "7601000004 Neurodiversidade Clássicos:João e o Pé de Feijão",
-              "unidade": "Und.",
-              "quantidade": "140,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "5",
-          "titulo": "37695 Escolinha Baby Montessori - Contrastes!:Animais Capa dura - Livro de fotos, 1 agosto 2022",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37695 Escolinha Baby Montessori - Contrastes!:Animais Capa dura - Livro de fotos, 1 agosto 2022",
-              "unidade": "Und.",
-              "quantidade": "140,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "6",
-          "titulo": "7601000005 Escolinha Baby Montessori - Contrastes!:Grande ou Pequeno? Capa dura - Livro de fotos, 1 agosto 2022",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "7601000005 Escolinha Baby Montessori - Contrastes!:Grande ou Pequeno? Capa dura - Livro de fotos, 1 agosto 2022",
-              "unidade": "Und.",
-              "quantidade": "140,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "7",
-          "titulo": "7601000006 Alto-contraste Com Toque e Sinta - Palavras:Alto- contraste Com Toque e Sinta - Palavras",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "7601000006 Alto-contraste Com Toque e Sinta - Palavras:Alto- contraste Com Toque e Sinta - Palavras",
-              "unidade": "Und.",
-              "quantidade": "140,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "8",
-          "titulo": "7601000007 Barulhinhos do sítio:Toque, brinque e escute! Livro cartonado - Livro interativo, 1 abril 2018 Edição Português por Sam Taplin (Autor)",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "7601000007 Barulhinhos do sítio:Toque, brinque e escute! Livro cartonado - Livro interativo, 1 abril 2018 Edição Português por Sam Taplin (Autor)",
-              "unidade": "Und.",
-              "quantidade": "28,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "9",
-          "titulo": "7601000008 Barulhinhos da floresta:Toque, brinque e escute! Capa dura - Livro com som, 1 dezembro 2018 Edição Português por Usborne Publishing (Autor)",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "7601000008 Barulhinhos da floresta:Toque, brinque e escute! Capa dura - Livro com som, 1 dezembro 2018 Edição Português por Usborne Publishing (Autor)",
-              "unidade": "Und.",
-              "quantidade": "28,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "10",
-          "titulo": "7601000009 Barulhinhos dos filhotes! toque, brinque e escute! Capa dura   24 setembro 2024 por Lesley Sims (Autor):Barulhinhos dos filhotes! toque, brinque e escute! Capa dura - 24 setembro 2024 por Lesley Sims (Autor)",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "7601000009 Barulhinhos dos filhotes! toque, brinque e escute! Capa dura 24 setembro 2024 por Lesley Sims (Autor):Barulhinhos dos filhotes! toque, brinque e escute! Capa dura - 24 setembro 2024 por Lesley Sims (Autor)",
-              "unidade": "Und.",
-              "quantidade": "28,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "11",
-          "titulo": "7601000010 Não é sua, é minha! Capa comum   3 fevereiro 2014 Edição Português por Susanna Moores:Não é sua, é minha!Capa comum - 3 fevereiro 2014 Edição Português por Susanna Moores",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "7601000010 Não é sua, é minha! Capa comum 3 fevereiro 2014 Edição Português por Susanna Moores:Não é sua, é minha!Capa comum - 3 fevereiro 2014 Edição Português por Susanna Moores",
-              "unidade": "Und.",
-              "quantidade": "140,00",
-              "valor_referencia": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "PE-120-2026",
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "710 / 2026",
@@ -286647,242 +286115,6 @@
               "unidade": "Und.",
               "quantidade": "91,00",
               "valor_referencia": "293,71"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "3-DLE-077-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "782 / 2026",
-      "modalidade": "DISPENSA ELETRÔNICA",
-      "situacao": "RECEPÇÃO DE PROPOSTAS",
-      "condutor": "ISAQUE SILVA DOS SANTOS",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO PARCELADA",
-      "publicacao": "11/08/2026 10:57",
-      "inicio_recepcao": "11/08/2026 11:00",
-      "fim_recepcao": "17/08/2026 08:15",
-      "inicio_disputa": "17/08/2026 08:30",
-      "objeto": "Contratação de empresa especializada em fornecimento de [MEDICAMENTOS EM CÁPSULAS E INJETÁVEIS] (material de\nconsumo), a fim de atender as necessidades da Secretaria Municipal de Saúde, conforme condições, quantidades e exigências estabelecidas neste Aviso de Contratação Direta, Termo de Referência e seus Anexos",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DMhDzvvjsWLeVP05Nq5e0GPhEqZ9UR29VgxloAGEZfIQTR_MgH2eeuCUHb4%2Fw0_y%2FAaeSxmJlwV4rfrfnc7AXcwEzUyyIP7sjE6Gd2yZIEys%3D",
-      "total_lotes": 9,
-      "total_itens": 9,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "6500200104 Carbamazepina:400mg comprimido. marca: tegretol. EXCLUSIVO PARA ME/EPP.",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "3.726,00",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "6500200104 Carbamazepina:400mg comprimido. marca: tegretol. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "CO",
-              "quantidade": "1.080,00",
-              "valor_referencia": "3,45"
-            }
-          ]
-        },
-        {
-          "numero": "2",
-          "titulo": "10100500025 Cloridrato de tramadol + paracetamol (nas dosagens de 37,5 mg + 325 mg):COMPRIMIDO. Marca: Gésico Duo. EXCLUSIVO PARA ME/EPP.",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "3.466,80",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "10100500025 Cloridrato de tramadol + paracetamol (nas dosagens de 37,5 mg + 325 mg):COMPRIMIDO. Marca: Gésico Duo. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "CO",
-              "quantidade": "1.080,00",
-              "valor_referencia": "3,21"
-            }
-          ]
-        },
-        {
-          "numero": "3",
-          "titulo": "6500200105 Fosfato dissódico de dexametasona 1,50 mg/mL, hidroxocobalamina 500 mg/mL e dipirona sódica 5 mg/mL:solução injetável. Marca: Dexalgen. EXCLUSIVO PARA ME/EPP.",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "867,84",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "6500200105 Fosfato dissódico de dexametasona 1,50 mg/mL, hidroxocobalamina 500 mg/mL e dipirona sódica 5 mg/mL:solução injetável. Marca: Dexalgen. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "AMP",
-              "quantidade": "48,00",
-              "valor_referencia": "18,08"
-            }
-          ]
-        },
-        {
-          "numero": "4",
-          "titulo": "37608 PREGABALINA:100MG COMPRIMIDO. EXCLUSIVO PARA ME/EPP.",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "2.952,00",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37608 PREGABALINA:100MG COMPRIMIDO. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "CO",
-              "quantidade": "720,00",
-              "valor_referencia": "4,10"
-            }
-          ]
-        },
-        {
-          "numero": "5",
-          "titulo": "37724 Hiluropt (Hialuronato de Sódio 0,15%):solução oftálmica 10ml. EXCLUSIVO PARA ME/EPP.",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "1.465,92",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37724 Hiluropt (Hialuronato de Sódio 0,15%):solução oftálmica 10ml. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "FR",
-              "quantidade": "36,00",
-              "valor_referencia": "40,72"
-            }
-          ]
-        },
-        {
-          "numero": "6",
-          "titulo": "37725 Nimegon (Sitagliptina):100 mg. EXCLUSIVO PARA ME/EPP.",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "4.024,80",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37725 Nimegon (Sitagliptina):100 mg. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "CO",
-              "quantidade": "360,00",
-              "valor_referencia": "11,18"
-            }
-          ]
-        },
-        {
-          "numero": "7",
-          "titulo": "9900516093 Patanol S (Cloridrato De Olopatadina):2,22 mg/ml 2,5ml solução oftalmológica. EXCLUSIVO PARA ME/EPP.",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "1.943,52",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900516093 Patanol S (Cloridrato De Olopatadina):2,22 mg/ml 2,5ml solução oftalmológica. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "FR",
-              "quantidade": "24,00",
-              "valor_referencia": "80,98"
-            }
-          ]
-        },
-        {
-          "numero": "8",
-          "titulo": "37726 Sertralina:25 mg. EXCLUSIVO PARA ME/EPP.",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "446,40",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37726 Sertralina:25 mg. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "CO",
-              "quantidade": "360,00",
-              "valor_referencia": "1,24"
-            }
-          ]
-        },
-        {
-          "numero": "9",
-          "titulo": "37727 Valproato de Sódio (Torval ):500 mg. EXCLUSIVO PARA ME/EPP.",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "1.735,20",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37727 Valproato de Sódio (Torval ):500 mg. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "CO",
-              "quantidade": "720,00",
-              "valor_referencia": "2,41"
             }
           ]
         }
@@ -289870,146 +289102,6 @@
       ]
     },
     {
-      "id": "PE-119-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "678 / 2026",
-      "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "PUBLICADO",
-      "condutor": "JONATAS DA SILVA SOUSA",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO PARCELADA",
-      "publicacao": "12/08/2026 11:27",
-      "inicio_recepcao": "14/08/2026 08:00",
-      "fim_recepcao": "28/08/2026 13:45",
-      "inicio_disputa": "28/08/2026 14:00",
-      "objeto": "Contratação de empresa especializada em PRESTAÇÃO DE SERVIÇO DE MANUTENÇÃO PREVENTIVA, MANUTENÇÃO CORRETIVA E FORNECIMENTO DE PEÇAS E COMPONENTES DE GERADORES E CÂMARAS FRIAS,  a fim de atender as demandas da Secretaria Municipal de Administração e demais Secretarias.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DrHGkRwKG_SDg4FsGnLMM5Dd7RgUfnCC1UMIhPo9gRu_ebD9JXJHHJhJgECaWq9h9ei6xLqDeflh_FNWIFz7PyEI7MbIxkn4XvQKdl8WDG0g%3D",
-      "total_lotes": 2,
-      "total_itens": 6,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "MANUTENÇÃO PREVENTIVA",
-          "fase": "PUBLICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 3,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9902900166 MANUTENÇÃO PREVENTIVA EM GERADORESDO MUNICÍPIO:Execução de serviços de manutenção preventiva em geradores de energia elétrica pertencentes ao Município, abrangendo inspeção, limpeza, lubrificação, ajustes e testes de funcionamento, de acordo com as especificações do fabricante e as normas técnicas aplicáveis. O serviço inclui a identificação de componentes desgastados ou com desempenho inferior ao especificado, garantindo a operação confiável e contínua dos equipamentos. Devem ser verificados sistemas elétricos, mecânicos e de combustível, filtros, cabos, conexões e demais elementos críticos, assegurando a eficiência, durabilidade e segurança do gerador. O serviço deverá ser realizado por equipe técnica capacitada, utilizando ferramentas, equipamentos e procedimentos adequados, com emissão de relatório detalhado de todas as ações realizadas.",
-              "unidade": "SERV",
-              "quantidade": "20,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "2",
-              "especificacao": "9902900167 MANUTENÇÃO CORRETIVA EM GERADORESDO MUNICÍPIO:Execução de serviços de manutenção corretiva em geradores de energia elétrica do Município, abrangendo diagnóstico de falhas, reparos e normas técnicas aplicáveis.Devem ser verificados e reparados sistemas elétricos, mecânicos e de combustível, filtros, cabos, conexões e demais elementos críticos, assegurando eficiência, segurança e confiabilidade do gerador. A execução deverá ser realizada por equipe técnica qualificada, utilizando ferramentas, equipamentos e procedimentos adequados, com emissão de relatório detalhado contendo as falhas identificadas, os serviços realizados.",
-              "unidade": "SERV",
-              "quantidade": "20,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "3",
-              "especificacao": "37526 FORNECIMENTO DE PEÇAS E COMPONENTES ORIGINAIS OU COMPATÍVEIS DE QUALIDADECOMPROVADA DE GERADORES:Fornecimento de peças e componentes necessários para manutenção preventiva e corretiva de geradores do Município. Todos os itens fornecidos deverão ser originais ou compatíveis de qualidade comprovada, garantindo a operação eficiente, segura e contínua dos equipamentos.",
-              "unidade": "Und.",
-              "quantidade": "1,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "2",
-          "titulo": "MANUTENÇÃO PREVENTIVA",
-          "fase": "PUBLICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 3,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9902900168 MANUTENÇÃO PREVENTIVA EM CÂMARAS FRIAS DO MUNICÍPIO, COM REPOSIÇÃO DEPEÇAS:Execução de serviços de manutenção preventiva em câmaras frias do Município, abrangendo inspeção, limpeza, ajustes, lubrificação, calibração e testes de funcionamento, de acordo com as especificações do fabricante, normas técnicas aplicáveis e procedimentos necessários para garantir operação adequada e eficiente. O serviço inclui a identificação de peças e componentes desgastados ou com desempenho abaixo do recomendado. Devem ser verificadas todas as partes críticas da câmara fria, incluindo sistemas de refrigeração, compressores, evaporadores, condensadores, válvulas, sensores, cabos e conexões. A manutenção deverá ser realizada por equipe técnica capacitada, utilizando ferramentas e procedimentos apropriados, e acompanhada de relatório detalhado contendo todas as ações realizadas.",
-              "unidade": "SERV",
-              "quantidade": "20,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "2",
-              "especificacao": "9902900169 MANUTENÇÃO CORRETIVA EM CÂMARASFRIAS DO MUNICÍPIO:Execução de serviços de manutenção corretiva em câmaras frias do Município, abrangendo diagnóstico, reparo e restauração do pleno funcionamento dos equipamentos, de acordo com as especificações do fabricante e normas técnicas aplicáveis. Devem ser verificados e reparados todos os sistemas críticos, incluindo refrigeração, compressores, evaporadores, condensadores, válvulas, sensores, cabos e conexões. A manutenção corretiva deverá ser realizada por equipe técnica capacitada, utilizando ferramentas e procedimentos adequados, e acompanhada de relatório detalhado contendo todas as ações executadas",
-              "unidade": "SERV",
-              "quantidade": "20,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "3",
-              "especificacao": "9900515817 FORNECIMENTO DE PEÇAS E COMPONENTES ORIGINAIS OU COMPATÍVEIS DE QUALIDADECOMPROVADA DE CÂMARAS FRIAS:Fornecimento de peças e componentes necessários para manutenção preventiva e corretiva de câmaras frias do Município. Todos os itens fornecidos deverão ser originais ou compatíveis de qualidade comprovada, garantindo a operação eficiente, segura e contínua dos equipamentos.",
-              "unidade": "Und.",
-              "quantidade": "1,00",
-              "valor_referencia": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "PE-133-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "616 / 2026",
-      "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "PUBLICADO",
-      "condutor": "JONATAS DA SILVA SOUSA",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO",
-      "publicacao": "12/08/2026 10:56",
-      "inicio_recepcao": "14/08/2026 08:00",
-      "fim_recepcao": "26/08/2026 08:15",
-      "inicio_disputa": "26/08/2026 08:30",
-      "objeto": "Contratação de empresa especializada em fornecimento de ROÇADEIRA HIDRÁULICA PARA TRATOR (material permanente),  a fim de atender às demandas da Secretaria Municipal de Administração e da Secretaria Municipal de Agricultura, Pecuária e Abastecimento.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DsAgGMVb2iPIdVNsIstH2F4KeIum9MWyJDokMYouv4jAMYD8iQAzfi5ss9ymlhmHlIMVrCW3NQlaoQ75OIwj5NdOmxevfGD1acwMoGQFjxn8%3D",
-      "total_lotes": 1,
-      "total_itens": 1,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "ROÇADEIRA HIDRÁULICA",
-          "fase": "PUBLICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37392 ROÇADEIRA HIDRÁULICA PARA TRATOR:Roçadeirahidráulica de dupla hélice, destinada ao acoplamento em trator,por meio de uma transmissão direta com Sistema de engate de 3pontos, giro livre interno, com dentes cônico helicoidais,embreagem e cardan com proteção. Características mínimasexigidas: Comprimento aproximado 2,10 m; Largura aproximadade 2,73 m; Peso aproximado de 755 Kg; Largura de cortemáximo de 2,50 cm; Altura de corte máximo de 20 cm;Compatibilidade com tratores de potência entre 70 CV a 90 CV;Sistema de engate de 3 pontos para trator, cat II; Eixo cardanarticulado com embreagem de torque regulável; Caixas com girolivre banhado a óleo",
-              "unidade": "UN",
-              "quantidade": "2,00",
-              "valor_referencia": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "2-DLE-082-2026",
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "786/2026",
@@ -290428,50 +289520,6 @@
               "unidade": "Und.",
               "quantidade": "3,00",
               "valor_referencia": "1.767,25"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "PE-128-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "846 / 2026",
-      "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "PUBLICADO",
-      "condutor": "JONATAS DA SILVA SOUSA",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO PARCELADA",
-      "publicacao": "13/08/2026 11:36",
-      "inicio_recepcao": "17/08/2026 08:00",
-      "fim_recepcao": "31/08/2026 08:15",
-      "inicio_disputa": "31/08/2026 08:30",
-      "objeto": "Contratação de empresa especializada em fornecimento e instalação de POLTRONAS PARA AUDITÓRIO (material permanente), a fim de atender as demandas da Secretaria Municipal de\nEducação.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DTF0mL7J80iVkQQSyBcTMDZlfhh7aFvy3uIB2cUQ8AiR_q_dYfXww2%2FnxE7czHOvujKHcpRAl3lpbH%2FzvNSLat%2FNASUG%2FFgP2S7WdMUGB_tQ%3D",
-      "total_lotes": 1,
-      "total_itens": 1,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "POLTRONAS PARA AUDITÓRIO",
-          "fase": "PUBLICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37703 POLTRONA PARA AUDITÓRIO COM ASSENTOREBATÍVEL:Especificações: Revestimento: Poliéster.Acabamento: Preto com prancheta individual LD c/ estof. Cor dapoltrona: Café. ESTRUTURA: A estrutura dos pedestais deveráser fabricada com tubos de aço carbono, apresentando diâmetroaproximado de 25,40 mm e espessura de parede aproximada de1,90 mm, moldados pelo processo de curvamento e conectadosa suportes de aço carbono estampados e soldados peloprocesso MIG. Os pedestais deverão possuir painéis de proteçãoe acabamento em polipropileno injetado, garantindo ofechamento completo da estrutura e proteção do mecanismo dearticulação. O conjunto mecânico de conexão entre assento eencosto deverá possuir painel de sustentação, suportes deligação, eixo em tubo de aço carbono, buchas em poliacetal(POM), biela em aço carbono e sistema de articulaçãosincronizada com mola helicoidal de retrocesso, proporcionandoo rebatimento automático do assento após o uso. Toda aestrutura deverá receber tratamento de preparação da superfíciemetálica em nanocerâmica e revestimento eletrostático epóxi empó. ASSENTO: Constituído por compensado de madeira comespessura aproximada de 15 mm, espuma flexível injetada depoliuretano (PU), moldada anatomicamente, densidadeaproximada de 58 kg/m³, espessura média de 69 mm, blindagemplástica em polipropileno e revestimento em tecido poliéster.Dimensões aproximadas de 480 mm de largura por 450 mm deprofundidade. APOIA-BRAÇOS: Fabricados em polipropilenoinjetado, com dimensões aproximadas de 76 mm de largura, 340mm de comprimento e 4 mm de espessura. ENCOSTO:Confeccionado em compensado de madeira deaproximadamente 15 mm, espuma flexível injetada empoliuretano (PU), densidade aproximada de 52 kg/m³, espessuramédia de 71 mm, blindagem plástica em polipropileno,revestimento em tecido poliéster e dimensões deverão possuiridentificação por letra e número. PINTURA: Deverá atender àsnormas e possuir certificados e relatórios de ensaio dosprocessos de preparação e pintura em superfícies metálicas,incluindo ABNT NBR 17088, ABNT NBR 8095, ABNT NBR 8096,ABNT NBR 11003, ASTM D2794, ABNT NBR 10443.ESPUMAS: Deverão atender às normas ABNT NBR 8537:2022,ABNT NBR 9176:2016, ABNT NBR 9177:2022 e ABNT NBR8516:2015. LAUDO ERGONÔMICO: Laudo emitido porprofissional legalmente habilitado, comprovando atendimento àNR-17, acompanhado da documentação comprobatória dahabilitação do profissional. (VIDE O ANEXO DO TERMO).",
-              "unidade": "UND",
-              "quantidade": "700,00",
-              "valor_referencia": ""
             }
           ]
         }
@@ -292223,33 +291271,985 @@
       ]
     },
     {
-      "id": "CD-005-2025",
+      "id": "PE-128-2026",
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "758/2025",
-      "modalidade": "CREDENCIAMENTO",
-      "situacao": "EM FINALIZAÇÃO",
-      "condutor": "MAGDA DE SELES GUIMARÃES",
+      "numero_adm": "846 / 2026",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "RECEPÇÃO DE PROPOSTAS",
+      "condutor": "JONATAS DA SILVA SOUSA",
       "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO",
-      "publicacao": "03/06/2025 16:35",
-      "inicio_recepcao": "13/06/2025 08:00",
-      "fim_recepcao": "15/06/2026 08:00",
-      "inicio_disputa": "",
-      "objeto": "CREDENCIAMENTO DE PESSOA JURÍDICA PARA PRESTAÇÃO DE SERVIÇOS MÉDICOS ESPECIALIZADOS EM ANÁLISE PATOLÓGICA PARA ATENDER AS DEMANDAS DA SECRETARIA MUNICIPAL DE SAÚDE",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DNJdVd%2FGhNnHf8X6Prg8YCtQDo3Kk2gbc%2FlotZKQpzxCdChTKOKxVc_vGsSG0EtwMrBp_h9l7xXikrWjczIWRDbWyK6i%2FZcfp8p64_77yRAk%3D",
-      "total_lotes": 6,
+      "tipo_contrato": "AQUISIÇÃO PARCELADA",
+      "publicacao": "13/08/2026 11:36",
+      "inicio_recepcao": "17/08/2026 08:00",
+      "fim_recepcao": "31/08/2026 08:15",
+      "inicio_disputa": "31/08/2026 08:30",
+      "objeto": "Contratação de empresa especializada em fornecimento e instalação de POLTRONAS PARA AUDITÓRIO (material permanente), a fim de atender as demandas da Secretaria Municipal de\nEducação.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DCpo6ZjSRttjzhMT24Nbn4yDdAOe_J7FVzp6z57f1zGBTicVEjzA4CU9oj151yt%2Febm5wstujaGgrxCcfQgV1r2CWaJA6MYZO_R%2FMCFlimsI%3D",
+      "total_lotes": 1,
+      "total_itens": 1,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "POLTRONAS PARA AUDITÓRIO",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37703 POLTRONA PARA AUDITÓRIO COM ASSENTOREBATÍVEL:Especificações: Revestimento: Poliéster.Acabamento: Preto com prancheta individual LD c/ estof. Cor dapoltrona: Café. ESTRUTURA: A estrutura dos pedestais deveráser fabricada com tubos de aço carbono, apresentando diâmetroaproximado de 25,40 mm e espessura de parede aproximada de1,90 mm, moldados pelo processo de curvamento e conectadosa suportes de aço carbono estampados e soldados peloprocesso MIG. Os pedestais deverão possuir painéis de proteçãoe acabamento em polipropileno injetado, garantindo ofechamento completo da estrutura e proteção do mecanismo dearticulação. O conjunto mecânico de conexão entre assento eencosto deverá possuir painel de sustentação, suportes deligação, eixo em tubo de aço carbono, buchas em poliacetal(POM), biela em aço carbono e sistema de articulaçãosincronizada com mola helicoidal de retrocesso, proporcionandoo rebatimento automático do assento após o uso. Toda aestrutura deverá receber tratamento de preparação da superfíciemetálica em nanocerâmica e revestimento eletrostático epóxi empó. ASSENTO: Constituído por compensado de madeira comespessura aproximada de 15 mm, espuma flexível injetada depoliuretano (PU), moldada anatomicamente, densidadeaproximada de 58 kg/m³, espessura média de 69 mm, blindagemplástica em polipropileno e revestimento em tecido poliéster.Dimensões aproximadas de 480 mm de largura por 450 mm deprofundidade. APOIA-BRAÇOS: Fabricados em polipropilenoinjetado, com dimensões aproximadas de 76 mm de largura, 340mm de comprimento e 4 mm de espessura. ENCOSTO:Confeccionado em compensado de madeira deaproximadamente 15 mm, espuma flexível injetada empoliuretano (PU), densidade aproximada de 52 kg/m³, espessuramédia de 71 mm, blindagem plástica em polipropileno,revestimento em tecido poliéster e dimensões deverão possuiridentificação por letra e número. PINTURA: Deverá atender àsnormas e possuir certificados e relatórios de ensaio dosprocessos de preparação e pintura em superfícies metálicas,incluindo ABNT NBR 17088, ABNT NBR 8095, ABNT NBR 8096,ABNT NBR 11003, ASTM D2794, ABNT NBR 10443.ESPUMAS: Deverão atender às normas ABNT NBR 8537:2022,ABNT NBR 9176:2016, ABNT NBR 9177:2022 e ABNT NBR8516:2015. LAUDO ERGONÔMICO: Laudo emitido porprofissional legalmente habilitado, comprovando atendimento àNR-17, acompanhado da documentação comprobatória dahabilitação do profissional. (VIDE O ANEXO DO TERMO).",
+              "unidade": "UND",
+              "quantidade": "700,00",
+              "valor_referencia": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-119-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "678 / 2026",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "RECEPÇÃO DE PROPOSTAS",
+      "condutor": "JONATAS DA SILVA SOUSA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO PARCELADA",
+      "publicacao": "12/08/2026 11:27",
+      "inicio_recepcao": "14/08/2026 08:00",
+      "fim_recepcao": "28/08/2026 13:45",
+      "inicio_disputa": "28/08/2026 14:00",
+      "objeto": "Contratação de empresa especializada em PRESTAÇÃO DE SERVIÇO DE MANUTENÇÃO PREVENTIVA, MANUTENÇÃO CORRETIVA E FORNECIMENTO DE PEÇAS E COMPONENTES DE GERADORES E CÂMARAS FRIAS,  a fim de atender as demandas da Secretaria Municipal de Administração e demais Secretarias.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DOPJLl%2FofGE0GMLCNejnKLFx8a8mbKTko6eBIPqEAEH2ZoBvjD9cjuBmsS8_hyhfNScBvyGr54LqLTNGR4zSwo%2FhHPvQKisuPpp5zU_OWmLg%3D",
+      "total_lotes": 2,
       "total_itens": 6,
       "lotes": [
         {
           "numero": "1",
-          "titulo": "33436 BIÓPSIA SIMPLES",
-          "fase": "HABILITAÇÃO",
+          "titulo": "MANUTENÇÃO PREVENTIVA",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 3,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9902900166 MANUTENÇÃO PREVENTIVA EM GERADORESDO MUNICÍPIO:Execução de serviços de manutenção preventiva em geradores de energia elétrica pertencentes ao Município, abrangendo inspeção, limpeza, lubrificação, ajustes e testes de funcionamento, de acordo com as especificações do fabricante e as normas técnicas aplicáveis. O serviço inclui a identificação de componentes desgastados ou com desempenho inferior ao especificado, garantindo a operação confiável e contínua dos equipamentos. Devem ser verificados sistemas elétricos, mecânicos e de combustível, filtros, cabos, conexões e demais elementos críticos, assegurando a eficiência, durabilidade e segurança do gerador. O serviço deverá ser realizado por equipe técnica capacitada, utilizando ferramentas, equipamentos e procedimentos adequados, com emissão de relatório detalhado de todas as ações realizadas.",
+              "unidade": "SERV",
+              "quantidade": "20,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "2",
+              "especificacao": "9902900167 MANUTENÇÃO CORRETIVA EM GERADORESDO MUNICÍPIO:Execução de serviços de manutenção corretiva em geradores de energia elétrica do Município, abrangendo diagnóstico de falhas, reparos e normas técnicas aplicáveis.Devem ser verificados e reparados sistemas elétricos, mecânicos e de combustível, filtros, cabos, conexões e demais elementos críticos, assegurando eficiência, segurança e confiabilidade do gerador. A execução deverá ser realizada por equipe técnica qualificada, utilizando ferramentas, equipamentos e procedimentos adequados, com emissão de relatório detalhado contendo as falhas identificadas, os serviços realizados.",
+              "unidade": "SERV",
+              "quantidade": "20,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "3",
+              "especificacao": "37526 FORNECIMENTO DE PEÇAS E COMPONENTES ORIGINAIS OU COMPATÍVEIS DE QUALIDADECOMPROVADA DE GERADORES:Fornecimento de peças e componentes necessários para manutenção preventiva e corretiva de geradores do Município. Todos os itens fornecidos deverão ser originais ou compatíveis de qualidade comprovada, garantindo a operação eficiente, segura e contínua dos equipamentos.",
+              "unidade": "Und.",
+              "quantidade": "1,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "2",
+          "titulo": "MANUTENÇÃO PREVENTIVA",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 3,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9902900168 MANUTENÇÃO PREVENTIVA EM CÂMARAS FRIAS DO MUNICÍPIO, COM REPOSIÇÃO DEPEÇAS:Execução de serviços de manutenção preventiva em câmaras frias do Município, abrangendo inspeção, limpeza, ajustes, lubrificação, calibração e testes de funcionamento, de acordo com as especificações do fabricante, normas técnicas aplicáveis e procedimentos necessários para garantir operação adequada e eficiente. O serviço inclui a identificação de peças e componentes desgastados ou com desempenho abaixo do recomendado. Devem ser verificadas todas as partes críticas da câmara fria, incluindo sistemas de refrigeração, compressores, evaporadores, condensadores, válvulas, sensores, cabos e conexões. A manutenção deverá ser realizada por equipe técnica capacitada, utilizando ferramentas e procedimentos apropriados, e acompanhada de relatório detalhado contendo todas as ações realizadas.",
+              "unidade": "SERV",
+              "quantidade": "20,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "2",
+              "especificacao": "9902900169 MANUTENÇÃO CORRETIVA EM CÂMARASFRIAS DO MUNICÍPIO:Execução de serviços de manutenção corretiva em câmaras frias do Município, abrangendo diagnóstico, reparo e restauração do pleno funcionamento dos equipamentos, de acordo com as especificações do fabricante e normas técnicas aplicáveis. Devem ser verificados e reparados todos os sistemas críticos, incluindo refrigeração, compressores, evaporadores, condensadores, válvulas, sensores, cabos e conexões. A manutenção corretiva deverá ser realizada por equipe técnica capacitada, utilizando ferramentas e procedimentos adequados, e acompanhada de relatório detalhado contendo todas as ações executadas",
+              "unidade": "SERV",
+              "quantidade": "20,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "3",
+              "especificacao": "9900515817 FORNECIMENTO DE PEÇAS E COMPONENTES ORIGINAIS OU COMPATÍVEIS DE QUALIDADECOMPROVADA DE CÂMARAS FRIAS:Fornecimento de peças e componentes necessários para manutenção preventiva e corretiva de câmaras frias do Município. Todos os itens fornecidos deverão ser originais ou compatíveis de qualidade comprovada, garantindo a operação eficiente, segura e contínua dos equipamentos.",
+              "unidade": "Und.",
+              "quantidade": "1,00",
+              "valor_referencia": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-133-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "616 / 2026",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "RECEPÇÃO DE PROPOSTAS",
+      "condutor": "JONATAS DA SILVA SOUSA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO",
+      "publicacao": "12/08/2026 10:56",
+      "inicio_recepcao": "14/08/2026 08:00",
+      "fim_recepcao": "26/08/2026 08:15",
+      "inicio_disputa": "26/08/2026 08:30",
+      "objeto": "Contratação de empresa especializada em fornecimento de ROÇADEIRA HIDRÁULICA PARA TRATOR (material permanente),  a fim de atender às demandas da Secretaria Municipal de Administração e da Secretaria Municipal de Agricultura, Pecuária e Abastecimento.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DlXbZYmA0uN8hzggm%2FCPsi0CNN1TTvxXXqv4wh6Gf%2FqKE9oUGNRltSZ0penjq_sQmHXr5VhjQRINWL1IQTjBD99sx5ScLUZoGuuWaKXmucZo%3D",
+      "total_lotes": 1,
+      "total_itens": 1,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "ROÇADEIRA HIDRÁULICA",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37392 ROÇADEIRA HIDRÁULICA PARA TRATOR:Roçadeirahidráulica de dupla hélice, destinada ao acoplamento em trator,por meio de uma transmissão direta com Sistema de engate de 3pontos, giro livre interno, com dentes cônico helicoidais,embreagem e cardan com proteção. Características mínimasexigidas: Comprimento aproximado 2,10 m; Largura aproximadade 2,73 m; Peso aproximado de 755 Kg; Largura de cortemáximo de 2,50 cm; Altura de corte máximo de 20 cm;Compatibilidade com tratores de potência entre 70 CV a 90 CV;Sistema de engate de 3 pontos para trator, cat II; Eixo cardanarticulado com embreagem de torque regulável; Caixas com girolivre banhado a óleo",
+              "unidade": "UN",
+              "quantidade": "2,00",
+              "valor_referencia": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3-DLE-077-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "782 / 2026",
+      "modalidade": "DISPENSA ELETRÔNICA",
+      "situacao": "DISPUTA",
+      "condutor": "ISAQUE SILVA DOS SANTOS",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO PARCELADA",
+      "publicacao": "11/08/2026 10:57",
+      "inicio_recepcao": "11/08/2026 11:00",
+      "fim_recepcao": "17/08/2026 08:15",
+      "inicio_disputa": "17/08/2026 08:30",
+      "objeto": "Contratação de empresa especializada em fornecimento de [MEDICAMENTOS EM CÁPSULAS E INJETÁVEIS] (material de\nconsumo), a fim de atender as necessidades da Secretaria Municipal de Saúde, conforme condições, quantidades e exigências estabelecidas neste Aviso de Contratação Direta, Termo de Referência e seus Anexos",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DD3oYjzH4pA4ASbQORV8RJhdC51kPkLlZvEeRpXpaVYp1mb2qYaU5OhsUaKVE1dI2Da8_na9xqvEHhDhFNfcttsfShROF55mGqK29uwqmbsA%3D",
+      "total_lotes": 9,
+      "total_itens": 9,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "6500200104 Carbamazepina:400mg comprimido. marca: tegretol. EXCLUSIVO PARA ME/EPP.",
+          "fase": "DISPUTA",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "3.726,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "6500200104 Carbamazepina:400mg comprimido. marca: tegretol. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "CO",
+              "quantidade": "1.080,00",
+              "valor_referencia": "3,45"
+            }
+          ]
+        },
+        {
+          "numero": "2",
+          "titulo": "10100500025 Cloridrato de tramadol + paracetamol (nas dosagens de 37,5 mg + 325 mg):COMPRIMIDO. Marca: Gésico Duo. EXCLUSIVO PARA ME/EPP.",
+          "fase": "DISPUTA",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "3.466,80",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "10100500025 Cloridrato de tramadol + paracetamol (nas dosagens de 37,5 mg + 325 mg):COMPRIMIDO. Marca: Gésico Duo. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "CO",
+              "quantidade": "1.080,00",
+              "valor_referencia": "3,21"
+            }
+          ]
+        },
+        {
+          "numero": "3",
+          "titulo": "6500200105 Fosfato dissódico de dexametasona 1,50 mg/mL, hidroxocobalamina 500 mg/mL e dipirona sódica 5 mg/mL:solução injetável. Marca: Dexalgen. EXCLUSIVO PARA ME/EPP.",
+          "fase": "DISPUTA",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "867,84",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "6500200105 Fosfato dissódico de dexametasona 1,50 mg/mL, hidroxocobalamina 500 mg/mL e dipirona sódica 5 mg/mL:solução injetável. Marca: Dexalgen. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "AMP",
+              "quantidade": "48,00",
+              "valor_referencia": "18,08"
+            }
+          ]
+        },
+        {
+          "numero": "4",
+          "titulo": "37608 PREGABALINA:100MG COMPRIMIDO. EXCLUSIVO PARA ME/EPP.",
+          "fase": "DESERTO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "2.952,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37608 PREGABALINA:100MG COMPRIMIDO. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "CO",
+              "quantidade": "720,00",
+              "valor_referencia": "4,10"
+            }
+          ]
+        },
+        {
+          "numero": "5",
+          "titulo": "37724 Hiluropt (Hialuronato de Sódio 0,15%):solução oftálmica 10ml. EXCLUSIVO PARA ME/EPP.",
+          "fase": "DESERTO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "1.465,92",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37724 Hiluropt (Hialuronato de Sódio 0,15%):solução oftálmica 10ml. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "FR",
+              "quantidade": "36,00",
+              "valor_referencia": "40,72"
+            }
+          ]
+        },
+        {
+          "numero": "6",
+          "titulo": "37725 Nimegon (Sitagliptina):100 mg. EXCLUSIVO PARA ME/EPP.",
+          "fase": "DESERTO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "4.024,80",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37725 Nimegon (Sitagliptina):100 mg. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "CO",
+              "quantidade": "360,00",
+              "valor_referencia": "11,18"
+            }
+          ]
+        },
+        {
+          "numero": "7",
+          "titulo": "9900516093 Patanol S (Cloridrato De Olopatadina):2,22 mg/ml 2,5ml solução oftalmológica. EXCLUSIVO PARA ME/EPP.",
+          "fase": "DISPUTA",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "1.943,52",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900516093 Patanol S (Cloridrato De Olopatadina):2,22 mg/ml 2,5ml solução oftalmológica. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "FR",
+              "quantidade": "24,00",
+              "valor_referencia": "80,98"
+            }
+          ]
+        },
+        {
+          "numero": "8",
+          "titulo": "37726 Sertralina:25 mg. EXCLUSIVO PARA ME/EPP.",
+          "fase": "DISPUTA",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "446,40",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37726 Sertralina:25 mg. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "CO",
+              "quantidade": "360,00",
+              "valor_referencia": "1,24"
+            }
+          ]
+        },
+        {
+          "numero": "9",
+          "titulo": "37727 Valproato de Sódio (Torval ):500 mg. EXCLUSIVO PARA ME/EPP.",
+          "fase": "DESERTO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "1.735,20",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37727 Valproato de Sódio (Torval ):500 mg. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "CO",
+              "quantidade": "720,00",
+              "valor_referencia": "2,41"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-122-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "857 / 2026",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "JULGAMENTO",
+      "condutor": "SERGIO CARNEIRO CAVALCANTI DE AZEVEDO",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO",
+      "publicacao": "31/07/2026 19:17",
+      "inicio_recepcao": "04/08/2026 08:00",
+      "fim_recepcao": "17/08/2026 10:15",
+      "inicio_disputa": "17/08/2026 10:30",
+      "objeto": "Contratação de empresa especializada em fornecimento de LIVROS PARADIDÁTICOS DESTINADOS AO NÚCLEO DE APOIO À EDUCAÇÃO INCLUSIVA (NAEI), a fim de atender as demandas da Secretaria Municipal de Educação.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DIHUuf3dmj4uv3emkMU1g1BIhfgPL4vZgKDakfM73uLzJZo3ufpWne1njWnLPrehk72tGH3SIQzKeuh_KmV1S_NZOXRrZG4SguHgU4Qam1dc%3D",
+      "total_lotes": 11,
+      "total_itens": 11,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "7601000001 Kit Livro Infantil Histórias Divertidas Com Desenhos 3D:livro pop up, imagens que saltam, livro ilustrativo, cores vivas educativa, capa almofadada",
+          "fase": "JULGAMENTO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "9.620,80",
+          "vencedor": "AQUARELA EDITORA E DISTRIBUIDORA LTDA",
+          "melhor_oferta": "7.420,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "7601000001 Kit Livro Infantil Histórias Divertidas Com Desenhos 3D:livro pop up, imagens que saltam, livro ilustrativo, cores vivas educativa, capa almofadada",
+              "unidade": "Und.",
+              "quantidade": "140,00",
+              "valor_referencia": "68,72"
+            }
+          ]
+        },
+        {
+          "numero": "2",
+          "titulo": "7601000002 Bocarra:Um livro Sensorial! Monstros Capa dura - Livro interativo, 1 julho 2023",
+          "fase": "JULGAMENTO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "5.290,60",
+          "vencedor": "AQUARELA EDITORA E DISTRIBUIDORA LTDA",
+          "melhor_oferta": "3.276,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "7601000002 Bocarra:Um livro Sensorial! Monstros Capa dura - Livro interativo, 1 julho 2023",
+              "unidade": "Und.",
+              "quantidade": "140,00",
+              "valor_referencia": "37,79"
+            }
+          ]
+        },
+        {
+          "numero": "3",
+          "titulo": "7601000003 Toc... toc... Quem mora aqui?:Autor: Maria Loretta Giraldo",
+          "fase": "JULGAMENTO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "9.927,40",
+          "vencedor": "SK DISTRIBUIDORA E COMERCIO DE LIVROS LTDA",
+          "melhor_oferta": "7.330,40",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "7601000003 Toc... toc... Quem mora aqui?:Autor: Maria Loretta Giraldo",
+              "unidade": "Und.",
+              "quantidade": "140,00",
+              "valor_referencia": "70,91"
+            }
+          ]
+        },
+        {
+          "numero": "4",
+          "titulo": "7601000004 Neurodiversidade Clássicos:João e o Pé de Feijão",
+          "fase": "JULGAMENTO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "4.235,00",
+          "vencedor": "LISBOA DISTRIBUIDORA DE LIVROS",
+          "melhor_oferta": "2.290,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "7601000004 Neurodiversidade Clássicos:João e o Pé de Feijão",
+              "unidade": "Und.",
+              "quantidade": "140,00",
+              "valor_referencia": "30,25"
+            }
+          ]
+        },
+        {
+          "numero": "5",
+          "titulo": "37695 Escolinha Baby Montessori - Contrastes!:Animais Capa dura - Livro de fotos, 1 agosto 2022",
+          "fase": "JULGAMENTO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "3.479,00",
+          "vencedor": "INTERBOOK LIVROS LTDA",
+          "melhor_oferta": "2.298,80",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37695 Escolinha Baby Montessori - Contrastes!:Animais Capa dura - Livro de fotos, 1 agosto 2022",
+              "unidade": "Und.",
+              "quantidade": "140,00",
+              "valor_referencia": "24,85"
+            }
+          ]
+        },
+        {
+          "numero": "6",
+          "titulo": "7601000005 Escolinha Baby Montessori - Contrastes!:Grande ou Pequeno? Capa dura - Livro de fotos, 1 agosto 2022",
+          "fase": "JULGAMENTO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "4.643,80",
+          "vencedor": "INTERBOOK LIVROS LTDA",
+          "melhor_oferta": "2.240,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "7601000005 Escolinha Baby Montessori - Contrastes!:Grande ou Pequeno? Capa dura - Livro de fotos, 1 agosto 2022",
+              "unidade": "Und.",
+              "quantidade": "140,00",
+              "valor_referencia": "33,17"
+            }
+          ]
+        },
+        {
+          "numero": "7",
+          "titulo": "7601000006 Alto-contraste Com Toque e Sinta - Palavras:Alto- contraste Com Toque e Sinta - Palavras",
+          "fase": "JULGAMENTO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "3.921,40",
+          "vencedor": "AQUARELA EDITORA E DISTRIBUIDORA LTDA",
+          "melhor_oferta": "2.184,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "7601000006 Alto-contraste Com Toque e Sinta - Palavras:Alto- contraste Com Toque e Sinta - Palavras",
+              "unidade": "Und.",
+              "quantidade": "140,00",
+              "valor_referencia": "28,01"
+            }
+          ]
+        },
+        {
+          "numero": "8",
+          "titulo": "7601000007 Barulhinhos do sítio:Toque, brinque e escute! Livro cartonado - Livro interativo, 1 abril 2018 Edição Português por Sam Taplin (Autor)",
+          "fase": "JULGAMENTO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "3.292,80",
+          "vencedor": "SEG LIVROS EDITORA COMERCIO E REPESENTAÇÃO LTDA-EPP",
+          "melhor_oferta": "2.900,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "7601000007 Barulhinhos do sítio:Toque, brinque e escute! Livro cartonado - Livro interativo, 1 abril 2018 Edição Português por Sam Taplin (Autor)",
+              "unidade": "Und.",
+              "quantidade": "28,00",
+              "valor_referencia": "117,60"
+            }
+          ]
+        },
+        {
+          "numero": "9",
+          "titulo": "7601000008 Barulhinhos da floresta:Toque, brinque e escute! Capa dura - Livro com som, 1 dezembro 2018 Edição Português por Usborne Publishing (Autor)",
+          "fase": "JULGAMENTO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "3.417,96",
+          "vencedor": "SEG LIVROS EDITORA COMERCIO E REPESENTAÇÃO LTDA-EPP",
+          "melhor_oferta": "2.950,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "7601000008 Barulhinhos da floresta:Toque, brinque e escute! Capa dura - Livro com som, 1 dezembro 2018 Edição Português por Usborne Publishing (Autor)",
+              "unidade": "Und.",
+              "quantidade": "28,00",
+              "valor_referencia": "122,07"
+            }
+          ]
+        },
+        {
+          "numero": "10",
+          "titulo": "7601000009 Barulhinhos dos filhotes! toque, brinque e escute! Capa dura   24 setembro 2024 por Lesley Sims (Autor):Barulhinhos dos filhotes! toque, brinque e escute! Capa dura - 24 setembro 2024 por Lesley Sims (Autor)",
+          "fase": "JULGAMENTO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "3.253,32",
+          "vencedor": "SEG LIVROS EDITORA COMERCIO E REPESENTAÇÃO LTDA-EPP",
+          "melhor_oferta": "3.000,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "7601000009 Barulhinhos dos filhotes! toque, brinque e escute! Capa dura 24 setembro 2024 por Lesley Sims (Autor):Barulhinhos dos filhotes! toque, brinque e escute! Capa dura - 24 setembro 2024 por Lesley Sims (Autor)",
+              "unidade": "Und.",
+              "quantidade": "28,00",
+              "valor_referencia": "116,19"
+            }
+          ]
+        },
+        {
+          "numero": "11",
+          "titulo": "7601000010 Não é sua, é minha! Capa comum   3 fevereiro 2014 Edição Português por Susanna Moores:Não é sua, é minha!Capa comum - 3 fevereiro 2014 Edição Português por Susanna Moores",
+          "fase": "JULGAMENTO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "8.978,20",
+          "vencedor": "AQUARELA EDITORA E DISTRIBUIDORA LTDA",
+          "melhor_oferta": "6.634,60",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "7601000010 Não é sua, é minha! Capa comum 3 fevereiro 2014 Edição Português por Susanna Moores:Não é sua, é minha!Capa comum - 3 fevereiro 2014 Edição Português por Susanna Moores",
+              "unidade": "Und.",
+              "quantidade": "140,00",
+              "valor_referencia": "64,13"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-101-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "104 / 2026",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "DESERTO",
+      "condutor": "SERGIO CARNEIRO CAVALCANTI DE AZEVEDO",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "REGISTRO DE PREÇO",
+      "publicacao": "16/07/2026 10:59",
+      "inicio_recepcao": "03/08/2026 08:00",
+      "fim_recepcao": "17/08/2026 08:15",
+      "inicio_disputa": "17/08/2026 08:30",
+      "objeto": "Contratação de empresa especializada em prestação de serviço de MANUTENÇÃO PREVENTIVA E CORRETIVA, COM FORNECIMENTO DE PEÇAS, EM EQUIPAMENTOS DIVERSOS, a fim de atender as demandas da Secretaria Municipal de Administração e demais secretarias.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DVHa32%2FdGg8cCjHI88gzetXx%2F3Es2TrfL9l8K6rJggfvElurGeMwu1cYnlk%2FwdHWe7UAgD931jtHvxZsh4q4gfBr%2FiWOinmwUPDXblzo%2Fdw0%3D",
+      "total_lotes": 6,
+      "total_itens": 18,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "ELETRONICOS DIVERSOS",
+          "fase": "DESERTO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "620.924,38",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 3,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9902900154 Manutenção Preventiva com reposição de peças diversas:Equipamentos de refrigeração, água e cocção (Bebedouro Galão 20L, Coluna e Industrial / Freezer Vertical e Horizontal / Frigobar / Geladeira e Refrigerador / Purificador de Água / Fornos à Gás, Elétrico e Micro-ondas)",
+              "unidade": "SER",
+              "quantidade": "804,00",
+              "valor_referencia": "331,49"
+            },
+            {
+              "numero": "2",
+              "especificacao": "9902900156 Manutenção Corretiva com reposição de peças diversas:Equipamentos de refrigeração, água e cocção (Bebedouro Galão 20L, Coluna e Industrial / Freezer Vertical e Horizontal / Frigobar / Geladeira e Refrigerador / Purificador de Água / Fornos à Gás, Elétrico e Micro-ondas)",
+              "unidade": "SER",
+              "quantidade": "804,00",
+              "valor_referencia": "397,63"
+            },
+            {
+              "numero": "3",
+              "especificacao": "9900515529 Peças diversas para manutenção preventiva e corretiva de equipamentos de cocção, aquecimento, refrigeração e tratamento e acondicionamento de água:abrangendo fogão doméstico de 2 (duas) a 8 (oito) bocas com forno; fogão industrial de 2 (duas) a 8 (oito) bocas com forno; forno a gás; forno elétrico; forno micro-ondas; bebedouro para galão de água de 20 litros (incluindo filtros); bebedouro tipo coluna para galão e jato de água (incluindo filtros); bebedouro industrial em aço inox, de 02 (duas) a 04 (quatro) torneiras (incluindo filtros); purificador de água (incluindo filtros); geladeira/refrigerador; freezer modelo vertical e horizontal; e frigobar, incluindo componentes elétricos, mecânicos, hidráulicos, sistemas de ignição, ventilação, queimadores, resistências e demais peças indispensáveis ao funcionamento regular, seguro e eficiente dos equipamentos.",
+              "unidade": "UND",
+              "quantidade": "1,00",
+              "valor_referencia": "34.711,90"
+            }
+          ]
+        },
+        {
+          "numero": "2",
+          "titulo": "ELETRONICOS DIVERSOS",
+          "fase": "DESERTO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "60.901,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 3,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9902900157 Manutenção Preventiva com reposição de peças diversas:Eletrodomésticos e Eletroportáteis (Aspirador de Pó / Batedeira Planetária e Comum / Liquidificador Doméstico e Industrial / Multiprocessador e Espremedor de Frutas)",
+              "unidade": "SER",
+              "quantidade": "187,00",
+              "valor_referencia": "127,75"
+            },
+            {
+              "numero": "2",
+              "especificacao": "9902900158 Manutenção Corretiva com reposição de peças diversas:Eletrodomésticos e eletroportáteis (Aspirador de Pó / Batedeira Planetária e Comum / Liquidificador Doméstico e Industrial / Multiprocessador e Espremedor de Frutas)",
+              "unidade": "SER",
+              "quantidade": "187,00",
+              "valor_referencia": "154,75"
+            },
+            {
+              "numero": "3",
+              "especificacao": "9900515530 Peças diversas para manutenção preventiva e corretiva de eletroportáteis de uso doméstico e institucional:compreendendo: aspirador de pó; batedeira planetária e comum; liquidificador doméstico; liquidificador industrial; multiprocessador e espremedor de frutas, incluindo motores, copos, lâminas, correias, engrenagens, componentes elétricos e demais peças necessárias à recuperação e ao funcionamento adequado dos equipamentos.",
+              "unidade": "UND",
+              "quantidade": "1,00",
+              "valor_referencia": "8.073,50"
+            }
+          ]
+        },
+        {
+          "numero": "3",
+          "titulo": "ELETRONICOS DIVERSOS",
+          "fase": "DESERTO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "170.075,81",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 3,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9902900159 Manutenção Preventiva com reposição de peças diversas:Equipamentos Operacionais e de Apoio (Ventiladores / Exaustores / Lavadora de Alta Pressão à Jato / Máquina de Costura / Máquina Lavadora e Secadora / Roçadeira)",
+              "unidade": "SER",
+              "quantidade": "271,00",
+              "valor_referencia": "163,33"
+            },
+            {
+              "numero": "2",
+              "especificacao": "9902900160 Manutenção Corretiva com reposição de peças diversas:Equipamentos Operacionais e de Apoio (Ventiladores / Exaustores / Lavadora de Alta Pressão à Jato / Máquina de Costura / Máquina Lavadora e Secadora / Roçadeira)",
+              "unidade": "SER",
+              "quantidade": "271,00",
+              "valor_referencia": "421,08"
+            },
+            {
+              "numero": "3",
+              "especificacao": "9900515531 Peças diversas para manutenção preventiva e corretiva de equipamentos mecânicos, operacionais e sistemas de ventilação:bem como de máquinas lavadoras e máquinas secadoras, de uso doméstico e industrial, abrangendo ventilador de parede, coluna, teto e mesa; exaustor; roçadeira; máquina de costura; lavadora de alta pressão a jato; máquinas lavadoras e máquinas secadoras, incluindo componentes elétricos, mecânicos e eletrônicos, tais como motores, correias, bombas, rolamentos, placas eletrônicas, resistências, mangueiras, sensores, sistemas de acionamento e demais peças indispensáveis ao funcionamento regular, contínuo, seguro e eficiente dos equipamentos.",
+              "unidade": "UND",
+              "quantidade": "1,00",
+              "valor_referencia": "11.700,70"
+            }
+          ]
+        },
+        {
+          "numero": "4",
+          "titulo": "ELETRONICOS DIVERSOS",
+          "fase": "DESERTO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "81.849,88",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 3,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9902900161 Manutenção Preventiva com reposição de peças diversas:Instrumentos Musicais (Violão / Violino / Violoncelo / Piano / Teclado / Bateria)",
+              "unidade": "SER",
+              "quantidade": "171,00",
+              "valor_referencia": "215,87"
+            },
+            {
+              "numero": "2",
+              "especificacao": "9902900162 Manutenção Corretiva com reposição de peças diversas:Instrumentos Musicais (Violão / Violino / Violoncelo / Piano / Teclado / Bateria)",
+              "unidade": "SER",
+              "quantidade": "171,00",
+              "valor_referencia": "219,61"
+            },
+            {
+              "numero": "3",
+              "especificacao": "37062 Peças diversas para manutenção preventiva e corretiva de instrumentos musicais:abrangendo violão; teclado; piano; bateria; violoncelo; e violino, incluindo componentes estruturais, mecânicos, eletrônicos e de afinação, tais como cordas, teclas, martelos, peles, ferragens, captadores, circuitos eletrônicos, suportes, sistemas de fixação e demais peças indispensáveis à conservação, ao pleno funcionamento, à afinação e ao desempenho adequado dos instrumentos.",
+              "unidade": "UND",
+              "quantidade": "1,00",
+              "valor_referencia": "7.382,80"
+            }
+          ]
+        },
+        {
+          "numero": "5",
+          "titulo": "ELETRONICOS DIVERSOS",
+          "fase": "DESERTO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "225.123,90",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 3,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9902900163 Manutenção Preventiva com reposição de peças diversas:Equipamentos de Áudio (caixa de som, mesa de som, microfone e cabos)",
+              "unidade": "SER",
+              "quantidade": "420,00",
+              "valor_referencia": "246,42"
+            },
+            {
+              "numero": "2",
+              "especificacao": "37061 Manutenção Corretiva com reposição de peças diversas:Equipamentos de Áudio (caixa de som, mesa de som, microfone e cabos)",
+              "unidade": "SER",
+              "quantidade": "420,00",
+              "valor_referencia": "246,42"
+            },
+            {
+              "numero": "3",
+              "especificacao": "9900515532 Peças diversas para manutenção preventiva e corretiva de equipamentos e acessórios de áudio e sonorização:abrangendo caixa de som; mesa de som; microfone; e cabos de áudio para instrumentos e equipamentos de som, incluindo componentes eletrônicos, elétricos e estruturais, tais como alto-falantes, tweeters, amplificadores, conectores, plugs, entradas, saídas, placas eletrônicas, potenciômetros, cápsulas, circuitos internos, revestimentos, isolamentos, soldas e demais peças indispensáveis ao funcionamento adequado, à qualidade sonora e à segurança dos equipamentos.",
+              "unidade": "UND",
+              "quantidade": "1,00",
+              "valor_referencia": "18.131,10"
+            }
+          ]
+        },
+        {
+          "numero": "6",
+          "titulo": "ELETRONICOS DIVERSOS",
+          "fase": "DESERTO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "74.080,56",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 3,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9903311953 Prestação de serviços continuados de manutenção preventiva das lousas digitais interativas multimídia:adquiridas e instaladas nas unidades escolares da rede municipal de ensino. A manutenção preventiva deverá ser realizada de forma periódica, conforme cronograma previamente acordado com a Administração, com o objetivo de assegurar o pleno funcionamento, a conservação e a vida útil dos equipamentos instalados. Os serviços deverão abranger, no mínimo: inspeção visual e funcional dos equipamentos; verificação das fixações mecânicas e suportes; limpeza externa adequada; checagem das conexões elétricas e de dados; atualização de firmware e software quando aplicável; testes de calibração e de responsividade ao toque; bem como outras verificações técnicas necessárias ao adequado desempenho do sistema. Ao final de cada manutenção preventiva, deverá ser emitido relatório técnico detalhado, contendo a descrição das ações executadas, eventuais recomendações técnicas e o registro de possíveis não conformidades identificadas.",
+              "unidade": "SER",
+              "quantidade": "84,00",
+              "valor_referencia": "351,67"
+            },
+            {
+              "numero": "2",
+              "especificacao": "9903311954 Prestação de serviços continuados de manutenção corretiva das lousas digitais interativas multimídia:adquiridas e instaladas nas unidades escolares da rede municipal de ensino. A manutenção corretiva compreenderá o atendimento a chamados destinados à solução de falhas, defeitos ou irregularidades no funcionamento das lousas digitais interativas multimídia e de seus componentes, incluindo tela interativa, fonte de alimentação, placas eletrônicas internas, conectores, cabos, suportes, softwares embarcados e demais acessórios necessários à operação. Os serviços deverão incluir diagnóstico técnico, reparos, ajustes e substituição de peças ou componentes defeituosos, quando necessário, visando ao restabelecimento das condições normais de funcionamento dos equipamentos. A execução dos serviços deverá contemplar mão de obra técnica especializada, deslocamento até as unidades escolares e fornecimento de insumos e pequenas peças necessárias à manutenção, excetuando-se apenas itens de consumo definidos contratualmente como responsabilidade da Administração. O atendimento aos chamados corretivos deverá observar o prazo máximo estabelecido em edital ou contrato (por exemplo, até 48 horas úteis para início do atendimento), podendo ser realizado de forma remota quando tecnicamente viável. A contratada deverá manter registro dos atendimentos realizados e emitir relatórios periódicos consolidados, assegurando a rastreabilidade das ocorrências e dos serviços executados.",
+              "unidade": "SER",
+              "quantidade": "84,00",
+              "valor_referencia": "351,67"
+            },
+            {
+              "numero": "3",
+              "especificacao": "9903311955 Peças diversas para manutenção preventiva e corretiva de lousas digitais interativas multimídia:contemplando componentes necessários à reposição e substituição, indispensáveis ao pleno funcionamento, à estabilidade operacional, à qualidade de imagem e à adequada resposta ao toque dos equipamentos instalados nas unidades escolares.",
+              "unidade": "UND",
+              "quantidade": "1,00",
+              "valor_referencia": "15.000,00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CD-005-2025",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "758/2025",
+      "modalidade": "CREDENCIAMENTO",
+      "situacao": "SUSPENSO",
+      "condutor": "MAGDA DE SELES GUIMARÃES",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO",
+      "publicacao": "03/06/2025 11:48",
+      "inicio_recepcao": "13/06/2025 08:00",
+      "fim_recepcao": "15/06/2026 00:00",
+      "inicio_disputa": "",
+      "objeto": "Credenciamento de pessoa jurídica para PRESTAÇÃO DE SERVIÇOS\n MÉDICOS ESPECIALIZADOS EM ANÁLISE PATOLÓGICA para atender as demandas da\n Secretaria Municipal de Saúde.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DzL8fJJau%2F7MaUswJtFVfQOaRTLc7vWFw5Ce2lt5LqsGCJykFJu4LASZRMFEtepWyouUV3nmFDtpC6C8iS%2FLd4NE1EdP%2FlQ67B_%2FFLwzR8Pk%3D",
+      "total_lotes": 9,
+      "total_itens": 9,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "33436 BIÓPSIA SIMPLES:BIÓPSIA SIMPLES",
+          "fase": "SUSPENSO",
           "tipo": "UNITÁRIO",
           "quantidade": "1",
           "intervalo_minimo": "0,00",
           "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
+          "local_entrega": "",
+          "garantia": "",
           "valor_referencia": "60,19",
           "vencedor": "",
           "melhor_oferta": "0,00",
@@ -292259,21 +292259,45 @@
               "numero": "1",
               "especificacao": "33436 BIÓPSIA SIMPLES:BIÓPSIA SIMPLES",
               "unidade": "SERV",
-              "quantidade": "2.500,00",
+              "quantidade": "1.875,00",
               "valor_referencia": "60,19"
             }
           ]
         },
         {
           "numero": "2",
-          "titulo": "9903311392 CITOLOGIA EM MEIO LIQUIDO",
-          "fase": "HABILITAÇÃO",
+          "titulo": "909911235 BIOPSIA SIMPLES:BIÓPSIA SIMPLES. COTA DE 25% RESERVADA PARA  ME/EPP.",
+          "fase": "SUSPENSO",
           "tipo": "UNITÁRIO",
           "quantidade": "1",
           "intervalo_minimo": "0,00",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
+          "exclusivo_me": "SIM",
+          "local_entrega": "",
+          "garantia": "",
+          "valor_referencia": "60,19",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "909911235 BIOPSIA SIMPLES:BIÓPSIA SIMPLES. COTA DE 25% RESERVADA PARA ME/EPP.",
+              "unidade": "SERV",
+              "quantidade": "625,00",
+              "valor_referencia": "60,19"
+            }
+          ]
+        },
+        {
+          "numero": "3",
+          "titulo": "9903311392 CITOLOGIA EM MEIO LIQUIDO - BRONQUIO: CITOLOGIA EM MEIO LIQUIDO - BRONQUIO EXCLUSIVO PARA ME/EPP",
+          "fase": "SUSPENSO",
+          "tipo": "UNITÁRIO",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "SIM",
+          "local_entrega": "",
+          "garantia": "",
           "valor_referencia": "62,25",
           "vencedor": "",
           "melhor_oferta": "0,00",
@@ -292281,7 +292305,7 @@
           "itens": [
             {
               "numero": "1",
-              "especificacao": "9903311392 CITOLOGIA EM MEIO LIQUIDO - BRONQUIO:CITOLOGIA EM MEIO LIQUIDO - BRONQUIO.",
+              "especificacao": "CITOLOGIA EM MEIO LIQUIDO - BRONQUIO: CITOLOGIA EM MEIO LIQUIDO - BRONQUIO EXCLUSIVO PARA ME/EPP",
               "unidade": "SERV",
               "quantidade": "100,00",
               "valor_referencia": "62,25"
@@ -292289,15 +292313,15 @@
           ]
         },
         {
-          "numero": "3",
-          "titulo": "9903311373 COLORAÇÃO ESPECIAL",
-          "fase": "HABILITAÇÃO",
+          "numero": "4",
+          "titulo": "9903311373 COLORAÇÃO ESPECIAL:Marcação da biópsia por corantes especiais. EXCLUSIVO PARA ME/EPP",
+          "fase": "SUSPENSO",
           "tipo": "UNITÁRIO",
           "quantidade": "1",
           "intervalo_minimo": "0,00",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
+          "exclusivo_me": "SIM",
+          "local_entrega": "",
+          "garantia": "",
           "valor_referencia": "33,65",
           "vencedor": "",
           "melhor_oferta": "0,00",
@@ -292305,7 +292329,7 @@
           "itens": [
             {
               "numero": "1",
-              "especificacao": "9903311373 COLORAÇÃO ESPECIAL: Marcação da biópsia por corantes especiais.",
+              "especificacao": "9903311373 COLORAÇÃO ESPECIAL:Marcação da biópsia por corantes especiais. EXCLUSIVO PARA ME/EPP",
               "unidade": "SERV",
               "quantidade": "50,00",
               "valor_referencia": "33,65"
@@ -292313,15 +292337,15 @@
           ]
         },
         {
-          "numero": "4",
-          "titulo": "9903311378 CORE BYOPSY",
-          "fase": "HABILITAÇÃO",
+          "numero": "5",
+          "titulo": "9903311378 CORE BYOPSY:CORE BYOPSY. EXCLUSIVO PARA ME/EPP",
+          "fase": "SUSPENSO",
           "tipo": "UNITÁRIO",
           "quantidade": "1",
           "intervalo_minimo": "0,00",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
+          "exclusivo_me": "SIM",
+          "local_entrega": "",
+          "garantia": "",
           "valor_referencia": "68,46",
           "vencedor": "",
           "melhor_oferta": "0,00",
@@ -292329,7 +292353,7 @@
           "itens": [
             {
               "numero": "1",
-              "especificacao": "9903311378 CORE BYOPSY:CORE BYOPSY.",
+              "especificacao": "9903311378 CORE BYOPSY:CORE BYOPSY. EXCLUSIVO PARA ME/EPP",
               "unidade": "SERV",
               "quantidade": "100,00",
               "valor_referencia": "68,46"
@@ -292337,15 +292361,15 @@
           ]
         },
         {
-          "numero": "5",
-          "titulo": "33437 PEÇA CIRÚRGICA SIMPLES",
-          "fase": "HABILITAÇÃO",
+          "numero": "6",
+          "titulo": "33437 PEÇA CIRÚRGICA SIMPLES:PEÇA CIRÚRGICA SIMPLES",
+          "fase": "SUSPENSO",
           "tipo": "UNITÁRIO",
           "quantidade": "1",
           "intervalo_minimo": "0,00",
           "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
+          "local_entrega": "",
+          "garantia": "",
           "valor_referencia": "75,00",
           "vencedor": "",
           "melhor_oferta": "0,00",
@@ -292355,21 +292379,45 @@
               "numero": "1",
               "especificacao": "33437 PEÇA CIRÚRGICA SIMPLES:PEÇA CIRÚRGICA SIMPLES",
               "unidade": "SERV",
-              "quantidade": "2.500,00",
+              "quantidade": "1.875,00",
               "valor_referencia": "75,00"
             }
           ]
         },
         {
-          "numero": "6",
-          "titulo": "9903311384 PEÇA CIRÚRGICA COMPLEXA",
-          "fase": "HABILITAÇÃO",
+          "numero": "7",
+          "titulo": "9909911236 PEÇA CIRURGICA SIMPLES:PEÇA CIRURGICA SIMPLES. COTA DE 25% RESERVADA PARA ME/EPP",
+          "fase": "SUSPENSO",
+          "tipo": "UNITÁRIO",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "SIM",
+          "local_entrega": "",
+          "garantia": "",
+          "valor_referencia": "75,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9909911236 PEÇA CIRURGICA SIMPLES:PEÇA CIRURGICA SIMPLES. COTA DE 25% RESERVADA PARA ME/EPP",
+              "unidade": "SERV",
+              "quantidade": "625,00",
+              "valor_referencia": "75,00"
+            }
+          ]
+        },
+        {
+          "numero": "8",
+          "titulo": "9903311384 PEÇA CIRÚRGICA COMPLEXA:PEÇA CIRÚRGICA COMPLEXA",
+          "fase": "SUSPENSO",
           "tipo": "UNITÁRIO",
           "quantidade": "1",
           "intervalo_minimo": "0,00",
           "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
+          "local_entrega": "",
+          "garantia": "",
           "valor_referencia": "243,42",
           "vencedor": "",
           "melhor_oferta": "0,00",
@@ -292379,7 +292427,31 @@
               "numero": "1",
               "especificacao": "9903311384 PEÇA CIRÚRGICA COMPLEXA:PEÇA CIRÚRGICA COMPLEXA",
               "unidade": "UN",
-              "quantidade": "1.500,00",
+              "quantidade": "1.125,00",
+              "valor_referencia": "243,42"
+            }
+          ]
+        },
+        {
+          "numero": "9",
+          "titulo": "9909911237 PEÇA CIRURGICA COMPLEXA:PEÇA CIRURGICA COMPLEXA. COTA DE  25%  RESERVADA PARA ME/EPP.",
+          "fase": "SUSPENSO",
+          "tipo": "UNITÁRIO",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "SIM",
+          "local_entrega": "",
+          "garantia": "",
+          "valor_referencia": "243,42",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9909911237 PEÇA CIRURGICA COMPLEXA:PEÇA CIRURGICA COMPLEXA. COTA DE 25% RESERVADA PARA ME/EPP.",
+              "unidade": "SERV",
+              "quantidade": "375,00",
               "valor_referencia": "243,42"
             }
           ]
@@ -292391,38 +292463,38 @@
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "705/2024",
       "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "SUSPENSO",
-      "condutor": "VICTOR KINIDEL DETHLING",
+      "situacao": "HOMOLOGADO",
+      "condutor": "MAGDA DE SELES GUIMARÃES",
       "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
       "tipo_contrato": "AQUISIÇÃO",
-      "publicacao": "15/05/2024 18:26",
-      "inicio_recepcao": "16/05/2024 08:00",
-      "fim_recepcao": "12/06/2024 09:45",
-      "inicio_disputa": "12/06/2024 10:00",
-      "objeto": "Contratação de instituição financeira para prestação de serviços bancários para centralização, gerenciamento e processamento de créditos da folha de pagamento dos servidores, a fim de atender as demandas da Prefeitura de Teixeira de Freitas, conforme condições, quantidades e especificações no Edital, Termo de Referência e seus Anexos.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DGOQyP0TkOlBfoARzXdqrowKuuoOYSrdZHMQwqf7pgpfaVZfF58bbJPIIKzNxlB7%2FoKT2AKR8pNq8ch2ueXjxFU8H51NMFh1I8bWXFOZ9H8U%3D",
+      "publicacao": "13/06/2024 18:49",
+      "inicio_recepcao": "14/06/2024 08:00",
+      "fim_recepcao": "10/07/2024 13:45",
+      "inicio_disputa": "10/07/2024 14:00",
+      "objeto": "O objeto da presente licitação é a contratação de INSTITUIÇÃO FINANCEIRA ESPECIALIZADA NA PRESTAÇÃO DE SERVIÇOS BANCÁRIOS PARA CENTRALIZAÇÃO, GERENCIAMENTO E PROCESSAMENTO DE CRÉDITOS DA FOLHA DE PAGAMENTO DOS SERVIDORES, a fim de atender as demandas da Secretaria Municipal de Administração, conforme condições, quantidades e especificações no Edital, Termo de Referência e seus Anexos.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5D0gT2zsZ3sxBnfZH6HReUlaiBKVjhdnwa_tsf8GJz4QtSOnf6kpvcmssvt7Ou1ZwVvfit%2FJfnB5BlVRKC%2FN6kLXNij%2Fj9fV7GmrulpPGfyxM%3D",
       "total_lotes": 1,
       "total_itens": 1,
       "lotes": [
         {
           "numero": "1",
-          "titulo": "LOTE 01",
-          "fase": "SUSPENSO",
-          "tipo": "UNITÁRIO",
+          "titulo": "SERVIÇOS BANCÁRIOS",
+          "fase": "HOMOLOGADO",
+          "tipo": "GLOBAL",
           "quantidade": "1",
-          "intervalo_minimo": "100,00",
+          "intervalo_minimo": "0,01",
           "exclusivo_me": "NÃO",
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "6.052.150,00",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
+          "vencedor": "ITAÚ UNIBANCO S.A.",
+          "melhor_oferta": "6.053.000,00",
           "total_itens": 1,
           "itens": [
             {
               "numero": "1",
               "especificacao": "CONTRATAÇÃO DE INSTITUIÇÃO FINANCEIRA: ESPECIALIZADA NA PRESTAÇÃO DE SERVIÇOS BANCÁRIOS PARA CENTRALIZAÇÃO, GERENCIAMENTO E PROCESSAMENTO DE CRÉDITOS DA FOLHA DE PAGAMENTO DOS SERVIDORES DA PREFEITURA MUNICIPAL DE TEIXEIRA DE FREITAS/BA.",
-              "unidade": "SERVIÇO",
+              "unidade": "UN",
               "quantidade": "1,00",
               "valor_referencia": "6.052.150,00"
             }

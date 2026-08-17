@@ -1,9 +1,9 @@
 {
   "metadata": {
     "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-    "total_registros": 703,
-    "total_itens": 2403,
-    "atualizado_em": "20260813_185128"
+    "total_registros": 704,
+    "total_itens": 2404,
+    "atualizado_em": "20260817_125704"
   },
   "registros": [
     {
@@ -39498,6 +39498,38 @@
           "marca": "NÃO SE APLICA",
           "modelo": "NÃO SE APLICA",
           "valor": "2868,5000"
+        }
+      ]
+    },
+    {
+      "id": "3IL-129-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "803 / 2026",
+      "modalidade": "INEXIGIBILIDADE",
+      "status": "CONCLUÍDA",
+      "coordenador": "ISLA LIMA SILVA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "ano_referencia": "2026",
+      "data_publicacao": "14/08/2026 11:45:52",
+      "data_conclusao": "14/08/2026 11:46:02",
+      "artigo": "Art. 24º",
+      "inciso": "I",
+      "justificativa": "Arts. 74, IV, e 79, I da Lei Federal nº 14.133/2021, Decreto Municipal nº 85, de 2024, em seus arts. 2º, I, e 5º, VII e demais legislações e regulamentações específicas",
+      "legislacao": "Lei nº 8.666",
+      "objeto": "Empresa RGF SERVICOS MEDICOS LTDA, para prestação de serviços médicos\nespecializados (CLINICO GERAL) conforme o edital de credenciamento CD-002/2025, para atender às necessidades da Atenção Básica, sob responsabilidade da Secretaria Municipal de Saúde.",
+      "observacao": "",
+      "link": "https://bllcompras.com/DirectBuy/DirectBuyView?param1=%5Bgkz%5DKlwVWAmKWoWGxG7dLgqhBlxxcJUVLi6NkHH2wNEAkkXpC5y5nwS2Xm%2FpxISxJde%2Fj2Ky6cBQ6aqUuVHlgjelYXvNx3N_0RYdk3SawO5%2Fmtk%3D",
+      "total_itens": 1,
+      "itens": [
+        {
+          "numero": "1",
+          "descricao": "206800009 MEDICO ESTRATEGIA SAUDE DA FAMILIA:MEDICO ESTRATEGIA DA SAUDE DA FAMILIA 40 HORAS",
+          "quantidade": "12,0000",
+          "unidade": "SER",
+          "fornecedor": "RGF SERVICOS MEDICOS LTDA",
+          "marca": "NAO SE APLICA",
+          "modelo": "NAO SE APLICA",
+          "valor": "10200,0000"
         }
       ]
     }
