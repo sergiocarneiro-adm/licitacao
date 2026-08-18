@@ -1,10 +1,10 @@
 {
   "metadata": {
     "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-    "total_processos": 876,
-    "total_lotes": 9558,
-    "total_itens": 16070,
-    "atualizado_em": "20260817_125334"
+    "total_processos": 878,
+    "total_lotes": 9572,
+    "total_itens": 16084,
+    "atualizado_em": "20260818_074341"
   },
   "processos": [
     {
@@ -268251,7 +268251,7 @@
       "publicacao": "03/06/2026 16:22",
       "inicio_recepcao": "05/06/2026 08:00",
       "fim_recepcao": "14/07/2026 08:15",
-      "inicio_disputa": "14/08/2026 17:20",
+      "inicio_disputa": "18/08/2026 17:20",
       "objeto": "Contratação de empresa especializada em execução de obras de construção de um Centro Educacional, com quadra coberta, localizado no bairro Jerusalém, no município de Teixeira de Freitas – BA.",
       "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5D7LZabRr7rQrtf24kB14UjYZu8E%2FND799QlWXVrnZLiF2li4grnVHSzAf9Wode1Mwxo0Z_qUGfMaq1gnCu7rM9xssjgDyHH5lKW%2F0ol7Q2yU%3D",
       "total_lotes": 1,
@@ -268814,7 +268814,7 @@
       "publicacao": "03/06/2026 17:18",
       "inicio_recepcao": "05/06/2026 08:00",
       "fim_recepcao": "15/07/2026 08:15",
-      "inicio_disputa": "14/08/2026 17:20",
+      "inicio_disputa": "18/08/2026 17:20",
       "objeto": "Contratação de empresa especializada em execução de obras de construção de um Centro Educacional, com piscina anexa, localizado no bairro Caminho do Mar, no município de Teixeira de Freitas – BA.",
       "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DL%2FrR5dAaiUsY6jb7mFKba8PCKLawFAXnjNy8Ff3_s5NPy49w1db1RxuZqR2ZbCqTT2KNWtFQz3IpK_j95JByrIj%2Flk0I_LaItNBPnTmZyRk%3D",
       "total_lotes": 1,
@@ -269109,8 +269109,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "170.068,26",
-          "vencedor": "GIORDANO & GIORDANO INDUSTRIA E COMERCIO DE PRODUTOS MEDICOS E ODONTOLOGICOS LTDA",
-          "melhor_oferta": "76.128,00",
+          "vencedor": "BHDENTAL COMERCIAL EIRELI",
+          "melhor_oferta": "72.000,00",
           "total_itens": 1,
           "itens": [
             {
@@ -269125,7 +269125,7 @@
         {
           "numero": "4",
           "titulo": "36529 ESTEREOMICROSCÓPIO BINOCULAR:EspecificaçõesTécnicas:Ampliação: 20X, 40X ou 80X;Oculares: 2 (duas) WF10X e 2 (duas) WF20X; Objetivas: 2X e 4X;Cabeçote: Binocular com inclinação de 45º, rotação de 360º e ajuste de dioptria na ocular esquerda;Ilum",
-          "fase": "EM ADJUDICAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -269197,7 +269197,7 @@
         {
           "numero": "7",
           "titulo": "36531 MOTOR PARA POLIMENTO:De prótese dentaria, 220volts, com 2 velocidades. Garantia no mínimo de 1 ano.EXCLUSIVO PARA ME/EPP.",
-          "fase": "EM ADJUDICAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -269221,7 +269221,7 @@
         {
           "numero": "8",
           "titulo": "11400300012 MUFLA METÁLICA nº 6:para cozimento de prótese. EXCLUSIVO PARA ME/EPP.",
-          "fase": "EM ADJUDICAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -269245,7 +269245,7 @@
         {
           "numero": "9",
           "titulo": "11400300013 PEÇA DE MÃO RETA CIRÚRGICA LONGA:Comqualidade igual ou superior a Kavo.Garantia no mínimo de 1 ano. EXCLUSIVO PARA ME/EPP.",
-          "fase": "JULGAMENTO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -269253,8 +269253,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "1.317,38",
-          "vencedor": "BHDENTAL COMERCIAL EIRELI",
-          "melhor_oferta": "500,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
           "total_itens": 1,
           "itens": [
             {
@@ -269269,7 +269269,7 @@
         {
           "numero": "10",
           "titulo": "11400300017 PRENSA HIDRAULICA:para prótese dentaria, com capacidade para 3muflas e força 4 toneladas. Garantia no mínimo de 1 ano. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -272581,7 +272581,7 @@
         {
           "numero": "1",
           "titulo": "9900515632 ABAIXADOR DE LINGUA:LARGURA E ESPESSURA SÃO UNIFORMES EM TODA A SUA EXTENSÃO, MEDINDO APROXIMADAMENTE 14 CM DE COMPRIMENTO, 1,4 CM DE LARGURA E 0,5 MM DE ESPESSURA. ABAIXADOR CONFECCIONADO EM MADEIRA LISA, NÃO ESTÉRIL, DESCARTÁVEL E DE USO ÚNIC",
-          "fase": "JULGAMENTO",
+          "fase": "HABILITAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -272662,7 +272662,7 @@
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "2.484,00",
           "vencedor": "T2 MEDICAL DISTRIBUIDORA DE MEDICAMENTO LTDA",
-          "melhor_oferta": "2.700,00",
+          "melhor_oferta": "2.484,00",
           "total_itens": 1,
           "itens": [
             {
@@ -272677,7 +272677,7 @@
         {
           "numero": "5",
           "titulo": "37394 ALMOTOLIA AMBAR 250ML:DESTINADA AO ACONDICIONAMENTO DE SOLUÇÕES PARA ANTISSEPSIA DA PELE, COMO ÁLCOOL 70%, SOLUÇÕES DE IODO, ENTRE OUTRAS. CARACTERÍSTICAS DO PRODUTO: LEVE; PRÁTICO; BICO CURVO; BICO COM TAMPA; COR: ÂMBAR (MARROM); GRADUADO EM ALTO R",
-          "fase": "JULGAMENTO",
+          "fase": "HABILITAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -272701,7 +272701,7 @@
         {
           "numero": "6",
           "titulo": "37412 ATADURA GESSADA 5CM, FAIXA DE MATERIAL:(POLIÉSTER OU ALGODÃO) IMPREGNADA COM RESINA (GESSO SINTÉTICO OU GESSO TRADICIONAL), USADA PARA IMOBILIZAÇÃO ORTOPÉDICA DE FRATURAS, ENTORSES E LESÕES, TAMANHO DE 5 CM X 3,6M (DEDOS, PUNHOS, TORNOZELOS) MOLDAGE",
-          "fase": "JULGAMENTO",
+          "fase": "HABILITAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -272749,7 +272749,7 @@
         {
           "numero": "8",
           "titulo": "37396 FIXADOR DE LÂMINA 100ML (FIXADOR CITOLÓGICO):SOLUÇÃO FIXADORA PRONTA PARA USO, ACONDICIONADA EM FRASCO COM 100 ML, DESTINADA À FIXAÇÃO DE LÂMINAS CITOLÓGICAS E HISTOLÓGICAS UTILIZADAS EM EXAMES LABORATORIAIS, COMO O EXAME CITOPATOLÓGICO (PAPANICOLAU",
-          "fase": "JULGAMENTO",
+          "fase": "HABILITAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -272821,7 +272821,7 @@
         {
           "numero": "11",
           "titulo": "37398 MASCARA DESCARTAVEL (CIRÚRGICA):EQUIPAMENTO DE PROTEÇÃO INDIVIDUAL (EPI); É CONFECCIONADA EM TECIDO NÃO TECIDO 100% POLIPROPILENO, POSSUINDO A GRAMATURA DE 20G/M² EM TODAS AS SUAS CAMADAS, SENDO 2 CAMADAS EM TNT E 1 UMA CAMADA INTERNA DE FILTRO MELT",
-          "fase": "JULGAMENTO",
+          "fase": "HABILITAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -272853,8 +272853,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "5.295,00",
-          "vencedor": "T2 MEDICAL DISTRIBUIDORA DE MEDICAMENTO LTDA",
-          "melhor_oferta": "6.740,00",
+          "vencedor": "ODONTO TALITA LTDA EPP",
+          "melhor_oferta": "9.299,00",
           "total_itens": 1,
           "itens": [
             {
@@ -272877,8 +272877,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "4.980,00",
-          "vencedor": "MCS ATACADISTA DE MEDICAMENTOS E PRODUTOS FARMACEUTICOS LTDA",
-          "melhor_oferta": "4.932,90",
+          "vencedor": "ODONTO TALITA LTDA EPP",
+          "melhor_oferta": "6.699,00",
           "total_itens": 1,
           "itens": [
             {
@@ -272925,8 +272925,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "16.872,00",
-          "vencedor": "SUPORTE PRODUTOS HOSPITALARES LTDA",
-          "melhor_oferta": "8.718,00",
+          "vencedor": "T2 MEDICAL DISTRIBUIDORA DE MEDICAMENTO LTDA",
+          "melhor_oferta": "16.872,00",
           "total_itens": 1,
           "itens": [
             {
@@ -272950,7 +272950,7 @@
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "10.810,80",
           "vencedor": "T2 MEDICAL DISTRIBUIDORA DE MEDICAMENTO LTDA",
-          "melhor_oferta": "10.520,00",
+          "melhor_oferta": "10.519,20",
           "total_itens": 1,
           "itens": [
             {
@@ -273013,7 +273013,7 @@
         {
           "numero": "19",
           "titulo": "9900515641 TRAQUEIA PARA VENTILADOR DE TRANSPORTE:TUBO CORRUGADO FLEXÍVEL E REUTILIZÁVEL, PROJETADO PARA O TRANSPORTE SEGURO DE GASES E MISTURAS GASOSAS DO EQUIPAMENTO AO PACIENTE. MATERIAL: FABRICADA EM SILICONE DE USO MÉDICO, GERALMENTE TRANSPARENTE E I",
-          "fase": "JULGAMENTO",
+          "fase": "HABILITAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -273205,7 +273205,7 @@
         {
           "numero": "27",
           "titulo": "37408 LANCETA PARA LANCETADOR 30G:ESPESSURA ULTRAFINA (30G) COM PONTA TRIANGULAR PARA PUNÇÃO INDOLOR; PENETRAÇÃO CONSISTENTE; FORMATO UNIVERSAL PARA A MAIORIA DOS LANCETADORES EXISTENTES; PRODUTOESTERILIZADO POR RADIAÇÃO GAMA. DESCARTÁVEL. CAIXA COM 100 U",
-          "fase": "JULGAMENTO",
+          "fase": "HABILITAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -273277,7 +273277,7 @@
         {
           "numero": "30",
           "titulo": "37410 EQUIPO MULTIVIAS COM CLAMP 2 VIAS:ESTÉRIL, APIROGÊNICO, ATÓXICO. DUAS EXTREMIDADES PROXIMAIS COM CONECTORES LUER LOCK FÊMEA. DUAS EXTENSÕES EM PVC DOTADAS DE CLAMP (ABRE/FECHA). UM INTERMEDIÁRIO EM Y UNINDO A EXTENSÃO DISTAL. CONEXÃO LUER DISTAL PAR",
-          "fase": "JULGAMENTO",
+          "fase": "HABILITAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -273373,7 +273373,7 @@
         {
           "numero": "34",
           "titulo": "37519 EQUIPO MULTIVIAS COM CLAMP 2 VIAS::ESTÉRIL, APIROGÊNICO, ATÓXICO. DUAS EXTREMIDADESPROXIMAIS COM CONECTORES LUER LOCK FÊMEA. DUASEXTENSÕES EM PVC DOTADAS DE CLAMP (ABRE/FECHA). UM INTERMEDIÁRIO EM Y UNINDO A EXTENSÃO DISTAL. CONEXÃO LUER DISTAL PA",
-          "fase": "JULGAMENTO",
+          "fase": "HABILITAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -283043,7 +283043,7 @@
         {
           "numero": "1",
           "titulo": "9900515823 SMART TV 55 polegadas:nova, tela QLED, resolução mínima 4K UHD (3840 x 2160 pixels), frequência mínima de 60Hz, processador com inteligência artificial para otimização de imagem e som, conectividade Wi-Fi e Bluetooth integradas, mínimo de 03 en",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -283067,7 +283067,7 @@
         {
           "numero": "2",
           "titulo": "9900515824 SMART TV 65 polegadas:nova, tela QLED, resolução mínima 4K UHD (3840 x 2160 pixels), frequência mínima de 60Hz, processador com inteligência artificial para otimização de imagem e som, conectividade Wi-Fi e Bluetooth integradas, mínimo de 03 en",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -283091,7 +283091,7 @@
         {
           "numero": "3",
           "titulo": "9900515825 SUPORTE FIXO UNIVERSAL PARATV:confeccionado em aço carbono de alta resistência, com pintura eletrostática anticorrosiva, compatível com padrão VESA universal, indicado para televisores e Smart TV?s de 55 a 65 polegadas, com elevada capacidade",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -283115,7 +283115,7 @@
         {
           "numero": "4",
           "titulo": "9900515826 SUPORTE ARTICULADO UNIVERSAL PARATV:confeccionado em aço carbono de alta resistência, com pintura eletrostática anticorrosiva, tipo articulado premium, com ajuste de inclinação, avanço, retração e movimentação lateral, compatível com padrão VE",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -283139,7 +283139,7 @@
         {
           "numero": "5",
           "titulo": "9909911346 SMART TV 55 polegadas::nova, tela QLED, resolução mínima 4K UHD (3840 x 2160 pixels), frequência mínima de 60Hz, processador com inteligência artificial paraotimização de imagem e som, conectividade Wi-Fi e Bluetoothintegradas, mínimo de 03 e",
-          "fase": "HABILITAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -283147,8 +283147,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "179.705,25",
-          "vencedor": "DIXAM COMÉRCIO E SERVIÇOS LTDA",
-          "melhor_oferta": "283.350,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
           "total_itens": 1,
           "itens": [
             {
@@ -283163,7 +283163,7 @@
         {
           "numero": "6",
           "titulo": "9909911347 SMART TV 65 polegadas::nova, tela QLED, resolução mínima 4K UHD (3840 x 2160 pixels), frequência mínima de 60Hz, processador com inteligência artificial paraotimização de imagem e som, conectividade Wi-Fi e Bluetoothintegradas, mínimo de 03 e",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -283563,7 +283563,7 @@
         {
           "numero": "1",
           "titulo": "9900830441 LOUSAS DIGITAIS INTERATIVAS:Aquisição,instalação, configuração, testes de funcionamento, treinamento inicial de usuários e garantia on&#8209;site de lousa digital interativa multimídia, nova, de primeiro uso, destinada a ambiente escolar, comp",
-          "fase": "INTERPOSIÇÃO DE RECURSOS",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -283768,694 +283768,6 @@
               "unidade": "HR",
               "quantidade": "3.600,00",
               "valor_referencia": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "2-DLE-081-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "890/2026",
-      "modalidade": "DISPENSA ELETRÔNICA",
-      "situacao": "JULGAMENTO",
-      "condutor": "ISAQUE SILVA DOS SANTOS",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO PARCELADA",
-      "publicacao": "29/07/2026 18:16",
-      "inicio_recepcao": "29/07/2026 18:20",
-      "fim_recepcao": "04/08/2026 08:15",
-      "inicio_disputa": "04/08/2026 08:30",
-      "objeto": "Contratação de empresa especializada em fornecimento de [TECIDOS] (material de consumo), a fim de atender as necessidades da Secretaria Municipal de Cultura e Turismo.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DoxziMR58EufFCHkJMPKmBCIixfhWRKSGEVTA%2FHqKBLsQMxmJtN_QroQJeEsMNab2z7lKQxCPhrjAUjMz6oze95ZROwl3%2F70YL4VzW8%2FPL3Y%3D",
-      "total_lotes": 13,
-      "total_itens": 13,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "Tule",
-          "fase": "JULGAMENTO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,00",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "749,00",
-          "vencedor": "CHSF DISTRIBUIDORA TEXTIL LTDA",
-          "melhor_oferta": "740,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37734 Tule:tecido de armação leve com uma estrutura maisrígida nas cores PRETA, BRANCA, ROSA, VERDE BANDEIRAE AZUL BEBÊ, de malha aberta, fino, transparente e maleável,composto por 100% (gramatura) poliamida ou poliéster (Opoliéster costuma ser mais armado) com largura de 1,40 m.Destinado a confecção de saias volumosas, sobreposições defigurinos, cenários, arranjos decorativos e demais elementosutilizados em diversas ocasiões. O tule deverá apresentar malhauniforme, sem rasgos, furos, deformações, fios rompidos oumanchas, proporcionando bom caimento e efeito visualadequado sob iluminação de palco ou ambientes internos. Ofornecimento será realizado em rolos cometendo 50 metrosprontos para uso em ornamentação e ambientação no âmbitoCultural.",
-              "unidade": "ROL",
-              "quantidade": "5,00",
-              "valor_referencia": "149,80"
-            }
-          ]
-        },
-        {
-          "numero": "2",
-          "titulo": "Oxford",
-          "fase": "JULGAMENTO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,00",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "4.661,25",
-          "vencedor": "CHSF DISTRIBUIDORA TEXTIL LTDA",
-          "melhor_oferta": "3.699,96",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37735 Oxford:tecido sintético nas cores BRANCO, PRETO,VERDE BANDEIRA, AZUL BEBÊ, MARROM CHOCOLATE,BEGE CLARO, VIOLETA ESCURO, VINHO CLARO,VERMELHO ESCARLATE, composto predominantemente porpoliéster, com entrelaçamento firme, gramatura de 110 g/m² elargura de 1,50 m. Indicado para confecção de uniformessimples, toalhas, painéis, bandeiras, fundos de palco, faixas eoutros elementos decorativos utilizados em diversas ocasiões. Otecido deverá ser resistente, com acabamento opaco, texturahomogênea, boa estabilidade dimensional e ausência de furos,rasgos, manchas, falhas de tecelagem ou desbotamentoacentuado. O fornecimento ocorrerá em rolos contendo 50metros, prontos para uso em atividades desenvolvidas no âmbitoda Cultura.",
-              "unidade": "ROL",
-              "quantidade": "11,00",
-              "valor_referencia": "423,75"
-            }
-          ]
-        },
-        {
-          "numero": "3",
-          "titulo": "Oxford xadrez",
-          "fase": "FRACASSADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,00",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "1.900,24",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37736 Oxford xadrez:variação estampada do tecido Oxford, empadrão xadrez e nas cores PRETO, AMARELA, AZUL EVERMELHO, composto por 100% poliéster, com gramatura de110 g/m² e largura de 1,50 m. Indicado para confecção deuniformes simples, fundos de palco, faixa e outros elementosdecorativos utilizados em eventos institucionais. A estampadeverá ser regular, sem falhas de impressão, sem desbotamentoacentuado ou diferenças marcantes de tonalidade entre rolos domesmo lote. O fornecimento deverá ser realizado em roloscontendo 50 metros, prontos para o uso em atividadesdesenvolvidas pela Secretaria de Cultura.",
-              "unidade": "ROL",
-              "quantidade": "4,00",
-              "valor_referencia": "475,06"
-            }
-          ]
-        },
-        {
-          "numero": "4",
-          "titulo": "Crepe Elena ou Helena",
-          "fase": "JULGAMENTO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,00",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "6.944,46",
-          "vencedor": "CHSF DISTRIBUIDORA TEXTIL LTDA",
-          "melhor_oferta": "5.799,99",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37737 Crepe Elena ou Helena:tecido sintético nas coresLARANJA, VERDE BANDEIRA, AMARELO, AZUL MARINHO,BEGE CLARO E PRETO com gramatura média a encorpada,geralmente 96% poliéster e 4% elastano, ou variações muitopróximas como 95% poliéster e 5% elastano. Largura padrão:1,45 metros a 1,50 metros ele mantém as especificaçõestécnicas padrão que garantem excelente caimento e opacidadepara alfaiataria e moda de caimento leve, superfície lisa e toquemacio, indicado para figurinos. O fornecimento deverá serrealizado em rolos contendo 50 metros, prontos para uso emrelevância das atividades desenvolvidas no âmbito da Cultura.",
-              "unidade": "ROL",
-              "quantidade": "6,00",
-              "valor_referencia": "1.157,41"
-            }
-          ]
-        },
-        {
-          "numero": "5",
-          "titulo": "Organza",
-          "fase": "HABILITAÇÃO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,00",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "3.528,00",
-          "vencedor": "CHSF DISTRIBUIDORA TEXTIL LTDA",
-          "melhor_oferta": "2.799,93",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37738 Organza:tecido leve nas cores CRITAL AZUL, CRISTALPRETA, CRISTAL VERMELHO, CRISTAL BRANCA, CRISTALVERDE, CRISTAL AMARELA, CRISTAL AZUL BEBÊ, compostopor 100% poliéster ou 100% poliamida (nylon), com gramaturaentre 25g/ m² e 45 g/m² e largura entre 1,40 m 1,50 m. Ofornecimento será realizado em rolos de 50 metros, pronto para ouso em atividades desenvolvidas no âmbito da Cultura.",
-              "unidade": "ROL",
-              "quantidade": "7,00",
-              "valor_referencia": "504,00"
-            }
-          ]
-        },
-        {
-          "numero": "6",
-          "titulo": "Malha montaria",
-          "fase": "JULGAMENTO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,00",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "1.721,20",
-          "vencedor": "CHSF DISTRIBUIDORA TEXTIL LTDA",
-          "melhor_oferta": "1.399,99",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37739 Malha montaria:tecido de malha encorpado, comelasticidade, toque macio e excelente resistência, nas coresAZUL MARINHO E BRANCO. Indicado para figurinos, vestuárioe peças cênicas. Composição: Poliéster com elastano(aproximadamente 90% poliésteres e 10% elastano, podendovariar conforme o fabricante). Gramatura: 280 a 320 g/ m².Largura mínima: 1,60 m. O fornecimento será realizado em rolosde 50 metros, pronto para o uso em atividades desenvolvidas noâmbito da Cultura.",
-              "unidade": "ROL",
-              "quantidade": "2,00",
-              "valor_referencia": "860,60"
-            }
-          ]
-        },
-        {
-          "numero": "7",
-          "titulo": "Twey (two way)",
-          "fase": "HABILITAÇÃO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,00",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "9.771,72",
-          "vencedor": "CHSF DISTRIBUIDORA TEXTIL LTDA",
-          "melhor_oferta": "7.762,65",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37740 Twey (two way):tecido plano sintético, de toque suave,caimento estruturado e baixa transparência, indicado parafigurinos, decoração e confecção em geral, nas cores BRANCO,CAQUI, AZUL NOITE, OFF WHITE, TERRA COTA, AZULACIZENTADO e CINZA CLARO. Gramatura aproximada de 180g/ m². Largura mínima de 1,50 m. Composição 100% poliéster. Ofornecimento será realizado em rolos de 50 metros, pronto para ouso em atividades desenvolvidas no âmbito da Cultura.",
-              "unidade": "ROL",
-              "quantidade": "7,00",
-              "valor_referencia": "1.395,96"
-            }
-          ]
-        },
-        {
-          "numero": "8",
-          "titulo": "Oxiline (oxfordine)",
-          "fase": "FRACASSADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,00",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "2.190,30",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "8300500042 Oxiline (oxfordine):Tecido sintético resistente, desuperfície lisa, toque macio e excelente durabilidade, indicadopara decoração, figurinos e confecção em geral, nas coresCINZA CLARO, BRANCO, BEGE CLARO, MARROM CLARO,AZUL NOITE, VINHO ESCURO. Composição 100% poliéster,gramatura aproximada de 180 a 220 g/ m², largura mínima de1,50 m, fornecido em rolo com comprimento mínimo de 50metros. O tecido deverá apresentar coloração uniforme, boaresistência ao rasgo e a tração, estabilidade dimensional, semmanchas, furos, falhas de tecelagem ou outros defeitos defabricação, sendo adequado para aplicações decorativas ecênicas de uso contínuo.",
-              "unidade": "ROL",
-              "quantidade": "6,00",
-              "valor_referencia": "365,05"
-            }
-          ]
-        },
-        {
-          "numero": "9",
-          "titulo": "Tricoline Mista",
-          "fase": "FRACASSADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,00",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "3.065,40",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "8300500043 Tricoline Mista:tecido plano de toque macio,excelente acabamento e boa resistência, indicado paraconfecção de figurinos, peças decorativas, artesanato,cenografia e aplicações em costura em geral, nas cores VINHOESCURO, MARROM CAFÉ, BEGE AREIA, OFF WHITE EPRETO. Composição aproximada: 65% poliéster e 35% algodão(ou composição equivalente), gramatura aproximada de 120 a150 g/ m², largura mínima de 1,50 m, fornecido em rolo comcomprimento mínimo de 50 metros. O tecido deverá apresentarcoloração uniforme, boa estabilidade dimensional, resistência aorasgo e A costura, sem manchas, furos, falhas de tecelagem ououtros defeitos de fabricação, sendo adequado para usodecorativo, artístico e de confecção",
-              "unidade": "ROL",
-              "quantidade": "5,00",
-              "valor_referencia": "613,08"
-            }
-          ]
-        },
-        {
-          "numero": "10",
-          "titulo": "Musseline",
-          "fase": "FRACASSADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,00",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "2.875,38",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37741 Musseline:tecido leve, semitransparente, de excelentecaimento e toque macio, indicado para confecção de figurinos,decoração, cenografia, painéis decorativos e aplicaçõesartísticas, nas cores VERDE OLIVA, AREIA, MOSTARDE,MARROM, TERRA COTA E PRETO. Composição: 100%poliéster, gramatura aproximada de 70 a 100 g/ m², larguramínima de 1,50 m, fornecido em rolo com comprimento mínimode 50 metros. O tecido deverá apresentar coloração uniforme,transparência homogênea, boa resistência ao rasgo, excelentecaimento, estabilidade dimensional e acabamento de qualidade,livre de manchas, furos, falhas de tecelagem ou quaisquer outrosdefeitos de fabricação, sendo adequado para aplicaçõesdecorativas, cênicas e de vestuário.",
-              "unidade": "ROL",
-              "quantidade": "6,00",
-              "valor_referencia": "479,23"
-            }
-          ]
-        },
-        {
-          "numero": "11",
-          "titulo": "CETIM",
-          "fase": "JULGAMENTO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,00",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "3.161,32",
-          "vencedor": "CHSF DISTRIBUIDORA TEXTIL LTDA",
-          "melhor_oferta": "2.476,70",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37742 CETIM:tecido cetim com elastano, sintético de superfíciebrilhante, toque macio, excelente caimento e elasticidade,indicado para confecção de figurinos, vestuário, decoração,cenografia e artes cênicas, nas cores VERDE FOLHA,DOURADO, OFF WHITE E CINZA CLARO. Composiçãoaproximada: poliéster com elastano, gramatura aproximada de140 a 180 g/m², largura mínima de 1,50 m, fornecido em rolo comcomprimento mínimo de 50 metros. O tecido deverá apresentarbrilho uniforme, coloração homogênea, boa resistência ao rasgoe a tração, elasticidade adequada, estabilidade dimensional eacabamento de qualidade, livre de manchas, furos, falhas detecelagem ou quaisquer outros defeitos de fabricação, sendoapropriado para aplicações artísticas, decorativas e de vestuário.",
-              "unidade": "ROL",
-              "quantidade": "4,00",
-              "valor_referencia": "790,33"
-            }
-          ]
-        },
-        {
-          "numero": "12",
-          "titulo": "VISCOSE",
-          "fase": "HABILITAÇÃO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,00",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "1.104,80",
-          "vencedor": "CHSF DISTRIBUIDORA TEXTIL LTDA",
-          "melhor_oferta": "859,99",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "8300500044 VISCOSE:tecido leve, macio, respirável e deexcelente caimento, na cor PRETA, indicado para confecção defigurinos, vestuário, artes cênicas e peças de moda em geral.Composição: 100% viscose ou viscose com pequena variaçãode fibras conforme o fabricante, gramatura aproximada de 120 a180 g/m², largura mínima de 1,40 m, fornecido em rolo comcomprimento mínimo de 50 metros. O tecido deverá apresentarcoloração uniforme, toque suave, boa resistência a costura,excelente caimento, estabilidade dimensional e acabamento dequalidade, livre de manchas, furos, falhas de tecelagem ouquaisquer outros defeitos de fabricação, sendo adequado paraaplicações artísticas, cênicas e de vestuário.",
-              "unidade": "ROL",
-              "quantidade": "1,00",
-              "valor_referencia": "1.104,80"
-            }
-          ]
-        },
-        {
-          "numero": "13",
-          "titulo": "JACQUARD",
-          "fase": "JULGAMENTO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,00",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "6.136,35",
-          "vencedor": "CHSF DISTRIBUIDORA TEXTIL LTDA",
-          "melhor_oferta": "4.799,95",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37743 JACQUARD:tecido encorpado com desenhos tramadosem relevo, nas cores ROXO, VIOLETA, AZUL, CINZA,VERMELHO RUBRICO, de alta resistência e excelenteacabamento, indicado para decoração, figurinos, cenografia,revestimentos e aplicações artísticas. Composição aproximada:100% poliéster ou misto de poliéster e algodão (conformefabricante), gramatura aproximada de 250 a 350 g/m², larguramínima de 1,40 m, fornecido em rolo com comprimento mínimode 30 metros. O tecido deverá apresentar desenhos uniformes,coloração homogênea, boa resistência ao rasgo e a abrasão,estabilidade dimensional, acabamento de alta qualidade, livre demanchas, furos, falhas de tecelagem ou quaisquer outrosdefeitos de fabricação, sendo adequado para aplicaçõesdecorativas, cênicas, confecção de figurinos e revestimentos.",
-              "unidade": "ROL",
-              "quantidade": "5,00",
-              "valor_referencia": "1.227,27"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "PE-116-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "849 / 2026",
-      "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "JULGAMENTO",
-      "condutor": "SERGIO CARNEIRO CAVALCANTI DE AZEVEDO",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO",
-      "publicacao": "21/07/2026 17:59",
-      "inicio_recepcao": "23/07/2026 08:00",
-      "fim_recepcao": "04/08/2026 13:45",
-      "inicio_disputa": "04/08/2026 14:00",
-      "objeto": "Contratação de empresa especializada em fornecimento de MATERIAIS PARA QUADRAS ESPORTIVAS (material de consumo e permanente), a fim de atender as demandas da Secretaria Municipal de Educação.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DroU3N8%2FcllDW7nUJQo_1RvnrDSoj0DRt_UEgFuZNP_VeN8B64wxPyz%2FmQTlFfJhe7utP_3BdSbdv9i3N7OO_nzpvecw9zKwZs3HPbShVk%2FE%3D",
-      "total_lotes": 14,
-      "total_itens": 14,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "37705 Par de traves oficiais para futsal:com medidas internas de 3,00 m x 2,00 m, em conformidade com as regras oficiais vigentes da modalidade. Estrutura confeccionada em tubo de aço galvanizado de diâmetro mínimo de 75 mm (3\"), espessura mínima de 2 mm,",
-          "fase": "JULGAMENTO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "63.654,84",
-          "vencedor": "MIX NAS LTDA",
-          "melhor_oferta": "63.654,84",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37705 Par de traves oficiais para futsal:com medidas internas de 3,00 m x 2,00 m, em conformidade com as regras oficiais vigentes da modalidade. Estrutura confeccionada em tubo de aço galvanizado de diâmetro mínimo de 75 mm (3\"), espessura mínima de 2 mm, com tratamento anticorrosivo e pintura de acabamento apropriada para uso esportivo. Deverá acompanhar par de redes compatíveis, bem como todos os acessórios necessários para instalação e fixação, garantindo estabilidade e segurança durante a utilização.",
-              "unidade": "PAR",
-              "quantidade": "18,00",
-              "valor_referencia": "3.536,38"
-            }
-          ]
-        },
-        {
-          "numero": "2",
-          "titulo": "37706 Par de redes para trave oficial de futsal:confeccionadas em nylon ou polietileno de alta densidade (PEAD), com fio de espessura mínima de 4 mm, malha aproximada de 100 x 100 mm (10 x 10 cm), com tratamento contra raios UV e bordas reforçadas. Dimens",
-          "fase": "FRACASSADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "6.503,40",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37706 Par de redes para trave oficial de futsal:confeccionadas em nylon ou polietileno de alta densidade (PEAD), com fio de espessura mínima de 4 mm, malha aproximada de 100 x 100 mm (10 x 10 cm), com tratamento contra raios UV e bordas reforçadas. Dimensões compatíveis com traves oficiais de futsal de 3,00 m x 2,00 m.",
-              "unidade": "PAR",
-              "quantidade": "18,00",
-              "valor_referencia": "361,30"
-            }
-          ]
-        },
-        {
-          "numero": "3",
-          "titulo": "37707 Tinta para demarcação de quadras esportivas:fornecida em embalagem de 18 litros, específica para demarcação de pisos esportivos, compatível com o tipo de piso existente, destinada à pintura de linhas para modalidades como futsal, basquete, voleibol",
-          "fase": "JULGAMENTO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "7.739,64",
-          "vencedor": "TRAJO COMÉRCIO E SERVIÇOS LTDA",
-          "melhor_oferta": "7.704,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37707 Tinta para demarcação de quadras esportivas:fornecida em embalagem de 18 litros, específica para demarcação de pisos esportivos, compatível com o tipo de piso existente, destinada à pintura de linhas para modalidades como futsal, basquete, voleibol e similares. Deverá apresentar alta aderência, elevada resistência à abrasão e ao tráfego esportivo, podendo ser do tipo epóxi, poliuretano, acrílica de alto desempenho ou tecnologia equivalente, desde que recomendada pelo fabricante para essa finalidade. Rendimento médio conforme especificações do fabricante, não inferior a 8 m²/L por demão.",
-              "unidade": "LT.",
-              "quantidade": "18,00",
-              "valor_referencia": "429,98"
-            }
-          ]
-        },
-        {
-          "numero": "4",
-          "titulo": "37708 Placar manual portátil para uso em quadras esportivas:com estrutura leve, dobrável e de fácil transporte, confeccionada em material plástico rígido, metálico ou equivalente. Sistema de marcação tipo flip ou tecnologia equivalente, permitindo contage",
-          "fase": "FRACASSADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "4.812,66",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37708 Placar manual portátil para uso em quadras esportivas:com estrutura leve, dobrável e de fácil transporte, confeccionada em material plástico rígido, metálico ou equivalente. Sistema de marcação tipo flip ou tecnologia equivalente, permitindo contagem de 0 a 99 pontos por equipe, com dígitos de altura mínima de 15 cm, de fácil visualização. Dimensões compatíveis com equipamento portátil destinado ao uso em quadras esportivas.",
-              "unidade": "UND",
-              "quantidade": "18,00",
-              "valor_referencia": "267,37"
-            }
-          ]
-        },
-        {
-          "numero": "5",
-          "titulo": "37709 Jogo de chaves inglesas:composto por 2 unidades, contendo uma chave de 10 polegadas e uma chave de 12 polegadas, fabricadas em aço cromo-vanádio ou aço-liga de resistência equivalente, com acabamento cromado ou tratamento anticorrosivo equivalente,",
-          "fase": "FRACASSADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "285,30",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37709 Jogo de chaves inglesas:composto por 2 unidades, contendo uma chave de 10 polegadas e uma chave de 12 polegadas, fabricadas em aço cromo-vanádio ou aço-liga de resistência equivalente, com acabamento cromado ou tratamento anticorrosivo equivalente, mandíbula ajustável e resistência à corrosão.",
-              "unidade": "JOG",
-              "quantidade": "2,00",
-              "valor_referencia": "142,65"
-            }
-          ]
-        },
-        {
-          "numero": "6",
-          "titulo": "37710 Parafusos em aço inoxidável AISI 304, medida M6 x 20 mm:com rosca métrica padrão, cabeça sextavada (ou outro tipo conforme necessidade da Administração), fornecidos em embalagem contendo 100 unidades, resistentes à corrosão, destinados à montagem e",
-          "fase": "FRACASSADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "119,96",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37710 Parafusos em aço inoxidável AISI 304, medida M6 x 20 mm:com rosca métrica padrão, cabeça sextavada (ou outro tipo conforme necessidade da Administração), fornecidos em embalagem contendo 100 unidades, resistentes à corrosão, destinados à montagem e fixação de equipamentos e estruturas.",
-              "unidade": "CX",
-              "quantidade": "2,00",
-              "valor_referencia": "59,98"
-            }
-          ]
-        },
-        {
-          "numero": "7",
-          "titulo": "37711 Parafusos em aço inoxidável AISI 304, medida M8 x 20 mm:com rosca métrica padrão, cabeça sextavada (ou outro modelo conforme necessidade da Administração), fornecidos em embalagem contendo 100 unidades, resistentes à corrosão, destinados à montagem",
-          "fase": "FRACASSADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "126,56",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37711 Parafusos em aço inoxidável AISI 304, medida M8 x 20 mm:com rosca métrica padrão, cabeça sextavada (ou outro modelo conforme necessidade da Administração), fornecidos em embalagem contendo 100 unidades, resistentes à corrosão, destinados à montagem e fixação de equipamentos e estruturas.",
-              "unidade": "CX",
-              "quantidade": "2,00",
-              "valor_referencia": "63,28"
-            }
-          ]
-        },
-        {
-          "numero": "8",
-          "titulo": "37712 Parafusos em aço inoxidável AISI 304, medida M10 x 20 mm:com rosca métrica padrão, cabeça sextavada (ou outro modelo conforme necessidade da Administração), fornecidos em embalagem contendo 100 unidades, resistentes à corrosão,destinados à montagem",
-          "fase": "FRACASSADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "192,84",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37712 Parafusos em aço inoxidável AISI 304, medida M10 x 20 mm:com rosca métrica padrão, cabeça sextavada (ou outro modelo conforme necessidade da Administração), fornecidos em embalagem contendo 100 unidades, resistentes à corrosão,destinados à montagem e fixação de equipamentos e estruturas.",
-              "unidade": "CX",
-              "quantidade": "2,00",
-              "valor_referencia": "96,42"
-            }
-          ]
-        },
-        {
-          "numero": "9",
-          "titulo": "37713 Buchas de nylon para fixação, compatíveis com broca de 6 mm:medindo aproximadamente 6 x 30 mm, destinadas à fixação em alvenaria, concreto ou materiais similares.",
-          "fase": "FRACASSADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "24,00",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37713 Buchas de nylon para fixação, compatíveis com broca de 6 mm:medindo aproximadamente 6 x 30 mm, destinadas à fixação em alvenaria, concreto ou materiais similares.",
-              "unidade": "UND",
-              "quantidade": "100,00",
-              "valor_referencia": "0,24"
-            }
-          ]
-        },
-        {
-          "numero": "10",
-          "titulo": "9900516091 Buchas de nylon para fixação, compatíveis com broca de 8 mm:medindo aproximadamente 8 x 40 mm, destinadas à fixação em alvenaria, concreto ou materiais similares.",
-          "fase": "FRACASSADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "26,00",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900516091 Buchas de nylon para fixação, compatíveis com broca de 8 mm:medindo aproximadamente 8 x 40 mm, destinadas à fixação em alvenaria, concreto ou materiais similares.",
-              "unidade": "UND",
-              "quantidade": "100,00",
-              "valor_referencia": "0,26"
-            }
-          ]
-        },
-        {
-          "numero": "11",
-          "titulo": "37714 Buchas de nylon para fixação, compatíveis com broca de 10 mm:medindo aproximadamente 10 x 50 mm, destinadas à fixação em alvenaria, concreto ou materiais similares.",
-          "fase": "FRACASSADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "28,00",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37714 Buchas de nylon para fixação, compatíveis com broca de 10 mm:medindo aproximadamente 10 x 50 mm, destinadas à fixação em alvenaria, concreto ou materiais similares.",
-              "unidade": "UND",
-              "quantidade": "100,00",
-              "valor_referencia": "0,28"
-            }
-          ]
-        },
-        {
-          "numero": "12",
-          "titulo": "9907000152 Bomba de ar manual para enchimento de bolas esportivas:fabricada em material resistente a impactos e ao uso contínuo, adequada para enchimento de bolas de futsal, futebol, basquete, voleibol, handebol e modalidades similares. Deverá possuir sis",
-          "fase": "JULGAMENTO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "478,94",
-          "vencedor": "POLYANA MARCONI SPORT LTDA",
-          "melhor_oferta": "323,07",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9907000152 Bomba de ar manual para enchimento de bolas esportivas:fabricada em material resistente a impactos e ao uso contínuo, adequada para enchimento de bolas de futsal, futebol, basquete, voleibol, handebol e modalidades similares. Deverá possuir sistema de insuflação manual, acompanhar no mínimo 1 agulha metálica rosqueável compatível com válvulas de bolas esportivas e demais acessórios necessários ao seu funcionamento.",
-              "unidade": "UND",
-              "quantidade": "11,00",
-              "valor_referencia": "43,54"
-            }
-          ]
-        },
-        {
-          "numero": "13",
-          "titulo": "9900516092 Maleta para armazenamento de ferramentas e acessórios:confeccionada em material plástico de alta resistência ou metálico, com alça reforçada para transporte e travas de fechamento seguras. Dimensões externas aproximadas de 45  cm x 30 cm x 15 c",
-          "fase": "FRACASSADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "406,48",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900516092 Maleta para armazenamento de ferramentas e acessórios:confeccionada em material plástico de alta resistência ou metálico, com alça reforçada para transporte e travas de fechamento seguras. Dimensões externas aproximadas de 45 cm x 30 cm x 15 cm, admitidas variações dimensionais que não comprometam sua capacidade de armazenamento ou funcionalidade.",
-              "unidade": "UND",
-              "quantidade": "2,00",
-              "valor_referencia": "203,24"
-            }
-          ]
-        },
-        {
-          "numero": "14",
-          "titulo": "9907000153 Conjunto de tabela de basquete para uso recreativo e escolar:composto por tabela medindo aproximadamente 1,10  m x 0,80 m, confeccionada em material transparente de alta resistência (policarbonato compacto, acrílico, vidro temperado ou material",
-          "fase": "FRACASSADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "28.638,90",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9907000153 Conjunto de tabela de basquete para uso recreativo e escolar:composto por tabela medindo aproximadamente 1,10 m x 0,80 m, confeccionada em material transparente de alta resistência (policarbonato compacto, acrílico, vidro temperado ou material de desempenho equivalente), com espessura mínima de 10 mm, equipada com aro de diâmetro oficial e rede compatível. Estrutura metálica com tratamento anticorrosivo, acompanhada de sistema de fixação compatível com o local de instalação e todos os acessórios necessários para montagem.",
-              "unidade": "CJ",
-              "quantidade": "9,00",
-              "valor_referencia": "3.182,10"
             }
           ]
         }
@@ -289008,7 +288320,7 @@
         {
           "numero": "1",
           "titulo": "EXECUÇÃO DOS SERVIÇOS DE LIMPEZA URBANA E MANEJO DE RESÍDUOS SÓLIDOS URBANOS NO MUNICÍPIO DE TEIXEIRA DE FREITAS – BA",
-          "fase": "JULGAMENTO",
+          "fase": "INTERPOSIÇÃO DE RECURSOS",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "1.000,00",
@@ -291086,7 +290398,7 @@
         {
           "numero": "1",
           "titulo": "5707611164 Antena de Internet via Satélite Portátil - Starlink Mini:Terminal de internet via satélite portátil modelo Mini, composto por antena compacta de alto desempenho, roteador Wi- Fi integrado, fonte de alimentação, cabos e demais acessórios necessá",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -291110,7 +290422,7 @@
         {
           "numero": "2",
           "titulo": "37316 Plano de Serviço de Internet via Satélite Starlink (Mobilidade/Viagem) 100mbs:Plano de prestação de serviço de internet via satélite na modalidade móvel/viagem, com franquia mensal de dados de 100 GB, destinado à utilização do terminal portátil desc",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -291449,242 +290761,6 @@
               "unidade": "UN",
               "quantidade": "2,00",
               "valor_referencia": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "3-DLE-077-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "782 / 2026",
-      "modalidade": "DISPENSA ELETRÔNICA",
-      "situacao": "DISPUTA",
-      "condutor": "ISAQUE SILVA DOS SANTOS",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO PARCELADA",
-      "publicacao": "11/08/2026 10:57",
-      "inicio_recepcao": "11/08/2026 11:00",
-      "fim_recepcao": "17/08/2026 08:15",
-      "inicio_disputa": "17/08/2026 08:30",
-      "objeto": "Contratação de empresa especializada em fornecimento de [MEDICAMENTOS EM CÁPSULAS E INJETÁVEIS] (material de\nconsumo), a fim de atender as necessidades da Secretaria Municipal de Saúde, conforme condições, quantidades e exigências estabelecidas neste Aviso de Contratação Direta, Termo de Referência e seus Anexos",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DD3oYjzH4pA4ASbQORV8RJhdC51kPkLlZvEeRpXpaVYp1mb2qYaU5OhsUaKVE1dI2Da8_na9xqvEHhDhFNfcttsfShROF55mGqK29uwqmbsA%3D",
-      "total_lotes": 9,
-      "total_itens": 9,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "6500200104 Carbamazepina:400mg comprimido. marca: tegretol. EXCLUSIVO PARA ME/EPP.",
-          "fase": "DISPUTA",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "3.726,00",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "6500200104 Carbamazepina:400mg comprimido. marca: tegretol. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "CO",
-              "quantidade": "1.080,00",
-              "valor_referencia": "3,45"
-            }
-          ]
-        },
-        {
-          "numero": "2",
-          "titulo": "10100500025 Cloridrato de tramadol + paracetamol (nas dosagens de 37,5 mg + 325 mg):COMPRIMIDO. Marca: Gésico Duo. EXCLUSIVO PARA ME/EPP.",
-          "fase": "DISPUTA",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "3.466,80",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "10100500025 Cloridrato de tramadol + paracetamol (nas dosagens de 37,5 mg + 325 mg):COMPRIMIDO. Marca: Gésico Duo. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "CO",
-              "quantidade": "1.080,00",
-              "valor_referencia": "3,21"
-            }
-          ]
-        },
-        {
-          "numero": "3",
-          "titulo": "6500200105 Fosfato dissódico de dexametasona 1,50 mg/mL, hidroxocobalamina 500 mg/mL e dipirona sódica 5 mg/mL:solução injetável. Marca: Dexalgen. EXCLUSIVO PARA ME/EPP.",
-          "fase": "DISPUTA",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "867,84",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "6500200105 Fosfato dissódico de dexametasona 1,50 mg/mL, hidroxocobalamina 500 mg/mL e dipirona sódica 5 mg/mL:solução injetável. Marca: Dexalgen. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "AMP",
-              "quantidade": "48,00",
-              "valor_referencia": "18,08"
-            }
-          ]
-        },
-        {
-          "numero": "4",
-          "titulo": "37608 PREGABALINA:100MG COMPRIMIDO. EXCLUSIVO PARA ME/EPP.",
-          "fase": "DESERTO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "2.952,00",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37608 PREGABALINA:100MG COMPRIMIDO. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "CO",
-              "quantidade": "720,00",
-              "valor_referencia": "4,10"
-            }
-          ]
-        },
-        {
-          "numero": "5",
-          "titulo": "37724 Hiluropt (Hialuronato de Sódio 0,15%):solução oftálmica 10ml. EXCLUSIVO PARA ME/EPP.",
-          "fase": "DESERTO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "1.465,92",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37724 Hiluropt (Hialuronato de Sódio 0,15%):solução oftálmica 10ml. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "FR",
-              "quantidade": "36,00",
-              "valor_referencia": "40,72"
-            }
-          ]
-        },
-        {
-          "numero": "6",
-          "titulo": "37725 Nimegon (Sitagliptina):100 mg. EXCLUSIVO PARA ME/EPP.",
-          "fase": "DESERTO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "4.024,80",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37725 Nimegon (Sitagliptina):100 mg. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "CO",
-              "quantidade": "360,00",
-              "valor_referencia": "11,18"
-            }
-          ]
-        },
-        {
-          "numero": "7",
-          "titulo": "9900516093 Patanol S (Cloridrato De Olopatadina):2,22 mg/ml 2,5ml solução oftalmológica. EXCLUSIVO PARA ME/EPP.",
-          "fase": "DISPUTA",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "1.943,52",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900516093 Patanol S (Cloridrato De Olopatadina):2,22 mg/ml 2,5ml solução oftalmológica. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "FR",
-              "quantidade": "24,00",
-              "valor_referencia": "80,98"
-            }
-          ]
-        },
-        {
-          "numero": "8",
-          "titulo": "37726 Sertralina:25 mg. EXCLUSIVO PARA ME/EPP.",
-          "fase": "DISPUTA",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "446,40",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37726 Sertralina:25 mg. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "CO",
-              "quantidade": "360,00",
-              "valor_referencia": "1,24"
-            }
-          ]
-        },
-        {
-          "numero": "9",
-          "titulo": "37727 Valproato de Sódio (Torval ):500 mg. EXCLUSIVO PARA ME/EPP.",
-          "fase": "DESERTO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "1.735,20",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37727 Valproato de Sódio (Torval ):500 mg. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "CO",
-              "quantidade": "720,00",
-              "valor_referencia": "2,41"
             }
           ]
         }
@@ -292223,33 +291299,1405 @@
       ]
     },
     {
-      "id": "CD-005-2025",
+      "id": "3-DLE-076-2026",
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "758/2025",
-      "modalidade": "CREDENCIAMENTO",
-      "situacao": "SUSPENSO",
-      "condutor": "MAGDA DE SELES GUIMARÃES",
+      "numero_adm": "824 / 2026",
+      "modalidade": "DISPENSA ELETRÔNICA",
+      "situacao": "RECEPÇÃO DE PROPOSTAS",
+      "condutor": "ISLA LIMA SILVA",
       "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO",
-      "publicacao": "03/06/2025 11:48",
-      "inicio_recepcao": "13/06/2025 08:00",
-      "fim_recepcao": "15/06/2026 00:00",
-      "inicio_disputa": "",
-      "objeto": "Credenciamento de pessoa jurídica para PRESTAÇÃO DE SERVIÇOS\n MÉDICOS ESPECIALIZADOS EM ANÁLISE PATOLÓGICA para atender as demandas da\n Secretaria Municipal de Saúde.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DzL8fJJau%2F7MaUswJtFVfQOaRTLc7vWFw5Ce2lt5LqsGCJykFJu4LASZRMFEtepWyouUV3nmFDtpC6C8iS%2FLd4NE1EdP%2FlQ67B_%2FFLwzR8Pk%3D",
+      "tipo_contrato": "AQUISIÇÃO PARCELADA",
+      "publicacao": "17/08/2026 17:58",
+      "inicio_recepcao": "17/08/2026 18:00",
+      "fim_recepcao": "20/08/2026 08:15",
+      "inicio_disputa": "20/08/2026 08:30",
+      "objeto": "Contratação de empresa especializada em fornecimento de [CANABIDIOL PARA ATENDER DEMANDA JUDICIAL] (material de consumo), a fim de atender as necessidades da Secretaria Municipal de Saúde, conforme condições, quantidades e exigências estabelecidas neste Aviso de Contratação Direta, Termo de Referência e seus Anexos.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DTJQOFZbDxZR1eaVt0QR2uh2oZVMvIvqXDNvcyPL7LiDz78xKPGc%2FC5YQl%2FlnpiMTULFdN9IkL1c6y7iJGgNqUmlxR9buVePX4SEKiDKPFoM%3D",
+      "total_lotes": 1,
+      "total_itens": 1,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "CANABIDIOL",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "49.906,08",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "10101200026 Canabidiol ISOLADO 200mg/ml:Gotas; MarcaHEALTHMEDS.",
+              "unidade": "FR",
+              "quantidade": "28,00",
+              "valor_referencia": "1.782,36"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-136-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "861 / 2026",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "PUBLICADO",
+      "condutor": "SERGIO CARNEIRO CAVALCANTI DE AZEVEDO",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "REGISTRO DE PREÇO",
+      "publicacao": "17/08/2026 16:09",
+      "inicio_recepcao": "19/08/2026 08:00",
+      "fim_recepcao": "28/08/2026 13:45",
+      "inicio_disputa": "28/08/2026 14:00",
+      "objeto": "Contratação de empresa especializada em fornecimento de COMPUTADORES E NOTEBOOKS (material permanente), a fim de atender as demandas da Secretaria Municipal de Administração e\ndemais secretarias.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DwLM7sibIf5R8QauZzkKa9PPqKH7qtdLjVHQsABHXG7P2GJy1lzK%2FCO_MX6uoQi4VRAS4jFROinGvhgCkXXg8prJZVTtUPsGGo3bYdjKVH6o%3D",
+      "total_lotes": 16,
+      "total_itens": 16,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "9900830612 COMPUTADOR I3 16GB - SSD 480GB:PLACA-MÃE: Compatibilidade para processadores lançados a partir de 2024. Suporte a memória DDR4 com capacidade máxima de 128 GB, Dual Channel, frequência mínima de 3200 MHz. Possuir 1 porta HDMI 1.4, 1 DisplayPor",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900830612 COMPUTADOR I3 16GB - SSD 480GB:PLACA-MÃE: Compatibilidade para processadores lançados a partir de 2024. Suporte a memória DDR4 com capacidade máxima de 128 GB, Dual Channel, frequência mínima de 3200 MHz. Possuir 1 porta HDMI 1.4, 1 DisplayPort e 1 VGA; 1 slot PCIe x16 e 2 slots PCIe x1; 2 slots M.2, sendo M.2_1 PCIe 4.0 x4 (2280/2260/2242) e M.2_2 PCIe 4.0 x4/SATA (2280/2260/2242); 4 conectores SATA 6 Gb/s com suporte a RAID 0, 1, 5 e 10. Disponibilizar 4portas USB 2.0 traseiras, 4 portas USB 2.0 frontais, 1 USB 3.2 Gen1 Type-A traseira, 2 USB 3.2 Gen1 Type-A frontais e 1 USB3.2 Gen2 . Possuir rede Gigabit LAN, áudio onboard 7.1 canais e conectores internos ATX_PWR, CPU_PWR, CPU FAN, SYSTEM FAN, Front Panel, Front Audio, TPM 2.0, USB 2.0 e USB 3.2 Gen1. Compatível com Windows® 11 e Windows® 10 64 bits. Deverá acompanhar, no mínimo, 1 cabo SATA e 2 parafusos para slot M.2. PROCESSADOR: Intel Core i3 de 14ª geração, Modelo Box com cooler original do fabricante, arquitetura de 64 bits, lançado a partir de 2024, frequência mínima de 3,40 GHz, vídeo integrado e suporte para até 4 monitores. Deverá possuir, no mínimo, 4 núcleos e 8 threads, cache L1 de 4 x 48 KB, cache L2 de 4 x 1280 KB e cache L3 de 12 MB. MEMÓRIA RAM: Capacidade mínima de 16 GB DDR4. Velocidade de 3200 MHz, latência CL16, dissipador de calor, padrão PC4-25600 e tensão de operação de 1,35 V. ARMAZENAMENTO SSD NVMe: Unidade de estado sólido (SSD) com capacidade mínima de 480 GB, interface M.2 NVMe PCI Express 4.0 x4, ou superior, fator de forma M.2 2280, memória 3D NAND TLC ou tecnologia superior. Deverá possuir velocidade sequencial mínima de 3.000 MB/s para leitura e 1.800 MB/s para gravação. Produto novo, em linha de fabricação, compatível com a placa-mãe ofertada. FONTE DE ALIMENTAÇÃO: Potência real de 350 Watts ou superior, certificação 80 Plus Bronze, PFC ativo, bivolt automático(115V-230V), certificação INMETRO, cooler de 14 cm e cabo de força de 1,80 m conforme padrão ABNT. Deverá possuir 1 conector 20+4 pinos, 2 conectores PCI Express 6+2 pinos, 1 conector ATX 4+4 pinos, 2 conectores IDE e 6 conectores SATA. MTBF mínimo de 100.000 horas. GABINETE: Construído em chapa SPCC de 0,50 mm, compatível com placas-mãe Micro ATX e fontes ATX. Possuir lateral em acrílico ou metal, 1 baia ODD, 2 baias HDD e 2 baias SSD. Disponibilizar na parte frontal 2 portas USB 2.0, 1 porta USB 3.0, 1 entrada para microfone e 1 entrada para áudio.",
+              "unidade": "UND",
+              "quantidade": "150,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "2",
+          "titulo": "9900830613 COMPUTADOR I5 8GB - SSD 480GB: PLACA-MÃE:: Compatibilidade para processadores lançados a partir de 2024. Suporte a memória DDR4 com capacidade máxima de 128 GB, Dual Channel, frequência mínima de 3200 MHz. Possuir 1 porta HDMI 1.4, 1 DisplayPo",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900830613 COMPUTADOR I5 8GB - SSD 480GB: PLACA-MÃE:: Compatibilidade para processadores lançados a partir de 2024. Suporte a memória DDR4 com capacidade máxima de 128 GB, Dual Channel, frequência mínima de 3200 MHz. Possuir 1 porta HDMI 1.4, 1 DisplayPort e 1 VGA; 1 slot PCIe x16 e 2 slots PCIe x1; 2 slots M.2, sendo M.2_1 PCIe 4.0 x4 (2280/2260/2242) e M.2_2 PCIe 4.0 x4/SATA (2280/2260/2242); 4 conectores SATA 6 Gb/s com suporte a RAID 0, 1, 5 e 10. Disponibilizar 4portas USB 2.0 traseiras, 4 portas USB 2.0 frontais, 1 USB 3.2 Gen1 Type-A traseira, 2 USB 3.2 Gen1 Type-A frontais e 1 USB3.2 Gen2 . Possuir rede Gigabit LAN, áudio onboard 7.1 canais e conectores internos ATX_PWR, CPU_PWR, CPU FAN, SYSTEM FAN, Front Panel, Front Audio, TPM 2.0, USB 2.0 e USB 3.2 Gen1. Compatível com Windows® 11 e Windows® 10 64 bits. Deverá acompanhar, no mínimo, 1 cabo SATA e 2 parafusos para slot M.2.PROCESSADOR: Processador Intel Core i5 de 14ª geração ou superior, arquitetura de 64 bits, modelo Box com sistema de refrigeração original do fabricante e vídeo gráfico integrado. Deverá possuir, no mínimo, 10 (dez) núcleos, 16 (dezesseis) threads, cache inteligente de 20 MB, frequência base mínima de 2,5 GHz e frequência máxima em modo Turbo de, no mínimo, 4,6 GHz, com suporte à utilização simultânea de, no mínimo, 4 (quatro) monitores. Produto novo, em linha de fabricação, compatível com a placa-mãe ofertada. MEMÓRIA RAM: Capacidade mínima de 8 GB em módulo único DDR4, não sendo aceitos dois módulos de 4 GB. Velocidade de 3200 MHz, latência CL16, dissipador de calor, padrãoPC4-25600 e tensão de operação de 1,35 V. ARMAZENAMENTO: SSD NVMe: Unidade de estado sólido (SSD) com capacidade mínima de 480 GB, interface M.2 NVMe PCI Express 4.0 x4, ou superior, fator de forma M.2 2280, memória 3D NAND TLC ou tecnologia superior. Deverá possuir velocidade sequencial mínima de 3.000 MB/s para leitura e 1.800 MB/s para gravação. Produto novo, em linha de fabricação, compatível com a placa-mãe ofertada. FONTE DE ALIMENTAÇÃO: Fonte de alimentação: Potência real de 350 Watts ou superior, certificação 80 Plus Bronze, PFC ativo, bivolt automático (115V-230V), certificação INMETRO, cooler de 14 cm e cabo de força de 1,80 m conforme padrão ABNT. Deverá possuir 1 conector 20+4 pinos, 2 conectores PCI Express 6+2pinos, 1 conector ATX 4+4 pinos, 2 conectores IDE e 6 conectores SATA. MTBF mínimo de 100.000 horas. GABINETE: Construído em chapa",
+              "unidade": "UND",
+              "quantidade": "150,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "3",
+          "titulo": "9900830614 COMPUTADOR I5 16GB SSD 480GB:PLACA-MÃE: Compatibilidade para processadores lançados a partir de 2024. Suporte a memória DDR4 com capacidade máxima de 128 GB, Dual Channel, frequência mínima de 3200 MHz. Possuir 1 porta HDMI 1.4, 1 DisplayPort",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900830614 COMPUTADOR I5 16GB SSD 480GB:PLACA-MÃE: Compatibilidade para processadores lançados a partir de 2024. Suporte a memória DDR4 com capacidade máxima de 128 GB, Dual Channel, frequência mínima de 3200 MHz. Possuir 1 porta HDMI 1.4, 1 DisplayPort e 1 VGA; 1 slot PCIe x16 e 2 slots PCIe x1; 2 slots M.2, sendo M.2_1 PCIe 4.0 x4 (2280/2260/2242) e M.2_2 PCIe 4.0 x4/SATA (2280/2260/2242); 4 conectores SATA 6 Gb/s com suporte a RAID 0, 1, 5 e 10. Disponibilizar 4portas USB 2.0 traseiras, 4 portas USB 2.0 frontais, 1 USB 3.2 Gen1 Type-A traseira, 2 USB 3.2 Gen1 Type-A frontais e 1 USB3.2 Gen2. Possuir rede Gigabit LAN, áudio onboard 7.1 canais e conectores internos ATX_PWR, CPU_PWR, CPU FAN, SYSTEM FAN, Front Panel, Front Audio, TPM 2.0, USB 2.0 e USB 3.2 Gen1. Compatível com Windows® 11 e Windows® 10 64 bits. Deverá acompanhar, no mínimo, 1 cabo SATA e 2 parafusos para slot M.2. PROCESSADOR: Processador Intel Core i5 de 14ª geração ou superior, arquitetura de 64 bits, modelo Box com sistema de refrigeração original do fabricante e vídeo gráfico integrado. Deverá possuir, no mínimo, 10 (dez) núcleos, 16 (dezesseis) threads, cache inteligente de 20 MB, frequência base mínima de 2,5 GHz e frequência máxima em modo Turbo de, no mínimo, 4,6 GHz, com suporte à utilização simultânea de, no mínimo, 4 (quatro) monitores. Produto novo, em linha de fabricação, compatível com a placa-mãe ofertada. MEMÓRIA RAM: Capacidade mínima de 16 GB DDR4. Velocidade de 3200 MHz, latência CL16, dissipador de calor, padrão PC4-25600 e tensão de operação de 1,35 V. ARMAZENAMENTO: SSD NVMe: Unidade de estado sólido (SSD) com capacidade mínima de 480 GB, interface M.2 NVMe PCI Express 4.0 x4, ou superior, fator de forma M.2 2280, memória 3D NAND TLC ou tecnologia superior. Deverá possuir velocidade sequencial mínima de 3.000 MB/s para leitura e 1.800 MB/s para gravação. Produto novo, em linha de fabricação, compatível com a placa-mãe ofertada. FONTE DE ALIMENTAÇÃO: Potência real de 350 Watts ou superior, certificação 80 Plus Bronze, PFC ativo, bivolt automático(115V-230V), certificação INMETRO, cooler de 14 cm e cabo de força de 1,80 m conforme padrão ABNT. Deverá possuir 1 conector 20+4 pinos, 2 conectores PCI Express 6+2 pinos, 1 conector ATX 4+4 pinos, 2 conectores IDE e 6 conectores SATA. MTBF mínimo de 100.000 horas. GABINETE: Construído em chapa SPCC de 0,50 mm, compatível com placas-mãe Micro ATX e fontes ATX. Possuir later",
+              "unidade": "UND",
+              "quantidade": "75,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "4",
+          "titulo": "37721 COMPUTADOR I7 16GB SSD 480GB   C/ PLACA DEVÍDEO:PLACA-MÃE: Compatível com processadores lançados a partir de 2024, soquete compatível com o processador ofertado e chipset da mesma geração ou superior. Suporte a memórias DDR4 ou superior Quad Channe",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37721 COMPUTADOR I7 16GB SSD 480GB C/ PLACA DEVÍDEO:PLACA-MÃE: Compatível com processadores lançados a partir de 2024, soquete compatível com o processador ofertado e chipset da mesma geração ou superior. Suporte a memórias DDR4 ou superior Quad Channel, capacidade mínima de 128 GB e frequência mínima de 3200 MHz. Possuir, no mínimo, 1 (um) slot PCI Express x16 4.0 ou superior, 2 (dois) slots M.2 NVMe PCI Express, 4 (quatro) portas SATA III 6 Gb/s, interface de rede Gigabit Ethernet integrada, áudio HD onboard, no mínimo 6 (seis) portas USB, sendo pelo menos 3 (três) USB 3.2, saídas de vídeo digitais compatíveis com o vídeo integrado do processador, conector TPM 2.0 e suporte ao sistema operacional Windows 11 64 bits. Deverá acompanhar os acessórios necessários para sua instalação. PROCESSADOR: i7 de 14ª geração ou superior, arquitetura de 64 bits, modelo Box com sistema de refrigeração original do fabricante e vídeo gráfico integrado. Deverá possuir, no mínimo, 10 (dez) núcleos, 16 (dezesseis) threads, cache inteligente de 20 MB, frequência base mínima de 2,5 GHz e frequência máxima em modo Turbo de, no mínimo, 4,9 GHz, com suporte à utilização simultânea de, no mínimo, 4 (quatro) monitores. Produto novo, em linha de fabricação, compatível com a placa-mãe ofertada. MEMÓRIA RAM: Capacidade mínima de 16 GB DDR4 ou superior. Velocidade de 3200 MHz, latência CL16, dissipador de calor, padrão PC4-25600 e tensão de operação de 1,35 V. ARMAZENAMENTO SSD NVMe: Unidade de estado sólido (SSD) com capacidade mínima de 480 GB, interface M.2 NVMe PCI Express 4.0 x4, ou superior, fator de forma M.2 2280, memória 3D NAND TLC ou tecnologia superior. Deverá possuir velocidade sequencial mínima de 3.000 MB/s para leitura e 1.800 MB/s para gravação. Produto novo, em linha de fabricação, compatível com a placa-mãe ofertada. FONTE DE ALIMENTAÇÃO Fonte de Alimentação: Potência real mínima de 600 W, certificação 80 Plus Bronze ou superior, PFC ativo e entrada bivolt automática (100-240 V, 50/60 Hz). Deverá possuir, no mínimo, 1 (um) conector ATX 20+4 pinos, 1 (um) conector EPS/ATX 4+4 pinos para alimentação do processador, 2 (dois) conectores PCI Express 6+2 pinos para alimentação de placa de vídeo e 4 (quatro) conectores SATA. Sistema de refrigeração ativo com ventoinha de 120 mm ou superior, proteções elétricas contra sobretensão (OVP), subtensão (UVP), sobrecorrente (OCP), sobrepotência (OPP), curto-circuito (SCP) e sobre",
+              "unidade": "UND",
+              "quantidade": "12,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "5",
+          "titulo": "9900830615 COMPUTADOR I7 32GB SSD 480GB   C/ PLACADE VÍDEO:PLACA-MÃE: Compatível com processadores lançados a partir de 2024, soquete compatível com o processador ofertado e chipset da mesma geração ou superior. Suporte a memórias DDR4 ou superior Quad C",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900830615 COMPUTADOR I7 32GB SSD 480GB C/ PLACADE VÍDEO:PLACA-MÃE: Compatível com processadores lançados a partir de 2024, soquete compatível com o processador ofertado e chipset da mesma geração ou superior. Suporte a memórias DDR4 ou superior Quad Channel, capacidade mínima de 128 GB e frequência mínima de 3200 MHz. Possuir, no mínimo, 1 (um) slot PCI Express x16 4.0 ou superior, 2 (dois) slots M.2 NVMe PCI Express, 4 (quatro) portas SATA III 6 Gb/s, interface de rede Gigabit Ethernet integrada, áudio HD onboard, no mínimo 6 (seis) portas USB, sendo pelo menos 3 (três) USB 3.2, saídas de vídeo digitais compatíveis com o vídeo integrado do processador, conector TPM 2.0 e suporte ao sistema operacional Windows 11 64 bits. Deverá acompanhar os acessórios necessários para sua instalação.PROCESSADOR: i7 de 14ª geração ou superior, arquitetura de 64 bits, modelo Box com sistema de refrigeração original do fabricante e vídeo gráfico integrado. Deverá possuir, no mínimo, 10 (dez) núcleos, 16 (dezesseis) threads, cache inteligente de 20 MB, frequência base mínima de 2,5 GHz e frequência máxima em modo Turbo de, no mínimo, 4,9 GHz, com suporte à utilização simultânea de, no mínimo, 4 (quatro) monitores.Produto novo, em linha de fabricação, compatível com a placa- mãe ofertada. MEMÓRIA RAM: Capacidade mínima de 32 GB DDR4 ou superior. Velocidade de 3200 MHz, latência CL16, dissipador de calor, padrão PC4-25600 e tensão de operação de 1,35 V. ARMAZENAMENTO: SSD NVMe: Unidade de estado sólido (SSD) com capacidade mínima de 480 GB, interface M.2 NVMe PCI Express 4.0 x4, ou superior, fator de forma M.2 2280, memória 3D NAND TLC ou tecnologia superior. Deverá possuir velocidade sequencial mínima de 3.000 MB/s para leitura e 1.800 MB/s para gravação. Produto novo, em linha de fabricação, compatível com a placa-mãe ofertada. FONTE DE ALIMENTAÇÃO: Potência real mínima de 600 W, certificação 80 Plus Bronze ou superior, PFC ativo e entrada bivolt automática (100-240 V, 50/60 Hz). Deverá possuir, no mínimo, 1 (um) conector ATX 20+4 pinos, 1 (um) conector EPS/ATX 4+4 pinos para alimentação do processador, 2 (dois) conectores PCI Express 6+2 pinos para alimentação de placa de vídeo e 4 (quatro) conectores SATA. Sistema de refrigeração ativo com ventoinha de 120 mm ou superior, proteções elétricas contra sobretensão (OVP), subtensão (UVP), sobrecorrente (OCP), sobrepotência (OPP), curto-circuito (SCP) e sobretemperatura (OT",
+              "unidade": "UND",
+              "quantidade": "27,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "6",
+          "titulo": "9900830616 NOTEBOOK DE ALTODESEMPENHO:Processador de arquitetura x86-64, equivalente ou superior ao Intel Core i7, Intel Core Ultra 7 ou AMD Ryzen 7, para notebooks, com desempenho mínimo de 21.000 (vinte e um mil) pontos no índice PassMark CPU Mark (htt",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900830616 NOTEBOOK DE ALTODESEMPENHO:Processador de arquitetura x86-64, equivalente ou superior ao Intel Core i7, Intel Core Ultra 7 ou AMD Ryzen 7, para notebooks, com desempenho mínimo de 21.000 (vinte e um mil) pontos no índice PassMark CPU Mark (https://www.cpubenchmark.net/laptop.html), exceto processadores das linhas Intel Core i5 e AMD Ryzen 5. Sistema Operacional: Microsoft Windows 11 Home ou Professional, 64 bits, em Português (Brasil), instalado e licenciado. Placa de Vídeo: GPU dedicada para notebook equivalente ou superior à NVIDIA GeForce RTX 4050 Laptop GPU, com memória dedicada mínima de 6 GB GDDR6. Memória RAM: Capacidade mínima de 16 GB DDR5. Armazenamento: Unidade de estado sólido (SSD) com capacidade mínima de 512 GB, interface NVMe PCI Express e padrão M.2. Tela: Resolução mínima WUXGA (1920 x 1200), acabamento antirreflexo, brilho mínimo de 300 nits, taxa de atualização mínima de 165 Hz e cobertura de cores mínima de 100% sRGB. Conectividade: Wi-Fi 6 (IEEE 802.11ax) ou superior e Bluetooth 5.1 ou superior. Portas: No mínimo, 1 (uma) porta USB 3.2 Type-C, 2 (duas) portas USB 3.2 Type-A, 1 (uma) porta HDMI 2.1 ou superior, 1 (uma) porta RJ-45 e 1 (um) conector combinado para fone de ouvido e microfone (P2).Garantia: Garantia mínima de 24 meses, contados a partir do recebimento definitivo do equipamento. Especificação Geral: Serão aceitos equipamentos com características técnicas iguais ou superiores às especificadas. Modelos de Referência: Alienware 16 Aurora, Acer Nitro V16, ASUS TUF Gaming F16, Lenovo Legion 5 ou modelos equivalentes de desempenho igual ou superior.",
+              "unidade": "UND",
+              "quantidade": "12,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "7",
+          "titulo": "37723 NOTEBOOK DE DESEMPENHOINTERMEDIÁRIO:Processador de arquitetura x86-64, equivalente ou superior ao Intel Core 5 120U, Intel Core Ultra 5, Intel Core de 13ª geração ou AMD Ryzen 5 Série 7000, com vídeo gráfico integrado. Sistema Operacional: Microsof",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37723 NOTEBOOK DE DESEMPENHOINTERMEDIÁRIO:Processador de arquitetura x86-64, equivalente ou superior ao Intel Core 5 120U, Intel Core Ultra 5, Intel Core de 13ª geração ou AMD Ryzen 5 Série 7000, com vídeo gráfico integrado. Sistema Operacional: Microsoft Windows 11 Home ou Professional, 64 bits, em Português (Brasil). Placa de Vídeo: Controladora gráfica integrada ao processador.Memória RAM: Capacidade mínima de 16 GB DDR4 ou tecnologia superior. Armazenamento: Unidade de estado sólido (SSD) com capacidade mínima de 512 GB, interface NVMe PCI Express e padrão M.2. Tela: Resolução mínima Full HD (1920 x 1080), acabamento antirreflexo, brilho mínimo de 250 nits, taxa de atualização mínima de 120 Hz. Conectividade: Wi-Fi 6 (IEEE 802.11ax) ou superior e Bluetooth 5.1 ou superior. Portas: No mínimo, 1 (uma) porta USB 3.2 Type-C, 2 (duas) portas USB 3.2 Type-A, 1 (uma) porta HDMI 2.1 ou superior e 1 (um) conector combinado para fone de ouvido e microfone (P2). Garantia: Garantia mínima de 24 meses, contados a partir do recebimento definitivo do equipamento. Especificação Geral: Serão aceitos equipamentos com características técnicas iguais ou superiores às especificadas. Modelo de Referência: Notebook Dell Pro 15 Essential ou de equivalência técnica e de desempenho igual ou superior.",
+              "unidade": "UND",
+              "quantidade": "113,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "8",
+          "titulo": "9900830617 NOTEBOOK DE DESEMPENHO BÁSICO::Processador de arquitetura x86-64, equivalente ou superior ao Intel Core i3 de 13ª geração ou AMD Ryzen 5 Série 7000, com vídeo gráfico integrado. Deverá possuir, no mínimo, 6 (seis) núcleos, 8 (oito) threads, 10",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900830617 NOTEBOOK DE DESEMPENHO BÁSICO::Processador de arquitetura x86-64, equivalente ou superior ao Intel Core i3 de 13ª geração ou AMD Ryzen 5 Série 7000, com vídeo gráfico integrado. Deverá possuir, no mínimo, 6 (seis) núcleos, 8 (oito) threads, 10 MB de memória cache e frequência Turbo mínima de 4,4 GHz. Memória RAM: Capacidade mínima de 8 GB DDR4 ou DDR5, expansível para, no mínimo, 32 GB. Armazenamento: SSD com capacidade mínima de 512 GB, interface NVMe PCI Express e padrão M.2. Tela de, no mínimo, 15,6 polegadas, tecnologia IPS ou superior, resolução mínima Full HD (1920 x 1080) e acabamento antirreflexo. Vídeo: Controladora gráfica integrada ao processador, com suporte à resolução 4K. Conectividade: Wi-Fi 6 (IEEE 802.11ax) ou superior e Bluetooth 5.2 ou superior. Portas: No mínimo, 3 (três) portas USB, sendo 2 (duas) USB 3.2, 1 (uma) USB Type-C, 1 (uma) saída HDMI e 1 (uma) entrada de áudio combinada (P2). Bateria: Bateria interna recarregável com autonomia mínima de 8 (oito) horas, conforme especificação do fabricante. Teclado: Padrão ABNT2, com teclado numérico integrado e resistência a respingos de líquidos. Webcam: Webcam integrada com resolução mínima Full HD (1080p), microfone digital e alto- falantes estéreo. Sistema Operacional: Microsoft Windows 11 Professional 64 bits OEM, em português (Brasil). Acessórios: Fonte de alimentação bivolt automática (100-240 V) e cabo de alimentação. Garantia mínima de 24 meses. Certificações: Certificação INMETRO, e atendimento às normas nacionais e internacionais de qualidade e segurança. Especificação Geral: Serão aceitos equipamentos com características técnicas iguais ou superiores às especificadas.",
+              "unidade": "UND",
+              "quantidade": "23,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "9",
+          "titulo": "9909911356 COMPUTADOR I3 16GB - SSD 480GB:PLACA-MÃE::Compatibilidade para processadores lançados a partir de 2024. Suporte a memória DDR4 com capacidade máxima de 128 GB, Dual Channel, frequência mínima de 3200 MHz. Possuir 1porta HDMI 1.4, 1 DisplayPor",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9909911356 COMPUTADOR I3 16GB - SSD 480GB:PLACA-MÃE::Compatibilidade para processadores lançados a partir de 2024. Suporte a memória DDR4 com capacidade máxima de 128 GB, Dual Channel, frequência mínima de 3200 MHz. Possuir 1porta HDMI 1.4, 1 DisplayPort e 1 VGA; 1 slot PCIe x16 e 2 slots PCIe x1; 2 slots M.2, sendo M.2_1 PCIe 4.0 x4 (2280/2260/2242) e M.2_2 PCIe 4.0 x4/SATA (2280/2260/2242); 4 conectores SATA 6 Gb/s com suporte a RAID 0, 1, 5 e 10. Disponibilizar 4portas USB 2.0 traseiras, 4 portas USB 2.0 frontais, 1 USB 3.2 Gen1 Type-A traseira, 2 USB 3.2 Gen1 Type-A frontais e 1 USB3.2 Gen2 . Possuir rede Gigabit LAN, áudio onboard 7.1 canais econectores internos ATX_PWR, CPU_PWR, CPU FAN, SYSTEM FAN, Front Panel, Front Audio, TPM 2.0, USB 2.0 e USB 3.2 Gen1. Compatível com Windows® 11 e Windows® 1064 bits. Deverá acompanhar, no mínimo, 1 cabo SATA e 2parafusos para slot M.2. PROCESSADOR: Intel Core i3 de 14ª geração, Modelo Box com cooler original do fabricante, arquitetura de 64 bits, lançado a partir de 2024, frequência mínima de 3,40 GHz, vídeo integrado e suporte para até 4 monitores. Deverá possuir, no mínimo, 4 núcleos e 8 threads, cache L1 de 4 x 48 KB, cache L2 de 4 x 1280 KB e cache L3 de 12 MB. MEMÓRIA RAM: Capacidade mínima de 16 GB DDR4. Velocidade de 3200 MHz, latência CL16, dissipador de calor, padrão PC4-25600 e tensão de operação de 1,35 V. ARMAZENAMENTO SSD NVMe: Unidade de estado sólido(SSD) com capacidade mínima de 480 GB, interface M.2 NVMe PCI Express 4.0 x4, ou superior, fator de forma M.2 2280, memória 3D NAND TLC ou tecnologia superior. Deverá possuir velocidade sequencial mínima de 3.000 MB/s para leitura e 1.800MB/s para gravação. Produto novo, em linha de fabricação, compatível com a placa-mãe ofertada. FONTE DEALIMENTAÇÃO: Potência real de 350 Watts ou superior, certificação 80 Plus Bronze, PFC ativo, bivolt automático(115V-230V), certificação INMETRO, cooler de 14 cm e cabo de força de 1,80 m conforme padrão ABNT. Deverá possuir 1 conector 20+4 pinos, 2 conectores PCI Express 6+2 pinos, 1conector ATX 4+4 pinos, 2 conectores IDE e 6 conectores SATA. MTBF mínimo de 100.000 horas. GABINETE: Construído emchapa SPCC de 0,50 mm, compatível com placas-mãe Micro ATX e fontes ATX. Possuir lateral em acrílico ou metal, 1 baia ODD, 2 baias HDD e 2 baias SSD. Disponibilizar na parte frontal2 portas USB 2.0, 1 porta USB 3.0, 1 entrada para microfone e 1entrada para áudio.",
+              "unidade": "Und.",
+              "quantidade": "50,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "10",
+          "titulo": "9909911357 COMPUTADOR I5 8GB - SSD 480GB: PLACA-MÃE:::Compatibilidade para processadores lançados a partir de 2024. Suporte a memória DDR4 com capacidade máxima de 128 GB, Dual Channel, frequência mínima de 3200 MHz. Possuir 1porta HDMI 1.4, 1 DisplayPo",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9909911357 COMPUTADOR I5 8GB - SSD 480GB: PLACA-MÃE:::Compatibilidade para processadores lançados a partir de 2024. Suporte a memória DDR4 com capacidade máxima de 128 GB, Dual Channel, frequência mínima de 3200 MHz. Possuir 1porta HDMI 1.4, 1 DisplayPort e 1 VGA; 1 slot PCIe x16 e 2 slots PCIe x1; 2 slots M.2, sendo M.2_1 PCIe 4.0 x4 (2280/2260/2242) e M.2_2 PCIe 4.0 x4/SATA (2280/2260/2242); 4 conectores SATA 6 Gb/s com suporte a RAID 0, 1, 5 e 10. Disponibilizar 4portas USB 2.0 traseiras, 4 portas USB 2.0 frontais, 1 USB 3.2 Gen1 Type-A traseira, 2 USB 3.2 Gen1 Type-A frontais e 1 USB3.2 Gen2 . Possuir rede Gigabit LAN, áudio onboard 7.1 canais econectores internos ATX_PWR, CPU_PWR, CPU FAN, SYSTEM FAN, Front Panel, Front Audio, TPM 2.0, USB 2.0 e USB 3.2 Gen1. Compatível com Windows® 11 e Windows® 1064 bits. Deverá acompanhar, no mínimo, 1 cabo SATA e 2 parafusos para slot M.2.PROCESSADOR: Processador IntelCore i5 de 14ª geração ou superior, arquitetura de 64 bits, modelo Box com sistema de refrigeração original do fabricante evídeo gráfico integrado. Deverá possuir, no mínimo, 10 (dez) núcleos, 16 (dezesseis) threads, cache inteligente de 20 MB,frequência base mínima de 2,5 GHz e frequência máxima em modo Turbo de, no mínimo, 4,6 GHz, com suporte à utilizaçãosimultânea de, no mínimo, 4 (quatro) monitores. Produto novo, em linha de fabricação, compatível com a placa-mãe ofertada. MEMÓRIA RAM: Capacidade mínima de 8 GB em módulo único DDR4, não sendo aceitos dois módulos de 4 GB. Velocidade de3200 MHz, latência CL16, dissipador de calor, padrão PC4-25600 e tensão de operação de 1,35 V.ARMAZENAMENTO: SSD NVMe: Unidade de estado sólido(SSD) com capacidade mínima de 480 GB, interface M.2 NVMe PCI Express 4.0 x4, ou superior, fator de forma M.2 2280, memória 3D NAND TLC ou tecnologia superior. Deverá possuir velocidade sequencial mínima de 3.000 MB/s para leitura e 1.800MB/s para gravação. Produto novo, em linha de fabricação, compatível com a placa-mãe ofertada. FONTE DEALIMENTAÇÃO: Fonte de alimentação: Potência real de 350Watts ou superior, certificação 80 Plus Bronze, PFC ativo, bivolt automático (115V-230V), certificação INMETRO, cooler de 14 cme cabo de força de 1,80 m conforme padrão ABNT. Deverá possuir 1 conector 20+4 pinos, 2 conectores PCI Express 6+2pinos, 1 conector ATX 4+4 pinos, 2 conectores IDE e 6conectores SATA. MTBF mínimo de 100.000 horas. GABINETE: Construído em chapa",
+              "unidade": "Und.",
+              "quantidade": "50,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "11",
+          "titulo": "9909911358 COMPUTADOR I5 16GB SSD 480GB::PLACA-MÃE: Compatibilidade para processadores lançados a partir de 2024. Suporte a memória DDR4 com capacidade máxima de 128 GB, Dual Channel, frequência mínima de 3200 MHz. Possuir 1porta HDMI 1.4, 1 DisplayPort",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9909911358 COMPUTADOR I5 16GB SSD 480GB::PLACA-MÃE: Compatibilidade para processadores lançados a partir de 2024. Suporte a memória DDR4 com capacidade máxima de 128 GB, Dual Channel, frequência mínima de 3200 MHz. Possuir 1porta HDMI 1.4, 1 DisplayPort e 1 VGA; 1 slot PCIe x16 e 2 slots PCIe x1; 2 slots M.2, sendo M.2_1 PCIe 4.0 x4 (2280/2260/2242) e M.2_2 PCIe 4.0 x4/SATA (2280/2260/2242); 4 conectores SATA 6 Gb/s com suporte a RAID 0, 1, 5 e 10. Disponibilizar 4portas USB 2.0 traseiras, 4 portas USB 2.0 frontais, 1 USB 3.2 Gen1 Type-A traseira, 2 USB 3.2 Gen1 Type-A frontais e 1 USB3.2 Gen2. Possuir rede Gigabit LAN, áudio onboard 7.1 canais econectores internos ATX_PWR, CPU_PWR, CPU FAN, SYSTEM FAN, Front Panel, Front Audio, TPM 2.0, USB 2.0 e USB 3.2 Gen1. Compatível com Windows® 11 e Windows® 1064 bits. Deverá acompanhar, no mínimo, 1 cabo SATA e 2 parafusos para slot M.2. PROCESSADOR: Processador IntelCore i5 de 14ª geração ou superior, arquitetura de 64 bits, modelo Box com sistema de refrigeração original do fabricante evídeo gráfico integrado. Deverá possuir, no mínimo, 10 (dez) núcleos, 16 (dezesseis) threads, cache inteligente de 20 MB,frequência base mínima de 2,5 GHz e frequência máxima em modo Turbo de, no mínimo, 4,6 GHz, com suporte à utilizaçãosimultânea de, no mínimo, 4 (quatro) monitores. Produto novo, em linha de fabricação, compatível com a placa-mãe ofertada. MEMÓRIA RAM: Capacidade mínima de 16 GB DDR4. Velocidade de 3200 MHz, latência CL16, dissipador de calor, padrão PC4-25600 e tensão de operação de 1,35 V. ARMAZENAMENTO: SSD NVMe: Unidade de estado sólido(SSD) com capacidade mínima de 480 GB, interface M.2 NVMe PCI Express 4.0 x4, ou superior, fator de forma M.2 2280, memória 3D NAND TLC ou tecnologia superior. Deverá possuir velocidade sequencial mínima de 3.000 MB/s para leitura e 1.800MB/s para gravação. Produto novo, em linha de fabricação, compatível com a placa-mãe ofertada. FONTE DEALIMENTAÇÃO: Potência real de 350 Watts ou superior, certificação 80 Plus Bronze, PFC ativo, bivolt automático(115V-230V), certificação INMETRO, cooler de 14 cm e cabo de força de 1,80 m conforme padrão ABNT. Deverá possuir 1 conector 20+4 pinos, 2 conectores PCI Express 6+2 pinos, 1conector ATX 4+4 pinos, 2 conectores IDE e 6 conectores SATA. MTBF mínimo de 100.000 horas. GABINETE: Construído emchapa SPCC de 0,50 mm, compatível com placas-mãe Micro ATX e fontes ATX. Possuir lat",
+              "unidade": "Und.",
+              "quantidade": "25,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "12",
+          "titulo": "9909911359 COMPUTADOR I7 16GB SSD 480GB C/ PLACADE VÍDEO:PLACA-MÃE::Compatível com processadores lançados apartir de 2024, soquete compatível com o processador ofertado echipset da mesma geração ou superior. Suporte a memórias DDR4 ou superior Quad Cha",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9909911359 COMPUTADOR I7 16GB SSD 480GB C/ PLACADE VÍDEO:PLACA-MÃE::Compatível com processadores lançados apartir de 2024, soquete compatível com o processador ofertado echipset da mesma geração ou superior. Suporte a memórias DDR4 ou superior Quad Channel, capacidade mínima de 128 GBe frequência mínima de 3200 MHz. Possuir, no mínimo, 1 (um) slot PCI Express x16 4.0 ou superior, 2 (dois) slots M.2 NVMe PCI Express, 4 (quatro) portas SATA III 6 Gb/s, interface de rede Gigabit Ethernet integrada, áudio HD onboard, no mínimo 6(seis) portas USB, sendo pelo menos 3 (três) USB 3.2, saídas devídeo digitais compatíveis com o vídeo integrado do processador, conector TPM 2.0 e suporte ao sistema operacional Windows 1164 bits. Deverá acompanhar os acessórios necessários para suainstalação. PROCESSADOR: i7 de 14ª geração ou superior, arquitetura de 64 bits, modelo Box com sistema de refrigeraçãooriginal do fabricante e vídeo gráfico integrado. Deverá possuir, no mínimo, 10 (dez) núcleos, 16 (dezesseis) threads, cacheinteligente de 20 MB, frequência base mínima de 2,5 GHz e frequência máxima em modo Turbo de, no mínimo, 4,9 GHz, comsuporte à utilização simultânea de, no mínimo, 4 (quatro) monitores. Produto novo, em linha de fabricação, compatível coma placa-mãe ofertada. MEMÓRIA RAM: Capacidade mínima de16 GB DDR4 ou superior. Velocidade de 3200 MHz, latência CL16, dissipador de calor, padrão PC4-25600 e tensão deoperação de 1,35 V. ARMAZENAMENTO SSD NVMe: Unidade de estado sólido (SSD) com capacidade mínima de 480 GB, interface M.2 NVMe PCI Express 4.0 x4, ou superior, fator deforma M.2 2280, memória 3D NAND TLC ou tecnologia superior. Deverá possuir velocidade sequencial mínima de 3.000 MB/s para leitura e 1.800 MB/s para gravação. Produto novo, em linhade fabricação, compatível com a placa-mãe ofertada. FONTE DE ALIMENTAÇÃO Fonte de Alimentação: Potência real mínima de 600 W, certificação 80 Plus Bronze ou superior, PFC ativo eentrada bivolt automática (100-240 V, 50/60 Hz). Deverá possuir, no mínimo, 1 (um) conector ATX 20+4 pinos, 1 (um) conector EPS/ATX 4+4 pinos para alimentação do processador, 2 (dois) conectores PCI Express 6+2 pinos para alimentação de placa devídeo e 4 (quatro) conectores SATA. Sistema de refrigeração ativo com ventoinha de 120 mm ou superior, proteções elétricas contra sobretensão (OVP), subtensão (UVP), sobrecorrente (OCP), sobrepotência (OPP), curto-circuito (SCP) e sob",
+              "unidade": "Und.",
+              "quantidade": "3,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "13",
+          "titulo": "9909911360 COMPUTADOR I7 32GB SSD 480GB C/ PLACA DE VÍDEO:PLACA-MÃE::Compatível com processadores lançados a partir de 2024, soquete compatível com o processador ofertado e chipset da mesma geração ou superior. Suporte a memórias DDR4 ou superior Quad Cha",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9909911360 COMPUTADOR I7 32GB SSD 480GB C/ PLACA DE VÍDEO:PLACA-MÃE::Compatível com processadores lançados a partir de 2024, soquete compatível com o processador ofertado e chipset da mesma geração ou superior. Suporte a memórias DDR4 ou superior Quad Channel, capacidade mínima de 128 GB e frequência mínima de 3200MHz. Possuir, no mínimo, 1 (um) slot PCI Express x16 4.0 ousuperior, 2 (dois) slots M.2 NVMe PCI Express, 4 (quatro) portas SATA III 6 Gb/s, interface de rede Gigabit Ethernet integrada, áudio HD onboard, no mínimo 6 (seis) portas USB, sendo pelo menos 3 (três) USB 3.2, saídas de vídeo digitais compatíveiscom o vídeo integrado do processador, conector TPM 2.0 e suporte ao sistema operacional Windows 11 64 bits. Deveráacompanhar os acessórios necessários para sua instalação. PROCESSADOR: i7 de 14ª geração ou superior, arquitetura de64 bits, modelo Box com sistema de refrigeração original dofabricante e vídeo gráfico integrado. Deverá possuir, no mínimo, 10 (dez) núcleos, 16 (dezesseis) threads, cache inteligente de 20MB, frequência base mínima de 2,5 GHz e frequência máxima em modo Turbo de, no mínimo, 4,9 GHz, com suporte à utilização simultânea de, no mínimo, 4 (quatro) monitores.Produto novo, em linha de fabricação, compatível com a placa- mãe ofertada. MEMÓRIA RAM: Capacidade mínima de 32 GBDDR4 ou superior. Velocidade de 3200 MHz, latência CL16, dissipador de calor, padrão PC4-25600 e tensão de operação de1,35 V. ARMAZENAMENTO: SSD NVMe: Unidade de estado sólido (SSD) com capacidade mínima de 480 GB, interface M.2NVMe PCI Express 4.0 x4, ou superior, fator de forma M.2 2280, memória 3D NAND TLC ou tecnologia superior. Deverá possuir velocidade sequencial mínima de 3.000 MB/s para leitura e 1.800MB/s para gravação. Produto novo, em linha de fabricação, compatível com a placa-mãe ofertada. FONTE DEALIMENTAÇÃO: Potência real mínima de 600 W, certificação 80 Plus Bronze ou superior, PFC ativo e entrada bivolt automática(100-240 V, 50/60 Hz). Deverá possuir, no mínimo, 1 (um) conector ATX 20+4 pinos, 1 (um) conector EPS/ATX 4+4 pinos para alimentação do processador, 2 (dois) conectores PCIExpress 6+2 pinos para alimentação de placa de vídeo e 4 (quatro) conectores SATA. Sistema de refrigeração ativo com ventoinha de 120 mm ou superior, proteções elétricas contrasobretensão (OVP), subtensão (UVP), sobrecorrente (OCP), sobrepotência (OPP), curto-circuito (SCP) e sobretemperatura(OTP)",
+              "unidade": "Und.",
+              "quantidade": "8,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "14",
+          "titulo": "9909911369 NOTEBOOK DE ALTODESEMPENHO:Processador de arquitetura x86-64,:equivalenteou superior ao Intel Core i7, Intel Core Ultra 7 ou AMD Ryzen 7, para notebooks, com desempenho mínimo de 21.000 (vinte e ummil) pontos no índice PassMark CPU Mark (htt",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9909911369 NOTEBOOK DE ALTODESEMPENHO:Processador de arquitetura x86-64,:equivalenteou superior ao Intel Core i7, Intel Core Ultra 7 ou AMD Ryzen 7, para notebooks, com desempenho mínimo de 21.000 (vinte e ummil) pontos no índice PassMark CPU Mark (https://www.cpubenchmark.net/laptop.html), excetoprocessadores das linhas Intel Core i5 e AMD Ryzen 5. Sistema Operacional: Microsoft Windows 11 Home ou Professional, 64bits, em Português (Brasil), instalado e licenciado. Placa de Vídeo: GPU dedicada para notebook equivalente ou superior àNVIDIA GeForce RTX 4050 Laptop GPU, com memória dedicada mínima de 6 GB GDDR6. Memória RAM: Capacidade mínima de16 GB DDR5. Armazenamento: Unidade de estado sólido (SSD) com capacidade mínima de 512 GB, interface NVMe PCIExpress e padrão M.2. Tela: Resolução mínima WUXGA (1920 x 1200), acabamento antirreflexo, brilho mínimo de 300 nits, taxade atualização mínima de 165 Hz e cobertura de cores mínima de 100% sRGB. Conectividade: Wi-Fi 6 (IEEE 802.11ax) ou superior e Bluetooth 5.1 ou superior. Portas: No mínimo, 1 (uma) porta USB 3.2 Type-C, 2 (duas) portas USB 3.2 Type-A, 1 (uma)porta HDMI 2.1 ou superior, 1 (uma) porta RJ-45 e 1 (um) conector combinado para fone de ouvido e microfone (P2). Garantia: Garantia mínima de 24 meses, contados a partir dorecebimento definitivo do equipamento. Especificação Geral: Serão aceitos equipamentos com características técnicas iguais ou superiores às especificadas. Modelos de Referência: Alienware 16 Aurora, Acer Nitro V16, ASUS TUF Gaming F16, Lenovo Legion 5 ou modelos equivalentes de desempenho igual ou superior. COTA 25% PARA ME/EPP.",
+              "unidade": "Und.",
+              "quantidade": "3,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "15",
+          "titulo": "37808 NOTEBOOK DE DESEMPENHOINTERMEDIÁRIO:Processador de arquiteturax86-64,:equivalente ou superior ao Intel Core 5 120U, Intel Core Ultra 5,Intel Core de 13ª geração ou AMD Ryzen 5 Série 7000, comvídeo gráfico integrado. Sistema Operacional: Microsof",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37808 NOTEBOOK DE DESEMPENHOINTERMEDIÁRIO:Processador de arquiteturax86-64,:equivalente ou superior ao Intel Core 5 120U, Intel Core Ultra 5,Intel Core de 13ª geração ou AMD Ryzen 5 Série 7000, comvídeo gráfico integrado. Sistema Operacional: Microsoft Windows 11 Home ou Professional, 64 bits, em Português (Brasil). Placade Vídeo: Controladora gráfica integrada ao processador. Memória RAM: Capacidade mínima de 16 GB DDR4 outecnologia superior. Armazenamento: Unidade de estado sólido (SSD) com capacidade mínima de 512 GB, interface NVMe PCIExpress e padrão M.2. Tela: Resolução mínima Full HD (1920 x 1080), acabamento antirreflexo, brilho mínimo de 250 nits, taxade atualização mínima de 120 Hz. Conectividade: Wi-Fi 6 (IEEE802.11ax) ou superior e Bluetooth 5.1 ou superior. Portas: No mínimo, 1 (uma) porta USB 3.2 Type-C, 2 (duas) portas USB 3.2Type-A, 1 (uma) porta HDMI 2.1 ou superior e 1 (um) conector combinado para fone de ouvido e microfone (P2). Garantia: Garantia mínima de 24 meses, contados a partir do recebimentodefinitivo do equipamento. Especificação Geral: Serão aceitos equipamentos com características técnicas iguais ou superiores às especificadas. Modelo de Referência: Notebook Dell Pro 15Essential ou de equivalência técnica e de desempenho igual ou superior. COTA 25% PARA ME/EPP.",
+              "unidade": "Und.",
+              "quantidade": "37,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "16",
+          "titulo": "37809 NOTEBOOK DE DESEMPENHO BÁSICO:: Processadorde arquitetura x86-64,:equivalente ou superior aoIntel Core i3 de 13ª geração ou AMD Ryzen 5 Série 7000, comvídeo gráfico integrado. Deverá possuir, no mínimo, 6 (seis) núcleos, 8 (oito) threads, 10 MB d",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37809 NOTEBOOK DE DESEMPENHO BÁSICO:: Processadorde arquitetura x86-64,:equivalente ou superior aoIntel Core i3 de 13ª geração ou AMD Ryzen 5 Série 7000, comvídeo gráfico integrado. Deverá possuir, no mínimo, 6 (seis) núcleos, 8 (oito) threads, 10 MB de memória cache e frequência Turbo mínima de 4,4 GHz. Memória RAM: Capacidade mínimade 8 GB DDR4 ou DDR5, expansível para, no mínimo, 32 GB. Armazenamento: SSD com capacidade mínima de 512 GB,interface NVMe PCI Express e padrão M.2. Tela de, no mínimo, 15,6 polegadas, tecnologia IPS ou superior, resolução mínima Full HD (1920 x 1080) e acabamento antirreflexo. Vídeo: Controladora gráfica integrada ao processador, com suporte àresolução 4K. Conectividade: Wi-Fi 6 (IEEE 802.11ax) ou superior e Bluetooth 5.2 ou superior. Portas: No mínimo, 3 (três)portas USB, sendo 2 (duas) USB 3.2, 1 (uma) USB Type-C, 1(uma) saída HDMI e 1 (uma) entrada de áudio combinada (P2). Bateria: Bateria interna recarregável com autonomia mínima de 8(oito) horas, conforme especificação do fabricante. Teclado: Padrão ABNT2, com teclado numérico integrado e resistência arespingos de líquidos. Webcam: Webcam integrada comresolução mínima Full HD (1080p), microfone digital e altofalantes estéreo. Sistema Operacional: Microsoft Windows 11Professional 64 bits OEM, em português (Brasil). Acessórios: Fonte de alimentação bivolt automática (100-240 V) e cabo dealimentação. Garantia mínima de 24 meses. Certificações: Certificação INMETRO, e atendimento às normas nacionais einternacionais de qualidade e segurança. Especificação Geral: Serão aceitos equipamentos com características técnicas iguais ou superiores às especificadas. COTA 25% PARA ME/EPP.",
+              "unidade": "Und.",
+              "quantidade": "7,00",
+              "valor_referencia": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3-DLE-077-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "782 / 2026",
+      "modalidade": "DISPENSA ELETRÔNICA",
+      "situacao": "JULGAMENTO",
+      "condutor": "ISAQUE SILVA DOS SANTOS",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO PARCELADA",
+      "publicacao": "11/08/2026 10:57",
+      "inicio_recepcao": "11/08/2026 11:00",
+      "fim_recepcao": "17/08/2026 08:15",
+      "inicio_disputa": "17/08/2026 08:30",
+      "objeto": "Contratação de empresa especializada em fornecimento de [MEDICAMENTOS EM CÁPSULAS E INJETÁVEIS] (material de\nconsumo), a fim de atender as necessidades da Secretaria Municipal de Saúde, conforme condições, quantidades e exigências estabelecidas neste Aviso de Contratação Direta, Termo de Referência e seus Anexos",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DZTXst6GSk42FjwnrLhIBvT8BR8rkxMA5zdFZ8K6%2F0srYUj4NqBayBONdkOOMIQePdvz7fdLkj3NRsJKnELdSY68Ur7Fj8CbLHV46qTVYOvU%3D",
       "total_lotes": 9,
       "total_itens": 9,
       "lotes": [
         {
           "numero": "1",
-          "titulo": "33436 BIÓPSIA SIMPLES:BIÓPSIA SIMPLES",
-          "fase": "SUSPENSO",
+          "titulo": "6500200104 Carbamazepina:400mg comprimido. marca: tegretol. EXCLUSIVO PARA ME/EPP.",
+          "fase": "JULGAMENTO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "3.726,00",
+          "vencedor": "CALIXTO MEDICAMENTOS LTDA",
+          "melhor_oferta": "3.726,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "6500200104 Carbamazepina:400mg comprimido. marca: tegretol. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "CO",
+              "quantidade": "1.080,00",
+              "valor_referencia": "3,45"
+            }
+          ]
+        },
+        {
+          "numero": "2",
+          "titulo": "10100500025 Cloridrato de tramadol + paracetamol (nas dosagens de 37,5 mg + 325 mg):COMPRIMIDO. Marca: Gésico Duo. EXCLUSIVO PARA ME/EPP.",
+          "fase": "JULGAMENTO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "3.466,80",
+          "vencedor": "CALIXTO MEDICAMENTOS LTDA",
+          "melhor_oferta": "3.402,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "10100500025 Cloridrato de tramadol + paracetamol (nas dosagens de 37,5 mg + 325 mg):COMPRIMIDO. Marca: Gésico Duo. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "CO",
+              "quantidade": "1.080,00",
+              "valor_referencia": "3,21"
+            }
+          ]
+        },
+        {
+          "numero": "3",
+          "titulo": "6500200105 Fosfato dissódico de dexametasona 1,50 mg/mL, hidroxocobalamina 500 mg/mL e dipirona sódica 5 mg/mL:solução injetável. Marca: Dexalgen. EXCLUSIVO PARA ME/EPP.",
+          "fase": "JULGAMENTO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "867,84",
+          "vencedor": "CALIXTO MEDICAMENTOS LTDA",
+          "melhor_oferta": "849,60",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "6500200105 Fosfato dissódico de dexametasona 1,50 mg/mL, hidroxocobalamina 500 mg/mL e dipirona sódica 5 mg/mL:solução injetável. Marca: Dexalgen. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "AMP",
+              "quantidade": "48,00",
+              "valor_referencia": "18,08"
+            }
+          ]
+        },
+        {
+          "numero": "4",
+          "titulo": "37608 PREGABALINA:100MG COMPRIMIDO. EXCLUSIVO PARA ME/EPP.",
+          "fase": "DESERTO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "2.952,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37608 PREGABALINA:100MG COMPRIMIDO. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "CO",
+              "quantidade": "720,00",
+              "valor_referencia": "4,10"
+            }
+          ]
+        },
+        {
+          "numero": "5",
+          "titulo": "37724 Hiluropt (Hialuronato de Sódio 0,15%):solução oftálmica 10ml. EXCLUSIVO PARA ME/EPP.",
+          "fase": "DESERTO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "1.465,92",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37724 Hiluropt (Hialuronato de Sódio 0,15%):solução oftálmica 10ml. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "FR",
+              "quantidade": "36,00",
+              "valor_referencia": "40,72"
+            }
+          ]
+        },
+        {
+          "numero": "6",
+          "titulo": "37725 Nimegon (Sitagliptina):100 mg. EXCLUSIVO PARA ME/EPP.",
+          "fase": "DESERTO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "4.024,80",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37725 Nimegon (Sitagliptina):100 mg. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "CO",
+              "quantidade": "360,00",
+              "valor_referencia": "11,18"
+            }
+          ]
+        },
+        {
+          "numero": "7",
+          "titulo": "9900516093 Patanol S (Cloridrato De Olopatadina):2,22 mg/ml 2,5ml solução oftalmológica. EXCLUSIVO PARA ME/EPP.",
+          "fase": "JULGAMENTO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "1.943,52",
+          "vencedor": "SEMPREMED COMERCIO ATACADISTA LTDA",
+          "melhor_oferta": "1.680,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900516093 Patanol S (Cloridrato De Olopatadina):2,22 mg/ml 2,5ml solução oftalmológica. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "FR",
+              "quantidade": "24,00",
+              "valor_referencia": "80,98"
+            }
+          ]
+        },
+        {
+          "numero": "8",
+          "titulo": "37726 Sertralina:25 mg. EXCLUSIVO PARA ME/EPP.",
+          "fase": "JULGAMENTO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "446,40",
+          "vencedor": "CALIXTO MEDICAMENTOS LTDA",
+          "melhor_oferta": "399,60",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37726 Sertralina:25 mg. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "CO",
+              "quantidade": "360,00",
+              "valor_referencia": "1,24"
+            }
+          ]
+        },
+        {
+          "numero": "9",
+          "titulo": "37727 Valproato de Sódio (Torval ):500 mg. EXCLUSIVO PARA ME/EPP.",
+          "fase": "DESERTO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "1.735,20",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37727 Valproato de Sódio (Torval ):500 mg. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "CO",
+              "quantidade": "720,00",
+              "valor_referencia": "2,41"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2-DLE-081-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "890/2026",
+      "modalidade": "DISPENSA ELETRÔNICA",
+      "situacao": "HABILITAÇÃO",
+      "condutor": "ISAQUE SILVA DOS SANTOS",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO PARCELADA",
+      "publicacao": "29/07/2026 18:16",
+      "inicio_recepcao": "29/07/2026 18:20",
+      "fim_recepcao": "04/08/2026 08:15",
+      "inicio_disputa": "04/08/2026 08:30",
+      "objeto": "Contratação de empresa especializada em fornecimento de [TECIDOS] (material de consumo), a fim de atender as necessidades da Secretaria Municipal de Cultura e Turismo.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5D%2F9sDIcjliKs_An0882%2FGdok1H0_V3MgKMZZMexeNZ6DoWnV0mBwGWqcPR7Nhiv80PgFxXnbtTYiBFPBzzDw1MKmTDsr9pKrxRrjWlB5Xz00%3D",
+      "total_lotes": 13,
+      "total_itens": 13,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "Tule",
+          "fase": "HABILITAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "749,00",
+          "vencedor": "CHSF DISTRIBUIDORA TEXTIL LTDA",
+          "melhor_oferta": "740,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37734 Tule:tecido de armação leve com uma estrutura maisrígida nas cores PRETA, BRANCA, ROSA, VERDE BANDEIRAE AZUL BEBÊ, de malha aberta, fino, transparente e maleável,composto por 100% (gramatura) poliamida ou poliéster (Opoliéster costuma ser mais armado) com largura de 1,40 m.Destinado a confecção de saias volumosas, sobreposições defigurinos, cenários, arranjos decorativos e demais elementosutilizados em diversas ocasiões. O tule deverá apresentar malhauniforme, sem rasgos, furos, deformações, fios rompidos oumanchas, proporcionando bom caimento e efeito visualadequado sob iluminação de palco ou ambientes internos. Ofornecimento será realizado em rolos cometendo 50 metrosprontos para uso em ornamentação e ambientação no âmbitoCultural.",
+              "unidade": "ROL",
+              "quantidade": "5,00",
+              "valor_referencia": "149,80"
+            }
+          ]
+        },
+        {
+          "numero": "2",
+          "titulo": "Oxford",
+          "fase": "HABILITAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "4.661,25",
+          "vencedor": "CHSF DISTRIBUIDORA TEXTIL LTDA",
+          "melhor_oferta": "3.699,96",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37735 Oxford:tecido sintético nas cores BRANCO, PRETO,VERDE BANDEIRA, AZUL BEBÊ, MARROM CHOCOLATE,BEGE CLARO, VIOLETA ESCURO, VINHO CLARO,VERMELHO ESCARLATE, composto predominantemente porpoliéster, com entrelaçamento firme, gramatura de 110 g/m² elargura de 1,50 m. Indicado para confecção de uniformessimples, toalhas, painéis, bandeiras, fundos de palco, faixas eoutros elementos decorativos utilizados em diversas ocasiões. Otecido deverá ser resistente, com acabamento opaco, texturahomogênea, boa estabilidade dimensional e ausência de furos,rasgos, manchas, falhas de tecelagem ou desbotamentoacentuado. O fornecimento ocorrerá em rolos contendo 50metros, prontos para uso em atividades desenvolvidas no âmbitoda Cultura.",
+              "unidade": "ROL",
+              "quantidade": "11,00",
+              "valor_referencia": "423,75"
+            }
+          ]
+        },
+        {
+          "numero": "3",
+          "titulo": "Oxford xadrez",
+          "fase": "FRACASSADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "1.900,24",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37736 Oxford xadrez:variação estampada do tecido Oxford, empadrão xadrez e nas cores PRETO, AMARELA, AZUL EVERMELHO, composto por 100% poliéster, com gramatura de110 g/m² e largura de 1,50 m. Indicado para confecção deuniformes simples, fundos de palco, faixa e outros elementosdecorativos utilizados em eventos institucionais. A estampadeverá ser regular, sem falhas de impressão, sem desbotamentoacentuado ou diferenças marcantes de tonalidade entre rolos domesmo lote. O fornecimento deverá ser realizado em roloscontendo 50 metros, prontos para o uso em atividadesdesenvolvidas pela Secretaria de Cultura.",
+              "unidade": "ROL",
+              "quantidade": "4,00",
+              "valor_referencia": "475,06"
+            }
+          ]
+        },
+        {
+          "numero": "4",
+          "titulo": "Crepe Elena ou Helena",
+          "fase": "HABILITAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "6.944,46",
+          "vencedor": "CHSF DISTRIBUIDORA TEXTIL LTDA",
+          "melhor_oferta": "5.799,96",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37737 Crepe Elena ou Helena:tecido sintético nas coresLARANJA, VERDE BANDEIRA, AMARELO, AZUL MARINHO,BEGE CLARO E PRETO com gramatura média a encorpada,geralmente 96% poliéster e 4% elastano, ou variações muitopróximas como 95% poliéster e 5% elastano. Largura padrão:1,45 metros a 1,50 metros ele mantém as especificaçõestécnicas padrão que garantem excelente caimento e opacidadepara alfaiataria e moda de caimento leve, superfície lisa e toquemacio, indicado para figurinos. O fornecimento deverá serrealizado em rolos contendo 50 metros, prontos para uso emrelevância das atividades desenvolvidas no âmbito da Cultura.",
+              "unidade": "ROL",
+              "quantidade": "6,00",
+              "valor_referencia": "1.157,41"
+            }
+          ]
+        },
+        {
+          "numero": "5",
+          "titulo": "Organza",
+          "fase": "HABILITAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "3.528,00",
+          "vencedor": "CHSF DISTRIBUIDORA TEXTIL LTDA",
+          "melhor_oferta": "2.799,93",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37738 Organza:tecido leve nas cores CRITAL AZUL, CRISTALPRETA, CRISTAL VERMELHO, CRISTAL BRANCA, CRISTALVERDE, CRISTAL AMARELA, CRISTAL AZUL BEBÊ, compostopor 100% poliéster ou 100% poliamida (nylon), com gramaturaentre 25g/ m² e 45 g/m² e largura entre 1,40 m 1,50 m. Ofornecimento será realizado em rolos de 50 metros, pronto para ouso em atividades desenvolvidas no âmbito da Cultura.",
+              "unidade": "ROL",
+              "quantidade": "7,00",
+              "valor_referencia": "504,00"
+            }
+          ]
+        },
+        {
+          "numero": "6",
+          "titulo": "Malha montaria",
+          "fase": "HABILITAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "1.721,20",
+          "vencedor": "CHSF DISTRIBUIDORA TEXTIL LTDA",
+          "melhor_oferta": "1.399,98",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37739 Malha montaria:tecido de malha encorpado, comelasticidade, toque macio e excelente resistência, nas coresAZUL MARINHO E BRANCO. Indicado para figurinos, vestuárioe peças cênicas. Composição: Poliéster com elastano(aproximadamente 90% poliésteres e 10% elastano, podendovariar conforme o fabricante). Gramatura: 280 a 320 g/ m².Largura mínima: 1,60 m. O fornecimento será realizado em rolosde 50 metros, pronto para o uso em atividades desenvolvidas noâmbito da Cultura.",
+              "unidade": "ROL",
+              "quantidade": "2,00",
+              "valor_referencia": "860,60"
+            }
+          ]
+        },
+        {
+          "numero": "7",
+          "titulo": "Twey (two way)",
+          "fase": "HABILITAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "9.771,72",
+          "vencedor": "CHSF DISTRIBUIDORA TEXTIL LTDA",
+          "melhor_oferta": "7.762,65",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37740 Twey (two way):tecido plano sintético, de toque suave,caimento estruturado e baixa transparência, indicado parafigurinos, decoração e confecção em geral, nas cores BRANCO,CAQUI, AZUL NOITE, OFF WHITE, TERRA COTA, AZULACIZENTADO e CINZA CLARO. Gramatura aproximada de 180g/ m². Largura mínima de 1,50 m. Composição 100% poliéster. Ofornecimento será realizado em rolos de 50 metros, pronto para ouso em atividades desenvolvidas no âmbito da Cultura.",
+              "unidade": "ROL",
+              "quantidade": "7,00",
+              "valor_referencia": "1.395,96"
+            }
+          ]
+        },
+        {
+          "numero": "8",
+          "titulo": "Oxiline (oxfordine)",
+          "fase": "FRACASSADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "2.190,30",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "8300500042 Oxiline (oxfordine):Tecido sintético resistente, desuperfície lisa, toque macio e excelente durabilidade, indicadopara decoração, figurinos e confecção em geral, nas coresCINZA CLARO, BRANCO, BEGE CLARO, MARROM CLARO,AZUL NOITE, VINHO ESCURO. Composição 100% poliéster,gramatura aproximada de 180 a 220 g/ m², largura mínima de1,50 m, fornecido em rolo com comprimento mínimo de 50metros. O tecido deverá apresentar coloração uniforme, boaresistência ao rasgo e a tração, estabilidade dimensional, semmanchas, furos, falhas de tecelagem ou outros defeitos defabricação, sendo adequado para aplicações decorativas ecênicas de uso contínuo.",
+              "unidade": "ROL",
+              "quantidade": "6,00",
+              "valor_referencia": "365,05"
+            }
+          ]
+        },
+        {
+          "numero": "9",
+          "titulo": "Tricoline Mista",
+          "fase": "FRACASSADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "3.065,40",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "8300500043 Tricoline Mista:tecido plano de toque macio,excelente acabamento e boa resistência, indicado paraconfecção de figurinos, peças decorativas, artesanato,cenografia e aplicações em costura em geral, nas cores VINHOESCURO, MARROM CAFÉ, BEGE AREIA, OFF WHITE EPRETO. Composição aproximada: 65% poliéster e 35% algodão(ou composição equivalente), gramatura aproximada de 120 a150 g/ m², largura mínima de 1,50 m, fornecido em rolo comcomprimento mínimo de 50 metros. O tecido deverá apresentarcoloração uniforme, boa estabilidade dimensional, resistência aorasgo e A costura, sem manchas, furos, falhas de tecelagem ououtros defeitos de fabricação, sendo adequado para usodecorativo, artístico e de confecção",
+              "unidade": "ROL",
+              "quantidade": "5,00",
+              "valor_referencia": "613,08"
+            }
+          ]
+        },
+        {
+          "numero": "10",
+          "titulo": "Musseline",
+          "fase": "FRACASSADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "2.875,38",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37741 Musseline:tecido leve, semitransparente, de excelentecaimento e toque macio, indicado para confecção de figurinos,decoração, cenografia, painéis decorativos e aplicaçõesartísticas, nas cores VERDE OLIVA, AREIA, MOSTARDE,MARROM, TERRA COTA E PRETO. Composição: 100%poliéster, gramatura aproximada de 70 a 100 g/ m², larguramínima de 1,50 m, fornecido em rolo com comprimento mínimode 50 metros. O tecido deverá apresentar coloração uniforme,transparência homogênea, boa resistência ao rasgo, excelentecaimento, estabilidade dimensional e acabamento de qualidade,livre de manchas, furos, falhas de tecelagem ou quaisquer outrosdefeitos de fabricação, sendo adequado para aplicaçõesdecorativas, cênicas e de vestuário.",
+              "unidade": "ROL",
+              "quantidade": "6,00",
+              "valor_referencia": "479,23"
+            }
+          ]
+        },
+        {
+          "numero": "11",
+          "titulo": "CETIM",
+          "fase": "HABILITAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "3.161,32",
+          "vencedor": "CHSF DISTRIBUIDORA TEXTIL LTDA",
+          "melhor_oferta": "2.476,68",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37742 CETIM:tecido cetim com elastano, sintético de superfíciebrilhante, toque macio, excelente caimento e elasticidade,indicado para confecção de figurinos, vestuário, decoração,cenografia e artes cênicas, nas cores VERDE FOLHA,DOURADO, OFF WHITE E CINZA CLARO. Composiçãoaproximada: poliéster com elastano, gramatura aproximada de140 a 180 g/m², largura mínima de 1,50 m, fornecido em rolo comcomprimento mínimo de 50 metros. O tecido deverá apresentarbrilho uniforme, coloração homogênea, boa resistência ao rasgoe a tração, elasticidade adequada, estabilidade dimensional eacabamento de qualidade, livre de manchas, furos, falhas detecelagem ou quaisquer outros defeitos de fabricação, sendoapropriado para aplicações artísticas, decorativas e de vestuário.",
+              "unidade": "ROL",
+              "quantidade": "4,00",
+              "valor_referencia": "790,33"
+            }
+          ]
+        },
+        {
+          "numero": "12",
+          "titulo": "VISCOSE",
+          "fase": "HABILITAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "1.104,80",
+          "vencedor": "CHSF DISTRIBUIDORA TEXTIL LTDA",
+          "melhor_oferta": "859,99",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "8300500044 VISCOSE:tecido leve, macio, respirável e deexcelente caimento, na cor PRETA, indicado para confecção defigurinos, vestuário, artes cênicas e peças de moda em geral.Composição: 100% viscose ou viscose com pequena variaçãode fibras conforme o fabricante, gramatura aproximada de 120 a180 g/m², largura mínima de 1,40 m, fornecido em rolo comcomprimento mínimo de 50 metros. O tecido deverá apresentarcoloração uniforme, toque suave, boa resistência a costura,excelente caimento, estabilidade dimensional e acabamento dequalidade, livre de manchas, furos, falhas de tecelagem ouquaisquer outros defeitos de fabricação, sendo adequado paraaplicações artísticas, cênicas e de vestuário.",
+              "unidade": "ROL",
+              "quantidade": "1,00",
+              "valor_referencia": "1.104,80"
+            }
+          ]
+        },
+        {
+          "numero": "13",
+          "titulo": "JACQUARD",
+          "fase": "HABILITAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "6.136,35",
+          "vencedor": "CHSF DISTRIBUIDORA TEXTIL LTDA",
+          "melhor_oferta": "4.799,95",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37743 JACQUARD:tecido encorpado com desenhos tramadosem relevo, nas cores ROXO, VIOLETA, AZUL, CINZA,VERMELHO RUBRICO, de alta resistência e excelenteacabamento, indicado para decoração, figurinos, cenografia,revestimentos e aplicações artísticas. Composição aproximada:100% poliéster ou misto de poliéster e algodão (conformefabricante), gramatura aproximada de 250 a 350 g/m², larguramínima de 1,40 m, fornecido em rolo com comprimento mínimode 30 metros. O tecido deverá apresentar desenhos uniformes,coloração homogênea, boa resistência ao rasgo e a abrasão,estabilidade dimensional, acabamento de alta qualidade, livre demanchas, furos, falhas de tecelagem ou quaisquer outrosdefeitos de fabricação, sendo adequado para aplicaçõesdecorativas, cênicas, confecção de figurinos e revestimentos.",
+              "unidade": "ROL",
+              "quantidade": "5,00",
+              "valor_referencia": "1.227,27"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-116-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "849 / 2026",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "HABILITAÇÃO",
+      "condutor": "SERGIO CARNEIRO CAVALCANTI DE AZEVEDO",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO",
+      "publicacao": "21/07/2026 17:59",
+      "inicio_recepcao": "23/07/2026 08:00",
+      "fim_recepcao": "04/08/2026 13:45",
+      "inicio_disputa": "04/08/2026 14:00",
+      "objeto": "Contratação de empresa especializada em fornecimento de MATERIAIS PARA QUADRAS ESPORTIVAS (material de consumo e permanente), a fim de atender as demandas da Secretaria Municipal de Educação.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DBk4lKADkJOnBHUXoFuP9I_47MGU9pWpDo5bz%2FhUE31tR3MAMYhY0gDKTDgMBiYU0ax%2FoYJODtw1IP06Ccqh2T6dLg6g70E3GsKdbpx8ak%2Fg%3D",
+      "total_lotes": 14,
+      "total_itens": 14,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "37705 Par de traves oficiais para futsal:com medidas internas de 3,00 m x 2,00 m, em conformidade com as regras oficiais vigentes da modalidade. Estrutura confeccionada em tubo de aço galvanizado de diâmetro mínimo de 75 mm (3\"), espessura mínima de 2 mm,",
+          "fase": "HABILITAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "63.654,84",
+          "vencedor": "MIX NAS LTDA",
+          "melhor_oferta": "63.654,84",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37705 Par de traves oficiais para futsal:com medidas internas de 3,00 m x 2,00 m, em conformidade com as regras oficiais vigentes da modalidade. Estrutura confeccionada em tubo de aço galvanizado de diâmetro mínimo de 75 mm (3\"), espessura mínima de 2 mm, com tratamento anticorrosivo e pintura de acabamento apropriada para uso esportivo. Deverá acompanhar par de redes compatíveis, bem como todos os acessórios necessários para instalação e fixação, garantindo estabilidade e segurança durante a utilização.",
+              "unidade": "PAR",
+              "quantidade": "18,00",
+              "valor_referencia": "3.536,38"
+            }
+          ]
+        },
+        {
+          "numero": "2",
+          "titulo": "37706 Par de redes para trave oficial de futsal:confeccionadas em nylon ou polietileno de alta densidade (PEAD), com fio de espessura mínima de 4 mm, malha aproximada de 100 x 100 mm (10 x 10 cm), com tratamento contra raios UV e bordas reforçadas. Dimens",
+          "fase": "FRACASSADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "6.503,40",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37706 Par de redes para trave oficial de futsal:confeccionadas em nylon ou polietileno de alta densidade (PEAD), com fio de espessura mínima de 4 mm, malha aproximada de 100 x 100 mm (10 x 10 cm), com tratamento contra raios UV e bordas reforçadas. Dimensões compatíveis com traves oficiais de futsal de 3,00 m x 2,00 m.",
+              "unidade": "PAR",
+              "quantidade": "18,00",
+              "valor_referencia": "361,30"
+            }
+          ]
+        },
+        {
+          "numero": "3",
+          "titulo": "37707 Tinta para demarcação de quadras esportivas:fornecida em embalagem de 18 litros, específica para demarcação de pisos esportivos, compatível com o tipo de piso existente, destinada à pintura de linhas para modalidades como futsal, basquete, voleibol",
+          "fase": "HABILITAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "7.739,64",
+          "vencedor": "TRAJO COMÉRCIO E SERVIÇOS LTDA",
+          "melhor_oferta": "7.704,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37707 Tinta para demarcação de quadras esportivas:fornecida em embalagem de 18 litros, específica para demarcação de pisos esportivos, compatível com o tipo de piso existente, destinada à pintura de linhas para modalidades como futsal, basquete, voleibol e similares. Deverá apresentar alta aderência, elevada resistência à abrasão e ao tráfego esportivo, podendo ser do tipo epóxi, poliuretano, acrílica de alto desempenho ou tecnologia equivalente, desde que recomendada pelo fabricante para essa finalidade. Rendimento médio conforme especificações do fabricante, não inferior a 8 m²/L por demão.",
+              "unidade": "LT.",
+              "quantidade": "18,00",
+              "valor_referencia": "429,98"
+            }
+          ]
+        },
+        {
+          "numero": "4",
+          "titulo": "37708 Placar manual portátil para uso em quadras esportivas:com estrutura leve, dobrável e de fácil transporte, confeccionada em material plástico rígido, metálico ou equivalente. Sistema de marcação tipo flip ou tecnologia equivalente, permitindo contage",
+          "fase": "FRACASSADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "4.812,66",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37708 Placar manual portátil para uso em quadras esportivas:com estrutura leve, dobrável e de fácil transporte, confeccionada em material plástico rígido, metálico ou equivalente. Sistema de marcação tipo flip ou tecnologia equivalente, permitindo contagem de 0 a 99 pontos por equipe, com dígitos de altura mínima de 15 cm, de fácil visualização. Dimensões compatíveis com equipamento portátil destinado ao uso em quadras esportivas.",
+              "unidade": "UND",
+              "quantidade": "18,00",
+              "valor_referencia": "267,37"
+            }
+          ]
+        },
+        {
+          "numero": "5",
+          "titulo": "37709 Jogo de chaves inglesas:composto por 2 unidades, contendo uma chave de 10 polegadas e uma chave de 12 polegadas, fabricadas em aço cromo-vanádio ou aço-liga de resistência equivalente, com acabamento cromado ou tratamento anticorrosivo equivalente,",
+          "fase": "FRACASSADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "285,30",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37709 Jogo de chaves inglesas:composto por 2 unidades, contendo uma chave de 10 polegadas e uma chave de 12 polegadas, fabricadas em aço cromo-vanádio ou aço-liga de resistência equivalente, com acabamento cromado ou tratamento anticorrosivo equivalente, mandíbula ajustável e resistência à corrosão.",
+              "unidade": "JOG",
+              "quantidade": "2,00",
+              "valor_referencia": "142,65"
+            }
+          ]
+        },
+        {
+          "numero": "6",
+          "titulo": "37710 Parafusos em aço inoxidável AISI 304, medida M6 x 20 mm:com rosca métrica padrão, cabeça sextavada (ou outro tipo conforme necessidade da Administração), fornecidos em embalagem contendo 100 unidades, resistentes à corrosão, destinados à montagem e",
+          "fase": "FRACASSADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "119,96",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37710 Parafusos em aço inoxidável AISI 304, medida M6 x 20 mm:com rosca métrica padrão, cabeça sextavada (ou outro tipo conforme necessidade da Administração), fornecidos em embalagem contendo 100 unidades, resistentes à corrosão, destinados à montagem e fixação de equipamentos e estruturas.",
+              "unidade": "CX",
+              "quantidade": "2,00",
+              "valor_referencia": "59,98"
+            }
+          ]
+        },
+        {
+          "numero": "7",
+          "titulo": "37711 Parafusos em aço inoxidável AISI 304, medida M8 x 20 mm:com rosca métrica padrão, cabeça sextavada (ou outro modelo conforme necessidade da Administração), fornecidos em embalagem contendo 100 unidades, resistentes à corrosão, destinados à montagem",
+          "fase": "FRACASSADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "126,56",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37711 Parafusos em aço inoxidável AISI 304, medida M8 x 20 mm:com rosca métrica padrão, cabeça sextavada (ou outro modelo conforme necessidade da Administração), fornecidos em embalagem contendo 100 unidades, resistentes à corrosão, destinados à montagem e fixação de equipamentos e estruturas.",
+              "unidade": "CX",
+              "quantidade": "2,00",
+              "valor_referencia": "63,28"
+            }
+          ]
+        },
+        {
+          "numero": "8",
+          "titulo": "37712 Parafusos em aço inoxidável AISI 304, medida M10 x 20 mm:com rosca métrica padrão, cabeça sextavada (ou outro modelo conforme necessidade da Administração), fornecidos em embalagem contendo 100 unidades, resistentes à corrosão,destinados à montagem",
+          "fase": "FRACASSADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "192,84",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37712 Parafusos em aço inoxidável AISI 304, medida M10 x 20 mm:com rosca métrica padrão, cabeça sextavada (ou outro modelo conforme necessidade da Administração), fornecidos em embalagem contendo 100 unidades, resistentes à corrosão,destinados à montagem e fixação de equipamentos e estruturas.",
+              "unidade": "CX",
+              "quantidade": "2,00",
+              "valor_referencia": "96,42"
+            }
+          ]
+        },
+        {
+          "numero": "9",
+          "titulo": "37713 Buchas de nylon para fixação, compatíveis com broca de 6 mm:medindo aproximadamente 6 x 30 mm, destinadas à fixação em alvenaria, concreto ou materiais similares.",
+          "fase": "FRACASSADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "24,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37713 Buchas de nylon para fixação, compatíveis com broca de 6 mm:medindo aproximadamente 6 x 30 mm, destinadas à fixação em alvenaria, concreto ou materiais similares.",
+              "unidade": "UND",
+              "quantidade": "100,00",
+              "valor_referencia": "0,24"
+            }
+          ]
+        },
+        {
+          "numero": "10",
+          "titulo": "9900516091 Buchas de nylon para fixação, compatíveis com broca de 8 mm:medindo aproximadamente 8 x 40 mm, destinadas à fixação em alvenaria, concreto ou materiais similares.",
+          "fase": "FRACASSADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "26,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900516091 Buchas de nylon para fixação, compatíveis com broca de 8 mm:medindo aproximadamente 8 x 40 mm, destinadas à fixação em alvenaria, concreto ou materiais similares.",
+              "unidade": "UND",
+              "quantidade": "100,00",
+              "valor_referencia": "0,26"
+            }
+          ]
+        },
+        {
+          "numero": "11",
+          "titulo": "37714 Buchas de nylon para fixação, compatíveis com broca de 10 mm:medindo aproximadamente 10 x 50 mm, destinadas à fixação em alvenaria, concreto ou materiais similares.",
+          "fase": "FRACASSADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "28,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37714 Buchas de nylon para fixação, compatíveis com broca de 10 mm:medindo aproximadamente 10 x 50 mm, destinadas à fixação em alvenaria, concreto ou materiais similares.",
+              "unidade": "UND",
+              "quantidade": "100,00",
+              "valor_referencia": "0,28"
+            }
+          ]
+        },
+        {
+          "numero": "12",
+          "titulo": "9907000152 Bomba de ar manual para enchimento de bolas esportivas:fabricada em material resistente a impactos e ao uso contínuo, adequada para enchimento de bolas de futsal, futebol, basquete, voleibol, handebol e modalidades similares. Deverá possuir sis",
+          "fase": "HABILITAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "478,94",
+          "vencedor": "POLYANA MARCONI SPORT LTDA",
+          "melhor_oferta": "323,07",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9907000152 Bomba de ar manual para enchimento de bolas esportivas:fabricada em material resistente a impactos e ao uso contínuo, adequada para enchimento de bolas de futsal, futebol, basquete, voleibol, handebol e modalidades similares. Deverá possuir sistema de insuflação manual, acompanhar no mínimo 1 agulha metálica rosqueável compatível com válvulas de bolas esportivas e demais acessórios necessários ao seu funcionamento.",
+              "unidade": "UND",
+              "quantidade": "11,00",
+              "valor_referencia": "43,54"
+            }
+          ]
+        },
+        {
+          "numero": "13",
+          "titulo": "9900516092 Maleta para armazenamento de ferramentas e acessórios:confeccionada em material plástico de alta resistência ou metálico, com alça reforçada para transporte e travas de fechamento seguras. Dimensões externas aproximadas de 45  cm x 30 cm x 15 c",
+          "fase": "FRACASSADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "406,48",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900516092 Maleta para armazenamento de ferramentas e acessórios:confeccionada em material plástico de alta resistência ou metálico, com alça reforçada para transporte e travas de fechamento seguras. Dimensões externas aproximadas de 45 cm x 30 cm x 15 cm, admitidas variações dimensionais que não comprometam sua capacidade de armazenamento ou funcionalidade.",
+              "unidade": "UND",
+              "quantidade": "2,00",
+              "valor_referencia": "203,24"
+            }
+          ]
+        },
+        {
+          "numero": "14",
+          "titulo": "9907000153 Conjunto de tabela de basquete para uso recreativo e escolar:composto por tabela medindo aproximadamente 1,10  m x 0,80 m, confeccionada em material transparente de alta resistência (policarbonato compacto, acrílico, vidro temperado ou material",
+          "fase": "FRACASSADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "28.638,90",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9907000153 Conjunto de tabela de basquete para uso recreativo e escolar:composto por tabela medindo aproximadamente 1,10 m x 0,80 m, confeccionada em material transparente de alta resistência (policarbonato compacto, acrílico, vidro temperado ou material de desempenho equivalente), com espessura mínima de 10 mm, equipada com aro de diâmetro oficial e rede compatível. Estrutura metálica com tratamento anticorrosivo, acompanhada de sistema de fixação compatível com o local de instalação e todos os acessórios necessários para montagem.",
+              "unidade": "CJ",
+              "quantidade": "9,00",
+              "valor_referencia": "3.182,10"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CD-005-2025",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "758/2025",
+      "modalidade": "CREDENCIAMENTO",
+      "situacao": "EM FINALIZAÇÃO",
+      "condutor": "MAGDA DE SELES GUIMARÃES",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO",
+      "publicacao": "03/06/2025 16:35",
+      "inicio_recepcao": "13/06/2025 08:00",
+      "fim_recepcao": "15/06/2026 08:00",
+      "inicio_disputa": "",
+      "objeto": "CREDENCIAMENTO DE PESSOA JURÍDICA PARA PRESTAÇÃO DE SERVIÇOS MÉDICOS ESPECIALIZADOS EM ANÁLISE PATOLÓGICA PARA ATENDER AS DEMANDAS DA SECRETARIA MUNICIPAL DE SAÚDE",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DvjeuwYV9v7PgzzxSDy9ya7rFNdBSYOVYbaFQKoUFLiWM83w3GEX8lboxRwUD1ot6qSUglL9THlDca9UzzmEQ_24Bm0VZcAids6D1M9QfXxU%3D",
+      "total_lotes": 6,
+      "total_itens": 6,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "33436 BIÓPSIA SIMPLES",
+          "fase": "HABILITAÇÃO",
           "tipo": "UNITÁRIO",
           "quantidade": "1",
           "intervalo_minimo": "0,00",
           "exclusivo_me": "NÃO",
-          "local_entrega": "",
-          "garantia": "",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
           "valor_referencia": "60,19",
           "vencedor": "",
           "melhor_oferta": "0,00",
@@ -292259,45 +292707,21 @@
               "numero": "1",
               "especificacao": "33436 BIÓPSIA SIMPLES:BIÓPSIA SIMPLES",
               "unidade": "SERV",
-              "quantidade": "1.875,00",
+              "quantidade": "2.500,00",
               "valor_referencia": "60,19"
             }
           ]
         },
         {
           "numero": "2",
-          "titulo": "909911235 BIOPSIA SIMPLES:BIÓPSIA SIMPLES. COTA DE 25% RESERVADA PARA  ME/EPP.",
-          "fase": "SUSPENSO",
+          "titulo": "9903311392 CITOLOGIA EM MEIO LIQUIDO",
+          "fase": "HABILITAÇÃO",
           "tipo": "UNITÁRIO",
           "quantidade": "1",
           "intervalo_minimo": "0,00",
-          "exclusivo_me": "SIM",
-          "local_entrega": "",
-          "garantia": "",
-          "valor_referencia": "60,19",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "909911235 BIOPSIA SIMPLES:BIÓPSIA SIMPLES. COTA DE 25% RESERVADA PARA ME/EPP.",
-              "unidade": "SERV",
-              "quantidade": "625,00",
-              "valor_referencia": "60,19"
-            }
-          ]
-        },
-        {
-          "numero": "3",
-          "titulo": "9903311392 CITOLOGIA EM MEIO LIQUIDO - BRONQUIO: CITOLOGIA EM MEIO LIQUIDO - BRONQUIO EXCLUSIVO PARA ME/EPP",
-          "fase": "SUSPENSO",
-          "tipo": "UNITÁRIO",
-          "quantidade": "1",
-          "intervalo_minimo": "0,00",
-          "exclusivo_me": "SIM",
-          "local_entrega": "",
-          "garantia": "",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
           "valor_referencia": "62,25",
           "vencedor": "",
           "melhor_oferta": "0,00",
@@ -292305,7 +292729,7 @@
           "itens": [
             {
               "numero": "1",
-              "especificacao": "CITOLOGIA EM MEIO LIQUIDO - BRONQUIO: CITOLOGIA EM MEIO LIQUIDO - BRONQUIO EXCLUSIVO PARA ME/EPP",
+              "especificacao": "9903311392 CITOLOGIA EM MEIO LIQUIDO - BRONQUIO:CITOLOGIA EM MEIO LIQUIDO - BRONQUIO.",
               "unidade": "SERV",
               "quantidade": "100,00",
               "valor_referencia": "62,25"
@@ -292313,15 +292737,15 @@
           ]
         },
         {
-          "numero": "4",
-          "titulo": "9903311373 COLORAÇÃO ESPECIAL:Marcação da biópsia por corantes especiais. EXCLUSIVO PARA ME/EPP",
-          "fase": "SUSPENSO",
+          "numero": "3",
+          "titulo": "9903311373 COLORAÇÃO ESPECIAL",
+          "fase": "HABILITAÇÃO",
           "tipo": "UNITÁRIO",
           "quantidade": "1",
           "intervalo_minimo": "0,00",
-          "exclusivo_me": "SIM",
-          "local_entrega": "",
-          "garantia": "",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
           "valor_referencia": "33,65",
           "vencedor": "",
           "melhor_oferta": "0,00",
@@ -292329,7 +292753,7 @@
           "itens": [
             {
               "numero": "1",
-              "especificacao": "9903311373 COLORAÇÃO ESPECIAL:Marcação da biópsia por corantes especiais. EXCLUSIVO PARA ME/EPP",
+              "especificacao": "9903311373 COLORAÇÃO ESPECIAL: Marcação da biópsia por corantes especiais.",
               "unidade": "SERV",
               "quantidade": "50,00",
               "valor_referencia": "33,65"
@@ -292337,15 +292761,15 @@
           ]
         },
         {
-          "numero": "5",
-          "titulo": "9903311378 CORE BYOPSY:CORE BYOPSY. EXCLUSIVO PARA ME/EPP",
-          "fase": "SUSPENSO",
+          "numero": "4",
+          "titulo": "9903311378 CORE BYOPSY",
+          "fase": "HABILITAÇÃO",
           "tipo": "UNITÁRIO",
           "quantidade": "1",
           "intervalo_minimo": "0,00",
-          "exclusivo_me": "SIM",
-          "local_entrega": "",
-          "garantia": "",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
           "valor_referencia": "68,46",
           "vencedor": "",
           "melhor_oferta": "0,00",
@@ -292353,7 +292777,7 @@
           "itens": [
             {
               "numero": "1",
-              "especificacao": "9903311378 CORE BYOPSY:CORE BYOPSY. EXCLUSIVO PARA ME/EPP",
+              "especificacao": "9903311378 CORE BYOPSY:CORE BYOPSY.",
               "unidade": "SERV",
               "quantidade": "100,00",
               "valor_referencia": "68,46"
@@ -292361,15 +292785,15 @@
           ]
         },
         {
-          "numero": "6",
-          "titulo": "33437 PEÇA CIRÚRGICA SIMPLES:PEÇA CIRÚRGICA SIMPLES",
-          "fase": "SUSPENSO",
+          "numero": "5",
+          "titulo": "33437 PEÇA CIRÚRGICA SIMPLES",
+          "fase": "HABILITAÇÃO",
           "tipo": "UNITÁRIO",
           "quantidade": "1",
           "intervalo_minimo": "0,00",
           "exclusivo_me": "NÃO",
-          "local_entrega": "",
-          "garantia": "",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
           "valor_referencia": "75,00",
           "vencedor": "",
           "melhor_oferta": "0,00",
@@ -292379,45 +292803,21 @@
               "numero": "1",
               "especificacao": "33437 PEÇA CIRÚRGICA SIMPLES:PEÇA CIRÚRGICA SIMPLES",
               "unidade": "SERV",
-              "quantidade": "1.875,00",
+              "quantidade": "2.500,00",
               "valor_referencia": "75,00"
             }
           ]
         },
         {
-          "numero": "7",
-          "titulo": "9909911236 PEÇA CIRURGICA SIMPLES:PEÇA CIRURGICA SIMPLES. COTA DE 25% RESERVADA PARA ME/EPP",
-          "fase": "SUSPENSO",
-          "tipo": "UNITÁRIO",
-          "quantidade": "1",
-          "intervalo_minimo": "0,00",
-          "exclusivo_me": "SIM",
-          "local_entrega": "",
-          "garantia": "",
-          "valor_referencia": "75,00",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9909911236 PEÇA CIRURGICA SIMPLES:PEÇA CIRURGICA SIMPLES. COTA DE 25% RESERVADA PARA ME/EPP",
-              "unidade": "SERV",
-              "quantidade": "625,00",
-              "valor_referencia": "75,00"
-            }
-          ]
-        },
-        {
-          "numero": "8",
-          "titulo": "9903311384 PEÇA CIRÚRGICA COMPLEXA:PEÇA CIRÚRGICA COMPLEXA",
-          "fase": "SUSPENSO",
+          "numero": "6",
+          "titulo": "9903311384 PEÇA CIRÚRGICA COMPLEXA",
+          "fase": "HABILITAÇÃO",
           "tipo": "UNITÁRIO",
           "quantidade": "1",
           "intervalo_minimo": "0,00",
           "exclusivo_me": "NÃO",
-          "local_entrega": "",
-          "garantia": "",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
           "valor_referencia": "243,42",
           "vencedor": "",
           "melhor_oferta": "0,00",
@@ -292427,31 +292827,7 @@
               "numero": "1",
               "especificacao": "9903311384 PEÇA CIRÚRGICA COMPLEXA:PEÇA CIRÚRGICA COMPLEXA",
               "unidade": "UN",
-              "quantidade": "1.125,00",
-              "valor_referencia": "243,42"
-            }
-          ]
-        },
-        {
-          "numero": "9",
-          "titulo": "9909911237 PEÇA CIRURGICA COMPLEXA:PEÇA CIRURGICA COMPLEXA. COTA DE  25%  RESERVADA PARA ME/EPP.",
-          "fase": "SUSPENSO",
-          "tipo": "UNITÁRIO",
-          "quantidade": "1",
-          "intervalo_minimo": "0,00",
-          "exclusivo_me": "SIM",
-          "local_entrega": "",
-          "garantia": "",
-          "valor_referencia": "243,42",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9909911237 PEÇA CIRURGICA COMPLEXA:PEÇA CIRURGICA COMPLEXA. COTA DE 25% RESERVADA PARA ME/EPP.",
-              "unidade": "SERV",
-              "quantidade": "375,00",
+              "quantidade": "1.500,00",
               "valor_referencia": "243,42"
             }
           ]
@@ -292463,38 +292839,38 @@
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "705/2024",
       "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "HOMOLOGADO",
-      "condutor": "MAGDA DE SELES GUIMARÃES",
+      "situacao": "SUSPENSO",
+      "condutor": "VICTOR KINIDEL DETHLING",
       "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
       "tipo_contrato": "AQUISIÇÃO",
-      "publicacao": "13/06/2024 18:49",
-      "inicio_recepcao": "14/06/2024 08:00",
-      "fim_recepcao": "10/07/2024 13:45",
-      "inicio_disputa": "10/07/2024 14:00",
-      "objeto": "O objeto da presente licitação é a contratação de INSTITUIÇÃO FINANCEIRA ESPECIALIZADA NA PRESTAÇÃO DE SERVIÇOS BANCÁRIOS PARA CENTRALIZAÇÃO, GERENCIAMENTO E PROCESSAMENTO DE CRÉDITOS DA FOLHA DE PAGAMENTO DOS SERVIDORES, a fim de atender as demandas da Secretaria Municipal de Administração, conforme condições, quantidades e especificações no Edital, Termo de Referência e seus Anexos.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5D0gT2zsZ3sxBnfZH6HReUlaiBKVjhdnwa_tsf8GJz4QtSOnf6kpvcmssvt7Ou1ZwVvfit%2FJfnB5BlVRKC%2FN6kLXNij%2Fj9fV7GmrulpPGfyxM%3D",
+      "publicacao": "15/05/2024 18:26",
+      "inicio_recepcao": "16/05/2024 08:00",
+      "fim_recepcao": "12/06/2024 09:45",
+      "inicio_disputa": "12/06/2024 10:00",
+      "objeto": "Contratação de instituição financeira para prestação de serviços bancários para centralização, gerenciamento e processamento de créditos da folha de pagamento dos servidores, a fim de atender as demandas da Prefeitura de Teixeira de Freitas, conforme condições, quantidades e especificações no Edital, Termo de Referência e seus Anexos.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DfOZnZTjRLopCJ8THAEBqd4uuWzeKuyJExZTCXYbmKNozX7poaw0djt5GAq4UsrY%2FTO1BIx4rtKhc7Zno4uyfJTs38uYIHfCkKgKPt1kI%2FcY%3D",
       "total_lotes": 1,
       "total_itens": 1,
       "lotes": [
         {
           "numero": "1",
-          "titulo": "SERVIÇOS BANCÁRIOS",
-          "fase": "HOMOLOGADO",
-          "tipo": "GLOBAL",
+          "titulo": "LOTE 01",
+          "fase": "SUSPENSO",
+          "tipo": "UNITÁRIO",
           "quantidade": "1",
-          "intervalo_minimo": "0,01",
+          "intervalo_minimo": "100,00",
           "exclusivo_me": "NÃO",
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "6.052.150,00",
-          "vencedor": "ITAÚ UNIBANCO S.A.",
-          "melhor_oferta": "6.053.000,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
           "total_itens": 1,
           "itens": [
             {
               "numero": "1",
               "especificacao": "CONTRATAÇÃO DE INSTITUIÇÃO FINANCEIRA: ESPECIALIZADA NA PRESTAÇÃO DE SERVIÇOS BANCÁRIOS PARA CENTRALIZAÇÃO, GERENCIAMENTO E PROCESSAMENTO DE CRÉDITOS DA FOLHA DE PAGAMENTO DOS SERVIDORES DA PREFEITURA MUNICIPAL DE TEIXEIRA DE FREITAS/BA.",
-              "unidade": "UN",
+              "unidade": "SERVIÇO",
               "quantidade": "1,00",
               "valor_referencia": "6.052.150,00"
             }
