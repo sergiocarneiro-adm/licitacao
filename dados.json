@@ -4,7 +4,7 @@
     "total_processos": 878,
     "total_lotes": 9575,
     "total_itens": 16087,
-    "atualizado_em": "20260820_135050"
+    "atualizado_em": "20260821_014638"
   },
   "processos": [
     {
@@ -257606,7 +257606,7 @@
         {
           "numero": "1",
           "titulo": "LOCAÇÃO DE EQUIPAMENTOS DE IMPRESSÃO E CÓPIA",
-          "fase": "JULGAMENTO DE RECURSOS",
+          "fase": "JULGAMENTO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -257614,8 +257614,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "3.315.120,48",
-          "vencedor": "U.M. SOLUÇÕES EM IMPRESSÃO",
-          "melhor_oferta": "971.520,00",
+          "vencedor": "M.E. COMERCIO DE SUPRIMENTOS PARA COPIADORAS LTDA",
+          "melhor_oferta": "1.050.336,00",
           "total_itens": 24,
           "itens": [
             {
@@ -268186,7 +268186,7 @@
       "publicacao": "03/06/2026 16:22",
       "inicio_recepcao": "05/06/2026 08:00",
       "fim_recepcao": "14/07/2026 08:15",
-      "inicio_disputa": "18/08/2026 17:20",
+      "inicio_disputa": "24/08/2026 17:20",
       "objeto": "Contratação de empresa especializada em execução de obras de construção de um Centro Educacional, com quadra coberta, localizado no bairro Jerusalém, no município de Teixeira de Freitas – BA.",
       "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5D7LZabRr7rQrtf24kB14UjYZu8E%2FND799QlWXVrnZLiF2li4grnVHSzAf9Wode1Mwxo0Z_qUGfMaq1gnCu7rM9xssjgDyHH5lKW%2F0ol7Q2yU%3D",
       "total_lotes": 1,
@@ -268537,7 +268537,7 @@
       "publicacao": "03/06/2026 17:18",
       "inicio_recepcao": "05/06/2026 08:00",
       "fim_recepcao": "15/07/2026 08:15",
-      "inicio_disputa": "18/08/2026 17:20",
+      "inicio_disputa": "24/08/2026 17:20",
       "objeto": "Contratação de empresa especializada em execução de obras de construção de um Centro Educacional, com piscina anexa, localizado no bairro Caminho do Mar, no município de Teixeira de Freitas – BA.",
       "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DL%2FrR5dAaiUsY6jb7mFKba8PCKLawFAXnjNy8Ff3_s5NPy49w1db1RxuZqR2ZbCqTT2KNWtFQz3IpK_j95JByrIj%2Flk0I_LaItNBPnTmZyRk%3D",
       "total_lotes": 1,
@@ -274713,7 +274713,7 @@
         {
           "numero": "2",
           "titulo": "2302000096 VEÍCULO AUTOMOTOR TIPO CAMINHONETE (PICK-UP):cabine dupla, zero quilometro, ano/modelo igual ou superior ao da contratação, capacidade para 05 (cinco) ocupantes, carroceria com caçamba aberta, motorização a diesel com turbocompressor, potência",
-          "fase": "INTERPOSIÇÃO DE RECURSOS",
+          "fase": "RECEPÇÃO DE CONTRARRAZÕES",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -284270,7 +284270,7 @@
         {
           "numero": "1",
           "titulo": "EXECUÇÃO DOS SERVIÇOS DE LIMPEZA URBANA E MANEJO DE RESÍDUOS SÓLIDOS URBANOS NO MUNICÍPIO DE TEIXEIRA DE FREITAS – BA",
-          "fase": "INTERPOSIÇÃO DE RECURSOS",
+          "fase": "RECEPÇÃO DE CONTRARRAZÕES",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "1.000,00",
@@ -285904,7 +285904,7 @@
         {
           "numero": "1",
           "titulo": "MACARRÃO INTEGRAL",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,00",
@@ -285928,7 +285928,7 @@
         {
           "numero": "2",
           "titulo": "MACARRÃO DE ARROZ",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,00",
@@ -285952,7 +285952,7 @@
         {
           "numero": "3",
           "titulo": "BISCOITO DE ARROZ",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,00",
@@ -285976,7 +285976,7 @@
         {
           "numero": "4",
           "titulo": "LEITE EM PÓ SEM LACTOSE",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,00",
@@ -286409,7 +286409,7 @@
         {
           "numero": "1",
           "titulo": "7601000001 Kit Livro Infantil Histórias Divertidas Com Desenhos 3D:livro pop up, imagens que saltam, livro ilustrativo, cores vivas educativa, capa almofadada",
-          "fase": "JULGAMENTO",
+          "fase": "HABILITAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -286433,7 +286433,7 @@
         {
           "numero": "2",
           "titulo": "7601000002 Bocarra:Um livro Sensorial! Monstros Capa dura - Livro interativo, 1 julho 2023",
-          "fase": "JULGAMENTO",
+          "fase": "HABILITAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -286457,7 +286457,7 @@
         {
           "numero": "3",
           "titulo": "7601000003 Toc... toc... Quem mora aqui?:Autor: Maria Loretta Giraldo",
-          "fase": "JULGAMENTO",
+          "fase": "HABILITAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -286490,7 +286490,7 @@
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "4.235,00",
           "vencedor": "LISBOA DISTRIBUIDORA DE LIVROS",
-          "melhor_oferta": "2.290,00",
+          "melhor_oferta": "2.289,00",
           "total_itens": 1,
           "itens": [
             {
@@ -286505,7 +286505,7 @@
         {
           "numero": "5",
           "titulo": "37695 Escolinha Baby Montessori - Contrastes!:Animais Capa dura - Livro de fotos, 1 agosto 2022",
-          "fase": "JULGAMENTO",
+          "fase": "HABILITAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -286529,7 +286529,7 @@
         {
           "numero": "6",
           "titulo": "7601000005 Escolinha Baby Montessori - Contrastes!:Grande ou Pequeno? Capa dura - Livro de fotos, 1 agosto 2022",
-          "fase": "JULGAMENTO",
+          "fase": "HABILITAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -286553,7 +286553,7 @@
         {
           "numero": "7",
           "titulo": "7601000006 Alto-contraste Com Toque e Sinta - Palavras:Alto- contraste Com Toque e Sinta - Palavras",
-          "fase": "JULGAMENTO",
+          "fase": "HABILITAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -286649,7 +286649,7 @@
         {
           "numero": "11",
           "titulo": "7601000010 Não é sua, é minha! Capa comum   3 fevereiro 2014 Edição Português por Susanna Moores:Não é sua, é minha!Capa comum - 3 fevereiro 2014 Edição Português por Susanna Moores",
-          "fase": "JULGAMENTO",
+          "fase": "HABILITAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -287773,7 +287773,7 @@
         {
           "numero": "12",
           "titulo": "9907000152 Bomba de ar manual para enchimento de bolas esportivas:fabricada em material resistente a impactos e ao uso contínuo, adequada para enchimento de bolas de futsal, futebol, basquete, voleibol, handebol e modalidades similares. Deverá possuir sis",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -287781,8 +287781,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "478,94",
-          "vencedor": "POLYANA MARCONI SPORT LTDA",
-          "melhor_oferta": "323,07",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
           "total_itens": 1,
           "itens": [
             {
@@ -287849,7 +287849,7 @@
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "824 / 2026",
       "modalidade": "DISPENSA ELETRÔNICA",
-      "situacao": "DISPUTA",
+      "situacao": "JULGAMENTO",
       "condutor": "ISLA LIMA SILVA",
       "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
       "tipo_contrato": "AQUISIÇÃO PARCELADA",
@@ -287865,7 +287865,7 @@
         {
           "numero": "1",
           "titulo": "CANABIDIOL",
-          "fase": "DISPUTA",
+          "fase": "JULGAMENTO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -287873,8 +287873,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "49.906,08",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
+          "vencedor": "L. S. DA SILVA PRODUTOS FARMACEUTICOS LTDA",
+          "melhor_oferta": "49.906,08",
           "total_itens": 1,
           "itens": [
             {
@@ -288219,30 +288219,6 @@
           ]
         },
         {
-          "numero": "13",
-          "titulo": "9909911360 COMPUTADOR I7 32GB SSD 480GB C/ PLACA DE VÍDEO:PLACA-MÃE::Compatível com processadores lançados a partir de 2024, soquete compatível com o processador ofertado e chipset da mesma geração ou superior. Suporte a memórias DDR4 ou superior Quad Cha",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9909911360 COMPUTADOR I7 32GB SSD 480GB C/ PLACA DE VÍDEO:PLACA-MÃE::Compatível com processadores lançados a partir de 2024, soquete compatível com o processador ofertado e chipset da mesma geração ou superior. Suporte a memórias DDR4 ou superior Quad Channel, capacidade mínima de 128 GB e frequência mínima de 3200MHz. Possuir, no mínimo, 1 (um) slot PCI Express x16 4.0 ousuperior, 2 (dois) slots M.2 NVMe PCI Express, 4 (quatro) portas SATA III 6 Gb/s, interface de rede Gigabit Ethernet integrada, áudio HD onboard, no mínimo 6 (seis) portas USB, sendo pelo menos 3 (três) USB 3.2, saídas de vídeo digitais compatíveiscom o vídeo integrado do processador, conector TPM 2.0 e suporte ao sistema operacional Windows 11 64 bits. Deveráacompanhar os acessórios necessários para sua instalação. PROCESSADOR: i7 de 14ª geração ou superior, arquitetura de64 bits, modelo Box com sistema de refrigeração original dofabricante e vídeo gráfico integrado. Deverá possuir, no mínimo, 10 (dez) núcleos, 16 (dezesseis) threads, cache inteligente de 20MB, frequência base mínima de 2,5 GHz e frequência máxima em modo Turbo de, no mínimo, 4,9 GHz, com suporte à utilização simultânea de, no mínimo, 4 (quatro) monitores.Produto novo, em linha de fabricação, compatível com a placa- mãe ofertada. MEMÓRIA RAM: Capacidade mínima de 32 GBDDR4 ou superior. Velocidade de 3200 MHz, latência CL16, dissipador de calor, padrão PC4-25600 e tensão de operação de1,35 V. ARMAZENAMENTO: SSD NVMe: Unidade de estado sólido (SSD) com capacidade mínima de 480 GB, interface M.2NVMe PCI Express 4.0 x4, ou superior, fator de forma M.2 2280, memória 3D NAND TLC ou tecnologia superior. Deverá possuir velocidade sequencial mínima de 3.000 MB/s para leitura e 1.800MB/s para gravação. Produto novo, em linha de fabricação, compatível com a placa-mãe ofertada. FONTE DEALIMENTAÇÃO: Potência real mínima de 600 W, certificação 80 Plus Bronze ou superior, PFC ativo e entrada bivolt automática(100-240 V, 50/60 Hz). Deverá possuir, no mínimo, 1 (um) conector ATX 20+4 pinos, 1 (um) conector EPS/ATX 4+4 pinos para alimentação do processador, 2 (dois) conectores PCIExpress 6+2 pinos para alimentação de placa de vídeo e 4 (quatro) conectores SATA. Sistema de refrigeração ativo com ventoinha de 120 mm ou superior, proteções elétricas contrasobretensão (OVP), subtensão (UVP), sobrecorrente (OCP), sobrepotência (OPP), curto-circuito (SCP) e sobretemperatura(OTP)",
-              "unidade": "Und.",
-              "quantidade": "8,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
           "numero": "14",
           "titulo": "9909911369 NOTEBOOK DE ALTODESEMPENHO:Processador de arquitetura x86-64,:equivalenteou superior ao Intel Core i7, Intel Core Ultra 7 ou AMD Ryzen 7, para notebooks, com desempenho mínimo de 21.000 (vinte e ummil) pontos no índice PassMark CPU Mark (htt",
           "fase": "RECEPÇÃO DE PROPOSTAS",
@@ -288262,6 +288238,30 @@
               "especificacao": "9909911369 NOTEBOOK DE ALTODESEMPENHO:Processador de arquitetura x86-64,:equivalenteou superior ao Intel Core i7, Intel Core Ultra 7 ou AMD Ryzen 7, para notebooks, com desempenho mínimo de 21.000 (vinte e ummil) pontos no índice PassMark CPU Mark (https://www.cpubenchmark.net/laptop.html), excetoprocessadores das linhas Intel Core i5 e AMD Ryzen 5. Sistema Operacional: Microsoft Windows 11 Home ou Professional, 64bits, em Português (Brasil), instalado e licenciado. Placa de Vídeo: GPU dedicada para notebook equivalente ou superior àNVIDIA GeForce RTX 4050 Laptop GPU, com memória dedicada mínima de 6 GB GDDR6. Memória RAM: Capacidade mínima de16 GB DDR5. Armazenamento: Unidade de estado sólido (SSD) com capacidade mínima de 512 GB, interface NVMe PCIExpress e padrão M.2. Tela: Resolução mínima WUXGA (1920 x 1200), acabamento antirreflexo, brilho mínimo de 300 nits, taxade atualização mínima de 165 Hz e cobertura de cores mínima de 100% sRGB. Conectividade: Wi-Fi 6 (IEEE 802.11ax) ou superior e Bluetooth 5.1 ou superior. Portas: No mínimo, 1 (uma) porta USB 3.2 Type-C, 2 (duas) portas USB 3.2 Type-A, 1 (uma)porta HDMI 2.1 ou superior, 1 (uma) porta RJ-45 e 1 (um) conector combinado para fone de ouvido e microfone (P2). Garantia: Garantia mínima de 24 meses, contados a partir dorecebimento definitivo do equipamento. Especificação Geral: Serão aceitos equipamentos com características técnicas iguais ou superiores às especificadas. Modelos de Referência: Alienware 16 Aurora, Acer Nitro V16, ASUS TUF Gaming F16, Lenovo Legion 5 ou modelos equivalentes de desempenho igual ou superior. COTA 25% PARA ME/EPP.",
               "unidade": "Und.",
               "quantidade": "3,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "15",
+          "titulo": "37808 NOTEBOOK DE DESEMPENHOINTERMEDIÁRIO:Processador de arquiteturax86-64,:equivalente ou superior ao Intel Core 5 120U, Intel Core Ultra 5,Intel Core de 13ª geração ou AMD Ryzen 5 Série 7000, comvídeo gráfico integrado. Sistema Operacional: Microsof",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37808 NOTEBOOK DE DESEMPENHOINTERMEDIÁRIO:Processador de arquiteturax86-64,:equivalente ou superior ao Intel Core 5 120U, Intel Core Ultra 5,Intel Core de 13ª geração ou AMD Ryzen 5 Série 7000, comvídeo gráfico integrado. Sistema Operacional: Microsoft Windows 11 Home ou Professional, 64 bits, em Português (Brasil). Placade Vídeo: Controladora gráfica integrada ao processador. Memória RAM: Capacidade mínima de 16 GB DDR4 outecnologia superior. Armazenamento: Unidade de estado sólido (SSD) com capacidade mínima de 512 GB, interface NVMe PCIExpress e padrão M.2. Tela: Resolução mínima Full HD (1920 x 1080), acabamento antirreflexo, brilho mínimo de 250 nits, taxade atualização mínima de 120 Hz. Conectividade: Wi-Fi 6 (IEEE802.11ax) ou superior e Bluetooth 5.1 ou superior. Portas: No mínimo, 1 (uma) porta USB 3.2 Type-C, 2 (duas) portas USB 3.2Type-A, 1 (uma) porta HDMI 2.1 ou superior e 1 (um) conector combinado para fone de ouvido e microfone (P2). Garantia: Garantia mínima de 24 meses, contados a partir do recebimentodefinitivo do equipamento. Especificação Geral: Serão aceitos equipamentos com características técnicas iguais ou superiores às especificadas. Modelo de Referência: Notebook Dell Pro 15Essential ou de equivalência técnica e de desempenho igual ou superior. COTA 25% PARA ME/EPP.",
+              "unidade": "Und.",
+              "quantidade": "37,00",
               "valor_referencia": ""
             }
           ]
@@ -291680,8 +291680,8 @@
           ]
         },
         {
-          "numero": "21",
-          "titulo": "9900515642 KIT PAPANICOLAU DESCARTAVEL TAMANHO G::KIT COMPLETO PARA A REALIZAÇÃO DO EXAME DE PAPANICOLAU, CONTENDO 1 ESPÁTULA DE AYRES, 1 ESCOVA CERVICAL, 1 LÂMINA DE VIDRO, 1 CAIXA PORTA LÂMINAS, 1 PAR DE LUVAS E 1 ESPÉCULO TAMANHO G. PRODUTO DE USO ÚNIC",
+          "numero": "22",
+          "titulo": "37403 KIT PAPANICOLAU DESCARTAVEL TAMANHO P:KIT COMPLETO PARA A REALIZAÇÃO DO EXAME DE PAPANICOLAU, CONTENDO 1 ESPÁTULA DE AYRES, 1 ESCOVA CERVICAL, 1 LÂMINA DE VIDRO, 1 CAIXA PORTA LÂMINAS, 1 PAR DE LUVAS E 1 ESPÉCULO TAMANHO P. PRODUTO DE USO ÚNICO, DES",
           "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
@@ -291689,17 +291689,17 @@
           "exclusivo_me": "SIM",
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
-          "valor_referencia": "26.260,00",
+          "valor_referencia": "65.988,00",
           "vencedor": "",
           "melhor_oferta": "0,00",
           "total_itens": 1,
           "itens": [
             {
               "numero": "1",
-              "especificacao": "9900515642 KIT PAPANICOLAU DESCARTAVEL TAMANHO G::KIT COMPLETO PARA A REALIZAÇÃO DO EXAME DE PAPANICOLAU, CONTENDO 1 ESPÁTULA DE AYRES, 1 ESCOVA CERVICAL, 1 LÂMINA DE VIDRO, 1 CAIXA PORTA LÂMINAS, 1 PAR DE LUVAS E 1 ESPÉCULO TAMANHO G. PRODUTO DE USO ÚNICO, DESCARTÁVEL, EMBALADO INDIVIDUALMENTE. EXCLUSIVO PARA ME/EPP.",
+              "especificacao": "37403 KIT PAPANICOLAU DESCARTAVEL TAMANHO P:KIT COMPLETO PARA A REALIZAÇÃO DO EXAME DE PAPANICOLAU, CONTENDO 1 ESPÁTULA DE AYRES, 1 ESCOVA CERVICAL, 1 LÂMINA DE VIDRO, 1 CAIXA PORTA LÂMINAS, 1 PAR DE LUVAS E 1 ESPÉCULO TAMANHO P. PRODUTO DE USO ÚNICO, DESCARTÁVEL, EMBALADO INDIVIDUALMENTE. EXCLUSIVO PARA ME/EPP.",
               "unidade": "KIT",
-              "quantidade": "6.500,00",
-              "valor_referencia": "4,04"
+              "quantidade": "17.550,00",
+              "valor_referencia": "3,76"
             }
           ]
         },
@@ -292405,7 +292405,7 @@
       "publicacao": "03/06/2026 15:51",
       "inicio_recepcao": "14/07/2026 08:00",
       "fim_recepcao": "18/08/2026 08:15",
-      "inicio_disputa": "20/08/2026 17:20",
+      "inicio_disputa": "24/08/2026 17:20",
       "objeto": "Contratação de empresa especializada em execução de obras de construção de uma escola de tempo integral de educação fundamental, no bairro Liberdade Sul, do município de Teixeira de Freitas – BA.",
       "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5Dz_097IFSD3vnpQprEvsxfBnlAAc4fmFAXt4pQd4%2FWcYw%2FrEKQSfbBnnfDI356uTEl6YDD2xyx_WUMMMgRKVJ5X6U4P4I3ZXUHtn01t6bxak%3D",
       "total_lotes": 1,
