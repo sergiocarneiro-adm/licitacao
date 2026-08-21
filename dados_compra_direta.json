@@ -1,9 +1,9 @@
 {
   "metadata": {
     "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-    "total_registros": 704,
-    "total_itens": 2404,
-    "atualizado_em": "20260817_125704"
+    "total_registros": 705,
+    "total_itens": 2405,
+    "atualizado_em": "20260821_164427"
   },
   "registros": [
     {
@@ -39530,6 +39530,38 @@
           "marca": "NAO SE APLICA",
           "modelo": "NAO SE APLICA",
           "valor": "10200,0000"
+        }
+      ]
+    },
+    {
+      "id": "2IL-139-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "968/2026",
+      "modalidade": "INEXIGIBILIDADE",
+      "status": "CONCLUÍDA",
+      "coordenador": "ISLA LIMA SILVA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "ano_referencia": "2026",
+      "data_publicacao": "20/08/2026 16:45:58",
+      "data_conclusao": "21/08/2026 13:47:59",
+      "artigo": "Art. 74º",
+      "inciso": "IV",
+      "justificativa": "Art. 74, inciso IV, da Lei nº 14.133/2021; no art. 79, inciso I, da Lei nº 14.133/2021 e no Decreto Municipal nº 85/2024.",
+      "legislacao": "Lei nº 14.133",
+      "objeto": "Contratação da DJ SANDES para atender as demandas da Secretaria Municipal de Cultura e\nTurismo, conforme Edital 08/2026.",
+      "observacao": "",
+      "link": "https://bllcompras.com/DirectBuy/DirectBuyView?param1=%5Bgkz%5Dboq9QsiU3tWcFUZlofPFuISHEowj2G7TCIZ%2FvZHrlNdC%2FBrLmXBJLEtL08pxKwS9%2Fc5SkNDiOWdFZaX_q6jOnIbCDEIo9ThA6i8OCVXTpPc%3D",
+      "total_itens": 1,
+      "itens": [
+        {
+          "numero": "1",
+          "descricao": "9903312148 Dupla de artistas com 2 Instrumentistas: Descrição: Dois intérpretes dividem os vocais em harmonia, acompanhados de 2 instrumentistas. Apresentação: o repertório deverá ser variado, podendo abranger gêneros como forró, MPB, samba, axé, sertanejo, pop, rock, entre outros, para eventos de pequeno porte, mantendo clima tradicional com diferencial vocal. Duração da apresentação: mínima de 1h30 e máxima de até 2h.",
+          "quantidade": "2,0000",
+          "unidade": "SERV",
+          "fornecedor": "58.744.556 GUSTAVO DA SILVA SANDES",
+          "marca": "NÃO SE APLICA",
+          "modelo": "NÃO SE APLICA",
+          "valor": "1366,2000"
         }
       ]
     }
