@@ -2,9 +2,9 @@
   "metadata": {
     "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
     "total_processos": 882,
-    "total_lotes": 9625,
-    "total_itens": 16137,
-    "atualizado_em": "20260821_163704"
+    "total_lotes": 9628,
+    "total_itens": 16140,
+    "atualizado_em": "20260824_073849"
   },
   "processos": [
     {
@@ -285716,7 +285716,7 @@
         {
           "numero": "1",
           "titulo": "CAPACETE DE SEGURANÇA PARA MOTOCICLISTA",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,00",
@@ -285725,7 +285725,7 @@
           "garantia": "",
           "valor_referencia": "10.006,00",
           "vencedor": "DEBORAH DE SOUZA CONGIU NAVARRO LTDA",
-          "melhor_oferta": "5.997,00",
+          "melhor_oferta": "5.996,80",
           "total_itens": 1,
           "itens": [
             {
@@ -286873,7 +286873,7 @@
         {
           "numero": "1",
           "titulo": "Tule",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,00",
@@ -286897,7 +286897,7 @@
         {
           "numero": "2",
           "titulo": "Oxford",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,00",
@@ -286945,7 +286945,7 @@
         {
           "numero": "4",
           "titulo": "Crepe Elena ou Helena",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,00",
@@ -286969,7 +286969,7 @@
         {
           "numero": "5",
           "titulo": "Organza",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,00",
@@ -286993,7 +286993,7 @@
         {
           "numero": "6",
           "titulo": "Malha montaria",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,00",
@@ -287017,7 +287017,7 @@
         {
           "numero": "7",
           "titulo": "Twey (two way)",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,00",
@@ -287113,7 +287113,7 @@
         {
           "numero": "11",
           "titulo": "CETIM",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,00",
@@ -287137,7 +287137,7 @@
         {
           "numero": "12",
           "titulo": "VISCOSE",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,00",
@@ -287161,7 +287161,7 @@
         {
           "numero": "13",
           "titulo": "JACQUARD",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,00",
@@ -292209,30 +292209,6 @@
           ]
         },
         {
-          "numero": "9",
-          "titulo": "9900100173 CANDASERTANA + HIDROCLOROTIAZIDA (8+12,50MG):COMPRIMIDO - VENZER HCT",
-          "fase": "FRACASSADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "972,00",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900100173 CANDASERTANA + HIDROCLOROTIAZIDA (8+12,50MG):COMPRIMIDO - VENZER HCT",
-              "unidade": "CO",
-              "quantidade": "360,00",
-              "valor_referencia": "2,70"
-            }
-          ]
-        },
-        {
           "numero": "10",
           "titulo": "37157 CIANOCOBALAMINA 5000MCG, NITRATO DE TIAMINA100MG, CLORIDRATO DE PIRIDOXINA:100MG COMPRIMIDOS REVESTIDOS; RENOVI 8",
           "fase": "FRACASSADO",
@@ -292257,8 +292233,8 @@
           ]
         },
         {
-          "numero": "12",
-          "titulo": "9900100175 CLORIDRATO DE ATOMOXETINA:25 MG ATENTAH",
+          "numero": "11",
+          "titulo": "9900100174 CLORIDRATO DE DORZOLAMIDA:20MG/ML SOLUÇÃO OFTÁLMICA 5ML OCUPRESS",
           "fase": "HOMOLOGADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
@@ -292266,17 +292242,17 @@
           "exclusivo_me": "NÃO",
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
-          "valor_referencia": "2.192,40",
-          "vencedor": "ONCOEXO DISTRIBUIDORA DE MEDICAMENTOS LTDA",
-          "melhor_oferta": "2.138,40",
+          "valor_referencia": "2.990,40",
+          "vencedor": "MEDISIL MEDICAMENTOS LTDA",
+          "melhor_oferta": "1.392,00",
           "total_itens": 1,
           "itens": [
             {
               "numero": "1",
-              "especificacao": "9900100175 CLORIDRATO DE ATOMOXETINA:25 MG ATENTAH",
-              "unidade": "CO",
-              "quantidade": "1.080,00",
-              "valor_referencia": "2,03"
+              "especificacao": "9900100174 CLORIDRATO DE DORZOLAMIDA:20MG/ML SOLUÇÃO OFTÁLMICA 5ML OCUPRESS",
+              "unidade": "Und.",
+              "quantidade": "48,00",
+              "valor_referencia": "62,30"
             }
           ]
         },
@@ -292301,6 +292277,30 @@
               "unidade": "CO",
               "quantidade": "1.080,00",
               "valor_referencia": "2,03"
+            }
+          ]
+        },
+        {
+          "numero": "13",
+          "titulo": "9900100176 CLORIDRATO DE VENLAFAXINA:150MG CAPSULA DE LIBERAÇÃO PROLONGADA",
+          "fase": "HOMOLOGADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "979,20",
+          "vencedor": "MEDICINALI PRODUTOS PARA SAUDE LTDA",
+          "melhor_oferta": "756,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900100176 CLORIDRATO DE VENLAFAXINA:150MG CAPSULA DE LIBERAÇÃO PROLONGADA",
+              "unidade": "CAP",
+              "quantidade": "720,00",
+              "valor_referencia": "1,36"
             }
           ]
         },
@@ -292425,8 +292425,8 @@
           ]
         },
         {
-          "numero": "18",
-          "titulo": "9900100179 CLORIDRATO DE METILFENIDATO LA:COMPIMIDO 20MG",
+          "numero": "19",
+          "titulo": "9900100180 CLORIDRATO DE TRAZODONA:50MG TRAZODONA  (LOREDON)",
           "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
@@ -292434,17 +292434,17 @@
           "exclusivo_me": "NÃO",
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
-          "valor_referencia": "5.054,40",
+          "valor_referencia": "432,00",
           "vencedor": "",
           "melhor_oferta": "0,00",
           "total_itens": 1,
           "itens": [
             {
               "numero": "1",
-              "especificacao": "9900100179 CLORIDRATO DE METILFENIDATO LA:COMPIMIDO 20MG",
+              "especificacao": "9900100180 CLORIDRATO DE TRAZODONA:50MG TRAZODONA (LOREDON)",
               "unidade": "CO",
-              "quantidade": "720,00",
-              "valor_referencia": "7,02"
+              "quantidade": "360,00",
+              "valor_referencia": "1,20"
             }
           ]
         },
@@ -292521,30 +292521,6 @@
           ]
         },
         {
-          "numero": "22",
-          "titulo": "9900100181 DICLORIDRATO DE TRIMETAZIDINA:35MG COMPRIMIDOS DE LIBERACAO PROLONGADA",
-          "fase": "FRACASSADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "295,20",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900100181 DICLORIDRATO DE TRIMETAZIDINA:35MG COMPRIMIDOS DE LIBERACAO PROLONGADA",
-              "unidade": "CO",
-              "quantidade": "360,00",
-              "valor_referencia": "0,82"
-            }
-          ]
-        },
-        {
           "numero": "23",
           "titulo": "37166 DICLORIDRATO BETAISTINA:48MG LIBERAÇÃO PROLONGADA (BETADINE XR)",
           "fase": "FRACASSADO",
@@ -292589,6 +292565,30 @@
               "unidade": "CO",
               "quantidade": "1.800,00",
               "valor_referencia": "1,11"
+            }
+          ]
+        },
+        {
+          "numero": "25",
+          "titulo": "37168 DOMPERIDONA:COMPRIMIDO 10 MG.",
+          "fase": "HOMOLOGADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "129,60",
+          "vencedor": "MEDISIL MEDICAMENTOS LTDA",
+          "melhor_oferta": "86,40",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37168 DOMPERIDONA:COMPRIMIDO 10 MG.",
+              "unidade": "CO",
+              "quantidade": "720,00",
+              "valor_referencia": "0,18"
             }
           ]
         },
@@ -292761,26 +292761,26 @@
           ]
         },
         {
-          "numero": "32",
-          "titulo": "9900100186 Insulina lispro 100 UI/ml:Embalagem com 1 caneta descartável pré-enchida contendo 3 mL de solução injetável- LISPRO",
-          "fase": "HOMOLOGADO",
+          "numero": "33",
+          "titulo": "9900100187 LIDOCAINA:40MG/G: CREME TUBO COM 30G - LIDOCAINA",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
           "exclusivo_me": "NÃO",
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
-          "valor_referencia": "18.054,72",
-          "vencedor": "ONCOEXO DISTRIBUIDORA DE MEDICAMENTOS LTDA",
-          "melhor_oferta": "9.504,00",
+          "valor_referencia": "3.351,36",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
           "total_itens": 1,
           "itens": [
             {
               "numero": "1",
-              "especificacao": "9900100186 Insulina lispro 100 UI/ml:Embalagem com 1 caneta descartável pré-enchida contendo 3 mL de solução injetável- LISPRO",
+              "especificacao": "9900100187 LIDOCAINA:40MG/G: CREME TUBO COM 30G - LIDOCAINA",
               "unidade": "Und.",
-              "quantidade": "288,00",
-              "valor_referencia": "62,69"
+              "quantidade": "48,00",
+              "valor_referencia": "69,82"
             }
           ]
         },
@@ -292809,8 +292809,8 @@
           ]
         },
         {
-          "numero": "33",
-          "titulo": "9900100187 LIDOCAINA:40MG/G: CREME TUBO COM 30G - LIDOCAINA",
+          "numero": "35",
+          "titulo": "9900100189 MACROGOL 4MG, PROPILENOGLICOL 3MG E HIDROXIPROPILGUAR 1,8 MG:SOLUÇÃO PARA LUBRIFICAÇÃO OFTÁLMICA ESTÉRIL, FRASCO15ML (MIRUGELL)",
           "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
@@ -292818,17 +292818,17 @@
           "exclusivo_me": "NÃO",
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
-          "valor_referencia": "3.351,36",
+          "valor_referencia": "2.314,08",
           "vencedor": "",
           "melhor_oferta": "0,00",
           "total_itens": 1,
           "itens": [
             {
               "numero": "1",
-              "especificacao": "9900100187 LIDOCAINA:40MG/G: CREME TUBO COM 30G - LIDOCAINA",
-              "unidade": "Und.",
+              "especificacao": "9900100189 MACROGOL 4MG, PROPILENOGLICOL 3MG E HIDROXIPROPILGUAR 1,8 MG:SOLUÇÃO PARA LUBRIFICAÇÃO OFTÁLMICA ESTÉRIL, FRASCO15ML (MIRUGELL)",
+              "unidade": "FR",
               "quantidade": "48,00",
-              "valor_referencia": "69,82"
+              "valor_referencia": "48,21"
             }
           ]
         },
@@ -292905,30 +292905,6 @@
           ]
         },
         {
-          "numero": "38",
-          "titulo": "9900100191 OMEPRAZOL:MAGNÉSICO 20 MG (LOSEC MUPS)",
-          "fase": "FRACASSADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "11.210,40",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900100191 OMEPRAZOL:MAGNÉSICO 20 MG (LOSEC MUPS)",
-              "unidade": "CO",
-              "quantidade": "720,00",
-              "valor_referencia": "15,57"
-            }
-          ]
-        },
-        {
           "numero": "39",
           "titulo": "9900100192 OXCARBAZEPINA:suspensão oral 60 mg/ml, frasco com 100 ml",
           "fase": "FRACASSADO",
@@ -292949,6 +292925,30 @@
               "unidade": "FR",
               "quantidade": "96,00",
               "valor_referencia": "37,47"
+            }
+          ]
+        },
+        {
+          "numero": "40",
+          "titulo": "9900100193 PELARGONIUM SIDOIDES:825MG/ML: SOLUÇÃO ORAL 50ML KALOBA",
+          "fase": "FRACASSADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "3.206,16",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900100193 PELARGONIUM SIDOIDES:825MG/ML: SOLUÇÃO ORAL 50ML KALOBA",
+              "unidade": "FR",
+              "quantidade": "24,00",
+              "valor_referencia": "133,59"
             }
           ]
         },
@@ -293097,30 +293097,6 @@
           ]
         },
         {
-          "numero": "46",
-          "titulo": "10101200024 SOMATROPINA:Pó Liofilizado para Solução Injetável 30 UI REFIL CANETA. CRISCY",
-          "fase": "FRACASSADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "17.078,40",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "10101200024 SOMATROPINA:Pó Liofilizado para Solução Injetável 30 UI REFIL CANETA. CRISCY",
-              "unidade": "Und.",
-              "quantidade": "36,00",
-              "valor_referencia": "474,40"
-            }
-          ]
-        },
-        {
           "numero": "47",
           "titulo": "9900100199 SORBITOL 70%+ LAURILSULFATO DE SÓDIO7,7MG:Bisnaga de 6,5g. MINILAX",
           "fase": "HOMOLOGADO",
@@ -293141,6 +293117,30 @@
               "unidade": "BIS",
               "quantidade": "720,00",
               "valor_referencia": "5,36"
+            }
+          ]
+        },
+        {
+          "numero": "48",
+          "titulo": "9900100200 SUCCINATO DE PRUCALOPRIDA:1MG, RESOLOR",
+          "fase": "DESERTO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "1.940,40",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900100200 SUCCINATO DE PRUCALOPRIDA:1MG, RESOLOR",
+              "unidade": "CO",
+              "quantidade": "168,00",
+              "valor_referencia": "11,55"
             }
           ]
         },
@@ -293265,30 +293265,6 @@
           ]
         },
         {
-          "numero": "53",
-          "titulo": "9900100204 TIAMINA 100MG, PIRIDOXINA 100MG, CIANOCOBALAMINA 5000MCG:COMP RESVESTIDO BETRAT",
-          "fase": "HOMOLOGADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "1.929,60",
-          "vencedor": "MEDICINALI PRODUTOS PARA SAUDE LTDA",
-          "melhor_oferta": "1.670,40",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900100204 TIAMINA 100MG, PIRIDOXINA 100MG, CIANOCOBALAMINA 5000MCG:COMP RESVESTIDO BETRAT",
-              "unidade": "CO",
-              "quantidade": "720,00",
-              "valor_referencia": "2,68"
-            }
-          ]
-        },
-        {
           "numero": "54",
           "titulo": "9900100205 VALSARTANA 320MG, HIDROCLOROTIAZIDA25MG, BESILATO DE ANLODIPINO 10MG:COMPRIMIDO. EXFORGE HCT",
           "fase": "FRACASSADO",
@@ -293309,6 +293285,30 @@
               "unidade": "CO",
               "quantidade": "360,00",
               "valor_referencia": "4,94"
+            }
+          ]
+        },
+        {
+          "numero": "55",
+          "titulo": "9900100206 VILDAGLIPTINA 50MG:COMPRIMIDOS GALVUS",
+          "fase": "FRACASSADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "691,20",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900100206 VILDAGLIPTINA 50MG:COMPRIMIDOS GALVUS",
+              "unidade": "CO",
+              "quantidade": "360,00",
+              "valor_referencia": "1,92"
             }
           ]
         },
@@ -294027,29 +294027,29 @@
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "758/2025",
       "modalidade": "CREDENCIAMENTO",
-      "situacao": "EM FINALIZAÇÃO",
+      "situacao": "SUSPENSO",
       "condutor": "MAGDA DE SELES GUIMARÃES",
       "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
       "tipo_contrato": "AQUISIÇÃO",
-      "publicacao": "03/06/2025 16:35",
+      "publicacao": "03/06/2025 11:48",
       "inicio_recepcao": "13/06/2025 08:00",
-      "fim_recepcao": "15/06/2026 08:00",
+      "fim_recepcao": "15/06/2026 00:00",
       "inicio_disputa": "",
-      "objeto": "CREDENCIAMENTO DE PESSOA JURÍDICA PARA PRESTAÇÃO DE SERVIÇOS MÉDICOS ESPECIALIZADOS EM ANÁLISE PATOLÓGICA PARA ATENDER AS DEMANDAS DA SECRETARIA MUNICIPAL DE SAÚDE",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5D2SRVOycDHmOuDspMOaas00TIeklZrBHCfTX_uoLEreUul9KX3k0CvnrdIpkHQblDyPVEK0ayyGTx6X69%2FrRJ4nppK0ETPm3riInBZ4Rl4Mo%3D",
-      "total_lotes": 6,
-      "total_itens": 6,
+      "objeto": "Credenciamento de pessoa jurídica para PRESTAÇÃO DE SERVIÇOS\n MÉDICOS ESPECIALIZADOS EM ANÁLISE PATOLÓGICA para atender as demandas da\n Secretaria Municipal de Saúde.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DS3_qLTOGE0y6lsN5PlnWCwIrEUxPTEBnv8LVHehLu2bW1YTZoX9D6Dc84ATsXNNJ71QocsP4IwA6h4_H8S7AZzg8pSZZCFP4RDRiydeWEx4%3D",
+      "total_lotes": 9,
+      "total_itens": 9,
       "lotes": [
         {
           "numero": "1",
-          "titulo": "33436 BIÓPSIA SIMPLES",
-          "fase": "HABILITAÇÃO",
+          "titulo": "33436 BIÓPSIA SIMPLES:BIÓPSIA SIMPLES",
+          "fase": "SUSPENSO",
           "tipo": "UNITÁRIO",
           "quantidade": "1",
           "intervalo_minimo": "0,00",
           "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
+          "local_entrega": "",
+          "garantia": "",
           "valor_referencia": "60,19",
           "vencedor": "",
           "melhor_oferta": "0,00",
@@ -294059,21 +294059,45 @@
               "numero": "1",
               "especificacao": "33436 BIÓPSIA SIMPLES:BIÓPSIA SIMPLES",
               "unidade": "SERV",
-              "quantidade": "2.500,00",
+              "quantidade": "1.875,00",
               "valor_referencia": "60,19"
             }
           ]
         },
         {
           "numero": "2",
-          "titulo": "9903311392 CITOLOGIA EM MEIO LIQUIDO",
-          "fase": "HABILITAÇÃO",
+          "titulo": "909911235 BIOPSIA SIMPLES:BIÓPSIA SIMPLES. COTA DE 25% RESERVADA PARA  ME/EPP.",
+          "fase": "SUSPENSO",
           "tipo": "UNITÁRIO",
           "quantidade": "1",
           "intervalo_minimo": "0,00",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
+          "exclusivo_me": "SIM",
+          "local_entrega": "",
+          "garantia": "",
+          "valor_referencia": "60,19",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "909911235 BIOPSIA SIMPLES:BIÓPSIA SIMPLES. COTA DE 25% RESERVADA PARA ME/EPP.",
+              "unidade": "SERV",
+              "quantidade": "625,00",
+              "valor_referencia": "60,19"
+            }
+          ]
+        },
+        {
+          "numero": "3",
+          "titulo": "9903311392 CITOLOGIA EM MEIO LIQUIDO - BRONQUIO: CITOLOGIA EM MEIO LIQUIDO - BRONQUIO EXCLUSIVO PARA ME/EPP",
+          "fase": "SUSPENSO",
+          "tipo": "UNITÁRIO",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "SIM",
+          "local_entrega": "",
+          "garantia": "",
           "valor_referencia": "62,25",
           "vencedor": "",
           "melhor_oferta": "0,00",
@@ -294081,7 +294105,7 @@
           "itens": [
             {
               "numero": "1",
-              "especificacao": "9903311392 CITOLOGIA EM MEIO LIQUIDO - BRONQUIO:CITOLOGIA EM MEIO LIQUIDO - BRONQUIO.",
+              "especificacao": "CITOLOGIA EM MEIO LIQUIDO - BRONQUIO: CITOLOGIA EM MEIO LIQUIDO - BRONQUIO EXCLUSIVO PARA ME/EPP",
               "unidade": "SERV",
               "quantidade": "100,00",
               "valor_referencia": "62,25"
@@ -294089,15 +294113,15 @@
           ]
         },
         {
-          "numero": "3",
-          "titulo": "9903311373 COLORAÇÃO ESPECIAL",
-          "fase": "HABILITAÇÃO",
+          "numero": "4",
+          "titulo": "9903311373 COLORAÇÃO ESPECIAL:Marcação da biópsia por corantes especiais. EXCLUSIVO PARA ME/EPP",
+          "fase": "SUSPENSO",
           "tipo": "UNITÁRIO",
           "quantidade": "1",
           "intervalo_minimo": "0,00",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
+          "exclusivo_me": "SIM",
+          "local_entrega": "",
+          "garantia": "",
           "valor_referencia": "33,65",
           "vencedor": "",
           "melhor_oferta": "0,00",
@@ -294105,7 +294129,7 @@
           "itens": [
             {
               "numero": "1",
-              "especificacao": "9903311373 COLORAÇÃO ESPECIAL: Marcação da biópsia por corantes especiais.",
+              "especificacao": "9903311373 COLORAÇÃO ESPECIAL:Marcação da biópsia por corantes especiais. EXCLUSIVO PARA ME/EPP",
               "unidade": "SERV",
               "quantidade": "50,00",
               "valor_referencia": "33,65"
@@ -294113,15 +294137,15 @@
           ]
         },
         {
-          "numero": "4",
-          "titulo": "9903311378 CORE BYOPSY",
-          "fase": "HABILITAÇÃO",
+          "numero": "5",
+          "titulo": "9903311378 CORE BYOPSY:CORE BYOPSY. EXCLUSIVO PARA ME/EPP",
+          "fase": "SUSPENSO",
           "tipo": "UNITÁRIO",
           "quantidade": "1",
           "intervalo_minimo": "0,00",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
+          "exclusivo_me": "SIM",
+          "local_entrega": "",
+          "garantia": "",
           "valor_referencia": "68,46",
           "vencedor": "",
           "melhor_oferta": "0,00",
@@ -294129,7 +294153,7 @@
           "itens": [
             {
               "numero": "1",
-              "especificacao": "9903311378 CORE BYOPSY:CORE BYOPSY.",
+              "especificacao": "9903311378 CORE BYOPSY:CORE BYOPSY. EXCLUSIVO PARA ME/EPP",
               "unidade": "SERV",
               "quantidade": "100,00",
               "valor_referencia": "68,46"
@@ -294137,15 +294161,15 @@
           ]
         },
         {
-          "numero": "5",
-          "titulo": "33437 PEÇA CIRÚRGICA SIMPLES",
-          "fase": "HABILITAÇÃO",
+          "numero": "6",
+          "titulo": "33437 PEÇA CIRÚRGICA SIMPLES:PEÇA CIRÚRGICA SIMPLES",
+          "fase": "SUSPENSO",
           "tipo": "UNITÁRIO",
           "quantidade": "1",
           "intervalo_minimo": "0,00",
           "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
+          "local_entrega": "",
+          "garantia": "",
           "valor_referencia": "75,00",
           "vencedor": "",
           "melhor_oferta": "0,00",
@@ -294155,21 +294179,45 @@
               "numero": "1",
               "especificacao": "33437 PEÇA CIRÚRGICA SIMPLES:PEÇA CIRÚRGICA SIMPLES",
               "unidade": "SERV",
-              "quantidade": "2.500,00",
+              "quantidade": "1.875,00",
               "valor_referencia": "75,00"
             }
           ]
         },
         {
-          "numero": "6",
-          "titulo": "9903311384 PEÇA CIRÚRGICA COMPLEXA",
-          "fase": "HABILITAÇÃO",
+          "numero": "7",
+          "titulo": "9909911236 PEÇA CIRURGICA SIMPLES:PEÇA CIRURGICA SIMPLES. COTA DE 25% RESERVADA PARA ME/EPP",
+          "fase": "SUSPENSO",
+          "tipo": "UNITÁRIO",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "SIM",
+          "local_entrega": "",
+          "garantia": "",
+          "valor_referencia": "75,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9909911236 PEÇA CIRURGICA SIMPLES:PEÇA CIRURGICA SIMPLES. COTA DE 25% RESERVADA PARA ME/EPP",
+              "unidade": "SERV",
+              "quantidade": "625,00",
+              "valor_referencia": "75,00"
+            }
+          ]
+        },
+        {
+          "numero": "8",
+          "titulo": "9903311384 PEÇA CIRÚRGICA COMPLEXA:PEÇA CIRÚRGICA COMPLEXA",
+          "fase": "SUSPENSO",
           "tipo": "UNITÁRIO",
           "quantidade": "1",
           "intervalo_minimo": "0,00",
           "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
+          "local_entrega": "",
+          "garantia": "",
           "valor_referencia": "243,42",
           "vencedor": "",
           "melhor_oferta": "0,00",
@@ -294179,7 +294227,31 @@
               "numero": "1",
               "especificacao": "9903311384 PEÇA CIRÚRGICA COMPLEXA:PEÇA CIRÚRGICA COMPLEXA",
               "unidade": "UN",
-              "quantidade": "1.500,00",
+              "quantidade": "1.125,00",
+              "valor_referencia": "243,42"
+            }
+          ]
+        },
+        {
+          "numero": "9",
+          "titulo": "9909911237 PEÇA CIRURGICA COMPLEXA:PEÇA CIRURGICA COMPLEXA. COTA DE  25%  RESERVADA PARA ME/EPP.",
+          "fase": "SUSPENSO",
+          "tipo": "UNITÁRIO",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "SIM",
+          "local_entrega": "",
+          "garantia": "",
+          "valor_referencia": "243,42",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9909911237 PEÇA CIRURGICA COMPLEXA:PEÇA CIRURGICA COMPLEXA. COTA DE 25% RESERVADA PARA ME/EPP.",
+              "unidade": "SERV",
+              "quantidade": "375,00",
               "valor_referencia": "243,42"
             }
           ]
@@ -294191,38 +294263,38 @@
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "705/2024",
       "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "SUSPENSO",
-      "condutor": "VICTOR KINIDEL DETHLING",
+      "situacao": "HOMOLOGADO",
+      "condutor": "MAGDA DE SELES GUIMARÃES",
       "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
       "tipo_contrato": "AQUISIÇÃO",
-      "publicacao": "15/05/2024 18:26",
-      "inicio_recepcao": "16/05/2024 08:00",
-      "fim_recepcao": "12/06/2024 09:45",
-      "inicio_disputa": "12/06/2024 10:00",
-      "objeto": "Contratação de instituição financeira para prestação de serviços bancários para centralização, gerenciamento e processamento de créditos da folha de pagamento dos servidores, a fim de atender as demandas da Prefeitura de Teixeira de Freitas, conforme condições, quantidades e especificações no Edital, Termo de Referência e seus Anexos.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DjoXYx_tmzE1npJ5VY9ieugidlSCj6SlM6Cg18M992hwgaZK1gZ31UW1W74R38ahhysA80cSDa0UqY4P6TrJIof4H7cVvYnVbGrU4oik%2FinA%3D",
+      "publicacao": "13/06/2024 18:49",
+      "inicio_recepcao": "14/06/2024 08:00",
+      "fim_recepcao": "10/07/2024 13:45",
+      "inicio_disputa": "10/07/2024 14:00",
+      "objeto": "O objeto da presente licitação é a contratação de INSTITUIÇÃO FINANCEIRA ESPECIALIZADA NA PRESTAÇÃO DE SERVIÇOS BANCÁRIOS PARA CENTRALIZAÇÃO, GERENCIAMENTO E PROCESSAMENTO DE CRÉDITOS DA FOLHA DE PAGAMENTO DOS SERVIDORES, a fim de atender as demandas da Secretaria Municipal de Administração, conforme condições, quantidades e especificações no Edital, Termo de Referência e seus Anexos.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DXVxc3sy0wntv0JTNOVntEAqHHE7iyyuo60CadDTmSPnvie%2FMBxAEACFHJdbCz_qc0uRBoMss0zAAKJptonQ5lDFq%2FJ5Kwk9C86drOoMJQLs%3D",
       "total_lotes": 1,
       "total_itens": 1,
       "lotes": [
         {
           "numero": "1",
-          "titulo": "LOTE 01",
-          "fase": "SUSPENSO",
-          "tipo": "UNITÁRIO",
+          "titulo": "SERVIÇOS BANCÁRIOS",
+          "fase": "HOMOLOGADO",
+          "tipo": "GLOBAL",
           "quantidade": "1",
-          "intervalo_minimo": "100,00",
+          "intervalo_minimo": "0,01",
           "exclusivo_me": "NÃO",
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "6.052.150,00",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
+          "vencedor": "ITAÚ UNIBANCO S.A.",
+          "melhor_oferta": "6.053.000,00",
           "total_itens": 1,
           "itens": [
             {
               "numero": "1",
               "especificacao": "CONTRATAÇÃO DE INSTITUIÇÃO FINANCEIRA: ESPECIALIZADA NA PRESTAÇÃO DE SERVIÇOS BANCÁRIOS PARA CENTRALIZAÇÃO, GERENCIAMENTO E PROCESSAMENTO DE CRÉDITOS DA FOLHA DE PAGAMENTO DOS SERVIDORES DA PREFEITURA MUNICIPAL DE TEIXEIRA DE FREITAS/BA.",
-              "unidade": "SERVIÇO",
+              "unidade": "UN",
               "quantidade": "1,00",
               "valor_referencia": "6.052.150,00"
             }
