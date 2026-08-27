@@ -2,9 +2,9 @@
   "metadata": {
     "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
     "total_processos": 885,
-    "total_lotes": 9640,
-    "total_itens": 16185,
-    "atualizado_em": "20260825_212235"
+    "total_lotes": 9637,
+    "total_itens": 16182,
+    "atualizado_em": "20260826_230430"
   },
   "processos": [
     {
@@ -257606,7 +257606,7 @@
         {
           "numero": "1",
           "titulo": "LOCAÇÃO DE EQUIPAMENTOS DE IMPRESSÃO E CÓPIA",
-          "fase": "JULGAMENTO",
+          "fase": "INTERPOSIÇÃO DE RECURSOS",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -264167,7 +264167,7 @@
         {
           "numero": "1",
           "titulo": "INSUMOS ALIMENTÍCIOS",
-          "fase": "JULGAMENTO DE RECURSOS",
+          "fase": "JULGAMENTO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -264175,8 +264175,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "321.853,83",
-          "vencedor": "LEGI DISTRIBUIDORA LTDA",
-          "melhor_oferta": "316.793,83",
+          "vencedor": "FH SUZARTE COMERCIO ALIMENTICIOS, PAPELARIA HIGIENE PESSOAL LTDA",
+          "melhor_oferta": "318.970,23",
           "total_itens": 31,
           "itens": [
             {
@@ -264701,7 +264701,7 @@
         {
           "numero": "1",
           "titulo": "700110361 BETONEIRA 400L:tambor 400 litros, misturam 315 litros, 15 ciclos/hora, produção 4,7 m³, tambor com 26 rpm, motor com 2 cv, tensão monofásica de 220v, frequência de 60 hz, transmissão por correia tipo v a44 e peso 160kg. EXCLUSIVO PARA ME/EPP.",
-          "fase": "JULGAMENTO DE RECURSOS",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -268186,7 +268186,7 @@
       "publicacao": "03/06/2026 16:22",
       "inicio_recepcao": "05/06/2026 08:00",
       "fim_recepcao": "14/07/2026 08:15",
-      "inicio_disputa": "24/08/2026 17:20",
+      "inicio_disputa": "27/08/2026 17:20",
       "objeto": "Contratação de empresa especializada em execução de obras de construção de um Centro Educacional, com quadra coberta, localizado no bairro Jerusalém, no município de Teixeira de Freitas – BA.",
       "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5D7LZabRr7rQrtf24kB14UjYZu8E%2FND799QlWXVrnZLiF2li4grnVHSzAf9Wode1Mwxo0Z_qUGfMaq1gnCu7rM9xssjgDyHH5lKW%2F0ol7Q2yU%3D",
       "total_lotes": 1,
@@ -268537,7 +268537,7 @@
       "publicacao": "03/06/2026 17:18",
       "inicio_recepcao": "05/06/2026 08:00",
       "fim_recepcao": "15/07/2026 08:15",
-      "inicio_disputa": "24/08/2026 17:20",
+      "inicio_disputa": "27/08/2026 17:20",
       "objeto": "Contratação de empresa especializada em execução de obras de construção de um Centro Educacional, com piscina anexa, localizado no bairro Caminho do Mar, no município de Teixeira de Freitas – BA.",
       "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DL%2FrR5dAaiUsY6jb7mFKba8PCKLawFAXnjNy8Ff3_s5NPy49w1db1RxuZqR2ZbCqTT2KNWtFQz3IpK_j95JByrIj%2Flk0I_LaItNBPnTmZyRk%3D",
       "total_lotes": 1,
@@ -274381,7 +274381,7 @@
         {
           "numero": "2",
           "titulo": "2302000096 VEÍCULO AUTOMOTOR TIPO CAMINHONETE (PICK-UP):cabine dupla, zero quilometro, ano/modelo igual ou superior ao da contratação, capacidade para 05 (cinco) ocupantes, carroceria com caçamba aberta, motorização a diesel com turbocompressor, potência",
-          "fase": "RECEPÇÃO DE CONTRARRAZÕES",
+          "fase": "JULGAMENTO DE RECURSOS",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -284380,334 +284380,6 @@
       ]
     },
     {
-      "id": "PE-133-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "616 / 2026",
-      "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "RECEPÇÃO DE PROPOSTAS",
-      "condutor": "JONATAS DA SILVA SOUSA",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO",
-      "publicacao": "12/08/2026 10:56",
-      "inicio_recepcao": "14/08/2026 08:00",
-      "fim_recepcao": "26/08/2026 08:15",
-      "inicio_disputa": "26/08/2026 08:30",
-      "objeto": "Contratação de empresa especializada em fornecimento de ROÇADEIRA HIDRÁULICA PARA TRATOR (material permanente),  a fim de atender às demandas da Secretaria Municipal de Administração e da Secretaria Municipal de Agricultura, Pecuária e Abastecimento.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DlXbZYmA0uN8hzggm%2FCPsi0CNN1TTvxXXqv4wh6Gf%2FqKE9oUGNRltSZ0penjq_sQmHXr5VhjQRINWL1IQTjBD99sx5ScLUZoGuuWaKXmucZo%3D",
-      "total_lotes": 1,
-      "total_itens": 1,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "ROÇADEIRA HIDRÁULICA",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37392 ROÇADEIRA HIDRÁULICA PARA TRATOR:Roçadeirahidráulica de dupla hélice, destinada ao acoplamento em trator,por meio de uma transmissão direta com Sistema de engate de 3pontos, giro livre interno, com dentes cônico helicoidais,embreagem e cardan com proteção. Características mínimasexigidas: Comprimento aproximado 2,10 m; Largura aproximadade 2,73 m; Peso aproximado de 755 Kg; Largura de cortemáximo de 2,50 cm; Altura de corte máximo de 20 cm;Compatibilidade com tratores de potência entre 70 CV a 90 CV;Sistema de engate de 3 pontos para trator, cat II; Eixo cardanarticulado com embreagem de torque regulável; Caixas com girolivre banhado a óleo",
-              "unidade": "UN",
-              "quantidade": "2,00",
-              "valor_referencia": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "PE-122-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "857 / 2026",
-      "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "JULGAMENTO",
-      "condutor": "SERGIO CARNEIRO CAVALCANTI DE AZEVEDO",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO",
-      "publicacao": "31/07/2026 19:17",
-      "inicio_recepcao": "04/08/2026 08:00",
-      "fim_recepcao": "17/08/2026 10:15",
-      "inicio_disputa": "17/08/2026 10:30",
-      "objeto": "Contratação de empresa especializada em fornecimento de LIVROS PARADIDÁTICOS DESTINADOS AO NÚCLEO DE APOIO À EDUCAÇÃO INCLUSIVA (NAEI), a fim de atender as demandas da Secretaria Municipal de Educação.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DIHUuf3dmj4uv3emkMU1g1BIhfgPL4vZgKDakfM73uLzJZo3ufpWne1njWnLPrehk72tGH3SIQzKeuh_KmV1S_NZOXRrZG4SguHgU4Qam1dc%3D",
-      "total_lotes": 11,
-      "total_itens": 11,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "7601000001 Kit Livro Infantil Histórias Divertidas Com Desenhos 3D:livro pop up, imagens que saltam, livro ilustrativo, cores vivas educativa, capa almofadada",
-          "fase": "HABILITAÇÃO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "9.620,80",
-          "vencedor": "AQUARELA EDITORA E DISTRIBUIDORA LTDA",
-          "melhor_oferta": "7.420,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "7601000001 Kit Livro Infantil Histórias Divertidas Com Desenhos 3D:livro pop up, imagens que saltam, livro ilustrativo, cores vivas educativa, capa almofadada",
-              "unidade": "Und.",
-              "quantidade": "140,00",
-              "valor_referencia": "68,72"
-            }
-          ]
-        },
-        {
-          "numero": "2",
-          "titulo": "7601000002 Bocarra:Um livro Sensorial! Monstros Capa dura - Livro interativo, 1 julho 2023",
-          "fase": "HABILITAÇÃO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "5.290,60",
-          "vencedor": "AQUARELA EDITORA E DISTRIBUIDORA LTDA",
-          "melhor_oferta": "3.276,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "7601000002 Bocarra:Um livro Sensorial! Monstros Capa dura - Livro interativo, 1 julho 2023",
-              "unidade": "Und.",
-              "quantidade": "140,00",
-              "valor_referencia": "37,79"
-            }
-          ]
-        },
-        {
-          "numero": "3",
-          "titulo": "7601000003 Toc... toc... Quem mora aqui?:Autor: Maria Loretta Giraldo",
-          "fase": "HABILITAÇÃO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "9.927,40",
-          "vencedor": "SK DISTRIBUIDORA E COMERCIO DE LIVROS LTDA",
-          "melhor_oferta": "7.330,40",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "7601000003 Toc... toc... Quem mora aqui?:Autor: Maria Loretta Giraldo",
-              "unidade": "Und.",
-              "quantidade": "140,00",
-              "valor_referencia": "70,91"
-            }
-          ]
-        },
-        {
-          "numero": "4",
-          "titulo": "7601000004 Neurodiversidade Clássicos:João e o Pé de Feijão",
-          "fase": "JULGAMENTO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "4.235,00",
-          "vencedor": "LISBOA DISTRIBUIDORA DE LIVROS",
-          "melhor_oferta": "2.289,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "7601000004 Neurodiversidade Clássicos:João e o Pé de Feijão",
-              "unidade": "Und.",
-              "quantidade": "140,00",
-              "valor_referencia": "30,25"
-            }
-          ]
-        },
-        {
-          "numero": "5",
-          "titulo": "37695 Escolinha Baby Montessori - Contrastes!:Animais Capa dura - Livro de fotos, 1 agosto 2022",
-          "fase": "HABILITAÇÃO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "3.479,00",
-          "vencedor": "INTERBOOK LIVROS LTDA",
-          "melhor_oferta": "2.298,80",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37695 Escolinha Baby Montessori - Contrastes!:Animais Capa dura - Livro de fotos, 1 agosto 2022",
-              "unidade": "Und.",
-              "quantidade": "140,00",
-              "valor_referencia": "24,85"
-            }
-          ]
-        },
-        {
-          "numero": "6",
-          "titulo": "7601000005 Escolinha Baby Montessori - Contrastes!:Grande ou Pequeno? Capa dura - Livro de fotos, 1 agosto 2022",
-          "fase": "HABILITAÇÃO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "4.643,80",
-          "vencedor": "INTERBOOK LIVROS LTDA",
-          "melhor_oferta": "2.240,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "7601000005 Escolinha Baby Montessori - Contrastes!:Grande ou Pequeno? Capa dura - Livro de fotos, 1 agosto 2022",
-              "unidade": "Und.",
-              "quantidade": "140,00",
-              "valor_referencia": "33,17"
-            }
-          ]
-        },
-        {
-          "numero": "7",
-          "titulo": "7601000006 Alto-contraste Com Toque e Sinta - Palavras:Alto- contraste Com Toque e Sinta - Palavras",
-          "fase": "HABILITAÇÃO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "3.921,40",
-          "vencedor": "AQUARELA EDITORA E DISTRIBUIDORA LTDA",
-          "melhor_oferta": "2.184,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "7601000006 Alto-contraste Com Toque e Sinta - Palavras:Alto- contraste Com Toque e Sinta - Palavras",
-              "unidade": "Und.",
-              "quantidade": "140,00",
-              "valor_referencia": "28,01"
-            }
-          ]
-        },
-        {
-          "numero": "8",
-          "titulo": "7601000007 Barulhinhos do sítio:Toque, brinque e escute! Livro cartonado - Livro interativo, 1 abril 2018 Edição Português por Sam Taplin (Autor)",
-          "fase": "JULGAMENTO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "3.292,80",
-          "vencedor": "SEG LIVROS EDITORA COMERCIO E REPESENTAÇÃO LTDA-EPP",
-          "melhor_oferta": "2.900,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "7601000007 Barulhinhos do sítio:Toque, brinque e escute! Livro cartonado - Livro interativo, 1 abril 2018 Edição Português por Sam Taplin (Autor)",
-              "unidade": "Und.",
-              "quantidade": "28,00",
-              "valor_referencia": "117,60"
-            }
-          ]
-        },
-        {
-          "numero": "9",
-          "titulo": "7601000008 Barulhinhos da floresta:Toque, brinque e escute! Capa dura - Livro com som, 1 dezembro 2018 Edição Português por Usborne Publishing (Autor)",
-          "fase": "JULGAMENTO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "3.417,96",
-          "vencedor": "SEG LIVROS EDITORA COMERCIO E REPESENTAÇÃO LTDA-EPP",
-          "melhor_oferta": "2.950,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "7601000008 Barulhinhos da floresta:Toque, brinque e escute! Capa dura - Livro com som, 1 dezembro 2018 Edição Português por Usborne Publishing (Autor)",
-              "unidade": "Und.",
-              "quantidade": "28,00",
-              "valor_referencia": "122,07"
-            }
-          ]
-        },
-        {
-          "numero": "10",
-          "titulo": "7601000009 Barulhinhos dos filhotes! toque, brinque e escute! Capa dura   24 setembro 2024 por Lesley Sims (Autor):Barulhinhos dos filhotes! toque, brinque e escute! Capa dura - 24 setembro 2024 por Lesley Sims (Autor)",
-          "fase": "JULGAMENTO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "3.253,32",
-          "vencedor": "SEG LIVROS EDITORA COMERCIO E REPESENTAÇÃO LTDA-EPP",
-          "melhor_oferta": "3.000,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "7601000009 Barulhinhos dos filhotes! toque, brinque e escute! Capa dura 24 setembro 2024 por Lesley Sims (Autor):Barulhinhos dos filhotes! toque, brinque e escute! Capa dura - 24 setembro 2024 por Lesley Sims (Autor)",
-              "unidade": "Und.",
-              "quantidade": "28,00",
-              "valor_referencia": "116,19"
-            }
-          ]
-        },
-        {
-          "numero": "11",
-          "titulo": "7601000010 Não é sua, é minha! Capa comum   3 fevereiro 2014 Edição Português por Susanna Moores:Não é sua, é minha!Capa comum - 3 fevereiro 2014 Edição Português por Susanna Moores",
-          "fase": "HABILITAÇÃO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "8.978,20",
-          "vencedor": "AQUARELA EDITORA E DISTRIBUIDORA LTDA",
-          "melhor_oferta": "6.634,60",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "7601000010 Não é sua, é minha! Capa comum 3 fevereiro 2014 Edição Português por Susanna Moores:Não é sua, é minha!Capa comum - 3 fevereiro 2014 Edição Português por Susanna Moores",
-              "unidade": "Und.",
-              "quantidade": "140,00",
-              "valor_referencia": "64,13"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "PE-101-2026",
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "104 / 2026",
@@ -285592,7 +285264,7 @@
         {
           "numero": "3",
           "titulo": "37707 Tinta para demarcação de quadras esportivas:fornecida em embalagem de 18 litros, específica para demarcação de pisos esportivos, compatível com o tipo de piso existente, destinada à pintura de linhas para modalidades como futsal, basquete, voleibol",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -286356,8 +286028,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "3.424,20",
-          "vencedor": "CLEITON PIGATTO",
-          "melhor_oferta": "2.265,00",
+          "vencedor": "DEBORAH DE SOUZA CONGIU NAVARRO LTDA",
+          "melhor_oferta": "2.268,90",
           "total_itens": 1,
           "itens": [
             {
@@ -286452,8 +286124,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "2.509,90",
-          "vencedor": "L.F.E COMERCIAL DE ALIMENTOS LTDA",
-          "melhor_oferta": "1.999,99",
+          "vencedor": "DEBORAH DE SOUZA CONGIU NAVARRO LTDA",
+          "melhor_oferta": "2.000,00",
           "total_itens": 1,
           "itens": [
             {
@@ -286476,8 +286148,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "2.153,10",
-          "vencedor": "L.F.E COMERCIAL DE ALIMENTOS LTDA",
-          "melhor_oferta": "1.999,99",
+          "vencedor": "DEBORAH DE SOUZA CONGIU NAVARRO LTDA",
+          "melhor_oferta": "2.000,00",
           "total_itens": 1,
           "itens": [
             {
@@ -286500,8 +286172,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "2.054,90",
-          "vencedor": "L.F.E COMERCIAL DE ALIMENTOS LTDA",
-          "melhor_oferta": "1.999,99",
+          "vencedor": "DEBORAH DE SOUZA CONGIU NAVARRO LTDA",
+          "melhor_oferta": "2.000,00",
           "total_itens": 1,
           "itens": [
             {
@@ -286564,7 +286236,7 @@
         {
           "numero": "10",
           "titulo": "REDE DE FUTSAL TIPO VÉU 12X12CM",
-          "fase": "JULGAMENTO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,00",
@@ -286572,8 +286244,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "2.018,20",
-          "vencedor": "AZURRE INDUSTRIA E COMERCIO DE CORDAS E REDES ESPORTIVAS LTDA",
-          "melhor_oferta": "2.018,20",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
           "total_itens": 1,
           "itens": [
             {
@@ -286596,8 +286268,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "5.847,00",
-          "vencedor": "L.F.E COMERCIAL DE ALIMENTOS LTDA",
-          "melhor_oferta": "4.900,00",
+          "vencedor": "N BORRACHAS LTDA",
+          "melhor_oferta": "5.000,00",
           "total_itens": 1,
           "itens": [
             {
@@ -287896,7 +287568,7 @@
       "publicacao": "03/06/2026 15:51",
       "inicio_recepcao": "14/07/2026 08:00",
       "fim_recepcao": "18/08/2026 08:15",
-      "inicio_disputa": "24/08/2026 17:20",
+      "inicio_disputa": "27/08/2026 17:20",
       "objeto": "Contratação de empresa especializada em execução de obras de construção de uma escola de tempo integral de educação fundamental, no bairro Liberdade Sul, do município de Teixeira de Freitas – BA.",
       "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5Dz_097IFSD3vnpQprEvsxfBnlAAc4fmFAXt4pQd4%2FWcYw%2FrEKQSfbBnnfDI356uTEl6YDD2xyx_WUMMMgRKVJ5X6U4P4I3ZXUHtn01t6bxak%3D",
       "total_lotes": 1,
@@ -291265,517 +290937,6 @@
       ]
     },
     {
-      "id": "PE-137-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "891 / 2026",
-      "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "PUBLICADO",
-      "condutor": "SERGIO CARNEIRO CAVALCANTI DE AZEVEDO",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO PARCELADA",
-      "publicacao": "24/08/2026 18:31",
-      "inicio_recepcao": "26/08/2026 08:00",
-      "fim_recepcao": "08/09/2026 08:15",
-      "inicio_disputa": "08/09/2026 08:30",
-      "objeto": "Contratação de empresa especializada em fornecimento MATERIAIS ESPORTIVOS (material de consumo) e (material permanente), a fim de atender as demandas da Secretaria Municipal de\nEducação.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5Dfc_2LQ3nv3aagyWfViZS%2FprfWWdnmr17FgpwqJBkvOl7ko6Ns%2FWGSXWjIxWIJsKoZCLDD3EpyoTh%2FUB6MAa1gXdZCQlZSqxAApq%2FPtdEsEs%3D",
-      "total_lotes": 5,
-      "total_itens": 38,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "LOLTE 1",
-          "fase": "PUBLICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 2,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37744 Relógio digital para xadrez:portátil, destinado ao controle de tempo em partidas, treinamentos e competições.Confeccionado em material plástico de elevada resistência mecânica, com acabamento de qualidade e base estável. Deverá possuir visor digital de cristal líquido (LCD) de fácil leitura, com exibição simultânea do tempo de ambos os jogadores, teclas independentes de acionamento, programação de contagem regressiva e progressiva, pausa, reinício, memória para armazenamento da última configuração utilizada e aviso sonoro opcional ao término do tempo programado. Alimentação por pilha AA ou equivalente de fácil reposição. Dimensões aproximadas de 16 x 10 x 6 cm, admitindo pequenas variações.",
-              "unidade": "UND",
-              "quantidade": "50,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "2",
-              "especificacao": "9900516107 Jogo de xadrez profissional:composto por tabuleiro, conjunto completo de 34 peças e estojo para transporte.Tabuleiro confeccionado em material resistente, medindo aproximadamente 50 x 50 cm, com casas de aproximadamente 5,5 x 5,5 cm, impressão permanente de alto contraste e acabamento resistente ao desgaste. Peças confeccionadas em plástico de alta resistência ou material equivalente de qualidade equivalente, padrão tradicional, com bases revestidas em feltro ou material similar para melhor estabilidade e proteção da superfície de jogo. Rei com altura aproximada entre 95 mm e 100 mm, mantendo proporcionalidade entre as demais peças. O conjunto deverá acompanhar duas damas adicionais para promoção e bolsa ou estojo resistente para armazenamento e transporte.",
-              "unidade": "UND",
-              "quantidade": "500,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "2",
-          "titulo": "LOLTE 2",
-          "fase": "PUBLICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 6,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900830621 Mesa para tênis de mesa:de uso profissional ou treinamento intensivo, composta por tampo em MDF de 25 mm de espessura, dividido em duas partes articuladas, com acabamento em pintura resistente na cor azul ou verde, linhas demarcatórias permanentes em cor contrastante e estrutura metálica em aço carbono com tratamento anticorrosivo e pintura eletrostática. Deverá possuir sistema articulado para armazenamento, rodízios com travas para deslocamento, pés dobráveis e possibilidade de utilização de metade da mesa para treinamento individual. Dimensões aproximadas de 2,74 m de comprimento, 1,525 m de largura e 0,76 m de altura. Deverá acompanhar conjunto composto por suportes metálicos para fixação da rede e rede em nylon de alta resistência.",
-              "unidade": "UND",
-              "quantidade": "20,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "2",
-              "especificacao": "9900516108 Bola para tênis de mesa:confeccionada em material plástico de elevada resistência, diâmetro de 40 mm, cor branca, superfície uniforme, acabamento liso, boa esfericidade e resistência a deformações. Embalagem contendo 10 unidades. Indicada para atividades recreativas, iniciação esportiva e treinamentos.",
-              "unidade": "KIT",
-              "quantidade": "100,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "3",
-              "especificacao": "37746 Bola para tênis de mesa de alto desempenho:confeccionada em material plástico de elevada resistência, diâmetro de 40 mm, cor branca, superfície uniforme, excelente equilíbrio, precisão de quique e durabilidade, indicada para treinamentos avançados e competições. Embalagem contendo 06 unidades.",
-              "unidade": "KIT",
-              "quantidade": "20,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "4",
-              "especificacao": "9900516109 Raquete infantil para tênis de mesa:confeccionada integralmente em plástico resistente, com superfície texturizada para melhor aderência da bola, resistente à umidade e à exposição ao sol. Dimensões aproximadas de 27 cm de comprimento, 15 cm de largura e cabo de aproximadamente 9 cm. Peso aproximado de 140 g, admitindo pequenas variações. Cores variadas.",
-              "unidade": "UND",
-              "quantidade": "150,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "5",
-              "especificacao": "37747 Raquete para tênis de mesa:confeccionada em madeira laminada de alta resistência, cabo anatômico reto, revestida em ambos os lados com borracha lisa nas cores vermelha e preta, contendo esponja com espessura aproximada de 1,8 mm ou superior. Deverá proporcionar bom controle, velocidade e efeito, com acabamento uniforme, resistente ao uso contínuo e peso aproximado de 180 g a 220 g.",
-              "unidade": "UND",
-              "quantidade": "250,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "6",
-              "especificacao": "9900516110 Kit de arbitragem para tênis de mesa:composto por régua metálica para verificação da altura da rede, régua plástica para conferência da espessura e tensão, cartões de advertência confeccionados em PVC rígido nas cores branca, amarela e vermelha, ficha de anotações e estojo ou carteira confeccionada em material sintético resistente para acondicionamento do conjunto. Todos os componentes deverão possuir acabamento resistente e adequado ao uso frequente.",
-              "unidade": "KIT",
-              "quantidade": "25,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "3",
-          "titulo": "LOLTE 3",
-          "fase": "PUBLICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 12,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37748 Placar de mesa multiuso:indicado para diversas modalidades esportivas, confeccionado em PVC rígido ou material equivalente de elevada resistência, estrutura articulada para facilitar o transporte e armazenamento, sistema de marcação com números impressos em ambos os lados, permitindo visualização pelos participantes e público. Deverá possibilitar marcação de pontos e sets, possuir dimensões aproximadas de 21 x 39 cm, acabamento resistente ao desgaste e sistema de troca manual de fácil operação.",
-              "unidade": "UND",
-              "quantidade": "20,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "2",
-              "especificacao": "37749 Kit de mini cones tipo chapéu:destinado ao treinamento funcional, coordenação motora, agilidade e demarcação de espaços. Cones confeccionados em polietileno ou material plástico flexível de elevada resistência, com aproximadamente 18 cm de diâmetro e 5 cm de altura, em cores variadas, resistentes aos raios UV e às intempéries. O kit deverá conter 40 unidades e suporte ou embalagem apropriada para armazenamento e transporte.",
-              "unidade": "KIT",
-              "quantidade": "50,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "3",
-              "especificacao": "37750 Cone para treinamento esportivo:confeccionado em material plástico flexível de alta resistência, com altura aproximada de 23 cm, base com diâmetro aproximado de 14,5 cm e topo com abertura de aproximadamente 2,5 cm, permitindo utilização com barras de treinamento quando necessário.Produto resistente ao impacto, à deformação e às intempéries, em cores variadas e de alta visibilidade. Cores sortidas.",
-              "unidade": "UND",
-              "quantidade": "1.000,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "4",
-              "especificacao": "9900516111 Cone de sinalização vazado:confeccionado em polietileno ou material equivalente de elevada resistência, altura aproximada de 23 cm, base quadrada, estrutura vazada que reduza o deslocamento causado pelo vento, flexível, resistente a impactos e deformações, indicado para demarcação de circuitos esportivos e atividades de treinamento. Disponível em cores de alta visibilidade.",
-              "unidade": "UND",
-              "quantidade": "1.500,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "5",
-              "especificacao": "9900516112 Bolsa térmica para atendimento esportivo:confeccionada em tecido sintético impermeável de alta resistência, com compartimento principal de amplo espaço interno, revestimento térmico, bolsos externos para acessórios, compartimento para transporte de garrafas, alças reforçadas e fechamento por zíper de alta resistência. Deverá acompanhar 02 garrafas para hidratação e 01 recipiente térmico (isopor ou equivalente) compatível com a capacidade da bolsa.",
-              "unidade": "UND",
-              "quantidade": "25,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "6",
-              "especificacao": "37751 Apito profissional:confeccionado em plástico ABS de alta resistência, com bocal em silicone, dimensões aproximadas de 4 cm x 2,2 cm x 2 cm, destinado à arbitragem e prática esportiva, com sonoridade clara e alto alcance sonoro, resistente ao uso contínuo.",
-              "unidade": "UND",
-              "quantidade": "100,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "7",
-              "especificacao": "37752 Escada de agilidade tipo barreirinha:medindo aproximadamente 4 metros de comprimento, composta por 10 degraus ajustáveis, confeccionados em PVC flexível ou material equivalente de elevada resistência, permitindo regulagem do espaçamento e da altura para utilização como barreiras de treinamento. As fitas laterais deverão ser confeccionadas em nylon reforçado, resistente à tração, umidade e intempéries.Deverá acompanhar bolsa para armazenamento e transporte.",
-              "unidade": "UND",
-              "quantidade": "50,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "8",
-              "especificacao": "9900516113 Escada de coordenação motora:medindo aproximadamente 5 metros de comprimento, composta por 11 degraus confeccionados em PVC resistente, com largura aproximada de 50 cm, fixados em fitas de nylon reforçadas e com regulagem de espaçamento. Deverá possuir sistema de conexão entre escadas por meio de botões, presilhas ou dispositivo equivalente, permitindo ampliação dos circuitos de treinamento. Acompanha bolsa para transporte.",
-              "unidade": "UND",
-              "quantidade": "70,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "9",
-              "especificacao": "37753 Escada de agilidade tipo barreirinha premium:medindo aproximadamente 5 metros de comprimento, composta por 10 degraus ajustáveis confeccionados em PVC flexível de elevada resistência, permitindo regulagem da altura dos obstáculos em até aproximadamente 45 cm, além do ajuste do espaçamento entre os degraus. Estrutura resistente ao uso intensivo, com fitas confeccionadas em nylon reforçado, sistema de fixação por velcro ou dispositivo equivalente e bolsa para transporte.Indicada para treinamento funcional, preparação física e exercícios de coordenação motora.",
-              "unidade": "UND",
-              "quantidade": "50,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "10",
-              "especificacao": "9900516114 Kit de argolas para treinamento de agilidade:composto por 12 argolas confeccionadas em PVC ou material equivalente de elevada resistência, com diâmetroaproximado de 45 cm, resistentes à deformação, impactos e uso contínuo. O conjunto deverá acompanhar presilhas ou conectores que permitam diferentes configurações de circuitos, além de bolsa resistente para armazenamento e transporte.Indicado para treinamentos de coordenação motora, velocidade, agilidade e equilíbrio.",
-              "unidade": "KIT",
-              "quantidade": "200,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "11",
-              "especificacao": "37754 Cinto duplo de tração para treinamento esportivo:composto por dois cintos confeccionados em EVA de alta densidade ou material equivalente, revestidos com fitas reforçadas e fechamento por velcro de elevada resistência.Deverá possuir 04 elásticos removíveis de alta elasticidade, mosquetões metálicos resistentes à corrosão e sistema de segurança que permita treinamento de aceleração, resistência, explosão muscular e mudança de direção. Comprimento inicial aproximado de 80 cm, com capacidade de estiramento de até 140 cm ou superior.",
-              "unidade": "UND",
-              "quantidade": "20,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "12",
-              "especificacao": "9900516130 Jogo de coletes esportivos:composto por 12 unidades, confeccionados em tecido 100% poliéster, leve, respirável e de secagem rápida, com acabamento reforçado nas bordas e costuras de alta resistência. Deverão possuir modelagem que permita utilização sobre uniforme esportivo, oferecendo liberdade de movimentos. Cores variadas e de alta visibilidade, conforme necessidade da Administração, em tamanhos compatíveis com público juvenil e adulto.",
-              "unidade": "JOGO",
-              "quantidade": "60,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "4",
-          "titulo": "LOLTE 4",
-          "fase": "PUBLICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 11,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900516115 Calibrador digital para bolas esportivas:Equipamento dotado de visor digital em cristal líquido (LCD) de fácil leitura, corpo confeccionado em material resistente a impactos, alimentação por bateria de lítio ou equivalente de fácil substituição, sistema de desligamento automático para economia de energia e faixa de medição compatível com bolas esportivas. Deverá acompanhar agulha metálica universal para insuflação, bateria instalada e manual de instruções em língua portuguesa.",
-              "unidade": "UND",
-              "quantidade": "30,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "2",
-              "especificacao": "9900516116 Peteca oficial para prática esportiva:confeccionada com base em borracha maciça ou material elastomérico de elevada resistência ao desgaste, proporcionando estabilidade durante os golpes. Penas naturais ou sintéticas de alta durabilidade, firmemente fixadas à base, garantindo equilíbrio, estabilidade de voo e boa durabilidade. Produto indicado para atividades recreativas, treinamentos e competições, devendo apresentar acabamento uniforme e excelente resistência ao uso contínuo.",
-              "unidade": "UND",
-              "quantidade": "50,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "3",
-              "especificacao": "37755 Kit para jogo de betes (taco):composto por 02 tacos confeccionados em madeira maciça de boa qualidade, com acabamento lixado, bordas arredondadas e empunhadura revestida em borracha ou material antiderrapante. Deverá acompanhar 01 bola de borracha, 02 pares de bases (casinhas) confeccionadas em madeira resistente e 01 bolsa para acondicionamento e transporte. Todos os componentes deverão apresentar acabamento uniforme, resistência ao uso frequente e dimensões compatíveis com a prática recreativa da modalidade.",
-              "unidade": "KIT",
-              "quantidade": "30,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "4",
-              "especificacao": "9900516117 Bolsa para transporte de bolas esportivas:confeccionada em nylon, poliéster ou material equivalente de elevada resistência, com capacidade mínima para acondicionar 15 bolas, fechamento superior por cordão ou sistema similar, costuras reforçadas, alça resistente para transporte e estrutura que permita ventilação adequada dos materiais armazenados.",
-              "unidade": "UND",
-              "quantidade": "20,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "5",
-              "especificacao": "9900516118 Kit para badminton:composto por 04 raquetes confeccionadas em alumínio, aço, fibra de carbono ou material equivalente de elevada resistência estrutural, 01 rede confeccionada em nylon de alta resistência, postes ou suportes para instalação e 01 peteca adequada à prática da modalidade. Todos os componentes deverão possuir acabamento uniforme, elevada durabilidade, resistência ao uso contínuo e acondicionamento em embalagem apropriada para transporte e armazenamento.",
-              "unidade": "KIT",
-              "quantidade": "25,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "6",
-              "especificacao": "9900516119 Bola de basquete tamanho mirim:confeccionada em borracha de elevada resistência ou material sintético equivalente, com superfície texturizada para melhor aderência, estrutura composta por gomos moldados, câmara interna em borracha butílica ou material equivalente e miolo removível, substituível e lubrificado. Circunferência aproximada entre 55 cm e 57 cm, peso entre 450 g e 500 g, indicada para treinamentos, atividades escolares, projetos esportivos e competições da categoria correspondente, apresentando excelente resistência ao desgaste e baixa absorção de umidade.",
-              "unidade": "UND",
-              "quantidade": "150,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "7",
-              "especificacao": "37756 Bola de futsal categoria Sub-13:confeccionada em laminado de poliuretano (PU) de alta resistência ou material sintético de qualidade equivalente, com tecnologia de construção termofundida, híbrida ou costurada, proporcionando excelente resistência ao desgaste e baixa absorção de água. Deverá possuir câmara interna confeccionada em borracha butílica ou material equivalente, miolo removível, substituível e lubrificado, com perfeito balanceamento. Circunferência entre 55 cm e 59 cm e peso entre 350 g e 380 g, admitidas pequenas variações conforme normas técnicas nacionais aplicáveis.",
-              "unidade": "UND",
-              "quantidade": "300,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "8",
-              "especificacao": "9900516120 Bola de handebol H1:confeccionada em laminado de poliuretano (PU) ou material sintético de elevada resistência, com superfície texturizada para proporcionar maior aderência durante o manuseio. Câmara interna em borracha butílica ou material equivalente, miolo removível e lubrificado, estrutura resistente à deformação e ao uso contínuo. Circunferência aproximada entre 50 cm e 52 cm e peso entre 290 g e 330 g.",
-              "unidade": "UND",
-              "quantidade": "300,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "9",
-              "especificacao": "9900516121 Bola de handebol H2:confeccionada em laminado de poliuretano (PU) ou material sintético de elevada resistência, superfície texturizada para melhor empunhadura, câmara interna em borracha butílica ou material equivalente, miolo removível elubrificado. Circunferência aproximada entre 54 cm e 56 cm e peso entre 325 g e 375 g, apresentando excelente resistência ao desgaste e baixa deformação durante o uso contínuo.",
-              "unidade": "UND",
-              "quantidade": "300,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "10",
-              "especificacao": "37757 Bola oficial para futebol de campo:destinada ao treinamento e competições, confeccionada em laminado de poliuretano (PU) ou material sintético de qualidade superior, com construção termofundida, híbrida ou tecnologia equivalente, proporcionando elevada resistência mecânica, baixa absorção de água e excelente estabilidade. Deverá possuir câmara interna em borracha butílica ou material equivalente, miolo removível, substituível e lubrificado. Circunferência entre 68 cm e 70 cm e peso entre 410 g e 450 g.",
-              "unidade": "UND",
-              "quantidade": "17,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "11",
-              "especificacao": "9900516122 Bola oficial para voleibol de quadra:confeccionada em laminado de microfibra sintética, poliuretano (PU) ou material equivalente de elevada resistência, estrutura composta por gomos termofundidos ou tecnologia similar, proporcionando baixa absorção de água, excelente equilíbrio, maciez ao toque e precisão durante o jogo. Câmara interna em borracha butílica ou material equivalente, miolo removível e lubrificado.Circunferência entre 65 cm e 67 cm e peso entre 260 g e 280 g.",
-              "unidade": "UND",
-              "quantidade": "60,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "5",
-          "titulo": "LOLTE 5",
-          "fase": "PUBLICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 7,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900516123 Colchonete para atividades físicas:confeccionado em espuma de poliuretano com densidade mínima D33, revestido em material sintético impermeável, lavável e resistente à abrasão, com costuras reforçadas e fechamento por zíper para eventual substituição da espuma. Dimensões aproximadas de 0,90 m de comprimento, 0,60 m de largura e 0,03 m de espessura, admitindo pequenas variações. Produto destinado à prática de exercícios físicos, alongamentos, ginástica, recreação e demais atividades esportivas, proporcionando conforto e segurança durante sua utilização.",
-              "unidade": "UND",
-              "quantidade": "600,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "2",
-              "especificacao": "9900516124 Bola para pilates:confeccionada em PVC ou material polimérico de elevada resistência, com sistema antiestouro (anti-burst), suportando carga estática mínima de 300 kg. Diâmetro aproximado de 65 cm, superfície antiderrapante e toque macio, indicada para exercícios de fortalecimento muscular, alongamento, equilíbrio e fisioterapia. Deverá acompanhar bomba para enchimento, válvulas sobressalentes e adaptador para insuflação.",
-              "unidade": "UND",
-              "quantidade": "70,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "3",
-              "especificacao": "9900516125 Medicine Ball borracha 1 kg:bola de medicine Ball com peso de 1 kg, fabricada em borracha resistente ao impacto com textura especial antiderrapante, com 38 cm de circunferência, e válvula celebrável.",
-              "unidade": "UND",
-              "quantidade": "5,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "4",
-              "especificacao": "9900516126 Medicine Ball borracha 2 kg:bola de medicine Ball com peso de 2 kg, fabricada em borracha resistente ao impacto com textura especial antiderrapante, com aproximadamente 45 cm de circunferência, e válvula celebrável.",
-              "unidade": "UND",
-              "quantidade": "5,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "5",
-              "especificacao": "9900516127 Medicine Ball borracha 3 kg:bola de medicine Ball com peso de 3 kg, fabricada em borracha resistente ao impacto com textura especial antiderrapante, com aproximadamente 55 cm de circunferência, e válvula celebrável.",
-              "unidade": "UND",
-              "quantidade": "5,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "6",
-              "especificacao": "9900516128 Medicine Ball borracha 4 kg:bola de medicine Ball com peso de 4 kg, fabricada em borracha resistente ao impacto com textura especial antiderrapante, com aproximadamente 60 cm de circunferência, e válvula celebrável.",
-              "unidade": "UND",
-              "quantidade": "5,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "7",
-              "especificacao": "9900516129 Medicine Ball borracha 5 kg:bola de medicine Ball com peso de 5 kg, fabricada em borracha resistente ao impacto com textura especial antiderrapante, com aproximadamente 65 cm de circunferência, e válvula celebrável.",
-              "unidade": "UND",
-              "quantidade": "5,00",
-              "valor_referencia": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "PE-134-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "823 / 2026",
-      "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "PUBLICADO",
-      "condutor": "SERGIO CARNEIRO CAVALCANTI DE AZEVEDO",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "REGISTRO DE PREÇO",
-      "publicacao": "24/08/2026 16:28",
-      "inicio_recepcao": "26/08/2026 08:00",
-      "fim_recepcao": "10/09/2026 08:15",
-      "inicio_disputa": "10/09/2026 08:30",
-      "objeto": "Contratação de empresa especializada em prestação de serviço de LOCAÇÃO DE VEÍCULOS (sem\nmotorista), a fim de atender as demandas da Secretaria Municipal de Administração e demais Secretarias.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5Dv2GO9tMO3qB6IqCz%2F8fDNXyxChQGbgdFyHcVKqA88ERbe4_CF_zb7ExWM_LDJMK0aqza_pK5j0FwoxOmuXIA44eCFtj36E_feNOKqiZvTIs%3D",
-      "total_lotes": 5,
-      "total_itens": 5,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "9903312121 LOCAÇÃO DE VEÍCULO 05 PESSOAS - SEMMOTORISTA - AUTOMÁTICO:Locação de Veículo sem motorista, câmbio automático com 6 (seis) marchas, mínimo de 116 cv com gasolina e 128cv com etanol, veículo tipo automóvel SEDAN, (compacto ou médio), movido a g",
-          "fase": "PUBLICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9903312121 LOCAÇÃO DE VEÍCULO 05 PESSOAS - SEMMOTORISTA - AUTOMÁTICO:Locação de Veículo sem motorista, câmbio automático com 6 (seis) marchas, mínimo de 116 cv com gasolina e 128cv com etanol, veículo tipo automóvel SEDAN, (compacto ou médio), movido a gasolina ou bicombustível, motor 1.0 ou superior, 04 portas, equipado com ar- condicionado, direção hidráulica e/ou elétrica, vidros elétricos e trava elétrica nas 04 portas, alarme, capacidade para 05 pessoas, incluindo o motorista, airbag, ar condicionado, direção elétrica, tanque de combustível superior a 45 litros, ano de fabricação mínima de 2023, manutenção por conta da empresa contratada, apólice ou contrato de seguro apresentado no ato do contrato de locação e com vigência para todo o período contratado e encargos tributários de IPVA, DPVAT e TRLAV também por conta da empresa contratada. (LOCAÇÃO MENSAL).",
-              "unidade": "UND",
-              "quantidade": "6,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "2",
-          "titulo": "9903312122 LOCAÇÃO DE VEÍCULO 07 PESSOAS - SEMMOTORISTA:Locação de Veículo sem motorista, veículo tipo minivan compacta, movido a gasolina ou bicombustível, motor dianteiro, potência 1.4 ou superior, equipado com ar- condicionado, direção hidráulica e/ou",
-          "fase": "PUBLICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9903312122 LOCAÇÃO DE VEÍCULO 07 PESSOAS - SEMMOTORISTA:Locação de Veículo sem motorista, veículo tipo minivan compacta, movido a gasolina ou bicombustível, motor dianteiro, potência 1.4 ou superior, equipado com ar- condicionado, direção hidráulica e/ou elétrica, vidros elétricos, trava elétrica, alarme, capacidade para 07 pessoas, incluindo o motorista, câmbio automático, airbag, conexão bluetooth, ano de fabricação mínima de 2023, manutenção por conta da empresa contratada, apólice ou contrato de seguro apresentado no ato do contrato de locação e com vigência para todo o período contratado e encargos tributários de IPVA, DPVAT e TRLAV também por conta da empresa contratada. (LOCAÇÃO MENSAL).",
-              "unidade": "UND",
-              "quantidade": "10,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "3",
-          "titulo": "9903312123 LOCAÇÃO DE VEÍCULO TIPO CAMINHONETE4X4   SEM MOTORISTA:Locação de veículo sem motorista, veículo tipo caminhonete, movido a gasolina, bicombustível ou diesel, motor 2.0 ou superior, airbag, conexão bluetooth, potência mínima do motor de 165 CV",
-          "fase": "PUBLICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9903312123 LOCAÇÃO DE VEÍCULO TIPO CAMINHONETE4X4 SEM MOTORISTA:Locação de veículo sem motorista, veículo tipo caminhonete, movido a gasolina, bicombustível ou diesel, motor 2.0 ou superior, airbag, conexão bluetooth, potência mínima do motor de 165 CV, transmissão automática, 04 portas, equipado com ar- condicionado, direção hidráulica e/ou elétrica, vidros elétricos, trava elétrica, alarme, tração 4x4, capacidade de carga mínima de 1.000 kg, ano de fabricação mínima de 2023, manutenção por conta da empresa contratada, apólice ou contrato de seguro apresentado no ato do contrato de locação e com vigência para todo o período contratado e encargos tributários de IPVA, DPVAT e TRLAV também por conta da empresa contratada. (LOCAÇÃO MENSAL).",
-              "unidade": "UND",
-              "quantidade": "9,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "4",
-          "titulo": "9903312124 LOCAÇÃO DE VEÍCULO TIPO VAN 14 A 19LUGARES   SEM MOTORISTA::Locação de Veículo, sem motorista, tipo utilitário fechado, sem motorista, tipo van, movido a gasolina ou bicombustível, motor 1.4 ou superior, potência mínima 160 CV, 02 baterias, ro",
-          "fase": "PUBLICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9903312124 LOCAÇÃO DE VEÍCULO TIPO VAN 14 A 19LUGARES SEM MOTORISTA::Locação de Veículo, sem motorista, tipo utilitário fechado, sem motorista, tipo van, movido a gasolina ou bicombustível, motor 1.4 ou superior, potência mínima 160 CV, 02 baterias, rodas em aço, comprimento total inferior a 7.000 mm, altura máxima inferior a 2.800mm, volume do bagageiro superior a 300litros, computador de bordo, alerta de funcionamento do veículo, piloto automático adaptativo, conexão bluetooth, apoio de braço para motorista, chave canivete, comandos de áudio no volante, detector de fadiga, luz de condução diurna, travamento automático das portas, assistência de partida em rampa, capacidade de 14 a 19 passageiros, equipado com ar-condicionado, direção hidráulica e/ou elétrica, vidros elétricos, trava elétrica, alarme, ano de fabricação mínima de 2022, manutenção por conta da empresa contratada, apólice ou contrato de seguro apresentado no ato do contrato de locação e com vigência para todo o período contratado e encargos tributários de IPVA, DPVAT e TRLAV também por conta da empresa contratada. (LOCAÇÃO MENSAL).",
-              "unidade": "UND",
-              "quantidade": "5,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "5",
-          "titulo": "9903312125 LOCAÇÃO DE VEÍCULO TIPO VAN 14 A 19 LUGARES - SEM MOTORISTA:Locação de Veículo, sem motorista, tipo utilitário fechado, sem motorista, tipo van,deve apresentar ausência das cadeiras traseiras sem poltronas na carroceria, movido a gasolina ou di",
-          "fase": "PUBLICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9903312125 LOCAÇÃO DE VEÍCULO TIPO VAN 14 A 19 LUGARES - SEM MOTORISTA:Locação de Veículo, sem motorista, tipo utilitário fechado, sem motorista, tipo van,deve apresentar ausência das cadeiras traseiras sem poltronas na carroceria, movido a gasolina ou diesel, motor 1.3 ou superior, potência mínima 160 CV, 02 baterias, rodas em aço, comprimento total inferior a 7.000 mm, altura máxima inferior a 2.800mm, volume do bagageiro superior a 300litros, alerta de funcionamento do veículo, piloto automático adaptativo, conexão bluetooth, apoio de braço para motorista, chave canivete, comandos de áudio no volante, detector de fadiga, luz de condução diurna, travamento automático das portas, assistência de partida em rampa, capacidade de 14 a 19 passageiros, equipado com ar-condicionado, direção hidráulica e/ou elétrica, vidros elétricos, trava elétrica, alarme, ano de fabricação mínima de 2022, manutenção por conta da empresa contratada, apólice ou contrato de seguro apresentado no ato do contrato de locação e com vigência para todo o período contratado e encargos tributários de IPVA, DPVAT e TRLAV também por conta da empresa contratada. (LOCAÇÃO MENSAL).",
-              "unidade": "UND",
-              "quantidade": "1,00",
-              "valor_referencia": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "PE-140-2026",
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "944 / 2026",
@@ -291964,8 +291125,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "333,30",
-          "vencedor": "ALL EMPREENDIMENTOS",
-          "melhor_oferta": "359,99",
+          "vencedor": "R.V. DE S. NOVAIS LTDA.",
+          "melhor_oferta": "333,30",
           "total_itens": 1,
           "itens": [
             {
@@ -292036,8 +291197,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "19.138,00",
-          "vencedor": "M3. BUSINESS GROUP LTDA",
-          "melhor_oferta": "5.040,00",
+          "vencedor": "COSTA COMERCIO DE MAQUINAS E EQUIPAMENTOS LTDA",
+          "melhor_oferta": "9.500,00",
           "total_itens": 1,
           "itens": [
             {
@@ -292060,8 +291221,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "26.775,00",
-          "vencedor": "EXPRESSVPS TECNOLOGIA LTDA",
-          "melhor_oferta": "304,83",
+          "vencedor": "TREDE CENTER COMMERCE LTDA",
+          "melhor_oferta": "26.775,00",
           "total_itens": 1,
           "itens": [
             {
@@ -292108,8 +291269,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "20.344,00",
-          "vencedor": "DIXAM COMÉRCIO E SERVIÇOS LTDA",
-          "melhor_oferta": "8.000,00",
+          "vencedor": "R.V. DE S. NOVAIS LTDA.",
+          "melhor_oferta": "20.344,00",
           "total_itens": 1,
           "itens": [
             {
@@ -292132,8 +291293,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "32.367,60",
-          "vencedor": "COSTA COMERCIO DE MAQUINAS E EQUIPAMENTOS LTDA",
-          "melhor_oferta": "37.604,00",
+          "vencedor": "R.V. DE S. NOVAIS LTDA.",
+          "melhor_oferta": "32.367,60",
           "total_itens": 1,
           "itens": [
             {
@@ -292156,8 +291317,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "45.879,75",
-          "vencedor": "COSTA COMERCIO DE MAQUINAS E EQUIPAMENTOS LTDA",
-          "melhor_oferta": "24.990,00",
+          "vencedor": "R.V. DE S. NOVAIS LTDA.",
+          "melhor_oferta": "41.965,00",
           "total_itens": 1,
           "itens": [
             {
@@ -292180,8 +291341,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "2.045,88",
-          "vencedor": "ALL EMPREENDIMENTOS",
-          "melhor_oferta": "750,00",
+          "vencedor": "HABITUS DIGITAL COMERCIAL LTDA",
+          "melhor_oferta": "1.664,99",
           "total_itens": 1,
           "itens": [
             {
@@ -292252,8 +291413,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "661,80",
-          "vencedor": "ALL EMPREENDIMENTOS",
-          "melhor_oferta": "195,00",
+          "vencedor": "R.V. DE S. NOVAIS LTDA.",
+          "melhor_oferta": "999,00",
           "total_itens": 1,
           "itens": [
             {
@@ -292348,8 +291509,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "16.068,60",
-          "vencedor": "COSTA COMERCIO DE MAQUINAS E EQUIPAMENTOS LTDA",
-          "melhor_oferta": "8.806,00",
+          "vencedor": "F C COMERCIO DE INFORMATICA LTDA",
+          "melhor_oferta": "11.200,00",
           "total_itens": 1,
           "itens": [
             {
@@ -292396,8 +291557,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "204.200,00",
-          "vencedor": "COSTA COMERCIO DE MAQUINAS E EQUIPAMENTOS LTDA",
-          "melhor_oferta": "105.400,00",
+          "vencedor": "F C COMERCIO DE INFORMATICA LTDA",
+          "melhor_oferta": "114.000,00",
           "total_itens": 1,
           "itens": [
             {
@@ -292444,8 +291605,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "392.660,00",
-          "vencedor": "AGM LOCAÇÃO E SERVIÇOS LTDA",
-          "melhor_oferta": "189.000,00",
+          "vencedor": "EXPRESSVPS TECNOLOGIA LTDA",
+          "melhor_oferta": "250.559,99",
           "total_itens": 1,
           "itens": [
             {
@@ -292468,8 +291629,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "12.276,00",
-          "vencedor": "EXPRESSVPS TECNOLOGIA LTDA",
-          "melhor_oferta": "3.456,00",
+          "vencedor": "AR IMPORTS LTDA",
+          "melhor_oferta": "4.500,00",
           "total_itens": 1,
           "itens": [
             {
@@ -292492,8 +291653,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "177.677,50",
-          "vencedor": "M&M IMPORTAÇÃO E ECOMMERCE DE INFORMÁTICA LTDA",
-          "melhor_oferta": "64.599,99",
+          "vencedor": "L2 - COMERCIO E SOLUCOES LTDA",
+          "melhor_oferta": "104.915,00",
           "total_itens": 1,
           "itens": [
             {
@@ -292540,8 +291701,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "38.128,50",
-          "vencedor": "EXPRESSVPS TECNOLOGIA LTDA",
-          "melhor_oferta": "12.765,00",
+          "vencedor": "DIXAM COMÉRCIO E SERVIÇOS LTDA",
+          "melhor_oferta": "18.900,00",
           "total_itens": 1,
           "itens": [
             {
@@ -292588,8 +291749,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "55.171,00",
-          "vencedor": "DIXAM COMÉRCIO E SERVIÇOS LTDA",
-          "melhor_oferta": "57.200,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
           "total_itens": 1,
           "itens": [
             {
@@ -292684,8 +291845,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "142.915,20",
-          "vencedor": "COSTA COMERCIO DE MAQUINAS E EQUIPAMENTOS LTDA",
-          "melhor_oferta": "47.940,00",
+          "vencedor": "TJ COMERCIO DE  PRODUTOS LTDA",
+          "melhor_oferta": "119.877,60",
           "total_itens": 1,
           "itens": [
             {
@@ -292757,7 +291918,7 @@
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "7.983,30",
           "vencedor": "R.V. DE S. NOVAIS LTDA.",
-          "melhor_oferta": "24.900,00",
+          "melhor_oferta": "7.983,30",
           "total_itens": 1,
           "itens": [
             {
@@ -293036,8 +292197,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "5.382,90",
-          "vencedor": "44.334.097 ERIVAN ALVES DA SILVA",
-          "melhor_oferta": "2.700,00",
+          "vencedor": "HOMETECH SISTEMAS ELETRONICOS LTDA",
+          "melhor_oferta": "3.539,00",
           "total_itens": 1,
           "itens": [
             {
@@ -293074,8 +292235,8 @@
           ]
         },
         {
-          "numero": "5",
-          "titulo": "9900515880 PATCH CORD CAT5E 1,5 MAMARELO:Informações Técnicas Modelo: FlexívelTemperatura máxima de trabalho: 80°C Categoria: 5e (CAT5e)Cor: Amarelo Comprimento: 1,5M Homologação: AnatelTransmissão de até 1000 Mbps e limite desempenho 100 MhzModelo d",
+          "numero": "6",
+          "titulo": "9900515881 PATCH CORD CAT5E 1,5 M AZUL:InformaçõesTécnicas Modelo: FlexívelTemperatura máxima de trabalho: 80°C Categoria: 5e (CAT5e)Cor: AZULComprimento: 1,5M Homologação: AnatelTransmissão de até 1000 Mbps e limite desempenho 100 MhzModelo de refe",
           "fase": "HABILITAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
@@ -293084,37 +292245,13 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "4.345,60",
-          "vencedor": "STELLAR COMERCIO LTDA",
-          "melhor_oferta": "3.590,00",
+          "vencedor": "M3. BUSINESS GROUP LTDA",
+          "melhor_oferta": "2.950,40",
           "total_itens": 1,
           "itens": [
             {
               "numero": "1",
-              "especificacao": "9900515880 PATCH CORD CAT5E 1,5 MAMARELO:Informações Técnicas Modelo: FlexívelTemperatura máxima de trabalho: 80°C Categoria: 5e (CAT5e)Cor: Amarelo Comprimento: 1,5M Homologação: AnatelTransmissão de até 1000 Mbps e limite desempenho 100 MhzModelo de referência: Patch Cord CAT.5E SohoPlus CMX",
-              "unidade": "Und.",
-              "quantidade": "320,00",
-              "valor_referencia": "13,58"
-            }
-          ]
-        },
-        {
-          "numero": "5",
-          "titulo": "9900515880 PATCH CORD CAT5E 1,5 MAMARELO:Informações Técnicas Modelo: FlexívelTemperatura máxima de trabalho: 80°C Categoria: 5e (CAT5e)Cor: Amarelo Comprimento: 1,5M Homologação: AnatelTransmissão de até 1000 Mbps e limite desempenho 100 MhzModelo d",
-          "fase": "HABILITAÇÃO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "4.345,60",
-          "vencedor": "STELLAR COMERCIO LTDA",
-          "melhor_oferta": "3.590,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900515880 PATCH CORD CAT5E 1,5 MAMARELO:Informações Técnicas Modelo: FlexívelTemperatura máxima de trabalho: 80°C Categoria: 5e (CAT5e)Cor: Amarelo Comprimento: 1,5M Homologação: AnatelTransmissão de até 1000 Mbps e limite desempenho 100 MhzModelo de referência: Patch Cord CAT.5E SohoPlus CMX",
+              "especificacao": "9900515881 PATCH CORD CAT5E 1,5 M AZUL:InformaçõesTécnicas Modelo: FlexívelTemperatura máxima de trabalho: 80°C Categoria: 5e (CAT5e)Cor: AZULComprimento: 1,5M Homologação: AnatelTransmissão de até 1000 Mbps e limite desempenho 100 MhzModelo de referência: Patch Cord CAT.5E SohoPlus CMX",
               "unidade": "Und.",
               "quantidade": "320,00",
               "valor_referencia": "13,58"
@@ -293144,55 +292281,28 @@
               "valor_referencia": "2.370,92"
             }
           ]
-        }
-      ]
-    },
-    {
-      "id": "PE-118-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "845 / 2026",
-      "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "PUBLICADO",
-      "condutor": "SERGIO CARNEIRO CAVALCANTI DE AZEVEDO",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "REGISTRO DE PREÇO",
-      "publicacao": "24/07/2026 11:18",
-      "inicio_recepcao": "26/08/2026 08:00",
-      "fim_recepcao": "10/09/2026 08:15",
-      "inicio_disputa": "10/09/2026 08:30",
-      "objeto": "Contratação de empresa especializada em prestação de serviço de ELABORAÇÃO DE PROJETOS, CONFECÇÃO, MONTAGEM E INSTALAÇÃO DE MOBILIÁRIOS PLANEJADOS, a fim de atender as demandas da Secretaria Municipal de Educação.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DsRgeMfkLCPtkCXz07G%2FX6eguBUc7fE22C6G1fZyMElhRL4BoodPW92jguu8sZhBB5n6P8neBA8zK1XlLtsabWF1Pab6W89g1OolSpubitHc%3D",
-      "total_lotes": 1,
-      "total_itens": 2,
-      "lotes": [
+        },
         {
-          "numero": "1",
-          "titulo": "MOVEIS PLANEJADOS",
-          "fase": "PUBLICADO",
+          "numero": "8",
+          "titulo": "5707611204 SWICTH24 PORTASGERENCIÁVEL::Especificações Técnicas:- Interface. 24× Portas RJ45 de 10/100/1000 Mbps- 4× Slots SFP Gigabit - 1× Porta de Console RJ45- 1× Porta de Console Micro-USB- Fonte de Alimentação 100-240 V AC~50/60 Hz- Dimensões (L",
+          "fase": "HABILITAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
           "exclusivo_me": "NÃO",
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 2,
+          "valor_referencia": "100.355,00",
+          "vencedor": "VANGUARDA INFORMATICA LTDA",
+          "melhor_oferta": "54.120,50",
+          "total_itens": 1,
           "itens": [
             {
               "numero": "1",
-              "especificacao": "9903312127 Mobiliário Planejado sob medida (FECHADO), incluindo confecção, montagem e instalação no local, compreendendo a elaboração de projeto, matéria-prima e todos os custos para o fornecimento do mesmo:A madeira utilizada dever· ser de MDF com 15 mm para parte interna dos móveis, parte externa com tamponamento de 30 mm de espessura; profundidade mínima de 500 mm; pés niveladores em borracha ou rodas rodízio para móveis; os móveis deverão ter acabamento com fita de borda na cor do móvel, colada pelo sistema \"hot melt\"; puxadores integrais em alumínio com acabamento; corrediças telescópicas; pés em MDF; fundo com 6 mm; dobradiças tipo caneco (35 mm) niqueladas com amortecimento; as cores serão definidas pelo órgão solicitante, podendo ser em tons claros ou escuros. Ficará a cargo da futura contratada apresentar projeto em 2D e 3D com detalhamento estrutural para aprovação prévia da Administração, podendo ser solicitadas alterações para adequação às demandas da Secretaria Municipal de Educação.",
-              "unidade": "m2.",
-              "quantidade": "4.000,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "2",
-              "especificacao": "9903312128 Mobiliário Planejado sob medida (ABERTO), incluindo confecção, montagem e instalação no local, compreendendo a elaboração de projeto, matéria-prima e todos os custos para o fornecimento do mesmo:A madeira utilizada deverá ser de MDF com 15mm para parte interna dos móveis, parte externa com tamponamento de 30 mm de espessura; profundidade mínima de 200 mm; pés niveladores em borracha; os móveis deverão ter acabamento com fita de borda na cor do móvel, colada pelo sistema \"hot melt\"; fundo com 6 mm; as cores serão definidas pelo órgão solicitante, podendo ser em tons claros ou escuros. Ficar· a cargo da futura contratada apresentar projeto em 2D e 3D com detalhamento estrutural para aprovação prévia da Administração, podendo ser solicitadas alterações para adequação às demandas da Secretaria Municipal de Educação.",
-              "unidade": "m2.",
-              "quantidade": "2.500,00",
-              "valor_referencia": ""
+              "especificacao": "5707611204 SWICTH24 PORTASGERENCIÁVEL::Especificações Técnicas:- Interface. 24× Portas RJ45 de 10/100/1000 Mbps- 4× Slots SFP Gigabit - 1× Porta de Console RJ45- 1× Porta de Console Micro-USB- Fonte de Alimentação 100-240 V AC~50/60 Hz- Dimensões (L X C X A) 17.3 × 7.1 × 1.7 in (440 × 180 × 44 mm)- Consumo máximo de energia 19.9 W (220 V/50 Hz)- Dissipação de calor máxima 67.73 BTU/h (220 V/50 Hz) Desempenho:- Capacidade de Comutação 56 Gbps - Taxa de Encaminhamento de Pacotes 41.66 Mpps - Tabela deEndereços MAC 16K - Jumbo Frame 9 KB Software:- QoS . 8 filas de prioridade - Prioridade 802.1p CoS/DSCP- Agendamento de filas - SP (Strict Priority) - WRR (Weighted Round Robin) - SP+WRR - Controle deLargura de Banda - Limite de classificação com base na porta/fluxo - Desempenho mais suave - Açãopara fluxos- Espelhar (para a interface suportada) - Redirecionar (para a interface suportadal) - Limite de velocidade -Comentário de QoS Características L2 e L2+:- Agregação de links - Agregação de links estáticos- LACP 802.3ad - Até 8 grupos de agregação e até 8 portas por grupoProtocolo Spanning Tree:- 802.1d STP - 802.1w RSTP - 802.1s MSTP - Segurança doSTP: TC Protect, Filtro BPDU, BPDU Protect, Root Protect, Loop Protect Detecção de Loopback:- Baseado na porta - VLAN based Controle de fluxo:- Controle de Fluxo 802.3x - Prevenção de bloqueios HOL Espelhamento:- Espelhamento de portas - Espelhamento de CPU- Um para um - Muitos para um- Transmissão/Recepção/Ambos- L2 Multicast - Suporta 511 grupos IGMP (IPv4, IPv6) IGMP Snooping:- IGMP v1/v2/v3 Snooping - Fast Leave - IGMP Snooping Querier- IGMP Authentication - IGMP Authentication ? MVR MLD Snooping:- MLD v1/v2 Snooping - Fast Leave - MLD Snooping Querier - Configuração de grupos estáticos -Multicast IP limitado- Filtragem Multicast: 256 perfis e 16 entradas por perfil VLAN Grupo VLAN:- Máximo de 4.000 Grupos de VLAN - 802.1q tagged VLAN - VLAN MAC: 12 entradas - ProtocoloVLAN: Modelo de protocolo 16, protocolo VLAN 16 - GVRP -VLAN VPN (QinQ) - QinQ baseado na porta- QinQ seletivo - VLAN de Voz Lista de Controle de Acesso:- ACL baseada no tempo - MAC ACL - MAC de origem - MAC de destino- ID da VLAN - Prioridade do usuário - Tipo Ether IP ACL:- IP de origem - IP de destino - Fragmento - Protocolo IP- Marcação TCP - Porta TCP/UDP - DSCP/IP TOS Garantia do Fornecedor 12 mesesLinha Switch L2+ 24 Portas Gigabit Com 4 SFPPeso: Apro",
+              "unidade": "Und.",
+              "quantidade": "50,00",
+              "valor_referencia": "2.007,10"
             }
           ]
         }
@@ -293313,26 +292423,26 @@
           ]
         },
         {
-          "numero": "4",
-          "titulo": "9900515826 SUPORTE ARTICULADO UNIVERSAL PARATV:confeccionado em aço carbono de alta resistência, com pintura eletrostática anticorrosiva, tipo articulado premium, com ajuste de inclinação, avanço, retração e movimentação lateral, compatível com padrão VE",
-          "fase": "HOMOLOGADO",
+          "numero": "5",
+          "titulo": "9909911346 SMART TV 55 polegadas::nova, tela QLED, resolução mínima 4K UHD (3840 x 2160 pixels), frequência mínima de 60Hz, processador com inteligência artificial paraotimização de imagem e som, conectividade Wi-Fi e Bluetoothintegradas, mínimo de 03 e",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
           "exclusivo_me": "SIM",
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
-          "valor_referencia": "47.691,00",
-          "vencedor": "POLI COMERCIAL LTDA",
-          "melhor_oferta": "29.025,00",
+          "valor_referencia": "179.705,25",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
           "total_itens": 1,
           "itens": [
             {
               "numero": "1",
-              "especificacao": "9900515826 SUPORTE ARTICULADO UNIVERSAL PARATV:confeccionado em aço carbono de alta resistência, com pintura eletrostática anticorrosiva, tipo articulado premium, com ajuste de inclinação, avanço, retração e movimentação lateral, compatível com padrão VESA universal, indicado para televisores e Smart TV?s de 55 a 65 polegadas, com elevada capacidade de carga, destinado à fixação elevada em parede, proporcionando segurança, estabilidade, ergonomia e melhor aproveitamento do ambiente, acompanhado de kit completo de instalação contendo parafusos, buchas, espaçadores, nivelador e manual de montagem. EXCLUSIVO PARA ME/EPP.",
+              "especificacao": "9909911346 SMART TV 55 polegadas::nova, tela QLED, resolução mínima 4K UHD (3840 x 2160 pixels), frequência mínima de 60Hz, processador com inteligência artificial paraotimização de imagem e som, conectividade Wi-Fi e Bluetoothintegradas, mínimo de 03 entradas HDMI e 02 entradas USB, conversor digital integrado, compatibilidade com espelhamentode tela, sistema operacional Smart com acesso a aplicativos eplataformas digitais, recursos de HDR, áudio com potência mínima de 20W RMS, alimentação bivolt automática, acompanhada de controle remoto, cabos, acessórios e manualde instruções, com garantia mínima de 12 meses, destinada ao atendimento das demandas das unidades escolares da Rede Municipal de Ensino. COTA 25% PARA ME/EPP.",
               "unidade": "Und.",
-              "quantidade": "300,00",
-              "valor_referencia": "158,97"
+              "quantidade": "75,00",
+              "valor_referencia": "2.396,07"
             }
           ]
         },
@@ -293497,362 +292607,6 @@
               "unidade": "Und.",
               "quantidade": "3,00",
               "valor_referencia": "1.767,25"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "PE-105-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "588 / 2026",
-      "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "HABILITAÇÃO",
-      "condutor": "SERGIO CARNEIRO CAVALCANTI DE AZEVEDO",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "REGISTRO DE PREÇO",
-      "publicacao": "07/07/2026 14:13",
-      "inicio_recepcao": "09/07/2026 08:30",
-      "fim_recepcao": "21/07/2026 08:15",
-      "inicio_disputa": "21/07/2026 08:30",
-      "objeto": "Contratação de empresa especializada em fornecimento de AGREGADOS PARA CONSTRUÇÃO CIVIL, a fim de atender as demandas da Secretaria Municipal de Infraestrutura e Serviços Urbanos.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DOPS82IQ3vfmpLISrAvOukdT6nwpTj79fjkQlt62%2FQVfaZ2hUT8akjI1HT67bmsG2laD_IDUIf_t9eWSPdnVTQOLBb%2FboqNBr9aSbOWistO8%3D",
-      "total_lotes": 14,
-      "total_itens": 14,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "700110373 AREIA BRANCA:AREIA BRANCA.",
-          "fase": "HOMOLOGADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "721.260,00",
-          "vencedor": "COMAIS LTDA",
-          "melhor_oferta": "720.000,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "700110373 AREIA BRANCA:AREIA BRANCA.",
-              "unidade": "m3..",
-              "quantidade": "6.000,00",
-              "valor_referencia": "120,21"
-            }
-          ]
-        },
-        {
-          "numero": "2",
-          "titulo": "37605 AREIA BRANCA:AREIA BRANCA. COTA DE 25% RESERVADA A ME/EPP.",
-          "fase": "HOMOLOGADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "240.420,00",
-          "vencedor": "COMAIS LTDA",
-          "melhor_oferta": "240.000,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37605 AREIA BRANCA:AREIA BRANCA. COTA DE 25% RESERVADA A ME/EPP.",
-              "unidade": "m3..",
-              "quantidade": "2.000,00",
-              "valor_referencia": "120,21"
-            }
-          ]
-        },
-        {
-          "numero": "3",
-          "titulo": "700110374 AREIA PRETA:PARA CANTEIROS E JARDINS.",
-          "fase": "HOMOLOGADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "66.225,00",
-          "vencedor": "COMAIS LTDA",
-          "melhor_oferta": "66.000,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "700110374 AREIA PRETA:PARA CANTEIROS E JARDINS.",
-              "unidade": "m3..",
-              "quantidade": "750,00",
-              "valor_referencia": "88,30"
-            }
-          ]
-        },
-        {
-          "numero": "4",
-          "titulo": "700110380 AREIA PRETA:PARA CANTEIROS E JARDINS. COTA DE 25% RESERVADA A ME/EPP.",
-          "fase": "HOMOLOGADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "22.075,00",
-          "vencedor": "COMAIS LTDA",
-          "melhor_oferta": "22.000,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "700110380 AREIA PRETA:PARA CANTEIROS E JARDINS. COTA DE 25% RESERVADA A ME/EPP.",
-              "unidade": "m3..",
-              "quantidade": "250,00",
-              "valor_referencia": "88,30"
-            }
-          ]
-        },
-        {
-          "numero": "5",
-          "titulo": "700110375 AREIA LAVADA:AREIA LAVADA.",
-          "fase": "HOMOLOGADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "180.510,00",
-          "vencedor": "COMAIS LTDA",
-          "melhor_oferta": "180.000,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "700110375 AREIA LAVADA:AREIA LAVADA.",
-              "unidade": "m3..",
-              "quantidade": "1.500,00",
-              "valor_referencia": "120,34"
-            }
-          ]
-        },
-        {
-          "numero": "5",
-          "titulo": "700110375 AREIA LAVADA:AREIA LAVADA.",
-          "fase": "HOMOLOGADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "180.510,00",
-          "vencedor": "COMAIS LTDA",
-          "melhor_oferta": "180.000,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "700110375 AREIA LAVADA:AREIA LAVADA.",
-              "unidade": "m3..",
-              "quantidade": "1.500,00",
-              "valor_referencia": "120,34"
-            }
-          ]
-        },
-        {
-          "numero": "7",
-          "titulo": "700110376 BRITA 0:BRITA 0.",
-          "fase": "HOMOLOGADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "142.048,08",
-          "vencedor": "COMAIS LTDA",
-          "melhor_oferta": "140.616,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "700110376 BRITA 0:BRITA 0.",
-              "unidade": "m3..",
-              "quantidade": "648,00",
-              "valor_referencia": "219,21"
-            }
-          ]
-        },
-        {
-          "numero": "6",
-          "titulo": "700110381 AREIA LAVADA:AREIA LAVADA. COTA DE 25% RESERVADA A ME/EPP.",
-          "fase": "HOMOLOGADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "60.170,00",
-          "vencedor": "COMAIS LTDA",
-          "melhor_oferta": "60.000,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "700110381 AREIA LAVADA:AREIA LAVADA. COTA DE 25% RESERVADA A ME/EPP.",
-              "unidade": "m3..",
-              "quantidade": "500,00",
-              "valor_referencia": "120,34"
-            }
-          ]
-        },
-        {
-          "numero": "9",
-          "titulo": "700110377 BRITA 1:BRITA 1.",
-          "fase": "EM ADJUDICAÇÃO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "75.066,42",
-          "vencedor": "MAWW SOLUÇÕES LTDA",
-          "melhor_oferta": "74.478,30",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "700110377 BRITA 1:BRITA 1.",
-              "unidade": "m3..",
-              "quantidade": "338,00",
-              "valor_referencia": "222,09"
-            }
-          ]
-        },
-        {
-          "numero": "10",
-          "titulo": "37607 BRITA 1:BRITA 1. COTA DE 25% RESERVADA A ME/EPP.",
-          "fase": "HOMOLOGADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "24.874,08",
-          "vencedor": "COMAIS LTDA",
-          "melhor_oferta": "24.416,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37607 BRITA 1:BRITA 1. COTA DE 25% RESERVADA A ME/EPP.",
-              "unidade": "m3..",
-              "quantidade": "112,00",
-              "valor_referencia": "222,09"
-            }
-          ]
-        },
-        {
-          "numero": "11",
-          "titulo": "700110378 PEDRA MARROADA:PEDRA MARROADA.",
-          "fase": "HOMOLOGADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "94.567,50",
-          "vencedor": "COMAIS LTDA",
-          "melhor_oferta": "93.600,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "700110378 PEDRA MARROADA:PEDRA MARROADA.",
-              "unidade": "m3..",
-              "quantidade": "450,00",
-              "valor_referencia": "210,15"
-            }
-          ]
-        },
-        {
-          "numero": "12",
-          "titulo": "700110382 PEDRA MARROADA:PEDRA MARROADA. COTA DE 25% RESERVADA A ME/EPP.",
-          "fase": "HOMOLOGADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "31.522,50",
-          "vencedor": "COMAIS LTDA",
-          "melhor_oferta": "31.200,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "700110382 PEDRA MARROADA:PEDRA MARROADA. COTA DE 25% RESERVADA A ME/EPP.",
-              "unidade": "m3..",
-              "quantidade": "150,00",
-              "valor_referencia": "210,15"
-            }
-          ]
-        },
-        {
-          "numero": "13",
-          "titulo": "700110379 PÓ DE PEDRA MOIDA:PÓ DE PEDRA MOIDA.",
-          "fase": "EM ADJUDICAÇÃO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "200.893,50",
-          "vencedor": "MAWW SOLUÇÕES LTDA",
-          "melhor_oferta": "192.130,50",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "700110379 PÓ DE PEDRA MOIDA:PÓ DE PEDRA MOIDA.",
-              "unidade": "m3..",
-              "quantidade": "1.725,00",
-              "valor_referencia": "116,46"
-            }
-          ]
-        },
-        {
-          "numero": "14",
-          "titulo": "700110383 PÓ DE PEDRA MOIDA:PÓ DE PEDRA MOIDA. COTA DE 25% RESERVADA A ME/EPP.",
-          "fase": "EM ADJUDICAÇÃO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "66.964,50",
-          "vencedor": "MAWW SOLUÇÕES LTDA",
-          "melhor_oferta": "64.043,50",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "700110383 PÓ DE PEDRA MOIDA:PÓ DE PEDRA MOIDA. COTA DE 25% RESERVADA A ME/EPP.",
-              "unidade": "m3..",
-              "quantidade": "575,00",
-              "valor_referencia": "116,46"
             }
           ]
         }
@@ -294602,33 +293356,1279 @@
       ]
     },
     {
+      "id": "PE-137-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "891 / 2026",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "RECEPÇÃO DE PROPOSTAS",
+      "condutor": "SERGIO CARNEIRO CAVALCANTI DE AZEVEDO",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO PARCELADA",
+      "publicacao": "24/08/2026 18:31",
+      "inicio_recepcao": "26/08/2026 08:00",
+      "fim_recepcao": "08/09/2026 08:15",
+      "inicio_disputa": "08/09/2026 08:30",
+      "objeto": "Contratação de empresa especializada em fornecimento MATERIAIS ESPORTIVOS (material de consumo) e (material permanente), a fim de atender as demandas da Secretaria Municipal de\nEducação.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DuQvShTBsg6lmBCvw1yCRhyxxesdyV3oKxnqElmLXPS59U2XKO5lrPC8bpHCqgvTJqvE1H8P2cYR4sWYiCJ_pUKcrZR8qjUzeBX5Nb7UX09w%3D",
+      "total_lotes": 5,
+      "total_itens": 38,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "LOLTE 1",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 2,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37744 Relógio digital para xadrez:portátil, destinado ao controle de tempo em partidas, treinamentos e competições.Confeccionado em material plástico de elevada resistência mecânica, com acabamento de qualidade e base estável. Deverá possuir visor digital de cristal líquido (LCD) de fácil leitura, com exibição simultânea do tempo de ambos os jogadores, teclas independentes de acionamento, programação de contagem regressiva e progressiva, pausa, reinício, memória para armazenamento da última configuração utilizada e aviso sonoro opcional ao término do tempo programado. Alimentação por pilha AA ou equivalente de fácil reposição. Dimensões aproximadas de 16 x 10 x 6 cm, admitindo pequenas variações.",
+              "unidade": "UND",
+              "quantidade": "50,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "2",
+              "especificacao": "9900516107 Jogo de xadrez profissional:composto por tabuleiro, conjunto completo de 34 peças e estojo para transporte.Tabuleiro confeccionado em material resistente, medindo aproximadamente 50 x 50 cm, com casas de aproximadamente 5,5 x 5,5 cm, impressão permanente de alto contraste e acabamento resistente ao desgaste. Peças confeccionadas em plástico de alta resistência ou material equivalente de qualidade equivalente, padrão tradicional, com bases revestidas em feltro ou material similar para melhor estabilidade e proteção da superfície de jogo. Rei com altura aproximada entre 95 mm e 100 mm, mantendo proporcionalidade entre as demais peças. O conjunto deverá acompanhar duas damas adicionais para promoção e bolsa ou estojo resistente para armazenamento e transporte.",
+              "unidade": "UND",
+              "quantidade": "500,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "2",
+          "titulo": "LOLTE 2",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 6,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900830621 Mesa para tênis de mesa:de uso profissional ou treinamento intensivo, composta por tampo em MDF de 25 mm de espessura, dividido em duas partes articuladas, com acabamento em pintura resistente na cor azul ou verde, linhas demarcatórias permanentes em cor contrastante e estrutura metálica em aço carbono com tratamento anticorrosivo e pintura eletrostática. Deverá possuir sistema articulado para armazenamento, rodízios com travas para deslocamento, pés dobráveis e possibilidade de utilização de metade da mesa para treinamento individual. Dimensões aproximadas de 2,74 m de comprimento, 1,525 m de largura e 0,76 m de altura. Deverá acompanhar conjunto composto por suportes metálicos para fixação da rede e rede em nylon de alta resistência.",
+              "unidade": "UND",
+              "quantidade": "20,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "2",
+              "especificacao": "9900516108 Bola para tênis de mesa:confeccionada em material plástico de elevada resistência, diâmetro de 40 mm, cor branca, superfície uniforme, acabamento liso, boa esfericidade e resistência a deformações. Embalagem contendo 10 unidades. Indicada para atividades recreativas, iniciação esportiva e treinamentos.",
+              "unidade": "KIT",
+              "quantidade": "100,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "3",
+              "especificacao": "37746 Bola para tênis de mesa de alto desempenho:confeccionada em material plástico de elevada resistência, diâmetro de 40 mm, cor branca, superfície uniforme, excelente equilíbrio, precisão de quique e durabilidade, indicada para treinamentos avançados e competições. Embalagem contendo 06 unidades.",
+              "unidade": "KIT",
+              "quantidade": "20,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "4",
+              "especificacao": "9900516109 Raquete infantil para tênis de mesa:confeccionada integralmente em plástico resistente, com superfície texturizada para melhor aderência da bola, resistente à umidade e à exposição ao sol. Dimensões aproximadas de 27 cm de comprimento, 15 cm de largura e cabo de aproximadamente 9 cm. Peso aproximado de 140 g, admitindo pequenas variações. Cores variadas.",
+              "unidade": "UND",
+              "quantidade": "150,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "5",
+              "especificacao": "37747 Raquete para tênis de mesa:confeccionada em madeira laminada de alta resistência, cabo anatômico reto, revestida em ambos os lados com borracha lisa nas cores vermelha e preta, contendo esponja com espessura aproximada de 1,8 mm ou superior. Deverá proporcionar bom controle, velocidade e efeito, com acabamento uniforme, resistente ao uso contínuo e peso aproximado de 180 g a 220 g.",
+              "unidade": "UND",
+              "quantidade": "250,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "6",
+              "especificacao": "9900516110 Kit de arbitragem para tênis de mesa:composto por régua metálica para verificação da altura da rede, régua plástica para conferência da espessura e tensão, cartões de advertência confeccionados em PVC rígido nas cores branca, amarela e vermelha, ficha de anotações e estojo ou carteira confeccionada em material sintético resistente para acondicionamento do conjunto. Todos os componentes deverão possuir acabamento resistente e adequado ao uso frequente.",
+              "unidade": "KIT",
+              "quantidade": "25,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "3",
+          "titulo": "LOLTE 3",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 12,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37748 Placar de mesa multiuso:indicado para diversas modalidades esportivas, confeccionado em PVC rígido ou material equivalente de elevada resistência, estrutura articulada para facilitar o transporte e armazenamento, sistema de marcação com números impressos em ambos os lados, permitindo visualização pelos participantes e público. Deverá possibilitar marcação de pontos e sets, possuir dimensões aproximadas de 21 x 39 cm, acabamento resistente ao desgaste e sistema de troca manual de fácil operação.",
+              "unidade": "UND",
+              "quantidade": "20,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "2",
+              "especificacao": "37749 Kit de mini cones tipo chapéu:destinado ao treinamento funcional, coordenação motora, agilidade e demarcação de espaços. Cones confeccionados em polietileno ou material plástico flexível de elevada resistência, com aproximadamente 18 cm de diâmetro e 5 cm de altura, em cores variadas, resistentes aos raios UV e às intempéries. O kit deverá conter 40 unidades e suporte ou embalagem apropriada para armazenamento e transporte.",
+              "unidade": "KIT",
+              "quantidade": "50,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "3",
+              "especificacao": "37750 Cone para treinamento esportivo:confeccionado em material plástico flexível de alta resistência, com altura aproximada de 23 cm, base com diâmetro aproximado de 14,5 cm e topo com abertura de aproximadamente 2,5 cm, permitindo utilização com barras de treinamento quando necessário.Produto resistente ao impacto, à deformação e às intempéries, em cores variadas e de alta visibilidade. Cores sortidas.",
+              "unidade": "UND",
+              "quantidade": "1.000,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "4",
+              "especificacao": "9900516111 Cone de sinalização vazado:confeccionado em polietileno ou material equivalente de elevada resistência, altura aproximada de 23 cm, base quadrada, estrutura vazada que reduza o deslocamento causado pelo vento, flexível, resistente a impactos e deformações, indicado para demarcação de circuitos esportivos e atividades de treinamento. Disponível em cores de alta visibilidade.",
+              "unidade": "UND",
+              "quantidade": "1.500,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "5",
+              "especificacao": "9900516112 Bolsa térmica para atendimento esportivo:confeccionada em tecido sintético impermeável de alta resistência, com compartimento principal de amplo espaço interno, revestimento térmico, bolsos externos para acessórios, compartimento para transporte de garrafas, alças reforçadas e fechamento por zíper de alta resistência. Deverá acompanhar 02 garrafas para hidratação e 01 recipiente térmico (isopor ou equivalente) compatível com a capacidade da bolsa.",
+              "unidade": "UND",
+              "quantidade": "25,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "6",
+              "especificacao": "37751 Apito profissional:confeccionado em plástico ABS de alta resistência, com bocal em silicone, dimensões aproximadas de 4 cm x 2,2 cm x 2 cm, destinado à arbitragem e prática esportiva, com sonoridade clara e alto alcance sonoro, resistente ao uso contínuo.",
+              "unidade": "UND",
+              "quantidade": "100,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "7",
+              "especificacao": "37752 Escada de agilidade tipo barreirinha:medindo aproximadamente 4 metros de comprimento, composta por 10 degraus ajustáveis, confeccionados em PVC flexível ou material equivalente de elevada resistência, permitindo regulagem do espaçamento e da altura para utilização como barreiras de treinamento. As fitas laterais deverão ser confeccionadas em nylon reforçado, resistente à tração, umidade e intempéries.Deverá acompanhar bolsa para armazenamento e transporte.",
+              "unidade": "UND",
+              "quantidade": "50,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "8",
+              "especificacao": "9900516113 Escada de coordenação motora:medindo aproximadamente 5 metros de comprimento, composta por 11 degraus confeccionados em PVC resistente, com largura aproximada de 50 cm, fixados em fitas de nylon reforçadas e com regulagem de espaçamento. Deverá possuir sistema de conexão entre escadas por meio de botões, presilhas ou dispositivo equivalente, permitindo ampliação dos circuitos de treinamento. Acompanha bolsa para transporte.",
+              "unidade": "UND",
+              "quantidade": "70,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "9",
+              "especificacao": "37753 Escada de agilidade tipo barreirinha premium:medindo aproximadamente 5 metros de comprimento, composta por 10 degraus ajustáveis confeccionados em PVC flexível de elevada resistência, permitindo regulagem da altura dos obstáculos em até aproximadamente 45 cm, além do ajuste do espaçamento entre os degraus. Estrutura resistente ao uso intensivo, com fitas confeccionadas em nylon reforçado, sistema de fixação por velcro ou dispositivo equivalente e bolsa para transporte.Indicada para treinamento funcional, preparação física e exercícios de coordenação motora.",
+              "unidade": "UND",
+              "quantidade": "50,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "10",
+              "especificacao": "9900516114 Kit de argolas para treinamento de agilidade:composto por 12 argolas confeccionadas em PVC ou material equivalente de elevada resistência, com diâmetroaproximado de 45 cm, resistentes à deformação, impactos e uso contínuo. O conjunto deverá acompanhar presilhas ou conectores que permitam diferentes configurações de circuitos, além de bolsa resistente para armazenamento e transporte.Indicado para treinamentos de coordenação motora, velocidade, agilidade e equilíbrio.",
+              "unidade": "KIT",
+              "quantidade": "200,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "11",
+              "especificacao": "37754 Cinto duplo de tração para treinamento esportivo:composto por dois cintos confeccionados em EVA de alta densidade ou material equivalente, revestidos com fitas reforçadas e fechamento por velcro de elevada resistência.Deverá possuir 04 elásticos removíveis de alta elasticidade, mosquetões metálicos resistentes à corrosão e sistema de segurança que permita treinamento de aceleração, resistência, explosão muscular e mudança de direção. Comprimento inicial aproximado de 80 cm, com capacidade de estiramento de até 140 cm ou superior.",
+              "unidade": "UND",
+              "quantidade": "20,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "12",
+              "especificacao": "9900516130 Jogo de coletes esportivos:composto por 12 unidades, confeccionados em tecido 100% poliéster, leve, respirável e de secagem rápida, com acabamento reforçado nas bordas e costuras de alta resistência. Deverão possuir modelagem que permita utilização sobre uniforme esportivo, oferecendo liberdade de movimentos. Cores variadas e de alta visibilidade, conforme necessidade da Administração, em tamanhos compatíveis com público juvenil e adulto.",
+              "unidade": "JOGO",
+              "quantidade": "60,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "4",
+          "titulo": "LOLTE 4",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 11,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900516115 Calibrador digital para bolas esportivas:Equipamento dotado de visor digital em cristal líquido (LCD) de fácil leitura, corpo confeccionado em material resistente a impactos, alimentação por bateria de lítio ou equivalente de fácil substituição, sistema de desligamento automático para economia de energia e faixa de medição compatível com bolas esportivas. Deverá acompanhar agulha metálica universal para insuflação, bateria instalada e manual de instruções em língua portuguesa.",
+              "unidade": "UND",
+              "quantidade": "30,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "2",
+              "especificacao": "9900516116 Peteca oficial para prática esportiva:confeccionada com base em borracha maciça ou material elastomérico de elevada resistência ao desgaste, proporcionando estabilidade durante os golpes. Penas naturais ou sintéticas de alta durabilidade, firmemente fixadas à base, garantindo equilíbrio, estabilidade de voo e boa durabilidade. Produto indicado para atividades recreativas, treinamentos e competições, devendo apresentar acabamento uniforme e excelente resistência ao uso contínuo.",
+              "unidade": "UND",
+              "quantidade": "50,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "3",
+              "especificacao": "37755 Kit para jogo de betes (taco):composto por 02 tacos confeccionados em madeira maciça de boa qualidade, com acabamento lixado, bordas arredondadas e empunhadura revestida em borracha ou material antiderrapante. Deverá acompanhar 01 bola de borracha, 02 pares de bases (casinhas) confeccionadas em madeira resistente e 01 bolsa para acondicionamento e transporte. Todos os componentes deverão apresentar acabamento uniforme, resistência ao uso frequente e dimensões compatíveis com a prática recreativa da modalidade.",
+              "unidade": "KIT",
+              "quantidade": "30,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "4",
+              "especificacao": "9900516117 Bolsa para transporte de bolas esportivas:confeccionada em nylon, poliéster ou material equivalente de elevada resistência, com capacidade mínima para acondicionar 15 bolas, fechamento superior por cordão ou sistema similar, costuras reforçadas, alça resistente para transporte e estrutura que permita ventilação adequada dos materiais armazenados.",
+              "unidade": "UND",
+              "quantidade": "20,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "5",
+              "especificacao": "9900516118 Kit para badminton:composto por 04 raquetes confeccionadas em alumínio, aço, fibra de carbono ou material equivalente de elevada resistência estrutural, 01 rede confeccionada em nylon de alta resistência, postes ou suportes para instalação e 01 peteca adequada à prática da modalidade. Todos os componentes deverão possuir acabamento uniforme, elevada durabilidade, resistência ao uso contínuo e acondicionamento em embalagem apropriada para transporte e armazenamento.",
+              "unidade": "KIT",
+              "quantidade": "25,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "6",
+              "especificacao": "9900516119 Bola de basquete tamanho mirim:confeccionada em borracha de elevada resistência ou material sintético equivalente, com superfície texturizada para melhor aderência, estrutura composta por gomos moldados, câmara interna em borracha butílica ou material equivalente e miolo removível, substituível e lubrificado. Circunferência aproximada entre 55 cm e 57 cm, peso entre 450 g e 500 g, indicada para treinamentos, atividades escolares, projetos esportivos e competições da categoria correspondente, apresentando excelente resistência ao desgaste e baixa absorção de umidade.",
+              "unidade": "UND",
+              "quantidade": "150,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "7",
+              "especificacao": "37756 Bola de futsal categoria Sub-13:confeccionada em laminado de poliuretano (PU) de alta resistência ou material sintético de qualidade equivalente, com tecnologia de construção termofundida, híbrida ou costurada, proporcionando excelente resistência ao desgaste e baixa absorção de água. Deverá possuir câmara interna confeccionada em borracha butílica ou material equivalente, miolo removível, substituível e lubrificado, com perfeito balanceamento. Circunferência entre 55 cm e 59 cm e peso entre 350 g e 380 g, admitidas pequenas variações conforme normas técnicas nacionais aplicáveis.",
+              "unidade": "UND",
+              "quantidade": "300,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "8",
+              "especificacao": "9900516120 Bola de handebol H1:confeccionada em laminado de poliuretano (PU) ou material sintético de elevada resistência, com superfície texturizada para proporcionar maior aderência durante o manuseio. Câmara interna em borracha butílica ou material equivalente, miolo removível e lubrificado, estrutura resistente à deformação e ao uso contínuo. Circunferência aproximada entre 50 cm e 52 cm e peso entre 290 g e 330 g.",
+              "unidade": "UND",
+              "quantidade": "300,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "9",
+              "especificacao": "9900516121 Bola de handebol H2:confeccionada em laminado de poliuretano (PU) ou material sintético de elevada resistência, superfície texturizada para melhor empunhadura, câmara interna em borracha butílica ou material equivalente, miolo removível elubrificado. Circunferência aproximada entre 54 cm e 56 cm e peso entre 325 g e 375 g, apresentando excelente resistência ao desgaste e baixa deformação durante o uso contínuo.",
+              "unidade": "UND",
+              "quantidade": "300,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "10",
+              "especificacao": "37757 Bola oficial para futebol de campo:destinada ao treinamento e competições, confeccionada em laminado de poliuretano (PU) ou material sintético de qualidade superior, com construção termofundida, híbrida ou tecnologia equivalente, proporcionando elevada resistência mecânica, baixa absorção de água e excelente estabilidade. Deverá possuir câmara interna em borracha butílica ou material equivalente, miolo removível, substituível e lubrificado. Circunferência entre 68 cm e 70 cm e peso entre 410 g e 450 g.",
+              "unidade": "UND",
+              "quantidade": "17,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "11",
+              "especificacao": "9900516122 Bola oficial para voleibol de quadra:confeccionada em laminado de microfibra sintética, poliuretano (PU) ou material equivalente de elevada resistência, estrutura composta por gomos termofundidos ou tecnologia similar, proporcionando baixa absorção de água, excelente equilíbrio, maciez ao toque e precisão durante o jogo. Câmara interna em borracha butílica ou material equivalente, miolo removível e lubrificado.Circunferência entre 65 cm e 67 cm e peso entre 260 g e 280 g.",
+              "unidade": "UND",
+              "quantidade": "60,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "5",
+          "titulo": "LOLTE 5",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 7,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900516123 Colchonete para atividades físicas:confeccionado em espuma de poliuretano com densidade mínima D33, revestido em material sintético impermeável, lavável e resistente à abrasão, com costuras reforçadas e fechamento por zíper para eventual substituição da espuma. Dimensões aproximadas de 0,90 m de comprimento, 0,60 m de largura e 0,03 m de espessura, admitindo pequenas variações. Produto destinado à prática de exercícios físicos, alongamentos, ginástica, recreação e demais atividades esportivas, proporcionando conforto e segurança durante sua utilização.",
+              "unidade": "UND",
+              "quantidade": "600,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "2",
+              "especificacao": "9900516124 Bola para pilates:confeccionada em PVC ou material polimérico de elevada resistência, com sistema antiestouro (anti-burst), suportando carga estática mínima de 300 kg. Diâmetro aproximado de 65 cm, superfície antiderrapante e toque macio, indicada para exercícios de fortalecimento muscular, alongamento, equilíbrio e fisioterapia. Deverá acompanhar bomba para enchimento, válvulas sobressalentes e adaptador para insuflação.",
+              "unidade": "UND",
+              "quantidade": "70,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "3",
+              "especificacao": "9900516125 Medicine Ball borracha 1 kg:bola de medicine Ball com peso de 1 kg, fabricada em borracha resistente ao impacto com textura especial antiderrapante, com 38 cm de circunferência, e válvula celebrável.",
+              "unidade": "UND",
+              "quantidade": "5,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "4",
+              "especificacao": "9900516126 Medicine Ball borracha 2 kg:bola de medicine Ball com peso de 2 kg, fabricada em borracha resistente ao impacto com textura especial antiderrapante, com aproximadamente 45 cm de circunferência, e válvula celebrável.",
+              "unidade": "UND",
+              "quantidade": "5,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "5",
+              "especificacao": "9900516127 Medicine Ball borracha 3 kg:bola de medicine Ball com peso de 3 kg, fabricada em borracha resistente ao impacto com textura especial antiderrapante, com aproximadamente 55 cm de circunferência, e válvula celebrável.",
+              "unidade": "UND",
+              "quantidade": "5,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "6",
+              "especificacao": "9900516128 Medicine Ball borracha 4 kg:bola de medicine Ball com peso de 4 kg, fabricada em borracha resistente ao impacto com textura especial antiderrapante, com aproximadamente 60 cm de circunferência, e válvula celebrável.",
+              "unidade": "UND",
+              "quantidade": "5,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "7",
+              "especificacao": "9900516129 Medicine Ball borracha 5 kg:bola de medicine Ball com peso de 5 kg, fabricada em borracha resistente ao impacto com textura especial antiderrapante, com aproximadamente 65 cm de circunferência, e válvula celebrável.",
+              "unidade": "UND",
+              "quantidade": "5,00",
+              "valor_referencia": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-134-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "823 / 2026",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "RECEPÇÃO DE PROPOSTAS",
+      "condutor": "SERGIO CARNEIRO CAVALCANTI DE AZEVEDO",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "REGISTRO DE PREÇO",
+      "publicacao": "24/08/2026 16:28",
+      "inicio_recepcao": "26/08/2026 08:00",
+      "fim_recepcao": "10/09/2026 08:15",
+      "inicio_disputa": "10/09/2026 08:30",
+      "objeto": "Contratação de empresa especializada em prestação de serviço de LOCAÇÃO DE VEÍCULOS (sem\nmotorista), a fim de atender as demandas da Secretaria Municipal de Administração e demais Secretarias.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DtyKn8KaDhAwygsH1Vxlmgtma1BfNk5tKpGdX%2FsFpMQ8PCiHa__R%2FCpkB8Y_JImgi5ou2hWVouZT%2FQFWPy2yL2wOAmlj5ZzBo58Oxb5OQKo4%3D",
+      "total_lotes": 5,
+      "total_itens": 5,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "9903312121 LOCAÇÃO DE VEÍCULO 05 PESSOAS - SEMMOTORISTA - AUTOMÁTICO:Locação de Veículo sem motorista, câmbio automático com 6 (seis) marchas, mínimo de 116 cv com gasolina e 128cv com etanol, veículo tipo automóvel SEDAN, (compacto ou médio), movido a g",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9903312121 LOCAÇÃO DE VEÍCULO 05 PESSOAS - SEMMOTORISTA - AUTOMÁTICO:Locação de Veículo sem motorista, câmbio automático com 6 (seis) marchas, mínimo de 116 cv com gasolina e 128cv com etanol, veículo tipo automóvel SEDAN, (compacto ou médio), movido a gasolina ou bicombustível, motor 1.0 ou superior, 04 portas, equipado com ar- condicionado, direção hidráulica e/ou elétrica, vidros elétricos e trava elétrica nas 04 portas, alarme, capacidade para 05 pessoas, incluindo o motorista, airbag, ar condicionado, direção elétrica, tanque de combustível superior a 45 litros, ano de fabricação mínima de 2023, manutenção por conta da empresa contratada, apólice ou contrato de seguro apresentado no ato do contrato de locação e com vigência para todo o período contratado e encargos tributários de IPVA, DPVAT e TRLAV também por conta da empresa contratada. (LOCAÇÃO MENSAL).",
+              "unidade": "UND",
+              "quantidade": "6,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "2",
+          "titulo": "9903312122 LOCAÇÃO DE VEÍCULO 07 PESSOAS - SEMMOTORISTA:Locação de Veículo sem motorista, veículo tipo minivan compacta, movido a gasolina ou bicombustível, motor dianteiro, potência 1.4 ou superior, equipado com ar- condicionado, direção hidráulica e/ou",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9903312122 LOCAÇÃO DE VEÍCULO 07 PESSOAS - SEMMOTORISTA:Locação de Veículo sem motorista, veículo tipo minivan compacta, movido a gasolina ou bicombustível, motor dianteiro, potência 1.4 ou superior, equipado com ar- condicionado, direção hidráulica e/ou elétrica, vidros elétricos, trava elétrica, alarme, capacidade para 07 pessoas, incluindo o motorista, câmbio automático, airbag, conexão bluetooth, ano de fabricação mínima de 2023, manutenção por conta da empresa contratada, apólice ou contrato de seguro apresentado no ato do contrato de locação e com vigência para todo o período contratado e encargos tributários de IPVA, DPVAT e TRLAV também por conta da empresa contratada. (LOCAÇÃO MENSAL).",
+              "unidade": "UND",
+              "quantidade": "10,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "3",
+          "titulo": "9903312123 LOCAÇÃO DE VEÍCULO TIPO CAMINHONETE4X4   SEM MOTORISTA:Locação de veículo sem motorista, veículo tipo caminhonete, movido a gasolina, bicombustível ou diesel, motor 2.0 ou superior, airbag, conexão bluetooth, potência mínima do motor de 165 CV",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9903312123 LOCAÇÃO DE VEÍCULO TIPO CAMINHONETE4X4 SEM MOTORISTA:Locação de veículo sem motorista, veículo tipo caminhonete, movido a gasolina, bicombustível ou diesel, motor 2.0 ou superior, airbag, conexão bluetooth, potência mínima do motor de 165 CV, transmissão automática, 04 portas, equipado com ar- condicionado, direção hidráulica e/ou elétrica, vidros elétricos, trava elétrica, alarme, tração 4x4, capacidade de carga mínima de 1.000 kg, ano de fabricação mínima de 2023, manutenção por conta da empresa contratada, apólice ou contrato de seguro apresentado no ato do contrato de locação e com vigência para todo o período contratado e encargos tributários de IPVA, DPVAT e TRLAV também por conta da empresa contratada. (LOCAÇÃO MENSAL).",
+              "unidade": "UND",
+              "quantidade": "9,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "4",
+          "titulo": "9903312124 LOCAÇÃO DE VEÍCULO TIPO VAN 14 A 19LUGARES   SEM MOTORISTA::Locação de Veículo, sem motorista, tipo utilitário fechado, sem motorista, tipo van, movido a gasolina ou bicombustível, motor 1.4 ou superior, potência mínima 160 CV, 02 baterias, ro",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9903312124 LOCAÇÃO DE VEÍCULO TIPO VAN 14 A 19LUGARES SEM MOTORISTA::Locação de Veículo, sem motorista, tipo utilitário fechado, sem motorista, tipo van, movido a gasolina ou bicombustível, motor 1.4 ou superior, potência mínima 160 CV, 02 baterias, rodas em aço, comprimento total inferior a 7.000 mm, altura máxima inferior a 2.800mm, volume do bagageiro superior a 300litros, computador de bordo, alerta de funcionamento do veículo, piloto automático adaptativo, conexão bluetooth, apoio de braço para motorista, chave canivete, comandos de áudio no volante, detector de fadiga, luz de condução diurna, travamento automático das portas, assistência de partida em rampa, capacidade de 14 a 19 passageiros, equipado com ar-condicionado, direção hidráulica e/ou elétrica, vidros elétricos, trava elétrica, alarme, ano de fabricação mínima de 2022, manutenção por conta da empresa contratada, apólice ou contrato de seguro apresentado no ato do contrato de locação e com vigência para todo o período contratado e encargos tributários de IPVA, DPVAT e TRLAV também por conta da empresa contratada. (LOCAÇÃO MENSAL).",
+              "unidade": "UND",
+              "quantidade": "5,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "5",
+          "titulo": "9903312125 LOCAÇÃO DE VEÍCULO TIPO VAN 14 A 19 LUGARES - SEM MOTORISTA:Locação de Veículo, sem motorista, tipo utilitário fechado, sem motorista, tipo van,deve apresentar ausência das cadeiras traseiras sem poltronas na carroceria, movido a gasolina ou di",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9903312125 LOCAÇÃO DE VEÍCULO TIPO VAN 14 A 19 LUGARES - SEM MOTORISTA:Locação de Veículo, sem motorista, tipo utilitário fechado, sem motorista, tipo van,deve apresentar ausência das cadeiras traseiras sem poltronas na carroceria, movido a gasolina ou diesel, motor 1.3 ou superior, potência mínima 160 CV, 02 baterias, rodas em aço, comprimento total inferior a 7.000 mm, altura máxima inferior a 2.800mm, volume do bagageiro superior a 300litros, alerta de funcionamento do veículo, piloto automático adaptativo, conexão bluetooth, apoio de braço para motorista, chave canivete, comandos de áudio no volante, detector de fadiga, luz de condução diurna, travamento automático das portas, assistência de partida em rampa, capacidade de 14 a 19 passageiros, equipado com ar-condicionado, direção hidráulica e/ou elétrica, vidros elétricos, trava elétrica, alarme, ano de fabricação mínima de 2022, manutenção por conta da empresa contratada, apólice ou contrato de seguro apresentado no ato do contrato de locação e com vigência para todo o período contratado e encargos tributários de IPVA, DPVAT e TRLAV também por conta da empresa contratada. (LOCAÇÃO MENSAL).",
+              "unidade": "UND",
+              "quantidade": "1,00",
+              "valor_referencia": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-133-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "616 / 2026",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "HABILITAÇÃO",
+      "condutor": "JONATAS DA SILVA SOUSA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO",
+      "publicacao": "12/08/2026 10:56",
+      "inicio_recepcao": "14/08/2026 08:00",
+      "fim_recepcao": "26/08/2026 08:15",
+      "inicio_disputa": "26/08/2026 08:30",
+      "objeto": "Contratação de empresa especializada em fornecimento de ROÇADEIRA HIDRÁULICA PARA TRATOR (material permanente),  a fim de atender às demandas da Secretaria Municipal de Administração e da Secretaria Municipal de Agricultura, Pecuária e Abastecimento.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DLmiFIOkG9oGhYgHRNPdhojaQt1WIUWS4BSq5quLAbRKJinXOHhUNoO_SYmX27p33UeVTFwfmwIVkst6RA5jSZmnj4aj026JpCcHKtV98Sp8%3D",
+      "total_lotes": 1,
+      "total_itens": 1,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "ROÇADEIRA HIDRÁULICA",
+          "fase": "EM ADJUDICAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "34.094,40",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37392 ROÇADEIRA HIDRÁULICA PARA TRATOR:Roçadeirahidráulica de dupla hélice, destinada ao acoplamento em trator,por meio de uma transmissão direta com Sistema de engate de 3pontos, giro livre interno, com dentes cônico helicoidais,embreagem e cardan com proteção. Características mínimasexigidas: Comprimento aproximado 2,10 m; Largura aproximadade 2,73 m; Peso aproximado de 755 Kg; Largura de cortemáximo de 2,50 cm; Altura de corte máximo de 20 cm;Compatibilidade com tratores de potência entre 70 CV a 90 CV;Sistema de engate de 3 pontos para trator, cat II; Eixo cardanarticulado com embreagem de torque regulável; Caixas com girolivre banhado a óleo",
+              "unidade": "UN",
+              "quantidade": "2,00",
+              "valor_referencia": "17.047,20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-122-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "857 / 2026",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "HABILITAÇÃO",
+      "condutor": "SERGIO CARNEIRO CAVALCANTI DE AZEVEDO",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO",
+      "publicacao": "31/07/2026 19:17",
+      "inicio_recepcao": "04/08/2026 08:00",
+      "fim_recepcao": "17/08/2026 10:15",
+      "inicio_disputa": "17/08/2026 10:30",
+      "objeto": "Contratação de empresa especializada em fornecimento de LIVROS PARADIDÁTICOS DESTINADOS AO NÚCLEO DE APOIO À EDUCAÇÃO INCLUSIVA (NAEI), a fim de atender as demandas da Secretaria Municipal de Educação.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DpPPdgxn2xweW8D6WCJTT5mhOQ6jWL_IvGEpxTsjX%2Fh3gScVNQmW7lzDykB82l9IVozhKCSTOfmlRoGS2yfBUhgHNafn3WXrYmtLlOqz1hxg%3D",
+      "total_lotes": 11,
+      "total_itens": 11,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "7601000001 Kit Livro Infantil Histórias Divertidas Com Desenhos 3D:livro pop up, imagens que saltam, livro ilustrativo, cores vivas educativa, capa almofadada",
+          "fase": "HABILITAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "9.620,80",
+          "vencedor": "AQUARELA EDITORA E DISTRIBUIDORA LTDA",
+          "melhor_oferta": "7.420,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "7601000001 Kit Livro Infantil Histórias Divertidas Com Desenhos 3D:livro pop up, imagens que saltam, livro ilustrativo, cores vivas educativa, capa almofadada",
+              "unidade": "Und.",
+              "quantidade": "140,00",
+              "valor_referencia": "68,72"
+            }
+          ]
+        },
+        {
+          "numero": "2",
+          "titulo": "7601000002 Bocarra:Um livro Sensorial! Monstros Capa dura - Livro interativo, 1 julho 2023",
+          "fase": "HABILITAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "5.290,60",
+          "vencedor": "AQUARELA EDITORA E DISTRIBUIDORA LTDA",
+          "melhor_oferta": "3.276,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "7601000002 Bocarra:Um livro Sensorial! Monstros Capa dura - Livro interativo, 1 julho 2023",
+              "unidade": "Und.",
+              "quantidade": "140,00",
+              "valor_referencia": "37,79"
+            }
+          ]
+        },
+        {
+          "numero": "3",
+          "titulo": "7601000003 Toc... toc... Quem mora aqui?:Autor: Maria Loretta Giraldo",
+          "fase": "HABILITAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "9.927,40",
+          "vencedor": "SK DISTRIBUIDORA E COMERCIO DE LIVROS LTDA",
+          "melhor_oferta": "7.330,40",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "7601000003 Toc... toc... Quem mora aqui?:Autor: Maria Loretta Giraldo",
+              "unidade": "Und.",
+              "quantidade": "140,00",
+              "valor_referencia": "70,91"
+            }
+          ]
+        },
+        {
+          "numero": "4",
+          "titulo": "7601000004 Neurodiversidade Clássicos:João e o Pé de Feijão",
+          "fase": "HABILITAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "4.235,00",
+          "vencedor": "LISBOA DISTRIBUIDORA DE LIVROS",
+          "melhor_oferta": "2.289,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "7601000004 Neurodiversidade Clássicos:João e o Pé de Feijão",
+              "unidade": "Und.",
+              "quantidade": "140,00",
+              "valor_referencia": "30,25"
+            }
+          ]
+        },
+        {
+          "numero": "5",
+          "titulo": "37695 Escolinha Baby Montessori - Contrastes!:Animais Capa dura - Livro de fotos, 1 agosto 2022",
+          "fase": "HABILITAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "3.479,00",
+          "vencedor": "INTERBOOK LIVROS LTDA",
+          "melhor_oferta": "2.298,80",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37695 Escolinha Baby Montessori - Contrastes!:Animais Capa dura - Livro de fotos, 1 agosto 2022",
+              "unidade": "Und.",
+              "quantidade": "140,00",
+              "valor_referencia": "24,85"
+            }
+          ]
+        },
+        {
+          "numero": "6",
+          "titulo": "7601000005 Escolinha Baby Montessori - Contrastes!:Grande ou Pequeno? Capa dura - Livro de fotos, 1 agosto 2022",
+          "fase": "HABILITAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "4.643,80",
+          "vencedor": "INTERBOOK LIVROS LTDA",
+          "melhor_oferta": "2.240,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "7601000005 Escolinha Baby Montessori - Contrastes!:Grande ou Pequeno? Capa dura - Livro de fotos, 1 agosto 2022",
+              "unidade": "Und.",
+              "quantidade": "140,00",
+              "valor_referencia": "33,17"
+            }
+          ]
+        },
+        {
+          "numero": "7",
+          "titulo": "7601000006 Alto-contraste Com Toque e Sinta - Palavras:Alto- contraste Com Toque e Sinta - Palavras",
+          "fase": "HABILITAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "3.921,40",
+          "vencedor": "AQUARELA EDITORA E DISTRIBUIDORA LTDA",
+          "melhor_oferta": "2.184,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "7601000006 Alto-contraste Com Toque e Sinta - Palavras:Alto- contraste Com Toque e Sinta - Palavras",
+              "unidade": "Und.",
+              "quantidade": "140,00",
+              "valor_referencia": "28,01"
+            }
+          ]
+        },
+        {
+          "numero": "8",
+          "titulo": "7601000007 Barulhinhos do sítio:Toque, brinque e escute! Livro cartonado - Livro interativo, 1 abril 2018 Edição Português por Sam Taplin (Autor)",
+          "fase": "FRACASSADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "3.292,80",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "7601000007 Barulhinhos do sítio:Toque, brinque e escute! Livro cartonado - Livro interativo, 1 abril 2018 Edição Português por Sam Taplin (Autor)",
+              "unidade": "Und.",
+              "quantidade": "28,00",
+              "valor_referencia": "117,60"
+            }
+          ]
+        },
+        {
+          "numero": "9",
+          "titulo": "7601000008 Barulhinhos da floresta:Toque, brinque e escute! Capa dura - Livro com som, 1 dezembro 2018 Edição Português por Usborne Publishing (Autor)",
+          "fase": "FRACASSADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "3.417,96",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "7601000008 Barulhinhos da floresta:Toque, brinque e escute! Capa dura - Livro com som, 1 dezembro 2018 Edição Português por Usborne Publishing (Autor)",
+              "unidade": "Und.",
+              "quantidade": "28,00",
+              "valor_referencia": "122,07"
+            }
+          ]
+        },
+        {
+          "numero": "10",
+          "titulo": "7601000009 Barulhinhos dos filhotes! toque, brinque e escute! Capa dura   24 setembro 2024 por Lesley Sims (Autor):Barulhinhos dos filhotes! toque, brinque e escute! Capa dura - 24 setembro 2024 por Lesley Sims (Autor)",
+          "fase": "HABILITAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "3.253,32",
+          "vencedor": "LISBOA DISTRIBUIDORA DE LIVROS",
+          "melhor_oferta": "3.077,20",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "7601000009 Barulhinhos dos filhotes! toque, brinque e escute! Capa dura 24 setembro 2024 por Lesley Sims (Autor):Barulhinhos dos filhotes! toque, brinque e escute! Capa dura - 24 setembro 2024 por Lesley Sims (Autor)",
+              "unidade": "Und.",
+              "quantidade": "28,00",
+              "valor_referencia": "116,19"
+            }
+          ]
+        },
+        {
+          "numero": "11",
+          "titulo": "7601000010 Não é sua, é minha! Capa comum   3 fevereiro 2014 Edição Português por Susanna Moores:Não é sua, é minha!Capa comum - 3 fevereiro 2014 Edição Português por Susanna Moores",
+          "fase": "HABILITAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "8.978,20",
+          "vencedor": "AQUARELA EDITORA E DISTRIBUIDORA LTDA",
+          "melhor_oferta": "6.634,60",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "7601000010 Não é sua, é minha! Capa comum 3 fevereiro 2014 Edição Português por Susanna Moores:Não é sua, é minha!Capa comum - 3 fevereiro 2014 Edição Português por Susanna Moores",
+              "unidade": "Und.",
+              "quantidade": "140,00",
+              "valor_referencia": "64,13"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-118-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "845 / 2026",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "RECEPÇÃO DE PROPOSTAS",
+      "condutor": "SERGIO CARNEIRO CAVALCANTI DE AZEVEDO",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "REGISTRO DE PREÇO",
+      "publicacao": "24/07/2026 11:18",
+      "inicio_recepcao": "26/08/2026 08:00",
+      "fim_recepcao": "10/09/2026 08:15",
+      "inicio_disputa": "10/09/2026 08:30",
+      "objeto": "Contratação de empresa especializada em prestação de serviço de ELABORAÇÃO DE PROJETOS, CONFECÇÃO, MONTAGEM E INSTALAÇÃO DE MOBILIÁRIOS PLANEJADOS, a fim de atender as demandas da Secretaria Municipal de Educação.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DVvfWFpDk8o_x9gpBTpmf0uNf30CfV8uL4ZGSzRDPO9o1XHxenCWkrdaCgCl8_B_Hu5kk2tcMWzQXbHIgIkvvoFHL0IJLv7g2Q0RUyhbasco%3D",
+      "total_lotes": 1,
+      "total_itens": 2,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "MOVEIS PLANEJADOS",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 2,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9903312127 Mobiliário Planejado sob medida (FECHADO), incluindo confecção, montagem e instalação no local, compreendendo a elaboração de projeto, matéria-prima e todos os custos para o fornecimento do mesmo:A madeira utilizada dever· ser de MDF com 15 mm para parte interna dos móveis, parte externa com tamponamento de 30 mm de espessura; profundidade mínima de 500 mm; pés niveladores em borracha ou rodas rodízio para móveis; os móveis deverão ter acabamento com fita de borda na cor do móvel, colada pelo sistema \"hot melt\"; puxadores integrais em alumínio com acabamento; corrediças telescópicas; pés em MDF; fundo com 6 mm; dobradiças tipo caneco (35 mm) niqueladas com amortecimento; as cores serão definidas pelo órgão solicitante, podendo ser em tons claros ou escuros. Ficará a cargo da futura contratada apresentar projeto em 2D e 3D com detalhamento estrutural para aprovação prévia da Administração, podendo ser solicitadas alterações para adequação às demandas da Secretaria Municipal de Educação.",
+              "unidade": "m2.",
+              "quantidade": "4.000,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "2",
+              "especificacao": "9903312128 Mobiliário Planejado sob medida (ABERTO), incluindo confecção, montagem e instalação no local, compreendendo a elaboração de projeto, matéria-prima e todos os custos para o fornecimento do mesmo:A madeira utilizada deverá ser de MDF com 15mm para parte interna dos móveis, parte externa com tamponamento de 30 mm de espessura; profundidade mínima de 200 mm; pés niveladores em borracha; os móveis deverão ter acabamento com fita de borda na cor do móvel, colada pelo sistema \"hot melt\"; fundo com 6 mm; as cores serão definidas pelo órgão solicitante, podendo ser em tons claros ou escuros. Ficar· a cargo da futura contratada apresentar projeto em 2D e 3D com detalhamento estrutural para aprovação prévia da Administração, podendo ser solicitadas alterações para adequação às demandas da Secretaria Municipal de Educação.",
+              "unidade": "m2.",
+              "quantidade": "2.500,00",
+              "valor_referencia": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-105-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "588 / 2026",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "ADJUDICADO",
+      "condutor": "SERGIO CARNEIRO CAVALCANTI DE AZEVEDO",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "REGISTRO DE PREÇO",
+      "publicacao": "07/07/2026 14:13",
+      "inicio_recepcao": "09/07/2026 08:30",
+      "fim_recepcao": "21/07/2026 08:15",
+      "inicio_disputa": "21/07/2026 08:30",
+      "objeto": "Contratação de empresa especializada em fornecimento de AGREGADOS PARA CONSTRUÇÃO CIVIL, a fim de atender as demandas da Secretaria Municipal de Infraestrutura e Serviços Urbanos.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DeDe4UReNUFPmP5fda96xfqbiqwd2mdm1XoWMxpMuV7CPMcLMV0I4zaTk%2F_q0G7iAhp5HseFf3JMvKdvM6Y7kYBB4GIvGYugrvtWS1KaE56M%3D",
+      "total_lotes": 14,
+      "total_itens": 14,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "700110373 AREIA BRANCA:AREIA BRANCA.",
+          "fase": "HOMOLOGADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "721.260,00",
+          "vencedor": "COMAIS LTDA",
+          "melhor_oferta": "720.000,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "700110373 AREIA BRANCA:AREIA BRANCA.",
+              "unidade": "m3..",
+              "quantidade": "6.000,00",
+              "valor_referencia": "120,21"
+            }
+          ]
+        },
+        {
+          "numero": "2",
+          "titulo": "37605 AREIA BRANCA:AREIA BRANCA. COTA DE 25% RESERVADA A ME/EPP.",
+          "fase": "HOMOLOGADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "240.420,00",
+          "vencedor": "COMAIS LTDA",
+          "melhor_oferta": "240.000,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37605 AREIA BRANCA:AREIA BRANCA. COTA DE 25% RESERVADA A ME/EPP.",
+              "unidade": "m3..",
+              "quantidade": "2.000,00",
+              "valor_referencia": "120,21"
+            }
+          ]
+        },
+        {
+          "numero": "3",
+          "titulo": "700110374 AREIA PRETA:PARA CANTEIROS E JARDINS.",
+          "fase": "HOMOLOGADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "66.225,00",
+          "vencedor": "COMAIS LTDA",
+          "melhor_oferta": "66.000,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "700110374 AREIA PRETA:PARA CANTEIROS E JARDINS.",
+              "unidade": "m3..",
+              "quantidade": "750,00",
+              "valor_referencia": "88,30"
+            }
+          ]
+        },
+        {
+          "numero": "4",
+          "titulo": "700110380 AREIA PRETA:PARA CANTEIROS E JARDINS. COTA DE 25% RESERVADA A ME/EPP.",
+          "fase": "HOMOLOGADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "22.075,00",
+          "vencedor": "COMAIS LTDA",
+          "melhor_oferta": "22.000,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "700110380 AREIA PRETA:PARA CANTEIROS E JARDINS. COTA DE 25% RESERVADA A ME/EPP.",
+              "unidade": "m3..",
+              "quantidade": "250,00",
+              "valor_referencia": "88,30"
+            }
+          ]
+        },
+        {
+          "numero": "5",
+          "titulo": "700110375 AREIA LAVADA:AREIA LAVADA.",
+          "fase": "HOMOLOGADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "180.510,00",
+          "vencedor": "COMAIS LTDA",
+          "melhor_oferta": "180.000,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "700110375 AREIA LAVADA:AREIA LAVADA.",
+              "unidade": "m3..",
+              "quantidade": "1.500,00",
+              "valor_referencia": "120,34"
+            }
+          ]
+        },
+        {
+          "numero": "6",
+          "titulo": "700110381 AREIA LAVADA:AREIA LAVADA. COTA DE 25% RESERVADA A ME/EPP.",
+          "fase": "HOMOLOGADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "60.170,00",
+          "vencedor": "COMAIS LTDA",
+          "melhor_oferta": "60.000,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "700110381 AREIA LAVADA:AREIA LAVADA. COTA DE 25% RESERVADA A ME/EPP.",
+              "unidade": "m3..",
+              "quantidade": "500,00",
+              "valor_referencia": "120,34"
+            }
+          ]
+        },
+        {
+          "numero": "7",
+          "titulo": "700110376 BRITA 0:BRITA 0.",
+          "fase": "HOMOLOGADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "142.048,08",
+          "vencedor": "COMAIS LTDA",
+          "melhor_oferta": "140.616,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "700110376 BRITA 0:BRITA 0.",
+              "unidade": "m3..",
+              "quantidade": "648,00",
+              "valor_referencia": "219,21"
+            }
+          ]
+        },
+        {
+          "numero": "8",
+          "titulo": "37606 BRITA 0:BRITA 0.  COTA DE 25% RESERVADA A ME/EPP.",
+          "fase": "HOMOLOGADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "47.349,36",
+          "vencedor": "COMAIS LTDA",
+          "melhor_oferta": "46.872,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37606 BRITA 0:BRITA 0. COTA DE 25% RESERVADA A ME/EPP.",
+              "unidade": "m3..",
+              "quantidade": "216,00",
+              "valor_referencia": "219,21"
+            }
+          ]
+        },
+        {
+          "numero": "9",
+          "titulo": "700110377 BRITA 1:BRITA 1.",
+          "fase": "ADJUDICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "75.066,42",
+          "vencedor": "MAWW SOLUÇÕES LTDA",
+          "melhor_oferta": "74.478,30",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "700110377 BRITA 1:BRITA 1.",
+              "unidade": "m3..",
+              "quantidade": "338,00",
+              "valor_referencia": "222,09"
+            }
+          ]
+        },
+        {
+          "numero": "10",
+          "titulo": "37607 BRITA 1:BRITA 1. COTA DE 25% RESERVADA A ME/EPP.",
+          "fase": "HOMOLOGADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "24.874,08",
+          "vencedor": "COMAIS LTDA",
+          "melhor_oferta": "24.416,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37607 BRITA 1:BRITA 1. COTA DE 25% RESERVADA A ME/EPP.",
+              "unidade": "m3..",
+              "quantidade": "112,00",
+              "valor_referencia": "222,09"
+            }
+          ]
+        },
+        {
+          "numero": "11",
+          "titulo": "700110378 PEDRA MARROADA:PEDRA MARROADA.",
+          "fase": "HOMOLOGADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "94.567,50",
+          "vencedor": "COMAIS LTDA",
+          "melhor_oferta": "93.600,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "700110378 PEDRA MARROADA:PEDRA MARROADA.",
+              "unidade": "m3..",
+              "quantidade": "450,00",
+              "valor_referencia": "210,15"
+            }
+          ]
+        },
+        {
+          "numero": "12",
+          "titulo": "700110382 PEDRA MARROADA:PEDRA MARROADA. COTA DE 25% RESERVADA A ME/EPP.",
+          "fase": "HOMOLOGADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "31.522,50",
+          "vencedor": "COMAIS LTDA",
+          "melhor_oferta": "31.200,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "700110382 PEDRA MARROADA:PEDRA MARROADA. COTA DE 25% RESERVADA A ME/EPP.",
+              "unidade": "m3..",
+              "quantidade": "150,00",
+              "valor_referencia": "210,15"
+            }
+          ]
+        },
+        {
+          "numero": "13",
+          "titulo": "700110379 PÓ DE PEDRA MOIDA:PÓ DE PEDRA MOIDA.",
+          "fase": "ADJUDICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "200.893,50",
+          "vencedor": "MAWW SOLUÇÕES LTDA",
+          "melhor_oferta": "192.130,50",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "700110379 PÓ DE PEDRA MOIDA:PÓ DE PEDRA MOIDA.",
+              "unidade": "m3..",
+              "quantidade": "1.725,00",
+              "valor_referencia": "116,46"
+            }
+          ]
+        },
+        {
+          "numero": "14",
+          "titulo": "700110383 PÓ DE PEDRA MOIDA:PÓ DE PEDRA MOIDA. COTA DE 25% RESERVADA A ME/EPP.",
+          "fase": "ADJUDICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "66.964,50",
+          "vencedor": "MAWW SOLUÇÕES LTDA",
+          "melhor_oferta": "64.043,50",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "700110383 PÓ DE PEDRA MOIDA:PÓ DE PEDRA MOIDA. COTA DE 25% RESERVADA A ME/EPP.",
+              "unidade": "m3..",
+              "quantidade": "575,00",
+              "valor_referencia": "116,46"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "CD-005-2025",
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "758/2025",
       "modalidade": "CREDENCIAMENTO",
-      "situacao": "SUSPENSO",
+      "situacao": "EM FINALIZAÇÃO",
       "condutor": "MAGDA DE SELES GUIMARÃES",
       "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
       "tipo_contrato": "AQUISIÇÃO",
-      "publicacao": "03/06/2025 11:48",
+      "publicacao": "03/06/2025 16:35",
       "inicio_recepcao": "13/06/2025 08:00",
-      "fim_recepcao": "15/06/2026 00:00",
+      "fim_recepcao": "15/06/2026 08:00",
       "inicio_disputa": "",
-      "objeto": "Credenciamento de pessoa jurídica para PRESTAÇÃO DE SERVIÇOS\n MÉDICOS ESPECIALIZADOS EM ANÁLISE PATOLÓGICA para atender as demandas da\n Secretaria Municipal de Saúde.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DRPo4ptY2ok%2Fx0M%2Fhj%2FOwMsaIF23_4QfWe_JllGoP_oTC6P6xJ5TvNMfVQT3e9PrMD2f59mMcEieLcpb5PwXkH%2FPYzbcaFsYPE0NszTOa9Qg%3D",
-      "total_lotes": 9,
-      "total_itens": 9,
+      "objeto": "CREDENCIAMENTO DE PESSOA JURÍDICA PARA PRESTAÇÃO DE SERVIÇOS MÉDICOS ESPECIALIZADOS EM ANÁLISE PATOLÓGICA PARA ATENDER AS DEMANDAS DA SECRETARIA MUNICIPAL DE SAÚDE",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DmtzI%2FeJ%2FpkAlr7aG0LZ_ccZBaJJSgjMftYdEAAqMNvjONLO%2FD646sEt%2FQ6tsonB6E_MVXZvB6jTFFl4svYDkouz7W6e0ks7TQ9HdycnyZ4M%3D",
+      "total_lotes": 6,
+      "total_itens": 6,
       "lotes": [
         {
           "numero": "1",
-          "titulo": "33436 BIÓPSIA SIMPLES:BIÓPSIA SIMPLES",
-          "fase": "SUSPENSO",
+          "titulo": "33436 BIÓPSIA SIMPLES",
+          "fase": "HABILITAÇÃO",
           "tipo": "UNITÁRIO",
           "quantidade": "1",
           "intervalo_minimo": "0,00",
           "exclusivo_me": "NÃO",
-          "local_entrega": "",
-          "garantia": "",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
           "valor_referencia": "60,19",
           "vencedor": "",
           "melhor_oferta": "0,00",
@@ -294638,45 +294638,21 @@
               "numero": "1",
               "especificacao": "33436 BIÓPSIA SIMPLES:BIÓPSIA SIMPLES",
               "unidade": "SERV",
-              "quantidade": "1.875,00",
+              "quantidade": "2.500,00",
               "valor_referencia": "60,19"
             }
           ]
         },
         {
           "numero": "2",
-          "titulo": "909911235 BIOPSIA SIMPLES:BIÓPSIA SIMPLES. COTA DE 25% RESERVADA PARA  ME/EPP.",
-          "fase": "SUSPENSO",
+          "titulo": "9903311392 CITOLOGIA EM MEIO LIQUIDO",
+          "fase": "HABILITAÇÃO",
           "tipo": "UNITÁRIO",
           "quantidade": "1",
           "intervalo_minimo": "0,00",
-          "exclusivo_me": "SIM",
-          "local_entrega": "",
-          "garantia": "",
-          "valor_referencia": "60,19",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "909911235 BIOPSIA SIMPLES:BIÓPSIA SIMPLES. COTA DE 25% RESERVADA PARA ME/EPP.",
-              "unidade": "SERV",
-              "quantidade": "625,00",
-              "valor_referencia": "60,19"
-            }
-          ]
-        },
-        {
-          "numero": "3",
-          "titulo": "9903311392 CITOLOGIA EM MEIO LIQUIDO - BRONQUIO: CITOLOGIA EM MEIO LIQUIDO - BRONQUIO EXCLUSIVO PARA ME/EPP",
-          "fase": "SUSPENSO",
-          "tipo": "UNITÁRIO",
-          "quantidade": "1",
-          "intervalo_minimo": "0,00",
-          "exclusivo_me": "SIM",
-          "local_entrega": "",
-          "garantia": "",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
           "valor_referencia": "62,25",
           "vencedor": "",
           "melhor_oferta": "0,00",
@@ -294684,7 +294660,7 @@
           "itens": [
             {
               "numero": "1",
-              "especificacao": "CITOLOGIA EM MEIO LIQUIDO - BRONQUIO: CITOLOGIA EM MEIO LIQUIDO - BRONQUIO EXCLUSIVO PARA ME/EPP",
+              "especificacao": "9903311392 CITOLOGIA EM MEIO LIQUIDO - BRONQUIO:CITOLOGIA EM MEIO LIQUIDO - BRONQUIO.",
               "unidade": "SERV",
               "quantidade": "100,00",
               "valor_referencia": "62,25"
@@ -294692,15 +294668,15 @@
           ]
         },
         {
-          "numero": "4",
-          "titulo": "9903311373 COLORAÇÃO ESPECIAL:Marcação da biópsia por corantes especiais. EXCLUSIVO PARA ME/EPP",
-          "fase": "SUSPENSO",
+          "numero": "3",
+          "titulo": "9903311373 COLORAÇÃO ESPECIAL",
+          "fase": "HABILITAÇÃO",
           "tipo": "UNITÁRIO",
           "quantidade": "1",
           "intervalo_minimo": "0,00",
-          "exclusivo_me": "SIM",
-          "local_entrega": "",
-          "garantia": "",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
           "valor_referencia": "33,65",
           "vencedor": "",
           "melhor_oferta": "0,00",
@@ -294708,7 +294684,7 @@
           "itens": [
             {
               "numero": "1",
-              "especificacao": "9903311373 COLORAÇÃO ESPECIAL:Marcação da biópsia por corantes especiais. EXCLUSIVO PARA ME/EPP",
+              "especificacao": "9903311373 COLORAÇÃO ESPECIAL: Marcação da biópsia por corantes especiais.",
               "unidade": "SERV",
               "quantidade": "50,00",
               "valor_referencia": "33,65"
@@ -294716,15 +294692,15 @@
           ]
         },
         {
-          "numero": "5",
-          "titulo": "9903311378 CORE BYOPSY:CORE BYOPSY. EXCLUSIVO PARA ME/EPP",
-          "fase": "SUSPENSO",
+          "numero": "4",
+          "titulo": "9903311378 CORE BYOPSY",
+          "fase": "HABILITAÇÃO",
           "tipo": "UNITÁRIO",
           "quantidade": "1",
           "intervalo_minimo": "0,00",
-          "exclusivo_me": "SIM",
-          "local_entrega": "",
-          "garantia": "",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
           "valor_referencia": "68,46",
           "vencedor": "",
           "melhor_oferta": "0,00",
@@ -294732,7 +294708,7 @@
           "itens": [
             {
               "numero": "1",
-              "especificacao": "9903311378 CORE BYOPSY:CORE BYOPSY. EXCLUSIVO PARA ME/EPP",
+              "especificacao": "9903311378 CORE BYOPSY:CORE BYOPSY.",
               "unidade": "SERV",
               "quantidade": "100,00",
               "valor_referencia": "68,46"
@@ -294740,15 +294716,15 @@
           ]
         },
         {
-          "numero": "6",
-          "titulo": "33437 PEÇA CIRÚRGICA SIMPLES:PEÇA CIRÚRGICA SIMPLES",
-          "fase": "SUSPENSO",
+          "numero": "5",
+          "titulo": "33437 PEÇA CIRÚRGICA SIMPLES",
+          "fase": "HABILITAÇÃO",
           "tipo": "UNITÁRIO",
           "quantidade": "1",
           "intervalo_minimo": "0,00",
           "exclusivo_me": "NÃO",
-          "local_entrega": "",
-          "garantia": "",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
           "valor_referencia": "75,00",
           "vencedor": "",
           "melhor_oferta": "0,00",
@@ -294758,45 +294734,21 @@
               "numero": "1",
               "especificacao": "33437 PEÇA CIRÚRGICA SIMPLES:PEÇA CIRÚRGICA SIMPLES",
               "unidade": "SERV",
-              "quantidade": "1.875,00",
+              "quantidade": "2.500,00",
               "valor_referencia": "75,00"
             }
           ]
         },
         {
-          "numero": "7",
-          "titulo": "9909911236 PEÇA CIRURGICA SIMPLES:PEÇA CIRURGICA SIMPLES. COTA DE 25% RESERVADA PARA ME/EPP",
-          "fase": "SUSPENSO",
-          "tipo": "UNITÁRIO",
-          "quantidade": "1",
-          "intervalo_minimo": "0,00",
-          "exclusivo_me": "SIM",
-          "local_entrega": "",
-          "garantia": "",
-          "valor_referencia": "75,00",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9909911236 PEÇA CIRURGICA SIMPLES:PEÇA CIRURGICA SIMPLES. COTA DE 25% RESERVADA PARA ME/EPP",
-              "unidade": "SERV",
-              "quantidade": "625,00",
-              "valor_referencia": "75,00"
-            }
-          ]
-        },
-        {
-          "numero": "8",
-          "titulo": "9903311384 PEÇA CIRÚRGICA COMPLEXA:PEÇA CIRÚRGICA COMPLEXA",
-          "fase": "SUSPENSO",
+          "numero": "6",
+          "titulo": "9903311384 PEÇA CIRÚRGICA COMPLEXA",
+          "fase": "HABILITAÇÃO",
           "tipo": "UNITÁRIO",
           "quantidade": "1",
           "intervalo_minimo": "0,00",
           "exclusivo_me": "NÃO",
-          "local_entrega": "",
-          "garantia": "",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
           "valor_referencia": "243,42",
           "vencedor": "",
           "melhor_oferta": "0,00",
@@ -294806,31 +294758,7 @@
               "numero": "1",
               "especificacao": "9903311384 PEÇA CIRÚRGICA COMPLEXA:PEÇA CIRÚRGICA COMPLEXA",
               "unidade": "UN",
-              "quantidade": "1.125,00",
-              "valor_referencia": "243,42"
-            }
-          ]
-        },
-        {
-          "numero": "9",
-          "titulo": "9909911237 PEÇA CIRURGICA COMPLEXA:PEÇA CIRURGICA COMPLEXA. COTA DE  25%  RESERVADA PARA ME/EPP.",
-          "fase": "SUSPENSO",
-          "tipo": "UNITÁRIO",
-          "quantidade": "1",
-          "intervalo_minimo": "0,00",
-          "exclusivo_me": "SIM",
-          "local_entrega": "",
-          "garantia": "",
-          "valor_referencia": "243,42",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9909911237 PEÇA CIRURGICA COMPLEXA:PEÇA CIRURGICA COMPLEXA. COTA DE 25% RESERVADA PARA ME/EPP.",
-              "unidade": "SERV",
-              "quantidade": "375,00",
+              "quantidade": "1.500,00",
               "valor_referencia": "243,42"
             }
           ]
@@ -294842,38 +294770,38 @@
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "705/2024",
       "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "HOMOLOGADO",
-      "condutor": "MAGDA DE SELES GUIMARÃES",
+      "situacao": "SUSPENSO",
+      "condutor": "VICTOR KINIDEL DETHLING",
       "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
       "tipo_contrato": "AQUISIÇÃO",
-      "publicacao": "13/06/2024 18:49",
-      "inicio_recepcao": "14/06/2024 08:00",
-      "fim_recepcao": "10/07/2024 13:45",
-      "inicio_disputa": "10/07/2024 14:00",
-      "objeto": "O objeto da presente licitação é a contratação de INSTITUIÇÃO FINANCEIRA ESPECIALIZADA NA PRESTAÇÃO DE SERVIÇOS BANCÁRIOS PARA CENTRALIZAÇÃO, GERENCIAMENTO E PROCESSAMENTO DE CRÉDITOS DA FOLHA DE PAGAMENTO DOS SERVIDORES, a fim de atender as demandas da Secretaria Municipal de Administração, conforme condições, quantidades e especificações no Edital, Termo de Referência e seus Anexos.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DSiAz7oG5if13BlRA39ZlQUC93cqt5ZtT4%2FdE7XDJSWt0xiwHlPl6nuoICNNNS2RPdGuJKZS4kPSzRAZUWHJUP_EUUrpRwG3_SKgy7NndnAE%3D",
+      "publicacao": "15/05/2024 18:26",
+      "inicio_recepcao": "16/05/2024 08:00",
+      "fim_recepcao": "12/06/2024 09:45",
+      "inicio_disputa": "12/06/2024 10:00",
+      "objeto": "Contratação de instituição financeira para prestação de serviços bancários para centralização, gerenciamento e processamento de créditos da folha de pagamento dos servidores, a fim de atender as demandas da Prefeitura de Teixeira de Freitas, conforme condições, quantidades e especificações no Edital, Termo de Referência e seus Anexos.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DyHn1oN8P1udjPj0b2jm82z8mvW%2FZeoTtVb6XXbC8xUZ2fmihdCZ31q0xyaoConbtZABTUMHYUiELLCJ4kFMTzkVSq48GhdGzj4UByqNJ5f8%3D",
       "total_lotes": 1,
       "total_itens": 1,
       "lotes": [
         {
           "numero": "1",
-          "titulo": "SERVIÇOS BANCÁRIOS",
-          "fase": "HOMOLOGADO",
-          "tipo": "GLOBAL",
+          "titulo": "LOTE 01",
+          "fase": "SUSPENSO",
+          "tipo": "UNITÁRIO",
           "quantidade": "1",
-          "intervalo_minimo": "0,01",
+          "intervalo_minimo": "100,00",
           "exclusivo_me": "NÃO",
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "6.052.150,00",
-          "vencedor": "ITAÚ UNIBANCO S.A.",
-          "melhor_oferta": "6.053.000,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
           "total_itens": 1,
           "itens": [
             {
               "numero": "1",
               "especificacao": "CONTRATAÇÃO DE INSTITUIÇÃO FINANCEIRA: ESPECIALIZADA NA PRESTAÇÃO DE SERVIÇOS BANCÁRIOS PARA CENTRALIZAÇÃO, GERENCIAMENTO E PROCESSAMENTO DE CRÉDITOS DA FOLHA DE PAGAMENTO DOS SERVIDORES DA PREFEITURA MUNICIPAL DE TEIXEIRA DE FREITAS/BA.",
-              "unidade": "UN",
+              "unidade": "SERVIÇO",
               "quantidade": "1,00",
               "valor_referencia": "6.052.150,00"
             }
