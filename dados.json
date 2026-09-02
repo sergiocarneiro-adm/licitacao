@@ -4,7 +4,7 @@
     "total_processos": 890,
     "total_lotes": 9888,
     "total_itens": 16433,
-    "atualizado_em": "20260901_152310"
+    "atualizado_em": "20260901_200528"
   },
   "processos": [
     {
@@ -257606,7 +257606,7 @@
         {
           "numero": "1",
           "titulo": "LOCAÇÃO DE EQUIPAMENTOS DE IMPRESSÃO E CÓPIA",
-          "fase": "INTERPOSIÇÃO DE RECURSOS",
+          "fase": "RECEPÇÃO DE CONTRARRAZÕES",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -268186,7 +268186,7 @@
       "publicacao": "03/06/2026 16:22",
       "inicio_recepcao": "05/06/2026 08:00",
       "fim_recepcao": "14/07/2026 08:15",
-      "inicio_disputa": "31/08/2026 17:20",
+      "inicio_disputa": "02/09/2026 17:20",
       "objeto": "Contratação de empresa especializada em execução de obras de construção de um Centro Educacional, com quadra coberta, localizado no bairro Jerusalém, no município de Teixeira de Freitas – BA.",
       "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5D7LZabRr7rQrtf24kB14UjYZu8E%2FND799QlWXVrnZLiF2li4grnVHSzAf9Wode1Mwxo0Z_qUGfMaq1gnCu7rM9xssjgDyHH5lKW%2F0ol7Q2yU%3D",
       "total_lotes": 1,
@@ -268537,7 +268537,7 @@
       "publicacao": "03/06/2026 17:18",
       "inicio_recepcao": "05/06/2026 08:00",
       "fim_recepcao": "15/07/2026 08:15",
-      "inicio_disputa": "31/08/2026 17:20",
+      "inicio_disputa": "02/09/2026 17:20",
       "objeto": "Contratação de empresa especializada em execução de obras de construção de um Centro Educacional, com piscina anexa, localizado no bairro Caminho do Mar, no município de Teixeira de Freitas – BA.",
       "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DL%2FrR5dAaiUsY6jb7mFKba8PCKLawFAXnjNy8Ff3_s5NPy49w1db1RxuZqR2ZbCqTT2KNWtFQz3IpK_j95JByrIj%2Flk0I_LaItNBPnTmZyRk%3D",
       "total_lotes": 1,
@@ -284925,7 +284925,7 @@
         {
           "numero": "1",
           "titulo": "37705 Par de traves oficiais para futsal:com medidas internas de 3,00 m x 2,00 m, em conformidade com as regras oficiais vigentes da modalidade. Estrutura confeccionada em tubo de aço galvanizado de diâmetro mínimo de 75 mm (3\"), espessura mínima de 2 mm,",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -285189,7 +285189,7 @@
         {
           "numero": "12",
           "titulo": "9907000152 Bomba de ar manual para enchimento de bolas esportivas:fabricada em material resistente a impactos e ao uso contínuo, adequada para enchimento de bolas de futsal, futebol, basquete, voleibol, handebol e modalidades similares. Deverá possuir sis",
-          "fase": "EM ADJUDICAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -285333,8 +285333,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "3.424,20",
-          "vencedor": "VL - LOJA DE VARIEDADES",
-          "melhor_oferta": "2.598,99",
+          "vencedor": "64.387.196 BRUNA MELRO FRANCO",
+          "melhor_oferta": "3.377,70",
           "total_itens": 1,
           "itens": [
             {
@@ -285349,7 +285349,7 @@
         {
           "numero": "2",
           "titulo": "CONE",
-          "fase": "JULGAMENTO",
+          "fase": "HABILITAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,00",
@@ -285373,7 +285373,7 @@
         {
           "numero": "3",
           "titulo": "KIMONO JUDÔ A1",
-          "fase": "JULGAMENTO",
+          "fase": "HABILITAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,00",
@@ -285397,7 +285397,7 @@
         {
           "numero": "4",
           "titulo": "303,10",
-          "fase": "JULGAMENTO",
+          "fase": "HABILITAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,00",
@@ -285421,7 +285421,7 @@
         {
           "numero": "5",
           "titulo": "KIMONO JUDÔ M2",
-          "fase": "JULGAMENTO",
+          "fase": "HABILITAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,00",
@@ -285445,7 +285445,7 @@
         {
           "numero": "6",
           "titulo": "KIMONO JUDÔ M3",
-          "fase": "JULGAMENTO",
+          "fase": "HABILITAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,00",
@@ -285469,7 +285469,7 @@
         {
           "numero": "7",
           "titulo": "KIMONO JUDÔ M4",
-          "fase": "JULGAMENTO",
+          "fase": "HABILITAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,00",
@@ -285493,7 +285493,7 @@
         {
           "numero": "8",
           "titulo": "MINI CONE PEQUENO",
-          "fase": "JULGAMENTO",
+          "fase": "HABILITAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,00",
@@ -285517,7 +285517,7 @@
         {
           "numero": "9",
           "titulo": "REDE DE FUTEBOL TIPO VÉU DE CAMPO",
-          "fase": "JULGAMENTO",
+          "fase": "HABILITAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,00",
@@ -285565,7 +285565,7 @@
         {
           "numero": "11",
           "titulo": "TATAME EM EVA",
-          "fase": "JULGAMENTO",
+          "fase": "HABILITAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,00",
@@ -286822,7 +286822,7 @@
       "publicacao": "03/06/2026 15:51",
       "inicio_recepcao": "14/07/2026 08:00",
       "fim_recepcao": "18/08/2026 08:15",
-      "inicio_disputa": "31/08/2026 17:20",
+      "inicio_disputa": "02/09/2026 17:20",
       "objeto": "Contratação de empresa especializada em execução de obras de construção de uma escola de tempo integral de educação fundamental, no bairro Liberdade Sul, do município de Teixeira de Freitas – BA.",
       "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5Dz_097IFSD3vnpQprEvsxfBnlAAc4fmFAXt4pQd4%2FWcYw%2FrEKQSfbBnnfDI356uTEl6YDD2xyx_WUMMMgRKVJ5X6U4P4I3ZXUHtn01t6bxak%3D",
       "total_lotes": 1,
@@ -289235,8 +289235,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "4.858,00",
-          "vencedor": "COSTA COMERCIO DE MAQUINAS E EQUIPAMENTOS LTDA",
-          "melhor_oferta": "4.165,00",
+          "vencedor": "POLI COMERCIAL LTDA",
+          "melhor_oferta": "4.855,00",
           "total_itens": 1,
           "itens": [
             {
@@ -289667,8 +289667,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "392.660,00",
-          "vencedor": "COSTA COMERCIO DE MAQUINAS E EQUIPAMENTOS LTDA",
-          "melhor_oferta": "270.000,00",
+          "vencedor": "METDATA TECNOLOGIA DA INFORMACAO EIRELI",
+          "melhor_oferta": "314.896,00",
           "total_itens": 1,
           "itens": [
             {
@@ -289691,8 +289691,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "12.276,00",
-          "vencedor": "DIXAM COMÉRCIO E SERVIÇOS LTDA",
-          "melhor_oferta": "6.400,00",
+          "vencedor": "POLI COMERCIAL LTDA",
+          "melhor_oferta": "7.980,00",
           "total_itens": 1,
           "itens": [
             {
@@ -289803,7 +289803,7 @@
         {
           "numero": "27",
           "titulo": "9900515940 PLACA-MÃE LGA 1200   10ª GERAÇÃO:Placa-mãe padrão Micro-ATX, compatível com processadores Intel de 10ª e 11ª geração, soquete LGA 1200 e chipset Intel B560.Deverá possuir suporte para memória DDR4 em até 128 GB, frequência mínima de 3200 MHz",
-          "fase": "JULGAMENTO",
+          "fase": "HABILITAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -290015,7 +290015,7 @@
         {
           "numero": "1",
           "titulo": "9900515876 CAIXA DE CABO DE REDE 100% COBRECAT5E::Características Técnicas- Categoria: CAT.5e;- Construção: U/UTP - 4 pares trançados compostos de condutores sólidos de cobre nu, 24 AWG, isoladosem polietileno especial;- Cor padrão: Azul claro;- Cap",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -290039,7 +290039,7 @@
         {
           "numero": "2",
           "titulo": "9900515877 BANDEJA PARA RACK:Bandeja fixa de 19polegadas, 1U de altura e 400mm. Tipo de fixação: Frontal sobre auxilio de porcas do tipo gaiola ventilado que promove melhor circulação de ar",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -290063,7 +290063,7 @@
         {
           "numero": "3",
           "titulo": "9900515878 ACCESS POINT UBIQUITI UNIFI WI-FI 7 U7-PRO:Dimensões: Ø206 x 46 mm (Ø8,1 x 1,8\") Standard WiFi: WiFi 7Área de Cobertura: 140 m² (1.500 ft²) Contagem Máxima de Clientes: +300 Uplink: 2,5 GbEMontagem: Teto, Parede (Pro Mount Incluído) Método d",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -290135,7 +290135,7 @@
         {
           "numero": "6",
           "titulo": "9900515881 PATCH CORD CAT5E 1,5 M AZUL:InformaçõesTécnicas Modelo: FlexívelTemperatura máxima de trabalho: 80°C Categoria: 5e (CAT5e)Cor: AZULComprimento: 1,5M Homologação: AnatelTransmissão de até 1000 Mbps e limite desempenho 100 MhzModelo de refe",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -290183,7 +290183,7 @@
         {
           "numero": "8",
           "titulo": "5707611204 SWICTH24 PORTASGERENCIÁVEL::Especificações Técnicas:- Interface. 24× Portas RJ45 de 10/100/1000 Mbps- 4× Slots SFP Gigabit - 1× Porta de Console RJ45- 1× Porta de Console Micro-USB- Fonte de Alimentação 100-240 V AC~50/60 Hz- Dimensões (L",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -290874,7 +290874,7 @@
         {
           "numero": "1",
           "titulo": "36528 COMPRESSOR DE AR INDUSTRIAL, vaso de 200Litros:Para 03-04 consultórios Reservatório de 200 litros, Pressão máx. de Operação de 120, 02 cabeçotes, com baixo Nível de Ruído (55 a 60 db), Pintura Interna e externa, com Regulador de Pressão e acionamen",
-          "fase": "HABILITAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -290882,8 +290882,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "7.630,99",
-          "vencedor": "MP COMERCIO VAREJISTA LTDA",
-          "melhor_oferta": "7.000,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
           "total_itens": 1,
           "itens": [
             {
@@ -291789,7 +291789,7 @@
         {
           "numero": "4",
           "titulo": "7601000004 Neurodiversidade Clássicos:João e o Pé de Feijão",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -291813,7 +291813,7 @@
         {
           "numero": "5",
           "titulo": "37695 Escolinha Baby Montessori - Contrastes!:Animais Capa dura - Livro de fotos, 1 agosto 2022",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -291837,7 +291837,7 @@
         {
           "numero": "6",
           "titulo": "7601000005 Escolinha Baby Montessori - Contrastes!:Grande ou Pequeno? Capa dura - Livro de fotos, 1 agosto 2022",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -291933,7 +291933,7 @@
         {
           "numero": "10",
           "titulo": "7601000009 Barulhinhos dos filhotes! toque, brinque e escute! Capa dura   24 setembro 2024 por Lesley Sims (Autor):Barulhinhos dos filhotes! toque, brinque e escute! Capa dura - 24 setembro 2024 por Lesley Sims (Autor)",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -292568,7 +292568,7 @@
         {
           "numero": "1",
           "titulo": "9908411210 Equipamento de iluminação profissional tipo Canhão Seguidor (Follow Spot):com fonte de luz em LED de potência mínima equivalente a 350 W, temperatura de cor compatível com aplicações cênicas, intensidade luminosa ajustável por dimmer eletrônico",
-          "fase": "HABILITAÇÃO",
+          "fase": "INTERPOSIÇÃO DE RECURSOS",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -292592,7 +292592,7 @@
         {
           "numero": "2",
           "titulo": "37687 Extensão elétrica portátil com comprimento de 20 metros:confeccionada com cabo flexível tipo PP ou tecnicamente equivalente, seção mínima de 3 x 2,5 mm², equipada com plugue e tomada padrão brasileiro NBR 14136, ambos de 20 A, tensão de até 250 V, d",
-          "fase": "HABILITAÇÃO",
+          "fase": "INTERPOSIÇÃO DE RECURSOS",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -292616,7 +292616,7 @@
         {
           "numero": "3",
           "titulo": "37688 Extensão elétrica portátil com comprimento de 30 metros:confeccionada com cabo flexível tipo PP ou tecnicamente equivalente, seção mínima de 3 x 2,5 mm², equipada com plugue e tomada padrão brasileiro NBR 14136, ambos de 20 A, tensão de até 250 V, d",
-          "fase": "HABILITAÇÃO",
+          "fase": "INTERPOSIÇÃO DE RECURSOS",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -292640,7 +292640,7 @@
         {
           "numero": "4",
           "titulo": "37689 Régua de distribuição elétrica portátil:destinada à alimentação simultânea de equipamentos elétricos, contendo 08 (oito) tomadas padrão brasileiro 2P+T, capacidade mínima de 20 A, tensão de até 250 V, equipada com cabo flexível tipo PP ou equivalent",
-          "fase": "HABILITAÇÃO",
+          "fase": "INTERPOSIÇÃO DE RECURSOS",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -292664,7 +292664,7 @@
         {
           "numero": "5",
           "titulo": "37690 Mesa controladora de iluminação profissional:destinada ao controle de equipamentos de iluminação cênica, compatível com protocolo DMX512, permitindo programação e armazenamento de cenas, efeitos e sequências (chases), contendo no mínimo 40 (quarenta",
-          "fase": "HABILITAÇÃO",
+          "fase": "INTERPOSIÇÃO DE RECURSOS",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -292688,7 +292688,7 @@
         {
           "numero": "6",
           "titulo": "37691 Par de pratos para bateria acústica profissional tipo Hi-Hat:diâmetro de 14 polegadas, confeccionados em liga B20, acabamento natural ou tradicional do fabricante, destinado à utilização profissional, devendo apresentar sonoridade  compatível com ap",
-          "fase": "HABILITAÇÃO",
+          "fase": "INTERPOSIÇÃO DE RECURSOS",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -293097,7 +293097,7 @@
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "644.989,50",
           "vencedor": "R.V. DE S. NOVAIS LTDA.",
-          "melhor_oferta": "595.000,00",
+          "melhor_oferta": "594.900,00",
           "total_itens": 1,
           "itens": [
             {
@@ -293145,7 +293145,7 @@
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "467.514,75",
           "vencedor": "R.V. DE S. NOVAIS LTDA.",
-          "melhor_oferta": "370.000,00",
+          "melhor_oferta": "369.975,00",
           "total_itens": 1,
           "itens": [
             {
@@ -293193,7 +293193,7 @@
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "299.589,57",
           "vencedor": "R.V. DE S. NOVAIS LTDA.",
-          "melhor_oferta": "181.000,00",
+          "melhor_oferta": "180.981,00",
           "total_itens": 1,
           "itens": [
             {
@@ -293217,7 +293217,7 @@
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "131.007,00",
           "vencedor": "R.V. DE S. NOVAIS LTDA.",
-          "melhor_oferta": "95.000,00",
+          "melhor_oferta": "94.992,00",
           "total_itens": 1,
           "itens": [
             {
@@ -293241,7 +293241,7 @@
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "676.983,00",
           "vencedor": "R.V. DE S. NOVAIS LTDA.",
-          "melhor_oferta": "560.000,00",
+          "melhor_oferta": "559.999,75",
           "total_itens": 1,
           "itens": [
             {
@@ -293254,8 +293254,8 @@
           ]
         },
         {
-          "numero": "7",
-          "titulo": "37723 NOTEBOOK DE DESEMPENHOINTERMEDIÁRIO:Processador de arquitetura x86-64, equivalente ou superior ao Intel Core 5 120U, Intel Core Ultra 5, Intel Core de 13ª geração ou AMD Ryzen 5 Série 7000, com vídeo gráfico integrado. Sistema Operacional: Microsof",
+          "numero": "8",
+          "titulo": "9900830617 NOTEBOOK DE DESEMPENHO BÁSICO::Processador de arquitetura x86-64, equivalente ou superior ao Intel Core i3 de 13ª geração ou AMD Ryzen 5 Série 7000, com vídeo gráfico integrado. Deverá possuir, no mínimo, 6 (seis) núcleos, 8 (oito) threads, 10",
           "fase": "JULGAMENTO",
           "tipo": "GLOBAL",
           "quantidade": "1",
@@ -293263,17 +293263,17 @@
           "exclusivo_me": "NÃO",
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
-          "valor_referencia": "676.983,00",
+          "valor_referencia": "81.397,23",
           "vencedor": "R.V. DE S. NOVAIS LTDA.",
-          "melhor_oferta": "560.000,00",
+          "melhor_oferta": "81.397,00",
           "total_itens": 1,
           "itens": [
             {
               "numero": "1",
-              "especificacao": "37723 NOTEBOOK DE DESEMPENHOINTERMEDIÁRIO:Processador de arquitetura x86-64, equivalente ou superior ao Intel Core 5 120U, Intel Core Ultra 5, Intel Core de 13ª geração ou AMD Ryzen 5 Série 7000, com vídeo gráfico integrado. Sistema Operacional: Microsoft Windows 11 Home ou Professional, 64 bits, em Português (Brasil). Placa de Vídeo: Controladora gráfica integrada ao processador.Memória RAM: Capacidade mínima de 16 GB DDR4 ou tecnologia superior. Armazenamento: Unidade de estado sólido (SSD) com capacidade mínima de 512 GB, interface NVMe PCI Express e padrão M.2. Tela: Resolução mínima Full HD (1920 x 1080), acabamento antirreflexo, brilho mínimo de 250 nits, taxa de atualização mínima de 120 Hz. Conectividade: Wi-Fi 6 (IEEE 802.11ax) ou superior e Bluetooth 5.1 ou superior. Portas: No mínimo, 1 (uma) porta USB 3.2 Type-C, 2 (duas) portas USB 3.2 Type-A, 1 (uma) porta HDMI 2.1 ou superior e 1 (um) conector combinado para fone de ouvido e microfone (P2). Garantia: Garantia mínima de 24 meses, contados a partir do recebimento definitivo do equipamento. Especificação Geral: Serão aceitos equipamentos com características técnicas iguais ou superiores às especificadas. Modelo de Referência: Notebook Dell Pro 15 Essential ou de equivalência técnica e de desempenho igual ou superior.",
+              "especificacao": "9900830617 NOTEBOOK DE DESEMPENHO BÁSICO::Processador de arquitetura x86-64, equivalente ou superior ao Intel Core i3 de 13ª geração ou AMD Ryzen 5 Série 7000, com vídeo gráfico integrado. Deverá possuir, no mínimo, 6 (seis) núcleos, 8 (oito) threads, 10 MB de memória cache e frequência Turbo mínima de 4,4 GHz. Memória RAM: Capacidade mínima de 8 GB DDR4 ou DDR5, expansível para, no mínimo, 32 GB. Armazenamento: SSD com capacidade mínima de 512 GB, interface NVMe PCI Express e padrão M.2. Tela de, no mínimo, 15,6 polegadas, tecnologia IPS ou superior, resolução mínima Full HD (1920 x 1080) e acabamento antirreflexo. Vídeo: Controladora gráfica integrada ao processador, com suporte à resolução 4K. Conectividade: Wi-Fi 6 (IEEE 802.11ax) ou superior e Bluetooth 5.2 ou superior. Portas: No mínimo, 3 (três) portas USB, sendo 2 (duas) USB 3.2, 1 (uma) USB Type-C, 1 (uma) saída HDMI e 1 (uma) entrada de áudio combinada (P2). Bateria: Bateria interna recarregável com autonomia mínima de 8 (oito) horas, conforme especificação do fabricante. Teclado: Padrão ABNT2, com teclado numérico integrado e resistência a respingos de líquidos. Webcam: Webcam integrada com resolução mínima Full HD (1080p), microfone digital e alto- falantes estéreo. Sistema Operacional: Microsoft Windows 11 Professional 64 bits OEM, em português (Brasil). Acessórios: Fonte de alimentação bivolt automática (100-240 V) e cabo de alimentação. Garantia mínima de 24 meses. Certificações: Certificação INMETRO, e atendimento às normas nacionais e internacionais de qualidade e segurança. Especificação Geral: Serão aceitos equipamentos com características técnicas iguais ou superiores às especificadas.",
               "unidade": "UND",
-              "quantidade": "113,00",
-              "valor_referencia": "5.991,00"
+              "quantidade": "23,00",
+              "valor_referencia": "3.539,01"
             }
           ]
         },
@@ -293289,7 +293289,7 @@
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "214.996,50",
           "vencedor": "R.V. DE S. NOVAIS LTDA.",
-          "melhor_oferta": "214.996,50",
+          "melhor_oferta": "214.950,00",
           "total_itens": 1,
           "itens": [
             {
@@ -293302,8 +293302,8 @@
           ]
         },
         {
-          "numero": "9",
-          "titulo": "9909911356 COMPUTADOR I3 16GB - SSD 480GB:PLACA-MÃE::Compatibilidade para processadores lançados a partir de 2024. Suporte a memória DDR4 com capacidade máxima de 128 GB, Dual Channel, frequência mínima de 3200 MHz. Possuir 1porta HDMI 1.4, 1 DisplayPor",
+          "numero": "10",
+          "titulo": "9909911357 COMPUTADOR I5 8GB - SSD 480GB: PLACA-MÃE:::Compatibilidade para processadores lançados a partir de 2024. Suporte a memória DDR4 com capacidade máxima de 128 GB, Dual Channel, frequência mínima de 3200 MHz. Possuir 1porta HDMI 1.4, 1 DisplayPo",
           "fase": "JULGAMENTO",
           "tipo": "GLOBAL",
           "quantidade": "1",
@@ -293311,17 +293311,17 @@
           "exclusivo_me": "SIM",
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
-          "valor_referencia": "214.996,50",
-          "vencedor": "R.V. DE S. NOVAIS LTDA.",
-          "melhor_oferta": "214.996,50",
+          "valor_referencia": "251.255,50",
+          "vencedor": "INOVA DIGITAL LTDA",
+          "melhor_oferta": "229.897,50",
           "total_itens": 1,
           "itens": [
             {
               "numero": "1",
-              "especificacao": "9909911356 COMPUTADOR I3 16GB - SSD 480GB:PLACA-MÃE::Compatibilidade para processadores lançados a partir de 2024. Suporte a memória DDR4 com capacidade máxima de 128 GB, Dual Channel, frequência mínima de 3200 MHz. Possuir 1porta HDMI 1.4, 1 DisplayPort e 1 VGA; 1 slot PCIe x16 e 2 slots PCIe x1; 2 slots M.2, sendo M.2_1 PCIe 4.0 x4 (2280/2260/2242) e M.2_2 PCIe 4.0 x4/SATA (2280/2260/2242); 4 conectores SATA 6 Gb/s com suporte a RAID 0, 1, 5 e 10. Disponibilizar 4portas USB 2.0 traseiras, 4 portas USB 2.0 frontais, 1 USB 3.2 Gen1 Type-A traseira, 2 USB 3.2 Gen1 Type-A frontais e 1 USB3.2 Gen2 . Possuir rede Gigabit LAN, áudio onboard 7.1 canais econectores internos ATX_PWR, CPU_PWR, CPU FAN, SYSTEM FAN, Front Panel, Front Audio, TPM 2.0, USB 2.0 e USB 3.2 Gen1. Compatível com Windows® 11 e Windows® 1064 bits. Deverá acompanhar, no mínimo, 1 cabo SATA e 2parafusos para slot M.2. PROCESSADOR: Intel Core i3 de 14ª geração, Modelo Box com cooler original do fabricante, arquitetura de 64 bits, lançado a partir de 2024, frequência mínima de 3,40 GHz, vídeo integrado e suporte para até 4 monitores. Deverá possuir, no mínimo, 4 núcleos e 8 threads, cache L1 de 4 x 48 KB, cache L2 de 4 x 1280 KB e cache L3 de 12 MB. MEMÓRIA RAM: Capacidade mínima de 16 GB DDR4. Velocidade de 3200 MHz, latência CL16, dissipador de calor, padrão PC4-25600 e tensão de operação de 1,35 V. ARMAZENAMENTO SSD NVMe: Unidade de estado sólido(SSD) com capacidade mínima de 480 GB, interface M.2 NVMe PCI Express 4.0 x4, ou superior, fator de forma M.2 2280, memória 3D NAND TLC ou tecnologia superior. Deverá possuir velocidade sequencial mínima de 3.000 MB/s para leitura e 1.800MB/s para gravação. Produto novo, em linha de fabricação, compatível com a placa-mãe ofertada. FONTE DEALIMENTAÇÃO: Potência real de 350 Watts ou superior, certificação 80 Plus Bronze, PFC ativo, bivolt automático(115V-230V), certificação INMETRO, cooler de 14 cm e cabo de força de 1,80 m conforme padrão ABNT. Deverá possuir 1 conector 20+4 pinos, 2 conectores PCI Express 6+2 pinos, 1conector ATX 4+4 pinos, 2 conectores IDE e 6 conectores SATA. MTBF mínimo de 100.000 horas. GABINETE: Construído emchapa SPCC de 0,50 mm, compatível com placas-mãe Micro ATX e fontes ATX. Possuir lateral em acrílico ou metal, 1 baia ODD, 2 baias HDD e 2 baias SSD. Disponibilizar na parte frontal2 portas USB 2.0, 1 porta USB 3.0, 1 entrada para microfone e 1entrada para áudio.",
+              "especificacao": "9909911357 COMPUTADOR I5 8GB - SSD 480GB: PLACA-MÃE:::Compatibilidade para processadores lançados a partir de 2024. Suporte a memória DDR4 com capacidade máxima de 128 GB, Dual Channel, frequência mínima de 3200 MHz. Possuir 1porta HDMI 1.4, 1 DisplayPort e 1 VGA; 1 slot PCIe x16 e 2 slots PCIe x1; 2 slots M.2, sendo M.2_1 PCIe 4.0 x4 (2280/2260/2242) e M.2_2 PCIe 4.0 x4/SATA (2280/2260/2242); 4 conectores SATA 6 Gb/s com suporte a RAID 0, 1, 5 e 10. Disponibilizar 4portas USB 2.0 traseiras, 4 portas USB 2.0 frontais, 1 USB 3.2 Gen1 Type-A traseira, 2 USB 3.2 Gen1 Type-A frontais e 1 USB3.2 Gen2 . Possuir rede Gigabit LAN, áudio onboard 7.1 canais econectores internos ATX_PWR, CPU_PWR, CPU FAN, SYSTEM FAN, Front Panel, Front Audio, TPM 2.0, USB 2.0 e USB 3.2 Gen1. Compatível com Windows® 11 e Windows® 1064 bits. Deverá acompanhar, no mínimo, 1 cabo SATA e 2 parafusos para slot M.2.PROCESSADOR: Processador IntelCore i5 de 14ª geração ou superior, arquitetura de 64 bits, modelo Box com sistema de refrigeração original do fabricante evídeo gráfico integrado. Deverá possuir, no mínimo, 10 (dez) núcleos, 16 (dezesseis) threads, cache inteligente de 20 MB,frequência base mínima de 2,5 GHz e frequência máxima em modo Turbo de, no mínimo, 4,6 GHz, com suporte à utilizaçãosimultânea de, no mínimo, 4 (quatro) monitores. Produto novo, em linha de fabricação, compatível com a placa-mãe ofertada. MEMÓRIA RAM: Capacidade mínima de 8 GB em módulo único DDR4, não sendo aceitos dois módulos de 4 GB. Velocidade de3200 MHz, latência CL16, dissipador de calor, padrão PC4-25600 e tensão de operação de 1,35 V.ARMAZENAMENTO: SSD NVMe: Unidade de estado sólido(SSD) com capacidade mínima de 480 GB, interface M.2 NVMe PCI Express 4.0 x4, ou superior, fator de forma M.2 2280, memória 3D NAND TLC ou tecnologia superior. Deverá possuir velocidade sequencial mínima de 3.000 MB/s para leitura e 1.800MB/s para gravação. Produto novo, em linha de fabricação, compatível com a placa-mãe ofertada. FONTE DEALIMENTAÇÃO: Fonte de alimentação: Potência real de 350Watts ou superior, certificação 80 Plus Bronze, PFC ativo, bivolt automático (115V-230V), certificação INMETRO, cooler de 14 cme cabo de força de 1,80 m conforme padrão ABNT. Deverá possuir 1 conector 20+4 pinos, 2 conectores PCI Express 6+2pinos, 1 conector ATX 4+4 pinos, 2 conectores IDE e 6conectores SATA. MTBF mínimo de 100.000 horas. GABINETE: Construído em chapa",
               "unidade": "Und.",
               "quantidade": "50,00",
-              "valor_referencia": "4.299,93"
+              "valor_referencia": "5.025,11"
             }
           ]
         },
@@ -293350,8 +293350,8 @@
           ]
         },
         {
-          "numero": "11",
-          "titulo": "9909911358 COMPUTADOR I5 16GB SSD 480GB::PLACA-MÃE: Compatibilidade para processadores lançados a partir de 2024. Suporte a memória DDR4 com capacidade máxima de 128 GB, Dual Channel, frequência mínima de 3200 MHz. Possuir 1porta HDMI 1.4, 1 DisplayPort",
+          "numero": "12",
+          "titulo": "9909911359 COMPUTADOR I7 16GB SSD 480GB C/ PLACADE VÍDEO:PLACA-MÃE::Compatível com processadores lançados apartir de 2024, soquete compatível com o processador ofertado echipset da mesma geração ou superior. Suporte a memórias DDR4 ou superior Quad Cha",
           "fase": "JULGAMENTO",
           "tipo": "GLOBAL",
           "quantidade": "1",
@@ -293359,41 +293359,17 @@
           "exclusivo_me": "SIM",
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
-          "valor_referencia": "155.838,25",
-          "vencedor": "INOVA DIGITAL LTDA",
-          "melhor_oferta": "124.987,50",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9909911358 COMPUTADOR I5 16GB SSD 480GB::PLACA-MÃE: Compatibilidade para processadores lançados a partir de 2024. Suporte a memória DDR4 com capacidade máxima de 128 GB, Dual Channel, frequência mínima de 3200 MHz. Possuir 1porta HDMI 1.4, 1 DisplayPort e 1 VGA; 1 slot PCIe x16 e 2 slots PCIe x1; 2 slots M.2, sendo M.2_1 PCIe 4.0 x4 (2280/2260/2242) e M.2_2 PCIe 4.0 x4/SATA (2280/2260/2242); 4 conectores SATA 6 Gb/s com suporte a RAID 0, 1, 5 e 10. Disponibilizar 4portas USB 2.0 traseiras, 4 portas USB 2.0 frontais, 1 USB 3.2 Gen1 Type-A traseira, 2 USB 3.2 Gen1 Type-A frontais e 1 USB3.2 Gen2. Possuir rede Gigabit LAN, áudio onboard 7.1 canais econectores internos ATX_PWR, CPU_PWR, CPU FAN, SYSTEM FAN, Front Panel, Front Audio, TPM 2.0, USB 2.0 e USB 3.2 Gen1. Compatível com Windows® 11 e Windows® 1064 bits. Deverá acompanhar, no mínimo, 1 cabo SATA e 2 parafusos para slot M.2. PROCESSADOR: Processador IntelCore i5 de 14ª geração ou superior, arquitetura de 64 bits, modelo Box com sistema de refrigeração original do fabricante evídeo gráfico integrado. Deverá possuir, no mínimo, 10 (dez) núcleos, 16 (dezesseis) threads, cache inteligente de 20 MB,frequência base mínima de 2,5 GHz e frequência máxima em modo Turbo de, no mínimo, 4,6 GHz, com suporte à utilizaçãosimultânea de, no mínimo, 4 (quatro) monitores. Produto novo, em linha de fabricação, compatível com a placa-mãe ofertada. MEMÓRIA RAM: Capacidade mínima de 16 GB DDR4. Velocidade de 3200 MHz, latência CL16, dissipador de calor, padrão PC4-25600 e tensão de operação de 1,35 V. ARMAZENAMENTO: SSD NVMe: Unidade de estado sólido(SSD) com capacidade mínima de 480 GB, interface M.2 NVMe PCI Express 4.0 x4, ou superior, fator de forma M.2 2280, memória 3D NAND TLC ou tecnologia superior. Deverá possuir velocidade sequencial mínima de 3.000 MB/s para leitura e 1.800MB/s para gravação. Produto novo, em linha de fabricação, compatível com a placa-mãe ofertada. FONTE DEALIMENTAÇÃO: Potência real de 350 Watts ou superior, certificação 80 Plus Bronze, PFC ativo, bivolt automático(115V-230V), certificação INMETRO, cooler de 14 cm e cabo de força de 1,80 m conforme padrão ABNT. Deverá possuir 1 conector 20+4 pinos, 2 conectores PCI Express 6+2 pinos, 1conector ATX 4+4 pinos, 2 conectores IDE e 6 conectores SATA. MTBF mínimo de 100.000 horas. GABINETE: Construído emchapa SPCC de 0,50 mm, compatível com placas-mãe Micro ATX e fontes ATX. Possuir lat",
-              "unidade": "Und.",
-              "quantidade": "25,00",
-              "valor_referencia": "6.233,53"
-            }
-          ]
-        },
-        {
-          "numero": "13",
-          "titulo": "9909911360 COMPUTADOR I7 32GB SSD 480GB C/ PLACA DE VÍDEO:PLACA-MÃE::Compatível com processadores lançados a partir de 2024, soquete compatível com o processador ofertado e chipset da mesma geração ou superior. Suporte a memórias DDR4 ou superior Quad Cha",
-          "fase": "JULGAMENTO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "88.767,28",
+          "valor_referencia": "25.464,12",
           "vencedor": "RR COMERCIO DE EQUIPAMENTOS DE INFORMATICA EIRELI",
-          "melhor_oferta": "53.725,44",
+          "melhor_oferta": "18.107,04",
           "total_itens": 1,
           "itens": [
             {
               "numero": "1",
-              "especificacao": "9909911360 COMPUTADOR I7 32GB SSD 480GB C/ PLACA DE VÍDEO:PLACA-MÃE::Compatível com processadores lançados a partir de 2024, soquete compatível com o processador ofertado e chipset da mesma geração ou superior. Suporte a memórias DDR4 ou superior Quad Channel, capacidade mínima de 128 GB e frequência mínima de 3200MHz. Possuir, no mínimo, 1 (um) slot PCI Express x16 4.0 ousuperior, 2 (dois) slots M.2 NVMe PCI Express, 4 (quatro) portas SATA III 6 Gb/s, interface de rede Gigabit Ethernet integrada, áudio HD onboard, no mínimo 6 (seis) portas USB, sendo pelo menos 3 (três) USB 3.2, saídas de vídeo digitais compatíveiscom o vídeo integrado do processador, conector TPM 2.0 e suporte ao sistema operacional Windows 11 64 bits. Deveráacompanhar os acessórios necessários para sua instalação. PROCESSADOR: i7 de 14ª geração ou superior, arquitetura de64 bits, modelo Box com sistema de refrigeração original dofabricante e vídeo gráfico integrado. Deverá possuir, no mínimo, 10 (dez) núcleos, 16 (dezesseis) threads, cache inteligente de 20MB, frequência base mínima de 2,5 GHz e frequência máxima em modo Turbo de, no mínimo, 4,9 GHz, com suporte à utilização simultânea de, no mínimo, 4 (quatro) monitores.Produto novo, em linha de fabricação, compatível com a placa- mãe ofertada. MEMÓRIA RAM: Capacidade mínima de 32 GBDDR4 ou superior. Velocidade de 3200 MHz, latência CL16, dissipador de calor, padrão PC4-25600 e tensão de operação de1,35 V. ARMAZENAMENTO: SSD NVMe: Unidade de estado sólido (SSD) com capacidade mínima de 480 GB, interface M.2NVMe PCI Express 4.0 x4, ou superior, fator de forma M.2 2280, memória 3D NAND TLC ou tecnologia superior. Deverá possuir velocidade sequencial mínima de 3.000 MB/s para leitura e 1.800MB/s para gravação. Produto novo, em linha de fabricação, compatível com a placa-mãe ofertada. FONTE DEALIMENTAÇÃO: Potência real mínima de 600 W, certificação 80 Plus Bronze ou superior, PFC ativo e entrada bivolt automática(100-240 V, 50/60 Hz). Deverá possuir, no mínimo, 1 (um) conector ATX 20+4 pinos, 1 (um) conector EPS/ATX 4+4 pinos para alimentação do processador, 2 (dois) conectores PCIExpress 6+2 pinos para alimentação de placa de vídeo e 4 (quatro) conectores SATA. Sistema de refrigeração ativo com ventoinha de 120 mm ou superior, proteções elétricas contrasobretensão (OVP), subtensão (UVP), sobrecorrente (OCP), sobrepotência (OPP), curto-circuito (SCP) e sobretemperatura(OTP)",
+              "especificacao": "9909911359 COMPUTADOR I7 16GB SSD 480GB C/ PLACADE VÍDEO:PLACA-MÃE::Compatível com processadores lançados apartir de 2024, soquete compatível com o processador ofertado echipset da mesma geração ou superior. Suporte a memórias DDR4 ou superior Quad Channel, capacidade mínima de 128 GBe frequência mínima de 3200 MHz. Possuir, no mínimo, 1 (um) slot PCI Express x16 4.0 ou superior, 2 (dois) slots M.2 NVMe PCI Express, 4 (quatro) portas SATA III 6 Gb/s, interface de rede Gigabit Ethernet integrada, áudio HD onboard, no mínimo 6(seis) portas USB, sendo pelo menos 3 (três) USB 3.2, saídas devídeo digitais compatíveis com o vídeo integrado do processador, conector TPM 2.0 e suporte ao sistema operacional Windows 1164 bits. Deverá acompanhar os acessórios necessários para suainstalação. PROCESSADOR: i7 de 14ª geração ou superior, arquitetura de 64 bits, modelo Box com sistema de refrigeraçãooriginal do fabricante e vídeo gráfico integrado. Deverá possuir, no mínimo, 10 (dez) núcleos, 16 (dezesseis) threads, cacheinteligente de 20 MB, frequência base mínima de 2,5 GHz e frequência máxima em modo Turbo de, no mínimo, 4,9 GHz, comsuporte à utilização simultânea de, no mínimo, 4 (quatro) monitores. Produto novo, em linha de fabricação, compatível coma placa-mãe ofertada. MEMÓRIA RAM: Capacidade mínima de16 GB DDR4 ou superior. Velocidade de 3200 MHz, latência CL16, dissipador de calor, padrão PC4-25600 e tensão deoperação de 1,35 V. ARMAZENAMENTO SSD NVMe: Unidade de estado sólido (SSD) com capacidade mínima de 480 GB, interface M.2 NVMe PCI Express 4.0 x4, ou superior, fator deforma M.2 2280, memória 3D NAND TLC ou tecnologia superior. Deverá possuir velocidade sequencial mínima de 3.000 MB/s para leitura e 1.800 MB/s para gravação. Produto novo, em linhade fabricação, compatível com a placa-mãe ofertada. FONTE DE ALIMENTAÇÃO Fonte de Alimentação: Potência real mínima de 600 W, certificação 80 Plus Bronze ou superior, PFC ativo eentrada bivolt automática (100-240 V, 50/60 Hz). Deverá possuir, no mínimo, 1 (um) conector ATX 20+4 pinos, 1 (um) conector EPS/ATX 4+4 pinos para alimentação do processador, 2 (dois) conectores PCI Express 6+2 pinos para alimentação de placa devídeo e 4 (quatro) conectores SATA. Sistema de refrigeração ativo com ventoinha de 120 mm ou superior, proteções elétricas contra sobretensão (OVP), subtensão (UVP), sobrecorrente (OCP), sobrepotência (OPP), curto-circuito (SCP) e sob",
               "unidade": "Und.",
-              "quantidade": "8,00",
-              "valor_referencia": "11.095,91"
+              "quantidade": "3,00",
+              "valor_referencia": "8.488,04"
             }
           ]
         },
@@ -293446,8 +293422,8 @@
           ]
         },
         {
-          "numero": "16",
-          "titulo": "37809 NOTEBOOK DE DESEMPENHO BÁSICO:: Processadorde arquitetura x86-64,:equivalente ou superior aoIntel Core i3 de 13ª geração ou AMD Ryzen 5 Série 7000, comvídeo gráfico integrado. Deverá possuir, no mínimo, 6 (seis) núcleos, 8 (oito) threads, 10 MB d",
+          "numero": "15",
+          "titulo": "37808 NOTEBOOK DE DESEMPENHOINTERMEDIÁRIO:Processador de arquiteturax86-64,:equivalente ou superior ao Intel Core 5 120U, Intel Core Ultra 5,Intel Core de 13ª geração ou AMD Ryzen 5 Série 7000, comvídeo gráfico integrado. Sistema Operacional: Microsof",
           "fase": "JULGAMENTO",
           "tipo": "GLOBAL",
           "quantidade": "1",
@@ -293455,9 +293431,33 @@
           "exclusivo_me": "SIM",
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
+          "valor_referencia": "221.667,00",
+          "vencedor": "CH3 ELETRO E ELETRONICOS LTDA",
+          "melhor_oferta": "136.900,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37808 NOTEBOOK DE DESEMPENHOINTERMEDIÁRIO:Processador de arquiteturax86-64,:equivalente ou superior ao Intel Core 5 120U, Intel Core Ultra 5,Intel Core de 13ª geração ou AMD Ryzen 5 Série 7000, comvídeo gráfico integrado. Sistema Operacional: Microsoft Windows 11 Home ou Professional, 64 bits, em Português (Brasil). Placade Vídeo: Controladora gráfica integrada ao processador. Memória RAM: Capacidade mínima de 16 GB DDR4 outecnologia superior. Armazenamento: Unidade de estado sólido (SSD) com capacidade mínima de 512 GB, interface NVMe PCIExpress e padrão M.2. Tela: Resolução mínima Full HD (1920 x 1080), acabamento antirreflexo, brilho mínimo de 250 nits, taxade atualização mínima de 120 Hz. Conectividade: Wi-Fi 6 (IEEE802.11ax) ou superior e Bluetooth 5.1 ou superior. Portas: No mínimo, 1 (uma) porta USB 3.2 Type-C, 2 (duas) portas USB 3.2Type-A, 1 (uma) porta HDMI 2.1 ou superior e 1 (um) conector combinado para fone de ouvido e microfone (P2). Garantia: Garantia mínima de 24 meses, contados a partir do recebimentodefinitivo do equipamento. Especificação Geral: Serão aceitos equipamentos com características técnicas iguais ou superiores às especificadas. Modelo de Referência: Notebook Dell Pro 15Essential ou de equivalência técnica e de desempenho igual ou superior. COTA 25% PARA ME/EPP.",
+              "unidade": "Und.",
+              "quantidade": "37,00",
+              "valor_referencia": "5.991,00"
+            }
+          ]
+        },
+        {
+          "numero": "16",
+          "titulo": "37809 NOTEBOOK DE DESEMPENHO BÁSICO:: Processadorde arquitetura x86-64,:equivalente ou superior aoIntel Core i3 de 13ª geração ou AMD Ryzen 5 Série 7000, comvídeo gráfico integrado. Deverá possuir, no mínimo, 6 (seis) núcleos, 8 (oito) threads, 10 MB d",
+          "fase": "INTERPOSIÇÃO DE RECURSOS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
           "valor_referencia": "24.773,07",
-          "vencedor": "OC INFORMATICA",
-          "melhor_oferta": "33.999,99",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
           "total_itens": 1,
           "itens": [
             {
@@ -293774,30 +293774,6 @@
           ]
         },
         {
-          "numero": "10",
-          "titulo": "9900515741 ALAVANCA APICAL 301:uso odontológico, para extração, (reta), confeccionado em aço inoxidável. Embalagem individual com dados de identificação do produto e marca do fabricante. EXCLUSIVO PARA ME/EPP.",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900515741 ALAVANCA APICAL 301:uso odontológico, para extração, (reta), confeccionado em aço inoxidável. Embalagem individual com dados de identificação do produto e marca do fabricante. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "Und.",
-              "quantidade": "30,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
           "numero": "11",
           "titulo": "9900515742 ALAVANCA APICAL 302:uso odontológico, para extração, (seldin L), confeccionado em aço inoxidável.Embalagem individual com dados de identificação do produto e marca do fabricante. EXCLUSIVO PARA ME/EPP.",
           "fase": "RECEPÇÃO DE PROPOSTAS",
@@ -293815,6 +293791,30 @@
             {
               "numero": "1",
               "especificacao": "9900515742 ALAVANCA APICAL 302:uso odontológico, para extração, (seldin L), confeccionado em aço inoxidável.Embalagem individual com dados de identificação do produto e marca do fabricante. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "Und.",
+              "quantidade": "30,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "12",
+          "titulo": "9900515743 ALAVANCA APICAL 303:uso odontológico, para extração, (seldin R), confeccionado em aço inoxidável.Embalagem individual com dados de identificação do produto e marca do fabricante. EXCLUSIVO PARA ME/EPP.",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515743 ALAVANCA APICAL 303:uso odontológico, para extração, (seldin R), confeccionado em aço inoxidável.Embalagem individual com dados de identificação do produto e marca do fabricante. EXCLUSIVO PARA ME/EPP.",
               "unidade": "Und.",
               "quantidade": "30,00",
               "valor_referencia": ""
@@ -296666,8 +296666,8 @@
           ]
         },
         {
-          "numero": "6",
-          "titulo": "9900100042 AMITRIPTILINA:75MG. EXCLUSIVO PARA ME/EPP.",
+          "numero": "7",
+          "titulo": "9900515203 AMOXICILINA + CLAVULONATO:de potássio 50 +12,5 mg/ml pó para suspensão oral. EXCLUSIVO PARA ME/EPP.",
           "fase": "RECEPÇÃO DE PROPOSTAS",
           "tipo": "GLOBAL",
           "quantidade": "1",
@@ -296682,9 +296682,9 @@
           "itens": [
             {
               "numero": "1",
-              "especificacao": "9900100042 AMITRIPTILINA:75MG. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "CO",
-              "quantidade": "112.000,00",
+              "especificacao": "9900515203 AMOXICILINA + CLAVULONATO:de potássio 50 +12,5 mg/ml pó para suspensão oral. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "FRS",
+              "quantidade": "5.000,00",
               "valor_referencia": ""
             }
           ]
@@ -296786,13 +296786,13 @@
           ]
         },
         {
-          "numero": "11",
-          "titulo": "34777 AZITROMICINA:comprimido revestido ou cápsula 500mg.",
+          "numero": "12",
+          "titulo": "3606 BECLOMETASONA, DIPROPIONATO DE,250MCG/INALAÇÃO-DOSE, AEROSSOL, DOSIMETRADO COM BOCAL PARA 200 EROGA:BECLOMETASONA, DIPROPIONATO DE, 250MCG/INALAÇÃO-DOSE, AEROSSOL, DOSIMETRADO COM BOCAL PARA 200 EROGAÇÕES (INALAÇÃO-DOSE) + ESPAÇADOR, FRASCO. EXCLUSI",
           "fase": "RECEPÇÃO DE PROPOSTAS",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
+          "exclusivo_me": "SIM",
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "",
@@ -296802,9 +296802,9 @@
           "itens": [
             {
               "numero": "1",
-              "especificacao": "34777 AZITROMICINA:comprimido revestido ou cápsula 500mg.",
-              "unidade": "CO",
-              "quantidade": "375.285,00",
+              "especificacao": "3606 BECLOMETASONA, DIPROPIONATO DE,250MCG/INALAÇÃO-DOSE, AEROSSOL, DOSIMETRADO COM BOCAL PARA 200 EROGA:BECLOMETASONA, DIPROPIONATO DE, 250MCG/INALAÇÃO-DOSE, AEROSSOL, DOSIMETRADO COM BOCAL PARA 200 EROGAÇÕES (INALAÇÃO-DOSE) + ESPAÇADOR, FRASCO. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "FRS",
+              "quantidade": "2.000,00",
               "valor_referencia": ""
             }
           ]
@@ -296858,8 +296858,8 @@
           ]
         },
         {
-          "numero": "14",
-          "titulo": "9900100055 BIPERIDENO:2MG. EXCLUSIVO PARA ME/EPP.",
+          "numero": "15",
+          "titulo": "9900100057 BUDESONIDA:50MCG AEROSOL NASAL. EXCLUSIVO PARA ME/EPP.",
           "fase": "RECEPÇÃO DE PROPOSTAS",
           "tipo": "GLOBAL",
           "quantidade": "1",
@@ -296874,9 +296874,9 @@
           "itens": [
             {
               "numero": "1",
-              "especificacao": "9900100055 BIPERIDENO:2MG. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "CO",
-              "quantidade": "132.360,00",
+              "especificacao": "9900100057 BUDESONIDA:50MCG AEROSOL NASAL. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "FR",
+              "quantidade": "1.200,00",
               "valor_referencia": ""
             }
           ]
@@ -296954,30 +296954,6 @@
           ]
         },
         {
-          "numero": "18",
-          "titulo": "9900100064 CARBONATO DE LÍTIO:300MG. EXCLUSIVO PARA ME/EPP.",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900100064 CARBONATO DE LÍTIO:300MG. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "CO",
-              "quantidade": "300.000,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
           "numero": "19",
           "titulo": "9900100065 CARVEDILOL:12,5MG COMP. EXCLUSIVO PARA ME/EPP.",
           "fase": "RECEPÇÃO DE PROPOSTAS",
@@ -297002,8 +296978,8 @@
           ]
         },
         {
-          "numero": "19",
-          "titulo": "9900100065 CARVEDILOL:12,5MG COMP. EXCLUSIVO PARA ME/EPP.",
+          "numero": "20",
+          "titulo": "9900100066 CARVEDILOL:25MG. EXCLUSIVO PARA ME/EPP.",
           "fase": "RECEPÇÃO DE PROPOSTAS",
           "tipo": "GLOBAL",
           "quantidade": "1",
@@ -297018,16 +296994,16 @@
           "itens": [
             {
               "numero": "1",
-              "especificacao": "9900100065 CARVEDILOL:12,5MG COMP. EXCLUSIVO PARA ME/EPP.",
+              "especificacao": "9900100066 CARVEDILOL:25MG. EXCLUSIVO PARA ME/EPP.",
               "unidade": "CO",
-              "quantidade": "64.544,00",
+              "quantidade": "52.416,00",
               "valor_referencia": ""
             }
           ]
         },
         {
-          "numero": "22",
-          "titulo": "9900100068 CARVEDILOL:6,25MG. EXCLUSIVO PARA ME/EPP.",
+          "numero": "21",
+          "titulo": "9900100067 CARVEDILOL:3,125MG. EXCLUSIVO PARA ME/EPP.",
           "fase": "RECEPÇÃO DE PROPOSTAS",
           "tipo": "GLOBAL",
           "quantidade": "1",
@@ -297042,9 +297018,9 @@
           "itens": [
             {
               "numero": "1",
-              "especificacao": "9900100068 CARVEDILOL:6,25MG. EXCLUSIVO PARA ME/EPP.",
+              "especificacao": "9900100067 CARVEDILOL:3,125MG. EXCLUSIVO PARA ME/EPP.",
               "unidade": "CO",
-              "quantidade": "50.432,00",
+              "quantidade": "34.080,00",
               "valor_referencia": ""
             }
           ]
@@ -297093,6 +297069,30 @@
               "especificacao": "9909911309 CLOMIPRAMINA: 25MG.:CLOMIPRAMINA: 25MG.",
               "unidade": "CO",
               "quantidade": "64.926,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "24",
+          "titulo": "9900100074 CLONAZEPAM:2MG. EXCLUSIVO PARA ME/EPP.",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900100074 CLONAZEPAM:2MG. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "CO",
+              "quantidade": "480.480,00",
               "valor_referencia": ""
             }
           ]
