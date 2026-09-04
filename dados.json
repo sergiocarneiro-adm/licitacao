@@ -1,10 +1,10 @@
 {
   "metadata": {
     "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-    "total_processos": 890,
-    "total_lotes": 9885,
-    "total_itens": 16430,
-    "atualizado_em": "20260903_131811"
+    "total_processos": 892,
+    "total_lotes": 9890,
+    "total_itens": 16435,
+    "atualizado_em": "20260904_090508"
   },
   "processos": [
     {
@@ -257606,7 +257606,7 @@
         {
           "numero": "1",
           "titulo": "LOCAÇÃO DE EQUIPAMENTOS DE IMPRESSÃO E CÓPIA",
-          "fase": "RECEPÇÃO DE CONTRARRAZÕES",
+          "fase": "JULGAMENTO DE RECURSOS",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -264167,7 +264167,7 @@
         {
           "numero": "1",
           "titulo": "INSUMOS ALIMENTÍCIOS",
-          "fase": "INTERPOSIÇÃO DE RECURSOS",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -268118,7 +268118,7 @@
       "publicacao": "03/06/2026 16:22",
       "inicio_recepcao": "05/06/2026 08:00",
       "fim_recepcao": "14/07/2026 08:15",
-      "inicio_disputa": "02/09/2026 17:20",
+      "inicio_disputa": "04/09/2026 17:20",
       "objeto": "Contratação de empresa especializada em execução de obras de construção de um Centro Educacional, com quadra coberta, localizado no bairro Jerusalém, no município de Teixeira de Freitas – BA.",
       "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5D7LZabRr7rQrtf24kB14UjYZu8E%2FND799QlWXVrnZLiF2li4grnVHSzAf9Wode1Mwxo0Z_qUGfMaq1gnCu7rM9xssjgDyHH5lKW%2F0ol7Q2yU%3D",
       "total_lotes": 1,
@@ -268469,7 +268469,7 @@
       "publicacao": "03/06/2026 17:18",
       "inicio_recepcao": "05/06/2026 08:00",
       "fim_recepcao": "15/07/2026 08:15",
-      "inicio_disputa": "02/09/2026 17:20",
+      "inicio_disputa": "04/09/2026 17:20",
       "objeto": "Contratação de empresa especializada em execução de obras de construção de um Centro Educacional, com piscina anexa, localizado no bairro Caminho do Mar, no município de Teixeira de Freitas – BA.",
       "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DL%2FrR5dAaiUsY6jb7mFKba8PCKLawFAXnjNy8Ff3_s5NPy49w1db1RxuZqR2ZbCqTT2KNWtFQz3IpK_j95JByrIj%2Flk0I_LaItNBPnTmZyRk%3D",
       "total_lotes": 1,
@@ -269761,7 +269761,7 @@
         {
           "numero": "6",
           "titulo": "NALTREXONA 50 mg",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,00",
@@ -269857,7 +269857,7 @@
         {
           "numero": "10",
           "titulo": "VITAMINA E 400 MG",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,00",
@@ -269881,7 +269881,7 @@
         {
           "numero": "11",
           "titulo": "VITAMINA K",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,00",
@@ -279041,7 +279041,7 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "283,10",
-          "vencedor": "DEBORAH DE SOUZA CONGIU NAVARRO LTDA",
+          "vencedor": "DISTRIBUIMAAIS NEGOCIOS CORPARATIVO LTDA",
           "melhor_oferta": "280,00",
           "total_itens": 1,
           "itens": [
@@ -279065,7 +279065,7 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "2.056,20",
-          "vencedor": "DEBORAH DE SOUZA CONGIU NAVARRO LTDA",
+          "vencedor": "DISTRIBUIMAAIS NEGOCIOS CORPARATIVO LTDA",
           "melhor_oferta": "1.980,00",
           "total_itens": 1,
           "itens": [
@@ -279089,7 +279089,7 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "256,00",
-          "vencedor": "DEBORAH DE SOUZA CONGIU NAVARRO LTDA",
+          "vencedor": "DISTRIBUIMAAIS NEGOCIOS CORPARATIVO LTDA",
           "melhor_oferta": "256,00",
           "total_itens": 1,
           "itens": [
@@ -279209,7 +279209,7 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "623,00",
-          "vencedor": "DEBORAH DE SOUZA CONGIU NAVARRO LTDA",
+          "vencedor": "DISTRIBUIMAAIS NEGOCIOS CORPARATIVO LTDA",
           "melhor_oferta": "619,00",
           "total_itens": 1,
           "itens": [
@@ -282060,74 +282060,6 @@
       ]
     },
     {
-      "id": "2-DLE-053-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "487 / 2026",
-      "modalidade": "DISPENSA ELETRÔNICA",
-      "situacao": "HABILITAÇÃO",
-      "condutor": "ISLA LIMA SILVA",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO",
-      "publicacao": "17/06/2026 16:26",
-      "inicio_recepcao": "17/06/2026 16:31",
-      "fim_recepcao": "23/06/2026 08:15",
-      "inicio_disputa": "23/06/2026 08:30",
-      "objeto": "Contratação de empresa especializada em FORNECIMENTO DE ANTENA STARLINK E PRESTAÇÃO DE SERVIÇO DE PLANO DE INTERNET (material permanente) e (prestação de serviço), a fim de atender as demandas da Secretaria Municipal de Administração e demais secretarias.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DJ9UdnFvaOKGs3FmxwIb3mTUw98gEk%2Frl%2F3qtQnwThCsBUHQ3Zj3pnG%2FgEmMCHoCqYouHfB9%2FRptcX8hniXmcZR%2F380_CF6ghkUB89iMWuIs%3D",
-      "total_lotes": 2,
-      "total_itens": 2,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "5707611164 Antena de Internet via Satélite Portátil - Starlink Mini:Terminal de internet via satélite portátil modelo Mini, composto por antena compacta de alto desempenho, roteador Wi- Fi integrado, fonte de alimentação, cabos e demais acessórios necessá",
-          "fase": "EM ADJUDICAÇÃO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "1.907,26",
-          "vencedor": "WEBFOCO TELECOMUNICAÇÕES LTDA EPP",
-          "melhor_oferta": "1.649,50",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "5707611164 Antena de Internet via Satélite Portátil - Starlink Mini:Terminal de internet via satélite portátil modelo Mini, composto por antena compacta de alto desempenho, roteador Wi- Fi integrado, fonte de alimentação, cabos e demais acessórios necessários ao pleno funcionamento do equipamento,compatível com a rede da empresa Starlink. O equipamento deverá permitir instalação simplificada, operação em campo e transporte facilitado, possibilitando acesso à internet banda larga em locais sem infraestrutura de conectividade terrestre, com tecnologia de comunicação via satélite de órbita baixa (LEO), baixa latência e conexão estável. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "UND",
-              "quantidade": "2,00",
-              "valor_referencia": "953,63"
-            }
-          ]
-        },
-        {
-          "numero": "2",
-          "titulo": "37316 Plano de Serviço de Internet via Satélite Starlink (Mobilidade/Viagem) 100mbs:Plano de prestação de serviço de internet via satélite na modalidade móvel/viagem, com franquia mensal de dados de 100 GB, destinado à utilização do terminal portátil desc",
-          "fase": "EM ADJUDICAÇÃO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "30.120,96",
-          "vencedor": "WEBFOCO TELECOMUNICAÇÕES LTDA EPP",
-          "melhor_oferta": "25.989,60",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37316 Plano de Serviço de Internet via Satélite Starlink (Mobilidade/Viagem) 100mbs:Plano de prestação de serviço de internet via satélite na modalidade móvel/viagem, com franquia mensal de dados de 100 GB, destinado à utilização do terminal portátil descrito no item anterior. O plano deverá possibilitar utilização em diferentes localidades dentro do território nacional, garantindo conectividade em deslocamentos, operações externas, eventos, visitas técnicas e demais atividades que demandem acesso remoto à internet, com ativação e gestão vinculadas ao equipamento contratado. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "MES",
-              "quantidade": "48,00",
-              "valor_referencia": "627,52"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "CE-001-2026",
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "1481/2025",
@@ -283137,7 +283069,7 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "2.920,60",
-          "vencedor": "DEBORAH DE SOUZA CONGIU NAVARRO LTDA",
+          "vencedor": "DISTRIBUIMAAIS NEGOCIOS CORPARATIVO LTDA",
           "melhor_oferta": "2.300,00",
           "total_itens": 1,
           "itens": [
@@ -283161,7 +283093,7 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "3.031,00",
-          "vencedor": "DEBORAH DE SOUZA CONGIU NAVARRO LTDA",
+          "vencedor": "DISTRIBUIMAAIS NEGOCIOS CORPARATIVO LTDA",
           "melhor_oferta": "2.298,90",
           "total_itens": 1,
           "itens": [
@@ -283185,7 +283117,7 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "2.509,90",
-          "vencedor": "DEBORAH DE SOUZA CONGIU NAVARRO LTDA",
+          "vencedor": "DISTRIBUIMAAIS NEGOCIOS CORPARATIVO LTDA",
           "melhor_oferta": "2.000,00",
           "total_itens": 1,
           "itens": [
@@ -283209,7 +283141,7 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "2.153,10",
-          "vencedor": "DEBORAH DE SOUZA CONGIU NAVARRO LTDA",
+          "vencedor": "DISTRIBUIMAAIS NEGOCIOS CORPARATIVO LTDA",
           "melhor_oferta": "2.000,00",
           "total_itens": 1,
           "itens": [
@@ -283233,7 +283165,7 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "2.054,90",
-          "vencedor": "DEBORAH DE SOUZA CONGIU NAVARRO LTDA",
+          "vencedor": "DISTRIBUIMAAIS NEGOCIOS CORPARATIVO LTDA",
           "melhor_oferta": "2.000,00",
           "total_itens": 1,
           "itens": [
@@ -284578,7 +284510,7 @@
       "publicacao": "03/06/2026 15:51",
       "inicio_recepcao": "14/07/2026 08:00",
       "fim_recepcao": "18/08/2026 08:15",
-      "inicio_disputa": "02/09/2026 17:20",
+      "inicio_disputa": "04/09/2026 17:20",
       "objeto": "Contratação de empresa especializada em execução de obras de construção de uma escola de tempo integral de educação fundamental, no bairro Liberdade Sul, do município de Teixeira de Freitas – BA.",
       "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5Dz_097IFSD3vnpQprEvsxfBnlAAc4fmFAXt4pQd4%2FWcYw%2FrEKQSfbBnnfDI356uTEl6YDD2xyx_WUMMMgRKVJ5X6U4P4I3ZXUHtn01t6bxak%3D",
       "total_lotes": 1,
@@ -286809,8 +286741,8 @@
       "tipo_contrato": "AQUISIÇÃO",
       "publicacao": "20/08/2026 16:45",
       "inicio_recepcao": "24/08/2026 08:30",
-      "fim_recepcao": "03/09/2026 08:15",
-      "inicio_disputa": "03/09/2026 08:30",
+      "fim_recepcao": "15/09/2026 08:15",
+      "inicio_disputa": "15/09/2026 08:30",
       "objeto": "Contratação de empresa especializada em fornecimento de TABLETS E ACESSÓRIOS (material permanente e consumo), a fim de atender às demandas da Secretaria Municipal de Saúde.",
       "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DHMTaT1O_MPvnm5t1ECbsjssS_Gv_b94AQ7Nfyo7VvDPB2Y2ZNbAFJRoCkSIU2s%2FQkpNGyvKjtuDJYWVJ_I3fMeLVXWMXj0hm_8i8x2Yc3b4%3D",
       "total_lotes": 4,
@@ -286881,7 +286813,7 @@
           "itens": [
             {
               "numero": "1",
-              "especificacao": "9900515875 TABLETS XIAOMI REDMI PAD 2:Especificações edados técnicos: Dual Sim LTE 4G, Android 15, 8 Core 2.1 GHz, Display 11, 2560x1600, Memória 256 GB EXP. Foto 8 Mpx Gps, Video Full HD.",
+              "especificacao": "TABLETS XIAOMI REDMI PAD 2: Especificações e dados técnicos:,Android 15, 8 Core 2.1 GHz, Display 11, 2560x1600, Memória 256 GB 8 GBRAM EXP. Foto 8 Mpx Gps, Video Full HD.",
               "unidade": "UND",
               "quantidade": "72,00",
               "valor_referencia": ""
@@ -286905,7 +286837,7 @@
           "itens": [
             {
               "numero": "1",
-              "especificacao": "9908411221 TABLETS XIAOMI REDMI PAD 2:Especificações edados técnicos: Dual Sim LTE 4G, Android 15, 8 Core 2.1 GHz, Display 11, 2560x1600, Memória 256 GB EXP. Foto 8 Mpx, GPS, Vídeo Full HD. COTA DE 25% RESERVADA PARA ME/EPP.",
+              "especificacao": "TABLETS XIAOMI REDMI PAD 2: Especificações e dados técnicos:,Android 15, 8 Core 2.1 GHz, Display 11, 2560x1600, Memória 256 GB 8 GBRAM EXP. Foto 8 Mpx Gps, Video Full HD. COTA DE 25% RESERVADAPARA ME/EPP",
               "unidade": "UND",
               "quantidade": "24,00",
               "valor_referencia": ""
@@ -287843,7 +287775,7 @@
         {
           "numero": "4",
           "titulo": "9900515879 FONTE UBIQUITI POE 48 V 0,5ª:- DIMENSÕES:91,8 X 59,9 X 33 MM (3,61 X 2,36 X 1,30 POL.)- VOLTAGEM DE SAÍDA: 48VDC @ 0.5A- TENSÃO DE ENTRADA: 90-260VAC A 47-63 HZ- CORRENTE DE ENTRADA: 0.6A @ 120VAC, 0.4A @ 240VAC- CORRENTE DE IRRUPÇÃO: <65A",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -287867,7 +287799,7 @@
         {
           "numero": "5",
           "titulo": "9900515880 PATCH CORD CAT5E 1,5 MAMARELO:Informações Técnicas Modelo: FlexívelTemperatura máxima de trabalho: 80°C Categoria: 5e (CAT5e)Cor: Amarelo Comprimento: 1,5M Homologação: AnatelTransmissão de até 1000 Mbps e limite desempenho 100 MhzModelo d",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -287915,7 +287847,7 @@
         {
           "numero": "7",
           "titulo": "9900515882 TESTADOR DE CABOS DE REDEPROFISSIONAL:- Características:- 2 Cabos de conexão RJ11- 2 Cabos de conexão RJ45- 2 Cordões- 1 Guia de início rápido- 2 Baterias de 9 volts- Pontas de teste com garras jacaré- Garantia: 1 anoModelo de referênci",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -288654,7 +288586,7 @@
         {
           "numero": "2",
           "titulo": "11400300007 COMPRESSOR DE AR ODONTOLÓGICOSUPER SILENCIOSO:para 1 consultório. Modelo: Compressor de ar com funcionamento à pistão isento de óleo, sem necessidade de lubrificação.Pintura interna do reservatório antioxidante.Protetor térmico, proteção para",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -288678,7 +288610,7 @@
         {
           "numero": "3",
           "titulo": "9906900054 Consultório odontológico completo:CADEIRA: articulação bilateral com acionamento central, proporcionando mais conforto, evitando o reposicionamento do paciente. Braços direito e esquerdo, sendo o direito escamoteável, facilitando a acomodação e",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -288726,7 +288658,7 @@
         {
           "numero": "5",
           "titulo": "36530 MOTOR DE BANCADA:velocidade até 15.000 RPM; 220V:Sistema de abertura por pino e chave 100watts de potência. Garantia mínimo de 1 ano. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -288750,7 +288682,7 @@
         {
           "numero": "6",
           "titulo": "11400300011 MOTOR ELÉTRICO PARA PRÓTESE:Paralaboratórios de prótese e consultórios dentários. Deve possuir regulador de velocidade, controlado tanto pelo próprio botão de controle ou pelo pedal de ativação. A peça de mão, além de ser feita para mandril,",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -288878,8 +288810,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "24.876,90",
-          "vencedor": "L FORASTIERI MACHADO LTDA",
-          "melhor_oferta": "13.950,00",
+          "vencedor": "DISTRIBUIDORA DE PRODUTOS AGRESTE MERIDIONAL LTDA",
+          "melhor_oferta": "22.410,00",
           "total_itens": 1,
           "itens": [
             {
@@ -288894,7 +288826,7 @@
         {
           "numero": "12",
           "titulo": "36533 TURBINA DE ALTA ROTAÇÃO, PUSH BUTTON:Usoodontológico, sistema de fixação de broca tipo Push Button, encaixe Borden (2 furos), rolamento ultra resistente alemão myonic, alta durabilidade, intensidade de luz de led de 15.000 a25.000 lux (10-22 watts",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -288918,7 +288850,7 @@
         {
           "numero": "13",
           "titulo": "37548 Consultório odontológico completo::CADEIRA: articulação bilateral com acionamento central, proporcionando mais conforto, evitando o reposicionamento do paciente. Braços direito e esquerdo, sendo o direito escamoteável, facilitando aacomodação e saí",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -290040,7 +289972,7 @@
         {
           "numero": "1",
           "titulo": "9908411210 Equipamento de iluminação profissional tipo Canhão Seguidor (Follow Spot):com fonte de luz em LED de potência mínima equivalente a 350 W, temperatura de cor compatível com aplicações cênicas, intensidade luminosa ajustável por dimmer eletrônico",
-          "fase": "INTERPOSIÇÃO DE RECURSOS",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -290064,7 +289996,7 @@
         {
           "numero": "2",
           "titulo": "37687 Extensão elétrica portátil com comprimento de 20 metros:confeccionada com cabo flexível tipo PP ou tecnicamente equivalente, seção mínima de 3 x 2,5 mm², equipada com plugue e tomada padrão brasileiro NBR 14136, ambos de 20 A, tensão de até 250 V, d",
-          "fase": "INTERPOSIÇÃO DE RECURSOS",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -290088,7 +290020,7 @@
         {
           "numero": "3",
           "titulo": "37688 Extensão elétrica portátil com comprimento de 30 metros:confeccionada com cabo flexível tipo PP ou tecnicamente equivalente, seção mínima de 3 x 2,5 mm², equipada com plugue e tomada padrão brasileiro NBR 14136, ambos de 20 A, tensão de até 250 V, d",
-          "fase": "INTERPOSIÇÃO DE RECURSOS",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -290112,7 +290044,7 @@
         {
           "numero": "4",
           "titulo": "37689 Régua de distribuição elétrica portátil:destinada à alimentação simultânea de equipamentos elétricos, contendo 08 (oito) tomadas padrão brasileiro 2P+T, capacidade mínima de 20 A, tensão de até 250 V, equipada com cabo flexível tipo PP ou equivalent",
-          "fase": "INTERPOSIÇÃO DE RECURSOS",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -290136,7 +290068,7 @@
         {
           "numero": "5",
           "titulo": "37690 Mesa controladora de iluminação profissional:destinada ao controle de equipamentos de iluminação cênica, compatível com protocolo DMX512, permitindo programação e armazenamento de cenas, efeitos e sequências (chases), contendo no mínimo 40 (quarenta",
-          "fase": "INTERPOSIÇÃO DE RECURSOS",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -290160,7 +290092,7 @@
         {
           "numero": "6",
           "titulo": "37691 Par de pratos para bateria acústica profissional tipo Hi-Hat:diâmetro de 14 polegadas, confeccionados em liga B20, acabamento natural ou tradicional do fabricante, destinado à utilização profissional, devendo apresentar sonoridade  compatível com ap",
-          "fase": "INTERPOSIÇÃO DE RECURSOS",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -290920,7 +290852,7 @@
         {
           "numero": "16",
           "titulo": "37809 NOTEBOOK DE DESEMPENHO BÁSICO:: Processadorde arquitetura x86-64,:equivalente ou superior aoIntel Core i3 de 13ª geração ou AMD Ryzen 5 Série 7000, comvídeo gráfico integrado. Deverá possuir, no mínimo, 6 (seis) núcleos, 8 (oito) threads, 10 MB d",
-          "fase": "INTERPOSIÇÃO DE RECURSOS",
+          "fase": "RECEPÇÃO DE CONTRARRAZÕES",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -290948,7 +290880,7 @@
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "478/2026",
       "modalidade": "DISPENSA ELETRÔNICA",
-      "situacao": "RECEPÇÃO DE PROPOSTAS",
+      "situacao": "DISPUTA",
       "condutor": "ISLA LIMA SILVA",
       "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
       "tipo_contrato": "AQUISIÇÃO PARCELADA",
@@ -290964,7 +290896,7 @@
         {
           "numero": "1",
           "titulo": "ELABORAÇÃO DO PROJETO EXECUTIVO PARA INSTALAÇÃO DO SISTEMA INDICADOR DE TRAJETÓRIA DE APROXIMAÇÃO (PAPI) E HOMOLOGAÇÃO DO SISTEMA PAPI ATUALMENTE INSTALADO NO AEROPORTO 9 DE MAIO",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "fase": "DISPUTA",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,00",
@@ -297860,7 +297792,7 @@
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "846 / 2026",
       "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "PUBLICADO",
+      "situacao": "RECEPÇÃO DE PROPOSTAS",
       "condutor": "JONATAS DA SILVA SOUSA",
       "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
       "tipo_contrato": "AQUISIÇÃO PARCELADA",
@@ -297876,7 +297808,7 @@
         {
           "numero": "1",
           "titulo": "POLTRONAS PARA AUDITÓRIO",
-          "fase": "PUBLICADO",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -297928,8 +297860,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "192.421,00",
-          "vencedor": "A4C LTDA",
-          "melhor_oferta": "187.103,60",
+          "vencedor": "60.445.068 AMARILDO DE OLIVEIRA JUNIOR",
+          "melhor_oferta": "192.421,00",
           "total_itens": 3,
           "itens": [
             {
@@ -297958,7 +297890,7 @@
         {
           "numero": "2",
           "titulo": "MANUTENÇÃO PREVENTIVA",
-          "fase": "HABILITAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -297966,8 +297898,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "124.765,60",
-          "vencedor": "A4C LTDA",
-          "melhor_oferta": "118.266,20",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
           "total_itens": 3,
           "itens": [
             {
@@ -298058,7 +297990,7 @@
       "publicacao": "27/07/2026 12:47",
       "inicio_recepcao": "28/07/2026 08:00",
       "fim_recepcao": "01/09/2026 08:15",
-      "inicio_disputa": "01/09/2026 08:30",
+      "inicio_disputa": "04/09/2026 17:20",
       "objeto": "Contratação de empresa especializada em execução de obras de construção de quatro portais nas entradas do município de Teixeira de Freitas – BA.",
       "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DdvjHbQ8IFR6DCYbgwdXM7QvejQzOrwdWH91qnH0QWxce7f3bba_ZM7ZdB6Zjx9rOfH%2FJHVLF6jwJQvcgMPTsB2tONzSTSSPwIjBxLv5etSs%3D",
       "total_lotes": 1,
@@ -298190,7 +298122,7 @@
         {
           "numero": "1",
           "titulo": "10111500024 Ácido folínico 5mg/mL, Solução oral, frasco com 100ml:formula saborizada",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -298238,7 +298170,7 @@
         {
           "numero": "3",
           "titulo": "9900515998 COENZIMA Q10 300 MG/ 1 ML:frasco com 210 ml.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -298286,7 +298218,7 @@
         {
           "numero": "5",
           "titulo": "9900516000 Creatina 3g, Pó:(pote com 300g) - formula saborizada",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -298310,7 +298242,7 @@
         {
           "numero": "6",
           "titulo": "9900516001 DAPAGLIFLOZINA 5 MG:PIOGLITAZONA 30 MG,SITAGLIPTINA 100 MG.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -298334,7 +298266,7 @@
         {
           "numero": "7",
           "titulo": "9900516002 GLUTATIONA 150 MG:60 cápsulas.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -298358,7 +298290,7 @@
         {
           "numero": "8",
           "titulo": "9900516003 L - ARGININA 1 G:90 cápsulas.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -298382,7 +298314,7 @@
         {
           "numero": "9",
           "titulo": "9900516004 ROSUVASTATINA 40 MG + EZETIMIBA 10 MG:ROSUVASTATINA 40 MG + EZETIMIBA 10 MG.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -298406,7 +298338,7 @@
         {
           "numero": "10",
           "titulo": "9900516005 SUPLEMENTO ALIMENTAR DE COENZIMA Q10 HIDROSSOLÚVEL EM FORMA DE GOTAS:Frasco de 10 ml -Maxsolve .",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -298430,7 +298362,7 @@
         {
           "numero": "11",
           "titulo": "9900516006 VITAMINA A 2.000 UI, VITAMINA D 12.000 UI, VITAMINA K2 120 MCG, VEÍCULO LIPOSSOLÚVEL QSP 1ML:Frasco com 15 ml.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -298454,7 +298386,7 @@
         {
           "numero": "12",
           "titulo": "9900516007 Vitamina E Liquida Gotas 30mg/Ml:frasco com 30ml- formula saborizada",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -299482,290 +299414,6 @@
       ]
     },
     {
-      "id": "PE-122-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "857 / 2026",
-      "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "ADJUDICADO",
-      "condutor": "SERGIO CARNEIRO CAVALCANTI DE AZEVEDO",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO",
-      "publicacao": "31/07/2026 19:17",
-      "inicio_recepcao": "04/08/2026 08:00",
-      "fim_recepcao": "17/08/2026 10:15",
-      "inicio_disputa": "17/08/2026 10:30",
-      "objeto": "Contratação de empresa especializada em fornecimento de LIVROS PARADIDÁTICOS DESTINADOS AO NÚCLEO DE APOIO À EDUCAÇÃO INCLUSIVA (NAEI), a fim de atender as demandas da Secretaria Municipal de Educação.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5Ddak5njjOToAcA7%2FmLAYOhlG_MKrJka46OC8G62sjnBMT5lpgxRb7LcW67D0udvViwtoI7FCKzvQlaRPb1PzpZQHv_Mn2WM3pk82Ycjkq%2FbA%3D",
-      "total_lotes": 11,
-      "total_itens": 11,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "7601000001 Kit Livro Infantil Histórias Divertidas Com Desenhos 3D:livro pop up, imagens que saltam, livro ilustrativo, cores vivas educativa, capa almofadada",
-          "fase": "ADJUDICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "9.620,80",
-          "vencedor": "AQUARELA EDITORA E DISTRIBUIDORA LTDA",
-          "melhor_oferta": "7.420,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "7601000001 Kit Livro Infantil Histórias Divertidas Com Desenhos 3D:livro pop up, imagens que saltam, livro ilustrativo, cores vivas educativa, capa almofadada",
-              "unidade": "Und.",
-              "quantidade": "140,00",
-              "valor_referencia": "68,72"
-            }
-          ]
-        },
-        {
-          "numero": "2",
-          "titulo": "7601000002 Bocarra:Um livro Sensorial! Monstros Capa dura - Livro interativo, 1 julho 2023",
-          "fase": "ADJUDICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "5.290,60",
-          "vencedor": "AQUARELA EDITORA E DISTRIBUIDORA LTDA",
-          "melhor_oferta": "3.276,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "7601000002 Bocarra:Um livro Sensorial! Monstros Capa dura - Livro interativo, 1 julho 2023",
-              "unidade": "Und.",
-              "quantidade": "140,00",
-              "valor_referencia": "37,79"
-            }
-          ]
-        },
-        {
-          "numero": "3",
-          "titulo": "7601000003 Toc... toc... Quem mora aqui?:Autor: Maria Loretta Giraldo",
-          "fase": "ADJUDICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "9.927,40",
-          "vencedor": "SK DISTRIBUIDORA E COMERCIO DE LIVROS LTDA",
-          "melhor_oferta": "7.330,40",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "7601000003 Toc... toc... Quem mora aqui?:Autor: Maria Loretta Giraldo",
-              "unidade": "Und.",
-              "quantidade": "140,00",
-              "valor_referencia": "70,91"
-            }
-          ]
-        },
-        {
-          "numero": "4",
-          "titulo": "7601000004 Neurodiversidade Clássicos:João e o Pé de Feijão",
-          "fase": "ADJUDICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "4.235,00",
-          "vencedor": "LISBOA DISTRIBUIDORA DE LIVROS",
-          "melhor_oferta": "2.289,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "7601000004 Neurodiversidade Clássicos:João e o Pé de Feijão",
-              "unidade": "Und.",
-              "quantidade": "140,00",
-              "valor_referencia": "30,25"
-            }
-          ]
-        },
-        {
-          "numero": "5",
-          "titulo": "37695 Escolinha Baby Montessori - Contrastes!:Animais Capa dura - Livro de fotos, 1 agosto 2022",
-          "fase": "ADJUDICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "3.479,00",
-          "vencedor": "INTERBOOK LIVROS LTDA",
-          "melhor_oferta": "2.298,80",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37695 Escolinha Baby Montessori - Contrastes!:Animais Capa dura - Livro de fotos, 1 agosto 2022",
-              "unidade": "Und.",
-              "quantidade": "140,00",
-              "valor_referencia": "24,85"
-            }
-          ]
-        },
-        {
-          "numero": "6",
-          "titulo": "7601000005 Escolinha Baby Montessori - Contrastes!:Grande ou Pequeno? Capa dura - Livro de fotos, 1 agosto 2022",
-          "fase": "ADJUDICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "4.643,80",
-          "vencedor": "INTERBOOK LIVROS LTDA",
-          "melhor_oferta": "2.240,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "7601000005 Escolinha Baby Montessori - Contrastes!:Grande ou Pequeno? Capa dura - Livro de fotos, 1 agosto 2022",
-              "unidade": "Und.",
-              "quantidade": "140,00",
-              "valor_referencia": "33,17"
-            }
-          ]
-        },
-        {
-          "numero": "7",
-          "titulo": "7601000006 Alto-contraste Com Toque e Sinta - Palavras:Alto- contraste Com Toque e Sinta - Palavras",
-          "fase": "ADJUDICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "3.921,40",
-          "vencedor": "AQUARELA EDITORA E DISTRIBUIDORA LTDA",
-          "melhor_oferta": "2.184,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "7601000006 Alto-contraste Com Toque e Sinta - Palavras:Alto- contraste Com Toque e Sinta - Palavras",
-              "unidade": "Und.",
-              "quantidade": "140,00",
-              "valor_referencia": "28,01"
-            }
-          ]
-        },
-        {
-          "numero": "8",
-          "titulo": "7601000007 Barulhinhos do sítio:Toque, brinque e escute! Livro cartonado - Livro interativo, 1 abril 2018 Edição Português por Sam Taplin (Autor)",
-          "fase": "FRACASSADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "3.292,80",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "7601000007 Barulhinhos do sítio:Toque, brinque e escute! Livro cartonado - Livro interativo, 1 abril 2018 Edição Português por Sam Taplin (Autor)",
-              "unidade": "Und.",
-              "quantidade": "28,00",
-              "valor_referencia": "117,60"
-            }
-          ]
-        },
-        {
-          "numero": "9",
-          "titulo": "7601000008 Barulhinhos da floresta:Toque, brinque e escute! Capa dura - Livro com som, 1 dezembro 2018 Edição Português por Usborne Publishing (Autor)",
-          "fase": "FRACASSADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "3.417,96",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "7601000008 Barulhinhos da floresta:Toque, brinque e escute! Capa dura - Livro com som, 1 dezembro 2018 Edição Português por Usborne Publishing (Autor)",
-              "unidade": "Und.",
-              "quantidade": "28,00",
-              "valor_referencia": "122,07"
-            }
-          ]
-        },
-        {
-          "numero": "10",
-          "titulo": "7601000009 Barulhinhos dos filhotes! toque, brinque e escute! Capa dura   24 setembro 2024 por Lesley Sims (Autor):Barulhinhos dos filhotes! toque, brinque e escute! Capa dura - 24 setembro 2024 por Lesley Sims (Autor)",
-          "fase": "ADJUDICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "3.253,32",
-          "vencedor": "LISBOA DISTRIBUIDORA DE LIVROS",
-          "melhor_oferta": "3.077,20",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "7601000009 Barulhinhos dos filhotes! toque, brinque e escute! Capa dura 24 setembro 2024 por Lesley Sims (Autor):Barulhinhos dos filhotes! toque, brinque e escute! Capa dura - 24 setembro 2024 por Lesley Sims (Autor)",
-              "unidade": "Und.",
-              "quantidade": "28,00",
-              "valor_referencia": "116,19"
-            }
-          ]
-        },
-        {
-          "numero": "11",
-          "titulo": "7601000010 Não é sua, é minha! Capa comum   3 fevereiro 2014 Edição Português por Susanna Moores:Não é sua, é minha!Capa comum - 3 fevereiro 2014 Edição Português por Susanna Moores",
-          "fase": "ADJUDICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "8.978,20",
-          "vencedor": "AQUARELA EDITORA E DISTRIBUIDORA LTDA",
-          "melhor_oferta": "6.634,60",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "7601000010 Não é sua, é minha! Capa comum 3 fevereiro 2014 Edição Português por Susanna Moores:Não é sua, é minha!Capa comum - 3 fevereiro 2014 Edição Português por Susanna Moores",
-              "unidade": "Und.",
-              "quantidade": "140,00",
-              "valor_referencia": "64,13"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "2-DLE-081-2026",
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "890/2026",
@@ -300098,11 +299746,383 @@
       ]
     },
     {
+      "id": "3-DLE-094-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "989/2026",
+      "modalidade": "DISPENSA ELETRÔNICA",
+      "situacao": "RECEPÇÃO DE PROPOSTAS",
+      "condutor": "ISAQUE SILVA DOS SANTOS",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO",
+      "publicacao": "03/09/2026 17:45",
+      "inicio_recepcao": "03/09/2026 17:50",
+      "fim_recepcao": "08/09/2026 08:15",
+      "inicio_disputa": "08/09/2026 08:30",
+      "objeto": "Contratação de empresa especializada em fornecimento de [NINTEDANIBE (OFEV®)] (material de consumo), a fim de atender as necessidades da Secretaria Municipal de Saúde.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DZae4%2Fv1MWDooHZQ4A4S75SeIs07_tY%2FfParS7arYB4Hjp8NKFJ1vzgtZNow90PGWbCNQW0JknrQhl_CNfdkBVhBW4jUrZIL9lUrr6C2dXp4%3D",
+      "total_lotes": 1,
+      "total_itens": 1,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "NINTEDANIBE (OFEV®) 150 MG",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "62.677,80",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "10101200028 NINTEDANIBE (OFEV®) 150 MG:Fármacoantifibrótico e antineoplásico, quimicamente caracterizado comoum potente inibidor intracelular múltiplo de tirosina quinase. Atuapor meio do bloqueio competitivo do sítio de ligação do trifosfatode adenosina (ATP) nos receptores do fator de crescimentoderivado de plaquetas (PDGFR alfa e beta), do fator decrescimento fibroblástico (FGFR 1, 2 e 3) e do fator decrescimento endotelial vascular (VEGFR 1, 2 e 3). A inibiçãodestas vias de sinalização celular impede a proliferação, amigração e a diferenciação de fibroblastos e miofibroblastospulmonares, reduzindo a deposição anômala de colágeno e aremodelagem patológica da matriz extracelular. O medicamentoatua diretamente na desaceleração da taxa de declínio anual dacapacidade vital forçada (CVF), retardando a progressão dafibrose e atenuando a perda da função ventilatória pulmonar.",
+              "unidade": "CO",
+              "quantidade": "180,00",
+              "valor_referencia": "348,21"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3-DLE-095-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "824/2026",
+      "modalidade": "DISPENSA ELETRÔNICA",
+      "situacao": "RECEPÇÃO DE PROPOSTAS",
+      "condutor": "ISLA LIMA SILVA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO PARCELADA",
+      "publicacao": "03/09/2026 13:54",
+      "inicio_recepcao": "03/09/2026 13:55",
+      "fim_recepcao": "08/09/2026 08:15",
+      "inicio_disputa": "08/09/2026 08:30",
+      "objeto": "Contratação de empresa especializada em fornecimento de [CANABIDIOL PARA ATENDER DEMANDA JUDICIAL] (material de consumo), a fim de atender as necessidades da Secretaria Municipal de Saúde",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DcutQx9CSM29t9THuORIkTl6G%2FoxMC7C8z3fphJpE%2F1ofUFACGcPlgIgbrvMzlt9AOhS90FXHJdPIiVjIDdrtuFVLdBzw%2FcA_%2FWJTNIjgFlg%3D",
+      "total_lotes": 1,
+      "total_itens": 1,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "Canabidiol ISOLADO 200mg/ml",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "49.906,08",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "10101200026 Canabidiol ISOLADO 200mg/ml:Gotas; Marca HEALTHMEDS.",
+              "unidade": "FR",
+              "quantidade": "28,00",
+              "valor_referencia": "1.782,36"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-122-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "857 / 2026",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "HOMOLOGADO",
+      "condutor": "SERGIO CARNEIRO CAVALCANTI DE AZEVEDO",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO",
+      "publicacao": "31/07/2026 19:17",
+      "inicio_recepcao": "04/08/2026 08:00",
+      "fim_recepcao": "17/08/2026 10:15",
+      "inicio_disputa": "17/08/2026 10:30",
+      "objeto": "Contratação de empresa especializada em fornecimento de LIVROS PARADIDÁTICOS DESTINADOS AO NÚCLEO DE APOIO À EDUCAÇÃO INCLUSIVA (NAEI), a fim de atender as demandas da Secretaria Municipal de Educação.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DxBN_S4gF54m5jue%2F7TCVLNUEDDyufc_Y2FNCPptguToOzz_FD%2Fm9oT%2FMThxTkPcVmNcMDokwifE_kRUgJJyyEsentVjTrayjzRR8fPvTxAw%3D",
+      "total_lotes": 11,
+      "total_itens": 11,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "7601000001 Kit Livro Infantil Histórias Divertidas Com Desenhos 3D:livro pop up, imagens que saltam, livro ilustrativo, cores vivas educativa, capa almofadada",
+          "fase": "HOMOLOGADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "9.620,80",
+          "vencedor": "AQUARELA EDITORA E DISTRIBUIDORA LTDA",
+          "melhor_oferta": "7.420,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "7601000001 Kit Livro Infantil Histórias Divertidas Com Desenhos 3D:livro pop up, imagens que saltam, livro ilustrativo, cores vivas educativa, capa almofadada",
+              "unidade": "Und.",
+              "quantidade": "140,00",
+              "valor_referencia": "68,72"
+            }
+          ]
+        },
+        {
+          "numero": "2",
+          "titulo": "7601000002 Bocarra:Um livro Sensorial! Monstros Capa dura - Livro interativo, 1 julho 2023",
+          "fase": "HOMOLOGADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "5.290,60",
+          "vencedor": "AQUARELA EDITORA E DISTRIBUIDORA LTDA",
+          "melhor_oferta": "3.276,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "7601000002 Bocarra:Um livro Sensorial! Monstros Capa dura - Livro interativo, 1 julho 2023",
+              "unidade": "Und.",
+              "quantidade": "140,00",
+              "valor_referencia": "37,79"
+            }
+          ]
+        },
+        {
+          "numero": "3",
+          "titulo": "7601000003 Toc... toc... Quem mora aqui?:Autor: Maria Loretta Giraldo",
+          "fase": "HOMOLOGADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "9.927,40",
+          "vencedor": "SK DISTRIBUIDORA E COMERCIO DE LIVROS LTDA",
+          "melhor_oferta": "7.330,40",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "7601000003 Toc... toc... Quem mora aqui?:Autor: Maria Loretta Giraldo",
+              "unidade": "Und.",
+              "quantidade": "140,00",
+              "valor_referencia": "70,91"
+            }
+          ]
+        },
+        {
+          "numero": "4",
+          "titulo": "7601000004 Neurodiversidade Clássicos:João e o Pé de Feijão",
+          "fase": "HOMOLOGADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "4.235,00",
+          "vencedor": "LISBOA DISTRIBUIDORA DE LIVROS",
+          "melhor_oferta": "2.289,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "7601000004 Neurodiversidade Clássicos:João e o Pé de Feijão",
+              "unidade": "Und.",
+              "quantidade": "140,00",
+              "valor_referencia": "30,25"
+            }
+          ]
+        },
+        {
+          "numero": "5",
+          "titulo": "37695 Escolinha Baby Montessori - Contrastes!:Animais Capa dura - Livro de fotos, 1 agosto 2022",
+          "fase": "HOMOLOGADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "3.479,00",
+          "vencedor": "INTERBOOK LIVROS LTDA",
+          "melhor_oferta": "2.298,80",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37695 Escolinha Baby Montessori - Contrastes!:Animais Capa dura - Livro de fotos, 1 agosto 2022",
+              "unidade": "Und.",
+              "quantidade": "140,00",
+              "valor_referencia": "24,85"
+            }
+          ]
+        },
+        {
+          "numero": "6",
+          "titulo": "7601000005 Escolinha Baby Montessori - Contrastes!:Grande ou Pequeno? Capa dura - Livro de fotos, 1 agosto 2022",
+          "fase": "HOMOLOGADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "4.643,80",
+          "vencedor": "INTERBOOK LIVROS LTDA",
+          "melhor_oferta": "2.240,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "7601000005 Escolinha Baby Montessori - Contrastes!:Grande ou Pequeno? Capa dura - Livro de fotos, 1 agosto 2022",
+              "unidade": "Und.",
+              "quantidade": "140,00",
+              "valor_referencia": "33,17"
+            }
+          ]
+        },
+        {
+          "numero": "7",
+          "titulo": "7601000006 Alto-contraste Com Toque e Sinta - Palavras:Alto- contraste Com Toque e Sinta - Palavras",
+          "fase": "HOMOLOGADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "3.921,40",
+          "vencedor": "AQUARELA EDITORA E DISTRIBUIDORA LTDA",
+          "melhor_oferta": "2.184,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "7601000006 Alto-contraste Com Toque e Sinta - Palavras:Alto- contraste Com Toque e Sinta - Palavras",
+              "unidade": "Und.",
+              "quantidade": "140,00",
+              "valor_referencia": "28,01"
+            }
+          ]
+        },
+        {
+          "numero": "8",
+          "titulo": "7601000007 Barulhinhos do sítio:Toque, brinque e escute! Livro cartonado - Livro interativo, 1 abril 2018 Edição Português por Sam Taplin (Autor)",
+          "fase": "FRACASSADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "3.292,80",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "7601000007 Barulhinhos do sítio:Toque, brinque e escute! Livro cartonado - Livro interativo, 1 abril 2018 Edição Português por Sam Taplin (Autor)",
+              "unidade": "Und.",
+              "quantidade": "28,00",
+              "valor_referencia": "117,60"
+            }
+          ]
+        },
+        {
+          "numero": "9",
+          "titulo": "7601000008 Barulhinhos da floresta:Toque, brinque e escute! Capa dura - Livro com som, 1 dezembro 2018 Edição Português por Usborne Publishing (Autor)",
+          "fase": "FRACASSADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "3.417,96",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "7601000008 Barulhinhos da floresta:Toque, brinque e escute! Capa dura - Livro com som, 1 dezembro 2018 Edição Português por Usborne Publishing (Autor)",
+              "unidade": "Und.",
+              "quantidade": "28,00",
+              "valor_referencia": "122,07"
+            }
+          ]
+        },
+        {
+          "numero": "10",
+          "titulo": "7601000009 Barulhinhos dos filhotes! toque, brinque e escute! Capa dura   24 setembro 2024 por Lesley Sims (Autor):Barulhinhos dos filhotes! toque, brinque e escute! Capa dura - 24 setembro 2024 por Lesley Sims (Autor)",
+          "fase": "HOMOLOGADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "3.253,32",
+          "vencedor": "LISBOA DISTRIBUIDORA DE LIVROS",
+          "melhor_oferta": "3.077,20",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "7601000009 Barulhinhos dos filhotes! toque, brinque e escute! Capa dura 24 setembro 2024 por Lesley Sims (Autor):Barulhinhos dos filhotes! toque, brinque e escute! Capa dura - 24 setembro 2024 por Lesley Sims (Autor)",
+              "unidade": "Und.",
+              "quantidade": "28,00",
+              "valor_referencia": "116,19"
+            }
+          ]
+        },
+        {
+          "numero": "11",
+          "titulo": "7601000010 Não é sua, é minha! Capa comum   3 fevereiro 2014 Edição Português por Susanna Moores:Não é sua, é minha!Capa comum - 3 fevereiro 2014 Edição Português por Susanna Moores",
+          "fase": "HOMOLOGADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "8.978,20",
+          "vencedor": "AQUARELA EDITORA E DISTRIBUIDORA LTDA",
+          "melhor_oferta": "6.634,60",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "7601000010 Não é sua, é minha! Capa comum 3 fevereiro 2014 Edição Português por Susanna Moores:Não é sua, é minha!Capa comum - 3 fevereiro 2014 Edição Português por Susanna Moores",
+              "unidade": "Und.",
+              "quantidade": "140,00",
+              "valor_referencia": "64,13"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "4-DLE-075-2026",
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "844/2026",
       "modalidade": "DISPENSA ELETRÔNICA",
-      "situacao": "ADJUDICADO",
+      "situacao": "HOMOLOGADO",
       "condutor": "ISAQUE SILVA DOS SANTOS",
       "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
       "tipo_contrato": "AQUISIÇÃO",
@@ -300111,7 +300131,7 @@
       "fim_recepcao": "03/08/2026 08:15",
       "inicio_disputa": "03/08/2026 08:30",
       "objeto": "Contratação de empresa especializada em fornecimento de TECIDOS E LUVAS (material de consumo), a fim de atender as demandas da Secretaria Municipal de Educação.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DnwL_I1HeeP1z6jv1wuEnH0r%2FxMljDnHxgyFVROch7tQUPPQw%2FVXStd66iifHx1XJeuxtK9lHPSnVwVuRd1GaeVcrXs8L1uTfWUmB3vSQDeI%3D",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DdPOTuE32EJS7YYG%2FBygdtWyPs9t6uRytBx_DONdl9ENHZJHpvoXLeuDydhMvmPpeK1_uX9PNiio1vrPqRfK%2FW10JxuObbiADub0qwteBWww%3D",
       "total_lotes": 9,
       "total_itens": 9,
       "lotes": [
@@ -300142,7 +300162,7 @@
         {
           "numero": "2",
           "titulo": "TNT (tecido não tecido)",
-          "fase": "ADJUDICADO",
+          "fase": "HOMOLOGADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,00",
@@ -300166,7 +300186,7 @@
         {
           "numero": "3",
           "titulo": "Feltro",
-          "fase": "ADJUDICADO",
+          "fase": "HOMOLOGADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,00",
@@ -300190,7 +300210,7 @@
         {
           "numero": "4",
           "titulo": "Organza",
-          "fase": "ADJUDICADO",
+          "fase": "HOMOLOGADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,00",
@@ -300286,7 +300306,7 @@
         {
           "numero": "8",
           "titulo": "Tecido tipo chita",
-          "fase": "ADJUDICADO",
+          "fase": "HOMOLOGADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,00",
@@ -300310,7 +300330,7 @@
         {
           "numero": "9",
           "titulo": "Tecido alvejado",
-          "fase": "ADJUDICADO",
+          "fase": "HOMOLOGADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,00",
@@ -300338,7 +300358,7 @@
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "783/2026",
       "modalidade": "DISPENSA ELETRÔNICA",
-      "situacao": "ADJUDICADO",
+      "situacao": "HOMOLOGADO",
       "condutor": "ISAQUE SILVA DOS SANTOS",
       "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
       "tipo_contrato": "AQUISIÇÃO",
@@ -300347,14 +300367,14 @@
       "fim_recepcao": "28/07/2026 08:15",
       "inicio_disputa": "28/07/2026 08:30",
       "objeto": "Contratação de empresa especializada em fornecimento de [ALIMENTOS ESPECIAIS] (material de consumo), a fim de atender as necessidades da Secretaria Municipal de Educação",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DeNPaQGmYhOEwr34VHih2iUU7m9ndLhpfXoWTh0HcNU8uBEiDcmkddlBu5USL3txp4DbdULrn8nPoivQQBsiQx_fB9D9E9V0c7Fyv89m94as%3D",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DuPBsuLJwlzAFGGeQCpnF8K9LH_SqA3hdmj5OtDEyKGAPQ1HK_hB4SpOL84rvRhJ2JOld2mifwftRefHE%2FqsxnJ1GSyGh06Q_Jm15_C%2FL2RE%3D",
       "total_lotes": 4,
       "total_itens": 4,
       "lotes": [
         {
           "numero": "1",
           "titulo": "MACARRÃO INTEGRAL",
-          "fase": "ADJUDICADO",
+          "fase": "HOMOLOGADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,00",
@@ -300378,7 +300398,7 @@
         {
           "numero": "2",
           "titulo": "MACARRÃO DE ARROZ",
-          "fase": "ADJUDICADO",
+          "fase": "HOMOLOGADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,00",
@@ -300402,7 +300422,7 @@
         {
           "numero": "3",
           "titulo": "BISCOITO DE ARROZ",
-          "fase": "ADJUDICADO",
+          "fase": "HOMOLOGADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,00",
@@ -300426,7 +300446,7 @@
         {
           "numero": "4",
           "titulo": "LEITE EM PÓ SEM LACTOSE",
-          "fase": "ADJUDICADO",
+          "fase": "HOMOLOGADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,00",
@@ -300454,7 +300474,7 @@
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "650/2026",
       "modalidade": "DISPENSA ELETRÔNICA",
-      "situacao": "ADJUDICADO",
+      "situacao": "HOMOLOGADO",
       "condutor": "ISLA LIMA SILVA",
       "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
       "tipo_contrato": "AQUISIÇÃO",
@@ -300463,14 +300483,14 @@
       "fim_recepcao": "20/07/2026 08:15",
       "inicio_disputa": "20/07/2026 08:30",
       "objeto": "Contratação de empresa especializada em fornecimento de [CAPACETES MOTOCICLÍSTICOS], a fim de atender as necessidades da Secretaria Municipal de Educação.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DMkGeQS0oob0QEnHHAdsZNJu6ahgpkVyiCQAAb8VR7YkK3FbqwVBDx9574rZh4tUxm5KJ2ixoFrwawhz66OD0DpnZTna2jUD3Vsl4_a0rGJw%3D",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5D6J5c1ccKWzxrP1q8VR2QlceXwIdlTDgTHa7xfCuWjg7m6sosAI7Sa4xOk5NIpOn8Wud1DVgc9N83_%2Fv5UCmZXNw6Q1bp3aUq7SCYU0VWVek%3D",
       "total_lotes": 1,
       "total_itens": 1,
       "lotes": [
         {
           "numero": "1",
           "titulo": "CAPACETE DE SEGURANÇA PARA MOTOCICLISTA",
-          "fase": "ADJUDICADO",
+          "fase": "HOMOLOGADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,00",
@@ -300478,7 +300498,7 @@
           "local_entrega": "",
           "garantia": "",
           "valor_referencia": "10.006,00",
-          "vencedor": "DEBORAH DE SOUZA CONGIU NAVARRO LTDA",
+          "vencedor": "DISTRIBUIMAAIS NEGOCIOS CORPARATIVO LTDA",
           "melhor_oferta": "5.996,80",
           "total_itens": 1,
           "itens": [
@@ -300498,7 +300518,7 @@
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "777 / 2026",
       "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "ADJUDICADO",
+      "situacao": "HOMOLOGADO",
       "condutor": "SERGIO CARNEIRO CAVALCANTI DE AZEVEDO",
       "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
       "tipo_contrato": "AQUISIÇÃO",
@@ -300507,14 +300527,14 @@
       "fim_recepcao": "27/07/2026 13:45",
       "inicio_disputa": "27/07/2026 14:00",
       "objeto": "Contratação de empresa especializada em fornecimento de VEÍCULOS DIVERSOS,  a fim de atender as demandas da Secretaria Municipal de Educação.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DnMKyUJswLH7hz5K6GiNoOj30dBwGCgerCDmaGMShaHmOXQUGw3LPUxQeLXKCYUr0JrAoxq2RS2792%2F3fqlj6RxLFlIaPkkVF7XfTNeZWRBM%3D",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5D42gLB4WnkxCKcPfeq4kReZbw1qqb4ef6zLMDFJE5kV2RLHn3%2F0%2FScP8aAd2FyLd7fYvK7fi7ReXblajZbdlUsYGAdXyCxbuFRMnV7qtmvKM%3D",
       "total_lotes": 3,
       "total_itens": 3,
       "lotes": [
         {
           "numero": "1",
           "titulo": "2302000095 CAMINHÃO BAÚ ZERO QUILÔMETRO:ano/modelo 2025 ou superior, motor a diesel ou biodiesel, potência mínima de cento e cinquenta cavalos, transmissão manual ou automática com no mínimo seis marchas, conforme normas de emissão Euro 6, categoria leve",
-          "fase": "ADJUDICADO",
+          "fase": "HOMOLOGADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -300538,7 +300558,7 @@
         {
           "numero": "2",
           "titulo": "2302000096 VEÍCULO AUTOMOTOR TIPO CAMINHONETE (PICK-UP):cabine dupla, zero quilometro, ano/modelo igual ou superior ao da contratação, capacidade para 05 (cinco) ocupantes, carroceria com caçamba aberta, motorização a diesel com turbocompressor, potência",
-          "fase": "ADJUDICADO",
+          "fase": "HOMOLOGADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -300562,7 +300582,7 @@
         {
           "numero": "3",
           "titulo": "2302000097 VEÍCULO AUTOMOTOR COMERCIAL TIPO VANPARA TRANSPORTE DE PASSAGEIROS:zero quilômetro, ano/modelo igual ou superior ao da contratação, capacidde mínima para 16(dezesseis) e máxima para 20 (vinte) passageiros sentados, além do motorista, motorizaç",
-          "fase": "ADJUDICADO",
+          "fase": "HOMOLOGADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -300586,11 +300606,79 @@
       ]
     },
     {
+      "id": "2-DLE-053-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "487 / 2026",
+      "modalidade": "DISPENSA ELETRÔNICA",
+      "situacao": "ADJUDICADO",
+      "condutor": "ISLA LIMA SILVA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO",
+      "publicacao": "17/06/2026 16:26",
+      "inicio_recepcao": "17/06/2026 16:31",
+      "fim_recepcao": "23/06/2026 08:15",
+      "inicio_disputa": "23/06/2026 08:30",
+      "objeto": "Contratação de empresa especializada em FORNECIMENTO DE ANTENA STARLINK E PRESTAÇÃO DE SERVIÇO DE PLANO DE INTERNET (material permanente) e (prestação de serviço), a fim de atender as demandas da Secretaria Municipal de Administração e demais secretarias.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DTLTdOqtU3z%2FmDPdhG2Hy_5Pp_rxQVMwLWo3LdIkLLt8ztHn7uJprMHpAByDa6L%2FQM8spE75kaWYrZFx6OOjrFGdoqYgjlpTzTh5onSDgVRQ%3D",
+      "total_lotes": 2,
+      "total_itens": 2,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "5707611164 Antena de Internet via Satélite Portátil - Starlink Mini:Terminal de internet via satélite portátil modelo Mini, composto por antena compacta de alto desempenho, roteador Wi- Fi integrado, fonte de alimentação, cabos e demais acessórios necessá",
+          "fase": "ADJUDICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "1.907,26",
+          "vencedor": "WEBFOCO TELECOMUNICAÇÕES LTDA EPP",
+          "melhor_oferta": "1.649,50",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "5707611164 Antena de Internet via Satélite Portátil - Starlink Mini:Terminal de internet via satélite portátil modelo Mini, composto por antena compacta de alto desempenho, roteador Wi- Fi integrado, fonte de alimentação, cabos e demais acessórios necessários ao pleno funcionamento do equipamento,compatível com a rede da empresa Starlink. O equipamento deverá permitir instalação simplificada, operação em campo e transporte facilitado, possibilitando acesso à internet banda larga em locais sem infraestrutura de conectividade terrestre, com tecnologia de comunicação via satélite de órbita baixa (LEO), baixa latência e conexão estável. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "2,00",
+              "valor_referencia": "953,63"
+            }
+          ]
+        },
+        {
+          "numero": "2",
+          "titulo": "37316 Plano de Serviço de Internet via Satélite Starlink (Mobilidade/Viagem) 100mbs:Plano de prestação de serviço de internet via satélite na modalidade móvel/viagem, com franquia mensal de dados de 100 GB, destinado à utilização do terminal portátil desc",
+          "fase": "ADJUDICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "30.120,96",
+          "vencedor": "WEBFOCO TELECOMUNICAÇÕES LTDA EPP",
+          "melhor_oferta": "25.989,60",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37316 Plano de Serviço de Internet via Satélite Starlink (Mobilidade/Viagem) 100mbs:Plano de prestação de serviço de internet via satélite na modalidade móvel/viagem, com franquia mensal de dados de 100 GB, destinado à utilização do terminal portátil descrito no item anterior. O plano deverá possibilitar utilização em diferentes localidades dentro do território nacional, garantindo conectividade em deslocamentos, operações externas, eventos, visitas técnicas e demais atividades que demandem acesso remoto à internet, com ativação e gestão vinculadas ao equipamento contratado. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "MES",
+              "quantidade": "48,00",
+              "valor_referencia": "627,52"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "PE-086-2026",
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "1350 / 2025",
       "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "ADJUDICADO",
+      "situacao": "HOMOLOGADO",
       "condutor": "JONATAS DA SILVA SOUSA",
       "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
       "tipo_contrato": "AQUISIÇÃO",
@@ -300599,7 +300687,7 @@
       "fim_recepcao": "10/06/2026 08:15",
       "inicio_disputa": "10/06/2026 08:30",
       "objeto": "Contratação de empresa especializada em fornecimento de BETONEIRA E CARRO COLETOR (material permanente e de consumo), a fim de atender as demandas da Secretaria Municipal de Infraestrutura e Serviços Urbanos.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5D0EjzAWhH5XQNYLDbZpJDLyeWVHfnoylz8BoTA25zSF9wcquWsCHgSitAgwrFlbEWO9kGpDGy_wOhAA2RzReZkcuRbtd4371S3nuo7y8f3MU%3D",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5D9JgXlLK%2FmUcnqTg7Kj_XJHoKWQl3B0eGMKyYjEc8GubQ9X7dcP552SZpmVcpEOZoTjSrh0yprA_KEAndvWFcp%2F1OAN_DHTVczJsGlBPCknk%3D",
       "total_lotes": 2,
       "total_itens": 2,
       "lotes": [
@@ -300630,7 +300718,7 @@
         {
           "numero": "2",
           "titulo": "9900514889 CARRINHO COLETOR 120L EMPOLIETILENO:carrinho coletor de lixo 120l deve ser sem pedal e com 120 litros, fabricado em polietileno de alta densidade (pead) ou polipropileno (pp) e injetados em máquinas de alta tecnologia ou através do processo de",
-          "fase": "ADJUDICADO",
+          "fase": "HOMOLOGADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -300658,29 +300746,29 @@
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "758/2025",
       "modalidade": "CREDENCIAMENTO",
-      "situacao": "EM FINALIZAÇÃO",
+      "situacao": "SUSPENSO",
       "condutor": "MAGDA DE SELES GUIMARÃES",
       "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
       "tipo_contrato": "AQUISIÇÃO",
-      "publicacao": "03/06/2025 16:35",
+      "publicacao": "03/06/2025 11:48",
       "inicio_recepcao": "13/06/2025 08:00",
-      "fim_recepcao": "15/06/2026 08:00",
+      "fim_recepcao": "15/06/2026 00:00",
       "inicio_disputa": "",
-      "objeto": "CREDENCIAMENTO DE PESSOA JURÍDICA PARA PRESTAÇÃO DE SERVIÇOS MÉDICOS ESPECIALIZADOS EM ANÁLISE PATOLÓGICA PARA ATENDER AS DEMANDAS DA SECRETARIA MUNICIPAL DE SAÚDE",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5D03hW%2Fnx0KCD6NCcQohuBRls%2FPei_RL3RvfBEUhj5z3RbmxBn636MwB8GRHM2TsECtg1l%2F7spEWWfKFpYAAGBcl2vjp_WvpvSWE8O3njRO1A%3D",
-      "total_lotes": 6,
-      "total_itens": 6,
+      "objeto": "Credenciamento de pessoa jurídica para PRESTAÇÃO DE SERVIÇOS\n MÉDICOS ESPECIALIZADOS EM ANÁLISE PATOLÓGICA para atender as demandas da\n Secretaria Municipal de Saúde.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5De09QK8FOa8CxwCoGVRFCSH0EwRgqtdMtr6TNCQUh2pZc5ZdusQE1C6yhJnGYe6VOGSe6IWKYrQ%2FYZMpHPSVgo9nq0fpy3tTReOTkZGLbYv8%3D",
+      "total_lotes": 9,
+      "total_itens": 9,
       "lotes": [
         {
           "numero": "1",
-          "titulo": "33436 BIÓPSIA SIMPLES",
-          "fase": "HABILITAÇÃO",
+          "titulo": "33436 BIÓPSIA SIMPLES:BIÓPSIA SIMPLES",
+          "fase": "SUSPENSO",
           "tipo": "UNITÁRIO",
           "quantidade": "1",
           "intervalo_minimo": "0,00",
           "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
+          "local_entrega": "",
+          "garantia": "",
           "valor_referencia": "60,19",
           "vencedor": "",
           "melhor_oferta": "0,00",
@@ -300690,21 +300778,45 @@
               "numero": "1",
               "especificacao": "33436 BIÓPSIA SIMPLES:BIÓPSIA SIMPLES",
               "unidade": "SERV",
-              "quantidade": "2.500,00",
+              "quantidade": "1.875,00",
               "valor_referencia": "60,19"
             }
           ]
         },
         {
           "numero": "2",
-          "titulo": "9903311392 CITOLOGIA EM MEIO LIQUIDO",
-          "fase": "HABILITAÇÃO",
+          "titulo": "909911235 BIOPSIA SIMPLES:BIÓPSIA SIMPLES. COTA DE 25% RESERVADA PARA  ME/EPP.",
+          "fase": "SUSPENSO",
           "tipo": "UNITÁRIO",
           "quantidade": "1",
           "intervalo_minimo": "0,00",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
+          "exclusivo_me": "SIM",
+          "local_entrega": "",
+          "garantia": "",
+          "valor_referencia": "60,19",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "909911235 BIOPSIA SIMPLES:BIÓPSIA SIMPLES. COTA DE 25% RESERVADA PARA ME/EPP.",
+              "unidade": "SERV",
+              "quantidade": "625,00",
+              "valor_referencia": "60,19"
+            }
+          ]
+        },
+        {
+          "numero": "3",
+          "titulo": "9903311392 CITOLOGIA EM MEIO LIQUIDO - BRONQUIO: CITOLOGIA EM MEIO LIQUIDO - BRONQUIO EXCLUSIVO PARA ME/EPP",
+          "fase": "SUSPENSO",
+          "tipo": "UNITÁRIO",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "SIM",
+          "local_entrega": "",
+          "garantia": "",
           "valor_referencia": "62,25",
           "vencedor": "",
           "melhor_oferta": "0,00",
@@ -300712,7 +300824,7 @@
           "itens": [
             {
               "numero": "1",
-              "especificacao": "9903311392 CITOLOGIA EM MEIO LIQUIDO - BRONQUIO:CITOLOGIA EM MEIO LIQUIDO - BRONQUIO.",
+              "especificacao": "CITOLOGIA EM MEIO LIQUIDO - BRONQUIO: CITOLOGIA EM MEIO LIQUIDO - BRONQUIO EXCLUSIVO PARA ME/EPP",
               "unidade": "SERV",
               "quantidade": "100,00",
               "valor_referencia": "62,25"
@@ -300720,15 +300832,15 @@
           ]
         },
         {
-          "numero": "3",
-          "titulo": "9903311373 COLORAÇÃO ESPECIAL",
-          "fase": "HABILITAÇÃO",
+          "numero": "4",
+          "titulo": "9903311373 COLORAÇÃO ESPECIAL:Marcação da biópsia por corantes especiais. EXCLUSIVO PARA ME/EPP",
+          "fase": "SUSPENSO",
           "tipo": "UNITÁRIO",
           "quantidade": "1",
           "intervalo_minimo": "0,00",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
+          "exclusivo_me": "SIM",
+          "local_entrega": "",
+          "garantia": "",
           "valor_referencia": "33,65",
           "vencedor": "",
           "melhor_oferta": "0,00",
@@ -300736,7 +300848,7 @@
           "itens": [
             {
               "numero": "1",
-              "especificacao": "9903311373 COLORAÇÃO ESPECIAL: Marcação da biópsia por corantes especiais.",
+              "especificacao": "9903311373 COLORAÇÃO ESPECIAL:Marcação da biópsia por corantes especiais. EXCLUSIVO PARA ME/EPP",
               "unidade": "SERV",
               "quantidade": "50,00",
               "valor_referencia": "33,65"
@@ -300744,15 +300856,15 @@
           ]
         },
         {
-          "numero": "4",
-          "titulo": "9903311378 CORE BYOPSY",
-          "fase": "HABILITAÇÃO",
+          "numero": "5",
+          "titulo": "9903311378 CORE BYOPSY:CORE BYOPSY. EXCLUSIVO PARA ME/EPP",
+          "fase": "SUSPENSO",
           "tipo": "UNITÁRIO",
           "quantidade": "1",
           "intervalo_minimo": "0,00",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
+          "exclusivo_me": "SIM",
+          "local_entrega": "",
+          "garantia": "",
           "valor_referencia": "68,46",
           "vencedor": "",
           "melhor_oferta": "0,00",
@@ -300760,7 +300872,7 @@
           "itens": [
             {
               "numero": "1",
-              "especificacao": "9903311378 CORE BYOPSY:CORE BYOPSY.",
+              "especificacao": "9903311378 CORE BYOPSY:CORE BYOPSY. EXCLUSIVO PARA ME/EPP",
               "unidade": "SERV",
               "quantidade": "100,00",
               "valor_referencia": "68,46"
@@ -300768,15 +300880,15 @@
           ]
         },
         {
-          "numero": "5",
-          "titulo": "33437 PEÇA CIRÚRGICA SIMPLES",
-          "fase": "HABILITAÇÃO",
+          "numero": "6",
+          "titulo": "33437 PEÇA CIRÚRGICA SIMPLES:PEÇA CIRÚRGICA SIMPLES",
+          "fase": "SUSPENSO",
           "tipo": "UNITÁRIO",
           "quantidade": "1",
           "intervalo_minimo": "0,00",
           "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
+          "local_entrega": "",
+          "garantia": "",
           "valor_referencia": "75,00",
           "vencedor": "",
           "melhor_oferta": "0,00",
@@ -300786,21 +300898,45 @@
               "numero": "1",
               "especificacao": "33437 PEÇA CIRÚRGICA SIMPLES:PEÇA CIRÚRGICA SIMPLES",
               "unidade": "SERV",
-              "quantidade": "2.500,00",
+              "quantidade": "1.875,00",
               "valor_referencia": "75,00"
             }
           ]
         },
         {
-          "numero": "6",
-          "titulo": "9903311384 PEÇA CIRÚRGICA COMPLEXA",
-          "fase": "HABILITAÇÃO",
+          "numero": "7",
+          "titulo": "9909911236 PEÇA CIRURGICA SIMPLES:PEÇA CIRURGICA SIMPLES. COTA DE 25% RESERVADA PARA ME/EPP",
+          "fase": "SUSPENSO",
+          "tipo": "UNITÁRIO",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "SIM",
+          "local_entrega": "",
+          "garantia": "",
+          "valor_referencia": "75,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9909911236 PEÇA CIRURGICA SIMPLES:PEÇA CIRURGICA SIMPLES. COTA DE 25% RESERVADA PARA ME/EPP",
+              "unidade": "SERV",
+              "quantidade": "625,00",
+              "valor_referencia": "75,00"
+            }
+          ]
+        },
+        {
+          "numero": "8",
+          "titulo": "9903311384 PEÇA CIRÚRGICA COMPLEXA:PEÇA CIRÚRGICA COMPLEXA",
+          "fase": "SUSPENSO",
           "tipo": "UNITÁRIO",
           "quantidade": "1",
           "intervalo_minimo": "0,00",
           "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
+          "local_entrega": "",
+          "garantia": "",
           "valor_referencia": "243,42",
           "vencedor": "",
           "melhor_oferta": "0,00",
@@ -300810,7 +300946,31 @@
               "numero": "1",
               "especificacao": "9903311384 PEÇA CIRÚRGICA COMPLEXA:PEÇA CIRÚRGICA COMPLEXA",
               "unidade": "UN",
-              "quantidade": "1.500,00",
+              "quantidade": "1.125,00",
+              "valor_referencia": "243,42"
+            }
+          ]
+        },
+        {
+          "numero": "9",
+          "titulo": "9909911237 PEÇA CIRURGICA COMPLEXA:PEÇA CIRURGICA COMPLEXA. COTA DE  25%  RESERVADA PARA ME/EPP.",
+          "fase": "SUSPENSO",
+          "tipo": "UNITÁRIO",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "SIM",
+          "local_entrega": "",
+          "garantia": "",
+          "valor_referencia": "243,42",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9909911237 PEÇA CIRURGICA COMPLEXA:PEÇA CIRURGICA COMPLEXA. COTA DE 25% RESERVADA PARA ME/EPP.",
+              "unidade": "SERV",
+              "quantidade": "375,00",
               "valor_referencia": "243,42"
             }
           ]
@@ -300822,38 +300982,38 @@
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "705/2024",
       "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "SUSPENSO",
-      "condutor": "VICTOR KINIDEL DETHLING",
+      "situacao": "HOMOLOGADO",
+      "condutor": "MAGDA DE SELES GUIMARÃES",
       "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
       "tipo_contrato": "AQUISIÇÃO",
-      "publicacao": "15/05/2024 18:26",
-      "inicio_recepcao": "16/05/2024 08:00",
-      "fim_recepcao": "12/06/2024 09:45",
-      "inicio_disputa": "12/06/2024 10:00",
-      "objeto": "Contratação de instituição financeira para prestação de serviços bancários para centralização, gerenciamento e processamento de créditos da folha de pagamento dos servidores, a fim de atender as demandas da Prefeitura de Teixeira de Freitas, conforme condições, quantidades e especificações no Edital, Termo de Referência e seus Anexos.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5D52Kgf%2FdFNJCLqaATB6Pc6Xg0nbtopLObUIEUUZ6sM0bbPon6VdSHRRsE_8ckXNaqiceo38dWKUw8HMciQh_kXNHZmqNsw%2F3gZqptiry0KkE%3D",
+      "publicacao": "13/06/2024 18:49",
+      "inicio_recepcao": "14/06/2024 08:00",
+      "fim_recepcao": "10/07/2024 13:45",
+      "inicio_disputa": "10/07/2024 14:00",
+      "objeto": "O objeto da presente licitação é a contratação de INSTITUIÇÃO FINANCEIRA ESPECIALIZADA NA PRESTAÇÃO DE SERVIÇOS BANCÁRIOS PARA CENTRALIZAÇÃO, GERENCIAMENTO E PROCESSAMENTO DE CRÉDITOS DA FOLHA DE PAGAMENTO DOS SERVIDORES, a fim de atender as demandas da Secretaria Municipal de Administração, conforme condições, quantidades e especificações no Edital, Termo de Referência e seus Anexos.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5D3mISjsrY9INf7OnVdKjZ3ogsa89DdKsbo_u0w4_NGZ67RpTXx4ecEJZfNTWWtZkCdjA90Qf%2FEDnKLnOShpccH1pGRhq3KwEauge11l1S_AM%3D",
       "total_lotes": 1,
       "total_itens": 1,
       "lotes": [
         {
           "numero": "1",
-          "titulo": "LOTE 01",
-          "fase": "SUSPENSO",
-          "tipo": "UNITÁRIO",
+          "titulo": "SERVIÇOS BANCÁRIOS",
+          "fase": "HOMOLOGADO",
+          "tipo": "GLOBAL",
           "quantidade": "1",
-          "intervalo_minimo": "100,00",
+          "intervalo_minimo": "0,01",
           "exclusivo_me": "NÃO",
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "6.052.150,00",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
+          "vencedor": "ITAÚ UNIBANCO S.A.",
+          "melhor_oferta": "6.053.000,00",
           "total_itens": 1,
           "itens": [
             {
               "numero": "1",
               "especificacao": "CONTRATAÇÃO DE INSTITUIÇÃO FINANCEIRA: ESPECIALIZADA NA PRESTAÇÃO DE SERVIÇOS BANCÁRIOS PARA CENTRALIZAÇÃO, GERENCIAMENTO E PROCESSAMENTO DE CRÉDITOS DA FOLHA DE PAGAMENTO DOS SERVIDORES DA PREFEITURA MUNICIPAL DE TEIXEIRA DE FREITAS/BA.",
-              "unidade": "SERVIÇO",
+              "unidade": "UN",
               "quantidade": "1,00",
               "valor_referencia": "6.052.150,00"
             }
