@@ -1,10 +1,10 @@
 {
   "metadata": {
     "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-    "total_processos": 892,
-    "total_lotes": 9890,
-    "total_itens": 16435,
-    "atualizado_em": "20260904_090508"
+    "total_processos": 894,
+    "total_lotes": 9894,
+    "total_itens": 16439,
+    "atualizado_em": "20260908_093400"
   },
   "processos": [
     {
@@ -288874,377 +288874,6 @@
       ]
     },
     {
-      "id": "PE-137-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "891 / 2026",
-      "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "RECEPÇÃO DE PROPOSTAS",
-      "condutor": "SERGIO CARNEIRO CAVALCANTI DE AZEVEDO",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO PARCELADA",
-      "publicacao": "24/08/2026 18:31",
-      "inicio_recepcao": "26/08/2026 08:00",
-      "fim_recepcao": "08/09/2026 08:15",
-      "inicio_disputa": "08/09/2026 08:30",
-      "objeto": "Contratação de empresa especializada em fornecimento MATERIAIS ESPORTIVOS (material de consumo) e (material permanente), a fim de atender as demandas da Secretaria Municipal de\nEducação.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DuQvShTBsg6lmBCvw1yCRhyxxesdyV3oKxnqElmLXPS59U2XKO5lrPC8bpHCqgvTJqvE1H8P2cYR4sWYiCJ_pUKcrZR8qjUzeBX5Nb7UX09w%3D",
-      "total_lotes": 5,
-      "total_itens": 38,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "LOLTE 1",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 2,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37744 Relógio digital para xadrez:portátil, destinado ao controle de tempo em partidas, treinamentos e competições.Confeccionado em material plástico de elevada resistência mecânica, com acabamento de qualidade e base estável. Deverá possuir visor digital de cristal líquido (LCD) de fácil leitura, com exibição simultânea do tempo de ambos os jogadores, teclas independentes de acionamento, programação de contagem regressiva e progressiva, pausa, reinício, memória para armazenamento da última configuração utilizada e aviso sonoro opcional ao término do tempo programado. Alimentação por pilha AA ou equivalente de fácil reposição. Dimensões aproximadas de 16 x 10 x 6 cm, admitindo pequenas variações.",
-              "unidade": "UND",
-              "quantidade": "50,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "2",
-              "especificacao": "9900516107 Jogo de xadrez profissional:composto por tabuleiro, conjunto completo de 34 peças e estojo para transporte.Tabuleiro confeccionado em material resistente, medindo aproximadamente 50 x 50 cm, com casas de aproximadamente 5,5 x 5,5 cm, impressão permanente de alto contraste e acabamento resistente ao desgaste. Peças confeccionadas em plástico de alta resistência ou material equivalente de qualidade equivalente, padrão tradicional, com bases revestidas em feltro ou material similar para melhor estabilidade e proteção da superfície de jogo. Rei com altura aproximada entre 95 mm e 100 mm, mantendo proporcionalidade entre as demais peças. O conjunto deverá acompanhar duas damas adicionais para promoção e bolsa ou estojo resistente para armazenamento e transporte.",
-              "unidade": "UND",
-              "quantidade": "500,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "2",
-          "titulo": "LOLTE 2",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 6,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900830621 Mesa para tênis de mesa:de uso profissional ou treinamento intensivo, composta por tampo em MDF de 25 mm de espessura, dividido em duas partes articuladas, com acabamento em pintura resistente na cor azul ou verde, linhas demarcatórias permanentes em cor contrastante e estrutura metálica em aço carbono com tratamento anticorrosivo e pintura eletrostática. Deverá possuir sistema articulado para armazenamento, rodízios com travas para deslocamento, pés dobráveis e possibilidade de utilização de metade da mesa para treinamento individual. Dimensões aproximadas de 2,74 m de comprimento, 1,525 m de largura e 0,76 m de altura. Deverá acompanhar conjunto composto por suportes metálicos para fixação da rede e rede em nylon de alta resistência.",
-              "unidade": "UND",
-              "quantidade": "20,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "2",
-              "especificacao": "9900516108 Bola para tênis de mesa:confeccionada em material plástico de elevada resistência, diâmetro de 40 mm, cor branca, superfície uniforme, acabamento liso, boa esfericidade e resistência a deformações. Embalagem contendo 10 unidades. Indicada para atividades recreativas, iniciação esportiva e treinamentos.",
-              "unidade": "KIT",
-              "quantidade": "100,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "3",
-              "especificacao": "37746 Bola para tênis de mesa de alto desempenho:confeccionada em material plástico de elevada resistência, diâmetro de 40 mm, cor branca, superfície uniforme, excelente equilíbrio, precisão de quique e durabilidade, indicada para treinamentos avançados e competições. Embalagem contendo 06 unidades.",
-              "unidade": "KIT",
-              "quantidade": "20,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "4",
-              "especificacao": "9900516109 Raquete infantil para tênis de mesa:confeccionada integralmente em plástico resistente, com superfície texturizada para melhor aderência da bola, resistente à umidade e à exposição ao sol. Dimensões aproximadas de 27 cm de comprimento, 15 cm de largura e cabo de aproximadamente 9 cm. Peso aproximado de 140 g, admitindo pequenas variações. Cores variadas.",
-              "unidade": "UND",
-              "quantidade": "150,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "5",
-              "especificacao": "37747 Raquete para tênis de mesa:confeccionada em madeira laminada de alta resistência, cabo anatômico reto, revestida em ambos os lados com borracha lisa nas cores vermelha e preta, contendo esponja com espessura aproximada de 1,8 mm ou superior. Deverá proporcionar bom controle, velocidade e efeito, com acabamento uniforme, resistente ao uso contínuo e peso aproximado de 180 g a 220 g.",
-              "unidade": "UND",
-              "quantidade": "250,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "6",
-              "especificacao": "9900516110 Kit de arbitragem para tênis de mesa:composto por régua metálica para verificação da altura da rede, régua plástica para conferência da espessura e tensão, cartões de advertência confeccionados em PVC rígido nas cores branca, amarela e vermelha, ficha de anotações e estojo ou carteira confeccionada em material sintético resistente para acondicionamento do conjunto. Todos os componentes deverão possuir acabamento resistente e adequado ao uso frequente.",
-              "unidade": "KIT",
-              "quantidade": "25,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "3",
-          "titulo": "LOLTE 3",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 12,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37748 Placar de mesa multiuso:indicado para diversas modalidades esportivas, confeccionado em PVC rígido ou material equivalente de elevada resistência, estrutura articulada para facilitar o transporte e armazenamento, sistema de marcação com números impressos em ambos os lados, permitindo visualização pelos participantes e público. Deverá possibilitar marcação de pontos e sets, possuir dimensões aproximadas de 21 x 39 cm, acabamento resistente ao desgaste e sistema de troca manual de fácil operação.",
-              "unidade": "UND",
-              "quantidade": "20,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "2",
-              "especificacao": "37749 Kit de mini cones tipo chapéu:destinado ao treinamento funcional, coordenação motora, agilidade e demarcação de espaços. Cones confeccionados em polietileno ou material plástico flexível de elevada resistência, com aproximadamente 18 cm de diâmetro e 5 cm de altura, em cores variadas, resistentes aos raios UV e às intempéries. O kit deverá conter 40 unidades e suporte ou embalagem apropriada para armazenamento e transporte.",
-              "unidade": "KIT",
-              "quantidade": "50,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "3",
-              "especificacao": "37750 Cone para treinamento esportivo:confeccionado em material plástico flexível de alta resistência, com altura aproximada de 23 cm, base com diâmetro aproximado de 14,5 cm e topo com abertura de aproximadamente 2,5 cm, permitindo utilização com barras de treinamento quando necessário.Produto resistente ao impacto, à deformação e às intempéries, em cores variadas e de alta visibilidade. Cores sortidas.",
-              "unidade": "UND",
-              "quantidade": "1.000,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "4",
-              "especificacao": "9900516111 Cone de sinalização vazado:confeccionado em polietileno ou material equivalente de elevada resistência, altura aproximada de 23 cm, base quadrada, estrutura vazada que reduza o deslocamento causado pelo vento, flexível, resistente a impactos e deformações, indicado para demarcação de circuitos esportivos e atividades de treinamento. Disponível em cores de alta visibilidade.",
-              "unidade": "UND",
-              "quantidade": "1.500,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "5",
-              "especificacao": "9900516112 Bolsa térmica para atendimento esportivo:confeccionada em tecido sintético impermeável de alta resistência, com compartimento principal de amplo espaço interno, revestimento térmico, bolsos externos para acessórios, compartimento para transporte de garrafas, alças reforçadas e fechamento por zíper de alta resistência. Deverá acompanhar 02 garrafas para hidratação e 01 recipiente térmico (isopor ou equivalente) compatível com a capacidade da bolsa.",
-              "unidade": "UND",
-              "quantidade": "25,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "6",
-              "especificacao": "37751 Apito profissional:confeccionado em plástico ABS de alta resistência, com bocal em silicone, dimensões aproximadas de 4 cm x 2,2 cm x 2 cm, destinado à arbitragem e prática esportiva, com sonoridade clara e alto alcance sonoro, resistente ao uso contínuo.",
-              "unidade": "UND",
-              "quantidade": "100,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "7",
-              "especificacao": "37752 Escada de agilidade tipo barreirinha:medindo aproximadamente 4 metros de comprimento, composta por 10 degraus ajustáveis, confeccionados em PVC flexível ou material equivalente de elevada resistência, permitindo regulagem do espaçamento e da altura para utilização como barreiras de treinamento. As fitas laterais deverão ser confeccionadas em nylon reforçado, resistente à tração, umidade e intempéries.Deverá acompanhar bolsa para armazenamento e transporte.",
-              "unidade": "UND",
-              "quantidade": "50,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "8",
-              "especificacao": "9900516113 Escada de coordenação motora:medindo aproximadamente 5 metros de comprimento, composta por 11 degraus confeccionados em PVC resistente, com largura aproximada de 50 cm, fixados em fitas de nylon reforçadas e com regulagem de espaçamento. Deverá possuir sistema de conexão entre escadas por meio de botões, presilhas ou dispositivo equivalente, permitindo ampliação dos circuitos de treinamento. Acompanha bolsa para transporte.",
-              "unidade": "UND",
-              "quantidade": "70,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "9",
-              "especificacao": "37753 Escada de agilidade tipo barreirinha premium:medindo aproximadamente 5 metros de comprimento, composta por 10 degraus ajustáveis confeccionados em PVC flexível de elevada resistência, permitindo regulagem da altura dos obstáculos em até aproximadamente 45 cm, além do ajuste do espaçamento entre os degraus. Estrutura resistente ao uso intensivo, com fitas confeccionadas em nylon reforçado, sistema de fixação por velcro ou dispositivo equivalente e bolsa para transporte.Indicada para treinamento funcional, preparação física e exercícios de coordenação motora.",
-              "unidade": "UND",
-              "quantidade": "50,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "10",
-              "especificacao": "9900516114 Kit de argolas para treinamento de agilidade:composto por 12 argolas confeccionadas em PVC ou material equivalente de elevada resistência, com diâmetroaproximado de 45 cm, resistentes à deformação, impactos e uso contínuo. O conjunto deverá acompanhar presilhas ou conectores que permitam diferentes configurações de circuitos, além de bolsa resistente para armazenamento e transporte.Indicado para treinamentos de coordenação motora, velocidade, agilidade e equilíbrio.",
-              "unidade": "KIT",
-              "quantidade": "200,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "11",
-              "especificacao": "37754 Cinto duplo de tração para treinamento esportivo:composto por dois cintos confeccionados em EVA de alta densidade ou material equivalente, revestidos com fitas reforçadas e fechamento por velcro de elevada resistência.Deverá possuir 04 elásticos removíveis de alta elasticidade, mosquetões metálicos resistentes à corrosão e sistema de segurança que permita treinamento de aceleração, resistência, explosão muscular e mudança de direção. Comprimento inicial aproximado de 80 cm, com capacidade de estiramento de até 140 cm ou superior.",
-              "unidade": "UND",
-              "quantidade": "20,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "12",
-              "especificacao": "9900516130 Jogo de coletes esportivos:composto por 12 unidades, confeccionados em tecido 100% poliéster, leve, respirável e de secagem rápida, com acabamento reforçado nas bordas e costuras de alta resistência. Deverão possuir modelagem que permita utilização sobre uniforme esportivo, oferecendo liberdade de movimentos. Cores variadas e de alta visibilidade, conforme necessidade da Administração, em tamanhos compatíveis com público juvenil e adulto.",
-              "unidade": "JOGO",
-              "quantidade": "60,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "4",
-          "titulo": "LOLTE 4",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 11,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900516115 Calibrador digital para bolas esportivas:Equipamento dotado de visor digital em cristal líquido (LCD) de fácil leitura, corpo confeccionado em material resistente a impactos, alimentação por bateria de lítio ou equivalente de fácil substituição, sistema de desligamento automático para economia de energia e faixa de medição compatível com bolas esportivas. Deverá acompanhar agulha metálica universal para insuflação, bateria instalada e manual de instruções em língua portuguesa.",
-              "unidade": "UND",
-              "quantidade": "30,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "2",
-              "especificacao": "9900516116 Peteca oficial para prática esportiva:confeccionada com base em borracha maciça ou material elastomérico de elevada resistência ao desgaste, proporcionando estabilidade durante os golpes. Penas naturais ou sintéticas de alta durabilidade, firmemente fixadas à base, garantindo equilíbrio, estabilidade de voo e boa durabilidade. Produto indicado para atividades recreativas, treinamentos e competições, devendo apresentar acabamento uniforme e excelente resistência ao uso contínuo.",
-              "unidade": "UND",
-              "quantidade": "50,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "3",
-              "especificacao": "37755 Kit para jogo de betes (taco):composto por 02 tacos confeccionados em madeira maciça de boa qualidade, com acabamento lixado, bordas arredondadas e empunhadura revestida em borracha ou material antiderrapante. Deverá acompanhar 01 bola de borracha, 02 pares de bases (casinhas) confeccionadas em madeira resistente e 01 bolsa para acondicionamento e transporte. Todos os componentes deverão apresentar acabamento uniforme, resistência ao uso frequente e dimensões compatíveis com a prática recreativa da modalidade.",
-              "unidade": "KIT",
-              "quantidade": "30,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "4",
-              "especificacao": "9900516117 Bolsa para transporte de bolas esportivas:confeccionada em nylon, poliéster ou material equivalente de elevada resistência, com capacidade mínima para acondicionar 15 bolas, fechamento superior por cordão ou sistema similar, costuras reforçadas, alça resistente para transporte e estrutura que permita ventilação adequada dos materiais armazenados.",
-              "unidade": "UND",
-              "quantidade": "20,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "5",
-              "especificacao": "9900516118 Kit para badminton:composto por 04 raquetes confeccionadas em alumínio, aço, fibra de carbono ou material equivalente de elevada resistência estrutural, 01 rede confeccionada em nylon de alta resistência, postes ou suportes para instalação e 01 peteca adequada à prática da modalidade. Todos os componentes deverão possuir acabamento uniforme, elevada durabilidade, resistência ao uso contínuo e acondicionamento em embalagem apropriada para transporte e armazenamento.",
-              "unidade": "KIT",
-              "quantidade": "25,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "6",
-              "especificacao": "9900516119 Bola de basquete tamanho mirim:confeccionada em borracha de elevada resistência ou material sintético equivalente, com superfície texturizada para melhor aderência, estrutura composta por gomos moldados, câmara interna em borracha butílica ou material equivalente e miolo removível, substituível e lubrificado. Circunferência aproximada entre 55 cm e 57 cm, peso entre 450 g e 500 g, indicada para treinamentos, atividades escolares, projetos esportivos e competições da categoria correspondente, apresentando excelente resistência ao desgaste e baixa absorção de umidade.",
-              "unidade": "UND",
-              "quantidade": "150,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "7",
-              "especificacao": "37756 Bola de futsal categoria Sub-13:confeccionada em laminado de poliuretano (PU) de alta resistência ou material sintético de qualidade equivalente, com tecnologia de construção termofundida, híbrida ou costurada, proporcionando excelente resistência ao desgaste e baixa absorção de água. Deverá possuir câmara interna confeccionada em borracha butílica ou material equivalente, miolo removível, substituível e lubrificado, com perfeito balanceamento. Circunferência entre 55 cm e 59 cm e peso entre 350 g e 380 g, admitidas pequenas variações conforme normas técnicas nacionais aplicáveis.",
-              "unidade": "UND",
-              "quantidade": "300,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "8",
-              "especificacao": "9900516120 Bola de handebol H1:confeccionada em laminado de poliuretano (PU) ou material sintético de elevada resistência, com superfície texturizada para proporcionar maior aderência durante o manuseio. Câmara interna em borracha butílica ou material equivalente, miolo removível e lubrificado, estrutura resistente à deformação e ao uso contínuo. Circunferência aproximada entre 50 cm e 52 cm e peso entre 290 g e 330 g.",
-              "unidade": "UND",
-              "quantidade": "300,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "9",
-              "especificacao": "9900516121 Bola de handebol H2:confeccionada em laminado de poliuretano (PU) ou material sintético de elevada resistência, superfície texturizada para melhor empunhadura, câmara interna em borracha butílica ou material equivalente, miolo removível elubrificado. Circunferência aproximada entre 54 cm e 56 cm e peso entre 325 g e 375 g, apresentando excelente resistência ao desgaste e baixa deformação durante o uso contínuo.",
-              "unidade": "UND",
-              "quantidade": "300,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "10",
-              "especificacao": "37757 Bola oficial para futebol de campo:destinada ao treinamento e competições, confeccionada em laminado de poliuretano (PU) ou material sintético de qualidade superior, com construção termofundida, híbrida ou tecnologia equivalente, proporcionando elevada resistência mecânica, baixa absorção de água e excelente estabilidade. Deverá possuir câmara interna em borracha butílica ou material equivalente, miolo removível, substituível e lubrificado. Circunferência entre 68 cm e 70 cm e peso entre 410 g e 450 g.",
-              "unidade": "UND",
-              "quantidade": "17,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "11",
-              "especificacao": "9900516122 Bola oficial para voleibol de quadra:confeccionada em laminado de microfibra sintética, poliuretano (PU) ou material equivalente de elevada resistência, estrutura composta por gomos termofundidos ou tecnologia similar, proporcionando baixa absorção de água, excelente equilíbrio, maciez ao toque e precisão durante o jogo. Câmara interna em borracha butílica ou material equivalente, miolo removível e lubrificado.Circunferência entre 65 cm e 67 cm e peso entre 260 g e 280 g.",
-              "unidade": "UND",
-              "quantidade": "60,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "5",
-          "titulo": "LOLTE 5",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 7,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900516123 Colchonete para atividades físicas:confeccionado em espuma de poliuretano com densidade mínima D33, revestido em material sintético impermeável, lavável e resistente à abrasão, com costuras reforçadas e fechamento por zíper para eventual substituição da espuma. Dimensões aproximadas de 0,90 m de comprimento, 0,60 m de largura e 0,03 m de espessura, admitindo pequenas variações. Produto destinado à prática de exercícios físicos, alongamentos, ginástica, recreação e demais atividades esportivas, proporcionando conforto e segurança durante sua utilização.",
-              "unidade": "UND",
-              "quantidade": "600,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "2",
-              "especificacao": "9900516124 Bola para pilates:confeccionada em PVC ou material polimérico de elevada resistência, com sistema antiestouro (anti-burst), suportando carga estática mínima de 300 kg. Diâmetro aproximado de 65 cm, superfície antiderrapante e toque macio, indicada para exercícios de fortalecimento muscular, alongamento, equilíbrio e fisioterapia. Deverá acompanhar bomba para enchimento, válvulas sobressalentes e adaptador para insuflação.",
-              "unidade": "UND",
-              "quantidade": "70,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "3",
-              "especificacao": "9900516125 Medicine Ball borracha 1 kg:bola de medicine Ball com peso de 1 kg, fabricada em borracha resistente ao impacto com textura especial antiderrapante, com 38 cm de circunferência, e válvula celebrável.",
-              "unidade": "UND",
-              "quantidade": "5,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "4",
-              "especificacao": "9900516126 Medicine Ball borracha 2 kg:bola de medicine Ball com peso de 2 kg, fabricada em borracha resistente ao impacto com textura especial antiderrapante, com aproximadamente 45 cm de circunferência, e válvula celebrável.",
-              "unidade": "UND",
-              "quantidade": "5,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "5",
-              "especificacao": "9900516127 Medicine Ball borracha 3 kg:bola de medicine Ball com peso de 3 kg, fabricada em borracha resistente ao impacto com textura especial antiderrapante, com aproximadamente 55 cm de circunferência, e válvula celebrável.",
-              "unidade": "UND",
-              "quantidade": "5,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "6",
-              "especificacao": "9900516128 Medicine Ball borracha 4 kg:bola de medicine Ball com peso de 4 kg, fabricada em borracha resistente ao impacto com textura especial antiderrapante, com aproximadamente 60 cm de circunferência, e válvula celebrável.",
-              "unidade": "UND",
-              "quantidade": "5,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "7",
-              "especificacao": "9900516129 Medicine Ball borracha 5 kg:bola de medicine Ball com peso de 5 kg, fabricada em borracha resistente ao impacto com textura especial antiderrapante, com aproximadamente 65 cm de circunferência, e válvula celebrável.",
-              "unidade": "UND",
-              "quantidade": "5,00",
-              "valor_referencia": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "PE-134-2026",
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "823 / 2026",
@@ -290870,50 +290499,6 @@
               "unidade": "Und.",
               "quantidade": "7,00",
               "valor_referencia": "3.539,01"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "2-DLE-088-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "478/2026",
-      "modalidade": "DISPENSA ELETRÔNICA",
-      "situacao": "DISPUTA",
-      "condutor": "ISLA LIMA SILVA",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO PARCELADA",
-      "publicacao": "28/08/2026 18:01",
-      "inicio_recepcao": "28/08/2026 18:05",
-      "fim_recepcao": "04/09/2026 08:15",
-      "inicio_disputa": "04/09/2026 08:30",
-      "objeto": "Contratação de empresa especializada em prestação de serviços de ELABORAÇÃO DE PROJETO BÁSICO E EXECUTIVO PARA INSTALAÇÃO DE INDICADOR DE PRECISÃO DA TRAJETÓRIA DE APROXIMAÇÃO (PAPI) NOVO e HOMOLOGAÇÃO DO ATUAL INSTALADO, para o Aeroporto 9 de Maio, a fim de atender às demandas da Secretaria Municipal de Administração.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DOk9k9__pYuJVo66WBZULVdr22Pm87hhKe3vXl9i5yM7U739drR4_41b012TMtpTQa3yB6ep3eLcMwwi9NhqpXR9v_AO0knQ68zrcpHtnNFo%3D",
-      "total_lotes": 1,
-      "total_itens": 1,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "ELABORAÇÃO DO PROJETO EXECUTIVO PARA INSTALAÇÃO DO SISTEMA INDICADOR DE TRAJETÓRIA DE APROXIMAÇÃO (PAPI) E HOMOLOGAÇÃO DO SISTEMA PAPI ATUALMENTE INSTALADO NO AEROPORTO 9 DE MAIO",
-          "fase": "DISPUTA",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,00",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "127.130,00",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9903311959 ELABORAÇÃO DO PROJETO EXECUTIVO PARAINSTALAÇÃO DO SISTEMA INDICADOR DE TRAJETÓRIA DEAPROXIMAÇÃO (PAPI) E HOMOLOGAÇÃO DO SISTEMAPAPI ATUALMENTE INSTALADO NO AEROPORTO 9 DEMAIO:Compreendendo: 1. Elaboração do Projeto Executivo parainstalação do Sistema Indicador de Trajetória de Aproximação(PAPI): realização dos levantamentos, estudos técnicos, estudosda fase pré-site, dimensionamentos, especificações técnicas,levantamentos topográficos, projetos cartográficoscomplementares, memoriais de cálculo e demais análises edocumentos necessários ao planejamento e à futura implantaçãodo sistema. 2. Homologação do Sistema PAPI atualmenteinstalado no Aeroporto 9 de Maio: execução dos serviçostécnicos e administrativos necessários à homologação dosistema perante os órgãos competentes, compreendendo aelaboração e atualização da documentação técnica, alteraçãocadastral, aferições, ajustes, inspeções técnicas,acompanhamento do voo de inspeção, suporte técnicoespecializado e demais procedimentos necessários até aobtenção da homologação definitiva do sistema.",
-              "unidade": "SERV",
-              "quantidade": "1,00",
-              "valor_referencia": "127.130,00"
             }
           ]
         }
@@ -299746,94 +299331,6 @@
       ]
     },
     {
-      "id": "3-DLE-094-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "989/2026",
-      "modalidade": "DISPENSA ELETRÔNICA",
-      "situacao": "RECEPÇÃO DE PROPOSTAS",
-      "condutor": "ISAQUE SILVA DOS SANTOS",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO",
-      "publicacao": "03/09/2026 17:45",
-      "inicio_recepcao": "03/09/2026 17:50",
-      "fim_recepcao": "08/09/2026 08:15",
-      "inicio_disputa": "08/09/2026 08:30",
-      "objeto": "Contratação de empresa especializada em fornecimento de [NINTEDANIBE (OFEV®)] (material de consumo), a fim de atender as necessidades da Secretaria Municipal de Saúde.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DZae4%2Fv1MWDooHZQ4A4S75SeIs07_tY%2FfParS7arYB4Hjp8NKFJ1vzgtZNow90PGWbCNQW0JknrQhl_CNfdkBVhBW4jUrZIL9lUrr6C2dXp4%3D",
-      "total_lotes": 1,
-      "total_itens": 1,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "NINTEDANIBE (OFEV®) 150 MG",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,00",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "62.677,80",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "10101200028 NINTEDANIBE (OFEV®) 150 MG:Fármacoantifibrótico e antineoplásico, quimicamente caracterizado comoum potente inibidor intracelular múltiplo de tirosina quinase. Atuapor meio do bloqueio competitivo do sítio de ligação do trifosfatode adenosina (ATP) nos receptores do fator de crescimentoderivado de plaquetas (PDGFR alfa e beta), do fator decrescimento fibroblástico (FGFR 1, 2 e 3) e do fator decrescimento endotelial vascular (VEGFR 1, 2 e 3). A inibiçãodestas vias de sinalização celular impede a proliferação, amigração e a diferenciação de fibroblastos e miofibroblastospulmonares, reduzindo a deposição anômala de colágeno e aremodelagem patológica da matriz extracelular. O medicamentoatua diretamente na desaceleração da taxa de declínio anual dacapacidade vital forçada (CVF), retardando a progressão dafibrose e atenuando a perda da função ventilatória pulmonar.",
-              "unidade": "CO",
-              "quantidade": "180,00",
-              "valor_referencia": "348,21"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "3-DLE-095-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "824/2026",
-      "modalidade": "DISPENSA ELETRÔNICA",
-      "situacao": "RECEPÇÃO DE PROPOSTAS",
-      "condutor": "ISLA LIMA SILVA",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO PARCELADA",
-      "publicacao": "03/09/2026 13:54",
-      "inicio_recepcao": "03/09/2026 13:55",
-      "fim_recepcao": "08/09/2026 08:15",
-      "inicio_disputa": "08/09/2026 08:30",
-      "objeto": "Contratação de empresa especializada em fornecimento de [CANABIDIOL PARA ATENDER DEMANDA JUDICIAL] (material de consumo), a fim de atender as necessidades da Secretaria Municipal de Saúde",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DcutQx9CSM29t9THuORIkTl6G%2FoxMC7C8z3fphJpE%2F1ofUFACGcPlgIgbrvMzlt9AOhS90FXHJdPIiVjIDdrtuFVLdBzw%2FcA_%2FWJTNIjgFlg%3D",
-      "total_lotes": 1,
-      "total_itens": 1,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "Canabidiol ISOLADO 200mg/ml",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,00",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "49.906,08",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "10101200026 Canabidiol ISOLADO 200mg/ml:Gotas; Marca HEALTHMEDS.",
-              "unidade": "FR",
-              "quantidade": "28,00",
-              "valor_referencia": "1.782,36"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "PE-122-2026",
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "857 / 2026",
@@ -300742,6 +300239,645 @@
       ]
     },
     {
+      "id": "3-DLE-097-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "997/2026",
+      "modalidade": "DISPENSA ELETRÔNICA",
+      "situacao": "RECEPÇÃO DE PROPOSTAS",
+      "condutor": "ISLA LIMA SILVA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO",
+      "publicacao": "04/09/2026 20:01",
+      "inicio_recepcao": "04/09/2026 20:05",
+      "fim_recepcao": "11/09/2026 08:15",
+      "inicio_disputa": "11/09/2026 08:30",
+      "objeto": "Contratação de empresa especializada em fornecimento de [LEITOR E SENSORES DE GLICOSE PARA MONITORAMENTO GLICÊMICO CONTÍNUO] (material de consumo), a fim de atender as necessidades da Secretaria Municipal de Saúde.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DLGwex3I3Z0KQs7_3_bB5Asb2cDls62KlxlXLcph_1rWm6xsa7sUIIovUlc7IaOdnZyBCYVs6bW_cg2uIKkdqQDYsOLSuRUGhX7KiqjhHd1w%3D",
+      "total_lotes": 2,
+      "total_itens": 2,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "LEITOR DE GLICOSE",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "371,82",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900516307 LEITOR DE GLICOSE:FREESTYLE LIBRE 2 PLUS",
+              "unidade": "UN",
+              "quantidade": "1,00",
+              "valor_referencia": "371,82"
+            }
+          ]
+        },
+        {
+          "numero": "2",
+          "titulo": "SENSOR DE GLICOSE",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "13.238,28",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900516308 SENSOR DE GLICOSE:FREESTYLE LIBRE 2PLUS",
+              "unidade": "UN",
+              "quantidade": "36,00",
+              "valor_referencia": "367,73"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3-DLE-096-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "977/2026",
+      "modalidade": "DISPENSA ELETRÔNICA",
+      "situacao": "RECEPÇÃO DE PROPOSTAS",
+      "condutor": "ISAQUE SILVA DOS SANTOS",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO",
+      "publicacao": "04/09/2026 17:24",
+      "inicio_recepcao": "04/09/2026 17:30",
+      "fim_recepcao": "11/09/2026 08:15",
+      "inicio_disputa": "11/09/2026 08:30",
+      "objeto": "Contratação de empresa especializada em fornecimento de [CPAP (Continuous Positive Airway Pressure) COM UMIDIFICADOR E MÁSCARA NASAL] (material de consumo), a fim de atender as necessidades da Secretaria Municipal de Saúde.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5D1x2VdztxSdx58XwvPqv82GotfOYEHNy874TqgHvuLYSHQzBrtTtWchgnyL3fVRpfYkkjaoWtcmyFtcTdWqK3UbRrQOjQ82LN_PmDGWoKiO8%3D",
+      "total_lotes": 2,
+      "total_itens": 2,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "CPAP (PRESSÃO POSITIVA CONTÍNUA NAS VIAS AÉREAS) AUTOMÁTICO COM UMIDIFICADOR E MÁSCARA NASAL",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "4.622,23",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900516276 CPAP (PRESSÃO POSITIVA CONTÍNUA NASVIAS AÉREAS) AUTOMÁTICO COM UMIDIFICADOR EMÁSCARA NASAL:Equipamento microprocessado para ofertade pressão positiva contínua nas vias aéreas, com: Pressãoajustável entre 4 e 20 cmHO; Compensação automática devazamentos; Funcionamento silencioso (30 dB); Display paraajuste e monitoramento de parâmetros: Registro de dadosterapêuticos; umidificador aquecido integrado ou acoplável;Alimentação bivolt automática; Alarmes de segurança;Acompanhar máscara nasal, com 3 almofadas, adequada aoequipamento. MODELO REFERÊNCIA: Kit CPAP AirSense 10com Umidificador e Máscara nasal AirFit N30i ou superior.",
+              "unidade": "UN",
+              "quantidade": "1,00",
+              "valor_referencia": "4.622,23"
+            }
+          ]
+        },
+        {
+          "numero": "1",
+          "titulo": "CPAP (PRESSÃO POSITIVA CONTÍNUA NAS VIAS AÉREAS) AUTOMÁTICO COM UMIDIFICADOR E MÁSCARA NASAL",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "4.622,23",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900516276 CPAP (PRESSÃO POSITIVA CONTÍNUA NASVIAS AÉREAS) AUTOMÁTICO COM UMIDIFICADOR EMÁSCARA NASAL:Equipamento microprocessado para ofertade pressão positiva contínua nas vias aéreas, com: Pressãoajustável entre 4 e 20 cmHO; Compensação automática devazamentos; Funcionamento silencioso (30 dB); Display paraajuste e monitoramento de parâmetros: Registro de dadosterapêuticos; umidificador aquecido integrado ou acoplável;Alimentação bivolt automática; Alarmes de segurança;Acompanhar máscara nasal, com 3 almofadas, adequada aoequipamento. MODELO REFERÊNCIA: Kit CPAP AirSense 10com Umidificador e Máscara nasal AirFit N30i ou superior.",
+              "unidade": "UN",
+              "quantidade": "1,00",
+              "valor_referencia": "4.622,23"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3-DLE-094-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "989/2026",
+      "modalidade": "DISPENSA ELETRÔNICA",
+      "situacao": "SUSPENSO",
+      "condutor": "ISAQUE SILVA DOS SANTOS",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO",
+      "publicacao": "03/09/2026 17:45",
+      "inicio_recepcao": "03/09/2026 17:50",
+      "fim_recepcao": "08/09/2026 08:15",
+      "inicio_disputa": "08/09/2026 08:30",
+      "objeto": "Contratação de empresa especializada em fornecimento de [NINTEDANIBE (OFEV®)] (material de consumo), a fim de atender as necessidades da Secretaria Municipal de Saúde.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5Dt6LYIWXcbfd4QTF80K8iNXTc0ivxYVrlgNOzUiGSwPXyVixmmvYETjluikG2AH6o52qFnipFKEeWqtNb92QarZY1g8rBOTyMTZD0JY7YYTY%3D",
+      "total_lotes": 1,
+      "total_itens": 1,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "NINTEDANIBE (OFEV®) 150 MG",
+          "fase": "SUSPENSO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "62.677,80",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "10101200028 NINTEDANIBE (OFEV®) 150 MG:Fármacoantifibrótico e antineoplásico, quimicamente caracterizado comoum potente inibidor intracelular múltiplo de tirosina quinase. Atuapor meio do bloqueio competitivo do sítio de ligação do trifosfatode adenosina (ATP) nos receptores do fator de crescimentoderivado de plaquetas (PDGFR alfa e beta), do fator decrescimento fibroblástico (FGFR 1, 2 e 3) e do fator decrescimento endotelial vascular (VEGFR 1, 2 e 3). A inibiçãodestas vias de sinalização celular impede a proliferação, amigração e a diferenciação de fibroblastos e miofibroblastospulmonares, reduzindo a deposição anômala de colágeno e aremodelagem patológica da matriz extracelular. O medicamentoatua diretamente na desaceleração da taxa de declínio anual dacapacidade vital forçada (CVF), retardando a progressão dafibrose e atenuando a perda da função ventilatória pulmonar.",
+              "unidade": "CO",
+              "quantidade": "180,00",
+              "valor_referencia": "348,21"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3-DLE-095-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "824/2026",
+      "modalidade": "DISPENSA ELETRÔNICA",
+      "situacao": "DESERTO",
+      "condutor": "ISLA LIMA SILVA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO PARCELADA",
+      "publicacao": "03/09/2026 13:54",
+      "inicio_recepcao": "03/09/2026 13:55",
+      "fim_recepcao": "08/09/2026 08:15",
+      "inicio_disputa": "08/09/2026 08:30",
+      "objeto": "Contratação de empresa especializada em fornecimento de [CANABIDIOL PARA ATENDER DEMANDA JUDICIAL] (material de consumo), a fim de atender as necessidades da Secretaria Municipal de Saúde",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5Dt3O_MOGES6uE5e2VF8Wdu08sllDcjkY2Wc_xsGUqp6F4%2FFyHYny4%2FFLCWilpnuv_zwEsrytz1%2Fvzpy%2Fj8YZftpRy_oh7iJ4LaIA_Rq6Fe94%3D",
+      "total_lotes": 1,
+      "total_itens": 1,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "Canabidiol ISOLADO 200mg/ml",
+          "fase": "DESERTO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "49.906,08",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "10101200026 Canabidiol ISOLADO 200mg/ml:Gotas; Marca HEALTHMEDS.",
+              "unidade": "FR",
+              "quantidade": "28,00",
+              "valor_referencia": "1.782,36"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2-DLE-088-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "478/2026",
+      "modalidade": "DISPENSA ELETRÔNICA",
+      "situacao": "JULGAMENTO",
+      "condutor": "ISLA LIMA SILVA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO PARCELADA",
+      "publicacao": "28/08/2026 18:01",
+      "inicio_recepcao": "28/08/2026 18:05",
+      "fim_recepcao": "04/09/2026 08:15",
+      "inicio_disputa": "04/09/2026 08:30",
+      "objeto": "Contratação de empresa especializada em prestação de serviços de ELABORAÇÃO DE PROJETO BÁSICO E EXECUTIVO PARA INSTALAÇÃO DE INDICADOR DE PRECISÃO DA TRAJETÓRIA DE APROXIMAÇÃO (PAPI) NOVO e HOMOLOGAÇÃO DO ATUAL INSTALADO, para o Aeroporto 9 de Maio, a fim de atender às demandas da Secretaria Municipal de Administração.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DQFvSqz_dqq5iyngYbx_jXy6MNgvqYvq_C0sRq5grK4FmBZyVXQYvrMY7F6FXruVoQV_cs8BVlh4Df0020SvCxEE5qc6T2oJmfMf80i_waCY%3D",
+      "total_lotes": 1,
+      "total_itens": 1,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "ELABORAÇÃO DO PROJETO EXECUTIVO PARA INSTALAÇÃO DO SISTEMA INDICADOR DE TRAJETÓRIA DE APROXIMAÇÃO (PAPI) E HOMOLOGAÇÃO DO SISTEMA PAPI ATUALMENTE INSTALADO NO AEROPORTO 9 DE MAIO",
+          "fase": "JULGAMENTO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "127.130,00",
+          "vencedor": "J.G.S LISA INSTALACAO E MANUTENCAO LTDA",
+          "melhor_oferta": "83.000,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9903311959 ELABORAÇÃO DO PROJETO EXECUTIVO PARAINSTALAÇÃO DO SISTEMA INDICADOR DE TRAJETÓRIA DEAPROXIMAÇÃO (PAPI) E HOMOLOGAÇÃO DO SISTEMAPAPI ATUALMENTE INSTALADO NO AEROPORTO 9 DEMAIO:Compreendendo: 1. Elaboração do Projeto Executivo parainstalação do Sistema Indicador de Trajetória de Aproximação(PAPI): realização dos levantamentos, estudos técnicos, estudosda fase pré-site, dimensionamentos, especificações técnicas,levantamentos topográficos, projetos cartográficoscomplementares, memoriais de cálculo e demais análises edocumentos necessários ao planejamento e à futura implantaçãodo sistema. 2. Homologação do Sistema PAPI atualmenteinstalado no Aeroporto 9 de Maio: execução dos serviçostécnicos e administrativos necessários à homologação dosistema perante os órgãos competentes, compreendendo aelaboração e atualização da documentação técnica, alteraçãocadastral, aferições, ajustes, inspeções técnicas,acompanhamento do voo de inspeção, suporte técnicoespecializado e demais procedimentos necessários até aobtenção da homologação definitiva do sistema.",
+              "unidade": "SERV",
+              "quantidade": "1,00",
+              "valor_referencia": "127.130,00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-137-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "891 / 2026",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "JULGAMENTO",
+      "condutor": "SERGIO CARNEIRO CAVALCANTI DE AZEVEDO",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO PARCELADA",
+      "publicacao": "24/08/2026 18:31",
+      "inicio_recepcao": "26/08/2026 08:00",
+      "fim_recepcao": "08/09/2026 08:15",
+      "inicio_disputa": "08/09/2026 08:30",
+      "objeto": "Contratação de empresa especializada em fornecimento MATERIAIS ESPORTIVOS (material de consumo) e (material permanente), a fim de atender as demandas da Secretaria Municipal de\nEducação.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5D3ZWUr_tK6Il8we5SkBrv3tSLvMnzqw5MxUKbKQNYfvILb7s1TuBlLITLO36peQhrMYZ4zEQb2vghxn6o%2FlkT6gzy9G63aDA63u8MQI0CcFw%3D",
+      "total_lotes": 5,
+      "total_itens": 38,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "LOLTE 1",
+          "fase": "JULGAMENTO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "89.778,00",
+          "vencedor": "MAIS ESPORTE COMERCIO DE ARTIGOS ESPORTIVOS LTDA",
+          "melhor_oferta": "89.800,00",
+          "total_itens": 2,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37744 Relógio digital para xadrez:portátil, destinado ao controle de tempo em partidas, treinamentos e competições.Confeccionado em material plástico de elevada resistência mecânica, com acabamento de qualidade e base estável. Deverá possuir visor digital de cristal líquido (LCD) de fácil leitura, com exibição simultânea do tempo de ambos os jogadores, teclas independentes de acionamento, programação de contagem regressiva e progressiva, pausa, reinício, memória para armazenamento da última configuração utilizada e aviso sonoro opcional ao término do tempo programado. Alimentação por pilha AA ou equivalente de fácil reposição. Dimensões aproximadas de 16 x 10 x 6 cm, admitindo pequenas variações.",
+              "unidade": "UND",
+              "quantidade": "50,00",
+              "valor_referencia": "200,56"
+            },
+            {
+              "numero": "2",
+              "especificacao": "9900516107 Jogo de xadrez profissional:composto por tabuleiro, conjunto completo de 34 peças e estojo para transporte.Tabuleiro confeccionado em material resistente, medindo aproximadamente 50 x 50 cm, com casas de aproximadamente 5,5 x 5,5 cm, impressão permanente de alto contraste e acabamento resistente ao desgaste. Peças confeccionadas em plástico de alta resistência ou material equivalente de qualidade equivalente, padrão tradicional, com bases revestidas em feltro ou material similar para melhor estabilidade e proteção da superfície de jogo. Rei com altura aproximada entre 95 mm e 100 mm, mantendo proporcionalidade entre as demais peças. O conjunto deverá acompanhar duas damas adicionais para promoção e bolsa ou estojo resistente para armazenamento e transporte.",
+              "unidade": "UND",
+              "quantidade": "500,00",
+              "valor_referencia": "159,50"
+            }
+          ]
+        },
+        {
+          "numero": "2",
+          "titulo": "LOLTE 2",
+          "fase": "JULGAMENTO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "100.274,40",
+          "vencedor": "R&R IMPORTACOES E SERVICOS",
+          "melhor_oferta": "70.100,00",
+          "total_itens": 6,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900830621 Mesa para tênis de mesa:de uso profissional ou treinamento intensivo, composta por tampo em MDF de 25 mm de espessura, dividido em duas partes articuladas, com acabamento em pintura resistente na cor azul ou verde, linhas demarcatórias permanentes em cor contrastante e estrutura metálica em aço carbono com tratamento anticorrosivo e pintura eletrostática. Deverá possuir sistema articulado para armazenamento, rodízios com travas para deslocamento, pés dobráveis e possibilidade de utilização de metade da mesa para treinamento individual. Dimensões aproximadas de 2,74 m de comprimento, 1,525 m de largura e 0,76 m de altura. Deverá acompanhar conjunto composto por suportes metálicos para fixação da rede e rede em nylon de alta resistência.",
+              "unidade": "UND",
+              "quantidade": "20,00",
+              "valor_referencia": "3.580,00"
+            },
+            {
+              "numero": "2",
+              "especificacao": "9900516108 Bola para tênis de mesa:confeccionada em material plástico de elevada resistência, diâmetro de 40 mm, cor branca, superfície uniforme, acabamento liso, boa esfericidade e resistência a deformações. Embalagem contendo 10 unidades. Indicada para atividades recreativas, iniciação esportiva e treinamentos.",
+              "unidade": "KIT",
+              "quantidade": "100,00",
+              "valor_referencia": "10,51"
+            },
+            {
+              "numero": "3",
+              "especificacao": "37746 Bola para tênis de mesa de alto desempenho:confeccionada em material plástico de elevada resistência, diâmetro de 40 mm, cor branca, superfície uniforme, excelente equilíbrio, precisão de quique e durabilidade, indicada para treinamentos avançados e competições. Embalagem contendo 06 unidades.",
+              "unidade": "KIT",
+              "quantidade": "20,00",
+              "valor_referencia": "38,17"
+            },
+            {
+              "numero": "4",
+              "especificacao": "9900516109 Raquete infantil para tênis de mesa:confeccionada integralmente em plástico resistente, com superfície texturizada para melhor aderência da bola, resistente à umidade e à exposição ao sol. Dimensões aproximadas de 27 cm de comprimento, 15 cm de largura e cabo de aproximadamente 9 cm. Peso aproximado de 140 g, admitindo pequenas variações. Cores variadas.",
+              "unidade": "UND",
+              "quantidade": "150,00",
+              "valor_referencia": "53,80"
+            },
+            {
+              "numero": "5",
+              "especificacao": "37747 Raquete para tênis de mesa:confeccionada em madeira laminada de alta resistência, cabo anatômico reto, revestida em ambos os lados com borracha lisa nas cores vermelha e preta, contendo esponja com espessura aproximada de 1,8 mm ou superior. Deverá proporcionar bom controle, velocidade e efeito, com acabamento uniforme, resistente ao uso contínuo e peso aproximado de 180 g a 220 g.",
+              "unidade": "UND",
+              "quantidade": "250,00",
+              "valor_referencia": "46,17"
+            },
+            {
+              "numero": "6",
+              "especificacao": "9900516110 Kit de arbitragem para tênis de mesa:composto por régua metálica para verificação da altura da rede, régua plástica para conferência da espessura e tensão, cartões de advertência confeccionados em PVC rígido nas cores branca, amarela e vermelha, ficha de anotações e estojo ou carteira confeccionada em material sintético resistente para acondicionamento do conjunto. Todos os componentes deverão possuir acabamento resistente e adequado ao uso frequente.",
+              "unidade": "KIT",
+              "quantidade": "25,00",
+              "valor_referencia": "289,90"
+            }
+          ]
+        },
+        {
+          "numero": "3",
+          "titulo": "LOLTE 3",
+          "fase": "JULGAMENTO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "101.674,90",
+          "vencedor": "MAIS ESPORTE COMERCIO DE ARTIGOS ESPORTIVOS LTDA",
+          "melhor_oferta": "94.700,00",
+          "total_itens": 12,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37748 Placar de mesa multiuso:indicado para diversas modalidades esportivas, confeccionado em PVC rígido ou material equivalente de elevada resistência, estrutura articulada para facilitar o transporte e armazenamento, sistema de marcação com números impressos em ambos os lados, permitindo visualização pelos participantes e público. Deverá possibilitar marcação de pontos e sets, possuir dimensões aproximadas de 21 x 39 cm, acabamento resistente ao desgaste e sistema de troca manual de fácil operação.",
+              "unidade": "UND",
+              "quantidade": "20,00",
+              "valor_referencia": "202,82"
+            },
+            {
+              "numero": "2",
+              "especificacao": "37749 Kit de mini cones tipo chapéu:destinado ao treinamento funcional, coordenação motora, agilidade e demarcação de espaços. Cones confeccionados em polietileno ou material plástico flexível de elevada resistência, com aproximadamente 18 cm de diâmetro e 5 cm de altura, em cores variadas, resistentes aos raios UV e às intempéries. O kit deverá conter 40 unidades e suporte ou embalagem apropriada para armazenamento e transporte.",
+              "unidade": "KIT",
+              "quantidade": "50,00",
+              "valor_referencia": "78,88"
+            },
+            {
+              "numero": "3",
+              "especificacao": "37750 Cone para treinamento esportivo:confeccionado em material plástico flexível de alta resistência, com altura aproximada de 23 cm, base com diâmetro aproximado de 14,5 cm e topo com abertura de aproximadamente 2,5 cm, permitindo utilização com barras de treinamento quando necessário.Produto resistente ao impacto, à deformação e às intempéries, em cores variadas e de alta visibilidade. Cores sortidas.",
+              "unidade": "UND",
+              "quantidade": "1.000,00",
+              "valor_referencia": "5,43"
+            },
+            {
+              "numero": "4",
+              "especificacao": "9900516111 Cone de sinalização vazado:confeccionado em polietileno ou material equivalente de elevada resistência, altura aproximada de 23 cm, base quadrada, estrutura vazada que reduza o deslocamento causado pelo vento, flexível, resistente a impactos e deformações, indicado para demarcação de circuitos esportivos e atividades de treinamento. Disponível em cores de alta visibilidade.",
+              "unidade": "UND",
+              "quantidade": "1.500,00",
+              "valor_referencia": "9,10"
+            },
+            {
+              "numero": "5",
+              "especificacao": "9900516112 Bolsa térmica para atendimento esportivo:confeccionada em tecido sintético impermeável de alta resistência, com compartimento principal de amplo espaço interno, revestimento térmico, bolsos externos para acessórios, compartimento para transporte de garrafas, alças reforçadas e fechamento por zíper de alta resistência. Deverá acompanhar 02 garrafas para hidratação e 01 recipiente térmico (isopor ou equivalente) compatível com a capacidade da bolsa.",
+              "unidade": "UND",
+              "quantidade": "25,00",
+              "valor_referencia": "105,30"
+            },
+            {
+              "numero": "6",
+              "especificacao": "37751 Apito profissional:confeccionado em plástico ABS de alta resistência, com bocal em silicone, dimensões aproximadas de 4 cm x 2,2 cm x 2 cm, destinado à arbitragem e prática esportiva, com sonoridade clara e alto alcance sonoro, resistente ao uso contínuo.",
+              "unidade": "UND",
+              "quantidade": "100,00",
+              "valor_referencia": "8,59"
+            },
+            {
+              "numero": "7",
+              "especificacao": "37752 Escada de agilidade tipo barreirinha:medindo aproximadamente 4 metros de comprimento, composta por 10 degraus ajustáveis, confeccionados em PVC flexível ou material equivalente de elevada resistência, permitindo regulagem do espaçamento e da altura para utilização como barreiras de treinamento. As fitas laterais deverão ser confeccionadas em nylon reforçado, resistente à tração, umidade e intempéries.Deverá acompanhar bolsa para armazenamento e transporte.",
+              "unidade": "UND",
+              "quantidade": "50,00",
+              "valor_referencia": "90,00"
+            },
+            {
+              "numero": "8",
+              "especificacao": "9900516113 Escada de coordenação motora:medindo aproximadamente 5 metros de comprimento, composta por 11 degraus confeccionados em PVC resistente, com largura aproximada de 50 cm, fixados em fitas de nylon reforçadas e com regulagem de espaçamento. Deverá possuir sistema de conexão entre escadas por meio de botões, presilhas ou dispositivo equivalente, permitindo ampliação dos circuitos de treinamento. Acompanha bolsa para transporte.",
+              "unidade": "UND",
+              "quantidade": "70,00",
+              "valor_referencia": "129,22"
+            },
+            {
+              "numero": "9",
+              "especificacao": "37753 Escada de agilidade tipo barreirinha premium:medindo aproximadamente 5 metros de comprimento, composta por 10 degraus ajustáveis confeccionados em PVC flexível de elevada resistência, permitindo regulagem da altura dos obstáculos em até aproximadamente 45 cm, além do ajuste do espaçamento entre os degraus. Estrutura resistente ao uso intensivo, com fitas confeccionadas em nylon reforçado, sistema de fixação por velcro ou dispositivo equivalente e bolsa para transporte.Indicada para treinamento funcional, preparação física e exercícios de coordenação motora.",
+              "unidade": "UND",
+              "quantidade": "50,00",
+              "valor_referencia": "236,00"
+            },
+            {
+              "numero": "10",
+              "especificacao": "9900516114 Kit de argolas para treinamento de agilidade:composto por 12 argolas confeccionadas em PVC ou material equivalente de elevada resistência, com diâmetroaproximado de 45 cm, resistentes à deformação, impactos e uso contínuo. O conjunto deverá acompanhar presilhas ou conectores que permitam diferentes configurações de circuitos, além de bolsa resistente para armazenamento e transporte.Indicado para treinamentos de coordenação motora, velocidade, agilidade e equilíbrio.",
+              "unidade": "KIT",
+              "quantidade": "200,00",
+              "valor_referencia": "183,04"
+            },
+            {
+              "numero": "11",
+              "especificacao": "37754 Cinto duplo de tração para treinamento esportivo:composto por dois cintos confeccionados em EVA de alta densidade ou material equivalente, revestidos com fitas reforçadas e fechamento por velcro de elevada resistência.Deverá possuir 04 elásticos removíveis de alta elasticidade, mosquetões metálicos resistentes à corrosão e sistema de segurança que permita treinamento de aceleração, resistência, explosão muscular e mudança de direção. Comprimento inicial aproximado de 80 cm, com capacidade de estiramento de até 140 cm ou superior.",
+              "unidade": "UND",
+              "quantidade": "20,00",
+              "valor_referencia": "166,00"
+            },
+            {
+              "numero": "12",
+              "especificacao": "9900516130 Jogo de coletes esportivos:composto por 12 unidades, confeccionados em tecido 100% poliéster, leve, respirável e de secagem rápida, com acabamento reforçado nas bordas e costuras de alta resistência. Deverão possuir modelagem que permita utilização sobre uniforme esportivo, oferecendo liberdade de movimentos. Cores variadas e de alta visibilidade, conforme necessidade da Administração, em tamanhos compatíveis com público juvenil e adulto.",
+              "unidade": "JOGO",
+              "quantidade": "60,00",
+              "valor_referencia": "97,16"
+            }
+          ]
+        },
+        {
+          "numero": "4",
+          "titulo": "LOLTE 4",
+          "fase": "JULGAMENTO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "148.871,88",
+          "vencedor": "D.E.A CALCADOS LTDA",
+          "melhor_oferta": "59.984,00",
+          "total_itens": 11,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900516115 Calibrador digital para bolas esportivas:Equipamento dotado de visor digital em cristal líquido (LCD) de fácil leitura, corpo confeccionado em material resistente a impactos, alimentação por bateria de lítio ou equivalente de fácil substituição, sistema de desligamento automático para economia de energia e faixa de medição compatível com bolas esportivas. Deverá acompanhar agulha metálica universal para insuflação, bateria instalada e manual de instruções em língua portuguesa.",
+              "unidade": "UND",
+              "quantidade": "30,00",
+              "valor_referencia": "154,49"
+            },
+            {
+              "numero": "2",
+              "especificacao": "9900516116 Peteca oficial para prática esportiva:confeccionada com base em borracha maciça ou material elastomérico de elevada resistência ao desgaste, proporcionando estabilidade durante os golpes. Penas naturais ou sintéticas de alta durabilidade, firmemente fixadas à base, garantindo equilíbrio, estabilidade de voo e boa durabilidade. Produto indicado para atividades recreativas, treinamentos e competições, devendo apresentar acabamento uniforme e excelente resistência ao uso contínuo.",
+              "unidade": "UND",
+              "quantidade": "50,00",
+              "valor_referencia": "8,77"
+            },
+            {
+              "numero": "3",
+              "especificacao": "37755 Kit para jogo de betes (taco):composto por 02 tacos confeccionados em madeira maciça de boa qualidade, com acabamento lixado, bordas arredondadas e empunhadura revestida em borracha ou material antiderrapante. Deverá acompanhar 01 bola de borracha, 02 pares de bases (casinhas) confeccionadas em madeira resistente e 01 bolsa para acondicionamento e transporte. Todos os componentes deverão apresentar acabamento uniforme, resistência ao uso frequente e dimensões compatíveis com a prática recreativa da modalidade.",
+              "unidade": "KIT",
+              "quantidade": "30,00",
+              "valor_referencia": "55,91"
+            },
+            {
+              "numero": "4",
+              "especificacao": "9900516117 Bolsa para transporte de bolas esportivas:confeccionada em nylon, poliéster ou material equivalente de elevada resistência, com capacidade mínima para acondicionar 15 bolas, fechamento superior por cordão ou sistema similar, costuras reforçadas, alça resistente para transporte e estrutura que permita ventilação adequada dos materiais armazenados.",
+              "unidade": "UND",
+              "quantidade": "20,00",
+              "valor_referencia": "106,05"
+            },
+            {
+              "numero": "5",
+              "especificacao": "9900516118 Kit para badminton:composto por 04 raquetes confeccionadas em alumínio, aço, fibra de carbono ou material equivalente de elevada resistência estrutural, 01 rede confeccionada em nylon de alta resistência, postes ou suportes para instalação e 01 peteca adequada à prática da modalidade. Todos os componentes deverão possuir acabamento uniforme, elevada durabilidade, resistência ao uso contínuo e acondicionamento em embalagem apropriada para transporte e armazenamento.",
+              "unidade": "KIT",
+              "quantidade": "25,00",
+              "valor_referencia": "200,00"
+            },
+            {
+              "numero": "6",
+              "especificacao": "9900516119 Bola de basquete tamanho mirim:confeccionada em borracha de elevada resistência ou material sintético equivalente, com superfície texturizada para melhor aderência, estrutura composta por gomos moldados, câmara interna em borracha butílica ou material equivalente e miolo removível, substituível e lubrificado. Circunferência aproximada entre 55 cm e 57 cm, peso entre 450 g e 500 g, indicada para treinamentos, atividades escolares, projetos esportivos e competições da categoria correspondente, apresentando excelente resistência ao desgaste e baixa absorção de umidade.",
+              "unidade": "UND",
+              "quantidade": "150,00",
+              "valor_referencia": "69,30"
+            },
+            {
+              "numero": "7",
+              "especificacao": "37756 Bola de futsal categoria Sub-13:confeccionada em laminado de poliuretano (PU) de alta resistência ou material sintético de qualidade equivalente, com tecnologia de construção termofundida, híbrida ou costurada, proporcionando excelente resistência ao desgaste e baixa absorção de água. Deverá possuir câmara interna confeccionada em borracha butílica ou material equivalente, miolo removível, substituível e lubrificado, com perfeito balanceamento. Circunferência entre 55 cm e 59 cm e peso entre 350 g e 380 g, admitidas pequenas variações conforme normas técnicas nacionais aplicáveis.",
+              "unidade": "UND",
+              "quantidade": "300,00",
+              "valor_referencia": "137,67"
+            },
+            {
+              "numero": "8",
+              "especificacao": "9900516120 Bola de handebol H1:confeccionada em laminado de poliuretano (PU) ou material sintético de elevada resistência, com superfície texturizada para proporcionar maior aderência durante o manuseio. Câmara interna em borracha butílica ou material equivalente, miolo removível e lubrificado, estrutura resistente à deformação e ao uso contínuo. Circunferência aproximada entre 50 cm e 52 cm e peso entre 290 g e 330 g.",
+              "unidade": "UND",
+              "quantidade": "300,00",
+              "valor_referencia": "101,32"
+            },
+            {
+              "numero": "9",
+              "especificacao": "9900516121 Bola de handebol H2:confeccionada em laminado de poliuretano (PU) ou material sintético de elevada resistência, superfície texturizada para melhor empunhadura, câmara interna em borracha butílica ou material equivalente, miolo removível elubrificado. Circunferência aproximada entre 54 cm e 56 cm e peso entre 325 g e 375 g, apresentando excelente resistência ao desgaste e baixa deformação durante o uso contínuo.",
+              "unidade": "UND",
+              "quantidade": "300,00",
+              "valor_referencia": "124,99"
+            },
+            {
+              "numero": "10",
+              "especificacao": "37757 Bola oficial para futebol de campo:destinada ao treinamento e competições, confeccionada em laminado de poliuretano (PU) ou material sintético de qualidade superior, com construção termofundida, híbrida ou tecnologia equivalente, proporcionando elevada resistência mecânica, baixa absorção de água e excelente estabilidade. Deverá possuir câmara interna em borracha butílica ou material equivalente, miolo removível, substituível e lubrificado. Circunferência entre 68 cm e 70 cm e peso entre 410 g e 450 g.",
+              "unidade": "UND",
+              "quantidade": "17,00",
+              "valor_referencia": "474,34"
+            },
+            {
+              "numero": "11",
+              "especificacao": "9900516122 Bola oficial para voleibol de quadra:confeccionada em laminado de microfibra sintética, poliuretano (PU) ou material equivalente de elevada resistência, estrutura composta por gomos termofundidos ou tecnologia similar, proporcionando baixa absorção de água, excelente equilíbrio, maciez ao toque e precisão durante o jogo. Câmara interna em borracha butílica ou material equivalente, miolo removível e lubrificado.Circunferência entre 65 cm e 67 cm e peso entre 260 g e 280 g.",
+              "unidade": "UND",
+              "quantidade": "60,00",
+              "valor_referencia": "122,46"
+            }
+          ]
+        },
+        {
+          "numero": "5",
+          "titulo": "LOLTE 5",
+          "fase": "JULGAMENTO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "45.444,05",
+          "vencedor": "MAIS ESPORTE COMERCIO DE ARTIGOS ESPORTIVOS LTDA",
+          "melhor_oferta": "42.690,00",
+          "total_itens": 7,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900516123 Colchonete para atividades físicas:confeccionado em espuma de poliuretano com densidade mínima D33, revestido em material sintético impermeável, lavável e resistente à abrasão, com costuras reforçadas e fechamento por zíper para eventual substituição da espuma. Dimensões aproximadas de 0,90 m de comprimento, 0,60 m de largura e 0,03 m de espessura, admitindo pequenas variações. Produto destinado à prática de exercícios físicos, alongamentos, ginástica, recreação e demais atividades esportivas, proporcionando conforto e segurança durante sua utilização.",
+              "unidade": "UND",
+              "quantidade": "600,00",
+              "valor_referencia": "64,03"
+            },
+            {
+              "numero": "2",
+              "especificacao": "9900516124 Bola para pilates:confeccionada em PVC ou material polimérico de elevada resistência, com sistema antiestouro (anti-burst), suportando carga estática mínima de 300 kg. Diâmetro aproximado de 65 cm, superfície antiderrapante e toque macio, indicada para exercícios de fortalecimento muscular, alongamento, equilíbrio e fisioterapia. Deverá acompanhar bomba para enchimento, válvulas sobressalentes e adaptador para insuflação.",
+              "unidade": "UND",
+              "quantidade": "70,00",
+              "valor_referencia": "72,52"
+            },
+            {
+              "numero": "3",
+              "especificacao": "9900516125 Medicine Ball borracha 1 kg:bola de medicine Ball com peso de 1 kg, fabricada em borracha resistente ao impacto com textura especial antiderrapante, com 38 cm de circunferência, e válvula celebrável.",
+              "unidade": "UND",
+              "quantidade": "5,00",
+              "valor_referencia": "45,39"
+            },
+            {
+              "numero": "4",
+              "especificacao": "9900516126 Medicine Ball borracha 2 kg:bola de medicine Ball com peso de 2 kg, fabricada em borracha resistente ao impacto com textura especial antiderrapante, com aproximadamente 45 cm de circunferência, e válvula celebrável.",
+              "unidade": "UND",
+              "quantidade": "5,00",
+              "valor_referencia": "71,71"
+            },
+            {
+              "numero": "5",
+              "especificacao": "9900516127 Medicine Ball borracha 3 kg:bola de medicine Ball com peso de 3 kg, fabricada em borracha resistente ao impacto com textura especial antiderrapante, com aproximadamente 55 cm de circunferência, e válvula celebrável.",
+              "unidade": "UND",
+              "quantidade": "5,00",
+              "valor_referencia": "74,83"
+            },
+            {
+              "numero": "6",
+              "especificacao": "9900516128 Medicine Ball borracha 4 kg:bola de medicine Ball com peso de 4 kg, fabricada em borracha resistente ao impacto com textura especial antiderrapante, com aproximadamente 60 cm de circunferência, e válvula celebrável.",
+              "unidade": "UND",
+              "quantidade": "5,00",
+              "valor_referencia": "85,33"
+            },
+            {
+              "numero": "7",
+              "especificacao": "9900516129 Medicine Ball borracha 5 kg:bola de medicine Ball com peso de 5 kg, fabricada em borracha resistente ao impacto com textura especial antiderrapante, com aproximadamente 65 cm de circunferência, e válvula celebrável.",
+              "unidade": "UND",
+              "quantidade": "5,00",
+              "valor_referencia": "112,67"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "CD-005-2025",
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "758/2025",
@@ -300755,7 +300891,7 @@
       "fim_recepcao": "15/06/2026 00:00",
       "inicio_disputa": "",
       "objeto": "Credenciamento de pessoa jurídica para PRESTAÇÃO DE SERVIÇOS\n MÉDICOS ESPECIALIZADOS EM ANÁLISE PATOLÓGICA para atender as demandas da\n Secretaria Municipal de Saúde.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5De09QK8FOa8CxwCoGVRFCSH0EwRgqtdMtr6TNCQUh2pZc5ZdusQE1C6yhJnGYe6VOGSe6IWKYrQ%2FYZMpHPSVgo9nq0fpy3tTReOTkZGLbYv8%3D",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DAGinGusp2m%2FWKcNpBcH353IL46C8PBXEl_Ox7N5Mz2ykTquToCTTgFjE3qPqZHZzvuVA0klToaJ8oCaH80d2mbyTOGOhs0XtN9rGfGDbbPQ%3D",
       "total_lotes": 9,
       "total_itens": 9,
       "lotes": [
@@ -300991,7 +301127,7 @@
       "fim_recepcao": "10/07/2024 13:45",
       "inicio_disputa": "10/07/2024 14:00",
       "objeto": "O objeto da presente licitação é a contratação de INSTITUIÇÃO FINANCEIRA ESPECIALIZADA NA PRESTAÇÃO DE SERVIÇOS BANCÁRIOS PARA CENTRALIZAÇÃO, GERENCIAMENTO E PROCESSAMENTO DE CRÉDITOS DA FOLHA DE PAGAMENTO DOS SERVIDORES, a fim de atender as demandas da Secretaria Municipal de Administração, conforme condições, quantidades e especificações no Edital, Termo de Referência e seus Anexos.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5D3mISjsrY9INf7OnVdKjZ3ogsa89DdKsbo_u0w4_NGZ67RpTXx4ecEJZfNTWWtZkCdjA90Qf%2FEDnKLnOShpccH1pGRhq3KwEauge11l1S_AM%3D",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DtKL%2FLdPM9T7okEZM317nXncaS6r249ehII32HD1giA1Xql3M6qVVy7MANjizbRnAN%2FLjWjU0XvFz_sTB9TbKItCyJGISzq6pEhmRU5dCxDg%3D",
       "total_lotes": 1,
       "total_itens": 1,
       "lotes": [
