@@ -1,10 +1,10 @@
 {
   "metadata": {
     "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-    "total_processos": 899,
-    "total_lotes": 9943,
-    "total_itens": 16498,
-    "atualizado_em": "20260909_191352"
+    "total_processos": 905,
+    "total_lotes": 9969,
+    "total_itens": 16528,
+    "atualizado_em": "20260910_224116"
   },
   "processos": [
     {
@@ -268118,7 +268118,7 @@
       "publicacao": "03/06/2026 16:22",
       "inicio_recepcao": "05/06/2026 08:00",
       "fim_recepcao": "14/07/2026 08:15",
-      "inicio_disputa": "10/09/2026 17:20",
+      "inicio_disputa": "11/09/2026 17:20",
       "objeto": "Contratação de empresa especializada em execução de obras de construção de um Centro Educacional, com quadra coberta, localizado no bairro Jerusalém, no município de Teixeira de Freitas – BA.",
       "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5D7LZabRr7rQrtf24kB14UjYZu8E%2FND799QlWXVrnZLiF2li4grnVHSzAf9Wode1Mwxo0Z_qUGfMaq1gnCu7rM9xssjgDyHH5lKW%2F0ol7Q2yU%3D",
       "total_lotes": 1,
@@ -268469,7 +268469,7 @@
       "publicacao": "03/06/2026 17:18",
       "inicio_recepcao": "05/06/2026 08:00",
       "fim_recepcao": "15/07/2026 08:15",
-      "inicio_disputa": "10/09/2026 17:20",
+      "inicio_disputa": "11/09/2026 17:20",
       "objeto": "Contratação de empresa especializada em execução de obras de construção de um Centro Educacional, com piscina anexa, localizado no bairro Caminho do Mar, no município de Teixeira de Freitas – BA.",
       "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DL%2FrR5dAaiUsY6jb7mFKba8PCKLawFAXnjNy8Ff3_s5NPy49w1db1RxuZqR2ZbCqTT2KNWtFQz3IpK_j95JByrIj%2Flk0I_LaItNBPnTmZyRk%3D",
       "total_lotes": 1,
@@ -279013,338 +279013,6 @@
       ]
     },
     {
-      "id": "5-DLE-079-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "804/2026",
-      "modalidade": "DISPENSA ELETRÔNICA",
-      "situacao": "JULGAMENTO",
-      "condutor": "ISAQUE SILVA DOS SANTOS",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO PARCELADA",
-      "publicacao": "24/07/2026 18:13",
-      "inicio_recepcao": "24/07/2026 18:15",
-      "fim_recepcao": "30/07/2026 08:15",
-      "inicio_disputa": "30/07/2026 08:30",
-      "objeto": "Contratação de empresa especializada em fornecimento de [UTENSÍLIOS DE COZINHA E EPI’S NECESSÁRIOS PARA O PROJETO PADARIA COMUNITÁRIA] (material de consumo), a fim de atender as necessidades da Secretaria Municipal de Promoção Social.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5Dul8j4woBwBEbTdswNlR1eSJcJEY8mRBZgyRwkVp_5XnUtr19rk6y6kX4GqnzK9W1kmeup9OPDj%2FEpW1EelG9lFfY_rZIMNjhPuBttvljOhM%3D",
-      "total_lotes": 13,
-      "total_itens": 13,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "Faca de cozinha de 8 polegadas",
-          "fase": "HABILITAÇÃO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,00",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "283,10",
-          "vencedor": "DISTRIBUIMAAIS NEGOCIOS CORPARATIVO LTDA",
-          "melhor_oferta": "280,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "7303000004 Faca de cozinha de 8 polegadas:32,6cmx4cmx1,5cm, em aço inoxidável.",
-              "unidade": "UN",
-              "quantidade": "10,00",
-              "valor_referencia": "28,31"
-            }
-          ]
-        },
-        {
-          "numero": "2",
-          "titulo": "Faca para Carne 14 polegadas",
-          "fase": "HABILITAÇÃO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,00",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "2.056,20",
-          "vencedor": "DISTRIBUIMAAIS NEGOCIOS CORPARATIVO LTDA",
-          "melhor_oferta": "1.980,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "7303000005 Faca para Carne 14 polegadas:com lâmina em aço inox e cabo em polipropileno branco.",
-              "unidade": "UN",
-              "quantidade": "10,00",
-              "valor_referencia": "205,62"
-            }
-          ]
-        },
-        {
-          "numero": "3",
-          "titulo": "KIT HIGIENIZAÇÃO (dispenser/porta papel e toalha)",
-          "fase": "HABILITAÇÃO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,00",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "256,00",
-          "vencedor": "DISTRIBUIMAAIS NEGOCIOS CORPARATIVO LTDA",
-          "melhor_oferta": "256,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "7302000008 KIT HIGIENIZAÇÃO (dispenser/porta papel etoalha):kit com dispenser para papel toalha interfolha e umasaboneteira de 800 ml com reservatório.",
-              "unidade": "KIT",
-              "quantidade": "4,00",
-              "valor_referencia": "64,00"
-            }
-          ]
-        },
-        {
-          "numero": "4",
-          "titulo": "Luva de segurança confeccionada em borracha nitrílica P",
-          "fase": "JULGAMENTO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,00",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "718,20",
-          "vencedor": "BOAZ SAÚDE E SEGURANÇA LTDA",
-          "melhor_oferta": "691,20",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "8406500018 Luva de segurança confeccionada em borrachanitrílica P:antiderrapante na palma, interior flocado. Proteção dasmãos do usuário contra agentes abrasivos, escoriantes,cortantes e perfurantes e contra agentes químicos tais comoClasse A - Tipo 2: Agressivos básicos; Classe B - Detergentes,Sabões, Amoníacos e similares e Classe C - Tipo 1:Hidrocarbonetos Alifáticos, Tipo 2: Hidrocarbonetos aromáticos,Tipo 3: Álcoois, Tipo 4: Éteres. Comprimento deaproximadamente 33 cm e espessura de cerca de 0,40mm,tamanhos P. (CA: 26.098).",
-              "unidade": "PAR",
-              "quantidade": "60,00",
-              "valor_referencia": "11,97"
-            }
-          ]
-        },
-        {
-          "numero": "5",
-          "titulo": "Luva de segurança confeccionada em borracha nitrílica M",
-          "fase": "JULGAMENTO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,00",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "1.197,00",
-          "vencedor": "BOAZ SAÚDE E SEGURANÇA LTDA",
-          "melhor_oferta": "1.168,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "8406500019 Luva de segurança confeccionada em borrachanitrílica M:antiderrapante na palma, interior flocado. Proteção dasmãos do usuário contra agentes abrasivos, escoriantes,cortantes e perfurantes e contra agentes químicos tais comoClasse A - Tipo 2: Agressivos básicos; Classe B - Detergentes,Sabões, Amoníacos e similares e Classe C - Tipo 1:Hidrocarbonetos Alifáticos, Tipo 2: Hidrocarbonetos aromáticos,Tipo 3: Álcoois, Tipo 4: Éteres. Comprimento deaproximadamente 33 cm e espessura de cerca de 0,40mm,tamanho M. (CA: 26.098).",
-              "unidade": "PAR",
-              "quantidade": "100,00",
-              "valor_referencia": "11,97"
-            }
-          ]
-        },
-        {
-          "numero": "6",
-          "titulo": "Luva de segurança confeccionada em borracha nitrílica G",
-          "fase": "JULGAMENTO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,00",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "1.255,00",
-          "vencedor": "BOAZ SAÚDE E SEGURANÇA LTDA",
-          "melhor_oferta": "1.228,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "8406500020 Luva de segurança confeccionada em borrachanitrílica G:antiderrapante na palma, interior flocado. Proteção dasmãos do usuário contra agentes abrasivos, escoriantes,cortantes e perfurantes e contra agentes químicos tais comoClasse A - Tipo 2: Agressivos básicos; Classe B - Detergentes,Sabões, Amoníacos e similares e Classe C - Tipo 1:Hidrocarbonetos Alifáticos, Tipo 2: Hidrocarbonetos aromáticos,Tipo 3: Álcoois, Tipo 4: Éteres. Comprimento deaproximadamente 33 cm e espessura de cerca de 0,40mm,tamanho G. (CA: 26.098).",
-              "unidade": "PAR",
-              "quantidade": "100,00",
-              "valor_referencia": "12,55"
-            }
-          ]
-        },
-        {
-          "numero": "7",
-          "titulo": "Luva de segurança confeccionada em borracha nitrílica GG",
-          "fase": "JULGAMENTO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,00",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "718,20",
-          "vencedor": "BOAZ SAÚDE E SEGURANÇA LTDA",
-          "melhor_oferta": "697,80",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "8406500021 Luva de segurança confeccionada em borrachanitrílica GG:antiderrapante na palma, interior flocado. Proteçãodas mãos do usuário contra agentes abrasivos, escoriantes,cortantes e perfurantes e contra agentes químicos tais comoClasse A - Tipo 2: Agressivos básicos; Classe B - Detergentes,Sabões, Amoníacos e similares e Classe C - Tipo 1:Hidrocarbonetos Alifáticos, Tipo 2: Hidrocarbonetos aromáticos,Tipo 3: Álcoois, Tipo 4: Éteres. Comprimento deaproximadamente 33 cm e espessura de cerca de 0,40mm.Diversos tamanhos GG. (CA: 26.098).",
-              "unidade": "PAR",
-              "quantidade": "60,00",
-              "valor_referencia": "11,97"
-            }
-          ]
-        },
-        {
-          "numero": "8",
-          "titulo": "Luva de segurança confeccionada em borracha nitrílica XG",
-          "fase": "HABILITAÇÃO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,00",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "623,00",
-          "vencedor": "DISTRIBUIMAAIS NEGOCIOS CORPARATIVO LTDA",
-          "melhor_oferta": "619,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "8406500022 Luva de segurança confeccionada em borrachanitrílica XG:antiderrapante na palma, interior flocado. Proteçãodas mãos do usuário contra agentes abrasivos, escoriantes,cortantes e perfurantes e contra agentes químicos tais comoClasse A - Tipo 2: Agressivos básicos; Classe B - Detergentes,Sabões, Amoníacos e similares e Classe C - Tipo 1:Hidrocarbonetos Alifáticos, Tipo 2: Hidrocarbonetos aromáticos,Tipo 3: Álcoois, Tipo 4: Éteres. Comprimento deaproximadamente 33 cm e espessura de cerca de 0,40mm.Diversos tamanhos XG. (CA: 26.098).",
-              "unidade": "PAR",
-              "quantidade": "50,00",
-              "valor_referencia": "12,46"
-            }
-          ]
-        },
-        {
-          "numero": "9",
-          "titulo": "LUVA DESCARTÁVEL TPE SOFT TRANSPARENTE",
-          "fase": "DESERTO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,00",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "52,98",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "8406500023 LUVA DESCARTÁVEL TPE SOFTTRANSPARENTE:tamanho: Pequena (P), Material: ElastômeroTermoplástico (TPE) Cor: Transparente, caixa com 100unidades.",
-              "unidade": "CX",
-              "quantidade": "3,00",
-              "valor_referencia": "17,66"
-            }
-          ]
-        },
-        {
-          "numero": "10",
-          "titulo": "LUVA DESCARTÁVEL TPE SOFT TRANSPARENTE 8 CM",
-          "fase": "DESERTO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,00",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "102,48",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "8406500024 LUVA DESCARTÁVEL TPE SOFTTRANSPARENTE 8 CM:tamanho: Média (M), Material:Elastômero Termoplástico (TPE) Cor: Transparente, caixa com100 unidades.",
-              "unidade": "CX",
-              "quantidade": "6,00",
-              "valor_referencia": "17,08"
-            }
-          ]
-        },
-        {
-          "numero": "11",
-          "titulo": "LUVA DESCARTÁVEL TPE SOFT TRANSPARENTE 9 CM",
-          "fase": "DESERTO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,00",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "68,32",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "8406500025 LUVA DESCARTÁVEL TPE SOFTTRANSPARENTE 9 CM:tamanho: Grande (G), Material:Elastômero Termoplástico (TPE) Cor: Transparente, caixa com100 unidades.",
-              "unidade": "CX",
-              "quantidade": "4,00",
-              "valor_referencia": "17,08"
-            }
-          ]
-        },
-        {
-          "numero": "12",
-          "titulo": "Luva Térmica Felpuda para Forno Panificação, cano longo para uso Profissional",
-          "fase": "FRACASSADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,00",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "6.653,50",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "8406500026 Luva Térmica Felpuda para Forno Panificação,cano longo para uso Profissional:luva térmica felpuda para fornode panificação, tipo mão de gato, reforçada, cano longo, mínimo40cm, que suporte altas temperaturas até 500ºC, materialAlgodão/Poliéster, nas cores azul ou cru. Par.",
-              "unidade": "PAR",
-              "quantidade": "50,00",
-              "valor_referencia": "133,07"
-            }
-          ]
-        },
-        {
-          "numero": "13",
-          "titulo": "Protetor auditivo",
-          "fase": "DESERTO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,00",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "272,10",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900516086 Protetor auditivo:do tipo concha, constituído porduas conchas em plástico, apresentando almofadas de espumaem suas laterais e em seu interior, possuindo uma haste emplástico rígido, ou outro material, que mantém as conchasfirmemente seladas contra a região das orelhas do usuário e quesustenta as conchas. Deverá possuir NRRsf mínimo de 21 dB.(CA: 14.235, 15.247).",
-              "unidade": "UN",
-              "quantidade": "10,00",
-              "valor_referencia": "27,21"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "PE-107-2026",
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "274 / 2026",
@@ -283205,50 +282873,6 @@
       ]
     },
     {
-      "id": "PE-124-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "860 / 2026",
-      "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "JULGAMENTO",
-      "condutor": "JONATAS DA SILVA SOUSA",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO",
-      "publicacao": "31/07/2026 19:19",
-      "inicio_recepcao": "04/08/2026 08:00",
-      "fim_recepcao": "18/08/2026 09:45",
-      "inicio_disputa": "18/08/2026 10:00",
-      "objeto": "Contratação de empresa especializada em prestação de SERVIÇOS TÉCNICOS CONTÁBEIS, cujas especificações técnicas, quantidades e demais condições encontram-se detalhadas neste instrumento, a fim de atender as demandas da Secretaria Municipal de Educação.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DkMU_XlEXo6_nl4QBjHUFAArShxWInPgKqPFmQSbOsvxTcWRaw1l97AxQTUvm_o7QpG6nwKvot9qerthx3mXkgZLlJs2Tl9JNr6HGhDqKZ6k%3D",
-      "total_lotes": 1,
-      "total_itens": 1,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "SERVIÇOS CONTÁBEIS",
-          "fase": "JULGAMENTO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "75.099,96",
-          "vencedor": "RGR ASSESSORIA EMPRESARIAL LTDA",
-          "melhor_oferta": "37.950,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9903312129 Serviços técnicos especializados de assessoria econsultoria contábil:para atendimento das demandas daSecretaria Municipal de Educação, compreendendo orientaçãotécnica e suporte nas áreas orçamentária, financeira, patrimoniale contábil; acompanhamento da execução orçamentária efinanceira dos recursos públicos municipais e vinculados àeducação; elaboração, análise e conferência de demonstrativoscontábeis; assessoramento nos procedimentos de prestação decontas de recursos próprios, transferências voluntárias eprogramas governamentais, incluindo os recursos oriundos doPrograma Dinheiro Direto na Escola (PDDE), abrangendoorientação quanto aos registros contábeis, organizaçãodocumental, aplicação dos recursos e cumprimento dasexigências normativas específicas do programa; suporte técnicono atendimento às demandas e diligências dos órgãos decontrole interno e externo; orientação quanto à aplicação dasNormas Brasileiras de Contabilidade Aplicadas ao Setor Público(NBCASP), da legislação fiscal e financeira vigente e demaisnormas correlatas; emissão de pareceres, relatórios eorientações técnicas relacionadas à gestão contábil pública; bemcomo demais atividades acessórias necessárias à adequadaexecução dos serviços, à regularidade das prestações de contase ao fortalecimento da gestão contábil e administrativa daSecretaria Municipal de Educação.",
-              "unidade": "SER",
-              "quantidade": "12,00",
-              "valor_referencia": "6.258,33"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "CE-014-2026",
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "620/2026",
@@ -284226,7 +283850,7 @@
       "publicacao": "03/06/2026 15:51",
       "inicio_recepcao": "14/07/2026 08:00",
       "fim_recepcao": "18/08/2026 08:15",
-      "inicio_disputa": "10/09/2026 17:20",
+      "inicio_disputa": "11/09/2026 17:20",
       "objeto": "Contratação de empresa especializada em execução de obras de construção de uma escola de tempo integral de educação fundamental, no bairro Liberdade Sul, do município de Teixeira de Freitas – BA.",
       "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5Dz_097IFSD3vnpQprEvsxfBnlAAc4fmFAXt4pQd4%2FWcYw%2FrEKQSfbBnnfDI356uTEl6YDD2xyx_WUMMMgRKVJ5X6U4P4I3ZXUHtn01t6bxak%3D",
       "total_lotes": 1,
@@ -288686,57 +288310,6 @@
       ]
     },
     {
-      "id": "PE-118-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "845 / 2026",
-      "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "RECEPÇÃO DE PROPOSTAS",
-      "condutor": "SERGIO CARNEIRO CAVALCANTI DE AZEVEDO",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "REGISTRO DE PREÇO",
-      "publicacao": "24/07/2026 11:18",
-      "inicio_recepcao": "26/08/2026 08:00",
-      "fim_recepcao": "10/09/2026 08:15",
-      "inicio_disputa": "10/09/2026 08:30",
-      "objeto": "Contratação de empresa especializada em prestação de serviço de ELABORAÇÃO DE PROJETOS, CONFECÇÃO, MONTAGEM E INSTALAÇÃO DE MOBILIÁRIOS PLANEJADOS, a fim de atender as demandas da Secretaria Municipal de Educação.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DVvfWFpDk8o_x9gpBTpmf0uNf30CfV8uL4ZGSzRDPO9o1XHxenCWkrdaCgCl8_B_Hu5kk2tcMWzQXbHIgIkvvoFHL0IJLv7g2Q0RUyhbasco%3D",
-      "total_lotes": 1,
-      "total_itens": 2,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "MOVEIS PLANEJADOS",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 2,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9903312127 Mobiliário Planejado sob medida (FECHADO), incluindo confecção, montagem e instalação no local, compreendendo a elaboração de projeto, matéria-prima e todos os custos para o fornecimento do mesmo:A madeira utilizada dever· ser de MDF com 15 mm para parte interna dos móveis, parte externa com tamponamento de 30 mm de espessura; profundidade mínima de 500 mm; pés niveladores em borracha ou rodas rodízio para móveis; os móveis deverão ter acabamento com fita de borda na cor do móvel, colada pelo sistema \"hot melt\"; puxadores integrais em alumínio com acabamento; corrediças telescópicas; pés em MDF; fundo com 6 mm; dobradiças tipo caneco (35 mm) niqueladas com amortecimento; as cores serão definidas pelo órgão solicitante, podendo ser em tons claros ou escuros. Ficará a cargo da futura contratada apresentar projeto em 2D e 3D com detalhamento estrutural para aprovação prévia da Administração, podendo ser solicitadas alterações para adequação às demandas da Secretaria Municipal de Educação.",
-              "unidade": "m2.",
-              "quantidade": "4.000,00",
-              "valor_referencia": ""
-            },
-            {
-              "numero": "2",
-              "especificacao": "9903312128 Mobiliário Planejado sob medida (ABERTO), incluindo confecção, montagem e instalação no local, compreendendo a elaboração de projeto, matéria-prima e todos os custos para o fornecimento do mesmo:A madeira utilizada deverá ser de MDF com 15mm para parte interna dos móveis, parte externa com tamponamento de 30 mm de espessura; profundidade mínima de 200 mm; pés niveladores em borracha; os móveis deverão ter acabamento com fita de borda na cor do móvel, colada pelo sistema \"hot melt\"; fundo com 6 mm; as cores serão definidas pelo órgão solicitante, podendo ser em tons claros ou escuros. Ficar· a cargo da futura contratada apresentar projeto em 2D e 3D com detalhamento estrutural para aprovação prévia da Administração, podendo ser solicitadas alterações para adequação às demandas da Secretaria Municipal de Educação.",
-              "unidade": "m2.",
-              "quantidade": "2.500,00",
-              "valor_referencia": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "PE-144-2026",
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "887 / 2026",
@@ -288747,8 +288320,8 @@
       "tipo_contrato": "AQUISIÇÃO PARCELADA",
       "publicacao": "25/08/2026 18:41",
       "inicio_recepcao": "27/08/2026 08:00",
-      "fim_recepcao": "11/09/2026 08:15",
-      "inicio_disputa": "11/09/2026 08:30",
+      "fim_recepcao": "21/09/2026 08:15",
+      "inicio_disputa": "21/09/2026 08:30",
       "objeto": "Contratação de empresa especializada em fornecimento e instalação de CLIMATIZADORES EVAPORATIVOS, a fim de atender às demandas da Secretaria Municipal de Infraestrutura e Serviços Urbanos.",
       "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5Dtz7u4ZauVw8M19HuZpKYVsGIShtjvS2B3qFF_FeW75BUrcDiUsdWLbRrguLztfwxuvGHX7aI9JPPkD2EnvAMmW665H4d7%2FruLxQcweRZimg%3D",
       "total_lotes": 2,
@@ -289469,8 +289042,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "644.989,50",
-          "vencedor": "R.V. DE S. NOVAIS LTDA.",
-          "melhor_oferta": "594.900,00",
+          "vencedor": "MASTERTEC TECNOLOGIA E SERVICOS ESPECIALIZADOS LTDA",
+          "melhor_oferta": "608.116,22",
           "total_itens": 1,
           "itens": [
             {
@@ -289493,8 +289066,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "753.766,50",
-          "vencedor": "INOVA DIGITAL LTDA",
-          "melhor_oferta": "689.847,00",
+          "vencedor": "MASTERTEC TECNOLOGIA E SERVICOS ESPECIALIZADOS LTDA",
+          "melhor_oferta": "709.998,05",
           "total_itens": 1,
           "itens": [
             {
@@ -289517,8 +289090,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "467.514,75",
-          "vencedor": "R.V. DE S. NOVAIS LTDA.",
-          "melhor_oferta": "369.975,00",
+          "vencedor": "MASTERTEC TECNOLOGIA E SERVICOS ESPECIALIZADOS LTDA",
+          "melhor_oferta": "377.190,01",
           "total_itens": 1,
           "itens": [
             {
@@ -289541,8 +289114,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "101.856,48",
-          "vencedor": "R.V. DE S. NOVAIS LTDA.",
-          "melhor_oferta": "69.000,00",
+          "vencedor": "MASTERTEC TECNOLOGIA E SERVICOS ESPECIALIZADOS LTDA",
+          "melhor_oferta": "72.398,14",
           "total_itens": 1,
           "itens": [
             {
@@ -289565,8 +289138,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "299.589,57",
-          "vencedor": "R.V. DE S. NOVAIS LTDA.",
-          "melhor_oferta": "180.981,00",
+          "vencedor": "RR COMERCIO DE EQUIPAMENTOS DE INFORMATICA EIRELI",
+          "melhor_oferta": "181.323,36",
           "total_itens": 1,
           "itens": [
             {
@@ -289661,8 +289234,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "214.996,50",
-          "vencedor": "R.V. DE S. NOVAIS LTDA.",
-          "melhor_oferta": "214.950,00",
+          "vencedor": "OC INFORMATICA",
+          "melhor_oferta": "350.000,00",
           "total_itens": 1,
           "itens": [
             {
@@ -289685,8 +289258,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "251.255,50",
-          "vencedor": "INOVA DIGITAL LTDA",
-          "melhor_oferta": "229.897,50",
+          "vencedor": "RR COMERCIO DE EQUIPAMENTOS DE INFORMATICA EIRELI",
+          "melhor_oferta": "236.980,00",
           "total_itens": 1,
           "itens": [
             {
@@ -289709,8 +289282,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "155.838,25",
-          "vencedor": "INOVA DIGITAL LTDA",
-          "melhor_oferta": "124.987,50",
+          "vencedor": "DIXAM COMÉRCIO E SERVIÇOS LTDA",
+          "melhor_oferta": "149.350,00",
           "total_itens": 1,
           "itens": [
             {
@@ -289733,8 +289306,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "25.464,12",
-          "vencedor": "RR COMERCIO DE EQUIPAMENTOS DE INFORMATICA EIRELI",
-          "melhor_oferta": "18.107,04",
+          "vencedor": "JAMA TECNOLOGIA EIRELI",
+          "melhor_oferta": "41.700,00",
           "total_itens": 1,
           "itens": [
             {
@@ -289757,8 +289330,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "88.767,28",
-          "vencedor": "RR COMERCIO DE EQUIPAMENTOS DE INFORMATICA EIRELI",
-          "melhor_oferta": "53.725,44",
+          "vencedor": "INOVA DIGITAL LTDA",
+          "melhor_oferta": "82.980,00",
           "total_itens": 1,
           "itens": [
             {
@@ -289781,8 +289354,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "32.751,75",
-          "vencedor": "H2T TECNOLOGIA LTDA",
-          "melhor_oferta": "22.069,98",
+          "vencedor": "AV AGENCIA DIGITAL LTDA",
+          "melhor_oferta": "31.799,97",
           "total_itens": 1,
           "itens": [
             {
@@ -289805,8 +289378,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "221.667,00",
-          "vencedor": "CH3 ELETRO E ELETRONICOS LTDA",
-          "melhor_oferta": "136.900,00",
+          "vencedor": "R.V. DE S. NOVAIS LTDA.",
+          "melhor_oferta": "198.000,00",
           "total_itens": 1,
           "itens": [
             {
@@ -289821,7 +289394,7 @@
         {
           "numero": "16",
           "titulo": "37809 NOTEBOOK DE DESEMPENHO BÁSICO:: Processadorde arquitetura x86-64,:equivalente ou superior aoIntel Core i3 de 13ª geração ou AMD Ryzen 5 Série 7000, comvídeo gráfico integrado. Deverá possuir, no mínimo, 6 (seis) núcleos, 8 (oito) threads, 10 MB d",
-          "fase": "RECEPÇÃO DE CONTRARRAZÕES",
+          "fase": "JULGAMENTO DE RECURSOS",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -296915,7 +296488,7 @@
       "publicacao": "27/07/2026 12:47",
       "inicio_recepcao": "28/07/2026 08:00",
       "fim_recepcao": "01/09/2026 08:15",
-      "inicio_disputa": "10/09/2026 17:20",
+      "inicio_disputa": "11/09/2026 17:20",
       "objeto": "Contratação de empresa especializada em execução de obras de construção de quatro portais nas entradas do município de Teixeira de Freitas – BA.",
       "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DdvjHbQ8IFR6DCYbgwdXM7QvejQzOrwdWH91qnH0QWxce7f3bba_ZM7ZdB6Zjx9rOfH%2FJHVLF6jwJQvcgMPTsB2tONzSTSSPwIjBxLv5etSs%3D",
       "total_lotes": 1,
@@ -297329,338 +296902,6 @@
               "unidade": "FR",
               "quantidade": "12,00",
               "valor_referencia": "10,00"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "2-DLE-081-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "890/2026",
-      "modalidade": "DISPENSA ELETRÔNICA",
-      "situacao": "ADJUDICADO",
-      "condutor": "ISAQUE SILVA DOS SANTOS",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO PARCELADA",
-      "publicacao": "29/07/2026 18:16",
-      "inicio_recepcao": "29/07/2026 18:20",
-      "fim_recepcao": "04/08/2026 08:15",
-      "inicio_disputa": "04/08/2026 08:30",
-      "objeto": "Contratação de empresa especializada em fornecimento de [TECIDOS] (material de consumo), a fim de atender as necessidades da Secretaria Municipal de Cultura e Turismo.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DBuZqWOWQc3ZMkfwiZ2z1PXugfHMlSY18rgGCWcEPYWXEPYbmSdNB_9iNWX_avWejLBczIjtswRpCGLZWwuzobVG%2FaNuGl92jlAcc1u5w1FI%3D",
-      "total_lotes": 13,
-      "total_itens": 13,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "Tule",
-          "fase": "ADJUDICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,00",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "749,00",
-          "vencedor": "CHSF DISTRIBUIDORA TEXTIL LTDA",
-          "melhor_oferta": "740,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37734 Tule:tecido de armação leve com uma estrutura maisrígida nas cores PRETA, BRANCA, ROSA, VERDE BANDEIRAE AZUL BEBÊ, de malha aberta, fino, transparente e maleável,composto por 100% (gramatura) poliamida ou poliéster (Opoliéster costuma ser mais armado) com largura de 1,40 m.Destinado a confecção de saias volumosas, sobreposições defigurinos, cenários, arranjos decorativos e demais elementosutilizados em diversas ocasiões. O tule deverá apresentar malhauniforme, sem rasgos, furos, deformações, fios rompidos oumanchas, proporcionando bom caimento e efeito visualadequado sob iluminação de palco ou ambientes internos. Ofornecimento será realizado em rolos cometendo 50 metrosprontos para uso em ornamentação e ambientação no âmbitoCultural.",
-              "unidade": "ROL",
-              "quantidade": "5,00",
-              "valor_referencia": "149,80"
-            }
-          ]
-        },
-        {
-          "numero": "2",
-          "titulo": "Oxford",
-          "fase": "ADJUDICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,00",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "4.661,25",
-          "vencedor": "CHSF DISTRIBUIDORA TEXTIL LTDA",
-          "melhor_oferta": "3.699,96",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37735 Oxford:tecido sintético nas cores BRANCO, PRETO,VERDE BANDEIRA, AZUL BEBÊ, MARROM CHOCOLATE,BEGE CLARO, VIOLETA ESCURO, VINHO CLARO,VERMELHO ESCARLATE, composto predominantemente porpoliéster, com entrelaçamento firme, gramatura de 110 g/m² elargura de 1,50 m. Indicado para confecção de uniformessimples, toalhas, painéis, bandeiras, fundos de palco, faixas eoutros elementos decorativos utilizados em diversas ocasiões. Otecido deverá ser resistente, com acabamento opaco, texturahomogênea, boa estabilidade dimensional e ausência de furos,rasgos, manchas, falhas de tecelagem ou desbotamentoacentuado. O fornecimento ocorrerá em rolos contendo 50metros, prontos para uso em atividades desenvolvidas no âmbitoda Cultura.",
-              "unidade": "ROL",
-              "quantidade": "11,00",
-              "valor_referencia": "423,75"
-            }
-          ]
-        },
-        {
-          "numero": "3",
-          "titulo": "Oxford xadrez",
-          "fase": "FRACASSADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,00",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "1.900,24",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37736 Oxford xadrez:variação estampada do tecido Oxford, empadrão xadrez e nas cores PRETO, AMARELA, AZUL EVERMELHO, composto por 100% poliéster, com gramatura de110 g/m² e largura de 1,50 m. Indicado para confecção deuniformes simples, fundos de palco, faixa e outros elementosdecorativos utilizados em eventos institucionais. A estampadeverá ser regular, sem falhas de impressão, sem desbotamentoacentuado ou diferenças marcantes de tonalidade entre rolos domesmo lote. O fornecimento deverá ser realizado em roloscontendo 50 metros, prontos para o uso em atividadesdesenvolvidas pela Secretaria de Cultura.",
-              "unidade": "ROL",
-              "quantidade": "4,00",
-              "valor_referencia": "475,06"
-            }
-          ]
-        },
-        {
-          "numero": "4",
-          "titulo": "Crepe Elena ou Helena",
-          "fase": "ADJUDICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,00",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "6.944,46",
-          "vencedor": "CHSF DISTRIBUIDORA TEXTIL LTDA",
-          "melhor_oferta": "5.799,96",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37737 Crepe Elena ou Helena:tecido sintético nas coresLARANJA, VERDE BANDEIRA, AMARELO, AZUL MARINHO,BEGE CLARO E PRETO com gramatura média a encorpada,geralmente 96% poliéster e 4% elastano, ou variações muitopróximas como 95% poliéster e 5% elastano. Largura padrão:1,45 metros a 1,50 metros ele mantém as especificaçõestécnicas padrão que garantem excelente caimento e opacidadepara alfaiataria e moda de caimento leve, superfície lisa e toquemacio, indicado para figurinos. O fornecimento deverá serrealizado em rolos contendo 50 metros, prontos para uso emrelevância das atividades desenvolvidas no âmbito da Cultura.",
-              "unidade": "ROL",
-              "quantidade": "6,00",
-              "valor_referencia": "1.157,41"
-            }
-          ]
-        },
-        {
-          "numero": "5",
-          "titulo": "Organza",
-          "fase": "ADJUDICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,00",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "3.528,00",
-          "vencedor": "CHSF DISTRIBUIDORA TEXTIL LTDA",
-          "melhor_oferta": "2.799,93",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37738 Organza:tecido leve nas cores CRITAL AZUL, CRISTALPRETA, CRISTAL VERMELHO, CRISTAL BRANCA, CRISTALVERDE, CRISTAL AMARELA, CRISTAL AZUL BEBÊ, compostopor 100% poliéster ou 100% poliamida (nylon), com gramaturaentre 25g/ m² e 45 g/m² e largura entre 1,40 m 1,50 m. Ofornecimento será realizado em rolos de 50 metros, pronto para ouso em atividades desenvolvidas no âmbito da Cultura.",
-              "unidade": "ROL",
-              "quantidade": "7,00",
-              "valor_referencia": "504,00"
-            }
-          ]
-        },
-        {
-          "numero": "6",
-          "titulo": "Malha montaria",
-          "fase": "ADJUDICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,00",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "1.721,20",
-          "vencedor": "CHSF DISTRIBUIDORA TEXTIL LTDA",
-          "melhor_oferta": "1.399,98",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37739 Malha montaria:tecido de malha encorpado, comelasticidade, toque macio e excelente resistência, nas coresAZUL MARINHO E BRANCO. Indicado para figurinos, vestuárioe peças cênicas. Composição: Poliéster com elastano(aproximadamente 90% poliésteres e 10% elastano, podendovariar conforme o fabricante). Gramatura: 280 a 320 g/ m².Largura mínima: 1,60 m. O fornecimento será realizado em rolosde 50 metros, pronto para o uso em atividades desenvolvidas noâmbito da Cultura.",
-              "unidade": "ROL",
-              "quantidade": "2,00",
-              "valor_referencia": "860,60"
-            }
-          ]
-        },
-        {
-          "numero": "7",
-          "titulo": "Twey (two way)",
-          "fase": "ADJUDICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,00",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "9.771,72",
-          "vencedor": "CHSF DISTRIBUIDORA TEXTIL LTDA",
-          "melhor_oferta": "7.762,65",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37740 Twey (two way):tecido plano sintético, de toque suave,caimento estruturado e baixa transparência, indicado parafigurinos, decoração e confecção em geral, nas cores BRANCO,CAQUI, AZUL NOITE, OFF WHITE, TERRA COTA, AZULACIZENTADO e CINZA CLARO. Gramatura aproximada de 180g/ m². Largura mínima de 1,50 m. Composição 100% poliéster. Ofornecimento será realizado em rolos de 50 metros, pronto para ouso em atividades desenvolvidas no âmbito da Cultura.",
-              "unidade": "ROL",
-              "quantidade": "7,00",
-              "valor_referencia": "1.395,96"
-            }
-          ]
-        },
-        {
-          "numero": "8",
-          "titulo": "Oxiline (oxfordine)",
-          "fase": "FRACASSADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,00",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "2.190,30",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "8300500042 Oxiline (oxfordine):Tecido sintético resistente, desuperfície lisa, toque macio e excelente durabilidade, indicadopara decoração, figurinos e confecção em geral, nas coresCINZA CLARO, BRANCO, BEGE CLARO, MARROM CLARO,AZUL NOITE, VINHO ESCURO. Composição 100% poliéster,gramatura aproximada de 180 a 220 g/ m², largura mínima de1,50 m, fornecido em rolo com comprimento mínimo de 50metros. O tecido deverá apresentar coloração uniforme, boaresistência ao rasgo e a tração, estabilidade dimensional, semmanchas, furos, falhas de tecelagem ou outros defeitos defabricação, sendo adequado para aplicações decorativas ecênicas de uso contínuo.",
-              "unidade": "ROL",
-              "quantidade": "6,00",
-              "valor_referencia": "365,05"
-            }
-          ]
-        },
-        {
-          "numero": "9",
-          "titulo": "Tricoline Mista",
-          "fase": "FRACASSADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,00",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "3.065,40",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "8300500043 Tricoline Mista:tecido plano de toque macio,excelente acabamento e boa resistência, indicado paraconfecção de figurinos, peças decorativas, artesanato,cenografia e aplicações em costura em geral, nas cores VINHOESCURO, MARROM CAFÉ, BEGE AREIA, OFF WHITE EPRETO. Composição aproximada: 65% poliéster e 35% algodão(ou composição equivalente), gramatura aproximada de 120 a150 g/ m², largura mínima de 1,50 m, fornecido em rolo comcomprimento mínimo de 50 metros. O tecido deverá apresentarcoloração uniforme, boa estabilidade dimensional, resistência aorasgo e A costura, sem manchas, furos, falhas de tecelagem ououtros defeitos de fabricação, sendo adequado para usodecorativo, artístico e de confecção",
-              "unidade": "ROL",
-              "quantidade": "5,00",
-              "valor_referencia": "613,08"
-            }
-          ]
-        },
-        {
-          "numero": "10",
-          "titulo": "Musseline",
-          "fase": "FRACASSADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,00",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "2.875,38",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37741 Musseline:tecido leve, semitransparente, de excelentecaimento e toque macio, indicado para confecção de figurinos,decoração, cenografia, painéis decorativos e aplicaçõesartísticas, nas cores VERDE OLIVA, AREIA, MOSTARDE,MARROM, TERRA COTA E PRETO. Composição: 100%poliéster, gramatura aproximada de 70 a 100 g/ m², larguramínima de 1,50 m, fornecido em rolo com comprimento mínimode 50 metros. O tecido deverá apresentar coloração uniforme,transparência homogênea, boa resistência ao rasgo, excelentecaimento, estabilidade dimensional e acabamento de qualidade,livre de manchas, furos, falhas de tecelagem ou quaisquer outrosdefeitos de fabricação, sendo adequado para aplicaçõesdecorativas, cênicas e de vestuário.",
-              "unidade": "ROL",
-              "quantidade": "6,00",
-              "valor_referencia": "479,23"
-            }
-          ]
-        },
-        {
-          "numero": "11",
-          "titulo": "CETIM",
-          "fase": "ADJUDICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,00",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "3.161,32",
-          "vencedor": "CHSF DISTRIBUIDORA TEXTIL LTDA",
-          "melhor_oferta": "2.476,68",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37742 CETIM:tecido cetim com elastano, sintético de superfíciebrilhante, toque macio, excelente caimento e elasticidade,indicado para confecção de figurinos, vestuário, decoração,cenografia e artes cênicas, nas cores VERDE FOLHA,DOURADO, OFF WHITE E CINZA CLARO. Composiçãoaproximada: poliéster com elastano, gramatura aproximada de140 a 180 g/m², largura mínima de 1,50 m, fornecido em rolo comcomprimento mínimo de 50 metros. O tecido deverá apresentarbrilho uniforme, coloração homogênea, boa resistência ao rasgoe a tração, elasticidade adequada, estabilidade dimensional eacabamento de qualidade, livre de manchas, furos, falhas detecelagem ou quaisquer outros defeitos de fabricação, sendoapropriado para aplicações artísticas, decorativas e de vestuário.",
-              "unidade": "ROL",
-              "quantidade": "4,00",
-              "valor_referencia": "790,33"
-            }
-          ]
-        },
-        {
-          "numero": "12",
-          "titulo": "VISCOSE",
-          "fase": "ADJUDICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,00",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "1.104,80",
-          "vencedor": "CHSF DISTRIBUIDORA TEXTIL LTDA",
-          "melhor_oferta": "859,99",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "8300500044 VISCOSE:tecido leve, macio, respirável e deexcelente caimento, na cor PRETA, indicado para confecção defigurinos, vestuário, artes cênicas e peças de moda em geral.Composição: 100% viscose ou viscose com pequena variaçãode fibras conforme o fabricante, gramatura aproximada de 120 a180 g/m², largura mínima de 1,40 m, fornecido em rolo comcomprimento mínimo de 50 metros. O tecido deverá apresentarcoloração uniforme, toque suave, boa resistência a costura,excelente caimento, estabilidade dimensional e acabamento dequalidade, livre de manchas, furos, falhas de tecelagem ouquaisquer outros defeitos de fabricação, sendo adequado paraaplicações artísticas, cênicas e de vestuário.",
-              "unidade": "ROL",
-              "quantidade": "1,00",
-              "valor_referencia": "1.104,80"
-            }
-          ]
-        },
-        {
-          "numero": "13",
-          "titulo": "JACQUARD",
-          "fase": "ADJUDICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,00",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "6.136,35",
-          "vencedor": "CHSF DISTRIBUIDORA TEXTIL LTDA",
-          "melhor_oferta": "4.799,95",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37743 JACQUARD:tecido encorpado com desenhos tramadosem relevo, nas cores ROXO, VIOLETA, AZUL, CINZA,VERMELHO RUBRICO, de alta resistência e excelenteacabamento, indicado para decoração, figurinos, cenografia,revestimentos e aplicações artísticas. Composição aproximada:100% poliéster ou misto de poliéster e algodão (conformefabricante), gramatura aproximada de 250 a 350 g/m², larguramínima de 1,40 m, fornecido em rolo com comprimento mínimode 30 metros. O tecido deverá apresentar desenhos uniformes,coloração homogênea, boa resistência ao rasgo e a abrasão,estabilidade dimensional, acabamento de alta qualidade, livre demanchas, furos, falhas de tecelagem ou quaisquer outrosdefeitos de fabricação, sendo adequado para aplicaçõesdecorativas, cênicas, confecção de figurinos e revestimentos.",
-              "unidade": "ROL",
-              "quantidade": "5,00",
-              "valor_referencia": "1.227,27"
             }
           ]
         }
@@ -298760,7 +298001,7 @@
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "89.778,00",
           "vencedor": "MAIS ESPORTE COMERCIO DE ARTIGOS ESPORTIVOS LTDA",
-          "melhor_oferta": "89.800,00",
+          "melhor_oferta": "89.778,00",
           "total_itens": 2,
           "itens": [
             {
@@ -298850,7 +298091,7 @@
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "101.674,90",
           "vencedor": "MAIS ESPORTE COMERCIO DE ARTIGOS ESPORTIVOS LTDA",
-          "melhor_oferta": "94.700,00",
+          "melhor_oferta": "94.699,60",
           "total_itens": 12,
           "itens": [
             {
@@ -299045,7 +298286,7 @@
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "45.444,05",
           "vencedor": "MAIS ESPORTE COMERCIO DE ARTIGOS ESPORTIVOS LTDA",
-          "melhor_oferta": "42.690,00",
+          "melhor_oferta": "42.689,85",
           "total_itens": 7,
           "itens": [
             {
@@ -300592,8 +299833,8 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "47.866,28",
-          "vencedor": "FRONTE CONCURSOS E PROJETOS LTDA",
-          "melhor_oferta": "22.900,00",
+          "vencedor": "EVOLUÇÃO CONSULTORIA LTDA",
+          "melhor_oferta": "27.999,00",
           "total_itens": 1,
           "itens": [
             {
@@ -302296,33 +301537,1492 @@
       ]
     },
     {
-      "id": "CD-005-2025",
+      "id": "PE-155-2026",
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "758/2025",
-      "modalidade": "CREDENCIAMENTO",
-      "situacao": "EM FINALIZAÇÃO",
-      "condutor": "MAGDA DE SELES GUIMARÃES",
+      "numero_adm": "965 / 2026",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "PUBLICADO",
+      "condutor": "SERGIO CARNEIRO CAVALCANTI DE AZEVEDO",
       "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO",
-      "publicacao": "03/06/2025 16:35",
-      "inicio_recepcao": "13/06/2025 08:00",
-      "fim_recepcao": "15/06/2026 08:00",
-      "inicio_disputa": "",
-      "objeto": "CREDENCIAMENTO DE PESSOA JURÍDICA PARA PRESTAÇÃO DE SERVIÇOS MÉDICOS ESPECIALIZADOS EM ANÁLISE PATOLÓGICA PARA ATENDER AS DEMANDAS DA SECRETARIA MUNICIPAL DE SAÚDE",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5Dq7Y7%2FNfbvY3r_s1XaRli7IvKI0xH9_6OUZxfdaPhvdYH%2Fv_w2BXzs6%2FqG9EDqlhB6HShBoYJN6o2nqfCtVHn4M2ZmbX7viwQNFcA%2FKDxmnc%3D",
-      "total_lotes": 6,
-      "total_itens": 6,
+      "tipo_contrato": "AQUISIÇÃO PARCELADA",
+      "publicacao": "10/09/2026 17:07",
+      "inicio_recepcao": "14/09/2026 08:00",
+      "fim_recepcao": "23/09/2026 09:45",
+      "inicio_disputa": "23/09/2026 10:00",
+      "objeto": "Contratação de empresa especializada em fornecimento de LIXEIRAS, a fim de atender as demandas da Secretaria Municipal de Educação.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5Doy9lGyT116FudsEM8eO2wddcbQnrmIQ_M5aAmYMhDAZPZV4cqTM5nUT%2FD_vIELVnX6nVtEQ3RGqYktcFp0xY8r21iPn%2FgdY3C5Qqo_lB5ME%3D",
+      "total_lotes": 4,
+      "total_itens": 4,
       "lotes": [
         {
           "numero": "1",
-          "titulo": "33436 BIÓPSIA SIMPLES",
-          "fase": "HABILITAÇÃO",
-          "tipo": "UNITÁRIO",
+          "titulo": "6008911130 LIXEIRA TIPO CARRINHO COLETOR DERESÍDUOS SÓLIDOS:com capacidade de 240 litros, fabricada em Polietileno de Alta Densidade (PEAD) ou Polipropileno (PP) de alta resistência, aditivado com proteção contra raios ultravioleta (UV), material 100% vi",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "6008911130 LIXEIRA TIPO CARRINHO COLETOR DERESÍDUOS SÓLIDOS:com capacidade de 240 litros, fabricada em Polietileno de Alta Densidade (PEAD) ou Polipropileno (PP) de alta resistência, aditivado com proteção contra raios ultravioleta (UV), material 100% virgem, injetado, resistente a impactos, intempéries, agentes químicos e variações climáticas. Corpo monobloco, superfície interna e externa lisa, impermeável, lavável e de fácil higienização, isenta de rebarbas, fissuras, deformações ou cantos cortantes. Dotada de tampa articulada ao corpo, com abertura manual, fechamento perfeito, impedindo a entrada de água da chuva e reduzindo a propagação de odores. Equipada com duas rodas maciças de aproximadamente 300 mm de diâmetro, montadas sobre eixo em aço galvanizado ou material anticorrosivo de elevada resistência, proporcionando fácil deslocamento mesmo quando totalmente carregada. Possuir pega anatômica para movimentação, elevada resistência mecânica e estrutural, adequada para uso intenso em ambientes escolares e administrativos. Capacidade nominal de 240 litros, suportando carga compatível com sua capacidade volumétrica. Cor preferencialmente verde, admitindo-se outra cor institucional quando solicitado pela Administração. Produto novo, sem uso, com identificação permanente do fabricante, data de fabricação e capacidade nominal gravadas no corpo do equipamento.",
+              "unidade": "UND",
+              "quantidade": "225,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "2",
+          "titulo": "6008911131 LIXEIRA TIPO CONTAINER PARA RESÍDUOSSÓLIDOS:mínima de 500 litros, padrão europeu, fabricada em Polietileno de Alta Densidade (PEAD) injetado, 100% matéria- prima virgem, com aditivação anti-UV, elevada resistência mecânica, química e as intemp",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "6008911131 LIXEIRA TIPO CONTAINER PARA RESÍDUOSSÓLIDOS:mínima de 500 litros, padrão europeu, fabricada em Polietileno de Alta Densidade (PEAD) injetado, 100% matéria- prima virgem, com aditivação anti-UV, elevada resistência mecânica, química e as intempéries, destinada ao acondicionamento e coleta de resíduos sólidos urbanos. Corpo monobloco com superfície lisa, impermeável, lavável e de fácil higienização, livre de fissuras, deformações, cantos vivos ou imperfeições que comprometam sua utilização. Tampa articulada ao corpo com abertura total, sistema de fechamento eficiente e dispositivo antirruído. Dotado de dreno para escoamento de líquidos. Equipado com quatro rodízios giratórios de alta resistência, confeccionados em nylon ou material equivalente, revestidos em borracha maciça, sendo dois dotados de sistema de freio de fácil acionamento. Deverá possuir sistema de movimentação compatível com coleta mecanizada, contendo munhão (pegas laterais) reformado e receptor frontal para acoplamento em caminhões compactadores, conforme padrão utilizado na coleta pública. Estrutura projetada para suportar uso contínuo em ambientes externos, elevada incidência solar e movimentação frequente. Deverá possuir identificação permanente do fabricante, mês e ano de fabricação, identificação da matéria-prima conforme ABNT NBR 13230, capacidade nominal em litros e carga máxima admissível gravadas no corpo do equipamento. Produto em conformidade com a ABNT NBR 15911, ou norma técnica equivalente vigente, fornecido novo, sem uso. Cor preferencialmente azul ou outra definida pela Administração no momento da contratação.",
+              "unidade": "UND",
+              "quantidade": "113,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "3",
+          "titulo": "6008911133 LIXEIRA TIPO CARRINHO COLETOR DERESÍDUOS SÓLIDOS:com capacidade de 240 litros, fabricada em Polietileno de Alta Densidade (PEAD) ou Polipropileno (PP) de alta resistência, aditivado com proteção contra raios ultravioleta (UV), material 100% vi",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "6008911133 LIXEIRA TIPO CARRINHO COLETOR DERESÍDUOS SÓLIDOS:com capacidade de 240 litros, fabricada em Polietileno de Alta Densidade (PEAD) ou Polipropileno (PP) de alta resistência, aditivado com proteção contra raios ultravioleta (UV), material 100% virgem, injetado, resistente a impactos,intempéries, agentes químicos e variações climáticas. Corpo monobloco, superfície interna e externa lisa, impermeável, lavável e de fácil higienização, isenta de rebarbas, fissuras, deformações ou cantos cortantes. Dotada de tampa articulada ao corpo, com abertura manual, fechamento perfeito, impedindo a entrada de água da chuva e reduzindo a propagação de odores. Equipada com duas rodas maciças de aproximadamente 300 mm de diâmetro, montadas sobre eixo em aço galvanizado ou material anticorrosivo de elevada resistência, proporcionando fácil deslocamento mesmo quando totalmente carregada. Possuir pega anatômica para movimentação, elevada resistência mecânica e estrutural, adequada para uso intenso em ambientes escolares e administrativos. Capacidade nominal de 240 litros, suportando carga compatível com sua capacidade volumétrica. Cor preferencialmente verde, admitindo-se outra cor institucional quando solicitado pelaAdministração. Produto novo, sem uso, com identificação permanente do fabricante, data de fabricação e capacidade nominal gravadas no corpo do equipamento. COTA DE 25% RESERVADA PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "75,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "4",
+          "titulo": "6008911132 LIXEIRA TIPO CONTAINER PARA RESÍDUOSSÓLIDOS:mínima de 500 litros, padrão europeu, fabricada em Polietileno de Alta Densidade (PEAD) injetado, 100% matéria- prima virgem, com aditivação anti-UV, elevada resistência mecânica, química e as intemp",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "6008911132 LIXEIRA TIPO CONTAINER PARA RESÍDUOSSÓLIDOS:mínima de 500 litros, padrão europeu, fabricada em Polietileno de Alta Densidade (PEAD) injetado, 100% matéria- prima virgem, com aditivação anti-UV, elevada resistência mecânica, química e as intempéries, destinada ao acondicionamento e coleta de resíduos sólidos urbanos. Corpo monobloco com superfície lisa, impermeável, lavável e de fácil higienização, livre de fissuras, deformações, cantos vivos ou imperfeições que comprometam sua utilização. Tampa articulada ao corpo com abertura total, sistema de fechamento eficiente e dispositivo antirruído. Dotado de dreno para escoamento de líquidos. Equipado com quatro rodízios giratórios de alta resistência, confeccionados em nylon ou material equivalente,revestidos em borracha maciça, sendo dois dotados de sistema de freio de fácil acionamento. Deverá possuir sistema de movimentação compatível com coleta mecanizada, contendo munhão (pegas laterais) reformado e receptor frontal para acoplamento em caminhões compactadores, conforme padrão utilizado na coleta pública. Estrutura projetada para suportar uso contínuo em ambientes externos, elevada incidência solar e movimentação frequente. Deverá possuir identificaçãopermanente do fabricante, mês e ano de fabricação, identificação da matéria-prima conforme ABNT NBR 13230, capacidade nominal em litros e carga máxima admissível gravadas no corpo do equipamento. Produto em conformidade com a ABNT NBR 15911, ou norma técnica equivalente vigente, fornecido novo, sem uso. Cor preferencialmente azul ou outra definida pela Administração no momento da contratação. COTA DE 25% RESERVADA PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "37,00",
+              "valor_referencia": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-152-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "962 / 2026",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "PUBLICADO",
+      "condutor": "JONATAS DA SILVA SOUSA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO PARCELADA",
+      "publicacao": "10/09/2026 16:47",
+      "inicio_recepcao": "14/09/2026 08:00",
+      "fim_recepcao": "24/09/2026 13:45",
+      "inicio_disputa": "24/09/2026 14:00",
+      "objeto": "Contratação de empresa especializada em fornecimento de UTENSÍLIOS DE COZINHA (material de\nconsumo), a fim de atender as demandas da Secretaria Municipal de Educação.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5D0Q2zWYWKqPxGHuV1ltjKkwvlpNOppaYYzgus%2FQyfdAKgvL9Y2Zz_etAfyJBi5h3i88fl_KRfl9pZTjij7ZdzgQI_nx2rRITfv_NntI0iIfk%3D",
+      "total_lotes": 7,
+      "total_itens": 7,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "9900516094 PRATO PLÁSTICO ESCOLAR:confeccionado em polipropileno (PP) de alta resistência, atóxico, livre de BPA, resistente a impactos e quedas, próprio para uso alimentar, com bordas arredondadas, superfície lisa de fácil higienização, capacidade mínima",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900516094 PRATO PLÁSTICO ESCOLAR:confeccionado em polipropileno (PP) de alta resistência, atóxico, livre de BPA, resistente a impactos e quedas, próprio para uso alimentar, com bordas arredondadas, superfície lisa de fácil higienização, capacidade mínima de 500 ml, resistente a variações de temperatura, podendo ser utilizado para alimentos quentes e frios, ideal para uso contínuo em creches e escolas.EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "5.000,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "2",
+          "titulo": "9900516095 PRATO DE VIDRO TEMPERADO:de altadurabilidade e resistência mecânica, com excelente acabamento, superfície lisa e não porosa, resistente a choques térmicos moderados, diâmetro aproximado entre 22 e 26 cm, próprio para uso alimentar, de fácil hi",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900516095 PRATO DE VIDRO TEMPERADO:de altadurabilidade e resistência mecânica, com excelente acabamento, superfície lisa e não porosa, resistente a choques térmicos moderados, diâmetro aproximado entre 22 e 26 cm, próprio para uso alimentar, de fácil higienização, adequado para uso em ambientes escolares e refeitórios institucionais. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "5.000,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "3",
+          "titulo": "9900516096 COPO TIPO CANECA PLÁSTICAESCOLAR:confeccionado em polipropileno (PP) ou material equivalente, atóxico, livre de BPA, com alça lateral ergonômica, resistente a quedas e impactos, capacidade mínima entre 300 ml e 400 ml, adequado para líquidos q",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900516096 COPO TIPO CANECA PLÁSTICAESCOLAR:confeccionado em polipropileno (PP) ou material equivalente, atóxico, livre de BPA, com alça lateral ergonômica, resistente a quedas e impactos, capacidade mínima entre 300 ml e 400 ml, adequado para líquidos quentes e frios, com acabamento liso e fácil higienização, ideal para uso em creches e escolas. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "5.000,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "4",
+          "titulo": "9900516097 COLHER PLÁSTICA ESCOLAR:confeccionada em polipropileno (PP) de alta resistência, atóxica, livre de BPA, com bordas arredondadas para maior segurança, resistente ao uso contínuo, adequada para alimentação infantil, com tamanho aproximado entre 1",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900516097 COLHER PLÁSTICA ESCOLAR:confeccionada em polipropileno (PP) de alta resistência, atóxica, livre de BPA, com bordas arredondadas para maior segurança, resistente ao uso contínuo, adequada para alimentação infantil, com tamanho aproximado entre 16 e 18 cm, de fácil higienização e apropriada para uso em creches e unidades escolares. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "5.000,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "5",
+          "titulo": "9900516098 COLHER DE MESA EM AÇO INOX:confeccionadaem aço inoxidável de alta qualidade, resistente à corrosão, com acabamento polido, bordas arredondadas, formato anatômico, resistente ao uso contínuo e lavagens frequentes, adequada para uso em refeitóri",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900516098 COLHER DE MESA EM AÇO INOX:confeccionadaem aço inoxidável de alta qualidade, resistente à corrosão, com acabamento polido, bordas arredondadas, formato anatômico, resistente ao uso contínuo e lavagens frequentes, adequada para uso em refeitórios escolares, garantindo durabilidade, higiene e segurança alimentar. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "5.000,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "6",
+          "titulo": "9900516270 GARFO DE MESA EM AÇO INOX:confeccionadoem aço inoxidável resistente, com acabamento polido, dentes bem definidos e seguros, bordas suavizadas, resistente à corrosão e ao uso contínuo, de fácil higienização, adequado para uso em escolas e refei",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900516270 GARFO DE MESA EM AÇO INOX:confeccionadoem aço inoxidável resistente, com acabamento polido, dentes bem definidos e seguros, bordas suavizadas, resistente à corrosão e ao uso contínuo, de fácil higienização, adequado para uso em escolas e refeitórios institucionais. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "5.000,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "7",
+          "titulo": "9900516099 FACA DE MESA EM AÇO INOX SEM PONTA(TIPO ESCOLAR):confeccionada em aço inoxidável, com lâmina sem ponta e corte moderado, garantindo maior segurança no uso escolar, resistente à corrosão, com cabo anatômico e acabamento polido, apropriada para",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900516099 FACA DE MESA EM AÇO INOX SEM PONTA(TIPO ESCOLAR):confeccionada em aço inoxidável, com lâmina sem ponta e corte moderado, garantindo maior segurança no uso escolar, resistente à corrosão, com cabo anatômico e acabamento polido, apropriada para uso em refeitórios de escolas, sob supervisão. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "5.000,00",
+              "valor_referencia": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-148-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "748 / 2026",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "PUBLICADO",
+      "condutor": "JONATAS DA SILVA SOUSA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO",
+      "publicacao": "10/09/2026 16:30",
+      "inicio_recepcao": "14/09/2026 08:00",
+      "fim_recepcao": "24/09/2026 08:15",
+      "inicio_disputa": "24/09/2026 08:30",
+      "objeto": "Contratação de empresa especializada em fornecimento de CENTRÍFUGA DE BANCADA DIGITAL (material permanente), a fim de atender as demandas da Secretaria Municipal de Saúde.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DhxgPu%2F9bAt6e3k5ioFEagXHvczbGGTMaOAr7b2f225IDohhiMRumg6mxpPy5kLnULREsNiieFkokzqt4kRvnziNziOwF57M3%2Fco7D_fzO7g%3D",
+      "total_lotes": 2,
+      "total_itens": 2,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "37572 CENTRIFUGA DE BANCADA DIGITAL:centrífuga debancada digital destinada ao preparo, processamento e separação de amostras laboratoriais in vitro, para atendimento das demandas das unidades de saúde, proporcionando maior eficiência, segurança e precisã",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37572 CENTRIFUGA DE BANCADA DIGITAL:centrífuga debancada digital destinada ao preparo, processamento e separação de amostras laboratoriais in vitro, para atendimento das demandas das unidades de saúde, proporcionando maior eficiência, segurança e precisão nos procedimentos laboratoriais. O equipamento deverá possuir capacidade compatível para utilização de tubos laboratoriais, contendo rotor para no mínimo 24 tubos de 15 ml, com possibilidade de adaptação para tubos de menor volume (5 ml), alimentação bivolt (110/220V), acompanhado de cabo de alimentação, manual de instruções em português e acessórios necessários para sua adequada utilização. A centrífuga deverá apresentar operação com baixo nível de ruído, com nível sonoro entre 45 e 65 dB, display digital para visualização de tempo, velocidade e informações de funcionamento, com indicação de RPM e/ou RCF, interface de operação simples e de fácil interpretação, controle ajustável de velocidade com faixa mínima aproximada entre 400 e 5.000 RPM, força centrífuga relativa compatível com aplicações laboratoriais, temporizador ajustável, sistema de parada automática e abertura segura da tampa ao final do processo, dispositivo de bloqueio da tampa durante o funcionamento do rotor, impedindo sua abertura enquanto houver movimento, além de sistema de proteção contra desbalanceamento, excesso de tensão e velocidade. O equipamento deverá possuir sinalização sonora e/ou visual para identificação de término da operação ou ocorrência de falhas, sistema de redução de vibração e controle térmico, garantindo a preservação das amostras processadas, rotor fabricado em material resistente e adequado ao uso contínuo, motor de indução ou tecnologia equivalente com baixo índice de manutenção, estrutura externa resistente e compatível com o ambiente laboratorial, além de atender às normas técnicas aplicáveis e possuir regularização junto à ANVISA. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "Und.",
+              "quantidade": "2,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "2",
+          "titulo": "9900830556 CENTRIFUGA DE BANCADA DIGITAL:centrífugade bancada digital destinada ao preparo, processamento e separação de amostras laboratoriais in vitro, para atendimento das demandas das unidades de saúde, proporcionando maior eficiência, segurança e pr",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900830556 CENTRIFUGA DE BANCADA DIGITAL:centrífugade bancada digital destinada ao preparo, processamento e separação de amostras laboratoriais in vitro, para atendimento das demandas das unidades de saúde, proporcionando maior eficiência, segurança e precisão nos procedimentos laboratoriais. O equipamento deverá possuir capacidade compatível para utilização de tubos laboratoriais, contendo rotor para no mínimo 24 tubos de 10 ml, com possibilidade de adaptação para tubos de menor volume (5 ml), alimentação bivolt (110/220V), acompanhado de cabo de alimentação, manual de instruções em português e acessórios necessários para sua adequada utilização. A centrífuga deverá apresentar operação com baixo nível de ruído, preferencialmente igual ou inferior a 45 dB, display digital para visualização de tempo, velocidade e informações de funcionamento, com indicação de RPM e/ou RCF, interface de operação simples e de fácil interpretação, controle ajustável de velocidade com faixa mínima aproximada entre 400 e 5.000 RPM, força centrífuga relativa compatível com aplicações laboratoriais, temporizador ajustável, sistema de parada automática e abertura segura da tampa ao final do processo, dispositivo de bloqueio da tampa durante o funcionamento do rotor, impedindo sua abertura enquanto houver movimento, além de sistema de proteção contra desbalanceamento, excesso de tensão e velocidade. O equipamento deverá possuir sinalização sonora e/ou visual para identificação de término da operação ou ocorrência de falhas, sistema de redução de vibração e controle térmico, garantindo a preservação das amostras processadas, rotor fabricado em material resistente e adequado ao uso contínuo, motor de indução ou tecnologia equivalente com baixo índice de manutenção, estrutura externa resistente e compatível com o ambiente laboratorial, além de atender às normas técnicasaplicáveis e possuir regularização junto à ANVISA. EXCLUSIVOPARA ME/EPP.",
+              "unidade": "Und.",
+              "quantidade": "3,00",
+              "valor_referencia": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-147-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "831 / 2026",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "PUBLICADO",
+      "condutor": "SERGIO CARNEIRO CAVALCANTI DE AZEVEDO",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO PARCELADA",
+      "publicacao": "10/09/2026 16:04",
+      "inicio_recepcao": "14/09/2026 08:00",
+      "fim_recepcao": "28/09/2026 08:15",
+      "inicio_disputa": "28/09/2026 08:30",
+      "objeto": "Contratação de empresa especializada em FORNECIMENTO DE EXTINTORES DE INCÊNDIO, SUPORTES E EM PRESTAÇÃO DE SERVIÇOS TÉCNICOS CONTINUADOS DE INSPEÇÃO, RECARGA E MANUTENÇÃO DESSES EQUIPAMENTOS, a fim de atender as demandas da Secretaria Municipal de Administração e demais Secretarias.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DBDOubYzsdh6pk%2FHKlTTgxJYl925%2F_e4Tv0EtIztMIWo7BeddAN5NvkY4kOKRYGjibrv2I2FoSjVg6qRd8obgAGrBep3pEwdvSZvGoR4esPs%3D",
+      "total_lotes": 5,
+      "total_itens": 9,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "EXTINTOR",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 2,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "402300007 EXTINTOR:Pó químico seco (PQS); ABC; 06 kg; 4A- 40BC; com carga; rótulo em português; com instruções de uso; validade e garantia; selo de certificação INMETRO e em conformidade com a ABNT-NBR 15808;",
+              "unidade": "Und.",
+              "quantidade": "1.350,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "2",
+              "especificacao": "402300008 RECARGA:De extintor; 06 kg; tipo ABC; manutenção tipo II",
+              "unidade": "Und.",
+              "quantidade": "929,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "2",
+          "titulo": "EXTINTOR",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 2,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "402300009 EXTINTOR:Gás carbônico (CO2); 04 kg; 5B; com carga; rótulo em português; com instruções de uso; validade e garantia; selo de certificação ABNT-NBR 15808; INMETRO",
+              "unidade": "Und.",
+              "quantidade": "400,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "2",
+              "especificacao": "402300015 RECARGA:De extintor; 04 kg; gás carbônico (CO2); manutenção tipo II.",
+              "unidade": "Und.",
+              "quantidade": "185,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "3",
+          "titulo": "EXTINTOR",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 2,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "402300010 EXTINTOR:Gás carbônico (CO2); 06 kg; 5B; com carga; rótulo em português; com instruções de uso; validade e garantia; selo de certificação ABNT-NBR 15808; INMETRO",
+              "unidade": "Und.",
+              "quantidade": "600,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "2",
+              "especificacao": "402300011 RECARGA:De extintor; 06 kg; gás carbônico (CO2); manutenção tipo II.",
+              "unidade": "Und.",
+              "quantidade": "300,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "4",
+          "titulo": "EXTINTOR",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 2,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "402300012 EXTINTOR:De extintor; 10 Litros; água pressurizada; tipo AP; manômetro para verificação de pressão e capacidade extintora de 2-A ou 3B; com carga; rótulo em português; com instruções de uso; validade e garantia; selo de certificação ABNT-NBR 15808; INMETRO",
+              "unidade": "Und.",
+              "quantidade": "750,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "2",
+              "especificacao": "402300013 RECARGA:De extintor; 10 Litros; água pressurizada; tipo AP; manutenção tipo II.",
+              "unidade": "Und.",
+              "quantidade": "520,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "5",
+          "titulo": "EXTINTOR",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "402300014 SUPORTE:De parede; para extintor; chapa em aço carbono zincado; mínimo 06 kg; tipo ABC; BC; CO2.",
+              "unidade": "Und.",
+              "quantidade": "1.250,00",
+              "valor_referencia": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-138-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "913/2026",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "PUBLICADO",
+      "condutor": "SERGIO CARNEIRO CAVALCANTI DE AZEVEDO",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO PARCELADA",
+      "publicacao": "10/09/2026 15:39",
+      "inicio_recepcao": "14/09/2026 08:00",
+      "fim_recepcao": "24/09/2026 08:15",
+      "inicio_disputa": "24/09/2026 08:30",
+      "objeto": "Fornecimento de CAMAS EMPILHÁVEIS E MÓDULOS DE ALIMENTAÇÃO INFANTIL (material permanente), a fim de atender as demandas da Secretaria Municipal de Educação",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DSuvaVyo_GjnkC76J8wjks1Pp7dSFMKkN9gYcoisSN5wXc5MyPiTTwnVeXtuClw%2FPgDbUZACFXVoEM_9lbwqPNkmDao9YvZFyCucFIgOk8CY%3D",
+      "total_lotes": 4,
+      "total_itens": 4,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "9900516177 Cama Infantil Empilhável:Cama infantil empilhável destinada ao repouso de crianças na faixa etária de creche, confeccionada em estrutura resistente composta por tubos metálicos (alumínio ou aço com tratamento anticorrosivo) ou material de desem",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900516177 Cama Infantil Empilhável:Cama infantil empilhável destinada ao repouso de crianças na faixa etária de creche, confeccionada em estrutura resistente composta por tubos metálicos (alumínio ou aço com tratamento anticorrosivo) ou material de desempenho equivalente, com cantos arredondados e sistema de empilhamento seguro. Leito confeccionado em tela ou tecido sintético de alta resistência, lavável, impermeável ou de fácil higienização, resistente à umidade, ao rasgamento, à proliferação de fungos e bactérias, fixado de forma a suportar o uso contínuo. Pés dotados de sapatas antiderrapantes, proporcionando estabilidade e evitando danos ao piso. Produto de fácil montagem, desmontagem, transporte e armazenamento, permitindo otimização dos espaços físicos das unidades escolares. Deverá possuir capacidade mínima de carga de 50 kg, dimensões aproximadas de 120 a 135 cm de comprimento, 55 a 65 cm de largura e 10 a 18 cm de altura, admitindo-se variação compatível entre fabricantes. Acabamento sem rebarbas, arestas cortantes ou partes que ofereçam risco aos usuários, devendo atender às normas técnicas aplicáveis de qualidade, segurança e ergonomia para mobiliário infantil.",
+              "unidade": "Und.",
+              "quantidade": "1.125,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "2",
+          "titulo": "9900516178 Módulo de Alimentação Infantil para 04 Crianças:Módulo de alimentação infantil destinado ao atendimento de crianças a partir de 01 (um) ano de idade, matriculadas nas unidades de Educação Infantil, que ainda necessitam de apoio para realização",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900516178 Módulo de Alimentação Infantil para 04 Crianças:Módulo de alimentação infantil destinado ao atendimento de crianças a partir de 01 (um) ano de idade, matriculadas nas unidades de Educação Infantil, que ainda necessitam de apoio para realização das refeições. Composto por 04 (quatro) assentos individuais integrados à mesa de alimentação, dispostos de forma a permitir o acompanhamento e a alimentação pelas professoras e auxiliares de creche posicionadas na face frontal do mobiliário. Estrutura confeccionada em tubos metálicos de aço carbono com tratamento anticorrosivo e pintura eletrostática a pó, alumínio ou material de desempenho equivalente, garantindo elevada resistência mecânica, estabilidade estrutural e durabilidade.Assentos confeccionados em polietileno de alta densidade (PEAD), polipropileno (PP) ou material de desempenho equivalente, com formato anatômico, superfícies lisas, acabamento atóxico, resistente à umidade, impactos e produtos utilizados na higienização. Cada assento deverá possuir cinto de segurança de, no mínimo, 03 (três) pontos, regulável, proporcionando maior segurança durante a utilização. A mesa deverá possuir tampo confeccionado em MDF, MDP, madeira compensada revestida, polímero de alta resistência ou material de desempenho equivalente, com superfície lisa, impermeável ou de baixa absorção, resistente ao desgaste e de fácil limpeza. O conjunto deverá possuir cantos e bordas arredondados, ausência de arestas cortantes, rebarbas ou quaisquer elementos que ofereçam risco aos usuários. Cada assento deverá suportar carga mínima de 30 kg, preservando a estabilidade e a integridade estrutural do conjunto. O mobiliário deverá permitir a aproximação e acomodação de cadeira ou assento para o profissional responsável pela alimentação das crianças, favorecendo a ergonomia durante o uso. Produto destinado ao uso contínuo em ambiente escolar, atendendo às normas técnicas aplicáveis ao mobiliário infantil.",
+              "unidade": "Und.",
+              "quantidade": "113,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "3",
+          "titulo": "9909911377 Cama Infantil Empalhável:: Cama infantil empalhável destinada ao repouso de crianças na faixa etária de creche, confeccionada em estrutura resistente composta por tubos metálicos (alumínio ou aço com tratamento anticorrosivo) ou material de des",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9909911377 Cama Infantil Empalhável:: Cama infantil empalhável destinada ao repouso de crianças na faixa etária de creche, confeccionada em estrutura resistente composta por tubos metálicos (alumínio ou aço com tratamento anticorrosivo) ou material de desempenho equivalente, com cantos arredondados e sistema de empilhamento seguro. Leito confeccionado em tela ou tecido sintético de alta resistência, lavável, impermeável ou de fácil higienização, resistente à umidade, ao rasgamento, à proliferação de fungos e bactérias, fixado de forma a suportar o uso contínuo. Pés dotados de sapatas antiderrapantes, proporcionando estabilidade e evitando danos ao piso. Produto de fácil montagem, desmontagem, transporte e armazenamento, permitindo otimização dos espaços físicos das unidades escolares. Deverá possuir capacidade mínima de carga de 50 kg, dimensões aproximadas de 120 a 135 cm de comprimento, 55 a 65 cm de largura e 10 a 18 cm de altura, admitindo-se variação compatível entre fabricantes.Acabamento sem rebarbas, arestas cortantes ou partes que ofereçam risco aos usuários, devendo atender às normas técnicas aplicáveis de qualidade, segurança e ergonomia para mobiliário infantil. COTA DE 25% RESERVADA PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "375,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "4",
+          "titulo": "9909911378 Módulo de Alimentação Infantil para 04 Crianças:: Módulo de alimentação infantil destinado ao atendimento de crianças a partir de 01 (um) ano de idade, matriculadas nas unidades de Educação Infantil, que ainda necessitam de apoio para realizaçã",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9909911378 Módulo de Alimentação Infantil para 04 Crianças:: Módulo de alimentação infantil destinado ao atendimento de crianças a partir de 01 (um) ano de idade, matriculadas nas unidades de Educação Infantil, que ainda necessitam de apoio para realização das refeições. Composto por 04 (quatro) assentos individuais integrados à mesa de alimentação, dispostos de forma a permitir o acompanhamento e a alimentação pelas professoras e auxiliares de creche posicionadas na face frontal do mobiliário. Estrutura confeccionada em tubos metálicos de aço carbono com tratamento anticorrosivo e pintura eletrostática a pó, alumínio ou material de desempenho equivalente, garantindo elevada resistência mecânica, estabilidade estrutural e durabilidade.Assentos confeccionados em polietileno de alta densidade (PEAD), polipropileno (PP) ou material de desempenho equivalente, com formato anatômico, superfícies lisas, acabamento atóxico, resistente à umidade, impactos e produtos utilizados na higienização. Cada assento deverá possuir cinto de segurança de, no mínimo, 03 (três) pontos, regulável, proporcionando maior segurança durante a utilização. A mesa deverá possuir tampo confeccionado em MDF, MDP, madeira compensada revestida, polímero de alta resistência ou material de desempenho equivalente, com superfície lisa, impermeável ou de baixa absorção, resistente ao desgaste e de fácil limpeza. O conjunto deverá possuir cantos e bordas arredondados, ausência de arestas cortantes, rebarbas ou quaisquer elementos que ofereçam risco aos usuários. Cada assento deverá suportar carga mínima de 30 kg, preservando a estabilidade e a integridade estrutural do conjunto. O mobiliário deverá permitir a aproximação e acomodação de cadeira ou assento para o profissional responsável pela alimentação das crianças, favorecendo a ergonomia durante o uso. Produto destinado ao uso contínuo em ambiente escolar, atendendo às normas técnicas aplicáveis ao mobiliário infantil. COTA DE 25% RESERVADA PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "37,00",
+              "valor_referencia": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2-DLE-099-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "1013/2026",
+      "modalidade": "DISPENSA ELETRÔNICA",
+      "situacao": "RECEPÇÃO DE PROPOSTAS",
+      "condutor": "ISLA LIMA SILVA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO",
+      "publicacao": "10/09/2026 15:13",
+      "inicio_recepcao": "10/09/2026 15:20",
+      "fim_recepcao": "16/09/2026 08:15",
+      "inicio_disputa": "16/09/2026 08:30",
+      "objeto": "Contratação de empresa especializada em fornecimento de [BETONEIRA] (material permanente), a fim de atender as necessidades\nda Secretaria Municipal de Infraestrutura e Serviços Urbanos.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5Dsj21q1tWgSP2lYnRqssJEUi_yfC18z6NDSgDRgernxa9Ww5MB9X%2Fs5cZXxzP7yRo2HANvJNFqq3mWbSr1cbpsxWJUX8rjtDrQOkjgFI3rPo%3D",
+      "total_lotes": 1,
+      "total_itens": 1,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "BETONEIRA 400L",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,00",
           "exclusivo_me": "NÃO",
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
+          "valor_referencia": "12.165,30",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37822 BETONEIRA 400L:tambor 400 litros, misturam 315 litros,15 ciclos/hora, produção 4,7 m³, tambor com 26 rpm, motor com2 cv, tensão monofásica de 220v, frequência de 60 hz,transmissão por correia tipo v a44 e peso 160kg.",
+              "unidade": "UN",
+              "quantidade": "2,00",
+              "valor_referencia": "6.082,65"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-124-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "860 / 2026",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "HABILITAÇÃO",
+      "condutor": "JONATAS DA SILVA SOUSA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO",
+      "publicacao": "31/07/2026 19:19",
+      "inicio_recepcao": "04/08/2026 08:00",
+      "fim_recepcao": "18/08/2026 09:45",
+      "inicio_disputa": "18/08/2026 10:00",
+      "objeto": "Contratação de empresa especializada em prestação de SERVIÇOS TÉCNICOS CONTÁBEIS, cujas especificações técnicas, quantidades e demais condições encontram-se detalhadas neste instrumento, a fim de atender as demandas da Secretaria Municipal de Educação.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DS1hknqNhNKjeyf4zcScSAXqvkmxOF5BntWoW7VnFbtXf1n02SaHok0Bmyvi7rHYTFV270%2FCl7nx1V%2Fj3V1XtwcEW1B%2F1LgQTWG4Kn6C7tMw%3D",
+      "total_lotes": 1,
+      "total_itens": 1,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "SERVIÇOS CONTÁBEIS",
+          "fase": "HABILITAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "75.099,96",
+          "vencedor": "RGR ASSESSORIA EMPRESARIAL LTDA",
+          "melhor_oferta": "37.950,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9903312129 Serviços técnicos especializados de assessoria econsultoria contábil:para atendimento das demandas daSecretaria Municipal de Educação, compreendendo orientaçãotécnica e suporte nas áreas orçamentária, financeira, patrimoniale contábil; acompanhamento da execução orçamentária efinanceira dos recursos públicos municipais e vinculados àeducação; elaboração, análise e conferência de demonstrativoscontábeis; assessoramento nos procedimentos de prestação decontas de recursos próprios, transferências voluntárias eprogramas governamentais, incluindo os recursos oriundos doPrograma Dinheiro Direto na Escola (PDDE), abrangendoorientação quanto aos registros contábeis, organizaçãodocumental, aplicação dos recursos e cumprimento dasexigências normativas específicas do programa; suporte técnicono atendimento às demandas e diligências dos órgãos decontrole interno e externo; orientação quanto à aplicação dasNormas Brasileiras de Contabilidade Aplicadas ao Setor Público(NBCASP), da legislação fiscal e financeira vigente e demaisnormas correlatas; emissão de pareceres, relatórios eorientações técnicas relacionadas à gestão contábil pública; bemcomo demais atividades acessórias necessárias à adequadaexecução dos serviços, à regularidade das prestações de contase ao fortalecimento da gestão contábil e administrativa daSecretaria Municipal de Educação.",
+              "unidade": "SER",
+              "quantidade": "12,00",
+              "valor_referencia": "6.258,33"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2-DLE-081-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "890/2026",
+      "modalidade": "DISPENSA ELETRÔNICA",
+      "situacao": "HOMOLOGADO",
+      "condutor": "ISAQUE SILVA DOS SANTOS",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO PARCELADA",
+      "publicacao": "29/07/2026 18:16",
+      "inicio_recepcao": "29/07/2026 18:20",
+      "fim_recepcao": "04/08/2026 08:15",
+      "inicio_disputa": "04/08/2026 08:30",
+      "objeto": "Contratação de empresa especializada em fornecimento de [TECIDOS] (material de consumo), a fim de atender as necessidades da Secretaria Municipal de Cultura e Turismo.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DX8YNmpEKy5OPagtUDlFVSNjVJ8v15y5l_RGsv_A1_t4e0vmy02QqHmpZS9AHSCfIvQaSXuh5RbkDdyLLr_sjtGNgETd15P3BKhnrsRi29zA%3D",
+      "total_lotes": 13,
+      "total_itens": 13,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "Tule",
+          "fase": "HOMOLOGADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "749,00",
+          "vencedor": "CHSF DISTRIBUIDORA TEXTIL LTDA",
+          "melhor_oferta": "740,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37734 Tule:tecido de armação leve com uma estrutura maisrígida nas cores PRETA, BRANCA, ROSA, VERDE BANDEIRAE AZUL BEBÊ, de malha aberta, fino, transparente e maleável,composto por 100% (gramatura) poliamida ou poliéster (Opoliéster costuma ser mais armado) com largura de 1,40 m.Destinado a confecção de saias volumosas, sobreposições defigurinos, cenários, arranjos decorativos e demais elementosutilizados em diversas ocasiões. O tule deverá apresentar malhauniforme, sem rasgos, furos, deformações, fios rompidos oumanchas, proporcionando bom caimento e efeito visualadequado sob iluminação de palco ou ambientes internos. Ofornecimento será realizado em rolos cometendo 50 metrosprontos para uso em ornamentação e ambientação no âmbitoCultural.",
+              "unidade": "ROL",
+              "quantidade": "5,00",
+              "valor_referencia": "149,80"
+            }
+          ]
+        },
+        {
+          "numero": "2",
+          "titulo": "Oxford",
+          "fase": "HOMOLOGADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "4.661,25",
+          "vencedor": "CHSF DISTRIBUIDORA TEXTIL LTDA",
+          "melhor_oferta": "3.699,96",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37735 Oxford:tecido sintético nas cores BRANCO, PRETO,VERDE BANDEIRA, AZUL BEBÊ, MARROM CHOCOLATE,BEGE CLARO, VIOLETA ESCURO, VINHO CLARO,VERMELHO ESCARLATE, composto predominantemente porpoliéster, com entrelaçamento firme, gramatura de 110 g/m² elargura de 1,50 m. Indicado para confecção de uniformessimples, toalhas, painéis, bandeiras, fundos de palco, faixas eoutros elementos decorativos utilizados em diversas ocasiões. Otecido deverá ser resistente, com acabamento opaco, texturahomogênea, boa estabilidade dimensional e ausência de furos,rasgos, manchas, falhas de tecelagem ou desbotamentoacentuado. O fornecimento ocorrerá em rolos contendo 50metros, prontos para uso em atividades desenvolvidas no âmbitoda Cultura.",
+              "unidade": "ROL",
+              "quantidade": "11,00",
+              "valor_referencia": "423,75"
+            }
+          ]
+        },
+        {
+          "numero": "3",
+          "titulo": "Oxford xadrez",
+          "fase": "FRACASSADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "1.900,24",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37736 Oxford xadrez:variação estampada do tecido Oxford, empadrão xadrez e nas cores PRETO, AMARELA, AZUL EVERMELHO, composto por 100% poliéster, com gramatura de110 g/m² e largura de 1,50 m. Indicado para confecção deuniformes simples, fundos de palco, faixa e outros elementosdecorativos utilizados em eventos institucionais. A estampadeverá ser regular, sem falhas de impressão, sem desbotamentoacentuado ou diferenças marcantes de tonalidade entre rolos domesmo lote. O fornecimento deverá ser realizado em roloscontendo 50 metros, prontos para o uso em atividadesdesenvolvidas pela Secretaria de Cultura.",
+              "unidade": "ROL",
+              "quantidade": "4,00",
+              "valor_referencia": "475,06"
+            }
+          ]
+        },
+        {
+          "numero": "4",
+          "titulo": "Crepe Elena ou Helena",
+          "fase": "HOMOLOGADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "6.944,46",
+          "vencedor": "CHSF DISTRIBUIDORA TEXTIL LTDA",
+          "melhor_oferta": "5.799,96",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37737 Crepe Elena ou Helena:tecido sintético nas coresLARANJA, VERDE BANDEIRA, AMARELO, AZUL MARINHO,BEGE CLARO E PRETO com gramatura média a encorpada,geralmente 96% poliéster e 4% elastano, ou variações muitopróximas como 95% poliéster e 5% elastano. Largura padrão:1,45 metros a 1,50 metros ele mantém as especificaçõestécnicas padrão que garantem excelente caimento e opacidadepara alfaiataria e moda de caimento leve, superfície lisa e toquemacio, indicado para figurinos. O fornecimento deverá serrealizado em rolos contendo 50 metros, prontos para uso emrelevância das atividades desenvolvidas no âmbito da Cultura.",
+              "unidade": "ROL",
+              "quantidade": "6,00",
+              "valor_referencia": "1.157,41"
+            }
+          ]
+        },
+        {
+          "numero": "5",
+          "titulo": "Organza",
+          "fase": "HOMOLOGADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "3.528,00",
+          "vencedor": "CHSF DISTRIBUIDORA TEXTIL LTDA",
+          "melhor_oferta": "2.799,93",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37738 Organza:tecido leve nas cores CRITAL AZUL, CRISTALPRETA, CRISTAL VERMELHO, CRISTAL BRANCA, CRISTALVERDE, CRISTAL AMARELA, CRISTAL AZUL BEBÊ, compostopor 100% poliéster ou 100% poliamida (nylon), com gramaturaentre 25g/ m² e 45 g/m² e largura entre 1,40 m 1,50 m. Ofornecimento será realizado em rolos de 50 metros, pronto para ouso em atividades desenvolvidas no âmbito da Cultura.",
+              "unidade": "ROL",
+              "quantidade": "7,00",
+              "valor_referencia": "504,00"
+            }
+          ]
+        },
+        {
+          "numero": "6",
+          "titulo": "Malha montaria",
+          "fase": "HOMOLOGADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "1.721,20",
+          "vencedor": "CHSF DISTRIBUIDORA TEXTIL LTDA",
+          "melhor_oferta": "1.399,98",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37739 Malha montaria:tecido de malha encorpado, comelasticidade, toque macio e excelente resistência, nas coresAZUL MARINHO E BRANCO. Indicado para figurinos, vestuárioe peças cênicas. Composição: Poliéster com elastano(aproximadamente 90% poliésteres e 10% elastano, podendovariar conforme o fabricante). Gramatura: 280 a 320 g/ m².Largura mínima: 1,60 m. O fornecimento será realizado em rolosde 50 metros, pronto para o uso em atividades desenvolvidas noâmbito da Cultura.",
+              "unidade": "ROL",
+              "quantidade": "2,00",
+              "valor_referencia": "860,60"
+            }
+          ]
+        },
+        {
+          "numero": "7",
+          "titulo": "Twey (two way)",
+          "fase": "HOMOLOGADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "9.771,72",
+          "vencedor": "CHSF DISTRIBUIDORA TEXTIL LTDA",
+          "melhor_oferta": "7.762,65",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37740 Twey (two way):tecido plano sintético, de toque suave,caimento estruturado e baixa transparência, indicado parafigurinos, decoração e confecção em geral, nas cores BRANCO,CAQUI, AZUL NOITE, OFF WHITE, TERRA COTA, AZULACIZENTADO e CINZA CLARO. Gramatura aproximada de 180g/ m². Largura mínima de 1,50 m. Composição 100% poliéster. Ofornecimento será realizado em rolos de 50 metros, pronto para ouso em atividades desenvolvidas no âmbito da Cultura.",
+              "unidade": "ROL",
+              "quantidade": "7,00",
+              "valor_referencia": "1.395,96"
+            }
+          ]
+        },
+        {
+          "numero": "8",
+          "titulo": "Oxiline (oxfordine)",
+          "fase": "FRACASSADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "2.190,30",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "8300500042 Oxiline (oxfordine):Tecido sintético resistente, desuperfície lisa, toque macio e excelente durabilidade, indicadopara decoração, figurinos e confecção em geral, nas coresCINZA CLARO, BRANCO, BEGE CLARO, MARROM CLARO,AZUL NOITE, VINHO ESCURO. Composição 100% poliéster,gramatura aproximada de 180 a 220 g/ m², largura mínima de1,50 m, fornecido em rolo com comprimento mínimo de 50metros. O tecido deverá apresentar coloração uniforme, boaresistência ao rasgo e a tração, estabilidade dimensional, semmanchas, furos, falhas de tecelagem ou outros defeitos defabricação, sendo adequado para aplicações decorativas ecênicas de uso contínuo.",
+              "unidade": "ROL",
+              "quantidade": "6,00",
+              "valor_referencia": "365,05"
+            }
+          ]
+        },
+        {
+          "numero": "9",
+          "titulo": "Tricoline Mista",
+          "fase": "FRACASSADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "3.065,40",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "8300500043 Tricoline Mista:tecido plano de toque macio,excelente acabamento e boa resistência, indicado paraconfecção de figurinos, peças decorativas, artesanato,cenografia e aplicações em costura em geral, nas cores VINHOESCURO, MARROM CAFÉ, BEGE AREIA, OFF WHITE EPRETO. Composição aproximada: 65% poliéster e 35% algodão(ou composição equivalente), gramatura aproximada de 120 a150 g/ m², largura mínima de 1,50 m, fornecido em rolo comcomprimento mínimo de 50 metros. O tecido deverá apresentarcoloração uniforme, boa estabilidade dimensional, resistência aorasgo e A costura, sem manchas, furos, falhas de tecelagem ououtros defeitos de fabricação, sendo adequado para usodecorativo, artístico e de confecção",
+              "unidade": "ROL",
+              "quantidade": "5,00",
+              "valor_referencia": "613,08"
+            }
+          ]
+        },
+        {
+          "numero": "10",
+          "titulo": "Musseline",
+          "fase": "FRACASSADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "2.875,38",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37741 Musseline:tecido leve, semitransparente, de excelentecaimento e toque macio, indicado para confecção de figurinos,decoração, cenografia, painéis decorativos e aplicaçõesartísticas, nas cores VERDE OLIVA, AREIA, MOSTARDE,MARROM, TERRA COTA E PRETO. Composição: 100%poliéster, gramatura aproximada de 70 a 100 g/ m², larguramínima de 1,50 m, fornecido em rolo com comprimento mínimode 50 metros. O tecido deverá apresentar coloração uniforme,transparência homogênea, boa resistência ao rasgo, excelentecaimento, estabilidade dimensional e acabamento de qualidade,livre de manchas, furos, falhas de tecelagem ou quaisquer outrosdefeitos de fabricação, sendo adequado para aplicaçõesdecorativas, cênicas e de vestuário.",
+              "unidade": "ROL",
+              "quantidade": "6,00",
+              "valor_referencia": "479,23"
+            }
+          ]
+        },
+        {
+          "numero": "11",
+          "titulo": "CETIM",
+          "fase": "HOMOLOGADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "3.161,32",
+          "vencedor": "CHSF DISTRIBUIDORA TEXTIL LTDA",
+          "melhor_oferta": "2.476,68",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37742 CETIM:tecido cetim com elastano, sintético de superfíciebrilhante, toque macio, excelente caimento e elasticidade,indicado para confecção de figurinos, vestuário, decoração,cenografia e artes cênicas, nas cores VERDE FOLHA,DOURADO, OFF WHITE E CINZA CLARO. Composiçãoaproximada: poliéster com elastano, gramatura aproximada de140 a 180 g/m², largura mínima de 1,50 m, fornecido em rolo comcomprimento mínimo de 50 metros. O tecido deverá apresentarbrilho uniforme, coloração homogênea, boa resistência ao rasgoe a tração, elasticidade adequada, estabilidade dimensional eacabamento de qualidade, livre de manchas, furos, falhas detecelagem ou quaisquer outros defeitos de fabricação, sendoapropriado para aplicações artísticas, decorativas e de vestuário.",
+              "unidade": "ROL",
+              "quantidade": "4,00",
+              "valor_referencia": "790,33"
+            }
+          ]
+        },
+        {
+          "numero": "12",
+          "titulo": "VISCOSE",
+          "fase": "HOMOLOGADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "1.104,80",
+          "vencedor": "CHSF DISTRIBUIDORA TEXTIL LTDA",
+          "melhor_oferta": "859,99",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "8300500044 VISCOSE:tecido leve, macio, respirável e deexcelente caimento, na cor PRETA, indicado para confecção defigurinos, vestuário, artes cênicas e peças de moda em geral.Composição: 100% viscose ou viscose com pequena variaçãode fibras conforme o fabricante, gramatura aproximada de 120 a180 g/m², largura mínima de 1,40 m, fornecido em rolo comcomprimento mínimo de 50 metros. O tecido deverá apresentarcoloração uniforme, toque suave, boa resistência a costura,excelente caimento, estabilidade dimensional e acabamento dequalidade, livre de manchas, furos, falhas de tecelagem ouquaisquer outros defeitos de fabricação, sendo adequado paraaplicações artísticas, cênicas e de vestuário.",
+              "unidade": "ROL",
+              "quantidade": "1,00",
+              "valor_referencia": "1.104,80"
+            }
+          ]
+        },
+        {
+          "numero": "13",
+          "titulo": "JACQUARD",
+          "fase": "HOMOLOGADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "6.136,35",
+          "vencedor": "CHSF DISTRIBUIDORA TEXTIL LTDA",
+          "melhor_oferta": "4.799,95",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37743 JACQUARD:tecido encorpado com desenhos tramadosem relevo, nas cores ROXO, VIOLETA, AZUL, CINZA,VERMELHO RUBRICO, de alta resistência e excelenteacabamento, indicado para decoração, figurinos, cenografia,revestimentos e aplicações artísticas. Composição aproximada:100% poliéster ou misto de poliéster e algodão (conformefabricante), gramatura aproximada de 250 a 350 g/m², larguramínima de 1,40 m, fornecido em rolo com comprimento mínimode 30 metros. O tecido deverá apresentar desenhos uniformes,coloração homogênea, boa resistência ao rasgo e a abrasão,estabilidade dimensional, acabamento de alta qualidade, livre demanchas, furos, falhas de tecelagem ou quaisquer outrosdefeitos de fabricação, sendo adequado para aplicaçõesdecorativas, cênicas, confecção de figurinos e revestimentos.",
+              "unidade": "ROL",
+              "quantidade": "5,00",
+              "valor_referencia": "1.227,27"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5-DLE-079-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "804/2026",
+      "modalidade": "DISPENSA ELETRÔNICA",
+      "situacao": "HABILITAÇÃO",
+      "condutor": "ISAQUE SILVA DOS SANTOS",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO PARCELADA",
+      "publicacao": "24/07/2026 18:13",
+      "inicio_recepcao": "24/07/2026 18:15",
+      "fim_recepcao": "30/07/2026 08:15",
+      "inicio_disputa": "30/07/2026 08:30",
+      "objeto": "Contratação de empresa especializada em fornecimento de [UTENSÍLIOS DE COZINHA E EPI’S NECESSÁRIOS PARA O PROJETO PADARIA COMUNITÁRIA] (material de consumo), a fim de atender as necessidades da Secretaria Municipal de Promoção Social.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DbpZQa%2FwbgjOXUMA6N81ERQf9oba_eQLwg7lMnUEgRZTCGn%2F9rLVimdID94kagteUBeIHxzuVlo5umwVE%2FieAZ5smmwsGlnOs2nPjSJPpB60%3D",
+      "total_lotes": 13,
+      "total_itens": 13,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "Faca de cozinha de 8 polegadas",
+          "fase": "HABILITAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "283,10",
+          "vencedor": "DISTRIBUIMAAIS NEGOCIOS CORPARATIVO LTDA",
+          "melhor_oferta": "280,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "7303000004 Faca de cozinha de 8 polegadas:32,6cmx4cmx1,5cm, em aço inoxidável.",
+              "unidade": "UN",
+              "quantidade": "10,00",
+              "valor_referencia": "28,31"
+            }
+          ]
+        },
+        {
+          "numero": "2",
+          "titulo": "Faca para Carne 14 polegadas",
+          "fase": "HABILITAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "2.056,20",
+          "vencedor": "DISTRIBUIMAAIS NEGOCIOS CORPARATIVO LTDA",
+          "melhor_oferta": "1.980,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "7303000005 Faca para Carne 14 polegadas:com lâmina em aço inox e cabo em polipropileno branco.",
+              "unidade": "UN",
+              "quantidade": "10,00",
+              "valor_referencia": "205,62"
+            }
+          ]
+        },
+        {
+          "numero": "3",
+          "titulo": "KIT HIGIENIZAÇÃO (dispenser/porta papel e toalha)",
+          "fase": "HABILITAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "256,00",
+          "vencedor": "DISTRIBUIMAAIS NEGOCIOS CORPARATIVO LTDA",
+          "melhor_oferta": "256,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "7302000008 KIT HIGIENIZAÇÃO (dispenser/porta papel etoalha):kit com dispenser para papel toalha interfolha e umasaboneteira de 800 ml com reservatório.",
+              "unidade": "KIT",
+              "quantidade": "4,00",
+              "valor_referencia": "64,00"
+            }
+          ]
+        },
+        {
+          "numero": "4",
+          "titulo": "Luva de segurança confeccionada em borracha nitrílica P",
+          "fase": "HABILITAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "718,20",
+          "vencedor": "BOAZ SAÚDE E SEGURANÇA LTDA",
+          "melhor_oferta": "691,20",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "8406500018 Luva de segurança confeccionada em borrachanitrílica P:antiderrapante na palma, interior flocado. Proteção dasmãos do usuário contra agentes abrasivos, escoriantes,cortantes e perfurantes e contra agentes químicos tais comoClasse A - Tipo 2: Agressivos básicos; Classe B - Detergentes,Sabões, Amoníacos e similares e Classe C - Tipo 1:Hidrocarbonetos Alifáticos, Tipo 2: Hidrocarbonetos aromáticos,Tipo 3: Álcoois, Tipo 4: Éteres. Comprimento deaproximadamente 33 cm e espessura de cerca de 0,40mm,tamanhos P. (CA: 26.098).",
+              "unidade": "PAR",
+              "quantidade": "60,00",
+              "valor_referencia": "11,97"
+            }
+          ]
+        },
+        {
+          "numero": "5",
+          "titulo": "Luva de segurança confeccionada em borracha nitrílica M",
+          "fase": "HABILITAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "1.197,00",
+          "vencedor": "BOAZ SAÚDE E SEGURANÇA LTDA",
+          "melhor_oferta": "1.168,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "8406500019 Luva de segurança confeccionada em borrachanitrílica M:antiderrapante na palma, interior flocado. Proteção dasmãos do usuário contra agentes abrasivos, escoriantes,cortantes e perfurantes e contra agentes químicos tais comoClasse A - Tipo 2: Agressivos básicos; Classe B - Detergentes,Sabões, Amoníacos e similares e Classe C - Tipo 1:Hidrocarbonetos Alifáticos, Tipo 2: Hidrocarbonetos aromáticos,Tipo 3: Álcoois, Tipo 4: Éteres. Comprimento deaproximadamente 33 cm e espessura de cerca de 0,40mm,tamanho M. (CA: 26.098).",
+              "unidade": "PAR",
+              "quantidade": "100,00",
+              "valor_referencia": "11,97"
+            }
+          ]
+        },
+        {
+          "numero": "6",
+          "titulo": "Luva de segurança confeccionada em borracha nitrílica G",
+          "fase": "HABILITAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "1.255,00",
+          "vencedor": "BOAZ SAÚDE E SEGURANÇA LTDA",
+          "melhor_oferta": "1.228,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "8406500020 Luva de segurança confeccionada em borrachanitrílica G:antiderrapante na palma, interior flocado. Proteção dasmãos do usuário contra agentes abrasivos, escoriantes,cortantes e perfurantes e contra agentes químicos tais comoClasse A - Tipo 2: Agressivos básicos; Classe B - Detergentes,Sabões, Amoníacos e similares e Classe C - Tipo 1:Hidrocarbonetos Alifáticos, Tipo 2: Hidrocarbonetos aromáticos,Tipo 3: Álcoois, Tipo 4: Éteres. Comprimento deaproximadamente 33 cm e espessura de cerca de 0,40mm,tamanho G. (CA: 26.098).",
+              "unidade": "PAR",
+              "quantidade": "100,00",
+              "valor_referencia": "12,55"
+            }
+          ]
+        },
+        {
+          "numero": "7",
+          "titulo": "Luva de segurança confeccionada em borracha nitrílica GG",
+          "fase": "HABILITAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "718,20",
+          "vencedor": "BOAZ SAÚDE E SEGURANÇA LTDA",
+          "melhor_oferta": "697,80",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "8406500021 Luva de segurança confeccionada em borrachanitrílica GG:antiderrapante na palma, interior flocado. Proteçãodas mãos do usuário contra agentes abrasivos, escoriantes,cortantes e perfurantes e contra agentes químicos tais comoClasse A - Tipo 2: Agressivos básicos; Classe B - Detergentes,Sabões, Amoníacos e similares e Classe C - Tipo 1:Hidrocarbonetos Alifáticos, Tipo 2: Hidrocarbonetos aromáticos,Tipo 3: Álcoois, Tipo 4: Éteres. Comprimento deaproximadamente 33 cm e espessura de cerca de 0,40mm.Diversos tamanhos GG. (CA: 26.098).",
+              "unidade": "PAR",
+              "quantidade": "60,00",
+              "valor_referencia": "11,97"
+            }
+          ]
+        },
+        {
+          "numero": "8",
+          "titulo": "Luva de segurança confeccionada em borracha nitrílica XG",
+          "fase": "HABILITAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "623,00",
+          "vencedor": "DISTRIBUIMAAIS NEGOCIOS CORPARATIVO LTDA",
+          "melhor_oferta": "619,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "8406500022 Luva de segurança confeccionada em borrachanitrílica XG:antiderrapante na palma, interior flocado. Proteçãodas mãos do usuário contra agentes abrasivos, escoriantes,cortantes e perfurantes e contra agentes químicos tais comoClasse A - Tipo 2: Agressivos básicos; Classe B - Detergentes,Sabões, Amoníacos e similares e Classe C - Tipo 1:Hidrocarbonetos Alifáticos, Tipo 2: Hidrocarbonetos aromáticos,Tipo 3: Álcoois, Tipo 4: Éteres. Comprimento deaproximadamente 33 cm e espessura de cerca de 0,40mm.Diversos tamanhos XG. (CA: 26.098).",
+              "unidade": "PAR",
+              "quantidade": "50,00",
+              "valor_referencia": "12,46"
+            }
+          ]
+        },
+        {
+          "numero": "9",
+          "titulo": "LUVA DESCARTÁVEL TPE SOFT TRANSPARENTE",
+          "fase": "DESERTO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "52,98",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "8406500023 LUVA DESCARTÁVEL TPE SOFTTRANSPARENTE:tamanho: Pequena (P), Material: ElastômeroTermoplástico (TPE) Cor: Transparente, caixa com 100unidades.",
+              "unidade": "CX",
+              "quantidade": "3,00",
+              "valor_referencia": "17,66"
+            }
+          ]
+        },
+        {
+          "numero": "10",
+          "titulo": "LUVA DESCARTÁVEL TPE SOFT TRANSPARENTE 8 CM",
+          "fase": "DESERTO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "102,48",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "8406500024 LUVA DESCARTÁVEL TPE SOFTTRANSPARENTE 8 CM:tamanho: Média (M), Material:Elastômero Termoplástico (TPE) Cor: Transparente, caixa com100 unidades.",
+              "unidade": "CX",
+              "quantidade": "6,00",
+              "valor_referencia": "17,08"
+            }
+          ]
+        },
+        {
+          "numero": "11",
+          "titulo": "LUVA DESCARTÁVEL TPE SOFT TRANSPARENTE 9 CM",
+          "fase": "DESERTO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "68,32",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "8406500025 LUVA DESCARTÁVEL TPE SOFTTRANSPARENTE 9 CM:tamanho: Grande (G), Material:Elastômero Termoplástico (TPE) Cor: Transparente, caixa com100 unidades.",
+              "unidade": "CX",
+              "quantidade": "4,00",
+              "valor_referencia": "17,08"
+            }
+          ]
+        },
+        {
+          "numero": "12",
+          "titulo": "Luva Térmica Felpuda para Forno Panificação, cano longo para uso Profissional",
+          "fase": "FRACASSADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "6.653,50",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "8406500026 Luva Térmica Felpuda para Forno Panificação,cano longo para uso Profissional:luva térmica felpuda para fornode panificação, tipo mão de gato, reforçada, cano longo, mínimo40cm, que suporte altas temperaturas até 500ºC, materialAlgodão/Poliéster, nas cores azul ou cru. Par.",
+              "unidade": "PAR",
+              "quantidade": "50,00",
+              "valor_referencia": "133,07"
+            }
+          ]
+        },
+        {
+          "numero": "13",
+          "titulo": "Protetor auditivo",
+          "fase": "DESERTO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "272,10",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900516086 Protetor auditivo:do tipo concha, constituído porduas conchas em plástico, apresentando almofadas de espumaem suas laterais e em seu interior, possuindo uma haste emplástico rígido, ou outro material, que mantém as conchasfirmemente seladas contra a região das orelhas do usuário e quesustenta as conchas. Deverá possuir NRRsf mínimo de 21 dB.(CA: 14.235, 15.247).",
+              "unidade": "UN",
+              "quantidade": "10,00",
+              "valor_referencia": "27,21"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-118-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "845 / 2026",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "HABILITAÇÃO",
+      "condutor": "SERGIO CARNEIRO CAVALCANTI DE AZEVEDO",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "REGISTRO DE PREÇO",
+      "publicacao": "24/07/2026 11:18",
+      "inicio_recepcao": "26/08/2026 08:00",
+      "fim_recepcao": "10/09/2026 08:15",
+      "inicio_disputa": "10/09/2026 08:30",
+      "objeto": "Contratação de empresa especializada em prestação de serviço de ELABORAÇÃO DE PROJETOS, CONFECÇÃO, MONTAGEM E INSTALAÇÃO DE MOBILIÁRIOS PLANEJADOS, a fim de atender as demandas da Secretaria Municipal de Educação.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DJGxYWeT6g6uGCrhEQfiXOteLCsXBF3QhZKv9ZRSSOGLzbW4dlDWqkEQvOWZRgNeG7hDQHqZsg_1mgWvZAgTCzaZ6dK5nqpeN8MBXbNaj2Yw%3D",
+      "total_lotes": 1,
+      "total_itens": 2,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "MOVEIS PLANEJADOS",
+          "fase": "HABILITAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "6.307.275,00",
+          "vencedor": "G. E. - FABRICACAO DE MOVEIS RURAL LTDA",
+          "melhor_oferta": "4.894.500,00",
+          "total_itens": 2,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9903312127 Mobiliário Planejado sob medida (FECHADO), incluindo confecção, montagem e instalação no local, compreendendo a elaboração de projeto, matéria-prima e todos os custos para o fornecimento do mesmo:A madeira utilizada dever· ser de MDF com 15 mm para parte interna dos móveis, parte externa com tamponamento de 30 mm de espessura; profundidade mínima de 500 mm; pés niveladores em borracha ou rodas rodízio para móveis; os móveis deverão ter acabamento com fita de borda na cor do móvel, colada pelo sistema \"hot melt\"; puxadores integrais em alumínio com acabamento; corrediças telescópicas; pés em MDF; fundo com 6 mm; dobradiças tipo caneco (35 mm) niqueladas com amortecimento; as cores serão definidas pelo órgão solicitante, podendo ser em tons claros ou escuros. Ficará a cargo da futura contratada apresentar projeto em 2D e 3D com detalhamento estrutural para aprovação prévia da Administração, podendo ser solicitadas alterações para adequação às demandas da Secretaria Municipal de Educação.",
+              "unidade": "m2.",
+              "quantidade": "4.000,00",
+              "valor_referencia": "999,00"
+            },
+            {
+              "numero": "2",
+              "especificacao": "9903312128 Mobiliário Planejado sob medida (ABERTO), incluindo confecção, montagem e instalação no local, compreendendo a elaboração de projeto, matéria-prima e todos os custos para o fornecimento do mesmo:A madeira utilizada deverá ser de MDF com 15mm para parte interna dos móveis, parte externa com tamponamento de 30 mm de espessura; profundidade mínima de 200 mm; pés niveladores em borracha; os móveis deverão ter acabamento com fita de borda na cor do móvel, colada pelo sistema \"hot melt\"; fundo com 6 mm; as cores serão definidas pelo órgão solicitante, podendo ser em tons claros ou escuros. Ficar· a cargo da futura contratada apresentar projeto em 2D e 3D com detalhamento estrutural para aprovação prévia da Administração, podendo ser solicitadas alterações para adequação às demandas da Secretaria Municipal de Educação.",
+              "unidade": "m2.",
+              "quantidade": "2.500,00",
+              "valor_referencia": "924,51"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CD-005-2025",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "758/2025",
+      "modalidade": "CREDENCIAMENTO",
+      "situacao": "SUSPENSO",
+      "condutor": "MAGDA DE SELES GUIMARÃES",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO",
+      "publicacao": "03/06/2025 11:48",
+      "inicio_recepcao": "13/06/2025 08:00",
+      "fim_recepcao": "15/06/2026 00:00",
+      "inicio_disputa": "",
+      "objeto": "Credenciamento de pessoa jurídica para PRESTAÇÃO DE SERVIÇOS\n MÉDICOS ESPECIALIZADOS EM ANÁLISE PATOLÓGICA para atender as demandas da\n Secretaria Municipal de Saúde.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DFwiYkTyOOrnPjFPo1MEtn41UFK%2F2uMaRb_e2zKG0WNwj5mruAaKhSUB9o_4MF7wODDHcgESzWUiJqkTB1VFLpqLqG3pNh7G5z8cFsnUmqqs%3D",
+      "total_lotes": 9,
+      "total_itens": 9,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "33436 BIÓPSIA SIMPLES:BIÓPSIA SIMPLES",
+          "fase": "SUSPENSO",
+          "tipo": "UNITÁRIO",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "",
+          "garantia": "",
           "valor_referencia": "60,19",
           "vencedor": "",
           "melhor_oferta": "0,00",
@@ -302332,21 +303032,45 @@
               "numero": "1",
               "especificacao": "33436 BIÓPSIA SIMPLES:BIÓPSIA SIMPLES",
               "unidade": "SERV",
-              "quantidade": "2.500,00",
+              "quantidade": "1.875,00",
               "valor_referencia": "60,19"
             }
           ]
         },
         {
           "numero": "2",
-          "titulo": "9903311392 CITOLOGIA EM MEIO LIQUIDO",
-          "fase": "HABILITAÇÃO",
+          "titulo": "909911235 BIOPSIA SIMPLES:BIÓPSIA SIMPLES. COTA DE 25% RESERVADA PARA  ME/EPP.",
+          "fase": "SUSPENSO",
           "tipo": "UNITÁRIO",
           "quantidade": "1",
           "intervalo_minimo": "0,00",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
+          "exclusivo_me": "SIM",
+          "local_entrega": "",
+          "garantia": "",
+          "valor_referencia": "60,19",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "909911235 BIOPSIA SIMPLES:BIÓPSIA SIMPLES. COTA DE 25% RESERVADA PARA ME/EPP.",
+              "unidade": "SERV",
+              "quantidade": "625,00",
+              "valor_referencia": "60,19"
+            }
+          ]
+        },
+        {
+          "numero": "3",
+          "titulo": "9903311392 CITOLOGIA EM MEIO LIQUIDO - BRONQUIO: CITOLOGIA EM MEIO LIQUIDO - BRONQUIO EXCLUSIVO PARA ME/EPP",
+          "fase": "SUSPENSO",
+          "tipo": "UNITÁRIO",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "SIM",
+          "local_entrega": "",
+          "garantia": "",
           "valor_referencia": "62,25",
           "vencedor": "",
           "melhor_oferta": "0,00",
@@ -302354,7 +303078,7 @@
           "itens": [
             {
               "numero": "1",
-              "especificacao": "9903311392 CITOLOGIA EM MEIO LIQUIDO - BRONQUIO:CITOLOGIA EM MEIO LIQUIDO - BRONQUIO.",
+              "especificacao": "CITOLOGIA EM MEIO LIQUIDO - BRONQUIO: CITOLOGIA EM MEIO LIQUIDO - BRONQUIO EXCLUSIVO PARA ME/EPP",
               "unidade": "SERV",
               "quantidade": "100,00",
               "valor_referencia": "62,25"
@@ -302362,15 +303086,15 @@
           ]
         },
         {
-          "numero": "3",
-          "titulo": "9903311373 COLORAÇÃO ESPECIAL",
-          "fase": "HABILITAÇÃO",
+          "numero": "4",
+          "titulo": "9903311373 COLORAÇÃO ESPECIAL:Marcação da biópsia por corantes especiais. EXCLUSIVO PARA ME/EPP",
+          "fase": "SUSPENSO",
           "tipo": "UNITÁRIO",
           "quantidade": "1",
           "intervalo_minimo": "0,00",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
+          "exclusivo_me": "SIM",
+          "local_entrega": "",
+          "garantia": "",
           "valor_referencia": "33,65",
           "vencedor": "",
           "melhor_oferta": "0,00",
@@ -302378,7 +303102,7 @@
           "itens": [
             {
               "numero": "1",
-              "especificacao": "9903311373 COLORAÇÃO ESPECIAL: Marcação da biópsia por corantes especiais.",
+              "especificacao": "9903311373 COLORAÇÃO ESPECIAL:Marcação da biópsia por corantes especiais. EXCLUSIVO PARA ME/EPP",
               "unidade": "SERV",
               "quantidade": "50,00",
               "valor_referencia": "33,65"
@@ -302386,15 +303110,15 @@
           ]
         },
         {
-          "numero": "4",
-          "titulo": "9903311378 CORE BYOPSY",
-          "fase": "HABILITAÇÃO",
+          "numero": "5",
+          "titulo": "9903311378 CORE BYOPSY:CORE BYOPSY. EXCLUSIVO PARA ME/EPP",
+          "fase": "SUSPENSO",
           "tipo": "UNITÁRIO",
           "quantidade": "1",
           "intervalo_minimo": "0,00",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
+          "exclusivo_me": "SIM",
+          "local_entrega": "",
+          "garantia": "",
           "valor_referencia": "68,46",
           "vencedor": "",
           "melhor_oferta": "0,00",
@@ -302402,7 +303126,7 @@
           "itens": [
             {
               "numero": "1",
-              "especificacao": "9903311378 CORE BYOPSY:CORE BYOPSY.",
+              "especificacao": "9903311378 CORE BYOPSY:CORE BYOPSY. EXCLUSIVO PARA ME/EPP",
               "unidade": "SERV",
               "quantidade": "100,00",
               "valor_referencia": "68,46"
@@ -302410,15 +303134,15 @@
           ]
         },
         {
-          "numero": "5",
-          "titulo": "33437 PEÇA CIRÚRGICA SIMPLES",
-          "fase": "HABILITAÇÃO",
+          "numero": "6",
+          "titulo": "33437 PEÇA CIRÚRGICA SIMPLES:PEÇA CIRÚRGICA SIMPLES",
+          "fase": "SUSPENSO",
           "tipo": "UNITÁRIO",
           "quantidade": "1",
           "intervalo_minimo": "0,00",
           "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
+          "local_entrega": "",
+          "garantia": "",
           "valor_referencia": "75,00",
           "vencedor": "",
           "melhor_oferta": "0,00",
@@ -302428,21 +303152,45 @@
               "numero": "1",
               "especificacao": "33437 PEÇA CIRÚRGICA SIMPLES:PEÇA CIRÚRGICA SIMPLES",
               "unidade": "SERV",
-              "quantidade": "2.500,00",
+              "quantidade": "1.875,00",
               "valor_referencia": "75,00"
             }
           ]
         },
         {
-          "numero": "6",
-          "titulo": "9903311384 PEÇA CIRÚRGICA COMPLEXA",
-          "fase": "HABILITAÇÃO",
+          "numero": "7",
+          "titulo": "9909911236 PEÇA CIRURGICA SIMPLES:PEÇA CIRURGICA SIMPLES. COTA DE 25% RESERVADA PARA ME/EPP",
+          "fase": "SUSPENSO",
+          "tipo": "UNITÁRIO",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "SIM",
+          "local_entrega": "",
+          "garantia": "",
+          "valor_referencia": "75,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9909911236 PEÇA CIRURGICA SIMPLES:PEÇA CIRURGICA SIMPLES. COTA DE 25% RESERVADA PARA ME/EPP",
+              "unidade": "SERV",
+              "quantidade": "625,00",
+              "valor_referencia": "75,00"
+            }
+          ]
+        },
+        {
+          "numero": "8",
+          "titulo": "9903311384 PEÇA CIRÚRGICA COMPLEXA:PEÇA CIRÚRGICA COMPLEXA",
+          "fase": "SUSPENSO",
           "tipo": "UNITÁRIO",
           "quantidade": "1",
           "intervalo_minimo": "0,00",
           "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
+          "local_entrega": "",
+          "garantia": "",
           "valor_referencia": "243,42",
           "vencedor": "",
           "melhor_oferta": "0,00",
@@ -302452,7 +303200,31 @@
               "numero": "1",
               "especificacao": "9903311384 PEÇA CIRÚRGICA COMPLEXA:PEÇA CIRÚRGICA COMPLEXA",
               "unidade": "UN",
-              "quantidade": "1.500,00",
+              "quantidade": "1.125,00",
+              "valor_referencia": "243,42"
+            }
+          ]
+        },
+        {
+          "numero": "9",
+          "titulo": "9909911237 PEÇA CIRURGICA COMPLEXA:PEÇA CIRURGICA COMPLEXA. COTA DE  25%  RESERVADA PARA ME/EPP.",
+          "fase": "SUSPENSO",
+          "tipo": "UNITÁRIO",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "SIM",
+          "local_entrega": "",
+          "garantia": "",
+          "valor_referencia": "243,42",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9909911237 PEÇA CIRURGICA COMPLEXA:PEÇA CIRURGICA COMPLEXA. COTA DE 25% RESERVADA PARA ME/EPP.",
+              "unidade": "SERV",
+              "quantidade": "375,00",
               "valor_referencia": "243,42"
             }
           ]
@@ -302464,38 +303236,38 @@
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "705/2024",
       "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "SUSPENSO",
-      "condutor": "VICTOR KINIDEL DETHLING",
+      "situacao": "HOMOLOGADO",
+      "condutor": "MAGDA DE SELES GUIMARÃES",
       "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
       "tipo_contrato": "AQUISIÇÃO",
-      "publicacao": "15/05/2024 18:26",
-      "inicio_recepcao": "16/05/2024 08:00",
-      "fim_recepcao": "12/06/2024 09:45",
-      "inicio_disputa": "12/06/2024 10:00",
-      "objeto": "Contratação de instituição financeira para prestação de serviços bancários para centralização, gerenciamento e processamento de créditos da folha de pagamento dos servidores, a fim de atender as demandas da Prefeitura de Teixeira de Freitas, conforme condições, quantidades e especificações no Edital, Termo de Referência e seus Anexos.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DoGJsbgwurfYUv%2FQC6v9VFuOiVRmrs%2FU0yvdibRFn9TJP%2FfehSuEBAIuLMsqPTz9oZPoRXoiKGkORcg82ZqH_m3ehZztVnZ5hmCX8Wz7vwQo%3D",
+      "publicacao": "13/06/2024 18:49",
+      "inicio_recepcao": "14/06/2024 08:00",
+      "fim_recepcao": "10/07/2024 13:45",
+      "inicio_disputa": "10/07/2024 14:00",
+      "objeto": "O objeto da presente licitação é a contratação de INSTITUIÇÃO FINANCEIRA ESPECIALIZADA NA PRESTAÇÃO DE SERVIÇOS BANCÁRIOS PARA CENTRALIZAÇÃO, GERENCIAMENTO E PROCESSAMENTO DE CRÉDITOS DA FOLHA DE PAGAMENTO DOS SERVIDORES, a fim de atender as demandas da Secretaria Municipal de Administração, conforme condições, quantidades e especificações no Edital, Termo de Referência e seus Anexos.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DB6YS2syHgcmJLo_cnwK59NyMloXvjkSXc70jebb2hh_bPfHTqNR4X0te3rALaSQ93rqZvYdJQXvV3AWsAxC6iNTGsDEhJV66dKwORrcKy3M%3D",
       "total_lotes": 1,
       "total_itens": 1,
       "lotes": [
         {
           "numero": "1",
-          "titulo": "LOTE 01",
-          "fase": "SUSPENSO",
-          "tipo": "UNITÁRIO",
+          "titulo": "SERVIÇOS BANCÁRIOS",
+          "fase": "HOMOLOGADO",
+          "tipo": "GLOBAL",
           "quantidade": "1",
-          "intervalo_minimo": "100,00",
+          "intervalo_minimo": "0,01",
           "exclusivo_me": "NÃO",
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "6.052.150,00",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
+          "vencedor": "ITAÚ UNIBANCO S.A.",
+          "melhor_oferta": "6.053.000,00",
           "total_itens": 1,
           "itens": [
             {
               "numero": "1",
               "especificacao": "CONTRATAÇÃO DE INSTITUIÇÃO FINANCEIRA: ESPECIALIZADA NA PRESTAÇÃO DE SERVIÇOS BANCÁRIOS PARA CENTRALIZAÇÃO, GERENCIAMENTO E PROCESSAMENTO DE CRÉDITOS DA FOLHA DE PAGAMENTO DOS SERVIDORES DA PREFEITURA MUNICIPAL DE TEIXEIRA DE FREITAS/BA.",
-              "unidade": "SERVIÇO",
+              "unidade": "UN",
               "quantidade": "1,00",
               "valor_referencia": "6.052.150,00"
             }
