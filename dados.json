@@ -2,9 +2,9 @@
   "metadata": {
     "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
     "total_processos": 910,
-    "total_lotes": 10120,
-    "total_itens": 16679,
-    "atualizado_em": "20260916_231826"
+    "total_lotes": 10117,
+    "total_itens": 16676,
+    "atualizado_em": "20260917_180055"
   },
   "processos": [
     {
@@ -285486,218 +285486,6 @@
       ]
     },
     {
-      "id": "PE-125-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "723 / 2026",
-      "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "HABILITAÇÃO",
-      "condutor": "SERGIO CARNEIRO CAVALCANTI DE AZEVEDO",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO PARCELADA",
-      "publicacao": "06/08/2026 14:34",
-      "inicio_recepcao": "10/08/2026 08:00",
-      "fim_recepcao": "19/08/2026 08:15",
-      "inicio_disputa": "19/08/2026 08:30",
-      "objeto": "Contratação de empresa especializada em fornecimento de ESTRUTURAS DE REDES DE INFORMÁTICA (material de consumo e material permanente), a fim de atender as demandas da Secretaria Municipal de Administração e demais Secretarias.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5D0QYANNE039CanVRs6gWeKK9wtA%2FMc60czmmsX2nY_8oGd4jDrpEYq%2F3X0daggfEquEu3Kbb80Ai8eh45TXl5I7m7e8jxpNqBc9ju9VP_liY%3D",
-      "total_lotes": 8,
-      "total_itens": 8,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "9900515876 CAIXA DE CABO DE REDE 100% COBRECAT5E::Características Técnicas- Categoria: CAT.5e;- Construção: U/UTP - 4 pares trançados compostos de condutores sólidos de cobre nu, 24 AWG, isoladosem polietileno especial;- Cor padrão: Azul claro;- Cap",
-          "fase": "EM ADJUDICAÇÃO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "252.171,00",
-          "vencedor": "TJ COMERCIO DE  PRODUTOS LTDA",
-          "melhor_oferta": "237.000,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900515876 CAIXA DE CABO DE REDE 100% COBRECAT5E::Características Técnicas- Categoria: CAT.5e;- Construção: U/UTP - 4 pares trançados compostos de condutores sólidos de cobre nu, 24 AWG, isoladosem polietileno especial;- Cor padrão: Azul claro;- Capa externa: PVC na opção CMX;- Embalagem: Caixa FASTBOX em lance padrão de 305 metros;- Marcação sequencial métrica decrescente (305 - 0 m), que facilita a visualização da quantidade restantena caixa e no cálculo dos lances para instalação;- Diâmetro nominal: 4,8 mm; Massa líquida: 26 kg/km- NVP (Velocidade Nominal de Propagação): 68%;- 100% cobre- Certificado pela Anatel.Modelo de referência: CABO ELET. SOHOPLUS U/UTP CAT.5e 24AWGX4P",
-              "unidade": "CX",
-              "quantidade": "300,00",
-              "valor_referencia": "840,57"
-            }
-          ]
-        },
-        {
-          "numero": "2",
-          "titulo": "9900515877 BANDEJA PARA RACK:Bandeja fixa de 19polegadas, 1U de altura e 400mm. Tipo de fixação: Frontal sobre auxilio de porcas do tipo gaiola ventilado que promove melhor circulação de ar",
-          "fase": "EM ADJUDICAÇÃO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "601,80",
-          "vencedor": "GJ SOLUÇÕES EM LICITAÇÕES E ASSESSORIA LTDA",
-          "melhor_oferta": "601,80",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900515877 BANDEJA PARA RACK:Bandeja fixa de 19polegadas, 1U de altura e 400mm. Tipo de fixação: Frontal sobre auxilio de porcas do tipo gaiola ventilado que promove melhor circulação de ar",
-              "unidade": "Und.",
-              "quantidade": "6,00",
-              "valor_referencia": "100,30"
-            }
-          ]
-        },
-        {
-          "numero": "3",
-          "titulo": "9900515878 ACCESS POINT UBIQUITI UNIFI WI-FI 7 U7-PRO:Dimensões: Ø206 x 46 mm (Ø8,1 x 1,8\") Standard WiFi: WiFi 7Área de Cobertura: 140 m² (1.500 ft²) Contagem Máxima de Clientes: +300 Uplink: 2,5 GbEMontagem: Teto, Parede (Pro Mount Incluído) Método d",
-          "fase": "EM ADJUDICAÇÃO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "178.229,07",
-          "vencedor": "THADS SERVICOS LTDA",
-          "melhor_oferta": "148.248,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900515878 ACCESS POINT UBIQUITI UNIFI WI-FI 7 U7-PRO:Dimensões: Ø206 x 46 mm (Ø8,1 x 1,8\") Standard WiFi: WiFi 7Área de Cobertura: 140 m² (1.500 ft²) Contagem Máxima de Clientes: +300 Uplink: 2,5 GbEMontagem: Teto, Parede (Pro Mount Incluído) Método de Alimentação: PoE+6 GHz: 2 x 2 (DL/UL MU-MIMO)5 GHz: 2 x 2 (DL/UL MU-MIMO)2,4 GHz: 2 x 2 (DL/UL MU-MIMO)Taxa de Dados Máxima 6 GHz 5,8 Gbps (BW320)5 GHz: 4,3 Gbps (BW240)2,4 GHz: 688 Mbps (BW40)Ganho de Antena 6 GHz: 5.8 dBi5 GHz: 6 dBi2,4 GHz: 4 dBiPotência Máxima de Transmissão 6 GHz: 23 dBm5 GHz: 26 dBm2,4 GHz: 23 dBmMáx. BSSIDs: 8 por Rádio Taxas de Dados Suportadas802.11be (WiFi 7) 7,3 Mbps a 5,8 Gbps (MCS0 - MCS13 NSS1/2, EHT 20/40/80/160/240/320)802.11ax (WiFi 6/6E): 7,3 Mbps a 2,4 Gbps (MCS0 - MCS11 NSS1/2, HE 20/40/80/160)802.11ac (WiFi 5): 6,5 Mbps a 1,7 Gbps (MCS0 - MCS9 NSS1/2, VHT 20/40/80/160):802.11n: 6,5 Mbps a 300 Mbps (MCS0 - MCS15, HT 20/40) RECURSOS:Malha Sem Fio; Direcionamento de Banda;802.11v Gerenciamento de Transição BSS 802.11r Roaming Rápido802.11k Gerenciamento de Recursos de Rádio (RRM) Gerenciamento Avançado de RádioPasspoint (Hotspot 2.0) Portal de Hotspot CativoSuporte ao Servidor do Portal Externo Autenticação por SenhaIsolamento de Rede de Convidados Chave Pré-Compartilhada Privada (PPSK) Limitação de Velocidade do WiFi Isolamento de Dispositivo do Cliente Horários de WiFiRADIUS sobre TLS (RadSec)VLAN atribuída dinamicamente pelo RADIUS HARDWAREConsumo Máximo de Energia 21W Faixa de Tensão Suportada 44-57V CCInterface de Rede: (1) Porta RJ45 1/2,5 GbE Gerenciamento: EthernetMaterial de Fechamento: Policarbonato, metalMaterial de Montagem: Aço inoxidável (SUS304), aço galvanizado (SGCC)Frequência de Operação: EUA/CA:U-NII-1: 5150 - 5250 MHzU-NII-2A: 5250 - 5350 MHzU-NII-2C: 5470 - 5725 MHzU-NII-3: 5725 - 5850 MHzU-NII-5 a U-NII-8: 5925 - 7125 MHzV",
-              "unidade": "Und.",
-              "quantidade": "87,00",
-              "valor_referencia": "2.048,61"
-            }
-          ]
-        },
-        {
-          "numero": "4",
-          "titulo": "9900515879 FONTE UBIQUITI POE 48 V 0,5ª:- DIMENSÕES:91,8 X 59,9 X 33 MM (3,61 X 2,36 X 1,30 POL.)- VOLTAGEM DE SAÍDA: 48VDC @ 0.5A- TENSÃO DE ENTRADA: 90-260VAC A 47-63 HZ- CORRENTE DE ENTRADA: 0.6A @ 120VAC, 0.4A @ 240VAC- CORRENTE DE IRRUPÇÃO: <65A",
-          "fase": "EM ADJUDICAÇÃO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "5.382,90",
-          "vencedor": "DIGITALPAR INFORMÁTICA LTDA",
-          "melhor_oferta": "4.500,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900515879 FONTE UBIQUITI POE 48 V 0,5ª:- DIMENSÕES:91,8 X 59,9 X 33 MM (3,61 X 2,36 X 1,30 POL.)- VOLTAGEM DE SAÍDA: 48VDC @ 0.5A- TENSÃO DE ENTRADA: 90-260VAC A 47-63 HZ- CORRENTE DE ENTRADA: 0.6A @ 120VAC, 0.4A @ 240VAC- CORRENTE DE IRRUPÇÃO: <65A PICO @ 120VAC, <130A PICO @ 230VAC- EFICIÊNCIA 80 +%- ONDULAÇÃO DE SAÍDA 1% MÁX.- FREQUÊNCIA DE COMUTAÇÃO 65 KHZ- REGULAMENTO DE LINHA ± 1%- REGULAMENTO DE CARGA ± 3%- CONECTOR CA IEC-320 C6- DATA IN / POE RJ45 SOCKE BLINDADO- ALIMENTAÇÃO DE 4 PARES: PINOS 4,5 (+) E PINOS 7,8 (- TEMPERATURA OPERACIONAL DE0 A 40 ° C (32 A 104 ° F)Voltagem: 100-240VAC @ 50/60Hz Fabricante: Ubiquiti",
-              "unidade": "Und.",
-              "quantidade": "30,00",
-              "valor_referencia": "179,43"
-            }
-          ]
-        },
-        {
-          "numero": "5",
-          "titulo": "9900515880 PATCH CORD CAT5E 1,5 MAMARELO:Informações Técnicas Modelo: FlexívelTemperatura máxima de trabalho: 80°C Categoria: 5e (CAT5e)Cor: Amarelo Comprimento: 1,5M Homologação: AnatelTransmissão de até 1000 Mbps e limite desempenho 100 MhzModelo d",
-          "fase": "EM ADJUDICAÇÃO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "4.345,60",
-          "vencedor": "STELLAR COMERCIO LTDA",
-          "melhor_oferta": "3.590,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900515880 PATCH CORD CAT5E 1,5 MAMARELO:Informações Técnicas Modelo: FlexívelTemperatura máxima de trabalho: 80°C Categoria: 5e (CAT5e)Cor: Amarelo Comprimento: 1,5M Homologação: AnatelTransmissão de até 1000 Mbps e limite desempenho 100 MhzModelo de referência: Patch Cord CAT.5E SohoPlus CMX",
-              "unidade": "Und.",
-              "quantidade": "320,00",
-              "valor_referencia": "13,58"
-            }
-          ]
-        },
-        {
-          "numero": "6",
-          "titulo": "9900515881 PATCH CORD CAT5E 1,5 M AZUL:InformaçõesTécnicas Modelo: FlexívelTemperatura máxima de trabalho: 80°C Categoria: 5e (CAT5e)Cor: AZULComprimento: 1,5M Homologação: AnatelTransmissão de até 1000 Mbps e limite desempenho 100 MhzModelo de refe",
-          "fase": "EM ADJUDICAÇÃO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "4.345,60",
-          "vencedor": "M3. BUSINESS GROUP LTDA",
-          "melhor_oferta": "2.950,40",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900515881 PATCH CORD CAT5E 1,5 M AZUL:InformaçõesTécnicas Modelo: FlexívelTemperatura máxima de trabalho: 80°C Categoria: 5e (CAT5e)Cor: AZULComprimento: 1,5M Homologação: AnatelTransmissão de até 1000 Mbps e limite desempenho 100 MhzModelo de referência: Patch Cord CAT.5E SohoPlus CMX",
-              "unidade": "Und.",
-              "quantidade": "320,00",
-              "valor_referencia": "13,58"
-            }
-          ]
-        },
-        {
-          "numero": "7",
-          "titulo": "9900515882 TESTADOR DE CABOS DE REDEPROFISSIONAL:- Características:- 2 Cabos de conexão RJ11- 2 Cabos de conexão RJ45- 2 Cordões- 1 Guia de início rápido- 2 Baterias de 9 volts- Pontas de teste com garras jacaré- Garantia: 1 anoModelo de referênci",
-          "fase": "EM ADJUDICAÇÃO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "7.112,76",
-          "vencedor": "R.V. DE S. NOVAIS LTDA.",
-          "melhor_oferta": "7.112,76",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900515882 TESTADOR DE CABOS DE REDEPROFISSIONAL:- Características:- 2 Cabos de conexão RJ11- 2 Cabos de conexão RJ45- 2 Cordões- 1 Guia de início rápido- 2 Baterias de 9 volts- Pontas de teste com garras jacaré- Garantia: 1 anoModelo de referência: FLUKE-4586068 - Kit Sonda Digital 200 IntelliTone + Gerador de Tons IntelliTone 200 LAN",
-              "unidade": "Und.",
-              "quantidade": "3,00",
-              "valor_referencia": "2.370,92"
-            }
-          ]
-        },
-        {
-          "numero": "8",
-          "titulo": "5707611204 SWICTH24 PORTASGERENCIÁVEL::Especificações Técnicas:- Interface. 24× Portas RJ45 de 10/100/1000 Mbps- 4× Slots SFP Gigabit - 1× Porta de Console RJ45- 1× Porta de Console Micro-USB- Fonte de Alimentação 100-240 V AC~50/60 Hz- Dimensões (L",
-          "fase": "EM ADJUDICAÇÃO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "100.355,00",
-          "vencedor": "VANGUARDA INFORMATICA LTDA",
-          "melhor_oferta": "54.120,50",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "5707611204 SWICTH24 PORTASGERENCIÁVEL::Especificações Técnicas:- Interface. 24× Portas RJ45 de 10/100/1000 Mbps- 4× Slots SFP Gigabit - 1× Porta de Console RJ45- 1× Porta de Console Micro-USB- Fonte de Alimentação 100-240 V AC~50/60 Hz- Dimensões (L X C X A) 17.3 × 7.1 × 1.7 in (440 × 180 × 44 mm)- Consumo máximo de energia 19.9 W (220 V/50 Hz)- Dissipação de calor máxima 67.73 BTU/h (220 V/50 Hz) Desempenho:- Capacidade de Comutação 56 Gbps - Taxa de Encaminhamento de Pacotes 41.66 Mpps - Tabela deEndereços MAC 16K - Jumbo Frame 9 KB Software:- QoS . 8 filas de prioridade - Prioridade 802.1p CoS/DSCP- Agendamento de filas - SP (Strict Priority) - WRR (Weighted Round Robin) - SP+WRR - Controle deLargura de Banda - Limite de classificação com base na porta/fluxo - Desempenho mais suave - Açãopara fluxos- Espelhar (para a interface suportada) - Redirecionar (para a interface suportadal) - Limite de velocidade -Comentário de QoS Características L2 e L2+:- Agregação de links - Agregação de links estáticos- LACP 802.3ad - Até 8 grupos de agregação e até 8 portas por grupoProtocolo Spanning Tree:- 802.1d STP - 802.1w RSTP - 802.1s MSTP - Segurança doSTP: TC Protect, Filtro BPDU, BPDU Protect, Root Protect, Loop Protect Detecção de Loopback:- Baseado na porta - VLAN based Controle de fluxo:- Controle de Fluxo 802.3x - Prevenção de bloqueios HOL Espelhamento:- Espelhamento de portas - Espelhamento de CPU- Um para um - Muitos para um- Transmissão/Recepção/Ambos- L2 Multicast - Suporta 511 grupos IGMP (IPv4, IPv6) IGMP Snooping:- IGMP v1/v2/v3 Snooping - Fast Leave - IGMP Snooping Querier- IGMP Authentication - IGMP Authentication ? MVR MLD Snooping:- MLD v1/v2 Snooping - Fast Leave - MLD Snooping Querier - Configuração de grupos estáticos -Multicast IP limitado- Filtragem Multicast: 256 perfis e 16 entradas por perfil VLAN Grupo VLAN:- Máximo de 4.000 Grupos de VLAN - 802.1q tagged VLAN - VLAN MAC: 12 entradas - ProtocoloVLAN: Modelo de protocolo 16, protocolo VLAN 16 - GVRP -VLAN VPN (QinQ) - QinQ baseado na porta- QinQ seletivo - VLAN de Voz Lista de Controle de Acesso:- ACL baseada no tempo - MAC ACL - MAC de origem - MAC de destino- ID da VLAN - Prioridade do usuário - Tipo Ether IP ACL:- IP de origem - IP de destino - Fragmento - Protocolo IP- Marcação TCP - Porta TCP/UDP - DSCP/IP TOS Garantia do Fornecedor 12 mesesLinha Switch L2+ 24 Portas Gigabit Com 4 SFPPeso: Apro",
-              "unidade": "Und.",
-              "quantidade": "50,00",
-              "valor_referencia": "2.007,10"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "PE-111-2026",
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "694 / 2026",
@@ -286715,410 +286503,6 @@
               "unidade": "m3..",
               "quantidade": "575,00",
               "valor_referencia": "116,46"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "PE-136-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "861 / 2026",
-      "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "JULGAMENTO",
-      "condutor": "SERGIO CARNEIRO CAVALCANTI DE AZEVEDO",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "REGISTRO DE PREÇO",
-      "publicacao": "17/08/2026 16:09",
-      "inicio_recepcao": "19/08/2026 08:00",
-      "fim_recepcao": "28/08/2026 13:45",
-      "inicio_disputa": "28/08/2026 14:00",
-      "objeto": "Contratação de empresa especializada em fornecimento de COMPUTADORES E NOTEBOOKS (material permanente), a fim de atender as demandas da Secretaria Municipal de Administração e\ndemais secretarias.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5D1MITUR9L6uSE8CPVzmCKEOvPtxOCV6tb%2F8QScD08OENfp%2FV0q4DzKVspLEfBsS36TeayedCkouA%2FbRxWiadEFiitF6DL0CtVSlLdC9YmzHg%3D",
-      "total_lotes": 16,
-      "total_itens": 16,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "9900830612 COMPUTADOR I3 16GB - SSD 480GB:PLACA-MÃE: Compatibilidade para processadores lançados a partir de 2024. Suporte a memória DDR4 com capacidade máxima de 128 GB, Dual Channel, frequência mínima de 3200 MHz. Possuir 1 porta HDMI 1.4, 1 DisplayPor",
-          "fase": "FRACASSADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "644.989,50",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900830612 COMPUTADOR I3 16GB - SSD 480GB:PLACA-MÃE: Compatibilidade para processadores lançados a partir de 2024. Suporte a memória DDR4 com capacidade máxima de 128 GB, Dual Channel, frequência mínima de 3200 MHz. Possuir 1 porta HDMI 1.4, 1 DisplayPort e 1 VGA; 1 slot PCIe x16 e 2 slots PCIe x1; 2 slots M.2, sendo M.2_1 PCIe 4.0 x4 (2280/2260/2242) e M.2_2 PCIe 4.0 x4/SATA (2280/2260/2242); 4 conectores SATA 6 Gb/s com suporte a RAID 0, 1, 5 e 10. Disponibilizar 4portas USB 2.0 traseiras, 4 portas USB 2.0 frontais, 1 USB 3.2 Gen1 Type-A traseira, 2 USB 3.2 Gen1 Type-A frontais e 1 USB3.2 Gen2 . Possuir rede Gigabit LAN, áudio onboard 7.1 canais e conectores internos ATX_PWR, CPU_PWR, CPU FAN, SYSTEM FAN, Front Panel, Front Audio, TPM 2.0, USB 2.0 e USB 3.2 Gen1. Compatível com Windows® 11 e Windows® 10 64 bits. Deverá acompanhar, no mínimo, 1 cabo SATA e 2 parafusos para slot M.2. PROCESSADOR: Intel Core i3 de 14ª geração, Modelo Box com cooler original do fabricante, arquitetura de 64 bits, lançado a partir de 2024, frequência mínima de 3,40 GHz, vídeo integrado e suporte para até 4 monitores. Deverá possuir, no mínimo, 4 núcleos e 8 threads, cache L1 de 4 x 48 KB, cache L2 de 4 x 1280 KB e cache L3 de 12 MB. MEMÓRIA RAM: Capacidade mínima de 16 GB DDR4. Velocidade de 3200 MHz, latência CL16, dissipador de calor, padrão PC4-25600 e tensão de operação de 1,35 V. ARMAZENAMENTO SSD NVMe: Unidade de estado sólido (SSD) com capacidade mínima de 480 GB, interface M.2 NVMe PCI Express 4.0 x4, ou superior, fator de forma M.2 2280, memória 3D NAND TLC ou tecnologia superior. Deverá possuir velocidade sequencial mínima de 3.000 MB/s para leitura e 1.800 MB/s para gravação. Produto novo, em linha de fabricação, compatível com a placa-mãe ofertada. FONTE DE ALIMENTAÇÃO: Potência real de 350 Watts ou superior, certificação 80 Plus Bronze, PFC ativo, bivolt automático(115V-230V), certificação INMETRO, cooler de 14 cm e cabo de força de 1,80 m conforme padrão ABNT. Deverá possuir 1 conector 20+4 pinos, 2 conectores PCI Express 6+2 pinos, 1 conector ATX 4+4 pinos, 2 conectores IDE e 6 conectores SATA. MTBF mínimo de 100.000 horas. GABINETE: Construído em chapa SPCC de 0,50 mm, compatível com placas-mãe Micro ATX e fontes ATX. Possuir lateral em acrílico ou metal, 1 baia ODD, 2 baias HDD e 2 baias SSD. Disponibilizar na parte frontal 2 portas USB 2.0, 1 porta USB 3.0, 1 entrada para microfone e 1 entrada para áudio.",
-              "unidade": "UND",
-              "quantidade": "150,00",
-              "valor_referencia": "4.299,93"
-            }
-          ]
-        },
-        {
-          "numero": "2",
-          "titulo": "9900830613 COMPUTADOR I5 8GB - SSD 480GB: PLACA-MÃE:: Compatibilidade para processadores lançados a partir de 2024. Suporte a memória DDR4 com capacidade máxima de 128 GB, Dual Channel, frequência mínima de 3200 MHz. Possuir 1 porta HDMI 1.4, 1 DisplayPo",
-          "fase": "FRACASSADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "753.766,50",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900830613 COMPUTADOR I5 8GB - SSD 480GB: PLACA-MÃE:: Compatibilidade para processadores lançados a partir de 2024. Suporte a memória DDR4 com capacidade máxima de 128 GB, Dual Channel, frequência mínima de 3200 MHz. Possuir 1 porta HDMI 1.4, 1 DisplayPort e 1 VGA; 1 slot PCIe x16 e 2 slots PCIe x1; 2 slots M.2, sendo M.2_1 PCIe 4.0 x4 (2280/2260/2242) e M.2_2 PCIe 4.0 x4/SATA (2280/2260/2242); 4 conectores SATA 6 Gb/s com suporte a RAID 0, 1, 5 e 10. Disponibilizar 4portas USB 2.0 traseiras, 4 portas USB 2.0 frontais, 1 USB 3.2 Gen1 Type-A traseira, 2 USB 3.2 Gen1 Type-A frontais e 1 USB3.2 Gen2 . Possuir rede Gigabit LAN, áudio onboard 7.1 canais e conectores internos ATX_PWR, CPU_PWR, CPU FAN, SYSTEM FAN, Front Panel, Front Audio, TPM 2.0, USB 2.0 e USB 3.2 Gen1. Compatível com Windows® 11 e Windows® 10 64 bits. Deverá acompanhar, no mínimo, 1 cabo SATA e 2 parafusos para slot M.2.PROCESSADOR: Processador Intel Core i5 de 14ª geração ou superior, arquitetura de 64 bits, modelo Box com sistema de refrigeração original do fabricante e vídeo gráfico integrado. Deverá possuir, no mínimo, 10 (dez) núcleos, 16 (dezesseis) threads, cache inteligente de 20 MB, frequência base mínima de 2,5 GHz e frequência máxima em modo Turbo de, no mínimo, 4,6 GHz, com suporte à utilização simultânea de, no mínimo, 4 (quatro) monitores. Produto novo, em linha de fabricação, compatível com a placa-mãe ofertada. MEMÓRIA RAM: Capacidade mínima de 8 GB em módulo único DDR4, não sendo aceitos dois módulos de 4 GB. Velocidade de 3200 MHz, latência CL16, dissipador de calor, padrãoPC4-25600 e tensão de operação de 1,35 V. ARMAZENAMENTO: SSD NVMe: Unidade de estado sólido (SSD) com capacidade mínima de 480 GB, interface M.2 NVMe PCI Express 4.0 x4, ou superior, fator de forma M.2 2280, memória 3D NAND TLC ou tecnologia superior. Deverá possuir velocidade sequencial mínima de 3.000 MB/s para leitura e 1.800 MB/s para gravação. Produto novo, em linha de fabricação, compatível com a placa-mãe ofertada. FONTE DE ALIMENTAÇÃO: Fonte de alimentação: Potência real de 350 Watts ou superior, certificação 80 Plus Bronze, PFC ativo, bivolt automático (115V-230V), certificação INMETRO, cooler de 14 cm e cabo de força de 1,80 m conforme padrão ABNT. Deverá possuir 1 conector 20+4 pinos, 2 conectores PCI Express 6+2pinos, 1 conector ATX 4+4 pinos, 2 conectores IDE e 6 conectores SATA. MTBF mínimo de 100.000 horas. GABINETE: Construído em chapa",
-              "unidade": "UND",
-              "quantidade": "150,00",
-              "valor_referencia": "5.025,11"
-            }
-          ]
-        },
-        {
-          "numero": "3",
-          "titulo": "9900830614 COMPUTADOR I5 16GB SSD 480GB:PLACA-MÃE: Compatibilidade para processadores lançados a partir de 2024. Suporte a memória DDR4 com capacidade máxima de 128 GB, Dual Channel, frequência mínima de 3200 MHz. Possuir 1 porta HDMI 1.4, 1 DisplayPort",
-          "fase": "JULGAMENTO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "467.514,75",
-          "vencedor": "COMERCIAL TOP MIX LTDA  - EPP",
-          "melhor_oferta": "667.500,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900830614 COMPUTADOR I5 16GB SSD 480GB:PLACA-MÃE: Compatibilidade para processadores lançados a partir de 2024. Suporte a memória DDR4 com capacidade máxima de 128 GB, Dual Channel, frequência mínima de 3200 MHz. Possuir 1 porta HDMI 1.4, 1 DisplayPort e 1 VGA; 1 slot PCIe x16 e 2 slots PCIe x1; 2 slots M.2, sendo M.2_1 PCIe 4.0 x4 (2280/2260/2242) e M.2_2 PCIe 4.0 x4/SATA (2280/2260/2242); 4 conectores SATA 6 Gb/s com suporte a RAID 0, 1, 5 e 10. Disponibilizar 4portas USB 2.0 traseiras, 4 portas USB 2.0 frontais, 1 USB 3.2 Gen1 Type-A traseira, 2 USB 3.2 Gen1 Type-A frontais e 1 USB3.2 Gen2. Possuir rede Gigabit LAN, áudio onboard 7.1 canais e conectores internos ATX_PWR, CPU_PWR, CPU FAN, SYSTEM FAN, Front Panel, Front Audio, TPM 2.0, USB 2.0 e USB 3.2 Gen1. Compatível com Windows® 11 e Windows® 10 64 bits. Deverá acompanhar, no mínimo, 1 cabo SATA e 2 parafusos para slot M.2. PROCESSADOR: Processador Intel Core i5 de 14ª geração ou superior, arquitetura de 64 bits, modelo Box com sistema de refrigeração original do fabricante e vídeo gráfico integrado. Deverá possuir, no mínimo, 10 (dez) núcleos, 16 (dezesseis) threads, cache inteligente de 20 MB, frequência base mínima de 2,5 GHz e frequência máxima em modo Turbo de, no mínimo, 4,6 GHz, com suporte à utilização simultânea de, no mínimo, 4 (quatro) monitores. Produto novo, em linha de fabricação, compatível com a placa-mãe ofertada. MEMÓRIA RAM: Capacidade mínima de 16 GB DDR4. Velocidade de 3200 MHz, latência CL16, dissipador de calor, padrão PC4-25600 e tensão de operação de 1,35 V. ARMAZENAMENTO: SSD NVMe: Unidade de estado sólido (SSD) com capacidade mínima de 480 GB, interface M.2 NVMe PCI Express 4.0 x4, ou superior, fator de forma M.2 2280, memória 3D NAND TLC ou tecnologia superior. Deverá possuir velocidade sequencial mínima de 3.000 MB/s para leitura e 1.800 MB/s para gravação. Produto novo, em linha de fabricação, compatível com a placa-mãe ofertada. FONTE DE ALIMENTAÇÃO: Potência real de 350 Watts ou superior, certificação 80 Plus Bronze, PFC ativo, bivolt automático(115V-230V), certificação INMETRO, cooler de 14 cm e cabo de força de 1,80 m conforme padrão ABNT. Deverá possuir 1 conector 20+4 pinos, 2 conectores PCI Express 6+2 pinos, 1 conector ATX 4+4 pinos, 2 conectores IDE e 6 conectores SATA. MTBF mínimo de 100.000 horas. GABINETE: Construído em chapa SPCC de 0,50 mm, compatível com placas-mãe Micro ATX e fontes ATX. Possuir later",
-              "unidade": "UND",
-              "quantidade": "75,00",
-              "valor_referencia": "6.233,53"
-            }
-          ]
-        },
-        {
-          "numero": "4",
-          "titulo": "37721 COMPUTADOR I7 16GB SSD 480GB   C/ PLACA DEVÍDEO:PLACA-MÃE: Compatível com processadores lançados a partir de 2024, soquete compatível com o processador ofertado e chipset da mesma geração ou superior. Suporte a memórias DDR4 ou superior Quad Channe",
-          "fase": "FRACASSADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "101.856,48",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37721 COMPUTADOR I7 16GB SSD 480GB C/ PLACA DEVÍDEO:PLACA-MÃE: Compatível com processadores lançados a partir de 2024, soquete compatível com o processador ofertado e chipset da mesma geração ou superior. Suporte a memórias DDR4 ou superior Quad Channel, capacidade mínima de 128 GB e frequência mínima de 3200 MHz. Possuir, no mínimo, 1 (um) slot PCI Express x16 4.0 ou superior, 2 (dois) slots M.2 NVMe PCI Express, 4 (quatro) portas SATA III 6 Gb/s, interface de rede Gigabit Ethernet integrada, áudio HD onboard, no mínimo 6 (seis) portas USB, sendo pelo menos 3 (três) USB 3.2, saídas de vídeo digitais compatíveis com o vídeo integrado do processador, conector TPM 2.0 e suporte ao sistema operacional Windows 11 64 bits. Deverá acompanhar os acessórios necessários para sua instalação. PROCESSADOR: i7 de 14ª geração ou superior, arquitetura de 64 bits, modelo Box com sistema de refrigeração original do fabricante e vídeo gráfico integrado. Deverá possuir, no mínimo, 10 (dez) núcleos, 16 (dezesseis) threads, cache inteligente de 20 MB, frequência base mínima de 2,5 GHz e frequência máxima em modo Turbo de, no mínimo, 4,9 GHz, com suporte à utilização simultânea de, no mínimo, 4 (quatro) monitores. Produto novo, em linha de fabricação, compatível com a placa-mãe ofertada. MEMÓRIA RAM: Capacidade mínima de 16 GB DDR4 ou superior. Velocidade de 3200 MHz, latência CL16, dissipador de calor, padrão PC4-25600 e tensão de operação de 1,35 V. ARMAZENAMENTO SSD NVMe: Unidade de estado sólido (SSD) com capacidade mínima de 480 GB, interface M.2 NVMe PCI Express 4.0 x4, ou superior, fator de forma M.2 2280, memória 3D NAND TLC ou tecnologia superior. Deverá possuir velocidade sequencial mínima de 3.000 MB/s para leitura e 1.800 MB/s para gravação. Produto novo, em linha de fabricação, compatível com a placa-mãe ofertada. FONTE DE ALIMENTAÇÃO Fonte de Alimentação: Potência real mínima de 600 W, certificação 80 Plus Bronze ou superior, PFC ativo e entrada bivolt automática (100-240 V, 50/60 Hz). Deverá possuir, no mínimo, 1 (um) conector ATX 20+4 pinos, 1 (um) conector EPS/ATX 4+4 pinos para alimentação do processador, 2 (dois) conectores PCI Express 6+2 pinos para alimentação de placa de vídeo e 4 (quatro) conectores SATA. Sistema de refrigeração ativo com ventoinha de 120 mm ou superior, proteções elétricas contra sobretensão (OVP), subtensão (UVP), sobrecorrente (OCP), sobrepotência (OPP), curto-circuito (SCP) e sobre",
-              "unidade": "UND",
-              "quantidade": "12,00",
-              "valor_referencia": "8.488,04"
-            }
-          ]
-        },
-        {
-          "numero": "5",
-          "titulo": "9900830615 COMPUTADOR I7 32GB SSD 480GB   C/ PLACADE VÍDEO:PLACA-MÃE: Compatível com processadores lançados a partir de 2024, soquete compatível com o processador ofertado e chipset da mesma geração ou superior. Suporte a memórias DDR4 ou superior Quad C",
-          "fase": "FRACASSADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "299.589,57",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900830615 COMPUTADOR I7 32GB SSD 480GB C/ PLACADE VÍDEO:PLACA-MÃE: Compatível com processadores lançados a partir de 2024, soquete compatível com o processador ofertado e chipset da mesma geração ou superior. Suporte a memórias DDR4 ou superior Quad Channel, capacidade mínima de 128 GB e frequência mínima de 3200 MHz. Possuir, no mínimo, 1 (um) slot PCI Express x16 4.0 ou superior, 2 (dois) slots M.2 NVMe PCI Express, 4 (quatro) portas SATA III 6 Gb/s, interface de rede Gigabit Ethernet integrada, áudio HD onboard, no mínimo 6 (seis) portas USB, sendo pelo menos 3 (três) USB 3.2, saídas de vídeo digitais compatíveis com o vídeo integrado do processador, conector TPM 2.0 e suporte ao sistema operacional Windows 11 64 bits. Deverá acompanhar os acessórios necessários para sua instalação.PROCESSADOR: i7 de 14ª geração ou superior, arquitetura de 64 bits, modelo Box com sistema de refrigeração original do fabricante e vídeo gráfico integrado. Deverá possuir, no mínimo, 10 (dez) núcleos, 16 (dezesseis) threads, cache inteligente de 20 MB, frequência base mínima de 2,5 GHz e frequência máxima em modo Turbo de, no mínimo, 4,9 GHz, com suporte à utilização simultânea de, no mínimo, 4 (quatro) monitores.Produto novo, em linha de fabricação, compatível com a placa- mãe ofertada. MEMÓRIA RAM: Capacidade mínima de 32 GB DDR4 ou superior. Velocidade de 3200 MHz, latência CL16, dissipador de calor, padrão PC4-25600 e tensão de operação de 1,35 V. ARMAZENAMENTO: SSD NVMe: Unidade de estado sólido (SSD) com capacidade mínima de 480 GB, interface M.2 NVMe PCI Express 4.0 x4, ou superior, fator de forma M.2 2280, memória 3D NAND TLC ou tecnologia superior. Deverá possuir velocidade sequencial mínima de 3.000 MB/s para leitura e 1.800 MB/s para gravação. Produto novo, em linha de fabricação, compatível com a placa-mãe ofertada. FONTE DE ALIMENTAÇÃO: Potência real mínima de 600 W, certificação 80 Plus Bronze ou superior, PFC ativo e entrada bivolt automática (100-240 V, 50/60 Hz). Deverá possuir, no mínimo, 1 (um) conector ATX 20+4 pinos, 1 (um) conector EPS/ATX 4+4 pinos para alimentação do processador, 2 (dois) conectores PCI Express 6+2 pinos para alimentação de placa de vídeo e 4 (quatro) conectores SATA. Sistema de refrigeração ativo com ventoinha de 120 mm ou superior, proteções elétricas contra sobretensão (OVP), subtensão (UVP), sobrecorrente (OCP), sobrepotência (OPP), curto-circuito (SCP) e sobretemperatura (OT",
-              "unidade": "UND",
-              "quantidade": "27,00",
-              "valor_referencia": "11.095,91"
-            }
-          ]
-        },
-        {
-          "numero": "6",
-          "titulo": "9900830616 NOTEBOOK DE ALTODESEMPENHO:Processador de arquitetura x86-64, equivalente ou superior ao Intel Core i7, Intel Core Ultra 7 ou AMD Ryzen 7, para notebooks, com desempenho mínimo de 21.000 (vinte e um mil) pontos no índice PassMark CPU Mark (htt",
-          "fase": "JULGAMENTO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "131.007,00",
-          "vencedor": "R.V. DE S. NOVAIS LTDA.",
-          "melhor_oferta": "94.992,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900830616 NOTEBOOK DE ALTODESEMPENHO:Processador de arquitetura x86-64, equivalente ou superior ao Intel Core i7, Intel Core Ultra 7 ou AMD Ryzen 7, para notebooks, com desempenho mínimo de 21.000 (vinte e um mil) pontos no índice PassMark CPU Mark (https://www.cpubenchmark.net/laptop.html), exceto processadores das linhas Intel Core i5 e AMD Ryzen 5. Sistema Operacional: Microsoft Windows 11 Home ou Professional, 64 bits, em Português (Brasil), instalado e licenciado. Placa de Vídeo: GPU dedicada para notebook equivalente ou superior à NVIDIA GeForce RTX 4050 Laptop GPU, com memória dedicada mínima de 6 GB GDDR6. Memória RAM: Capacidade mínima de 16 GB DDR5. Armazenamento: Unidade de estado sólido (SSD) com capacidade mínima de 512 GB, interface NVMe PCI Express e padrão M.2. Tela: Resolução mínima WUXGA (1920 x 1200), acabamento antirreflexo, brilho mínimo de 300 nits, taxa de atualização mínima de 165 Hz e cobertura de cores mínima de 100% sRGB. Conectividade: Wi-Fi 6 (IEEE 802.11ax) ou superior e Bluetooth 5.1 ou superior. Portas: No mínimo, 1 (uma) porta USB 3.2 Type-C, 2 (duas) portas USB 3.2 Type-A, 1 (uma) porta HDMI 2.1 ou superior, 1 (uma) porta RJ-45 e 1 (um) conector combinado para fone de ouvido e microfone (P2).Garantia: Garantia mínima de 24 meses, contados a partir do recebimento definitivo do equipamento. Especificação Geral: Serão aceitos equipamentos com características técnicas iguais ou superiores às especificadas. Modelos de Referência: Alienware 16 Aurora, Acer Nitro V16, ASUS TUF Gaming F16, Lenovo Legion 5 ou modelos equivalentes de desempenho igual ou superior.",
-              "unidade": "UND",
-              "quantidade": "12,00",
-              "valor_referencia": "10.917,25"
-            }
-          ]
-        },
-        {
-          "numero": "7",
-          "titulo": "37723 NOTEBOOK DE DESEMPENHOINTERMEDIÁRIO:Processador de arquitetura x86-64, equivalente ou superior ao Intel Core 5 120U, Intel Core Ultra 5, Intel Core de 13ª geração ou AMD Ryzen 5 Série 7000, com vídeo gráfico integrado. Sistema Operacional: Microsof",
-          "fase": "JULGAMENTO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "676.983,00",
-          "vencedor": "R.V. DE S. NOVAIS LTDA.",
-          "melhor_oferta": "559.999,75",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37723 NOTEBOOK DE DESEMPENHOINTERMEDIÁRIO:Processador de arquitetura x86-64, equivalente ou superior ao Intel Core 5 120U, Intel Core Ultra 5, Intel Core de 13ª geração ou AMD Ryzen 5 Série 7000, com vídeo gráfico integrado. Sistema Operacional: Microsoft Windows 11 Home ou Professional, 64 bits, em Português (Brasil). Placa de Vídeo: Controladora gráfica integrada ao processador.Memória RAM: Capacidade mínima de 16 GB DDR4 ou tecnologia superior. Armazenamento: Unidade de estado sólido (SSD) com capacidade mínima de 512 GB, interface NVMe PCI Express e padrão M.2. Tela: Resolução mínima Full HD (1920 x 1080), acabamento antirreflexo, brilho mínimo de 250 nits, taxa de atualização mínima de 120 Hz. Conectividade: Wi-Fi 6 (IEEE 802.11ax) ou superior e Bluetooth 5.1 ou superior. Portas: No mínimo, 1 (uma) porta USB 3.2 Type-C, 2 (duas) portas USB 3.2 Type-A, 1 (uma) porta HDMI 2.1 ou superior e 1 (um) conector combinado para fone de ouvido e microfone (P2). Garantia: Garantia mínima de 24 meses, contados a partir do recebimento definitivo do equipamento. Especificação Geral: Serão aceitos equipamentos com características técnicas iguais ou superiores às especificadas. Modelo de Referência: Notebook Dell Pro 15 Essential ou de equivalência técnica e de desempenho igual ou superior.",
-              "unidade": "UND",
-              "quantidade": "113,00",
-              "valor_referencia": "5.991,00"
-            }
-          ]
-        },
-        {
-          "numero": "8",
-          "titulo": "9900830617 NOTEBOOK DE DESEMPENHO BÁSICO::Processador de arquitetura x86-64, equivalente ou superior ao Intel Core i3 de 13ª geração ou AMD Ryzen 5 Série 7000, com vídeo gráfico integrado. Deverá possuir, no mínimo, 6 (seis) núcleos, 8 (oito) threads, 10",
-          "fase": "JULGAMENTO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "81.397,23",
-          "vencedor": "R.V. DE S. NOVAIS LTDA.",
-          "melhor_oferta": "81.397,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900830617 NOTEBOOK DE DESEMPENHO BÁSICO::Processador de arquitetura x86-64, equivalente ou superior ao Intel Core i3 de 13ª geração ou AMD Ryzen 5 Série 7000, com vídeo gráfico integrado. Deverá possuir, no mínimo, 6 (seis) núcleos, 8 (oito) threads, 10 MB de memória cache e frequência Turbo mínima de 4,4 GHz. Memória RAM: Capacidade mínima de 8 GB DDR4 ou DDR5, expansível para, no mínimo, 32 GB. Armazenamento: SSD com capacidade mínima de 512 GB, interface NVMe PCI Express e padrão M.2. Tela de, no mínimo, 15,6 polegadas, tecnologia IPS ou superior, resolução mínima Full HD (1920 x 1080) e acabamento antirreflexo. Vídeo: Controladora gráfica integrada ao processador, com suporte à resolução 4K. Conectividade: Wi-Fi 6 (IEEE 802.11ax) ou superior e Bluetooth 5.2 ou superior. Portas: No mínimo, 3 (três) portas USB, sendo 2 (duas) USB 3.2, 1 (uma) USB Type-C, 1 (uma) saída HDMI e 1 (uma) entrada de áudio combinada (P2). Bateria: Bateria interna recarregável com autonomia mínima de 8 (oito) horas, conforme especificação do fabricante. Teclado: Padrão ABNT2, com teclado numérico integrado e resistência a respingos de líquidos. Webcam: Webcam integrada com resolução mínima Full HD (1080p), microfone digital e alto- falantes estéreo. Sistema Operacional: Microsoft Windows 11 Professional 64 bits OEM, em português (Brasil). Acessórios: Fonte de alimentação bivolt automática (100-240 V) e cabo de alimentação. Garantia mínima de 24 meses. Certificações: Certificação INMETRO, e atendimento às normas nacionais e internacionais de qualidade e segurança. Especificação Geral: Serão aceitos equipamentos com características técnicas iguais ou superiores às especificadas.",
-              "unidade": "UND",
-              "quantidade": "23,00",
-              "valor_referencia": "3.539,01"
-            }
-          ]
-        },
-        {
-          "numero": "9",
-          "titulo": "9909911356 COMPUTADOR I3 16GB - SSD 480GB:PLACA-MÃE::Compatibilidade para processadores lançados a partir de 2024. Suporte a memória DDR4 com capacidade máxima de 128 GB, Dual Channel, frequência mínima de 3200 MHz. Possuir 1porta HDMI 1.4, 1 DisplayPor",
-          "fase": "FRACASSADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "214.996,50",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9909911356 COMPUTADOR I3 16GB - SSD 480GB:PLACA-MÃE::Compatibilidade para processadores lançados a partir de 2024. Suporte a memória DDR4 com capacidade máxima de 128 GB, Dual Channel, frequência mínima de 3200 MHz. Possuir 1porta HDMI 1.4, 1 DisplayPort e 1 VGA; 1 slot PCIe x16 e 2 slots PCIe x1; 2 slots M.2, sendo M.2_1 PCIe 4.0 x4 (2280/2260/2242) e M.2_2 PCIe 4.0 x4/SATA (2280/2260/2242); 4 conectores SATA 6 Gb/s com suporte a RAID 0, 1, 5 e 10. Disponibilizar 4portas USB 2.0 traseiras, 4 portas USB 2.0 frontais, 1 USB 3.2 Gen1 Type-A traseira, 2 USB 3.2 Gen1 Type-A frontais e 1 USB3.2 Gen2 . Possuir rede Gigabit LAN, áudio onboard 7.1 canais econectores internos ATX_PWR, CPU_PWR, CPU FAN, SYSTEM FAN, Front Panel, Front Audio, TPM 2.0, USB 2.0 e USB 3.2 Gen1. Compatível com Windows® 11 e Windows® 1064 bits. Deverá acompanhar, no mínimo, 1 cabo SATA e 2parafusos para slot M.2. PROCESSADOR: Intel Core i3 de 14ª geração, Modelo Box com cooler original do fabricante, arquitetura de 64 bits, lançado a partir de 2024, frequência mínima de 3,40 GHz, vídeo integrado e suporte para até 4 monitores. Deverá possuir, no mínimo, 4 núcleos e 8 threads, cache L1 de 4 x 48 KB, cache L2 de 4 x 1280 KB e cache L3 de 12 MB. MEMÓRIA RAM: Capacidade mínima de 16 GB DDR4. Velocidade de 3200 MHz, latência CL16, dissipador de calor, padrão PC4-25600 e tensão de operação de 1,35 V. ARMAZENAMENTO SSD NVMe: Unidade de estado sólido(SSD) com capacidade mínima de 480 GB, interface M.2 NVMe PCI Express 4.0 x4, ou superior, fator de forma M.2 2280, memória 3D NAND TLC ou tecnologia superior. Deverá possuir velocidade sequencial mínima de 3.000 MB/s para leitura e 1.800MB/s para gravação. Produto novo, em linha de fabricação, compatível com a placa-mãe ofertada. FONTE DEALIMENTAÇÃO: Potência real de 350 Watts ou superior, certificação 80 Plus Bronze, PFC ativo, bivolt automático(115V-230V), certificação INMETRO, cooler de 14 cm e cabo de força de 1,80 m conforme padrão ABNT. Deverá possuir 1 conector 20+4 pinos, 2 conectores PCI Express 6+2 pinos, 1conector ATX 4+4 pinos, 2 conectores IDE e 6 conectores SATA. MTBF mínimo de 100.000 horas. GABINETE: Construído emchapa SPCC de 0,50 mm, compatível com placas-mãe Micro ATX e fontes ATX. Possuir lateral em acrílico ou metal, 1 baia ODD, 2 baias HDD e 2 baias SSD. Disponibilizar na parte frontal2 portas USB 2.0, 1 porta USB 3.0, 1 entrada para microfone e 1entrada para áudio.",
-              "unidade": "Und.",
-              "quantidade": "50,00",
-              "valor_referencia": "4.299,93"
-            }
-          ]
-        },
-        {
-          "numero": "10",
-          "titulo": "9909911357 COMPUTADOR I5 8GB - SSD 480GB: PLACA-MÃE:::Compatibilidade para processadores lançados a partir de 2024. Suporte a memória DDR4 com capacidade máxima de 128 GB, Dual Channel, frequência mínima de 3200 MHz. Possuir 1porta HDMI 1.4, 1 DisplayPo",
-          "fase": "INTERPOSIÇÃO DE RECURSOS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "251.255,50",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9909911357 COMPUTADOR I5 8GB - SSD 480GB: PLACA-MÃE:::Compatibilidade para processadores lançados a partir de 2024. Suporte a memória DDR4 com capacidade máxima de 128 GB, Dual Channel, frequência mínima de 3200 MHz. Possuir 1porta HDMI 1.4, 1 DisplayPort e 1 VGA; 1 slot PCIe x16 e 2 slots PCIe x1; 2 slots M.2, sendo M.2_1 PCIe 4.0 x4 (2280/2260/2242) e M.2_2 PCIe 4.0 x4/SATA (2280/2260/2242); 4 conectores SATA 6 Gb/s com suporte a RAID 0, 1, 5 e 10. Disponibilizar 4portas USB 2.0 traseiras, 4 portas USB 2.0 frontais, 1 USB 3.2 Gen1 Type-A traseira, 2 USB 3.2 Gen1 Type-A frontais e 1 USB3.2 Gen2 . Possuir rede Gigabit LAN, áudio onboard 7.1 canais econectores internos ATX_PWR, CPU_PWR, CPU FAN, SYSTEM FAN, Front Panel, Front Audio, TPM 2.0, USB 2.0 e USB 3.2 Gen1. Compatível com Windows® 11 e Windows® 1064 bits. Deverá acompanhar, no mínimo, 1 cabo SATA e 2 parafusos para slot M.2.PROCESSADOR: Processador IntelCore i5 de 14ª geração ou superior, arquitetura de 64 bits, modelo Box com sistema de refrigeração original do fabricante evídeo gráfico integrado. Deverá possuir, no mínimo, 10 (dez) núcleos, 16 (dezesseis) threads, cache inteligente de 20 MB,frequência base mínima de 2,5 GHz e frequência máxima em modo Turbo de, no mínimo, 4,6 GHz, com suporte à utilizaçãosimultânea de, no mínimo, 4 (quatro) monitores. Produto novo, em linha de fabricação, compatível com a placa-mãe ofertada. MEMÓRIA RAM: Capacidade mínima de 8 GB em módulo único DDR4, não sendo aceitos dois módulos de 4 GB. Velocidade de3200 MHz, latência CL16, dissipador de calor, padrão PC4-25600 e tensão de operação de 1,35 V.ARMAZENAMENTO: SSD NVMe: Unidade de estado sólido(SSD) com capacidade mínima de 480 GB, interface M.2 NVMe PCI Express 4.0 x4, ou superior, fator de forma M.2 2280, memória 3D NAND TLC ou tecnologia superior. Deverá possuir velocidade sequencial mínima de 3.000 MB/s para leitura e 1.800MB/s para gravação. Produto novo, em linha de fabricação, compatível com a placa-mãe ofertada. FONTE DEALIMENTAÇÃO: Fonte de alimentação: Potência real de 350Watts ou superior, certificação 80 Plus Bronze, PFC ativo, bivolt automático (115V-230V), certificação INMETRO, cooler de 14 cme cabo de força de 1,80 m conforme padrão ABNT. Deverá possuir 1 conector 20+4 pinos, 2 conectores PCI Express 6+2pinos, 1 conector ATX 4+4 pinos, 2 conectores IDE e 6conectores SATA. MTBF mínimo de 100.000 horas. GABINETE: Construído em chapa",
-              "unidade": "Und.",
-              "quantidade": "50,00",
-              "valor_referencia": "5.025,11"
-            }
-          ]
-        },
-        {
-          "numero": "11",
-          "titulo": "9909911358 COMPUTADOR I5 16GB SSD 480GB::PLACA-MÃE: Compatibilidade para processadores lançados a partir de 2024. Suporte a memória DDR4 com capacidade máxima de 128 GB, Dual Channel, frequência mínima de 3200 MHz. Possuir 1porta HDMI 1.4, 1 DisplayPort",
-          "fase": "JULGAMENTO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "155.838,25",
-          "vencedor": "COSTA COMERCIO DE MAQUINAS E EQUIPAMENTOS LTDA",
-          "melhor_oferta": "210.375,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9909911358 COMPUTADOR I5 16GB SSD 480GB::PLACA-MÃE: Compatibilidade para processadores lançados a partir de 2024. Suporte a memória DDR4 com capacidade máxima de 128 GB, Dual Channel, frequência mínima de 3200 MHz. Possuir 1porta HDMI 1.4, 1 DisplayPort e 1 VGA; 1 slot PCIe x16 e 2 slots PCIe x1; 2 slots M.2, sendo M.2_1 PCIe 4.0 x4 (2280/2260/2242) e M.2_2 PCIe 4.0 x4/SATA (2280/2260/2242); 4 conectores SATA 6 Gb/s com suporte a RAID 0, 1, 5 e 10. Disponibilizar 4portas USB 2.0 traseiras, 4 portas USB 2.0 frontais, 1 USB 3.2 Gen1 Type-A traseira, 2 USB 3.2 Gen1 Type-A frontais e 1 USB3.2 Gen2. Possuir rede Gigabit LAN, áudio onboard 7.1 canais econectores internos ATX_PWR, CPU_PWR, CPU FAN, SYSTEM FAN, Front Panel, Front Audio, TPM 2.0, USB 2.0 e USB 3.2 Gen1. Compatível com Windows® 11 e Windows® 1064 bits. Deverá acompanhar, no mínimo, 1 cabo SATA e 2 parafusos para slot M.2. PROCESSADOR: Processador IntelCore i5 de 14ª geração ou superior, arquitetura de 64 bits, modelo Box com sistema de refrigeração original do fabricante evídeo gráfico integrado. Deverá possuir, no mínimo, 10 (dez) núcleos, 16 (dezesseis) threads, cache inteligente de 20 MB,frequência base mínima de 2,5 GHz e frequência máxima em modo Turbo de, no mínimo, 4,6 GHz, com suporte à utilizaçãosimultânea de, no mínimo, 4 (quatro) monitores. Produto novo, em linha de fabricação, compatível com a placa-mãe ofertada. MEMÓRIA RAM: Capacidade mínima de 16 GB DDR4. Velocidade de 3200 MHz, latência CL16, dissipador de calor, padrão PC4-25600 e tensão de operação de 1,35 V. ARMAZENAMENTO: SSD NVMe: Unidade de estado sólido(SSD) com capacidade mínima de 480 GB, interface M.2 NVMe PCI Express 4.0 x4, ou superior, fator de forma M.2 2280, memória 3D NAND TLC ou tecnologia superior. Deverá possuir velocidade sequencial mínima de 3.000 MB/s para leitura e 1.800MB/s para gravação. Produto novo, em linha de fabricação, compatível com a placa-mãe ofertada. FONTE DEALIMENTAÇÃO: Potência real de 350 Watts ou superior, certificação 80 Plus Bronze, PFC ativo, bivolt automático(115V-230V), certificação INMETRO, cooler de 14 cm e cabo de força de 1,80 m conforme padrão ABNT. Deverá possuir 1 conector 20+4 pinos, 2 conectores PCI Express 6+2 pinos, 1conector ATX 4+4 pinos, 2 conectores IDE e 6 conectores SATA. MTBF mínimo de 100.000 horas. GABINETE: Construído emchapa SPCC de 0,50 mm, compatível com placas-mãe Micro ATX e fontes ATX. Possuir lat",
-              "unidade": "Und.",
-              "quantidade": "25,00",
-              "valor_referencia": "6.233,53"
-            }
-          ]
-        },
-        {
-          "numero": "12",
-          "titulo": "9909911359 COMPUTADOR I7 16GB SSD 480GB C/ PLACADE VÍDEO:PLACA-MÃE::Compatível com processadores lançados apartir de 2024, soquete compatível com o processador ofertado echipset da mesma geração ou superior. Suporte a memórias DDR4 ou superior Quad Cha",
-          "fase": "FRACASSADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "25.464,12",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9909911359 COMPUTADOR I7 16GB SSD 480GB C/ PLACADE VÍDEO:PLACA-MÃE::Compatível com processadores lançados apartir de 2024, soquete compatível com o processador ofertado echipset da mesma geração ou superior. Suporte a memórias DDR4 ou superior Quad Channel, capacidade mínima de 128 GBe frequência mínima de 3200 MHz. Possuir, no mínimo, 1 (um) slot PCI Express x16 4.0 ou superior, 2 (dois) slots M.2 NVMe PCI Express, 4 (quatro) portas SATA III 6 Gb/s, interface de rede Gigabit Ethernet integrada, áudio HD onboard, no mínimo 6(seis) portas USB, sendo pelo menos 3 (três) USB 3.2, saídas devídeo digitais compatíveis com o vídeo integrado do processador, conector TPM 2.0 e suporte ao sistema operacional Windows 1164 bits. Deverá acompanhar os acessórios necessários para suainstalação. PROCESSADOR: i7 de 14ª geração ou superior, arquitetura de 64 bits, modelo Box com sistema de refrigeraçãooriginal do fabricante e vídeo gráfico integrado. Deverá possuir, no mínimo, 10 (dez) núcleos, 16 (dezesseis) threads, cacheinteligente de 20 MB, frequência base mínima de 2,5 GHz e frequência máxima em modo Turbo de, no mínimo, 4,9 GHz, comsuporte à utilização simultânea de, no mínimo, 4 (quatro) monitores. Produto novo, em linha de fabricação, compatível coma placa-mãe ofertada. MEMÓRIA RAM: Capacidade mínima de16 GB DDR4 ou superior. Velocidade de 3200 MHz, latência CL16, dissipador de calor, padrão PC4-25600 e tensão deoperação de 1,35 V. ARMAZENAMENTO SSD NVMe: Unidade de estado sólido (SSD) com capacidade mínima de 480 GB, interface M.2 NVMe PCI Express 4.0 x4, ou superior, fator deforma M.2 2280, memória 3D NAND TLC ou tecnologia superior. Deverá possuir velocidade sequencial mínima de 3.000 MB/s para leitura e 1.800 MB/s para gravação. Produto novo, em linhade fabricação, compatível com a placa-mãe ofertada. FONTE DE ALIMENTAÇÃO Fonte de Alimentação: Potência real mínima de 600 W, certificação 80 Plus Bronze ou superior, PFC ativo eentrada bivolt automática (100-240 V, 50/60 Hz). Deverá possuir, no mínimo, 1 (um) conector ATX 20+4 pinos, 1 (um) conector EPS/ATX 4+4 pinos para alimentação do processador, 2 (dois) conectores PCI Express 6+2 pinos para alimentação de placa devídeo e 4 (quatro) conectores SATA. Sistema de refrigeração ativo com ventoinha de 120 mm ou superior, proteções elétricas contra sobretensão (OVP), subtensão (UVP), sobrecorrente (OCP), sobrepotência (OPP), curto-circuito (SCP) e sob",
-              "unidade": "Und.",
-              "quantidade": "3,00",
-              "valor_referencia": "8.488,04"
-            }
-          ]
-        },
-        {
-          "numero": "13",
-          "titulo": "9909911360 COMPUTADOR I7 32GB SSD 480GB C/ PLACA DE VÍDEO:PLACA-MÃE::Compatível com processadores lançados a partir de 2024, soquete compatível com o processador ofertado e chipset da mesma geração ou superior. Suporte a memórias DDR4 ou superior Quad Cha",
-          "fase": "FRACASSADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "88.767,28",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9909911360 COMPUTADOR I7 32GB SSD 480GB C/ PLACA DE VÍDEO:PLACA-MÃE::Compatível com processadores lançados a partir de 2024, soquete compatível com o processador ofertado e chipset da mesma geração ou superior. Suporte a memórias DDR4 ou superior Quad Channel, capacidade mínima de 128 GB e frequência mínima de 3200MHz. Possuir, no mínimo, 1 (um) slot PCI Express x16 4.0 ousuperior, 2 (dois) slots M.2 NVMe PCI Express, 4 (quatro) portas SATA III 6 Gb/s, interface de rede Gigabit Ethernet integrada, áudio HD onboard, no mínimo 6 (seis) portas USB, sendo pelo menos 3 (três) USB 3.2, saídas de vídeo digitais compatíveiscom o vídeo integrado do processador, conector TPM 2.0 e suporte ao sistema operacional Windows 11 64 bits. Deveráacompanhar os acessórios necessários para sua instalação. PROCESSADOR: i7 de 14ª geração ou superior, arquitetura de64 bits, modelo Box com sistema de refrigeração original dofabricante e vídeo gráfico integrado. Deverá possuir, no mínimo, 10 (dez) núcleos, 16 (dezesseis) threads, cache inteligente de 20MB, frequência base mínima de 2,5 GHz e frequência máxima em modo Turbo de, no mínimo, 4,9 GHz, com suporte à utilização simultânea de, no mínimo, 4 (quatro) monitores.Produto novo, em linha de fabricação, compatível com a placa- mãe ofertada. MEMÓRIA RAM: Capacidade mínima de 32 GBDDR4 ou superior. Velocidade de 3200 MHz, latência CL16, dissipador de calor, padrão PC4-25600 e tensão de operação de1,35 V. ARMAZENAMENTO: SSD NVMe: Unidade de estado sólido (SSD) com capacidade mínima de 480 GB, interface M.2NVMe PCI Express 4.0 x4, ou superior, fator de forma M.2 2280, memória 3D NAND TLC ou tecnologia superior. Deverá possuir velocidade sequencial mínima de 3.000 MB/s para leitura e 1.800MB/s para gravação. Produto novo, em linha de fabricação, compatível com a placa-mãe ofertada. FONTE DEALIMENTAÇÃO: Potência real mínima de 600 W, certificação 80 Plus Bronze ou superior, PFC ativo e entrada bivolt automática(100-240 V, 50/60 Hz). Deverá possuir, no mínimo, 1 (um) conector ATX 20+4 pinos, 1 (um) conector EPS/ATX 4+4 pinos para alimentação do processador, 2 (dois) conectores PCIExpress 6+2 pinos para alimentação de placa de vídeo e 4 (quatro) conectores SATA. Sistema de refrigeração ativo com ventoinha de 120 mm ou superior, proteções elétricas contrasobretensão (OVP), subtensão (UVP), sobrecorrente (OCP), sobrepotência (OPP), curto-circuito (SCP) e sobretemperatura(OTP)",
-              "unidade": "Und.",
-              "quantidade": "8,00",
-              "valor_referencia": "11.095,91"
-            }
-          ]
-        },
-        {
-          "numero": "14",
-          "titulo": "9909911369 NOTEBOOK DE ALTODESEMPENHO:Processador de arquitetura x86-64,:equivalenteou superior ao Intel Core i7, Intel Core Ultra 7 ou AMD Ryzen 7, para notebooks, com desempenho mínimo de 21.000 (vinte e ummil) pontos no índice PassMark CPU Mark (htt",
-          "fase": "JULGAMENTO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "32.751,75",
-          "vencedor": "R.V. DE S. NOVAIS LTDA.",
-          "melhor_oferta": "23.748,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9909911369 NOTEBOOK DE ALTODESEMPENHO:Processador de arquitetura x86-64,:equivalenteou superior ao Intel Core i7, Intel Core Ultra 7 ou AMD Ryzen 7, para notebooks, com desempenho mínimo de 21.000 (vinte e ummil) pontos no índice PassMark CPU Mark (https://www.cpubenchmark.net/laptop.html), excetoprocessadores das linhas Intel Core i5 e AMD Ryzen 5. Sistema Operacional: Microsoft Windows 11 Home ou Professional, 64bits, em Português (Brasil), instalado e licenciado. Placa de Vídeo: GPU dedicada para notebook equivalente ou superior àNVIDIA GeForce RTX 4050 Laptop GPU, com memória dedicada mínima de 6 GB GDDR6. Memória RAM: Capacidade mínima de16 GB DDR5. Armazenamento: Unidade de estado sólido (SSD) com capacidade mínima de 512 GB, interface NVMe PCIExpress e padrão M.2. Tela: Resolução mínima WUXGA (1920 x 1200), acabamento antirreflexo, brilho mínimo de 300 nits, taxade atualização mínima de 165 Hz e cobertura de cores mínima de 100% sRGB. Conectividade: Wi-Fi 6 (IEEE 802.11ax) ou superior e Bluetooth 5.1 ou superior. Portas: No mínimo, 1 (uma) porta USB 3.2 Type-C, 2 (duas) portas USB 3.2 Type-A, 1 (uma)porta HDMI 2.1 ou superior, 1 (uma) porta RJ-45 e 1 (um) conector combinado para fone de ouvido e microfone (P2). Garantia: Garantia mínima de 24 meses, contados a partir dorecebimento definitivo do equipamento. Especificação Geral: Serão aceitos equipamentos com características técnicas iguais ou superiores às especificadas. Modelos de Referência: Alienware 16 Aurora, Acer Nitro V16, ASUS TUF Gaming F16, Lenovo Legion 5 ou modelos equivalentes de desempenho igual ou superior. COTA 25% PARA ME/EPP.",
-              "unidade": "Und.",
-              "quantidade": "3,00",
-              "valor_referencia": "10.917,25"
-            }
-          ]
-        },
-        {
-          "numero": "15",
-          "titulo": "37808 NOTEBOOK DE DESEMPENHOINTERMEDIÁRIO:Processador de arquiteturax86-64,:equivalente ou superior ao Intel Core 5 120U, Intel Core Ultra 5,Intel Core de 13ª geração ou AMD Ryzen 5 Série 7000, comvídeo gráfico integrado. Sistema Operacional: Microsof",
-          "fase": "JULGAMENTO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "221.667,00",
-          "vencedor": "R.V. DE S. NOVAIS LTDA.",
-          "melhor_oferta": "183.362,75",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37808 NOTEBOOK DE DESEMPENHOINTERMEDIÁRIO:Processador de arquiteturax86-64,:equivalente ou superior ao Intel Core 5 120U, Intel Core Ultra 5,Intel Core de 13ª geração ou AMD Ryzen 5 Série 7000, comvídeo gráfico integrado. Sistema Operacional: Microsoft Windows 11 Home ou Professional, 64 bits, em Português (Brasil). Placade Vídeo: Controladora gráfica integrada ao processador. Memória RAM: Capacidade mínima de 16 GB DDR4 outecnologia superior. Armazenamento: Unidade de estado sólido (SSD) com capacidade mínima de 512 GB, interface NVMe PCIExpress e padrão M.2. Tela: Resolução mínima Full HD (1920 x 1080), acabamento antirreflexo, brilho mínimo de 250 nits, taxade atualização mínima de 120 Hz. Conectividade: Wi-Fi 6 (IEEE802.11ax) ou superior e Bluetooth 5.1 ou superior. Portas: No mínimo, 1 (uma) porta USB 3.2 Type-C, 2 (duas) portas USB 3.2Type-A, 1 (uma) porta HDMI 2.1 ou superior e 1 (um) conector combinado para fone de ouvido e microfone (P2). Garantia: Garantia mínima de 24 meses, contados a partir do recebimentodefinitivo do equipamento. Especificação Geral: Serão aceitos equipamentos com características técnicas iguais ou superiores às especificadas. Modelo de Referência: Notebook Dell Pro 15Essential ou de equivalência técnica e de desempenho igual ou superior. COTA 25% PARA ME/EPP.",
-              "unidade": "Und.",
-              "quantidade": "37,00",
-              "valor_referencia": "5.991,00"
-            }
-          ]
-        },
-        {
-          "numero": "16",
-          "titulo": "37809 NOTEBOOK DE DESEMPENHO BÁSICO:: Processadorde arquitetura x86-64,:equivalente ou superior aoIntel Core i3 de 13ª geração ou AMD Ryzen 5 Série 7000, comvídeo gráfico integrado. Deverá possuir, no mínimo, 6 (seis) núcleos, 8 (oito) threads, 10 MB d",
-          "fase": "JULGAMENTO DE RECURSOS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "24.773,07",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37809 NOTEBOOK DE DESEMPENHO BÁSICO:: Processadorde arquitetura x86-64,:equivalente ou superior aoIntel Core i3 de 13ª geração ou AMD Ryzen 5 Série 7000, comvídeo gráfico integrado. Deverá possuir, no mínimo, 6 (seis) núcleos, 8 (oito) threads, 10 MB de memória cache e frequência Turbo mínima de 4,4 GHz. Memória RAM: Capacidade mínimade 8 GB DDR4 ou DDR5, expansível para, no mínimo, 32 GB. Armazenamento: SSD com capacidade mínima de 512 GB,interface NVMe PCI Express e padrão M.2. Tela de, no mínimo, 15,6 polegadas, tecnologia IPS ou superior, resolução mínima Full HD (1920 x 1080) e acabamento antirreflexo. Vídeo: Controladora gráfica integrada ao processador, com suporte àresolução 4K. Conectividade: Wi-Fi 6 (IEEE 802.11ax) ou superior e Bluetooth 5.2 ou superior. Portas: No mínimo, 3 (três)portas USB, sendo 2 (duas) USB 3.2, 1 (uma) USB Type-C, 1(uma) saída HDMI e 1 (uma) entrada de áudio combinada (P2). Bateria: Bateria interna recarregável com autonomia mínima de 8(oito) horas, conforme especificação do fabricante. Teclado: Padrão ABNT2, com teclado numérico integrado e resistência arespingos de líquidos. Webcam: Webcam integrada comresolução mínima Full HD (1080p), microfone digital e altofalantes estéreo. Sistema Operacional: Microsoft Windows 11Professional 64 bits OEM, em português (Brasil). Acessórios: Fonte de alimentação bivolt automática (100-240 V) e cabo dealimentação. Garantia mínima de 24 meses. Certificações: Certificação INMETRO, e atendimento às normas nacionais einternacionais de qualidade e segurança. Especificação Geral: Serão aceitos equipamentos com características técnicas iguais ou superiores às especificadas. COTA 25% PARA ME/EPP.",
-              "unidade": "Und.",
-              "quantidade": "7,00",
-              "valor_referencia": "3.539,01"
             }
           ]
         }
@@ -303652,50 +303036,6 @@
       ]
     },
     {
-      "id": "3-DLE-095-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "824/2026",
-      "modalidade": "DISPENSA ELETRÔNICA",
-      "situacao": "JULGAMENTO",
-      "condutor": "ISLA LIMA SILVA",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO PARCELADA",
-      "publicacao": "03/09/2026 13:54",
-      "inicio_recepcao": "09/09/2026 13:30",
-      "fim_recepcao": "15/09/2026 08:15",
-      "inicio_disputa": "15/09/2026 08:30",
-      "objeto": "Contratação de empresa especializada em fornecimento de [CANABIDIOL PARA ATENDER DEMANDA JUDICIAL] (material de consumo), a fim de atender as necessidades da Secretaria Municipal de Saúde",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DhS10DDp38pWqBq8JCLB%2FKQjqp2Yf7wbzjCkfhd3wlIKnkFWjSqvIjjuAwaWZWiJQCyGJ6c_VyvP90XJEhrojU_Dx6dLwCFUGoNPIiJuqpEM%3D",
-      "total_lotes": 1,
-      "total_itens": 1,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "Canabidiol ISOLADO 200mg/ml",
-          "fase": "JULGAMENTO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,00",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "49.906,08",
-          "vencedor": "HM MEDICAMENTOS LTDA.",
-          "melhor_oferta": "49.906,08",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "10101200026 Canabidiol ISOLADO 200mg/ml:Gotas; Marca HEALTHMEDS.",
-              "unidade": "FR",
-              "quantidade": "28,00",
-              "valor_referencia": "1.782,36"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "PE-139-2026",
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "843 / 2026",
@@ -303806,170 +303146,6 @@
               "unidade": "UND",
               "quantidade": "24,00",
               "valor_referencia": "1.643,35"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "PE-127-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "648 / 2026",
-      "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "PUBLICADO",
-      "condutor": "SERGIO CARNEIRO CAVALCANTI DE AZEVEDO",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "REGISTRO DE PREÇO",
-      "publicacao": "11/08/2026 12:04",
-      "inicio_recepcao": "17/09/2026 08:00",
-      "fim_recepcao": "29/09/2026 08:45",
-      "inicio_disputa": "29/09/2026 09:00",
-      "objeto": "Contratação de empresa especializada em fornecimento de ÔNIBUS ESCOLARES,  a fim de atender as demandas da Secretaria Municipal de Educação.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5Dwwk8RsFkHaqlSabDe8HvJWM08z38_A7k7prSjWKfw0kT6u_aRuSam6LwhCm0S%2FNeyYkGCFN4B7CeVkQxg7pzujyXlmuzRBdIkWu%2F%2FKjHeNM%3D",
-      "total_lotes": 6,
-      "total_itens": 6,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "2301000015 ÔNIBUS ESCOLAR - ORE 1:novo, zero quilômetro, de fabricação nacional, destinado ao transporte escolar, com comprimento mínimo de 7.000 mm, capacidade mínima para 29 estudantes sentados, equipado com motor dianteiro de potência mínima de 110 kW,",
-          "fase": "PUBLICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "ÔNIBUS ESCOLAR ORE 1: novo, zero quilômetro, de fabricação nacional, destinado ao transporte escolar,com comprimento mínimo de 7.000 mm, capacidade mínima para 29 estudantes sentados, equipado com motordianteiro de potência mínima de 110 kW equivalente a aproximadamente 150 CV, transmissão manual, direçãohidráulica, suspensão metálica e sistema de freios pneumático e/ou hidráulico. Equipado com sistema de arcondicionado automotivo de fábrica ou homologado pelo fabricante/implementador, adequado para operaçãoem transporte escolar, com capacidade compatível com o volume interno do veículo, distribuidores de ar aolongo do salão de passageiros, garantindo conforto térmico aos ocupantes durante o deslocamento. O veículodeverá atender integralmente às especificações técnicas, requisitos de segurança, acessibilidade, iluminação,sinalização e demais características estabelecidas pelo Fundo Nacional de Desenvolvimento da Educação(FNDE), Programa Caminho da Escola, Código de Trânsito Brasileiro (CTB), Conselho Nacional de Trânsito(CONTRAN), Associação Brasileira de Normas Técnicas (ABNT) e demais normas aplicáveis. Deverá possuirsistema de acessibilidade por meio de Plataforma Elevatória Veicular (PEV) ou tecnologia equivalentecertificada, destinada ao embarque e desembarque de pessoas com deficiência ou mobilidade reduzida,permitindo a elevação do usuário, inclusive em cadeira de rodas, entre o nível externo e o piso interno do veículosem necessidade de transferência para assento interno. O sistema deverá possuir acionamento eletro-hidráulico,eletromecânico ou tecnologia equivalente, dispositivos de segurança, comandos de emergência, barreiras deproteção, sistema de parada segura, capacidade compatível com usuários cadeirantes e certificação compulsóriajunto aos órgãos competentes, observadas as exigências do Inmetro e da legislação aplicável. Quando nãoestiver em operação, a plataforma deverá permanecer recolhida em compartimento integrado ao veículo, semcomprometer a segurança, a circulação interna ou a utilização regular do espaço destinado aos passageiros. Oveículo deverá dispor de área reservada para acomodação de, no mínimo, 02 (duas) cadeiras de rodas, equipadacom sistema de ancoragem e fixação, cinto de segurança para o usuário, (Descrição completa no anexo do termo.)",
-              "unidade": "UND",
-              "quantidade": "11,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "2",
-          "titulo": "35832 ÔNIBUS ESCOLAR - ORE 1 4x4:novo, zero quilômetro, de fabricação nacional, destinado ao transporte escolar em áreas rurais de difícil acesso, equipado com tração 4x4, comprimento mínimo de 7.000 mm, capacidade mínima para 23 estudantes sentados, moto",
-          "fase": "PUBLICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "ÔNIBUS ESCOLAR ORE 1 4x4: novo, zero quilômetro, de fabricação nacional, destinado ao transporte escolarem áreas rurais de difícil acesso, equipado com tração 4x4, comprimento mínimo de 7.000 mm, capacidademínima para 23 estudantes sentados, motor dianteiro com potência mínima de 110 kW equivalente aaproximadamente 150 CV, transmissão manual, direção hidráulica, diferencial com bloqueio, suspensãoreforçada e pneus de uso misto para estradas pavimentadas e não pavimentadas. Equipado com sistema de arcondicionado automotivo de fábrica ou homologado pelo fabricante/implementador, adequado para operaçãoem transporte escolar, com capacidade compatível com o volume interno do veículo, distribuidores de ar aolongo do salão de passageiros, garantindo conforto térmico aos ocupantes durante o deslocamento. O veículodeverá atender integralmente às especificações técnicas, requisitos de segurança, acessibilidade, iluminação,sinalização e demais características estabelecidas pelo Fundo Nacional de Desenvolvimento da Educação(FNDE), Programa Caminho da Escola, Código de Trânsito Brasileiro (CTB), Conselho Nacional de Trânsito(CONTRAN), Associação Brasileira de Normas Técnicas (ABNT) e demais normas aplicáveis. Deverá possuirsistema de acessibilidade por meio de Plataforma Elevatória Veicular (PEV) ou tecnologia equivalentecertificada, destinada ao embarque e desembarque de pessoas com deficiência ou mobilidade reduzida,permitindo a elevação do usuário, inclusive em cadeira de rodas, entre o nível externo e o piso interno do veículosem necessidade de transferência para assento interno. O sistema deverá possuir acionamento eletro-hidráulico,eletromecânico ou tecnologia equivalente, dispositivos de segurança, comandos de emergência, barreiras deproteção, sistema de parada segura, capacidade compatível com usuários cadeirantes e certificação compulsóriajunto aos órgãos competentes, observadas as exigências do Inmetro e da legislação aplicável. Quando nãoestiver em operação, a plataforma deverá permanecer recolhida em compartimento integrado ao veículo, semcomprometer a segurança, a circulação interna ou a utilização regular do espaço destinado aos passageiros. Oveículo deverá dispor de área reservada para acomodação de, no mínimo, 01 (uma) cadeira de rodas, equipadacom sistema de ancoragem e fixação, cinto de segurança para o usuário, espaço para manobra e sinalização deacessibilidade. (Descrição completa no anexo do termo.)",
-              "unidade": "UND",
-              "quantidade": "11,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "3",
-          "titulo": "37522 ÔNIBUS ESCOLAR - ORE 2:novo, zero quilômetro, de fabricação nacional, destinado ao transporte escolar, com comprimento mínimo de 9.000 mm, capacidade mínima para 44 estudantes sentados, equipado com motor dianteiro de potência mínima de 115 kW, tran",
-          "fase": "PUBLICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "ÔNIBUS ESCOLAR ORE 2: novo, zero quilômetro, de fabricação nacional, destinado ao transporte escolar,com comprimento mínimo de 9.000 mm, capacidade mínima para 44 estudantes sentados, equipado com motordianteiro de potência mínima de 115 kW equivalente a aproximadamente 156 CV, transmissão manual, direçãohidráulica, suspensão metálica reforçada e sistema de freios pneumático e/ou hidráulico. Equipado com sistemade ar-condicionado automotivo de fábrica ou homologado pelo fabricante/implementador, adequado paraoperação em transporte escolar, com capacidade compatível com o volume interno do veículo, distribuidoresde ar ao longo do salão de passageiros, garantindo conforto térmico aos ocupantes durante o deslocamento. Oveículo deverá atender integralmente às especificações técnicas, requisitos de segurança, acessibilidade iluminação, sinalização e demais características estabelecidas pelo Fundo Nacional de Desenvolvimento daEducação (FNDE), Programa Caminho da Escola, Código de Trânsito Brasileiro (CTB), Conselho Nacional deTrânsito (CONTRAN), Associação Brasileira de Normas Técnicas (ABNT) e demais normas aplicáveis.Deverá ser dotado de sistema de acessibilidade destinado ao embarque e desembarque seguro de pessoas comdeficiência ou mobilidade reduzida, mediante Dispositivo de Poltrona Móvel (DPM) ou equipamentoequivalente devidamente homologado. O sistema deverá possuir, no mínimo, poltrona móvel com apoio paraos pés, apoios laterais para os braços, cinto de segurança, acionamento elétrico, controle remoto operacional,sensores de segurança, dispositivos de parada automática de curso, alertas visuais e sonoros durante a operação,bem como mecanismo de acionamento manual para utilização em situações de emergência ou falha elétrica. Oveículo deverá ainda dispor de espaço interno adequado para a acomodação e fixação segura da cadeira de rodasutilizada pelo estudante atendido pelo sistema DPM, após sua transferência para o assento da poltrona móvel,de modo a impedir que a cadeira permaneça solta ou sem fixação durante o deslocamento do veículo,observando integralmente os requisitos de acessibilidade vigentes, de modo a garantir segurança, conforto eautonomia aos usuários durante o transporte. (Descrição completa no anexo do termo.)",
-              "unidade": "UND",
-              "quantidade": "8,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "4",
-          "titulo": "37523 ÔNIBUS ESCOLAR - ORE 2:novo, zero quilômetro, de fabricação nacional, destinado ao transporte escolar, com comprimento mínimo de 9.000 mm, capacidade mínima para 44 estudantes sentados, equipado com motor dianteiro de potência mínima de 115 kW, tran",
-          "fase": "PUBLICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "ÔNIBUS ESCOLAR ORE 2: novo, zero quilômetro, de fabricação nacional, destinado ao transporte escolar,com comprimento mínimo de 9.000 mm, capacidade mínima para 44 estudantes sentados, equipado com motordianteiro de potência mínima de 115 kW equivalente a aproximadamente 156 CV, transmissão manual, direçãohidráulica, suspensão metálica reforçada e sistema de freios pneumático e/ou hidráulico. Equipado com sistemade ar-condicionado automotivo de fábrica ou homologado pelo fabricante/implementador, adequado paraoperação em transporte escolar, com capacidade compatível com o volume interno do veículo, distribuidoresde ar ao longo do salão de passageiros, garantindo conforto térmico aos ocupantes durante o deslocamento. Oveículo deverá atender integralmente às especificações técnicas, requisitos de segurança, acessibilidade,iluminação, sinalização e demais características estabelecidas pelo Fundo Nacional de Desenvolvimento daEducação (FNDE), Programa Caminho da Escola, Código de Trânsito Brasileiro (CTB), Conselho Nacional deTrânsito (CONTRAN), Associação Brasileira de Normas Técnicas (ABNT) e demais normas aplicáveis.Deverá possuir sistema de acessibilidade por meio de Plataforma Elevatória Veicular (PEV) ou tecnologiaequivalente certificada, destinada ao embarque e desembarque de pessoas com deficiência ou mobilidadereduzida, permitindo a elevação do usuário, inclusive em cadeira de rodas, entre o nível externo e o piso internodo veículo sem necessidade de transferência para assento interno. O sistema deverá possuir acionamento eletrohidráulico, eletromecânico ou tecnologia equivalente, dispositivos de segurança, comandos de emergência,barreiras de proteção, sistema de parada segura, capacidade compatível com usuários cadeirantes e certificaçãocompulsória junto aos órgãos competentes, observadas as exigências do Inmetro e da legislação aplicável.Quando não estiver em operação, a plataforma deverá permanecer recolhida em compartimento integrado aoveículo, sem comprometer a segurança, a circulação interna ou a utilização regular do espaço destinado aospassageiros. O veículo deverá dispor de área reservada para acomodação de, no mínimo, 01 (uma) cadeira derodas, equipada com sistema de ancoragem e fixação, cinto de segurança para o usuário, espaço para manobrae sinalização de acessibilidade. (Descrição completa no anexo do termo.)",
-              "unidade": "UND",
-              "quantidade": "3,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "5",
-          "titulo": "37524 ÔNIBUS ESCOLAR - ORE 3:novo, zero quilômetro, de fabricação nacional, destinado ao transporte escolar, com comprimento mínimo de 11.000 mm, capacidade mínima para 59 estudantes sentados, equipado com motor dianteiro de potência mínima de 130 kW, tra",
-          "fase": "PUBLICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "ÔNIBUS ESCOLAR ORE 3: novo, zero quilômetro, de fabricação nacional, destinado ao transporte escolar,com comprimento mínimo de 11.000 mm, capacidade mínima para 59 estudantes sentados, equipado com motordianteiro de potência mínima de 130 kW equivalente a aproximadamente 177 CV, transmissão manual, direçãohidráulica, suspensão metálica reforçada e sistema de freios pneumático e/ou hidráulico. Equipado com sistemade ar-condicionado automotivo de fábrica ou homologado pelo fabricante/implementador, adequado paraoperação em transporte escolar, com capacidade compatível com o volume interno do veículo, distribuidoresde ar ao longo do salão de passageiros, garantindo conforto térmico aos ocupantes durante o deslocamento. Oveículo deverá atender integralmente às especificações técnicas, requisitos de segurança, acessibilidade,iluminação, sinalização e demais características estabelecidas pelo Fundo Nacional de Desenvolvimento daEducação (FNDE), Programa Caminho da Escola, Código de Trânsito Brasileiro (CTB), Conselho Nacional deTrânsito (CONTRAN), Associação Brasileira de Normas Técnicas (ABNT) e demais normas aplicáveis.Deverá ser dotado de sistema de acessibilidade destinado ao embarque e desembarque seguro de pessoas comdeficiência ou mobilidade reduzida, mediante Dispositivo de Poltrona Móvel (DPM) ou equipamentoequivalente devidamente homologado. O sistema deverá possuir, no mínimo, poltrona móvel com apoio paraos pés, apoios laterais para os braços, cinto de segurança, acionamento elétrico, controle remoto operacional,sensores de segurança, dispositivos de parada automática de curso, alertas visuais e sonoros durante a operação,bem como mecanismo de acionamento manual para utilização em situações de emergência ou falha elétrica. Oveículo deverá ainda dispor de espaço interno adequado para a acomodação e fixação segura da cadeira de rodasutilizada pelo estudante atendido pelo sistema DPM, após sua transferência para o assento da poltrona móvel,de modo a impedir que a cadeira permaneça solta ou sem fixação durante o deslocamento do veículo,observando integralmente os requisitos de acessibilidade vigentes, de modo a garantir segurança, conforto eautonomia aos usuários durante o transporte. (Descrição completa no anexo do termo.)",
-              "unidade": "UND",
-              "quantidade": "8,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "6",
-          "titulo": "37525 ÔNIBUS ESCOLAR - ORE 3:novo, zero quilômetro, de fabricação nacional, destinado ao transporte escolar, com comprimento mínimo de 11.000 mm, capacidade mínima para 59 estudantes sentados, equipado com motor dianteiro de potência mínima de 130 kW, tra",
-          "fase": "PUBLICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "ÔNIBUS ESCOLAR ORE 3: novo, zero quilômetro, de fabricação nacional, destinado ao transporte escolar,com comprimento mínimo de 11.000 mm, capacidade mínima para 59 estudantes sentados, equipado com motordianteiro de potência mínima de 130 kW equivalente a aproximadamente 177 CV, transmissão manual, direçãohidráulica, suspensão metálica reforçada e sistema de freios pneumático e/ou hidráulico. Equipado com sistemade ar-condicionado automotivo de fábrica ou homologado pelo fabricante/implementador, adequado paraoperação em transporte escolar, com capacidade compatível com o volume interno do veículo, distribuidoresde ar ao longo do salão de passageiros, garantindo conforto térmico aos ocupantes durante o deslocamento. Oveículo deverá atender integralmente às especificações técnicas, requisitos de segurança, acessibilidade,iluminação, sinalização e demais características estabelecidas pelo Fundo Nacional de Desenvolvimento daEducação (FNDE), Programa Caminho da Escola, Código de Trânsito Brasileiro (CTB), Conselho Nacional deTrânsito (CONTRAN), Associação Brasileira de Normas Técnicas (ABNT) e demais normas aplicáveis.Deverá possuir sistema de acessibilidade por meio de Plataforma Elevatória Veicular (PEV) ou tecnologiaequivalente certificada, destinada ao embarque e desembarque de pessoas com deficiência ou mobilidadereduzida, permitindo a elevação do usuário, inclusive em cadeira de rodas, entre o nível externo e o piso internodo veículo sem necessidade de transferência para assento interno. O sistema deverá possuir acionamento eletrohidráulico, eletromecânico ou tecnologia equivalente, dispositivos de segurança, comandos de emergência,barreiras de proteção, sistema de parada segura, capacidade compatível com usuários cadeirantes e certificaçãocompulsória junto aos órgãos competentes, observadas as exigências do Inmetro e da legislação aplicável.Quando não estiver em operação, a plataforma deverá permanecer recolhida em compartimento integrado aoveículo, sem comprometer a segurança, a circulação interna ou a utilização regular do espaço destinado aospassageiros. O veículo deverá dispor de área reservada para acomodação de, no mínimo, 01 (uma) cadeira derodas, equipada com sistema de ancoragem e fixação, cinto de segurança para o usuário, espaço para manobrae sinalização de acessibilidade. (Descrição completa no anexo do termo.)",
-              "unidade": "UND",
-              "quantidade": "3,00",
-              "valor_referencia": ""
             }
           ]
         }
@@ -306464,50 +305640,6 @@
       ]
     },
     {
-      "id": "PE-160-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "1050/2026",
-      "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "PUBLICADO",
-      "condutor": "DAVIDSON ARAUJO SANTOS",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO PARCELADA",
-      "publicacao": "16/09/2026 22:35",
-      "inicio_recepcao": "17/09/2026 08:00",
-      "fim_recepcao": "01/10/2026 08:15",
-      "inicio_disputa": "01/10/2026 08:30",
-      "objeto": "Contratação de empresa especializada em serviços de engenharia para o fornecimento e instalação de bancas de frutas e verduras em estruturas de madeira, no Município de Teixeira de Freitas – BA.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5Df7aJFbrvrzItpXjjEgdFOO7JsdR5HVyNeOzaDTDAjNre%2F1ZruhSk5c8RfpDhsflbZx1c1pPgXPsE62_7UWOPtpagOCu2NShALIKJOXXGdxM%3D",
-      "total_lotes": 1,
-      "total_itens": 1,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "FORNECIMENTO E INSTALAÇÃO DE BANCAS DE FRUTAS E VERDURAS EM ESTRUTURAS DE MADEIRA",
-          "fase": "PUBLICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "100,00",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "894.136,41",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "BANCAS DE FRUTAS E VERDURAS EM ESTRUTURAS DE MADEIRA",
-              "unidade": "UNID.",
-              "quantidade": "1,00",
-              "valor_referencia": "894.136,41"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "PE-158-2026",
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "972/2026",
@@ -306720,33 +305852,901 @@
       ]
     },
     {
+      "id": "PE-160-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "1050/2026",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "RECEPÇÃO DE PROPOSTAS",
+      "condutor": "DAVIDSON ARAUJO SANTOS",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO PARCELADA",
+      "publicacao": "16/09/2026 22:35",
+      "inicio_recepcao": "17/09/2026 08:00",
+      "fim_recepcao": "01/10/2026 08:15",
+      "inicio_disputa": "01/10/2026 08:30",
+      "objeto": "Contratação de empresa especializada em serviços de engenharia para o fornecimento e instalação de bancas de frutas e verduras em estruturas de madeira, no Município de Teixeira de Freitas – BA.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DjrEITo51LHTsGvU%2FclV0FtzEBOlauFLuMQnz5FK5vdiLWFHxb1P67Wu%2FV5m2jT2x0zEYiKVbxSyJqj3yv_PZDquOYQO5fOW%2FqgnwLH93U8Y%3D",
+      "total_lotes": 1,
+      "total_itens": 1,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "FORNECIMENTO E INSTALAÇÃO DE BANCAS DE FRUTAS E VERDURAS EM ESTRUTURAS DE MADEIRA",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "100,00",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "894.136,41",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "BANCAS DE FRUTAS E VERDURAS EM ESTRUTURAS DE MADEIRA",
+              "unidade": "UNID.",
+              "quantidade": "1,00",
+              "valor_referencia": "894.136,41"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3-DLE-095-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "824/2026",
+      "modalidade": "DISPENSA ELETRÔNICA",
+      "situacao": "HABILITAÇÃO",
+      "condutor": "ISLA LIMA SILVA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO PARCELADA",
+      "publicacao": "03/09/2026 13:54",
+      "inicio_recepcao": "09/09/2026 13:30",
+      "fim_recepcao": "15/09/2026 08:15",
+      "inicio_disputa": "15/09/2026 08:30",
+      "objeto": "Contratação de empresa especializada em fornecimento de [CANABIDIOL PARA ATENDER DEMANDA JUDICIAL] (material de consumo), a fim de atender as necessidades da Secretaria Municipal de Saúde",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DsnXNyO0T0TOYC4Q8UrCCh2cLT01xhCrzl7RIf_ja2QAX3EeAUOtM3mH4aXi%2F9jNhMtCeGutUSqUQYH70aFRc8W26Yb1yQ9rlubo7_fA4XCs%3D",
+      "total_lotes": 1,
+      "total_itens": 1,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "Canabidiol ISOLADO 200mg/ml",
+          "fase": "HABILITAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "49.906,08",
+          "vencedor": "HM MEDICAMENTOS LTDA.",
+          "melhor_oferta": "49.906,08",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "10101200026 Canabidiol ISOLADO 200mg/ml:Gotas; Marca HEALTHMEDS.",
+              "unidade": "FR",
+              "quantidade": "28,00",
+              "valor_referencia": "1.782,36"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-136-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "861 / 2026",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "HABILITAÇÃO",
+      "condutor": "SERGIO CARNEIRO CAVALCANTI DE AZEVEDO",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "REGISTRO DE PREÇO",
+      "publicacao": "17/08/2026 16:09",
+      "inicio_recepcao": "19/08/2026 08:00",
+      "fim_recepcao": "28/08/2026 13:45",
+      "inicio_disputa": "28/08/2026 14:00",
+      "objeto": "Contratação de empresa especializada em fornecimento de COMPUTADORES E NOTEBOOKS (material permanente), a fim de atender as demandas da Secretaria Municipal de Administração e\ndemais secretarias.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DAdJGMzk7_k3JOcy0JlP9JvWCeAF4uLg4mA3CE99ZjBI35t3l0KIlnuxGm3T9rfVdaJQ_aNW0d1POGWqxwd6nZPVlXwTMFSfWrHZ%2FjM3urec%3D",
+      "total_lotes": 16,
+      "total_itens": 16,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "9900830612 COMPUTADOR I3 16GB - SSD 480GB:PLACA-MÃE: Compatibilidade para processadores lançados a partir de 2024. Suporte a memória DDR4 com capacidade máxima de 128 GB, Dual Channel, frequência mínima de 3200 MHz. Possuir 1 porta HDMI 1.4, 1 DisplayPor",
+          "fase": "FRACASSADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "644.989,50",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900830612 COMPUTADOR I3 16GB - SSD 480GB:PLACA-MÃE: Compatibilidade para processadores lançados a partir de 2024. Suporte a memória DDR4 com capacidade máxima de 128 GB, Dual Channel, frequência mínima de 3200 MHz. Possuir 1 porta HDMI 1.4, 1 DisplayPort e 1 VGA; 1 slot PCIe x16 e 2 slots PCIe x1; 2 slots M.2, sendo M.2_1 PCIe 4.0 x4 (2280/2260/2242) e M.2_2 PCIe 4.0 x4/SATA (2280/2260/2242); 4 conectores SATA 6 Gb/s com suporte a RAID 0, 1, 5 e 10. Disponibilizar 4portas USB 2.0 traseiras, 4 portas USB 2.0 frontais, 1 USB 3.2 Gen1 Type-A traseira, 2 USB 3.2 Gen1 Type-A frontais e 1 USB3.2 Gen2 . Possuir rede Gigabit LAN, áudio onboard 7.1 canais e conectores internos ATX_PWR, CPU_PWR, CPU FAN, SYSTEM FAN, Front Panel, Front Audio, TPM 2.0, USB 2.0 e USB 3.2 Gen1. Compatível com Windows® 11 e Windows® 10 64 bits. Deverá acompanhar, no mínimo, 1 cabo SATA e 2 parafusos para slot M.2. PROCESSADOR: Intel Core i3 de 14ª geração, Modelo Box com cooler original do fabricante, arquitetura de 64 bits, lançado a partir de 2024, frequência mínima de 3,40 GHz, vídeo integrado e suporte para até 4 monitores. Deverá possuir, no mínimo, 4 núcleos e 8 threads, cache L1 de 4 x 48 KB, cache L2 de 4 x 1280 KB e cache L3 de 12 MB. MEMÓRIA RAM: Capacidade mínima de 16 GB DDR4. Velocidade de 3200 MHz, latência CL16, dissipador de calor, padrão PC4-25600 e tensão de operação de 1,35 V. ARMAZENAMENTO SSD NVMe: Unidade de estado sólido (SSD) com capacidade mínima de 480 GB, interface M.2 NVMe PCI Express 4.0 x4, ou superior, fator de forma M.2 2280, memória 3D NAND TLC ou tecnologia superior. Deverá possuir velocidade sequencial mínima de 3.000 MB/s para leitura e 1.800 MB/s para gravação. Produto novo, em linha de fabricação, compatível com a placa-mãe ofertada. FONTE DE ALIMENTAÇÃO: Potência real de 350 Watts ou superior, certificação 80 Plus Bronze, PFC ativo, bivolt automático(115V-230V), certificação INMETRO, cooler de 14 cm e cabo de força de 1,80 m conforme padrão ABNT. Deverá possuir 1 conector 20+4 pinos, 2 conectores PCI Express 6+2 pinos, 1 conector ATX 4+4 pinos, 2 conectores IDE e 6 conectores SATA. MTBF mínimo de 100.000 horas. GABINETE: Construído em chapa SPCC de 0,50 mm, compatível com placas-mãe Micro ATX e fontes ATX. Possuir lateral em acrílico ou metal, 1 baia ODD, 2 baias HDD e 2 baias SSD. Disponibilizar na parte frontal 2 portas USB 2.0, 1 porta USB 3.0, 1 entrada para microfone e 1 entrada para áudio.",
+              "unidade": "UND",
+              "quantidade": "150,00",
+              "valor_referencia": "4.299,93"
+            }
+          ]
+        },
+        {
+          "numero": "2",
+          "titulo": "9900830613 COMPUTADOR I5 8GB - SSD 480GB: PLACA-MÃE:: Compatibilidade para processadores lançados a partir de 2024. Suporte a memória DDR4 com capacidade máxima de 128 GB, Dual Channel, frequência mínima de 3200 MHz. Possuir 1 porta HDMI 1.4, 1 DisplayPo",
+          "fase": "FRACASSADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "753.766,50",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900830613 COMPUTADOR I5 8GB - SSD 480GB: PLACA-MÃE:: Compatibilidade para processadores lançados a partir de 2024. Suporte a memória DDR4 com capacidade máxima de 128 GB, Dual Channel, frequência mínima de 3200 MHz. Possuir 1 porta HDMI 1.4, 1 DisplayPort e 1 VGA; 1 slot PCIe x16 e 2 slots PCIe x1; 2 slots M.2, sendo M.2_1 PCIe 4.0 x4 (2280/2260/2242) e M.2_2 PCIe 4.0 x4/SATA (2280/2260/2242); 4 conectores SATA 6 Gb/s com suporte a RAID 0, 1, 5 e 10. Disponibilizar 4portas USB 2.0 traseiras, 4 portas USB 2.0 frontais, 1 USB 3.2 Gen1 Type-A traseira, 2 USB 3.2 Gen1 Type-A frontais e 1 USB3.2 Gen2 . Possuir rede Gigabit LAN, áudio onboard 7.1 canais e conectores internos ATX_PWR, CPU_PWR, CPU FAN, SYSTEM FAN, Front Panel, Front Audio, TPM 2.0, USB 2.0 e USB 3.2 Gen1. Compatível com Windows® 11 e Windows® 10 64 bits. Deverá acompanhar, no mínimo, 1 cabo SATA e 2 parafusos para slot M.2.PROCESSADOR: Processador Intel Core i5 de 14ª geração ou superior, arquitetura de 64 bits, modelo Box com sistema de refrigeração original do fabricante e vídeo gráfico integrado. Deverá possuir, no mínimo, 10 (dez) núcleos, 16 (dezesseis) threads, cache inteligente de 20 MB, frequência base mínima de 2,5 GHz e frequência máxima em modo Turbo de, no mínimo, 4,6 GHz, com suporte à utilização simultânea de, no mínimo, 4 (quatro) monitores. Produto novo, em linha de fabricação, compatível com a placa-mãe ofertada. MEMÓRIA RAM: Capacidade mínima de 8 GB em módulo único DDR4, não sendo aceitos dois módulos de 4 GB. Velocidade de 3200 MHz, latência CL16, dissipador de calor, padrãoPC4-25600 e tensão de operação de 1,35 V. ARMAZENAMENTO: SSD NVMe: Unidade de estado sólido (SSD) com capacidade mínima de 480 GB, interface M.2 NVMe PCI Express 4.0 x4, ou superior, fator de forma M.2 2280, memória 3D NAND TLC ou tecnologia superior. Deverá possuir velocidade sequencial mínima de 3.000 MB/s para leitura e 1.800 MB/s para gravação. Produto novo, em linha de fabricação, compatível com a placa-mãe ofertada. FONTE DE ALIMENTAÇÃO: Fonte de alimentação: Potência real de 350 Watts ou superior, certificação 80 Plus Bronze, PFC ativo, bivolt automático (115V-230V), certificação INMETRO, cooler de 14 cm e cabo de força de 1,80 m conforme padrão ABNT. Deverá possuir 1 conector 20+4 pinos, 2 conectores PCI Express 6+2pinos, 1 conector ATX 4+4 pinos, 2 conectores IDE e 6 conectores SATA. MTBF mínimo de 100.000 horas. GABINETE: Construído em chapa",
+              "unidade": "UND",
+              "quantidade": "150,00",
+              "valor_referencia": "5.025,11"
+            }
+          ]
+        },
+        {
+          "numero": "3",
+          "titulo": "9900830614 COMPUTADOR I5 16GB SSD 480GB:PLACA-MÃE: Compatibilidade para processadores lançados a partir de 2024. Suporte a memória DDR4 com capacidade máxima de 128 GB, Dual Channel, frequência mínima de 3200 MHz. Possuir 1 porta HDMI 1.4, 1 DisplayPort",
+          "fase": "FRACASSADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "467.514,75",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900830614 COMPUTADOR I5 16GB SSD 480GB:PLACA-MÃE: Compatibilidade para processadores lançados a partir de 2024. Suporte a memória DDR4 com capacidade máxima de 128 GB, Dual Channel, frequência mínima de 3200 MHz. Possuir 1 porta HDMI 1.4, 1 DisplayPort e 1 VGA; 1 slot PCIe x16 e 2 slots PCIe x1; 2 slots M.2, sendo M.2_1 PCIe 4.0 x4 (2280/2260/2242) e M.2_2 PCIe 4.0 x4/SATA (2280/2260/2242); 4 conectores SATA 6 Gb/s com suporte a RAID 0, 1, 5 e 10. Disponibilizar 4portas USB 2.0 traseiras, 4 portas USB 2.0 frontais, 1 USB 3.2 Gen1 Type-A traseira, 2 USB 3.2 Gen1 Type-A frontais e 1 USB3.2 Gen2. Possuir rede Gigabit LAN, áudio onboard 7.1 canais e conectores internos ATX_PWR, CPU_PWR, CPU FAN, SYSTEM FAN, Front Panel, Front Audio, TPM 2.0, USB 2.0 e USB 3.2 Gen1. Compatível com Windows® 11 e Windows® 10 64 bits. Deverá acompanhar, no mínimo, 1 cabo SATA e 2 parafusos para slot M.2. PROCESSADOR: Processador Intel Core i5 de 14ª geração ou superior, arquitetura de 64 bits, modelo Box com sistema de refrigeração original do fabricante e vídeo gráfico integrado. Deverá possuir, no mínimo, 10 (dez) núcleos, 16 (dezesseis) threads, cache inteligente de 20 MB, frequência base mínima de 2,5 GHz e frequência máxima em modo Turbo de, no mínimo, 4,6 GHz, com suporte à utilização simultânea de, no mínimo, 4 (quatro) monitores. Produto novo, em linha de fabricação, compatível com a placa-mãe ofertada. MEMÓRIA RAM: Capacidade mínima de 16 GB DDR4. Velocidade de 3200 MHz, latência CL16, dissipador de calor, padrão PC4-25600 e tensão de operação de 1,35 V. ARMAZENAMENTO: SSD NVMe: Unidade de estado sólido (SSD) com capacidade mínima de 480 GB, interface M.2 NVMe PCI Express 4.0 x4, ou superior, fator de forma M.2 2280, memória 3D NAND TLC ou tecnologia superior. Deverá possuir velocidade sequencial mínima de 3.000 MB/s para leitura e 1.800 MB/s para gravação. Produto novo, em linha de fabricação, compatível com a placa-mãe ofertada. FONTE DE ALIMENTAÇÃO: Potência real de 350 Watts ou superior, certificação 80 Plus Bronze, PFC ativo, bivolt automático(115V-230V), certificação INMETRO, cooler de 14 cm e cabo de força de 1,80 m conforme padrão ABNT. Deverá possuir 1 conector 20+4 pinos, 2 conectores PCI Express 6+2 pinos, 1 conector ATX 4+4 pinos, 2 conectores IDE e 6 conectores SATA. MTBF mínimo de 100.000 horas. GABINETE: Construído em chapa SPCC de 0,50 mm, compatível com placas-mãe Micro ATX e fontes ATX. Possuir later",
+              "unidade": "UND",
+              "quantidade": "75,00",
+              "valor_referencia": "6.233,53"
+            }
+          ]
+        },
+        {
+          "numero": "4",
+          "titulo": "37721 COMPUTADOR I7 16GB SSD 480GB   C/ PLACA DEVÍDEO:PLACA-MÃE: Compatível com processadores lançados a partir de 2024, soquete compatível com o processador ofertado e chipset da mesma geração ou superior. Suporte a memórias DDR4 ou superior Quad Channe",
+          "fase": "FRACASSADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "101.856,48",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37721 COMPUTADOR I7 16GB SSD 480GB C/ PLACA DEVÍDEO:PLACA-MÃE: Compatível com processadores lançados a partir de 2024, soquete compatível com o processador ofertado e chipset da mesma geração ou superior. Suporte a memórias DDR4 ou superior Quad Channel, capacidade mínima de 128 GB e frequência mínima de 3200 MHz. Possuir, no mínimo, 1 (um) slot PCI Express x16 4.0 ou superior, 2 (dois) slots M.2 NVMe PCI Express, 4 (quatro) portas SATA III 6 Gb/s, interface de rede Gigabit Ethernet integrada, áudio HD onboard, no mínimo 6 (seis) portas USB, sendo pelo menos 3 (três) USB 3.2, saídas de vídeo digitais compatíveis com o vídeo integrado do processador, conector TPM 2.0 e suporte ao sistema operacional Windows 11 64 bits. Deverá acompanhar os acessórios necessários para sua instalação. PROCESSADOR: i7 de 14ª geração ou superior, arquitetura de 64 bits, modelo Box com sistema de refrigeração original do fabricante e vídeo gráfico integrado. Deverá possuir, no mínimo, 10 (dez) núcleos, 16 (dezesseis) threads, cache inteligente de 20 MB, frequência base mínima de 2,5 GHz e frequência máxima em modo Turbo de, no mínimo, 4,9 GHz, com suporte à utilização simultânea de, no mínimo, 4 (quatro) monitores. Produto novo, em linha de fabricação, compatível com a placa-mãe ofertada. MEMÓRIA RAM: Capacidade mínima de 16 GB DDR4 ou superior. Velocidade de 3200 MHz, latência CL16, dissipador de calor, padrão PC4-25600 e tensão de operação de 1,35 V. ARMAZENAMENTO SSD NVMe: Unidade de estado sólido (SSD) com capacidade mínima de 480 GB, interface M.2 NVMe PCI Express 4.0 x4, ou superior, fator de forma M.2 2280, memória 3D NAND TLC ou tecnologia superior. Deverá possuir velocidade sequencial mínima de 3.000 MB/s para leitura e 1.800 MB/s para gravação. Produto novo, em linha de fabricação, compatível com a placa-mãe ofertada. FONTE DE ALIMENTAÇÃO Fonte de Alimentação: Potência real mínima de 600 W, certificação 80 Plus Bronze ou superior, PFC ativo e entrada bivolt automática (100-240 V, 50/60 Hz). Deverá possuir, no mínimo, 1 (um) conector ATX 20+4 pinos, 1 (um) conector EPS/ATX 4+4 pinos para alimentação do processador, 2 (dois) conectores PCI Express 6+2 pinos para alimentação de placa de vídeo e 4 (quatro) conectores SATA. Sistema de refrigeração ativo com ventoinha de 120 mm ou superior, proteções elétricas contra sobretensão (OVP), subtensão (UVP), sobrecorrente (OCP), sobrepotência (OPP), curto-circuito (SCP) e sobre",
+              "unidade": "UND",
+              "quantidade": "12,00",
+              "valor_referencia": "8.488,04"
+            }
+          ]
+        },
+        {
+          "numero": "5",
+          "titulo": "9900830615 COMPUTADOR I7 32GB SSD 480GB   C/ PLACADE VÍDEO:PLACA-MÃE: Compatível com processadores lançados a partir de 2024, soquete compatível com o processador ofertado e chipset da mesma geração ou superior. Suporte a memórias DDR4 ou superior Quad C",
+          "fase": "FRACASSADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "299.589,57",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900830615 COMPUTADOR I7 32GB SSD 480GB C/ PLACADE VÍDEO:PLACA-MÃE: Compatível com processadores lançados a partir de 2024, soquete compatível com o processador ofertado e chipset da mesma geração ou superior. Suporte a memórias DDR4 ou superior Quad Channel, capacidade mínima de 128 GB e frequência mínima de 3200 MHz. Possuir, no mínimo, 1 (um) slot PCI Express x16 4.0 ou superior, 2 (dois) slots M.2 NVMe PCI Express, 4 (quatro) portas SATA III 6 Gb/s, interface de rede Gigabit Ethernet integrada, áudio HD onboard, no mínimo 6 (seis) portas USB, sendo pelo menos 3 (três) USB 3.2, saídas de vídeo digitais compatíveis com o vídeo integrado do processador, conector TPM 2.0 e suporte ao sistema operacional Windows 11 64 bits. Deverá acompanhar os acessórios necessários para sua instalação.PROCESSADOR: i7 de 14ª geração ou superior, arquitetura de 64 bits, modelo Box com sistema de refrigeração original do fabricante e vídeo gráfico integrado. Deverá possuir, no mínimo, 10 (dez) núcleos, 16 (dezesseis) threads, cache inteligente de 20 MB, frequência base mínima de 2,5 GHz e frequência máxima em modo Turbo de, no mínimo, 4,9 GHz, com suporte à utilização simultânea de, no mínimo, 4 (quatro) monitores.Produto novo, em linha de fabricação, compatível com a placa- mãe ofertada. MEMÓRIA RAM: Capacidade mínima de 32 GB DDR4 ou superior. Velocidade de 3200 MHz, latência CL16, dissipador de calor, padrão PC4-25600 e tensão de operação de 1,35 V. ARMAZENAMENTO: SSD NVMe: Unidade de estado sólido (SSD) com capacidade mínima de 480 GB, interface M.2 NVMe PCI Express 4.0 x4, ou superior, fator de forma M.2 2280, memória 3D NAND TLC ou tecnologia superior. Deverá possuir velocidade sequencial mínima de 3.000 MB/s para leitura e 1.800 MB/s para gravação. Produto novo, em linha de fabricação, compatível com a placa-mãe ofertada. FONTE DE ALIMENTAÇÃO: Potência real mínima de 600 W, certificação 80 Plus Bronze ou superior, PFC ativo e entrada bivolt automática (100-240 V, 50/60 Hz). Deverá possuir, no mínimo, 1 (um) conector ATX 20+4 pinos, 1 (um) conector EPS/ATX 4+4 pinos para alimentação do processador, 2 (dois) conectores PCI Express 6+2 pinos para alimentação de placa de vídeo e 4 (quatro) conectores SATA. Sistema de refrigeração ativo com ventoinha de 120 mm ou superior, proteções elétricas contra sobretensão (OVP), subtensão (UVP), sobrecorrente (OCP), sobrepotência (OPP), curto-circuito (SCP) e sobretemperatura (OT",
+              "unidade": "UND",
+              "quantidade": "27,00",
+              "valor_referencia": "11.095,91"
+            }
+          ]
+        },
+        {
+          "numero": "6",
+          "titulo": "9900830616 NOTEBOOK DE ALTODESEMPENHO:Processador de arquitetura x86-64, equivalente ou superior ao Intel Core i7, Intel Core Ultra 7 ou AMD Ryzen 7, para notebooks, com desempenho mínimo de 21.000 (vinte e um mil) pontos no índice PassMark CPU Mark (htt",
+          "fase": "HABILITAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "131.007,00",
+          "vencedor": "R.V. DE S. NOVAIS LTDA.",
+          "melhor_oferta": "94.992,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900830616 NOTEBOOK DE ALTODESEMPENHO:Processador de arquitetura x86-64, equivalente ou superior ao Intel Core i7, Intel Core Ultra 7 ou AMD Ryzen 7, para notebooks, com desempenho mínimo de 21.000 (vinte e um mil) pontos no índice PassMark CPU Mark (https://www.cpubenchmark.net/laptop.html), exceto processadores das linhas Intel Core i5 e AMD Ryzen 5. Sistema Operacional: Microsoft Windows 11 Home ou Professional, 64 bits, em Português (Brasil), instalado e licenciado. Placa de Vídeo: GPU dedicada para notebook equivalente ou superior à NVIDIA GeForce RTX 4050 Laptop GPU, com memória dedicada mínima de 6 GB GDDR6. Memória RAM: Capacidade mínima de 16 GB DDR5. Armazenamento: Unidade de estado sólido (SSD) com capacidade mínima de 512 GB, interface NVMe PCI Express e padrão M.2. Tela: Resolução mínima WUXGA (1920 x 1200), acabamento antirreflexo, brilho mínimo de 300 nits, taxa de atualização mínima de 165 Hz e cobertura de cores mínima de 100% sRGB. Conectividade: Wi-Fi 6 (IEEE 802.11ax) ou superior e Bluetooth 5.1 ou superior. Portas: No mínimo, 1 (uma) porta USB 3.2 Type-C, 2 (duas) portas USB 3.2 Type-A, 1 (uma) porta HDMI 2.1 ou superior, 1 (uma) porta RJ-45 e 1 (um) conector combinado para fone de ouvido e microfone (P2).Garantia: Garantia mínima de 24 meses, contados a partir do recebimento definitivo do equipamento. Especificação Geral: Serão aceitos equipamentos com características técnicas iguais ou superiores às especificadas. Modelos de Referência: Alienware 16 Aurora, Acer Nitro V16, ASUS TUF Gaming F16, Lenovo Legion 5 ou modelos equivalentes de desempenho igual ou superior.",
+              "unidade": "UND",
+              "quantidade": "12,00",
+              "valor_referencia": "10.917,25"
+            }
+          ]
+        },
+        {
+          "numero": "7",
+          "titulo": "37723 NOTEBOOK DE DESEMPENHOINTERMEDIÁRIO:Processador de arquitetura x86-64, equivalente ou superior ao Intel Core 5 120U, Intel Core Ultra 5, Intel Core de 13ª geração ou AMD Ryzen 5 Série 7000, com vídeo gráfico integrado. Sistema Operacional: Microsof",
+          "fase": "HABILITAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "676.983,00",
+          "vencedor": "R.V. DE S. NOVAIS LTDA.",
+          "melhor_oferta": "559.999,75",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37723 NOTEBOOK DE DESEMPENHOINTERMEDIÁRIO:Processador de arquitetura x86-64, equivalente ou superior ao Intel Core 5 120U, Intel Core Ultra 5, Intel Core de 13ª geração ou AMD Ryzen 5 Série 7000, com vídeo gráfico integrado. Sistema Operacional: Microsoft Windows 11 Home ou Professional, 64 bits, em Português (Brasil). Placa de Vídeo: Controladora gráfica integrada ao processador.Memória RAM: Capacidade mínima de 16 GB DDR4 ou tecnologia superior. Armazenamento: Unidade de estado sólido (SSD) com capacidade mínima de 512 GB, interface NVMe PCI Express e padrão M.2. Tela: Resolução mínima Full HD (1920 x 1080), acabamento antirreflexo, brilho mínimo de 250 nits, taxa de atualização mínima de 120 Hz. Conectividade: Wi-Fi 6 (IEEE 802.11ax) ou superior e Bluetooth 5.1 ou superior. Portas: No mínimo, 1 (uma) porta USB 3.2 Type-C, 2 (duas) portas USB 3.2 Type-A, 1 (uma) porta HDMI 2.1 ou superior e 1 (um) conector combinado para fone de ouvido e microfone (P2). Garantia: Garantia mínima de 24 meses, contados a partir do recebimento definitivo do equipamento. Especificação Geral: Serão aceitos equipamentos com características técnicas iguais ou superiores às especificadas. Modelo de Referência: Notebook Dell Pro 15 Essential ou de equivalência técnica e de desempenho igual ou superior.",
+              "unidade": "UND",
+              "quantidade": "113,00",
+              "valor_referencia": "5.991,00"
+            }
+          ]
+        },
+        {
+          "numero": "8",
+          "titulo": "9900830617 NOTEBOOK DE DESEMPENHO BÁSICO::Processador de arquitetura x86-64, equivalente ou superior ao Intel Core i3 de 13ª geração ou AMD Ryzen 5 Série 7000, com vídeo gráfico integrado. Deverá possuir, no mínimo, 6 (seis) núcleos, 8 (oito) threads, 10",
+          "fase": "HABILITAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "81.397,23",
+          "vencedor": "R.V. DE S. NOVAIS LTDA.",
+          "melhor_oferta": "81.397,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900830617 NOTEBOOK DE DESEMPENHO BÁSICO::Processador de arquitetura x86-64, equivalente ou superior ao Intel Core i3 de 13ª geração ou AMD Ryzen 5 Série 7000, com vídeo gráfico integrado. Deverá possuir, no mínimo, 6 (seis) núcleos, 8 (oito) threads, 10 MB de memória cache e frequência Turbo mínima de 4,4 GHz. Memória RAM: Capacidade mínima de 8 GB DDR4 ou DDR5, expansível para, no mínimo, 32 GB. Armazenamento: SSD com capacidade mínima de 512 GB, interface NVMe PCI Express e padrão M.2. Tela de, no mínimo, 15,6 polegadas, tecnologia IPS ou superior, resolução mínima Full HD (1920 x 1080) e acabamento antirreflexo. Vídeo: Controladora gráfica integrada ao processador, com suporte à resolução 4K. Conectividade: Wi-Fi 6 (IEEE 802.11ax) ou superior e Bluetooth 5.2 ou superior. Portas: No mínimo, 3 (três) portas USB, sendo 2 (duas) USB 3.2, 1 (uma) USB Type-C, 1 (uma) saída HDMI e 1 (uma) entrada de áudio combinada (P2). Bateria: Bateria interna recarregável com autonomia mínima de 8 (oito) horas, conforme especificação do fabricante. Teclado: Padrão ABNT2, com teclado numérico integrado e resistência a respingos de líquidos. Webcam: Webcam integrada com resolução mínima Full HD (1080p), microfone digital e alto- falantes estéreo. Sistema Operacional: Microsoft Windows 11 Professional 64 bits OEM, em português (Brasil). Acessórios: Fonte de alimentação bivolt automática (100-240 V) e cabo de alimentação. Garantia mínima de 24 meses. Certificações: Certificação INMETRO, e atendimento às normas nacionais e internacionais de qualidade e segurança. Especificação Geral: Serão aceitos equipamentos com características técnicas iguais ou superiores às especificadas.",
+              "unidade": "UND",
+              "quantidade": "23,00",
+              "valor_referencia": "3.539,01"
+            }
+          ]
+        },
+        {
+          "numero": "9",
+          "titulo": "9909911356 COMPUTADOR I3 16GB - SSD 480GB:PLACA-MÃE::Compatibilidade para processadores lançados a partir de 2024. Suporte a memória DDR4 com capacidade máxima de 128 GB, Dual Channel, frequência mínima de 3200 MHz. Possuir 1porta HDMI 1.4, 1 DisplayPor",
+          "fase": "FRACASSADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "214.996,50",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9909911356 COMPUTADOR I3 16GB - SSD 480GB:PLACA-MÃE::Compatibilidade para processadores lançados a partir de 2024. Suporte a memória DDR4 com capacidade máxima de 128 GB, Dual Channel, frequência mínima de 3200 MHz. Possuir 1porta HDMI 1.4, 1 DisplayPort e 1 VGA; 1 slot PCIe x16 e 2 slots PCIe x1; 2 slots M.2, sendo M.2_1 PCIe 4.0 x4 (2280/2260/2242) e M.2_2 PCIe 4.0 x4/SATA (2280/2260/2242); 4 conectores SATA 6 Gb/s com suporte a RAID 0, 1, 5 e 10. Disponibilizar 4portas USB 2.0 traseiras, 4 portas USB 2.0 frontais, 1 USB 3.2 Gen1 Type-A traseira, 2 USB 3.2 Gen1 Type-A frontais e 1 USB3.2 Gen2 . Possuir rede Gigabit LAN, áudio onboard 7.1 canais econectores internos ATX_PWR, CPU_PWR, CPU FAN, SYSTEM FAN, Front Panel, Front Audio, TPM 2.0, USB 2.0 e USB 3.2 Gen1. Compatível com Windows® 11 e Windows® 1064 bits. Deverá acompanhar, no mínimo, 1 cabo SATA e 2parafusos para slot M.2. PROCESSADOR: Intel Core i3 de 14ª geração, Modelo Box com cooler original do fabricante, arquitetura de 64 bits, lançado a partir de 2024, frequência mínima de 3,40 GHz, vídeo integrado e suporte para até 4 monitores. Deverá possuir, no mínimo, 4 núcleos e 8 threads, cache L1 de 4 x 48 KB, cache L2 de 4 x 1280 KB e cache L3 de 12 MB. MEMÓRIA RAM: Capacidade mínima de 16 GB DDR4. Velocidade de 3200 MHz, latência CL16, dissipador de calor, padrão PC4-25600 e tensão de operação de 1,35 V. ARMAZENAMENTO SSD NVMe: Unidade de estado sólido(SSD) com capacidade mínima de 480 GB, interface M.2 NVMe PCI Express 4.0 x4, ou superior, fator de forma M.2 2280, memória 3D NAND TLC ou tecnologia superior. Deverá possuir velocidade sequencial mínima de 3.000 MB/s para leitura e 1.800MB/s para gravação. Produto novo, em linha de fabricação, compatível com a placa-mãe ofertada. FONTE DEALIMENTAÇÃO: Potência real de 350 Watts ou superior, certificação 80 Plus Bronze, PFC ativo, bivolt automático(115V-230V), certificação INMETRO, cooler de 14 cm e cabo de força de 1,80 m conforme padrão ABNT. Deverá possuir 1 conector 20+4 pinos, 2 conectores PCI Express 6+2 pinos, 1conector ATX 4+4 pinos, 2 conectores IDE e 6 conectores SATA. MTBF mínimo de 100.000 horas. GABINETE: Construído emchapa SPCC de 0,50 mm, compatível com placas-mãe Micro ATX e fontes ATX. Possuir lateral em acrílico ou metal, 1 baia ODD, 2 baias HDD e 2 baias SSD. Disponibilizar na parte frontal2 portas USB 2.0, 1 porta USB 3.0, 1 entrada para microfone e 1entrada para áudio.",
+              "unidade": "Und.",
+              "quantidade": "50,00",
+              "valor_referencia": "4.299,93"
+            }
+          ]
+        },
+        {
+          "numero": "10",
+          "titulo": "9909911357 COMPUTADOR I5 8GB - SSD 480GB: PLACA-MÃE:::Compatibilidade para processadores lançados a partir de 2024. Suporte a memória DDR4 com capacidade máxima de 128 GB, Dual Channel, frequência mínima de 3200 MHz. Possuir 1porta HDMI 1.4, 1 DisplayPo",
+          "fase": "INTERPOSIÇÃO DE RECURSOS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "251.255,50",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9909911357 COMPUTADOR I5 8GB - SSD 480GB: PLACA-MÃE:::Compatibilidade para processadores lançados a partir de 2024. Suporte a memória DDR4 com capacidade máxima de 128 GB, Dual Channel, frequência mínima de 3200 MHz. Possuir 1porta HDMI 1.4, 1 DisplayPort e 1 VGA; 1 slot PCIe x16 e 2 slots PCIe x1; 2 slots M.2, sendo M.2_1 PCIe 4.0 x4 (2280/2260/2242) e M.2_2 PCIe 4.0 x4/SATA (2280/2260/2242); 4 conectores SATA 6 Gb/s com suporte a RAID 0, 1, 5 e 10. Disponibilizar 4portas USB 2.0 traseiras, 4 portas USB 2.0 frontais, 1 USB 3.2 Gen1 Type-A traseira, 2 USB 3.2 Gen1 Type-A frontais e 1 USB3.2 Gen2 . Possuir rede Gigabit LAN, áudio onboard 7.1 canais econectores internos ATX_PWR, CPU_PWR, CPU FAN, SYSTEM FAN, Front Panel, Front Audio, TPM 2.0, USB 2.0 e USB 3.2 Gen1. Compatível com Windows® 11 e Windows® 1064 bits. Deverá acompanhar, no mínimo, 1 cabo SATA e 2 parafusos para slot M.2.PROCESSADOR: Processador IntelCore i5 de 14ª geração ou superior, arquitetura de 64 bits, modelo Box com sistema de refrigeração original do fabricante evídeo gráfico integrado. Deverá possuir, no mínimo, 10 (dez) núcleos, 16 (dezesseis) threads, cache inteligente de 20 MB,frequência base mínima de 2,5 GHz e frequência máxima em modo Turbo de, no mínimo, 4,6 GHz, com suporte à utilizaçãosimultânea de, no mínimo, 4 (quatro) monitores. Produto novo, em linha de fabricação, compatível com a placa-mãe ofertada. MEMÓRIA RAM: Capacidade mínima de 8 GB em módulo único DDR4, não sendo aceitos dois módulos de 4 GB. Velocidade de3200 MHz, latência CL16, dissipador de calor, padrão PC4-25600 e tensão de operação de 1,35 V.ARMAZENAMENTO: SSD NVMe: Unidade de estado sólido(SSD) com capacidade mínima de 480 GB, interface M.2 NVMe PCI Express 4.0 x4, ou superior, fator de forma M.2 2280, memória 3D NAND TLC ou tecnologia superior. Deverá possuir velocidade sequencial mínima de 3.000 MB/s para leitura e 1.800MB/s para gravação. Produto novo, em linha de fabricação, compatível com a placa-mãe ofertada. FONTE DEALIMENTAÇÃO: Fonte de alimentação: Potência real de 350Watts ou superior, certificação 80 Plus Bronze, PFC ativo, bivolt automático (115V-230V), certificação INMETRO, cooler de 14 cme cabo de força de 1,80 m conforme padrão ABNT. Deverá possuir 1 conector 20+4 pinos, 2 conectores PCI Express 6+2pinos, 1 conector ATX 4+4 pinos, 2 conectores IDE e 6conectores SATA. MTBF mínimo de 100.000 horas. GABINETE: Construído em chapa",
+              "unidade": "Und.",
+              "quantidade": "50,00",
+              "valor_referencia": "5.025,11"
+            }
+          ]
+        },
+        {
+          "numero": "11",
+          "titulo": "9909911358 COMPUTADOR I5 16GB SSD 480GB::PLACA-MÃE: Compatibilidade para processadores lançados a partir de 2024. Suporte a memória DDR4 com capacidade máxima de 128 GB, Dual Channel, frequência mínima de 3200 MHz. Possuir 1porta HDMI 1.4, 1 DisplayPort",
+          "fase": "FRACASSADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "155.838,25",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9909911358 COMPUTADOR I5 16GB SSD 480GB::PLACA-MÃE: Compatibilidade para processadores lançados a partir de 2024. Suporte a memória DDR4 com capacidade máxima de 128 GB, Dual Channel, frequência mínima de 3200 MHz. Possuir 1porta HDMI 1.4, 1 DisplayPort e 1 VGA; 1 slot PCIe x16 e 2 slots PCIe x1; 2 slots M.2, sendo M.2_1 PCIe 4.0 x4 (2280/2260/2242) e M.2_2 PCIe 4.0 x4/SATA (2280/2260/2242); 4 conectores SATA 6 Gb/s com suporte a RAID 0, 1, 5 e 10. Disponibilizar 4portas USB 2.0 traseiras, 4 portas USB 2.0 frontais, 1 USB 3.2 Gen1 Type-A traseira, 2 USB 3.2 Gen1 Type-A frontais e 1 USB3.2 Gen2. Possuir rede Gigabit LAN, áudio onboard 7.1 canais econectores internos ATX_PWR, CPU_PWR, CPU FAN, SYSTEM FAN, Front Panel, Front Audio, TPM 2.0, USB 2.0 e USB 3.2 Gen1. Compatível com Windows® 11 e Windows® 1064 bits. Deverá acompanhar, no mínimo, 1 cabo SATA e 2 parafusos para slot M.2. PROCESSADOR: Processador IntelCore i5 de 14ª geração ou superior, arquitetura de 64 bits, modelo Box com sistema de refrigeração original do fabricante evídeo gráfico integrado. Deverá possuir, no mínimo, 10 (dez) núcleos, 16 (dezesseis) threads, cache inteligente de 20 MB,frequência base mínima de 2,5 GHz e frequência máxima em modo Turbo de, no mínimo, 4,6 GHz, com suporte à utilizaçãosimultânea de, no mínimo, 4 (quatro) monitores. Produto novo, em linha de fabricação, compatível com a placa-mãe ofertada. MEMÓRIA RAM: Capacidade mínima de 16 GB DDR4. Velocidade de 3200 MHz, latência CL16, dissipador de calor, padrão PC4-25600 e tensão de operação de 1,35 V. ARMAZENAMENTO: SSD NVMe: Unidade de estado sólido(SSD) com capacidade mínima de 480 GB, interface M.2 NVMe PCI Express 4.0 x4, ou superior, fator de forma M.2 2280, memória 3D NAND TLC ou tecnologia superior. Deverá possuir velocidade sequencial mínima de 3.000 MB/s para leitura e 1.800MB/s para gravação. Produto novo, em linha de fabricação, compatível com a placa-mãe ofertada. FONTE DEALIMENTAÇÃO: Potência real de 350 Watts ou superior, certificação 80 Plus Bronze, PFC ativo, bivolt automático(115V-230V), certificação INMETRO, cooler de 14 cm e cabo de força de 1,80 m conforme padrão ABNT. Deverá possuir 1 conector 20+4 pinos, 2 conectores PCI Express 6+2 pinos, 1conector ATX 4+4 pinos, 2 conectores IDE e 6 conectores SATA. MTBF mínimo de 100.000 horas. GABINETE: Construído emchapa SPCC de 0,50 mm, compatível com placas-mãe Micro ATX e fontes ATX. Possuir lat",
+              "unidade": "Und.",
+              "quantidade": "25,00",
+              "valor_referencia": "6.233,53"
+            }
+          ]
+        },
+        {
+          "numero": "12",
+          "titulo": "9909911359 COMPUTADOR I7 16GB SSD 480GB C/ PLACADE VÍDEO:PLACA-MÃE::Compatível com processadores lançados apartir de 2024, soquete compatível com o processador ofertado echipset da mesma geração ou superior. Suporte a memórias DDR4 ou superior Quad Cha",
+          "fase": "FRACASSADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "25.464,12",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9909911359 COMPUTADOR I7 16GB SSD 480GB C/ PLACADE VÍDEO:PLACA-MÃE::Compatível com processadores lançados apartir de 2024, soquete compatível com o processador ofertado echipset da mesma geração ou superior. Suporte a memórias DDR4 ou superior Quad Channel, capacidade mínima de 128 GBe frequência mínima de 3200 MHz. Possuir, no mínimo, 1 (um) slot PCI Express x16 4.0 ou superior, 2 (dois) slots M.2 NVMe PCI Express, 4 (quatro) portas SATA III 6 Gb/s, interface de rede Gigabit Ethernet integrada, áudio HD onboard, no mínimo 6(seis) portas USB, sendo pelo menos 3 (três) USB 3.2, saídas devídeo digitais compatíveis com o vídeo integrado do processador, conector TPM 2.0 e suporte ao sistema operacional Windows 1164 bits. Deverá acompanhar os acessórios necessários para suainstalação. PROCESSADOR: i7 de 14ª geração ou superior, arquitetura de 64 bits, modelo Box com sistema de refrigeraçãooriginal do fabricante e vídeo gráfico integrado. Deverá possuir, no mínimo, 10 (dez) núcleos, 16 (dezesseis) threads, cacheinteligente de 20 MB, frequência base mínima de 2,5 GHz e frequência máxima em modo Turbo de, no mínimo, 4,9 GHz, comsuporte à utilização simultânea de, no mínimo, 4 (quatro) monitores. Produto novo, em linha de fabricação, compatível coma placa-mãe ofertada. MEMÓRIA RAM: Capacidade mínima de16 GB DDR4 ou superior. Velocidade de 3200 MHz, latência CL16, dissipador de calor, padrão PC4-25600 e tensão deoperação de 1,35 V. ARMAZENAMENTO SSD NVMe: Unidade de estado sólido (SSD) com capacidade mínima de 480 GB, interface M.2 NVMe PCI Express 4.0 x4, ou superior, fator deforma M.2 2280, memória 3D NAND TLC ou tecnologia superior. Deverá possuir velocidade sequencial mínima de 3.000 MB/s para leitura e 1.800 MB/s para gravação. Produto novo, em linhade fabricação, compatível com a placa-mãe ofertada. FONTE DE ALIMENTAÇÃO Fonte de Alimentação: Potência real mínima de 600 W, certificação 80 Plus Bronze ou superior, PFC ativo eentrada bivolt automática (100-240 V, 50/60 Hz). Deverá possuir, no mínimo, 1 (um) conector ATX 20+4 pinos, 1 (um) conector EPS/ATX 4+4 pinos para alimentação do processador, 2 (dois) conectores PCI Express 6+2 pinos para alimentação de placa devídeo e 4 (quatro) conectores SATA. Sistema de refrigeração ativo com ventoinha de 120 mm ou superior, proteções elétricas contra sobretensão (OVP), subtensão (UVP), sobrecorrente (OCP), sobrepotência (OPP), curto-circuito (SCP) e sob",
+              "unidade": "Und.",
+              "quantidade": "3,00",
+              "valor_referencia": "8.488,04"
+            }
+          ]
+        },
+        {
+          "numero": "13",
+          "titulo": "9909911360 COMPUTADOR I7 32GB SSD 480GB C/ PLACA DE VÍDEO:PLACA-MÃE::Compatível com processadores lançados a partir de 2024, soquete compatível com o processador ofertado e chipset da mesma geração ou superior. Suporte a memórias DDR4 ou superior Quad Cha",
+          "fase": "FRACASSADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "88.767,28",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9909911360 COMPUTADOR I7 32GB SSD 480GB C/ PLACA DE VÍDEO:PLACA-MÃE::Compatível com processadores lançados a partir de 2024, soquete compatível com o processador ofertado e chipset da mesma geração ou superior. Suporte a memórias DDR4 ou superior Quad Channel, capacidade mínima de 128 GB e frequência mínima de 3200MHz. Possuir, no mínimo, 1 (um) slot PCI Express x16 4.0 ousuperior, 2 (dois) slots M.2 NVMe PCI Express, 4 (quatro) portas SATA III 6 Gb/s, interface de rede Gigabit Ethernet integrada, áudio HD onboard, no mínimo 6 (seis) portas USB, sendo pelo menos 3 (três) USB 3.2, saídas de vídeo digitais compatíveiscom o vídeo integrado do processador, conector TPM 2.0 e suporte ao sistema operacional Windows 11 64 bits. Deveráacompanhar os acessórios necessários para sua instalação. PROCESSADOR: i7 de 14ª geração ou superior, arquitetura de64 bits, modelo Box com sistema de refrigeração original dofabricante e vídeo gráfico integrado. Deverá possuir, no mínimo, 10 (dez) núcleos, 16 (dezesseis) threads, cache inteligente de 20MB, frequência base mínima de 2,5 GHz e frequência máxima em modo Turbo de, no mínimo, 4,9 GHz, com suporte à utilização simultânea de, no mínimo, 4 (quatro) monitores.Produto novo, em linha de fabricação, compatível com a placa- mãe ofertada. MEMÓRIA RAM: Capacidade mínima de 32 GBDDR4 ou superior. Velocidade de 3200 MHz, latência CL16, dissipador de calor, padrão PC4-25600 e tensão de operação de1,35 V. ARMAZENAMENTO: SSD NVMe: Unidade de estado sólido (SSD) com capacidade mínima de 480 GB, interface M.2NVMe PCI Express 4.0 x4, ou superior, fator de forma M.2 2280, memória 3D NAND TLC ou tecnologia superior. Deverá possuir velocidade sequencial mínima de 3.000 MB/s para leitura e 1.800MB/s para gravação. Produto novo, em linha de fabricação, compatível com a placa-mãe ofertada. FONTE DEALIMENTAÇÃO: Potência real mínima de 600 W, certificação 80 Plus Bronze ou superior, PFC ativo e entrada bivolt automática(100-240 V, 50/60 Hz). Deverá possuir, no mínimo, 1 (um) conector ATX 20+4 pinos, 1 (um) conector EPS/ATX 4+4 pinos para alimentação do processador, 2 (dois) conectores PCIExpress 6+2 pinos para alimentação de placa de vídeo e 4 (quatro) conectores SATA. Sistema de refrigeração ativo com ventoinha de 120 mm ou superior, proteções elétricas contrasobretensão (OVP), subtensão (UVP), sobrecorrente (OCP), sobrepotência (OPP), curto-circuito (SCP) e sobretemperatura(OTP)",
+              "unidade": "Und.",
+              "quantidade": "8,00",
+              "valor_referencia": "11.095,91"
+            }
+          ]
+        },
+        {
+          "numero": "14",
+          "titulo": "9909911369 NOTEBOOK DE ALTODESEMPENHO:Processador de arquitetura x86-64,:equivalenteou superior ao Intel Core i7, Intel Core Ultra 7 ou AMD Ryzen 7, para notebooks, com desempenho mínimo de 21.000 (vinte e ummil) pontos no índice PassMark CPU Mark (htt",
+          "fase": "HABILITAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "32.751,75",
+          "vencedor": "R.V. DE S. NOVAIS LTDA.",
+          "melhor_oferta": "23.748,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9909911369 NOTEBOOK DE ALTODESEMPENHO:Processador de arquitetura x86-64,:equivalenteou superior ao Intel Core i7, Intel Core Ultra 7 ou AMD Ryzen 7, para notebooks, com desempenho mínimo de 21.000 (vinte e ummil) pontos no índice PassMark CPU Mark (https://www.cpubenchmark.net/laptop.html), excetoprocessadores das linhas Intel Core i5 e AMD Ryzen 5. Sistema Operacional: Microsoft Windows 11 Home ou Professional, 64bits, em Português (Brasil), instalado e licenciado. Placa de Vídeo: GPU dedicada para notebook equivalente ou superior àNVIDIA GeForce RTX 4050 Laptop GPU, com memória dedicada mínima de 6 GB GDDR6. Memória RAM: Capacidade mínima de16 GB DDR5. Armazenamento: Unidade de estado sólido (SSD) com capacidade mínima de 512 GB, interface NVMe PCIExpress e padrão M.2. Tela: Resolução mínima WUXGA (1920 x 1200), acabamento antirreflexo, brilho mínimo de 300 nits, taxade atualização mínima de 165 Hz e cobertura de cores mínima de 100% sRGB. Conectividade: Wi-Fi 6 (IEEE 802.11ax) ou superior e Bluetooth 5.1 ou superior. Portas: No mínimo, 1 (uma) porta USB 3.2 Type-C, 2 (duas) portas USB 3.2 Type-A, 1 (uma)porta HDMI 2.1 ou superior, 1 (uma) porta RJ-45 e 1 (um) conector combinado para fone de ouvido e microfone (P2). Garantia: Garantia mínima de 24 meses, contados a partir dorecebimento definitivo do equipamento. Especificação Geral: Serão aceitos equipamentos com características técnicas iguais ou superiores às especificadas. Modelos de Referência: Alienware 16 Aurora, Acer Nitro V16, ASUS TUF Gaming F16, Lenovo Legion 5 ou modelos equivalentes de desempenho igual ou superior. COTA 25% PARA ME/EPP.",
+              "unidade": "Und.",
+              "quantidade": "3,00",
+              "valor_referencia": "10.917,25"
+            }
+          ]
+        },
+        {
+          "numero": "15",
+          "titulo": "37808 NOTEBOOK DE DESEMPENHOINTERMEDIÁRIO:Processador de arquiteturax86-64,:equivalente ou superior ao Intel Core 5 120U, Intel Core Ultra 5,Intel Core de 13ª geração ou AMD Ryzen 5 Série 7000, comvídeo gráfico integrado. Sistema Operacional: Microsof",
+          "fase": "HABILITAÇÃO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "221.667,00",
+          "vencedor": "R.V. DE S. NOVAIS LTDA.",
+          "melhor_oferta": "183.362,75",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37808 NOTEBOOK DE DESEMPENHOINTERMEDIÁRIO:Processador de arquiteturax86-64,:equivalente ou superior ao Intel Core 5 120U, Intel Core Ultra 5,Intel Core de 13ª geração ou AMD Ryzen 5 Série 7000, comvídeo gráfico integrado. Sistema Operacional: Microsoft Windows 11 Home ou Professional, 64 bits, em Português (Brasil). Placade Vídeo: Controladora gráfica integrada ao processador. Memória RAM: Capacidade mínima de 16 GB DDR4 outecnologia superior. Armazenamento: Unidade de estado sólido (SSD) com capacidade mínima de 512 GB, interface NVMe PCIExpress e padrão M.2. Tela: Resolução mínima Full HD (1920 x 1080), acabamento antirreflexo, brilho mínimo de 250 nits, taxade atualização mínima de 120 Hz. Conectividade: Wi-Fi 6 (IEEE802.11ax) ou superior e Bluetooth 5.1 ou superior. Portas: No mínimo, 1 (uma) porta USB 3.2 Type-C, 2 (duas) portas USB 3.2Type-A, 1 (uma) porta HDMI 2.1 ou superior e 1 (um) conector combinado para fone de ouvido e microfone (P2). Garantia: Garantia mínima de 24 meses, contados a partir do recebimentodefinitivo do equipamento. Especificação Geral: Serão aceitos equipamentos com características técnicas iguais ou superiores às especificadas. Modelo de Referência: Notebook Dell Pro 15Essential ou de equivalência técnica e de desempenho igual ou superior. COTA 25% PARA ME/EPP.",
+              "unidade": "Und.",
+              "quantidade": "37,00",
+              "valor_referencia": "5.991,00"
+            }
+          ]
+        },
+        {
+          "numero": "16",
+          "titulo": "37809 NOTEBOOK DE DESEMPENHO BÁSICO:: Processadorde arquitetura x86-64,:equivalente ou superior aoIntel Core i3 de 13ª geração ou AMD Ryzen 5 Série 7000, comvídeo gráfico integrado. Deverá possuir, no mínimo, 6 (seis) núcleos, 8 (oito) threads, 10 MB d",
+          "fase": "JULGAMENTO DE RECURSOS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "24.773,07",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37809 NOTEBOOK DE DESEMPENHO BÁSICO:: Processadorde arquitetura x86-64,:equivalente ou superior aoIntel Core i3 de 13ª geração ou AMD Ryzen 5 Série 7000, comvídeo gráfico integrado. Deverá possuir, no mínimo, 6 (seis) núcleos, 8 (oito) threads, 10 MB de memória cache e frequência Turbo mínima de 4,4 GHz. Memória RAM: Capacidade mínimade 8 GB DDR4 ou DDR5, expansível para, no mínimo, 32 GB. Armazenamento: SSD com capacidade mínima de 512 GB,interface NVMe PCI Express e padrão M.2. Tela de, no mínimo, 15,6 polegadas, tecnologia IPS ou superior, resolução mínima Full HD (1920 x 1080) e acabamento antirreflexo. Vídeo: Controladora gráfica integrada ao processador, com suporte àresolução 4K. Conectividade: Wi-Fi 6 (IEEE 802.11ax) ou superior e Bluetooth 5.2 ou superior. Portas: No mínimo, 3 (três)portas USB, sendo 2 (duas) USB 3.2, 1 (uma) USB Type-C, 1(uma) saída HDMI e 1 (uma) entrada de áudio combinada (P2). Bateria: Bateria interna recarregável com autonomia mínima de 8(oito) horas, conforme especificação do fabricante. Teclado: Padrão ABNT2, com teclado numérico integrado e resistência arespingos de líquidos. Webcam: Webcam integrada comresolução mínima Full HD (1080p), microfone digital e altofalantes estéreo. Sistema Operacional: Microsoft Windows 11Professional 64 bits OEM, em português (Brasil). Acessórios: Fonte de alimentação bivolt automática (100-240 V) e cabo dealimentação. Garantia mínima de 24 meses. Certificações: Certificação INMETRO, e atendimento às normas nacionais einternacionais de qualidade e segurança. Especificação Geral: Serão aceitos equipamentos com características técnicas iguais ou superiores às especificadas. COTA 25% PARA ME/EPP.",
+              "unidade": "Und.",
+              "quantidade": "7,00",
+              "valor_referencia": "3.539,01"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-127-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "648 / 2026",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "RECEPÇÃO DE PROPOSTAS",
+      "condutor": "SERGIO CARNEIRO CAVALCANTI DE AZEVEDO",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "REGISTRO DE PREÇO",
+      "publicacao": "11/08/2026 12:04",
+      "inicio_recepcao": "17/09/2026 08:00",
+      "fim_recepcao": "29/09/2026 08:45",
+      "inicio_disputa": "29/09/2026 09:00",
+      "objeto": "Contratação de empresa especializada em fornecimento de ÔNIBUS ESCOLARES,  a fim de atender as demandas da Secretaria Municipal de Educação.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5D6KXMkou3ZuKfbvLZ4C99bJiyJcxgP8NExgtWWvqjOhSHE_hMFHBKYqfVZ%2FasR9q20HKHPQGdU7VZXs_mfkQuz2uERWVtYnfxpDCxMXFoH10%3D",
+      "total_lotes": 6,
+      "total_itens": 6,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "2301000015 ÔNIBUS ESCOLAR - ORE 1:novo, zero quilômetro, de fabricação nacional, destinado ao transporte escolar, com comprimento mínimo de 7.000 mm, capacidade mínima para 29 estudantes sentados, equipado com motor dianteiro de potência mínima de 110 kW,",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "ÔNIBUS ESCOLAR ORE 1: novo, zero quilômetro, de fabricação nacional, destinado ao transporte escolar,com comprimento mínimo de 7.000 mm, capacidade mínima para 29 estudantes sentados, equipado com motordianteiro de potência mínima de 110 kW equivalente a aproximadamente 150 CV, transmissão manual, direçãohidráulica, suspensão metálica e sistema de freios pneumático e/ou hidráulico. Equipado com sistema de arcondicionado automotivo de fábrica ou homologado pelo fabricante/implementador, adequado para operaçãoem transporte escolar, com capacidade compatível com o volume interno do veículo, distribuidores de ar aolongo do salão de passageiros, garantindo conforto térmico aos ocupantes durante o deslocamento. O veículodeverá atender integralmente às especificações técnicas, requisitos de segurança, acessibilidade, iluminação,sinalização e demais características estabelecidas pelo Fundo Nacional de Desenvolvimento da Educação(FNDE), Programa Caminho da Escola, Código de Trânsito Brasileiro (CTB), Conselho Nacional de Trânsito(CONTRAN), Associação Brasileira de Normas Técnicas (ABNT) e demais normas aplicáveis. Deverá possuirsistema de acessibilidade por meio de Plataforma Elevatória Veicular (PEV) ou tecnologia equivalentecertificada, destinada ao embarque e desembarque de pessoas com deficiência ou mobilidade reduzida,permitindo a elevação do usuário, inclusive em cadeira de rodas, entre o nível externo e o piso interno do veículosem necessidade de transferência para assento interno. O sistema deverá possuir acionamento eletro-hidráulico,eletromecânico ou tecnologia equivalente, dispositivos de segurança, comandos de emergência, barreiras deproteção, sistema de parada segura, capacidade compatível com usuários cadeirantes e certificação compulsóriajunto aos órgãos competentes, observadas as exigências do Inmetro e da legislação aplicável. Quando nãoestiver em operação, a plataforma deverá permanecer recolhida em compartimento integrado ao veículo, semcomprometer a segurança, a circulação interna ou a utilização regular do espaço destinado aos passageiros. Oveículo deverá dispor de área reservada para acomodação de, no mínimo, 02 (duas) cadeiras de rodas, equipadacom sistema de ancoragem e fixação, cinto de segurança para o usuário, (Descrição completa no anexo do termo.)",
+              "unidade": "UND",
+              "quantidade": "11,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "2",
+          "titulo": "35832 ÔNIBUS ESCOLAR - ORE 1 4x4:novo, zero quilômetro, de fabricação nacional, destinado ao transporte escolar em áreas rurais de difícil acesso, equipado com tração 4x4, comprimento mínimo de 7.000 mm, capacidade mínima para 23 estudantes sentados, moto",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "ÔNIBUS ESCOLAR ORE 1 4x4: novo, zero quilômetro, de fabricação nacional, destinado ao transporte escolarem áreas rurais de difícil acesso, equipado com tração 4x4, comprimento mínimo de 7.000 mm, capacidademínima para 23 estudantes sentados, motor dianteiro com potência mínima de 110 kW equivalente aaproximadamente 150 CV, transmissão manual, direção hidráulica, diferencial com bloqueio, suspensãoreforçada e pneus de uso misto para estradas pavimentadas e não pavimentadas. Equipado com sistema de arcondicionado automotivo de fábrica ou homologado pelo fabricante/implementador, adequado para operaçãoem transporte escolar, com capacidade compatível com o volume interno do veículo, distribuidores de ar aolongo do salão de passageiros, garantindo conforto térmico aos ocupantes durante o deslocamento. O veículodeverá atender integralmente às especificações técnicas, requisitos de segurança, acessibilidade, iluminação,sinalização e demais características estabelecidas pelo Fundo Nacional de Desenvolvimento da Educação(FNDE), Programa Caminho da Escola, Código de Trânsito Brasileiro (CTB), Conselho Nacional de Trânsito(CONTRAN), Associação Brasileira de Normas Técnicas (ABNT) e demais normas aplicáveis. Deverá possuirsistema de acessibilidade por meio de Plataforma Elevatória Veicular (PEV) ou tecnologia equivalentecertificada, destinada ao embarque e desembarque de pessoas com deficiência ou mobilidade reduzida,permitindo a elevação do usuário, inclusive em cadeira de rodas, entre o nível externo e o piso interno do veículosem necessidade de transferência para assento interno. O sistema deverá possuir acionamento eletro-hidráulico,eletromecânico ou tecnologia equivalente, dispositivos de segurança, comandos de emergência, barreiras deproteção, sistema de parada segura, capacidade compatível com usuários cadeirantes e certificação compulsóriajunto aos órgãos competentes, observadas as exigências do Inmetro e da legislação aplicável. Quando nãoestiver em operação, a plataforma deverá permanecer recolhida em compartimento integrado ao veículo, semcomprometer a segurança, a circulação interna ou a utilização regular do espaço destinado aos passageiros. Oveículo deverá dispor de área reservada para acomodação de, no mínimo, 01 (uma) cadeira de rodas, equipadacom sistema de ancoragem e fixação, cinto de segurança para o usuário, espaço para manobra e sinalização deacessibilidade. (Descrição completa no anexo do termo.)",
+              "unidade": "UND",
+              "quantidade": "11,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "3",
+          "titulo": "37522 ÔNIBUS ESCOLAR - ORE 2:novo, zero quilômetro, de fabricação nacional, destinado ao transporte escolar, com comprimento mínimo de 9.000 mm, capacidade mínima para 44 estudantes sentados, equipado com motor dianteiro de potência mínima de 115 kW, tran",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "ÔNIBUS ESCOLAR ORE 2: novo, zero quilômetro, de fabricação nacional, destinado ao transporte escolar,com comprimento mínimo de 9.000 mm, capacidade mínima para 44 estudantes sentados, equipado com motordianteiro de potência mínima de 115 kW equivalente a aproximadamente 156 CV, transmissão manual, direçãohidráulica, suspensão metálica reforçada e sistema de freios pneumático e/ou hidráulico. Equipado com sistemade ar-condicionado automotivo de fábrica ou homologado pelo fabricante/implementador, adequado paraoperação em transporte escolar, com capacidade compatível com o volume interno do veículo, distribuidoresde ar ao longo do salão de passageiros, garantindo conforto térmico aos ocupantes durante o deslocamento. Oveículo deverá atender integralmente às especificações técnicas, requisitos de segurança, acessibilidade iluminação, sinalização e demais características estabelecidas pelo Fundo Nacional de Desenvolvimento daEducação (FNDE), Programa Caminho da Escola, Código de Trânsito Brasileiro (CTB), Conselho Nacional deTrânsito (CONTRAN), Associação Brasileira de Normas Técnicas (ABNT) e demais normas aplicáveis.Deverá ser dotado de sistema de acessibilidade destinado ao embarque e desembarque seguro de pessoas comdeficiência ou mobilidade reduzida, mediante Dispositivo de Poltrona Móvel (DPM) ou equipamentoequivalente devidamente homologado. O sistema deverá possuir, no mínimo, poltrona móvel com apoio paraos pés, apoios laterais para os braços, cinto de segurança, acionamento elétrico, controle remoto operacional,sensores de segurança, dispositivos de parada automática de curso, alertas visuais e sonoros durante a operação,bem como mecanismo de acionamento manual para utilização em situações de emergência ou falha elétrica. Oveículo deverá ainda dispor de espaço interno adequado para a acomodação e fixação segura da cadeira de rodasutilizada pelo estudante atendido pelo sistema DPM, após sua transferência para o assento da poltrona móvel,de modo a impedir que a cadeira permaneça solta ou sem fixação durante o deslocamento do veículo,observando integralmente os requisitos de acessibilidade vigentes, de modo a garantir segurança, conforto eautonomia aos usuários durante o transporte. (Descrição completa no anexo do termo.)",
+              "unidade": "UND",
+              "quantidade": "8,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "4",
+          "titulo": "37523 ÔNIBUS ESCOLAR - ORE 2:novo, zero quilômetro, de fabricação nacional, destinado ao transporte escolar, com comprimento mínimo de 9.000 mm, capacidade mínima para 44 estudantes sentados, equipado com motor dianteiro de potência mínima de 115 kW, tran",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "ÔNIBUS ESCOLAR ORE 2: novo, zero quilômetro, de fabricação nacional, destinado ao transporte escolar,com comprimento mínimo de 9.000 mm, capacidade mínima para 44 estudantes sentados, equipado com motordianteiro de potência mínima de 115 kW equivalente a aproximadamente 156 CV, transmissão manual, direçãohidráulica, suspensão metálica reforçada e sistema de freios pneumático e/ou hidráulico. Equipado com sistemade ar-condicionado automotivo de fábrica ou homologado pelo fabricante/implementador, adequado paraoperação em transporte escolar, com capacidade compatível com o volume interno do veículo, distribuidoresde ar ao longo do salão de passageiros, garantindo conforto térmico aos ocupantes durante o deslocamento. Oveículo deverá atender integralmente às especificações técnicas, requisitos de segurança, acessibilidade,iluminação, sinalização e demais características estabelecidas pelo Fundo Nacional de Desenvolvimento daEducação (FNDE), Programa Caminho da Escola, Código de Trânsito Brasileiro (CTB), Conselho Nacional deTrânsito (CONTRAN), Associação Brasileira de Normas Técnicas (ABNT) e demais normas aplicáveis.Deverá possuir sistema de acessibilidade por meio de Plataforma Elevatória Veicular (PEV) ou tecnologiaequivalente certificada, destinada ao embarque e desembarque de pessoas com deficiência ou mobilidadereduzida, permitindo a elevação do usuário, inclusive em cadeira de rodas, entre o nível externo e o piso internodo veículo sem necessidade de transferência para assento interno. O sistema deverá possuir acionamento eletrohidráulico, eletromecânico ou tecnologia equivalente, dispositivos de segurança, comandos de emergência,barreiras de proteção, sistema de parada segura, capacidade compatível com usuários cadeirantes e certificaçãocompulsória junto aos órgãos competentes, observadas as exigências do Inmetro e da legislação aplicável.Quando não estiver em operação, a plataforma deverá permanecer recolhida em compartimento integrado aoveículo, sem comprometer a segurança, a circulação interna ou a utilização regular do espaço destinado aospassageiros. O veículo deverá dispor de área reservada para acomodação de, no mínimo, 01 (uma) cadeira derodas, equipada com sistema de ancoragem e fixação, cinto de segurança para o usuário, espaço para manobrae sinalização de acessibilidade. (Descrição completa no anexo do termo.)",
+              "unidade": "UND",
+              "quantidade": "3,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "5",
+          "titulo": "37524 ÔNIBUS ESCOLAR - ORE 3:novo, zero quilômetro, de fabricação nacional, destinado ao transporte escolar, com comprimento mínimo de 11.000 mm, capacidade mínima para 59 estudantes sentados, equipado com motor dianteiro de potência mínima de 130 kW, tra",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "ÔNIBUS ESCOLAR ORE 3: novo, zero quilômetro, de fabricação nacional, destinado ao transporte escolar,com comprimento mínimo de 11.000 mm, capacidade mínima para 59 estudantes sentados, equipado com motordianteiro de potência mínima de 130 kW equivalente a aproximadamente 177 CV, transmissão manual, direçãohidráulica, suspensão metálica reforçada e sistema de freios pneumático e/ou hidráulico. Equipado com sistemade ar-condicionado automotivo de fábrica ou homologado pelo fabricante/implementador, adequado paraoperação em transporte escolar, com capacidade compatível com o volume interno do veículo, distribuidoresde ar ao longo do salão de passageiros, garantindo conforto térmico aos ocupantes durante o deslocamento. Oveículo deverá atender integralmente às especificações técnicas, requisitos de segurança, acessibilidade,iluminação, sinalização e demais características estabelecidas pelo Fundo Nacional de Desenvolvimento daEducação (FNDE), Programa Caminho da Escola, Código de Trânsito Brasileiro (CTB), Conselho Nacional deTrânsito (CONTRAN), Associação Brasileira de Normas Técnicas (ABNT) e demais normas aplicáveis.Deverá ser dotado de sistema de acessibilidade destinado ao embarque e desembarque seguro de pessoas comdeficiência ou mobilidade reduzida, mediante Dispositivo de Poltrona Móvel (DPM) ou equipamentoequivalente devidamente homologado. O sistema deverá possuir, no mínimo, poltrona móvel com apoio paraos pés, apoios laterais para os braços, cinto de segurança, acionamento elétrico, controle remoto operacional,sensores de segurança, dispositivos de parada automática de curso, alertas visuais e sonoros durante a operação,bem como mecanismo de acionamento manual para utilização em situações de emergência ou falha elétrica. Oveículo deverá ainda dispor de espaço interno adequado para a acomodação e fixação segura da cadeira de rodasutilizada pelo estudante atendido pelo sistema DPM, após sua transferência para o assento da poltrona móvel,de modo a impedir que a cadeira permaneça solta ou sem fixação durante o deslocamento do veículo,observando integralmente os requisitos de acessibilidade vigentes, de modo a garantir segurança, conforto eautonomia aos usuários durante o transporte. (Descrição completa no anexo do termo.)",
+              "unidade": "UND",
+              "quantidade": "8,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "6",
+          "titulo": "37525 ÔNIBUS ESCOLAR - ORE 3:novo, zero quilômetro, de fabricação nacional, destinado ao transporte escolar, com comprimento mínimo de 11.000 mm, capacidade mínima para 59 estudantes sentados, equipado com motor dianteiro de potência mínima de 130 kW, tra",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "ÔNIBUS ESCOLAR ORE 3: novo, zero quilômetro, de fabricação nacional, destinado ao transporte escolar,com comprimento mínimo de 11.000 mm, capacidade mínima para 59 estudantes sentados, equipado com motordianteiro de potência mínima de 130 kW equivalente a aproximadamente 177 CV, transmissão manual, direçãohidráulica, suspensão metálica reforçada e sistema de freios pneumático e/ou hidráulico. Equipado com sistemade ar-condicionado automotivo de fábrica ou homologado pelo fabricante/implementador, adequado paraoperação em transporte escolar, com capacidade compatível com o volume interno do veículo, distribuidoresde ar ao longo do salão de passageiros, garantindo conforto térmico aos ocupantes durante o deslocamento. Oveículo deverá atender integralmente às especificações técnicas, requisitos de segurança, acessibilidade,iluminação, sinalização e demais características estabelecidas pelo Fundo Nacional de Desenvolvimento daEducação (FNDE), Programa Caminho da Escola, Código de Trânsito Brasileiro (CTB), Conselho Nacional deTrânsito (CONTRAN), Associação Brasileira de Normas Técnicas (ABNT) e demais normas aplicáveis.Deverá possuir sistema de acessibilidade por meio de Plataforma Elevatória Veicular (PEV) ou tecnologiaequivalente certificada, destinada ao embarque e desembarque de pessoas com deficiência ou mobilidadereduzida, permitindo a elevação do usuário, inclusive em cadeira de rodas, entre o nível externo e o piso internodo veículo sem necessidade de transferência para assento interno. O sistema deverá possuir acionamento eletrohidráulico, eletromecânico ou tecnologia equivalente, dispositivos de segurança, comandos de emergência,barreiras de proteção, sistema de parada segura, capacidade compatível com usuários cadeirantes e certificaçãocompulsória junto aos órgãos competentes, observadas as exigências do Inmetro e da legislação aplicável.Quando não estiver em operação, a plataforma deverá permanecer recolhida em compartimento integrado aoveículo, sem comprometer a segurança, a circulação interna ou a utilização regular do espaço destinado aospassageiros. O veículo deverá dispor de área reservada para acomodação de, no mínimo, 01 (uma) cadeira derodas, equipada com sistema de ancoragem e fixação, cinto de segurança para o usuário, espaço para manobrae sinalização de acessibilidade. (Descrição completa no anexo do termo.)",
+              "unidade": "UND",
+              "quantidade": "3,00",
+              "valor_referencia": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-125-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "723 / 2026",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "ADJUDICADO",
+      "condutor": "SERGIO CARNEIRO CAVALCANTI DE AZEVEDO",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO PARCELADA",
+      "publicacao": "06/08/2026 14:34",
+      "inicio_recepcao": "10/08/2026 08:00",
+      "fim_recepcao": "19/08/2026 08:15",
+      "inicio_disputa": "19/08/2026 08:30",
+      "objeto": "Contratação de empresa especializada em fornecimento de ESTRUTURAS DE REDES DE INFORMÁTICA (material de consumo e material permanente), a fim de atender as demandas da Secretaria Municipal de Administração e demais Secretarias.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DQIXFiHU6%2FHAIRYnQETZHh3xLDyigoGyCAf8F6h1yQ15g_h9twW7nPwcXFEvitin4qMQ%2Fx3xlESiQB9t87bUVLUHvGYQ19WiX9uRESkhZbjs%3D",
+      "total_lotes": 8,
+      "total_itens": 8,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "9900515876 CAIXA DE CABO DE REDE 100% COBRECAT5E::Características Técnicas- Categoria: CAT.5e;- Construção: U/UTP - 4 pares trançados compostos de condutores sólidos de cobre nu, 24 AWG, isoladosem polietileno especial;- Cor padrão: Azul claro;- Cap",
+          "fase": "ADJUDICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "252.171,00",
+          "vencedor": "TJ COMERCIO DE  PRODUTOS LTDA",
+          "melhor_oferta": "237.000,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515876 CAIXA DE CABO DE REDE 100% COBRECAT5E::Características Técnicas- Categoria: CAT.5e;- Construção: U/UTP - 4 pares trançados compostos de condutores sólidos de cobre nu, 24 AWG, isoladosem polietileno especial;- Cor padrão: Azul claro;- Capa externa: PVC na opção CMX;- Embalagem: Caixa FASTBOX em lance padrão de 305 metros;- Marcação sequencial métrica decrescente (305 - 0 m), que facilita a visualização da quantidade restantena caixa e no cálculo dos lances para instalação;- Diâmetro nominal: 4,8 mm; Massa líquida: 26 kg/km- NVP (Velocidade Nominal de Propagação): 68%;- 100% cobre- Certificado pela Anatel.Modelo de referência: CABO ELET. SOHOPLUS U/UTP CAT.5e 24AWGX4P",
+              "unidade": "CX",
+              "quantidade": "300,00",
+              "valor_referencia": "840,57"
+            }
+          ]
+        },
+        {
+          "numero": "2",
+          "titulo": "9900515877 BANDEJA PARA RACK:Bandeja fixa de 19polegadas, 1U de altura e 400mm. Tipo de fixação: Frontal sobre auxilio de porcas do tipo gaiola ventilado que promove melhor circulação de ar",
+          "fase": "ADJUDICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "601,80",
+          "vencedor": "GJ SOLUÇÕES EM LICITAÇÕES E ASSESSORIA LTDA",
+          "melhor_oferta": "601,80",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515877 BANDEJA PARA RACK:Bandeja fixa de 19polegadas, 1U de altura e 400mm. Tipo de fixação: Frontal sobre auxilio de porcas do tipo gaiola ventilado que promove melhor circulação de ar",
+              "unidade": "Und.",
+              "quantidade": "6,00",
+              "valor_referencia": "100,30"
+            }
+          ]
+        },
+        {
+          "numero": "3",
+          "titulo": "9900515878 ACCESS POINT UBIQUITI UNIFI WI-FI 7 U7-PRO:Dimensões: Ø206 x 46 mm (Ø8,1 x 1,8\") Standard WiFi: WiFi 7Área de Cobertura: 140 m² (1.500 ft²) Contagem Máxima de Clientes: +300 Uplink: 2,5 GbEMontagem: Teto, Parede (Pro Mount Incluído) Método d",
+          "fase": "ADJUDICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "178.229,07",
+          "vencedor": "THADS SERVICOS LTDA",
+          "melhor_oferta": "148.248,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515878 ACCESS POINT UBIQUITI UNIFI WI-FI 7 U7-PRO:Dimensões: Ø206 x 46 mm (Ø8,1 x 1,8\") Standard WiFi: WiFi 7Área de Cobertura: 140 m² (1.500 ft²) Contagem Máxima de Clientes: +300 Uplink: 2,5 GbEMontagem: Teto, Parede (Pro Mount Incluído) Método de Alimentação: PoE+6 GHz: 2 x 2 (DL/UL MU-MIMO)5 GHz: 2 x 2 (DL/UL MU-MIMO)2,4 GHz: 2 x 2 (DL/UL MU-MIMO)Taxa de Dados Máxima 6 GHz 5,8 Gbps (BW320)5 GHz: 4,3 Gbps (BW240)2,4 GHz: 688 Mbps (BW40)Ganho de Antena 6 GHz: 5.8 dBi5 GHz: 6 dBi2,4 GHz: 4 dBiPotência Máxima de Transmissão 6 GHz: 23 dBm5 GHz: 26 dBm2,4 GHz: 23 dBmMáx. BSSIDs: 8 por Rádio Taxas de Dados Suportadas802.11be (WiFi 7) 7,3 Mbps a 5,8 Gbps (MCS0 - MCS13 NSS1/2, EHT 20/40/80/160/240/320)802.11ax (WiFi 6/6E): 7,3 Mbps a 2,4 Gbps (MCS0 - MCS11 NSS1/2, HE 20/40/80/160)802.11ac (WiFi 5): 6,5 Mbps a 1,7 Gbps (MCS0 - MCS9 NSS1/2, VHT 20/40/80/160):802.11n: 6,5 Mbps a 300 Mbps (MCS0 - MCS15, HT 20/40) RECURSOS:Malha Sem Fio; Direcionamento de Banda;802.11v Gerenciamento de Transição BSS 802.11r Roaming Rápido802.11k Gerenciamento de Recursos de Rádio (RRM) Gerenciamento Avançado de RádioPasspoint (Hotspot 2.0) Portal de Hotspot CativoSuporte ao Servidor do Portal Externo Autenticação por SenhaIsolamento de Rede de Convidados Chave Pré-Compartilhada Privada (PPSK) Limitação de Velocidade do WiFi Isolamento de Dispositivo do Cliente Horários de WiFiRADIUS sobre TLS (RadSec)VLAN atribuída dinamicamente pelo RADIUS HARDWAREConsumo Máximo de Energia 21W Faixa de Tensão Suportada 44-57V CCInterface de Rede: (1) Porta RJ45 1/2,5 GbE Gerenciamento: EthernetMaterial de Fechamento: Policarbonato, metalMaterial de Montagem: Aço inoxidável (SUS304), aço galvanizado (SGCC)Frequência de Operação: EUA/CA:U-NII-1: 5150 - 5250 MHzU-NII-2A: 5250 - 5350 MHzU-NII-2C: 5470 - 5725 MHzU-NII-3: 5725 - 5850 MHzU-NII-5 a U-NII-8: 5925 - 7125 MHzV",
+              "unidade": "Und.",
+              "quantidade": "87,00",
+              "valor_referencia": "2.048,61"
+            }
+          ]
+        },
+        {
+          "numero": "4",
+          "titulo": "9900515879 FONTE UBIQUITI POE 48 V 0,5ª:- DIMENSÕES:91,8 X 59,9 X 33 MM (3,61 X 2,36 X 1,30 POL.)- VOLTAGEM DE SAÍDA: 48VDC @ 0.5A- TENSÃO DE ENTRADA: 90-260VAC A 47-63 HZ- CORRENTE DE ENTRADA: 0.6A @ 120VAC, 0.4A @ 240VAC- CORRENTE DE IRRUPÇÃO: <65A",
+          "fase": "ADJUDICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "5.382,90",
+          "vencedor": "DIGITALPAR INFORMÁTICA LTDA",
+          "melhor_oferta": "4.500,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515879 FONTE UBIQUITI POE 48 V 0,5ª:- DIMENSÕES:91,8 X 59,9 X 33 MM (3,61 X 2,36 X 1,30 POL.)- VOLTAGEM DE SAÍDA: 48VDC @ 0.5A- TENSÃO DE ENTRADA: 90-260VAC A 47-63 HZ- CORRENTE DE ENTRADA: 0.6A @ 120VAC, 0.4A @ 240VAC- CORRENTE DE IRRUPÇÃO: <65A PICO @ 120VAC, <130A PICO @ 230VAC- EFICIÊNCIA 80 +%- ONDULAÇÃO DE SAÍDA 1% MÁX.- FREQUÊNCIA DE COMUTAÇÃO 65 KHZ- REGULAMENTO DE LINHA ± 1%- REGULAMENTO DE CARGA ± 3%- CONECTOR CA IEC-320 C6- DATA IN / POE RJ45 SOCKE BLINDADO- ALIMENTAÇÃO DE 4 PARES: PINOS 4,5 (+) E PINOS 7,8 (- TEMPERATURA OPERACIONAL DE0 A 40 ° C (32 A 104 ° F)Voltagem: 100-240VAC @ 50/60Hz Fabricante: Ubiquiti",
+              "unidade": "Und.",
+              "quantidade": "30,00",
+              "valor_referencia": "179,43"
+            }
+          ]
+        },
+        {
+          "numero": "5",
+          "titulo": "9900515880 PATCH CORD CAT5E 1,5 MAMARELO:Informações Técnicas Modelo: FlexívelTemperatura máxima de trabalho: 80°C Categoria: 5e (CAT5e)Cor: Amarelo Comprimento: 1,5M Homologação: AnatelTransmissão de até 1000 Mbps e limite desempenho 100 MhzModelo d",
+          "fase": "ADJUDICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "4.345,60",
+          "vencedor": "STELLAR COMERCIO LTDA",
+          "melhor_oferta": "3.587,20",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515880 PATCH CORD CAT5E 1,5 MAMARELO:Informações Técnicas Modelo: FlexívelTemperatura máxima de trabalho: 80°C Categoria: 5e (CAT5e)Cor: Amarelo Comprimento: 1,5M Homologação: AnatelTransmissão de até 1000 Mbps e limite desempenho 100 MhzModelo de referência: Patch Cord CAT.5E SohoPlus CMX",
+              "unidade": "Und.",
+              "quantidade": "320,00",
+              "valor_referencia": "13,58"
+            }
+          ]
+        },
+        {
+          "numero": "6",
+          "titulo": "9900515881 PATCH CORD CAT5E 1,5 M AZUL:InformaçõesTécnicas Modelo: FlexívelTemperatura máxima de trabalho: 80°C Categoria: 5e (CAT5e)Cor: AZULComprimento: 1,5M Homologação: AnatelTransmissão de até 1000 Mbps e limite desempenho 100 MhzModelo de refe",
+          "fase": "ADJUDICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "4.345,60",
+          "vencedor": "M3. BUSINESS GROUP LTDA",
+          "melhor_oferta": "2.950,40",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515881 PATCH CORD CAT5E 1,5 M AZUL:InformaçõesTécnicas Modelo: FlexívelTemperatura máxima de trabalho: 80°C Categoria: 5e (CAT5e)Cor: AZULComprimento: 1,5M Homologação: AnatelTransmissão de até 1000 Mbps e limite desempenho 100 MhzModelo de referência: Patch Cord CAT.5E SohoPlus CMX",
+              "unidade": "Und.",
+              "quantidade": "320,00",
+              "valor_referencia": "13,58"
+            }
+          ]
+        },
+        {
+          "numero": "7",
+          "titulo": "9900515882 TESTADOR DE CABOS DE REDEPROFISSIONAL:- Características:- 2 Cabos de conexão RJ11- 2 Cabos de conexão RJ45- 2 Cordões- 1 Guia de início rápido- 2 Baterias de 9 volts- Pontas de teste com garras jacaré- Garantia: 1 anoModelo de referênci",
+          "fase": "ADJUDICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "7.112,76",
+          "vencedor": "R.V. DE S. NOVAIS LTDA.",
+          "melhor_oferta": "7.112,76",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515882 TESTADOR DE CABOS DE REDEPROFISSIONAL:- Características:- 2 Cabos de conexão RJ11- 2 Cabos de conexão RJ45- 2 Cordões- 1 Guia de início rápido- 2 Baterias de 9 volts- Pontas de teste com garras jacaré- Garantia: 1 anoModelo de referência: FLUKE-4586068 - Kit Sonda Digital 200 IntelliTone + Gerador de Tons IntelliTone 200 LAN",
+              "unidade": "Und.",
+              "quantidade": "3,00",
+              "valor_referencia": "2.370,92"
+            }
+          ]
+        },
+        {
+          "numero": "8",
+          "titulo": "5707611204 SWICTH24 PORTASGERENCIÁVEL::Especificações Técnicas:- Interface. 24× Portas RJ45 de 10/100/1000 Mbps- 4× Slots SFP Gigabit - 1× Porta de Console RJ45- 1× Porta de Console Micro-USB- Fonte de Alimentação 100-240 V AC~50/60 Hz- Dimensões (L",
+          "fase": "ADJUDICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "100.355,00",
+          "vencedor": "VANGUARDA INFORMATICA LTDA",
+          "melhor_oferta": "54.120,50",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "5707611204 SWICTH24 PORTASGERENCIÁVEL::Especificações Técnicas:- Interface. 24× Portas RJ45 de 10/100/1000 Mbps- 4× Slots SFP Gigabit - 1× Porta de Console RJ45- 1× Porta de Console Micro-USB- Fonte de Alimentação 100-240 V AC~50/60 Hz- Dimensões (L X C X A) 17.3 × 7.1 × 1.7 in (440 × 180 × 44 mm)- Consumo máximo de energia 19.9 W (220 V/50 Hz)- Dissipação de calor máxima 67.73 BTU/h (220 V/50 Hz) Desempenho:- Capacidade de Comutação 56 Gbps - Taxa de Encaminhamento de Pacotes 41.66 Mpps - Tabela deEndereços MAC 16K - Jumbo Frame 9 KB Software:- QoS . 8 filas de prioridade - Prioridade 802.1p CoS/DSCP- Agendamento de filas - SP (Strict Priority) - WRR (Weighted Round Robin) - SP+WRR - Controle deLargura de Banda - Limite de classificação com base na porta/fluxo - Desempenho mais suave - Açãopara fluxos- Espelhar (para a interface suportada) - Redirecionar (para a interface suportadal) - Limite de velocidade -Comentário de QoS Características L2 e L2+:- Agregação de links - Agregação de links estáticos- LACP 802.3ad - Até 8 grupos de agregação e até 8 portas por grupoProtocolo Spanning Tree:- 802.1d STP - 802.1w RSTP - 802.1s MSTP - Segurança doSTP: TC Protect, Filtro BPDU, BPDU Protect, Root Protect, Loop Protect Detecção de Loopback:- Baseado na porta - VLAN based Controle de fluxo:- Controle de Fluxo 802.3x - Prevenção de bloqueios HOL Espelhamento:- Espelhamento de portas - Espelhamento de CPU- Um para um - Muitos para um- Transmissão/Recepção/Ambos- L2 Multicast - Suporta 511 grupos IGMP (IPv4, IPv6) IGMP Snooping:- IGMP v1/v2/v3 Snooping - Fast Leave - IGMP Snooping Querier- IGMP Authentication - IGMP Authentication ? MVR MLD Snooping:- MLD v1/v2 Snooping - Fast Leave - MLD Snooping Querier - Configuração de grupos estáticos -Multicast IP limitado- Filtragem Multicast: 256 perfis e 16 entradas por perfil VLAN Grupo VLAN:- Máximo de 4.000 Grupos de VLAN - 802.1q tagged VLAN - VLAN MAC: 12 entradas - ProtocoloVLAN: Modelo de protocolo 16, protocolo VLAN 16 - GVRP -VLAN VPN (QinQ) - QinQ baseado na porta- QinQ seletivo - VLAN de Voz Lista de Controle de Acesso:- ACL baseada no tempo - MAC ACL - MAC de origem - MAC de destino- ID da VLAN - Prioridade do usuário - Tipo Ether IP ACL:- IP de origem - IP de destino - Fragmento - Protocolo IP- Marcação TCP - Porta TCP/UDP - DSCP/IP TOS Garantia do Fornecedor 12 mesesLinha Switch L2+ 24 Portas Gigabit Com 4 SFPPeso: Apro",
+              "unidade": "Und.",
+              "quantidade": "50,00",
+              "valor_referencia": "2.007,10"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "CD-005-2025",
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "758/2025",
       "modalidade": "CREDENCIAMENTO",
-      "situacao": "SUSPENSO",
+      "situacao": "EM FINALIZAÇÃO",
       "condutor": "MAGDA DE SELES GUIMARÃES",
       "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
       "tipo_contrato": "AQUISIÇÃO",
-      "publicacao": "03/06/2025 11:48",
+      "publicacao": "03/06/2025 16:35",
       "inicio_recepcao": "13/06/2025 08:00",
-      "fim_recepcao": "15/06/2026 00:00",
+      "fim_recepcao": "15/06/2026 08:00",
       "inicio_disputa": "",
-      "objeto": "Credenciamento de pessoa jurídica para PRESTAÇÃO DE SERVIÇOS\n MÉDICOS ESPECIALIZADOS EM ANÁLISE PATOLÓGICA para atender as demandas da\n Secretaria Municipal de Saúde.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DJQ%2F6Pqc6Bffjt22GGjYjAocxa4mxXzWtTZxEnno7s23Ui9U2%2FyTb6HPsFYDFmDx8xD9udwRfA88W_EMMk3sOW8M_DwpA3UonrkOivroU9Ts%3D",
-      "total_lotes": 9,
-      "total_itens": 9,
+      "objeto": "CREDENCIAMENTO DE PESSOA JURÍDICA PARA PRESTAÇÃO DE SERVIÇOS MÉDICOS ESPECIALIZADOS EM ANÁLISE PATOLÓGICA PARA ATENDER AS DEMANDAS DA SECRETARIA MUNICIPAL DE SAÚDE",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5D2CvPhwiF6k2TZ2w1e8PQDaf6REQSfv0VSImtb6dG02sGRWXOGfIz_ve9wRbxf9QoRSlscqF9X_IUj9H%2FKlPEny%2Ff2YoA%2F61GjTzZMbKIqA4%3D",
+      "total_lotes": 6,
+      "total_itens": 6,
       "lotes": [
         {
           "numero": "1",
-          "titulo": "33436 BIÓPSIA SIMPLES:BIÓPSIA SIMPLES",
-          "fase": "SUSPENSO",
+          "titulo": "33436 BIÓPSIA SIMPLES",
+          "fase": "HABILITAÇÃO",
           "tipo": "UNITÁRIO",
           "quantidade": "1",
           "intervalo_minimo": "0,00",
           "exclusivo_me": "NÃO",
-          "local_entrega": "",
-          "garantia": "",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
           "valor_referencia": "60,19",
           "vencedor": "",
           "melhor_oferta": "0,00",
@@ -306756,45 +306756,21 @@
               "numero": "1",
               "especificacao": "33436 BIÓPSIA SIMPLES:BIÓPSIA SIMPLES",
               "unidade": "SERV",
-              "quantidade": "1.875,00",
+              "quantidade": "2.500,00",
               "valor_referencia": "60,19"
             }
           ]
         },
         {
           "numero": "2",
-          "titulo": "909911235 BIOPSIA SIMPLES:BIÓPSIA SIMPLES. COTA DE 25% RESERVADA PARA  ME/EPP.",
-          "fase": "SUSPENSO",
+          "titulo": "9903311392 CITOLOGIA EM MEIO LIQUIDO",
+          "fase": "HABILITAÇÃO",
           "tipo": "UNITÁRIO",
           "quantidade": "1",
           "intervalo_minimo": "0,00",
-          "exclusivo_me": "SIM",
-          "local_entrega": "",
-          "garantia": "",
-          "valor_referencia": "60,19",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "909911235 BIOPSIA SIMPLES:BIÓPSIA SIMPLES. COTA DE 25% RESERVADA PARA ME/EPP.",
-              "unidade": "SERV",
-              "quantidade": "625,00",
-              "valor_referencia": "60,19"
-            }
-          ]
-        },
-        {
-          "numero": "3",
-          "titulo": "9903311392 CITOLOGIA EM MEIO LIQUIDO - BRONQUIO: CITOLOGIA EM MEIO LIQUIDO - BRONQUIO EXCLUSIVO PARA ME/EPP",
-          "fase": "SUSPENSO",
-          "tipo": "UNITÁRIO",
-          "quantidade": "1",
-          "intervalo_minimo": "0,00",
-          "exclusivo_me": "SIM",
-          "local_entrega": "",
-          "garantia": "",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
           "valor_referencia": "62,25",
           "vencedor": "",
           "melhor_oferta": "0,00",
@@ -306802,7 +306778,7 @@
           "itens": [
             {
               "numero": "1",
-              "especificacao": "CITOLOGIA EM MEIO LIQUIDO - BRONQUIO: CITOLOGIA EM MEIO LIQUIDO - BRONQUIO EXCLUSIVO PARA ME/EPP",
+              "especificacao": "9903311392 CITOLOGIA EM MEIO LIQUIDO - BRONQUIO:CITOLOGIA EM MEIO LIQUIDO - BRONQUIO.",
               "unidade": "SERV",
               "quantidade": "100,00",
               "valor_referencia": "62,25"
@@ -306810,15 +306786,15 @@
           ]
         },
         {
-          "numero": "4",
-          "titulo": "9903311373 COLORAÇÃO ESPECIAL:Marcação da biópsia por corantes especiais. EXCLUSIVO PARA ME/EPP",
-          "fase": "SUSPENSO",
+          "numero": "3",
+          "titulo": "9903311373 COLORAÇÃO ESPECIAL",
+          "fase": "HABILITAÇÃO",
           "tipo": "UNITÁRIO",
           "quantidade": "1",
           "intervalo_minimo": "0,00",
-          "exclusivo_me": "SIM",
-          "local_entrega": "",
-          "garantia": "",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
           "valor_referencia": "33,65",
           "vencedor": "",
           "melhor_oferta": "0,00",
@@ -306826,7 +306802,7 @@
           "itens": [
             {
               "numero": "1",
-              "especificacao": "9903311373 COLORAÇÃO ESPECIAL:Marcação da biópsia por corantes especiais. EXCLUSIVO PARA ME/EPP",
+              "especificacao": "9903311373 COLORAÇÃO ESPECIAL: Marcação da biópsia por corantes especiais.",
               "unidade": "SERV",
               "quantidade": "50,00",
               "valor_referencia": "33,65"
@@ -306834,15 +306810,15 @@
           ]
         },
         {
-          "numero": "5",
-          "titulo": "9903311378 CORE BYOPSY:CORE BYOPSY. EXCLUSIVO PARA ME/EPP",
-          "fase": "SUSPENSO",
+          "numero": "4",
+          "titulo": "9903311378 CORE BYOPSY",
+          "fase": "HABILITAÇÃO",
           "tipo": "UNITÁRIO",
           "quantidade": "1",
           "intervalo_minimo": "0,00",
-          "exclusivo_me": "SIM",
-          "local_entrega": "",
-          "garantia": "",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
           "valor_referencia": "68,46",
           "vencedor": "",
           "melhor_oferta": "0,00",
@@ -306850,7 +306826,7 @@
           "itens": [
             {
               "numero": "1",
-              "especificacao": "9903311378 CORE BYOPSY:CORE BYOPSY. EXCLUSIVO PARA ME/EPP",
+              "especificacao": "9903311378 CORE BYOPSY:CORE BYOPSY.",
               "unidade": "SERV",
               "quantidade": "100,00",
               "valor_referencia": "68,46"
@@ -306858,15 +306834,15 @@
           ]
         },
         {
-          "numero": "6",
-          "titulo": "33437 PEÇA CIRÚRGICA SIMPLES:PEÇA CIRÚRGICA SIMPLES",
-          "fase": "SUSPENSO",
+          "numero": "5",
+          "titulo": "33437 PEÇA CIRÚRGICA SIMPLES",
+          "fase": "HABILITAÇÃO",
           "tipo": "UNITÁRIO",
           "quantidade": "1",
           "intervalo_minimo": "0,00",
           "exclusivo_me": "NÃO",
-          "local_entrega": "",
-          "garantia": "",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
           "valor_referencia": "75,00",
           "vencedor": "",
           "melhor_oferta": "0,00",
@@ -306876,45 +306852,21 @@
               "numero": "1",
               "especificacao": "33437 PEÇA CIRÚRGICA SIMPLES:PEÇA CIRÚRGICA SIMPLES",
               "unidade": "SERV",
-              "quantidade": "1.875,00",
+              "quantidade": "2.500,00",
               "valor_referencia": "75,00"
             }
           ]
         },
         {
-          "numero": "7",
-          "titulo": "9909911236 PEÇA CIRURGICA SIMPLES:PEÇA CIRURGICA SIMPLES. COTA DE 25% RESERVADA PARA ME/EPP",
-          "fase": "SUSPENSO",
-          "tipo": "UNITÁRIO",
-          "quantidade": "1",
-          "intervalo_minimo": "0,00",
-          "exclusivo_me": "SIM",
-          "local_entrega": "",
-          "garantia": "",
-          "valor_referencia": "75,00",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9909911236 PEÇA CIRURGICA SIMPLES:PEÇA CIRURGICA SIMPLES. COTA DE 25% RESERVADA PARA ME/EPP",
-              "unidade": "SERV",
-              "quantidade": "625,00",
-              "valor_referencia": "75,00"
-            }
-          ]
-        },
-        {
-          "numero": "8",
-          "titulo": "9903311384 PEÇA CIRÚRGICA COMPLEXA:PEÇA CIRÚRGICA COMPLEXA",
-          "fase": "SUSPENSO",
+          "numero": "6",
+          "titulo": "9903311384 PEÇA CIRÚRGICA COMPLEXA",
+          "fase": "HABILITAÇÃO",
           "tipo": "UNITÁRIO",
           "quantidade": "1",
           "intervalo_minimo": "0,00",
           "exclusivo_me": "NÃO",
-          "local_entrega": "",
-          "garantia": "",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
           "valor_referencia": "243,42",
           "vencedor": "",
           "melhor_oferta": "0,00",
@@ -306924,31 +306876,7 @@
               "numero": "1",
               "especificacao": "9903311384 PEÇA CIRÚRGICA COMPLEXA:PEÇA CIRÚRGICA COMPLEXA",
               "unidade": "UN",
-              "quantidade": "1.125,00",
-              "valor_referencia": "243,42"
-            }
-          ]
-        },
-        {
-          "numero": "9",
-          "titulo": "9909911237 PEÇA CIRURGICA COMPLEXA:PEÇA CIRURGICA COMPLEXA. COTA DE  25%  RESERVADA PARA ME/EPP.",
-          "fase": "SUSPENSO",
-          "tipo": "UNITÁRIO",
-          "quantidade": "1",
-          "intervalo_minimo": "0,00",
-          "exclusivo_me": "SIM",
-          "local_entrega": "",
-          "garantia": "",
-          "valor_referencia": "243,42",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9909911237 PEÇA CIRURGICA COMPLEXA:PEÇA CIRURGICA COMPLEXA. COTA DE 25% RESERVADA PARA ME/EPP.",
-              "unidade": "SERV",
-              "quantidade": "375,00",
+              "quantidade": "1.500,00",
               "valor_referencia": "243,42"
             }
           ]
@@ -306960,38 +306888,38 @@
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "705/2024",
       "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "HOMOLOGADO",
-      "condutor": "MAGDA DE SELES GUIMARÃES",
+      "situacao": "SUSPENSO",
+      "condutor": "VICTOR KINIDEL DETHLING",
       "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
       "tipo_contrato": "AQUISIÇÃO",
-      "publicacao": "13/06/2024 18:49",
-      "inicio_recepcao": "14/06/2024 08:00",
-      "fim_recepcao": "10/07/2024 13:45",
-      "inicio_disputa": "10/07/2024 14:00",
-      "objeto": "O objeto da presente licitação é a contratação de INSTITUIÇÃO FINANCEIRA ESPECIALIZADA NA PRESTAÇÃO DE SERVIÇOS BANCÁRIOS PARA CENTRALIZAÇÃO, GERENCIAMENTO E PROCESSAMENTO DE CRÉDITOS DA FOLHA DE PAGAMENTO DOS SERVIDORES, a fim de atender as demandas da Secretaria Municipal de Administração, conforme condições, quantidades e especificações no Edital, Termo de Referência e seus Anexos.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DF10wn0gNFsU9Nm1XsbtApV72ZIGkVriXkgWJX7nEpHmbtdbpqLVnBbu3omiDF1mNB3bwlu%2F9BB8bCC%2FjENvM90LyyzHVaCqEzOM0VFl2cKU%3D",
+      "publicacao": "15/05/2024 18:26",
+      "inicio_recepcao": "16/05/2024 08:00",
+      "fim_recepcao": "12/06/2024 09:45",
+      "inicio_disputa": "12/06/2024 10:00",
+      "objeto": "Contratação de instituição financeira para prestação de serviços bancários para centralização, gerenciamento e processamento de créditos da folha de pagamento dos servidores, a fim de atender as demandas da Prefeitura de Teixeira de Freitas, conforme condições, quantidades e especificações no Edital, Termo de Referência e seus Anexos.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DxSOTzXWpcCZlbDJlZOWYuL0I9w7AkQvPp_ZDW3qLfbpR1154LVNduT7tQ64KrBbaTs6lD98YtNJAA%2F58BgGEK2PawhVpq4lwy9%2F_7mtqqGU%3D",
       "total_lotes": 1,
       "total_itens": 1,
       "lotes": [
         {
           "numero": "1",
-          "titulo": "SERVIÇOS BANCÁRIOS",
-          "fase": "HOMOLOGADO",
-          "tipo": "GLOBAL",
+          "titulo": "LOTE 01",
+          "fase": "SUSPENSO",
+          "tipo": "UNITÁRIO",
           "quantidade": "1",
-          "intervalo_minimo": "0,01",
+          "intervalo_minimo": "100,00",
           "exclusivo_me": "NÃO",
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "6.052.150,00",
-          "vencedor": "ITAÚ UNIBANCO S.A.",
-          "melhor_oferta": "6.053.000,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
           "total_itens": 1,
           "itens": [
             {
               "numero": "1",
               "especificacao": "CONTRATAÇÃO DE INSTITUIÇÃO FINANCEIRA: ESPECIALIZADA NA PRESTAÇÃO DE SERVIÇOS BANCÁRIOS PARA CENTRALIZAÇÃO, GERENCIAMENTO E PROCESSAMENTO DE CRÉDITOS DA FOLHA DE PAGAMENTO DOS SERVIDORES DA PREFEITURA MUNICIPAL DE TEIXEIRA DE FREITAS/BA.",
-              "unidade": "UN",
+              "unidade": "SERVIÇO",
               "quantidade": "1,00",
               "valor_referencia": "6.052.150,00"
             }
