@@ -1,9 +1,9 @@
 {
   "metadata": {
     "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-    "total_registros": 709,
-    "total_itens": 2411,
-    "atualizado_em": "20260910_185640"
+    "total_registros": 715,
+    "total_itens": 2419,
+    "atualizado_em": "20260922_111526"
   },
   "registros": [
     {
@@ -39710,6 +39710,218 @@
           "marca": "NÃO SE APLICA",
           "modelo": "NÃO SE APLICA",
           "valor": "563856,7200"
+        }
+      ]
+    },
+    {
+      "id": "3IL-145-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "1049/2026",
+      "modalidade": "INEXIGIBILIDADE",
+      "status": "CONCLUÍDA",
+      "coordenador": "ISLA LIMA SILVA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "ano_referencia": "2026",
+      "data_publicacao": "18/09/2026 11:08:04",
+      "data_conclusao": "18/09/2026 11:08:08",
+      "artigo": "Art. 74º",
+      "inciso": "caput",
+      "justificativa": "Arts. 74, IV, e 79, I da Lei Federal nº 14.133/2021, Decreto Municipal nº 85, de 2024, em seus arts. 2º, I, e 5º, VII e demais legislações e regulamentações específicas.",
+      "legislacao": "Lei nº 14.133",
+      "objeto": "Empresa MPCE SERVIÇOS MEDICOS LTDA, para prestação de serviços na ATENÇÃO ESPECIALIZADA DE TRATAMENTO ESCLEROSANTE NÃO ESTÉTICO DE VARIZES EM NÍVEL AMBULATORIAL, AOS USUÁRIOS DO SISTEMA ÚNICO DE SAÚDE - SUS conforme o edital de credenciamento CD-009/2026.",
+      "observacao": "",
+      "link": "https://bllcompras.com/DirectBuy/DirectBuyView?param1=%5Bgkz%5DsGNJ7jiBhCy2sS%2F26W4k3rj0nAQurc6fI2E9NQmaN2Wm6gH0pDQBfThyneAOZLMgem4jWmTaFp5QJgQHrTfM9F8dlfZbFTg27f3TrFg4Cpo%3D",
+      "total_itens": 2,
+      "itens": [
+        {
+          "numero": "1",
+          "descricao": "206810783 Tratamento Esclerosante: Não Estético de Varizes dos Membros Inferiores (Unilateral)",
+          "quantidade": "1200,0000",
+          "unidade": "SERV",
+          "fornecedor": "MPCE SERVICOS MEDICOS LTDA",
+          "marca": "NÃO SE APLICA",
+          "modelo": "NÃO SE APLICA",
+          "valor": "300,7800"
+        },
+        {
+          "numero": "2",
+          "descricao": "206810784 Tratamento Esclerosante: Não Estético de Varizes dos Membros Inferiores (Bilateral)",
+          "quantidade": "5400,0000",
+          "unidade": "SERV",
+          "fornecedor": "MPCE SERVIÇOS MÉDICOS LTDA",
+          "marca": "NÃO SE APLICA",
+          "modelo": "NÃO SE APLICA",
+          "valor": "392,6200"
+        }
+      ]
+    },
+    {
+      "id": "3IL-142-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "1006/2026",
+      "modalidade": "INEXIGIBILIDADE",
+      "status": "CONCLUÍDA",
+      "coordenador": "ISLA LIMA SILVA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "ano_referencia": "2026",
+      "data_publicacao": "18/09/2026 09:19:48",
+      "data_conclusao": "18/09/2026 09:20:00",
+      "artigo": "Art. 74º",
+      "inciso": "IV",
+      "justificativa": "Arts. 74, IV, e 79, I da Lei Federal nº 14.133/2021, Decreto Municipal nº 85, de 2024, em seus arts. 2º, I, e 5º, VII e demais legislações e regulamentações específicas.",
+      "legislacao": "Lei nº 14.133",
+      "objeto": "Empresa EMANOEL DOS SANTOS PEREIRA LTDA, para prestação de serviços médicos especializados (CLINICO GERAL) conforme o edital de credenciamento CD-002/2025, para atender às necessidades da Atenção Básica.",
+      "observacao": "sob responsabilidade da Secretaria Municipal de Saúde.",
+      "link": "https://bllcompras.com/DirectBuy/DirectBuyView?param1=%5Bgkz%5DSBc9EBbr72PT%2FkEduD4QGHkGXjzMz1P9Zhl5iitfVrD8Nj0Su%2FuRNWN1yOsfXuUaspm9_6ine5gJnd93PUl5a7tYGObWZCjDcGNTR%2FUn1sg%3D",
+      "total_itens": 1,
+      "itens": [
+        {
+          "numero": "1",
+          "descricao": "206800009 MEDICO ESTRATEGIA SAUDE DA FAMILIA:MEDICO ESTRATEGIA DA SAUDE DA FAMILIA 40 HORAS",
+          "quantidade": "12,0000",
+          "unidade": "SER",
+          "fornecedor": "EMANOEL DOS SANTOS PEREIRA LTDA",
+          "marca": "NAO SE APLICA",
+          "modelo": "NAO SE APLICA",
+          "valor": "10200,0000"
+        }
+      ]
+    },
+    {
+      "id": "2IL-147-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "1063/2026",
+      "modalidade": "INEXIGIBILIDADE",
+      "status": "CONCLUÍDA",
+      "coordenador": "ISLA LIMA SILVA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "ano_referencia": "2026",
+      "data_publicacao": "18/09/2026 09:10:01",
+      "data_conclusao": "18/09/2026 09:10:04",
+      "artigo": "Art. 74º",
+      "inciso": "IV",
+      "justificativa": "Art. 74, inciso IV, da Lei nº 14.133/2021; no art. 79, inciso I, da Lei nº 14.133/2021 e no Decreto Municipal nº 85/2024.",
+      "legislacao": "Lei nº 14.133",
+      "objeto": "Contratação do artista GROOVAII para atender as demandas da Secretaria Municipal de\nAdministração, conforme Edital 08/2026.",
+      "observacao": "",
+      "link": "https://bllcompras.com/DirectBuy/DirectBuyView?param1=%5Bgkz%5DItb42LJSuQeiiSquVE1%2FIL8YwyjrkJd3XRkjekeuqD8BhPtnXwsSkV5xdE2E0%2FWzumQAdM9tK2UvFJkRpYyKE7z3_LOaTqWLM03ONXDv9Sg%3D",
+      "total_itens": 1,
+      "itens": [
+        {
+          "numero": "1",
+          "descricao": "100200452 Banda formada com no mínimo 5 integrantes músicos: Um vocal solo ou dividido em dupla em harmonia, com demais integrantes músicos instrumentistas. Para públicos eshows maiores. O repertório poderá ser único ou variado a ser combinado com a Contratante, abrangendo diversos gêneros para eventos de médio a grande porte. Duração da apresentação: Mínimo de 03 (três) horas, com possibilidade de intervalo de até 15 minutos",
+          "quantidade": "2,0000",
+          "unidade": "SERV",
+          "fornecedor": "63.877.985 RUBERVAL DA SILVA BALIEIRO",
+          "marca": "NÃO SE APLICA",
+          "modelo": "NÃO SE APLICA",
+          "valor": "4000,0000"
+        }
+      ]
+    },
+    {
+      "id": "2IL-146-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "1062/2026",
+      "modalidade": "INEXIGIBILIDADE",
+      "status": "CONCLUÍDA",
+      "coordenador": "ISLA LIMA SILVA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "ano_referencia": "2026",
+      "data_publicacao": "18/09/2026 08:55:47",
+      "data_conclusao": "18/09/2026 09:02:01",
+      "artigo": "Art. 74º",
+      "inciso": "IV",
+      "justificativa": "Art. 74, inciso IV, da Lei nº 14.133/2021; no art. 79, inciso I, da Lei nº 14.133/2021 e no Decreto Municipal nº 85/2024.",
+      "legislacao": "Lei nº 14.133",
+      "objeto": "Contratação do artista BALADA VIP para atender as demandas da Secretaria Municipal de\nAdministração, conforme Edital 08/2026.",
+      "observacao": "",
+      "link": "https://bllcompras.com/DirectBuy/DirectBuyView?param1=%5Bgkz%5Dah9W1Um2qN_KeX5SedjuqhusDnjmNEobCVQ3btFDeiB6KfyAHNZ9Z0_vCBgkVfaSkGPgWsQN8rP%2Fr%2Fkzdm2sBPUv9BO_4_MBKEDluf9hPWQ%3D",
+      "total_itens": 1,
+      "itens": [
+        {
+          "numero": "1",
+          "descricao": "100200452 Banda formada com no mínimo 5 integrantes músicos: Um vocal solo ou dividido em dupla em harmonia, com demais integrantes músicos instrumentistas. Para públicos e shows maiores. O repertório poderá ser único ou variado a ser combinado com a Contratante, abrangendo diversos gêneros para eventos de médio a grande porte. Duração da apresentação: Mínimo de 03 (três) horas, com possibilidade de intervalo de até 15 minutos",
+          "quantidade": "2,0000",
+          "unidade": "SERV",
+          "fornecedor": "63.797.700 CELSO FRANCO SILVA",
+          "marca": "NÃO SE APLICA",
+          "modelo": "NÃO SE APLICA",
+          "valor": "4000,0000"
+        }
+      ]
+    },
+    {
+      "id": "2IL-141-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "986/2026",
+      "modalidade": "INEXIGIBILIDADE",
+      "status": "CONCLUÍDA",
+      "coordenador": "ISLA LIMA SILVA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "ano_referencia": "2026",
+      "data_publicacao": "17/09/2026 18:14:37",
+      "data_conclusao": "17/09/2026 18:14:40",
+      "artigo": "Art. 74º",
+      "inciso": "V",
+      "justificativa": "art. 74, V da Lei Federal n.º 14.133, de 2021 e art. 5º, §§1º e 3º do Decreto Municipal n.º 303, 26 de março de 2025.",
+      "legislacao": "Lei nº 14.133",
+      "objeto": "LOCAÇÃO DE IMÓVEL localizado na rua Egberto Rabelo Pina, nº 100, bairro Redenção, Teixeira de Freitas-BA para INSTALAÇÃO DA CRECHE SANTA RITA, de responsabilidade da Secretaria Municipal de Educação.",
+      "observacao": "",
+      "link": "https://bllcompras.com/DirectBuy/DirectBuyView?param1=%5Bgkz%5DAPdL19_SSTAAQ63ly3QLqMf%2FyhNoMrrjcb__qcNfWq%2FXzhBQwwcDj_HvI8GYYPj_pSPUg9mDshp48nOJbaifFuk9K%2F1TWfVjxbHMtQwDtX8%3D",
+      "total_itens": 1,
+      "itens": [
+        {
+          "numero": "1",
+          "descricao": "9909910126 ALUGUEL DE IMOVEL.:ALUGUEL DE IMOVEL.",
+          "quantidade": "12,0000",
+          "unidade": "SERV",
+          "fornecedor": "ESCOLA VALES DOS LÍRIOS",
+          "marca": "NÃO SE APLICA",
+          "modelo": "NÃO SE APLICA",
+          "valor": "5000,0000"
+        }
+      ]
+    },
+    {
+      "id": "DLS-061-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "391/2026",
+      "modalidade": "DISPENSA",
+      "status": "CONCLUÍDA",
+      "coordenador": "ISLA LIMA SILVA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "ano_referencia": "2026",
+      "data_publicacao": "17/09/2026 18:05:46",
+      "data_conclusao": "17/09/2026 18:05:54",
+      "artigo": "Art. 75º",
+      "inciso": "II",
+      "justificativa": "art. n.º 75, inciso II",
+      "legislacao": "Lei nº 14.133",
+      "objeto": "Contratação de profissional ou empresa especializada para capacitação de agentes culturais (prestação de serviço), a fim de atender as necessidades da Secretaria Municipal de Cultura e Turismo.",
+      "observacao": "",
+      "link": "https://bllcompras.com/DirectBuy/DirectBuyView?param1=%5Bgkz%5DRetHPKaXJMXH8uIUntHArP0p6OxfNMTopbvvlkCfulDTFl5kXoslE%2F36KjU6QliO1Snssi0lI6SpGW3ztlXkKJdGIxzVklr_joi%2FPn_3owI%3D",
+      "total_itens": 2,
+      "itens": [
+        {
+          "numero": "1",
+          "descricao": "37284 Prestação de serviços técnicos especializados narealização de curso para agentes culturais:visando a elaboraçãode propostas para acessar os fomentos via editais da PolíticaNacional Aldir Blanc - PNAB, com 08 (oito) encontros de 04(quatro) horas cada",
+          "quantidade": "32,0000",
+          "unidade": "HR",
+          "fornecedor": "SARUE CULTURAL GESTAO E EVENTOS LTDA",
+          "marca": "NÃO SE APLICA",
+          "modelo": "NÃO SE APLICA",
+          "valor": "562,9500"
+        },
+        {
+          "numero": "2",
+          "descricao": "9903311963 Prestação de serviços técnicos especializados noatendimento remoto ao agente cultural:por meio de plantão paratirar dúvidas e apoio administrativo.",
+          "quantidade": "8,0000",
+          "unidade": "HR",
+          "fornecedor": "SARUE CULTURAL GESTAO E EVENTOS LTDA",
+          "marca": "NÃO SE APLICA",
+          "modelo": "NÃO SE APLICA",
+          "valor": "498,2000"
         }
       ]
     }
