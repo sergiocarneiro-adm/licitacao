@@ -1,10 +1,10 @@
 {
   "metadata": {
     "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-    "total_processos": 924,
-    "total_lotes": 10186,
+    "total_processos": 925,
+    "total_lotes": 10185,
     "total_itens": 16859,
-    "atualizado_em": "20261001_092655"
+    "atualizado_em": "20261002_125424"
   },
   "processos": [
     {
@@ -294674,170 +294674,6 @@
       ]
     },
     {
-      "id": "PE-127-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "648 / 2026",
-      "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "RECEPÇÃO DE PROPOSTAS",
-      "condutor": "SERGIO CARNEIRO CAVALCANTI DE AZEVEDO",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "REGISTRO DE PREÇO",
-      "publicacao": "11/08/2026 12:04",
-      "inicio_recepcao": "17/09/2026 08:00",
-      "fim_recepcao": "29/09/2026 08:45",
-      "inicio_disputa": "29/09/2026 09:00",
-      "objeto": "Contratação de empresa especializada em fornecimento de ÔNIBUS ESCOLARES,  a fim de atender as demandas da Secretaria Municipal de Educação.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5D6KXMkou3ZuKfbvLZ4C99bJiyJcxgP8NExgtWWvqjOhSHE_hMFHBKYqfVZ%2FasR9q20HKHPQGdU7VZXs_mfkQuz2uERWVtYnfxpDCxMXFoH10%3D",
-      "total_lotes": 6,
-      "total_itens": 6,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "2301000015 ÔNIBUS ESCOLAR - ORE 1:novo, zero quilômetro, de fabricação nacional, destinado ao transporte escolar, com comprimento mínimo de 7.000 mm, capacidade mínima para 29 estudantes sentados, equipado com motor dianteiro de potência mínima de 110 kW,",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "ÔNIBUS ESCOLAR ORE 1: novo, zero quilômetro, de fabricação nacional, destinado ao transporte escolar,com comprimento mínimo de 7.000 mm, capacidade mínima para 29 estudantes sentados, equipado com motordianteiro de potência mínima de 110 kW equivalente a aproximadamente 150 CV, transmissão manual, direçãohidráulica, suspensão metálica e sistema de freios pneumático e/ou hidráulico. Equipado com sistema de arcondicionado automotivo de fábrica ou homologado pelo fabricante/implementador, adequado para operaçãoem transporte escolar, com capacidade compatível com o volume interno do veículo, distribuidores de ar aolongo do salão de passageiros, garantindo conforto térmico aos ocupantes durante o deslocamento. O veículodeverá atender integralmente às especificações técnicas, requisitos de segurança, acessibilidade, iluminação,sinalização e demais características estabelecidas pelo Fundo Nacional de Desenvolvimento da Educação(FNDE), Programa Caminho da Escola, Código de Trânsito Brasileiro (CTB), Conselho Nacional de Trânsito(CONTRAN), Associação Brasileira de Normas Técnicas (ABNT) e demais normas aplicáveis. Deverá possuirsistema de acessibilidade por meio de Plataforma Elevatória Veicular (PEV) ou tecnologia equivalentecertificada, destinada ao embarque e desembarque de pessoas com deficiência ou mobilidade reduzida,permitindo a elevação do usuário, inclusive em cadeira de rodas, entre o nível externo e o piso interno do veículosem necessidade de transferência para assento interno. O sistema deverá possuir acionamento eletro-hidráulico,eletromecânico ou tecnologia equivalente, dispositivos de segurança, comandos de emergência, barreiras deproteção, sistema de parada segura, capacidade compatível com usuários cadeirantes e certificação compulsóriajunto aos órgãos competentes, observadas as exigências do Inmetro e da legislação aplicável. Quando nãoestiver em operação, a plataforma deverá permanecer recolhida em compartimento integrado ao veículo, semcomprometer a segurança, a circulação interna ou a utilização regular do espaço destinado aos passageiros. Oveículo deverá dispor de área reservada para acomodação de, no mínimo, 02 (duas) cadeiras de rodas, equipadacom sistema de ancoragem e fixação, cinto de segurança para o usuário, (Descrição completa no anexo do termo.)",
-              "unidade": "UND",
-              "quantidade": "11,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "2",
-          "titulo": "35832 ÔNIBUS ESCOLAR - ORE 1 4x4:novo, zero quilômetro, de fabricação nacional, destinado ao transporte escolar em áreas rurais de difícil acesso, equipado com tração 4x4, comprimento mínimo de 7.000 mm, capacidade mínima para 23 estudantes sentados, moto",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "ÔNIBUS ESCOLAR ORE 1 4x4: novo, zero quilômetro, de fabricação nacional, destinado ao transporte escolarem áreas rurais de difícil acesso, equipado com tração 4x4, comprimento mínimo de 7.000 mm, capacidademínima para 23 estudantes sentados, motor dianteiro com potência mínima de 110 kW equivalente aaproximadamente 150 CV, transmissão manual, direção hidráulica, diferencial com bloqueio, suspensãoreforçada e pneus de uso misto para estradas pavimentadas e não pavimentadas. Equipado com sistema de arcondicionado automotivo de fábrica ou homologado pelo fabricante/implementador, adequado para operaçãoem transporte escolar, com capacidade compatível com o volume interno do veículo, distribuidores de ar aolongo do salão de passageiros, garantindo conforto térmico aos ocupantes durante o deslocamento. O veículodeverá atender integralmente às especificações técnicas, requisitos de segurança, acessibilidade, iluminação,sinalização e demais características estabelecidas pelo Fundo Nacional de Desenvolvimento da Educação(FNDE), Programa Caminho da Escola, Código de Trânsito Brasileiro (CTB), Conselho Nacional de Trânsito(CONTRAN), Associação Brasileira de Normas Técnicas (ABNT) e demais normas aplicáveis. Deverá possuirsistema de acessibilidade por meio de Plataforma Elevatória Veicular (PEV) ou tecnologia equivalentecertificada, destinada ao embarque e desembarque de pessoas com deficiência ou mobilidade reduzida,permitindo a elevação do usuário, inclusive em cadeira de rodas, entre o nível externo e o piso interno do veículosem necessidade de transferência para assento interno. O sistema deverá possuir acionamento eletro-hidráulico,eletromecânico ou tecnologia equivalente, dispositivos de segurança, comandos de emergência, barreiras deproteção, sistema de parada segura, capacidade compatível com usuários cadeirantes e certificação compulsóriajunto aos órgãos competentes, observadas as exigências do Inmetro e da legislação aplicável. Quando nãoestiver em operação, a plataforma deverá permanecer recolhida em compartimento integrado ao veículo, semcomprometer a segurança, a circulação interna ou a utilização regular do espaço destinado aos passageiros. Oveículo deverá dispor de área reservada para acomodação de, no mínimo, 01 (uma) cadeira de rodas, equipadacom sistema de ancoragem e fixação, cinto de segurança para o usuário, espaço para manobra e sinalização deacessibilidade. (Descrição completa no anexo do termo.)",
-              "unidade": "UND",
-              "quantidade": "11,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "3",
-          "titulo": "37522 ÔNIBUS ESCOLAR - ORE 2:novo, zero quilômetro, de fabricação nacional, destinado ao transporte escolar, com comprimento mínimo de 9.000 mm, capacidade mínima para 44 estudantes sentados, equipado com motor dianteiro de potência mínima de 115 kW, tran",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "ÔNIBUS ESCOLAR ORE 2: novo, zero quilômetro, de fabricação nacional, destinado ao transporte escolar,com comprimento mínimo de 9.000 mm, capacidade mínima para 44 estudantes sentados, equipado com motordianteiro de potência mínima de 115 kW equivalente a aproximadamente 156 CV, transmissão manual, direçãohidráulica, suspensão metálica reforçada e sistema de freios pneumático e/ou hidráulico. Equipado com sistemade ar-condicionado automotivo de fábrica ou homologado pelo fabricante/implementador, adequado paraoperação em transporte escolar, com capacidade compatível com o volume interno do veículo, distribuidoresde ar ao longo do salão de passageiros, garantindo conforto térmico aos ocupantes durante o deslocamento. Oveículo deverá atender integralmente às especificações técnicas, requisitos de segurança, acessibilidade iluminação, sinalização e demais características estabelecidas pelo Fundo Nacional de Desenvolvimento daEducação (FNDE), Programa Caminho da Escola, Código de Trânsito Brasileiro (CTB), Conselho Nacional deTrânsito (CONTRAN), Associação Brasileira de Normas Técnicas (ABNT) e demais normas aplicáveis.Deverá ser dotado de sistema de acessibilidade destinado ao embarque e desembarque seguro de pessoas comdeficiência ou mobilidade reduzida, mediante Dispositivo de Poltrona Móvel (DPM) ou equipamentoequivalente devidamente homologado. O sistema deverá possuir, no mínimo, poltrona móvel com apoio paraos pés, apoios laterais para os braços, cinto de segurança, acionamento elétrico, controle remoto operacional,sensores de segurança, dispositivos de parada automática de curso, alertas visuais e sonoros durante a operação,bem como mecanismo de acionamento manual para utilização em situações de emergência ou falha elétrica. Oveículo deverá ainda dispor de espaço interno adequado para a acomodação e fixação segura da cadeira de rodasutilizada pelo estudante atendido pelo sistema DPM, após sua transferência para o assento da poltrona móvel,de modo a impedir que a cadeira permaneça solta ou sem fixação durante o deslocamento do veículo,observando integralmente os requisitos de acessibilidade vigentes, de modo a garantir segurança, conforto eautonomia aos usuários durante o transporte. (Descrição completa no anexo do termo.)",
-              "unidade": "UND",
-              "quantidade": "8,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "4",
-          "titulo": "37523 ÔNIBUS ESCOLAR - ORE 2:novo, zero quilômetro, de fabricação nacional, destinado ao transporte escolar, com comprimento mínimo de 9.000 mm, capacidade mínima para 44 estudantes sentados, equipado com motor dianteiro de potência mínima de 115 kW, tran",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "ÔNIBUS ESCOLAR ORE 2: novo, zero quilômetro, de fabricação nacional, destinado ao transporte escolar,com comprimento mínimo de 9.000 mm, capacidade mínima para 44 estudantes sentados, equipado com motordianteiro de potência mínima de 115 kW equivalente a aproximadamente 156 CV, transmissão manual, direçãohidráulica, suspensão metálica reforçada e sistema de freios pneumático e/ou hidráulico. Equipado com sistemade ar-condicionado automotivo de fábrica ou homologado pelo fabricante/implementador, adequado paraoperação em transporte escolar, com capacidade compatível com o volume interno do veículo, distribuidoresde ar ao longo do salão de passageiros, garantindo conforto térmico aos ocupantes durante o deslocamento. Oveículo deverá atender integralmente às especificações técnicas, requisitos de segurança, acessibilidade,iluminação, sinalização e demais características estabelecidas pelo Fundo Nacional de Desenvolvimento daEducação (FNDE), Programa Caminho da Escola, Código de Trânsito Brasileiro (CTB), Conselho Nacional deTrânsito (CONTRAN), Associação Brasileira de Normas Técnicas (ABNT) e demais normas aplicáveis.Deverá possuir sistema de acessibilidade por meio de Plataforma Elevatória Veicular (PEV) ou tecnologiaequivalente certificada, destinada ao embarque e desembarque de pessoas com deficiência ou mobilidadereduzida, permitindo a elevação do usuário, inclusive em cadeira de rodas, entre o nível externo e o piso internodo veículo sem necessidade de transferência para assento interno. O sistema deverá possuir acionamento eletrohidráulico, eletromecânico ou tecnologia equivalente, dispositivos de segurança, comandos de emergência,barreiras de proteção, sistema de parada segura, capacidade compatível com usuários cadeirantes e certificaçãocompulsória junto aos órgãos competentes, observadas as exigências do Inmetro e da legislação aplicável.Quando não estiver em operação, a plataforma deverá permanecer recolhida em compartimento integrado aoveículo, sem comprometer a segurança, a circulação interna ou a utilização regular do espaço destinado aospassageiros. O veículo deverá dispor de área reservada para acomodação de, no mínimo, 01 (uma) cadeira derodas, equipada com sistema de ancoragem e fixação, cinto de segurança para o usuário, espaço para manobrae sinalização de acessibilidade. (Descrição completa no anexo do termo.)",
-              "unidade": "UND",
-              "quantidade": "3,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "5",
-          "titulo": "37524 ÔNIBUS ESCOLAR - ORE 3:novo, zero quilômetro, de fabricação nacional, destinado ao transporte escolar, com comprimento mínimo de 11.000 mm, capacidade mínima para 59 estudantes sentados, equipado com motor dianteiro de potência mínima de 130 kW, tra",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "ÔNIBUS ESCOLAR ORE 3: novo, zero quilômetro, de fabricação nacional, destinado ao transporte escolar,com comprimento mínimo de 11.000 mm, capacidade mínima para 59 estudantes sentados, equipado com motordianteiro de potência mínima de 130 kW equivalente a aproximadamente 177 CV, transmissão manual, direçãohidráulica, suspensão metálica reforçada e sistema de freios pneumático e/ou hidráulico. Equipado com sistemade ar-condicionado automotivo de fábrica ou homologado pelo fabricante/implementador, adequado paraoperação em transporte escolar, com capacidade compatível com o volume interno do veículo, distribuidoresde ar ao longo do salão de passageiros, garantindo conforto térmico aos ocupantes durante o deslocamento. Oveículo deverá atender integralmente às especificações técnicas, requisitos de segurança, acessibilidade,iluminação, sinalização e demais características estabelecidas pelo Fundo Nacional de Desenvolvimento daEducação (FNDE), Programa Caminho da Escola, Código de Trânsito Brasileiro (CTB), Conselho Nacional deTrânsito (CONTRAN), Associação Brasileira de Normas Técnicas (ABNT) e demais normas aplicáveis.Deverá ser dotado de sistema de acessibilidade destinado ao embarque e desembarque seguro de pessoas comdeficiência ou mobilidade reduzida, mediante Dispositivo de Poltrona Móvel (DPM) ou equipamentoequivalente devidamente homologado. O sistema deverá possuir, no mínimo, poltrona móvel com apoio paraos pés, apoios laterais para os braços, cinto de segurança, acionamento elétrico, controle remoto operacional,sensores de segurança, dispositivos de parada automática de curso, alertas visuais e sonoros durante a operação,bem como mecanismo de acionamento manual para utilização em situações de emergência ou falha elétrica. Oveículo deverá ainda dispor de espaço interno adequado para a acomodação e fixação segura da cadeira de rodasutilizada pelo estudante atendido pelo sistema DPM, após sua transferência para o assento da poltrona móvel,de modo a impedir que a cadeira permaneça solta ou sem fixação durante o deslocamento do veículo,observando integralmente os requisitos de acessibilidade vigentes, de modo a garantir segurança, conforto eautonomia aos usuários durante o transporte. (Descrição completa no anexo do termo.)",
-              "unidade": "UND",
-              "quantidade": "8,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "6",
-          "titulo": "37525 ÔNIBUS ESCOLAR - ORE 3:novo, zero quilômetro, de fabricação nacional, destinado ao transporte escolar, com comprimento mínimo de 11.000 mm, capacidade mínima para 59 estudantes sentados, equipado com motor dianteiro de potência mínima de 130 kW, tra",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "ÔNIBUS ESCOLAR ORE 3: novo, zero quilômetro, de fabricação nacional, destinado ao transporte escolar,com comprimento mínimo de 11.000 mm, capacidade mínima para 59 estudantes sentados, equipado com motordianteiro de potência mínima de 130 kW equivalente a aproximadamente 177 CV, transmissão manual, direçãohidráulica, suspensão metálica reforçada e sistema de freios pneumático e/ou hidráulico. Equipado com sistemade ar-condicionado automotivo de fábrica ou homologado pelo fabricante/implementador, adequado paraoperação em transporte escolar, com capacidade compatível com o volume interno do veículo, distribuidoresde ar ao longo do salão de passageiros, garantindo conforto térmico aos ocupantes durante o deslocamento. Oveículo deverá atender integralmente às especificações técnicas, requisitos de segurança, acessibilidade,iluminação, sinalização e demais características estabelecidas pelo Fundo Nacional de Desenvolvimento daEducação (FNDE), Programa Caminho da Escola, Código de Trânsito Brasileiro (CTB), Conselho Nacional deTrânsito (CONTRAN), Associação Brasileira de Normas Técnicas (ABNT) e demais normas aplicáveis.Deverá possuir sistema de acessibilidade por meio de Plataforma Elevatória Veicular (PEV) ou tecnologiaequivalente certificada, destinada ao embarque e desembarque de pessoas com deficiência ou mobilidadereduzida, permitindo a elevação do usuário, inclusive em cadeira de rodas, entre o nível externo e o piso internodo veículo sem necessidade de transferência para assento interno. O sistema deverá possuir acionamento eletrohidráulico, eletromecânico ou tecnologia equivalente, dispositivos de segurança, comandos de emergência,barreiras de proteção, sistema de parada segura, capacidade compatível com usuários cadeirantes e certificaçãocompulsória junto aos órgãos competentes, observadas as exigências do Inmetro e da legislação aplicável.Quando não estiver em operação, a plataforma deverá permanecer recolhida em compartimento integrado aoveículo, sem comprometer a segurança, a circulação interna ou a utilização regular do espaço destinado aospassageiros. O veículo deverá dispor de área reservada para acomodação de, no mínimo, 01 (uma) cadeira derodas, equipada com sistema de ancoragem e fixação, cinto de segurança para o usuário, espaço para manobrae sinalização de acessibilidade. (Descrição completa no anexo do termo.)",
-              "unidade": "UND",
-              "quantidade": "3,00",
-              "valor_referencia": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "PE-125-2026",
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "723 / 2026",
@@ -295112,74 +294948,6 @@
               "unidade": "Und.",
               "quantidade": "50,00",
               "valor_referencia": "1.809,09"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "PE-157-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "876 / 2026",
-      "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "RECEPÇÃO DE PROPOSTAS",
-      "condutor": "SERGIO CARNEIRO CAVALCANTI DE AZEVEDO",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO",
-      "publicacao": "18/09/2026 16:54",
-      "inicio_recepcao": "22/09/2026 00:00",
-      "fim_recepcao": "02/10/2026 08:15",
-      "inicio_disputa": "02/10/2026 08:30",
-      "objeto": "Contratação de empresa especializada em fornecimento de EQUIPAMENTOS E MATERIAIS PARA APOIO ÀS ATIVIDADES OPERACIONAIS RELACIONADAS À GESTÃO, ORGANIZAÇÃO E LOGÍSTICA DE GÊNEROS ALIMENTÍCIOS (material permanente) e (material de consumo), a fim de atender as demandas da Secretaria Municipal de Educação.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DlYEfffYKP5WVGRJkGGpT0ym5i7fUyHorpDyZZeT2N6kJRbVTHISkWSUhXYuwCbajhmfX9aDxH5ElVD15AiR0zWPKxAGo3emLCMHzoBwTb%2FE%3D",
-      "total_lotes": 2,
-      "total_itens": 2,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "9900515332 Caixa plástica empilhável tipo Horti Frutti:modelo padrão rígido retangular, destinada ao acondicionamento, organização e armazenamento de gêneros alimentícios, insumos e materiais de apoio para merenda escolar, promovendo higiene, conservação,",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900515332 Caixa plástica empilhável tipo Horti Frutti:modelo padrão rígido retangular, destinada ao acondicionamento, organização e armazenamento de gêneros alimentícios, insumos e materiais de apoio para merenda escolar, promovendo higiene, conservação, rastreabilidade e controle de estoque. Fabricada exclusivamente em polipropileno (PP) virgem grau alimentício, atóxico, livre de metais pesados, BPA e ftalatos, conforme ANVISA (RDC nº 51/2010, RDC nº 17/2008 e GMC 03/92 -MERCOSUL), com estabilidade dimensional, resistência a impactos >10J e temperaturas de -20°C a +60°C. Dimensões externas: 55 cm (C) x 35 cm (L) x 27 cm (A), capacidade 52 L, estrutura com paredes duplas reforçadas, fundo nervurado, bordas com travas integradas para empilhamento seguro de até 5 unidades carregadas a 50 kg cada (conforme laudo técnico do fabricante). Pegadores ergonômicos laterais, superfícies internas/externas lisas sem cantos vivos para fácil higienização, cor branca opaca ou translúcida (definida pela Administração). Compatível com prateleiras/pallets de almoxarifado escolar, fornecida nova (1º uso), sem avarias, com manual do fabricante especificando carga máxima, capacidade, normas sanitárias e instruções de limpeza/manuseio.",
-              "unidade": "Und.",
-              "quantidade": "600,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "2",
-          "titulo": "9900830439 Empilhadeira contrabalançada elétrica:zero quilômetro, destinada à movimentação e empilhamento de cargas. Capacidade nominal de carga mínima de 3.500 kg, considerando centro de carga de 500 mm. Torre do tipo triplex, com altura de elevação míni",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900830439 Empilhadeira contrabalançada elétrica:zero quilômetro, destinada à movimentação e empilhamento de cargas. Capacidade nominal de carga mínima de 3.500 kg, considerando centro de carga de 500 mm. Torre do tipo triplex, com altura de elevação mínima de 4,5 metros. Sistema de tração elétrico, com controle adequado para operações industriais.Sistema de alimentação por bateria tracionária industrial, com tensão compatível com a capacidade nominal do equipamento, acompanhada de carregador apropriado. Direção hidráulica.Sistema hidráulico com, no mínimo, 3 vias (elevação, inclinação e deslocador lateral). Deslocador lateral de garfos (Side Shifter) integrado. Garfos com comprimento mínimo de 1.220 mm, compatíveis com paletes padrão PBR. Pneus pneumáticos para terrenos irregulares ou maciços para maior durabilidade em pisos pavimentados. Peso operacional aproximado de 5.500 kg. Raio de giro compatível com operação em corredores de armazém.Equipamentos de segurança obrigatórios: protetor superior do operador (Overhead Guard), cinto de segurança, espelhos retrovisores, sinalizador luminoso tipo giroflex, alarme de ré, buzina e kit de iluminação em LED (faróis dianteiros, luz de freio e luz de ré). Equipamento em conformidade com as NR-11 e NR-12. Garantia mínima de 36 meses contra defeitos de fabricação. Manual de operação e manutenção em língua portuguesa.",
-              "unidade": "Und.",
-              "quantidade": "2,00",
-              "valor_referencia": ""
             }
           ]
         }
@@ -297278,50 +297046,6 @@
       ]
     },
     {
-      "id": "5-DLE-090-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "948/2026",
-      "modalidade": "DISPENSA ELETRÔNICA",
-      "situacao": "RECEPÇÃO DE PROPOSTAS",
-      "condutor": "ISLA LIMA SILVA",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO PARCELADA",
-      "publicacao": "25/09/2026 12:38",
-      "inicio_recepcao": "25/09/2026 13:00",
-      "fim_recepcao": "02/10/2026 08:15",
-      "inicio_disputa": "02/10/2026 08:30",
-      "objeto": "Contratação de profissional ou empresa especializada em prestação de serviços de treinamentos e cursos voltados à\nCAPACITAÇÃO INTERSETORIAL NO ÂMBITO DAS AÇÕES ESTRATÉGICAS DO PROGRAMA DE ERRADICAÇÃO DO\nTRABALHO INFANTIL (AEPETI), a fim de atender as necessidades da Secretaria Municipal de Promoção Social.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5D6RWfs_JHbHvFTS_FiLzRG24Vy4zrvZ8%2FEl8jYe6IzNAhsSIWv6mDTA_y8ORw2chgSS73cvg4zRrfUEeYCopcbjwt69uEy%2F%2FkNrHpLjU7rRA%3D",
-      "total_lotes": 1,
-      "total_itens": 1,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "Prestação de serviços especializados em planejamento, organização, coordenação e execução de capacitação técnica para os profissionais da rede municipal envolvidos na execução das Ações Estratégicas do Programa de Erradicação do Trabalho Infantil AEPETI",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,00",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "5.500,00",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "2700100046 Prestação de serviços especializados emplanejamento, organização, coordenação e execução decapacitação técnica destinada aos profissionais da redemunicipal envolvidos na execução das Ações Estratégicas doPrograma de Erradicação do Trabalho InfantilAEPETI:compreendendo a disponibilização de instrutores comcomprovada experiência na temática; elaboração e fornecimentode material didático impresso e/ou digital; disponibilização deapostilas, apresentações, estudos de caso, legislação atualizadae demais materiais pedagógicos; emissão de certificados aosparticipantes; realização de oficinas práticas, atividadesinterativas e estudos dirigidos; disponibilização de equipamentose recursos audiovisuais necessários; suporte técnico durantetoda a execução; elaboração de lista de presença, registrofotográfico, relatório final de execução e avaliação daaprendizagem. A capacitação deverá contemplar, no mínimo, osseguintes conteúdos: fundamentos legais do combate aotrabalho infantil; Constituição Federal, Estatuto da Criança e doAdolescente, Convenções nº 138 e nº 182 da OIT; Decreto nº6.481/2008 (Lista TIP); estrutura e diretrizes do AEPETI;identificação das diversas formas de trabalho infantil; buscaativa; diagnóstico socioterritorial; atuação intersetorial entreSUAS, Educação, Saúde, Conselho Tutelar, Sistema de Justiçae demais órgãos da Rede de Proteção; abordagem familiar;acompanhamento pelo PAIF e PAEFI; aprendizagemprofissional; elaboração de fluxos municipais de atendimento;campanhas de prevenção; monitoramento das ações; produçãode relatórios técnicos; utilização de indicadores sociais;planejamento estratégico das ações do Programa; estudos decasos práticos e oficina de construção de protocolos municipaisde enfrentamento ao trabalho infantil. A solução deverá admitirexecução presencial, remota ou híbrida, conforme planejamentoda Administração, assegurando carga horária compatível com osobjetivos da formação e metodologia participativa voltada aoaperfeiçoamento técnico dos profissionais. A capacitação deveráser destinada a, no máximo, 50 (cinquenta) participantes, comcarga horária total de 16 (dezesseis) horas, distribuídas em 02(dois) dias, devendo ser realizada em local a ser definido pelaAdministração.",
-              "unidade": "SERV",
-              "quantidade": "1,00",
-              "valor_referencia": "5.500,00"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "PE-146-2026",
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "964 / 2026",
@@ -298276,64 +298000,6 @@
               "unidade": "CO",
               "quantidade": "180,00",
               "valor_referencia": "348,21"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "CE-013-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "619/2026",
-      "modalidade": "CONCORRÊNCIA ELETRÔNICA",
-      "situacao": "JULGAMENTO",
-      "condutor": "DAVIDSON ARAUJO SANTOS",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO PARCELADA",
-      "publicacao": "15/07/2026 15:59",
-      "inicio_recepcao": "16/07/2026 00:00",
-      "fim_recepcao": "20/08/2026 08:15",
-      "inicio_disputa": "25/09/2026 17:35",
-      "objeto": "Contratação de empresa especializada em execução de obras de microdrenagem e pavimentação em diversas ruas do bairro Estância Biquine, no município de Teixeira de Freitas – BA.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DDvZHuZQsxYGy6u18SNxWHVbxO7L1lvyF_AfhwWb5D_HBm2rKb9Kr2tfznBoZBcTrKpVUVrIzHicOpAUJ4ZlJBY9pX9u962MRr%2FRSTGBEh7s%3D",
-      "total_lotes": 1,
-      "total_itens": 3,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "EXECUÇÃO DE OBRAS DE MICRODRENAGEM E PAVIMENTAÇÃO EM DIVERSAS RUAS DO BAIRRO ESTÂNCIA BIQUINE",
-          "fase": "JULGAMENTO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "1.000,00",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "23.092.487,55",
-          "vencedor": "BULOKE CONSTRUCAO E SERVICOS LTDA",
-          "melhor_oferta": "23.040.871,32",
-          "total_itens": 3,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "ADMINISTRAÇÃO LOCAL DE OBRA",
-              "unidade": "SERVIÇO",
-              "quantidade": "1,00",
-              "valor_referencia": "506.589,72"
-            },
-            {
-              "numero": "2",
-              "especificacao": "SERVIÇOS PRELIMINARES",
-              "unidade": "SERVIÇO",
-              "quantidade": "1,00",
-              "valor_referencia": "141.458,20"
-            },
-            {
-              "numero": "3",
-              "especificacao": "PAVIMENTAÇÃO E DRENAGEM DO BAIRRO ESTÂNCIA BIQUINE",
-              "unidade": "SERVIÇO",
-              "quantidade": "1,00",
-              "valor_referencia": "22.444.439,63"
             }
           ]
         }
@@ -302779,78 +302445,6 @@
       ]
     },
     {
-      "id": "CE-014-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "620/2026",
-      "modalidade": "CONCORRÊNCIA ELETRÔNICA",
-      "situacao": "JULGAMENTO",
-      "condutor": "DAVIDSON ARAUJO SANTOS",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO PARCELADA",
-      "publicacao": "15/07/2026 16:02",
-      "inicio_recepcao": "16/07/2026 08:00",
-      "fim_recepcao": "20/08/2026 13:45",
-      "inicio_disputa": "28/09/2026 10:07",
-      "objeto": "Contratação de empresa especializada em execução de obras de microdrenagem e pavimentação em diversas ruas dos bairros Bonadiman, Eixo Sul e Portal Sul, no município de Teixeira de Freitas – BA.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DKTmI_LPpH%2F%2FcbKZytGsHoQ0%2F%2FBZphcfEw4_LOQUHpnpSpsP4r7raAuGnQoZGy4SpF53az5hY_6Yxp8WgBPhNO_8fVqjnT8QdZKTyQys6XtI%3D",
-      "total_lotes": 1,
-      "total_itens": 5,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "EXECUÇÃO DE OBRAS DE MICRODRENAGEM E PAVIMENTAÇÃO EM DIVERSAS RUAS DOS BAIRROS BONADIMAN, EIXO SUL E PORTAL SUL",
-          "fase": "INTERPOSIÇÃO DE RECURSOS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "1.000,00",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "31.056.653,00",
-          "vencedor": "BULOKE CONSTRUCAO E SERVICOS LTDA",
-          "melhor_oferta": "31.019.545,62",
-          "total_itens": 5,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "ADMINISTRAÇÃO LOCAL DE OBRA",
-              "unidade": "SERVIÇO",
-              "quantidade": "1,00",
-              "valor_referencia": "506.589,72"
-            },
-            {
-              "numero": "2",
-              "especificacao": "SERVIÇOS PRELIMINARES",
-              "unidade": "SERVIÇO",
-              "quantidade": "1,00",
-              "valor_referencia": "103.138,36"
-            },
-            {
-              "numero": "3",
-              "especificacao": "PAVIMENTAÇÃO E DRENAGEM DO BAIRRO BONADIMAN",
-              "unidade": "SERVIÇO",
-              "quantidade": "1,00",
-              "valor_referencia": "16.606.532,37"
-            },
-            {
-              "numero": "4",
-              "especificacao": "PAVIMENTAÇÃO E DRENAGEM DO BAIRRO EIXO SUL",
-              "unidade": "SERVIÇO",
-              "quantidade": "1,00",
-              "valor_referencia": "7.865.223,48"
-            },
-            {
-              "numero": "5",
-              "especificacao": "PAVIMENTAÇÃO E DRENAGEM DO BAIRRO PORTAL SUL",
-              "unidade": "SERVIÇO",
-              "quantidade": "1,00",
-              "valor_referencia": "5.975.169,07"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "PE-167-2026",
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "805 / 2026",
@@ -303385,235 +302979,6 @@
       ]
     },
     {
-      "id": "5-DLE-092-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "902/2026",
-      "modalidade": "DISPENSA ELETRÔNICA",
-      "situacao": "DISPUTA",
-      "condutor": "ISLA LIMA SILVA",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO PARCELADA",
-      "publicacao": "25/09/2026 12:23",
-      "inicio_recepcao": "25/09/2026 12:30",
-      "fim_recepcao": "01/10/2026 08:15",
-      "inicio_disputa": "01/10/2026 08:30",
-      "objeto": "Contratação de empresa especializada em fornecimento de MATERIAIS E EQUIPAMENTOS PARA A PADARIA COMUNITÁRIA (material de consumo) e (material permanente), a fim de atender as necessidades da Secretaria Municipal de Promoção Social",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DrCxsAQpKdlsyMzV9oQ3YbCgt8mWAzciF8v1pWpmnDWI6fkjeX3ef_DTRa1GeISrqqVFl26SL8vkxufAXd0eym44vy993JHbbsrp4yKAs6i0%3D",
-      "total_lotes": 3,
-      "total_itens": 5,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "Seladora de Embalagens Plásticas Tipo Pedal Industrial (Sistema por Impulso)",
-          "fase": "DISPUTA",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,00",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "37.765,00",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 3,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900516171 Saco plástico flexível personalizado parapães: medindo aproximadamente 25 x 35 cm, confeccionado emPolipropileno (PP) ou Polietileno de Baixa Densidade (PEBD),100% virgem, transparente e inteiramente atóxico (graualimentício), com espessura mínima de 0,05 mm a 0,06 mm (50a 60 micras), garantindo resistência mecânica ao transporte euniformidade na aplicação da identidade visual. As embalagensdeverão ser fornecidas com personalização em impressão emflexografia de alta resolução, utilizando tintas estritamenteatóxicas e sem odor residual. O layout/arte em vetor seráfornecido pela Administração Pública após a homologação,contendo no mínimo a identidade visual oficial da PrefeituraMunicipal de Teixeira de Freitas, brasão institucional e demaisinformações do projeto 'Padaria Escola' definidas pelaSecretaria competente.",
-              "unidade": "KG",
-              "quantidade": "300,00",
-              "valor_referencia": "41,55"
-            },
-            {
-              "numero": "2",
-              "especificacao": "9900516173 Saco plástico flexível personalizado parapães:medindo aproximadamente 30 x 45 cm, confeccionado emPolipropileno (PP) ou Polietileno de Baixa Densidade (PEBD),100% virgem, transparente e inteiramente atóxico (graualimentício), com espessura mínima de 0,06 mm (60 micras),garantindo resistência mecânica ao transporte e uniformidade naaplicação da identidade visual. As embalagens deverão serfornecidas com personalização em impressão em flexografia dealta resolução, utilizando tintas estritamente atóxicas e sem odorresidual. O layout/arte em vetor será fornecido pelaAdministração Pública após a homologação, contendo nomínimo a identidade visual oficial da Prefeitura Municipal deTeixeira de Freitas, brasão institucional e demais informaçõesdo projeto 'Padaria Escola' definidas pela Secretariacompetente.",
-              "unidade": "KG",
-              "quantidade": "500,00",
-              "valor_referencia": "38,00"
-            },
-            {
-              "numero": "3",
-              "especificacao": "9900516174 Saco plástico flexível personalizado parapães:medindo aproximadamente 40 x 60 cm, confeccionado emPolipropileno (PP) ou Polietileno de Baixa Densidade (PEBD),100% virgem, transparente e inteiramente atóxico (graualimentício), com espessura mínima de 0,075 (75 micras),garantindo resistência mecânica ao transporte e uniformidade naaplicação da identidade visual. As embalagens deverão serfornecidas com personalização em flexografia de alta resolução,utilizando tintas estritamente atóxicas e sem odor residual. Olayout/arte em vetor será fornecido pela Administração Públicaapós a homologação, contendo no mínimo a identidade visualoficial da Prefeitura Municipal de Teixeira de Freitas, brasãoinstitucional e demais informações do projeto 'Padaria Escola'definidas pela Secretaria competente.",
-              "unidade": "KG",
-              "quantidade": "150,00",
-              "valor_referencia": "42,00"
-            }
-          ]
-        },
-        {
-          "numero": "2",
-          "titulo": "Seladora de Embalagens Plásticas Tipo Pedal Industrial (Sistema por Impulso)",
-          "fase": "DISPUTA",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,00",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "3.603,72",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "5707611210 Seladora de Embalagens Plásticas Tipo PedalIndustrial (Sistema por Impulso):Comprimento de Solda (ÁreaÚtil): Mínimo de 40 cm (quarenta centímetros). Espessura daSolda: Mínimo de 3 mm a 5 mm. Garantindo uma vedaçãogrossa, hermética e resistente, que não se rompe com o pesodos pães durante o transporte. Tipo de Aquecimento: Sistemapor Impulso Eletrônico através de fita de Níquel Cromo(aquecimento instantâneo temporizado, com desligamentoautomático após a fusão do plástico). Controle de Temperatura:Painel com regulagem eletrônica de tempo de selagem(temporizador visual ou sonoro), permitindo o ajuste preciso paradiferentes espessuras de plástico (de 50 a 85 micras). EstruturaFísica: Chassi de pedestal confeccionado em chapa de açocarbono com pintura eletrostática epóxi anticorrosiva ou em açoinoxidável. Bancada/bandeja de apoio integrada com regulagemde altura, permitindo que o pacote de pães fique escorado deforma plana e nivelada durante a selagem. Acionamentomecânico via pedal ergonômico reforçado. Compatibilidade deMateriais: Própria para selagem de Polipropileno (PP),Polietileno (PEBD / PEAD) e plásticos aluminizados.Alimentação Elétrica: Bivolt automático ou chaveado (127V /220V), com garantia mínima de 12 meses.",
-              "unidade": "UN",
-              "quantidade": "2,00",
-              "valor_referencia": "1.801,86"
-            }
-          ]
-        },
-        {
-          "numero": "3",
-          "titulo": "Fecho Plástico Tipo Amarrilho com Alma Metálica Interna (Arame Encapado)",
-          "fase": "DISPUTA",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,00",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "1.268,40",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900516175 Fecho Plástico Tipo Amarrilho com Alma MetálicaInterna (Arame Encapado):Composição Externa: Revestimentoem Polietileno (PE) ou Policloreto de Vinila (PVC) 100% virgem.O acabamento deve ser totalmente liso e plano (formatoachatado), sem rebarbas plásticas. Composição Interna (Alma):Núcleo composto por um fio de arame metálico de aço carbonogalvanizado (recozido), extrafino e maleável. Dimensões:Formato: Pré-cortado em hastes individuais retas. Comprimento:8 cm a 10 cm (medida ideal para abraçar o topo dos sacos depanificação sem sobrar ou faltar material). Largura externa:Aproximadamente 4,0 mm. Espessura do Arame Interno: Entre0,40 mm e 0,45 mm. Cor: Branca (padrão institucional neutro).",
-              "unidade": "KG",
-              "quantidade": "30,00",
-              "valor_referencia": "42,28"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "5-DLE-100-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "971/2026",
-      "modalidade": "DISPENSA ELETRÔNICA",
-      "situacao": "DISPUTA",
-      "condutor": "ISAQUE SILVA DOS SANTOS",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO PARCELADA",
-      "publicacao": "25/09/2026 12:06",
-      "inicio_recepcao": "25/09/2026 12:10",
-      "fim_recepcao": "01/10/2026 08:15",
-      "inicio_disputa": "01/10/2026 08:30",
-      "objeto": "Contratação de empresa especializada na prestação de serviço de CAPACITAÇÃO TÉCNICA, a fim de atender as necessidades da Secretaria Municipal de Promoção Social.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DwNvox45C2E4sSoEjnqv3VIFt5Erd21J_ij0ciWYBFF_w%2FBK3E3hcSS9GUvnP_6QxAyrkNU6ue0QfnIrHHSQbUbGzXYXCzgo9w6AUBiQRkFI%3D",
-      "total_lotes": 1,
-      "total_itens": 6,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "Módulo VI Integração da Rede de Proteção, Fluxos Intersetoriais e Estudos de Casos",
-          "fase": "DISPUTA",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,00",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "21.032,67",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 6,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9903312149 Módulo I Sistema de Garantia dos Direitos daCriança e do Adolescente (SGDCA):Capacitação voltada àcompreensão da estrutura, funcionamento e atribuições doSistema de Garantia dos Direitos da Criança e do Adolescente,abrangendo o Estatuto da Criança e do Adolescente, princípiosda proteção integral, competências institucionais dos órgãosintegrantes da rede, atuação do CMDCA, controle social,políticas públicas para infância e adolescência, Fundo Municipaldos Direitos da Criança e do Adolescente e articulaçãointersetorial.",
-              "unidade": "SERV",
-              "quantidade": "1,00",
-              "valor_referencia": "3.016,67"
-            },
-            {
-              "numero": "2",
-              "especificacao": "9903312150 Módulo II Atuação Prática do ConselhoTutelar:Capacitação destinada ao aperfeiçoamento da atuaçãodos Conselheiros Tutelares, contemplando competências legais,atribuições funcionais, medidas de proteção, procedimentosadministrativos, elaboração de notificações, requisições,relatórios e demais documentos oficiais, atendimento dedenúncias, planejamento institucional, organização docolegiado, relacionamento com o Sistema de Justiça eintegração com a Rede de Proteção, incluindo análise de casospráticos.",
-              "unidade": "SERV",
-              "quantidade": "1,00",
-              "valor_referencia": "3.200,00"
-            },
-            {
-              "numero": "3",
-              "especificacao": "9903312151 Módulo III Sistema de Informação para a Infânciae Adolescência SIPIA:Capacitação teórico-prática parautilização do Sistema de Informação para a Infância eAdolescência (SIPIA), compreendendo cadastro institucional,alimentação do sistema, registro de atendimentos, classificaçãodas violações de direitos, emissão de relatórios,acompanhamento de casos, produção de indicadores e oficinaspráticas de operacionalização do sistema, visando aoaprimoramento da gestão da informação e ao fortalecimento daspolíticas públicas destinadas à infância e adolescência.",
-              "unidade": "SERV",
-              "quantidade": "1,00",
-              "valor_referencia": "3.850,00"
-            },
-            {
-              "numero": "4",
-              "especificacao": "9903312152 Módulo IV Escuta Especializada e AtendimentoIntegrado:Capacitação destinada ao aperfeiçoamento daatuação da Rede de Proteção no atendimento às crianças eadolescentes vítimas ou testemunhas de violência,contemplando a aplicação da Lei Federal nº 13.431/2017,Decreto Federal nº 9.603/2018, protocolos de EscutaEspecializada, prevenção da revitimização, fluxos deatendimento, comunicação interinstitucional, responsabilidadesdos órgãos integrantes da rede e construção de procedimentosintegrados.",
-              "unidade": "SERV",
-              "quantidade": "1,00",
-              "valor_referencia": "3.766,00"
-            },
-            {
-              "numero": "5",
-              "especificacao": "9903312153 Módulo V Prevenção e Enfrentamento dasViolências Contra Crianças e Adolescentes:Capacitação voltadaà identificação, prevenção e enfrentamento das diversas formasde violência praticadas contra crianças e adolescentes,compreendendo violência física, psicológica, sexual,institucional, negligência, abandono, trabalho infantil, violênciadoméstica, violência digital, exploração sexual, tráfico depessoas, cyberbullying, grooming, dentre outras violações dedireitos, abordando medidas preventivas, estratégias deintervenção e fortalecimento da atuação integrada da redemunicipal de proteção.",
-              "unidade": "SERV",
-              "quantidade": "1,00",
-              "valor_referencia": "3.000,00"
-            },
-            {
-              "numero": "6",
-              "especificacao": "9903312154 Módulo VI Integração da Rede de Proteção,Fluxos Intersetoriais e Estudos de Casos:Capacitação destinadaao fortalecimento da atuação integrada dos órgãos quecompõem o Sistema de Garantia dos Direitos da Criança e doAdolescente, contemplando oficinas práticas para construção eaperfeiçoamento dos fluxos municipais de atendimento,definição das competências institucionais, simulações deatendimento, estudos de casos concretos, resolução desituações complexas e elaboração de estratégias conjuntasvoltadas ao aperfeiçoamento da Rede de Proteção do Municípiode Teixeira de Freitas.",
-              "unidade": "SERV",
-              "quantidade": "1,00",
-              "valor_referencia": "4.200,00"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "PE-141-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "801/2026",
-      "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "RECEPÇÃO DE PROPOSTAS",
-      "condutor": "JONATAS DA SILVA SOUSA",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO PARCELADA",
-      "publicacao": "22/09/2026 09:06",
-      "inicio_recepcao": "23/09/2026 08:00",
-      "fim_recepcao": "07/10/2026 08:15",
-      "inicio_disputa": "07/10/2026 08:30",
-      "objeto": "Contratação de empresa especializada em prestação de serviço de MONITORAMENTO E RASTREAMENTO VEICULAR COM FORNECIMENTO, EM REGIME DE COMODATO, DOS EQUIPAMENTOS RASTREADORES E ACESSÓRIOS, a fim de atender as demandas da Secretaria Municipal de Administração e demais Secretarias.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5Df2qaln1NX3dg5iIWs8UwCrKy7fKlPrjqUlehM1VSShPo%2FTjA6IDYxxVOZGM2N7c8d4A_TMgw4cJMvIPPeAMeGmbiOH1ao6qJdqOgscFzuOo%3D",
-      "total_lotes": 1,
-      "total_itens": 1,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "Rastreamento e monitoramento veicular",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "201.548,16",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9903312120 Rastreamento e monitoramento veicular:destinados à gestão da frota de frota, por meio de sistema informatizado em plataforma web e aplicativo móvel, com monitoramento em tempo real, dos deslocamentos, paradas, velocidades, eventos e demais informações operacionais da frota, emissão de relatórios gerenciais e transmissão de dados por tecnologia GPS/GSM/GPRS ou superior, contemplando o fornecimento, em regime de comodato, dos equipamentos rastreadores, acessórios e demais componentes necessários ao pleno funcionamento da solução, incluindo conectividade de dados, instalação, configuração, ativação, manutenção preventiva e corretiva, substituição de equipamentos quando necessária, disponibilização de sistema web para até 5 usuários simultâneos, suporte técnico e garantia de funcionamento durante toda a vigência contratual.",
-              "unidade": "SERV",
-              "quantidade": "264,00",
-              "valor_referencia": "763,44"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "PE-160-2026",
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "1050/2026",
@@ -303652,218 +303017,6 @@
               "unidade": "UNID.",
               "quantidade": "1,00",
               "valor_referencia": "894.136,41"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "PE-158-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "972/2026",
-      "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "EM RETIFICAÇÃO",
-      "condutor": "JONATAS DA SILVA SOUSA",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO PARCELADA",
-      "publicacao": "16/09/2026 21:14",
-      "inicio_recepcao": "18/09/2026 08:00",
-      "fim_recepcao": "30/09/2026 08:45",
-      "inicio_disputa": "30/09/2026 09:00",
-      "objeto": "Contratação de empresa especializada em fornecimento de APARELHOS DE AR-CONDICIONADO (materiais permanentes), a fim de atender às demandas da Secretaria Municipal de Administração e da Secretaria Municipal de Educação.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5D2au_InqT18lglLmRlNZ2vnReVUHXo2OBmwxIXIcHfo10iuaQoLvScj08JIFTNLqvz2D%2FecL7_Y_fxSuXVTwioLx22r1karNW_PZBspOU%2Fy4%3D",
-      "total_lotes": 8,
-      "total_itens": 8,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "Aparelho De Ar-Condicionado Tipo Split Hi-Wall - 9.000 Btus",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "APARELHO DE AR-CONDICIONADO TIPO SPLIT HI-WALL - 9.000 BTUS::Equipamento novo, de primeiro uso, com capacidade de refrigeração de 9.000 BTUs, ciclo frio, alimentação elétrica compatível com rede nacional (220V ou bivolt), composto por unidade evaporadora e condensadora. Compressor eficiente, operando com gás refrigerante ecológico (R-410A ou R-32), controle remoto incluso com funções básicas e display digital. Deve possuir modos de operação como refrigeração, ventilação, desumidificação e modo sleep. Filtro de ar lavável e de fácil remoção. Serpentina obrigatoriamente em cobre, garantindo maior vida útil e melhor desempenho. Estrutura resistente à corrosão. Operação silenciosa, adequada para salas de aula e ambientes administrativos. Classificação energética mínima \"A\" no INMETRO. Garantia mínima de 24 meses. Instalação não inclusa.",
-              "unidade": "UND",
-              "quantidade": "38,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "2",
-          "titulo": "Aparelho De Ar-Condicionado Tipo Split Hi-Wall - 12.000 Btus",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "APARELHO DE AR-CONDICIONADO TIPO SPLIT HI-WALL - 12.000 BTUS:Equipamento novo, de primeiro uso, com capacidade de refrigeração de 12.000 BTUs, ciclo frio, alimentação elétrica compatível com rede nacional (220V ou bivolt), composto por unidade interna (evaporadora) e externa (condensadora). Compressor de alta eficiência, utilizando gás refrigerante ecológico (R-410A ou R-32), acompanhado de controle remoto sem fio com visor digital. Deve conter, no mínimo, funções de refrigeração, ventilação, desumidificação e modo econômico/sleep. Filtro de ar lavável e removível. Serpentina obrigatoriamente em cobre, vedada a utilização de serpentina em alumínio. Estrutura com proteção anticorrosiva. Baixo nível de ruído. Classificação energética mínima \"A\" conforme INMETRO. Garantia mínima de 24 meses. Instalação não inclusa.",
-              "unidade": "UND",
-              "quantidade": "75,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "3",
-          "titulo": "Aparelho De Ar-Condicionado Tipo Split Hi-Wall - 24.000 Btus",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "APARELHO DE AR-CONDICIONADO TIPO SPLIT HI-WALL - 24.000 BTUS:Equipamento novo, de primeiro uso, com capacidade de refrigeração de 24.000 BTUs, ciclo frio, alimentação elétrica compatível com rede nacional (220V ou bivolt, conforme padrão do fabricante), composto por unidade evaporadora interna e condensadora externa. Equipado com compressor de alta eficiência, gás refrigerante ecológico (R-410A ou R-32), controle remoto sem fio com display digital, funções mínimas de refrigeração, ventilação, desumidificação e modo sleep. Deve possuir filtro de ar lavável e removível. Serpentina obrigatoriamente em cobre, tanto na evaporadora quanto na condensadora, visando maior durabilidade e eficiência térmica. Gabinete em material resistente à corrosão. Nível de ruído compatível com uso em ambientes educacionais. Classificação energética mínima \"A\" no INMETRO. Garantia mínima de 24 meses. Instalação não inclusa.",
-              "unidade": "UND",
-              "quantidade": "105,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "4",
-          "titulo": "Aparelho De Ar-Condicionado Tipo Split High Wall - 30.000 Btus",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "APARELHO DE AR-CONDICIONADO TIPO SPLIT HIGH WALL - 30.000 BTUS:capacidade de refrigeração de 30.000 BTUs/h, tensão monofásico de 220 volts, 60Hz; 1F; Rotação: Velocidade Fixa, com modo de funcionamento: resfriar, ventilar, desumidificar, swing e timer, controle remoto sem fio, baixo nível de ruído. Rotulagem contendo classificação Inmetro de Eficiência Energética, nome do produto, dados do fabricante e tensão nominal. Garantia mínima do fabricante de 02 (dois) anos, prestada no Estado da Bahia. Instalação não inclusa. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "UND",
-              "quantidade": "6,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "5",
-          "titulo": "Aparelho De Ar-Condicionado Tipo Split Piso-Teto 60.000 Btus",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "APARELHO DE AR-CONDICIONADO TIPO SPLIT PISO-TETO 60.000 BTUS:capacidade de refrigeração de 60.000 BTUS/H, tensão monofásica de 220 VOLTS, 60 HZ; 1F; rotação com velocidade fixa, com modos de funcionamento: resfriar, ventilar, desumidificar, swing e timer, controle remoto sem fio, serpentina do condensador em cobre, baixo nível de ruído. Rotulagem contendo classificação do INMETRO de eficiência energética, nome do produto, dados do fabricante e tensão nominal. Garantia mínima do fabricante de 02 (dois) anos, prestada no Estado da Bahia. Instalação não inclusa. EXCLUSIVO PARA ME/EPP.",
-              "unidade": "UND",
-              "quantidade": "6,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "6",
-          "titulo": "Aparelho De Ar-Condicionado Tipo Split Hi- Wall - 9.000 Btus",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "APARELHO DE AR-CONDICIONADO TIPO SPLIT HI- WALL - 9.000 BTUS::Equipamento novo, de primeiro uso, com capacidade de refrigeração de 9.000 BTUs, ciclo frio, alimentação elétrica compatível com rede nacional (220V ou bivolt), composto por unidade evaporadora e condensadora. Compressor eficiente, operando com gás refrigerante ecológico (R-410A ou R-32), controle remoto incluso com funções básicas e display digital. Deve possuir modos de operação como refrigeração, ventilação, desumidificação e modo sleep. Filtro de ar lavável e de fácil remoção. Serpentina obrigatoriamente em cobre, garantindo maior vida útil e melhor desempenho. Estrutura resistente à corrosão. Operação silenciosa, adequada para salas de aula e ambientes administrativos. Classificação energética mínima \"A\" no INMETRO. Garantia mínima de 24 meses. Instalação não inclusa. COTA 25% PARA ME/EPP.",
-              "unidade": "Und.",
-              "quantidade": "12,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "7",
-          "titulo": "Aparelho De Ar-Condicionado Tipo Split Hi- Wall - 12.000 Btus",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "APARELHO DE AR-CONDICIONADO TIPO SPLIT HI- WALL - 12.000 BTUS:Equipamento novo, de primeiro uso, com capacidade de refrigeração de 12.000 BTUs, ciclo frio, alimentação elétrica compatível com rede nacional (220V ou bivolt), composto por unidade interna (evaporadora) e externa (condensadora). Compressor de alta eficiência, utilizando gás refrigerante ecológico (R-410A ou R-32), acompanhado de controle remoto sem fio com visor digital. Deve conter, no mínimo, funções de refrigeração, ventilação, desumidificação e modo econômico/sleep. Filtro de ar lavável e removível. Serpentina obrigatoriamente em cobre, vedada a utilização de serpentina em alumínio. Estrutura com proteção anticorrosiva. Baixo nível de ruído. Classificação energética mínima \"A\" conforme INMETRO. Garantia mínima de 24 meses. Instalação não inclusa. COTA 25% PARA ME/EPP.",
-              "unidade": "Und.",
-              "quantidade": "25,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "8",
-          "titulo": "Aparelho De Ar-Condicionado Tipo Split Hi- Wall - 24.000 Btus",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "APARELHO DE AR-CONDICIONADO TIPO SPLIT HI- WALL - 24.000 BTUS:Equipamento novo, de primeiro uso, com capacidade de refrigeração de 24.000 BTUs, ciclo frio, alimentação elétrica compatível com rede nacional (220V ou bivolt, conforme padrão do fabricante), composto por unidade evaporadora interna e condensadora externa. Equipado com compressor de alta eficiência, gás refrigerante ecológico (R-410A ou R-32), controle remoto sem fio com display digital, funções mínimas de refrigeração, ventilação, desumidificação e modo sleep. Deve possuir filtro de ar lavável e removível. Serpentina obrigatoriamente em cobre, tanto na evaporadora quanto na condensadora, visando maior durabilidade e eficiência térmica. Gabinete em material resistente à corrosão. Nível de ruído compatível com uso em ambientes educacionais. Classificação energética mínima \"A\" no INMETRO. Garantia mínima de 24 meses. Instalação não inclusa. COTA 25% PARA ME/EPP.",
-              "unidade": "Und.",
-              "quantidade": "35,00",
-              "valor_referencia": ""
             }
           ]
         }
@@ -309289,164 +308442,942 @@
       ]
     },
     {
-      "id": "CD-005-2025",
+      "id": "PE-169-2026",
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "758/2025",
-      "modalidade": "CREDENCIAMENTO",
-      "situacao": "EM FINALIZAÇÃO",
-      "condutor": "MAGDA DE SELES GUIMARÃES",
+      "numero_adm": "710/2026",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "PUBLICADO",
+      "condutor": "SERGIO CARNEIRO CAVALCANTI DE AZEVEDO",
       "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO",
-      "publicacao": "03/06/2025 16:35",
-      "inicio_recepcao": "13/06/2025 08:00",
-      "fim_recepcao": "15/06/2026 08:00",
-      "inicio_disputa": "",
-      "objeto": "CREDENCIAMENTO DE PESSOA JURÍDICA PARA PRESTAÇÃO DE SERVIÇOS MÉDICOS ESPECIALIZADOS EM ANÁLISE PATOLÓGICA PARA ATENDER AS DEMANDAS DA SECRETARIA MUNICIPAL DE SAÚDE",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DrZeYFBDajSk1wKu9CdTT%2FnUZDiDlOK2Ny85H4xbzhknra6r0AwkwwTzOLtCFCkxUBtb25xy2eRzptC7Oj9fhh_%2FXbcAQa0TngnZziQ2_YCA%3D",
-      "total_lotes": 6,
-      "total_itens": 6,
+      "tipo_contrato": "AQUISIÇÃO PARCELADA",
+      "publicacao": "02/10/2026 10:47",
+      "inicio_recepcao": "06/10/2026 08:00",
+      "fim_recepcao": "21/10/2026 08:15",
+      "inicio_disputa": "21/10/2026 08:30",
+      "objeto": "Contratação de empresa especializada em prestação de serviço de LIMPEZA DE FOSSA SÉPTICA, INCLUINDO LOCAÇÃO DE CAMINHÕES LIMPA-FOSSA, a fim de atender as demandas da Secretaria Municipal de Infraestrutura e Serviços Urbanos.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5D3%2FJAuDNkNLXJy6VJm_Da1QMDnHtCOvs95_sb7VYkkmnlRPxPc%2FJUSZkW5paZ5HJC1fiOFjnHVEbH6I15LfVrQUFUV5rAxcoMoBXBZd3Mb2s%3D",
+      "total_lotes": 1,
+      "total_itens": 2,
       "lotes": [
         {
           "numero": "1",
-          "titulo": "33436 BIÓPSIA SIMPLES",
-          "fase": "HABILITAÇÃO",
-          "tipo": "UNITÁRIO",
+          "titulo": "LIMPEZA FOSSA",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
           "quantidade": "1",
-          "intervalo_minimo": "0,00",
+          "intervalo_minimo": "0,01",
           "exclusivo_me": "NÃO",
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
-          "valor_referencia": "60,19",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 2,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "100200445 PRESTAÇÃO DE SERVIÇOS DE LIMPEZA DEFOSSA SÉPTICA:incluindo locação de caminhão limpa fossa truck com capacidade de 12.000 litros, com bomba de sucção com tamanho mínimo de 30 metros, motor 6 cilindros (motorista/operador, ajudante, combustível, manutenção, seguro e encargos)",
+              "unidade": "HR",
+              "quantidade": "3.600,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "2",
+              "especificacao": "37544 PRESTAÇÃO DE SERVIÇOS DE LIMPEZA DE FOSSASÉPTICA:incluindo a locação de caminhão limpa fossa truck com capacidade de 8.000 litros, com bomba de sucção com tamanho mínimo de 30 metros, motor 6 cilindros (motorista/operador, ajudante, combustível, manutenção, seguro e encargo)",
+              "unidade": "HR",
+              "quantidade": "3.600,00",
+              "valor_referencia": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3-DLE-103-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "1073/2026",
+      "modalidade": "DISPENSA ELETRÔNICA",
+      "situacao": "RECEPÇÃO DE PROPOSTAS",
+      "condutor": "ISLA LIMA SILVA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO PARCELADA",
+      "publicacao": "01/10/2026 14:56",
+      "inicio_recepcao": "01/10/2026 15:00",
+      "fim_recepcao": "07/10/2026 08:15",
+      "inicio_disputa": "07/10/2026 08:30",
+      "objeto": "Contratação de empresa especializada em fornecimento de [CANABIDIOL PARA ATENDER DEMANDA JUDICIAL], a fim de\natender as necessidades da Secretaria Municipal de Saúde",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5D0xXwApYbILBYLwOy58qUSv_Hv294JTO_JYJIOD9t%2FkjEu2q4p4LewclqocP8NPvoX6A2wNrwIPI6KMAheyHQAymC42BTQLt9DhcDrF%2FAA_Y%3D",
+      "total_lotes": 1,
+      "total_itens": 1,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "CANABIDIOL 50 mg/mL",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "54.297,00",
           "vencedor": "",
           "melhor_oferta": "0,00",
           "total_itens": 1,
           "itens": [
             {
               "numero": "1",
-              "especificacao": "33436 BIÓPSIA SIMPLES:BIÓPSIA SIMPLES",
+              "especificacao": "10101200030 CANABIDIOL 50 mg/mL:Solução oral, 50 mg/mLem embalagem com 1 frasco de 30 mL acompanhado deseringas dosadoras. Marca: Prati-Donaduzzi.",
+              "unidade": "UN",
+              "quantidade": "100,00",
+              "valor_referencia": "542,97"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5-DLE-090-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "948/2026",
+      "modalidade": "DISPENSA ELETRÔNICA",
+      "situacao": "DISPUTA",
+      "condutor": "ISLA LIMA SILVA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO PARCELADA",
+      "publicacao": "25/09/2026 12:38",
+      "inicio_recepcao": "25/09/2026 13:00",
+      "fim_recepcao": "02/10/2026 08:15",
+      "inicio_disputa": "02/10/2026 08:30",
+      "objeto": "Contratação de profissional ou empresa especializada em prestação de serviços de treinamentos e cursos voltados à\nCAPACITAÇÃO INTERSETORIAL NO ÂMBITO DAS AÇÕES ESTRATÉGICAS DO PROGRAMA DE ERRADICAÇÃO DO\nTRABALHO INFANTIL (AEPETI), a fim de atender as necessidades da Secretaria Municipal de Promoção Social.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DSLTMnJlG2wSvhb_IIK_2MhZl4uc4KFxUq_ykbEIfMLQV46C9jntXIjBt5IgKuliFBRz5_h2%2FU3BpyfjJXP8Qn19rAVFFL09SqLLzqUCH5_A%3D",
+      "total_lotes": 1,
+      "total_itens": 1,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "Prestação de serviços especializados em planejamento, organização, coordenação e execução de capacitação técnica para os profissionais da rede municipal envolvidos na execução das Ações Estratégicas do Programa de Erradicação do Trabalho Infantil AEPETI",
+          "fase": "DISPUTA",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "5.500,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "2700100046 Prestação de serviços especializados emplanejamento, organização, coordenação e execução decapacitação técnica destinada aos profissionais da redemunicipal envolvidos na execução das Ações Estratégicas doPrograma de Erradicação do Trabalho InfantilAEPETI:compreendendo a disponibilização de instrutores comcomprovada experiência na temática; elaboração e fornecimentode material didático impresso e/ou digital; disponibilização deapostilas, apresentações, estudos de caso, legislação atualizadae demais materiais pedagógicos; emissão de certificados aosparticipantes; realização de oficinas práticas, atividadesinterativas e estudos dirigidos; disponibilização de equipamentose recursos audiovisuais necessários; suporte técnico durantetoda a execução; elaboração de lista de presença, registrofotográfico, relatório final de execução e avaliação daaprendizagem. A capacitação deverá contemplar, no mínimo, osseguintes conteúdos: fundamentos legais do combate aotrabalho infantil; Constituição Federal, Estatuto da Criança e doAdolescente, Convenções nº 138 e nº 182 da OIT; Decreto nº6.481/2008 (Lista TIP); estrutura e diretrizes do AEPETI;identificação das diversas formas de trabalho infantil; buscaativa; diagnóstico socioterritorial; atuação intersetorial entreSUAS, Educação, Saúde, Conselho Tutelar, Sistema de Justiçae demais órgãos da Rede de Proteção; abordagem familiar;acompanhamento pelo PAIF e PAEFI; aprendizagemprofissional; elaboração de fluxos municipais de atendimento;campanhas de prevenção; monitoramento das ações; produçãode relatórios técnicos; utilização de indicadores sociais;planejamento estratégico das ações do Programa; estudos decasos práticos e oficina de construção de protocolos municipaisde enfrentamento ao trabalho infantil. A solução deverá admitirexecução presencial, remota ou híbrida, conforme planejamentoda Administração, assegurando carga horária compatível com osobjetivos da formação e metodologia participativa voltada aoaperfeiçoamento técnico dos profissionais. A capacitação deveráser destinada a, no máximo, 50 (cinquenta) participantes, comcarga horária total de 16 (dezesseis) horas, distribuídas em 02(dois) dias, devendo ser realizada em local a ser definido pelaAdministração.",
               "unidade": "SERV",
-              "quantidade": "2.500,00",
-              "valor_referencia": "60,19"
+              "quantidade": "1,00",
+              "valor_referencia": "5.500,00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5-DLE-092-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "902/2026",
+      "modalidade": "DISPENSA ELETRÔNICA",
+      "situacao": "JULGAMENTO",
+      "condutor": "ISLA LIMA SILVA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO PARCELADA",
+      "publicacao": "25/09/2026 12:23",
+      "inicio_recepcao": "25/09/2026 12:30",
+      "fim_recepcao": "01/10/2026 08:15",
+      "inicio_disputa": "01/10/2026 08:30",
+      "objeto": "Contratação de empresa especializada em fornecimento de MATERIAIS E EQUIPAMENTOS PARA A PADARIA COMUNITÁRIA (material de consumo) e (material permanente), a fim de atender as necessidades da Secretaria Municipal de Promoção Social",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DJLgyUVMw%2FdlBaQKxSqmf_oLpj0s5cZkNjrsWB09ecnYU8bkYQgYvq1oqTGmQXeT3Q4bU1D3K6Cg5hHX6hlE3g93MInwsf6JdiMz9E3zNx08%3D",
+      "total_lotes": 3,
+      "total_itens": 5,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "Seladora de Embalagens Plásticas Tipo Pedal Industrial (Sistema por Impulso)",
+          "fase": "JULGAMENTO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "37.765,00",
+          "vencedor": "VM CONSTRUTORA E TRANSPORTE LTDA",
+          "melhor_oferta": "37.765,00",
+          "total_itens": 3,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900516171 Saco plástico flexível personalizado parapães: medindo aproximadamente 25 x 35 cm, confeccionado emPolipropileno (PP) ou Polietileno de Baixa Densidade (PEBD),100% virgem, transparente e inteiramente atóxico (graualimentício), com espessura mínima de 0,05 mm a 0,06 mm (50a 60 micras), garantindo resistência mecânica ao transporte euniformidade na aplicação da identidade visual. As embalagensdeverão ser fornecidas com personalização em impressão emflexografia de alta resolução, utilizando tintas estritamenteatóxicas e sem odor residual. O layout/arte em vetor seráfornecido pela Administração Pública após a homologação,contendo no mínimo a identidade visual oficial da PrefeituraMunicipal de Teixeira de Freitas, brasão institucional e demaisinformações do projeto 'Padaria Escola' definidas pelaSecretaria competente.",
+              "unidade": "KG",
+              "quantidade": "300,00",
+              "valor_referencia": "41,55"
+            },
+            {
+              "numero": "2",
+              "especificacao": "9900516173 Saco plástico flexível personalizado parapães:medindo aproximadamente 30 x 45 cm, confeccionado emPolipropileno (PP) ou Polietileno de Baixa Densidade (PEBD),100% virgem, transparente e inteiramente atóxico (graualimentício), com espessura mínima de 0,06 mm (60 micras),garantindo resistência mecânica ao transporte e uniformidade naaplicação da identidade visual. As embalagens deverão serfornecidas com personalização em impressão em flexografia dealta resolução, utilizando tintas estritamente atóxicas e sem odorresidual. O layout/arte em vetor será fornecido pelaAdministração Pública após a homologação, contendo nomínimo a identidade visual oficial da Prefeitura Municipal deTeixeira de Freitas, brasão institucional e demais informaçõesdo projeto 'Padaria Escola' definidas pela Secretariacompetente.",
+              "unidade": "KG",
+              "quantidade": "500,00",
+              "valor_referencia": "38,00"
+            },
+            {
+              "numero": "3",
+              "especificacao": "9900516174 Saco plástico flexível personalizado parapães:medindo aproximadamente 40 x 60 cm, confeccionado emPolipropileno (PP) ou Polietileno de Baixa Densidade (PEBD),100% virgem, transparente e inteiramente atóxico (graualimentício), com espessura mínima de 0,075 (75 micras),garantindo resistência mecânica ao transporte e uniformidade naaplicação da identidade visual. As embalagens deverão serfornecidas com personalização em flexografia de alta resolução,utilizando tintas estritamente atóxicas e sem odor residual. Olayout/arte em vetor será fornecido pela Administração Públicaapós a homologação, contendo no mínimo a identidade visualoficial da Prefeitura Municipal de Teixeira de Freitas, brasãoinstitucional e demais informações do projeto 'Padaria Escola'definidas pela Secretaria competente.",
+              "unidade": "KG",
+              "quantidade": "150,00",
+              "valor_referencia": "42,00"
             }
           ]
         },
         {
           "numero": "2",
-          "titulo": "9903311392 CITOLOGIA EM MEIO LIQUIDO",
-          "fase": "HABILITAÇÃO",
-          "tipo": "UNITÁRIO",
+          "titulo": "Seladora de Embalagens Plásticas Tipo Pedal Industrial (Sistema por Impulso)",
+          "fase": "JULGAMENTO",
+          "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,00",
-          "exclusivo_me": "NÃO",
+          "exclusivo_me": "SIM",
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
-          "valor_referencia": "62,25",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
+          "valor_referencia": "3.603,72",
+          "vencedor": "VM CONSTRUTORA E TRANSPORTE LTDA",
+          "melhor_oferta": "3.603,72",
           "total_itens": 1,
           "itens": [
             {
               "numero": "1",
-              "especificacao": "9903311392 CITOLOGIA EM MEIO LIQUIDO - BRONQUIO:CITOLOGIA EM MEIO LIQUIDO - BRONQUIO.",
-              "unidade": "SERV",
-              "quantidade": "100,00",
-              "valor_referencia": "62,25"
+              "especificacao": "5707611210 Seladora de Embalagens Plásticas Tipo PedalIndustrial (Sistema por Impulso):Comprimento de Solda (ÁreaÚtil): Mínimo de 40 cm (quarenta centímetros). Espessura daSolda: Mínimo de 3 mm a 5 mm. Garantindo uma vedaçãogrossa, hermética e resistente, que não se rompe com o pesodos pães durante o transporte. Tipo de Aquecimento: Sistemapor Impulso Eletrônico através de fita de Níquel Cromo(aquecimento instantâneo temporizado, com desligamentoautomático após a fusão do plástico). Controle de Temperatura:Painel com regulagem eletrônica de tempo de selagem(temporizador visual ou sonoro), permitindo o ajuste preciso paradiferentes espessuras de plástico (de 50 a 85 micras). EstruturaFísica: Chassi de pedestal confeccionado em chapa de açocarbono com pintura eletrostática epóxi anticorrosiva ou em açoinoxidável. Bancada/bandeja de apoio integrada com regulagemde altura, permitindo que o pacote de pães fique escorado deforma plana e nivelada durante a selagem. Acionamentomecânico via pedal ergonômico reforçado. Compatibilidade deMateriais: Própria para selagem de Polipropileno (PP),Polietileno (PEBD / PEAD) e plásticos aluminizados.Alimentação Elétrica: Bivolt automático ou chaveado (127V /220V), com garantia mínima de 12 meses.",
+              "unidade": "UN",
+              "quantidade": "2,00",
+              "valor_referencia": "1.801,86"
             }
           ]
         },
         {
           "numero": "3",
-          "titulo": "9903311373 COLORAÇÃO ESPECIAL",
-          "fase": "HABILITAÇÃO",
-          "tipo": "UNITÁRIO",
+          "titulo": "Fecho Plástico Tipo Amarrilho com Alma Metálica Interna (Arame Encapado)",
+          "fase": "JULGAMENTO",
+          "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,00",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "1.268,40",
+          "vencedor": "VM CONSTRUTORA E TRANSPORTE LTDA",
+          "melhor_oferta": "1.268,40",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900516175 Fecho Plástico Tipo Amarrilho com Alma MetálicaInterna (Arame Encapado):Composição Externa: Revestimentoem Polietileno (PE) ou Policloreto de Vinila (PVC) 100% virgem.O acabamento deve ser totalmente liso e plano (formatoachatado), sem rebarbas plásticas. Composição Interna (Alma):Núcleo composto por um fio de arame metálico de aço carbonogalvanizado (recozido), extrafino e maleável. Dimensões:Formato: Pré-cortado em hastes individuais retas. Comprimento:8 cm a 10 cm (medida ideal para abraçar o topo dos sacos depanificação sem sobrar ou faltar material). Largura externa:Aproximadamente 4,0 mm. Espessura do Arame Interno: Entre0,40 mm e 0,45 mm. Cor: Branca (padrão institucional neutro).",
+              "unidade": "KG",
+              "quantidade": "30,00",
+              "valor_referencia": "42,28"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5-DLE-100-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "971/2026",
+      "modalidade": "DISPENSA ELETRÔNICA",
+      "situacao": "JULGAMENTO",
+      "condutor": "ISAQUE SILVA DOS SANTOS",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO PARCELADA",
+      "publicacao": "25/09/2026 12:06",
+      "inicio_recepcao": "25/09/2026 12:10",
+      "fim_recepcao": "01/10/2026 08:15",
+      "inicio_disputa": "01/10/2026 08:30",
+      "objeto": "Contratação de empresa especializada na prestação de serviço de CAPACITAÇÃO TÉCNICA, a fim de atender as necessidades da Secretaria Municipal de Promoção Social.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DLHaH4b2ksyzsyIq8Bu9G90xwpnuNdE4mMYm65nw0mNVm4AqWOJj_BmYN5tkBA7SBSyeKiz1AbyZ30rRbUOclbSJ%2FwHNetBViEL%2FgPVxZvts%3D",
+      "total_lotes": 1,
+      "total_itens": 6,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "Módulo VI Integração da Rede de Proteção, Fluxos Intersetoriais e Estudos de Casos",
+          "fase": "JULGAMENTO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "21.032,67",
+          "vencedor": "ACTA ESTAGIOS LTDA",
+          "melhor_oferta": "12.500,00",
+          "total_itens": 6,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9903312149 Módulo I Sistema de Garantia dos Direitos daCriança e do Adolescente (SGDCA):Capacitação voltada àcompreensão da estrutura, funcionamento e atribuições doSistema de Garantia dos Direitos da Criança e do Adolescente,abrangendo o Estatuto da Criança e do Adolescente, princípiosda proteção integral, competências institucionais dos órgãosintegrantes da rede, atuação do CMDCA, controle social,políticas públicas para infância e adolescência, Fundo Municipaldos Direitos da Criança e do Adolescente e articulaçãointersetorial.",
+              "unidade": "SERV",
+              "quantidade": "1,00",
+              "valor_referencia": "3.016,67"
+            },
+            {
+              "numero": "2",
+              "especificacao": "9903312150 Módulo II Atuação Prática do ConselhoTutelar:Capacitação destinada ao aperfeiçoamento da atuaçãodos Conselheiros Tutelares, contemplando competências legais,atribuições funcionais, medidas de proteção, procedimentosadministrativos, elaboração de notificações, requisições,relatórios e demais documentos oficiais, atendimento dedenúncias, planejamento institucional, organização docolegiado, relacionamento com o Sistema de Justiça eintegração com a Rede de Proteção, incluindo análise de casospráticos.",
+              "unidade": "SERV",
+              "quantidade": "1,00",
+              "valor_referencia": "3.200,00"
+            },
+            {
+              "numero": "3",
+              "especificacao": "9903312151 Módulo III Sistema de Informação para a Infânciae Adolescência SIPIA:Capacitação teórico-prática parautilização do Sistema de Informação para a Infância eAdolescência (SIPIA), compreendendo cadastro institucional,alimentação do sistema, registro de atendimentos, classificaçãodas violações de direitos, emissão de relatórios,acompanhamento de casos, produção de indicadores e oficinaspráticas de operacionalização do sistema, visando aoaprimoramento da gestão da informação e ao fortalecimento daspolíticas públicas destinadas à infância e adolescência.",
+              "unidade": "SERV",
+              "quantidade": "1,00",
+              "valor_referencia": "3.850,00"
+            },
+            {
+              "numero": "4",
+              "especificacao": "9903312152 Módulo IV Escuta Especializada e AtendimentoIntegrado:Capacitação destinada ao aperfeiçoamento daatuação da Rede de Proteção no atendimento às crianças eadolescentes vítimas ou testemunhas de violência,contemplando a aplicação da Lei Federal nº 13.431/2017,Decreto Federal nº 9.603/2018, protocolos de EscutaEspecializada, prevenção da revitimização, fluxos deatendimento, comunicação interinstitucional, responsabilidadesdos órgãos integrantes da rede e construção de procedimentosintegrados.",
+              "unidade": "SERV",
+              "quantidade": "1,00",
+              "valor_referencia": "3.766,00"
+            },
+            {
+              "numero": "5",
+              "especificacao": "9903312153 Módulo V Prevenção e Enfrentamento dasViolências Contra Crianças e Adolescentes:Capacitação voltadaà identificação, prevenção e enfrentamento das diversas formasde violência praticadas contra crianças e adolescentes,compreendendo violência física, psicológica, sexual,institucional, negligência, abandono, trabalho infantil, violênciadoméstica, violência digital, exploração sexual, tráfico depessoas, cyberbullying, grooming, dentre outras violações dedireitos, abordando medidas preventivas, estratégias deintervenção e fortalecimento da atuação integrada da redemunicipal de proteção.",
+              "unidade": "SERV",
+              "quantidade": "1,00",
+              "valor_referencia": "3.000,00"
+            },
+            {
+              "numero": "6",
+              "especificacao": "9903312154 Módulo VI Integração da Rede de Proteção,Fluxos Intersetoriais e Estudos de Casos:Capacitação destinadaao fortalecimento da atuação integrada dos órgãos quecompõem o Sistema de Garantia dos Direitos da Criança e doAdolescente, contemplando oficinas práticas para construção eaperfeiçoamento dos fluxos municipais de atendimento,definição das competências institucionais, simulações deatendimento, estudos de casos concretos, resolução desituações complexas e elaboração de estratégias conjuntasvoltadas ao aperfeiçoamento da Rede de Proteção do Municípiode Teixeira de Freitas.",
+              "unidade": "SERV",
+              "quantidade": "1,00",
+              "valor_referencia": "4.200,00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-157-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "876 / 2026",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "JULGAMENTO",
+      "condutor": "SERGIO CARNEIRO CAVALCANTI DE AZEVEDO",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO",
+      "publicacao": "18/09/2026 16:54",
+      "inicio_recepcao": "22/09/2026 00:00",
+      "fim_recepcao": "02/10/2026 08:15",
+      "inicio_disputa": "02/10/2026 08:30",
+      "objeto": "Contratação de empresa especializada em fornecimento de EQUIPAMENTOS E MATERIAIS PARA APOIO ÀS ATIVIDADES OPERACIONAIS RELACIONADAS À GESTÃO, ORGANIZAÇÃO E LOGÍSTICA DE GÊNEROS ALIMENTÍCIOS (material permanente) e (material de consumo), a fim de atender as demandas da Secretaria Municipal de Educação.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DybQKUor%2FpxJSnU6QSUCcdgPPzEe7tCal9lQHZA2d_UR7kuv9OSDoZtUGj8cx4GdYRxC_MAnJq4D4lYqRqtzloE1fYp1bFdJrV4J6iIMg7A4%3D",
+      "total_lotes": 2,
+      "total_itens": 2,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "9900515332 Caixa plástica empilhável tipo Horti Frutti:modelo padrão rígido retangular, destinada ao acondicionamento, organização e armazenamento de gêneros alimentícios, insumos e materiais de apoio para merenda escolar, promovendo higiene, conservação,",
+          "fase": "JULGAMENTO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
           "exclusivo_me": "NÃO",
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
-          "valor_referencia": "33,65",
+          "valor_referencia": "55.176,00",
+          "vencedor": "3 G  COMÉRCIO E SERVIÇOS LTDA.",
+          "melhor_oferta": "35.168,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515332 Caixa plástica empilhável tipo Horti Frutti:modelo padrão rígido retangular, destinada ao acondicionamento, organização e armazenamento de gêneros alimentícios, insumos e materiais de apoio para merenda escolar, promovendo higiene, conservação, rastreabilidade e controle de estoque. Fabricada exclusivamente em polipropileno (PP) virgem grau alimentício, atóxico, livre de metais pesados, BPA e ftalatos, conforme ANVISA (RDC nº 51/2010, RDC nº 17/2008 e GMC 03/92 -MERCOSUL), com estabilidade dimensional, resistência a impactos >10J e temperaturas de -20°C a +60°C. Dimensões externas: 55 cm (C) x 35 cm (L) x 27 cm (A), capacidade 52 L, estrutura com paredes duplas reforçadas, fundo nervurado, bordas com travas integradas para empilhamento seguro de até 5 unidades carregadas a 50 kg cada (conforme laudo técnico do fabricante). Pegadores ergonômicos laterais, superfícies internas/externas lisas sem cantos vivos para fácil higienização, cor branca opaca ou translúcida (definida pela Administração). Compatível com prateleiras/pallets de almoxarifado escolar, fornecida nova (1º uso), sem avarias, com manual do fabricante especificando carga máxima, capacidade, normas sanitárias e instruções de limpeza/manuseio.",
+              "unidade": "Und.",
+              "quantidade": "600,00",
+              "valor_referencia": "91,96"
+            }
+          ]
+        },
+        {
+          "numero": "2",
+          "titulo": "9900830439 Empilhadeira contrabalançada elétrica:zero quilômetro, destinada à movimentação e empilhamento de cargas. Capacidade nominal de carga mínima de 3.500 kg, considerando centro de carga de 500 mm. Torre do tipo triplex, com altura de elevação míni",
+          "fase": "JULGAMENTO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "435.000,00",
+          "vencedor": "MAQTEC MAQUINAS LTDA",
+          "melhor_oferta": "379.500,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900830439 Empilhadeira contrabalançada elétrica:zero quilômetro, destinada à movimentação e empilhamento de cargas. Capacidade nominal de carga mínima de 3.500 kg, considerando centro de carga de 500 mm. Torre do tipo triplex, com altura de elevação mínima de 4,5 metros. Sistema de tração elétrico, com controle adequado para operações industriais.Sistema de alimentação por bateria tracionária industrial, com tensão compatível com a capacidade nominal do equipamento, acompanhada de carregador apropriado. Direção hidráulica.Sistema hidráulico com, no mínimo, 3 vias (elevação, inclinação e deslocador lateral). Deslocador lateral de garfos (Side Shifter) integrado. Garfos com comprimento mínimo de 1.220 mm, compatíveis com paletes padrão PBR. Pneus pneumáticos para terrenos irregulares ou maciços para maior durabilidade em pisos pavimentados. Peso operacional aproximado de 5.500 kg. Raio de giro compatível com operação em corredores de armazém.Equipamentos de segurança obrigatórios: protetor superior do operador (Overhead Guard), cinto de segurança, espelhos retrovisores, sinalizador luminoso tipo giroflex, alarme de ré, buzina e kit de iluminação em LED (faróis dianteiros, luz de freio e luz de ré). Equipamento em conformidade com as NR-11 e NR-12. Garantia mínima de 36 meses contra defeitos de fabricação. Manual de operação e manutenção em língua portuguesa.",
+              "unidade": "Und.",
+              "quantidade": "2,00",
+              "valor_referencia": "217.500,00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-158-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "972/2026",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "PUBLICADO",
+      "condutor": "JONATAS DA SILVA SOUSA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO PARCELADA",
+      "publicacao": "16/09/2026 21:14",
+      "inicio_recepcao": "06/10/2026 08:00",
+      "fim_recepcao": "15/10/2026 08:45",
+      "inicio_disputa": "15/10/2026 09:00",
+      "objeto": "Contratação de empresa especializada em fornecimento de APARELHOS DE AR-CONDICIONADO (materiais permanentes), a fim de atender às demandas da Secretaria Municipal de Administração e da Secretaria Municipal de Educação.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DR7U65Ue9EayfpkbEuM4l4%2FEg6HKuQk_2hCXvaytSbrBsuywUhPoI8pcQj1KX_0kiX_L7jS0%2FqpqCciCoZ9OBhMinx3moZzhGEb6UEPimots%3D",
+      "total_lotes": 8,
+      "total_itens": 8,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "Aparelho De Ar-Condicionado Tipo Split Hi-Wall - 9.000 Btus",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
           "vencedor": "",
           "melhor_oferta": "0,00",
           "total_itens": 1,
           "itens": [
             {
               "numero": "1",
-              "especificacao": "9903311373 COLORAÇÃO ESPECIAL: Marcação da biópsia por corantes especiais.",
-              "unidade": "SERV",
-              "quantidade": "50,00",
-              "valor_referencia": "33,65"
+              "especificacao": "APARELHO DE AR-CONDICIONADO TIPO SPLIT HI-WALL - 9.000 BTUS::Equipamento novo, de primeiro uso, com capacidade de refrigeração de 9.000 BTUs, ciclo frio, alimentação elétrica compatível com rede nacional (220V ou bivolt), composto por unidade evaporadora e condensadora. Compressor eficiente, operando com gás refrigerante ecológico (R-410A ou R-32), controle remoto incluso com funções básicas e display digital. Deve possuir modos de operação como refrigeração, ventilação, desumidificação e modo sleep. Filtro de ar lavável e de fácil remoção. Serpentina obrigatoriamente em cobre, garantindo maior vida útil e melhor desempenho. Estrutura resistente à corrosão. Operação silenciosa, adequada para salas de aula e ambientes administrativos. Classificação energética mínima \"A\" no INMETRO. Garantia mínima de 24 meses. Instalação não inclusa.",
+              "unidade": "UND",
+              "quantidade": "38,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "2",
+          "titulo": "Aparelho De Ar-Condicionado Tipo Split Hi-Wall - 12.000 Btus",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "APARELHO DE AR-CONDICIONADO TIPO SPLIT HI-WALL - 12.000 BTUS:Equipamento novo, de primeiro uso, com capacidade de refrigeração de 12.000 BTUs, ciclo frio, alimentação elétrica compatível com rede nacional (220V ou bivolt), composto por unidade interna (evaporadora) e externa (condensadora). Compressor de alta eficiência, utilizando gás refrigerante ecológico (R-410A ou R-32), acompanhado de controle remoto sem fio com visor digital. Deve conter, no mínimo, funções de refrigeração, ventilação, desumidificação e modo econômico/sleep. Filtro de ar lavável e removível. Serpentina obrigatoriamente em cobre, vedada a utilização de serpentina em alumínio. Estrutura com proteção anticorrosiva. Baixo nível de ruído. Classificação energética mínima \"A\" conforme INMETRO. Garantia mínima de 24 meses. Instalação não inclusa.",
+              "unidade": "UND",
+              "quantidade": "75,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "3",
+          "titulo": "Aparelho De Ar-Condicionado Tipo Split Hi-Wall - 24.000 Btus",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "APARELHO DE AR-CONDICIONADO TIPO SPLIT HI-WALL - 24.000 BTUS:Equipamento novo, de primeiro uso, com capacidade de refrigeração de 24.000 BTUs, ciclo frio, alimentação elétrica compatível com rede nacional (220V ou bivolt, conforme padrão do fabricante), composto por unidade evaporadora interna e condensadora externa. Equipado com compressor de alta eficiência, gás refrigerante ecológico (R-410A ou R-32), controle remoto sem fio com display digital, funções mínimas de refrigeração, ventilação, desumidificação e modo sleep. Deve possuir filtro de ar lavável e removível. Serpentina obrigatoriamente em cobre, tanto na evaporadora quanto na condensadora, visando maior durabilidade e eficiência térmica. Gabinete em material resistente à corrosão. Nível de ruído compatível com uso em ambientes educacionais. Classificação energética mínima \"A\" no INMETRO. Garantia mínima de 24 meses. Instalação não inclusa.",
+              "unidade": "UND",
+              "quantidade": "105,00",
+              "valor_referencia": ""
             }
           ]
         },
         {
           "numero": "4",
-          "titulo": "9903311378 CORE BYOPSY",
-          "fase": "HABILITAÇÃO",
-          "tipo": "UNITÁRIO",
+          "titulo": "Aparelho De Ar-Condicionado Tipo Split High Wall - 30.000 Btus",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
           "quantidade": "1",
-          "intervalo_minimo": "0,00",
-          "exclusivo_me": "NÃO",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
-          "valor_referencia": "68,46",
+          "valor_referencia": "",
           "vencedor": "",
           "melhor_oferta": "0,00",
           "total_itens": 1,
           "itens": [
             {
               "numero": "1",
-              "especificacao": "9903311378 CORE BYOPSY:CORE BYOPSY.",
-              "unidade": "SERV",
-              "quantidade": "100,00",
-              "valor_referencia": "68,46"
+              "especificacao": "APARELHO DE AR-CONDICIONADO TIPO SPLIT HIGH WALL - 30.000 BTUS:capacidade de refrigeração de 30.000 BTUs/h, tensão monofásico de 220 volts, 60Hz; 1F; Rotação: Velocidade Fixa, com modo de funcionamento: resfriar, ventilar, desumidificar, swing e timer, controle remoto sem fio, baixo nível de ruído. Rotulagem contendo classificação Inmetro de Eficiência Energética, nome do produto, dados do fabricante e tensão nominal. Garantia mínima do fabricante de 02 (dois) anos, prestada no Estado da Bahia. Instalação não inclusa. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "6,00",
+              "valor_referencia": ""
             }
           ]
         },
         {
           "numero": "5",
-          "titulo": "33437 PEÇA CIRÚRGICA SIMPLES",
-          "fase": "HABILITAÇÃO",
-          "tipo": "UNITÁRIO",
+          "titulo": "Aparelho De Ar-Condicionado Tipo Split Piso-Teto 60.000 Btus",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
           "quantidade": "1",
-          "intervalo_minimo": "0,00",
-          "exclusivo_me": "NÃO",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
-          "valor_referencia": "75,00",
+          "valor_referencia": "",
           "vencedor": "",
           "melhor_oferta": "0,00",
           "total_itens": 1,
           "itens": [
             {
               "numero": "1",
-              "especificacao": "33437 PEÇA CIRÚRGICA SIMPLES:PEÇA CIRÚRGICA SIMPLES",
-              "unidade": "SERV",
-              "quantidade": "2.500,00",
-              "valor_referencia": "75,00"
+              "especificacao": "APARELHO DE AR-CONDICIONADO TIPO SPLIT PISO-TETO 60.000 BTUS:capacidade de refrigeração de 60.000 BTUS/H, tensão monofásica de 220 VOLTS, 60 HZ; 1F; rotação com velocidade fixa, com modos de funcionamento: resfriar, ventilar, desumidificar, swing e timer, controle remoto sem fio, serpentina do condensador em cobre, baixo nível de ruído. Rotulagem contendo classificação do INMETRO de eficiência energética, nome do produto, dados do fabricante e tensão nominal. Garantia mínima do fabricante de 02 (dois) anos, prestada no Estado da Bahia. Instalação não inclusa. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "6,00",
+              "valor_referencia": ""
             }
           ]
         },
         {
           "numero": "6",
-          "titulo": "9903311384 PEÇA CIRÚRGICA COMPLEXA",
-          "fase": "HABILITAÇÃO",
-          "tipo": "UNITÁRIO",
+          "titulo": "Aparelho De Ar-Condicionado Tipo Split Hi- Wall - 9.000 Btus",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
           "quantidade": "1",
-          "intervalo_minimo": "0,00",
-          "exclusivo_me": "NÃO",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
-          "valor_referencia": "243,42",
+          "valor_referencia": "",
           "vencedor": "",
           "melhor_oferta": "0,00",
           "total_itens": 1,
           "itens": [
             {
               "numero": "1",
-              "especificacao": "9903311384 PEÇA CIRÚRGICA COMPLEXA:PEÇA CIRÚRGICA COMPLEXA",
-              "unidade": "UN",
-              "quantidade": "1.500,00",
-              "valor_referencia": "243,42"
+              "especificacao": "APARELHO DE AR-CONDICIONADO TIPO SPLIT HI- WALL - 9.000 BTUS::Equipamento novo, de primeiro uso, com capacidade de refrigeração de 9.000 BTUs, ciclo frio, alimentação elétrica compatível com rede nacional (220V ou bivolt), composto por unidade evaporadora e condensadora. Compressor eficiente, operando com gás refrigerante ecológico (R-410A ou R-32), controle remoto incluso com funções básicas e display digital. Deve possuir modos de operação como refrigeração, ventilação, desumidificação e modo sleep. Filtro de ar lavável e de fácil remoção. Serpentina obrigatoriamente em cobre, garantindo maior vida útil e melhor desempenho. Estrutura resistente à corrosão. Operação silenciosa, adequada para salas de aula e ambientes administrativos. Classificação energética mínima \"A\" no INMETRO. Garantia mínima de 24 meses. Instalação não inclusa. COTA 25% PARA ME/EPP.",
+              "unidade": "Und.",
+              "quantidade": "12,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "7",
+          "titulo": "Aparelho De Ar-Condicionado Tipo Split Hi- Wall - 12.000 Btus",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "APARELHO DE AR-CONDICIONADO TIPO SPLIT HI- WALL - 12.000 BTUS:Equipamento novo, de primeiro uso, com capacidade de refrigeração de 12.000 BTUs, ciclo frio, alimentação elétrica compatível com rede nacional (220V ou bivolt), composto por unidade interna (evaporadora) e externa (condensadora). Compressor de alta eficiência, utilizando gás refrigerante ecológico (R-410A ou R-32), acompanhado de controle remoto sem fio com visor digital. Deve conter, no mínimo, funções de refrigeração, ventilação, desumidificação e modo econômico/sleep. Filtro de ar lavável e removível. Serpentina obrigatoriamente em cobre, vedada a utilização de serpentina em alumínio. Estrutura com proteção anticorrosiva. Baixo nível de ruído. Classificação energética mínima \"A\" conforme INMETRO. Garantia mínima de 24 meses. Instalação não inclusa. COTA 25% PARA ME/EPP.",
+              "unidade": "Und.",
+              "quantidade": "25,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "8",
+          "titulo": "Aparelho De Ar-Condicionado Tipo Split Hi- Wall - 24.000 Btus",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "APARELHO DE AR-CONDICIONADO TIPO SPLIT HI- WALL - 24.000 BTUS:Equipamento novo, de primeiro uso, com capacidade de refrigeração de 24.000 BTUs, ciclo frio, alimentação elétrica compatível com rede nacional (220V ou bivolt, conforme padrão do fabricante), composto por unidade evaporadora interna e condensadora externa. Equipado com compressor de alta eficiência, gás refrigerante ecológico (R-410A ou R-32), controle remoto sem fio com display digital, funções mínimas de refrigeração, ventilação, desumidificação e modo sleep. Deve possuir filtro de ar lavável e removível. Serpentina obrigatoriamente em cobre, tanto na evaporadora quanto na condensadora, visando maior durabilidade e eficiência térmica. Gabinete em material resistente à corrosão. Nível de ruído compatível com uso em ambientes educacionais. Classificação energética mínima \"A\" no INMETRO. Garantia mínima de 24 meses. Instalação não inclusa. COTA 25% PARA ME/EPP.",
+              "unidade": "Und.",
+              "quantidade": "35,00",
+              "valor_referencia": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-141-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "801 / 2026",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "CANCELADO",
+      "condutor": "JONATAS DA SILVA SOUSA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO",
+      "publicacao": "27/08/2026 17:04",
+      "inicio_recepcao": "31/08/2026 08:00",
+      "fim_recepcao": "18/09/2026 08:15",
+      "inicio_disputa": "18/09/2026 08:30",
+      "objeto": "Contratação de empresa especializada em prestação de serviço de MONITORAMENTO E RASTREAMENTO\nVEICULAR COM FORNECIMENTO, EM REGIME DE COMODATO, DOS EQUIPAMENTOS RASTREADORES E ACESSÓRIOS, a fim de atender as demandas da Secretaria Municipal de Administração e demais Secretarias.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DHLBoNNlfVJ8yQCtMrCcGE9tXXA5CpHXyiTfwsgmpup3ey8NRk1KJA1RND7zh7OyR92bOGHDy8jl199IW9HK48Ltf2ciIpe9Gu8oGbvJCD3w%3D",
+      "total_lotes": 1,
+      "total_itens": 1,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "MONITORAMENTO VEICULO",
+          "fase": "CANCELADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "201.548,16",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9903312120 Rastreamento e monitoramento veicular:destinadosà gestão da frota de frota, por meio de sistema informatizado emplataforma web e aplicativo móvel, com monitoramento emtempo real, dos deslocamentos, paradas, velocidades, eventos edemais informações operacionais da frota, emissão de relatóriosgerenciais e transmissão de dados por tecnologiaGPS/GSM/GPRS ou superior, contemplando o fornecimento, emregime de comodato, dos equipamentos rastreadores, acessóriose demais componentes necessários ao pleno funcionamento dasolução, incluindo conectividade de dados, instalação,configuração, ativação, manutenção preventiva e corretiva,substituição de equipamentos quando necessária,disponibilização de sistema web para até 5 usuários simultâneos,suporte técnico e garantia de funcionamento durante toda avigência contratual.",
+              "unidade": "SER",
+              "quantidade": "264,00",
+              "valor_referencia": "763,44"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-127-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "648 / 2026",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "AGUARDANDO DISPUTA",
+      "condutor": "SERGIO CARNEIRO CAVALCANTI DE AZEVEDO",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "REGISTRO DE PREÇO",
+      "publicacao": "11/08/2026 12:04",
+      "inicio_recepcao": "17/09/2026 08:00",
+      "fim_recepcao": "02/10/2026 09:45",
+      "inicio_disputa": "05/10/2026 14:00",
+      "objeto": "Contratação de empresa especializada em fornecimento de ÔNIBUS ESCOLARES,  a fim de atender as demandas da Secretaria Municipal de Educação.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DDKMquv9y2bpt%2FGSYKTfWSP%2F0ZsCuZMJh4qgphOpcGPjVnGcn%2FZztTTNoV1Wk5qd5WVyW8cSXwez606boXDS22PHXwkT1qM3h1p7ToWTyxyQ%3D",
+      "total_lotes": 6,
+      "total_itens": 6,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "2301000015 ÔNIBUS ESCOLAR - ORE 1:novo, zero quilômetro, de fabricação nacional, destinado ao transporte escolar, com comprimento mínimo de 7.000 mm, capacidade mínima para 29 estudantes sentados, equipado com motor dianteiro de potência mínima de 110 kW,",
+          "fase": "AGUARDANDO DISPUTA",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "ÔNIBUS ESCOLAR ORE 1: novo, zero quilômetro, de fabricação nacional, destinado ao transporte escolar,com comprimento mínimo de 7.000 mm, capacidade mínima para 29 estudantes sentados, equipado com motordianteiro de potência mínima de 110 kW equivalente a aproximadamente 150 CV, transmissão manual, direçãohidráulica, suspensão metálica e sistema de freios pneumático e/ou hidráulico. Equipado com sistema de arcondicionado automotivo de fábrica ou homologado pelo fabricante/implementador, adequado para operaçãoem transporte escolar, com capacidade compatível com o volume interno do veículo, distribuidores de ar aolongo do salão de passageiros, garantindo conforto térmico aos ocupantes durante o deslocamento. O veículodeverá atender integralmente às especificações técnicas, requisitos de segurança, acessibilidade, iluminação,sinalização e demais características estabelecidas pelo Fundo Nacional de Desenvolvimento da Educação(FNDE), Programa Caminho da Escola, Código de Trânsito Brasileiro (CTB), Conselho Nacional de Trânsito(CONTRAN), Associação Brasileira de Normas Técnicas (ABNT) e demais normas aplicáveis. Deverá possuirsistema de acessibilidade por meio de Plataforma Elevatória Veicular (PEV) ou tecnologia equivalentecertificada, destinada ao embarque e desembarque de pessoas com deficiência ou mobilidade reduzida,permitindo a elevação do usuário, inclusive em cadeira de rodas, entre o nível externo e o piso interno do veículosem necessidade de transferência para assento interno. O sistema deverá possuir acionamento eletro-hidráulico,eletromecânico ou tecnologia equivalente, dispositivos de segurança, comandos de emergência, barreiras deproteção, sistema de parada segura, capacidade compatível com usuários cadeirantes e certificação compulsóriajunto aos órgãos competentes, observadas as exigências do Inmetro e da legislação aplicável. Quando nãoestiver em operação, a plataforma deverá permanecer recolhida em compartimento integrado ao veículo, semcomprometer a segurança, a circulação interna ou a utilização regular do espaço destinado aos passageiros. Oveículo deverá dispor de área reservada para acomodação de, no mínimo, 02 (duas) cadeiras de rodas, equipadacom sistema de ancoragem e fixação, cinto de segurança para o usuário, (Descrição completa no anexo do termo.)",
+              "unidade": "UND",
+              "quantidade": "11,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "2",
+          "titulo": "35832 ÔNIBUS ESCOLAR - ORE 1 4x4:novo, zero quilômetro, de fabricação nacional, destinado ao transporte escolar em áreas rurais de difícil acesso, equipado com tração 4x4, comprimento mínimo de 7.000 mm, capacidade mínima para 23 estudantes sentados, moto",
+          "fase": "AGUARDANDO DISPUTA",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "ÔNIBUS ESCOLAR ORE 1 4x4: novo, zero quilômetro, de fabricação nacional, destinado ao transporte escolarem áreas rurais de difícil acesso, equipado com tração 4x4, comprimento mínimo de 7.000 mm, capacidademínima para 23 estudantes sentados, motor dianteiro com potência mínima de 110 kW equivalente aaproximadamente 150 CV, transmissão manual, direção hidráulica, diferencial com bloqueio, suspensãoreforçada e pneus de uso misto para estradas pavimentadas e não pavimentadas. Equipado com sistema de arcondicionado automotivo de fábrica ou homologado pelo fabricante/implementador, adequado para operaçãoem transporte escolar, com capacidade compatível com o volume interno do veículo, distribuidores de ar aolongo do salão de passageiros, garantindo conforto térmico aos ocupantes durante o deslocamento. O veículodeverá atender integralmente às especificações técnicas, requisitos de segurança, acessibilidade, iluminação,sinalização e demais características estabelecidas pelo Fundo Nacional de Desenvolvimento da Educação(FNDE), Programa Caminho da Escola, Código de Trânsito Brasileiro (CTB), Conselho Nacional de Trânsito(CONTRAN), Associação Brasileira de Normas Técnicas (ABNT) e demais normas aplicáveis. Deverá possuirsistema de acessibilidade por meio de Plataforma Elevatória Veicular (PEV) ou tecnologia equivalentecertificada, destinada ao embarque e desembarque de pessoas com deficiência ou mobilidade reduzida,permitindo a elevação do usuário, inclusive em cadeira de rodas, entre o nível externo e o piso interno do veículosem necessidade de transferência para assento interno. O sistema deverá possuir acionamento eletro-hidráulico,eletromecânico ou tecnologia equivalente, dispositivos de segurança, comandos de emergência, barreiras deproteção, sistema de parada segura, capacidade compatível com usuários cadeirantes e certificação compulsóriajunto aos órgãos competentes, observadas as exigências do Inmetro e da legislação aplicável. Quando nãoestiver em operação, a plataforma deverá permanecer recolhida em compartimento integrado ao veículo, semcomprometer a segurança, a circulação interna ou a utilização regular do espaço destinado aos passageiros. Oveículo deverá dispor de área reservada para acomodação de, no mínimo, 01 (uma) cadeira de rodas, equipadacom sistema de ancoragem e fixação, cinto de segurança para o usuário, espaço para manobra e sinalização deacessibilidade. (Descrição completa no anexo do termo.)",
+              "unidade": "UND",
+              "quantidade": "11,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "3",
+          "titulo": "37522 ÔNIBUS ESCOLAR - ORE 2:novo, zero quilômetro, de fabricação nacional, destinado ao transporte escolar, com comprimento mínimo de 9.000 mm, capacidade mínima para 44 estudantes sentados, equipado com motor dianteiro de potência mínima de 115 kW, tran",
+          "fase": "AGUARDANDO DISPUTA",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "ÔNIBUS ESCOLAR ORE 2: novo, zero quilômetro, de fabricação nacional, destinado ao transporte escolar,com comprimento mínimo de 9.000 mm, capacidade mínima para 44 estudantes sentados, equipado com motordianteiro de potência mínima de 115 kW equivalente a aproximadamente 156 CV, transmissão manual, direçãohidráulica, suspensão metálica reforçada e sistema de freios pneumático e/ou hidráulico. Equipado com sistemade ar-condicionado automotivo de fábrica ou homologado pelo fabricante/implementador, adequado paraoperação em transporte escolar, com capacidade compatível com o volume interno do veículo, distribuidoresde ar ao longo do salão de passageiros, garantindo conforto térmico aos ocupantes durante o deslocamento. Oveículo deverá atender integralmente às especificações técnicas, requisitos de segurança, acessibilidade iluminação, sinalização e demais características estabelecidas pelo Fundo Nacional de Desenvolvimento daEducação (FNDE), Programa Caminho da Escola, Código de Trânsito Brasileiro (CTB), Conselho Nacional deTrânsito (CONTRAN), Associação Brasileira de Normas Técnicas (ABNT) e demais normas aplicáveis.Deverá ser dotado de sistema de acessibilidade destinado ao embarque e desembarque seguro de pessoas comdeficiência ou mobilidade reduzida, mediante Dispositivo de Poltrona Móvel (DPM) ou equipamentoequivalente devidamente homologado. O sistema deverá possuir, no mínimo, poltrona móvel com apoio paraos pés, apoios laterais para os braços, cinto de segurança, acionamento elétrico, controle remoto operacional,sensores de segurança, dispositivos de parada automática de curso, alertas visuais e sonoros durante a operação,bem como mecanismo de acionamento manual para utilização em situações de emergência ou falha elétrica. Oveículo deverá ainda dispor de espaço interno adequado para a acomodação e fixação segura da cadeira de rodasutilizada pelo estudante atendido pelo sistema DPM, após sua transferência para o assento da poltrona móvel,de modo a impedir que a cadeira permaneça solta ou sem fixação durante o deslocamento do veículo,observando integralmente os requisitos de acessibilidade vigentes, de modo a garantir segurança, conforto eautonomia aos usuários durante o transporte. (Descrição completa no anexo do termo.)",
+              "unidade": "UND",
+              "quantidade": "8,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "4",
+          "titulo": "37523 ÔNIBUS ESCOLAR - ORE 2:novo, zero quilômetro, de fabricação nacional, destinado ao transporte escolar, com comprimento mínimo de 9.000 mm, capacidade mínima para 44 estudantes sentados, equipado com motor dianteiro de potência mínima de 115 kW, tran",
+          "fase": "AGUARDANDO DISPUTA",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "ÔNIBUS ESCOLAR ORE 2: novo, zero quilômetro, de fabricação nacional, destinado ao transporte escolar,com comprimento mínimo de 9.000 mm, capacidade mínima para 44 estudantes sentados, equipado com motordianteiro de potência mínima de 115 kW equivalente a aproximadamente 156 CV, transmissão manual, direçãohidráulica, suspensão metálica reforçada e sistema de freios pneumático e/ou hidráulico. Equipado com sistemade ar-condicionado automotivo de fábrica ou homologado pelo fabricante/implementador, adequado paraoperação em transporte escolar, com capacidade compatível com o volume interno do veículo, distribuidoresde ar ao longo do salão de passageiros, garantindo conforto térmico aos ocupantes durante o deslocamento. Oveículo deverá atender integralmente às especificações técnicas, requisitos de segurança, acessibilidade,iluminação, sinalização e demais características estabelecidas pelo Fundo Nacional de Desenvolvimento daEducação (FNDE), Programa Caminho da Escola, Código de Trânsito Brasileiro (CTB), Conselho Nacional deTrânsito (CONTRAN), Associação Brasileira de Normas Técnicas (ABNT) e demais normas aplicáveis.Deverá possuir sistema de acessibilidade por meio de Plataforma Elevatória Veicular (PEV) ou tecnologiaequivalente certificada, destinada ao embarque e desembarque de pessoas com deficiência ou mobilidadereduzida, permitindo a elevação do usuário, inclusive em cadeira de rodas, entre o nível externo e o piso internodo veículo sem necessidade de transferência para assento interno. O sistema deverá possuir acionamento eletrohidráulico, eletromecânico ou tecnologia equivalente, dispositivos de segurança, comandos de emergência,barreiras de proteção, sistema de parada segura, capacidade compatível com usuários cadeirantes e certificaçãocompulsória junto aos órgãos competentes, observadas as exigências do Inmetro e da legislação aplicável.Quando não estiver em operação, a plataforma deverá permanecer recolhida em compartimento integrado aoveículo, sem comprometer a segurança, a circulação interna ou a utilização regular do espaço destinado aospassageiros. O veículo deverá dispor de área reservada para acomodação de, no mínimo, 01 (uma) cadeira derodas, equipada com sistema de ancoragem e fixação, cinto de segurança para o usuário, espaço para manobrae sinalização de acessibilidade. (Descrição completa no anexo do termo.)",
+              "unidade": "UND",
+              "quantidade": "3,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "5",
+          "titulo": "37524 ÔNIBUS ESCOLAR - ORE 3:novo, zero quilômetro, de fabricação nacional, destinado ao transporte escolar, com comprimento mínimo de 11.000 mm, capacidade mínima para 59 estudantes sentados, equipado com motor dianteiro de potência mínima de 130 kW, tra",
+          "fase": "AGUARDANDO DISPUTA",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "ÔNIBUS ESCOLAR ORE 3: novo, zero quilômetro, de fabricação nacional, destinado ao transporte escolar,com comprimento mínimo de 11.000 mm, capacidade mínima para 59 estudantes sentados, equipado com motordianteiro de potência mínima de 130 kW equivalente a aproximadamente 177 CV, transmissão manual, direçãohidráulica, suspensão metálica reforçada e sistema de freios pneumático e/ou hidráulico. Equipado com sistemade ar-condicionado automotivo de fábrica ou homologado pelo fabricante/implementador, adequado paraoperação em transporte escolar, com capacidade compatível com o volume interno do veículo, distribuidoresde ar ao longo do salão de passageiros, garantindo conforto térmico aos ocupantes durante o deslocamento. Oveículo deverá atender integralmente às especificações técnicas, requisitos de segurança, acessibilidade,iluminação, sinalização e demais características estabelecidas pelo Fundo Nacional de Desenvolvimento daEducação (FNDE), Programa Caminho da Escola, Código de Trânsito Brasileiro (CTB), Conselho Nacional deTrânsito (CONTRAN), Associação Brasileira de Normas Técnicas (ABNT) e demais normas aplicáveis.Deverá ser dotado de sistema de acessibilidade destinado ao embarque e desembarque seguro de pessoas comdeficiência ou mobilidade reduzida, mediante Dispositivo de Poltrona Móvel (DPM) ou equipamentoequivalente devidamente homologado. O sistema deverá possuir, no mínimo, poltrona móvel com apoio paraos pés, apoios laterais para os braços, cinto de segurança, acionamento elétrico, controle remoto operacional,sensores de segurança, dispositivos de parada automática de curso, alertas visuais e sonoros durante a operação,bem como mecanismo de acionamento manual para utilização em situações de emergência ou falha elétrica. Oveículo deverá ainda dispor de espaço interno adequado para a acomodação e fixação segura da cadeira de rodasutilizada pelo estudante atendido pelo sistema DPM, após sua transferência para o assento da poltrona móvel,de modo a impedir que a cadeira permaneça solta ou sem fixação durante o deslocamento do veículo,observando integralmente os requisitos de acessibilidade vigentes, de modo a garantir segurança, conforto eautonomia aos usuários durante o transporte. (Descrição completa no anexo do termo.)",
+              "unidade": "UND",
+              "quantidade": "8,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "6",
+          "titulo": "37525 ÔNIBUS ESCOLAR - ORE 3:novo, zero quilômetro, de fabricação nacional, destinado ao transporte escolar, com comprimento mínimo de 11.000 mm, capacidade mínima para 59 estudantes sentados, equipado com motor dianteiro de potência mínima de 130 kW, tra",
+          "fase": "AGUARDANDO DISPUTA",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "ÔNIBUS ESCOLAR ORE 3: novo, zero quilômetro, de fabricação nacional, destinado ao transporte escolar,com comprimento mínimo de 11.000 mm, capacidade mínima para 59 estudantes sentados, equipado com motordianteiro de potência mínima de 130 kW equivalente a aproximadamente 177 CV, transmissão manual, direçãohidráulica, suspensão metálica reforçada e sistema de freios pneumático e/ou hidráulico. Equipado com sistemade ar-condicionado automotivo de fábrica ou homologado pelo fabricante/implementador, adequado paraoperação em transporte escolar, com capacidade compatível com o volume interno do veículo, distribuidoresde ar ao longo do salão de passageiros, garantindo conforto térmico aos ocupantes durante o deslocamento. Oveículo deverá atender integralmente às especificações técnicas, requisitos de segurança, acessibilidade,iluminação, sinalização e demais características estabelecidas pelo Fundo Nacional de Desenvolvimento daEducação (FNDE), Programa Caminho da Escola, Código de Trânsito Brasileiro (CTB), Conselho Nacional deTrânsito (CONTRAN), Associação Brasileira de Normas Técnicas (ABNT) e demais normas aplicáveis.Deverá possuir sistema de acessibilidade por meio de Plataforma Elevatória Veicular (PEV) ou tecnologiaequivalente certificada, destinada ao embarque e desembarque de pessoas com deficiência ou mobilidadereduzida, permitindo a elevação do usuário, inclusive em cadeira de rodas, entre o nível externo e o piso internodo veículo sem necessidade de transferência para assento interno. O sistema deverá possuir acionamento eletrohidráulico, eletromecânico ou tecnologia equivalente, dispositivos de segurança, comandos de emergência,barreiras de proteção, sistema de parada segura, capacidade compatível com usuários cadeirantes e certificaçãocompulsória junto aos órgãos competentes, observadas as exigências do Inmetro e da legislação aplicável.Quando não estiver em operação, a plataforma deverá permanecer recolhida em compartimento integrado aoveículo, sem comprometer a segurança, a circulação interna ou a utilização regular do espaço destinado aospassageiros. O veículo deverá dispor de área reservada para acomodação de, no mínimo, 01 (uma) cadeira derodas, equipada com sistema de ancoragem e fixação, cinto de segurança para o usuário, espaço para manobrae sinalização de acessibilidade. (Descrição completa no anexo do termo.)",
+              "unidade": "UND",
+              "quantidade": "3,00",
+              "valor_referencia": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CE-014-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "620/2026",
+      "modalidade": "CONCORRÊNCIA ELETRÔNICA",
+      "situacao": "ADJUDICADO",
+      "condutor": "DAVIDSON ARAUJO SANTOS",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO PARCELADA",
+      "publicacao": "15/07/2026 16:02",
+      "inicio_recepcao": "16/07/2026 08:00",
+      "fim_recepcao": "20/08/2026 13:45",
+      "inicio_disputa": "28/09/2026 10:07",
+      "objeto": "Contratação de empresa especializada em execução de obras de microdrenagem e pavimentação em diversas ruas dos bairros Bonadiman, Eixo Sul e Portal Sul, no município de Teixeira de Freitas – BA.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5D8Y8VgVmHkPE57m8mYV_e2mFEILmrAn6BSAXPFr3Jm03N4WX8FxRu%2FMkTi%2FMJ%2F57o5z0k5NBuRSeytbMvtT2fVVQ3Lv8snFWcJf_DlieUHoM%3D",
+      "total_lotes": 1,
+      "total_itens": 5,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "EXECUÇÃO DE OBRAS DE MICRODRENAGEM E PAVIMENTAÇÃO EM DIVERSAS RUAS DOS BAIRROS BONADIMAN, EIXO SUL E PORTAL SUL",
+          "fase": "ADJUDICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "1.000,00",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "31.056.653,00",
+          "vencedor": "BULOKE CONSTRUCAO E SERVICOS LTDA",
+          "melhor_oferta": "31.019.545,62",
+          "total_itens": 5,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "ADMINISTRAÇÃO LOCAL DE OBRA",
+              "unidade": "SERVIÇO",
+              "quantidade": "1,00",
+              "valor_referencia": "506.589,72"
+            },
+            {
+              "numero": "2",
+              "especificacao": "SERVIÇOS PRELIMINARES",
+              "unidade": "SERVIÇO",
+              "quantidade": "1,00",
+              "valor_referencia": "103.138,36"
+            },
+            {
+              "numero": "3",
+              "especificacao": "PAVIMENTAÇÃO E DRENAGEM DO BAIRRO BONADIMAN",
+              "unidade": "SERVIÇO",
+              "quantidade": "1,00",
+              "valor_referencia": "16.606.532,37"
+            },
+            {
+              "numero": "4",
+              "especificacao": "PAVIMENTAÇÃO E DRENAGEM DO BAIRRO EIXO SUL",
+              "unidade": "SERVIÇO",
+              "quantidade": "1,00",
+              "valor_referencia": "7.865.223,48"
+            },
+            {
+              "numero": "5",
+              "especificacao": "PAVIMENTAÇÃO E DRENAGEM DO BAIRRO PORTAL SUL",
+              "unidade": "SERVIÇO",
+              "quantidade": "1,00",
+              "valor_referencia": "5.975.169,07"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CE-013-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "619/2026",
+      "modalidade": "CONCORRÊNCIA ELETRÔNICA",
+      "situacao": "HOMOLOGADO",
+      "condutor": "DAVIDSON ARAUJO SANTOS",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO PARCELADA",
+      "publicacao": "15/07/2026 15:59",
+      "inicio_recepcao": "16/07/2026 00:00",
+      "fim_recepcao": "20/08/2026 08:15",
+      "inicio_disputa": "25/09/2026 17:35",
+      "objeto": "Contratação de empresa especializada em execução de obras de microdrenagem e pavimentação em diversas ruas do bairro Estância Biquine, no município de Teixeira de Freitas – BA.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DWcRLill2%2FRwygmXCsLDySzs5xoilmvsOeCiAr03Wnk4zgvqUUOpR%2F_kds_YtDhjHdywu%2FmmDl2L8E_gqdMH39S8Ks59PonjLPJf_bviGPVU%3D",
+      "total_lotes": 1,
+      "total_itens": 3,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "EXECUÇÃO DE OBRAS DE MICRODRENAGEM E PAVIMENTAÇÃO EM DIVERSAS RUAS DO BAIRRO ESTÂNCIA BIQUINE",
+          "fase": "HOMOLOGADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "1.000,00",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "23.092.487,55",
+          "vencedor": "BULOKE CONSTRUCAO E SERVICOS LTDA",
+          "melhor_oferta": "23.040.871,04",
+          "total_itens": 3,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "ADMINISTRAÇÃO LOCAL DE OBRA",
+              "unidade": "SERVIÇO",
+              "quantidade": "1,00",
+              "valor_referencia": "506.589,72"
+            },
+            {
+              "numero": "2",
+              "especificacao": "SERVIÇOS PRELIMINARES",
+              "unidade": "SERVIÇO",
+              "quantidade": "1,00",
+              "valor_referencia": "141.458,20"
+            },
+            {
+              "numero": "3",
+              "especificacao": "PAVIMENTAÇÃO E DRENAGEM DO BAIRRO ESTÂNCIA BIQUINE",
+              "unidade": "SERVIÇO",
+              "quantidade": "1,00",
+              "valor_referencia": "22.444.439,63"
             }
           ]
         }
@@ -309457,29 +309388,29 @@
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "758/2025",
       "modalidade": "CREDENCIAMENTO",
-      "situacao": "EM FINALIZAÇÃO",
+      "situacao": "SUSPENSO",
       "condutor": "MAGDA DE SELES GUIMARÃES",
       "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
       "tipo_contrato": "AQUISIÇÃO",
-      "publicacao": "03/06/2025 16:35",
+      "publicacao": "03/06/2025 11:48",
       "inicio_recepcao": "13/06/2025 08:00",
-      "fim_recepcao": "15/06/2026 08:00",
+      "fim_recepcao": "15/06/2026 00:00",
       "inicio_disputa": "",
-      "objeto": "CREDENCIAMENTO DE PESSOA JURÍDICA PARA PRESTAÇÃO DE SERVIÇOS MÉDICOS ESPECIALIZADOS EM ANÁLISE PATOLÓGICA PARA ATENDER AS DEMANDAS DA SECRETARIA MUNICIPAL DE SAÚDE",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DbZczR4oMk7G3dTJeYFDr5RNtPqquBCuuHoZ9Yhb1uMDhcPKpUHUQS298URoUlwCAC18HqNXH6srAmiz26wzWh0FOrdEUYaIUQmY9ERTSKc0%3D",
-      "total_lotes": 6,
-      "total_itens": 6,
+      "objeto": "Credenciamento de pessoa jurídica para PRESTAÇÃO DE SERVIÇOS\n MÉDICOS ESPECIALIZADOS EM ANÁLISE PATOLÓGICA para atender as demandas da\n Secretaria Municipal de Saúde.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5D%2FAmkXx35z4o2%2F_mOOishm4tZ3O1ugydWZFrjfUAigAN2bDjA%2FBBljQoo4JW9Zs3YbUIgNARuywvRbO8o%2F96pUGzauN3RYJEGaQVVCTbTf8I%3D",
+      "total_lotes": 9,
+      "total_itens": 9,
       "lotes": [
         {
           "numero": "1",
-          "titulo": "33436 BIÓPSIA SIMPLES",
-          "fase": "HABILITAÇÃO",
+          "titulo": "33436 BIÓPSIA SIMPLES:BIÓPSIA SIMPLES",
+          "fase": "SUSPENSO",
           "tipo": "UNITÁRIO",
           "quantidade": "1",
           "intervalo_minimo": "0,00",
           "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
+          "local_entrega": "",
+          "garantia": "",
           "valor_referencia": "60,19",
           "vencedor": "",
           "melhor_oferta": "0,00",
@@ -309489,21 +309420,45 @@
               "numero": "1",
               "especificacao": "33436 BIÓPSIA SIMPLES:BIÓPSIA SIMPLES",
               "unidade": "SERV",
-              "quantidade": "2.500,00",
+              "quantidade": "1.875,00",
               "valor_referencia": "60,19"
             }
           ]
         },
         {
           "numero": "2",
-          "titulo": "9903311392 CITOLOGIA EM MEIO LIQUIDO",
-          "fase": "HABILITAÇÃO",
+          "titulo": "909911235 BIOPSIA SIMPLES:BIÓPSIA SIMPLES. COTA DE 25% RESERVADA PARA  ME/EPP.",
+          "fase": "SUSPENSO",
           "tipo": "UNITÁRIO",
           "quantidade": "1",
           "intervalo_minimo": "0,00",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
+          "exclusivo_me": "SIM",
+          "local_entrega": "",
+          "garantia": "",
+          "valor_referencia": "60,19",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "909911235 BIOPSIA SIMPLES:BIÓPSIA SIMPLES. COTA DE 25% RESERVADA PARA ME/EPP.",
+              "unidade": "SERV",
+              "quantidade": "625,00",
+              "valor_referencia": "60,19"
+            }
+          ]
+        },
+        {
+          "numero": "3",
+          "titulo": "9903311392 CITOLOGIA EM MEIO LIQUIDO - BRONQUIO: CITOLOGIA EM MEIO LIQUIDO - BRONQUIO EXCLUSIVO PARA ME/EPP",
+          "fase": "SUSPENSO",
+          "tipo": "UNITÁRIO",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "SIM",
+          "local_entrega": "",
+          "garantia": "",
           "valor_referencia": "62,25",
           "vencedor": "",
           "melhor_oferta": "0,00",
@@ -309511,7 +309466,7 @@
           "itens": [
             {
               "numero": "1",
-              "especificacao": "9903311392 CITOLOGIA EM MEIO LIQUIDO - BRONQUIO:CITOLOGIA EM MEIO LIQUIDO - BRONQUIO.",
+              "especificacao": "CITOLOGIA EM MEIO LIQUIDO - BRONQUIO: CITOLOGIA EM MEIO LIQUIDO - BRONQUIO EXCLUSIVO PARA ME/EPP",
               "unidade": "SERV",
               "quantidade": "100,00",
               "valor_referencia": "62,25"
@@ -309519,15 +309474,15 @@
           ]
         },
         {
-          "numero": "3",
-          "titulo": "9903311373 COLORAÇÃO ESPECIAL",
-          "fase": "HABILITAÇÃO",
+          "numero": "4",
+          "titulo": "9903311373 COLORAÇÃO ESPECIAL:Marcação da biópsia por corantes especiais. EXCLUSIVO PARA ME/EPP",
+          "fase": "SUSPENSO",
           "tipo": "UNITÁRIO",
           "quantidade": "1",
           "intervalo_minimo": "0,00",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
+          "exclusivo_me": "SIM",
+          "local_entrega": "",
+          "garantia": "",
           "valor_referencia": "33,65",
           "vencedor": "",
           "melhor_oferta": "0,00",
@@ -309535,31 +309490,7 @@
           "itens": [
             {
               "numero": "1",
-              "especificacao": "9903311373 COLORAÇÃO ESPECIAL: Marcação da biópsia por corantes especiais.",
-              "unidade": "SERV",
-              "quantidade": "50,00",
-              "valor_referencia": "33,65"
-            }
-          ]
-        },
-        {
-          "numero": "3",
-          "titulo": "9903311373 COLORAÇÃO ESPECIAL",
-          "fase": "HABILITAÇÃO",
-          "tipo": "UNITÁRIO",
-          "quantidade": "1",
-          "intervalo_minimo": "0,00",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "33,65",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9903311373 COLORAÇÃO ESPECIAL: Marcação da biópsia por corantes especiais.",
+              "especificacao": "9903311373 COLORAÇÃO ESPECIAL:Marcação da biópsia por corantes especiais. EXCLUSIVO PARA ME/EPP",
               "unidade": "SERV",
               "quantidade": "50,00",
               "valor_referencia": "33,65"
@@ -309568,14 +309499,38 @@
         },
         {
           "numero": "5",
-          "titulo": "33437 PEÇA CIRÚRGICA SIMPLES",
-          "fase": "HABILITAÇÃO",
+          "titulo": "9903311378 CORE BYOPSY:CORE BYOPSY. EXCLUSIVO PARA ME/EPP",
+          "fase": "SUSPENSO",
+          "tipo": "UNITÁRIO",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "SIM",
+          "local_entrega": "",
+          "garantia": "",
+          "valor_referencia": "68,46",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9903311378 CORE BYOPSY:CORE BYOPSY. EXCLUSIVO PARA ME/EPP",
+              "unidade": "SERV",
+              "quantidade": "100,00",
+              "valor_referencia": "68,46"
+            }
+          ]
+        },
+        {
+          "numero": "6",
+          "titulo": "33437 PEÇA CIRÚRGICA SIMPLES:PEÇA CIRÚRGICA SIMPLES",
+          "fase": "SUSPENSO",
           "tipo": "UNITÁRIO",
           "quantidade": "1",
           "intervalo_minimo": "0,00",
           "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
+          "local_entrega": "",
+          "garantia": "",
           "valor_referencia": "75,00",
           "vencedor": "",
           "melhor_oferta": "0,00",
@@ -309585,21 +309540,45 @@
               "numero": "1",
               "especificacao": "33437 PEÇA CIRÚRGICA SIMPLES:PEÇA CIRÚRGICA SIMPLES",
               "unidade": "SERV",
-              "quantidade": "2.500,00",
+              "quantidade": "1.875,00",
               "valor_referencia": "75,00"
             }
           ]
         },
         {
-          "numero": "6",
-          "titulo": "9903311384 PEÇA CIRÚRGICA COMPLEXA",
-          "fase": "HABILITAÇÃO",
+          "numero": "7",
+          "titulo": "9909911236 PEÇA CIRURGICA SIMPLES:PEÇA CIRURGICA SIMPLES. COTA DE 25% RESERVADA PARA ME/EPP",
+          "fase": "SUSPENSO",
+          "tipo": "UNITÁRIO",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "SIM",
+          "local_entrega": "",
+          "garantia": "",
+          "valor_referencia": "75,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9909911236 PEÇA CIRURGICA SIMPLES:PEÇA CIRURGICA SIMPLES. COTA DE 25% RESERVADA PARA ME/EPP",
+              "unidade": "SERV",
+              "quantidade": "625,00",
+              "valor_referencia": "75,00"
+            }
+          ]
+        },
+        {
+          "numero": "8",
+          "titulo": "9903311384 PEÇA CIRÚRGICA COMPLEXA:PEÇA CIRÚRGICA COMPLEXA",
+          "fase": "SUSPENSO",
           "tipo": "UNITÁRIO",
           "quantidade": "1",
           "intervalo_minimo": "0,00",
           "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
+          "local_entrega": "",
+          "garantia": "",
           "valor_referencia": "243,42",
           "vencedor": "",
           "melhor_oferta": "0,00",
@@ -309609,7 +309588,31 @@
               "numero": "1",
               "especificacao": "9903311384 PEÇA CIRÚRGICA COMPLEXA:PEÇA CIRÚRGICA COMPLEXA",
               "unidade": "UN",
-              "quantidade": "1.500,00",
+              "quantidade": "1.125,00",
+              "valor_referencia": "243,42"
+            }
+          ]
+        },
+        {
+          "numero": "9",
+          "titulo": "9909911237 PEÇA CIRURGICA COMPLEXA:PEÇA CIRURGICA COMPLEXA. COTA DE  25%  RESERVADA PARA ME/EPP.",
+          "fase": "SUSPENSO",
+          "tipo": "UNITÁRIO",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "SIM",
+          "local_entrega": "",
+          "garantia": "",
+          "valor_referencia": "243,42",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9909911237 PEÇA CIRURGICA COMPLEXA:PEÇA CIRURGICA COMPLEXA. COTA DE 25% RESERVADA PARA ME/EPP.",
+              "unidade": "SERV",
+              "quantidade": "375,00",
               "valor_referencia": "243,42"
             }
           ]
@@ -309621,38 +309624,38 @@
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "705/2024",
       "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "SUSPENSO",
-      "condutor": "VICTOR KINIDEL DETHLING",
+      "situacao": "HOMOLOGADO",
+      "condutor": "MAGDA DE SELES GUIMARÃES",
       "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
       "tipo_contrato": "AQUISIÇÃO",
-      "publicacao": "15/05/2024 18:26",
-      "inicio_recepcao": "16/05/2024 08:00",
-      "fim_recepcao": "12/06/2024 09:45",
-      "inicio_disputa": "12/06/2024 10:00",
-      "objeto": "Contratação de instituição financeira para prestação de serviços bancários para centralização, gerenciamento e processamento de créditos da folha de pagamento dos servidores, a fim de atender as demandas da Prefeitura de Teixeira de Freitas, conforme condições, quantidades e especificações no Edital, Termo de Referência e seus Anexos.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DeJEYhl0QzrUETL1Qro6d7WOtpWT%2FuSgoY8xwd9eErS6MCRHVVUA0pn38gMQV5kRZca87QNZ_a0GVZv_lmPoFupBlaY60W4ggvWZ8m9%2FYAHE%3D",
+      "publicacao": "13/06/2024 18:49",
+      "inicio_recepcao": "14/06/2024 08:00",
+      "fim_recepcao": "10/07/2024 13:45",
+      "inicio_disputa": "10/07/2024 14:00",
+      "objeto": "O objeto da presente licitação é a contratação de INSTITUIÇÃO FINANCEIRA ESPECIALIZADA NA PRESTAÇÃO DE SERVIÇOS BANCÁRIOS PARA CENTRALIZAÇÃO, GERENCIAMENTO E PROCESSAMENTO DE CRÉDITOS DA FOLHA DE PAGAMENTO DOS SERVIDORES, a fim de atender as demandas da Secretaria Municipal de Administração, conforme condições, quantidades e especificações no Edital, Termo de Referência e seus Anexos.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DX8utaSaseTt8D2zuoDSchK%2Fvs%2Fe6UyhqfinP1ulFLBmlz8IS6chmEIN9Pm2zJRsZHAeCNSwBDfBTzwLSBODlI6i7gkO6iqVFBtw9_rmkcPY%3D",
       "total_lotes": 1,
       "total_itens": 1,
       "lotes": [
         {
           "numero": "1",
-          "titulo": "LOTE 01",
-          "fase": "SUSPENSO",
-          "tipo": "UNITÁRIO",
+          "titulo": "SERVIÇOS BANCÁRIOS",
+          "fase": "HOMOLOGADO",
+          "tipo": "GLOBAL",
           "quantidade": "1",
-          "intervalo_minimo": "100,00",
+          "intervalo_minimo": "0,01",
           "exclusivo_me": "NÃO",
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "6.052.150,00",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
+          "vencedor": "ITAÚ UNIBANCO S.A.",
+          "melhor_oferta": "6.053.000,00",
           "total_itens": 1,
           "itens": [
             {
               "numero": "1",
               "especificacao": "CONTRATAÇÃO DE INSTITUIÇÃO FINANCEIRA: ESPECIALIZADA NA PRESTAÇÃO DE SERVIÇOS BANCÁRIOS PARA CENTRALIZAÇÃO, GERENCIAMENTO E PROCESSAMENTO DE CRÉDITOS DA FOLHA DE PAGAMENTO DOS SERVIDORES DA PREFEITURA MUNICIPAL DE TEIXEIRA DE FREITAS/BA.",
-              "unidade": "SERVIÇO",
+              "unidade": "UN",
               "quantidade": "1,00",
               "valor_referencia": "6.052.150,00"
             }
