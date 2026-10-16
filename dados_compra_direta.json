@@ -1,9 +1,9 @@
 {
   "metadata": {
     "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-    "total_registros": 723,
-    "total_itens": 2531,
-    "atualizado_em": "20261007_174534"
+    "total_registros": 725,
+    "total_itens": 2533,
+    "atualizado_em": "20261015_181306"
   },
   "registros": [
     {
@@ -41218,6 +41218,70 @@
           "marca": "NÃO SE APLICA",
           "modelo": "NÃO SE APLICA",
           "valor": "100000,0000"
+        }
+      ]
+    },
+    {
+      "id": "3IL-156-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "1040/2026",
+      "modalidade": "INEXIGIBILIDADE",
+      "status": "CONCLUÍDA",
+      "coordenador": "ISLA LIMA SILVA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "ano_referencia": "2026",
+      "data_publicacao": "15/10/2026 08:54:05",
+      "data_conclusao": "15/10/2026 09:17:05",
+      "artigo": "Art. 74º",
+      "inciso": "V",
+      "justificativa": "art. 74, V da Lei Federal n.º 14.133, de 2021 e art. 5º, §§1º e 3º do Decreto Municipal n.º 303, 26 de março de 2025.",
+      "legislacao": "Lei nº 14.133",
+      "objeto": "LOCAÇÃO DE IMÓVEL localizado na rua Visconde de Ouro Preto, nº 36, Vila Vargas, Teixeira de Freitas-BA para REINSTALAÇÃO DA UBS VILA VARGAS, de responsabilidade da Secretaria Municipal de Saúde.",
+      "observacao": "",
+      "link": "https://bllcompras.com/DirectBuy/DirectBuyView?param1=%5Bgkz%5D70YWJbfINBweqF5xtEEB0j366LU0lR1PRyMvFslmROT38yLhCC0cpVB4ML5pQmRQ5hUY5pTj%2FKj09XhQEDLIvlHepVGsDuWkeRiBXT84XqI%3D",
+      "total_itens": 1,
+      "itens": [
+        {
+          "numero": "1",
+          "descricao": "9909910126 ALUGUEL DE IMOVEL.:ALUGUEL DE IMOVEL.",
+          "quantidade": "12,0000",
+          "unidade": "SERV",
+          "fornecedor": "LUCY GOMES SOARES",
+          "marca": "NÃO SE APLICA",
+          "modelo": "NÃO SE APLICA",
+          "valor": "2347,6400"
+        }
+      ]
+    },
+    {
+      "id": "2IL-157-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "1111/2026",
+      "modalidade": "INEXIGIBILIDADE",
+      "status": "CONCLUÍDA",
+      "coordenador": "ISLA LIMA SILVA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "ano_referencia": "2026",
+      "data_publicacao": "13/10/2026 11:53:35",
+      "data_conclusao": "13/10/2026 11:53:37",
+      "artigo": "Art. 74º",
+      "inciso": "IV",
+      "justificativa": "Art. 74, IV, da Lei Federal nº 14.133/2021, Decreto Municipal nº 85.2024 e demais legislações e regulamentos específicos.",
+      "legislacao": "Lei nº 14.133",
+      "objeto": "Contratação de EMPRESA ESPECIALIZADA NA PRESTAÇÃO DE SERVIÇOS (MANUTENÇÃO CORRETIVA PREVENTIVA DE VEÍCULOS DA FROTA MUNICIPAL COM FORNECIMENTO DE PEÇAS), afim de atender as demandas da Secretaria Municipal de Administração e demais Secretarias.",
+      "observacao": "",
+      "link": "https://bllcompras.com/DirectBuy/DirectBuyView?param1=%5Bgkz%5DUf05oiT6knpQanNk%2FsM3vOXwN7_Qtxal0TWNRw204Ygrg7J4rau6pj9%2Fo%2FhrkJSJnn_0KyCWuG%2FkgWXQYoIjus%2FaSWIQz2%2F8gtu1w9KOemI%3D",
+      "total_itens": 1,
+      "itens": [
+        {
+          "numero": "1",
+          "descricao": "100200468 SERVIÇO DE MANUTENÇÃO PREVENTIVA E CORRETIVA DA FROTA MUNICIPAL, COM FORNECIMENTO DE PEÇA: manutenção preventiva e corretiva da frota municipal, incluindo veículos leves, pesados, médios e maquinários diversos na parte de mecânica, elétrica, suspensão arqueamento, entre outros serviços, incluindo também o fornecimento de peças, acessórios, equipamentos, pneus, serviço de vidraçaria, capotaria, tapeçaria, borracharia, funilaria e pintura, retífica de motores, socorro mecânico, dentre outros",
+          "quantidade": "1,0000",
+          "unidade": "SERV",
+          "fornecedor": "AUTOPLAN - PECAS E SERVICOS AUTOMOTIVOS LTDA",
+          "marca": "NÃO SE APLICA",
+          "modelo": "NÃO SE APLICA",
+          "valor": "600000,0000"
         }
       ]
     }
