@@ -1,9 +1,9 @@
 {
   "metadata": {
     "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-    "total_registros": 725,
-    "total_itens": 2533,
-    "atualizado_em": "20261015_181306"
+    "total_registros": 727,
+    "total_itens": 2535,
+    "atualizado_em": "20261023_180540"
   },
   "registros": [
     {
@@ -41282,6 +41282,70 @@
           "marca": "NÃO SE APLICA",
           "modelo": "NÃO SE APLICA",
           "valor": "600000,0000"
+        }
+      ]
+    },
+    {
+      "id": "2IL-158-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "1023/2026",
+      "modalidade": "INEXIGIBILIDADE",
+      "status": "CONCLUÍDA",
+      "coordenador": "ISLA LIMA SILVA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "ano_referencia": "2026",
+      "data_publicacao": "21/10/2026 16:06:45",
+      "data_conclusao": "21/10/2026 16:06:48",
+      "artigo": "Art. 74º",
+      "inciso": "IV",
+      "justificativa": "Art. 74, IV, da Lei Federal nº 14.133/2021, Decreto Municipal nº 85.2024 e demais legislações e regulamentos específicos.",
+      "legislacao": "Lei nº 14.133",
+      "objeto": "Contratação da empresa SIEPIERSKI REPARAÇÃO E SERVIÇOS MECÂNICOS LTDA, a fim de atender às demandas da Secretaria Municipal de Administração e das demais secretarias.",
+      "observacao": "",
+      "link": "https://bllcompras.com/DirectBuy/DirectBuyView?param1=%5Bgkz%5Dhw4PkyRfBXmMKYSx0DSB2nVp4szJjE4DvuSgPwUEHsUnrbmlnLWtFK5TJGFGpg7yDs3LHrWgJIUZDbW19daP6G3%2FVDnU%2FmrLLG8Syva0C9U%3D",
+      "total_itens": 1,
+      "itens": [
+        {
+          "numero": "1",
+          "descricao": "100200450 SERVIÇO DE MANUTENÇÃO PREVENTIVA E CORRETIVA DA FROTA MUNICIPAL, COM FORNECIMENTO DE PEÇA: manutenção preventiva e corretiva da frota municipal, incluindo veículos leves, pesados, médios e maquinários diversos na parte de mecânica, elétrica, suspensão arqueamento, entre outros serviços, incluindo também o fornecimento de peças, acessórios, equipamentos, pneus, serviço de vidraçaria, capotaria, tapeçaria, borracharia, funilaria e pintura, retífica de motores, socorro mecânico, dentre outros",
+          "quantidade": "1,0000",
+          "unidade": "SERV",
+          "fornecedor": "SIEPIERSKI REPARAÇÃO E SERVIÇOS MECÂNICOS LTDA",
+          "marca": "NÃO SE APLICA",
+          "modelo": "NÃO SE APLICA",
+          "valor": "300000,0000"
+        }
+      ]
+    },
+    {
+      "id": "3IL-159-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "1122/26",
+      "modalidade": "INEXIGIBILIDADE",
+      "status": "CONCLUÍDA",
+      "coordenador": "ISLA LIMA SILVA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "ano_referencia": "2026",
+      "data_publicacao": "21/10/2026 10:10:30",
+      "data_conclusao": "21/10/2026 10:10:38",
+      "artigo": "Art. 74º",
+      "inciso": "IV",
+      "justificativa": "Arts. 74, IV, e 79, I da Lei Federal nº 14.133/2021, Decreto Municipal nº 85, de 2024, em seus arts. 2º, I, e 5º, VII e demais legislações e regulamentações específicas.",
+      "legislacao": "Lei nº 14.133",
+      "objeto": "Empresa MARIA LUISA CRUZ DOS SANTOS ATENDIMENTO MEDICO LTDA, para\nprestação de serviços médicos especializados (CLINICA GERAL) conforme o edital de credenciamento CD-002/2025, para atender às necessidades da Atenção Básica.",
+      "observacao": "sob responsabilidade da Secretaria Municipal de Saúde.",
+      "link": "https://bllcompras.com/DirectBuy/DirectBuyView?param1=%5Bgkz%5DcNDoPfaBmfbrqyZ8FZIqSLhZBBoARvURx9isavwFF%2Fyoc0JqkxLZ7_4y9of_AfJ3xWxQJ87dMU04bz1iUlmfRGH%2Fa_KHygb8rovkFZLZKkw%3D",
+      "total_itens": 1,
+      "itens": [
+        {
+          "numero": "1",
+          "descricao": "206800009 MEDICO ESTRATEGIA SAUDE DA FAMILIA:MEDICO ESTRATEGIA DA SAUDE DA FAMILIA 40 HORAS.",
+          "quantidade": "12,0000",
+          "unidade": "SER",
+          "fornecedor": "MARIA LUISA CRUZ DOS SANTOS ATENDIMENTO MEDICO LTDA",
+          "marca": "NAO SE APLICA",
+          "modelo": "NAO SE APLICA",
+          "valor": "10200,0000"
         }
       ]
     }
