@@ -1,10 +1,10 @@
 {
   "metadata": {
     "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-    "total_processos": 961,
-    "total_lotes": 10614,
-    "total_itens": 17505,
-    "atualizado_em": "20261109_093523"
+    "total_processos": 966,
+    "total_lotes": 10632,
+    "total_itens": 17641,
+    "atualizado_em": "20261112_122729"
   },
   "processos": [
     {
@@ -322193,6 +322193,1364 @@
               "unidade": "SERVIÇO",
               "quantidade": "1,00",
               "valor_referencia": "6.052.150,00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-195-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "1044 / 2026",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "PUBLICADO",
+      "condutor": "JONATAS DA SILVA SOUSA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "REGISTRO DE PREÇO",
+      "publicacao": "11/11/2026 15:54",
+      "inicio_recepcao": "13/11/2026 08:00",
+      "fim_recepcao": "26/11/2026 08:15",
+      "inicio_disputa": "26/11/2026 08:30",
+      "objeto": "Contratação de empresa especializada em fornecimento de SERVIDORES E PERIFÉRICOS (material de consumo) e (material permanente), a fim de atender as demandas da Secretaria Municipal de Administração e demais secretarias.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DJFI3D9PZV_Ud%2FTvRTzox1kpemF8ksXexNCFP9JEtkE5Ue2vm8XK98PYXBgs3Onc1G4uexFYtMGfirDtH4ds1RSY1E2gkVd_34ldigzPBlI8%3D",
+      "total_lotes": 14,
+      "total_itens": 14,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "9900830626 SERVIDOR DE ALTO DESEMPENHO:1. GABINETE1.1. Servidor corporativo de alto desempenho, novo, sem uso e em linha de fabricação.1.2. Padrão Rack 19\", fator de forma 1U ou 2U.1.3. O gabinete deverá suportar, no mínimo, 08 (oito) baias Hot Plug pa",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900830626 SERVIDOR DE ALTO DESEMPENHO:1. GABINETE1.1. Servidor corporativo de alto desempenho, novo, sem uso e em linha de fabricação.1.2. Padrão Rack 19\", fator de forma 1U ou 2U.1.3. O gabinete deverá suportar, no mínimo, 08 (oito) baias Hot Plug para discos de 2,5\" (SFF) ou capacidade equivalente em baias de 3,5\" (LFF), permitindo futuras expansões de armazenamento conforme a capacidade do equipamento.1.4. Deverá acompanhar trilhos telescópicos para instalação em rack padrão 19\", bem como organizador de cabos compatível com o equipamento.2. PROCESSADOR2.1. Equipado com 01 (um) ou 02 (dois) processadores Intel Xeon Scalable de 5ª geração ou superior, AMD EPYC de 4ª geração ou superior, ou processadores de desempenho equivalente ou superior.2.2. A configuração ofertada deverá possuir, no mínimo, 32 (trinta e dois) núcleos físicos no conjunto dos processadores instalados.2.3. Frequência base mínima de 2,0 GHz.2.4. Suporte às tecnologias de virtualização por hardware.2.5. O processador ofertado deverá possuir índice SPEC CPU2017 Integer Rate (Baseline) auditado, compatível com a configuração ofertada, disponível no sítio oficial da Standard Performance Evaluation Corporation (SPEC), não sendo aceitos resultados estimados ou obtidos em cluster.3. PLACA-MÃE3.1. Deverá ser do mesmo fabricante do equipamento, desenvolvida especificamente para o modelo ofertado.3.2. Possuir chipset compatível com os processadores instalados.3.3. Suporte à expansão para, no mínimo, 2 TB de memória DDR5 ECC RDIMM ou LRDIMM.3.4. Possuir, no mínimo, 16 (dezesseis) slots DIMM.4. MEMÓRIA4.1. O equipamento deverá ser fornecido com, no mínimo, 128 GB de memória RAM DDR5 ECC RDIMM ou LRDIMM.4.2. A memória deverá operar na maior frequência suportada pela plataforma.4.3. Permitir expansão até a capacidade mínima especificada neste documento.5. CONTROLADORA DE ARMAZENAMENTO5.1. Deverá possuir controladora RAID em hardware.5.2. Memória cache protegida por bateria, memória flash ou tecnologia equivalente.5.3. Compatível com os níveis RAID 0, 1, 5, 6, 10, 50 e 60.5.4. Permitir expansão on-line da capacidade.5.5. Permitir reconstrução automática dos volumes.5.6. Suportar Global Hot Spare.5.7. Suportar tecnologia SMART.5.8. Permitir substituição de discos Hot Plug.6. ARMAZENAMENTO6.1. Sistema Operacional6.1.1. O armazenamento destinado ao sistema operacional deverá ser composto por, no mínimo, 02 (dois) SSDs Enterp",
+              "unidade": "UND",
+              "quantidade": "4,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "2",
+          "titulo": "9900830627 STORAGE NAS -CAPACIDADE MÍNIMA DE 40 TB:1. CARACTERÍSTICAS GERAIS1.1. Equipamento de armazenamento em rede (NAS) corporativo, novo, sem uso e em linha de fabricação.1.2. Destinado ao armazenamento centralizado de arquivos, virtualização e bac",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900830627 STORAGE NAS -CAPACIDADE MÍNIMA DE 40 TB:1. CARACTERÍSTICAS GERAIS1.1. Equipamento de armazenamento em rede (NAS) corporativo, novo, sem uso e em linha de fabricação.1.2. Destinado ao armazenamento centralizado de arquivos, virtualização e backup.1.3. Capacidade líquida mínima de 40 TB, composta por discos rígidos mecânicos Enterprise, padrão SAS, NL-SAS ou SATA Enterprise, Hot Plug, compatíveis com o equipamento ofertado.2. PROCESSADOR2.1. Processador x86 de 64 bits.2.2. No mínimo 04 (quatro) núcleos.3. MEMÓRIA3.1. Memória ECC DDR5 instalada de, no mínimo, 16 GB.3.2. Expansível para, no mínimo, 64 GB.3.3. Suporte à instalação de unidades SSD NVMe para cache ou armazenamento de alto desempenho.4. ARMAZENAMENTO4.1. Possuir, no mínimo, 10 (dez) baias Hot Plug para discos de armazenamento.4.2. Permitir expansão por meio de unidades de expansão do próprio fabricante.5. CONTROLADORA DE ARMAZENAMENTO5.1. Suporte aos níveis de RAID 0, 1, 5, 6 e 10.5.2. Suporte à configuração de Hot Spare.5.3. Permitir expansão on-line da capacidade de armazenamento.5.4. Permitir reconstrução automática dos volumes.6. CONECTIVIDADE6.1. Possuir, no mínimo, 02 (duas) interfaces de rede 10 GbE.6.2. Possuir, no mínimo, 02 (duas) interfaces de rede 2,5 GbE ou superior.6.3. Possuir portas USB para conexão de dispositivos externos.7. RECURSOS DE SOFTWARE7.1. Suportar os protocolos SMB/CIFS, NFS, FTP, SFTP, Rsync e iSCSI.7.2. Suportar autenticação integrada com Microsoft Active Directory e/ou LDAP.7.3. Possuir suporte a snapshots.7.4. Possuir suporte à replicação de dados.7.5. Possuir suporte à criptografia de volumes.7.6. Possuir gerenciamento por interface web.8. ALIMENTAÇÃO8.1. Possuir fonte de alimentação compatível com a configuração ofertada.8.2. Operar em tensão de 100 a 240 V, com seleção automática.8.3. Acompanhar todos os acessórios necessários para instalação e funcionamento.9. DOCUMENTAÇÃO9.1. O fabricante deverá disponibilizar drivers, firmwares e atualizações durante todo o período da garantia.10. CONDIÇÕES GERAIS10.1. O equipamento deverá estar em linha de fabricação.10.2. Não serão aceitos produtos classificados como End of Sale (EOS) ou End of Life (EOL).11. GARANTIA11.1. Garantia mínima de 36 (trinta e seis) meses.11.2. Atendimento na modalidade on-site ou por balcão autorizado pelo fabricante no Brasil.12. EQUIVALÊNCIA12.1. Serão aceitos equipamentos equivalentes ou su",
+              "unidade": "UND",
+              "quantidade": "5,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "3",
+          "titulo": "9900516376 BACKPLANE BOARD 00FJ755:Descrição: Placabackplane com 4 baias para HD ou SSD de 2.5 polegadas.Compatibilidade: Compatível com servidor Lenovo/IBM x3550 M5. EC: N34447B.SKU/PN/Número de Peça: 00FJ755.Características Adicionais: Suporte para",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900516376 BACKPLANE BOARD 00FJ755:Descrição: Placabackplane com 4 baias para HD ou SSD de 2.5 polegadas.Compatibilidade: Compatível com servidor Lenovo/IBM x3550 M5. EC: N34447B.SKU/PN/Número de Peça: 00FJ755.Características Adicionais: Suporte para discos rígidos ou SSDs de 2.5 polegadas, ideal para expansão de armazenamento em servidores de alta performance.",
+              "unidade": "UND",
+              "quantidade": "3,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "4",
+          "titulo": "9900516377 CABO SATA SAS SFF-8643 PARASFF-8643:Descrição: Cabo de conexão interna, tipo SFF-8643 para SFF-8643, com 4 vias.Compatibilidade: Compatível com a Backplane Board 00FJ755.Características Adicionais: Projetado para conectar adaptadores de barr",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900516377 CABO SATA SAS SFF-8643 PARASFF-8643:Descrição: Cabo de conexão interna, tipo SFF-8643 para SFF-8643, com 4 vias.Compatibilidade: Compatível com a Backplane Board 00FJ755.Características Adicionais: Projetado para conectar adaptadores de barramento host ou controladores RAID com SFF-8643 a dispositivos de armazenamento com SFF-8643.Cabo SAS mini-SAS HD SFF-8643 para 8643.",
+              "unidade": "UND",
+              "quantidade": "16,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "5",
+          "titulo": "9900516386 GAVETA, BANDEJA, CADDY PARA HD OU SSDSAS/SATA 2.5\":Descrição: Gaveta ou bandeja para instalação de HD ou SSD de 2.5 polegadas.Compatibilidade: Compatível com servidor Lenovo/IBM x3550 M5.PN/Modelo/Número de Peça: 00E7600. EC: L33552.Caracte",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900516386 GAVETA, BANDEJA, CADDY PARA HD OU SSDSAS/SATA 2.5\":Descrição: Gaveta ou bandeja para instalação de HD ou SSD de 2.5 polegadas.Compatibilidade: Compatível com servidor Lenovo/IBM x3550 M5.PN/Modelo/Número de Peça: 00E7600. EC: L33552.Características Adicionais: Suporte para discos rígidos ou SSDs de 2.5 polegadas, facilitando a substituição e manutenção de unidades de armazenamento.",
+              "unidade": "UND",
+              "quantidade": "12,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "6",
+          "titulo": "9900516385 SSD ENTERPRISE 960 GB PARA SERVIDORES:1. CARACTERÍSTICAS GERAIS1.1. Unidade de Estado Sólido (SSD) Enterprise, nova, sem uso e em linha de fabricação.1.2. Compatível com servidores que utilizem interface SATA III 6 Gb/s e unidades no formato",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900516385 SSD ENTERPRISE 960 GB PARA SERVIDORES:1. CARACTERÍSTICAS GERAIS1.1. Unidade de Estado Sólido (SSD) Enterprise, nova, sem uso e em linha de fabricação.1.2. Compatível com servidores que utilizem interface SATA III 6 Gb/s e unidades no formato 2,5\", incluindo o servidor Lenovo System x3550 M5, ou equipamentos compatíveis.2. ESPECIFICAÇÕES TÉCNICAS2.1. Capacidade nominal mínima de 960 GB.2.2. Interface SATA III (6 Gb/s).2.3. Fator de forma 2,5 polegadas, espessura máxima de 7 mm, ou compatível com gavetas/caddies do servidor.2.4. Tecnologia de memória 3D TLC NAND ou superior.2.5. Velocidade sequencial mínima de leitura de 550 MB/s.2.6. Velocidade sequencial mínima de gravação de 500 MB/s.2.7. Desempenho mínimo de 90.000 IOPS para leitura aleatória (4K).2.8. Desempenho mínimo de 45.000 IOPS para gravação aleatória (4K).2.9. Resistência (Endurance) mínima de 5 PBW (Petabytes Written) ou 1 DWPD durante o período de garantia.2.10. MTBF mínimo de 2.000.000 (dois milhões) de horas.3. COMPATIBILIDADE3.1. O SSD deverá ser totalmente compatível com servidores Lenovo System x3550 M5, sem necessidade de adaptações elétricas ou mecânicas.3.2. Deverá ser compatível com operação contínua em ambiente corporativo e uso em servidores 24x7.4. GARANTIA4.1. Garantia mínima de 36 (trinta e seis) meses fornecida pelo fabricante ou por sua rede autorizada no Brasil.5. CONDIÇÕES GERAIS5.1. O produto deverá estar em linha de fabricação, não sendo aceitos equipamentos classificados como End of Sale (EOS) ou End of Life (EOL) na data da entrega.5.2. Serão aceitos produtos de fabricantes reconhecidos no mercado corporativo, tais como Solidigm (Intel), Samsung, Micron, Kingston DC, Kioxia, Western Digital, Seagate, Lenovo, Dell, HPE, ou equivalentes, desde que atendam integralmente às especificações técnicas deste Documento.",
+              "unidade": "UND",
+              "quantidade": "16,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "7",
+          "titulo": "9900516387 SSD ENTERPRISE PARA SERVIDORES   1,92 TB:1. CARACTERÍSTICAS GERAIS1.1. Unidade de Estado Sólido (SSD) Enterprise, nova, sem uso e em linha de fabricação.1.2. Compatível com servidores que utilizem interface SATA III (6 Gb/s) e unidades no for",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900516387 SSD ENTERPRISE PARA SERVIDORES 1,92 TB:1. CARACTERÍSTICAS GERAIS1.1. Unidade de Estado Sólido (SSD) Enterprise, nova, sem uso e em linha de fabricação.1.2. Compatível com servidores que utilizem interface SATA III (6 Gb/s) e unidades no formato 2,5\", incluindo o servidor Lenovo System x3550 M5, ou equipamentos compatíveis.2. ESPECIFICAÇÕES TÉCNICAS2.1. Capacidade nominal mínima de 1,92 TB (1.920 GB), sendo aceitas capacidades superiores.2.2. Interface SATA III (6 Gb/s).2.3. Fator de forma 2,5 polegadas, compatível com gavetas (caddies) e backplanes do servidor.2.4. Tecnologia de memória 3D TLC NAND ou superior.2.5. Velocidade sequencial mínima de leitura de 550 MB/s.2.6. Velocidade sequencial mínima de gravação de 500 MB/s.2.7. Desempenho mínimo de 90.000 IOPS para leitura aleatória (4K).2.8. Desempenho mínimo de 45.000 IOPS para gravação aleatória (4K).2.9. Resistência mínima de 1 DWPD (Drive Writes Per Day) durante 5 (cinco) anos ou 10 PBW (Petabytes Written), admitindo- se desempenho superior.2.10. MTBF mínimo de 2.000.000 (dois milhões) de horas.2.11. Destinado ao uso contínuo em ambiente corporativo (24x7).3. COMPATIBILIDADE3.1. O SSD deverá ser plenamente compatível com o servidor Lenovo System x3550 M5, sem necessidade de adaptações elétricas, mecânicas ou de firmware.3.2. Compatível com controladoras SATA/RAID suportadas pelo fabricante do servidor.4. GARANTIA4.1. Garantia mínima de 36 (trinta e seis) meses, fornecida pelo fabricante ou por sua rede autorizada no Brasil.5. CONDIÇÕES GERAIS5.1. O produto deverá estar em linha de fabricação, não sendo aceitos equipamentos classificados como End of Sale (EOS) ou End of Life (EOL).5.2. Serão aceitos SSDs Enterprise de fabricantes reconhecidos no mercado, ou equivalentes, desde que atendam integralmente às especificações técnicas deste Documento.",
+              "unidade": "UND",
+              "quantidade": "32,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "8",
+          "titulo": "37830 MEMÓRIA RAM ECC RDIMM PARA SERVIDOR32GB:1. CARACTERÍSTICAS GERAIS1.1. Módulo de memória RAM novo, sem uso e em linha de fabricação.1.2. Compatível com servidores que utilizem memória DDR4ECC Registered (RDIMM), incluindo o servidor Lenovo System",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37830 MEMÓRIA RAM ECC RDIMM PARA SERVIDOR32GB:1. CARACTERÍSTICAS GERAIS1.1. Módulo de memória RAM novo, sem uso e em linha de fabricação.1.2. Compatível com servidores que utilizem memória DDR4ECC Registered (RDIMM), incluindo o servidor Lenovo System x3550 M5, ou equipamentos compatíveis.2. ESPECIFICAÇÕES TÉCNICAS2.1. Capacidade nominal mínima de 32 GB por módulo.2.2. Tecnologia DDR4 ECC Registered (RDIMM).2.3. Formato DIMM de 288 pinos.2.4. Frequência de operação mínima de 2.400 MT/s(DDR4-2400), admitindo-se módulos de frequência superior, desde que compatíveis e operando na máxima velocidade suportada pelo servidor.2.5. Tensão nominal de 1,2 V.2.6. Arquitetura x4, Single Rank, Dual Rank ou Quad Rank, desde que compatível com o equipamento ofertado.2.7. Suporte à tecnologia ECC (Error Correcting Code).3. COMPATIBILIDADE3.1. O módulo deverá ser totalmente compatível com o servidor Lenovo System x3550 M5, sem necessidade de adaptações físicas, elétricas ou de firmware.3.2. Deverá ser compatível com os processadores Intel XeonE5-2600 v3 e/ou v4 e com o controlador de memória do servidor.",
+              "unidade": "UND",
+              "quantidade": "12,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "8",
+          "titulo": "37830 MEMÓRIA RAM ECC RDIMM PARA SERVIDOR32GB:1. CARACTERÍSTICAS GERAIS1.1. Módulo de memória RAM novo, sem uso e em linha de fabricação.1.2. Compatível com servidores que utilizem memória DDR4ECC Registered (RDIMM), incluindo o servidor Lenovo System",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37830 MEMÓRIA RAM ECC RDIMM PARA SERVIDOR32GB:1. CARACTERÍSTICAS GERAIS1.1. Módulo de memória RAM novo, sem uso e em linha de fabricação.1.2. Compatível com servidores que utilizem memória DDR4ECC Registered (RDIMM), incluindo o servidor Lenovo System x3550 M5, ou equipamentos compatíveis.2. ESPECIFICAÇÕES TÉCNICAS2.1. Capacidade nominal mínima de 32 GB por módulo.2.2. Tecnologia DDR4 ECC Registered (RDIMM).2.3. Formato DIMM de 288 pinos.2.4. Frequência de operação mínima de 2.400 MT/s(DDR4-2400), admitindo-se módulos de frequência superior, desde que compatíveis e operando na máxima velocidade suportada pelo servidor.2.5. Tensão nominal de 1,2 V.2.6. Arquitetura x4, Single Rank, Dual Rank ou Quad Rank, desde que compatível com o equipamento ofertado.2.7. Suporte à tecnologia ECC (Error Correcting Code).3. COMPATIBILIDADE3.1. O módulo deverá ser totalmente compatível com o servidor Lenovo System x3550 M5, sem necessidade de adaptações físicas, elétricas ou de firmware.3.2. Deverá ser compatível com os processadores Intel XeonE5-2600 v3 e/ou v4 e com o controlador de memória do servidor.",
+              "unidade": "UND",
+              "quantidade": "12,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "10",
+          "titulo": "9900516388 COOLER FAN SERVIDOR LENOVO SYSTEMX3550 M5:Descrição:  Lenovo x3550 M5 System FanIBM HOT SWAP FAN FOR LENOVO SYSTEM X3550 M5 00KC909 / 00FK455 / 0KC909 / 0FK455/00KC800.",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900516388 COOLER FAN SERVIDOR LENOVO SYSTEMX3550 M5:Descrição: Lenovo x3550 M5 System FanIBM HOT SWAP FAN FOR LENOVO SYSTEM X3550 M5 00KC909 / 00FK455 / 0KC909 / 0FK455/00KC800.",
+              "unidade": "UND",
+              "quantidade": "3,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "11",
+          "titulo": "9900516389 DISSIPADOR PARA PROCESSSADOR   SERVIDOR LENOVO X3550 M5:Aplicação: X3550 M5Material: AlumínioPN: 00KC908 00KC911 00KC912.",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900516389 DISSIPADOR PARA PROCESSSADOR SERVIDOR LENOVO X3550 M5:Aplicação: X3550 M5Material: AlumínioPN: 00KC908 00KC911 00KC912.",
+              "unidade": "UND",
+              "quantidade": "3,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "12",
+          "titulo": "9900516390 CONTROLADORA RAID SAS/SATA PARA SERVIDOR - Lenovo System x3550 M5:1. CARACTERÍSTICAS GERAIS1.1. Controladora RAID para servidor, nova, sem uso e em linha de fabricação.1.2. Compatível com o servidor Lenovo System x3550 M5, ou equipamento comp",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900516390 CONTROLADORA RAID SAS/SATA PARA SERVIDOR - Lenovo System x3550 M5:1. CARACTERÍSTICAS GERAIS1.1. Controladora RAID para servidor, nova, sem uso e em linha de fabricação.1.2. Compatível com o servidor Lenovo System x3550 M5, ou equipamento compatível.2. ESPECIFICAÇÕES TÉCNICAS2.1. Interface de comunicação PCI Express x8, versão 2.0 ou superior.2.2. Possuir, no mínimo, 08 (oito) portas SAS/SATA internas de 6 Gb/s, por meio de conectores Mini-SAS ou tecnologia equivalente.2.3. Suportar discos rígidos (HDD) e unidades de estado sólido (SSD), padrões SAS e SATA.2.4. Suportar unidades Hot Plug e Hot Swap, quando compatível com o servidor.2.5. Permitir taxa de transferência mínima de 6 Gb/s por porta.2.6. Suportar, no mínimo, os níveis de RAID 0, 1 e 10, sendo aceitas controladoras que ofereçam também suporte aos níveis RAID 5, 6, 50 e 60.2.7. Suportar tecnologia S.M.A.R.T. para monitoramento das unidades de armazenamento.2.8. Suportar unidades virtuais com capacidade mínima de 64 TB.2.9. Permitir utilização de discos SAS e SATA na mesma controladora, observadas as limitações de configuração definidas pelo fabricante.2.10. Compatível com discos rígidos mecânicos (HDD) e unidades de estado sólido (SSD) destinados ao uso corporativo.3. GERENCIAMENTO3.1. Disponibilizar utilitário de configuração e gerenciamento compatível com o sistema operacional suportado pelo servidor.3.2. Permitir monitoramento do estado dos discos, configuração dos volumes RAID e acompanhamento de eventos.4. COMPATIBILIDADE4.1. A controladora deverá ser plenamente compatível com o servidor Lenovo System x3550 M5, sem necessidade de adaptações físicas, elétricas ou de firmware.4.2. Deverá ser compatível com o backplane e demais componentes do servidor.5. GARANTIA5.1. Garantia mínima de 12 (doze) meses, fornecida pelo fabricante ou por sua rede autorizada.",
+              "unidade": "UND",
+              "quantidade": "3,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "13",
+          "titulo": "9900516391 DISCO RÍGIDO (HDD) NAS ENTERPRISE   4 TB:1. CARACTERÍSTICAS GERAIS1.1. Disco rígido interno (HDD), novo, sem uso e em linha de fabricação, destinado a sistemas de armazenamento em rede (NAS), para operação contínua em ambiente corporativo (24x",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900516391 DISCO RÍGIDO (HDD) NAS ENTERPRISE 4 TB:1. CARACTERÍSTICAS GERAIS1.1. Disco rígido interno (HDD), novo, sem uso e em linha de fabricação, destinado a sistemas de armazenamento em rede (NAS), para operação contínua em ambiente corporativo (24x7).2. ESPECIFICAÇÕES TÉCNICAS2.1. Capacidade nominal mínima de 4 TB.2.2. Interface SATA III (6 Gb/s).2.3. Formato 3,5 polegadas.2.4. Velocidade de rotação mínima de 5.400 RPM, admitindo-se modelos de maior desempenho.2.5. Memória cache mínima de 256 MB.2.6. Tecnologia de gravação CMR (Conventional Magnetic Recording), não sendo aceitos discos que utilizem exclusivamente tecnologia SMR (Shingled Magnetic Recording).2.7. Projetado para operação contínua (24 horas por dia, 7 dias por semana).2.8. Compatível com sistemas NAS corporativos contendo, no mínimo, 08 (oito) baias, admitindo-se equipamentos com suporte a maior quantidade de baias.2.9. Carga de trabalho (Workload Rate) mínima de 180 TB/ano.2.10. MTBF (Mean Time Between Failures) mínimo de 1.000.000 (um milhão) de horas ou AFR equivalente informado pelo fabricante.2.11. Possuir tecnologias de gerenciamento de vibração e otimização para ambientes multiusuário, compatíveis com operação em sistemas NAS.3. COMPATIBILIDADE3.1. Compatível com equipamentos NAS e servidores que utilizem interface SATA III de 6 Gb/s.4. GARANTIA4.1. Garantia mínima de 36 (trinta e seis) meses, fornecida pelo fabricante ou por sua rede autorizada no Brasil.5. CONDIÇÕES GERAIS5.1. O produto deverá estar em linha de fabricação, não sendo aceitos equipamentos classificados como End of Sale (EOS) ou End of Life (EOL).5.2. Serão aceitos discos rígidos NAS de fabricantes reconhecidos no mercado ou equivalentes, desde que atendam integralmente às especificações técnicas deste Documento.",
+              "unidade": "UND",
+              "quantidade": "50,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "14",
+          "titulo": "9900516392 DISCO RÍGIDO (HDD) PARA SISTEMA DE VIDEOMONITORAMENTO   4 TB:1. CARACTERÍSTICAS GERAIS1.1. Disco rígido interno (HDD), novo, sem uso e em linha de fabricação, destinado a sistemas de videomonitoramento (DVR/NVR), projetado para operação contín",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900516392 DISCO RÍGIDO (HDD) PARA SISTEMA DE VIDEOMONITORAMENTO 4 TB:1. CARACTERÍSTICAS GERAIS1.1. Disco rígido interno (HDD), novo, sem uso e em linha de fabricação, destinado a sistemas de videomonitoramento (DVR/NVR), projetado para operação contínua (24x7).2. ESPECIFICAÇÕES TÉCNICAS2.1. Capacidade nominal mínima de 4 TB.2.2. Interface SATA III (6 Gb/s).2.3. Formato 3,5 polegadas.2.4. Velocidade de rotação mínima de 5.400 RPM, admitindo-se modelos de maior desempenho.2.5. Memória cache mínima de 64 MB.2.6. Tecnologia de gravação CMR (Conventional Magnetic Recording).2.7. Projetado para operação contínua (24 horas por dia, 7 dias por semana) em sistemas de videomonitoramento.2.8. Compatível com gravadores digitais de vídeo (DVR) e gravadores de vídeo em rede (NVR), suportando operação simultânea com múltiplos fluxos de vídeo.2.9. Carga de trabalho (Workload Rate) mínima de 180 TB/ano.2.10. MTBF mínimo de 1.000.000 (um milhão) de horas ou AFR equivalente informado pelo fabricante.2.11. Possuir tecnologias de redução de vibração e otimização para gravação contínua de vídeo.3. COMPATIBILIDADE3.1. Compatível com equipamentos DVR e NVR que utilizem interface SATA III.4. GARANTIA4.1. Garantia mínima de 36 (trinta e seis) meses, fornecida pelo fabricante ou por sua rede autorizada no Brasil.5. CONDIÇÕES GERAIS5.1. O produto deverá estar em linha de fabricação, não sendo aceitos equipamentos classificados como End of Sale (EOS) ou End of Life (EOL).5.2. Serão aceitos discos rígidos específicos para videomonitoramento (Surveillance HDD) de fabricantes reconhecidos no mercado ou equivalentes, desde que atendam integralmente às especificações técnicas deste documento.",
+              "unidade": "UND",
+              "quantidade": "50,00",
+              "valor_referencia": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-194-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "931 / 2026",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "RECEPÇÃO DE PROPOSTAS",
+      "condutor": "SERGIO CARNEIRO CAVALCANTI DE AZEVEDO",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO PARCELADA",
+      "publicacao": "09/11/2026 16:34",
+      "inicio_recepcao": "11/11/2026 08:00",
+      "fim_recepcao": "24/11/2026 08:15",
+      "inicio_disputa": "24/11/2026 08:30",
+      "objeto": "Contratação de empresa especializada em fornecimento de manilhas de concreto, a fim de atender as demandas da Secretaria Municipal de Infraestrutura e Serviços Urbanos.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DVjjIHJVK%2Fi9jBpGOOXAeaH63dmzwjVq_wxiaaYPSZ%2F9UTAKus4ilQKrEmwx4NqBp5GoFNqRxyghYDuKD7xMHjxVkQUG6h00QDdnATysB6IQ%3D",
+      "total_lotes": 1,
+      "total_itens": 7,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "MANILHAS",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 7,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37775 MANILHA DE CONCRETO SIMPLES DN/DI 20 CM:MANILHA DE CONCRETO SIMPLES DN/DI 20 CM",
+              "unidade": "Und.",
+              "quantidade": "380,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "2",
+              "especificacao": "9900516186 MANILHA DE CONCRETO SIMPLES DN/DI 30 CM:MANILHA DE CONCRETO SIMPLES DN/DI 30 CM",
+              "unidade": "Und.",
+              "quantidade": "1.200,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "3",
+              "especificacao": "37776 MANILHA DE CONCRETO SIMPLES DN/DI 40 CM:MANILHA DE CONCRETO SIMPLES DN/DI 40 CM",
+              "unidade": "Und.",
+              "quantidade": "800,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "4",
+              "especificacao": "9900516187 MANILHA DE CONCRETO SIMPLES DN/DI 60 CM:MANILHA DE CONCRETO SIMPLES DN/DI 60 CM",
+              "unidade": "Und.",
+              "quantidade": "120,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "5",
+              "especificacao": "9900516188 MANILHA DE CONCRETO ARMADO CA1 DN/DI60:MANILHA DE CONCRETO ARMADO CA1 DN/DI 60",
+              "unidade": "Und.",
+              "quantidade": "180,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "6",
+              "especificacao": "37777 MANILHA DE CONCRETO ARMADO CA1 DN/DI80:MANILHA DE CONCRETO ARMADO CA1 DN/DI 80",
+              "unidade": "Und.",
+              "quantidade": "90,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "7",
+              "especificacao": "9900516189 MANILHA DE CONCRETO ARMADO CA1 DN/DI100 CM:MANILHA DE CONCRETO ARMADO CA1 DN/DI 100 CM",
+              "unidade": "Und.",
+              "quantidade": "60,00",
+              "valor_referencia": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-193-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "43 / 2026",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "RECEPÇÃO DE PROPOSTAS",
+      "condutor": "JONATAS DA SILVA SOUSA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "REGISTRO DE PREÇO",
+      "publicacao": "09/11/2026 11:58",
+      "inicio_recepcao": "11/11/2026 08:00",
+      "fim_recepcao": "24/11/2026 08:15",
+      "inicio_disputa": "24/11/2026 08:30",
+      "objeto": "Contratação de empresa especializada em fornecimento de materiais hidrossanitários (material de consumo), a fim de atender as demandas da Secretaria Municipal de Infraestrutura e Serviços Urbanos.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DgRgyFRYGOImsWGJIy_LJlWjnUjnNSChDZiKepfh6UVYqDExKJN7HUIG1rahraA0oK8QHW4z0C%2Fy2XmkwVZCaPnr5KkaU1PzBuW23xi%2FsDvo%3D",
+      "total_lotes": 1,
+      "total_itens": 99,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "MATERTIAIS HIDROSSANITÁRIOS",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 99,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515260 ACABAMENTO PARA VALVULA DE DESCARGA ASTRA:MARCA ASTRA",
+              "unidade": "Und.",
+              "quantidade": "48,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "2",
+              "especificacao": "36721 ACABAMENTO PARA VALVULA DE DESCARGA DECA:MARCA DECA",
+              "unidade": "Und.",
+              "quantidade": "84,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "3",
+              "especificacao": "9900515261 ACABAMENTO PARA VALVULA DE DESCARGA DOCOL:MARCA DOCOL",
+              "unidade": "Und.",
+              "quantidade": "60,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "4",
+              "especificacao": "36723 ACABAMENTO PARA VALVULA DE DESCARGA HIDRA:MARCA HIDRA",
+              "unidade": "Und.",
+              "quantidade": "60,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "5",
+              "especificacao": "9900515262 ADAPTADOR SOLDAVEL FLANGE P/ CAIXA D'AGUA 20MM:CAIXA D'AGUA 20MM",
+              "unidade": "Und.",
+              "quantidade": "90,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "6",
+              "especificacao": "36724 ADAPTADOR SOLDAVEL FLANGE P/ CAIXA D'AGUA25MM:CAIXA D'AGUA 25MM",
+              "unidade": "Und.",
+              "quantidade": "150,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "7",
+              "especificacao": "9900515263 ADAPTADOR SOLDAVEL FLANGE P/ CAIXA D'ÀGUA 32MM:CAIXA D'ÀGUA 32MM",
+              "unidade": "Und.",
+              "quantidade": "78,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "8",
+              "especificacao": "36725 ADAPTADOR SOLDAVEL FLANGE P/ CAIXA D'AGUA40MM:CAIXA D'AGUA 40MM",
+              "unidade": "Und.",
+              "quantidade": "58,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "9",
+              "especificacao": "36726 ADAPTADOR SOLDAVEL FLANGE P/ CAIXA D'ÀGUA50MM:CAIXA D'ÀGUA 50MM",
+              "unidade": "Und.",
+              "quantidade": "66,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "10",
+              "especificacao": "36727 ADAPTADOR SOLDAVEL FLANGE P/ CAIXA D'ÀGUA75MM:CAIXA D'ÀGUA 75MM",
+              "unidade": "Und.",
+              "quantidade": "36,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "11",
+              "especificacao": "36728 ADAPTADOR SOLDAVEL FLANGE P/ CAIXA D'AGUA85MM:CAIXA D'AGUA 85MM",
+              "unidade": "Und.",
+              "quantidade": "24,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "12",
+              "especificacao": "9900515264 ANEL DE VEDAÇÃO VASO SANITÁRIO COM GUIA DN100:ANEL DE VEDAÇÃO VASO SANITÁRIO COM GUIA DN100",
+              "unidade": "Und.",
+              "quantidade": "321,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "13",
+              "especificacao": "36729 ASSENTO SANITARIO BRANCO ESTOFADO:BRANCO ESTOFADO",
+              "unidade": "Und.",
+              "quantidade": "330,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "14",
+              "especificacao": "36730 ASSENTOS SANITÁRIOS OVAL/UNIVERSAL:OVAL/UNIVERSAL",
+              "unidade": "Und.",
+              "quantidade": "380,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "15",
+              "especificacao": "9900515265 CAIXA ACOPLADA PARA VASO SANITARIO:COR BRANCA COM ACIONAMENTO DUPLO 3/6 LITROS: CAIXA ACOPLADA PARA VASO SANITARIO COR BRANCA COM ACIONAMENTO DUPLO 3/6 LITROS",
+              "unidade": "Und.",
+              "quantidade": "56,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "16",
+              "especificacao": "36731 CAIXA D´ÀGUA DE POLIETILENO 1.000L :CAIXA D´ÀGUA DE POLIETILENO 1.000L:CAIXA D´ÀGUA DE POLIETILENO 1.000L",
+              "unidade": "Und.",
+              "quantidade": "44,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "17",
+              "especificacao": "36732 CAIXA D´ÀGUA DE POLIETILENO 2.000L:CAIXA D´ÀGUA DE POLIETILENO 2.000L",
+              "unidade": "Und.",
+              "quantidade": "46,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "18",
+              "especificacao": "36733 CAIXA D´ÀGUA DE POLIETILENO 5.000L:CAIXA D´ÀGUA DE POLIETILENO 5.000L",
+              "unidade": "Und.",
+              "quantidade": "38,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "19",
+              "especificacao": "36734 CAIXA D'ÁGUA POLIETILENO 10.000L TAMPA ROSCA AZUL:TAMPA ROSCA AZUL",
+              "unidade": "Und.",
+              "quantidade": "14,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "20",
+              "especificacao": "36735 CAIXA DE DESCARGA PLASTICA 6/9 LITROS :CAIXA DE DESCARGA 6/9 LITROS:CAIXA DE DESCARGA 6/9 LITROS",
+              "unidade": "Und.",
+              "quantidade": "205,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "21",
+              "especificacao": "9900515266 CHAVE BOIA CBS - 16A - 1,2M: TEMPERATURA MÁXIMA DO LÍQUIDO: 70°C MONTAGEM::SUSPENSA CORRENTE MÁXIMA (LTH): 16A OU 25A ISENTA DE MERCÚRIO: CONTROLE POR MICRO CHAVE (MECÂNICA) TENSÃO: ATÉ 250VCA GRAU DE PROTEÇÃO: IP68 CABO DE 1,2M E 2M (16A) E 1,5M (25A) PARA SISTEMAS COM CORRENTES SUPERIORES, RECOMENDA-SE O USO DE UM SISTEMA AUXILIAR DE FORÇA",
+              "unidade": "Und.",
+              "quantidade": "70,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "22",
+              "especificacao": "9900515267 CHUVEIRO ELÉTRICO, DUCHA BANHO:COM CANO, 5500W, 220V",
+              "unidade": "Und.",
+              "quantidade": "250,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "23",
+              "especificacao": "9900515268 CHUVEIRO PLÁSTICO:BRANCO SIMPLES",
+              "unidade": "Und.",
+              "quantidade": "328,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "24",
+              "especificacao": "36736 ENGATE FLEXÍVEL DE PVC 30CM:PVC 30CM",
+              "unidade": "Und.",
+              "quantidade": "386,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "25",
+              "especificacao": "9900515269 ENGATE FLEXÍVEL:DE PVC 40CM",
+              "unidade": "Und.",
+              "quantidade": "360,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "26",
+              "especificacao": "36737 ENGATE FLEXÍVEL:DE PVC 50CM",
+              "unidade": "Und.",
+              "quantidade": "586,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "27",
+              "especificacao": "9900515270 ENGATE FLEXÍVEL:DE PVC 60CM",
+              "unidade": "Und.",
+              "quantidade": "544,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "28",
+              "especificacao": "9900515271 ESPUDE PARA LIGAÇAO DE VASO SANITARIO:40MM",
+              "unidade": "Und.",
+              "quantidade": "408,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "29",
+              "especificacao": "36738 GRELHA QUADRADA:10MM",
+              "unidade": "Und.",
+              "quantidade": "93,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "30",
+              "especificacao": "36739 GRELHA QUADRADA:15MM",
+              "unidade": "Und.",
+              "quantidade": "95,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "31",
+              "especificacao": "9900515272 KIT PARAFUSO INOXIDAVEL PARA VASO SANITARIO 10MM:VASO SANITARIO 10MM",
+              "unidade": "Und.",
+              "quantidade": "180,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "32",
+              "especificacao": "9900515273 KIT PARAFUSO INOXIDAVEL PARA VASO SANITARIO 12MM:VASO SANITARIO 12MM",
+              "unidade": "Und.",
+              "quantidade": "220,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "33",
+              "especificacao": "36740 KIT PARAFUSO INOXIDAVEL PARA VASO SANITARIO8MM:VASO SANITARIO 8MM",
+              "unidade": "Und.",
+              "quantidade": "162,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "34",
+              "especificacao": "36741 KIT RETENTOR PARA VALVULA DE DESCARGA:1.1/2 BAIXA PRESSÃO (ASTRA)",
+              "unidade": "Und.",
+              "quantidade": "77,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "35",
+              "especificacao": "9900515274 KIT RETENTOR PARA VALVULA DE DESCARGA:1.1/2 BAIXA PRESSÃO (DECA)",
+              "unidade": "Und.",
+              "quantidade": "77,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "36",
+              "especificacao": "36742 KIT SALVA REGISTRO FACIL 10 EM 1 :KIT SALVA REGISTRO FACIL 10 EM 1:KIT SALVA REGISTRO FACIL 10 EM 1",
+              "unidade": "Und.",
+              "quantidade": "235,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "37",
+              "especificacao": "9900515275 KIT VASO SANITÁRIO COR BRANCA COM CAIXA ACOPLADA COM ACIONAMENTO:DUPLO 3/6 LITROS SAÍDA VERTICAL",
+              "unidade": "Und.",
+              "quantidade": "81,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "38",
+              "especificacao": "9900515276 MECANISMO UNIVERSAL COM ENTRADA + SAÍDA:COM DUPLO ACIONAMENTO PARA CAIXA DE DESCARGA ACOPLADA",
+              "unidade": "Und.",
+              "quantidade": "120,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "39",
+              "especificacao": "9900515277 MECANISMO UNIVERSAL COM ENTRADA + SAÍDA:COMUM PARA CAIXA DESCARGA ACOPLADA",
+              "unidade": "Und.",
+              "quantidade": "100,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "40",
+              "especificacao": "36743 NIPEL COM ROSCA 1.1/4 MATERIAL EM PVC:NIPEL COM ROSCA 1.1/4 MATERIAL EM PVC",
+              "unidade": "Und.",
+              "quantidade": "225,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "41",
+              "especificacao": "36744 NIPEL ROSCA BRANCO PARALELO:1 .32MM PVC",
+              "unidade": "Und.",
+              "quantidade": "189,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "42",
+              "especificacao": "9900515278 NIPEL ROSCA BRANCO PARALELO:1/2 / 20mm PVC",
+              "unidade": "Und.",
+              "quantidade": "259,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "43",
+              "especificacao": "9900515279 PORTA-GRELHA QUADRADO:100MM",
+              "unidade": "Und.",
+              "quantidade": "111,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "44",
+              "especificacao": "36745 PORTA-GRELHA QUADRADO:150MM",
+              "unidade": "Und.",
+              "quantidade": "88,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "45",
+              "especificacao": "36746 RALO QUADRADO SECO:100 X 52 X 40MM",
+              "unidade": "Und.",
+              "quantidade": "179,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "46",
+              "especificacao": "36747 RALO/CAIXA SIFONADA (COM 3 ENTRADAS):100 X100 X 50MM QUADRADA/REDONDA",
+              "unidade": "Und.",
+              "quantidade": "232,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "47",
+              "especificacao": "36748 RALO/CAIXA SIFONADA (COM 3 ENTRADAS):100 X150 X 50MM QUADRADA/REDONDA",
+              "unidade": "Und.",
+              "quantidade": "78,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "48",
+              "especificacao": "36749 REGISTRO DE GAVETA:50MM",
+              "unidade": "Und.",
+              "quantidade": "69,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "49",
+              "especificacao": "9900515280 REGISTRO DE GAVETA B 1.1/2:REGISTRO DE GAVETA B 1.1/2",
+              "unidade": "Und.",
+              "quantidade": "85,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "50",
+              "especificacao": "9900515281 REGISTRO DE PRESSAO 1/2:COM CANOPLA ACABAMENTO CROMADO",
+              "unidade": "Und.",
+              "quantidade": "183,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "51",
+              "especificacao": "9900515282 REGISTRO PVC DE ESFERA SOLDAVEL:COM UNIAO 20MM",
+              "unidade": "Und.",
+              "quantidade": "415,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "52",
+              "especificacao": "36750 REGISTRO PVC DE ESFERA SOLDAVEL:COM UNIAO25MM",
+              "unidade": "Und.",
+              "quantidade": "403,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "53",
+              "especificacao": "9900515283 REGISTRO PVC DE ESFERA SOLDAVEL:COM UNIAO 32MM",
+              "unidade": "Und.",
+              "quantidade": "257,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "54",
+              "especificacao": "9900515284 REGISTRO PVC DE ESFERA SOLDÁVEL:COM UNIÃO 40MM",
+              "unidade": "Und.",
+              "quantidade": "271,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "55",
+              "especificacao": "9900515285 REGISTRO PVC DE ESFERA SOLDÁVEL:COM UNIÃO 50MM",
+              "unidade": "Und.",
+              "quantidade": "67,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "56",
+              "especificacao": "9900515286 REGISTRO PVC SOLDAVEL:COM CANOPLA20MM",
+              "unidade": "Und.",
+              "quantidade": "237,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "57",
+              "especificacao": "9900515287 REGISTRO PVC SOLDAVEL:COM CANOPLA25MM",
+              "unidade": "Und.",
+              "quantidade": "255,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "58",
+              "especificacao": "9900515288 REPARO COMPLETO:PARA CAIXA ACOPLADA ASTRA",
+              "unidade": "Und.",
+              "quantidade": "266,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "59",
+              "especificacao": "36751 REPARO COMPLETO:PARA CAIXA ACOPLADA DECA",
+              "unidade": "Und.",
+              "quantidade": "243,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "60",
+              "especificacao": "9900515289 REPARO COMPLETO:PARA CAIXA ACOPLADA DOCOL",
+              "unidade": "Und.",
+              "quantidade": "212,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "61",
+              "especificacao": "36752 REPARO COMPLETO:PARA CAIXA ACOPLADA HIDRA",
+              "unidade": "Und.",
+              "quantidade": "218,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "62",
+              "especificacao": "9900515290 REPARO DE VALVULA:DECA",
+              "unidade": "Und.",
+              "quantidade": "191,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "63",
+              "especificacao": "36753 REPARO DE VALVULA:DOCOL",
+              "unidade": "Und.",
+              "quantidade": "191,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "64",
+              "especificacao": "9900515291 REPARO DE VALVULA:HIDRA",
+              "unidade": "Und.",
+              "quantidade": "207,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "65",
+              "especificacao": "9900515292 REPARO UNIVERSAL:COMPLETO PARA CAIXA ACOPLADA",
+              "unidade": "Und.",
+              "quantidade": "207,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "66",
+              "especificacao": "9900515293 RESISTÊNCIA PARA CHUVEIRO:5.500W 220V",
+              "unidade": "Und.",
+              "quantidade": "340,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "67",
+              "especificacao": "9900515294 SIFÃO DUPLO TUBO EXTENSIVEL:UNIVERSAL BRANCO",
+              "unidade": "Und.",
+              "quantidade": "280,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "68",
+              "especificacao": "9900501037 SIFÃO SIMPLES EXTENSIVEL UNIVERSAL BRANCO:SIFÃO SIMPLES EXTENSIVEL UNIVERSAL BRANCO",
+              "unidade": "Und.",
+              "quantidade": "834,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "69",
+              "especificacao": "9900515295 SIFÃO TRIPLO TUBO:EXTENSIVEL UNIVERSAL BRANCO",
+              "unidade": "Und.",
+              "quantidade": "151,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "70",
+              "especificacao": "36755 TORNEIRA ALTA DE BANCADA PARA COZINHA 1/2 ABS BRANCO:PARA COZINHA 1/2 ABS BRANCO",
+              "unidade": "Und.",
+              "quantidade": "198,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "71",
+              "especificacao": "36756 TORNEIRA ALTA DE PAREDE:PARA COZINHA ALTA1/2 ABS BRANCO",
+              "unidade": "Und.",
+              "quantidade": "364,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "72",
+              "especificacao": "36757 TORNEIRA COZINHA MESA:ALTA 1/2 ABS BRANCO",
+              "unidade": "Und.",
+              "quantidade": "110,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "73",
+              "especificacao": "9900515296 TORNEIRA COZINHA PAREDE:18 CM COM ALAVANCA E JATO",
+              "unidade": "Und.",
+              "quantidade": "115,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "74",
+              "especificacao": "36758 TORNEIRA DE BOIA:COM HASTE EM ABS 1/2 E 3/4",
+              "unidade": "Und.",
+              "quantidade": "227,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "75",
+              "especificacao": "36759 TORNEIRA DE BOIA:COM HASTE EM ALUMINIO 1/2 E3/4",
+              "unidade": "Und.",
+              "quantidade": "178,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "76",
+              "especificacao": "36760 TORNEIRA ALTA DE PAREDE:PARA COZINHA ALTA1/2 ABS BRANCO CROMADA",
+              "unidade": "Und.",
+              "quantidade": "183,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "77",
+              "especificacao": "36761 TORNEIRA DE JARDIM:1/2\"",
+              "unidade": "Und.",
+              "quantidade": "832,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "78",
+              "especificacao": "9900515297 TORNEIRA DE MESA PARA LAVATORIO BICA BAIXA, EM METAL CROMADO:TORNEIRA DE MESA PARA LAVATORIO BICA BAIXA, EM METAL CROMADO",
+              "unidade": "Und.",
+              "quantidade": "121,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "79",
+              "especificacao": "36762 TORNEIRA DE METAL RETA:PARA PAREDE DE COZINHA",
+              "unidade": "Und.",
+              "quantidade": "92,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "80",
+              "especificacao": "9900515298 TORNEIRA DE PLASTICO:PARA BANCADA DE BANHEIRO",
+              "unidade": "Und.",
+              "quantidade": "129,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "81",
+              "especificacao": "36763 TORNEIRA FILTRO AUTOMÁTICA:COM ACIONAMENTO SUPERIOR + ADAPTADOR",
+              "unidade": "Und.",
+              "quantidade": "167,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "82",
+              "especificacao": "36764 TORNEIRA GIRATORIA DE METAL:PARA BANCADA BANHEIRO COM 1/4 DE VOLTA",
+              "unidade": "Und.",
+              "quantidade": "88,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "83",
+              "especificacao": "36765 TORNEIRA GIRATORIA DE METAL PARA PAREDE:DE COZINHA COM 1/4 DE VOLTA",
+              "unidade": "Und.",
+              "quantidade": "68,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "84",
+              "especificacao": "36766 TORNEIRA GIRATORIA DE PLASTICO:CROMADA PARA PAREDE DE COZINHA COM 1/4 DE VOLTA",
+              "unidade": "Und.",
+              "quantidade": "79,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "85",
+              "especificacao": "36767 TORNEIRA GIRATORIA DE PLASTICO:PARA BANCADA DE BANHEIRO COM 1/4 DE VOLTA",
+              "unidade": "Und.",
+              "quantidade": "139,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "86",
+              "especificacao": "9900515299 TORNEIRA GIRATORIA DE PLASTICO PARA PAREDE:DE COZINHA COM 1/4 DE VOLTA",
+              "unidade": "Und.",
+              "quantidade": "68,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "87",
+              "especificacao": "36768 TORNEIRA LAVATÓRIO MESA:1/2 ABS BRANCO",
+              "unidade": "Und.",
+              "quantidade": "88,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "88",
+              "especificacao": "36769 TORNEIRA LAVATÓRIO MESA ALTA 1/2 ABS BRANCO:ALTA 1/2 ABS BRANCO",
+              "unidade": "Und.",
+              "quantidade": "94,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "89",
+              "especificacao": "36770 TORNEIRA MESA:BICA MÓVEL 1/2 ABS",
+              "unidade": "Und.",
+              "quantidade": "109,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "90",
+              "especificacao": "9900515300 TORNEIRA P/ JARDIM:METAL CROMADO",
+              "unidade": "Und.",
+              "quantidade": "138,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "91",
+              "especificacao": "36771 TORNEIRA P/ LAVATORIO:COMPACT PRESSMATIC CROMADA",
+              "unidade": "Und.",
+              "quantidade": "83,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "92",
+              "especificacao": "9900515301 TORNEIRA TRADICIONAL DE METAL:PARA BANCADA DE BANHEIRO",
+              "unidade": "Und.",
+              "quantidade": "148,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "93",
+              "especificacao": "36772 TUBO DE LIGAÇAO EXTERNO:PARA VASO COM CAIXA DE DESCARGA CONVENCIONAL",
+              "unidade": "Und.",
+              "quantidade": "220,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "94",
+              "especificacao": "9900515302 VÁLVULA COM INOX PARA PIA AMERICANA3.1/2:PARA PIA AMERICANA 3.1/2",
+              "unidade": "Und.",
+              "quantidade": "240,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "95",
+              "especificacao": "36773 VALVULA DE PIA AMERICANA:VALVULA DE PIA AMERICANA",
+              "unidade": "Und.",
+              "quantidade": "260,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "96",
+              "especificacao": "9900515303 VALVULA DE PLASTICO:PARA LAVATÓRIO 7/8",
+              "unidade": "Und.",
+              "quantidade": "177,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "97",
+              "especificacao": "36774 VÁLVULA PARA MICTÓRIO:AUTOMÁTICA 1/2",
+              "unidade": "Und.",
+              "quantidade": "145,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "98",
+              "especificacao": "36775 VÁLVULA PARA TANQUE:1.1/4",
+              "unidade": "Und.",
+              "quantidade": "182,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "99",
+              "especificacao": "36776 VASO SANITARIO CONVENCIONAL:COR BRANCA SAÍDA VERTICAL",
+              "unidade": "Und.",
+              "quantidade": "91,00",
+              "valor_referencia": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-199-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "1272/2026",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "RECEPÇÃO DE PROPOSTAS",
+      "condutor": "DAVIDSON ARAUJO SANTOS",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO PARCELADA",
+      "publicacao": "11/11/2026 23:49",
+      "inicio_recepcao": "12/11/2026 08:00",
+      "fim_recepcao": "27/11/2026 10:15",
+      "inicio_disputa": "27/11/2026 10:30",
+      "objeto": "Contratação de empresa especializada em execução de serviços de engenharia para manutenção preventiva e corretiva dos prédios públicos sob responsabilidade do Município de Teixeira de Freitas – BA",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DfUgQrYbCB0OAQwA6z5sD4jQ%2FQA9CF195YwMyUaUB%2F2YMPj0xdZW9Py0kMfgMW_o02QWJutuu2Ua8Est7RGKzKhj0Ftz1ZU%2FyweoczO8TCeU%3D",
+      "total_lotes": 1,
+      "total_itens": 15,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "EXECUÇÃO DE SERVIÇOS DE ENGENHARIA PARA MANUTENÇÃO PREVENTIVA E CORRETIVA DOS PRÉDIOS PÚBLICOS",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "1.000,00",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "34.329.503,68",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 15,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "SERVIÇOS PRELIMINARES",
+              "unidade": "SERVIÇO",
+              "quantidade": "1,00",
+              "valor_referencia": "168.465,75"
+            },
+            {
+              "numero": "2",
+              "especificacao": "DEMOLIÇÕES/REMOÇÕES",
+              "unidade": "SERVIÇO",
+              "quantidade": "1,00",
+              "valor_referencia": "1.550.337,41"
+            },
+            {
+              "numero": "3",
+              "especificacao": "TERRAPLANAGEM",
+              "unidade": "SERVIÇO",
+              "quantidade": "1,00",
+              "valor_referencia": "136.813,45"
+            },
+            {
+              "numero": "4",
+              "especificacao": "FECHAMENTOS",
+              "unidade": "SERVIÇO",
+              "quantidade": "1,00",
+              "valor_referencia": "730.681,50"
+            },
+            {
+              "numero": "5",
+              "especificacao": "INFRAESTRUTURA/SUPERESTRUTURA",
+              "unidade": "SERVIÇO",
+              "quantidade": "1,00",
+              "valor_referencia": "1.052.496,87"
+            },
+            {
+              "numero": "6",
+              "especificacao": "COBERTURA",
+              "unidade": "SERVIÇO",
+              "quantidade": "1,00",
+              "valor_referencia": "9.056.959,16"
+            },
+            {
+              "numero": "7",
+              "especificacao": "INSTALAÇÕES HIDROSSANITÁRIAS",
+              "unidade": "SERVIÇO",
+              "quantidade": "1,00",
+              "valor_referencia": "769.311,07"
+            },
+            {
+              "numero": "8",
+              "especificacao": "INSTALAÇÕES ELÉTRICAS",
+              "unidade": "SERVIÇO",
+              "quantidade": "1,00",
+              "valor_referencia": "1.302.173,36"
+            },
+            {
+              "numero": "9",
+              "especificacao": "PINTURAS",
+              "unidade": "SERVIÇO",
+              "quantidade": "1,00",
+              "valor_referencia": "9.025.632,80"
+            },
+            {
+              "numero": "10",
+              "especificacao": "ESQUADRIAS/GRADES/DIVERSOS",
+              "unidade": "SERVIÇO",
+              "quantidade": "1,00",
+              "valor_referencia": "2.521.298,74"
+            },
+            {
+              "numero": "11",
+              "especificacao": "PAVIMENTAÇÃO/PISOS",
+              "unidade": "SERVIÇO",
+              "quantidade": "1,00",
+              "valor_referencia": "3.844.768,86"
+            },
+            {
+              "numero": "12",
+              "especificacao": "REVESTIMENTOS",
+              "unidade": "SERVIÇO",
+              "quantidade": "1,00",
+              "valor_referencia": "1.662.586,74"
+            },
+            {
+              "numero": "13",
+              "especificacao": "URBANIZAÇÃO",
+              "unidade": "SERVIÇO",
+              "quantidade": "1,00",
+              "valor_referencia": "608.629,75"
+            },
+            {
+              "numero": "14",
+              "especificacao": "LIMPEZAS",
+              "unidade": "SERVIÇO",
+              "quantidade": "1,00",
+              "valor_referencia": "692.240,00"
+            },
+            {
+              "numero": "15",
+              "especificacao": "ADMINISTRAÇÃO LOCAL DA OBRA",
+              "unidade": "SERVIÇO",
+              "quantidade": "1,00",
+              "valor_referencia": "1.207.108,22"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-198-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "1050/2026",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "RECEPÇÃO DE PROPOSTAS",
+      "condutor": "DAVIDSON ARAUJO SANTOS",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO PARCELADA",
+      "publicacao": "11/11/2026 23:20",
+      "inicio_recepcao": "12/11/2026 08:00",
+      "fim_recepcao": "27/11/2026 08:15",
+      "inicio_disputa": "27/11/2026 08:30",
+      "objeto": "Contratação de empresa especializada em serviços de engenharia para o fornecimento e instalação de bancas de frutas e verduras em estruturas de madeira, no Município de Teixeira de Freitas – BA.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DMBPkRqo1FBTkPoD6cxsyZc6Ho5iIM6mWmEvhFLcSq%2FmhjoxPdqlEtkq8pOKoDAL4UBPihLpdjrptie_LzF31nnCDU%2F452k54UTqPLW7%2FOqk%3D",
+      "total_lotes": 1,
+      "total_itens": 1,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "FORNECIMENTO E INSTALAÇÃO DE BANCAS DE FRUTAS E VERDURAS EM ESTRUTURAS DE MADEIRA",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "100,00",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "894.136,41",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "BANCAS DE FRUTAS E VERDURAS EM ESTRUTURAS DE MADEIRA",
+              "unidade": "UNID.",
+              "quantidade": "1,00",
+              "valor_referencia": "894.136,41"
             }
           ]
         }
