@@ -1,10 +1,10 @@
 {
   "metadata": {
     "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-    "total_processos": 969,
-    "total_lotes": 10637,
-    "total_itens": 17642,
-    "atualizado_em": "20261113_180210"
+    "total_processos": 971,
+    "total_lotes": 10657,
+    "total_itens": 17662,
+    "atualizado_em": "20261116_174053"
   },
   "processos": [
     {
@@ -312848,170 +312848,6 @@
       ]
     },
     {
-      "id": "PE-202-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "1136 / 2026",
-      "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "PUBLICADO",
-      "condutor": "SERGIO CARNEIRO CAVALCANTI DE AZEVEDO",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO PARCELADA",
-      "publicacao": "12/11/2026 17:15",
-      "inicio_recepcao": "16/11/2026 08:00",
-      "fim_recepcao": "27/11/2026 08:15",
-      "inicio_disputa": "27/11/2026 08:30",
-      "objeto": "Contratação de empresa especializada em fornecimento de materiais de madeira destinados principalmente à execução de obras, instalações, reparos e manutenção de prédios públicos,  a fim de atender as demandas da Secretaria Municipal de Infraestrutura e Serviços Urbanos.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DhlHmVL%2FQAscr5raoFrxZ4a9gceWH4nU2yNlocbaoBxsIrCVoynu8RsUKU_L%2Fs_tqSPn81bvZoRxP7bKrr%2FqqJtiAeQRw3k%2Fp%2Fd93eX9Kh8k%3D",
-      "total_lotes": 6,
-      "total_itens": 6,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "9900516422 ESCORA DE EUCALIPTO:com diâmetroaproximado de 6 cm e comprimento de 6,00 metros, em madeira resistente e em condições adequadas de uso.",
-          "fase": "PUBLICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900516422 ESCORA DE EUCALIPTO:com diâmetroaproximado de 6 cm e comprimento de 6,00 metros, em madeira resistente e em condições adequadas de uso.",
-              "unidade": "Und.",
-              "quantidade": "450,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "2",
-          "titulo": "9900516423 JOGO DE ALIZAR EM MADEIRA MISTA:compostopor 06 (seis) peças, com largura aproximada de 7 cm.",
-          "fase": "PUBLICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900516423 JOGO DE ALIZAR EM MADEIRA MISTA:compostopor 06 (seis) peças, com largura aproximada de 7 cm.",
-              "unidade": "JOG",
-              "quantidade": "150,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "3",
-          "titulo": "9900516424 TÁBUA DE PINUS:madeira de espécie Pinus, com dimensões aproximadas de 3,00 m de comprimento × 15 cm de largura × 2 cm de espessura, destinada a serviços de manutenção, reparos e execução de estruturas. A madeira deverá apresentar-se seca, ínteg",
-          "fase": "PUBLICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900516424 TÁBUA DE PINUS:madeira de espécie Pinus, com dimensões aproximadas de 3,00 m de comprimento × 15 cm de largura × 2 cm de espessura, destinada a serviços de manutenção, reparos e execução de estruturas. A madeira deverá apresentar-se seca, íntegra, sem rachaduras, empenamentos excessivos, apodrecimento ou defeitos que comprometam sua utilização, com acabamento compatível com a finalidade do material.",
-              "unidade": "Und.",
-              "quantidade": "420,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "4",
-          "titulo": "9900516425 TÁBUA DE PINUS:madeira de espécie Pinus, com dimensões aproximadas de 3,00 m de comprimento × 20 cm de largura × 2 cm de espessura, destinada a serviços de manutenção, reparos e execução de estruturas. A madeira deverá apresentar-se seca, ínteg",
-          "fase": "PUBLICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900516425 TÁBUA DE PINUS:madeira de espécie Pinus, com dimensões aproximadas de 3,00 m de comprimento × 20 cm de largura × 2 cm de espessura, destinada a serviços de manutenção, reparos e execução de estruturas. A madeira deverá apresentar-se seca, íntegra, sem rachaduras, empenamentos excessivos, apodrecimento ou defeitos que comprometam sua utilização, com acabamento compatível com a finalidade do material.",
-              "unidade": "Und.",
-              "quantidade": "480,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "5",
-          "titulo": "9900516426 TÁBUA DE PINUS:madeira de espécie Pinus, com dimensões aproximadas de 3,00 m de comprimento × 30 cm de largura × 2 cm de espessura, destinada a serviços de manutenção, reparos e execução de estruturas. A madeira deverá apresentar-se seca, ínteg",
-          "fase": "PUBLICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900516426 TÁBUA DE PINUS:madeira de espécie Pinus, com dimensões aproximadas de 3,00 m de comprimento × 30 cm de largura × 2 cm de espessura, destinada a serviços de manutenção, reparos e execução de estruturas. A madeira deverá apresentar-se seca, íntegra, sem rachaduras, empenamentos excessivos, apodrecimento ou defeitos que comprometam sua utilização, com acabamento compatível com a finalidade do material.",
-              "unidade": "Und.",
-              "quantidade": "600,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "6",
-          "titulo": "9900516427 TÁBUA DE PINUS:madeira de espécie Pinus, com dimensões aproximadas de 3,00 m de comprimento × 30 cm de largura × 4 cm de espessura, destinada a serviços de manutenção, reparos e execução de estruturas. A madeira deverá apresentar-se seca, ínteg",
-          "fase": "PUBLICADO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900516427 TÁBUA DE PINUS:madeira de espécie Pinus, com dimensões aproximadas de 3,00 m de comprimento × 30 cm de largura × 4 cm de espessura, destinada a serviços de manutenção, reparos e execução de estruturas. A madeira deverá apresentar-se seca, íntegra, sem rachaduras, empenamentos excessivos, apodrecimento ou defeitos que comprometam sua utilização, com acabamento compatível com a finalidade do material.",
-              "unidade": "Und.",
-              "quantidade": "350,00",
-              "valor_referencia": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "5-DLE-119-2026",
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "1271/2026",
@@ -319886,50 +319722,6 @@
       ]
     },
     {
-      "id": "PE-141-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "801/2026",
-      "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "HABILITAÇÃO",
-      "condutor": "JONATAS DA SILVA SOUSA",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO PARCELADA",
-      "publicacao": "22/09/2026 09:06",
-      "inicio_recepcao": "13/10/2026 08:00",
-      "fim_recepcao": "27/10/2026 10:15",
-      "inicio_disputa": "27/10/2026 10:30",
-      "objeto": "Contratação de empresa especializada em prestação de serviço de MONITORAMENTO E RASTREAMENTO VEICULAR COM FORNECIMENTO, EM REGIME DE COMODATO, DOS EQUIPAMENTOS RASTREADORES E ACESSÓRIOS, a fim de atender as demandas da Secretaria Municipal de Administração e demais Secretarias.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DciV4RrnVBsytAhzUVvpmrXtPqiVNrI6XaXu5CPqcUWDPpS%2FNG8wSr0kOADR7d183NOTM8uDCvjciMZGKIX3QcMhbyhZoOAo2yeDiYqJZjIY%3D",
-      "total_lotes": 1,
-      "total_itens": 1,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "Rastreamento e monitoramento veicular",
-          "fase": "HABILITAÇÃO",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "201.548,16",
-          "vencedor": "TORKYS SISTEMAS E EQUIPAMENTOS LTDA ME",
-          "melhor_oferta": "55.408,32",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9903312120 Rastreamento e monitoramento veicular:destinados à gestão da frota de frota, por meio de sistema informatizado em plataforma web e aplicativo móvel, com monitoramento em tempo real, dos deslocamentos, paradas, velocidades, eventos e demais informações operacionais da frota, emissão de relatórios gerenciais e transmissão de dados por tecnologia GPS/GSM/GPRS ou superior, contemplando o fornecimento, em regime de comodato, dos equipamentos rastreadores, acessórios e demais componentes necessários ao pleno funcionamento da solução, incluindo conectividade de dados, instalação, configuração, ativação, manutenção preventiva e corretiva, substituição de equipamentos quando necessária, disponibilização de sistema web para até 5 usuários simultâneos, suporte técnico e garantia de funcionamento durante toda a vigência contratual.",
-              "unidade": "SERV",
-              "quantidade": "264,00",
-              "valor_referencia": "763,44"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "PE-157-2026",
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "876 / 2026",
@@ -323501,33 +323293,689 @@
       ]
     },
     {
-      "id": "CD-005-2025",
+      "id": "PE-205-2026",
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "758/2025",
-      "modalidade": "CREDENCIAMENTO",
-      "situacao": "EM FINALIZAÇÃO",
-      "condutor": "MAGDA DE SELES GUIMARÃES",
+      "numero_adm": "1141 / 2026",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "PUBLICADO",
+      "condutor": "JONATAS DA SILVA SOUSA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO PARCELADA",
+      "publicacao": "16/11/2026 11:30",
+      "inicio_recepcao": "18/11/2026 08:00",
+      "fim_recepcao": "01/12/2026 08:15",
+      "inicio_disputa": "01/12/2026 08:30",
+      "objeto": "Contratação de empresa especializada em fornecimento de mobiliários destinados ao Aeroporto Municipal e ao Terminal Rodoviário de Teixeira de Freitas, a fim de atender as demandas da Secretaria Municipal de Administração.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DpQFd%2FRgD4ngFfruvU%2FFMF64%2Fe9Wu48O4JxO92FvEPo8dr6sYg58blAHBjpf_SHbOU33YTyifQyp8oKhhrhThTxmqIPdtbNRQGOWh4q21lVY%3D",
+      "total_lotes": 13,
+      "total_itens": 13,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "5709610244 CADEIRA LONGARINA 03 LUGARES:Cadeira tipolongarina com 03 (três) lugares, destinada ao uso em ambientes institucionais, administrativos e de atendimento ao público. Deve possuir estrutura em aço cromado de alta resistência, com base fixa em fo",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "5709610244 CADEIRA LONGARINA 03 LUGARES:Cadeira tipolongarina com 03 (três) lugares, destinada ao uso em ambientes institucionais, administrativos e de atendimento ao público. Deve possuir estrutura em aço cromado de alta resistência, com base fixa em formato \"Y\", dotada de 04 (quatro) sapatas para apoio e estabilidade. Assento e encosto em aço perfurado, ambos com estofamento e revestimento em couro sintético tipo PU, em cor a ser definida pela Administração. Deve possuir braços laterais anatômicos em acabamento cromado. A estrutura deverá apresentar acabamento resistente e adequado ao uso contínuo. Capacidade mínima de 150 kg por assento, totalizando capacidade mínima de 450 kg para os três lugares.",
+              "unidade": "Und.",
+              "quantidade": "122,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "2",
+          "titulo": "5709610245 CADEIRA LONGARINA 02 LUGARES, COM ESTRUTURA CROMADA E ESTOFAMENTO:Cadeira tipolongarina com capacidade para 02 (dois) lugares, destinada à utilização em ambientes institucionais, administrativos, recepções e áreas de espera. Estrutura confecci",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "5709610245 CADEIRA LONGARINA 02 LUGARES, COM ESTRUTURA CROMADA E ESTOFAMENTO:Cadeira tipolongarina com capacidade para 02 (dois) lugares, destinada à utilização em ambientes institucionais, administrativos, recepções e áreas de espera. Estrutura confeccionada em aço de alta resistência, com acabamento cromado, composta por base fixa em formato \"Y\", com 04 (quatro) sapatas de apoio. Assento e encosto confeccionados em aço perfurado, com estofamento revestido em couro sintético tipo PU, em cor a ser definida pela Administração. Deverá possuir apoios de braços laterais, com formato anatômico e acabamento cromado. O conjunto deverá apresentar acabamento uniforme, resistência e estabilidade adequadas ao uso contínuo. Capacidade mínima de 150 kg por assento, totalizando capacidade mínima de 300 kg para o conjunto. Produto novo, sem uso anterior, entregue montado ou acompanhado de todos os componentes necessários à montagem e utilização.",
+              "unidade": "Und.",
+              "quantidade": "10,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "3",
+          "titulo": "5709610246 CADEIRA GIRATÓRIA TIPO DIRETOR COMBRAÇOS:Cadeira giratória para escritório, tipo diretor, com assento e encosto liso, estofados em espuma injetada, proporcionando conforto e suporte adequado durante o uso. Deve possuir base giratória em ferro,",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "5709610246 CADEIRA GIRATÓRIA TIPO DIRETOR COMBRAÇOS:Cadeira giratória para escritório, tipo diretor, com assento e encosto liso, estofados em espuma injetada, proporcionando conforto e suporte adequado durante o uso. Deve possuir base giratória em ferro, com capa plástica de acabamento, sistema Relax para regulagem e inclinação do encosto, permitindo ajuste conforme a necessidade do usuário, e apoios de braços fixos em polipropileno. Regulagem de altura do assento por meio de pistão a gás, com acionamento por alavanca. Revestimento do assento e encosto em tecido ou couro ecológico, em acabamento compatível com uso em ambiente administrativo. Estrutura resistente e adequada ao uso contínuo em escritório",
+              "unidade": "Und.",
+              "quantidade": "14,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "4",
+          "titulo": "5709610247 CADEIRA EMPILHÁVEL EMPOLIPROPILENO:Cadeira de uso geral, confeccionada em polipropileno injetado, resistente e adequada para utilização em ambientes internos e externos, com acabamento uniforme e superfície de fácil limpeza. Deverá possuir sis",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "5709610247 CADEIRA EMPILHÁVEL EMPOLIPROPILENO:Cadeira de uso geral, confeccionada em polipropileno injetado, resistente e adequada para utilização em ambientes internos e externos, com acabamento uniforme e superfície de fácil limpeza. Deverá possuir sistema que permita o empilhamento de até 05 (cinco) unidades, para facilitar o armazenamento. Na cor areia/bege. Capacidade máxima recomendável de 154 kg. Dimensões aproximadas de 805 mm de altura, 460 mm de largura e 550 mm de comprimento, com peso aproximado de 3,425 kg por unidade. Produto novo, sem uso anterior, com estrutura íntegra, estável e sem deformações. Modelo de referência: Cadeira Tramontina Summa Anna em Polipropileno, admitindo-se produto equivalente ou de qualidade igual ou superior.",
+              "unidade": "Und.",
+              "quantidade": "16,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "5",
+          "titulo": "5709610248 ESTOFADO PARA BOOTH 02 LUGARES:Estofadotipo booth, com assento e encosto estofados, revestimento em corino liso na cor bege, estrutura resistente e acabamento adequado para uso em ambientes internos, especialmente áreas de alimentação, recepçã",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "5709610248 ESTOFADO PARA BOOTH 02 LUGARES:Estofadotipo booth, com assento e encosto estofados, revestimento em corino liso na cor bege, estrutura resistente e acabamento adequado para uso em ambientes internos, especialmente áreas de alimentação, recepção e convivência. Deverá apresentar dimensões aproximadas de 1.200 mm de largura, 650 mm de profundidade e 683 mm de altura, conforme dimensões de referência apresentadas na imagem, admitindo-se variações compatíveis com o padrão construtivo do produto. Peso aproximado de 26 kg. O assento deverá apresentar altura aproximada de 150 mm, conforme referência dimensional.Estofamento firme e adequadamente fixado à estrutura, com acabamento uniforme e sem rasgos, deformações ou imperfeições. Modelo de referência: Estofado para Booth Tramontina Piazza com Estofado em Corino Liso Bege 1,2 m, admitindo-se produto equivalente ou de qualidade igual ou superior.",
+              "unidade": "Und.",
+              "quantidade": "11,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "6",
+          "titulo": "5709610249 MESA QUADRADA:Mesa quadrada com tampo em madeira Tauari com acabamento envernizado e base em alumínio, destinada à utilização em ambientes internos, áreas de alimentação, recepção e convivência. Deverá possuir tampo quadrado com aproximadamente",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "5709610249 MESA QUADRADA:Mesa quadrada com tampo em madeira Tauari com acabamento envernizado e base em alumínio, destinada à utilização em ambientes internos, áreas de alimentação, recepção e convivência. Deverá possuir tampo quadrado com aproximadamente 600 mm de largura e 600 mm de comprimento, apoiado sobre base central em alumínio com aproximadamente 570 mm de largura/profundidade na área de apoio, proporcionando estabilidade ao conjunto. Altura de referência de aproximadamente 750 mm. Deverá apresentar ainda altura aproximada de 794 mm, largura aproximada de 425 mm, comprimento aproximado de 425 mm e peso aproximado de 10,505 kg, admitindo-se variações compatíveis com o padrão construtivo do produto. O tampo deverá apresentar acabamento uniforme, bordas devidamente acabadas e superfície sem rebarbas, rachaduras ou imperfeições. Produto novo e sem uso anterior. Modelo de referência: Mesa Quadrada Tramontina Piazza com Tampo de Madeira Tauari com Acabamento Envernizado Amêndoa e Base de Alumínio 60 cm, admitindo-se produto equivalente ou de qualidade igual ou superior.",
+              "unidade": "Und.",
+              "quantidade": "9,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "7",
+          "titulo": "5709610250 MESA PARA REFEITÓRIO 04 LUGARES COMENCOSTO:Mesa para refeitório com capacidade para 04 (quatro) usuários, composta por tampo e bancos individuais  fixos, com encosto, integrados à estrutura. Tampo confeccionado em MDF com reengrossamento, tota",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "5709610250 MESA PARA REFEITÓRIO 04 LUGARES COMENCOSTO:Mesa para refeitório com capacidade para 04 (quatro) usuários, composta por tampo e bancos individuais fixos, com encosto, integrados à estrutura. Tampo confeccionado em MDF com reengrossamento, totalizando 30 mm de espessura, revestido em ambas as faces com laminado melamínico de alta resistência, acabamento madeirado, adequado ao uso em ambientes de alimentação e de fácil higienização. Estrutura confeccionada em tubo de aço carbono com seção retangular de 50 x 30 mm e espessura de parede de 1,20 mm, dimensionada para proporcionar resistência e estabilidade ao conjunto, com acabamento em pintura eletrostática a pó, tipo epóxi, texturizada, na cor preta. Bancos individuais fixos à estrutura, dotados de encosto, proporcionando acomodação para 04 (quatro) pessoas. Dimensões aproximadas do conjunto montado: 1,30 m de largura x 1,60 m de profundidade x 0,75 m de altura, admitindo-se variação dimensional de até 5%, desde que preservadas as características de utilização, estabilidade e capacidade do conjunto. Produto novo, sem uso, com acabamento uniforme, sem rebarbas, cantos ou elementos que possam comprometer a segurança dos usuários.",
+              "unidade": "Und.",
+              "quantidade": "32,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "8",
+          "titulo": "5709610251 MESA DE TRABALHO EM L, MEDINDOAPROXIMADAMENTE 1,60 M X 1,37 M:Mesa tipo estação de trabalho em formato L, destinada a atividades administrativas e de escritório, com tampo confeccionado em MDP, com espessura mínima de 15 mm, revestido em mater",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "5709610251 MESA DE TRABALHO EM L, MEDINDOAPROXIMADAMENTE 1,60 M X 1,37 M:Mesa tipo estação de trabalho em formato L, destinada a atividades administrativas e de escritório, com tampo confeccionado em MDP, com espessura mínima de 15 mm, revestido em material melamínico, com acabamento uniforme e resistente ao uso cotidiano. Deverá possuir estrutura em aço, com tratamento e pintura eletrostática a pó, tipo epóxi, proporcionando resistência e durabilidade.Deverá contar com pés duplos em aço, dotados de detalhe perfurado entre as colunas, e painel de travamento em aço perfurado, garantindo estabilidade e rigidez estrutural.Dimensões aproximadas de 1,60 m de comprimento x 1,37 m de largura, admitindo-se variação dimensional compatível com o padrão de fabricação, desde que preservada a funcionalidade e o formato em L.",
+              "unidade": "Und.",
+              "quantidade": "9,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "9",
+          "titulo": "5709610252 TOTEM CARREGADOR DE CELULARES:Totempara carregamento simultâneo de aparelhos celulares, com  altura mínima de 1,20 m, capacidade para acomodação e carregamento de no mínimo 15 (quinze) celulares simultaneamente. Alimentação elétrica bivolt (11",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "5709610252 TOTEM CARREGADOR DE CELULARES:Totempara carregamento simultâneo de aparelhos celulares, com altura mínima de 1,20 m, capacidade para acomodação e carregamento de no mínimo 15 (quinze) celulares simultaneamente. Alimentação elétrica bivolt (110/220 V), compatível com a tensão da rede, contendo, no mínimo, 06 (seis) tomadas de 10 A, padrão de 03 (três) pinos, e 03 (três) cabos múltiplos, cada um com, no mínimo, 03 (três) conectores, sendo 01 (um) USB-C, 01 (um) Micro USB (V8) e 01 (um) Lightning.Deverá possuir suportes individuais para acomodação dos aparelhos celulares, integrados à estrutura do equipamento. Deverá dispor de chave liga/desliga iluminada e sistema de proteção elétrica. Estrutura confeccionada em aço carbono, com pintura eletrostática a pó, resistente ao uso contínuo. Base com dimensões mínimas de 56 x 56 cm, dotada de 04 (quatro) estabilizadores ou apoios equivalentes, e pés com proteção em borracha ou feltro, para evitar danos ou riscos ao piso. Deverá acompanhar cabo de alimentação elétrica com comprimento mínimo de 2,50 m. O equipamento deverá ser fornecido completo, montado e pronto para utilização, incluindo todos os cabos, conectores, componentes e acessórios necessários aoseu funcionamento.",
+              "unidade": "Und.",
+              "quantidade": "12,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "10",
+          "titulo": "7101000059 POLTRONA  EXECUTIVA:modelo interlocutor, com encosto e assento estofados, braços laterais, base fixa em estrutura metálica com acabamento cromado, destinada ao uso em ambientes administrativos. Revestimento resistente e de fácil higienização, c",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "7101000059 POLTRONA EXECUTIVA:modelo interlocutor, com encosto e assento estofados, braços laterais, base fixa em estrutura metálica com acabamento cromado, destinada ao uso em ambientes administrativos. Revestimento resistente e de fácil higienização, com acabamento de qualidade e estrutura adequada ao uso contínuo.",
+              "unidade": "Und.",
+              "quantidade": "30,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "11",
+          "titulo": "7101000060 CLAVICULÁRIO DE AÇO OU FERRO PARA 36CHAVES:Claviculário de Ferro para 36 posições, para o controle rígido de chaves. Fabricado em aço resistente e com pintura eletrostática. TIPO DE INSTALAÇÃO: fixado na parede. Deve possuir: 36 porta-chaves c",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "7101000060 CLAVICULÁRIO DE AÇO OU FERRO PARA 36CHAVES:Claviculário de Ferro para 36 posições, para o controle rígido de chaves. Fabricado em aço resistente e com pintura eletrostática. TIPO DE INSTALAÇÃO: fixado na parede. Deve possuir: 36 porta-chaves com etiquetas identificadoras, fechadura com 2 chaves e parafusos e porcas para fixação.",
+              "unidade": "Und.",
+              "quantidade": "3,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "12",
+          "titulo": "9900830657 ARMÁRIO MULTIUSO 2 PORTAS:contém Chave e4 pés reguláveis com dimensões aproximadas de altura 186 cm x largura 61 cm x profundidade 39 cm, Material MDF. Cores diversas.",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900830657 ARMÁRIO MULTIUSO 2 PORTAS:contém Chave e4 pés reguláveis com dimensões aproximadas de altura 186 cm x largura 61 cm x profundidade 39 cm, Material MDF. Cores diversas.",
+              "unidade": "Und.",
+              "quantidade": "20,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "13",
+          "titulo": "9900830658 SUPORTE PARA CPU/GABINETE COMRODÍZIO:Composto por Material MD/MDF 15 mm, revestimento metalininico, 4 rodízios, com prateleira, medidas aproximadas de altura 40 cm x largura 28 cm x profundidade 42 cm. Cores diversas.",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900830658 SUPORTE PARA CPU/GABINETE COMRODÍZIO:Composto por Material MD/MDF 15 mm, revestimento metalininico, 4 rodízios, com prateleira, medidas aproximadas de altura 40 cm x largura 28 cm x profundidade 42 cm. Cores diversas.",
+              "unidade": "Und.",
+              "quantidade": "20,00",
+              "valor_referencia": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-204-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "1185 / 2026",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "PUBLICADO",
+      "condutor": "SERGIO CARNEIRO CAVALCANTI DE AZEVEDO",
       "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
       "tipo_contrato": "AQUISIÇÃO",
-      "publicacao": "03/06/2025 16:35",
-      "inicio_recepcao": "13/06/2025 08:00",
-      "fim_recepcao": "15/06/2026 08:00",
-      "inicio_disputa": "",
-      "objeto": "CREDENCIAMENTO DE PESSOA JURÍDICA PARA PRESTAÇÃO DE SERVIÇOS MÉDICOS ESPECIALIZADOS EM ANÁLISE PATOLÓGICA PARA ATENDER AS DEMANDAS DA SECRETARIA MUNICIPAL DE SAÚDE",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DYXbk0fu%2FMvNe4%2F8BstTNPzwL_QDnjIyimtZ60oP7hRh8EnapSDvCaImEX7oX_v_Xy4bEiSiOck98Qlhru3JJn0vJ5F60QovkVYDvSMh_4uA%3D",
+      "publicacao": "16/11/2026 11:11",
+      "inicio_recepcao": "18/11/2026 08:30",
+      "fim_recepcao": "01/12/2026 08:15",
+      "inicio_disputa": "01/12/2026 08:30",
+      "objeto": "Contratação de empresa especializada em fornecimento de CAMAS HOSPITALARES, CADEIRAS DE RODAS E CADEIRAS DE BANHO (material permanente), a fim de atender as demandas da Secretaria Municipal de Saúde.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DagLNEdaeiaGwl4tgFy7PRT4TsFroH5Pl0_nY9o9HL%2FhgIsBVzQkQNPUKeDq0HUXemejo_XooAFpNLZZgB590GexilLyRtf2I89q%2F71hbSsw%3D",
+      "total_lotes": 4,
+      "total_itens": 4,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "9900830659 CAMA HOSPITALAR COM ELEVAÇÃO E 3MANIVELAS:Cama hospitalar com sistema de elevação manual acionado por 3manivelas, permitindo os movimentos Fowler, Semi-fowler, flexão de pernas, cardíaco e dorsal. Com cabeceira e peseira removíveis em PEAD, gr",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900830659 CAMA HOSPITALAR COM ELEVAÇÃO E 3MANIVELAS:Cama hospitalar com sistema de elevação manual acionado por 3manivelas, permitindo os movimentos Fowler, Semi-fowler, flexão de pernas, cardíaco e dorsal. Com cabeceira e peseira removíveis em PEAD, grades laterais de segurança, injetadas, rebatíveis e fabricada em aço SAE 1020 com pintura eletrostática. Pés com rodízios diagonais com freios e suporte para soro. Dimensões aproximadas: Altura da cabeceira/peseira: 115,5 cm; Altura mínima: 102 cm; Largura total (com grades): 97,5 cm; Comprimento total:198 cm; Altura do leito: de 52 cm a 65 cm; Comprimento do leito: 188 cm; Largura do leito: 87 cm; Capacidade de suporte de até 200 quilos.",
+              "unidade": "Und.",
+              "quantidade": "30,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "2",
+          "titulo": "37880 CADEIRA DE BANHO HOSPITALAR::Estrutura em açocarbono com pintura epóxi contra corrosão e umidade no contato direto com água. Capacidade de 120 kg de peso máximo suportado distribuídos em um assento com 46 cm de largura para acomodação. Freios com p",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37880 CADEIRA DE BANHO HOSPITALAR::Estrutura em açocarbono com pintura epóxi contra corrosão e umidade no contato direto com água. Capacidade de 120 kg de peso máximo suportado distribuídos em um assento com 46 cm de largura para acomodação. Freios com pedais nas rodas traseiras que imobilizam a cadeira para a transferência segura do usuário.Dimensões aproximadas: Largura do Assento: 46 cm; Largura Total: 56 cm; Altura do Encosto: 46cm; Altura do Assento ao Chão: 50 cm; Altura do Chão á manopla: 89 cm; Altura do Chão ao Apoio de Braço: 68 cm; Altura do assento ao Apoio de Braço: 19 cm; Comprimento Total da Cadeira: 88 cm.",
+              "unidade": "Und.",
+              "quantidade": "13,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "3",
+          "titulo": "9900830660 CADEIRA DE RODAS - OBESO::Cadeira de rodasmanual dobrável em aço carbono com estrutura resistente, assento e encosto confortáveis, apoio para braços e pés, rodas com sistema de movimentação e freios de Segurança. Largura do assento: 62 cm. Cap",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900830660 CADEIRA DE RODAS - OBESO::Cadeira de rodasmanual dobrável em aço carbono com estrutura resistente, assento e encosto confortáveis, apoio para braços e pés, rodas com sistema de movimentação e freios de Segurança. Largura do assento: 62 cm. Capacidade: Peso acima de 180 Kg",
+              "unidade": "Und.",
+              "quantidade": "17,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "4",
+          "titulo": "37881 CADEIRA DE RODAS - PADRÃO::Cadeira de rodas manual dobrável em aço carbono com estrutura resistente, assento e encosto confortáveis, apoio para braços e pés, rodas com sistema de movimentação e freios de Segurança. Largura do assento 44 cm. Capacida",
+          "fase": "PUBLICADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37881 CADEIRA DE RODAS - PADRÃO::Cadeira de rodas manual dobrável em aço carbono com estrutura resistente, assento e encosto confortáveis, apoio para braços e pés, rodas com sistema de movimentação e freios de Segurança. Largura do assento 44 cm. Capacidade: Peso até de 120 Kg. Dimensões: Medidas da cadeira montada: (C x L x A): aprox. 99 x 59 x89cm; Medidas da cadeira dobrada (C x L x A): aprox. 78 x28 x 74,5cm.",
+              "unidade": "Und.",
+              "quantidade": "18,00",
+              "valor_referencia": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-202-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "1136 / 2026",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "RECEPÇÃO DE PROPOSTAS",
+      "condutor": "SERGIO CARNEIRO CAVALCANTI DE AZEVEDO",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO PARCELADA",
+      "publicacao": "12/11/2026 17:15",
+      "inicio_recepcao": "16/11/2026 08:00",
+      "fim_recepcao": "27/11/2026 08:15",
+      "inicio_disputa": "27/11/2026 08:30",
+      "objeto": "Contratação de empresa especializada em fornecimento de materiais de madeira destinados principalmente à execução de obras, instalações, reparos e manutenção de prédios públicos,  a fim de atender as demandas da Secretaria Municipal de Infraestrutura e Serviços Urbanos.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DEgcFsloJKNALKxlS8jdGsDq5uJYrnE5S6%2Fr0bNv9Cy6oBY11B70EBqBWaGWW0gqoBdW99xfBq1ZP1IZM8twBiFoLYPwAqumm7XgOZS1u9qE%3D",
       "total_lotes": 6,
       "total_itens": 6,
       "lotes": [
         {
           "numero": "1",
-          "titulo": "33436 BIÓPSIA SIMPLES",
-          "fase": "HABILITAÇÃO",
+          "titulo": "9900516422 ESCORA DE EUCALIPTO:com diâmetroaproximado de 6 cm e comprimento de 6,00 metros, em madeira resistente e em condições adequadas de uso.",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900516422 ESCORA DE EUCALIPTO:com diâmetroaproximado de 6 cm e comprimento de 6,00 metros, em madeira resistente e em condições adequadas de uso.",
+              "unidade": "Und.",
+              "quantidade": "450,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "2",
+          "titulo": "9900516423 JOGO DE ALIZAR EM MADEIRA MISTA:compostopor 06 (seis) peças, com largura aproximada de 7 cm.",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900516423 JOGO DE ALIZAR EM MADEIRA MISTA:compostopor 06 (seis) peças, com largura aproximada de 7 cm.",
+              "unidade": "JOG",
+              "quantidade": "150,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "3",
+          "titulo": "9900516424 TÁBUA DE PINUS:madeira de espécie Pinus, com dimensões aproximadas de 3,00 m de comprimento × 15 cm de largura × 2 cm de espessura, destinada a serviços de manutenção, reparos e execução de estruturas. A madeira deverá apresentar-se seca, ínteg",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900516424 TÁBUA DE PINUS:madeira de espécie Pinus, com dimensões aproximadas de 3,00 m de comprimento × 15 cm de largura × 2 cm de espessura, destinada a serviços de manutenção, reparos e execução de estruturas. A madeira deverá apresentar-se seca, íntegra, sem rachaduras, empenamentos excessivos, apodrecimento ou defeitos que comprometam sua utilização, com acabamento compatível com a finalidade do material.",
+              "unidade": "Und.",
+              "quantidade": "420,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "4",
+          "titulo": "9900516425 TÁBUA DE PINUS:madeira de espécie Pinus, com dimensões aproximadas de 3,00 m de comprimento × 20 cm de largura × 2 cm de espessura, destinada a serviços de manutenção, reparos e execução de estruturas. A madeira deverá apresentar-se seca, ínteg",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900516425 TÁBUA DE PINUS:madeira de espécie Pinus, com dimensões aproximadas de 3,00 m de comprimento × 20 cm de largura × 2 cm de espessura, destinada a serviços de manutenção, reparos e execução de estruturas. A madeira deverá apresentar-se seca, íntegra, sem rachaduras, empenamentos excessivos, apodrecimento ou defeitos que comprometam sua utilização, com acabamento compatível com a finalidade do material.",
+              "unidade": "Und.",
+              "quantidade": "480,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "5",
+          "titulo": "9900516426 TÁBUA DE PINUS:madeira de espécie Pinus, com dimensões aproximadas de 3,00 m de comprimento × 30 cm de largura × 2 cm de espessura, destinada a serviços de manutenção, reparos e execução de estruturas. A madeira deverá apresentar-se seca, ínteg",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900516426 TÁBUA DE PINUS:madeira de espécie Pinus, com dimensões aproximadas de 3,00 m de comprimento × 30 cm de largura × 2 cm de espessura, destinada a serviços de manutenção, reparos e execução de estruturas. A madeira deverá apresentar-se seca, íntegra, sem rachaduras, empenamentos excessivos, apodrecimento ou defeitos que comprometam sua utilização, com acabamento compatível com a finalidade do material.",
+              "unidade": "Und.",
+              "quantidade": "600,00",
+              "valor_referencia": ""
+            }
+          ]
+        },
+        {
+          "numero": "6",
+          "titulo": "9900516427 TÁBUA DE PINUS:madeira de espécie Pinus, com dimensões aproximadas de 3,00 m de comprimento × 30 cm de largura × 4 cm de espessura, destinada a serviços de manutenção, reparos e execução de estruturas. A madeira deverá apresentar-se seca, ínteg",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900516427 TÁBUA DE PINUS:madeira de espécie Pinus, com dimensões aproximadas de 3,00 m de comprimento × 30 cm de largura × 4 cm de espessura, destinada a serviços de manutenção, reparos e execução de estruturas. A madeira deverá apresentar-se seca, íntegra, sem rachaduras, empenamentos excessivos, apodrecimento ou defeitos que comprometam sua utilização, com acabamento compatível com a finalidade do material.",
+              "unidade": "Und.",
+              "quantidade": "350,00",
+              "valor_referencia": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-141-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "801 / 2026",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "CANCELADO",
+      "condutor": "JONATAS DA SILVA SOUSA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO",
+      "publicacao": "27/08/2026 17:04",
+      "inicio_recepcao": "31/08/2026 08:00",
+      "fim_recepcao": "18/09/2026 08:15",
+      "inicio_disputa": "18/09/2026 08:30",
+      "objeto": "Contratação de empresa especializada em prestação de serviço de MONITORAMENTO E RASTREAMENTO\nVEICULAR COM FORNECIMENTO, EM REGIME DE COMODATO, DOS EQUIPAMENTOS RASTREADORES E ACESSÓRIOS, a fim de atender as demandas da Secretaria Municipal de Administração e demais Secretarias.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DsBW6m95BTN2f_Lvx8hmjlLRBGbdft%2FQo24TMMXeUmwMMWj1OAztj8wCSuRc_peuL6GP0v6ujBsiS4i2S3Ka9CNa8izmDmhghcMlMhY18sw4%3D",
+      "total_lotes": 1,
+      "total_itens": 1,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "MONITORAMENTO VEICULO",
+          "fase": "CANCELADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "201.548,16",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9903312120 Rastreamento e monitoramento veicular:destinadosà gestão da frota de frota, por meio de sistema informatizado emplataforma web e aplicativo móvel, com monitoramento emtempo real, dos deslocamentos, paradas, velocidades, eventos edemais informações operacionais da frota, emissão de relatóriosgerenciais e transmissão de dados por tecnologiaGPS/GSM/GPRS ou superior, contemplando o fornecimento, emregime de comodato, dos equipamentos rastreadores, acessóriose demais componentes necessários ao pleno funcionamento dasolução, incluindo conectividade de dados, instalação,configuração, ativação, manutenção preventiva e corretiva,substituição de equipamentos quando necessária,disponibilização de sistema web para até 5 usuários simultâneos,suporte técnico e garantia de funcionamento durante toda avigência contratual.",
+              "unidade": "SER",
+              "quantidade": "264,00",
+              "valor_referencia": "763,44"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CD-005-2025",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "758/2025",
+      "modalidade": "CREDENCIAMENTO",
+      "situacao": "SUSPENSO",
+      "condutor": "MAGDA DE SELES GUIMARÃES",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO",
+      "publicacao": "03/06/2025 11:48",
+      "inicio_recepcao": "13/06/2025 08:00",
+      "fim_recepcao": "15/06/2026 00:00",
+      "inicio_disputa": "",
+      "objeto": "Credenciamento de pessoa jurídica para PRESTAÇÃO DE SERVIÇOS\n MÉDICOS ESPECIALIZADOS EM ANÁLISE PATOLÓGICA para atender as demandas da\n Secretaria Municipal de Saúde.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5Dwm1nqt9nZE7oiOGOUZGOtqZJriS3nz7%2FhXKJEfEnZBwMABf8veVwoR9Z_xkYqod6lF6YtWGnqchfIx2x5%2FJfMJm77R_JRfKMTaieQUt89kY%3D",
+      "total_lotes": 9,
+      "total_itens": 9,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "33436 BIÓPSIA SIMPLES:BIÓPSIA SIMPLES",
+          "fase": "SUSPENSO",
           "tipo": "UNITÁRIO",
           "quantidade": "1",
           "intervalo_minimo": "0,00",
           "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
+          "local_entrega": "",
+          "garantia": "",
           "valor_referencia": "60,19",
           "vencedor": "",
           "melhor_oferta": "0,00",
@@ -323537,21 +323985,45 @@
               "numero": "1",
               "especificacao": "33436 BIÓPSIA SIMPLES:BIÓPSIA SIMPLES",
               "unidade": "SERV",
-              "quantidade": "2.500,00",
+              "quantidade": "1.875,00",
               "valor_referencia": "60,19"
             }
           ]
         },
         {
           "numero": "2",
-          "titulo": "9903311392 CITOLOGIA EM MEIO LIQUIDO",
-          "fase": "HABILITAÇÃO",
+          "titulo": "909911235 BIOPSIA SIMPLES:BIÓPSIA SIMPLES. COTA DE 25% RESERVADA PARA  ME/EPP.",
+          "fase": "SUSPENSO",
           "tipo": "UNITÁRIO",
           "quantidade": "1",
           "intervalo_minimo": "0,00",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
+          "exclusivo_me": "SIM",
+          "local_entrega": "",
+          "garantia": "",
+          "valor_referencia": "60,19",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "909911235 BIOPSIA SIMPLES:BIÓPSIA SIMPLES. COTA DE 25% RESERVADA PARA ME/EPP.",
+              "unidade": "SERV",
+              "quantidade": "625,00",
+              "valor_referencia": "60,19"
+            }
+          ]
+        },
+        {
+          "numero": "3",
+          "titulo": "9903311392 CITOLOGIA EM MEIO LIQUIDO - BRONQUIO: CITOLOGIA EM MEIO LIQUIDO - BRONQUIO EXCLUSIVO PARA ME/EPP",
+          "fase": "SUSPENSO",
+          "tipo": "UNITÁRIO",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "SIM",
+          "local_entrega": "",
+          "garantia": "",
           "valor_referencia": "62,25",
           "vencedor": "",
           "melhor_oferta": "0,00",
@@ -323559,7 +324031,7 @@
           "itens": [
             {
               "numero": "1",
-              "especificacao": "9903311392 CITOLOGIA EM MEIO LIQUIDO - BRONQUIO:CITOLOGIA EM MEIO LIQUIDO - BRONQUIO.",
+              "especificacao": "CITOLOGIA EM MEIO LIQUIDO - BRONQUIO: CITOLOGIA EM MEIO LIQUIDO - BRONQUIO EXCLUSIVO PARA ME/EPP",
               "unidade": "SERV",
               "quantidade": "100,00",
               "valor_referencia": "62,25"
@@ -323567,15 +324039,15 @@
           ]
         },
         {
-          "numero": "3",
-          "titulo": "9903311373 COLORAÇÃO ESPECIAL",
-          "fase": "HABILITAÇÃO",
+          "numero": "4",
+          "titulo": "9903311373 COLORAÇÃO ESPECIAL:Marcação da biópsia por corantes especiais. EXCLUSIVO PARA ME/EPP",
+          "fase": "SUSPENSO",
           "tipo": "UNITÁRIO",
           "quantidade": "1",
           "intervalo_minimo": "0,00",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
+          "exclusivo_me": "SIM",
+          "local_entrega": "",
+          "garantia": "",
           "valor_referencia": "33,65",
           "vencedor": "",
           "melhor_oferta": "0,00",
@@ -323583,7 +324055,7 @@
           "itens": [
             {
               "numero": "1",
-              "especificacao": "9903311373 COLORAÇÃO ESPECIAL: Marcação da biópsia por corantes especiais.",
+              "especificacao": "9903311373 COLORAÇÃO ESPECIAL:Marcação da biópsia por corantes especiais. EXCLUSIVO PARA ME/EPP",
               "unidade": "SERV",
               "quantidade": "50,00",
               "valor_referencia": "33,65"
@@ -323591,15 +324063,15 @@
           ]
         },
         {
-          "numero": "4",
-          "titulo": "9903311378 CORE BYOPSY",
-          "fase": "HABILITAÇÃO",
+          "numero": "5",
+          "titulo": "9903311378 CORE BYOPSY:CORE BYOPSY. EXCLUSIVO PARA ME/EPP",
+          "fase": "SUSPENSO",
           "tipo": "UNITÁRIO",
           "quantidade": "1",
           "intervalo_minimo": "0,00",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
+          "exclusivo_me": "SIM",
+          "local_entrega": "",
+          "garantia": "",
           "valor_referencia": "68,46",
           "vencedor": "",
           "melhor_oferta": "0,00",
@@ -323607,7 +324079,7 @@
           "itens": [
             {
               "numero": "1",
-              "especificacao": "9903311378 CORE BYOPSY:CORE BYOPSY.",
+              "especificacao": "9903311378 CORE BYOPSY:CORE BYOPSY. EXCLUSIVO PARA ME/EPP",
               "unidade": "SERV",
               "quantidade": "100,00",
               "valor_referencia": "68,46"
@@ -323615,15 +324087,15 @@
           ]
         },
         {
-          "numero": "5",
-          "titulo": "33437 PEÇA CIRÚRGICA SIMPLES",
-          "fase": "HABILITAÇÃO",
+          "numero": "6",
+          "titulo": "33437 PEÇA CIRÚRGICA SIMPLES:PEÇA CIRÚRGICA SIMPLES",
+          "fase": "SUSPENSO",
           "tipo": "UNITÁRIO",
           "quantidade": "1",
           "intervalo_minimo": "0,00",
           "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
+          "local_entrega": "",
+          "garantia": "",
           "valor_referencia": "75,00",
           "vencedor": "",
           "melhor_oferta": "0,00",
@@ -323633,21 +324105,45 @@
               "numero": "1",
               "especificacao": "33437 PEÇA CIRÚRGICA SIMPLES:PEÇA CIRÚRGICA SIMPLES",
               "unidade": "SERV",
-              "quantidade": "2.500,00",
+              "quantidade": "1.875,00",
               "valor_referencia": "75,00"
             }
           ]
         },
         {
-          "numero": "6",
-          "titulo": "9903311384 PEÇA CIRÚRGICA COMPLEXA",
-          "fase": "HABILITAÇÃO",
+          "numero": "7",
+          "titulo": "9909911236 PEÇA CIRURGICA SIMPLES:PEÇA CIRURGICA SIMPLES. COTA DE 25% RESERVADA PARA ME/EPP",
+          "fase": "SUSPENSO",
+          "tipo": "UNITÁRIO",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "SIM",
+          "local_entrega": "",
+          "garantia": "",
+          "valor_referencia": "75,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9909911236 PEÇA CIRURGICA SIMPLES:PEÇA CIRURGICA SIMPLES. COTA DE 25% RESERVADA PARA ME/EPP",
+              "unidade": "SERV",
+              "quantidade": "625,00",
+              "valor_referencia": "75,00"
+            }
+          ]
+        },
+        {
+          "numero": "8",
+          "titulo": "9903311384 PEÇA CIRÚRGICA COMPLEXA:PEÇA CIRÚRGICA COMPLEXA",
+          "fase": "SUSPENSO",
           "tipo": "UNITÁRIO",
           "quantidade": "1",
           "intervalo_minimo": "0,00",
           "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
+          "local_entrega": "",
+          "garantia": "",
           "valor_referencia": "243,42",
           "vencedor": "",
           "melhor_oferta": "0,00",
@@ -323657,7 +324153,31 @@
               "numero": "1",
               "especificacao": "9903311384 PEÇA CIRÚRGICA COMPLEXA:PEÇA CIRÚRGICA COMPLEXA",
               "unidade": "UN",
-              "quantidade": "1.500,00",
+              "quantidade": "1.125,00",
+              "valor_referencia": "243,42"
+            }
+          ]
+        },
+        {
+          "numero": "9",
+          "titulo": "9909911237 PEÇA CIRURGICA COMPLEXA:PEÇA CIRURGICA COMPLEXA. COTA DE  25%  RESERVADA PARA ME/EPP.",
+          "fase": "SUSPENSO",
+          "tipo": "UNITÁRIO",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "SIM",
+          "local_entrega": "",
+          "garantia": "",
+          "valor_referencia": "243,42",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9909911237 PEÇA CIRURGICA COMPLEXA:PEÇA CIRURGICA COMPLEXA. COTA DE 25% RESERVADA PARA ME/EPP.",
+              "unidade": "SERV",
+              "quantidade": "375,00",
               "valor_referencia": "243,42"
             }
           ]
@@ -323669,38 +324189,38 @@
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "705/2024",
       "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "HOMOLOGADO",
-      "condutor": "MAGDA DE SELES GUIMARÃES",
+      "situacao": "SUSPENSO",
+      "condutor": "VICTOR KINIDEL DETHLING",
       "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
       "tipo_contrato": "AQUISIÇÃO",
-      "publicacao": "13/06/2024 18:49",
-      "inicio_recepcao": "14/06/2024 08:00",
-      "fim_recepcao": "10/07/2024 13:45",
-      "inicio_disputa": "10/07/2024 14:00",
-      "objeto": "O objeto da presente licitação é a contratação de INSTITUIÇÃO FINANCEIRA ESPECIALIZADA NA PRESTAÇÃO DE SERVIÇOS BANCÁRIOS PARA CENTRALIZAÇÃO, GERENCIAMENTO E PROCESSAMENTO DE CRÉDITOS DA FOLHA DE PAGAMENTO DOS SERVIDORES, a fim de atender as demandas da Secretaria Municipal de Administração, conforme condições, quantidades e especificações no Edital, Termo de Referência e seus Anexos.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DOHWMSK5gctmtu5N_XpnJi%2F5HjPRWcLQSLNquxRwHqdiMIB7extkNahYIMEqKYne98yvrbVoSa0IZKlLgfdfxAmoem_n7s7aND3gnDCqq3uc%3D",
+      "publicacao": "15/05/2024 18:26",
+      "inicio_recepcao": "16/05/2024 08:00",
+      "fim_recepcao": "12/06/2024 09:45",
+      "inicio_disputa": "12/06/2024 10:00",
+      "objeto": "Contratação de instituição financeira para prestação de serviços bancários para centralização, gerenciamento e processamento de créditos da folha de pagamento dos servidores, a fim de atender as demandas da Prefeitura de Teixeira de Freitas, conforme condições, quantidades e especificações no Edital, Termo de Referência e seus Anexos.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5D8UmM45ipjYiIibWcdAb4sp1cZ_1kJCr5gLtDQX_KULpjsvwK1OzeWwDvi1ZudA1EmC%2FWMjxrxClu2FXwbiwlbbOhyXA0GeHOdDpO4n1Ih3k%3D",
       "total_lotes": 1,
       "total_itens": 1,
       "lotes": [
         {
           "numero": "1",
-          "titulo": "SERVIÇOS BANCÁRIOS",
-          "fase": "HOMOLOGADO",
-          "tipo": "GLOBAL",
+          "titulo": "LOTE 01",
+          "fase": "SUSPENSO",
+          "tipo": "UNITÁRIO",
           "quantidade": "1",
-          "intervalo_minimo": "0,01",
+          "intervalo_minimo": "100,00",
           "exclusivo_me": "NÃO",
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "6.052.150,00",
-          "vencedor": "ITAÚ UNIBANCO S.A.",
-          "melhor_oferta": "6.053.000,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
           "total_itens": 1,
           "itens": [
             {
               "numero": "1",
               "especificacao": "CONTRATAÇÃO DE INSTITUIÇÃO FINANCEIRA: ESPECIALIZADA NA PRESTAÇÃO DE SERVIÇOS BANCÁRIOS PARA CENTRALIZAÇÃO, GERENCIAMENTO E PROCESSAMENTO DE CRÉDITOS DA FOLHA DE PAGAMENTO DOS SERVIDORES DA PREFEITURA MUNICIPAL DE TEIXEIRA DE FREITAS/BA.",
-              "unidade": "UN",
+              "unidade": "SERVIÇO",
               "quantidade": "1,00",
               "valor_referencia": "6.052.150,00"
             }
