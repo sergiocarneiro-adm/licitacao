@@ -1,10 +1,10 @@
 {
   "metadata": {
     "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-    "total_processos": 972,
-    "total_lotes": 10656,
-    "total_itens": 17679,
-    "atualizado_em": "20261118_214318"
+    "total_processos": 974,
+    "total_lotes": 10662,
+    "total_itens": 17779,
+    "atualizado_em": "20261123_225432"
   },
   "processos": [
     {
@@ -290767,7 +290767,7 @@
         {
           "numero": "23",
           "titulo": "5707611201 NOBREAK 3200VA:Nobreak com potência mínima de 3200 VA, microprocessado, destinado à proteção e alimentação de equipamentos de informática, servidores, switches, roteadores e periféricos. Deverá possuir entrada e saída bivolt ou compatível com a",
-          "fase": "RECEPÇÃO DE CONTRARRAZÕES",
+          "fase": "JULGAMENTO DE RECURSOS",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -292866,7 +292866,7 @@
       "publicacao": "27/07/2026 12:47",
       "inicio_recepcao": "28/07/2026 08:00",
       "fim_recepcao": "01/09/2026 08:15",
-      "inicio_disputa": "23/11/2026 17:20",
+      "inicio_disputa": "24/11/2026 17:20",
       "objeto": "Contratação de empresa especializada em execução de obras de construção de quatro portais nas entradas do município de Teixeira de Freitas – BA.",
       "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5D_wPwFwGo3aykIbK7J5NEGviorids0eEZJT6ChyrHSxE9644WfXIuVaa_ENqXcrug14fUdgx0yAIvfkQv6%2F0oeWuHcvvN3CiT0XDcybbj9qs%3D",
       "total_lotes": 1,
@@ -292945,7 +292945,7 @@
       "publicacao": "03/06/2026 17:18",
       "inicio_recepcao": "05/06/2026 08:00",
       "fim_recepcao": "15/07/2026 08:15",
-      "inicio_disputa": "23/11/2026 17:20",
+      "inicio_disputa": "24/11/2026 17:20",
       "objeto": "Contratação de empresa especializada em execução de obras de construção de um Centro Educacional, com piscina anexa, localizado no bairro Caminho do Mar, no município de Teixeira de Freitas – BA.",
       "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DBTf093OxMfBdaTg7QVFQEllYzFQcNJMPmzUcH4389puO%2FTRoPZ84alI%2FpDqANFau8XHf4uiNe7cc_t3ncihkDPZbGyJbbvZlNtF68nuz1w4%3D",
       "total_lotes": 1,
@@ -293045,7 +293045,7 @@
       "publicacao": "03/06/2026 15:51",
       "inicio_recepcao": "14/07/2026 08:00",
       "fim_recepcao": "18/08/2026 08:15",
-      "inicio_disputa": "23/11/2026 17:20",
+      "inicio_disputa": "24/11/2026 17:20",
       "objeto": "Contratação de empresa especializada em execução de obras de construção de uma escola de tempo integral de educação fundamental, no bairro Liberdade Sul, do município de Teixeira de Freitas – BA.",
       "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DR6DoWpnl2%2FkdVbk0%2FM5Zb0zAWZQOUWxFGO8PKkgaYok6aLbHusQd12nAjvHhC3TIiE52bn2BU_HrqpIrKMB6wXEj4VbfsZQPDR%2FqSEESYQo%3D",
       "total_lotes": 1,
@@ -302068,57 +302068,6 @@
       ]
     },
     {
-      "id": "PE-169-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "710/2026",
-      "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "HABILITAÇÃO",
-      "condutor": "SERGIO CARNEIRO CAVALCANTI DE AZEVEDO",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO PARCELADA",
-      "publicacao": "02/10/2026 10:47",
-      "inicio_recepcao": "06/10/2026 08:00",
-      "fim_recepcao": "21/10/2026 08:15",
-      "inicio_disputa": "21/10/2026 08:30",
-      "objeto": "Contratação de empresa especializada em prestação de serviço de LIMPEZA DE FOSSA SÉPTICA, INCLUINDO LOCAÇÃO DE CAMINHÕES LIMPA-FOSSA, a fim de atender as demandas da Secretaria Municipal de Infraestrutura e Serviços Urbanos.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DPR2NpteI9VZ5I44tAPVHNDV3TAHw8zbVjKZaS6MOZL2Wyn7zFtQ%2FYN8KZZXZNHcMl%2FhD5_vBYDTuKx4kdOTHBl7yMrSO9oJvmzz44Sbc3VI%3D",
-      "total_lotes": 1,
-      "total_itens": 2,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "LIMPEZA FOSSA",
-          "fase": "INTERPOSIÇÃO DE RECURSOS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "2.327.868,00",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 2,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "100200445 PRESTAÇÃO DE SERVIÇOS DE LIMPEZA DEFOSSA SÉPTICA:incluindo locação de caminhão limpa fossa truck com capacidade de 12.000 litros, com bomba de sucção com tamanho mínimo de 30 metros, motor 6 cilindros (motorista/operador, ajudante, combustível, manutenção, seguro e encargos)",
-              "unidade": "HR",
-              "quantidade": "3.600,00",
-              "valor_referencia": "353,83"
-            },
-            {
-              "numero": "2",
-              "especificacao": "37544 PRESTAÇÃO DE SERVIÇOS DE LIMPEZA DE FOSSASÉPTICA:incluindo a locação de caminhão limpa fossa truck com capacidade de 8.000 litros, com bomba de sucção com tamanho mínimo de 30 metros, motor 6 cilindros (motorista/operador, ajudante, combustível, manutenção, seguro e encargo)",
-              "unidade": "HR",
-              "quantidade": "3.600,00",
-              "valor_referencia": "292,80"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "PE-153-2026",
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "854 / 2026",
@@ -310625,94 +310574,6 @@
       ]
     },
     {
-      "id": "PE-192-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "1098 / 2026",
-      "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "RECEPÇÃO DE PROPOSTAS",
-      "condutor": "SERGIO CARNEIRO CAVALCANTI DE AZEVEDO",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO",
-      "publicacao": "05/11/2026 15:18",
-      "inicio_recepcao": "09/11/2026 08:00",
-      "fim_recepcao": "19/11/2026 08:15",
-      "inicio_disputa": "19/11/2026 08:30",
-      "objeto": "Contratação de empresa especializada em fornecimento de GARRAFAS TÉRMICAS (material de consumo), quantidades e demais condições encontram-se detalhadas neste instrumento, a fim de atender as demandas da Secretaria Municipal de Educação.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DejAt8jAtnpW0UzlW7D%2FarEjT3LvRhGFOgL_u1E7QzKKDe5YDDJrSWCLAPZFN43rHO%2FwPDN893jclymc11L1j6z4nZM14etMCS45_JgBKHaU%3D",
-      "total_lotes": 1,
-      "total_itens": 1,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "GARRAFA TÉRMICA",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900516399 GARRAFA TÉRMICA TIPO SQUEEZE,CAPACIDADE NOMINAL DE 950 ML:confeccionada em açoinoxidável ou material de qualidade e desempenho equivalente,resistente à corrosão e próprio para contato com alimentos ebebidas, com parede dupla e isolamento térmico a vácuo,adequada para bebidas quentes e frias. Tampa com fechamentorosqueável ou sistema equivalente, dotada de vedação emsilicone ou material atóxico equivalente, resistente a vazamentos.Componentes em contato com bebidas próprios para usoalimentar e livres de BPA, quando aplicável. Capacidadeaproximada de 950 ml, admitida tolerância técnica de até ±5%.Cor azul royal ou branca, conforme definição da Administração.Deverá permitir personalização com as logomarcas do Municípioe da Secretaria Municipal de Educação, mediante gravação,impressão ou processo equivalente, resistente ao uso e àhigienização",
-              "unidade": "UN",
-              "quantidade": "1.500,00",
-              "valor_referencia": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "2-DLE-116-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "1171/2026",
-      "modalidade": "DISPENSA ELETRÔNICA",
-      "situacao": "JULGAMENTO",
-      "condutor": "JONATAS DA SILVA SOUSA",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO PARCELADA",
-      "publicacao": "30/10/2026 17:01",
-      "inicio_recepcao": "30/10/2026 18:00",
-      "fim_recepcao": "06/11/2026 08:15",
-      "inicio_disputa": "06/11/2026 08:30",
-      "objeto": "3.1.\tContratação de empresa especializada na prestação de serviços de agenciamento de passagens aéreas nacionais, destinados ao atendimento das necessidades da Secretaria Municipal de Administração e demais Secretarias Municipais, abrangendo pesquisa, cotação, reserva, emissão, remarcação, cancelamento, reembolso e serviços correlatos, conforme o Termo de Referência e anexos.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DGkpDgVMMF3XQZuSb6oz76O0PANiEJGcnVVCWWlyUncZ354RPsCAk7Wx2J8DR7w3YGhjK4Jc4rp2nz0IsJM4nTqPGLnDFfC5bZo_jnS2CwWI%3D",
-      "total_lotes": 1,
-      "total_itens": 1,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "SERVIÇOS DE AGENCIAMENTO DE PASSAGENS AÉREAS NACIONAIS",
-          "fase": "JULGAMENTO",
-          "tipo": "UNITÁRIO",
-          "quantidade": "1",
-          "intervalo_minimo": "0,0001",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "0,00",
-          "vencedor": "VIDATUR TURISMO LTDA",
-          "melhor_oferta": "-38,99",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "Contratação de empresa especializada no serviço de agenciamento de passagens aéreas: Oferecendo emissão de bilhetes de passagens de todas as companhias de transporte aéreo em trechos nacionais, incluindo reserva, emissão, transferência, marcação, remarcação e reembolso, despacho de bagagem.",
-              "unidade": "SERVIÇO",
-              "quantidade": "1,00",
-              "valor_referencia": "0,00"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "PE-181-2026",
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "1064 / 2026",
@@ -311828,94 +311689,6 @@
       ]
     },
     {
-      "id": "5-DLE-118-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "1199/2026",
-      "modalidade": "DISPENSA ELETRÔNICA",
-      "situacao": "RECEPÇÃO DE PROPOSTAS",
-      "condutor": "ISAQUE SILVA DOS SANTOS",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO",
-      "publicacao": "12/11/2026 17:25",
-      "inicio_recepcao": "12/11/2026 17:26",
-      "fim_recepcao": "19/11/2026 10:15",
-      "inicio_disputa": "19/11/2026 10:30",
-      "objeto": "Contratação de empresa especializada na prestação de serviço de [BUFFET], a fim de atender as necessidades da Secretaria Municipal de Promoção Social.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DXgHDwOaCgNb6kRl2rM5esHNpUYM%2FMpIfDi_mANUKkIsINLasr5UQUa6P0rKMdep9FJTw9f3Z4x0wIZrLgZFrAA7SH8oXGmWaLZVPWrCPkT0%3D",
-      "total_lotes": 1,
-      "total_itens": 1,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "9903312196 Serviço de buffet livre",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,00",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "10.060,00",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9903312196 Serviço de buffet livre:compreendendo ofornecimento de refeição do tipo almoço, com preparo,acondicionamento, transporte, disponibilização, organização,distribuição e reposição dos alimentos e bebidas, bem como ofornecimento de equipe suficiente para atendimento dosparticipantes durante a prestação do serviço. A execução deverácontemplar todos os utensílios, pratos, talheres, utensílios decozinha, equipamentos e demais materiais necessários àadequada disponibilização e serviço das refeições, incluindo aorganização do espaço destinado à alimentação, em local edisposição definidos pela Administração Pública, observadas asnormas sanitárias e de segurança alimentar aplicáveis. O buffetdeverá oferecer cardápio composto por arroz, strogonoff defrango, carne bovina ao molho madeira, farofa de manteiga esalada tropical, preparados e apresentados em condiçõesadequadas para consumo, com reposição durante o período deatendimento. Deverá incluir, ainda, no mínimo 2 (dois) tipos desuco de fruta, preparados com fruta ou polpa, disponibilizadosem quantidade suficiente para atendimento dos participantes,juntamente com todo o material necessário ao serviço econsumo das refeições.",
-              "unidade": "SER",
-              "quantidade": "200,00",
-              "valor_referencia": "50,30"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "5-DLE-119-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "1271/2026",
-      "modalidade": "DISPENSA ELETRÔNICA",
-      "situacao": "RECEPÇÃO DE PROPOSTAS",
-      "condutor": "ISLA LIMA SILVA",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO",
-      "publicacao": "12/11/2026 15:10",
-      "inicio_recepcao": "12/11/2026 15:15",
-      "fim_recepcao": "19/11/2026 08:15",
-      "inicio_disputa": "19/11/2026 08:30",
-      "objeto": "Contratação de empresa especializada em prestação de serviço de palestra e auxílio técnico-pedagógico durante a 10ª Conferência Municipal dos Direitos da Criança e do Adolescente de Teixeira de Freitas/BA, prevista para os dias 25 e 26 de novembro de 2026, cujo tema central será Fortalecendo o Sistema de Garantia de Direitos da Criança e do Adolescente (SGDCA) e a Democracia Participativa , a fim de atender as demandas da Secretaria Municipal de Promoção Social.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DfvrsNakjIxfznJA7FU1OyQ574GAe8kti_fassy7ka5Avr7gls_J16jNbfa2Zc%2FkyaG9lA6v0CPv8qdyB%2FX7kZluCZk2cA4PD11vhtQ2KV4I%3D",
-      "total_lotes": 1,
-      "total_itens": 1,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "37896 Contratação de profissional especializado",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,00",
-          "exclusivo_me": "SIM",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "4.996,67",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "37896 Contratação de profissional especializado:, comcomprovada qualificação técnica e experiência na área dosdireitos da criança e do adolescente, para prestação de serviçosde palestra e assessoria técnico-pedagógica no âmbito da 10ªConferência Municipal dos Direitos da Criança e do Adolescentede Teixeira de Freitas/BA, a ser realizada nos dias 25 e 26 denovembro de 2026, com carga horária total de 02 (duas) horas e30 (trinta) minutos, compreendendo a realização de aberturatemática de 30 (trinta) minutos no dia 25 de novembro de 2026 e,no dia 26 de novembro de 2026, a realização de palestra comduração de 01 (uma) hora e prestação de 01 (uma) hora deauxílio técnico-pedagógico aos grupos de trabalho dos eixostemáticos da Conferência, tendo como tema central\"Fortalecendo o Sistema de Garantia de Direitos da Criança e doAdolescente (SGDCA) e a Democracia Participativa\",contemplando abordagem dos fundamentos da proteção integrale da prioridade absoluta, da articulação e corresponsabilidadedos órgãos integrantes do Sistema de Garantia de Direitos, dofortalecimento da participação social e do controle democrático,do protagonismo de crianças e adolescentes e da construçãocoletiva de propostas para o aprimoramento das políticaspúblicas infantojuvenis, incluindo orientação metodológica esuporte técnico aos debates dos eixos temáticos, com vistas àqualificação das discussões, à sistematização de reflexões e aofortalecimento das deliberações da Conferência.",
-              "unidade": "SER",
-              "quantidade": "1,00",
-              "valor_referencia": "4.996,67"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "PE-195-2026",
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "1044 / 2026",
@@ -312265,146 +312038,6 @@
               "especificacao": "9900516392 DISCO RÍGIDO (HDD) PARA SISTEMA DE VIDEOMONITORAMENTO 4 TB:1. CARACTERÍSTICAS GERAIS1.1. Disco rígido interno (HDD), novo, sem uso e em linha de fabricação, destinado a sistemas de videomonitoramento (DVR/NVR), projetado para operação contínua (24x7).2. ESPECIFICAÇÕES TÉCNICAS2.1. Capacidade nominal mínima de 4 TB.2.2. Interface SATA III (6 Gb/s).2.3. Formato 3,5 polegadas.2.4. Velocidade de rotação mínima de 5.400 RPM, admitindo-se modelos de maior desempenho.2.5. Memória cache mínima de 64 MB.2.6. Tecnologia de gravação CMR (Conventional Magnetic Recording).2.7. Projetado para operação contínua (24 horas por dia, 7 dias por semana) em sistemas de videomonitoramento.2.8. Compatível com gravadores digitais de vídeo (DVR) e gravadores de vídeo em rede (NVR), suportando operação simultânea com múltiplos fluxos de vídeo.2.9. Carga de trabalho (Workload Rate) mínima de 180 TB/ano.2.10. MTBF mínimo de 1.000.000 (um milhão) de horas ou AFR equivalente informado pelo fabricante.2.11. Possuir tecnologias de redução de vibração e otimização para gravação contínua de vídeo.3. COMPATIBILIDADE3.1. Compatível com equipamentos DVR e NVR que utilizem interface SATA III.4. GARANTIA4.1. Garantia mínima de 36 (trinta e seis) meses, fornecida pelo fabricante ou por sua rede autorizada no Brasil.5. CONDIÇÕES GERAIS5.1. O produto deverá estar em linha de fabricação, não sendo aceitos equipamentos classificados como End of Sale (EOS) ou End of Life (EOL).5.2. Serão aceitos discos rígidos específicos para videomonitoramento (Surveillance HDD) de fabricantes reconhecidos no mercado ou equivalentes, desde que atendam integralmente às especificações técnicas deste documento.",
               "unidade": "UND",
               "quantidade": "50,00",
-              "valor_referencia": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "PE-190-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "1134 / 2026",
-      "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "RECEPÇÃO DE PROPOSTAS",
-      "condutor": "SERGIO CARNEIRO CAVALCANTI DE AZEVEDO",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO PARCELADA",
-      "publicacao": "06/11/2026 14:00",
-      "inicio_recepcao": "10/11/2026 08:00",
-      "fim_recepcao": "23/11/2026 08:15",
-      "inicio_disputa": "23/11/2026 08:30",
-      "objeto": "Contratação de empresa especializada em fornecimento de Tubos em Polietileno de Alta Densidade (PEAD) e pasta lubrificante,  a fim de atender as demandas da Secretaria Municipal de Infraestrutura e Serviços Urbanos.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DRM%2FAo8EVgk1sXm858jB16c6%2FGJrnqu%2Fn4v9DiLrkiJDeHwEwmtGDNLLeEdFIewA6dMXLdxLFq%2FJYC32dOhUAh1UjV0ezrMxRTa9Mdpw0XKY%3D",
-      "total_lotes": 5,
-      "total_itens": 5,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "9900516415 TUBO PEAD DN 600 MM:tubo extrudado em PEAD (polietileno de alta densidade), de parede dupla, com superfície interna lisa e externa corrugada, união por sistema ponta e bolsa, fornecido em barras de 6 metros de comprimento. Cor preta, com pigmen",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900516415 TUBO PEAD DN 600 MM:tubo extrudado em PEAD (polietileno de alta densidade), de parede dupla, com superfície interna lisa e externa corrugada, união por sistema ponta e bolsa, fornecido em barras de 6 metros de comprimento. Cor preta, com pigmentação em negro de fumo, diâmetro nominal DN/DI 600 mm, baseado no diâmetro interno, classe de rigidez SN4, destinado a sistemas de drenagem e condução de águas pluviais, em conformidade com a Norma DNIT 094/2014",
-              "unidade": "Und.",
-              "quantidade": "800,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "2",
-          "titulo": "9900516416 TUBO PEAD 800 MM:tubo extrudado, de parede dupla em PEAD (polietileno de alta densidade), com união ponta e bolsa, liso internamente e corrugado externamente, em barras de 6 M de comprimento, cor preta, pigmentada com negro de fumo, com diâmetr",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900516416 TUBO PEAD 800 MM:tubo extrudado, de parede dupla em PEAD (polietileno de alta densidade), com união ponta e bolsa, liso internamente e corrugado externamente, em barras de 6 M de comprimento, cor preta, pigmentada com negro de fumo, com diâmetro nominal DN/DI 800 MM (baseado no diâmetro interno), classe de rigidez SN4, conforme norma DNIT 094/2014",
-              "unidade": "Und.",
-              "quantidade": "380,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "3",
-          "titulo": "9900516435 TUBO PEAD 1050-1000MM:tubo extrudado, parede dupla em PEAD (polietileno de alta densidade), com união ponta e bolsa, liso internamente e corrugado externamente, em barras de 6m de comprimento, cor preta, pigmentada com negro de fumo, com diâmet",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900516435 TUBO PEAD 1050-1000MM:tubo extrudado, parede dupla em PEAD (polietileno de alta densidade), com união ponta e bolsa, liso internamente e corrugado externamente, em barras de 6m de comprimento, cor preta, pigmentada com negro de fumo, com diâmetro nominal DN/DI 1050-1000mm (baseado no diâmetro interno), classe de rigidez sn4, conforme norma DNIT 094/2014",
-              "unidade": "Und.",
-              "quantidade": "250,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "4",
-          "titulo": "9900516436 TUBO PEAD 1200 MM:tubo extrudado, parede dupla em PEAD (polietileno de alta densidade), com união ponta e bolsa, liso, liso internamente e corrugado externamente, em barras de 6m de comprimento, cor preta, pigmentada com negro de fumo, com diâm",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900516436 TUBO PEAD 1200 MM:tubo extrudado, parede dupla em PEAD (polietileno de alta densidade), com união ponta e bolsa, liso, liso internamente e corrugado externamente, em barras de 6m de comprimento, cor preta, pigmentada com negro de fumo, com diâmetro nominal DN/DI 1200 MM (baseado no diâmetro interno), classe de rigidez SN4, conforme norma DNIT 094/2014",
-              "unidade": "Und.",
-              "quantidade": "100,00",
-              "valor_referencia": ""
-            }
-          ]
-        },
-        {
-          "numero": "5",
-          "titulo": "9900516437 PASTA LUBRIFICANTE:para encaixe e montagem de tubos e conexões com junta elástica compatível com o material da tubulação e os anéis de vedação. Fornecido em balde com 2,4kg",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "9900516437 PASTA LUBRIFICANTE:para encaixe e montagem de tubos e conexões com junta elástica compatível com o material da tubulação e os anéis de vedação. Fornecido em balde com 2,4kg",
-              "unidade": "Und.",
-              "quantidade": "300,00",
               "valor_referencia": ""
             }
           ]
@@ -317446,50 +317079,6 @@
       ]
     },
     {
-      "id": "PE-173-2026",
-      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "1000 / 2026",
-      "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "RECEPÇÃO DE PROPOSTAS",
-      "condutor": "JONATAS DA SILVA SOUSA",
-      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
-      "tipo_contrato": "AQUISIÇÃO PARCELADA",
-      "publicacao": "20/10/2026 10:35",
-      "inicio_recepcao": "10/11/2026 08:00",
-      "fim_recepcao": "23/11/2026 08:15",
-      "inicio_disputa": "23/11/2026 08:30",
-      "objeto": "Contratação de empresa especializada em fornecimento do medicamento NINTEDANIBE (OFEV®) (material de consumo),  a fim de atender as demandas da Secretaria Municipal de Saúde.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DdRqiy6puX_0qTLskZ3UABFz_Eyoa4yMCqh4rfk9j%2F3PSCFnh9tUNbwU6nrkbp3D2X8Ixy52ke0xuljqF6YbTceR47xt4jBIWwM5cJM83xBM%3D",
-      "total_lotes": 1,
-      "total_itens": 1,
-      "lotes": [
-        {
-          "numero": "1",
-          "titulo": "NINTEDANIBE",
-          "fase": "RECEPÇÃO DE PROPOSTAS",
-          "tipo": "GLOBAL",
-          "quantidade": "1",
-          "intervalo_minimo": "0,01",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
-          "valor_referencia": "250.711,20",
-          "vencedor": "",
-          "melhor_oferta": "0,00",
-          "total_itens": 1,
-          "itens": [
-            {
-              "numero": "1",
-              "especificacao": "10101200029 NINTEDANIBE (OFEV®) 150 MG:Fármacoantifibrótico e antineoplásico, quimicamente caracterizado comoum potente inibidor intracelular múltiplo de tirosina quinase. Atuapor meio do bloqueio competitivo do sítio de ligação do trifosfatode adenosina (ATP) nos receptores do fator de crescimentoderivado de plaquetas (PDGFR alfa e beta), do fator decrescimento fibroblástico (FGFR 1, 2 e 3) e do fator decrescimento endotelial vascular (VEGFR 1, 2 e 3). A inibiçãodestas vias de sinalização celular impede a proliferação, amigração e a diferenciação de fibroblastos e miofibroblastospulmonares, reduzindo a deposição anômala de colágeno e aremodelagem patológica da matriz extracelular. O medicamentoatua diretamente na desaceleração da taxa de declínio anual dacapacidade vital forçada (CVF), retardando a progressão dafibrose e atenuando a perda da função ventilatória pulmonar.",
-              "unidade": "CO",
-              "quantidade": "720,00",
-              "valor_referencia": "348,21"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "PE-167-2026",
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "805 / 2026",
@@ -321114,7 +320703,7 @@
         {
           "numero": "96",
           "titulo": "9900100154 PROPRANOLOL:40MG. EXCLUSIVO PARA ME/EPP.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -323403,7 +322992,7 @@
         {
           "numero": "1",
           "titulo": "7701011839 Trompete em Si Bemol (Bb) padrão standard:Acabamento laqueado Ouro com detalhes da campana em latão avermelhado (Rosebrass). Pescoço dos pistos em alumínio. Botões com acabamento perolizado. Anel com regulagem de abertura na pompa do terceiro p",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -323427,7 +323016,7 @@
         {
           "numero": "2",
           "titulo": "7701011840 Trombone de vara (tenor) com rotor::Trombone de vara (tenor) com 01 rotor. Afinação Sib/Fá. Calibre largo de 13.90mm. Armação fechada. 01 Rotor com chave com haste, modelo tradicional em latão e alpaca. Acabamento laqueado e tubos de encaixe em",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -323451,7 +323040,7 @@
         {
           "numero": "3",
           "titulo": "7701011841 Bombardino (eufônio) em si bemol (Bb):Instrumento com altura total aproximada de 66cm, largura total de 34cm, diâmetro da campana de 280mm e calibre interno de 14,5mm.Afinação em Si bemol. Acabamento laqueado. 4 Pistos de acionamento na posiçã",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -323475,7 +323064,7 @@
         {
           "numero": "4",
           "titulo": "7701011842 Trompa dupla si bemol/fá:Trompa com dupla afinação Si bemol/Fá confeccionada em latão e alpaca.Campana fixa. 04 Válvulas rotativas (rotores) formato 3+1, 09 Pompas destacáveis, corpo e campana com acabamento laqueado, tubos de encaixe em alpac",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -323499,7 +323088,7 @@
         {
           "numero": "5",
           "titulo": "7701011843 Tuba sinfônica 4/4 em si bemol:Tuba sinfônica tamanho 4/4 com afinação em Si bemol. Dimensões aproximadas: Altura total 104,5cm; Largura total 51cm; Diâmetro da campana 485mm; Calibre interno 19mm. 04 Pistos de acionamento na posição vertical.",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -323523,7 +323112,7 @@
         {
           "numero": "6",
           "titulo": "7701011844 Tuba sinfônica tamanho 3/4 com afinação em Si bemol.:Possui 3 válvulas em aço inoxidável. Campana de 368 mm e calibre de 17 mm. Botões tenso-centralizadores em latão laqueado. Guia de pistos em plástico de alta resistência aeroespacial. Corpo h",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -323547,7 +323136,7 @@
         {
           "numero": "7",
           "titulo": "7701011845 Sousafone (tuba de marcha) em si bemol:tuba de marcha modelo Sousafone com afinação Sib (Bb). Acabamento laqueado. Pescoços dos pistos em metal com acabamento niquelado, botões em metal. Dedeira localizada na pompa do primeiro pistão. Calibre i",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -323571,7 +323160,7 @@
         {
           "numero": "8",
           "titulo": "7701011846 Flugelhorn - Instrumento com afinação:Sib (Bb), encaixe do bocal (Leadpipe) com regulagem de afinação, chaves de água na curva do cano de embocadura e nas pompas do 1º e 3º pisto. Botões e capelotes em metal com acabamento dourado, sendo os bot",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -323595,7 +323184,7 @@
         {
           "numero": "9",
           "titulo": "7701011847 Trombone baixo - Trombone baixo com afinação Bb/ F / Gb / D:Campana em latão amarelo com diâmetro de 241 mm (9 1/2\"). Dimensão do calibre de aproximadamente 14,3 mm (0,563\"). Vara externa em latão amarelo e vara interna em alpaca. Acabamento e",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -323619,7 +323208,7 @@
         {
           "numero": "10",
           "titulo": "7701011848 Saxofone soprano em si bemol (bb):Saxofone Soprano Reto com afinação Sib (Bb). Corpo e chaves com acabamento laqueado, apoio de polegar direito ajustável e apoio esquerdo fixo. Parafusos em aço inoxidável com micro regulagens. Molas tipo agulha",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -323643,7 +323232,7 @@
         {
           "numero": "11",
           "titulo": "7701011849 Saxofone alto em mi bemol (Eb):Saxofone alto com afinação Mib (Eb). Corpo e chaves com acabamento laqueado dourado. Apoio de polegar direito em metal laqueado e apoio esquerdo com revestimento em ABS. Parafusos em aço inoxidável. Sapatilhas com",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -323667,7 +323256,7 @@
         {
           "numero": "12",
           "titulo": "7701011850 Saxofone tenor em si bemol (Bb):Saxofone Tenor com afinação Sib (Bb), corpo e chaves laqueados, apoio do polegar direito ajustável e esquerdo fixo. Parafusos em aço inoxidável com micro regulagens. Molas tipo agulha em aço temperado. Sol# artic",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -323691,7 +323280,7 @@
         {
           "numero": "13",
           "titulo": "7701011851 Saxofone barítono em mi bemol (Eb):Saxofone Barítono com afinação Mib (Eb). Tudel com acabamento em cortiça natural e chave d'água na curva de encaixe. Porta lira. Botões perolizados brancos. Escala do Lá Grave ao Fá# agudo. Sistema de molas em",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -323739,7 +323328,7 @@
         {
           "numero": "15",
           "titulo": "7701011853 Clarinete em Bb (SI BEMOL):clarinete em Bb com 17 chaves prateadas e 06 anéis. Corpo em madeira de alta densidade (tipo Granadilha ou equivalente). Chaves confeccionadas em liga resistente (tri-combinados) com duplo banho (cobre e espessura de",
-          "fase": "EM ADJUDICAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -323763,7 +323352,7 @@
         {
           "numero": "16",
           "titulo": "7701011854 Flauta transversal em dó (c) - modelo estudante/intermediário:- Flauta Transversal com afinação em Dó (C). Corpo, pé e chaves banhados a prata. Cabeça reta. Chaves fechadas e pé em Dó. Mecanismo Mi mecânico e sistema Boehm, utilizando molas em",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -323811,7 +323400,7 @@
         {
           "numero": "18",
           "titulo": "7701011856 Par de pratos de choque (orquestra/banda) 18:Pratos de choque tipo banda marcial/orquestra vendidos em par. Tamanho de 18 polegadas, confeccionados em liga de bronze (B10 ou equivalente). Possuem acabamento martelado manualmente e tonalidade mé",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -323835,7 +323424,7 @@
         {
           "numero": "19",
           "titulo": "7701011857 Par de pratos de choque (orquestra/banda) 14:Pratos de choque tipo Banda Marcial/Orquestra (a dois) vendidos em par. Tamanho de 14 polegadas, fabricados em Liga de Bronze B10 (90% Cobre, 10% Estanho). Acabamento liso sem martelamento, enverniza",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -323859,7 +323448,7 @@
         {
           "numero": "20",
           "titulo": "7701011858 Carrilhão:Instrumento de percussão tipo carrilhão composto por 36 barras tubulares sonoras maciças em alumínio de alta ressonância. Possui estrutura superior resistente com acabamento em pintura epóxi na cor preta e peso bruto aproximado de 1,2",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -323883,7 +323472,7 @@
         {
           "numero": "21",
           "titulo": "7701011859 Cajon:Instrumento de percussão tipo Cajon com design ergonômico inclinado e banco estofado integrado no topo. Dimensões aproximadas de 52 x 45 x 38 cm e peso em torno de 5 kg. Corpo em madeira resistente e tampo em virola com acabamento em pint",
-          "fase": "EM ADJUDICAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -323907,7 +323496,7 @@
         {
           "numero": "22",
           "titulo": "7701011860 Cordas de violino:Jogos completos de encordoamento para violino tamanho 4/4 com tensão média. Composição técnica das cordas: E1 (liga sólida de aço e carbono revestida em alumínio, tensão aprox. 7,2 kg); A2 (núcleo sintético revestido em alumín",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -323931,7 +323520,7 @@
         {
           "numero": "23",
           "titulo": "7701011861 Cordas de viola:Jogos completos de encordoamento para viola clássica tamanho 4/4 (comprimento de corda vibrante padrão entre 37,5 e 39cm), com tensão média e fixação por bolinha (Ball End). Composição: A1 e D2 (núcleo sintético com revestimento",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -323955,7 +323544,7 @@
         {
           "numero": "24",
           "titulo": "7701011862 Cordas de violoncelo:Jogos completos de encordoamento para violoncelo com tensão média. Todas as cordas (A1, D2, G3 e C4) devem possuir núcleo sintético de alta qualidade com revestimento externo em cromo, garantindo durabilidade e resposta ráp",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -323979,7 +323568,7 @@
         {
           "numero": "25",
           "titulo": "7701011863 Cordas de contrabaixo:Jogos completos de encordoamento para contrabaixo acústico (escala de até 110cm) com tensão leve, ideal para tocabilidade e resposta rápida com sustain prolongado. Todas as cordas (G1, D2, A3 e E4) devem ser confeccionadas",
-          "fase": "EM ADJUDICAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -324027,7 +323616,7 @@
         {
           "numero": "27",
           "titulo": "7701011865 Sanfona/acordeon:Acordeon/Sanfona de nível profissional com 80 botões nos baixos (configuração Stradella: fundamentais, acordes maiores, menores, sétimas e diminutos) e teclado com 37 teclas de ação rápida. Configuração de vozes: 3ª de voz no t",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -324051,7 +323640,7 @@
         {
           "numero": "28",
           "titulo": "7701011866 Banco para piano de altura regulável:Banco padrão concerto projetado especificamente para pianistas. Estrutura robusta fabricada inteiramente em madeira maciça com envernizamento de alta qualidade. As pernas devem possuir sistema de fixação seg",
-          "fase": "EM ADJUDICAÇÃO",
+          "fase": "FRACASSADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -324075,7 +323664,7 @@
         {
           "numero": "29",
           "titulo": "7701011867 Metrônomo mecânico:Metrônomo tradicional de sistema mecânico à corda, dispensando o uso de baterias. Intervalo de marcação de tempo de 40 a 208 batimentos por minuto (BPM), com indicação sonora (clique) e visual (pêndulo). Possui mecanismo de s",
-          "fase": "HABILITAÇÃO",
+          "fase": "EM ADJUDICAÇÃO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -324099,27 +323688,1208 @@
       ]
     },
     {
-      "id": "PE-141-2026",
+      "id": "PE-203-2026",
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
-      "numero_adm": "801/2026",
+      "numero_adm": "1140 / 2026",
       "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "HABILITAÇÃO",
+      "situacao": "SUSPENSO",
       "condutor": "JONATAS DA SILVA SOUSA",
       "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
       "tipo_contrato": "AQUISIÇÃO PARCELADA",
-      "publicacao": "22/09/2026 09:06",
-      "inicio_recepcao": "13/10/2026 08:00",
-      "fim_recepcao": "27/10/2026 10:15",
-      "inicio_disputa": "27/10/2026 10:30",
-      "objeto": "Contratação de empresa especializada em prestação de serviço de MONITORAMENTO E RASTREAMENTO VEICULAR COM FORNECIMENTO, EM REGIME DE COMODATO, DOS EQUIPAMENTOS RASTREADORES E ACESSÓRIOS, a fim de atender as demandas da Secretaria Municipal de Administração e demais Secretarias.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DZfPj6ZWPhO2RTs8OwRQAU69eBELw6gmmnwMFFokDgSYEgsgPjTcsLl8xvAPPWdER_W45iUOdBP1bdfv2ZsSQfwYXFdZSjsYPP07hFn%2F_RqE%3D",
+      "publicacao": "23/11/2026 08:12",
+      "inicio_recepcao": "23/11/2026 08:15",
+      "fim_recepcao": "03/12/2026 08:15",
+      "inicio_disputa": "03/12/2026 08:30",
+      "objeto": "Contratação de empresa especializada em fornecimento de ÓRTESES, PRÓTESES E MEIOS AUXILIARES DE LOCOMOÇÃO (OPM) (material de consumo), a fim de atender as demandas da Secretaria Municipal de Saúde.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DldT1Vh2yDPNnpSnXTHtHwNzh3DPu1cKK5ozrdqjLmCql0RJmUmz7xGIf5MPwzfIlos4E3cPGllz9JKIMymG6DxYy%2FztmBMgBeDLYZuCEPM0%3D",
+      "total_lotes": 1,
+      "total_itens": 77,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "OPM",
+          "fase": "SUSPENSO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 77,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900515971 ADAPTAÇÃO ABDUTOR TIPO CAVALO PARACADEIRA DE RODAS:adaptação sob medida confeccionada em espuma de alta densidade, ou quando necessitar de reforço, confeccionada de madeira e revestida de espuma, forrado por tecido automotivo para posicionar membros inferiores (inibir adução e rotação interna). pode ser removível ou fixado no assento da cadeira de rodas. as dimensões serão fornecidas por meio de descrição por profissional de saúde habilitado.",
+              "unidade": "Und.",
+              "quantidade": "55,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "2",
+              "especificacao": "37609 ADAPTAÇÃO DE ASSENTO PARA DEFORMIDADESDE QUADRIL:almofada confeccionada sob medida em espuma de poliuretano acrescida de camada de espuma de densidade variável, podendo ou não apresentar cavalo abdutor, podendo ou não ser confeccionada sobre base. a parte anterior pode ser mais alta que a parte posterior com o objetivo de reduzir o tõnus extensor, com melhor posicionamento do quadril. forrada com tecido automotivo. deve ser removível, para permitir o fechamento da cadeira. favorece posicionamento correto e melhor distribuição de pressão, devendo prevenir deformidades e úlceras de pressão ou acomodar. através de compensações, as deformidades já existentes. as dimensões serão fornecidas por meio de descrição por profissional de saúde habilitado.",
+              "unidade": "Und.",
+              "quantidade": "76,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "3",
+              "especificacao": "37610 ADAPTAÇÃO DE ENCOSTO PARA DEFORMIDADESDE TRONCO:almofada confeccionada sob medida em espuma de poliuretano acrescida de espuma de diferentes densidades, podendo ou não ser confeccionada sobre base rígida utilizada para prevenção e/ou acomodação de deformidades. as dimensões serão fornecidas por meio de descrição por profissional de saúde habilitado.",
+              "unidade": "Und.",
+              "quantidade": "66,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "4",
+              "especificacao": "37611 ADAPTAÇÃO DO APOIO DE BRAÇOS DA CADEIRA DERODAS:confeccionada sob medida em madeira, termomoldável de alta temperatura ou metal, podendo ser fixo, escamoteável, rebatível ou removível, revestido ou não de tecido automotivo, acolchoado ou não. contempla calhas de posicionamento do membro superior em cadeira de rodas. as dimensões serão fornecidas por meio de descrição por profissional de saúde habilitado.",
+              "unidade": "Und.",
+              "quantidade": "3,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "5",
+              "especificacao": "9900515972 ADAPTAÇÃO DO APOIO DE PÉS DA CADEIRADE RODAS:confeccionada sob medida em madeira, propileno ou metal, regulável em altura podendo ser em folha única ou dupla, fixo ou removível, rebatível, elevável (articulado); revestido ou não de tecido automotivo, acolchoado ou não. pode ter ainda faixa confeccionada sob medida em material antialérgico de alta resistência, não elástico, com fechamento em velcro, largura de 5 a 7 cm que presa aos apoios de pés, estabiliza membros inferiores. indicado para pacientes que não têm suas necessidades atendidas para modelo de apoio de pés original da cadeira de rodas. as dimensões serão fornecidas por meio de descrição por profissional de saúde habilitado.",
+              "unidade": "Und.",
+              "quantidade": "17,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "6",
+              "especificacao": "37612 APOIO LATERAL ESTABILIZAÇÃO DA CABEÇA NACADEIRA DE RODAS:apoio de cabeça com abas laterais em alumínio revestido de espuma de poliuretano, forrada de tecido automotivo, fixado no encosto da cadeira de rodas por meio de haste com 3 tipos de regulagem: profundidade, altura e inclinação. também pode ser apenas de espuma de poliuretano fixado ao encosto com velcro. indicado para pacientes com déficit de controle cervical. as dimensões serão fornecidas por meio de descrição por profissional de saúde habilitado.",
+              "unidade": "Und.",
+              "quantidade": "15,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "7",
+              "especificacao": "37613 APOIOS LATERAIS DO QUADRIL PARA CADEIRA DE RODAS APOIOS LATERAIS DE QUADRIL PARA CADEIRA DERODAS:apoio lateral revestido de espuma de poliuretano ou de diferentes densidades e forrado de tecido automotivo. posiciona os membros inferiores em posição neutra, inibindo abdução excessiva e rotação externa. pode ser fixado ao assento da cadeira de rodas através de peças com regulagens de largura e profundidade, ou removíveis para facilitar a transferência do paciente. pode possuir ainda, cinto pélvico ou em y, com apoio na região do quadril, confeccionados em material sintético de alta resistência, com fechamento em velcro, mosquetão, botão de pressão ou fivela tipo aviação, podendo ser acolchoado ou não, fixado no encontro entre assento e encosto em angulo de 450, para posicionar adequadamente o paciente em sedestação. as dimensões serão fornecidas por meio de descrição por profissional de saúde habilitado.",
+              "unidade": "Und.",
+              "quantidade": "30,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "8",
+              "especificacao": "37614 APOIOS LATERAIS DO TRONCO EM 3 OU 4PONTOS:apoio torácico lateral fixado ao encosto da cadeira de rodas através de peças com regulagens de altura e largura, revestido de espuma de poliuretano ou de diferentes densidades e forrado de tecido automotivo. acessório individualizado, conforme tamanho do paciente e tipo de deformidade apresentada. utilizado para prevenir e/ou acomodar deformidades de tronco. devem ser removíveis para facilitar a transferência do paciente. pode possuir ainda, cinto com duas alças passando pelos ombros e duas presas no assento da cadeira, confeccionados em material sintético de alta resistência, com fechamento em velcro, mosquetão, botão de pressão ou fivela tipo aviação, podendo ser acolchoado ou não, para posicionar adequadamente o paciente em sedestação podendo ser do tipo camiseta, quatro pontos ou torácico. indicado quando há déficit de equilíbrio de tronco ou postura cifótica. indicado para segurança do paciente e posicionamento do tronco. as dimensões serão fornecidas por meio de descrição por profissional de saúde habilitado.",
+              "unidade": "Und.",
+              "quantidade": "47,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "9",
+              "especificacao": "37615 CALÇADOS ANATÔMICOS COM PALMILHAS PARAPÉS NEUROPÁTICOS (PAR):calçados confeccionados com forração e solados especiais, para reduzir pontos de atrito ou compressão, dotados de palmilhas especiais, até mesmo em silicone, que se adaptem a anatomia plantar.",
+              "unidade": "Und.",
+              "quantidade": "26,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "10",
+              "especificacao": "37616 CALÇADOS ORTOPÉDICOS CONFECCIONADOS SOBMEDIDA ATÉ NÚMERO 45 (PAR):calçados ortopédicos confeccionados sob medida, com forração e solados especiais, que podem ou não serem adaptados às órteses ou palmilhas.",
+              "unidade": "Und.",
+              "quantidade": "10,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "11",
+              "especificacao": "37617 CALÇADOS ORTOPÉDICOS PRÉ-FABRICADOS COMPALMILHAS ATÉ NÚMERO 45 (PAR):calçados ortopédicos com contrafortes rígidos lateral ou medialmente, para manutenção postural em pés com desvios, quando utilizados com órteses de hastes metálicas podem receber correias em t para vírus ou valgo.",
+              "unidade": "Und.",
+              "quantidade": "1,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "12",
+              "especificacao": "37618 CALÇADOS SOB MEDIDA P/ COMPENSAÇÃO DE DISCREPÂNCIA DE MEMBROS INFERIORES CALÇADOS SOB MEDIDA P/ COMPENSAÇÃO DE DISCREPÂNCIA DE MEMBROS INFERIORES A PARTIR DO NÚMERO 34:calçadossob medida para compensação de discrepância no comprimento entre membros inferiores a partir do número 34 (acima de 12 milímetros).",
+              "unidade": "Und.",
+              "quantidade": "11,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "13",
+              "especificacao": "37619 CALÇADOS SOB MEDIDA PARA COMPENSAÇÃO DE ENCURTAMENTO ATÉ NUMERO 33 (PAR):calçados sobmedida para compensação, de discrepância no comprimento entre membros inferiores acima de 12 milímetros.",
+              "unidade": "Und.",
+              "quantidade": "3,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "14",
+              "especificacao": "9900515973 CINTA PARA TRANSFERÊNCIAS CINTA PARATRANSFERÊNCIAS:adaptações para atividade de vida diária (avd): cinto em lona ou outro tipo de tecido, acolchoada ou não, com alças laterais, com estrutura reforçada, para realização de transferências de posicionamento (ex.: deitado para sentado, sentado para posição ortostática) ou de superfícies, com ou sem alças de sustentação em região inguinal.",
+              "unidade": "Und.",
+              "quantidade": "1,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "15",
+              "especificacao": "37620 ÓRTESE / CINTA LSO TIPO PUTTI (BAIXA):órtese (lso)tipo colete putti para a região lombo-sacra, confeccionada em tecido resistente, 04 (quatro) hastes metálicas ou de plástico posteriormente, fechamento anterior por velcro ou fivelas por correias.",
+              "unidade": "Und.",
+              "quantidade": "1,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "16",
+              "especificacao": "37621 ÓRTESE / CINTA TLSO TIPO PUTTI (ALTO):órtese (tlso)tipo colete putti para a região toraco lombo-sacra, confeccionada em tecido resistente, 04 (quatro) hastes metálicas ou de plástico posteriormente, fechamento anterior por velcro ou fivelas com correias.",
+              "unidade": "Und.",
+              "quantidade": "1,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "17",
+              "especificacao": "37622 ÓRTESE / COLETE CTLSO TIPO MILWAUKEE:órtese(ctlso), dinâmica, tipo milwaukee, incluindo os coxins e almofadas para estabilização da coluna vertebral nas escolioses e cifoses.",
+              "unidade": "Und.",
+              "quantidade": "1,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "18",
+              "especificacao": "37623 ÓRTESE / COLETE TIPO WILLIAMS:órtese (lso) tipo williams, para sustentação da região lombar sacra, com articulações laterais que permitem a flexão, mas bloqueiam a hiperextensão lombar.",
+              "unidade": "Und.",
+              "quantidade": "1,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "19",
+              "especificacao": "37624 ÓRTESE / COLETE TLSO TIPO KNIGHT:órtese (tlso)tipo knight, rígido posteriormente por hastes, fechamento anterior em tecido resistente com velcro ou atracador.",
+              "unidade": "Und.",
+              "quantidade": "1,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "20",
+              "especificacao": "37625 ÓRTESE CRUROMALEOLAR INFANTIL EM POLIPROPILENO PARA IMOBILIZAÇÃO DE JOELHO EMEXTENSÃO ARTICULADA:órtese cruromaleolar, tipo calha em polipropileno para imobilização do joelho em extensão.",
+              "unidade": "Und.",
+              "quantidade": "2,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "21",
+              "especificacao": "9900515974 ÓRTESE CRUROMALEOLAR PARA LIMITAÇÃODOS MOVIMENTOS DO JOELHO:órtese para limitação da amplitude dos movimentos do joelho.",
+              "unidade": "Und.",
+              "quantidade": "28,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "22",
+              "especificacao": "37626 ÓRTESE DINÂMICA PELVICO-CRURAL TIPOATLANTA/TORONTO:órtese pélvico crural tipo atlanta/toronto, para estabilização dos quadris em abdução, na doença de legg perthes.",
+              "unidade": "Und.",
+              "quantidade": "1,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "23",
+              "especificacao": "9900515975 ÓRTESE DINÂMICA SUROPODÁLICA TIPOMOLA DE CODEVILLE (UNILATERAL) -:órtese suropodálica tipo codeville, com dispositivo de mola de aço adaptado a palmilha ou sapatilha.",
+              "unidade": "Und.",
+              "quantidade": "4,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "24",
+              "especificacao": "37627 ÓRTESE ESTÁTICA IMOBILIZADORA AXILO-PALMARTIPO AEROPLANO:órtese imobilizadora áxilo-palmar tipo aeroplano para suporte do ombro em abdução de 90 (noventa) graus, com cotovelo em 90 (noventa) graus de flexão.",
+              "unidade": "Und.",
+              "quantidade": "29,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "25",
+              "especificacao": "37628 ÓRTESE HCO TIPO PHILADELPHIA PARAIMOBILIZAÇÃO DA REGIÃO CERVICAL:órtese (hco), tipo colar cervical, em espuma firme bivalvada com reforço em plástico, tipo philadelphia.",
+              "unidade": "Und.",
+              "quantidade": "1,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "26",
+              "especificacao": "37629 ÓRTESE HCTO TIPO MINERVA IMOBILIZADORA CERVICAL COM APOIO TORÁCICO (COLAR):órtese (hcto) tipocolar cervico-toracico rígido, tipo minerva.",
+              "unidade": "Und.",
+              "quantidade": "1,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "27",
+              "especificacao": "37630 ÓRTESE METÁLICA CRUROPODÁLICA (INFANTIL EADOLESCENTE):órtese cruropodálica, com hastes laterais em alumínio ou aço, articulação de joelho livre ou com bloqueio de anel, articulação de tornozelo livre ou com bloqueio, infantil unilateral.",
+              "unidade": "Und.",
+              "quantidade": "2,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "28",
+              "especificacao": "9900515976 ÓRTESE METÁLICA CRUROPODÁLICAADULTO:órtese cruropodálica, com hastes laterais em alumínio ou aço, articulação de joelho livre ou com trava de anel, ou com bloqueio de gatilho (trava suíça), articulação de tornozelo livre ou com bloqueio, adolescente e adultos, unilateral.",
+              "unidade": "Und.",
+              "quantidade": "6,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "29",
+              "especificacao": "37631 ÓRTESE METÁLICA SUROPODÁLICA(INFANTIL):órtese suropodálica, unilateral, com hastes laterais em alumínio ou aço, articulação de tornozelo livre ou com bloqueio.",
+              "unidade": "Und.",
+              "quantidade": "1,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "30",
+              "especificacao": "9900515977 ÓRTESE PELVICO:podálica de descarga isquiática- órtese pélvico podálica para descarga isquiática, tipo trilateral ou hastes paralelas com cursor.",
+              "unidade": "Und.",
+              "quantidade": "2,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "31",
+              "especificacao": "37632 ÓRTESE PELVICO:podálica metálica com ou sem apoio isquiático (infantil e adolescente) -órtese pelvico-podalica unilateral, infantil e adolescente, com hastes laterais metálicas com ou sem apoio isquiático, articulação de quadril livre ou com bloqueio de anel, articulação de joelho com bloqueio de anel, articulação de tornozelo livre ou com bloqueio da flexão plantar.",
+              "unidade": "Und.",
+              "quantidade": "1,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "32",
+              "especificacao": "9900515978 ÓRTESE PÉLVICO:podálica metálica para adultos com ou sem apoio isquiático - órtese pélvico podálica unilateral, com hastes laterais em alumínio ou aço, com ou sem apoio isquiático, articulação de quadril livre ou com bloqueio de anel, articulação de joelho com bloqueio por trava de anel ou trava de gatilho (trava suíça), articulação de tornozelo livre ou com bloqueio da flexão plantar.",
+              "unidade": "Und.",
+              "quantidade": "2,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "33",
+              "especificacao": "9900515979 ÓRTESE RIGIDA PARA LUXAÇÃO CONGÊNITADO QUADRIL:órtese confeccionada em termoplastico rígido, para luxação congênita em quadril.",
+              "unidade": "Und.",
+              "quantidade": "1,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "34",
+              "especificacao": "37633 ÓRTESE SUROPODÁLICA ARTICULADA EMPOLIPROPILENO INFANTIL:órtese suropodálica, unilateral, infantil, tipo calha posterior em polipropileno, articulada no tornozelo, com ou sem correia antivaro ou antivalgo no retropé.",
+              "unidade": "Und.",
+              "quantidade": "9,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "35",
+              "especificacao": "37634 ÓRTESE SUROPODALICA METALICA (ADULTO):órtesesuropodalica unilateral, adulto, com hastes laterais de alumínio ou de aço, articulação de tornozelo livre ou com bloqueio.",
+              "unidade": "Und.",
+              "quantidade": "1,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "36",
+              "especificacao": "37635 ÓRTESE SUROPODÁLICA SEM ARTICULAÇÃO EMPOLIPROPILENO (ADULTO):órtese suropodálica unilateral, adulto, tipo calha posterior em polipropileno, sem articulação, com ou sem correia antivalgo ou antivaro no retropé.",
+              "unidade": "Und.",
+              "quantidade": "34,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "37",
+              "especificacao": "37636 ÓRTESE SUROPODÁLICA SEM ARTICULAÇÃO EMPOLIPROPILENO (INFANTIL):órtese suropodálica, unilateral, infantil e adolescente, tipo calha posterior em polipropileno, sem articulação, com ou sem correia antivaro ou antivalgo no retropé",
+              "unidade": "Und.",
+              "quantidade": "79,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "38",
+              "especificacao": "9900515980 ÓRTESE SUROPODÁLICA UNILATERAL ARTICULADA EM POLIPROPILENO (ADULTO):órtesesuropodálica unilateral, adulto, tipo calha posterior em polipropileno com articulação no tornozelo, com ou sem correia antivalgo ou antivaro no retropé.",
+              "unidade": "Und.",
+              "quantidade": "21,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "39",
+              "especificacao": "37637 ÓRTESE SUSPENSORIO DE PAVLIK:órtese paraluxação congênita do quadril tipo suspensório pavlix.",
+              "unidade": "Und.",
+              "quantidade": "1,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "40",
+              "especificacao": "37638 ÓRTESE TIPO SARMIENTO PARA ÚMERO:órteses parafratura de úmero, tipo sarmiento confeccionada em polipropileno.",
+              "unidade": "Und.",
+              "quantidade": "4,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "41",
+              "especificacao": "37639 ÓRTESE TLSO / COLETE TIPO BOSTON:órtese (tlso)colete tipo boston, confeccionada sob medida em polipropileno.",
+              "unidade": "Und.",
+              "quantidade": "2,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "42",
+              "especificacao": "37640 ÓRTESE TLSO / TIPO COLETE EM METAL TIPOJEWETT:órtese (tlso) pré-fabricada ou confeccionada em metal e termoplástico tipo colete para sustentação toraco-lombar em hiperextensão, com porção anterior rígida tipo bahler ou jewett.",
+              "unidade": "Und.",
+              "quantidade": "1,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "43",
+              "especificacao": "37641 ÓRTESE TLSO CORRETIVA TORACO:lombar empolipropileno - órtese (tlso) bivalvada, confeccionada em polipropileno (colete), visando estabilidade na coluna torácica e/ou lombar.",
+              "unidade": "Und.",
+              "quantidade": "1,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "44",
+              "especificacao": "37642 ÓRTESE TLSO TIPO COLETE / JAQUETA DERISSER:órtese (tlso) tipo jaqueta de risser, confeccionada sob medida, em termoplástico rígido, para estabilização vertebral, inclusive pós-cirúrgicas.",
+              "unidade": "Und.",
+              "quantidade": "1,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "45",
+              "especificacao": "37643 ÓRTESE TORACICA COLETE DINÂMICA DECOMPRESSÃO TORÁCICA:órtese (to) torácico tipo colete dinâmico compressor para tratamento de pectus carenatum, confeccionada em metal leve ou termoplástico rígido.",
+              "unidade": "Und.",
+              "quantidade": "2,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "46",
+              "especificacao": "37644 PALMILHAS CONFECCIONADAS PALMILHAS CONFECCIONADAS SOB MEDIDA (PAR) -:palmilhasconfeccionadas sob medida",
+              "unidade": "Und.",
+              "quantidade": "4,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "47",
+              "especificacao": "9900515981 PALMILHAS PARA SUSTENTAÇÃO DOS ARCOSPLANTARES ACIMA DO N° 34 (PAR):palmilhas para sustentação dos arcos plantares em couro e eva para adultos, acima do número 34 (trinta e quatro).",
+              "unidade": "Und.",
+              "quantidade": "9,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "48",
+              "especificacao": "37645 PALMILHAS PARA SUSTENTAÇÃO DOS ARCOSPLANTARES ATÉ O NÚMERO 33 (PAR):palmilhas para sustentação dos arcos plantares em couro e eva, até o número trinta e três (33)",
+              "unidade": "Und.",
+              "quantidade": "6,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "49",
+              "especificacao": "9900515982 PRÓTESE CANADENSE ENDOESQUELÉTICA EM ALUMÍNIO OU AÇO (DESARTICULAÇÃO DOQUADRIL):prótese canadense endoesquelética em alumínio ou aço para coto muito curto transfemural, desarticulado de quadril e hemipelvectomia parcial / total, com cesto pélvico em resina acrílica ou polipropileno, articulação de quadril monocêntrica e com ou sem bloqueio, com ou sem impulsor; joelho tipo monoeixo ou policêntrico mecânico, com ou sem impulsor, livre ou com trava ou com freio de atrito, revestida com espuma e meia cosmética pé sach ou articulado uniaxial ou de adaptação dinâmica.",
+              "unidade": "Und.",
+              "quantidade": "1,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "50",
+              "especificacao": "37646 PROTESE CANADENSE EXOESQUELETICA(DESARTICULACAO DO QUADRIL):prótese canadense exoesqueletica para coto curto transfemural, desarticulacao do quadril e hipelvectomia parcial/total, em resina acrílica e fibra de carbono, cesto pélvico em resina ou polipropileno, articulação de quadril monocentrica e com ou sem bloqueio, com dispositivo extensor, joelho monoeixo com ou sem impulsor livre ou com trava ou com freio de atrito, pe sach ou articulado uniaxial, ou de adaptação dinâmica.",
+              "unidade": "Und.",
+              "quantidade": "1,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "51",
+              "especificacao": "37647 PRÓTESE ENDOESQUELÉTICA PARA DESARTICULAÇÃO DE JOELHO EM ALUMÍNIO OUAÇO:prótese endoesquelética para desarticulação do joelho, em alumínio ou aço em resina acrílica, com ou sem soquete flexível interno, joelho endoesquelético de quatro barras em aço com impulsor, revestimento de espuma e meia cosmética, pé sach, articulado ou de adaptação dinâmica.",
+              "unidade": "Und.",
+              "quantidade": "1,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "52",
+              "especificacao": "37648 PRÓTESE ENDOESQUELÉTICA TRANSFEMURAL EMALUMÍNIO OU AÇO:prótese endoesquelética para amputação transfemural em aço ou alumínio com encaixe quadrilátero ou de contenção isquiática, em resina acrílica e fibra de carbono, encaixe interno flexível, com ou sem cinto pélvico ou silesiano, joelho endoesquelético monoeixo ou policêntrico em aço, com ou sem impulsor, livre ou com trava, revestida com espuma e meia cosmética; pé sach ou articulado.",
+              "unidade": "Und.",
+              "quantidade": "23,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "53",
+              "especificacao": "9900515983 PRÓTESE ENDOESQUELÉTICA TRANSTIBIAL TIPO PTB-PTS-KBM EM ALUMÍNIO OU AÇO:próteseendoesquelética tipo ptb-pts ou kbm para amputação transtibial em alumínio ou aço, encaixe laminado em resina acrílica e fibra de carbono, cartucho/encaixe interno flexível, revestida com espuma e meia cosmética; pé sach, articulado ou de adaptação.",
+              "unidade": "Und.",
+              "quantidade": "27,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "54",
+              "especificacao": "37649 PROTESE EXOESQUELETICA PARADESARTICULACAO DO JOELHO:prótese exoesqueletica para desarticulação do joelho, laminada em resina acrílica e fibra de carbono, com articulação de joelho externa em hastes de aço articuladas, encaixe de coxa em resina plástica ou em polipropileno ou em couro grosso, com elástico impulsor para extensão do joelho. pe sach ou articulado.",
+              "unidade": "Und.",
+              "quantidade": "1,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "55",
+              "especificacao": "37650 PROTESE EXOESQUELETICA PASSIVA PARA DESARTICULACAO DO PUNHO OU AMPUTAÇÃOTRANSRADIAL:prótese passiva laminada em resina acrílica, punho em rosca, mão passiva, revestida por luva cosmética.",
+              "unidade": "Und.",
+              "quantidade": "2,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "56",
+              "especificacao": "37651 PROTESE EXOESQUELETICATRANSFEMURAL:prótese exoesqueletica para amputação transfemural em resina acrílica e fibra de carbono. encaixe quadrilátero ou de contenção isquiática, com ou sem cinto pélvico ou silesiano, joelho monoeixo, com ou sem impulsor, livre ou com trava ou com freio de atrito continuo, pe sach ou articulado.",
+              "unidade": "Und.",
+              "quantidade": "2,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "57",
+              "especificacao": "9900515984 PROTESE EXOESQUELETICA TRANSTIBIALCOM COXAL OU MANGUITO DE COXA:prótese exoesqueletica laminada em resina acrílica e fibra de carbono, para amputação transtibial, cartucho/encaixe flexível, coxal (manguito de coxa) conectado ao encaixe de resina pe sach ou articulado.",
+              "unidade": "Und.",
+              "quantidade": "2,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "58",
+              "especificacao": "37652 PROTESE EXOESQUELETICA TRANSTIBIAL TIPO PTB-PTS-KBM:prótese exoesqueletica tipo ptb, pts ou kbm para amputação transtibial laminada em resina acrílica e fibra de carbono, cartucho/encaixe flexível de tipo sach ou articulado.",
+              "unidade": "Und.",
+              "quantidade": "4,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "59",
+              "especificacao": "9900515985 PROTESE FUNCIONAL ENDOESQUELETICA P/AMPUTACAO TRANSUMERAL:prótese funcional laminada em resina acrílica para amputação transumeral, suspensão por correias com ou sem alça sobre o ombro. articulação de cotovelo com bloqueio ativo, em múltiplos estágios, por trava continua. punho de rosca com mão mecânica, revestida de luva cosmética acionada por um sistema de tirantes e correias.",
+              "unidade": "Und.",
+              "quantidade": "1,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "60",
+              "especificacao": "37653 PROTESE FUNCIONAL EXOESQUELETICA P/DESARTICULACAO DE COTOVELO (PUNHOUNIVERSO):prótese funcional exoesqueletica para desarticulação de cotovelo, confeccionada em resina acrílica, com suspensão por correia em oito (8) ou nove (9), cabo de tração, articulação de cotovelo externa com bloqueio ativo de múltiplos estágios. punho universal, mão funcional revestida em luva cosmética.",
+              "unidade": "Und.",
+              "quantidade": "1,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "61",
+              "especificacao": "37654 PRÓTESE FUNCIONAL EXOESQUELÉTICA PARAAMPUTAÇÃO TRANSRADIAL:prótese para amputação transradial, laminada em resina acrílica, sistema de correias em 08 (oito) ou 09 (nove) cabo de tração, punho universal, mão funcional com luva cosmética.",
+              "unidade": "Und.",
+              "quantidade": "2,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "62",
+              "especificacao": "9900515986 PROTESE FUNCIONAL EXOESQUELETICA PARA DESARTICULACAO DE COTOVELO (PUNHO DEROSCA):prótese funcional laminada em resina acrílica para desarticulação de cotovelo, suspensão por manguito umeral e supracondilar, articulação de cotovelo externa com bloqueio ativo de múltiplos estágios, punho de rosca com mão mecânica revestida de luva cosmética, acionada por um sistema de tirantes e correias.",
+              "unidade": "Und.",
+              "quantidade": "1,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "63",
+              "especificacao": "9900515987 PROTESE FUNCIONAL EXOESQUELETICA TRANSRADIAL COM GANCHO DE DUPLA FORÇA:prótesefuncional laminada em resina acrílica para amputação transradial curta, suspensão por manguito umeral, articulação de cotovelo com multiplicador. gancho de dupla força de preensão e mão mecânica revestida de luva cosmética, acionados por um sistema de tirantes e correias.",
+              "unidade": "Und.",
+              "quantidade": "1,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "64",
+              "especificacao": "37655 PROTESE FUNCIONAL EXOESQUELETICA TRANSRADIAL COTO CURTO:prótese para amputaçãotransradial, encaixe tipo kuhn (munster) laminada em resina acrílica, articulação de cotovelo com multiplicador, sistema de correias em 8 ou 9, punho universal, mão funcional revestida por luva cosmética.",
+              "unidade": "Und.",
+              "quantidade": "1,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "65",
+              "especificacao": "9900515988 PROTESE FUNCIONAL EXOESQUELETICA TRANSRADIAL P/ PUNHO DE TROCA RÁPIDA C/ GANCHODE DUPLA FORÇA:prótese funcional laminada em resina acrílica para amputação transradial. suspensão por manguito umeral e supracondilar. punho de troca rápida, com gancho de dupla força de preensão e mão mecânica revestida por luva cosmética. acionamento por meio de tirantes e correias.",
+              "unidade": "Und.",
+              "quantidade": "1,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "66",
+              "especificacao": "9900515989 PROTESE FUNCIONAL EXOESQUELETICATRANSUMERAL:prótese funcional exoesqueletica, para amputação transumeral, confeccionada em resina acrílica, com suspensão por correia em outo ou nove, cotovelo com bloqueio ativo em múltiplos estágios, punho universal, mão funcional com luva cosmética.",
+              "unidade": "Und.",
+              "quantidade": "2,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "67",
+              "especificacao": "9900515990 PRÓTESE MAMÁRIA:prótese mamária em silicone inodor com capa protetora e soutien adaptado para mastectomizadas.",
+              "unidade": "Und.",
+              "quantidade": "2,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "68",
+              "especificacao": "37657 PRÓTESE P/ AMPUTAÇÃO TIPO CHOPART:próteselaminada em resina acrílica reforçada em fibra de carbono, para amputação de chopart, bivalvada ou não, com ou sem apoio no tendão patelar, com pé específico para coto chopart.",
+              "unidade": "Und.",
+              "quantidade": "3,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "69",
+              "especificacao": "9900515991 PRÓTESE PASSIVA ENDOESQUELÉTICA PARA DESARTICULAÇÃO DE OMBRO E ESCAPULECTOMIAPARCIAL OU TOTAL:prótese passiva endoesquelética em tubulação de alumínio, para desarticulação de ombro, ou escapulectomia parcial ou total, com monobloco articulável sobre o ombro, suspensão por correias, cotovelo com bloqueio passivo em múltiplos estágios, punho, mão passiva com luva cosmética.",
+              "unidade": "Und.",
+              "quantidade": "2,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "70",
+              "especificacao": "9900515992 PROTESE PASSIVA ENDOESQUELETICATRANSUMERAL:prótese passiva endoesqueletica em alumínio tubular, para amputação transumeral, revestida com espuma e meia cosmética, suspensão por correia em oito ou nove, cotovelo com bloqueio passivo em múltiplos estágios, punho em rosca, mão passiva com luva cosmética.",
+              "unidade": "Und.",
+              "quantidade": "2,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "71",
+              "especificacao": "37658 PRÓTESE PASSIVA PARA AMPUTAÇÃO PARCIAL DAMÃO:prótese laminada em resina, para complementação de amputação parcial da mão, com revestimento por luva cosmética.",
+              "unidade": "Und.",
+              "quantidade": "1,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "72",
+              "especificacao": "37659 PRÓTESE TIPO PALMILHA PARA AMPUTAÇÃO EMNÍVEL DO ANTE PÉ:prótese tipo palmilha rígida ou flexível para amputação do ante pé, confeccionada em termoplástico sob medida, complementação distal em silicone ou plastazote e adaptável internamente ao calçado comum ou ortopédico.",
+              "unidade": "Und.",
+              "quantidade": "3,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "73",
+              "especificacao": "9900515993 SUBSTITUIÇÃO DE ESPUMA E MEIA COSMÉTICA EM PRÓTESE ENDOESQUELETICATRANSFEMURAL:substituição / troca da espuma e meia de revestimento cosmético da prótese endoesquelética transfemural.",
+              "unidade": "Und.",
+              "quantidade": "1,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "74",
+              "especificacao": "9900515994 SUBSTITUIÇÃO DE PÉ SACH /ARTICULADO:substituição de pé sach ou articulado sem adaptador e sem ferragens.",
+              "unidade": "Und.",
+              "quantidade": "7,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "75",
+              "especificacao": "37660 SUBSTITUIÇÃO DO ENCAIXE INTERNO FLEXÍVEL PARA PRÓTESE TRANSTIBIAL EXOESQULÉTICA/ENDOESQUELÉTICA:substituição do encaixe (soquete) de próteses transtibiais exoesqueléticas ou endoesqueléticas, confeccionadas em resina acrílica e fibra de carbono, com encaixe interno flexível.",
+              "unidade": "Und.",
+              "quantidade": "2,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "76",
+              "especificacao": "9900515995 SUBSTITUIÇÃO/TROCA DO ENCAIXE PARA PRÓTESE TRANSFEMURAL ENDOESQUELÉTICA /EXOESQUELÉTICA:substituição do encaixe (soquete) de próteses transfemurais exoesqueléticas ou endoesqueléticas, confeccionadas em resina acrílica e fibra de carbono.",
+              "unidade": "Und.",
+              "quantidade": "2,00",
+              "valor_referencia": ""
+            },
+            {
+              "numero": "77",
+              "especificacao": "9900515996 TABÚA (PRANCHA) PARATRANSFERÊNCIA:adaptações para atividade de vida diária (avd) -adaptação de madeira, plástico ou outro material resistente, com revestimento ou superfície que facilite o deslizamento, bordas abauladas, utilizada para facilitar as transferências de usuários de cadeira de rodas.",
+              "unidade": "Und.",
+              "quantidade": "2,00",
+              "valor_referencia": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2-DLE-111-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "1115/2026",
+      "modalidade": "DISPENSA ELETRÔNICA",
+      "situacao": "RECEPÇÃO DE PROPOSTAS",
+      "condutor": "ISLA LIMA SILVA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO",
+      "publicacao": "17/11/2026 16:37",
+      "inicio_recepcao": "17/11/2026 17:00",
+      "fim_recepcao": "24/11/2026 08:15",
+      "inicio_disputa": "24/11/2026 08:30",
+      "objeto": "Contratação de empresa especializada na prestação de serviço de [EQUIPAMENTOS E MATERIAIS DE SONORIZAÇÃO, COM PRESTAÇÃO DE SERVIÇOS DE INSTALAÇÃO], a fim de atender as necessidades da Secretaria Municipal de Administração.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DayOw5mXBItLiDkyNFaRrZq8EzVKR6hhCfh1YZssH8MU3uJfZ9JL3mi358gGcL7rminAsK%2FJJ8BdJCGLyOnSmOSVwGSseuCtvzoxVZa4ud2Q%3D",
+      "total_lotes": 2,
+      "total_itens": 20,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "Lote 01: EQUIPAMENTOS E MATERIAIS DE SONORIZAÇÃO",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "28.871,44",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 17,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "5803500010 AMPLIFICADOR PRO 1600X - 400 W RMS - 2 CANAIS: potência máxima total de 400 W RMS em 4 ohms; potência máxima de 200 W RMS por canal em 4 ohms; 2 entradas INPUT CHA e CHB, com conectores P10; 4 saídas OUTPUT CHA e CHB, com conectores P10; 2 saídas SEND, com conectores P10; proteção por LED OVERLOAD e contra curto-circuito; função CLIP; fusível de 4 A; sistema de ventilação; consumo total de 560 W; capacitância da fonte de 10.800 µF; resposta de frequência de 10 Hz a 30 kHz; impedância de entrada de 10 kohms, com faixa de frequência de 10 Hz a 10 kHz; alimentação de 127/220 V; dimensões aproximadas de 485 × 90 × 370 mm (A × L × P); peso aproximado de 8,16 kg. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "2,00",
+              "valor_referencia": "1.388,55"
+            },
+            {
+              "numero": "2",
+              "especificacao": "5803500011 AMPLIFICADOR PWM 1600FM - 400 W RMS - 2 CANAIS: módulo Media Player com tela LCD de 2 polegadas, rádio FM com 18 posições de memória, entrada USB (pendrive), controle remoto e função Change Folder; potência máxima total, sem distorção, de 400 W RMS, sendo 200 e 200 W RMS em 4 ohms; 1 entrada para microfone MIC1 com função MIC PRIORITY (M.P.) e C.V.I.; 2 entradas para microfones MIC2 e MIC3 com conectores P10 (C.V.I.); 2 entradas auxiliares IN com conectores P10 (canais L/R); 2 entradas auxiliares A1 e A2 com conectores RCA estéreo (S.A.) e C.V.I.; 2 saídas SEND com conectores P10; 1 saída auxiliar LINE OUT com 2 conectores RCA estéreo; 2 saídas OUTPUT A e OUTPUT B, com 2 conectores P10 cada e C.V.I.; compatibilidade com 2 caixas de 8 ohms e 100 W RMS por canal ou 1 caixa de 4 ohms e 200 W RMS por canal; equalizador de 3 bandas: LOW, MID e HIGH; consumo total à potência máxima de 560 W RMS; proteção para alto-falantes, fusível e sistema OVERLOAD para proteção contra sobrecarga e curto-circuito; alimentação de 127/220 V; dimensões aproximadas de 485 × 90 × 370 mm (A × L × P); peso aproximado de 7,8 kg. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "2,00",
+              "valor_referencia": "1.771,00"
+            },
+            {
+              "numero": "3",
+              "especificacao": "5803500012 CABO DE ÁUDIO BLINDADO PHILIPS 2 × 0,20 MM2: cabo para uso geral em instalações eletroeletrônicas e interligações em equipamentos de áudio, com 2 condutores de 0,20 mm² e blindagem. Vendido por metro. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "M",
+              "quantidade": "40,00",
+              "valor_referencia": "5,71"
+            },
+            {
+              "numero": "4",
+              "especificacao": "5803500013 CABO P2 RCA 5 M - MONTAT: cabo para conexão de computador (PC) ao rack de áudio, com comprimento mínimo de 5 metros, equipado com conectores P2 e RCA, destinado à transmissão de sinal de áudio estéreo, compatível com equipamentos de sonorização e sistemas de áudio, com revestimento e construção adequados para uso em instalações internas. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "3,00",
+              "valor_referencia": "24,52"
+            },
+            {
+              "numero": "5",
+              "especificacao": "5803500014 CAIXA ACÚSTICA F60 (PRETA) - 60 W RMS: caixa acústica para sistemas de sonorização, com potência RMS total de 60 W; alto-falante de 4 polegadas; tweeter Mylar de 1 polegada; sensibilidade de 92 dB; potência musical de 120 W; impedância de 8 ohms ou com transformadores; resposta de frequência de 80 Hz a 20 kHz; suporte de fixação; dimensões aproximadas de 140 × 120 × 210 mm (A × L × P); peso aproximado de 1,2 kg. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "60,00",
+              "valor_referencia": "202,25"
+            },
+            {
+              "numero": "6",
+              "especificacao": "5907100142 CAPACITOR - 2.200 UF, 25 V: capacitor eletrolítico, com capacitância nominal de 2.200 UF e tensão de trabalho de 25 V, destinado à utilização em circuitos e equipamentos eletroeletrônicos compatíveis com suas especificações. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "8,00",
+              "valor_referencia": "3,93"
+            },
+            {
+              "numero": "7",
+              "especificacao": "5803500015 FILTRO PARA MICROFONE: isolador de áudio e filtro de ruído para sistemas de sonorização, destinado à redução e eliminação de zumbidos, ruídos e interferências no sinal de áudio, especialmente aqueles decorrentes de loop de aterramento; faixa de resposta de frequência de aproximadamente 20 Hz a 50 kHz; conexão para sinal de áudio auxiliar, compatível com microfones, mesas de som, interfaces de áudio, amplificadores, instrumentos musicais e demais equipamentos de áudio compatíveis; estrutura compacta e resistente, com gabinete em liga de alumínio ou material equivalente; dispositivo passivo, de fácil instalação, adequado para utilização em sistemas de sonorização, estúdios e equipamentos de áudio. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "4,00",
+              "valor_referencia": "138,98"
+            },
+            {
+              "numero": "8",
+              "especificacao": "5803500016 FIO BICOLOR PARA SOM 2 × 1 MM2 - PRETO/VERMELHO: fio paralelo bicolor para sistemas de som, com 2 condutores, seção nominal de 1 mm2, equivalente a aproximadamente 0,458 mm de diâmetro e bitola 16 AWG, nas cores preto e vermelho, destinado à conexão de alto-falantes e equipamentos de áudio. Fornecido em rolo, com comprimento mínimo de 1 metro. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "M",
+              "quantidade": "1.200,00",
+              "valor_referencia": "1,82"
+            },
+            {
+              "numero": "9",
+              "especificacao": "5803500017 MICROFONE DING DONG F-AUDIO - GS20: microfone com método de conversão de energia capacitivo; resposta de frequência de 60 Hz a 16 kHz; padrão de captação cardioide (em forma de coração); impedância de saída de 200 ohms; sensibilidade de -42 dB ± 2 dB; alimentação por 2 pilhas, com tensão de 1,5 V em corrente contínua (DC). EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "3,00",
+              "valor_referencia": "246,11"
+            },
+            {
+              "numero": "10",
+              "especificacao": "5803500018 PLUG P10 - MONO, METÁLICO, COM MOLA: plugue P10 mono, com corpo metálico e mola de proteção do cabo, destinado à conexão de microfones, instrumentos musicais, caixas acústicas, amplificadores e demais equipamentos de áudio compatíveis, com construção resistente e adequada para uso em sistemas de sonorização. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "10,00",
+              "valor_referencia": "8,86"
+            },
+            {
+              "numero": "11",
+              "especificacao": "5803500019 POTENCIÔMETRO DE FIO: potenciômetro de fio, acompanhado de knob, destinado ao controle e ajuste de volume, intensidade ou demais parâmetros elétricos em equipamentos de áudio e sistemas de sonorização compatíveis; potência nominal de 4 W; resistência mínima de 1K (1.000 ohms). EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "2,00",
+              "valor_referencia": "28,22"
+            },
+            {
+              "numero": "12",
+              "especificacao": "5803500020 PROTETOR DE SURTO: dispositivo de proteção contra surtos elétricos, destinado à proteção de equipamentos e sistemas de sonorização contra picos e transientes de tensão na rede elétrica; tensão de operação de 127/220 V em corrente alternada (Vca), com alimentação bivolt; dimensões aproximadas de 5,6 × 6,6 × 7,0 cm; compatível com equipamentos e sistemas elétricos de sonorização. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "2,00",
+              "valor_referencia": "41,25"
+            },
+            {
+              "numero": "13",
+              "especificacao": "5803500021 RACK 5U PARA SOM - 470 MM: rack para acomodação e organização de equipamentos de áudio e sonorização, com capacidade de 5U (unidades de rack), estrutura adequada para instalação e fixação dos equipamentos. Dimensões aproximadas: profundidade de 470 mm, largura de 48,36 cm e altura de 28 cm. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "3,00",
+              "valor_referencia": "325,51"
+            },
+            {
+              "numero": "14",
+              "especificacao": "5803500022 RÉGUA DE ENERGIA 6 TOMADAS PARA RACK 19: régua de energia para instalação em rack padrão 19 polegadas, com 6 tomadas; alimentação bivolt, 127/220 V; frequência de 50/60 Hz; cabo de alimentação com comprimento mínimo de 1,80 m; chassi metálico com pintura eletrostática na cor preta; cabo e plugue normatizados; tomadas polarizadas em conformidade com a ABNT NBR 5410 (Associação Brasileira de Normas Técnicas - Instalações elétricas de baixa tensão); corrente nominal mínima de 10 A; adequada para alimentação e organização de equipamentos de áudio e sonorização instalados em rack. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "3,00",
+              "valor_referencia": "127,80"
+            },
+            {
+              "numero": "15",
+              "especificacao": "5803500023 SUPORTE PARA RACK DE SOM - 40 CM, ATÉ 50 KG: suporte para rack de som, com comprimento aproximado de 40 cm, capacidade de suporte de carga de até 50 kg, estrutura resistente e adequada para instalação e sustentação de racks e equipamentos de áudio e sonorização. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "2,00",
+              "valor_referencia": "81,61"
+            },
+            {
+              "numero": "16",
+              "especificacao": "5803500024 TRANSFORMADOR DE LINHA 210 V - 15 W - FATTO: transformador de linha para sistemas de sonorização, com tensão de linha de 210 V e potência nominal de 15 W, destinado à adaptação e distribuição do sinal de áudio em sistemas compatíveis, adequado para instalação em caixas acústicas e arandelas. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "60,00",
+              "valor_referencia": "51,45"
+            },
+            {
+              "numero": "17",
+              "especificacao": "5803500025 TRANSFORMADOR TRONCO DE 70 V A 210 V - 150 W - FATTO: transformador tronco para sistemas de som ambiente, com potência nominal de 150 W, destinado à utilização com amplificadores de até 150 W e indicado para sistemas de sonorização ambiente em supermercados, lojas e estabelecimentos similares; compatível com linhas de 70 V, 120 V e 210 V; potência nominal de 150 W. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "UND",
+              "quantidade": "8,00",
+              "valor_referencia": "221,00"
+            }
+          ]
+        },
+        {
+          "numero": "2",
+          "titulo": "Lote 02: SERVIÇOS DE INSTALAÇÃO",
+          "fase": "RECEPÇÃO DE PROPOSTAS",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "10.160,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 3,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9903312182 MONTAGEM DO TRANSFORMADOR EM CAIXA OU ARANDELA: serviço de montagem e instalação de transformador de áudio em caixas acústicas ou arandelas, incluindo fixação, conexão dos terminais, organização da fiação, testes de funcionamento e ajustes necessários para garantir o correto funcionamento do sistema de sonorização. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "SERV",
+              "quantidade": "60,00",
+              "valor_referencia": "7,50"
+            },
+            {
+              "numero": "2",
+              "especificacao": "9903312183 MONTAGEM DE RACK: serviço de montagem e organização de rack para sistema de sonorização, incluindo instalação e fixação dos equipamentos, organização e identificação dos cabos, conexão dos componentes, testes de funcionamento e ajustes necessários para o correto funcionamento do sistema. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "SERV",
+              "quantidade": "2,00",
+              "valor_referencia": "150,00"
+            },
+            {
+              "numero": "3",
+              "especificacao": "9903312184 INSTALAÇÃO GERAL DO SISTEMA DE SONORIZAÇÃO: serviço de instalação, interligação e configuração dos equipamentos e componentes do sistema de sonorização do terminal rodoviário e do Aeroporto Municipal, incluindo instalação de caixas acústicas, amplificadores, cabos, conectores, microfones, filtros, transformadores e demais componentes, lançamento, organização e fixação da fiação, conexões elétricas e de áudio, testes de funcionamento, regulagem dos equipamentos, ajustes de níveis e equalização, verificação da distribuição e qualidade do sinal de áudio e demais procedimentos necessários ao pleno funcionamento do sistema, excetuando-se os serviços de montagem e instalação de transformadores em caixas acústicas, previstos em item específico deste objeto. As instalações deverão ser realizadas no Terminal Rodoviário e no Aeroporto Municipal 9 de Maio, ambos localizados no Município de Teixeira de Freitas/BA, conforme as respectivas plantas, juntadas ao processo. EXCLUSIVO PARA ME/EPP.",
+              "unidade": "SERV",
+              "quantidade": "2,00",
+              "valor_referencia": "4.705,00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5-DLE-118-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "1199/2026",
+      "modalidade": "DISPENSA ELETRÔNICA",
+      "situacao": "JULGAMENTO",
+      "condutor": "ISAQUE SILVA DOS SANTOS",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO",
+      "publicacao": "12/11/2026 17:25",
+      "inicio_recepcao": "12/11/2026 17:26",
+      "fim_recepcao": "19/11/2026 10:15",
+      "inicio_disputa": "19/11/2026 10:30",
+      "objeto": "Contratação de empresa especializada na prestação de serviço de [BUFFET], a fim de atender as necessidades da Secretaria Municipal de Promoção Social.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5D%2F5rIEg7aE278fDNeWwKDP68fCqW3Be84w3uR0tX5aywz0FzKeG4YEteE8upSgK7db05dn3pF4hEGSzRYY5zz20Do9nWzamiUm%2F9NZYIaCTA%3D",
       "total_lotes": 1,
       "total_itens": 1,
       "lotes": [
         {
           "numero": "1",
-          "titulo": "Rastreamento e monitoramento veicular",
-          "fase": "HABILITAÇÃO",
+          "titulo": "9903312196 Serviço de buffet livre",
+          "fase": "JULGAMENTO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "10.060,00",
+          "vencedor": "COUTO RESTAURANTE LTDA",
+          "melhor_oferta": "10.060,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9903312196 Serviço de buffet livre:compreendendo ofornecimento de refeição do tipo almoço, com preparo,acondicionamento, transporte, disponibilização, organização,distribuição e reposição dos alimentos e bebidas, bem como ofornecimento de equipe suficiente para atendimento dosparticipantes durante a prestação do serviço. A execução deverácontemplar todos os utensílios, pratos, talheres, utensílios decozinha, equipamentos e demais materiais necessários àadequada disponibilização e serviço das refeições, incluindo aorganização do espaço destinado à alimentação, em local edisposição definidos pela Administração Pública, observadas asnormas sanitárias e de segurança alimentar aplicáveis. O buffetdeverá oferecer cardápio composto por arroz, strogonoff defrango, carne bovina ao molho madeira, farofa de manteiga esalada tropical, preparados e apresentados em condiçõesadequadas para consumo, com reposição durante o período deatendimento. Deverá incluir, ainda, no mínimo 2 (dois) tipos desuco de fruta, preparados com fruta ou polpa, disponibilizadosem quantidade suficiente para atendimento dos participantes,juntamente com todo o material necessário ao serviço econsumo das refeições.",
+              "unidade": "SER",
+              "quantidade": "200,00",
+              "valor_referencia": "50,30"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5-DLE-119-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "1271/2026",
+      "modalidade": "DISPENSA ELETRÔNICA",
+      "situacao": "JULGAMENTO",
+      "condutor": "ISLA LIMA SILVA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO",
+      "publicacao": "12/11/2026 15:10",
+      "inicio_recepcao": "12/11/2026 15:15",
+      "fim_recepcao": "19/11/2026 08:15",
+      "inicio_disputa": "19/11/2026 08:30",
+      "objeto": "Contratação de empresa especializada em prestação de serviço de palestra e auxílio técnico-pedagógico durante a 10ª Conferência Municipal dos Direitos da Criança e do Adolescente de Teixeira de Freitas/BA, prevista para os dias 25 e 26 de novembro de 2026, cujo tema central será Fortalecendo o Sistema de Garantia de Direitos da Criança e do Adolescente (SGDCA) e a Democracia Participativa , a fim de atender as demandas da Secretaria Municipal de Promoção Social.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DpPk8cBc1o7MZdMHiaLbHj5QQh1Wz0zCjLZBcwTaB07teTOzBzZt%2FfuL4fUmWFGDaP_r3qbbGilRCZrmbRTS9tE0iFHZOFfaZ2KX7gxZk02g%3D",
+      "total_lotes": 1,
+      "total_itens": 1,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "37896 Contratação de profissional especializado",
+          "fase": "JULGAMENTO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "4.996,67",
+          "vencedor": "IQ TERAPIAS INTEGRATIVAS LTDA",
+          "melhor_oferta": "4.995,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "37896 Contratação de profissional especializado:, comcomprovada qualificação técnica e experiência na área dosdireitos da criança e do adolescente, para prestação de serviçosde palestra e assessoria técnico-pedagógica no âmbito da 10ªConferência Municipal dos Direitos da Criança e do Adolescentede Teixeira de Freitas/BA, a ser realizada nos dias 25 e 26 denovembro de 2026, com carga horária total de 02 (duas) horas e30 (trinta) minutos, compreendendo a realização de aberturatemática de 30 (trinta) minutos no dia 25 de novembro de 2026 e,no dia 26 de novembro de 2026, a realização de palestra comduração de 01 (uma) hora e prestação de 01 (uma) hora deauxílio técnico-pedagógico aos grupos de trabalho dos eixostemáticos da Conferência, tendo como tema central\"Fortalecendo o Sistema de Garantia de Direitos da Criança e doAdolescente (SGDCA) e a Democracia Participativa\",contemplando abordagem dos fundamentos da proteção integrale da prioridade absoluta, da articulação e corresponsabilidadedos órgãos integrantes do Sistema de Garantia de Direitos, dofortalecimento da participação social e do controle democrático,do protagonismo de crianças e adolescentes e da construçãocoletiva de propostas para o aprimoramento das políticaspúblicas infantojuvenis, incluindo orientação metodológica esuporte técnico aos debates dos eixos temáticos, com vistas àqualificação das discussões, à sistematização de reflexões e aofortalecimento das deliberações da Conferência.",
+              "unidade": "SER",
+              "quantidade": "1,00",
+              "valor_referencia": "4.996,67"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-190-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "1134 / 2026",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "JULGAMENTO",
+      "condutor": "SERGIO CARNEIRO CAVALCANTI DE AZEVEDO",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO PARCELADA",
+      "publicacao": "06/11/2026 14:00",
+      "inicio_recepcao": "10/11/2026 08:00",
+      "fim_recepcao": "23/11/2026 08:15",
+      "inicio_disputa": "23/11/2026 08:30",
+      "objeto": "Contratação de empresa especializada em fornecimento de Tubos em Polietileno de Alta Densidade (PEAD) e pasta lubrificante,  a fim de atender as demandas da Secretaria Municipal de Infraestrutura e Serviços Urbanos.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DWfDywoLkjGpKuBZX3nJGQIq3jRrELynZWAxTuoBuQmssbmewkOudXOB4Q7cluOHi%2Fzgtf2_7gE1Hd1E1UeuEN8CFGQ9RvemcPWU1HtR01F0%3D",
+      "total_lotes": 5,
+      "total_itens": 5,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "9900516415 TUBO PEAD DN 600 MM:tubo extrudado em PEAD (polietileno de alta densidade), de parede dupla, com superfície interna lisa e externa corrugada, união por sistema ponta e bolsa, fornecido em barras de 6 metros de comprimento. Cor preta, com pigmen",
+          "fase": "JULGAMENTO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "2.021.728,00",
+          "vencedor": "ALC TUBOS E CONEXÕES LTDA",
+          "melhor_oferta": "2.000.000,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900516415 TUBO PEAD DN 600 MM:tubo extrudado em PEAD (polietileno de alta densidade), de parede dupla, com superfície interna lisa e externa corrugada, união por sistema ponta e bolsa, fornecido em barras de 6 metros de comprimento. Cor preta, com pigmentação em negro de fumo, diâmetro nominal DN/DI 600 mm, baseado no diâmetro interno, classe de rigidez SN4, destinado a sistemas de drenagem e condução de águas pluviais, em conformidade com a Norma DNIT 094/2014",
+              "unidade": "Und.",
+              "quantidade": "800,00",
+              "valor_referencia": "2.527,16"
+            }
+          ]
+        },
+        {
+          "numero": "2",
+          "titulo": "9900516416 TUBO PEAD 800 MM:tubo extrudado, de parede dupla em PEAD (polietileno de alta densidade), com união ponta e bolsa, liso internamente e corrugado externamente, em barras de 6 M de comprimento, cor preta, pigmentada com negro de fumo, com diâmetr",
+          "fase": "JULGAMENTO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "1.885.297,80",
+          "vencedor": "ALC TUBOS E CONEXÕES LTDA",
+          "melhor_oferta": "1.699.998,40",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900516416 TUBO PEAD 800 MM:tubo extrudado, de parede dupla em PEAD (polietileno de alta densidade), com união ponta e bolsa, liso internamente e corrugado externamente, em barras de 6 M de comprimento, cor preta, pigmentada com negro de fumo, com diâmetro nominal DN/DI 800 MM (baseado no diâmetro interno), classe de rigidez SN4, conforme norma DNIT 094/2014",
+              "unidade": "Und.",
+              "quantidade": "380,00",
+              "valor_referencia": "4.961,31"
+            }
+          ]
+        },
+        {
+          "numero": "3",
+          "titulo": "9900516435 TUBO PEAD 1050-1000MM:tubo extrudado, parede dupla em PEAD (polietileno de alta densidade), com união ponta e bolsa, liso internamente e corrugado externamente, em barras de 6m de comprimento, cor preta, pigmentada com negro de fumo, com diâmet",
+          "fase": "JULGAMENTO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "1.426.020,00",
+          "vencedor": "RAZAO XP LICITACOES LTDA",
+          "melhor_oferta": "2.100.000,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900516435 TUBO PEAD 1050-1000MM:tubo extrudado, parede dupla em PEAD (polietileno de alta densidade), com união ponta e bolsa, liso internamente e corrugado externamente, em barras de 6m de comprimento, cor preta, pigmentada com negro de fumo, com diâmetro nominal DN/DI 1050-1000mm (baseado no diâmetro interno), classe de rigidez sn4, conforme norma DNIT 094/2014",
+              "unidade": "Und.",
+              "quantidade": "250,00",
+              "valor_referencia": "5.704,08"
+            }
+          ]
+        },
+        {
+          "numero": "4",
+          "titulo": "9900516436 TUBO PEAD 1200 MM:tubo extrudado, parede dupla em PEAD (polietileno de alta densidade), com união ponta e bolsa, liso, liso internamente e corrugado externamente, em barras de 6m de comprimento, cor preta, pigmentada com negro de fumo, com diâm",
+          "fase": "JULGAMENTO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "800.674,00",
+          "vencedor": "META COMERCIO DE FERRAGENS E FERRAMENTAS EIRELI",
+          "melhor_oferta": "1.079.000,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900516436 TUBO PEAD 1200 MM:tubo extrudado, parede dupla em PEAD (polietileno de alta densidade), com união ponta e bolsa, liso, liso internamente e corrugado externamente, em barras de 6m de comprimento, cor preta, pigmentada com negro de fumo, com diâmetro nominal DN/DI 1200 MM (baseado no diâmetro interno), classe de rigidez SN4, conforme norma DNIT 094/2014",
+              "unidade": "Und.",
+              "quantidade": "100,00",
+              "valor_referencia": "8.006,74"
+            }
+          ]
+        },
+        {
+          "numero": "5",
+          "titulo": "9900516437 PASTA LUBRIFICANTE:para encaixe e montagem de tubos e conexões com junta elástica compatível com o material da tubulação e os anéis de vedação. Fornecido em balde com 2,4kg",
+          "fase": "JULGAMENTO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "42.273,00",
+          "vencedor": "META COMERCIO DE FERRAGENS E FERRAMENTAS EIRELI",
+          "melhor_oferta": "28.300,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900516437 PASTA LUBRIFICANTE:para encaixe e montagem de tubos e conexões com junta elástica compatível com o material da tubulação e os anéis de vedação. Fornecido em balde com 2,4kg",
+              "unidade": "Und.",
+              "quantidade": "300,00",
+              "valor_referencia": "140,91"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-192-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "1098 / 2026",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "JULGAMENTO",
+      "condutor": "SERGIO CARNEIRO CAVALCANTI DE AZEVEDO",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO",
+      "publicacao": "05/11/2026 15:18",
+      "inicio_recepcao": "09/11/2026 08:00",
+      "fim_recepcao": "19/11/2026 08:15",
+      "inicio_disputa": "19/11/2026 08:30",
+      "objeto": "Contratação de empresa especializada em fornecimento de GARRAFAS TÉRMICAS (material de consumo), quantidades e demais condições encontram-se detalhadas neste instrumento, a fim de atender as demandas da Secretaria Municipal de Educação.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DBwBhdRuryMqWbSwp%2FArAMgc62O_m3EbHw0_SzHUQXqwszXuoHhplLweiRIPokctYtaHfGhGpPwMBkwQt2S0JcZ234rdeJor8dByLdof4v_I%3D",
+      "total_lotes": 1,
+      "total_itens": 1,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "GARRAFA TÉRMICA",
+          "fase": "JULGAMENTO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "95.700,00",
+          "vencedor": "GIFT BOOK LTDA.",
+          "melhor_oferta": "52.425,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9900516399 GARRAFA TÉRMICA TIPO SQUEEZE,CAPACIDADE NOMINAL DE 950 ML:confeccionada em açoinoxidável ou material de qualidade e desempenho equivalente,resistente à corrosão e próprio para contato com alimentos ebebidas, com parede dupla e isolamento térmico a vácuo,adequada para bebidas quentes e frias. Tampa com fechamentorosqueável ou sistema equivalente, dotada de vedação emsilicone ou material atóxico equivalente, resistente a vazamentos.Componentes em contato com bebidas próprios para usoalimentar e livres de BPA, quando aplicável. Capacidadeaproximada de 950 ml, admitida tolerância técnica de até ±5%.Cor azul royal ou branca, conforme definição da Administração.Deverá permitir personalização com as logomarcas do Municípioe da Secretaria Municipal de Educação, mediante gravação,impressão ou processo equivalente, resistente ao uso e àhigienização",
+              "unidade": "UN",
+              "quantidade": "1.500,00",
+              "valor_referencia": "63,80"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2-DLE-116-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "1171/2026",
+      "modalidade": "DISPENSA ELETRÔNICA",
+      "situacao": "HOMOLOGADO",
+      "condutor": "JONATAS DA SILVA SOUSA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO PARCELADA",
+      "publicacao": "30/10/2026 17:01",
+      "inicio_recepcao": "30/10/2026 18:00",
+      "fim_recepcao": "06/11/2026 08:15",
+      "inicio_disputa": "06/11/2026 08:30",
+      "objeto": "3.1.\tContratação de empresa especializada na prestação de serviços de agenciamento de passagens aéreas nacionais, destinados ao atendimento das necessidades da Secretaria Municipal de Administração e demais Secretarias Municipais, abrangendo pesquisa, cotação, reserva, emissão, remarcação, cancelamento, reembolso e serviços correlatos, conforme o Termo de Referência e anexos.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5D%2FRis5vA50BwevGP%2FrN6xvHTId_CVVvO_d6NE3DndGflPVrhgi4rSiIatzlgInhxpVIq_T7IsTjNIKASLmbsZwD5%2FeozZyY5YrCdMah0bxws%3D",
+      "total_lotes": 1,
+      "total_itens": 1,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "SERVIÇOS DE AGENCIAMENTO DE PASSAGENS AÉREAS NACIONAIS",
+          "fase": "HOMOLOGADO",
+          "tipo": "UNITÁRIO",
+          "quantidade": "1",
+          "intervalo_minimo": "0,0001",
+          "exclusivo_me": "SIM",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "0,00",
+          "vencedor": "VIDATUR TURISMO LTDA",
+          "melhor_oferta": "-38,99",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "Contratação de empresa especializada no serviço de agenciamento de passagens aéreas: Oferecendo emissão de bilhetes de passagens de todas as companhias de transporte aéreo em trechos nacionais, incluindo reserva, emissão, transferência, marcação, remarcação e reembolso, despacho de bagagem.",
+              "unidade": "SERVIÇO",
+              "quantidade": "1,00",
+              "valor_referencia": "0,00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-173-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "1000 / 2026",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "JULGAMENTO",
+      "condutor": "JONATAS DA SILVA SOUSA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO PARCELADA",
+      "publicacao": "20/10/2026 10:35",
+      "inicio_recepcao": "10/11/2026 08:00",
+      "fim_recepcao": "23/11/2026 08:15",
+      "inicio_disputa": "23/11/2026 08:30",
+      "objeto": "Contratação de empresa especializada em fornecimento do medicamento NINTEDANIBE (OFEV®) (material de consumo),  a fim de atender as demandas da Secretaria Municipal de Saúde.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DPu5YRVOns%2FlNxBtd69OYwCjcf2CtSlJISgt7oqcuva6ibCXzQIAx5X3Wr6HbSIFo3EiG8dYspWE8V_O38uwxebz3HpgzHYyTzy8Wz_TvclE%3D",
+      "total_lotes": 1,
+      "total_itens": 1,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "NINTEDANIBE",
+          "fase": "JULGAMENTO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "250.711,20",
+          "vencedor": "DISFARMED DISTRIBUIDORA E IMPORTADORA DE MEDICAMENTOS E CORRELATOS LTDA",
+          "melhor_oferta": "172.800,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "10101200029 NINTEDANIBE (OFEV®) 150 MG:Fármacoantifibrótico e antineoplásico, quimicamente caracterizado comoum potente inibidor intracelular múltiplo de tirosina quinase. Atuapor meio do bloqueio competitivo do sítio de ligação do trifosfatode adenosina (ATP) nos receptores do fator de crescimentoderivado de plaquetas (PDGFR alfa e beta), do fator decrescimento fibroblástico (FGFR 1, 2 e 3) e do fator decrescimento endotelial vascular (VEGFR 1, 2 e 3). A inibiçãodestas vias de sinalização celular impede a proliferação, amigração e a diferenciação de fibroblastos e miofibroblastospulmonares, reduzindo a deposição anômala de colágeno e aremodelagem patológica da matriz extracelular. O medicamentoatua diretamente na desaceleração da taxa de declínio anual dacapacidade vital forçada (CVF), retardando a progressão dafibrose e atenuando a perda da função ventilatória pulmonar.",
+              "unidade": "CO",
+              "quantidade": "720,00",
+              "valor_referencia": "348,21"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-169-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "710/2026",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "FRACASSADO",
+      "condutor": "SERGIO CARNEIRO CAVALCANTI DE AZEVEDO",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO PARCELADA",
+      "publicacao": "02/10/2026 10:47",
+      "inicio_recepcao": "06/10/2026 08:00",
+      "fim_recepcao": "21/10/2026 08:15",
+      "inicio_disputa": "21/10/2026 08:30",
+      "objeto": "Contratação de empresa especializada em prestação de serviço de LIMPEZA DE FOSSA SÉPTICA, INCLUINDO LOCAÇÃO DE CAMINHÕES LIMPA-FOSSA, a fim de atender as demandas da Secretaria Municipal de Infraestrutura e Serviços Urbanos.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5D6XXVokUk_a7grBx4vP2KlcXb%2FKhgABP_NahcjEPcjyy4ars_VO4yWVw7_k_YzIx5mcmTdc_GkZA5zw1jG1suuv_nRjKBZnDFrkuOD9JKiXE%3D",
+      "total_lotes": 1,
+      "total_itens": 2,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "LIMPEZA FOSSA",
+          "fase": "FRACASSADO",
+          "tipo": "GLOBAL",
+          "quantidade": "1",
+          "intervalo_minimo": "0,01",
+          "exclusivo_me": "NÃO",
+          "local_entrega": "CONFORME EDITAL",
+          "garantia": "CONFORME EDITAL",
+          "valor_referencia": "2.327.868,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 2,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "100200445 PRESTAÇÃO DE SERVIÇOS DE LIMPEZA DEFOSSA SÉPTICA:incluindo locação de caminhão limpa fossa truck com capacidade de 12.000 litros, com bomba de sucção com tamanho mínimo de 30 metros, motor 6 cilindros (motorista/operador, ajudante, combustível, manutenção, seguro e encargos)",
+              "unidade": "HR",
+              "quantidade": "3.600,00",
+              "valor_referencia": "353,83"
+            },
+            {
+              "numero": "2",
+              "especificacao": "37544 PRESTAÇÃO DE SERVIÇOS DE LIMPEZA DE FOSSASÉPTICA:incluindo a locação de caminhão limpa fossa truck com capacidade de 8.000 litros, com bomba de sucção com tamanho mínimo de 30 metros, motor 6 cilindros (motorista/operador, ajudante, combustível, manutenção, seguro e encargo)",
+              "unidade": "HR",
+              "quantidade": "3.600,00",
+              "valor_referencia": "292,80"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PE-141-2026",
+      "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
+      "numero_adm": "801 / 2026",
+      "modalidade": "PREGÃO ELETRÔNICO",
+      "situacao": "CANCELADO",
+      "condutor": "JONATAS DA SILVA SOUSA",
+      "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
+      "tipo_contrato": "AQUISIÇÃO",
+      "publicacao": "27/08/2026 17:04",
+      "inicio_recepcao": "31/08/2026 08:00",
+      "fim_recepcao": "18/09/2026 08:15",
+      "inicio_disputa": "18/09/2026 08:30",
+      "objeto": "Contratação de empresa especializada em prestação de serviço de MONITORAMENTO E RASTREAMENTO\nVEICULAR COM FORNECIMENTO, EM REGIME DE COMODATO, DOS EQUIPAMENTOS RASTREADORES E ACESSÓRIOS, a fim de atender as demandas da Secretaria Municipal de Administração e demais Secretarias.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5Dpt_UpL3Jr7a_avqjU6lIeUx_amijXe4jwX_khCFVEIB861VHuYEjtB57DFGlSYbq_o4D%2FF_Gt2O4eiOMvUJErSWsZ0rICPn3QaLpzPGAhq0%3D",
+      "total_lotes": 1,
+      "total_itens": 1,
+      "lotes": [
+        {
+          "numero": "1",
+          "titulo": "MONITORAMENTO VEICULO",
+          "fase": "CANCELADO",
           "tipo": "GLOBAL",
           "quantidade": "1",
           "intervalo_minimo": "0,01",
@@ -324127,14 +324897,14 @@
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "201.548,16",
-          "vencedor": "TORKYS SISTEMAS E EQUIPAMENTOS LTDA ME",
-          "melhor_oferta": "55.408,32",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
           "total_itens": 1,
           "itens": [
             {
               "numero": "1",
-              "especificacao": "9903312120 Rastreamento e monitoramento veicular:destinados à gestão da frota de frota, por meio de sistema informatizado em plataforma web e aplicativo móvel, com monitoramento em tempo real, dos deslocamentos, paradas, velocidades, eventos e demais informações operacionais da frota, emissão de relatórios gerenciais e transmissão de dados por tecnologia GPS/GSM/GPRS ou superior, contemplando o fornecimento, em regime de comodato, dos equipamentos rastreadores, acessórios e demais componentes necessários ao pleno funcionamento da solução, incluindo conectividade de dados, instalação, configuração, ativação, manutenção preventiva e corretiva, substituição de equipamentos quando necessária, disponibilização de sistema web para até 5 usuários simultâneos, suporte técnico e garantia de funcionamento durante toda a vigência contratual.",
-              "unidade": "SERV",
+              "especificacao": "9903312120 Rastreamento e monitoramento veicular:destinadosà gestão da frota de frota, por meio de sistema informatizado emplataforma web e aplicativo móvel, com monitoramento emtempo real, dos deslocamentos, paradas, velocidades, eventos edemais informações operacionais da frota, emissão de relatóriosgerenciais e transmissão de dados por tecnologiaGPS/GSM/GPRS ou superior, contemplando o fornecimento, emregime de comodato, dos equipamentos rastreadores, acessóriose demais componentes necessários ao pleno funcionamento dasolução, incluindo conectividade de dados, instalação,configuração, ativação, manutenção preventiva e corretiva,substituição de equipamentos quando necessária,disponibilização de sistema web para até 5 usuários simultâneos,suporte técnico e garantia de funcionamento durante toda avigência contratual.",
+              "unidade": "SER",
               "quantidade": "264,00",
               "valor_referencia": "763,44"
             }
@@ -324147,29 +324917,29 @@
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "758/2025",
       "modalidade": "CREDENCIAMENTO",
-      "situacao": "EM FINALIZAÇÃO",
+      "situacao": "SUSPENSO",
       "condutor": "MAGDA DE SELES GUIMARÃES",
       "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
       "tipo_contrato": "AQUISIÇÃO",
-      "publicacao": "03/06/2025 16:35",
+      "publicacao": "03/06/2025 11:48",
       "inicio_recepcao": "13/06/2025 08:00",
-      "fim_recepcao": "15/06/2026 08:00",
+      "fim_recepcao": "15/06/2026 00:00",
       "inicio_disputa": "",
-      "objeto": "CREDENCIAMENTO DE PESSOA JURÍDICA PARA PRESTAÇÃO DE SERVIÇOS MÉDICOS ESPECIALIZADOS EM ANÁLISE PATOLÓGICA PARA ATENDER AS DEMANDAS DA SECRETARIA MUNICIPAL DE SAÚDE",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5D6qQ2soVm1RBZMu5yQNMQ26KUJYhBaF92ZXJLmVo4_n_AT%2FXebffceUZjmsi7NRNOz7INPIAHK1s9iNK0rblSQ_d_%2FtJwmhbnAriBg8CQceU%3D",
-      "total_lotes": 6,
-      "total_itens": 6,
+      "objeto": "Credenciamento de pessoa jurídica para PRESTAÇÃO DE SERVIÇOS\n MÉDICOS ESPECIALIZADOS EM ANÁLISE PATOLÓGICA para atender as demandas da\n Secretaria Municipal de Saúde.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DKPG8%2FEScDCZadYqseU92c5EKYAZvbUcxuAbyyTtRTZe6RaMknikJS1Hjb9YcUzDP%2FBp8cLp%2Fq68ExCr3B%2FdyE7CaVl1De5D_T5y6tATIJDw%3D",
+      "total_lotes": 9,
+      "total_itens": 9,
       "lotes": [
         {
           "numero": "1",
-          "titulo": "33436 BIÓPSIA SIMPLES",
-          "fase": "HABILITAÇÃO",
+          "titulo": "33436 BIÓPSIA SIMPLES:BIÓPSIA SIMPLES",
+          "fase": "SUSPENSO",
           "tipo": "UNITÁRIO",
           "quantidade": "1",
           "intervalo_minimo": "0,00",
           "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
+          "local_entrega": "",
+          "garantia": "",
           "valor_referencia": "60,19",
           "vencedor": "",
           "melhor_oferta": "0,00",
@@ -324179,21 +324949,45 @@
               "numero": "1",
               "especificacao": "33436 BIÓPSIA SIMPLES:BIÓPSIA SIMPLES",
               "unidade": "SERV",
-              "quantidade": "2.500,00",
+              "quantidade": "1.875,00",
               "valor_referencia": "60,19"
             }
           ]
         },
         {
           "numero": "2",
-          "titulo": "9903311392 CITOLOGIA EM MEIO LIQUIDO",
-          "fase": "HABILITAÇÃO",
+          "titulo": "909911235 BIOPSIA SIMPLES:BIÓPSIA SIMPLES. COTA DE 25% RESERVADA PARA  ME/EPP.",
+          "fase": "SUSPENSO",
           "tipo": "UNITÁRIO",
           "quantidade": "1",
           "intervalo_minimo": "0,00",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
+          "exclusivo_me": "SIM",
+          "local_entrega": "",
+          "garantia": "",
+          "valor_referencia": "60,19",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "909911235 BIOPSIA SIMPLES:BIÓPSIA SIMPLES. COTA DE 25% RESERVADA PARA ME/EPP.",
+              "unidade": "SERV",
+              "quantidade": "625,00",
+              "valor_referencia": "60,19"
+            }
+          ]
+        },
+        {
+          "numero": "3",
+          "titulo": "9903311392 CITOLOGIA EM MEIO LIQUIDO - BRONQUIO: CITOLOGIA EM MEIO LIQUIDO - BRONQUIO EXCLUSIVO PARA ME/EPP",
+          "fase": "SUSPENSO",
+          "tipo": "UNITÁRIO",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "SIM",
+          "local_entrega": "",
+          "garantia": "",
           "valor_referencia": "62,25",
           "vencedor": "",
           "melhor_oferta": "0,00",
@@ -324201,7 +324995,7 @@
           "itens": [
             {
               "numero": "1",
-              "especificacao": "9903311392 CITOLOGIA EM MEIO LIQUIDO - BRONQUIO:CITOLOGIA EM MEIO LIQUIDO - BRONQUIO.",
+              "especificacao": "CITOLOGIA EM MEIO LIQUIDO - BRONQUIO: CITOLOGIA EM MEIO LIQUIDO - BRONQUIO EXCLUSIVO PARA ME/EPP",
               "unidade": "SERV",
               "quantidade": "100,00",
               "valor_referencia": "62,25"
@@ -324209,15 +325003,15 @@
           ]
         },
         {
-          "numero": "3",
-          "titulo": "9903311373 COLORAÇÃO ESPECIAL",
-          "fase": "HABILITAÇÃO",
+          "numero": "4",
+          "titulo": "9903311373 COLORAÇÃO ESPECIAL:Marcação da biópsia por corantes especiais. EXCLUSIVO PARA ME/EPP",
+          "fase": "SUSPENSO",
           "tipo": "UNITÁRIO",
           "quantidade": "1",
           "intervalo_minimo": "0,00",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
+          "exclusivo_me": "SIM",
+          "local_entrega": "",
+          "garantia": "",
           "valor_referencia": "33,65",
           "vencedor": "",
           "melhor_oferta": "0,00",
@@ -324225,7 +325019,7 @@
           "itens": [
             {
               "numero": "1",
-              "especificacao": "9903311373 COLORAÇÃO ESPECIAL: Marcação da biópsia por corantes especiais.",
+              "especificacao": "9903311373 COLORAÇÃO ESPECIAL:Marcação da biópsia por corantes especiais. EXCLUSIVO PARA ME/EPP",
               "unidade": "SERV",
               "quantidade": "50,00",
               "valor_referencia": "33,65"
@@ -324233,15 +325027,15 @@
           ]
         },
         {
-          "numero": "4",
-          "titulo": "9903311378 CORE BYOPSY",
-          "fase": "HABILITAÇÃO",
+          "numero": "5",
+          "titulo": "9903311378 CORE BYOPSY:CORE BYOPSY. EXCLUSIVO PARA ME/EPP",
+          "fase": "SUSPENSO",
           "tipo": "UNITÁRIO",
           "quantidade": "1",
           "intervalo_minimo": "0,00",
-          "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
+          "exclusivo_me": "SIM",
+          "local_entrega": "",
+          "garantia": "",
           "valor_referencia": "68,46",
           "vencedor": "",
           "melhor_oferta": "0,00",
@@ -324249,7 +325043,7 @@
           "itens": [
             {
               "numero": "1",
-              "especificacao": "9903311378 CORE BYOPSY:CORE BYOPSY.",
+              "especificacao": "9903311378 CORE BYOPSY:CORE BYOPSY. EXCLUSIVO PARA ME/EPP",
               "unidade": "SERV",
               "quantidade": "100,00",
               "valor_referencia": "68,46"
@@ -324257,15 +325051,15 @@
           ]
         },
         {
-          "numero": "5",
-          "titulo": "33437 PEÇA CIRÚRGICA SIMPLES",
-          "fase": "HABILITAÇÃO",
+          "numero": "6",
+          "titulo": "33437 PEÇA CIRÚRGICA SIMPLES:PEÇA CIRÚRGICA SIMPLES",
+          "fase": "SUSPENSO",
           "tipo": "UNITÁRIO",
           "quantidade": "1",
           "intervalo_minimo": "0,00",
           "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
+          "local_entrega": "",
+          "garantia": "",
           "valor_referencia": "75,00",
           "vencedor": "",
           "melhor_oferta": "0,00",
@@ -324275,21 +325069,45 @@
               "numero": "1",
               "especificacao": "33437 PEÇA CIRÚRGICA SIMPLES:PEÇA CIRÚRGICA SIMPLES",
               "unidade": "SERV",
-              "quantidade": "2.500,00",
+              "quantidade": "1.875,00",
               "valor_referencia": "75,00"
             }
           ]
         },
         {
-          "numero": "6",
-          "titulo": "9903311384 PEÇA CIRÚRGICA COMPLEXA",
-          "fase": "HABILITAÇÃO",
+          "numero": "7",
+          "titulo": "9909911236 PEÇA CIRURGICA SIMPLES:PEÇA CIRURGICA SIMPLES. COTA DE 25% RESERVADA PARA ME/EPP",
+          "fase": "SUSPENSO",
+          "tipo": "UNITÁRIO",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "SIM",
+          "local_entrega": "",
+          "garantia": "",
+          "valor_referencia": "75,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9909911236 PEÇA CIRURGICA SIMPLES:PEÇA CIRURGICA SIMPLES. COTA DE 25% RESERVADA PARA ME/EPP",
+              "unidade": "SERV",
+              "quantidade": "625,00",
+              "valor_referencia": "75,00"
+            }
+          ]
+        },
+        {
+          "numero": "8",
+          "titulo": "9903311384 PEÇA CIRÚRGICA COMPLEXA:PEÇA CIRÚRGICA COMPLEXA",
+          "fase": "SUSPENSO",
           "tipo": "UNITÁRIO",
           "quantidade": "1",
           "intervalo_minimo": "0,00",
           "exclusivo_me": "NÃO",
-          "local_entrega": "CONFORME EDITAL",
-          "garantia": "CONFORME EDITAL",
+          "local_entrega": "",
+          "garantia": "",
           "valor_referencia": "243,42",
           "vencedor": "",
           "melhor_oferta": "0,00",
@@ -324299,7 +325117,31 @@
               "numero": "1",
               "especificacao": "9903311384 PEÇA CIRÚRGICA COMPLEXA:PEÇA CIRÚRGICA COMPLEXA",
               "unidade": "UN",
-              "quantidade": "1.500,00",
+              "quantidade": "1.125,00",
+              "valor_referencia": "243,42"
+            }
+          ]
+        },
+        {
+          "numero": "9",
+          "titulo": "9909911237 PEÇA CIRURGICA COMPLEXA:PEÇA CIRURGICA COMPLEXA. COTA DE  25%  RESERVADA PARA ME/EPP.",
+          "fase": "SUSPENSO",
+          "tipo": "UNITÁRIO",
+          "quantidade": "1",
+          "intervalo_minimo": "0,00",
+          "exclusivo_me": "SIM",
+          "local_entrega": "",
+          "garantia": "",
+          "valor_referencia": "243,42",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
+          "total_itens": 1,
+          "itens": [
+            {
+              "numero": "1",
+              "especificacao": "9909911237 PEÇA CIRURGICA COMPLEXA:PEÇA CIRURGICA COMPLEXA. COTA DE 25% RESERVADA PARA ME/EPP.",
+              "unidade": "SERV",
+              "quantidade": "375,00",
               "valor_referencia": "243,42"
             }
           ]
@@ -324311,38 +325153,38 @@
       "promotor": "MUNICIPIO DE TEIXEIRA DE FREITAS",
       "numero_adm": "705/2024",
       "modalidade": "PREGÃO ELETRÔNICO",
-      "situacao": "HOMOLOGADO",
-      "condutor": "MAGDA DE SELES GUIMARÃES",
+      "situacao": "SUSPENSO",
+      "condutor": "VICTOR KINIDEL DETHLING",
       "autoridade": "MARCELO GUSMÃO PONTES BELITARDO",
       "tipo_contrato": "AQUISIÇÃO",
-      "publicacao": "13/06/2024 18:49",
-      "inicio_recepcao": "14/06/2024 08:00",
-      "fim_recepcao": "10/07/2024 13:45",
-      "inicio_disputa": "10/07/2024 14:00",
-      "objeto": "O objeto da presente licitação é a contratação de INSTITUIÇÃO FINANCEIRA ESPECIALIZADA NA PRESTAÇÃO DE SERVIÇOS BANCÁRIOS PARA CENTRALIZAÇÃO, GERENCIAMENTO E PROCESSAMENTO DE CRÉDITOS DA FOLHA DE PAGAMENTO DOS SERVIDORES, a fim de atender as demandas da Secretaria Municipal de Administração, conforme condições, quantidades e especificações no Edital, Termo de Referência e seus Anexos.",
-      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5D7X442H5jdk4KKrmyjnsRHDG95tYzK3KlR177B30B4_NEd%2F4vKF%2FdpzoW68cUVpquu9kSWXr36IsvIL%2F38nBIkmawpw_CQn6Tr6eyjFZQfMA%3D",
+      "publicacao": "15/05/2024 18:26",
+      "inicio_recepcao": "16/05/2024 08:00",
+      "fim_recepcao": "12/06/2024 09:45",
+      "inicio_disputa": "12/06/2024 10:00",
+      "objeto": "Contratação de instituição financeira para prestação de serviços bancários para centralização, gerenciamento e processamento de créditos da folha de pagamento dos servidores, a fim de atender as demandas da Prefeitura de Teixeira de Freitas, conforme condições, quantidades e especificações no Edital, Termo de Referência e seus Anexos.",
+      "link": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5Dplh8PqqouaxjM6XVDum7DiBR6orEbVejPwu5%2FBKoFVVV3CB8AvDGZs4kzT0Yva2sfyx0bMbLZ0SSacFIb38BcNS3UDb6s1VqhTAZXrCtv3M%3D",
       "total_lotes": 1,
       "total_itens": 1,
       "lotes": [
         {
           "numero": "1",
-          "titulo": "SERVIÇOS BANCÁRIOS",
-          "fase": "HOMOLOGADO",
-          "tipo": "GLOBAL",
+          "titulo": "LOTE 01",
+          "fase": "SUSPENSO",
+          "tipo": "UNITÁRIO",
           "quantidade": "1",
-          "intervalo_minimo": "0,01",
+          "intervalo_minimo": "100,00",
           "exclusivo_me": "NÃO",
           "local_entrega": "CONFORME EDITAL",
           "garantia": "CONFORME EDITAL",
           "valor_referencia": "6.052.150,00",
-          "vencedor": "ITAÚ UNIBANCO S.A.",
-          "melhor_oferta": "6.053.000,00",
+          "vencedor": "",
+          "melhor_oferta": "0,00",
           "total_itens": 1,
           "itens": [
             {
               "numero": "1",
               "especificacao": "CONTRATAÇÃO DE INSTITUIÇÃO FINANCEIRA: ESPECIALIZADA NA PRESTAÇÃO DE SERVIÇOS BANCÁRIOS PARA CENTRALIZAÇÃO, GERENCIAMENTO E PROCESSAMENTO DE CRÉDITOS DA FOLHA DE PAGAMENTO DOS SERVIDORES DA PREFEITURA MUNICIPAL DE TEIXEIRA DE FREITAS/BA.",
-              "unidade": "UN",
+              "unidade": "SERVIÇO",
               "quantidade": "1,00",
               "valor_referencia": "6.052.150,00"
             }
